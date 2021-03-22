@@ -1,0 +1,188 @@
+{
+  "title": "Projects",
+  "path": "_projects",
+  "page": 1,
+  "value": [
+    {
+      "path": "_projects/google-tensorflow.md",
+      "excerpt": "An Open Source Machine Learning Framework for Everyone",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/projects/google-tensorflow/index.json",
+      "webUrl": "https://everyday.cc/ai/project/google-tensorflow/",
+      "originalUrl": "https://www.tensorflow.org/",
+      "github": {
+        "url": "https://github.com/tensorflow/tensorflow",
+        "watches": 8593,
+        "stars": 133062,
+        "forks": 76941,
+        "languages": [
+          "C++",
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "Google",
+        "domain": "google.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 901,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "TensorFlow",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_projects/google-tfjs.md",
+      "excerpt": "A WebGL accelerated JavaScript library for training and deploying ML models.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/projects/google-tfjs/index.json",
+      "webUrl": "https://everyday.cc/ai/project/google-tfjs/",
+      "originalUrl": "https://www.tensorflow.org/js/",
+      "github": {
+        "url": "https://github.com/tensorflow/tfjs",
+        "watches": 338,
+        "stars": 12200,
+        "forks": 969,
+        "languages": [
+          "TypeScript",
+          "JavaScript"
+        ]
+      },
+      "provider": {
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 728,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "TensorFlow.js",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_projects/mrgemy95-tensorflow-project-template.md",
+      "excerpt": "A best practice for tensorflow project template architecture.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/projects/mrgemy95-tensorflow-project-template/index.json",
+      "webUrl": "https://everyday.cc/ai/project/mrgemy95-tensorflow-project-template/",
+      "github": {
+        "url": "https://github.com/Mrgemy95/Tensorflow-Project-Template",
+        "watches": 153,
+        "stars": 3200,
+        "forks": 736,
+        "languages": [
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "Mahmoud Gamal"
+      },
+      "heat": 632,
+      "images": [
+        {
+          "url": "https://github.com/Mrgemy95/Tensorflow-Project-Templete/raw/master/figures/diagram.png?raw=true",
+          "width": 519,
+          "height": 431,
+          "title": "Tensorflow-Project-Template",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "name": "Tensorflow-Project-Template",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_projects/distillpub-handwriting.md",
+      "excerpt": "Several interactive visualizations of a generative model of handwriting. Some are fun, some are serious.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/projects/distillpub-handwriting/index.json",
+      "webUrl": "https://everyday.cc/ai/project/distillpub-handwriting/",
+      "github": {
+        "url": "https://github.com/distillpub/post--handwriting",
+        "watches": 15,
+        "stars": 140,
+        "forks": 42,
+        "languages": [
+          "JavaScript"
+        ]
+      },
+      "provider": {
+        "name": "Distill",
+        "domain": "distill.pub",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/distill.pub-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 406,
+      "tags": [
+        "TensorFlow",
+        "TensorFlow.js",
+        "Neural Network"
+      ],
+      "images": [
+        {
+          "url": "https://distill.pub/2016/handwriting/assets/strokes/jpg/003-65-8.jpg",
+          "width": 1800,
+          "height": 470,
+          "title": "Handwriting",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "name": "Four Experiments in Handwriting with a Neural Network",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    }
+  ]
+}

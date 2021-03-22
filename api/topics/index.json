@@ -1,0 +1,31 @@
+---
+layout: none
+---
+{
+    "value": [
+        {%- capture topics %}{% for topic in site.data.topics %}{{ topic[0] }} {% endfor %}{% endcapture -%}
+        {%- assign sorted_topics = topics | split:' ' | sort %}
+        {% for t in sorted_topics -%}
+        {
+            {% assign topic = site.data.topics[t] -%}
+            "name": {{ topic.name | jsonify }},
+            "shortname": {{ topic.shortname | default: topic.name | jsonify }},
+            "id": {{ topic._id | jsonify }},
+            {% if topic.parent -%}
+            "parent": {{ topic.parent | jsonify }},
+            {% endif -%}
+            {% if topic.images -%}
+            "images": {{ topic.images | jsonify }},
+            {% endif -%}
+            "services": [
+                {% for service_hash in topic.services -%}
+                {
+                    "name": {{ service_hash[0] | jsonify }},
+                    "endpoint": {{ service_hash[1] | jsonify }}
+                }{% unless forloop.last -%},{% endunless %}
+                {% endfor %}
+            ]
+        }{% unless forloop.last -%},{% endunless %}
+        {% endfor %}
+    ]
+}

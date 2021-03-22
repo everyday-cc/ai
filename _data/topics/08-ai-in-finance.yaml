@@ -1,0 +1,23 @@
+taxonomy: topic
+_id: ai-in-finance
+name: AI in Finance
+shortname: Finance
+parent: AI
+keywords:
+  - bank
+  - finance
+hashtags:
+  - "#fintech"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-finance.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-finance-2.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-finance-3.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-finance-4.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-finance-5.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-finance-6.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-finance-7.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-finance-8.jpg
+services:
+  news: https://everyday-cc.github.io/ai/api/news/ai-in-finance/
+  companies: https://everyday-cc.github.io/ai/api/companies/ai-in-finance/
+---

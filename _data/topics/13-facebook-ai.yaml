@@ -1,0 +1,17 @@
+taxonomy: topic
+_id: facebook-ai
+name: Facebook AI
+parent: AI
+keywords:
+  - PyTorch
+  - ONNX
+  - PyRobot
+hashtags:
+  - "#facebook"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/facebook-ai.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/facebook-ai-2.jpg
+services:
+  news: https://everyday-cc.github.io/ai/api/news/facebook-ai/
+  learning: https://everyday-cc.github.io/ai/api/learning/facebook-ai/
+  projects: https://everyday-cc.github.io/ai/api/projects/facebook-ai/

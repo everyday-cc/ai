@@ -1,0 +1,21 @@
+taxonomy: topic
+_id: ai-in-robotics
+name: AI in Robotics
+shortname: Robotics
+parent: AI
+keywords:
+  - robotics
+  - robot
+  - PyRobot
+hashtags:
+  - "#robotics"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-robotics.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-robotics-2.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-robotics-3.jpg
+services:
+  news: https://everyday-cc.github.io/ai/api/news/ai-in-robotics/
+  learning: https://everyday-cc.github.io/ai/api/learning/ai-in-robotics/
+  projects: https://everyday-cc.github.io/ai/api/projects/ai-in-robotics/
+  people: https://everyday-cc.github.io/ai/api/people/ai-in-robotics/
+  companies: https://everyday-cc.github.io/ai/api/companies/ai-in-robotics/

@@ -1,0 +1,633 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/videos/youtube-techcrunch-a-ride-in-a-waymo-driverless-car.md",
+      "title": "A ride in a Waymo driverless car",
+      "excerpt": "TechCrunch contributor Ed Niedemeyer gets a ride in Waymo's driverless Chrysler Pacifica minivan in the Phoenix suburb of Chandler. The company is starting to match members of its early rider program with driverless rides as it starts scaling up its robotaxi service.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/youtube-techcrunch-a-ride-in-a-waymo-driverless-car/index.json",
+      "webUrl": "https://www.youtube.com/watch?v=2hqTnmn51Fg",
+      "provider": {
+        "name": "YouTube",
+        "domain": "youtube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/youtube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "TechCrunch",
+            "domain": "techcrunch.com"
+          }
+        ]
+      },
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2hqTnmn51Fg/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCSBjg0QVu8Z7py9rwO64Sm4lHz_g",
+          "width": 336,
+          "height": 188,
+          "title": "A ride in a Waymo driverless car",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-self-driving-cars-the-future-of-autonomous-vehicles-transportation-google-waymo-simplilearn.md",
+      "title": "Self Driving Cars - The Future Of Autonomous Vehicles & Transportation | Google Waymo | Simplilearn",
+      "excerpt": "Self Driving Cars are taking technology to the next level. In this video, we will see how Google successfully launched Waymo. We will also see the drawbacks of non-automated cars and how self-driving cars are advantageous.  We will also see how these cars will change the future. Let's get started and",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-self-driving-cars-the-future-of-autonomous-vehicles-transportation-google-waymo-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-self-driving-cars-the-future-of-autonomous-vehicles-transportation-google-waymo-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=ZXp5PS07ni0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZXp5PS07ni0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M2S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-11-29T04:29:58-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZXp5PS07ni0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/answers/what-is-deepracer.md",
+      "title": "What is DeepRacer?",
+      "excerpt": "AWS DeepRacer is an integrated learning system for users of all levels to learn and explore reinforcement learning and to experiment and build autonomous driving applications. It consists of an AWS Machine Learning service, AWS DeepRacer 1/18th scale RC vehicles, and DeepRacer League for paticipants to compete.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/answers/what-is-deepracer/index.json",
+      "webUrl": "https://aws.amazon.com/deepracer/",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/DtG-JyRUcAAuYkR.jpg",
+          "width": 726,
+          "height": 555,
+          "title": "What is DeepRacer?",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "answer",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-autonomy-the-quest-to-build-the-driverless-carand-how-it-will-reshape-our-world.md",
+      "title": "Autonomy: The Quest to Build the Driverless Car―And How It Will Reshape Our World",
+      "excerpt": "An automotive and tech world insider investigates the quest to develop and perfect the driverless car—an innovation that promises to be the most disruptive change to our way of life since the smartphone",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-autonomy-the-quest-to-build-the-driverless-carand-how-it-will-reshape-our-world/index.json",
+      "webUrl": "https://www.amazon.com/Autonomy-Quest-Driverless-Car-Reshape/dp/0062661124/",
+      "ratings": {
+        "count": 67,
+        "average": 4.1
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Lawrence D Burns",
+            "type": "profile",
+            "name": "Lawrence D Burns"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/51v59nEibuL._AC_UY218_ML3_.jpg",
+          "width": 147,
+          "height": 218,
+          "title": "Autonomy: The Quest to Build the Driverless Car―And How It Will Reshape Our World",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$13.98",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-driverless-intelligent-cars-and-the-road-ahead-the-mit-press.md",
+      "title": "Driverless: Intelligent Cars and the Road Ahead (The MIT Press)",
+      "excerpt": "In the coming decade, intelligent cars and trucks will hit the streets, rearranging established industries, enabling new business models, saving lives, easing air pollution, and reshaping cities. Long-suffering commuters will finally be able to live wherever they wish, and read (or nap) on their drive to work. The bad news is that hundreds of thousands of driving-related jobs are at risk, our legal system will need to be re-drawn, and passenger privacy could become a luxury of the past.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-driverless-intelligent-cars-and-the-road-ahead-the-mit-press/index.json",
+      "webUrl": "https://www.amazon.com/Driverless-Intelligent-Cars-Ahead-Press-ebook/dp/B01K13FURS/",
+      "ratings": {
+        "count": 25,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Hod Lipson",
+            "type": "profile",
+            "name": "Hod Lipson"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/816td2bsbaL._AC_UY218_ML3_.jpg",
+          "width": 148,
+          "height": 218,
+          "title": "Driverless: Intelligent Cars and the Road Ahead (The MIT Press)",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$9.99",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-the-driver-in-the-driverless-car-how-your-technology-choices-create-the-future.md",
+      "title": "The Driver in the Driverless Car: How Your Technology Choices Create the Future",
+      "excerpt": "Tech experts Vivek Wadhwa and Alex Salkever describe dozens of astonishing technological advances in this fascinating and thought-provoking book, which asks what kind of future lies ahead—Star Trek or Mad Max?",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/books/amazon-the-driver-in-the-driverless-car-how-your-technology-choices-create-the-future/index.json",
+      "webUrl": "https://www.amazon.com/Driver-Driverless-Car-Technology-Choices-ebook/dp/B07PM8QWP9/",
+      "ratings": {
+        "count": 47,
+        "average": 4.2
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Vivek Wadhwa",
+            "type": "profile",
+            "name": "Vivek Wadhwa"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/71V1qmWUoFL._AC_UY218_ML3_.jpg",
+          "width": 141,
+          "height": 218,
+          "title": "The Driver in the Driverless Car: How Your Technology Choices Create the Future",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$11.99",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-introduction-to-self-driving-cars.md",
+      "title": "Introduction to Self-Driving Cars",
+      "excerpt": "Learn Introduction to Self-Driving Cars from University of Toronto. Welcome to Introduction to Self-Driving Cars, the first course in University of Toronto’s Self-Driving Cars Specialization.   This course will introduce you to the terminology, ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-introduction-to-self-driving-cars/index.json",
+      "webUrl": "https://www.coursera.org/learn/intro-self-driving-cars",
+      "length": "26 hours",
+      "ratings": {
+        "count": 525,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Toronto"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/21/a6dc70145511e99e7a6de68fdc7932/Course1.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Introduction to Self-Driving Cars",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-motion-planning-for-self-driving-cars.md",
+      "title": "Motion Planning for Self-Driving Cars",
+      "excerpt": "Learn Motion Planning for Self-Driving Cars from University of Toronto. Welcome to Motion Planning for Self-Driving Cars, the fourth course in University of Toronto’s Self-Driving Cars Specialization.  This course will introduce you to the main ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-motion-planning-for-self-driving-cars/index.json",
+      "webUrl": "https://www.coursera.org/learn/motion-planning-self-driving-cars",
+      "length": "17 hours",
+      "ratings": {
+        "count": 78,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Toronto"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/1b/fc03a0145411e9860be9c5eecc80b7/Course4.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Motion Planning for Self-Driving Cars",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-state-estimation-and-localization-for-self-driving-cars.md",
+      "title": "State Estimation and Localization for Self-Driving Cars",
+      "excerpt": "Learn State Estimation and Localization for Self-Driving Cars from University of Toronto. Welcome to State Estimation and Localization for Self-Driving Cars, the second course in University of Toronto’s Self-Driving Cars Specialization. We ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-state-estimation-and-localization-for-self-driving-cars/index.json",
+      "webUrl": "https://www.coursera.org/learn/state-estimation-localization-self-driving-cars",
+      "length": "24 hours",
+      "ratings": {
+        "count": 190,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Toronto"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/46/f68ed0145511e9af5373d793509056/Course2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "State Estimation and Localization for Self-Driving Cars",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-visual-perception-for-self-driving-cars.md",
+      "title": "Visual Perception for Self-Driving Cars",
+      "excerpt": "Learn Visual Perception for Self-Driving Cars from University of Toronto. Welcome to Visual Perception for Self-Driving Cars, the third course in University of Toronto’s Self-Driving Cars Specialization.  This course will introduce you to the ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-visual-perception-for-self-driving-cars/index.json",
+      "webUrl": "https://www.coursera.org/learn/visual-perception-self-driving-cars",
+      "length": "20 hours",
+      "ratings": {
+        "count": 118,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Toronto"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5e/55d590145511e99e65b5a6b6fb8568/Course3.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Visual Perception for Self-Driving Cars",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/courses/mit-deep-learning-for-self-driving-cars.md",
+      "title": "MIT 6.S094: Deep Learning for Self-Driving Cars",
+      "excerpt": "This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car. It is open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/mit-deep-learning-for-self-driving-cars/index.json",
+      "webUrl": "https://selfdrivingcars.mit.edu/",
+      "length": "2 weeks",
+      "provider": {
+        "name": "MIT",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi_webp/O5xeyoRL95U/hqdefault.webp",
+          "width": 480,
+          "height": 360,
+          "title": "MIT 6.S094: Deep Learning for Self-Driving Cars",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/udacity-artificial-intelligence-for-robotics.md",
+      "title": "Artificial Intelligence for Robotics",
+      "excerpt": "Learn how to program all the major systems of a robotic car. Topics include planning, search, localization, tracking, and control.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/udacity-artificial-intelligence-for-robotics/index.json",
+      "webUrl": "https://classroom.udacity.com/courses/cs373",
+      "length": "2 Months",
+      "provider": {
+        "name": "Udacity",
+        "domain": "udacity.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/udacity.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Sebastian Thrun",
+            "type": "profile",
+            "name": "Sebastian Thrun"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/cs373_thumbnail.jpg",
+          "width": 436,
+          "height": 268,
+          "title": "Artificial Intelligence for Robotics",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/videos/vimeo-web-summit-freights-new-autonomous-journey.md",
+      "title": "Freight’s new autonomous journey",
+      "excerpt": "Are self-driving trucks on their way? In this keynote, Xiaodi Hou - President and CTO of TuSimple - is going to show us what the future of large scale logistics looks like.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/vimeo-web-summit-freights-new-autonomous-journey/index.json",
+      "webUrl": "https://vimeo.com/371374786",
+      "provider": {
+        "name": "Vimeo",
+        "domain": "vimeo.com",
+        "publishers": [
+          {
+            "path": "",
+            "name": "Web Summit",
+            "domain": "websummit.com"
+          }
+        ]
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.vimeocdn.com/video/828865803_590x332.webp",
+          "width": 590,
+          "height": 332,
+          "title": "Freight’s new autonomous journey",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/videos/youtube-ted-chris-urmson-how-a-driverless-car-sees-the-road.md",
+      "title": "Chris Urmson: How a driverless car sees the road",
+      "excerpt": "Statistically, the least reliable part of the car is ... the driver. Chris Urmson heads up Google's driverless car program, one of several efforts to remove humans from the driver's seat. He talks about where his program is right now, and shares fascinating footage that shows how the car sees the road and makes autonomous decisions about what to do next.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/youtube-ted-chris-urmson-how-a-driverless-car-sees-the-road/index.json",
+      "webUrl": "https://www.youtube.com/watch?v=tiwVMrTLUWg",
+      "provider": {
+        "name": "YouTube",
+        "domain": "youtube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/youtube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "TED",
+            "domain": "ted.com"
+          }
+        ]
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tiwVMrTLUWg/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCPu_URVLJU3qPXcxJy5H9biVCukA",
+          "width": 336,
+          "height": 188,
+          "title": "Chris Urmson: How a driverless car sees the road",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    }
+  ]
+}

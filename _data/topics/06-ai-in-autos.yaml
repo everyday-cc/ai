@@ -1,0 +1,22 @@
+taxonomy: topic
+_id: ai-in-autos
+name: AI in Autos
+shortname: Autos
+parent: AI
+keywords:
+  - driverless
+  - self driving
+  - waymo
+  - tesla
+  - deepracer
+hashtags:
+  - "#Autos"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-autos.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-autos-2.jpg
+services:
+  news: https://everyday-cc.github.io/ai/api/news/ai-in-autos/
+  learning: https://everyday-cc.github.io/ai/api/learning/ai-in-autos/
+  people: https://everyday-cc.github.io/ai/api/people/ai-in-autos/
+  companies: https://everyday-cc.github.io/ai/api/companies/ai-in-autos/
+  projects: https://everyday-cc.github.io/ai/api/projects/ai-in-autos/

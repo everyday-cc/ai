@@ -1,0 +1,20 @@
+taxonomy: topic
+_id: ai
+name: AI
+keywords:
+  - artificial intelligence
+  - ai
+hashtags:
+  - "#artificialintelligence"
+  - "#AI"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-2.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-3.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-4.jpg
+services:
+  news: https://everyday-cc.github.io/ai/api/news/
+  learning: https://everyday-cc.github.io/ai/api/learning/
+  projects: https://everyday-cc.github.io/ai/api/projects/
+  people: https://everyday-cc.github.io/ai/api/people/
+  companies: https://everyday-cc.github.io/ai/api/companies/

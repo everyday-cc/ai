@@ -1,0 +1,15 @@
+taxonomy: topic
+_id: tensorflow
+name: TensorFlow
+parent: Google AI
+keywords:
+  - tensorflow
+hashtags:
+  - "#tensorflow"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/tensorflow.jpg
+services:
+  news: https://everyday-cc.github.io/ai/api/news/tensorflow/
+  learning: https://everyday-cc.github.io/ai/api/learning/tensorflow/
+  people: https://everyday-cc.github.io/ai/api/people/tensorflow/
+  projects: https://everyday-cc.github.io/ai/api/projects/tensorflow/

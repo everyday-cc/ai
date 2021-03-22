@@ -1,0 +1,19 @@
+taxonomy: topic
+_id: ai-in-healthcare
+name: AI in Healthcare
+shortname: Healthcare
+parent: AI
+keywords:
+  - healthcare
+  - therapy
+hashtags:
+  - "#healthcare"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-healthcare.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-healthcare-2.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-healthcare-3.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-healthcare-4.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-healthcare-5.jpg
+services:
+  news: https://everyday-cc.github.io/ai/api/news/ai-in-healthcare/
+  companies: https://everyday-cc.github.io/ai/api/companies/ai-in-healthcare/

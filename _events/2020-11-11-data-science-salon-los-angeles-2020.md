@@ -1,0 +1,26 @@
+---
+name: "Data Science Salon Los Angeles  2020"
+excerpt: "Machine Learning and Artificial Intelligence Conference in Media and Entertainment The data science salon is a unique vertical focused conference which brings together specialists face-to-face to educate each other, illuminate best practices and innovate new solutions in a casual atmosphere with food, great coffee and entertainment. Data Science Salon Los Angeles is the only vertically-focused industry conference series around applications in AI and Machine Learning in Media and Entertainment."
+originalUrl: https://www.datascience.salon/la/
+website: https://www.datascience.salon/la/
+type: conference
+startDateTime: 2020-11-11T09:00:00Z
+endDateTime: 2020-11-11T17:00:00Z
+location: "Los Angeles, CA"
+
+provider:
+  name: Data Science Salon
+  domain: datascience.salon
+
+topics:
+  - AI
+  - Machine Learning
+
+images:
+  - url: https://www.datascience.salon/wp-content/uploads/2019/05/data-science-salon-los-angeles.jpg
+    width: 1024
+    height: 512
+    isCached: true
+
+---
+

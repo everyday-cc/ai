@@ -1,0 +1,36 @@
+---
+type: profile
+
+# Fill out as much as you can
+name: ""
+bio: ""
+location: 
+
+
+affiliation:
+  name: 
+  domain: 
+
+website: 
+
+twitter:
+  username: 
+  
+linkedin:
+  url: 
+
+wikipedia:
+  url:
+
+googleScholar:
+  url: 
+  
+topics:
+  - AI
+  
+images:
+  - url: 
+    width: 400
+    height: 400
+
+---

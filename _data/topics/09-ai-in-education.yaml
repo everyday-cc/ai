@@ -1,0 +1,14 @@
+taxonomy: topic
+_id: ai-in-education
+name: AI in Education
+shortname: Education
+parent: AI
+keywords:
+  - education
+hashtags:
+  - "#education"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-education.jpg
+services:
+  companies: https://everyday-cc.github.io/ai/api/companies/ai-in-education/
+---

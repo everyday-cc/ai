@@ -1,0 +1,26 @@
+taxonomy: topic
+_id: natural-language-processing
+name: Natural Language Processing
+shortname: NLP
+parent: AI
+description: Enables programs to “understand” written or spoken language
+keywords:
+  - natural language processing
+  - nlp
+  - speech recognition
+  - machine translation
+  - textract
+  - transcribe
+  - translate
+  - polly
+  - amazon comprehend
+hashtags:
+  - "#NLP"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/natural-language-processing.jpg
+services:
+  news: https://everyday-cc.github.io/ai/api/news/natural-language-processing/
+  learning: https://everyday-cc.github.io/ai/api/learning/natural-language-processing/
+  projects: https://everyday-cc.github.io/ai/api/projects/natural-language-processing/
+  people: https://everyday-cc.github.io/ai/api/people/natural-language-processing/
+  companies: https://everyday-cc.github.io/ai/api/companies/natural-language-processing/

@@ -1,0 +1,1524 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 19,
+  "value": [
+    {
+      "path": "_learning/courses/pluralsight-building-neural-networks-with-scikit-learn.md",
+      "title": "Building Neural Networks with scikit-learn",
+      "excerpt": "This course covers all the important aspects of support currently available in scikit-learn for the construction and training of neural networks, including the perceptron, MLPClassifier, and MLPRegressor, as well as Restricted Boltzmann Machines. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-neural-networks-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-neural-networks-scikit-learn",
+      "length": "1h 55m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-neural-networks-scikit-learn-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Neural Networks with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-regression-models-with-scikit-learn.md",
+      "title": "Building Regression Models with scikit-learn",
+      "excerpt": "This course covers important techniques such as ordinary least squares regression, moving on to lasso, ridge, and Elastic Net, and advanced techniques such as Support Vector Regression and Stochastic Gradient Descent Regression.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-regression-models-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-regression-models-scikit-learn",
+      "length": "2h 42m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-regression-models-scikit-learn-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Regression Models with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-sentiment-analysis-systems-in-python.md",
+      "title": "Building Sentiment Analysis Systems in Python",
+      "excerpt": "Sentiment Analysis has become increasingly important as more opinions are expressed online, in unstructured form. This course covers rule-based and ML-based approaches to extracting sentiment from opinions, including VADER, Sentiwordnet, and more.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-sentiment-analysis-systems-in-python/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-sentiment-analysis-systems-python",
+      "length": "2h 31m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Vitthal Srinivasan",
+            "type": "profile",
+            "name": "Vitthal Srinivasan"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-sentiment-analysis-systems-python-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Sentiment Analysis Systems in Python",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-your-first-machine-learning-solution.md",
+      "title": "Building Your First Machine Learning Solution",
+      "excerpt": "Machine learning is exciting, yet, it may sound more complicated than it is actually is. This course empowers you with the necessary theory and practice to become confident about how machine learning works by building a hands-on solution.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-machine-learning-solution/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-machine-learning-solution",
+      "length": "2h 41m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mohammed Osman",
+            "type": "profile",
+            "name": "Mohammed Osman"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-machine-learning-solution-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Your First Machine Learning Solution",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-your-first-pytorch-solution.md",
+      "title": "Building Your First PyTorch Solution",
+      "excerpt": "This course covers the important practical aspects of installing PyTorch from scratch on a variety of different platforms and getting going with classification and regression models. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-pytorch-solution/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-your-first-pytorch-solution",
+      "length": "2h 24m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-your-first-pytorch-solution-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Your First PyTorch Solution",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-your-first-scikit-learn-solution.md",
+      "title": "Building Your First scikit-learn Solution",
+      "excerpt": "This course covers both the why and how of using scikit-learn. You'll delve into scikit-learn’s niche in the ever-growing taxonomy of machine learning libraries, and important aspects of working with scikit-learn estimators and pipelines.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-your-first-scikit-learn-solution/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-first-scikit-learn-solution",
+      "length": "2h 7m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-first-scikit-learn-solution-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Your First scikit-learn Solution",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-combining-and-shaping-data.md",
+      "title": "Combining and Shaping Data",
+      "excerpt": "This course covers both conceptual and practical aspects of pulling together from different data sources, with different schemas and orientations, into a cohesive whole using Excel, Python, and various tools available on the Azure cloud platform.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-combining-and-shaping-data/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/combining-shaping-data",
+      "length": "3h 28m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/combining-shaping-data-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Combining and Shaping Data",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-creating-machine-learning-models.md",
+      "title": "Creating Machine Learning Models",
+      "excerpt": "This course covers the important types of machine learning algorithms, solution techniques based on the specifics of the problem you are trying to solve, as well as the classic machine learning workflow. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-creating-machine-learning-models/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/creating-machine-learning-models",
+      "length": "2h 43m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/creating-machine-learning-models-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Creating Machine Learning Models",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-creating-voice-and-chatbots-that-work-everywhere.md",
+      "title": "Creating Voice and Chatbots That Work Everywhere",
+      "excerpt": "With all the options out there, creating a voice and chatbot today can be a daunting decision. In this course, you'll take the stress out of figuring it all out by learning how to build a cross-channel conversational bot that works everywhere.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-creating-voice-and-chatbots-that-work-everywhere/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/creating-voice-chatbots-work-everywhere",
+      "length": "2h 26m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Walter Quesada",
+            "type": "profile",
+            "name": "Walter Quesada"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "Chatbot"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/audience/software-development.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Creating Voice and Chatbots That Work Everywhere",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-deep-learning-instances-and-frameworks-on-aws.md",
+      "title": "Deep Learning Instances and Frameworks on AWS",
+      "excerpt": "Deep learning enables a new level of data analysis, but configuring custom compute resources to gain these insights can be extremely difficult. In this course, Deep Learning Instances and Frameworks on AWS, you will gain the ability to launch deep learning instances on EC2 and ECS. First, you will learn the types of Deep Learning AMIs provided by AWS. Next, you will analyze how to leverage popular deep learning frameworks on these instances. Finally, you will review how to manage and scale your deep learning activities on these instances. When you are finished with this course, you will be able to launch and utilize custom deep learning instances and leverage popular deep learning frameworks.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-deep-learning-instances-and-frameworks-on-aws/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-ami-deep-learning-instances-frameworks",
+      "length": "1h 23m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "David Tucker",
+            "type": "profile",
+            "name": "David Tucker"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-ami-deep-learning-instances-frameworks-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Deep Learning Instances and Frameworks on AWS",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-deploying-pytorch-models-in-production-pytorch-playbook.md",
+      "title": "Deploying PyTorch Models in Production: PyTorch Playbook",
+      "excerpt": "This course covers the important aspects of performing distributed training of PyTorch models, using the multiprocessing, data-parallel, and distributed data-parallel approaches. It also discusses which you can host PyTorch models for prediction.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-deploying-pytorch-models-in-production-pytorch-playbook/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/deploying-pytorch-models",
+      "length": "2h 13m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/deploying-pytorch-models-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Deploying PyTorch Models in Production: PyTorch Playbook",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-designing-and-implementing-solutions-using-google-cloud-automl.md",
+      "title": "Designing and Implementing Solutions Using Google Cloud AutoML",
+      "excerpt": "Google Cloud AI offers a wide range of machine learning services. AutoML features cutting-edge technology which uses your training data to find the best model for your use case. In this course, you'll learn to build a custom machine learning model.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-designing-and-implementing-solutions-using-google-cloud-automl/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/google-cloud-automl-designing-implementing-solutions",
+      "length": "1h 41m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/google-cloud-automl-designing-implementing-solutions-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Designing and Implementing Solutions Using Google Cloud AutoML",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-designing-and-implementing-solutions-using-google-machine-learning-apis.md",
+      "title": "Designing and Implementing Solutions Using Google Machine Learning APIs",
+      "excerpt": "Most organizations wish to harness the power of machine learning (ML) to improve their products, but they may not always have the expertise available in-house. This course shows you how to harness the power of ML for use cases using API calls.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-designing-and-implementing-solutions-using-google-machine-learning-apis/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/google-machine-learning-apis-designing-implementing-solutions",
+      "length": "1h 37m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/google-machine-learning-apis-designing-implementing-solutions-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Designing and Implementing Solutions Using Google Machine Learning APIs",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-developing-applications-with-aws-rekognition.md",
+      "title": "Developing Applications with AWS Rekognition",
+      "excerpt": "AWS Rekognition provides powerful services for image and video processing. This course, Developing Applications with AWS Rekognition, will demonstrate how these features can be applied to your applications. First, you will cover topics like biometric access based on facial recognition and detection of unsafe content. Next, you will learn how to implement person tracking in security videos and metadata discovery for social media applications. Finally, you will see how other AWS services, like EC2 and Lambda, can work together with Rekognition to build complete applications. When you're finished with this course, you will be ready to use all of the features of Rekognition for image and video processing.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-developing-applications-with-aws-rekognition/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-rekognition-developing-applications",
+      "length": "1h 27m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Alan Jones",
+            "type": "profile",
+            "name": "Alan Jones"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-rekognition-developing-applications-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Developing Applications with AWS Rekognition",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-doing-data-science-with-python.md",
+      "title": "Doing Data Science with Python",
+      "excerpt": "This course shows you how to work on an end-to-end data science project including processing data, building &amp; evaluating machine learning model, and exposing the model as an API in a standardized approach using various Python libraries.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-doing-data-science-with-python/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/python-data-science",
+      "length": "6h 25m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Abhishek Kumar",
+            "type": "profile",
+            "name": "Abhishek Kumar"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/audience/data-professional.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Doing Data Science with Python",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-employing-ensemble-methods-with-scikit-learn.md",
+      "title": "Employing Ensemble Methods with scikit-learn",
+      "excerpt": "This course covers the theoretical and practical aspects of building ensemble learning solutions in scikit-learn; from random forests built using bagging and pasting to adaptive and gradient boosting and model stacking and hyperparameter tuning. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-employing-ensemble-methods-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/employing-ensemble-methods-scikit-learn",
+      "length": "2h 14m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/employing-ensemble-methods-scikit-learn-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Employing Ensemble Methods with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-expediting-deep-learning-with-transfer-learning-pytorch-playbook.md",
+      "title": "Expediting Deep Learning with Transfer Learning: PyTorch Playbook",
+      "excerpt": "This course covers the important design choices that a data professional must make while leveraging pre-trained models using Transfer Learning. It also covers the implementation aspects of different Transfer Learning approaches in PyTorch. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-expediting-deep-learning-with-transfer-learning-pytorch-playbook/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/expediting-deep-learning-transfer-pytorch-playbook",
+      "length": "1h 46m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/expediting-deep-learning-transfer-pytorch-playbook-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Expediting Deep Learning with Transfer Learning: PyTorch Playbook",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-extracting-meaning-from-natural-language-with-the-language-understanding-service-luis-on-microsoft-azure.md",
+      "title": "Extracting Meaning from Natural Language with the Language Understanding Service (LUIS) on Microsoft Azure",
+      "excerpt": "Extracting Meaning from Natural Language with LUIS will allow you to build apps and bots that are capable to understanding natural human language and being able to act on those commands.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-extracting-meaning-from-natural-language-with-the-language-understanding-service-luis-on-microsoft-azure/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/microsoft-azure-luis-extracting-meaning-natural-language",
+      "length": "42m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Eduardo Freitas",
+            "type": "profile",
+            "name": "Eduardo Freitas"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/audience/generic.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Extracting Meaning from Natural Language with the Language Understanding Service (LUIS) on Microsoft Azure",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-foundations-of-pytorch.md",
+      "title": "Foundations of PyTorch",
+      "excerpt": "This course covers many aspects of building deep learning models in PyTorch, including neurons and neural networks, and how PyTorch uses differential calculus to train such models and create dynamic computation graphs in deep learning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-foundations-of-pytorch/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/foundations-pytorch",
+      "length": "2h 51m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/foundations-pytorch-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Foundations of PyTorch",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-get-answers-in-context-with-semantic-search-in-microsoft-365-devintersection-2019.md",
+      "title": "Get Answers in Context with Semantic Search in Microsoft 365: DEVintersection 2019",
+      "excerpt": "DEVintersection 2019 | Get Answers in Context with Semantic Search in Microsoft 365 | Bill Baer",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-get-answers-in-context-with-semantic-search-in-microsoft-365-devintersection-2019/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/devintersection-azureai-session-22",
+      "length": "48m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "DEVintersection",
+            "type": "profile",
+            "name": "DEVintersection"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/devintersection-azureai-session-22-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Get Answers in Context with Semantic Search in Microsoft 365: DEVintersection 2019",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-getting-started-with-amazon-lex.md",
+      "title": "Getting Started with Amazon Lex",
+      "excerpt": "The creation of an interactive and intelligent application is helped by the use of automatic speech recognition (ASR) and natural language understanding (NLU). In Getting Started with Amazon Lex, you will be introduced to the skills required to leverage Amazon Lex to build these user interactions for the applications you create. First, you will learn how to define the intents that the ChatBot will fulfill for the user. Next, you will explore how to create the slots that will gather the required information from your user. Finally, you will discover how to implement Lambda functions that process the information gathered by your ChatBot to complete the desire of your users. When you are finished with this course, you will be prepared to create simple informational bots using Amazon Lex.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-getting-started-with-amazon-lex/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/getting-started-amazon-lex",
+      "length": "1h 57m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mike Erickson",
+            "type": "profile",
+            "name": "Mike Erickson"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/audience/software-development.jpg",
+          "width": 1280,
+          "height": 721,
+          "title": "Getting Started with Amazon Lex",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-getting-started-with-natural-language-processing-with-python.md",
+      "title": "Getting Started with Natural Language Processing with Python",
+      "excerpt": "This course is all about taking raw text data and deriving insights and value from it--processing text data using standard techniques in Natural Language Processing and Machine Learning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-getting-started-with-natural-language-processing-with-python/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/python-natural-language-processing",
+      "length": "1h 43m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Swetha Kolalapudi",
+            "type": "profile",
+            "name": "Swetha Kolalapudi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/python-natural-language-processing-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Getting Started with Natural Language Processing with Python",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-getting-started-with-nlp-deep-learning-using-pytorch-and-fastai.md",
+      "title": "Getting Started with NLP Deep Learning Using PyTorch and fastai",
+      "excerpt": "This course will teach you how to start using fastai library and PyTorch to obtain near-state-of-the-art results with Deep Learning NLP for text classification. It will give you a theoretical background and show how to take models to production.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-getting-started-with-nlp-deep-learning-using-pytorch-and-fastai/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/getting-started-nlp-deep-learning-pytorch-fastai",
+      "length": "2h 13m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Gianni Rosa Gallina",
+            "type": "profile",
+            "name": "Gianni Rosa Gallina"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/getting-started-nlp-deep-learning-pytorch-fastai-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Getting Started with NLP Deep Learning Using PyTorch and fastai",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-image-classification-with-pytorch.md",
+      "title": "Image Classification with PyTorch",
+      "excerpt": "This course covers the parts of building enterprise-grade image classification systems like image pre-processing, picking between CNNs and DNNs, calculating output dimensions of CNNs, and leveraging pre-trained models using PyTorch transfer learning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-image-classification-with-pytorch/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/image-classification-pytorch",
+      "length": "3h 4m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/image-classification-pytorch-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Image Classification with PyTorch",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-language-modeling-with-recurrent-neural-networks-in-tensorflow.md",
+      "title": "Language Modeling with Recurrent Neural Networks in TensorFlow",
+      "excerpt": "If you are working with text data using neural networks, RNNs are a natural choice for sequences. This course works through language modeling problems using RNNS - optical character recognition or OCR and generating text using character prediction.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-language-modeling-with-recurrent-neural-networks-in-tensorflow/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/tensorflow-language-modeling-recurrent-neural-networks",
+      "length": "2h 35m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/tensorflow-language-modeling-recurrent-neural-networks-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Language Modeling with Recurrent Neural Networks in TensorFlow",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-machine-learning-with-xgboost-using-scikit-learn-in-python.md",
+      "title": "Machine Learning with XGBoost Using scikit-learn in Python",
+      "excerpt": "XGBoost is the most winning supervised machine learning approach in competitive modeling on structured datasets. This course will teach you the basics of XGBoost, including basic syntax, functions, and implementing the model in the real world. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-machine-learning-with-xgboost-using-scikit-learn-in-python/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/xgboost-python-scikit-learn-machine-learning",
+      "length": "1h 33m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mike West",
+            "type": "profile",
+            "name": "Mike West"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/xgboost-python-scikit-learn-machine-learning-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Machine Learning with XGBoost Using scikit-learn in Python",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-microsoft-azure-cognitive-services-bing-spell-check-api.md",
+      "title": "Microsoft Azure Cognitive Services: Bing Spell Check API",
+      "excerpt": "Real time spelling and grammar correction that works across multiple languages can make your app stand out.  Bing Spell Check uses advanced machine learning to perform context-aware spell checking.  Find out how to use it in this course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-microsoft-azure-cognitive-services-bing-spell-check-api/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/microsoft-azure-cognitive-services-bing-spell-check-api",
+      "length": "1h 10m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "James Millar",
+            "type": "profile",
+            "name": "James Millar"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/microsoft-azure-cognitive-services-bing-spell-check-api-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Microsoft Azure Cognitive Services: Bing Spell Check API",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-microsoft-azure-cognitive-services-qna-maker.md",
+      "title": "Microsoft Azure Cognitive Services: QnA Maker",
+      "excerpt": "Use QnA Maker and Azure Bot Service to create an FAQ chat bot that can answer questions using a natural language format. Deploy your bot to the web or other service like Slack, email, and text message. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-microsoft-azure-cognitive-services-qna-maker/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/microsoft-azure-cognitive-services-qna-maker",
+      "length": "36m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Jesse Dietrichson",
+            "type": "profile",
+            "name": "Jesse Dietrichson"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/microsoft-azure-cognitive-services-qna-maker-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Microsoft Azure Cognitive Services: QnA Maker",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-model-evaluation-and-selection-using-scikit-learn.md",
+      "title": "Model Evaluation and Selection Using scikit-learn",
+      "excerpt": "Review the techniques and metrics used to evaluate how well your machine learning model performs. You will also learn methods to select the best machine learning model from a set of models that you've built.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-model-evaluation-and-selection-using-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/model-evaluation-selection-scikit-learn",
+      "length": "1h 17m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Pluralsight",
+            "type": "profile",
+            "name": "Pluralsight"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/model-evaluation-selection-scikit-learn-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Model Evaluation and Selection Using scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-natural-language-processing-with-pytorch.md",
+      "title": "Natural Language Processing with PyTorch",
+      "excerpt": "This course covers the use of advanced neural network constructs and architectures, such as recurrent neural networks, word embeddings, and bidirectional RNNs, to solve complex word and language modeling problems using PyTorch. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-natural-language-processing-with-pytorch/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/natural-language-processing-pytorch",
+      "length": "2h 58m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/natural-language-processing-pytorch-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Natural Language Processing with PyTorch",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    }
+  ],
+  "nextPage": 20
+}

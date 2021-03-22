@@ -1,0 +1,15 @@
+taxonomy: topic
+_id: ibm-ai
+name: IBM AI
+parent: AI
+keywords:
+  - Watson
+hashtags:
+  - "#ibm"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/ibm-ai.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ibm-ai-2.jpg
+services:
+  news: https://everyday-cc.github.io/ai/api/news/ibm-ai/
+  learning: https://everyday-cc.github.io/ai/api/learning/ibm-ai/
+  projects: https://everyday-cc.github.io/ai/api/projects/ibm-ai/

@@ -1,0 +1,284 @@
+{
+  "title": "People",
+  "path": "_people",
+  "page": 1,
+  "value": [
+    {
+      "path": "_people/elon-musk.md",
+      "title": "Elon Musk",
+      "excerpt": "Elon Musk is the co-founder and CEO at Tesla, overseeing all product design, engineering and manufacturing of the company's electric vehicles, battery products, and Solar Roofs.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/elon-musk/index.json",
+      "webUrl": "https://everyday.cc/ai/people/elon-musk/",
+      "type": "profile",
+      "name": "Elon Musk",
+      "bio": "Elon Musk is the co-founder and CEO at Tesla, overseeing all product design, engineering and manufacturing of the company's electric vehicles, battery products, and Solar Roofs.",
+      "location": "Austin, TX",
+      "twitter": {
+        "username": "elonmusk",
+        "url": "https://twitter.com/elonmusk",
+        "followers": 49440089
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 718,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1364491704817098753/V22-Luf7_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Elon Musk",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/lex-fridman.md",
+      "title": "Lex Fridman",
+      "excerpt": "Research in machine learning, autonomous vehicles and human-centered AI at MIT and beyond. Host of the Artificial Intelligence podcast.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lex-fridman/index.json",
+      "webUrl": "https://everyday.cc/ai/people/lex-fridman/",
+      "type": "profile",
+      "name": "Lex Fridman",
+      "bio": "Research in machine learning, autonomous vehicles and human-centered AI at MIT and beyond. Host of the Artificial Intelligence podcast.",
+      "location": "Cambridge, MA",
+      "website": "https://lexfridman.com/",
+      "twitter": {
+        "username": "LexFridman",
+        "url": "https://twitter.com/LexFridman",
+        "followers": 561948
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
+        "citations": 1809
+      },
+      "affiliation": {
+        "path": "",
+        "name": "MIT",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ],
+      "heat": 471,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lex Fridman",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/alexandr-wang.md",
+      "title": "Alexandr Wang",
+      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alexandr-wang/index.json",
+      "webUrl": "https://everyday.cc/ai/people/alexandr-wang/",
+      "type": "profile",
+      "name": "Alexandr Wang",
+      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
+      "location": "San Francisco, CA",
+      "website": "https://scale.com/",
+      "twitter": {
+        "username": "alexandr_wang",
+        "url": "https://twitter.com/alexandr_wang",
+        "followers": 12108
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/alexandrwang/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Scale",
+        "domain": "scale.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Autos"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Alexandr Wang",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/john-krafcik.md",
+      "title": "John Krafcik",
+      "excerpt": "We're building the world's most experienced driver.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-krafcik/index.json",
+      "webUrl": "https://everyday.cc/ai/people/john-krafcik/",
+      "type": "profile",
+      "name": "John Krafcik",
+      "bio": "We're building the world's most experienced driver.",
+      "location": "Mountain View, CA",
+      "website": "https://t.co/i1uBCCpct5",
+      "twitter": {
+        "username": "johnkrafcik",
+        "url": "https://twitter.com/johnkrafcik",
+        "followers": 15736
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/johnkrafcik/"
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/John_Krafcik"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1161446779310632961/RGg-GhC6_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "John Krafcik",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/jean-liu.md",
+      "title": "Jean Liu",
+      "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jean-liu/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jean-liu/",
+      "type": "profile",
+      "name": "Jean Liu",
+      "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+      "location": "Beijing, China",
+      "twitter": {
+        "username": "jeanliuqing",
+        "url": "https://twitter.com/jeanliuqing",
+        "followers": 1157
+      },
+      "weibo": {
+        "url": "https://www.weibo.com/u/2209030102",
+        "followers": 1906714
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Liu_Qing_(businesswoman)"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jean Liu",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/james-peng.md",
+      "title": "James Peng",
+      "excerpt": "Founder and CEO at Pony.ai. Expert in self-driving, large-scale distributed systems, large-scale data processing and storage, database pipeline optimization, and performance tuning.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/james-peng/index.json",
+      "webUrl": "https://everyday.cc/ai/people/james-peng/",
+      "type": "profile",
+      "name": "James Peng",
+      "bio": "Founder and CEO at Pony.ai. Expert in self-driving, large-scale distributed systems, large-scale data processing and storage, database pipeline optimization, and performance tuning.",
+      "location": "San Francisco Bay Area",
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/james-peng-a6194b13/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Pony.ai",
+        "domain": "pony.ai"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://res-1.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_120,w_120,f_auto,g_faces,z_0.7,b_white,q_auto:eco/pwph4bbbsuaf69m6xaaw",
+          "width": 120,
+          "height": 120,
+          "title": "James Peng",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/karl-iagnemma.md",
+      "title": "Karl Iagnemma",
+      "excerpt": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/karl-iagnemma/index.json",
+      "webUrl": "https://everyday.cc/ai/people/karl-iagnemma/",
+      "type": "profile",
+      "name": "Karl Iagnemma",
+      "bio": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
+      "website": "http://www.karliagnemma.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/karl-iagnemma-b52186102/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=3VyGrdwAAAAJ",
+        "citations": 15920
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Karl_Iagnemma"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "MIT",
+        "domain": "mit.edu"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://twitter.com/Karl_Iagnemma/profile_image?size=original",
+          "width": 400,
+          "height": 400,
+          "title": "Karl Iagnemma",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    }
+  ]
+}

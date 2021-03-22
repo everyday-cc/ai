@@ -1,0 +1,16 @@
+taxonomy: topic
+_id: ai-hardware
+name: AI Hardware
+shortname: Hardware
+parent: AI
+keywords:
+  - chip
+  - gpu
+hashtags:
+  - "#Hardware"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-hardware.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-hardware-2.jpg
+services:
+  news: https://everyday-cc.github.io/ai/api/news/ai-hardware/
+  companies: https://everyday-cc.github.io/ai/api/companies/ai-hardware/

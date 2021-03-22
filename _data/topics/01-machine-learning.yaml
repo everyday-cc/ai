@@ -1,0 +1,24 @@
+taxonomy: topic
+_id: machine-learning
+name: Machine Learning
+shortname: ML
+parent: AI
+description: Systems learn from data to improve on tasks.
+keywords:
+  - machine learning
+  - ml
+  - deep learning
+  - neural network
+hashtags:
+  - "#ML"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/machine-learning.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/machine-learning-2.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/machine-learning-3.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/machine-learning-4.jpg
+services:
+  news: https://everyday-cc.github.io/ai/api/news/machine-learning/
+  learning: https://everyday-cc.github.io/ai/api/learning/machine-learning/
+  projects: https://everyday-cc.github.io/ai/api/projects/machine-learning/
+  people: https://everyday-cc.github.io/ai/api/people/machine-learning/
+  companies: https://everyday-cc.github.io/ai/api/companies/machine-learning/

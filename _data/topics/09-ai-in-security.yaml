@@ -1,0 +1,14 @@
+taxonomy: topic
+_id: ai-in-security
+name: AI in Security
+shortname: Security
+parent: AI
+keywords:
+  - security
+hashtags:
+  - "#security"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-security.jpg
+services:
+  companies: https://everyday-cc.github.io/ai/api/companies/ai-in-security/
+---

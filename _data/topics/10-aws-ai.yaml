@@ -1,0 +1,27 @@
+taxonomy: topic
+_id: aws-ai
+name: AWS AI
+parent: AI
+keywords:
+  - aws
+  - amazon web services
+  - amazon comprehend
+  - amazon forecast
+  - amazon lex
+  - amazon personalize
+  - amazon polly
+  - amazon rekognition
+  - amazon textract
+  - amazon transcribe
+  - amazon translate
+  - sagemaker
+  - deepracer
+  - deeplens
+hashtags:
+  - "#aws"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/aws-ai.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/aws-ai-2.jpg
+services:
+  news: https://everyday-cc.github.io/ai/api/news/aws-ai/
+  learning: https://everyday-cc.github.io/ai/api/learning/aws-ai/

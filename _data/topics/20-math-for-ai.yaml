@@ -1,0 +1,20 @@
+taxonomy: topic
+_id: math-for-ai
+name: Math for AI
+shortname: Math
+parent: AI
+keywords:
+  - math
+  - maths
+  - mathematics
+  - linear algebra
+hashtags:
+  - "#math"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/math-for-ai.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/math-for-ai-2.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/math-for-ai-3.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/math-for-ai-4.jpg
+services:
+  learning: https://everyday-cc.github.io/ai/api/learning/math-for-ai/
+  people: https://everyday-cc.github.io/ai/api/people/math-for-ai/

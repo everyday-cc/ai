@@ -1,0 +1,31 @@
+---
+layout: none
+---
+{
+    "value": [
+        {% capture sponsorships_where_exp %}item.schedules contains '{{ site.time | date: "%Y-%m-%d" }}'{% endcapture -%}
+        {% assign sponsorships = site.sponsorships | where_exp: "item", sponsorships_where_exp -%}
+        {% for sponsorship in sponsorships -%}
+        {
+            "sponsor": {
+                "name": {{ sponsorship.sponsor.name | jsonify }},
+                "url": "{{ sponsorship.sponsor.url | absolute_url }}",
+                "logoForLightTheme": "{{ sponsorship.sponsor.logoForLightTheme | absolute_url }}",
+                "logoForDarkTheme": "{{ sponsorship.sponsor.logoForDarkTheme | absolute_url }}"
+            },
+            "messages": [
+                {% for message in sponsorship.messages -%}
+                {
+                    "title": {{ message.title | jsonify }},
+                    "description": {{ message.description | strip_html | normalize_whitespace | strip | jsonify }},
+                    "url": "{{ message.url | absolute_url }}",
+                    "image": "{{ message.image | absolute_url }}"
+                }{% unless forloop.last -%},{% endunless %}
+                {% endfor %}
+            ],
+            "schedules": {{ sponsorship.schedules | jsonify }},
+            "placements": {{ sponsorship.placements | jsonify }}
+        }{% unless forloop.last -%},{% endunless %}
+        {% endfor %}
+    ]
+}

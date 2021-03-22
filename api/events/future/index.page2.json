@@ -1,0 +1,8 @@
+---
+category: event
+page: 2
+permalink: /:path/page2/
+time_range: future
+title: "AI Events"
+path: "_events/"
+---

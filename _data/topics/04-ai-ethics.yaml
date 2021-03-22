@@ -1,0 +1,15 @@
+taxonomy: topic
+_id: ai-ethics
+name: AI Ethics
+shortname: Ethics
+parent: AI
+keywords:
+  - ethical
+  - ethics
+hashtags:
+  - "#Ethics"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-ethics.jpg
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-ethics-2.jpg
+services:
+  news: https://everyday-cc.github.io/ai/api/news/ai-ethics/

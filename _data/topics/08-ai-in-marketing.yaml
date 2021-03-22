@@ -1,0 +1,14 @@
+taxonomy: topic
+_id: ai-in-marketing
+name: AI in Marketing
+shortname: Marketing
+parent: AI
+keywords:
+  - marketing
+hashtags:
+  - "#marketing"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-marketing.jpg
+services:
+  companies: https://everyday-cc.github.io/ai/api/companies/ai-in-marketing/
+---

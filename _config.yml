@@ -1,0 +1,193 @@
+#----------------------------------------------------------------------------------
+# Site Settings
+#----------------------------------------------------------------------------------
+
+title: A.I. Every Day
+url: https://everyday-cc.github.io
+baseurl: "/ai"
+webUrl: https://everyday.cc/apps/ai
+locale: "en-us"
+charset: utf-8
+repository: everyday-cc/ai
+topic: AI
+
+
+#----------------------------------------------------------------------------------
+# Post Settings
+#----------------------------------------------------------------------------------
+
+# The permalink of posts
+# For multilingual site, /:path/ is the only global permalink setting that works.
+# Other permalink settings cannot prepend the post locale to the URL.
+permalink: /:year/:month/:day/:title/
+
+# Default settings of posts
+default_post_settings: &default_post_settings
+  layout: post
+  permalink: /api/:categories/:year/:month/:day/:title/index.json
+  deleted: false
+  related: true
+
+pagination:
+  page_size: 20
+
+
+#----------------------------------------------------------------------------------
+# Company Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of companies
+default_company_settings: &default_company_settings
+  layout: post
+  category: company
+  permalink: /api/companies/:path/index.json
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
+# People Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of people
+default_people_settings: &default_people_settings
+  layout: post
+  category: people
+  permalink: /api/people/:path/index.json
+  type: profile
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
+# Event Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of events
+default_event_settings: &default_event_settings
+  layout: post
+  category: event
+  permalink: /api/events/:path/index.json
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
+# Newsletter Settings
+#----------------------------------------------------------------------------------
+
+# Default settings of newsletter issues
+default_newsletter_settings: &default_newsletter_settings
+  layout: post
+  category: newsletter
+  permalink: /api/newsletters/:path/index.json
+  deleted: false
+
+
+#----------------------------------------------------------------------------------
+# System Settings
+# DO NOT CHANGE if you do not know what you are doing
+#----------------------------------------------------------------------------------
+
+collections:
+  terms:
+    output: true
+  sponsorships:
+    output: true
+  posts:
+    output: true
+  companies:
+    output: true
+  people:
+    output: true
+  events:
+    output: true
+  newsletters:
+    output: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      <<: *default_post_settings
+  # _companies
+  - scope:
+      path: ""
+      type: companies
+    values:
+      <<: *default_company_settings
+  - scope:
+      path: "_companies/collections"
+    values:
+      layout: collection
+      category: company
+      permalink: /api/companies/collections/:title/index.json
+      type: collection
+      support_paging: false
+  # _people
+  - scope:
+      path: ""
+      type: people
+    values:
+      <<: *default_people_settings
+  - scope:
+      path: "_people/collections"
+    values:
+      layout: collection
+      category: people
+      permalink: /api/people/collections/:title/index.json
+      type: collection
+      support_paging: false
+  # _events
+  - scope:
+      path: ""
+      type: events
+    values:
+      <<: *default_event_settings
+  - scope:
+      path: "_events/collections"
+    values:
+      layout: collection
+      category: event
+      permalink: /api/events/collections/:title/index.json
+      type: collection
+      support_paging: false
+  # _newsletters
+  - scope:
+      path: ""
+      type: newsletters
+    values:
+      <<: *default_newsletter_settings
+  # apis
+  - scope:
+      path: "api/*/*"
+    values:
+      layout: collection
+      permalink: /:path/index.json
+      support_paging: true
+
+
+# Use the following Jekyll plug-ins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-relative-links # Convert relative links to md files to their rendered equivalents
+  - jemoji # Enable Emoji
+  - jekyll-remote-theme
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - .htaccess
+
+# Exclude these files from your production _site
+exclude:
+  - CNAME
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .cache
+  - .sass-cache
+
+remote_theme: everyday-cc/build
+incremental: true

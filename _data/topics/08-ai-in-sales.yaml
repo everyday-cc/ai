@@ -1,0 +1,15 @@
+taxonomy: topic
+_id: ai-in-sales
+name: AI in Sales
+shortname: Sales
+parent: AI
+keywords:
+  - crm
+  - sales
+hashtags:
+  - "#sales"
+images:
+  - https://everyday-cc.github.io/ai/assets/images/topics/ai-in-sales.jpg
+services:
+  companies: https://everyday-cc.github.io/ai/api/companies/ai-in-sales/
+---

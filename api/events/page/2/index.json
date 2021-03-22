@@ -1,0 +1,174 @@
+{
+  "title": "Events",
+  "path": "_events",
+  "page": 2,
+  "value": [
+    {
+      "path": "_events/2020-06-22-spark-ai-summit-2020.md",
+      "title": "Spark + AI Summit",
+      "excerpt": "Join more than 4,000 AI experts, developers, engineers, data scientists, researchers and business professionals for three days of in-depth learning and networking.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-06-22-spark-ai-summit-2020/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2020-06-22-spark-ai-summit-2020/",
+      "name": "Spark + AI Summit",
+      "type": "conference",
+      "startDateTime": "2020-06-22T09:00:00-07:00",
+      "endDateTime": "2020-06-25T17:00:00-07:00",
+      "location": "Online",
+      "price": "$$$$",
+      "website": "https://databricks.com/sparkaisummit/north-america",
+      "provider": {
+        "name": "databricks",
+        "domain": "databricks.com"
+      },
+      "topics": [
+        "AI"
+      ],
+      "images": [
+        {
+          "url": "https://databricks.com/wp-content/uploads/2019/11/SAIS20-Meta-Databricks-22-25.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Spark + AI Summit",
+          "isCached": false
+        }
+      ],
+      "content": ""
+    },
+    {
+      "path": "_events/2020-04-28-ai-conference-2020.md",
+      "title": "AI Conference 2020: AI, Voice & Bots",
+      "excerpt": "AI Conference is a premier conference for Artificial Intelligence, Voice Skills, and Bots. Discover latest and Network with experts.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-04-28-ai-conference-2020/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2020-04-28-ai-conference-2020/",
+      "name": "AI Conference 2020: AI, Voice & Bots",
+      "type": "conference",
+      "startDateTime": "2020-04-28T05:30:00-07:00",
+      "endDateTime": "2020-04-29T13:30:00-07:00",
+      "location": "New York, NY",
+      "price": "$$$",
+      "website": "https://www.aiconference.co/",
+      "provider": {
+        "name": "Chatbot Conference",
+        "domain": "chatbotconference.com"
+      },
+      "topics": [
+        "AI"
+      ],
+      "images": [
+        {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F86479479%2F196455670280%2F1%2Foriginal.20200106-215352?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=199%2C0%2C2228%2C1114&s=43cdf065d27af6eb10a784d1f6077fb9",
+          "width": 800,
+          "height": 400,
+          "title": "AI Conference 2020: AI, Voice & Bots",
+          "isCached": false
+        }
+      ],
+      "content": ""
+    },
+    {
+      "path": "_events/2020-03-03-tc-sessions-robotics-ai-2020.md",
+      "title": "TC Sessions: Robotics + AI 2020",
+      "excerpt": "TechCrunch Sessions: Robotics & AI is a single-day event that features in-depth interviews and networking opportunities with top robotics and AI technologists, founders, investors and researchers.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-03-03-tc-sessions-robotics-ai-2020/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2020-03-03-tc-sessions-robotics-ai-2020/",
+      "name": "TC Sessions: Robotics + AI 2020",
+      "type": "conference",
+      "startDateTime": "2020-03-03T10:00:00-08:00",
+      "endDateTime": "2020-03-03T17:20:00-08:00",
+      "location": "Berkeley, CA",
+      "price": "$$$",
+      "website": "https://techcrunch.com/events/tc-sessions-robotics-ai-2020/",
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/10/tc_sessions_robotics_newrobot.png?w=2000",
+          "width": 900,
+          "height": 1080,
+          "title": "TC Sessions: Robotics + AI 2020",
+          "isCached": false
+        }
+      ],
+      "content": ""
+    },
+    {
+      "path": "_events/2020-02-12-ai-nextcon-2020-seattle.md",
+      "title": "AI NEXTCon 2020 - Seattle",
+      "excerpt": "AI NEXTCon Developers Conference is AI developers-driven event hosted around the world (Seattle, New York, San Francisco, London, Beijing), specially geared to engineers, developers, data scientists to share, learn, and practice AI technology and how apply AI, ML, DL, Data to solve engineering problems, and machine learning production lifecycle. Now it's 10th edition, the conference features a blend of inspirational keynotes, deep dive tech talks, hands-on workshops, tools/framework live demo, networking opportunity with like minded developers.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-02-12-ai-nextcon-2020-seattle/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2020-02-12-ai-nextcon-2020-seattle/",
+      "name": "AI NEXTCon 2020 - Seattle",
+      "type": "conference",
+      "startDateTime": "2020-02-12T08:00:00-08:00",
+      "endDateTime": "2020-02-15T17:00:00-08:00",
+      "location": "Seattle, WA",
+      "price": "$$$",
+      "website": "http://aisea20.xnextcon.com/",
+      "provider": {
+        "name": "AI NEXTCon",
+        "domain": "xnextcon.com"
+      },
+      "topics": [
+        "AI"
+      ],
+      "images": [
+        {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F81042537%2F39270685914%2F1%2Foriginal.20191114-061122?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C600%2C300&s=106fdebd9ea55af98bdd9966bd91b594",
+          "width": 790,
+          "height": 395,
+          "title": "AI NEXTCon 2020 - Seattle",
+          "isCached": false
+        }
+      ],
+      "content": ""
+    },
+    {
+      "path": "_events/2019-12-08-neurips-2019.md",
+      "title": "NeurIPS 2019",
+      "excerpt": "The 33rd annual Conference on Neural Information Processing Systems brings together researchers from all fields engaged in fundamental work in Machine Learning and Artificial Intelligence to enjoy a week of talks, panels, workshops, demonstrations, and competitions.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2019-12-08-neurips-2019/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2019-12-08-neurips-2019/",
+      "name": "NeurIPS 2019",
+      "type": "conference",
+      "startDateTime": "2019-12-08T08:00:00-08:00",
+      "endDateTime": "2019-12-14T18:00:00-08:00",
+      "location": "Vancouver, BC, Canada",
+      "website": "https://nips.cc/Conferences/2019",
+      "provider": {
+        "name": "nips",
+        "domain": "nips.cc"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "tags": [
+        "Academic Conference"
+      ],
+      "images": [
+        {
+          "url": "https://media.neurips.cc/Conferences/NeurIPS2019/Poster/NeurIPS-2019-Poster-Thumbnail.jpg",
+          "width": 510,
+          "height": 660,
+          "title": "NeurIPS 2019",
+          "isCached": false
+        }
+      ],
+      "content": ""
+    }
+  ]
+}

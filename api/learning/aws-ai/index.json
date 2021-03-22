@@ -1,0 +1,724 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/collections/aws-machine-learning-ai-courses-in-pluralsight.md",
+      "title": "AWS Machine Learning / AI courses in Pluralsight",
+      "excerpt": "AWS has a number of machine learning and artificial intelligence services and products that can be used in conjunction with each other to make smart applications. In this path you’ll become familiar with them and see each one in action.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/aws-machine-learning-ai-courses-in-pluralsight/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/aws-machine-learning-ai-courses-in-pluralsight/",
+      "levels": [
+        "Beginner",
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/pluralsight-getting-started-with-amazon-lex.md",
+          "title": "Getting Started with Amazon Lex",
+          "excerpt": "The creation of an interactive and intelligent application is helped by the use of automatic speech recognition (ASR) and natural language understanding (NLU). In Getting Started with Amazon Lex, you will be introduced to the skills required to leverage Amazon Lex to build these user interactions for the applications you create. First, you will learn how to define the intents that the ChatBot will fulfill for the user. Next, you will explore how to create the slots that will gather the required information from your user. Finally, you will discover how to implement Lambda functions that process the information gathered by your ChatBot to complete the desire of your users. When you are finished with this course, you will be prepared to create simple informational bots using Amazon Lex.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-getting-started-with-amazon-lex/index.json",
+          "webUrl": "https://www.pluralsight.com/courses/getting-started-amazon-lex",
+          "length": "1h 57m",
+          "provider": {
+            "name": "Pluralsight",
+            "domain": "pluralsight.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Mike Erickson",
+                "type": "profile",
+                "name": "Mike Erickson"
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pluralsight.imgix.net/course-images/audience/software-development.jpg",
+              "width": 1280,
+              "height": 721,
+              "title": "Getting Started with Amazon Lex",
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "$$",
+          "topics": [
+            "AI",
+            "AWS AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend.md",
+          "title": "Analyzing Text on AWS with Amazon Comprehend",
+          "excerpt": "At the core of text analysis in the AWS Cloud is a thorough knowledge of Amazon Comprehend. In this course, Analyzing Text on AWS with Amazon Comprehend, you’ll learn how to use the service to extract insights and deep analysis about a given text. First, you’ll discover how the service is structured and common usage patterns for all of its features. Next, you’ll explore more advanced analysis concepts using an asynchronous request pattern. Finally, you’ll see how easy it can be to conduct complex topic modeling analysis. When you’re finished with this course, you’ll have a foundational knowledge of how to use Amazon Comprehend to analyze and understand any document set that will help you as you move forward and understand how to apply machine learning to real world problems.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend/index.json",
+          "webUrl": "https://www.pluralsight.com/courses/aws-comprehend-analyzing-text",
+          "length": "1h 56m",
+          "provider": {
+            "name": "Pluralsight",
+            "domain": "pluralsight.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Mark Nunnikhoven",
+                "type": "profile",
+                "name": "Mark Nunnikhoven"
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pluralsight.imgix.net/course-images/aws-comprehend-analyzing-text-v1.png",
+              "width": 1280,
+              "height": 720,
+              "title": "Analyzing Text on AWS with Amazon Comprehend",
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "$$",
+          "topics": [
+            "AI",
+            "AWS AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/courses/pluralsight-building-a-voice-enabled-serverless-website-with-aws-polly.md",
+          "title": "Building a Voice-enabled Serverless Website with AWS Polly",
+          "excerpt": "With all the new technology trends like AI, Serverless, and DevOps, tieing everything together can be overwhelming. In this course, you'll not only demystify this process but also see how using voice can save you time and keep your users engaged.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-a-voice-enabled-serverless-website-with-aws-polly/index.json",
+          "webUrl": "https://www.pluralsight.com/courses/aws-comprehend-analyzing-text",
+          "length": "1h 46m",
+          "provider": {
+            "name": "Pluralsight",
+            "domain": "pluralsight.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Ralu Bolovan",
+                "type": "profile",
+                "name": "Ralu Bolovan"
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pluralsight.imgix.net/course-images/aws-polly-voice-enabled-serverless-website-v1.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "Building a Voice-enabled Serverless Website with AWS Polly",
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "$$",
+          "topics": [
+            "AI",
+            "AWS AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/courses/pluralsight-translating-languages-on-aws-with-amazon-translate.md",
+          "title": "Translating Languages on AWS with Amazon Translate",
+          "excerpt": "Translating text at scale is a challenge for many organizations that want to make themselves understood internationally. In this course, Translating Languages on AWS with Amazon Translate, you will gain the ability to leverage Amazon Translate and neural machine translation in your applications. First, you will learn the basic context and benefits of neural machine translation tools. Next, you will discover how to leverage Amazon Translate APIs to scale your translation capabilities. Finally, you will explore how to integrate Amazon Translate with other AWS services such as Amazon Polly and Amazon CloudWatch. When you’re finished with this course, you will have the skills and knowledge of Amazon Translate needed to develop, secure, and monitor your own Amazon Translation applications and remove the restriction of language barriers.",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-translating-languages-on-aws-with-amazon-translate/index.json",
+          "webUrl": "https://www.pluralsight.com/courses/aws-translate-text",
+          "length": "2h 31m",
+          "provider": {
+            "name": "Pluralsight",
+            "domain": "pluralsight.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "authors": [
+              {
+                "path": "",
+                "title": "Fernando Medina Corey",
+                "type": "profile",
+                "name": "Fernando Medina Corey"
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pluralsight.imgix.net/course-images/aws-translate-text-v1.png",
+              "width": 1280,
+              "height": 720,
+              "title": "Translating Languages on AWS with Amazon Translate",
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "$$",
+          "topics": [
+            "AI",
+            "AWS AI",
+            "Natural Language Processing"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/audience/software-development.jpg",
+          "width": 1280,
+          "height": 721,
+          "title": "Getting Started with Amazon Lex",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_learning/answers/what-is-amazon-sagemaker.md",
+      "title": "What is Amazon SageMaker?",
+      "excerpt": "Amazon SageMaker enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. It removes the complexity that gets in the way of successfully implementing machine learning across use cases and industries—from running models for real-time fraud detection, to virtually analyzing biological impacts of potential drugs, to predicting stolen-base success in baseball.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/answers/what-is-amazon-sagemaker/index.json",
+      "webUrl": "https://aws.amazon.com/sagemaker/",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2018/04/24/SageMaker-300x150.jpg",
+          "width": 300,
+          "height": 150,
+          "title": "What is Amazon SageMaker?",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "answer",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/answers/what-is-deepracer.md",
+      "title": "What is DeepRacer?",
+      "excerpt": "AWS DeepRacer is an integrated learning system for users of all levels to learn and explore reinforcement learning and to experiment and build autonomous driving applications. It consists of an AWS Machine Learning service, AWS DeepRacer 1/18th scale RC vehicles, and DeepRacer League for paticipants to compete.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/answers/what-is-deepracer/index.json",
+      "webUrl": "https://aws.amazon.com/deepracer/",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/DtG-JyRUcAAuYkR.jpg",
+          "width": 726,
+          "height": 555,
+          "title": "What is DeepRacer?",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "answer",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-getting-started-with-aws-machine-learning.md",
+      "title": "Getting Started with AWS Machine Learning",
+      "excerpt": "Learn Getting Started with AWS Machine Learning from Amazon Web Services. Machine learning (ML) is one of the fastest growing areas in technology and a highly sought after skillset in today’s job market. The World Economic Forum states the growth ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-getting-started-with-aws-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/aws-machine-learning",
+      "length": "10 hours",
+      "ratings": {
+        "count": 183,
+        "average": 4.3
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Amazon Web Services"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/4c/a2b3d72eae428b9022a328718d978e/MachineLearning-02.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Getting Started with AWS Machine Learning",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend.md",
+      "title": "Analyzing Text on AWS with Amazon Comprehend",
+      "excerpt": "At the core of text analysis in the AWS Cloud is a thorough knowledge of Amazon Comprehend. In this course, Analyzing Text on AWS with Amazon Comprehend, you’ll learn how to use the service to extract insights and deep analysis about a given text. First, you’ll discover how the service is structured and common usage patterns for all of its features. Next, you’ll explore more advanced analysis concepts using an asynchronous request pattern. Finally, you’ll see how easy it can be to conduct complex topic modeling analysis. When you’re finished with this course, you’ll have a foundational knowledge of how to use Amazon Comprehend to analyze and understand any document set that will help you as you move forward and understand how to apply machine learning to real world problems.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-comprehend-analyzing-text",
+      "length": "1h 56m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mark Nunnikhoven",
+            "type": "profile",
+            "name": "Mark Nunnikhoven"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-comprehend-analyzing-text-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Analyzing Text on AWS with Amazon Comprehend",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-build-train-and-deploy-machine-learning-models-with-aws-sagemaker.md",
+      "title": "Build, Train, and Deploy Machine Learning Models with AWS SageMaker",
+      "excerpt": "A fully managed machine learning service is a great place to start if you want to quickly get machine learning into your applications. In this course, Build, Train, and Deploy Machine Learning Models with AWS SageMaker, you will gain the ability to create machine learning models in AWS SageMaker and to integrate them into your applications. First, you’ll learn the basics and how to set up SageMaker. Next, you’ll discover how to build, train, and deploy models applied to Image Classification for breast cancer detection and how to integrate them into a REST API. Finally, you will even discover how to manage security and scalability in AWS SageMaker. When you’re finished with this course, you will have a foundational understanding of AWS SageMaker that will help you immensely as you move forward to create your own machine-learning-enabled applications applied to different real-life scenarios.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-build-train-and-deploy-machine-learning-models-with-aws-sagemaker/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-sagemaker-machine-learning-models",
+      "length": "2h 40m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Jorge Vasquez",
+            "type": "profile",
+            "name": "Jorge Vasquez"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-sagemaker-machine-learning-models-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Build, Train, and Deploy Machine Learning Models with AWS SageMaker",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-a-voice-enabled-serverless-website-with-aws-polly.md",
+      "title": "Building a Voice-enabled Serverless Website with AWS Polly",
+      "excerpt": "With all the new technology trends like AI, Serverless, and DevOps, tieing everything together can be overwhelming. In this course, you'll not only demystify this process but also see how using voice can save you time and keep your users engaged.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-building-a-voice-enabled-serverless-website-with-aws-polly/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-comprehend-analyzing-text",
+      "length": "1h 46m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Ralu Bolovan",
+            "type": "profile",
+            "name": "Ralu Bolovan"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-polly-voice-enabled-serverless-website-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building a Voice-enabled Serverless Website with AWS Polly",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-deep-learning-instances-and-frameworks-on-aws.md",
+      "title": "Deep Learning Instances and Frameworks on AWS",
+      "excerpt": "Deep learning enables a new level of data analysis, but configuring custom compute resources to gain these insights can be extremely difficult. In this course, Deep Learning Instances and Frameworks on AWS, you will gain the ability to launch deep learning instances on EC2 and ECS. First, you will learn the types of Deep Learning AMIs provided by AWS. Next, you will analyze how to leverage popular deep learning frameworks on these instances. Finally, you will review how to manage and scale your deep learning activities on these instances. When you are finished with this course, you will be able to launch and utilize custom deep learning instances and leverage popular deep learning frameworks.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-deep-learning-instances-and-frameworks-on-aws/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-ami-deep-learning-instances-frameworks",
+      "length": "1h 23m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "David Tucker",
+            "type": "profile",
+            "name": "David Tucker"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-ami-deep-learning-instances-frameworks-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Deep Learning Instances and Frameworks on AWS",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-developing-applications-with-aws-rekognition.md",
+      "title": "Developing Applications with AWS Rekognition",
+      "excerpt": "AWS Rekognition provides powerful services for image and video processing. This course, Developing Applications with AWS Rekognition, will demonstrate how these features can be applied to your applications. First, you will cover topics like biometric access based on facial recognition and detection of unsafe content. Next, you will learn how to implement person tracking in security videos and metadata discovery for social media applications. Finally, you will see how other AWS services, like EC2 and Lambda, can work together with Rekognition to build complete applications. When you're finished with this course, you will be ready to use all of the features of Rekognition for image and video processing.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-developing-applications-with-aws-rekognition/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-rekognition-developing-applications",
+      "length": "1h 27m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Alan Jones",
+            "type": "profile",
+            "name": "Alan Jones"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-rekognition-developing-applications-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Developing Applications with AWS Rekognition",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-getting-started-with-amazon-lex.md",
+      "title": "Getting Started with Amazon Lex",
+      "excerpt": "The creation of an interactive and intelligent application is helped by the use of automatic speech recognition (ASR) and natural language understanding (NLU). In Getting Started with Amazon Lex, you will be introduced to the skills required to leverage Amazon Lex to build these user interactions for the applications you create. First, you will learn how to define the intents that the ChatBot will fulfill for the user. Next, you will explore how to create the slots that will gather the required information from your user. Finally, you will discover how to implement Lambda functions that process the information gathered by your ChatBot to complete the desire of your users. When you are finished with this course, you will be prepared to create simple informational bots using Amazon Lex.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-getting-started-with-amazon-lex/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/getting-started-amazon-lex",
+      "length": "1h 57m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mike Erickson",
+            "type": "profile",
+            "name": "Mike Erickson"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/audience/software-development.jpg",
+          "width": 1280,
+          "height": 721,
+          "title": "Getting Started with Amazon Lex",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-translating-languages-on-aws-with-amazon-translate.md",
+      "title": "Translating Languages on AWS with Amazon Translate",
+      "excerpt": "Translating text at scale is a challenge for many organizations that want to make themselves understood internationally. In this course, Translating Languages on AWS with Amazon Translate, you will gain the ability to leverage Amazon Translate and neural machine translation in your applications. First, you will learn the basic context and benefits of neural machine translation tools. Next, you will discover how to leverage Amazon Translate APIs to scale your translation capabilities. Finally, you will explore how to integrate Amazon Translate with other AWS services such as Amazon Polly and Amazon CloudWatch. When you’re finished with this course, you will have the skills and knowledge of Amazon Translate needed to develop, secure, and monitor your own Amazon Translation applications and remove the restriction of language barriers.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-translating-languages-on-aws-with-amazon-translate/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-translate-text",
+      "length": "2h 31m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Fernando Medina Corey",
+            "type": "profile",
+            "name": "Fernando Medina Corey"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-translate-text-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Translating Languages on AWS with Amazon Translate",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-turning-speech-into-text-on-aws-with-amazon-transcribe.md",
+      "title": "Turning Speech into Text on AWS with Amazon Transcribe",
+      "excerpt": "Digital recorded audio is a useful storage medium, but quickly becomes useless when it needs to be consumed quickly. In this course, Turning Speech into Text on AWS with Amazon Transcribe, you’ll gain the ability to leverage and scale the AWS Transcribe service to convert your recorded speech into flat text data. First, you’ll explore manual runs of transcription jobs. Next, you’ll discover how to scale up the process for higher impact transcriptions across your organization. Finally, you’ll learn how to combine transcription with AWS Translate to add even more flexibility for your global needs. When you’re finished with this course, you’ll have the skills and knowledge to alleviate the need to have people manually listen to and transcribe or translate recorded speech.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-turning-speech-into-text-on-aws-with-amazon-transcribe/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-transcribe-speech-text",
+      "length": "1h 29m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Tom Compagno",
+            "type": "profile",
+            "name": "Tom Compagno"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-transcribe-speech-text-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Turning Speech into Text on AWS with Amazon Transcribe",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    }
+  ]
+}

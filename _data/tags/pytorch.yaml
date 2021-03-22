@@ -1,0 +1,24 @@
+taxonomy: tag
+_id: pytorch
+parents:
+  - artificial-intelligence
+  - machine-learning
+  - deep-learning
+description: PyTorch is a deep learning framework that implements a dynamic computational graph, which allows you to change the way your neural network behaves on the fly and capable of performing backward automatic differentiation.
+regex:
+services:
+  news: 
+    url: https://everyday-cc.github.io/ai/api/news/pytorch/
+    volume: 
+  learning: 
+    url: https://everyday-cc.github.io/ai/api/learning/pytorch/
+    volume: 
+  projects: 
+    url: https://everyday-cc.github.io/ai/api/projects/pytorch/
+    volume: 
+  people:
+    url: https://everyday-cc.github.io/ai/api/people/pytorch/
+    volume: 
+  companies: 
+    url: https://everyday-cc.github.io/ai/api/companies/pytorch/
+    volume: 

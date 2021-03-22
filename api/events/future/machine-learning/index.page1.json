@@ -1,0 +1,9 @@
+---
+category: event
+topic: "Machine Learning"
+page: 1
+permalink: /:path/page1/
+time_range: future
+title: "Machine Learning Events"
+path: "_events/"
+---

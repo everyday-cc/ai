@@ -1,0 +1,93 @@
+{
+  "title": "Projects",
+  "path": "_projects",
+  "page": 1,
+  "value": [
+    {
+      "path": "_projects/microsoft-cntk.md",
+      "excerpt": "Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/projects/microsoft-cntk/index.json",
+      "webUrl": "https://everyday.cc/ai/project/microsoft-cntk/",
+      "originalUrl": "https://docs.microsoft.com/en-us/cognitive-toolkit/",
+      "github": {
+        "url": "https://github.com/Microsoft/CNTK",
+        "watches": 588,
+        "stars": 16358,
+        "forks": 2503,
+        "languages": [
+          "C++",
+          "Jupyter Notebook",
+          "Python"
+        ]
+      },
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 749,
+      "content": "\r\n",
+      "name": "CNTK",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning",
+        "Deep Learning",
+        "CNTK"
+      ]
+    },
+    {
+      "path": "_projects/dotnet-machinelearning.md",
+      "excerpt": "ML.NET is an open source and cross-platform machine learning framework for .NET.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/projects/dotnet-machinelearning/index.json",
+      "webUrl": "https://everyday.cc/ai/project/dotnet-machinelearning/",
+      "originalUrl": "https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet",
+      "github": {
+        "url": "https://github.com/dotnet/machinelearning",
+        "watches": 624,
+        "stars": 6340,
+        "forks": 1320,
+        "languages": [
+          "C#"
+        ]
+      },
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "heat": 681,
+      "images": [
+        {
+          "url": "https://dotnet.microsoft.com/static/images/object-detection/dogs-result.png?v=AJL_YaRauEjpG9kTwpSUpvLItisLV2sB4wF36z5Vnpk",
+          "width": 534,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "name": "Machine Learning for .NET",
+      "type": "code",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    }
+  ]
+}

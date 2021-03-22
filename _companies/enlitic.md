@@ -1,0 +1,53 @@
+---
+name: "Enlitic"
+overview: "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy."
+type: "profile"
+heat: 42
+
+website: https://www.enlitic.com/
+
+linkedin:
+  url: "https://www.linkedin.com/company/enlitic/"
+  followers: 3397
+
+crunchbase:
+  url: "https://www.crunchbase.com/organization/enlitic"
+
+twitter:
+  username: "enlitic"
+  url: "https://twitter.com/enlitic"
+  followers: 4748
+
+size: 11-50 employees
+yearFounded: 2014
+locations:
+  - San Francisco, CA
+  - San Francisco, California
+
+funding:
+  status: Early Stage Venture
+
+topics:
+  - AI
+  - AI in Healthcare
+  - Computer Vision
+  - Natural Language Processing
+
+tags:
+  - Image Recognition
+  - Cancer
+
+images:
+  - url: "https://pbs.twimg.com/profile_images/1143736834364542977/uR2TWmI6_400x400.png"
+    width: 400
+    height: 400
+    isCached: true
+    title: "Enlitic"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHYXXUY_794vA/company-logo_200_200/0?e=1594857600&v=beta&t=Doarwq3lD-qIoxM8JAzPRqwpkzpzbHHssvb7AE4dC1w"
+    width: 400
+    height: 400
+    title: "logo"
+
+secured: "PWMBAbMrySTVZ+fx3U/7Kb2BTTdZJ2OTxfYQWACSHmRrbdVrqdgi0WeILICsW9rZ5ZEBGNFatNButPwS6uT1ewzGPMSRNJW85XHKIuJNxyKvDzw7s1xlSJQGEnmDPSHpvDV37vLJoaTMa/LcJ7+MCFv4DtlB/cA/Yl8+BuT/rskP9MKMfziys/2rla57IZYr10egenTXm9ru0VWDgWwXZbsXUXt3bTsNp1MPh5YIEz6wG44NJjX28vgYGebilDy0V9QE+AqhGUumtyikZKQfbDjNEigTWLXDZvU+A4/f4PYC4P5sby1uj5Gy59DXy3krYw2gWFRE7loycLuI8AKfstzzwWeBk/7adMeImKae9oYKvqNklWpGrRX8WZypAJQbnh3+N0fai04BK8Xma3yLTFxiCrXaBv+757Uf4JMZ+DI=;d5XHodrLFRnhGetQ9phNHQ=="
+---
+

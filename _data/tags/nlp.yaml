@@ -1,0 +1,22 @@
+taxonomy: tag
+_id: nlp
+parents: 
+  - artificial-intelligence
+description: Natural language processing (NLP) is a subfield of artificial intelligence that involves transforming or extracting useful information from natural language data. Methods include machine-learning and rule-based approaches.
+regex:
+services:
+  news: 
+    url: https://everyday-cc.github.io/ai/api/news/nlp/
+    volume: 
+  learning: 
+    url: https://everyday-cc.github.io/ai/api/learning/nlp/
+    volume: 
+  projects: 
+    url: https://everyday-cc.github.io/ai/api/projects/nlp/
+    volume: 
+  people:
+    url: https://everyday-cc.github.io/ai/api/people/nlp/
+    volume: 
+  companies: 
+    url: https://everyday-cc.github.io/ai/api/companies/nlp/
+    volume: 
