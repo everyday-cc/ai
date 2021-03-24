@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-24T15:41:00Z
 originalUrl: "https://www.engadget.com/ai-backpack-system-visually-impaired-intel-university-of-georgia-150025561.html"
 webUrl: "https://www.engadget.com/ai-backpack-system-visually-impaired-intel-university-of-georgia-150025561.html"
 type: article
-quality: 64
-heat: 74
+quality: 66
+heat: 76
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-03/8c6dde50-8cb2-11eb-a779-9989ea912ca8"
@@ -40,6 +41,6 @@ related:
       domain: techxplore.com
     quality: 54
 
-secured: "jMAWAMUAQ07wa12bw+u4kxHe90KTT7Ta9afMmIXsdQRdSVZj/28wyP9uAAPuDdKZqhHlZjSNDWRooE5o7Rf1A83Bi1/kamO3sBFP+EsWeT1eP9PwyyI7FFQLpLf7GuJQAO88pRuNHrgqydjMrKbOjSvYkkHCXQf4Y8et6u3xrHJEIGKS6bxLXAFVPIiRKwpg9R3ruWzjwtz3Tt+ewRfduGnDsydtc/nncmUOQKuXcUJ90X7ZlXskc6H8khqCMmHzkNlJN5McShyeJedoS9GHv6eZE/r0Kktb3O1Ueq5aSycU9P/1UuVpjSOxzULpqWLWNkZm2zqcc8f5op/D/pBL7IbgMom/rBxb8UU3tEyqetE=;i3JEDJtGE7Vt4oH1ob+eXg=="
+secured: "XL04cjjvXmcwhG0PWSpY7depW0QvR7UBz+mQPL+r7152zAsFQW91hvByimn5HPKiZABmzEyjbrQYETvPEss2ulgjk1ZlDMLSx6M30oCN+kgbl9EvRBe75FasEydBqUGUtB7tukbccX3IWc3LlnoLTQfBnqYKt9g8TutAbD2AZUfxyFjcvm3B0/ItMpNIvfGIJ0US89j2umAXG83cn7efhaxT3ypu9g/a0k95+vxKIMlJMR/9QlC7MGOGGdiFNB69iFROPzaJam1iBMRCZJIzsNigSkWd4y+qWpodSFnmhsYq0/6BYK5ouZy0jjDJKsCeK35WnTprbMmgh15hduIU+VkX1lSL+DNxMtD8h3IpovBtaCsh5tf56z+va4AsZ9trtjk06Y6tlrF6ixa/sDbqCUITnFvfRVqJbm8oheylOr5deKc4ZF9uRpzYoR/FNhaVqBzgVE/bHC737TKEI2m989Kq9o43SPm+JarGLjtqmiwEb9y+nuzDVQYQepBPiT+e0/6axCxU+g0+G8++4nhyFw==;Nv7NOikrsC9h4jIpWgufKQ=="
 ---
 

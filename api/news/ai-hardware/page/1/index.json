@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-24-researchers-developed-an-ai-backpack-system-to-guide-vision-impaired-wearers.md",
+      "title": "Researchers developed an AI backpack system to guide vision-impaired wearers",
+      "excerpt": "The backpack uses a Luxonis OAK-D spatial camera, which has an on-chip edge AI processor and uses Intel's Movidius image processing tech. The 4K camera, which captures depth information as well as color images, is packed inside a vest or fanny pack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ai-backpack-system-visually-impaired-intel-university-of-georgia-150025561.html",
+      "originalUrl": "https://www.engadget.com/ai-backpack-system-visually-impaired-intel-university-of-georgia-150025561.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-03/8c6dde50-8cb2-11eb-a779-9989ea912ca8",
+          "width": 678,
+          "height": 391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-vmware-and-nvidia-bring-a100-gpus-to-vsphere-7-to-virtualize-ai-acceleration.md",
       "title": "VMware And NVIDIA Bring A100 GPUs To vSphere 7 To Virtualize AI Acceleration",
       "excerpt": "With vSphere 7 Update 2 and NVIDIA AI Enterprise suite, the A100 GPU becomes available to VMware customers running AI workloads in the enterprise data center.",
@@ -1271,60 +1323,7 @@
         "AI Hardware",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-03-01-googles-deep-learning-finds-a-critical-path-in-ai-chips.md",
-      "title": "Google’s deep learning finds a critical path in AI chips",
-      "excerpt": "The chips that Yazdanbakhsh and the team are developing are themselves chips for AI, known as accelerators. This is the same class of chips as the Nvidia A100 \"Ampere\" GPUs, the Cerebras Systems ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "originalUrl": "https://www.zdnet.com/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/28/aabff7c7-b7e4-4e29-844a-9746cbfeee24/google-brain-2021-search-space-of-ai-acclerator.png",
-          "width": 2074,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "publishedDateTime": "2021-02-28T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 2
 }
