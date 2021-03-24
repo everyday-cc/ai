@@ -1,0 +1,39 @@
+---
+category: news
+title: "Will boosting the UK Government's role in fintech drive tangible change?"
+excerpt: "Incoming Finextra Contributor Lord Chris Holmes, Member of the UK House of Lords, recognises the role fintech will play into the future of UK financial services and is loudly championing its cause. Welcome to Finextra."
+publishedDateTime: 2021-03-22T09:30:00Z
+originalUrl: "https://www.finextra.com/the-long-read/167/will-boosting-the-uk-governments-role-in-fintech-drive-tangible-change"
+webUrl: "https://www.finextra.com/the-long-read/167/will-boosting-the-uk-governments-role-in-fintech-drive-tangible-change"
+type: article
+quality: 3
+heat: -1
+published: false
+
+provider:
+  name: Finextra
+  domain: finextra.com
+
+topics:
+  - AI in Finance
+  - AI
+
+related:
+  - title: "Fintech jobs: The challenges for women in the workplace"
+    excerpt: "While I am proud and humbled to be a part of the 2020 Standout 35 cohort, I was also given an opportunity to speak to others in this group about common misconceptions surrounding the role of women, the challenges for women in the workplace and what advice  they would give women wishing to work in fintech."
+    publishedDateTime: 2021-03-24T16:59:00Z
+    webUrl: "https://www.finextra.com/the-long-read/169/fintech-jobs-the-challenges-for-women-in-the-workplace"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/169.jpg"
+        width: 800
+        height: 450
+        isCached: true
+
+secured: "n39tkqCrY5ODWkWCpRomZQQ8mQ/8pLIUGqasy+WAWCF8HtsOYC+yug3ppycxWlMeFC/eqejhgoTjZ8KY6FicIh8ntj3hvHiMwRcG5Gcs13hMXHHJa0ZCciIFgVnvzf5qEnTgUGeZ2wCfrvki56RmqzfrB1XiN/8Np+2ThzRdJ0EXZWadHVuQyuBnxQGD4RE4SVoe1f2Azj9HgFX/JVKRa2wJ12Isj8x2XdzrQuX1wXJwq7mb/dw290JqQuPKO7yvz5Gb71RgvtqW+Ipu+4cy2cUl1QvoYXgFyoFb13HEOgRXXKL/2Uf7UXp2O7xBI/JnQxCKnFcZ4FQawkLN6vsYyMYdBs+z2vS/gNon8yRRI1I=;EbqYzLYIQiK59miY7WbcAg=="
+---
+
