@@ -24,7 +24,7 @@ related:
   - title: "Self-driving truck startup Kodiak and China's Hesai partner up"
     excerpt: "Silicon Valley self-driving truck startup Kodiak Robotics Inc. and Shanghai-based lidar maker Hesai Technology Co. on Wednesday announced a partnership to integrate Chinese lidar technology into autonomous trucks."
     publishedDateTime: 2021-03-24T13:03:00Z
-    webUrl: "https://www.autonews.com/technology/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
     type: article
     provider:
       name: Automotive News

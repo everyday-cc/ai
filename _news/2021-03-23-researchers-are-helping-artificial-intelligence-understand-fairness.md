@@ -21,31 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Using AI to map how the brain understands sentences"
-    excerpt: "Have you ever wondered why you are able to hear a sentence and understand its meaning—given that the same words in a different order would have an entirely different meaning? New research involving neuroimaging and A."
-    publishedDateTime: 2021-03-23T20:49:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-ai-brain-sentences.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-03-ai-brain-sentences.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-brain-sentences.amp"
+  - title: "Researchers developed an AI backpack system to guide vision-impaired wearers"
+    excerpt: "The backpack uses a Luxonis OAK-D spatial camera, which has an on-chip edge AI processor and uses Intel's Movidius image processing tech. The 4K camera, which captures depth information as well as color images, is packed inside a vest or fanny pack."
+    publishedDateTime: 2021-03-24T15:41:00Z
+    webUrl: "https://www.engadget.com/ai-backpack-system-visually-impaired-intel-university-of-georgia-150025561.html"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
+      name: Engadget
+      domain: engadget.com
+    quality: 64
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/usingaitomap.jpg"
-        width: 389
-        height: 238
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-03/8c6dde50-8cb2-11eb-a779-9989ea912ca8"
+        width: 678
+        height: 391
         isCached: true
-  - title: "Understanding influence of decision-making AI"
-    excerpt: "Monash University researchers have developed a crucial framework to help provide greater transparency into the decision-making processes of"
-    publishedDateTime: 2021-03-22T21:08:00Z
-    webUrl: "https://www.miragenews.com/understanding-influence-of-decision-making-ai-532437/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 19
 
 secured: "s0yOSn1qrhQnAi3ObzMW0cugJgtYkLv7nUXVi9foN+lg6J1eNFl+/EGpRPEIrTN8QZCUnxo5JA5ACrcVjMbChj17Tfqb9Tcx9nf6PzdQAFP/1k7ErPv6WSfe/mFA0+J3dAoT0otBD78w1oRK8VcCgO75zgXCIwBUOikYELEaFet5SOzvERGjzitesedsGtkRaF/WkC3xk4WH/+VCUq2KggitCrdrJ3NAg63wafGpmynSD/tZC1LvaIKQ7chm41WpovOfl1xKfqyMJtPbXUgC1/3MreptFy5xzr1Q2CeAe9Y8hnLnD6M3jNkgOUbReHdIO9W0aUDEkTJ0E4G5c1LpSqSKyKMLKnsgmmU3mfQLYkFQtMMi/IRoZ+XqbeQWgE66bX7hKhOjHHyAw5tpVqxxJeplpXHntNmU+BkZVp8G9L/YOuFXrvYO0i2r5/t5F+9xH/hTGZ6ZVw/D4fdyEW4W51gTjLjqdAoFIUBgIBbbTwScwgr+VOG5W186msgkLtS6kgQgxY/gfYTsCVbSiaHOAg==;/UvpqAyun8LBUWQ/NofilQ=="
 ---

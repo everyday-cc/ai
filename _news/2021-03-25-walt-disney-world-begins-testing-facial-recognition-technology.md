@@ -57,6 +57,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Disney World tests facial recognition software at Magic Kingdom"
+    excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
+    publishedDateTime: 2021-03-23T18:14:00Z
+    webUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+    ampWebUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 59
+    images:
+      - url: "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Walt Disney World tests facial recognition at park entry"
     excerpt: "WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission. The pilot program will be in testing for the next month. Participation is optional, but those who ..."
     publishedDateTime: 2021-03-24T01:21:00Z
@@ -173,6 +189,6 @@ related:
       domain: usatoday.com
     quality: 16
 
-secured: "VR8OFilrh2tMR1NvRjd2bpZAUDW5ETWjWu09lA8p4r6MBeiwCICrvcDpiyNjxw2uu0OU5aSmPPLfx67b+WYWzTLajI6yO+dul0pHRymWMPs6f1L+RCI/khB3eaK7aQ6bwR+mXbI0TpaeGfRmACg5VyeKb02mY3z7AHyjjqSrhkL5tK+TRyusfx6wDF8+br8rH9nCYIglwHqoBe62G/w+KPIw4VInW1Q+sPR8WNp/qd6sHDHQ+8IOXTbdim/MGK6aoE/PbrT9MA/kPvfpQmwzkn+IC18VRu3PBUsNv9FEsdFNhOYfAYgqR8BQpVIv92UlF315HS/jFFGoUD/m2QOJVUM594X3PaGXU7U8JShpY28=;aSo/PLlilewKD+RYR8wb6Q=="
+secured: "RxKz06p9y/YyZ+SiB7mGUE/u62mfMTCLV36YsRP2FkKVEOppQojSQ56X2i5TZkMvKFsPIF/cZQjO/O6K41IRc+UPwGLqCdy+UPiPshpQ2kZ08pvdHMbDpRcbzA3xaEwkF6jxfaeJ9a5gtYkWVI13V2UortcabTBVFzJwzuyD4BWSN+WZF4+UJ4qhq4yvjSRjZ0O3w3lNuwD0W8myn7Z+eeTCOuIDrdLcuKTJMN63Hd43PlJW4Xv0L/usm0pP5WhWpJ9/zKtKj8TPhbXqXbxA6wKG2CgR48nX38AALin7lRxo1XvO6C1Pi5ECm+LqjhM0TnlFLWtWJG0kU5pBW0R7BZi+dQ+4cqo6AjD12kuC4wWlVZ/lpy+2V/dpNqGY3lBKT+wzQXS8zdTbkf4ox7UqqDUqHj29/rrXRFzCsPwjXYi8FuSXfxgw/2cf34yyuOCcHeIJlbK5gI85Q2o+TKPpuEY3A9ZMdOOdy8q7rfK3BqoYaiZef8nJhs/+GepZOEC3ceZzUOsip25l192PtK4Ziw==;Phz4x2tZEQHZhLvtb6vCXg=="
 ---
 
