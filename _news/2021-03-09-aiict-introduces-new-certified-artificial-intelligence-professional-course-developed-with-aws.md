@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AIICT introduces new Certified Artificial Intelligence Professional course developed with AWS"
-excerpt: "The Australian Institute of ICT (AIICT) has introduced a new ‘Certified Artificial Intelligence Professional’ course, jointly developed with Amazon Web Services (AWS) for aspiring Artificial Intelligence (AI) developers and Machine Learning (ML ..."
-publishedDateTime: 2021-03-09T11:49:00Z
-originalUrl: "https://www.reseller.co.nz/mediareleases/138360/aiict-introduces-new-certified-artificial/"
-webUrl: "https://www.reseller.co.nz/mediareleases/138360/aiict-introduces-new-certified-artificial/"
+excerpt: "The Australian Institute of ICT (AIICT) has introduced a new ‘Certified Artificial Intelligence Professional’ course, jointly developed with Amazon Web Services (AWS) for aspiring Artificial Intelligence (AI) developers and Machine Learning (ML) professionals."
+publishedDateTime: 2021-03-09T00:49:00Z
+originalUrl: "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/"
+webUrl: "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/"
 type: article
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AWS AI
   - AI
 
-secured: "yT2VuD6bkTO4go/8WtHn1N0laIFna1HPR35y2bb69r0TwWlSjAehecqaSijUX8+4XrrL5JQ5hcQgkjRPOypiBHvLjholy+dHJ5FEqobhaQEprIEEzqnJx2kW85y8GuBKP4cPLKpXCnr0UPgZyN6aoyFUGW7oOUzdm3cOqIJaebF3eQHipYd6al6Fyh9iqLcei1YrXc1r4EGfsWWqGoxL33Wv295bNX/hddQgm1xf+thEwhp9pPsE1uSRcemxpUK6u5xLEgnhPaBA217/g9++fBOY4gPWQzp17bCbHtwjd5vhpBSDqqcXHfDNoVln/5DeoacUyhwJQ63DVZGwFDZg9gH0E2lS/KjMRA59AbdMcFY=;Bhc6oj5fzT0vG/SWJRkefg=="
+images:
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_3.png"
+    width: 300
+    height: 250
+    isCached: true
+
+secured: "apdloC4+pfpl9X37R1BXcjrPT/IqwOdBjyjxGLxTWrNTRC9lDcAUpqDVX6cb4ZYfiSh+SC3szV6t3c8hLtvMAMlN72+Y5S3TXTMpqgcVU1TkDwu4PffvaPI+HHREtBmzd9FjUmxlr6H/qRn7dkjpFUQ8AyHsJvy6gOhIaduprPrOlhtd1JbYyaeKuZ+oPsgFINTRzIL+M2UqK4oey0avk6PUt7vg0EqZB2CgjaC4u0Ggm44izZAKeJtALHKJPSAJvQ/30gAFM6wHajqbg1BpJw/tM3Tk/WNRZDIWzgGSdJf9o/IsFuVacvMkDggxkFVuazk9wU1yW3kBlSrqRCgWIRwhycaYhBSlRpeho/p1tCs=;rrv4+7P5iAs2yb943xh/0g=="
 ---
 

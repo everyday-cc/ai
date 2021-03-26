@@ -34,6 +34,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "Aunalytics launches Daybreak for Financial Services"
+    excerpt: "Mid-sized banks and credit unions now have access to actionable data, enriched with Smart Features, to enhance customer relationships and deliver the right products and services, to the right people,"
+    publishedDateTime: 2021-03-26T13:40:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/Aunalytics-launches-Daybreak-for-Financial-Services-145979.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 24
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
+  - title: "Global Textile Printing Market Trajectory & Analytics 2021-2024: Digital Printing, Artificial Intelligence and Personalized Clothing"
+    excerpt: "The \"Textile Printing - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global production of printed textiles is projected to reach 36.8 billion square meters by 2024 The market driven by"
+    publishedDateTime: 2021-03-26T19:21:00Z
+    webUrl: "https://www.lelezard.com/en/news-19720254.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 8
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
 
 secured: "9AhhM3kklQungSbMNoawonmEUUo8oZ3y4siMCOCacAd856oGs4E5+lJhNr+iWvL2E9Ngb8punSZLkdyxMO1bl/m6XE8MNq0EZgE8tX5trsmDlxulPf5u6nIQzteD4NR0mRjIjQX5iJsl7EQOS4GCrdQSmL8DLFDwwnOKoUAZFWTyjDSg6qgL4IDgjb0cWnB3DXzAU5RjBxXdRSHfyLppnm3uqozg9ouKwzXmANkz93Pfjqm8JFFa/jWmGnXbA0oQ28euXtXUAoAAK9Lc5h/FA3NiHzN+lmgcsT8qAE7zhzx7knxahEPAKvwR1OIOJ9CX2suR9Y51VQtgAAmplXzH0Rjfyghwf0ZYzczgRwwhwQY=;MaAJ2SZEzB+np7caT9XD/Q=="
 ---

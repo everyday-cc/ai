@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Sophia the Robot NFT Sales Rake in $1 Million"
+    excerpt: "Sophia the Robot has created and sold her own non-fungible tokens (NFT). Sales reached just over $1 million when all was said and done."
+    publishedDateTime: 2021-03-26T13:19:00Z
+    webUrl: "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/"
+    ampWebUrl: "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/"
+    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/"
+    type: article
+    provider:
+      name: https//beincrypto.com
+      domain: beincrypto.com
+    quality: 76
+    images:
+      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/03/bic_artwork_ai_sophia_nft_720.jpg.optimal.jpg"
+        width: 720
+        height: 432
+        isCached: true
   - title: "NFT digital artwork by humanoid robot Sophia up for auction"
     excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with"
     publishedDateTime: 2021-03-22T16:00:00Z

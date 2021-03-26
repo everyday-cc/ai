@@ -22,38 +22,24 @@ topics:
   - AI
 
 related:
-  - title: "Strong Competition in Booming AI Infrastructure Market"
-    excerpt: "COVID-19 Outbreak-Global AI Infrastructure Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,"
-    publishedDateTime: 2021-03-20T19:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/strong-competition-in-booming-ai-infrastructure-market-2021-03-20"
+  - title: "Artificial Intelligence (AI) Chipsets Market Emerging Technologies, Industry Demand, CAGR Status, Global Competitors and Future Scope"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2021 (The Expresswire) -- The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting a CAGR of 38.9% ..."
+    publishedDateTime: 2021-03-22T05:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-emerging-technologies-industry-demand-cagr-status-global-competitors-and-future-scope-2021-03-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
-  - title: "How the construction industry builds smarter with artificial intelligence"
-    excerpt: "With the advent of sophisticated machine learning algorithms and artificial intelligence, the construction industry is one sector to be positively impacted. Traditional processes are no longer efficient in the world of digitalization,"
-    publishedDateTime: 2021-03-22T13:42:00Z
-    webUrl: "https://exclusive.multibriefs.com/content/how-the-construction-industry-builds-smarter-with-artificial-intelligence/construction-building-materials"
-    type: article
-    provider:
-      name: MultiBriefs
-      domain: multibriefs.com
-    quality: 38
-    images:
-      - url: "https://exclusive.multibriefs.com/images/exclusive/1102construction.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Industry Global Market Growth, Status and Outlook Research Report 2020"
-    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6515304-covid-19-outbreak-global-artificial-intelligence-emotion-recognition In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the ..."
-    publishedDateTime: 2021-03-23T05:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-industry-global-market-growth-status-and-outlook-research-report-2020-2021-03-23"
+    quality: 37
+  - title: "North America Artificial Intelligence Chipsets Market Will Grow At 35% CAGR to Reach $25 Bn by 2026"
+    excerpt: "The North America Artificial Intelligence chipsets market is set to experience a remarkable transformation over"
+    publishedDateTime: 2021-03-22T17:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-chipsets-market-will-grow-at-35-cagr-to-reach-25-bn-by-2026-2021-03-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 25
+    quality: 37
 
 secured: "gEnvVmRQ/wu4zqsIEws3pRfCywfiHwYCp0+AVcuoQNKNVsWfxbqmZviqlq4F+OR/GYKsxdYYdT+tIgH1L+ihZxubsPz+gvLLmgk07eQdk5yIuXeCeNiD8Ft9ei/M/wbhNhJ5riECPz4cG0H/kKgGzALj/8CA28rqM5yeMaiBc2ULre/fngv2I8OOVFdk+hNEnayr66MwrFq7zdbzOppzcE3SbDnlXR7+PSkuzFwOItCwm83kdmsz+x7UI+XQj7iYAQoe7I1WidsBHza3/gaWn2ll18BYLXCvuRnQDahhmchY05iFfphpA0BkCrNYEqEnyaYPmrPHObmIR4WGuvoeDIkl2OKWLCZmd7C8xo/yxLk=;65XE8Zppe3V5DR3eOhwt/w=="
 ---

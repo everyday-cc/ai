@@ -25,20 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Disney begins testing facial recognition software"
-    excerpt: "Park goers entering the Magic Kingdom at Walt Disney World Resort can opt-in to testing Disney’s new facial recognition software. This segment aired as part of KTLA 5 Live on March 23, 2021."
-    publishedDateTime: 2021-03-24T01:16:00Z
-    webUrl: "https://ktla.com/5-live/disney-begins-testing-facial-recognition-software/"
-    ampWebUrl: "https://ktla.com/5-live/disney-begins-testing-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/5-live/disney-begins-testing-facial-recognition-software/amp/"
+  - title: "Philly airport screening international travelers using facial recognition technology"
+    excerpt: "The Simplified Arrival system has processed 66 million people at other U.S. airports, flagging more than 500 imposters"
+    publishedDateTime: 2021-03-26T18:49:00Z
+    webUrl: "https://www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/"
+    ampWebUrl: "https://www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/amp/"
+    cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/amp/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 59
+      name: PhillyVoice
+      domain: phillyvoice.com
+    quality: 69
     images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/03/download-4-1.png?w=1280"
-        width: 1120
+      - url: "https://media.phillyvoice.com/media/images/032621-phl-biometric-screening.2e16d0ba.fill-1200x630-c0.jpg"
+        width: 1200
         height: 630
         isCached: true
   - title: "Disney begins testing facial recognition technology"
@@ -57,53 +57,37 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Disney World tests facial recognition software at Magic Kingdom"
-    excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
-    publishedDateTime: 2021-03-23T18:14:00Z
-    webUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
-    ampWebUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+  - title: "Disney World begins testing facial recognition technology: Here’s how it works"
+    excerpt: "Disney said the technology will capture an image of a guest’s face and convert it into a unique number, which will then be used for park entry."
+    publishedDateTime: 2021-03-25T11:04:00Z
+    webUrl: "https://www.wftv.com/news/local/orange-county/walt-disney-world-begins-testing-facial-recognition-technology-magic-kingdom-heres-how-it-works/VSZWZUMZUBAEBLDIHEFPG7564Q/"
+    ampWebUrl: "https://www.wftv.com/news/local/orange-county/walt-disney-world-begins-testing-facial-recognition-technology-magic-kingdom-heres-how-it-works/VSZWZUMZUBAEBLDIHEFPG7564Q/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/local/orange-county/walt-disney-world-begins-testing-facial-recognition-technology-magic-kingdom-heres-how-it-works/VSZWZUMZUBAEBLDIHEFPG7564Q/?outputType=amp"
     type: article
     provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 59
+      name: WFTV
+      domain: wftv.com
+    quality: 55
     images:
-      - url: "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg"
-        width: 1200
-        height: 675
+      - url: "https://d1hfln2sfez66z.cloudfront.net/03-23-2021/t_6cc242d47b6a4653bcf66739186e5dbe_name_GettyImages_1226596757_scaled.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Walt Disney World tests facial recognition at park entry"
-    excerpt: "WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission. The pilot program will be in testing for the next month. Participation is optional, but those who ..."
-    publishedDateTime: 2021-03-24T01:21:00Z
-    webUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
-    ampWebUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+  - title: "Disney testing facial recognition technology for entry to Magic Kingdom in Walt Disney World"
+    excerpt: "It's a new way to walk into Disney World -- not with a ticket, but by showing your face. Disney's Magic Kingdom theme park in Orlando is testing out facial recognition technology that converts a guest's face into a unique number ID that's linked to their admission ticket."
+    publishedDateTime: 2021-03-25T16:19:00Z
+    webUrl: "https://abc7.com/disney-parks-walt-world-facial-technology/10447573/"
+    ampWebUrl: "https://abc7.com/amp/disney-parks-walt-world-facial-technology/10447573/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/disney-parks-walt-world-facial-technology/10447573/"
     type: article
     provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 59
+      name: ABC7
+      domain: abc7.com
+    quality: 48
     images:
-      - url: "https://d1hfln2sfez66z.cloudfront.net/03-24-2021/t_b580ba8e37154ad6a5916bb0e2f967c9_name_Disney_tests_facial_recognition_at_park_entry_Poster.jpg"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Disney World testing facial recognition software"
-    excerpt: "Walt Disney World is testing facial recognition technology at the Orlando-area theme park. The test will take place at the park entrance over the next month. Disney says the technology captures an image of a guest’s face and converts it into a unique number,"
-    publishedDateTime: 2021-03-24T17:12:00Z
-    webUrl: "https://www.fox5ny.com/news/disney-world-testing-facial-recognition-software"
-    ampWebUrl: "https://www.fox5ny.com/news/disney-world-testing-facial-recognition-software.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/disney-world-testing-facial-recognition-software.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 59
-    images:
-      - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2021/03/932/470/disney-test.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://cdn.abcotvs.com/dip/images/10446172_032421-kabc-4pm-disney-tech-vid.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Disney tests new facial recognition technology"
     excerpt: "Disney is testing out new facial recognition technology. Disney says it's looking for ways to focus on more touchless experiences in the parks. The technology converts a guest's face and gives a unique number ID,"
@@ -116,20 +100,6 @@ related:
     quality: 39
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/ac15c0b/2147483647/strip/true/crop/1015x533+74+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F410%2Fb9cd621bb5cc43d8b6bdc641d1acdca8%2F410e1f74cd8f4971b399abb2e71848e1%2Fposter_09681a7be839427787fe1597efb4eee0.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Disney World Is Testing Out Facial Recognition For Entry To The Park"
-    excerpt: "Disney World unveiled facial recognition technology at the park’s entrance Tuesday, announcing it would be testing the new technology on a completely voluntary basis over the course of the next month. “At Walt Disney World Resort, we're always looking ..."
-    publishedDateTime: 2021-03-23T20:36:00Z
-    webUrl: "https://www.romper.com/entertainment/disney-world-is-testing-out-facial-recognition-for-entry-to-the-park"
-    type: article
-    provider:
-      name: Romper
-      domain: romper.com
-    quality: 39
-    images:
-      - url: "https://imgix.bustle.com/uploads/getty/2021/3/23/7f7772a7-f046-425c-b20a-d2417f2abaac-getty-1163276945.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
         width: 1200
         height: 630
         isCached: true
@@ -161,6 +131,29 @@ related:
         width: 1600
         height: 1082
         isCached: true
+  - title: "Japan Airlines to trial facial recognition technology at Tokyo airports"
+    excerpt: "CAPA publishes more than 400 global News Briefs every weekday, covering all aspects of the aviation and travel industry. It’s the most comprehensive source of market intelligence in the world, with around 50 per cent of content translated from non-English sources. The breadth of our coverage means you won’t need any other news sources to monitor competitors and stay informed about the latest developments in the wider aviation sector. Our daily News Briefs are only available to CAPA Members. Membership provides access to more than 400 News Briefs every weekday, with quick links to our Analysis Reports, Research Publications, Data Centre and more. It’s easy to keep your News Briefs relevant by customising your email alerts based on topic, region, sector, frequency and more. Once you’ve saved your settings, you can stay up-to-date wherever you are, by quickly scanning our News Briefs online or via the CAPA mobile app. Membership also provides full access to our Analysis Reports, in-depth Research Publications and comprehensive Data Centre. Premium CAPA Members can also access add-ons such as our exclusive Fleet Database, Airline Cask Data tools and more, to enjoy the full capabilities of our global platform. CAPA Membership provides access to all news and analysis on the site, along with access to many areas of our comprehensive databases and toolsets."
+    publishedDateTime: 2021-03-25T23:29:00Z
+    webUrl: "https://centreforaviation.com/news/japan-airlines-to-trial-facial-recognition-technology-at-tokyo-airports-1059959"
+    type: article
+    provider:
+      name: Centreforaviation.com
+      domain: centreforaviation.com
+    quality: 34
+  - title: "Disney tests facial-recognition technology at Magic Kingdom"
+    excerpt: "Disney is testing out new facial-recognition technology at its Magic Kingdom Park in Florida. The company says it's continuing to look for ways to make the park safer, with a focus on touchless experiences."
+    publishedDateTime: 2021-03-25T15:16:00Z
+    webUrl: "https://bronx.news12.com/disney-tests-facial-recognition-technology-at-magic-kingdom"
+    type: article
+    provider:
+      name: News 12 New Jersey
+      domain: news12.com
+    quality: 24
+    images:
+      - url: "https://img.chdrstatic.com/media/6845aea1-04fa-4c99-85f0-de109fa097a7.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Walt Disney World begins testing facial recognition technology"
     excerpt: "ORLANDO, Fla. – Walt Disney World is now testing a new facial recognition technology at its Magic Kingdom theme park. The new technology captures an image of a guest’s face and converts it into a unique number, which is then associated with the form of ..."
     publishedDateTime: 2021-03-23T15:47:00Z
@@ -170,24 +163,6 @@ related:
       name: Click Orlando
       domain: clickorlando.com
     quality: 19
-  - title: "Bias in facial recognition isn’t hard to discover, but it’s hard to get rid of"
-    excerpt: "Joy Buolamwini is a researcher at the MIT Media Lab who pioneered research into bias that’s built into artificial intelligence and facial recognition. And the way she came to this work is almost a little too on the nose."
-    publishedDateTime: 2021-03-23T04:08:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 17
-  - title: "Disney begins testing optional facial recognition for entry to Magic Kingdom"
-    excerpt: "Disney is testing a new way for visitors to enter the Magic Kingdom through facial recognition. The test, launched on Tuesday, is optional and will be conducted from Mar. 23 to April 23. The technology captures an image of a guest’s face and ..."
-    publishedDateTime: 2021-03-23T17:02:00Z
-    webUrl: "https://www.usatoday.com/story/travel/experience/america/theme-parks/2021/03/23/disney-tests-optional-facial-recognition-entry-magic-kingdom/6966242002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 16
 
 secured: "zDwCGD6o3R5AK2GJSIRucZ36zjrwHQ7EbEjYl1QmBth8akIUxZXwgzJB8Rp2BZv+ATI9fYD4Q9LvU95BSOofOzhMqKwPg+juah/ZTavNOpHybA/hCP5EFulBnqILN0JNlJtY5edWGRCdmrVgCeF7ZI55IhZ8jqx7WEQmh80mnG7SGqR0UhlgyCcZkFonRJ9e2Rsw6JYPiuVLC19GGwotrdw7MNrPxoeyJInLYTz63FgDxK25KyTsBLxDX/PDzxtAekGfsWSYDrxHLcNGtiZiRJgsy0rs1hbmAuC8Y6rwftgbW691Dl0vcR4DI2iKiv2tleG0kL2YUM47pUCBjMoVQRxszbAJRmIb3fDHXNOYerA=;ZQ9toiFDnEEt/jzFzhp6cg=="
 ---

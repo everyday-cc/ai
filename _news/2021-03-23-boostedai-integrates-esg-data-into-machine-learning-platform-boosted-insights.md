@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-financial-services-investment-management-a76cc6f13c35462199bcc4a6a7ac3727"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Associated Press
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Lingotek and Intento Announce Enhanced MT/AI Offering Through Platform Integration"
+    excerpt: "With the new Intento connector, Lingotek users can take control over their machine translation requirements by deploying Intento’s MT Hub in their workflow."
+    publishedDateTime: 2021-03-25T01:34:00Z
+    webUrl: "https://slator.com/press-releases/lingotek-and-intento-announce-enhanced-mt-ai-offering-through-platform-integration/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 33
+    images:
+      - url: "https://slator.com/assets/2021/03/Intento-Logo-2021-900x600-CD.png"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Boosted.ai Integrates ESG Data into Machine Learning Platform Boosted Insights"
     excerpt: "NEW YORK & TORONTO--(BUSINESS WIRE)--Boosted.ai, the leading distributed machine learning platform for global investment professionals, today announced that environmental, social and governance (ESG) data from OWL Analytics will be available within Boosted ..."
     publishedDateTime: 2021-03-23T17:30:00Z

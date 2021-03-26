@@ -38,15 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chip Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
-    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register"
-    publishedDateTime: 2021-03-22T12:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-22"
+  - title: "Artificial Intelligence in Security Market: Trends 2021: Business Size & Share and Competitive Landscape Forecast to 2024 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Security Market, which has been"
+    publishedDateTime: 2021-03-24T09:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-business-size-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Size, Share, Challenges, Strategies, Forecasts 2019 To 2027 And Industry Analysis Report"
     excerpt: "Artificial intelligence in healthcare is estimated to significantly reduce the cost of the treatments as there would"
     publishedDateTime: 2021-03-22T08:14:00Z
@@ -83,6 +88,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 21
+  - title: "Speech and Voice Recognition Market Size, Analysis by Growth, Emerging, Trends and Future, Opportunities Till 2025"
+    excerpt: "Kenneth Research has published a detailed report on Speech and Voice Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-03-25T23:05:00Z
+    webUrl: "https://menafn.com/1101807678/Speech-and-Voice-Recognition-Market-Size-Analysis-by-Growth-Emerging-Trends-and-Future-Opportunities-Till-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "78SLQE3Z0ec6hqnQrjizYfW2abZgZazjQE4rxCkKCz21G9/P7I1YqY+NsUv//xHNbDTAPgarPk05MvuypWCDJCg7LgmG+D7a4qbg4AHe+YBxLUDxu4lKpFu2QrsXyLHpy4sSOwYsohekEiU/cYvB1jwg1Omncj2rZwtz0ccJ0OctgEL/jpp7UlHwSfmMH8epm0zUSFyBUBotAEUWz1BP9AYSKgK/pepWt6rre6w9GF83RXxDvoFD9d3z3HPykwYmbKGNM+EMraezHfsuFQW5T+xsrgSo9ryfEK9u6n0+2W7pVYKYltvZre6jUw2K+ewtRHfzJk6foBsaiRhMe8QuT+KfYZ6Scin33bwSzqgbB4Y=;pGVVc/bJVd99hcsM9X3akw=="
 ---

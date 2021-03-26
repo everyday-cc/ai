@@ -9,8 +9,8 @@ ampWebUrl: "https://scitechdaily.com/mits-new-artificial-intelligence-algorithm-
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/mits-new-artificial-intelligence-algorithm-designs-soft-robots-that-sense/amp/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: SciTech Daily
@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Researchers’ algorithm designs soft robots that sense"
-    excerpt: "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible."
-    publishedDateTime: 2021-03-22T04:11:00Z
-    webUrl: "https://news.mit.edu/2021/sensor-soft-robots-placement-0322"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 49
   - title: "New Algorithm Could Aid the Rise of Soft Robots for Tricky Tasks"
     excerpt: "Soft robot development could benefit from an algorithm that optimizes sensor placement allowing such machines to better ‘understand’ their environments."
     publishedDateTime: 2021-03-23T16:51:00Z

@@ -24,65 +24,34 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Deep Learning Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2025"
-    excerpt: "Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as"
-    publishedDateTime: 2021-03-23T07:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025-2021-03-23"
+  - title: "Artificial Intelligence (AI) In Sports Market Value Projected To Reach US$ 3,555.9 Million By 2027: Acumen Research And Consulting"
+    excerpt: "The Global Artificial Intelligence (AI) in Sports Market is expected to grow at a CAGR of around 32.8% from 2020 to 2027 and reach the market value of over US$ 3,555.9 Mn by 2027. Artificial intelligence in sports is estimated to experience prominent growth over the forecast period from 2020 to 2027."
+    publishedDateTime: 2021-03-26T00:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-sports-market-value-projected-to-reach-us-35559-million-by-2027-acumen-research-and-consulting-2021-03-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market Strategies, Major Industry Participants, Marketing Channels and Forecast To 2025"
-    excerpt: "Mar 22, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Computer Vision Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and ..."
-    publishedDateTime: 2021-03-22T08:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-strategies-major-industry-participants-marketing-channels-and-forecast-to-2025-2021-03-22"
+  - title: "Artificial Intelligence (AI) in Food and Beverage Market Overview Highlighting Major Drivers, Trends, Growth and Demand Report 2020- 2027"
+    excerpt: "Increasing need to improve food safety standards is a key factor driving growth of the global Artificial Intelligence (AI) in food and beverage market currently. The global Artificial Intelligence (AI) in food and beverage market is expected to reach a market size of USD 62."
+    publishedDateTime: 2021-03-24T14:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-overview-highlighting-major-drivers-trends-growth-and-demand-report-2020--2027-2021-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
-  - title: "Artificial Intelligence In Healthcare Market Size, Share, Challenges, Strategies, Forecasts 2019 To 2027 And Industry Analysis Report"
-    excerpt: "Artificial intelligence in healthcare is estimated to significantly reduce the cost of the treatments as there would"
-    publishedDateTime: 2021-03-22T08:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-challenges-strategies-forecasts-2019-to-2027-and-industry-analysis-report-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-  - title: "Voice Recognition Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
-    excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
-    publishedDateTime: 2021-03-22T12:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-  - title: "Enterprise Artificial Intelligence Market Global Major Companies Profile, Competitive Landscape and Key Regions 2021 2025"
-    excerpt: "Kenneth Research has published a detailed report on Enterprise Artificial Intelligence Market , which has been"
-    publishedDateTime: 2021-03-23T08:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-global-major-companies-profile-competitive-landscape-and-key-regions-2021-2025-2021-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-  - title: "Speech and Voice Recognition Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2026"
-    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
-    publishedDateTime: 2021-03-23T15:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-key-drivers-restraints-industry-size-share-opportunities-trends-and-forecasts-up-to-2026-2021-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "c1fvflc9TzMkg/37rtCkBuABy3oqYjkGGra2Qr9BuP6jcW6uQJnGdNWnW75PQ6NORe5zD/pIzxgk+WmP4nKp3sseSMd66qBMRrXKLtzyMixrWGs9TNGTVPc3O5Hpd9xTxYNTUhWWurjeb8uYxc1hzTOC0EUxWalX8U7VmQHXnMgxRpvatzRG9/2OfvCNi67NFNZE6vSWr3locxGB2YksbBRwcVewXzwI9aUPIt8nzcgir0GUbaXoY3rbRHrtgHhJvqBgOSCVb2Gas0NOC95fGi4O7E405X4WXRyzx6eg4EVpg6j2qFZWLSZ1SXht6W/qGJ4JChuV+iQSuQdcC4iU5J9CRlYUQJxeynkYLTEFPlc=;AaxxNxdqkQSJFW7DMCKDew=="
 ---

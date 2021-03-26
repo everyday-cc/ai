@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2259863/global-cognitive-services-market-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Food and Beverage Market Overview Highlighting Major Drivers, Trends, Growth and Demand Report 2020- 2027"
-    excerpt: "Increasing need to improve food safety standards is a key factor driving growth of the global Artificial Intelligence (AI) in food and beverage market currently. The global Artificial Intelligence (AI) in food and beverage market is expected to reach a market size of USD 62."
-    publishedDateTime: 2021-03-24T14:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-overview-highlighting-major-drivers-trends-growth-and-demand-report-2020--2027-2021-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Enterprise Artificial Intelligence Market Research Report 2021 Market Insights, Overview, Analysis And Forecast 2021"
     excerpt: "Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and"
     publishedDateTime: 2021-03-22T19:45:00Z

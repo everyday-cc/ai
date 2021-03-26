@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/03/24/y-combinators-biotech-startups-inc
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/24/y-combinators-biotech-startups-incubate-a-new-generation-of-therapies-and-tools/amp/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechCrunch
@@ -29,6 +29,19 @@ images:
     width: 300
     height: 296
     isCached: true
+
+related:
+  - title: "Y Combinator Gives FinTech NextPay $125K Boost"
+    excerpt: "Philippine FinTech platform NextPay got $125,000 in pre-seed funding from Silicon Valley startup accelerator Y Combinator (YC)."
+    publishedDateTime: 2021-03-23T20:27:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/y-combinator-gives-fintech-nextpay-125k-boost/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/y-combinator-gives-fintech-nextpay-125k-boost/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/y-combinator-gives-fintech-nextpay-125k-boost/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 24
 
 secured: "8k7M+HD32CXQsgevNoi2Cyu6hC+k5TdR9eC/axbj+i99e7hfdhxiF9Ty3oY3mLiGy56hsmqllvPx38b6+Aiw9JkL6TJk8GcNWSYElJjRL4MoRi/QwAN1LwIgYlXJ55Zk04fUlYdSCSch1eGHrrs8RYDYmIP49iAGK6y0s0KMCmvNfnqH8aXYA3S5HW8LrHAr4Q0LYrWkICSOcjO0ws3rXiZhmcNPrmmWnR7quKjO+a73f+HK9OC/0OUDv70gyYfF83ibPmmfuAlgGqkR/5kkduK7Q/Aio2uotf4GLRxk/e2UIKDfKK1Ch4UwrUcSuaURzmcB0zRtYmSgBy6QdqGry3Czrae87ukMcuem7IY07AFvSZBO48KaA1f34khQDPDwLWjRgKBkBvtIgYu0kXiCpJdP18PZ/tDuHa/f2viXOim1jDNT7y6ysmTlAC5XyigCCmXrnYwdJQoH6Ns0leu01f47dpu1Yow6zbmNEWCU4vDPCSCUBPEWy5KLxqHBXhUpMGRBfF2Jvk7mnqGFJu2XZQ==;C+h1ZyG/YK/gZa1VLX1zkQ=="
 ---

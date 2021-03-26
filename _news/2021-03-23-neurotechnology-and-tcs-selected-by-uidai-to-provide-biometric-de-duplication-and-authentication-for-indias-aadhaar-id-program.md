@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "UIDAI selects Neurotechnology and TCS for biometric deduplication and authentication"
-    excerpt: "TCS and Neurotechnology will deploy and maintain the new de-duplication system, which is powered by Neurotechnology's multi-modal Automatic Biometric Identification Subsystem (ABIS) and biometric SDK technologies for fingerprint,"
-    publishedDateTime: 2021-03-22T10:33:00Z
-    webUrl: "https://tass.com/press-releases/1268687"
-    ampWebUrl: "https://tass.com/press-releases/1268687/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1268687/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 32
   - title: "Free GSMA service widens voice biometrics availability for customer authentication"
     excerpt: "Telecom industry organization GSMA is developing a multimodal solution to address the challenge of biometric authentication in low tech environments and emerging markets. The solution B4LL (for ‘Biometrics for All’) is intended to enable digital ..."
     publishedDateTime: 2021-03-22T22:37:00Z
@@ -53,24 +42,15 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution"
-    excerpt: "VILNIUS, Lithuania, March 23, 2021 /PRNewswire/ -- Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS ..."
-    publishedDateTime: 2021-03-23T10:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution/article_98771ca4-77b8-57e9-8644-271b0f7c2f30.html"
+  - title: "Japan turns to face biometrics for safe and secure Olympics amid COVID-19"
+    excerpt: "A facial recognition system installed at the Tokyo Dome, one of the Olympic venues, has been tested and will be put to use as one of the counter-measures against the virus, The Japan News reports. Tokyo will host the Summer Olympics from July 23 to August ..."
+    publishedDateTime: 2021-03-22T21:14:00Z
+    webUrl: "https://www.biometricupdate.com/202103/japan-turns-to-face-biometrics-for-safe-and-secure-olympics-amid-covid-19"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-  - title: "ENACOMM, Inc.: FinTech Company ENACOMM Strikes Partnership with Leader in Biometric and AI Technology IDmission"
-    excerpt: "TULSA, OK / ACCESSWIRE / March 24, 2021 / Banks, credit unions, credit card and payments companies of all sizes are now able to take advantage of the most modern identity solutions available, thanks t"
-    publishedDateTime: 2021-03-24T13:11:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-03/52388100-enacomm-inc-fintech-company-enacomm-strikes-partnership-with-leader-in-biometric-and-ai-technology-idmission-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 3
 
 secured: "UTuAipr/B17BdducdYBrNCkBwLw4zgTuiEUeTks0w5TBa1P2LAwWcOZZVXZZjBGp57NEvMZl3oGNDjhxAyxSdGoqcaehxk/eTaLdQtjWLgh4Sz33jD/Fap6wwsWa9wyK8uaO94MJG9nwnkgpuIPcl5/VMNzgYNZKxnQvWsn8GWQ7gDEAtKSjegw2Y2UhEG2mtY9AsvfKDNq6EyircwRoOyuTNuIRHLC6+nxlanKFwcApyObhA/IRNNWNg/a3Y+UZwbWX67pg0Fo3kAR4xxYgUk+zxtospFFgSeWsklpECPvZuJo4mvbLo45B8P+UiAWWJNHV5S40Q281aSk7gGb2lERk3C93/W7wk4+oUfCXnXg=;70cmFsTRIWuFZRaJISrqpQ=="
 ---

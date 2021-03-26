@@ -33,6 +33,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Risk management challenges on Fintechs labor to financial inclusion"
+    excerpt: "The major cutting-edge tech tools to keep the wide range of risks under controlled levels apply Big Data and Machine Learning ... such as financial institutions, telephone companies, social media, mobile apps, and payment services. As traditional banking ..."
+    publishedDateTime: 2021-03-25T02:04:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/risk-management-challenges-on-fintechs-labor-to-financial-inclusion-nid-33194-cid-254.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/F6U05S81.jpeg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "n39tkqCrY5ODWkWCpRomZQQ8mQ/8pLIUGqasy+WAWCF8HtsOYC+yug3ppycxWlMeFC/eqejhgoTjZ8KY6FicIh8ntj3hvHiMwRcG5Gcs13hMXHHJa0ZCciIFgVnvzf5qEnTgUGeZ2wCfrvki56RmqzfrB1XiN/8Np+2ThzRdJ0EXZWadHVuQyuBnxQGD4RE4SVoe1f2Azj9HgFX/JVKRa2wJ12Isj8x2XdzrQuX1wXJwq7mb/dw290JqQuPKO7yvz5Gb71RgvtqW+Ipu+4cy2cUl1QvoYXgFyoFb13HEOgRXXKL/2Uf7UXp2O7xBI/JnQxCKnFcZ4FQawkLN6vsYyMYdBs+z2vS/gNon8yRRI1I=;EbqYzLYIQiK59miY7WbcAg=="
 ---

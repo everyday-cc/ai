@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Risk management challenges on Fintechs labor to financial inclusion"
+    excerpt: "The major cutting-edge tech tools to keep the wide range of risks under controlled levels apply Big Data and Machine Learning ... such as financial institutions, telephone companies, social media, mobile apps, and payment services. As traditional banking ..."
+    publishedDateTime: 2021-03-25T02:04:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/risk-management-challenges-on-fintechs-labor-to-financial-inclusion-nid-33194-cid-254.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/F6U05S81.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Will boosting the UK Government's role in fintech drive tangible change?"
     excerpt: "Incoming Finextra Contributor Lord Chris Holmes, Member of the UK House of Lords, recognises the role fintech will play into the future of UK financial services and is loudly championing its cause. Welcome to Finextra."
     publishedDateTime: 2021-03-22T09:30:00Z

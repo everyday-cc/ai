@@ -30,15 +30,6 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 52
-  - title: "Researchers’ algorithm designs soft robots that sense"
-    excerpt: "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible."
-    publishedDateTime: 2021-03-22T04:11:00Z
-    webUrl: "https://news.mit.edu/2021/sensor-soft-robots-placement-0322"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 49
 
 secured: "M+jahzRxRn3mVdyrh+qDSUCqVN8NT0O5jY9ruOaogsYR1e8jfZUmF4WxslvRvR0UJn/41WX50s64nc1wB1jM975S+rMRktBDQTRVLvoQi7cqOwMKPtcKlFZit7LCkQerOjuH8TIGfc+zIWBcfBZUfyV7cKfJNoWf8y2l/eOHHaXMY3rCkO+OSagrSYWQThmnKbAuwKA08C9oJHf7K8zIsYHoy7UW2MrivwURkOTzleC3/D3LlHRUFjHKykbBWqnoB9KpGJy+VfEc7Hpb6M2l1Bf1zoziGwS61y/lijWPQdGX0n/lhJFZRj+amj7L6bHUb5r+dlXjfOnpeNq87LIwNgRoyJzP1vLgTWs3uLF3SFeQ8esk2Ghmw5c8SxY15XB9QN6uGSymsZd3w3oLvDvq3POXebBKmex5AChEbuebC0+DF5gfBFqSEyFUQ5iSOkXHf6eDnv1TP8ShQ3khyedVMCckv07dGZUfCTihNejP+cJwNzGlP3V6NU7ld3yJG65v4yVz/41RFgG2UwG5v5uH5Q==;H7Fy//9kWDS80DlZTviWPQ=="
 ---

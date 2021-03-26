@@ -33,6 +33,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Lingotek and Intento Announce Enhanced MT/AI Offering Through Platform Integration"
+    excerpt: "With the new Intento connector, Lingotek users can take control over their machine translation requirements by deploying Intento’s MT Hub in their workflow."
+    publishedDateTime: 2021-03-25T01:34:00Z
+    webUrl: "https://slator.com/press-releases/lingotek-and-intento-announce-enhanced-mt-ai-offering-through-platform-integration/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 33
+    images:
+      - url: "https://slator.com/assets/2021/03/Intento-Logo-2021-900x600-CD.png"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "o/5J/ww1kJL7jNQbYLKdB3zb2eD6w7sXhZ1lcj1k/S9zGQM2k9EIExpqR6FX7vvvS/YcpzcPKzo48KaZVwZY4MskPS23aywH4ZDYmPnsw+zUK3JNrCJnnogLa3L5TuU0K+pGKTYpnHGbb2f6Tv+rVqjlOqGg7ogm3gBLLLs4G2Eh30Ws1XHR8PE7MiqprxWk31rXKs1rUWn+T4193dmUxYHoxluG46ReQSgz5xP0BK3ZtA4pRPluOYPh8Q9RdgJS4mgF5CKOeY2btxOHq3aRzEFYC4FDmTJyALbtRMbGVBy/qoDowXnOx1+GNcj9Ty9PayHs67DCKc5mAlMXu9ZDWtP9Qil1BOR6B4rcy10ANJSRQ1EMJCBNkonh01TKNqb3eA6rmJfE/fVEgsQTy4rOEh07DpKoRIlSeBdrEP4pTSmD1uOatVCSUJwDAVp/iamDzV3cxBnw8d3W7B3F8v7P7hXWNR7Qyhmk2wf+IU5IPSHxV8U7eun+ckomQC/cG5FHRy3jMUnWAOOOkK8s5xVNyg==;RdgglDVcuEUgmOrFVm5abA=="
 ---

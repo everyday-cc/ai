@@ -41,17 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "FDA authorizes first machine learning-based COVID-19 non-diagnostic screening device"
-    excerpt: "Today, the U.S. Food and Drug Administration issued an emergency use authorization (EUA) for the first machine learning-based Coronavirus Disease 2019 (COVID-19) non-diagnostic screening device that identifies certain biomarkers that are indicative of some types of conditions,"
-    publishedDateTime: 2021-03-21T02:42:00Z
-    webUrl: "https://www.news-medical.net/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
+  - title: "300+ COVID-19 Machine Learning Models Have Been Developed – None Is Suitable for Detecting or Diagnosing"
+    excerpt: "Researchers have found that out of the more than 300 COVID-19 machine learning models described in scientific papers in 2020, none of them is suitable for detecting or diagnosing COVID-19 from standard medical imaging,"
+    publishedDateTime: 2021-03-24T10:37:00Z
+    webUrl: "https://scitechdaily.com/300-covid-19-machine-learning-models-have-been-developed-none-is-suitable-for-detecting-or-diagnosing/"
+    ampWebUrl: "https://scitechdaily.com/300-covid-19-machine-learning-models-have-been-developed-none-is-suitable-for-detecting-or-diagnosing/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/300-covid-19-machine-learning-models-have-been-developed-none-is-suitable-for-detecting-or-diagnosing/amp/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 32
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 42
+    images:
+      - url: "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
   - title: "FDA authorizes 1st machine learning COVID-19 screening tool"
     excerpt: "The FDA authorized the first machine learning COVID-19 screening tool for emergency use to identify COVID-19-related health conditions in asymptomatic patients. According to a March 19 news release, the Tiger Tech COVID Plus Monitor will identify certain ..."
     publishedDateTime: 2021-03-22T18:46:00Z

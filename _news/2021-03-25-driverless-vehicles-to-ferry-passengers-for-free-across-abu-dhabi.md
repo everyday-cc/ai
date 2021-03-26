@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The future of driverless cars is now"
-    excerpt: "Like objects in your side-view mirror, driverless cars or autonomous vehicles (AVs ... consumers across the age spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among male respondents and ..."
-    publishedDateTime: 2021-03-20T14:00:00Z
-    webUrl: "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.html"
-    type: article
-    provider:
-      name: Daily Tribune
-      domain: dailytribune.com
-    quality: 19
   - title: "Driverless vehicles to transport passengers for free across Abu Dhabi"
     excerpt: "The Department of Municipalities and Transport (DMT) will start the trial operations of autonomous vehicles for transporting passengers in Abu Dhabi. Driverless vehicles will be piloted in two phases."
     publishedDateTime: 2021-03-23T08:37:00Z

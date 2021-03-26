@@ -19,49 +19,48 @@ topics:
   - AI
 
 related:
-  - title: "UIDAI selects Neurotechnology and TCS for biometric deduplication and authentication"
-    excerpt: "TCS and Neurotechnology will deploy and maintain the new de-duplication system, which is powered by Neurotechnology's multi-modal Automatic Biometric Identification Subsystem (ABIS) and biometric SDK technologies for fingerprint,"
-    publishedDateTime: 2021-03-22T10:33:00Z
-    webUrl: "https://tass.com/press-releases/1268687"
-    ampWebUrl: "https://tass.com/press-releases/1268687/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1268687/amp"
+  - title: "FinTech company ENACOMM strikes partnership with leader in biometric and AI technology IDmission"
+    excerpt: "Banks, credit unions, credit card and payments companies of all sizes are now able to take advantage of the most modern identity solutions available, thanks to a new partnership between FinTech enablement company ENACOMM and IDmission,"
+    publishedDateTime: 2021-03-25T02:03:00Z
+    webUrl: "https://www.cuinsight.com/press-release/fintech-company-enacomm-strikes-partnership-with-leader-in-biometric-and-ai-technology-idmission"
     type: article
     provider:
-      name: TASS
-      domain: tass.com
-    quality: 32
-  - title: "Free GSMA service widens voice biometrics availability for customer authentication"
-    excerpt: "Telecom industry organization GSMA is developing a multimodal solution to address the challenge of biometric authentication in low tech environments and emerging markets. The solution B4LL (for ‘Biometrics for All’) is intended to enable digital ..."
-    publishedDateTime: 2021-03-22T22:37:00Z
-    webUrl: "https://www.biometricupdate.com/202103/free-gsma-service-widens-voice-biometrics-availability-for-customer-authentication"
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 26
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
+  - title: "IDEMIA Showcases Industry-Leading Facial Recognition Technology at DHS 2020 Biometric Technology Rally"
+    excerpt: "View original content to download multimedia: http://www.prnewswire.com/news-releases/idemia-showcases-industry-leading-facial-recognition-technology-at-dhs-2020-biometric-technology-rally-301251155.html"
+    publishedDateTime: 2021-03-22T12:05:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-covid-19-pandemic-coronavirus-pandemic-lung-disease-b3a2d297dbb2e58c53f00f0e33bc92ab"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "IDmission biometrics and liveness added to Enacomm stack for fintech onboarding"
+    excerpt: "Enacomm has formed a partnership agreement with IDmission to bring biometrics and other AI technologies to Enacomm’s fintech customers for end-to-end digital transformation of applications relying on identity verification. IDmission’s passive liveness ..."
+    publishedDateTime: 2021-03-24T21:46:00Z
+    webUrl: "https://www.biometricupdate.com/202103/idmission-biometrics-and-liveness-added-to-enacomm-stack-for-fintech-onboarding"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 13
-  - title: "Neurotechnology and TCS Selected by UIDAI to Provide Biometric De-duplication and Authentication for India's Aadhaar ID Program"
-    excerpt: "The consortium of the two companies will provide duplicate checking and authentication based on fingerprint, face and iris biometrics used for the issuance and verification of Unique Identification Numbers issued to all Indian citizens VILNIUS,"
-    publishedDateTime: 2021-03-22T10:02:00Z
-    webUrl: "https://www.fortuneita.com/2021/03/22/neurotechnology-and-tcs-selected-by-uidai-to-provide-biometric-de-duplication-and-authentication-for-indias-aadhaar-id-program/"
-    type: article
-    provider:
-      name: fortuneita
-      domain: fortuneita.com
-    quality: 11
+    quality: 20
     images:
-      - url: "https://www.fortuneita.com/wp-content/uploads/2020/04/adnkronos_cover.jpg"
-        width: 640
-        height: 480
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/02123142/identity-verification-integration.jpg"
+        width: 696
+        height: 392
         isCached: true
-  - title: "Neurotechnology and TCS Selected by UIDAI to Provide Biometric De-duplication and Authentication for India's Aadhaar ID Program"
-    excerpt: "Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition"
-    publishedDateTime: 2021-03-22T19:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/neurotechnology-and-tcs-selected-by-uidai-to-provide-biometric-de-duplication-and-authentication-for-india-s-aadhaar-id-program-808087661.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
   - title: "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution"
     excerpt: "VILNIUS, Lithuania, March 23, 2021 /PRNewswire/ -- Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS ..."
     publishedDateTime: 2021-03-23T10:00:00Z

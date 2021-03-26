@@ -19,17 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "WIMI Announced the Development of 'HoloPulse LiDAR', Expanding the Booming Holographic Application Market"
-    excerpt: "Bloomberg states that Apple has been committed to driverless car projects for many years and has developed most of the necessary software, underlying processors, and artificial intelligence algorithms for this complex system. What Apple is looking for is ..."
-    publishedDateTime: 2021-03-24T02:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/ab20312028/wimi-announced-the-development-of-holopulse-lidar-expanding-the-booming-holographic-application-m"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20312028"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20312028"
+  - title: "Lidar + AI vision – WIMI Hologram Cloud, Apple and Sony's Ambition in Unmanned Driving Solutions"
+    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “Lidar + AI vision – WIMI Hologram Cloud, Apple and"
+    publishedDateTime: 2021-03-26T04:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/ab20353104/lidar-ai-vision-wimi-hologram-cloud-apple-and-sonys-ambition-in-unmanned-driving-solutions"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20353104"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20353104"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 7
+    quality: 26
 
 secured: "u/pVMTUjzGWBCXT/Op+MvjY9uwwKNHGmPXdqmRtCA9haeP+K+KR9Cr9nWYsgY+LhxrTcR6D8H4UE4NkzNF1jkISn1mceM5bY7WyUz6eiGNQ8p/BA+65z01RwuUPHZ9D/DLs3FOPjBGGTqGPcvYsRhH6I2ZvTDMIXlAth5siUvyKz6brLKztfvYrCRZ+br7jkGNzJT6V8jhGn+uxjAUQ1k+B7AmjqAN2a19Ql6LaiXyQTIxEPIe3wb3w5po+Pi5Bb6VHgohSO6Is5vnZ9IviCMucJf1HspMIoPz+AxC8sZxmWzkvHS8p4iiNbR5zekhjgpLkKob+1sVaMfAWEfFX8mlcXIQ16S1/AMKWNp8fv1hQ=;4FJmzEwbYGaCbASjCeNUwg=="
 ---

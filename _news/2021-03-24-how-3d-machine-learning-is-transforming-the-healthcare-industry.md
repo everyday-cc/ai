@@ -9,7 +9,7 @@ ampWebUrl: "https://cheddar.com/media/how-3d-machine-learning-is-transforming-th
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry.amp"
 type: article
 quality: 76
-heat: 106
+heat: 86
 published: true
 
 provider:
@@ -42,24 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Move to E-learning Is Heating Up"
-    excerpt: "Inexorable forces are propelling the growth of e-learning at a blistering pace. Online-learning markets were ignited by high education costs, business training programs and a wave of tech innovations,"
-    publishedDateTime: 2021-03-23T14:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-move-to-e-learning-is-heating-up-2021-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-  - title: "In 2021, Machine Learning Is Set To Transform These 5 Industries"
-    excerpt: "Machine learning is enabling industrial shifts for increased efficiency. In 2021, the following industries are predicted to adopt machine learning."
-    publishedDateTime: 2021-03-22T04:15:00Z
-    webUrl: "https://www.analyticsinsight.net/in-2021-machine-learning-is-set-to-transform-these-5-industries/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 21
 
 secured: "GShyeG6aPUiKMozArsaJBvqtk6lVV+jvho8OxRn6VN0yNBdKApyyXpERLt/LuAae34yv7R/R1Liy6Lrc9xJ+YK/VfNMQVCmGF16Pe93pUkObvHVMEavbxAx6C7fp8W/Ve44CXXYWQN057U08DJQGzywr9fnmukUin+0tfT3KxmOmhpV9JrWVrjlPO4GEZSgSZLVdnhNsvXFInZNFvZyrFUoELgfqEGNNiSUMxmuDTSe9I5NAio1fclXe1USmLvrU91JGb01rax2ls1/+7QtnBrmSmiIh6HP0tyID368QuwLpvaEjPEuSUZ63CN5twt79HECcj0Du48qkAfZJ4k0SigQGELKHrc5nRJQbHi7Jn7XPHImXZtzUwBUABDJvfKx0by15f5VMBsP/L5/UzeMF81p7f+Gc1y/GXNg4ViM/vzFULZOE7TtjscHiIqoV6ER0HwZnX3HA7wQik+qHnnsrcW//b8CpT59nJDJVf8czZzAJA9StDQrWFgiuBQnzG7TmuPzeUDohYZ45fjXntFOhvg==;v5RcSDS0gn1aXEMVKtlrUw=="
 ---

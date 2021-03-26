@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-27-computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move.md",
+      "title": "Computer vision software has the potential to reinvent the way cities move",
+      "excerpt": "The same frustrations have plagued urban roadways for decades. But technology is finally providing new ways to address the challenges of crowding, pollution and parking enforcement on city streets.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/",
+      "originalUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-951157764.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/amp/",
+      "publishedDateTime": "2021-03-26T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-philly-airport-screening-international-travelers-using-facial-recognition-technology.md",
+      "title": "Philly airport screening international travelers using facial recognition technology",
+      "excerpt": "The Simplified Arrival system has processed 66 million people at other U.S. airports, flagging more than 500 imposters",
+      "sourceUrl": null,
+      "webUrl": "https://www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/",
+      "originalUrl": "https://www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.phillyvoice.com/media/images/032621-phl-biometric-screening.2e16d0ba.fill-1200x630-c0.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/amp/",
+      "cdnAmpWebUrl": "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/amp/",
+      "publishedDateTime": "2021-03-26T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PhillyVoice",
+        "domain": "phillyvoice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-apple-tightens-partner-security-rules-forbids-facial-recognition-of-its-employees.md",
       "title": "Apple tightens partner security rules, forbids facial recognition of its employees",
       "excerpt": "New rules for manufacturers working with Apple reportedly include severe limits on biometric scans of Apple staff on premises, yet encourages greater use of security cameras for factory workers.",
@@ -54,7 +150,7 @@
       "originalUrl": "https://ktla.com/5-live/disney-begins-testing-facial-recognition-software/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1044,12 +1140,12 @@
       ]
     },
     {
-      "path": "_news/2021-03-11-worldwide-ai-in-computer-vision-industry-to-2027-rise-in-demand-for-automating-processes-across-industries-presents-opportunities-researchandmarke.md",
-      "title": "Worldwide AI in Computer Vision Industry to 2027 - Rise in Demand for Automating Processes Across Industries Presents Opportunities - ResearchAndMarke",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component and End-User\" report has been added to ResearchAndMarkets.com's offering. According to this report the global AI in computer ...",
+      "path": "_news/2021-03-12-ypb-groups-enhancements-to-motifmicro-authentication-solution-app-will-advance-commercialisation.md",
+      "title": "YPB Group's enhancements to MotifMicro™ authentication solution app will advance commercialisation",
+      "excerpt": "Object recognition has been achieved, adding to QR and GS1 barcode readability while intuitive user guidance has been added. MM1 is YPB’s forensic smartphone-based authentication solution for ...",
       "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=435674",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=435674",
+      "webUrl": "https://www.proactiveinvestors.com.au/companies/news/943670/ypb-group-s-enhancements-to-motifmicro-authentication-solution-app-will-advance-commercialisation-943670.html",
+      "originalUrl": "https://www.proactiveinvestors.com.au/companies/news/943670/ypb-group-s-enhancements-to-motifmicro-authentication-solution-app-will-advance-commercialisation-943670.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1057,100 +1153,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T02:58:00-08:00",
+      "ampWebUrl": "https://www.proactiveinvestors.com.au/companies/amp/news/943670",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/943670",
+      "publishedDateTime": "2021-03-11T18:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
+        "name": "Proactiveinvestors UK",
+        "domain": "proactiveinvestors.com.au",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-a-temporal-hierarchical-feedforward-model-explains-both-the-time-and-the-accuracy-of-object-recognition.md",
-      "title": "A temporal hierarchical feedforward model explains both the time and the accuracy of object recognition",
-      "excerpt": "The recognition accuracy and its processing time depend on different stimulus properties such as the viewing conditions, the noise levels, etc. Recognition accuracy can be explained well by different models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-85198-2",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-85198-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-85198-2/MediaObjects/41598_2021_85198_Fig1_HTML.png",
-          "width": 685,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T02:44:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-global-computer-vision-development-market-size-share-value-and-competitive-landscape-2026.md",
-      "title": "Global Computer Vision Development market Size, Share, Value, and Competitive Landscape 2026",
-      "excerpt": "Mar 11, 2021 (Heraldkeepers) -- According to this latest study, the 2021 growth of Computer Vision Development will have significant change from previous year. By the most conservative estimates of global Computer Vision Development market size (most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-development-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-development-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T00:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

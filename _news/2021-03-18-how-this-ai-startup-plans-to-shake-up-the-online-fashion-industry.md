@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
 
-secured: "jURIORv37rBa7odmiVjVpuCIdTbnHqQon3dqFnzmnu91t8MU9VHF4/xD31IXhnWcIftcBi4CyNajI5OA5echUnLg85ssHqomYv9rOelN92Yqf1qYajc+H3DdcACeXg4rFQWZ6H1MAR1bmWchrmGDRgz4WiE1VRRElVR1PhboNnkfKFKHR0bqHhgPLH+LFEpiQLj0LOdj/sXC9WRFiAz5KxKU6+C3+5n3AkPG04PR2kBf/Jr5XGsN8OuRIWQLQdvYaj29OaD8NEG+vM1pOocfIUSbnTXhJonD6W1zEuP7VbdK8iaKTwYglOnl+an0NZTqi7AF32qDyAiSDQHaQkROlVDYzsIcfNWGzeww/oO7y3A=;aiHG1SCDoCedUy1PhqXQcQ=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049ca82f8032bf0ffc586e3%2F0x0.jpg"
+    width: 1200
+    height: 823
+    isCached: true
+
+secured: "vsDwxGw0Rg7vqQLX90Af3b7y6AnpBLlmktzTuIH54R/nbpfCzBAd6guod8jZmzKIdR7KlxQN4BjLtGeVTyJyKog/YuJajKmypt4Cev3poAGgogyl22gFGemzb45INx7Wa5RXgrj9cy4Jhq+0KuQUTabZoZqVciCBb+uF68NU22sZ8j4L8r8VDqsjtpI+6YxhDtCsXSgCJgPlgAoBKKMsltmiLYuRt6iAgdx0/34cYs2oqzKRCD2EKbnk7oLoXUVtSOD6k4y5VeguhiVtbxnjDcwcnOHpGLFv5wtsJ4Wbism7bbzjW0ZM+ZMbiwhZSKQU/QXWJgpZa+j/XMJMjFHw51sxL5WQUcZ2rGQHVYWBq0g=;dA1M8zH4Inti5Q2A2xxZLA=="
 ---
 

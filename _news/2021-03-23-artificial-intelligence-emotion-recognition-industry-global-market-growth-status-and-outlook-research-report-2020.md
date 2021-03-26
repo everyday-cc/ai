@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-industry-global-market-growth-status-and-outlook-research-report-2020-2021-03-23"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -22,38 +22,15 @@ topics:
   - AI
 
 related:
-  - title: "Strong Competition in Booming AI Infrastructure Market"
-    excerpt: "COVID-19 Outbreak-Global AI Infrastructure Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,"
-    publishedDateTime: 2021-03-20T19:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/strong-competition-in-booming-ai-infrastructure-market-2021-03-20"
+  - title: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool"
+    excerpt: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool, taking Thai companies to another level to deal with current challenges AIS has joined the Thailand AI Research Institute ..."
+    publishedDateTime: 2021-03-23T10:22:00Z
+    webUrl: "https://www.bangkokpost.com/thailand/pr/2088463/ais-teams-up-with-thailand-ai-research-institute-showcasing-ai-platform-of-thai-speech-emotion-recognition-in-world-first-tool"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-  - title: "How the construction industry builds smarter with artificial intelligence"
-    excerpt: "With the advent of sophisticated machine learning algorithms and artificial intelligence, the construction industry is one sector to be positively impacted. Traditional processes are no longer efficient in the world of digitalization,"
-    publishedDateTime: 2021-03-22T13:42:00Z
-    webUrl: "https://exclusive.multibriefs.com/content/how-the-construction-industry-builds-smarter-with-artificial-intelligence/construction-building-materials"
-    type: article
-    provider:
-      name: MultiBriefs
-      domain: multibriefs.com
-    quality: 38
-    images:
-      - url: "https://exclusive.multibriefs.com/images/exclusive/1102construction.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Artificial Intelligence in Energy Market Key Players, Competitive Landscape, Growth, Statistics, Revenue and Industry Analysis Report by 2027"
-    excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
-    publishedDateTime: 2021-03-22T16:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-key-players-competitive-landscape-growth-statistics-revenue-and-industry-analysis-report-by-2027-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 12
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 0
 
 secured: "C2wXn20TYWBQkwuWNwRyfx1Da+3KxrgpivqN/QDo9TKeX4a20ylO23CDfcPaWLKPXdWrvtOpOIpkT01QRGnNZKf2KDzsoYznJN5QLQT8FJrUbZrQGshDihnaCquCfBf0QiIev3J7LIaU+CMWyTy0BNMUMRBdD2q6y+ihBM9ZeRA4O92i36utpumcOLj9xUp2hl6rEjpPlbtKaqEdO6NzVJay58LGA0YVkRdFJlG3KqpElPtznGpPlb4puqYJZtGFUa6HbyzmTxV1/4/xoT+fgbuAgnIVUja3Lw7zEGyq8GhlpFZV0vb8roT3W+ou/2xlFZd94LjxQYy6RCvrSCeclatWqz+ZBkFyqXhQ63REhlc=;dNDbQuOc3kac8kQzAk6stQ=="
 ---

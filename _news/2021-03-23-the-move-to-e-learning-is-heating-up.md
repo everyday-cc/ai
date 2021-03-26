@@ -23,45 +23,50 @@ topics:
   - AI
 
 related:
-  - title: "How 3D Machine Learning is Transforming the Healthcare Industry"
-    excerpt: "Paul Powers, CEO of Physna and Thangs, joins ‘Cheddar Reveals’ to discuss the advantages of 3D machine learning, and how it’s transforming the healthcare industry."
-    publishedDateTime: 2021-03-23T18:22:00Z
-    webUrl: "https://cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry"
-    ampWebUrl: "https://cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry.amp"
-    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry.amp"
+  - title: "Amazon AWS, Hugging Face team up to spread open-source deep learning"
+    excerpt: "Amazon and startup Hugging Face say the ability to rapidly assemble thousands of neural networks inside of Amazon SageMaker, and train them with greater ease, will “democratize” use of deep learning."
+    publishedDateTime: 2021-03-23T21:00:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/"
     type: article
     provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 76
+      name: ZDNet
+      domain: zdnet.com
+    quality: 106
     images:
-      - url: "https://img.chdrstatic.com/media/8b190c38-f697-45a3-97ff-467278ac1987.png?width=1200&source=backend&auto=webp"
-        width: 1200
-        height: 675
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/23/b303e223-69b6-4396-b744-102b4be9b771/aws-and-hugging-face-2021-for-placement.jpg"
+        width: 971
+        height: 462
         isCached: true
-  - title: "10 rising stars of the self-driving business share their tips for breaking into the booming industry"
-    excerpt: "DOW S&P 500 NASDAQ 100 In recent years, the self-driving vehicle industry has been one of the hottest in tech, attracting billions in funding as the engineers at Waymo, Cruise, Argo, Amazon's Zoox, and more battle to bring their tech to market and reap the ..."
-    publishedDateTime: 2021-03-24T12:53:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-stars-tips-for-getting-into-the-industry-2021-3"
+  - title: "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing"
+    excerpt: "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing - SiliconANGLE"
+    publishedDateTime: 2021-03-24T01:34:00Z
+    webUrl: "https://siliconangle.com/2021/03/23/amazon-web-services-partners-hugging-face-simplify-ai-based-natural-language-processing/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/AWS-Hugging-Face.png"
+        width: 613
+        height: 315
         isCached: true
-  - title: "In 2021, Machine Learning Is Set To Transform These 5 Industries"
-    excerpt: "Machine learning is enabling industrial shifts for increased efficiency. In 2021, the following industries are predicted to adopt machine learning."
-    publishedDateTime: 2021-03-22T04:15:00Z
-    webUrl: "https://www.analyticsinsight.net/in-2021-machine-learning-is-set-to-transform-these-5-industries/"
+  - title: "Amazon Web Services collaborates with Hugging Face to simplify AI-based natural language processing"
+    excerpt: "Amazon Web Services Inc. partners with New York based startup, Hugging Face Inc. with the aim of accelerating and simplifying NLP models."
+    publishedDateTime: 2021-03-24T13:01:00Z
+    webUrl: "https://techstory.in/amazon-web-services-collaborates-with-hugging-face-to-simplify-ai-based-natural-language-processing/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 21
+      name: tech
+      domain: techstory.in
+    quality: 57
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/03/AWS-Hugging-Face.png"
+        width: 613
+        height: 315
+        isCached: true
 
 secured: "xzp+FRpPRVKAz1koQVLHPFhaGwr9FoaZv14QAUqaK9R3cQRxIZWQKnTzPNA5/9u93N5gSdCl9GZ5ly5UV0mN14KBohDiv0RPLLXuM0MDzNj8+5EKpQxUXnSSYpa/VXHw0nrf1sYVYLLmKoitWdso7yKVt9ywMn7zCXZJrYoTh1vw4Ie1CkNB8h289+Gk+HQMcb7fsWZ4qfpHUI3Pm9H9LZLWvIyxE9deFuDf9YAROLTKqTHsb+AiKLQtYYNbPBsh4uHFLBPSy5sdMEU2jRzU42HxZ9MjnWmDhudCYjW+RKXv2WkWRaKj5ttnkYOBr0HpQZEEshOzTe8ojTNSObDH/7CFoh+Fp1b1sXhCnqLaL58=;OyV4aUA/E8TdkZcMWiFzfQ=="
 ---

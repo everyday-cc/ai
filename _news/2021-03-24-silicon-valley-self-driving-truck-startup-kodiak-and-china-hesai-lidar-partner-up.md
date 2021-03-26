@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Silicon Valley self-driving truck startup Kodiak and China Hesai lidar partner up"
+title: "Silicon Valley Self-Driving Truck Startup Kodiak and China Hesai Lidar Partner Up"
 excerpt: "Silicon Valley self-driving truck startup Kodiak Robotics Inc and Shanghai-based lidar maker Hesai Technology Co Ltd on Wednesday announced a partnership to integrate the Chinese lidar into the autonomous trucking system."
-publishedDateTime: 2021-03-24T11:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up-2021-03"
-webUrl: "https://www.nasdaq.com/articles/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up-2021-03"
-ampWebUrl: "https://www.nasdaq.com/articles/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up-2021-03?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up-2021-03?amp"
+publishedDateTime: 2021-03-24T11:40:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-03-24/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-03-24/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up"
 type: article
-quality: 64
-heat: 74
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -36,6 +38,6 @@ related:
         height: 600
         isCached: true
 
-secured: "M5iZ99BxlOu6VJ86tcWBLBIyg13hm3NSDXQTnVcq//KtM1wke6Fr7gvoiz3Ms4+7JH2BpHgOUjK+gL/Me/p7Tq6ZkCsyBZnQ60KoWznLTdzhuwqO/v/9JmL4PJ4zHomgvaVXFWghsAYm4xr+9GvJfvYZ/H/LN2Y8kZbfVjLvjBrm1p2coOnNIEYSqwhxy0lDRZ4QJExEwustbpTP1p2u3amS74jh/P8KB0HSqbGVR448WxUnP5GG99xHhkwfGUf6zdcympLgXYgKdkykxzE3ArSYS7ARgD1YKKhapvgHFmpcluNmYyJ80ZdCBWYnr9/AsiuIOV7yu2lZsx8jwtkxeM0iKEVNPQD5SibYsU03r74=;rXR3+yB9poOc5fgHBnDU9Q=="
+secured: "tpSvnSTYgFeERsJ5eNgemwWgUfKuxooG4KEjSZrtZVF8+JrOFBwKayH3DtySslYhG2SMSfdeP83Z+aDes5gn4RxEFHqT599PjahbUEUDQnFRMUkkV6knwZseFtplfm2oDA6v2IJNBw4p4HJeouoBEGYBn5jrw3+0J0lFMIsoXR/mYaPG8P7HX4T+8aeTYutVnfzwLFT9rzbUeapxuqP0miPnXRAh3gxaMRwfn1kyPUaLxcbpUi2Iw25lFrt9jPNsR+p9pKS2kkgC8OJsJOGLgUk3H5T+W1MYKTyhGRG0o0LST3wNfuZ9yWOf2NqmYPa65tqXVmoacPZ/lj8b/RhijN0/XdxEX7BS8ltgUiHsNj6xuHTpqlscij9MS4MFrcloOrHZcV1CL26lllZSAID6BFUoi6QfTUjlQTA1ugNMQYWua5df5ZzOdX4Wkk7ljUBscVVNTeNvhbKmY9AJRdddLLDk6D9MoVIRof58ZK59w75N7owFsb3/dKHZlvxI0O3MGDu12KAdIwuoe4ne6n94Rw==;7IL9pQW2iPvmcEbQ8gaMnw=="
 ---
 

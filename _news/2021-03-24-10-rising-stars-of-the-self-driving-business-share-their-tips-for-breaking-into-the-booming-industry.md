@@ -45,24 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Move to E-learning Is Heating Up"
-    excerpt: "Inexorable forces are propelling the growth of e-learning at a blistering pace. Online-learning markets were ignited by high education costs, business training programs and a wave of tech innovations,"
-    publishedDateTime: 2021-03-23T14:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-move-to-e-learning-is-heating-up-2021-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-  - title: "In 2021, Machine Learning Is Set To Transform These 5 Industries"
-    excerpt: "Machine learning is enabling industrial shifts for increased efficiency. In 2021, the following industries are predicted to adopt machine learning."
-    publishedDateTime: 2021-03-22T04:15:00Z
-    webUrl: "https://www.analyticsinsight.net/in-2021-machine-learning-is-set-to-transform-these-5-industries/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 21
 
 secured: "3cyVOo1XAC8il0clMAy7JglcLV9HoT2qtm7Vvxztj/grOtBnP+N51frOC45ABsp7Zo1+aDsiJ13P4uyjB0r823b2LuxXmYev4Dxcd301QybVI/FM357wLliQIlCL917beZiad3achqfD0t5Q7ZUY7RPWlk4E7QLcuqGHqNIxfy/SkJpj+qhtMdhtOzMvsC2B5AJl7cDNYKX5rDeMAL1UwcAXS1mdmqbJKBlf5MO7huk0p7th0gZerKZG71DoIJA/cJLWLr86AcyXW515gsD1WD3ng/Ez6TsuJVNHARBcvBQkheOMXdGcEk3Xq7zOLhyw9plsZ7cVeHMSi62qKqOVCAH0TV/fEbtgVhI1UONMuZuxPhlfw4x9xHjJqacqTF/YidABGCnrtEfz5hi0a73xF9BOe9fziAWQy3P0EbEtS0f2U5rwW48uQeFdcnN9H1IcAoCoEEOUukDZUgGhWfwKQHFxvvesbi0F66L1mB8KdvkwDttCT82skXTjwNr7KFP6wc0SaLlljG768B9rim9d0Q==;slqWYxfv1njxBDLn17JUzQ=="
 ---

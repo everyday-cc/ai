@@ -28,15 +28,6 @@ related:
       name: Capacity Media
       domain: capacitymedia.com
     quality: 19
-  - title: "Singtel, Optus to Develop 5G Solutions on MEC with AWS Outposts"
-    excerpt: "The MEC, leveraging the Amazon Web Services (AWS) Outposts, will enable 5G solutions like robotics, drones, autonomous vehicles and artificial intelligence to operate at ultra-low latency, closer to the end-users. AWS Outposts is a solution that enables ..."
-    publishedDateTime: 2021-03-21T23:59:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/19333-singtel-optus-to-develop-5g-solutions-on-mec-with-aws-outposts"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 19
 
 secured: "THZ/9GXGV+IRaq3QDJ9NSP7IkrCMxzl7DkrfcOtrU2Yo8DV3c0iYMN2zr6vzFKMvgJBunUu7uupFXRM458nwa+ql4tiiG7DKM0g1e8gO8SLSnHT01kwG91DIMpPMDzIyuXQVTSx6doll94smFQ1sVeQ+ruW65FO6sH59H8Sx0klBLxkAzoB0xDtjY8/5P5Zt9m2WEgeozudFxVV0mQ9PiJfYmW4J7ewX39Gc/u3jGVFY5EmX77JGyLxqLpjsqe+mY/nzrn8YbhKK/pHGNFy/r7TQHK6gJe/A1rudA4KwI4NrAjLhv+6KSMfkl7oJc1u68nnT0GftF0uXCBy1OuzuM8cggcxuE9sniJDPoY8YvnM=;9l4Cx+liWPROdI/oL8ZS3w=="
 ---

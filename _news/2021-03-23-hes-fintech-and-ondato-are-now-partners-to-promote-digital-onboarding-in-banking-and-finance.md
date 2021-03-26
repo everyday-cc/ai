@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "IDmission biometrics and liveness added to Enacomm stack for fintech onboarding"
-    excerpt: "Enacomm has formed a partnership agreement with IDmission to bring biometrics and other AI technologies to Enacomm’s fintech customers for end-to-end digital transformation of applications relying on identity verification. IDmission’s passive liveness ..."
-    publishedDateTime: 2021-03-24T21:46:00Z
-    webUrl: "https://www.biometricupdate.com/202103/idmission-biometrics-and-liveness-added-to-enacomm-stack-for-fintech-onboarding"
+  - title: "Fintech Become, an Online Lending Platform for SMEs, Shares Insights on Customer Satisfaction and Digital Commerce"
+    excerpt: "Fintech Become, an online lending platform for SMEs, shares insights on customer satisfaction and digital commerce."
+    publishedDateTime: 2021-03-25T03:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/03/173520-fintech-become-an-online-lending-platform-for-smes-shares-insights-on-customer-satisfaction-and-digital-commerce/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/03/173520-fintech-become-an-online-lending-platform-for-smes-shares-insights-on-customer-satisfaction-and-digital-commerce/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/173520-fintech-become-an-online-lending-platform-for-smes-shares-insights-on-customer-satisfaction-and-digital-commerce/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 22
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/02123142/identity-verification-integration.jpg"
-        width: 696
-        height: 392
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Cloud-Happy-Jump-Ocean-Beach-Sunset-Dusk-Wave-Florida-600x504.jpeg"
+        width: 600
+        height: 504
         isCached: true
   - title: "Obligo Named the Most Promising Israeli-Founded Fintech Startup in Lending and Financing for 2021"
     excerpt: "As the only non-insurance deposit alternative, Obligo’s credit-based solution keeps landlords secure and renters accountable by combining Open Banking technology with AI-based underwriting and collection capabilities. Since launching its fintech solution ..."

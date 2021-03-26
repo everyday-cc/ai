@@ -26,15 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "AWS and Hugging Face Collaborate to Simplify and Accelerate Adoption of Natural Language Processing Models"
-    excerpt: "Just like computer vision a few years ago, the decade-old field of natural language processing (NLP) is experiencing a fascinating renaissance. Not a month goes by without a new breakthrough! Indeed, thanks to the scalability and cost-efficiency of cloud-based infrastructure, researchers are finally"
-    publishedDateTime: 2021-03-23T15:04:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models/"
+  - title: "Amazon AWS, Hugging Face team up to spread open-source deep learning"
+    excerpt: "Amazon and startup Hugging Face say the ability to rapidly assemble thousands of neural networks inside of Amazon SageMaker, and train them with greater ease, will “democratize” use of deep learning."
+    publishedDateTime: 2021-03-23T21:00:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
+      name: ZDNet
+      domain: zdnet.com
+    quality: 106
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/23/b303e223-69b6-4396-b744-102b4be9b771/aws-and-hugging-face-2021-for-placement.jpg"
+        width: 971
+        height: 462
+        isCached: true
   - title: "Amazon Web Services collaborates with Hugging Face to simplify AI-based natural language processing"
     excerpt: "Amazon Web Services Inc. partners with New York based startup, Hugging Face Inc. with the aim of accelerating and simplifying NLP models."
     publishedDateTime: 2021-03-24T13:01:00Z
@@ -49,6 +56,15 @@ related:
         width: 613
         height: 315
         isCached: true
+  - title: "The Move to E-learning Is Heating Up"
+    excerpt: "Inexorable forces are propelling the growth of e-learning at a blistering pace. Online-learning markets were ignited by high education costs, business training programs and a wave of tech innovations,"
+    publishedDateTime: 2021-03-23T14:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-move-to-e-learning-is-heating-up-2021-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
 
 secured: "P9K0n5INYymHipT02fdblLtMloVray73beH0mCQ+n6SGqwd4w9ro25KDbREsZx5y+vNuDiT3N7Pamm0e31viKLiIyzT+Fe76W9265X16rUtClbx00nmR/gmXssC9bTPHHJF5GhtP199Lj6D0mgsjA6LQpvbC5odp63eU63kLHAGgoLWgnMztbimjxfSdE3dt80oU49l5fx/tSAu00ce9tB10sdOyUBEsT1pviXuT7B8hjCDAT3ZQ0Pp/NkhaDcMSCFkL0SvShE1LDBVWxaP5tqekre7IW1YLLdbkEOhjpprUeVQJx+LotyxWB+qlh7h9yRpwVqnw0RJE9zWyY5NyZwq+/ly8NjG7z4e7u3h59/NJ0b1FSCiMtPSZV/m2TSUdCQ3fJmDq0j6DEtgxdotWwtc96jRfdg/bIKWbgkhVb+4vt5RaDwX+GIkm3EBc1J5PrBvJMWUbUsgfd03iSVsv6GtzyzSklCsAeF+lXaIaoxk3wfumVAYTpkHhuSMPLMSKe8Eqt35fDRXEtev9wrAjZQ==;48s/fn+N5i6H1RL3SVyy2Q=="
 ---

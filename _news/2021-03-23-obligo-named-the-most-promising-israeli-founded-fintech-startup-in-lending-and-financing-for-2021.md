@@ -28,19 +28,21 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 23
-  - title: "IDmission biometrics and liveness added to Enacomm stack for fintech onboarding"
-    excerpt: "Enacomm has formed a partnership agreement with IDmission to bring biometrics and other AI technologies to Enacomm’s fintech customers for end-to-end digital transformation of applications relying on identity verification. IDmission’s passive liveness ..."
-    publishedDateTime: 2021-03-24T21:46:00Z
-    webUrl: "https://www.biometricupdate.com/202103/idmission-biometrics-and-liveness-added-to-enacomm-stack-for-fintech-onboarding"
+  - title: "Fintech Become, an Online Lending Platform for SMEs, Shares Insights on Customer Satisfaction and Digital Commerce"
+    excerpt: "Fintech Become, an online lending platform for SMEs, shares insights on customer satisfaction and digital commerce."
+    publishedDateTime: 2021-03-25T03:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/03/173520-fintech-become-an-online-lending-platform-for-smes-shares-insights-on-customer-satisfaction-and-digital-commerce/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/03/173520-fintech-become-an-online-lending-platform-for-smes-shares-insights-on-customer-satisfaction-and-digital-commerce/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/173520-fintech-become-an-online-lending-platform-for-smes-shares-insights-on-customer-satisfaction-and-digital-commerce/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 22
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/02123142/identity-verification-integration.jpg"
-        width: 696
-        height: 392
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Cloud-Happy-Jump-Ocean-Beach-Sunset-Dusk-Wave-Florida-600x504.jpeg"
+        width: 600
+        height: 504
         isCached: true
 
 secured: "XGvIHp89u+dT+V+X5HbMroA69YDb8pzo5mSAnxryyifkEPpFXd4qdcm2jT7FAyUFp8MxwQcs7jJ/TsjK9ecgF2N+ejKngfAvXAYdgOmTzxNaHkaOf5fdwijTkymlWmiVZ1xk2A28e2ppcZgv7sBOMYEuQaqeZvtZNleiC5GK33On0POZ/2rPTzayeMkFjNzy5oSTtVAjPh5bpVmp/tkkE1Vt8Yp1GD1VofywOqTBQxBT44z8iT2/LlYqHg/fbOXujStow8KMFWe566mRUs+Dk7kKBFmtyp7w78S8uDmp8njQ5Yw6uo90Rh91Uu4603oop4Yqh12jYKBGRFkE9K2bOc7V4KSL5exicoL1+swDVP8=;IMsnY30udKjV5LecmywKMA=="
