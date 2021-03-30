@@ -3,27 +3,18 @@ category: news
 title: "MetiStream and Carilion Clinic Partner to Improve Surgical Quality Using Natural Language Processing and Artificial Intelligence"
 excerpt: "\"Carilion physicians know the ins and outs of reviewing surgical quality data. We are experts in Natural Language Processing (NLP) and AI,\" said Chiny Driscoll, CEO and founder of MetiStream. \"Together, we're the right team to address the long-standing ..."
 publishedDateTime: 2021-03-23T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/metistream-and-carilion-clinic-partner-to-improve-surgical-quality-using-natural-language-processing-and-artificial-intelligence-301253753.html"
-webUrl: "https://www.prnewswire.com/news-releases/metistream-and-carilion-clinic-partner-to-improve-surgical-quality-using-natural-language-processing-and-artificial-intelligence-301253753.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/metistream-and-carilion-clinic-partner-to-improve-surgical-quality-using-natural-language-processing-and-artificial/article_bfb97e71-d25a-5869-bba3-c4d94bf95979.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/metistream-and-carilion-clinic-partner-to-improve-surgical-quality-using-natural-language-processing-and-artificial/article_bfb97e71-d25a-5869-bba3-c4d94bf95979.html"
 type: article
-quality: 25
-heat: 25
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "R1s/sYTHklyNhR8x+iwkPP3XS9z7Sv6j2Zfv99fWwF1JjlibUhoJCpJ5IEbk38g7ribW+yhfc0u/mQeE/rgfJus+xZgJaZpOOGrGh9idrJgmmXH8S0oH0VPwP3fngtmMEn5hihj90+miF1E8mXt87cXGFHXWScjpqOPX7sPQ3/E4Um9rW1NqUHOaNyir7xTlRhLyAMuzcYX5nUEtuLUh9VXnMuCP6lzf5JFJTHG5KmfcNGIHv+hDH1NiupNz6hW/axa/uSLXor+UI8PFoIujDXxDYHo088pqgoZaOJryQ2wHfN0jLd93q6/QrG+bLEXTf+pU5Zr5MaNG8H5iQt+BwY7POiLBHGw12XPx2+u0h7w=;T3Y5ahrXgLjwECF/axX4mA=="
+secured: "VsxarUO0eCHoReiHajJDe96WwKGF9xMqgDEVY6tKb7tTh7o2M+xlvWyHfZIrdSK7Z2Pek1I2dhR++U6kkPmu8dDFkkKidTIpRsMdNvs8jA6ToGaGLpmMAXLHOHsGSLYjrEie1CAYFW68ZpvJDbw26ExW6iQtaZPIvhEAQPh0JZvjl9IXnFFuZBfhjaPalYK0z4pi5CLtoGCs648kzTLg9g8oCcdBrAp4j8IJHKz3/3JHLxqzWhUPdpdi0rnvBxcBITHl4WQ/IevDzjZory82Ovnx7Uqai2SIUgvdu1OEixhuHG0nYOqX4IafTGmFuXFhkzcrAL/8OS3YYhWK88LKhlFKTZd0p2+wEhUy78x54EM=;uq7PWyde9D9g9q+DmNEyNA=="
 ---
 

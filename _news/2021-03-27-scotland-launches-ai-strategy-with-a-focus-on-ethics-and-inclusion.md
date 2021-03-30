@@ -7,8 +7,8 @@ originalUrl: "https://www.globalgovernmentforum.com/scotland-launches-ai-strateg
 webUrl: "https://www.globalgovernmentforum.com/scotland-launches-ai-strategy-focus-ethics-and-inclusion/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 54
+published: false
 
 provider:
   name: globalgovernmentforum.com
@@ -24,31 +24,6 @@ images:
     height: 414
     isCached: true
 
-related:
-  - title: "Trust and ethics placed at heart of Scotland's artificial intelligence strategy"
-    excerpt: "The strategy will lead to the creation of an ‘AI Playbook’, which will be a practical guide to how AI is done in"
-    publishedDateTime: 2021-03-24T17:23:00Z
-    webUrl: "https://www.holyrood.com/news/view,trust-and-ethics-placed-at-heart-of-scotland-artificial-intelligence-strategy"
-    type: article
-    provider:
-      name: Holyrood
-      domain: holyrood.com
-    quality: 52
-    images:
-      - url: "https://www.holyrood.com/siteimg/share/ugc-1/fullnews/news/17008/16436_original.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Scottish government AI strategy majors on ethics and inclusion"
-    excerpt: "The Scottish government has announced an artificial intelligence strategy that involves the creation of a Scottish AI Alliance to be drawn from across society, including trade unions and companies."
-    publishedDateTime: 2021-03-23T14:02:00Z
-    webUrl: "https://www.computerweekly.com/news/252498284/Scottish-government-AI-strategy-majors-on-ethics-and-inclusion"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 34
-
-secured: "3VyYWQdFwIEo5OvXLrh92VafLMAZILvl7i0j6iVNq87A+uzjiEaP3cvflXlgf9TKlbRowGNhKofZ9Khdg0FhlMhtQIOZUCJdgdq+Uo/pTzR1tsqopNI/wznp1z2/ss8H6gJf7lFOqqY1usbpltPuAM5gcsJf1AEwls5aBfNJX4TbazCF0Tecs6ujow3IhqQGS4zrcGKOhuZxGrbZVrpiymc18kvMIsU4cGp854GaUQikCfkMCOtZ6oPdlJUUxFCXDA/jE8jgAQVGdhojSgKeJerEKKqDUQnma3Fcog/WaoBnurOFu6iDYvSqfiWnI7NJQlwT8R4N3Y1qpttUZLbLvPiUx8hLCOqpCQQ0AR1P4TE=;J+ZBz31pgXdRwf0dhuAHaA=="
+secured: "9QetWSQHaEoqTW+BpO2O3hE/XQlTcGBJuf6NJuA4G3BMkPGjh8HNZTjaWAFnVfsQQU+rs/CEyB7yLE272PFGDfnoCCRlW38VLTB4kUc0dl2mqP/AGBvtzzyV9qVnt6c7ggO5BPQOUoAR7ckgOjCUq6TIVVWpztOpi6BsJTgC77CWZjKw1KzX690nUKX3vJtPF3PUn8+8ziJAfTwHBHzAPSj5O5mYkp1wOTN+1r1LYZwYgZLAj+ZqXvEdC3yzAKlvKAsL3SLh1Qvkdm0bcGqpMa6kv2Rjc99j50RYZezLnynpyvWrn5WNv1is0+gpjFAxRAwYzgCaqlvbjU1krWUeij/J3KzmkXMOs7QSdraSuIqrUrGB2xU6cQGmamZTTcPMDuV/ysPr9dhmcPkzO3v0jvRX0FsFH+Pc9kgNB6nnpkK5RvQVt0Wvm7JLqWMOAS6Zbc7Q2P3lVddrp0JDlAFNQpfHm4uC8AB4yf53S2JaZ1FxuFPD8WY5BZyQD2VeSNETNFoSJkwEdKnlhBb96vQMxg==;tgxuZidY5Ks6jNigTsf1Yg=="
 ---
 

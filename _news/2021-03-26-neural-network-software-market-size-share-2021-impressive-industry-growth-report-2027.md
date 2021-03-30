@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2262380/neural-network-software-market-si
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262380/neural-network-software-market-size-share-2021-impressive"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -21,15 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Neural Network Software Market Experience Significant Growth During The Forecast Period 2021-2025"
-    excerpt: "Download Sample of This Strategic Report- https://www.kennethresearch.com/sample-request-10154463 Emergence of artificial intelligence and the latest technologies are the driving factors of the growth of neural network software market. With the increasing ..."
-    publishedDateTime: 2021-03-22T05:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-experience-significant-growth-during-the-forecast-period-2021-2025-2021-03-22"
+  - title: "Global Machine Learning As A Service Market 2020 Size, Share, Growth, Study Forecast To 2026 | ZMR"
+    excerpt: "ZMR analysts forecast the latest report on Machine Learning As A Service Market Size continues to grow from 2020 to 2026, according to their latest report. The report on the global “ Global Machine Learning As A Service Market 2020 Size,"
+    publishedDateTime: 2021-03-26T07:13:00Z
+    webUrl: "https://ksusentinel.com/2021/03/26/global-machine-learning-as-a-service-market-2020-size-share-growth-study-forecast-to-2026-zmr/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 7
 
 secured: "sn3neIbFcXe0FqofQMA3nOUpY18WxGBOxpzsCuQ2Dm40ojw4Do57y1BxedqcxO5e4oTh9IEF7e9jWX+Luya0gMPZmk7CQoXqQC5BusYyPm/u4XH4jcJz2RU3cYPSDrQnWs78G4GqkPJGbdnNtp6I8daAg9QNcu78111NQl35ZCr7nP3iESKz4yVAZK0hiIGTs1iYpQh6iCubxrKc1xHA2QdXx3KJs0MAwovzCjOnQArLCVItXHRKhzsb+ctGXmXqljATK2yWfn8g1xbWmiNXKmIOjZVgLxPZ+2PGbPMSuvF7vCoBdgGd/BpNQWV9morMvDHwFnh7MQEOyRuGXccUP3qaW2kR4i3KXggphKW205Q=;4fBvHQNKttUosDsgVpL4GA=="
 ---

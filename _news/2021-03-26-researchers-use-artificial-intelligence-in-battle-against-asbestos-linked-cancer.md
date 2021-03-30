@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Researchers use artificial intelligence in battle against asbestos-linked cancer"
-excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI ... predict the aggressiveness and possible therapy of this otherwise incurable cancer."
-publishedDateTime: 2021-03-26T11:43:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20210326/3730438.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20210326/3730438.html"
+excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI) to study an aggressive form of cancer, which could improve patient outcomes."
+publishedDateTime: 2021-03-26T09:10:00Z
+originalUrl: "https://www.aninews.in/news/science/researchers-use-artificial-intelligence-in-battle-against-asbestos-linked-cancer20210326164008/"
+webUrl: "https://www.aninews.in/news/science/researchers-use-artificial-intelligence-in-battle-against-asbestos-linked-cancer20210326164008/"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Asian News International
+  domain: aninews.in
 
 topics:
   - AI in Healthcare
@@ -45,6 +45,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "VRP4vlV9tiSkhpAx+jVAv+jHaPzJdUuTQIikuZe0qaFyreH5wJgKUJGnkVsYOZkmQfXdgxK1hJpoWR733cPFDR0kKvwlx9W6AKRi7B+oCOC8I+v4gBKKZfF4oGPfpKZKTszLD41a8Mzi8rA0Mk6dfJDSSAGgWINQesgbJpOnePexJpbo8g0ya6siNOrnUA2cz9n2Ts4l4Fe78HFLRk3yhec4zaHjHJe6lGGpTmDNr64hMNFvDmgA40zC/HvI5nNaj2fqd4w4NqpqJ/vNCaNc1UQcirxPBYrLOTGb1fhQ+byQQKBhEoLHhdrVkAEcW++/aYrI7BWY4OteAWgWt7vVR7eCRwf4Jy3l6T/v5d5U2kY=;cXA4m60Mfz42fw75ZUKWNQ=="
+secured: "AS46xTMJd1PwDnjJ9UsR6dvSH7L/ubcnXUcJlBc59gXrUtclBITnssmVbt3tPkB27f19PS7HGAuz3zTTXjR3rYTPY0hFFkpCZbechrMKismCE9lcScBTYdaRoyfxy4FrNSf7U5jCfBEylohsu0pHlVAag9iUo+LyZLLq4nOOQiySnVTmcNrTmVnfW1YXfTl1pFfva5ZPb9GXz5jdH+nCyptMaJKJDieI+g99WQBzk4R69qSdPk7d/0oyeGkuOQIZfVE2kMvcWEypgT46i9FJTpTqx+379kEefNqY0FbJNQz/UHxo2bdbEGKCyxYfKEYaly1JQzCeTc0Jq11lButMKuLsi65Iu+YqiIeNUwC2xzc=;KaUmL6cLVTi+R3w1MKAChA=="
 ---
 

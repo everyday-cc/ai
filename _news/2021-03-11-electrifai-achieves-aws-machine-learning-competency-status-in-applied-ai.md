@@ -1,27 +1,21 @@
 ---
 category: news
 title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
-publishedDateTime: 2021-03-10T21:08:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-new-jersey-artificial-intelligence-783447a5b19481a0aa30bcdc459a4336"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-new-jersey-artificial-intelligence-783447a5b19481a0aa30bcdc459a4336"
+excerpt: "Amazon SageMaker brings AI/ML capabilities that fit seamlessly into any AWS environment. ElectrifAi is designed to enhance Amazon SageMaker's capabilities by accelerating a client's time-to ..."
+publishedDateTime: 2021-03-11T00:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "5tyUX85PH+22H4c9N+7HR9HPRZ++JqqLvszPxLjH3pjcJ7JCv+KrhuHc9IacYrx85x1xILtqfIbZ2dC8aWddOt3imK8pOYrW8P22mNgIYw69bpLX4DSkcI6usWzvLLeolKJHDOGH+5jhIQgA9DspU8ZdKUKGHIBV9GcYSbIoddlSrAUoeRV2n5XwPZ8ph/Xb2rIOYJgaAQZSE3wIRgjSW0Kg5RQ40Vu0JbnIs47Qz0PwlQ8/IVimNuAPHHMf8MowhDrmIgTNx76b1aMoXFNTNeYnlfIO/HuOGO7SrEZ1pt/YqX9ZJnk4eahHrdJIUG2XXgMd0LXQjK6rAyMkykhtx7S284+KyIe2rC794urHiwk=;gVw+LPWWeBfWJWTpYVOM4w=="
+secured: "VQq7gkTOJaa6FuHpkIPhx/VtOq0eww4QQdQJhpHrWG/xTrMrw6yk+1f1c9UMZJzGyw0FJgisW4yVIRtE32XZQWetvZkTTtWvZlFJK90GNlB5eIGd5BnPg9SsHxRrw+NiaFMQyJTHpV2JCvQXKvs2galg657PUsA54baEWF/pEJlJT7hJlnzc70b1lCMeNRxTNCOafE81Js9VFrVL6Ahm3dBqrrqqhSqNV64CWkJXrNTdYTJ759QQqyqq50SrxYJZC1DLwdVyCYsK0QE2tSCAB5Yd0Og18OsB2CAeaUXZI6kLPrq3PlPNSR6yi2a+UdqfB10bqpW7Chyz+qWxURg0QsrGq9Ya4OzftSyKR3/9r8s=;s33JmrGhy+q46R+fCbUp9A=="
 ---
 

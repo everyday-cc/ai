@@ -7,7 +7,7 @@ originalUrl: "https://www.chathamstartribune.com/news/article_6a01475a-8e4a-11eb
 webUrl: "https://www.chathamstartribune.com/news/article_6a01475a-8e4a-11eb-90f0-2716a67d70fa.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Schenectady museum's 1878 recording wins national recognition"
-    excerpt: "SCHENECTADY - The Museum of Innovation and Science's Edison \"St. Louis Tinfoil\" (1878) is among 25 recordings inducted into the National Recording Registry, the museum announced Wednesday. Inventor Thomas Edison’s 78-second tinfoil recording is quite possibly a record of the oldest playable recording of an American voice and the earliest surviving document that captures a musical performance,"
-    publishedDateTime: 2021-03-24T19:47:00Z
-    webUrl: "https://www.timesunion.com/news/article/Schenectady-museum-s-1878-recording-wins-national-16050410.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Schenectady-museum-s-1878-recording-wins-national-16050410.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Schenectady-museum-s-1878-recording-wins-national-16050410.php"
+  - title: "Bruddah Iz receives national recognition"
+    excerpt: "Israel “IZ” Kamakawiwo’ole’s 1993 single “Somewhere Over the Rainbow/What A Wonderful World” is among the latest titles inducted into the National Registry of the Library of Congress."
+    publishedDateTime: 2021-03-30T10:05:00Z
+    webUrl: "https://www.hawaiitribune-herald.com/2021/03/30/features/bruddah-iz-receives-national-recognition/"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 44
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: Hawaii Tribune-Herald
+      domain: hawaiitribune-herald.com
+    quality: 4
 
 secured: "5UZx1SYc4zIvgV7aqB6SIb2zABs3PW3bF35Hw0GoFftydle4lj+sNpaY91VQyB87uukkZ7SV6BQB6dI+Fb63PP/8Curzi0OBnEzHw1anZwfnQd27e4sCAa2d5Sq74+j5QWMre9V1f2+uu4DyCH1d+WiENERtV+JQ0q70H7mBfFhrUopFu7+Xk5A/ZcW3C0Br/ogkqgdIF/O/RPAT+dUnfhUBwdo+lKVG+aQZH+TzNQy34Nk+P8P6bZ1JbRuDoOf9z5qhgFE+BRVwoIvcw9uG0T+KOsnw61SnwyvRXym7gBS+zEEaqux9vsWkKejTtpnzma7ktKGkfLZplldzxHg6kplEjortRT6l5sTd/KxrdpE=;TET3lj+mpe5AWZZE1R/Ilg=="
 ---

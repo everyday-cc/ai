@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/is-the-uk-heading-towards-a-trans
 webUrl: "https://www.analyticsinsight.net/is-the-uk-heading-towards-a-transformation-in-the-ai-strategy/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the hype around artificial intelligence"
-    excerpt: "Video Module Navigating the hype around artificial intelligence. Posted . Investing in Artificial Intelligence is very much on-trend, with one recent report predicting deep learni"
-    publishedDateTime: 2021-03-25T21:13:00Z
-    webUrl: "https://www.reuters.com/video/watch/navigating-the-hype-around-artificial-in-idRCV009JNH"
+  - title: "Natural Language Processing Named a Foundational AI Technology, According to the 2021 AI in ..."
+    excerpt: "Hosted by John Snow Labs, the free, virtual event is dedicated to healthcare-specific natural language processing (NLP) applications, showcasing best practices, real-world case studies, and the latest technology in use today. Registration is now open for ..."
+    publishedDateTime: 2021-03-29T16:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-health-care-industry-pharmaceutical-manufacturing-e2be31ddac1608a9bf702370f9e201fd"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210325&i=RCV009JNH&r=RCV009JNH&t=2"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
 
 secured: "bmvEbTh/fyLirq1jrUWetBZJNLiYrfzVWRpL2qwjGqQElnYKO14e2PHPb6q3J/LrMiM94V1iMJI2OJgAa4XyiUCWYIojZlcaxArhkgOESdedX2NjdqWhhvDHYt8zt1fhWSMzynT3cCOt6WGHQdqwt+vu9fgSrZxhnd4TkLY8DdlmU5XNeU51RIhcFTDZU7P9P/xKGKZY6QOULPaIwyCkcdxlQIehK87hrPflXHQJp8QroquYSfX/qhSgz0WCCh3Q0Bhjxvw1EORI2NtmMwJ48Hoq9fBD48gF4PEnyMnN4p35WS0orrtAVTUMK8CTh7Fh9426yTyqEVxZp9ASJHGT846h1VKp+4vAiPCBu/V68cI=;1Bp/1oyWXnJPBrxMRoSHZw=="
 ---

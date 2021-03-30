@@ -37,13 +37,13 @@ related:
       domain: sciencedaily.com
     quality: 49
   - title: "Researchers use artificial intelligence in battle against asbestos-linked cancer"
-    excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI ... predict the aggressiveness and possible therapy of this otherwise incurable cancer."
-    publishedDateTime: 2021-03-26T11:43:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210326/3730438.html"
+    excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI) to study an aggressive form of cancer, which could improve patient outcomes."
+    publishedDateTime: 2021-03-26T09:10:00Z
+    webUrl: "https://www.aninews.in/news/science/researchers-use-artificial-intelligence-in-battle-against-asbestos-linked-cancer20210326164008/"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: Asian News International
+      domain: aninews.in
     quality: 29
 
 secured: "WWVix6zabB6nCNmrxOzjgRKCa0agOPcolKKXJ2tb9GscQQmDbWcJZTuJqOYRT2QEkq1DLUuiiwS88R4eAHZRLAZMbXB3VcEP2QoYo+Udekt40NcDXex7B9NsxYezsehTtBQb/YHCPvKTPdsVzvZ1DioTcb2qcxJbsgojtoZw0K2Olc/NVkbE9XjB2nqUoE6JEAJZWVBwkTU+SXJOmaYwvxX1StsUPJr8749aTD/gIo4GJ37d4SkMAmoKjiZiOJsBvpYfKaNnecP8u626PnDwMyf0RceLActWrZXQzNtIfmLfl4VOxrDGbwpUuC2/BvhaS1R7aExAG2Gm2uhcPp5lMTx54v/MyULoUvj+lQG/QMQ=;vf0T1xb0cdID+KCy+EZEeQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Feedzai raises $200M at a $1B+ valuation for AI tools to fight financial fraud"
-    excerpt: "On the heels of Jumio announcing a $150 million injection this week to continue building out its AI-based ID verification and anti-money laundering platform, another startup in the space is ..."
-    publishedDateTime: 2021-03-24T09:47:00Z
-    webUrl: "https://techcrunch.com/2021/03/24/feedzai-raises-200m-at-a-1b-valuation-for-ai-tools-to-fight-financial-fraud/"
-    ampWebUrl: "https://techcrunch.com/2021/03/24/feedzai-raises-200m-at-a-1b-valuation-for-ai-tools-to-fight-financial-fraud/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/24/feedzai-raises-200m-at-a-1b-valuation-for-ai-tools-to-fight-financial-fraud/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024"
-        width: 1024
-        height: 648
-        isCached: true
   - title: "AI Startup Idelic Raises $20 Million To Make Trucking Industry Safer, Less Costly"
     excerpt: "Cardiff and his cofounders are set to announce a $20 million series B raised by Idelic, a startup that applies AI and machine learning to data from trucking fleets in order to ensure driver safety and streamline logistics."
     publishedDateTime: 2021-03-26T09:00:00Z

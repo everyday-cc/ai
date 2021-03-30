@@ -7,7 +7,7 @@ originalUrl: "https://electronics360.globalspec.com/article/16517/video-woven-ca
 webUrl: "https://electronics360.globalspec.com/article/16517/video-woven-capital-invests-in-self-driving-startup-nuro"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Chipotle invests in self-driving delivery company Nuro"
-    excerpt: "Chipotle Mexican Grill has invested in a self-driving, robotic delivery company, the fast casual announced Thursday. Chipotle participated in a Series C funding round for Nuro, a Mountain View, Calif.-based company that was founded in 2016. Today ..."
-    publishedDateTime: 2021-03-25T12:40:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/technology/chipotle-invests-self-driving-delivery-company-nuro"
-    ampWebUrl: "https://www.restaurantbusinessonline.com/amp/technology/chipotle-invests-self-driving-delivery-company-nuro"
-    cdnAmpWebUrl: "https://www-restaurantbusinessonline-com.cdn.ampproject.org/c/s/www.restaurantbusinessonline.com/amp/technology/chipotle-invests-self-driving-delivery-company-nuro"
-    type: article
-    provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 44
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-03/background/400x600/Nuro-Shutterstock_1616675375.jpg?hY1FEGOKg9dyRqNux1KxGDPzYVMlUWRw"
-        width: 400
-        height: 210
-        isCached: true
 
 secured: "9+DYZdi03+1dHxID2vXBuCzjgpLGi0fEau3ZEVVJRwbCHVN8dtI2l7sy2gaFXFjGEnvGiJAf8ujAQ8AuBn0nFFJTkoBf65YAjNJIa9Kq8/b/Sq/ssH97QJFM2QSK7R/8HJDS+KzmEFNvPyyrZRRY0H6c2bjT5v/jQR6p2VKo5Rnok12+n4XwEif6x1RA9DmeKlPkYymQ/lLN1bCZiBZmzpNQPr4M+5J+9aBjmMYSy2HVJpKQHf3qJKDt/dpbvEl1C/9OX75l2d+KGwO7xyU68jCIbjBC6xxa5Ri7gqRs/xCQ9whfOqo9jvXkJc9URNQTJ8NSoND7NZ2xpA/4CmV3VIVVp8geODhpxNYk4KDvjuo=;VDDbC4IzlR7/209ZdfQ1/g=="
 ---

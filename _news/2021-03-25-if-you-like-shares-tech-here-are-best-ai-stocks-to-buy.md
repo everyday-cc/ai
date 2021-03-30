@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-Stocks.jpg"
@@ -46,6 +47,6 @@ related:
       domain: nextgov.com
     quality: 17
 
-secured: "dgFU4JqnmGvZzgSX2VU4T2WpedJDILvrUicC4PzITN3w1Ss/KXvPhMyP1KLhl1pyLdDyt1ViOXT0MvMYEm6cgq5HMUwYHU8QTl/g67CBWljhal3Fk2rEHqaZ54EO2Nj4l2P+/euPrQEoVOPEcRFKBDooMQKVtAf1ZJnvkldmZppZEphn6xw9H5M+jjw4xC4eqKwNMokvZ9w7yrKU5CjgEpMpK3uyiCHglZ93SmedgFGiuw6Wo9mMuPqAO/79ViiBjSqwlljmPxY9p7SmPg8SgoPhp3yfta8yxh99xsfLOLrbKmvg8NXPIei3MRfhQaSbH+aeWmADvRs+gEiqGy1s1MSO8z9LL8WHcP7xN0WZB/s=;IPuJrVu1oJgwDDJM30h4yA=="
+secured: "nzvDccY9FyfJhjQXbNmi2NUoMCim31IqeWPc7gp0IN34K6DU3/kuZ7lQWubrc4q0VnSqk80qIpU/owb7Djwp9GMYxjrL8uCjeMdkh0C5vp95IiSk59Vyo5+BlkyKf9ooegmuEqSkYfVRJ35SxRfD2ytdu6z0Uv/PcNp3/bgIjCzruCkNdm7IouQsA6+gSZvk6vNAGPdjiHoDlM3SzWUvN5xSIG6N508rMfOuAH/kc8XldpI24ZTpsZ/eJtHFr8+9B/uPqxnS1QgpJz6mPFStzX7DKUtmFL/UdBcAf9vIGQ/R+k2k34dDBpI5xbUeWMx8rBA79o9TgRT+daSH2bMB1NyDIHIckFopcr3fNbYUgAdxDRfF5opoF3lQcYnWpARPJSysdr9NzW4y/i7jKCD1zmSzx520wVOW/8b5Z79TmRyaMGjBaGXZr0IHbUqeSa20mLA2gN1CXDNq7Net+uyneUQbpCW5Z4vTe0biEao3ieflSValpHUA9LgMSGBzGGTTgYG5ZFytiRdSZhT8hqzKlg==;sBi9IlXixUIAhHv9IEb+7w=="
 ---
 

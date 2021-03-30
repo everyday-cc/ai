@@ -23,17 +23,6 @@ images:
     height: 537
     isCached: true
 
-related:
-  - title: "Alphabet venture arm GV backs UK machine-learning start-up nPlan"
-    excerpt: "GV is leading a £13m fundraising by a ‘constructiontech’ group which counts Network Rail among its clients, Sky News learns."
-    publishedDateTime: 2021-03-23T12:27:00Z
-    webUrl: "https://news.sky.com/story/alphabet-venture-arm-gv-backs-uk-machine-learning-start-up-nplan-12254422"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 4
-
 secured: "b92+0W6n605G2uXJjDTSQpu/YHnExhD6AgNWrwPmHKJV7DRT4CRE5JAHT/ACr+3gYMaUAgXgjL3GiXCjatDpSkIV3xSiNaI68Wxxj8lFqGcIjQR+CPBt8egSPGENyVw9DoHHEfG23Sjut8hTabBVSxZL1AiGTHa4ceadLb35/LSi8++208BfsZGZ7pBgPX1aF9mSiSlT+V1hQF4U6852w0AkRlTRjvWB8kceu6w78fIxoPVPF5xSNrnwty66w/ytKPcOW7UGDWjkh8kEUu61mzHOn08FM3cjLq71VF5NixmyVVBT3/goFVhKHZpVcoLKzWJ8yBxDFeYhFautsLtnVf7fw/t1E5qfasjhv5yGLN0=;wnqK8X+zcfvM5ePFqpGHDA=="
 ---
 

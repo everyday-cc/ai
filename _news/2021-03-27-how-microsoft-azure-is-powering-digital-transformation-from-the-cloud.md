@@ -33,39 +33,34 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Microsoft – Microsoft Teams now offers AI-powered live meeting transcriptions"
-    excerpt: "Microsoft Teams has got a new AI-powered feature that makes it easier to zone out during endless online meetings. The app has launched a live transcription tool that creates a wri"
-    publishedDateTime: 2021-03-25T18:22:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-microsoft-teams-now-offers-ai-powered-live-meeting-transcriptions/"
+  - title: "Infobip's Communications PaaS Now Available on Microsoft Azure"
+    excerpt: "Infobip’s infrastructure on Azure includes omnichannel support through its Contact Center solution ‘Conversations’, the automated customer engagement engine ‘Moments’ and AI powered chatbot building function ‘Answers’ that all sit on top of ..."
+    publishedDateTime: 2021-03-29T02:51:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 49
+  - title: "Microsoft – Infobip’s Communications PaaS Now Available on Microsoft Azure"
+    excerpt: "Infobip’s infrastructure on Azure includes omnichannel support through its Contact Center solution ‘Conversations’, the automated customer engagement engine ‘Moments’ and AI powered chatbot building function ‘Answers’ that all sit on top of ..."
+    publishedDateTime: 2021-03-29T02:59:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-infobips-communications-paas-now-available-on-microsoft-azure/"
     type: article
     provider:
       name: fintechzoom
       domain: fintechzoom.com
-    quality: 53
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/transcript-gif.gif"
-        width: 800
-        height: 448
-        isCached: true
-  - title: "Repsol and Microsoft renew partnership developing AI-powered digital solutions"
-    excerpt: "The companies will co-innovate to build new AI-powered digital solutions ... including recommitting to the Azure cloud platform. “The extension of our collaboration and the supply of renewable energy undoubtedly reaffirms the vision that both companies ..."
-    publishedDateTime: 2021-03-22T16:04:00Z
-    webUrl: "https://www.chemengonline.com/repsol-and-microsoft-renew-partnership-developing-ai-powered-digital-solutions/"
+    quality: 47
+  - title: "Schlumberger, Microsoft Expand Partnership to Accelerate Digital Future of Energy"
+    excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ data platform optimized for Microsoft Azure."
+    publishedDateTime: 2021-03-30T08:11:00Z
+    webUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235"
     type: article
     provider:
-      name: The Magazine
-      domain: chemengonline.com
-    quality: 30
-  - title: "Voyager Labs Partners with Microsoft to Provide AI SaaS Investigation Platforms to Empower Public Safety"
-    excerpt: "Voyager Labs, a world leader in AI-based investigation solutions, is proud to announce it has partnered with Microsoft to provide"
-    publishedDateTime: 2021-03-22T21:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/voyager-labs-partners-with-microsoft-to-provide-ai-saas-investigation-platforms-to-empower-public-safety-807766452.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
+      name: Hart Energy
+      domain: hartenergy.com
+    quality: 14
 
-secured: "P89iqf39p7PmCSw/Ycfvbv7PUplCE9m23OJRR3n4LBm2Ei6wPItP8fRVXB73zZa5XMUsUqY+BsOZ7WLsRxu8jbs9q8SI2Tc4uvUvlwjOsBSwQeLXm+IelQr4/70baUs3O17wkmpCsWWlNepY78G2ZebNAVpvsdbUGoIwG9zzSJ2EXn5CntPlA6f5r/eaqES+xkhqU6E06q+8o1I8agit58o1+mqdMXIMASN19xwvCkEj1vi71+CGlX+7u44xrdY4BW8zFnII8j3C34NO34DZP4/CYWx81roWcOKprHLzil2CVEn5iOacY3LKE82kq+VEUhJnzOJpl7M/Oa4QOVGTuXWIGQUvjWD2tqeKr+xtBRncDHtrpWyVjiEdAJEAU5Q0Ld/RMboodVS5kLiyaRiN5qGQfdcLSIdTGt0sMX3M3Ymg9xmpZxazLA45vLZlFDPpMO1lVnzNY+SW0MUuImcJ8aC7tIWzVZx5xQE4yyqXD5y7s8lRx2PXrQRU0O0/JNYls/elPLgTzdP9cVW0oRGKMw==;OcWua9xZQkpEdTNtBBWz4g=="
+secured: "Lpo2fjzjoIx1+8z1I9YHoZxBmOZfAz3QjfJVNaeuw2kmNSSAArnO3P7322OqBU5RUn5r/oV0p6l8VcLbrGLUzIS9YobxwiWYDx91wd4eMRRT9SxZu2dysCpbCLiUIp43VtMkNoXWiuzpWWdiK26Vza3E29LkukJktQ9IgkJgQiox5riKo5HGWtitvfFkaIT/iA0QoqOXb04zISV6D5b5xVSiCaS3zp5RQ2P3gjzQW5qMizwiiAxP/kDBghfQcfqJnNC3PY2F87TmvoipYHdt6m+w7UeIqjBIZYWcLP9A3aqAm1WmbESyfcPH3FkqjX0w1p1Xsu61hOuv+vevFWt81vTmIlqmwU6WLqR9INvmcbDpN/+bDSAhWfVx7yiB/zSf6YZI2WqjaTS9KxlOes7zCtx0VlvxmHVvo4THm/EFv684Ne6xn98udtPsprof80nS5jO1W6hmvvJU3TGbJYmPYOLSa79phaUEfkp+yQ43UMIaykllE/74lX1Wz+LhelouY4hSXtYKU5f+IsIGbQZqog==;KVFV17c2X172x1szfoLv/g=="
 ---
 

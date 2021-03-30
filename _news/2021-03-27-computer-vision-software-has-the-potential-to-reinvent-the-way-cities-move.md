@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-p
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "Computer vision software has the potential to reinvent the way cities move – TechCrunch"
+    excerpt: "Harris Lummis is the co-founder and chief technical officer at Automotus. In October 2019, The New York Occasions reported that 1.5 million packages had been delivered in New York Metropolis each single day. Although handy for purchasers and worthwhile for ..."
+    publishedDateTime: 2021-03-28T06:00:00Z
+    webUrl: "https://bestgamingpro.com/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move-techcrunch/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 11
 
 secured: "qxwpgtXgmYKN6c2+ymLGrDgvHZOiTVaV+CmVX7yqkI8FwAUiBZIK14NDXRR4LF2ApmrmsvACSiFfpbL0qkjVE1oSB09q0Y90xsKZu3Pzfz7L0LNmJzmJmbg8a+3IZ30s5mSZpFem86ooLA1vUhuYO+sMl7fhAakSQT+dhg6ZQGvjEzmLlyrzyBtig6A+7IH8Zg592I20qvAwty4lJ5oMUYZbSrmrGx1lmI2yc6qNKAUkjjDQIA6cNgyuGrMOHaoD45FU5k6WXvtaqJ59GYJBiT2HrQ9woG3H4F5T4dm/F0UfEInkWg0S6GlND8ZOnEk058QJd6sxfW4L7GXFCJYlYo+SffYI15RQHCfuxqTUpIY=;0zQL0tPThxfkOmnEGG9KOQ=="
 ---

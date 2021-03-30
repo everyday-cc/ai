@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/authentication/2021/abu-dhabi-yas-island-them
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2021/abu-dhabi-yas-island-theme-park-implements-facial-recognition/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "Abu Dhabi theme parks roll out face recognition for access and payments"
-    excerpt: "Visitors to the Abu Dhabi’s Yas Island can now use their face to access its theme parks and to make contactless payments at retail outlets"
-    publishedDateTime: 2021-03-25T15:08:00Z
-    webUrl: "https://www.nfcw.com/2021/03/25/371360/abu-dhabi-theme-parks-roll-out-face-recognition-for-access-and-payments/"
-    type: article
-    provider:
-      name: nfcw
-      domain: nfcw.com
-    quality: 39
-    images:
-      - url: "https://www.nfcw.com/wp-content/uploads/2021/03/yas-island-mobile-app.jpg"
-        width: 1176
-        height: 760
-        isCached: true
 
 secured: "jXV2nnEgThAOKcdhxmAOemA1oC5nUahVDoe0/Nal6mqmiYwuj2IBuhNIZ5+ac5Lu8AjfjwBLPyHouJHAaqVONFLdSF4CgG8Kz8ifTPECLYAG62HW7Pf6rpegmupfrJeqTO+lzrHs0XyeAQzzsAtkxYmYukljhl7cxwFsm1xo6PkHPuxI7T+d7qZp9dujtDELg55qkg0GTK4U5yI/LdGw0CmnA2urx4bV/dBZDkWOoG0aoqbQX9w2qv1FqWI1FiINrCb5GUZ+NM1/tdAdVtF+CH3A7Bu2kZ9cAcqu6I5vmT8ndIr6uF3HnK8McAfoccOyc5/9MU8L1x2kQ9P+wBINBjmMhBhhL5w0EIqrIqlaBEU=;3iHGfo+vwDCX8eahaQgVAg=="
 ---
