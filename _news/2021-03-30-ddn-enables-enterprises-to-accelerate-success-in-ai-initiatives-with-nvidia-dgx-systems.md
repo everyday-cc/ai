@@ -1,29 +1,24 @@
 ---
 category: news
 title: "DDN Enables Enterprises to Accelerate Success in AI Initiatives with NVIDIA DGX Systems"
-excerpt: "Enterprises increasingly rely on artificial intelligence (AI) as a powerful business enabler with massive potential rewards. However,"
-publishedDateTime: 2021-03-30T13:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-876627141.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-876627141.html"
+excerpt: "DDN A3I Storage Accelerates AI Recommendation Systems, Image Analysis and Natural Language Processing with Up to 46 Times More IOPS on GPU"
+publishedDateTime: 2021-03-30T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-1030259216"
+webUrl: "https://markets.businessinsider.com/news/stocks/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-1030259216"
 type: article
-quality: 31
-heat: 31
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg?p=publish&p=facebook"
-    width: 1720
-    height: 2430
-    isCached: true
-
-secured: "h+HRkmlEcrZ5yxXS2aq9iV0D/eeOhc7DUtrFHfpsoRGg6Kh0H51JvtV7JnLWVuzn3Deggcqa0Tv13uKhR76qx+cVJ8PA4GG6jhljw7bIWic5V7tQFHF+8iI1/60e3UHLl1xYulF4LqsDisx/c2rAJ4983zswX2+AOiEltCg3Ux9v8OCB4uK42YJjG8vR9eTwUM6GjSLsM4mSiQ7fJOfqVMHqojKGP9o7+AiTBz1dOZD++Ks/URPfQm028LwJ+XNm/zeBJm9MPw7rXtrgyV9rt+H4JGC56jmiG2+rD8y9889xL47hKfgVj5gyZCMC7RALeORwTjY9iomrRxAgea+vzVY78vOaPhU3y2E+bDSzF5E=;wAQC5sN/yngkLMqHMHRfAQ=="
+secured: "Pw3YztW2P4DnLYme+/KG6VaVlU+NIzzPUPq2CKPs2AWTiRMp6BEbZFS6RuNghsLt6vRyUNdeK2C0BzFrt8Z16Znt8vi80I33vJU6igdpHMzKhw99/bbOneF0+cc2tb1H1zp51hNBOehNrIpMPj5c/NVFH7Bc7WsJSi8v/xeF9EG+bahNKlOfngS88HX9zsLwUbCFn6ucBTmEjyjc3TqnLuDeslDOE0hR0jS8DHzI0GbTl3fnGu3RVHy5QvL09MD/WsfwSAW84V28FKKx10PckKTaR1QVk7/UCgWan7eKZX7wi2iSmhgIwy9A4UgNF+19UbYcj1Hulop5Cxwn+GBZ2svdr4A9gBODMlzX5+HbXl8=;vOolZ/qjnTB7sPyyy3hreQ=="
 ---
 

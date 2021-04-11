@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Cambridge Quantum Computing Pioneers Quantum Machine Learning Methods for Reasoning"
-excerpt: "Scientists at Cambridge Quantum Computing (CQC) have developed methods and demonstrated that quantum machines can learn to infer hidden information from very general probabilistic reasoning models. These methods could improve a broad range of applications,"
+excerpt: "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... and is part of the Quantum Machine Learning division of CQC, headed by Dr. Mattia Fiorentini."
 publishedDateTime: 2021-03-30T07:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257273"
-webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257273"
+originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257268"
+webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257268"
 type: article
-quality: 45
-heat: 45
-published: false
 
 provider:
   name: Business Insider
@@ -23,6 +20,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "95WouYlW80vn7WLzMHrGLLwVQM37EByvpkiQ6BxgHYsUKFqsx0gCnLBQ1LjZsU5Z8LCp4VOfxZpvGaPqNqHymqkfbuVLv1GmFfYgWL76YSLvexmc0zQRuQWHHrNAgzoprSu8eU1cfPHkHJ3zZ1Ozh9ANUEBCVgqFHwizY1p93sQcEagH6qZWKyYsN4E77hJjswhmWtyyxDbWRk+KbFTjl5fWLHOuPTj3Ok9K2KuG7845F4yThrM+t/mLcQ+Mf7KRsWAdn+FwImTpOYvwzmIKENO3IMa0X+uoTez+ErFoF9j/iLfN+RSllCtLq5OjWcndNPxLBuzaoFllg/arqk83CR2tx9oEl0ZEdxP7/Kfl3Pw=;K9SKBbcHdNHm9qgOAeSiHQ=="
+secured: "Wqxkca5XrKpvaGz3hMlm9VdzHkTInSeh9LPY/5HXfvCqWW+xknjTEY2tw++ZMG4Y0KCOAqypr74F4J7OoCkrYkAD0yJ7+mXGcjRqiY1CauToAZetWhIRPU0OatmUX0PemevPXVk2hq/FckFkRjSqa4GzBJ9AE1iGkYec4Djk1lmQgectnM0VcXVBmgupFqg6b1L7AMpo/zARFMCVFcFMDFcgn7DCCvS8S1V0ZrjdZmQRkIKaossxM5SeBUJMXx0p7Wc4Vk0x6TuQzlKepV9SEiC1xmftdwo8YHRdNhPOsM4wOj3FyDzWaunvU3bCWBWy933j/9RGd789QceY2HZ6XyHrKdja4BMtQOT76+IOutQ=;D867TvVbdWcAjArtrNyrHw=="
 ---
 
