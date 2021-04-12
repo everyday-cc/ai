@@ -116,7 +116,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -253,6 +253,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-augmented-intelligence-market-global-industry-analysis-size-share-growth-trends-and-forecast-2021-2027.md",
+      "title": "Augmented Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027",
+      "excerpt": "The Global Augmented Intelligence Market size is expected to grow at an annual average of 26 during 2021 2027 Augmented Intelligence is an alternative conceptualization of artificial intelligence that focuses on the secondary role of artificial intelligence highlighting the fact",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2266551/augmented-intelligence-market-global-industry-analysis",
+      "originalUrl": "https://www.openpr.com/news/2266551/augmented-intelligence-market-global-industry-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2266551/augmented-intelligence-market-global-industry-analysis",
+      "publishedDateTime": "2021-04-06T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1275,49 +1309,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-23T13:14:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-announcing-aws-media-intelligence-solutions.md",
-      "title": "Announcing AWS Media Intelligence Solutions",
-      "excerpt": "Today, we’re pleased to announce the availability of AWS Media Intelligence (AWS MI) solutions, a combination of services that empower you to easily integrate AI into your media content workflows. AWS MI allows you to analyze your media, improve content engagement rates, reduce operational costs, and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-aws-media-intelligence-solutions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-aws-media-intelligence-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T08:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

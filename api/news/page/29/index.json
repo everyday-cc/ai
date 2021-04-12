@@ -2,64 +2,12 @@
   "page": 29,
   "value": [
     {
-      "path": "_news/2021-03-02-microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure.md",
-      "title": "Microsoft launches semantic search feature for enterprises and new form-recognizing features in Azure",
-      "excerpt": "For example, in Azure Cognitive Search, Microsoft says its search service ... data from passports and driver’s licenses, supporting services like online banking transactions, travel check ...",
+      "path": "_news/2021-03-04-microsoft-group-transcribe-provides-real-time-transcription-and-translation.md",
+      "title": "Microsoft Group Transcribe provides real-time transcription and translation",
+      "excerpt": "Improving these models with usage data will ensure that our customers will have the best experience,\" said Xuedong Huang, Technical Fellow and CTO of Cognitive Services at Microsoft. The app is ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/02/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure/",
-      "originalUrl": "https://venturebeat.com/2021/03/02/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/02/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure/amp/",
-      "publishedDateTime": "2021-03-02T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai.md",
-      "title": "Microsoft unveils Azure Percept, a family of edge devices optimized for AI",
-      "excerpt": "they’ll have access to Azure AI Cognitive Services and Azure Machine Learning models, plus AI models available from the open source community designed to run on the edge, Microsoft says.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai/",
-      "originalUrl": "https://venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai/",
+      "webUrl": "https://www.iol.co.za/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7",
+      "originalUrl": "https://www.iol.co.za/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -69,21 +17,47 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T06:46:00-08:00",
+      "publishedDateTime": "2021-03-04T00:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-record-group-meet-transcriptions-with-new-microsoft-app.md",
+      "title": "Record group meet transcriptions with new Microsoft app",
+      "excerpt": "Improving these models with usage data will ensure that our customers will have the best experience,\" said Xuedong Huang, Technical Fellow and CTO of Cognitive Services at Microsoft. The app is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html",
+      "originalUrl": "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T22:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pioneer",
+        "domain": "dailypioneer.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -97,127 +71,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-02-rbac-support-is-now-generally-available-on-azure-machine-learning.md",
-      "title": "RBAC support is now generally available on Azure Machine Learning",
-      "excerpt": "At Microsoft's Ignite 2021 conference, the company has announced a host of new capabilities now available across its Azure Cognitive Search and Azure Machine Learning solutions. Additionally, it ...",
+      "path": "_news/2021-03-04-stop-experimenting-with-ai-and-machine-learning.md",
+      "title": "Stop Experimenting with AI and Machine Learning",
+      "excerpt": "The pandemic has accelerated the imperative for businesses to invest in Artificial Intelligence (AI) and Machine Learning ... Leading financial service provider realizes $60 million in cost ...",
       "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/rbac-support-is-now-generally-available-on-azure-machine-learning/",
-      "originalUrl": "https://www.neowin.net/news/rbac-support-is-now-generally-available-on-azure-machine-learning/",
+      "webUrl": "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html",
+      "originalUrl": "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/03/1614629172_azure_percept_story.jpg",
-          "width": 760,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning.md",
-      "title": "AWS rekindles a crafty scheme to get developers into machine learning",
-      "excerpt": "Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "originalUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/dUxibtp8fAtsBHpwYssG4o-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "publishedDateTime": "2021-03-02T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players-research-forecasts-to-2027.md",
-      "title": "AI in Fintech Market 2021 Growth Analysis, Share, Demand by Regions, Types and Analysis of Key Players- Research Forecasts To 2027",
-      "excerpt": "Mar 02, 2021 (The Expresswire) -- Global “AI in Fintech Market” forecast 2027; research report analyzed the existing state of the market by definitions, classifications, applications and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://images.idgesg.net/images/article/2021/03/istock-844535726-100879325-large.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 851,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -227,21 +95,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T01:33:00-08:00",
+      "publishedDateTime": "2021-03-03T21:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -251,42 +110,34 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-03-02-aws-selected-as-official-cloud-provider-of-pga-tour.md",
-      "title": "AWS selected as official cloud provider of PGA Tour",
-      "excerpt": "AWS's Amazon Rekognition deep learning system will then allow the Tour to tag content with \" specific metadata like player names and sponsor logos\" and provide \"instant access\" to historical ...",
+      "path": "_news/2021-03-04-amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows.md",
+      "title": "Amazon launches reinforcement learning tools to manage robots’ workflows",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Amazon today launched SageMaker Reinforcement Learning (RL) Kubeflow Components, a toolkit supporting the company’s AWS ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
-      "originalUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows-9876749",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows-9876749",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/02/da666ada-2faf-43c5-8748-55eb8091a6af/resize/1200x/14101bbdb7a1b143a5c43729a9d78fd3/aws-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
-      "publishedDateTime": "2021-03-02T00:33:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T20:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -307,21 +158,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-02-object-recognition-imaging-systems-market-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2025.md",
-      "title": "Object Recognition Imaging Systems Market Consumption Analysis, Growth Forecast by Manufacturers, Regions, Type and Application to 2025",
-      "excerpt": "Mar 02, 2021 (The Expresswire) -- The report presents a detailed study of “Object Recognition Imaging Systems Market” covering both global and regional markets. It aims to give an appropriate ...",
+      "path": "_news/2021-03-04-aws-launches-webinar-for-marketers-looking-to-maximise-their-machine-learning-strategy.md",
+      "title": "AWS launches webinar for marketers looking to maximise their machine learning strategy",
+      "excerpt": "Machine Learning for CMOs: How to personalise the customer experience and drive innovation in marketing will see Mumbrella, Amazon Web Services ... at the Australian Financial Review, has worked ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2025-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2025-2021-03-02",
+      "webUrl": "https://mumbrella.com.au/aws-launches-webinar-for-marketers-looking-to-maximise-their-machine-learning-strategy-671729",
+      "originalUrl": "https://mumbrella.com.au/aws-launches-webinar-for-marketers-looking-to-maximise-their-machine-learning-strategy-671729",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://mumbrella.com.au/wp-content/uploads/2021/03/Untitled-design-1.png",
+          "width": 480,
+          "height": 270,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -331,21 +182,57 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T17:00:00-08:00",
+      "publishedDateTime": "2021-03-03T19:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Mumbrella",
+        "domain": "mumbrella.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-7-ways-to-ease-computer-vision-syndrome.md",
+      "title": "7 Ways to Ease Computer Vision Syndrome",
+      "excerpt": "Experiencing computer vision syndrome doesn’t mean you need to completely give up your screen time, though. The way you view a digital screen can make a big difference. To learn more about ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health/eye-health/computer-vision-syndrome",
+      "originalUrl": "https://www.healthline.com/health/eye-health/computer-vision-syndrome",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.healthline.com/wp-content/uploads/2021/02/Male-Laptop-Indoor-Serious-1200x628-Facebook-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -359,21 +246,64 @@
       ]
     },
     {
-      "path": "_news/2021-03-02-researchers-show-ai-chip-with-reduced-precision-training.md",
-      "title": "Researchers show AI chip with reduced precision training",
-      "excerpt": "At ISSCC, IBM Research presented a test chip which represents the hardware manifestation of its years of work on low-precision AI training and inference algorithms. The 7nm chip supports 16-bit and 8-bit training, as well as 4-bit and 2-bit inference (32 ...",
+      "path": "_news/2021-03-04-artificial-intelligence-reveals-current-drugs-that-may-help-combat-alzheimers-disease.md",
+      "title": "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease",
+      "excerpt": "Importantly, it could also help reveal new, unexplored targets for therapy by pointing to ... relies on machine learning—a branch of artificial intelligence in which systems are \"trained ...",
       "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/researchers-show-ai-chip-with-reduced-precision-training/",
-      "originalUrl": "https://www.embedded.com/researchers-show-ai-chip-with-reduced-precision-training/",
+      "webUrl": "https://medicalxpress.com/news/2021-03-artificial-intelligence-reveals-current-drugs.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-artificial-intelligence-reveals-current-drugs.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.embedded.com/wp-content/uploads/2021/03/img20210312123321IBM-Brings-8-Bit-AI-Training-to-_4_w800_h814.jpg",
-          "width": 800,
-          "height": 814,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/alzheimersdi.jpg",
+          "width": 775,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-artificial-intelligence-reveals-current-drugs.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-artificial-intelligence-reveals-current-drugs.amp",
+      "publishedDateTime": "2021-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-defending-smart-systems-on-the-machine-learning-framework-level.md",
+      "title": "Defending smart systems on the machine learning framework level",
+      "excerpt": "SMU Office of Research & Tech Transfer - While smart cities and smart homes have become mainstream buzzwords, few people outside the IT and machine learning communities know about TensorFlow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/smu-dss030421.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/smu-dss030421.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/258248_web.jpg",
+          "width": 600,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -383,11 +313,237 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T16:01:00-08:00",
+      "publishedDateTime": "2021-03-03T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-facebook-ai-learned-object-recognition-from-1-billion-instagram-pics.md",
+      "title": "Facebook AI learned object recognition from 1 billion Instagram pics",
+      "excerpt": "Artificial intelligence built by Facebook has learned to classify images from 1 billion Instagram photos. The AI used a different learning technique to many other similar algorithms, relying less ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2270102-facebook-ai-learned-object-recognition-from-1-billion-instagram-pics/",
+      "originalUrl": "https://www.newscientist.com/article/2270102-facebook-ai-learned-object-recognition-from-1-billion-instagram-pics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/03/04125442/adobestock_heroimage_web.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-facts-vs-fiction-artificial-intelligence-in-digital-marketing.md",
+      "title": "Facts vs. Fiction: Artificial Intelligence in Digital Marketing",
+      "excerpt": "This is where artificial intelligence is most effective ... the recent boom in machine learning over the last decade, from self-driving cars to the first picture of a black hole.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/facts-vs-fiction-artificial-intelligence-in-digital-marketing/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/facts-vs-fiction-artificial-intelligence-in-digital-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/c191a0a2e8dc4a508bb096fcdae188b4.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/facts-vs-fiction-artificial-intelligence-in-digital-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/facts-vs-fiction-artificial-intelligence-in-digital-marketing/amp/",
+      "publishedDateTime": "2021-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-googles-ai-lab-deepmind-held-secret-discussions-to-launch-a-futuristic-food-division-and-one-idea-involved-nutricube-vitamin-supplements.md",
+      "title": "Google's AI lab DeepMind held secret discussions to launch a futuristic food division and one idea involved 'nutricube' vitamin supplements",
+      "excerpt": "Insider spoke to multiple sources about how DeepMind, the London-based AI company acquired by Google in 2014, considered launching a food division with vegan food startup Hampton Creek ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3",
+      "originalUrl": "https://www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6040bf392dc90100183554fc?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3?amp",
+      "publishedDateTime": "2021-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-prosthetic-offers-real-time-mind-control-of-robotic-hand.md",
+      "title": "Prosthetic offers real-time mind control of robotic hand",
+      "excerpt": "Researchers have tapped faint, latent signals from arm nerves and amplified them to create a prosthetic that enables real-time, intuitive, finger-level control of a robotic hand. To achieve this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurity.org/prosthetic-mind-control-robotics-2297932-2/",
+      "originalUrl": "https://www.futurity.org/prosthetic-mind-control-robotics-2297932-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.futurity.org/wp/wp-content/uploads/2020/03/prosthetics-2_1600.jpg",
+          "width": 1600,
+          "height": 915,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurity News",
+        "domain": "futurity.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-mediatek-mt9638-ai-chip-will-power-the-next-generation-of-4k-smart-tvs.md",
+      "title": "MediaTek MT9638 AI chip will power the next generation of 4K smart TVs",
+      "excerpt": "MediaTek has unveiled its latest chip today designed for upcoming 4K smart televisions. Called the MT9638, the processor will integrate AI hardware to boost the performance of everyday smart TV ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.notebookcheck.net/MediaTek-MT9638-AI-chip-will-power-the-next-generation-of-4K-smart-TVs.525958.0.html",
+      "originalUrl": "https://www.notebookcheck.net/MediaTek-MT9638-AI-chip-will-power-the-next-generation-of-4K-smart-TVs.525958.0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/ai_chip.jpg",
+          "width": 598,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NotebookCheck",
+        "domain": "notebookcheck.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -402,21 +558,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-02-aws-reorganizes-deepracer-league-to-encourage-more-newbies.md",
-      "title": "AWS reorganizes DeepRacer League to encourage more newbies",
-      "excerpt": "AWS launched the DeepRacer League in 2018 as a fun way to teach developers machine learning, and it’s been building on the idea ever since. Today, it announced the latest league season with two ...",
+      "path": "_news/2021-03-03-microsoft-debuts-its-edge-ai-service-azure-percept-at-ignite.md",
+      "title": "Microsoft debuts its edge AI service Azure Percept at Ignite",
+      "excerpt": "Microsoft Corp. is stepping up its artificial ... Azure Percept will connect to Azure AI Cognitive Services and Azure Machine Learning models as well as AI models available from the open-source ...",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/",
-      "originalUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/",
+      "webUrl": "https://siliconangle.com/2021/03/02/microsoft-brings-ai-edge-azure-percept/",
+      "originalUrl": "https://siliconangle.com/2021/03/02/microsoft-brings-ai-edge-azure-percept/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-01-at-4.47.14-PM.jpg?w=1024",
-          "width": 1024,
-          "height": 643,
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Azure-Percept-Dev-Kit.png",
+          "width": 1242,
+          "height": 641,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -424,9 +580,398 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/amp/",
-      "publishedDateTime": "2021-03-01T15:12:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T07:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows.md",
+      "title": "Amazon launches reinforcement learning tools to manage robots’ workflows",
+      "excerpt": "Learn more. Amazon today launched SageMaker Reinforcement Learning (RL) Kubeflow Components, a toolkit supporting the company’s AWS RoboMaker service for orchestrating robotics workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/",
+      "originalUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/",
+      "publishedDateTime": "2021-03-03T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-pga-tour-signs-up-with-aws-looks-to-ai-as-engagement-driver.md",
+      "title": "PGA Tour signs up with AWS, looks to AI as engagement driver",
+      "excerpt": "This is the first instance CloudTech has seen of such nomenclature, and conveys an especially deep interest in products such as Amazon Rekognition. Like many other sporting clients, the PGA Tour will look to migrate its archives and annotate it – in this ...",
+      "sourceUrl": null,
+      "webUrl": "https://cloudcomputing-news.net/news/2021/mar/02/pga-tour-signs-up-with-aws-looks-to-ai-as-engagement-driver/",
+      "originalUrl": "https://cloudcomputing-news.net/news/2021/mar/02/pga-tour-signs-up-with-aws-looks-to-ai-as-engagement-driver/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/03/steven-shircliff-N21z4eG8aKg-unsplash.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T04:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Computing",
+        "domain": "cloudcomputing-news.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-artificial-intelligence-and-cognitive-computing-market-next-big-thing-major-giants-microsoft-teradata-ibm.md",
+      "title": "Artificial Intelligence and Cognitive Computing Market Next Big Thing | Major Giants Microsoft, Teradata, IBM",
+      "excerpt": "Artificial Intelligence and Cognitive Computing Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101689645/Artificial-Intelligence-and-Cognitive-Computing-Market-Next-Big-Thing-Major-Giants-Microsoft-Teradata-IBM",
+      "originalUrl": "https://menafn.com/1101689645/Artificial-Intelligence-and-Cognitive-Computing-Market-Next-Big-Thing-Major-Giants-Microsoft-Teradata-IBM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?22439",
+          "width": 437,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T00:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-can-deep-learning-replace-numerical-weather-prediction.md",
+      "title": "Can Deep Learning Replace Numerical Weather Prediction?",
+      "excerpt": "While some wait for the exascale era – and beyond – to brute force punishingly accurate and complex climate models into existence, others are looking for a deep learning-powered shortcut to the same results. In a paper for Philosophical Transactions of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hpcwire.com/2021/03/03/can-deep-learning-replace-numerical-weather-prediction/",
+      "originalUrl": "https://www.hpcwire.com/2021/03/03/can-deep-learning-replace-numerical-weather-prediction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_us_weather_hurricane.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-from-perceptrons-to-deep-learning.md",
+      "title": "From perceptrons to deep learning",
+      "excerpt": "Have you ever wondered if it's possible to learn all there is to know about machine learning and deep learning from a book? Machine Learning--A Journey to Deep Learning, with Exercises and Answers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/ws-fpt030321.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/ws-fpt030321.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/258100_web.jpg",
+          "width": 252,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-tensorflow-3d-deep-learning-for-autonomous-cars-3d-perception.md",
+      "title": "TensorFlow 3D: Deep Learning for Autonomous Cars’ 3D Perception",
+      "excerpt": "Google has released TensorFlow 3D, a library that adds 3D deep-learning capabilities to the TensorFlow machine-learning framework.The new library brings tools and resources that allow researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/03/tensorflow-3d-autonomous-cars/",
+      "originalUrl": "https://www.infoq.com/news/2021/03/tensorflow-3d-autonomous-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/03/tensorflow-3d-autonomous-cars/en/headerimage/TensorFlow3D-h-1614679548030.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-pga-tour-selects-aws-as-its-official-cloud-provider.md",
+      "title": "PGA TOUR Selects AWS as Its Official Cloud Provider",
+      "excerpt": "The TOUR will then use Amazon Rekognition (AWS’s deep learning service that makes it easy to add image and video analysis to applications) to automatically tag content with specific metadata ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-cloud-application-programming-interface-market.md",
+      "title": "Cloud Application Programming Interface Market",
+      "excerpt": "Global Business News: TIBCO (June 02, 2021) - TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers - TIBCO Software Inc., a global leader in enterprise data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2251071/cloud-application-programming-interface-market-investment",
+      "originalUrl": "https://www.openpr.com/news/2251071/cloud-application-programming-interface-market-investment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads.md",
+      "title": "Microsoft’s Azure Arc multi-cloud platform now supports machine learning workloads",
+      "excerpt": "This new capability is now available to Arc customers. In addition to bringing this new machine learning capability to Arc, Microsoft also today announced that Azure Arc enabled Kubernetes, which ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/",
+      "originalUrl": "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1156205785.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/amp/",
+      "publishedDateTime": "2021-03-02T10:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -449,319 +994,32 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-core-scientific-achieves-aws-high-performance-computing-competency-status.md",
-      "title": "Core Scientific Achieves AWS High Performance Computing Competency Status",
-      "excerpt": "BELLEVUE, Wash., March 1, 2021 – Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain that is led by CEO Kevin Turner, the former COO of Microsoft, announced today that it has achieved ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/off-the-wire/core-scientific-achieves-aws-high-performance-computing-competency-status/",
-      "originalUrl": "https://www.hpcwire.com/off-the-wire/core-scientific-achieves-aws-high-performance-computing-competency-status/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png",
-          "width": 440,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T13:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-core-scientific-achieves-aws-high-performance-computing-competency-status.md",
-      "title": "Core Scientific Achieves AWS High Performance Computing Competency Status",
-      "excerpt": "BELLEVUE, Wash., March 1, 2021 /PRNewswire/ -- Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain that is led by CEO Kevin Turner ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/core-scientific-achieves-aws-high-performance-computing-competency-status-301237666.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/core-scientific-achieves-aws-high-performance-computing-competency-status-301237666.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg?p=facebook",
-          "width": 648,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T05:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-home-lending-pal-leverages-ai-and-machine-learning-to-efficiently-solve-lenders-and-borrowers-problems.md",
-      "title": "Home Lending Pal leverages AI and machine learning to efficiently solve lenders’ and borrowers’ problems",
-      "excerpt": "Home Lending Pal (HLP) has an anonymous marketplace that uses conversational intelligence, machine learning and blockchain ... like to work with based on service quality and approval likelihood ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.housingwire.com/articles/home-lending-pal-leverages-ai-and-machine-learning-to-efficiently-solve-lenders-and-borrowers-problems/",
-      "originalUrl": "https://www.housingwire.com/articles/home-lending-pal-leverages-ai-and-machine-learning-to-efficiently-solve-lenders-and-borrowers-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.housingwire.com/wp-content/uploads/2021/02/AdobeStock_290218047.jpeg",
-          "width": 5477,
-          "height": 2739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HousingWire",
-        "domain": "housingwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
+        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-03-01-medical-bionic-implants-and-exoskeletons-market-revenue-to-increase-at-75-cagr-during-2017-to-2027-future-market-insights.md",
-      "title": "Medical Bionic Implants and Exoskeletons Market Revenue to Increase at 7.5% CAGR during 2017 to 2027: Future Market Insights",
-      "excerpt": "Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Although Future Market Insights maintains a positive outlook on the global medical bionic ...",
+      "path": "_news/2021-03-03-pga-tour-teams-up-with-aws-to-improve-fan-engagement-during-tournaments.md",
+      "title": "PGA Tour teams up with AWS to improve fan engagement during tournaments",
+      "excerpt": "This content will include video, audio and images dating back to the 1928 Los Angeles Open, which will be processed using the Amazon Rekognition deep learning image recognition service so it can ...",
       "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2021-03-01/medical-bionic-implants-and-exoskeletons-market-revenue-to-increase-at-75-cagr-during-2017-to-2027",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2021-03-01/medical-bionic-implants-and-exoskeletons-market-revenue-to-increase-at-75-cagr-during-2017-to-2027",
+      "webUrl": "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments",
+      "originalUrl": "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T03:01:00-08:00",
+      "ampWebUrl": "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments?amp=1",
+      "publishedDateTime": "2021-03-02T09:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-googles-deep-learning-finds-a-critical-path-in-ai-chips.md",
-      "title": "Google’s deep learning finds a critical path in AI chips",
-      "excerpt": "The chips that Yazdanbakhsh and the team are developing are themselves chips for AI, known as accelerators. This is the same class of chips as the Nvidia A100 \"Ampere\" GPUs, the Cerebras Systems ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "originalUrl": "https://www.zdnet.com/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/28/aabff7c7-b7e4-4e29-844a-9746cbfeee24/google-brain-2021-search-space-of-ai-acclerator.png",
-          "width": 2074,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "publishedDateTime": "2021-02-28T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-a-wave-of-billion-dollar-computer-vision-startups-is-coming.md",
-      "title": "A Wave Of Billion-Dollar Computer Vision Startups Is Coming",
-      "excerpt": "every sector of the economy. Computer vision is the most technologically mature field in modern artificial intelligence. This is about to translate into enormous commercial value creation. The deep learning revolution has its roots in computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2021/02/28/a-wave-of-billion-dollar-computer-vision-startups-is-coming/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/02/28/a-wave-of-billion-dollar-computer-vision-startups-is-coming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603c40eb7e5ff3ab52c8fef2%2F0x0.jpg",
-          "width": 981,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/02/28/a-wave-of-billion-dollar-computer-vision-startups-is-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/02/28/a-wave-of-billion-dollar-computer-vision-startups-is-coming/amp/",
-      "publishedDateTime": "2021-02-28T17:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-amazon-made-rekognition-software-now-able-to-detect-fear.md",
-      "title": "Amazon-made Rekognition software now able to detect fear",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
-      "originalUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=kObCpPJ-dBTpK78Z0j4YY8TPxt4=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/amazon-rekognition-adds-fear.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp",
-      "publishedDateTime": "2021-02-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -772,10 +1030,52 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Computer Vision"
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-pga-tour-partners-with-aws-for-cloud-services.md",
+      "title": "PGA Tour Partners With AWS for Cloud Services",
+      "excerpt": "and Amazon Rekognition, which will automatically tag content with specific metadata. “This transformational partnership with AWS will give our fans the opportunity to experience the PGA Tour like never before,” said PGA Tour Commissioner Jay Monahan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/news/pga-tour-partners-with-aws-for-cloud-services",
+      "originalUrl": "https://www.tvtechnology.com/news/pga-tour-partners-with-aws-for-cloud-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/m2x8rKwg43TSUpdSUor4nd-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],
-  "nextPage": null
+  "nextPage": 30
 }

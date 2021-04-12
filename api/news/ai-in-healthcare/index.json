@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-08-ai-identifies-new-multiple-sclerosis-subtypes-from-brain-scans.md",
-      "title": "AI Identifies New Multiple Sclerosis Subtypes from Brain Scans",
-      "excerpt": "Researchers say the findings will help to identify those individuals with MS who are more likely to have disease progression.",
+      "path": "_news/2021-04-08-artificial-intelligence-ai-market-research-report-growth-forecast-2025.md",
+      "title": "Artificial Intelligence (AI) Market Research Report Growth Forecast 2025",
+      "excerpt": "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ...",
       "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/news/ai-identifies-new-multiple-sclerosis-subtypes-from-brain-scans/",
-      "originalUrl": "https://www.genengnews.com/news/ai-identifies-new-multiple-sclerosis-subtypes-from-brain-scans/",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 153,
       "tags": null,
       "images": [
         {
-          "url": "https://www.genengnews.com/wp-content/uploads/2014/02/Feb18_2014_22962790_YoungManHelpsManInWheelchair_Top10MSDrugs8417620131.jpg",
-          "width": 1000,
-          "height": 668,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.genengnews.com/news/ai-identifies-new-multiple-sclerosis-subtypes-from-brain-scans/amp/",
-      "cdnAmpWebUrl": "https://www-genengnews-com.cdn.ampproject.org/c/s/www.genengnews.com/news/ai-identifies-new-multiple-sclerosis-subtypes-from-brain-scans/amp/",
-      "publishedDateTime": "2021-04-08T05:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T07:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -233,6 +242,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-icad-announces-estimated-q1-revenues-and-upcoming-cfo-transition.md",
+      "title": "iCAD Announces Estimated Q1 Revenues and Upcoming CFO Transition",
+      "excerpt": "In 2018, ProFound AI for DBT became the first artificial intelligence (AI) software for DBT to be FDA ... IORT’s benefits for patients which exceed the benefits of traditional therapy or acceptance of IORT by patients or clinicians, the impact of supply ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-earnings-artificial-intelligence-095ad472a9c7e5998eb433a5331120e0",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-earnings-artificial-intelligence-095ad472a9c7e5998eb433a5331120e0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -584,6 +636,59 @@
       ]
     },
     {
+      "path": "_news/2021-03-30-global-natural-language-processing-nlp-in-healthcare-market-size-share-to-expand-at-192-cagr-through-2025.md",
+      "title": "Global Natural Language Processing (NLP) in Healthcare Market Size, Share To Expand At 19.2% CAGR Through 2025",
+      "excerpt": "Mar 30, 2021 (Market Insight Reports) -- Selbyville, Delaware. The report Natural Language Processing (NLP) in Healthcare Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-size-share-to-expand-at-192-cagr-through-2025-2021-03-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-size-share-to-expand-at-192-cagr-through-2025-2021-03-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
       "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
       "excerpt": "Healthcare was a big area for AI investment. Today, the results of a new survey focusing precisely on the adoption of AI in healthcare are being unveiled. ZDNet caught up with Gradient Flow Principal Ben Lorica, and John Snow Labs CTO David Talby ...",
@@ -625,6 +730,58 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-can-artificial-intelligence-replace-human-therapists.md",
+      "title": "Can Artificial Intelligence Replace Human Therapists?",
+      "excerpt": "Could artificial intelligence reduce the need for human ... often for less money than traditional therapy. The algorithms underpinning these endeavors learn by combing through large amounts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
+      "originalUrl": "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-317459/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
+      "publishedDateTime": "2021-03-27T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1123,117 +1280,6 @@
       "provider": {
         "name": "aa.com.tr",
         "domain": "aa.com.tr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-roche-canada-artificial-intelligence-centre-of-excellence-opens-digital-competition-to-tackle-als.md",
-      "title": "Roche Canada Artificial Intelligence Centre of Excellence opens digital competition to tackle ALS",
-      "excerpt": "CNW/ - The Roche Canada Artificial Intelligence Centre of Excellence (AI CoE) is excited to collaborate with Answer ALS and EverythingALS to launch an initiative called the End ALS Challenge, with the support of ALS Society of Canada,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/roche-canada-artificial-intelligence-centre-of-excellence-opens-digital-competition-to-tackle-als-1030223657",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/roche-canada-artificial-intelligence-centre-of-excellence-opens-digital-competition-to-tackle-als-1030223657",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-medimpact-and-seb-bring-artificial-intelligence-fwa-solution-to-canada.md",
-      "title": "MedImpact and SEB Bring Artificial Intelligence FWA Solution to Canada",
-      "excerpt": "To help employers and health plans gain more control over fraud, waste, and abuse (FWA), MedImpact Canada Limited and SEB Administrative Services Inc. are launching an advanced analytics and reporting solution to combat FWA in Canada.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-outsourcing-consumer-products-and-services-dea3e19933764ffcb3062cab77d03cc8",
-      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-outsourcing-consumer-products-and-services-dea3e19933764ffcb3062cab77d03cc8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting.md",
-      "title": "Artificial Intelligence in Healthcare: Interview With Nilesh Chandra, Healthcare Expert at PA Consulting",
-      "excerpt": "With the recent news that IBM is looking to sell Watson Health – the company’s interactive, AI platform that can answer human-posed questions in seconds – some think this might be indicative of a wider problem with the use of AI in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/amp/",
-      "publishedDateTime": "2021-03-17T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
         "images": null,
         "publishers": null,
         "authors": null

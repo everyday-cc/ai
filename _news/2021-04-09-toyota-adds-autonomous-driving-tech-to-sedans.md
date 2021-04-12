@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota unveils new models in advanced driver-assist technology push"
+    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ..."
+    publishedDateTime: 2021-04-08T10:13:00Z
+    webUrl: "https://www.reuters.com/article/us-toyota-autonomous-idUSKBN2BV0F1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BV0F1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV0F1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Toyota Mirai, Lexus LS show off Advanced Drive assists with OTA updates, AI"
     excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota's domestic competitor, Honda, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle ..."
     publishedDateTime: 2021-04-08T13:34:00Z
@@ -40,22 +56,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/04/08083145/20210408_02_13.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Toyota unveils new models in advanced driver-assist technology push"
-    excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ..."
-    publishedDateTime: 2021-04-08T07:35:00Z
-    webUrl: "https://bdnews24.com/automobile/2021/04/08/toyota-unveils-new-models-in-advanced-driver-assist-technology-push"
-    ampWebUrl: "https://m.bdnews24.com/amp/en/detail/automobile/1878111"
-    cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/automobile/1878111"
-    type: article
-    provider:
-      name: bdnews24.com
-      domain: bdnews24.com
-    quality: 44
-    images:
-      - url: "https://d30fl32nd2baj9.cloudfront.net/media/2021/04/08/toyota-new-model-080421-01.jpg/BINARY/toyota-new-model-080421-01.jpg"
-        width: 1024
-        height: 640
         isCached: true
   - title: "Toyota unveils new models loaded with autonomous driving tech"
     excerpt: "Toyota Motor Corp on Thursday unveiled new models of Lexus and Mirai in Japan, equipped with advanced driver assistance, as competition heats up to develop more self-driving and connected cars"
@@ -88,6 +88,6 @@ related:
         height: 512
         isCached: true
 
-secured: "JbqlP548tLoL+EteqfSs0O/pVHMwLBkE4nV8hlBAg2e+sEN53BiLTbTW8wplYrIk3DtdLyePMW8LoqpW6WzSQX2I/A/mNWzXjFD+3CLQrusyzv0TPFfnBK/YhkprebFYdPouOWdWWeB5s/VhxlOECNke6SsVrdizW9fEnzJC9JslMoNZ8XKKmTThLJdRdKKyRtLJVez64lbdGcs2tnWngntOvNKpde7GYZtY90cWLCSWWTIgtmU+TRsR5vW+J7XBcX32ItzsQ1/C8DM+a+/ZoVY8OipINmC0YcPXFzwFXo4iElQGOGkxNZ9sXQ1bubWCQwrRvoEVHx1piHNCp7YZ55AXTC7heuOwob1vwGlDGZc=;qfukGtuDTKf0ph0pBeuCIQ=="
+secured: "0X4Gjj0c1MV+LfvIdCZz9TnTGxs2zoa7VSbAB7n3FYU1kCmgu6AeP3ayrKYVTnj+FHIuirGJSMWodPYXXFstF8EBtOn5DuRlzQcJhStgRJvysu+xuK5I374Z9fC5rK4mAsjNGoZdQ0gfGfzhq2OLki5+HfhSRhZDh0lfQWGBBgLgvnmKmGqHEBkc2JXVqr2ON5ncc5vQsH7+f527JCSV+CYCoErp2G5EcNTNeFSOFULiUpB+kljRW4Y5AQHmNFPRwuH/9lmM7PccvhllzUzrYoC7uYDXKHsOhB165ElpBg0FH7H71cunViB7az8tSKZsv6149s8XueaAU2E4iBxHOYn1KIUdH06jHIJV3Zw0W5voMAAPVQlWtR22+yt0qs2QBkCPfZ+3n5OcQL4PGTeH7MNDqAFg09vG09oySz9sYTRdoYFhCn3SARDJVr0JBaa2LmzospAvfItF6+ClkHZzqnHiWRAvRbHeGCvAMz/Aoy1dvO2mlsLBVkf1gYe42NeQhmmjliqyT0WGeyVUP2IMaw==;e8xUfgoi9gpoj30Parg9VQ=="
 ---
 

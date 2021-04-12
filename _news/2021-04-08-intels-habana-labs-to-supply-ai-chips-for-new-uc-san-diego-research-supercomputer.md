@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/04/08/intels-habana-labs-supply-ai-c
 webUrl: "https://siliconangle.com/2021/04/08/intels-habana-labs-supply-ai-chips-new-uc-san-diego-research-supercomputer/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SDSC Picks Habana AI Training and Inference Chips for Voyager HPC System"
+    excerpt: "During this phase, SDSC said it will share experiences with the AI research computing community and documentation developed to serve as a resource for an expanded user base. Habana said its training and inference chips “will provide data scientists and ..."
+    publishedDateTime: 2021-04-08T13:25:00Z
+    webUrl: "https://insidehpc.com/2021/04/sdsc-picks-habana-ai-training-and-inference-chips-for-voyager-hpc-system/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 53
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/04/Voyager-supercomputer-graphic-1-040821.jpg"
+        width: 600
+        height: 263
+        isCached: true
   - title: "San Diego Supercomputer Center to use Intel's Habana chips for Voyager"
     excerpt: "The San Diego Supercomputer Center plans to use chips from Intel subsidiary Habana in its AI system Voyager. Intel acquired Israeli Habana in 2019 for $2bn, replacing its AI-focused Nervana product line, which was also gained from an acquisition."
     publishedDateTime: 2021-04-09T13:04:00Z
@@ -40,6 +54,6 @@ related:
         height: 630
         isCached: true
 
-secured: "BGZQEggW3E9HPnLvgrIZinKz2/dmw3wzho9J5GEmCdb7noIo4IgCRtZQLY4e+28mr4rQCIGqAbh9rJDt9VponjTQeBSO9wzro6fomkDkEMeX9zTacg04+hQNdHkOguusoQyn3MLrquczlcWXkDxkmrDymaJM20hQsI6o6GURB0F6plADRNqx6MCBKC91QBq1PJCuP/XBnBnGthOh16gvrbS5e6UMd4+KDvKj4pfidw00ocg2s2iuqnakyOufXi3cUOWMlcAwJedE1jpZEZDsmjfEiLHSdSRMO42V0UNXNVcAAtw8V2BlIHhqbEEjbwkpkIxcDDhjNy9muEC3vf52F29GuzASqEYtB1HSuKmh9M4=;yJghcFQCj79wv8ZVEY57rA=="
+secured: "67+fIJLXuUvsF8u49c4YjoroCis8eEGs/H4e1MI/RVHivvcX5mqZgV8eElk2XhkLwMhM3TShk2ow0UyK1kh44E9+r7w8P5PLq7MPTs2IeJoQDJHCy8TaYZCnt3MWg0uax5tRNAOCUUWvU0oC4hyNOCPx6AOSrhj0LxEMPi7Cwp3wYv4L7FnK5G+JfDJ1LFeC3/84D8XVd4ZyIoxez0iXhvVX/9sGIQHkha872Zvg4u3LCin7LRfMEKPqbVKoykSpyhVLKhBNcgkvblxkdl8FPYqupEkRkhJ4neJ2aQU2NmpHnpITYrircTyRPg9XnF2FvHsiza+/C3Z8e4uwxfeDuVNcU+owQHvdQ7Vj/H2v5LGscUd3FSj2XCR0h8AGZM+ciXpiAcIlAJQvVMqwTr4INDQKEOE3Mhzd3AQmCrkvge0QA5e9H/t8NzsK0WyXbW9OyUp68uOoIZmDRSSvBRsFTg059ZDW9Yd6NMEbh5ZDRQLrH+NQ682QvVlvn0AoBeTSXBVHHuJj8cBXgBWfoKyEUw==;5FVwIydtgmgVBlTNclJkCA=="
 ---
 

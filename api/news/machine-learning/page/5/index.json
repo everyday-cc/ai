@@ -2,6 +2,172 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-07-deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade.md",
+      "title": "Deep learning: The way forward with significant value unlocking during the next decade",
+      "excerpt": "The global deep learning market, currently priced at $4.4 billion in 2020, has been projected to expand at a staggering 39.2 per cent CAGR between 2020 and 2027, to reach $44.3 billion by 2027 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
+      "originalUrl": "https://www.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210307/ARTICLE/210309353/AR/0/AR-210309353.jpg&NCS_modified=20210319110230&MaxH=225&imageVersion=16by9",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
+      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
+      "publishedDateTime": "2021-03-07T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-on-premises.md",
+      "title": "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises",
+      "excerpt": "Microsoft senior program manager Saurya Das demonstrated this feature with Azure Machine Learning Studio during a recorded Ignite conference session. The user of the Studio portal can connect to any Kubernetes cluster made accessible through Azure Arc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterknowledge.com/microsoft/azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-premises",
+      "originalUrl": "https://www.datacenterknowledge.com/microsoft/azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-premises",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/jeremy%20winter%20microsoft.jpg",
+          "width": 827,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-05T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Data Center Knowledge",
+        "domain": "datacenterknowledge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-azure-arc-enabled-machine-learning-is-now-in-preview.md",
+      "title": "Azure Arc-Enabled Machine Learning Is Now in Preview",
+      "excerpt": "Azure Arc is Microsoft's offering for allowing customers to bring Azure services and management to any infrastructure, including AWS and Google Cloud. This year, during the virtual Ignite conference,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/03/azure-arc-enabled-ml-preview/",
+      "originalUrl": "https://www.infoq.com/news/2021/03/azure-arc-enabled-ml-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/03/azure-arc-enabled-ml-preview/en/headerimage/header-1614789645289.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-tibco-software-named-leader-in-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-for-third-year-in-a-row.md",
+      "title": "TIBCO Software Named Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning for Third Year in a Row",
+      "excerpt": "Data science and machine learning are at the core of the flourishing data-first movement. TIBCO makes data management, visual analytics, feature engineering, and modeling simple. Along with real-time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/tibco-software-named-leader-in-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-for-third-year-in-a-row/",
+      "originalUrl": "https://www.financialbuzz.com/tibco-software-named-leader-in-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-for-third-year-in-a-row/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-stop-experimenting-with-ai-and-machine-learning.md",
       "title": "Stop Experimenting with AI and Machine Learning",
       "excerpt": "The pandemic has accelerated the imperative for businesses to invest in Artificial Intelligence (AI) and Machine Learning ... Leading financial service provider realizes $60 million in cost ...",

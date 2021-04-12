@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
+    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-04-08T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
     excerpt: "Petro.ai on AWS leverages the scalability and flexibility ... The software segment accounted for largest revenue share of 2020. Artificial Intelligence-driven software is expected to improve ..."
     publishedDateTime: 2021-04-08T11:30:00Z

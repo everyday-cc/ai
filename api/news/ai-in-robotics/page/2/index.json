@@ -2,6 +2,136 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-24-nyts-kevin-roose-robots-and-ai-have-potential-to-replace-white-collar-jobs.md",
+      "title": "NYT's Kevin Roose: Robots and AI have potential to replace white-collar jobs",
+      "excerpt": "Consulting firm McKinsey predicts automation will take over the workplace with 45 million U.S. workers displaced by 2030. Kevin Roose, a columnist at The New York Times, says \"robots will be the ones to climb the corporate ladder.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/03/23/nyts-kevin-roose-robots-and-ai-have-potential-to-replace-white-collar-jobs.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/03/23/nyts-kevin-roose-robots-and-ai-have-potential-to-replace-white-collar-jobs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106858389-16165437791616543776-14971760142-1080pnbcnews.jpg?v=1616543778",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better.md",
+      "title": "This Winery And Tomato Processor Used Artificial Intelligence To Make Their Crops Better",
+      "excerpt": "This company says that by combining AI and aerial imagery it can help give them inisght into the health of their crop while it is still growing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/amp/",
+      "publishedDateTime": "2021-03-21T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-from-robots-to-pollinating-drones-start-ups-create-ways-to-help-cities-go-greener.md",
+      "title": "From robots to pollinating drones, start-ups create ways to help cities go greener",
+      "excerpt": "Plants and drones do not seem to have much in common, but a Singapore team's plan to use the aerial craft to pollinate plants in indoor settings is fast taking flight.. Read more at straitstimes.com.",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/business/economy/from-robots-to-pollinating-drones-start-ups-create-ways-to-help-cities-go-greener",
+      "originalUrl": "https://www.straitstimes.com/business/economy/from-robots-to-pollinating-drones-start-ups-create-ways-to-help-cities-go-greener",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-fact-sheet-opportunity-hub-announces-new-racial-equity-focused-ecosystem-development-expansion-edge-technology-training-school-acquisition.md",
       "title": "FACT SHEET: Opportunity Hub Announces New Racial Equity Focused Ecosystem Development Expansion, Edge Technology Training School Acquisition & Startup Entrepreneurship Support ...",
       "excerpt": "To mark its ongoing commitment and work to scaling racial equity in the fourth industrial revolution and beyond, OHUB announces the following new acqu",

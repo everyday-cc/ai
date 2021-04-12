@@ -2,28 +2,32 @@
 category: news
 title: "Toyota unveils new models in advanced driver-assist technology push"
 excerpt: "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ..."
-publishedDateTime: 2021-04-08T07:35:00Z
-originalUrl: "https://bdnews24.com/automobile/2021/04/08/toyota-unveils-new-models-in-advanced-driver-assist-technology-push"
-webUrl: "https://bdnews24.com/automobile/2021/04/08/toyota-unveils-new-models-in-advanced-driver-assist-technology-push"
-ampWebUrl: "https://m.bdnews24.com/amp/en/detail/automobile/1878111"
-cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/automobile/1878111"
+publishedDateTime: 2021-04-08T10:13:00Z
+originalUrl: "https://www.reuters.com/article/us-toyota-autonomous-idUSKBN2BV0F1"
+webUrl: "https://www.reuters.com/article/us-toyota-autonomous-idUSKBN2BV0F1"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BV0F1"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV0F1"
 type: article
-quality: 44
-heat: -1
-published: false
+quality: 74
+heat: 114
+published: true
 
 provider:
-  name: bdnews24.com
-  domain: bdnews24.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://d30fl32nd2baj9.cloudfront.net/media/2021/04/08/toyota-new-model-080421-01.jpg/BINARY/toyota-new-model-080421-01.jpg"
-    width: 1024
-    height: 640
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -88,6 +92,6 @@ related:
         height: 467
         isCached: true
 
-secured: "OOc9tiGg10nJtd/g+/mlbnGAhKSc8QMSp5b0Ba1uXh1QW6GWZv2itLMEtUjdpkgb5RkFbKgHLuJYysrFcHfxiIvBMCumtlgMaCTubScBiiER60k3//9pml6GxUbUYg5LJjrYwrLAXUqkXvRsYNlXww/aUv0t7ObHzQ6UZ5XLxvTt/iHgGk0BbKBBLOV5HOfAkf8GOZnFyoOWvf0g9VBpJXhjvXl2Yg6aWTjsOM2wrPm+B0OwG7pfpBhuuJZKdqpz26sCfZosh2ygHO6m9GcwsyhZEKRxAj50+ddpKzC8rasd43Y+OSBKXOD0HTQfSf3WXxB/yFjRSs2pwmcDqjikX8rM2+8X5I0XQ0fTqRTYnQo=;v04RL82IAA6PuJoTZfDaaA=="
+secured: "f/jQ90g/sd/B3GLc2ktPwufcHih+wNKM/juSdOwPbVaQjNur+rmE+Kqd+wwvx4cJDN0jCeRMx1Yi4TErZp3PeVJ0OpJUHicJAWxeQAtyM+YQ1E4mTfNRSSl5eOd5SB+xtvq0yn9r5BUguVokymvDipsbjyRtEFQEY/2XpHpl9b7a9aleMw1Ta5YLZEqKilmBM6Cp+QkOoonYsO/Ks2Lr2L+G884yoZOwEWr0UdaaZqYYDahWUnSoUgm3L8T/f8ass1p5mPO6pYkZt64+RfH6PRiG0Z0KYpPxAKj68PArLofFKqq+kde2n2YBnn35McTIK//FKzzbGjnDV69c9KNqdXoHrzcEm78Wen7DKiwQuDQ=;OAzu81PVBSgBR+BPHUEwKw=="
 ---
 

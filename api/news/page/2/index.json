@@ -2,6 +2,386 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-09-appharvest-buys-ag-robotics-firm-root-ai.md",
+      "title": "AppHarvest buys ag-robotics firm, Root AI",
+      "excerpt": "Indoor farming company AppHarvest this week announced that it has acquired Root AI. The deal is valued at around $60 million, with $10 million in cash and the reminder coming from AppHarvest stock. Root AI is a Boston-based robotics startup,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/",
+      "originalUrl": "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/unnamed-1.jpeg?w=1024",
+          "width": 1024,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/",
+      "publishedDateTime": "2021-04-08T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-luminar-ai-hands-on-quick-and-easy-ai-powered-photo-editing.md",
+      "title": "Luminar AI, hands on: Quick and easy AI-powered photo editing",
+      "excerpt": "Beginners, in particular, will find Luminar AI a useful alternative to the simple image editing tools bundled with most computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/product/luminar-ai/",
+      "originalUrl": "https://www.zdnet.com/product/luminar-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/08/39ee0b69-a1cd-46ec-b8f3-8f7b0f00c758/luminarai-detail.jpg",
+          "width": 770,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/product/luminar-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/",
+      "publishedDateTime": "2021-04-08T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-artificial-intelligence-could-crack-the-language-of-cancer-and-alzheimers.md",
+      "title": "Artificial Intelligence could 'crack the language of cancer and Alzheimer's'",
+      "excerpt": "Powerful algorithms used by Netflix, Amazon and Facebook can 'predict' the biological language of cancer and neurodegenerative diseases like Alzheimer's, scientists have found.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/17-artificialin.jpg",
+          "width": 1440,
+          "height": 861,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.amp",
+      "publishedDateTime": "2021-04-08T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-machine-learning-ai-making-its-way-into-clinical-lab-management.md",
+      "title": "Machine learning, AI making its way into clinical lab management",
+      "excerpt": "While clinical labs' use of machine learning and artificial intelligence is perhaps most prominently associated with areas like pathology and microbiology testing, these tools are also seeing uptake for lab management applications like specimen routing and billing support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernhealthcare.com/supply-chain/machine-learning-ai-making-its-way-clinical-lab-management",
+      "originalUrl": "https://www.modernhealthcare.com/supply-chain/machine-learning-ai-making-its-way-clinical-lab-management",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/Artifical%20intelligence_i.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modern Healthcare",
+        "domain": "modernhealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-artificial-intelligence-ai-market-research-report-growth-forecast-2025.md",
+      "title": "Artificial Intelligence (AI) Market Research Report Growth Forecast 2025",
+      "excerpt": "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-sdsc-picks-habana-ai-training-and-inference-chips-for-voyager-hpc-system.md",
+      "title": "SDSC Picks Habana AI Training and Inference Chips for Voyager HPC System",
+      "excerpt": "During this phase, SDSC said it will share experiences with the AI research computing community and documentation developed to serve as a resource for an expanded user base. Habana said its training and inference chips “will provide data scientists and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/04/sdsc-picks-habana-ai-training-and-inference-chips-for-voyager-hpc-system/",
+      "originalUrl": "https://insidehpc.com/2021/04/sdsc-picks-habana-ai-training-and-inference-chips-for-voyager-hpc-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2021/04/Voyager-supercomputer-graphic-1-040821.jpg",
+          "width": 600,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups.md",
+      "title": "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups",
+      "excerpt": "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-facebook-is-trying-to-make-ai-fairer-by-paying-people-to-give-it-data.md",
+      "title": "Facebook is trying to make AI fairer by paying people to give it data",
+      "excerpt": "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html",
+      "originalUrl": "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html",
+      "publishedDateTime": "2021-04-08T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-alyce-an-ai-based-personalised-corporate-gifting-startup-raises-30m.md",
       "title": "Alyce, an AI-based personalised corporate gifting startup, raises $30M",
       "excerpt": "Swag has a long and patchy history in the world of business. For every hip pair of plaid socks, there are five t-shirts you may never wear, an itchy scarf, a notepad your kids might use, and an ugly mug;",
@@ -53,21 +433,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-ai-identifies-new-multiple-sclerosis-subtypes-from-brain-scans.md",
-      "title": "AI Identifies New Multiple Sclerosis Subtypes from Brain Scans",
-      "excerpt": "Researchers say the findings will help to identify those individuals with MS who are more likely to have disease progression.",
+      "path": "_news/2021-04-08-toyota-unveils-new-models-in-advanced-driver-assist-technology-push.md",
+      "title": "Toyota unveils new models in advanced driver-assist technology push",
+      "excerpt": "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ...",
       "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/news/ai-identifies-new-multiple-sclerosis-subtypes-from-brain-scans/",
-      "originalUrl": "https://www.genengnews.com/news/ai-identifies-new-multiple-sclerosis-subtypes-from-brain-scans/",
+      "webUrl": "https://www.reuters.com/article/us-toyota-autonomous-idUSKBN2BV0F1",
+      "originalUrl": "https://www.reuters.com/article/us-toyota-autonomous-idUSKBN2BV0F1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://www.genengnews.com/wp-content/uploads/2014/02/Feb18_2014_22962790_YoungManHelpsManInWheelchair_Top10MSDrugs8417620131.jpg",
-          "width": 1000,
-          "height": 668,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -75,14 +455,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.genengnews.com/news/ai-identifies-new-multiple-sclerosis-subtypes-from-brain-scans/amp/",
-      "cdnAmpWebUrl": "https://www-genengnews-com.cdn.ampproject.org/c/s/www.genengnews.com/news/ai-identifies-new-multiple-sclerosis-subtypes-from-brain-scans/amp/",
-      "publishedDateTime": "2021-04-08T05:00:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BV0F1",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV0F1",
+      "publishedDateTime": "2021-04-08T03:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -91,7 +480,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Autos",
         "AI"
       ]
     },
@@ -156,7 +545,7 @@
       "originalUrl": "https://gizmodo.com/dallas-police-used-face-recognition-software-without-au-1846631918",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -200,21 +589,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-is-it-time-to-buy-the-nasdaqs-biggest-dippers.md",
-      "title": "Is It Time to Buy the Nasdaq's Biggest Dippers?",
-      "excerpt": "Moderna ( NASDAQ:MRNA), and Baidu ( NASDAQ:BIDU) were the index's biggest losers from Feb. 12 to April 6 -- with those stocks falling 29.5%, 29.3%, and 29%, respectively, across that stretch, according to data from S&P Capital IQ.",
+      "path": "_news/2021-04-08-fintech-avant-snaps-up-zero-financial-and-digital-banking-app-level.md",
+      "title": "FinTech Avant Snaps Up Zero Financial And Digital Banking App Level",
+      "excerpt": "FinTech Avant, which works to give underserved consumers access to credit, has acquired Zero Financial along with its neobank, Level. Terms were not disclosed.",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
+      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
+      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://media.ycharts.com/charts/c5066787a33f9d3fca259fedf4802d5f.png",
-          "width": 720,
-          "height": 419,
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/shutterstock_628843823-457x274.jpg",
+          "width": 457,
+          "height": 274,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -222,23 +611,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "publishedDateTime": "2021-04-07T16:23:00-07:00",
+      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
+      "publishedDateTime": "2021-04-07T19:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -247,7 +627,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Finance",
         "AI"
       ]
     },
@@ -460,6 +840,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-07-op-ed-using-ai-to-help-solve-todays-semiconductor-problems.md",
+      "title": "Op-ed: Using AI to help solve today's semiconductor problems",
+      "excerpt": "The chip technologies that exist today make it possible for cars ... more efficiently through the utilization of intelligent control that is possible with AI. This will allow for older machines to make chips in ways they were not originally designed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
+      "originalUrl": "https://www.cnbc.com/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106862811-16172891392021-04-01t014455z_1800782907_rc2pmm9drooi_rtrmadp_0_usa-semiconductors.jpeg?v=1617289180",
+          "width": 3500,
+          "height": 2505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
+      "publishedDateTime": "2021-04-07T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-acorns-new-fintech-target-is-debt-management-with-acquisition-of-pillar.md",
       "title": "Acorns’ new fintech target is debt management with acquisition of Pillar",
       "excerpt": "Popular saving and investing app Acorns has acquired Pillar, an AI-powered startup built to help manage student loan debt, in its second acquisition of 2021. New York-based Pillar helps consumers optimize their debt payments by focusing first on student loans.",
@@ -561,6 +993,49 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-artificial-intelligence-and-machine-learning-survey-motivations-and-challenges-in-ai-projects-researchandmarketscom.md",
+      "title": "Artificial Intelligence and Machine Learning Survey: Motivations and Challenges in AI Projects - ResearchAndMarkets.com",
+      "excerpt": "The “Artificial Intelligence and Machine Learning 2020, Volume 1” report has been added to ResearchAndMarkets.com’s offering. This survey gives a comprehensive view of the attitudes, adoption patterns and intentions of artificial intelligence and machine learning developers worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-318f0c3699c7496fa6228fe1fea19f92",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-new-products-and-services-318f0c3699c7496fa6228fe1fea19f92",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -762,507 +1237,6 @@
         "AWS AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-google-ai-scientist-bengio-resigns-after-colleagues-firings-email.md",
-      "title": "Google AI scientist Bengio resigns after colleagues' firings: email",
-      "excerpt": "Google research manager Samy Bengio said on Tuesday he was resigning, according to an internal email seen by Reuters, in a blow to the Alphabet Inc unit after the firings of his colleagues who questioned paper review and diversity practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT",
-      "originalUrl": "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557499859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351AC",
-          "width": 811,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT",
-      "publishedDateTime": "2021-04-06T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-7-ways-the-cloud-is-changing.md",
-      "title": "7 ways the cloud is changing",
-      "excerpt": "Amazon’s AWS for the Edge service offers a similar opportunity to move your code closer to the users. Those who use the Amazon SageMaker machine learning services can push them out of the major data centers to the edges. Amazon is now emphasizing their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html",
-      "originalUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/05/blue_morpho_butterfly_polymorphism_by_davemhuntphotography_gettyimages-504705188_2400x1600-100796988-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.amp.html",
-      "publishedDateTime": "2021-04-06T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-nvidia-gpu-technology-conference-brings-out-the-ai-all-stars.md",
-      "title": "Nvidia GPU Technology Conference Brings Out The AI All Stars",
-      "excerpt": "Nvidia’s GPU Technology Conference (GTC) is a conference focused on AI and accelerated computing that draws the big names in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e8e74c42155d05d289032%2F0x0.jpg%3FcropX1%3D39%26cropX2%3D1230%26cropY1%3D18%26cropY2%3D689",
-          "width": 1191,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/amp/",
-      "publishedDateTime": "2021-04-06T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai.md",
-      "title": "AI observability startup Aporia nabs $5M to provide guardrails for AI",
-      "excerpt": "Aporia raised $5 million for its platform for AI models, which enables companies to monitor AI running in cloud environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/",
-      "originalUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/amp/",
-      "publishedDateTime": "2021-04-06T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-self-driving-sensor-startup-innovizs-shares-rise-on-public-debut.md",
-      "title": "Self-driving sensor startup Innoviz's shares rise on public debut",
-      "excerpt": "(Reuters) - Shares of self-driving car sensor startup Innoviz rose on Tuesday, on its first day trading as public company. The Tel Aviv, Israel-based firm is developing a lidar sensor, which helps self-driving vehicles gain a three-dimensional view of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-innoviz-tech-idUSKBN2BT2RR",
-      "originalUrl": "https://www.reuters.com/article/us-innoviz-tech-idUSKBN2BT2RR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557505106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351DQ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BT2RR",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2RR",
-      "publishedDateTime": "2021-04-06T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-the-nypd-has-misled-the-public-about-its-use-of-facial-recognition-tool-clearview-ai.md",
-      "title": "The NYPD Has Misled The Public About Its Use Of Facial Recognition Tool Clearview AI",
-      "excerpt": "The NYPD has said that it never had a relationship with the facial recognition company, “formally or informally.” These documents say otherwise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use",
-      "originalUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/28/14/campaign_images/5866159591e0/clearviews-facial-recognition-app-has-been-used-b-2-232-1582900916-5_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use",
-      "publishedDateTime": "2021-04-06T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-sambanova-raises-650m-to-mass-produce-ai-training-and-inference-chips.md",
-      "title": "SambaNova raises $650M to mass-produce AI training and inference chips",
-      "excerpt": "AI chip startup SambaNova systems has raised $650 million, bringing its total raised to over $1 billion at a $5 billion valuation.Read MoreRead",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sambanova-raises-$650m-to-mass-produce-ai-training-and-inference-chips-9984417",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sambanova-raises-$650m-to-mass-produce-ai-training-and-inference-chips-9984417",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-best-cheap-computer-reading-glasses-for-april-2021.md",
-      "title": "Best cheap computer reading glasses for April 2021",
-      "excerpt": "Below, you’ll find a nice selection of the best computer reading glasses you can score online ... blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to go to an eye doctor. If you are already ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/",
-      "originalUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.dtcn.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
-      "publishedDateTime": "2021-04-06T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners.md",
-      "title": "Facial recognition tech is supporting mass surveillance. It's time for a ban, say privacy campaigners",
-      "excerpt": "A group of 51 organizations has written an open letter to European commissioners calling for the ban of all deployments of facial recognition tools that can snoop on citizens.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/",
-      "originalUrl": "https://www.zdnet.com/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2015/06/24/6e25c7c0-3573-4c02-b123-9438a67474f7/camerasurveillance.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/",
-      "publishedDateTime": "2021-04-06T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-death-of-the-turing-test-in-an-age-of-successful-ais.md",
-      "title": "Death Of The Turing Test In An Age Of Successful AIs",
-      "excerpt": "IBM has come up with an automatic debating system called Project Debater that researches a topic, presents an argument, listens to a human rebuttal and formulates its own rebuttal. But does it",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2021/04/06/death-of-the-turing-test-in-an-age-of-successful-ais/",
-      "originalUrl": "https://hackaday.com/2021/04/06/death-of-the-turing-test-in-an-age-of-successful-ais/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2021/04/imitation_game_with_computer_and_man.png?w=400",
-          "width": 400,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

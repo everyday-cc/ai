@@ -6,9 +6,6 @@ publishedDateTime: 2021-04-06T15:06:00Z
 originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4"
 webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/4"
 type: article
-quality: 41
-heat: 41
-published: false
 
 provider:
   name: CRN
@@ -25,6 +22,6 @@ images:
     height: 457
     isCached: true
 
-secured: "G/YBWJ43lh1LeVdAyqVfgiJfZWMRVw5Wsna9PG4CkHSoRaAlLTa1ZfBfK7cBqBDzMdpgxIHGNp/tOPIkbAfzt/Cgrn0E8inr2ydq3co6gRwUUtcWionzkwdl3fBdezQyChG1G1yVMUGCQisFMfNvE+13y7SR/qrnXnoOX84zobTiwQ/vZLCx2Bp2pPAEP93m0+baEgclv/Z25i4timdIX0/53+B7MxlHIx+oW8cc8X2K/0P12JGOZO9vKFzur0CLna8qdiWyHdaRvId1gTs+BeUiJDYBa+UwPGJNt0CCXTdIdaYjxfsEEhUqLscMFCDtXJk/xaDxA9qa1z2qv4Hmr9xZNXNpC9LuuWVXRdsn1sI=;6sd6vTgibWxENiSBILTIQw=="
+secured: "+xqCQiQ4KLE8sA7D2wJkCjSF56fB0ZCN+j6AI4dPayEE/8tqlXIZJbzW6zQlp9wd0TR0g225nHljbypoSN9VTftBO/jxdAJO7E42LOTsws8PM9ghErPiHxseEe6aw/NX2G3lpTsSk0x8TCupQzLHqxANZTzWkeV7JcAVcIuk0FWjOc4r6V6zSUkKYltRd5Swi83fwyM2YWMJ1Fmkq1olDal9W9B5+J00Tv+qdQcElImmPINbNEKEpQV6PXnFRW8waxSaZiodGNAGVhKcMLCo5pAwUfBj1iyU0uC7qZwcN/itx578+iui1U2EClVZBQhX0tdQaOqMNddpHOrAKjIfbCvGlXDYBrE1WGYv5dxBZJI=;rV/ctBa2Zvx9PGEGhXKQew=="
 ---
 

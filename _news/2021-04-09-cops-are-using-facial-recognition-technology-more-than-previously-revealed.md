@@ -35,6 +35,15 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Singapore’s Otsaw Digital develops robots for home deliveries"
+    excerpt: "The robots, which were offered to 700 households in a one-year trial, make deliveries on food or parcels ordered online."
+    publishedDateTime: 2021-04-12T04:03:00Z
+    webUrl: "https://www.techinasia.com/singapores-tech-startup-develops-robots-home-deliveries"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
 
 secured: "Qq8bCXRHT5R4nXWr3r9dYmZFDUl3BENwk4QzTSW/VnAXFfYyZle1/frzB9KjL+uaFZmNVvGVGBM/kjaHZsBcYwKB5ns7stL2I8PMMjYcU+Pic6V3k8In4bnVrwSjFACP/r5vLDvLj2J9N4bojzKeiKOYrejTHReD1jBAKJ7sfYEk2B4WJ6CLu313gLMAyJrLakuzo+vHDMXBrKDv8+VZbWdnqaFU1YqQ3Inol01wBoatGCwMS3YS5Ak4hz9t/g+7gD344Tqp+WdBNgtWyLGX0OMIj5gP1QRrI41uo8xbuSVODGCFiullWkgBCIOTn0Oz5W0uNL60/E6IKzR7xyjbP2ZJm0zWOGzAYztQOd7H+FaED07guAXr1xe8brz7/PIS7hN5ZfSyiVZe+8gHCaq9G6eQ+HQHkUfNVNwMP+0t0ynf4rk0YmMdw7N3KXFEn13sbJaPwpQB8mz94diMbv32lbYgWO87T4DwteN/QJ5tVYYE3y5Ld7Hgt9+mYFVwBPZoOI9aT3FQpJbeypljL9hF4w==;TokOCaZzkMBnYzXxQYeC6A=="
 ---

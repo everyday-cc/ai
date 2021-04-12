@@ -24,6 +24,17 @@ images:
     height: 400
     isCached: true
 
-secured: "NcWsCOtEWLi9FAmn1vRj9R/6uHcsdcjtnHSmc8OHN5Sf1AN59Mn2kDPjpX3TZxNjztFfd1GDkT/7vmj5Uded+xgW8CGCcF+GNoybSV9PAT7ydms0HU3zlXpMX90j2DDwS22u0szTM+gqsGEQFVIV1eX8WarOknWq4aYO5d/sqknXFWF/7Z66FjUVXz7fwBZs+Qlg2FHkoJkQIr9Bsn6MFpp8Jq92cnTdw1PxzePje246l+1E2hFBxDjYO1PFGkQ8kl4imAudol01ZgDZn+5bzXZQWveUxWVecXs1wKlqkk0r9zp4Wl96PhXcbItrI2dQPD9ICS+lj72JwvNgC6n/WFYSZ2Pd3ajgUtntlD3IWTQ=;qVVs9XB0hTl7F7EZd13kNA=="
+related:
+  - title: "Agriculture Robots Market Trends and Opportunities Forecasts to 2024"
+    excerpt: "Snapshot. The global agriculture market is anticipated to be intensified in the years to come owing to the entry of new vendors in the market with"
+    publishedDateTime: 2021-04-12T09:21:00Z
+    webUrl: "https://ksusentinel.com/2021/04/12/agriculture-robots-market-trends-and-opportunities-forecasts-to-2024/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 19
+
+secured: "qDIpO/w3sUUiH/X/rvjbNyjJDzG3n/tGsm0KiSaWBQPZcN78gpTpXE0mcoWL4WXOSfNdFuU/gfMMq0iPBpb3XA7o+tYMDHedVrTvgxpT0CzXKCyZWopn7j7yqIuYWRcr6oEU1HNcLdVm+ueThKwmMCFbPT3CLQ7TNRss4nHR2E9xxZRp5+mGlztTUXKjAlVv5BQO8R0M2s7+ymNIRQZVBWNKwBvLd0fw24Wg5+N0UWYjwAPaaR7/RbYvD8zEly4NpSnCmuMYCqZzFwjie7hVurs5YnJBuhG9QTILnVbWvNNkTlDR6Orfe89SihDiQd02ayg0hOyRLHLQ/YhmffuxiW5fMHXKP1+gbUxmkM6VFuuyVoLsiHqcgZJpiv9FpWzwc744wQqf4QX1lob9hLcIfmsokgUVsgYGc/8ssRetohlhodQN6YBoCWZknruXt4wzxaDKimZ9bTnXieVn9dzHLsJiMa9mmXGKF9RLznBjtYpGUGFD2sqhdiPudQlJEfMp/S7nEwQWJC70bF40CzOCUQ==;Iy3tnDrIyW4YUIExRCdotA=="
 ---
 

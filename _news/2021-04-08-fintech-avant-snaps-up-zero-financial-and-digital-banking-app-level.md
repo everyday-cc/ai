@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 119
+published: true
 
 provider:
   name: pymnts.com
@@ -27,6 +27,50 @@ images:
     isCached: true
 
 related:
+  - title: "How To Become A Fintech Market Participant"
+    excerpt: "The global fintech market value is expected to reach $309.98 billion ... the biggest change in how financial services are delivered over the next two years was AI (56%), while the most popular choice among TMT leaders was IoT (52%). Cloud, 5G, RPA and ..."
+    publishedDateTime: 2021-04-08T11:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/08/how-to-become-a-fintech-market-participant/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5feb595a2c54755172abb14a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vancouver-based fintech to offer AI-powered personal finance platform"
+    excerpt: "The AI-powered platform will be available to Marble’s Mortgage ... channel of opportunity for Marble to empower Canadians using its holistic personal finance fintech solution that provides precise expert curated recommendations, insights, and financial ..."
+    publishedDateTime: 2021-04-12T07:00:00Z
+    webUrl: "https://www.mortgagebrokernews.ca/news/technology/vancouverbased-fintech-to-offer-aipowered-personal-finance-platform-354849.aspx"
+    type: article
+    provider:
+      name: Mortgage Broker News
+      domain: mortgagebrokernews.ca
+    quality: 54
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/046/0379_637538069040540764.jpg"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Why PayPal Is Winning The Fintech War"
+    excerpt: "Compared to fintech unicorns that emerged in the last decade ... PayPal has invested heavily in new risk management technologies such as AI monitoring and network tokenization. The advanced security has earned PayPal invaluable customer trust."
+    publishedDateTime: 2021-04-10T16:09:00Z
+    webUrl: "https://www.benzinga.com/fintech/21/04/20567896/why-paypal-is-winning-the-fintech-war"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20567896"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20567896"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/u341633/state-of-the-art_security.png"
+        width: 936
+        height: 446
+        isCached: true
   - title: "Avant makes digital banking play through Zero Financial acquisition"
     excerpt: "Founded in 2012, Avant began life by lending its own capital to \"midprime\" Americans with credit scores in the 600 to 700 range, using algorithms and machine-learning capabilities ... of transparent financial products and services with great features ..."
     publishedDateTime: 2021-04-08T00:01:00Z
@@ -41,7 +85,37 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "10 High-Potential Fintech Firms Chosen for 11th Annual Fintech Innovation Lab New York"
+    excerpt: "As noted in the announcement (published on April 7, 2021), Fintech solutions aim to leverage AI and advanced data analytics to “address key industry challenges including sustainability.” As mentioned in the release: “Fintechs will receive advice from ..."
+    publishedDateTime: 2021-04-11T21:20:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment-600x468.jpg"
+        width: 600
+        height: 468
+        isCached: true
+  - title: "Georgian wants to be like fintech firms it backs as it steps up financing strategy"
+    excerpt: "Georgian Partners became Canada’s biggest venture capital firm by investing in companies selling digital automation and artificial-intelligence-driven products. Now it’s trying to become one of those companies itself."
+    publishedDateTime: 2021-04-12T10:00:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-georgian-wants-to-be-like-fintech-firms-it-backs-as-it-steps-up/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 18
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/Dv7uxJEmZWZra1tpj3x8SX6uMp0=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5ZZFCHMC6JGCRHYUNLUXIEH4ZY.JPG"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "9pUB2SzbCyFJR/OYXqE4728+Va2nd1EPotPRP9y4ACBzXk0SLbi/ttX9e5i/cHGuvQcVC0JhV6Cctn627En1MUxAcy4bH16VDh3fcocqVEfzQALtoCsqfNuzIRW0pP84Jw/+u8K8vtU/19iayZzJYUuV/kc5xlPs87Ly9f8TdBXhYI27pfoYppXTohExHDku3/xeBrKwZHJgQwIvKxoH0yiDRsW8pXtrYl5Aqyc1RWPqHrZcBWnj1JfaKA1nfREtABsmkW7Q85WQkPMEJiZqgKsV0XkFRrWFJVSgO0g+SyszmcGXi85zCfAcWpefJeuScu5o188A1ovr8ft/9VnuQmNJUJemVfhJwDL6WqMbOeU=;XwBwMgMGHOCXdvEW2ZN3xA=="
+secured: "B+O3FKkLnnKPT/fooyzdud07KdLj0Uzo+6cEh0RW6Au4t62PMc6scB4524PTN6zDf1Qw+v8Z+XfFIusTmClP7Lu5d4Rx5Ye4imk4ZZdrAp0FMeu+4roDD8JiuHwF4rfWTBIwpBKFSWBbBFr/lqpiu4PvQEJTWucRfbrv9gNKNth6pLvij0I8afP2ilMq5p+MAFaxh5Eu7kFsRlZb/PajW8r89ncaHIuGiU8VWxYuGHfjtJGWedbBZ5IBL7YLZAcypHF0Op3wzwhoDFOTNgxJPWlKXDxZnTzlGkwmNsoKM2sTgHV1tAXTfVfv7smEfb2zVMIm0Ps6avzHX8MaazX0RxzM4L3t23Qqa6kAHY84XimfOMmkKgeshsncwZ0OQqkJlmIqNEB2w/MvJ5LeQ+SXQqMdYxtwI+7s2u04/EvzkI8/O63C9UvbvFLoJ4Aqu8LVEM4/C4kZ08SfWY5flmK8CDwzkgr/RzMGPbHIkrj0Px92+4lL+/E2B0Pj3yP0gPfh2W2BwJLZk8jRUXzZ2xBrtQ==;DvofmVo0RtChKrxRl0V6Tw=="
 ---
 

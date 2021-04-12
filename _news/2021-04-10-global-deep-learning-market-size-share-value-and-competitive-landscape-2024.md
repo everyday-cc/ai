@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-deep-learning-mar
 webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence Robotics Market latest demand by 2021-2026 with leading players & COVID-19 Analysis"
+    excerpt: "Index Markets research has freshly done market study and published on the Artificial Intelligence Robotics with focusing the next five years as forecast years (2026) Global Artificial Intelligence Robotics Market has been comprehensively analyzed and the ..."
+    publishedDateTime: 2021-04-12T08:36:00Z
+    webUrl: "https://ksusentinel.com/2021/04/12/global-artificial-intelligence-robotics-market-latest-demand-by-2021-2026-with-leading-players-covid-19-analysis/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 27
   - title: "Commercial Artificial Intelligence Market Size Competitive Dynamics & Global Outlook 2027 With COVID -19 Impact"
     excerpt: "The global commercial artificial intelligence market demonstrates a highly fragmented and competitive business landscape. The leading companies in this market, including NVIDIA, Intel, IBM, Google, Microsoft,"
     publishedDateTime: 2021-04-08T11:07:00Z

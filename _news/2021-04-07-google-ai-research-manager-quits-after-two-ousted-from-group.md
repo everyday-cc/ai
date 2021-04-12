@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Google AI
 
 images:
   - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibGlKoDrJVOY/v0/1200x642.jpg"
@@ -92,6 +93,6 @@ related:
         height: 600
         isCached: true
 
-secured: "D1crwejtiImFpfV3AeH4Si6aK93ONBCLoyuSOh3UWNTqh13SmCmsLc+Ap4amvSNgFbEtWHIUJi4Bz2n7ZQfL0XWMIAMUmQ3eyanT0lkmZuONJHql7CKniGEPpawyd7h5Ph3NdYxl0k6vztOm48KjiRsQ2fhvCDbbPyvWfa2pynbtyNAA32urTq5qYiVjC4isKre1WNs0tcYu2VCBCuKCgUHiq9Fx0T+6ASvEN79hi6cv8QJuMi/P78B6xMhAYARydOGqovQhejfJbf0vbgGKt25TM08Ch8nQ7cgXiTvJMoLs/dM8z08lTDH4GgqaVHD4j/Jk91Y1Px1Pt+zNzEGWSAiR9/dx524FlOsCl9Ma/dQ=;VmeMP/nu/iugeMQcWMXejQ=="
+secured: "ExVFBoVD53yghoy/7Akn9ik8ZLFVfqRJL1sW2lFKCkMWkx74edm5A9Ae2m7TkwbC8D91SzdZ9wFR8rIT0vr5aXZofAX8kODzh5q6czAMxTjdh/NgzsOElrDXhEbRlm48NmLr/C/Px4Eu/CpO+c2JSJElxSFgACVWSxbfmw/OwpUo7N1/B6W7BZdjmOmeiyuDUai6u15CvQGevHJGmuAHGJqVCIY6WZ9qSQnhGYs1uIob29z3OKAwTaaPCZHkZ/pcyn/2pVEB4YzNLLXIhNc5mU5S+/q8nO6JKUJAWm40usMAxi1NfC49PsUigeg6I4alok7/gnP8e22t25QZc61Mavd6RJqllKRNTeTJAeFQq3dxKz5nOBvUED5jaYIGkGl0S0msXPGAL9PlzT1HTtSCKns2LVRIsObB/9DNLA6fvfGdSf+dWOwxnP4a+DSHBbYKJwFordcrSXoP6yuVu6Bqu7be7GErEEOdS1xUVU7vMDQmP7ETH8BKJM6EasW0MBGU74C0v/PkpfK4kIiBiJYaCQ==;te3rXBP9mDAhf49My5fDTQ=="
 ---
 

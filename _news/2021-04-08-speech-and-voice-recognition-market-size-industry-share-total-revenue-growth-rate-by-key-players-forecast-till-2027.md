@@ -29,85 +29,48 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 07, 2021 (The Expresswire) -- The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting a CAGR of 38.9% ..."
-    publishedDateTime: 2021-04-07T04:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-07"
+  - title: "Natural Language Processing Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
+    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-04-08T12:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "UK AI in Manufacturing Market Size, Segmentation, Share, Forecast, Analysis, Industry Report to 2025"
-    excerpt: "Furthermore, Chrysalix, a Canadian venture capital, announced in 2018 to open a European headquarters in UK and planned to invest more than $100 million in local start-ups specializing in AI and robotics. To Request a Sample of our Report on UK AI in ..."
-    publishedDateTime: 2021-04-09T12:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/uk-ai-in-manufacturing-market-size-segmentation-share-forecast-analysis-industry-report-to-2025-2021-04-09"
+  - title: "Artificial Intelligence in Energy Market 2021 with Top Countries Data : Potential Growth, Share, Size, Trend, and Analysis of Key Players"
+    excerpt: "Petro.ai on AWS leverages the scalability and flexibility ... The software segment accounted for largest revenue share of 2020. Artificial Intelligence-driven software is expected to improve ..."
+    publishedDateTime: 2021-04-08T11:30:00Z
+    webUrl: "https://menafn.com/1101879802/Artificial-Intelligence-in-Energy-Market-2021-with-Top-Countries-Data-Potential-Growth-Share-Size-Trend-and-Analysis-of-Key-Players"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 6
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?138122"
+        width: 373
+        height: 250
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market Development by Gross Margin, Market Share, CAGR, and Influencing Factors and Forecast To 2026"
-    excerpt: "Apr 09, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Machine Learning as a Service (MLaaS) Market” has numerous changes in recent years and expected to vary significantly within the ..."
-    publishedDateTime: 2021-04-09T09:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026-2021-04-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in BFSI Market Size, Applications, Regional Outlook, Competitive Strategies, Analysis, Growth And Forecasts, 2020 -2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 10, 2021 (Market Insight Reports) -- The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 ..."
-    publishedDateTime: 2021-04-10T07:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-size-applications-regional-outlook-competitive-strategies-analysis-growth-and-forecasts-2020--2027-2021-04-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2028, Fortune Business Insights"
-    excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."
-    publishedDateTime: 2021-04-07T11:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-key-drivers-industry-share-and-future-growth-demand-analysis-by-2028-fortune-business-insights-2021-04-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) Chipsets Market 2020 Remarking Enormous Growth with Recent Trends & Demand"
-    excerpt: "Amazon Web Services (AWS), and XMOS Limited among others. Request Free Sample Report of Artificial Intelligence (AI) Chipsets Market Report @ https://www.zionmarketresearch.com/sample/artificial-intelligence-chipsets-market According To The Report ..."
-    publishedDateTime: 2021-04-08T09:20:00Z
-    webUrl: "https://ksusentinel.com/2021/04/08/global-artificial-intelligence-ai-chipsets-market-2020-remarking-enormous-growth-with-recent-trends-demand/"
+  - title: "Exclusive Report on Artificial Intelligence Radiology Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players"
+    excerpt: "In terms of revenue, the global artificial intelligence in radiology market was estimated to be US$ 891.24 Mn in 2018 and is expected to reach US$ 3506.55 Mn by 2027 at a growing CAGR of 16.5%. The study analyses the market in terms of revenue across all ..."
+    publishedDateTime: 2021-04-10T12:55:00Z
+    webUrl: "https://ksusentinel.com/2021/04/10/exclusive-report-on-artificial-intelligence-radiology-market-analysis-report-2021-and-forecast-to-2029-with-different-segments-key-players-2/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 14
+    quality: 5
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/01/3-10.jpg"
+        width: 750
+        height: 420
+        isCached: true
 
 secured: "inTuls1ZPUCmPrFZp9Vz1xpbUYs3corLZzNHacB1bODL9lVo8lFO6mXuJvSQQPpyetdQ92PiYElfmr4OdgzIv05t44h5B29ru5Rqda70xccioE54kRVDzmDyN2ZBrtTC8aO1dmscSi2hgWnFE4NrRe3D5woqIFlEcOaWLrhIBmXxOOmPHhWH/JWk/SC8L2a1efiOPnwtunlgwd231M1tT5f1gc44A9m/jwYrdONW7A1863MwpG2tbsDlu00NPgN7NhEbi9KODmZFMg6uYRarapoDyH/AMBLIXAndj1eBFnPqr1BWIn6QmSxI4a71M9QsuhkiWx3CUTYfE51Y16IkIpINLAMXRLqC3ZBF7valUCs=;oi7HDosPRroPJghX0bYetQ=="
 ---

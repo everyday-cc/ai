@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,21 +47,7 @@ related:
         width: 750
         height: 406
         isCached: true
-  - title: "Accenture Grows AI, Cloud Capabilities With Core Compete Buy"
-    excerpt: "Accenture expanded its native cloud analytics and related artificial intelligence capabilities with its Core Compete acquisition."
-    publishedDateTime: 2021-04-07T07:51:00Z
-    webUrl: "https://www.crn.com/news/cloud/accenture-grows-ai-cloud-capabilities-with-core-compete-buy"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0268-11fc96109c5c-f4cb6a9c686e-1000/accenture_sanjeev_vohra_small.jpg"
-        width: 480
-        height: 719
-        isCached: true
 
-secured: "v8UY2mwi43LSplXIBGYsVJvQr3/Q1lXooE7rJqHwX4+eiX3HWQxbrg8R6/X5/8x7FMTYB6uMvRk1vMbbp6KxVth8XmZ9aL5fe+93I545bG1tl28ZTJXpzE7sQtZTjakPTOKqneb/BxZ1vUuxsSMnZODNOTaiPa89sVcgOsrcSbdJOKVi+0J/91mfodb5V7HnlP8MK6I+HveEZFWgPpNrUyrw2lvrty0vD+Xek9ZNubeUrq2fAIMZdBIAFsuZpZs/WP9DQVdV3AinnxOtxXgr6dOfYthNx2e1Dc2sANM7i2WBSRG1dylPJhZLLW5e9z3sR7iKkxlQlMic2hR6c/GanXxRF5NhTXssq9Kq2uipZ5Y=;10E8jbYKKPnSmMod+eW6Vw=="
+secured: "4tKPuBrU3xR4D/LOYScMGOHVj5eLY6gfS/W7MwZrdpSfilxpX9WrsKtIPz3WGafy6lWoSTCc/atxb53cGOZWN0RcDczrG+u4+DtEwtMZyQxOaFo6bphU0N3QvOPH0guyaEOWVXnqkDz0Em4eLvgo2AWPGWcQtlBkoJP2KTFl6G0NVyWOneb3nv0PkfOfeLm4La2ebmJpGitzSVSG7r2DOteIZVcMCju5CY9nVqYBP1aM4f+SgHb8vgSQP5nfcK9GWPRE/WlWS4MeTucXbuQUd9Y00h252aekSazDK9YKVCra/0C+dqYG0qfqwE3xsXPwWsRdW6CG7OxrOz4svDWfX9qYEvkD70PspQduqG7FWoHChoiOMZbu9PZ2q7Oonwn0h8oYdAll5j1lIhI+2qHq+PSVwbvzcxv2+Xjs+46Y3+dWovV7m9XeYNErs/6k/Ia4tYK1vMmudHzGZaDpNFR5twaQ4zufk+4EpkveCK25hi6AzwlID+SZyQ+WBXmeAEf4FhVNcxsTsDUQaP34A68xXQ==;H4F9mQ5+ZssUjgaVRVdvuQ=="
 ---
 

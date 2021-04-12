@@ -27,23 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "The NYPD Has Misled The Public About Its Use Of Facial Recognition Tool Clearview AI"
-    excerpt: "The NYPD has said that it never had a relationship with the facial recognition company, “formally or informally.” These documents say otherwise."
-    publishedDateTime: 2021-04-06T18:12:00Z
-    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use"
+  - title: "Internal Affairs used facial recognition software against NYPD cops: email"
+    excerpt: "The head of the NYPD’s Internal Affairs Bureau apparently ordered the use of controversial facial recognition software to investigate cops who were drinking before a slain colleague’s"
+    publishedDateTime: 2021-04-11T20:51:00Z
+    webUrl: "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/"
+    ampWebUrl: "https://nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/11/internal-affairs-used-facial-recognition-against-nypd-cops-email/amp/"
     type: article
     provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 97
+      name: New York Post
+      domain: nypost.com
+    quality: 72
     images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/28/14/campaign_images/5866159591e0/clearviews-facial-recognition-app-has-been-used-b-2-232-1582900916-5_dblbig.jpg"
-        width: 625
-        height: 415
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/nypd-facial-recognition-007.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
-secured: "rB+lK2Q4asramP8w8c0v8GoUzz7/r3C+r7o3dyO995nKXsCrWP1hEXeBmAP5+WKZvS8eY+EMmysPK3MdJacFYt0ZsYbigbWOKIO3TUI9abCTyiantaznuTvDNwwMO4MqFHQH8AJugnxqXVw5QXCpg6CBoPdNUx34hb2Kc2rWqlf81UsmdTrJ2MqhjGzmL71yDh9y7xv+sXreUAGrTpsMxcNzT7SBldZxotHb3T7pJylbBTMO/v18Wz5kmjYeqV+3DpWot4MyG50l7RY/SzctGukPYxw0ya0lpP7/f5+3ezelGEN3e7q1umqGN2qdj+1VX+abtswKulYSrqr0BBNyhW1LmjzsggtBTZm7XhsO2n8=;+TfvBUKn+mbz0UPCqvNYvA=="
+secured: "n/2/hkVODf45BmRoUyf+PU1BnIFFFroG52R1j95h4vyMCw1tbcuWlQ47z9BVy3knVp6xKNuhtDs+kNP23HmYO0wjFoEm1LOboj+lp0HevHqGdNqA7BIj3sqVWwHoCX+L5+eAUvY7JU/Abg2KA/NEyYuoVf7wUsPK+tclh7lvAMYjo5cZdRSdgEgEv3NUX5RSPrN40EaAlESNFpC+QFohU4nNjDJ9GMLrmHVEM1LLT2kbjtDacK6uVhXeGiccBYX2lG9cKdS3eyhceAl6M4+7fWsmM+PDxadRJubqh2Pt+jxvc7W+Ms09kJV6ZviFvrp3ZGnBOSPATaaxOzsqpM7zdXZjQgjEvdMD5R/7C2H2z6RHbqfQFwsMP3u2cCi6vztafvz77xqddqRBQFTwmYNa1EWkk7jHiFJk3zt0IZg+ZHCbSPc5rxp6OKHdx68aZYoBlw2FMIPrhS72xErUeLZL879EV46P488VkXQH2oy/LQpJYBVpXShJXvkT4b/yYZ5TdbAWAiCem4VyiAzpq1ZVVA==;1o9XlQsozol+idFLVVpMlw=="
 ---
 

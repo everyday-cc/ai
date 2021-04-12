@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202104/body-temperature-scanning-f
 webUrl: "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Biometric Companies
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore’s Otsaw Digital develops robots for home deliveries"
+    excerpt: "The robots, which were offered to 700 households in a one-year trial, make deliveries on food or parcels ordered online."
+    publishedDateTime: 2021-04-12T04:03:00Z
+    webUrl: "https://www.techinasia.com/singapores-tech-startup-develops-robots-home-deliveries"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
   - title: "Cops Are Using Facial Recognition Technology More Than Previously Revealed"
     excerpt: "The surveillance state is available as a plug-and-play solution for any cop interested in a free trial period."
     publishedDateTime: 2021-04-09T15:00:00Z

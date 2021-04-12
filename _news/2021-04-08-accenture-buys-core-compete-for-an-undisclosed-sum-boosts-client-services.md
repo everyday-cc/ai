@@ -43,21 +43,7 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "Accenture Grows AI, Cloud Capabilities With Core Compete Buy"
-    excerpt: "Accenture expanded its native cloud analytics and related artificial intelligence capabilities with its Core Compete acquisition."
-    publishedDateTime: 2021-04-07T07:51:00Z
-    webUrl: "https://www.crn.com/news/cloud/accenture-grows-ai-cloud-capabilities-with-core-compete-buy"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0268-11fc96109c5c-f4cb6a9c686e-1000/accenture_sanjeev_vohra_small.jpg"
-        width: 480
-        height: 719
-        isCached: true
 
-secured: "AqxmhvHlQWQd5hAzOANVPhd4v8xlz9LZoGzW5oo6DuwVE+1BO8eD4jHdsPR3ujT4jWB5nOJojyA2ENro9uM054C7cA4FHtToBUpmTmSDZQ/feFUyXRzXm/ryw05A+qtawuKZU5KE3/rxe/H68jcAoDLdREiQLuU2DwJkhGhO1/Vj6tcJcqhhHXZVYkARv4OJ3j6P95ItwfIp/X/z/EGndKJWE/T03mzoktvTaQqNeKfTMV21eUfbIRqwwgVwCTP6sb/UYDlfYKdu8E6ik8XDEainWYSJ80AUAcu/H1aWXExAqqISgsRWvppJAQSkbkxlchGGPG9p9rW4rUozlANqAIqxpzSYR7vgc9FoKmH+wck=;V7MwGWC4RHhKwEm6oX/nLw=="
+secured: "OePKKpLu83c5Ux/BmMGxPvxHJnXTxejYCLgcEXce7SiWbCzxjf2idQSXl6c9fpk4AA2xvPiIQmop8CfBK+4+mD65XuFI0tn+YWlJM9aKwmSxzYRFQ04Dm0jSIAt9UtUGdf1ZG5YNqB57U6xMQepyd9ZPdh/f+gFpbE1jVJSDXinIUWDvi9FPjjB/mRlgzaJQD8mq1LfAmvFuRV1vY5ym3DH1Hgoo4GXntH1ia+QsJ5GHEu+hTWKJzyO1t0MbaPZilZRRclspNvjuDnkpONtwmBPVKWVR0AXQKG5CiB9Yi/rWK/lrn+yKuLcZ8nNIoI4NydtfFzlUubK9FBlOQI8jVRolEFyrex/WlbAAWd83foiGMs4TAH2cmjPDxICcHwBCVLZ2d6lKw4Tuz/PBpxNPXpseTs1ebzlZPFnMKkHRF36lihxAc73dotxHNjXqpdMbWKVU/pqCvbSAR8o4PfdMllLw8ofuQgNzu+VW4+7Jak/ppX3Wsp1EjjlIyhYV/JMoOpONwUAJPj53nu23UF8xHQ==;1uHsG0gFvpOwoTpE5s8dXw=="
 ---
 

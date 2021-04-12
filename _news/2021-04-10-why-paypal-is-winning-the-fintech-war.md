@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Acorns’ new fintech target is debt management with acquisition of Pillar"
-    excerpt: "Popular saving and investing app Acorns has acquired Pillar, an AI-powered startup built to help manage student loan debt, in its second acquisition of 2021. New York-based Pillar helps consumers optimize their debt payments by focusing first on student loans."
-    publishedDateTime: 2021-04-07T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/"
-    ampWebUrl: "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/"
+  - title: "FinTech Avant Snaps Up Zero Financial And Digital Banking App Level"
+    excerpt: "FinTech Avant, which works to give underserved consumers access to credit, has acquired Zero Financial along with its neobank, Level. Terms were not disclosed."
+    publishedDateTime: 2021-04-08T02:21:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/04/Header-Image-3-2.png?w=1024"
-        width: 1024
-        height: 512
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/shutterstock_628843823-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "How To Become A Fintech Market Participant"
     excerpt: "The global fintech market value is expected to reach $309.98 billion ... the biggest change in how financial services are delivered over the next two years was AI (56%), while the most popular choice among TMT leaders was IoT (52%). Cloud, 5G, RPA and ..."
@@ -57,33 +57,63 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI in Asset Management: A Secretly Developing Field of Fintech"
-    excerpt: "AI in asset management is a growing field in the fintech industry. Here are some crucial areas where artificial intelligence asset management is effectively leveraged by investment firms."
-    publishedDateTime: 2021-04-09T06:31:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-in-asset-management-a-secretly-developing-field-of-fintech/"
+  - title: "Vancouver-based fintech to offer AI-powered personal finance platform"
+    excerpt: "The AI-powered platform will be available to Marble’s Mortgage ... channel of opportunity for Marble to empower Canadians using its holistic personal finance fintech solution that provides precise expert curated recommendations, insights, and financial ..."
+    publishedDateTime: 2021-04-12T07:00:00Z
+    webUrl: "https://www.mortgagebrokernews.ca/news/technology/vancouverbased-fintech-to-offer-aipowered-personal-finance-platform-354849.aspx"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
+      name: Mortgage Broker News
+      domain: mortgagebrokernews.ca
+    quality: 54
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/046/0379_637538069040540764.jpg"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Avant makes digital banking play through Zero Financial acquisition"
+    excerpt: "Founded in 2012, Avant began life by lending its own capital to \"midprime\" Americans with credit scores in the 600 to 700 range, using algorithms and machine-learning capabilities ... of transparent financial products and services with great features ..."
+    publishedDateTime: 2021-04-08T00:01:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37815/avant-makes-digital-banking-play-through-zero-financial-acquisition"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 39
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-in-asset-management.jpg"
-        width: 900
-        height: 500
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/phone1.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "11th FinTech Innovation Lab New York Selects 10 Companies"
-    excerpt: "Their solutions use technologies such as artificial intelligence (AI), machine learning and advanced data analytics. Selected by senior technology executives from the Lab’s 44 participating financial institutions, the 10 fintech companies will spend ..."
-    publishedDateTime: 2021-04-10T22:08:00Z
-    webUrl: "https://www.finsmes.com/2021/04/11th-fintech-innovation-lab-new-york-selects-10-companies.html"
+  - title: "10 High-Potential Fintech Firms Chosen for 11th Annual Fintech Innovation Lab New York"
+    excerpt: "As noted in the announcement (published on April 7, 2021), Fintech solutions aim to leverage AI and advanced data analytics to “address key industry challenges including sustainability.” As mentioned in the release: “Fintechs will receive advice from ..."
+    publishedDateTime: 2021-04-11T21:20:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174096-10-high-potential-fintech-firms-chosen-for-11th-annual-fintech-innovation-lab-new-york/amp/"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech.jpg"
-        width: 1000
-        height: 500
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment-600x468.jpg"
+        width: 600
+        height: 468
+        isCached: true
+  - title: "Georgian wants to be like fintech firms it backs as it steps up financing strategy"
+    excerpt: "Georgian Partners became Canada’s biggest venture capital firm by investing in companies selling digital automation and artificial-intelligence-driven products. Now it’s trying to become one of those companies itself."
+    publishedDateTime: 2021-04-12T10:00:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-georgian-wants-to-be-like-fintech-firms-it-backs-as-it-steps-up/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 18
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/Dv7uxJEmZWZra1tpj3x8SX6uMp0=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5ZZFCHMC6JGCRHYUNLUXIEH4ZY.JPG"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "VUhyNch1nf7u2Y6qowfSEl1asPX4YTQcCo3Jjf8LuXp+VDgxDbuTI0esYsTD+ewQSFezTbFrrHT+h7FOCl1j73Uk9pgieilk5l1yTLjGrSn7t/VOf4ICp2sV51NtbCc2L8maW4/kKF21wznVyTlJx2V1BuD0xpgpqxjgQ5Th3lYk0Gj/AIgm61/akTThSxdl8nJ60SAMDabLlxRf7VlegEwsJDWpUvYZi2+pW6lEURvBVD8hQoCkVoSM39okXsK/yzmJPJm80k7hXhSLaVH/O11c7Q5qb5ctfQwVy0wJc36f0+v+EoiUG74UV5RTuYLZIOm9J4sat7jc5gaxC1oRWuguOECmgFgqaOFtwpCLWd4=;HNcf5OQ13nQU/S7GJRmWsA=="

@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "Facebook is trying to make AI fairer by paying people to give it data"
-    excerpt: "In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to ..."
-    publishedDateTime: 2021-04-08T16:15:00Z
-    webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ..."
+    publishedDateTime: 2021-04-08T12:15:00Z
+    webUrl: "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
         width: 1100

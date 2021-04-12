@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/product/luminar-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     height: 581
     isCached: true
 
-related:
-  - title: "All about Artificial Intelligence"
-    excerpt: "You’ve probably heard plenty about A.I or Artificial Intelligence in recent years ... A good example of narrow AI is the ability for self-driving cars to recognise objects. General AI is the type of intellect that humans possess and is a flexible ..."
-    publishedDateTime: 2021-04-09T07:13:00Z
-    webUrl: "https://www.nyasatimes.com/all-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: Malawi Nyasa Times
-      domain: nyasatimes.com
-    quality: 39
-    images:
-      - url: "https://www.nyasatimes.com/wp-content/uploads/08178B43-6945-4A1A-8319-DD5CCD46BF18.jpeg"
-        width: 810
-        height: 456
-        isCached: true
-
-secured: "LZNIL3WgYvNCdigMDqqyP99WESvozICu6K6XJccpU6esL/8CZpyLaHQWnQwNJcf2HOKtjIx2dXbyvv12/uLAh/uziWYNcSRva7tqV9tIzFflizGvWjsM8SNdVuGRXjyLQEXpfY9VWGO9j9g6iN6bTaAzGzkJfc3wzwH1DMnJBbbI3PbgAoIboEH40cc+eBDyHvTEFpq05NP4Y/3ZG6ZFABvlTeWbjyyzPrhaWiJIDRiznhwO5j9obb0nCvQjRnyApbIqWIqHB+rwAdEGZT57Z0+3nHvpI+WpFlBq5gQMUOMhb0i8HCwNADJc0jibEdQGefRNGxb0u8wEVXO6LW0WVR/1k4yepa1i+ZpWz1XLPLQ=;QdNTMb0A/hELuo6D7VJ8hA=="
+secured: "BoPjHp4+VoWmYfRUu7TBTMEtzLprWRUmFKJXmsipm9RDN7Y2YRY6dAUuHyD1gtvz48mik9QPuJU6TCItSugz3BhGKj0WO91IJbmyebelRW+xtSGrmxfx9FvNRaIc9rnCuxOs2m+7G77cATLPGpLl9+1m0B/GzjUR5gX7nv0E2Z5NkVDywCKZ0jZ9dT6E6nDFvmk/pUNAOWMmFmS+zrvLoDu9R90GoOPoF6hnEpYOzxl4rqtwVFm9ZaoK/EPHiCy+Vaqa2MlqO74HUi1Rmeo6BPII0uWxqUYG5tdIGpPrYvw/yWH1I55/1nQFr1dLoAkPnOqBQZyb0de5ZpxIXideL+EpMYPqOWxsTE7fnQo2jB6oZKdVbdWacjV1r47ygFLAkZfEVCJhwwEitPomgNZh/gpLW19st0L7ogalcx4jz1Ps5IzjxmaQoGV2b+0q5EpOvp/vC70yc+E6wDQ7ZhY5fYupd2vKAIl4fNJJbbZVe3/GwZnJkWUg4/Z3n3A3bnzmbf2mwaEI4eQrnIa2VyoprA==;dOCqXAwKyFSm2DSNeazJIQ=="
 ---
 

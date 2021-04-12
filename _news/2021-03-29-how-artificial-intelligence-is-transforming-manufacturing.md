@@ -1,14 +1,11 @@
 ---
 category: news
 title: "How artificial intelligence is transforming manufacturing"
-excerpt: "We only need to look toward prominent Industry 4.0 models to see how artificial intelligence (AI) is impacting the future of manufacturing."
+excerpt: "Artificial intelligence can ingest a combination of data from sensors, machines, and people and then apply it to algorithms designed to optimize operations or achieve lights out manufacturing. Back in reality, we have some time before leading organizations achieve this pinnacle state of manufacturing, let alone the industry as a whole."
 publishedDateTime: 2021-03-29T04:05:00Z
-originalUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
-webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
+originalUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=UK"
+webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=UK"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: Manufacturing
@@ -18,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "6UJAtJC7Hx7S8dFvIPsUTUllR43llgXn1gfzYGAG64Y4RJ5uLylHwqTBYwYee86npB6ROY6uCkBlAXdFTlhgPW76pBGKT6pygd8lbUWJ7td78q9icoWr/gTxpVXlLWTbibUJnXNxT/c86lCNjLzGUSGndNB066bKlXNucOUEAwKq3ZXfbTmxTfNcWMVsw9Hbw5yuOgEsJZ3tRfx9S2Okc7cFo4oRse2qMMY6NCnX5VHPkUsxRcgkwSl5daCqwDfwQpDcwKG+L4FjzRWM7W6r6nX1UeiBMqmylpo0PDnjgZww6ER4oAKEr6wYKaPFSIEIs+2NKJybgmJaIVG1V/ndbCseZkdUkHkYmcMDnKf9vdV3nX4PzNGEhfWNzupS51ByZ5lpz2GCdXR/yJ5mkxF3f7z4MB7UbZ98RYVmUsMJ3zrfT+NEe1pbpP+uxyjM2DVNHgcb6Ce98G6cVGr5MJ2hqTfuoCZAzS66X/LV8KWymOOECrciiR13zHmgO0dK3+hbB+tvbqp3dYwJpj8hDcrtow==;pmkWcMjcJwtdLmVT8xvdNw=="
+images:
+  - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/07/14113149/shutterstock_732658279-e1594206468206.jpg"
+    width: 1920
+    height: 1147
+    isCached: true
+
+secured: "HcyKeWDxc8+aF3xqD2dCGyzRnIDcDHI4XurWybuZMeYLDpqaCEQxj9j6IwgfnZ7KB/ydy1y5x0YhBoi4bb1DfXwvq9EaAUeALewBrmD0nXtLB+GKco43N/1TQ3gnkm0v9bwXiKZSR9zR4/uNtY6kToHT6+piDHmRFU81s6Qn12Gw75dPCy2/QDMkjPMfAGFnbC/1lgMyXbJmeo9iJNfW6XZeczH+WZRjsq0N7rAMKDEITFUA82K77MrOQNsWoDbM2UB8SaSHza7e54YS1td31oPpiKqqlPyjwh1eHfnrToD7gndDmeBtTWjClY3EfcT+frFmAzPPAvG9BxinwAScUY+5tb+ZvCW9UyyJNOiSzvE=;WBvPa4fKz14bT7SHt4VerA=="
 ---
 

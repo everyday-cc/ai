@@ -2,6 +2,83 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-03-pga-tour-teams-up-with-aws-to-improve-fan-engagement-during-tournaments.md",
+      "title": "PGA Tour teams up with AWS to improve fan engagement during tournaments",
+      "excerpt": "This content will include video, audio and images dating back to the 1928 Los Angeles Open, which will be processed using the Amazon Rekognition deep learning image recognition service so it can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments",
+      "originalUrl": "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments?amp=1",
+      "publishedDateTime": "2021-03-02T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-pga-tour-partners-with-aws-for-cloud-services.md",
+      "title": "PGA Tour Partners With AWS for Cloud Services",
+      "excerpt": "and Amazon Rekognition, which will automatically tag content with specific metadata. “This transformational partnership with AWS will give our fans the opportunity to experience the PGA Tour like never before,” said PGA Tour Commissioner Jay Monahan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/news/pga-tour-partners-with-aws-for-cloud-services",
+      "originalUrl": "https://www.tvtechnology.com/news/pga-tour-partners-with-aws-for-cloud-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/m2x8rKwg43TSUpdSUor4nd-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-core-scientific-achieves-aws-hpc-competency-status.md",
       "title": "Core Scientific Achieves AWS HPC Competency Status",
       "excerpt": "March 1, 2021 — Core Scientific, an infrastructure and software solutions provider for artificial intelligence and blockchain that is led by CEO Kevin Turner, the former COO of Microsoft, announced today that it has achieved Amazon Web Services (AWS ...",

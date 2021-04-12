@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Facebook is trying to make AI fairer by paying people to give it data"
-excerpt: "In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to ..."
-publishedDateTime: 2021-04-08T16:15:00Z
-originalUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
-webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ..."
+publishedDateTime: 2021-04-08T12:15:00Z
+originalUrl: "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+webUrl: "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
 type: article
-quality: 87
-heat: 157
+quality: 89
+heat: 159
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Facebook AI
   - AI
 
 images:
@@ -136,6 +137,6 @@ related:
         height: 1265
         isCached: true
 
-secured: "T7UNiFujiVnNQ1vtTOptYuXCwkO2hGMEI5R8XL9BDQ0tMzwcPiYl0YryvYTdwyvK/mtQBZb5xKLfGFVz81lUwQ2jY12QoG/ZQrBUSfjvX9lBjkKduYq0714+i1cQFq+5s7TVlGBpgCvq4wPvnDN/1MlGSP7LvQGBQ3aim9FvGKhjP4XmecYoMsJMrC9WBruWyfppWkUd/rGnJTWv5sgmIEE9POBtcA/gpja2AlVGqr9Xg3Lc1O6m4ouky6KajkdOqd8YyPkSmkVoIWWasbgi+UY8QS+gapY58nHYFrjVbphBlMxZC4a8Rx0rFefPGw/3tHhE6TC1Cacza3Ton4t1K6bI8kr9SeePrZEFNO76HtY=;8A/CM++f83QRK5i1QLbgDw=="
+secured: "lnVqMi04T465VLxb5RlPrWde2cquWTIVwKYGtHR890tK2/FwhWb26mtktWQd5xwqp6MyJZKG1m2MkPrxeQgjT7wFocMHKh/WeucpFBPhBMlnezl3bWMSew5JXR1vfj10Kb/8Ua72KzZ/njb7aCNDVanF+X67jIv8kBwjScGfAWten8kNiboPZDcNcbJQrLSG20gSNiKrKHesAnk/xtZ61Wb5M6OkjFCuw8QMq2GFJvt3QdbgrvZ63tmQZNTmdglHQoSqwLiOJiMyJnpKVDP96v+LyOuskOBo0O2PsSdwdMMEBhGKAWQtx74hGq/iqYKsrCvZ/s/oUcNL4wbC1nyfyNQELYPWpQerhi9GUxBijAA=;33QoyInpWNyC165YxjDm3g=="
 ---
 

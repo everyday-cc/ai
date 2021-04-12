@@ -150,6 +150,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-08-lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups.md",
+      "title": "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups",
+      "excerpt": "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost.md",
       "title": "Photonic Supercomputer For AI: 10X Faster, 90% Less Energy, Plus Runway For 100X Speed Boost",
       "excerpt": "The Lightmatter photonic computer is 10 times faster than the fastest NVIDIA artificial intelligence GPU while using far less energy. And it has a runway for boosting that massive advantage by a factor of 100,",
@@ -639,10 +682,10 @@
     {
       "path": "_news/2021-03-31-indian-ai-driven-speech-recognition-firm-banks-140m-in-series-d-round.md",
       "title": "Indian AI-driven speech recognition firm banks $140m in series D round",
-      "excerpt": "Funds raised will be used to develop Uniphore’s technology in AI, automation, and machine learning across the enterprise.",
+      "excerpt": "For more coverage about the company, head here. You can also click on the link below to view the company’s key details and funding history. Uniphore offers solutions in conversational analytics, security, and as a virtual assistant, that enrich the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round#!",
-      "originalUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round#!",
+      "webUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round",
+      "originalUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -652,7 +695,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T05:32:00-07:00",
+      "publishedDateTime": "2021-03-31T06:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Techinasia",
@@ -677,6 +720,41 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-meet-resolvers-ai-enabled-security-management-solution.md",
+      "title": "Meet Resolver's AI-Enabled Security Management Solution",
+      "excerpt": "To help solve this challenge Resolver is releasing its first AI-Enabled features; AI-Enabled Incident Triage and Language Translation at a Live Launch Event on April 6, 2021 at 1:00 p.m. ET. \"Our vision is to integrate AI into every step of the incident ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/p20423815/meet-resolvers-ai-enabled-security-management-solution",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/p20423815/meet-resolvers-ai-enabled-security-management-solution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20423815",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20423815",
+      "publishedDateTime": "2021-03-31T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -763,6 +841,59 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-global-natural-language-processing-nlp-in-healthcare-market-size-share-to-expand-at-192-cagr-through-2025.md",
+      "title": "Global Natural Language Processing (NLP) in Healthcare Market Size, Share To Expand At 19.2% CAGR Through 2025",
+      "excerpt": "Mar 30, 2021 (Market Insight Reports) -- Selbyville, Delaware. The report Natural Language Processing (NLP) in Healthcare Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-size-share-to-expand-at-192-cagr-through-2025-2021-03-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-size-share-to-expand-at-192-cagr-through-2025-2021-03-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1180,121 +1311,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation.md",
-      "title": "Is TensorFlow ‘for Boomers’? PyTorch May Gain More Ground in Machine Translation",
-      "excerpt": "PyTorch, the open source framework used to build machine learning models, including those used for machine translation, released its newest version, 1.8, on March 4, 2021. According to PyTorch’s official announcement,",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/machine-translation/is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation/",
-      "originalUrl": "https://slator.com/machine-translation/is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI",
-        "Facebook AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust.md",
-      "title": "The success of speech recognition in commercial applications comes down to trust",
-      "excerpt": "Joel Chimoindes, VP Europe at distributor Maverick AV Solutions, speaks to Tim Kridel about the opportunities for speech recognition in pro AV applications. TK: What’s driving interest in and adoption of speech recognition for pro AV applications?",
-      "sourceUrl": null,
-      "webUrl": "https://www.inavateonthenet.net/features/article/the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust",
-      "originalUrl": "https://www.inavateonthenet.net/features/article/the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InAVate",
-        "domain": "inavateonthenet.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-does-it-keep-covid-19-out-of-buildings-or-is-it-really-a-facial-recognition-tool.md",
-      "title": "Does it keep COVID-19 out of buildings? Or is it really a facial recognition tool?",
-      "excerpt": "Tech companies are already preparing automated safety barriers aimed to keep COVID-19 out of buildings. Some, though, may have worrisome aspects. And I'm not just talking about the foot bath.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
-      "originalUrl": "https://www.zdnet.com/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
-      "publishedDateTime": "2021-03-19T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

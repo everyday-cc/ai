@@ -29,47 +29,77 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 07, 2021 (The Expresswire) -- The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting a CAGR of 38.9% ..."
-    publishedDateTime: 2021-04-07T04:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-07"
+  - title: "Artificial Intelligence (AI) Market Research Report Growth Forecast 2025"
+    excerpt: "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ..."
+    publishedDateTime: 2021-04-08T14:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 83
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market Development by Gross Margin, Market Share, CAGR, and Influencing Factors and Forecast To 2026"
-    excerpt: "Apr 09, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Machine Learning as a Service (MLaaS) Market” has numerous changes in recent years and expected to vary significantly within the ..."
-    publishedDateTime: 2021-04-09T09:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026-2021-04-09"
+  - title: "Global Deep Learning Market Growth, Status and Outlook Research Report 2026"
+    excerpt: "Snapshot The global Deep Learning market size is estimated at xxx million USD with a CAGR xx% from 2016-2020 and is"
+    publishedDateTime: 2021-04-10T11:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-04-08T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
+  - title: "Artificial Intelligence (AI) in Fintech Market Trends Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC, has added a research study on ‘ Artificial Intelligence (AI) in Fintech market’ which delivers a concise outline of the market share, market size, revenue estimation, geographical ..."
+    publishedDateTime: 2021-04-12T09:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-trends-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-04-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Self-Driving Car Market Research 2024 | Growth Overview, Development Size and Revenue Forecast"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 09, 2021 (AmericaNewsHour) -- Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car ..."
+    publishedDateTime: 2021-04-09T09:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-research-2024-growth-overview-development-size-and-revenue-forecast-2021-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence as a Service (AIaaS) Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2028"
+    excerpt: "\"The report offered on the global market for Artificial Intelligence as a Service (AIaaS) has carefully examined some of the primary and essential factors deemed responsible for growth in the near future. To provide the best-quality information and ..."
+    publishedDateTime: 2021-04-12T04:02:00Z
+    webUrl: "https://www.openpr.com/news/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
+    ampWebUrl: "https://www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2268734/artificial-intelligence-as-a-service-aiaas-market-booming"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 42
+    images:
+      - url: "https://cdn.openpr.com/U/4/U412928819_g.jpg"
+        width: 683
+        height: 419
         isCached: true
   - title: "Artificial Intelligence in BFSI Market Size, Applications, Regional Outlook, Competitive Strategies, Analysis, Growth And Forecasts, 2020 -2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 10, 2021 (Market Insight Reports) -- The global Artificial Intelligence in BFSI market size is expected to reach USD 68.23 Billion at a steady CAGR of 36.5% in 2028 ..."
@@ -80,20 +110,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Key Drivers, Industry Share and Future Growth Demand Analysis by 2028, Fortune Business Insights"
-    excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."
-    publishedDateTime: 2021-04-07T11:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-key-drivers-industry-share-and-future-growth-demand-analysis-by-2028-fortune-business-insights-2021-04-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

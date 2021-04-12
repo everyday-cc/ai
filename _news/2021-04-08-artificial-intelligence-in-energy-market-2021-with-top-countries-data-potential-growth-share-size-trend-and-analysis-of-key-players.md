@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2027"
+    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-04-08T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2027-2021-04-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Exclusive Report on Artificial Intelligence Radiology Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players"
     excerpt: "In terms of revenue, the global artificial intelligence in radiology market was estimated to be US$ 891.24 Mn in 2018 and is expected to reach US$ 3506.55 Mn by 2027 at a growing CAGR of 16.5%. The study analyses the market in terms of revenue across all ..."
     publishedDateTime: 2021-04-10T12:55:00Z

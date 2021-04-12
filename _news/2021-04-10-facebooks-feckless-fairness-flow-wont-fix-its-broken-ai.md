@@ -30,16 +30,16 @@ images:
 
 related:
   - title: "Facebook is trying to make AI fairer by paying people to give it data"
-    excerpt: "In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to ..."
-    publishedDateTime: 2021-04-08T16:15:00Z
-    webUrl: "https://edition.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
+    excerpt: "Cristian Canton Ferrer, research manager at Facebook AI, told CNN Business that the Casual Conversations data set includes some information that was not used when Facebook created the Deepfake data set. Canton said paying participants — who had to spend ..."
+    publishedDateTime: 2021-04-08T12:15:00Z
+    webUrl: "https://www.cnn.com/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/tech/facebook-ai-fairness-data-set/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407183942-facebook-ai-dataset-super-tease.jpg"
         width: 1100
@@ -137,6 +137,6 @@ related:
         height: 1265
         isCached: true
 
-secured: "pdRmRCS0/2GtTZzuAnnj1H+tI2XbVN1CdRXF74fF6Gaxd+RugyMV3OWuQBweAxpksvV3xYVRHHnrS1cqlXfYqy58RhtzVruwE03lHv/U8KidnNfVUj8usTFhQUAQzPSEFWierCMGNHFiiwtPG8W5jJ1aozueGZMeshw/lKQnEgg14A1m60xGOfyRgxP6XdV2q2blMYGfYUBs1sYBbSDoUuDcxmC4204njnJ9+WF4fKp9nyH9ssklsWQEkoM5nUFCEm+R+gq0WP9O1b4KJuqP9UjYyO0IIxsiLw87C3JuthYG58enLgpA2dUMfHuXa0Cp3+s2IpQwHRMhngpyoQoAwmYTTS4uIlyLdHT0E32z4wg=;XiPIrjwpXAR7ZSZ8v+/3KA=="
+secured: "cGSbWVKECSyTHE81s61CVfBLu1iDTnDrmndqtaS7Uh2mxgc/uk5IQTCbYst9R33IgmbEuPrGqVSq5RJAZdQfp+rIFMbQ7o1Drk/2AlzXOAFdQdY+uKmPrja34P/zFbLqtF1qPOtaB8FJRrdPeJef9SIhXxbTKcxBbOsMXdjMjnmu+42SdFGIiH9l5RCnLChyFIAL6AlPP6k/OzwPEJ+v9lW7uD/QFhkRw7jVBTSuIebjflIxNLw8V1SsrHydzR9JJJlC/8R+wHyFqYwr1NiRdjo8GKyGtr4gkexXVlOXbb5oKgiVxMF+I2T/S+OgUwq9seLjWR3A192SSHB5AxEOYr9d5N7e5Z4DsDSnkSIbxG49Je5Nz0U3pgi9COJYylTe7h2IW6T69w9uUS7Lhc9bhU7iDBoTuC6wx8L8J6YDxg+KhYNgBgN6v7Ajrp7aIp01at+VAkGWbQYmdKXYtd9eslnNbATF8IEhalmQs4xBgjrxWdSQ7Cf68+ddf3FpNRDxkN7dWFTiEB0CXU8wnWYkEg==;y+1ZcTQzI+OXc6ZRz2nq5Q=="
 ---
 
