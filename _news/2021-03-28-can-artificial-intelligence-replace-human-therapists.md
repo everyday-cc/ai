@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Can Artificial Intelligence Replace Human Therapists?"
-excerpt: "Could artificial intelligence reduce the need for human ... often for less money than traditional therapy. The algorithms underpinning these endeavors learn by combing through large amounts ..."
-publishedDateTime: 2021-03-28T04:15:00Z
-originalUrl: "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200"
-webUrl: "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200"
-ampWebUrl: "https://www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200"
+title: "Can artificial intelligence replace human therapists?"
+excerpt: "Websites, smartphone apps and social-media sites are dispensing mental-health advice, often using artificial intelligence ... for less money than traditional therapy. The algorithms underpinning ..."
+publishedDateTime: 2021-03-28T15:08:00Z
+originalUrl: "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists-11616917093082.html"
+webUrl: "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists-11616917093082.html"
+ampWebUrl: "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists/amp-11616917093082.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists/amp-11616917093082.html"
 type: article
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mint
+  domain: livemint.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://images.wsj.net/im-317459/social"
-    width: 1280
-    height: 640
+  - url: "https://images.livemint.com/img/2021/03/28/600x338/AI-kkGH--621x414@LiveMint_1616917196222.jpg"
+    width: 600
+    height: 337
     isCached: true
 
-secured: "lj5jwcJNYzUn2Yt3SVOH48S6ReYwn8bYBgd39d2lcEpOz6kxxkbJZBzT23HQcExE9BYpxByPXbpHSBS/AW2LxOtB62d7LGWUUE+sVG0jwUh/lzu1/mycrcUDaqLBarfQgijiV6DNAl/SAuuWtkrKuQn9zrQYjHgT3J9N0ug0FVUEjKhhcv73mDizQNPV5EaA/Qqnia4UhUkEPbfpdR+xMuhkTjP48RD2MeluK8rLHLuLdzvowGF16DVVmWrVY/1AUZ0Mhha+CVAr2NetVvrwSOwfmE41SLBpqexBcSxOHo2fRZcOVpSw4cERY1rgrVBrGndhTiWHDXGx6ayJfcoHVG3bJ/5pSKXdxH1O4QAv+V8=;OWcefy8xby/Izd1WWjmzcQ=="
+secured: "KW7lKsOENwVTqdnPrFfS7jZIwQZMsE+jejLO5jWu7Efr3XQ+zBTC+Vi3IZNFkyuAz0vt4fLcipUEqSZfenLwutNiMRFsYw+KNQhd5A1APnIz2wfJFFkTGYuLr0UTawso5xFfFnMer2NBqEWW4NK3etFndmsWWAwBiIXN59R66T7iZ+aYXqXm7F0eI4njy9BN6Eysx/RIDB+GCFM/kfciCPHMd6hnCLaao0WUFUV46PSnuweqgpixhKiLBImneW/mEib0EEuXEpn3DW4b42BHXQ8EPpu8K7qXk/oXEIlgmlayrkBvAWP8mufipfsBpPMQ/b3+Uc9VxII1b4AHWrJuLqKfKAL1r/FHLTHjJZMSkoM=;BUdS1fm4yDBOOrmuVeu84w=="
 ---
 

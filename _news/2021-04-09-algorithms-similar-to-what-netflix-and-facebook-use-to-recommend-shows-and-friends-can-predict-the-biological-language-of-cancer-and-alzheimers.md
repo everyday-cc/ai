@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.dailymail.co.uk/1s/2021/04/08/21/41514710-0-image-a-50_1617914443282.jpg"
@@ -76,6 +77,6 @@ related:
         height: 465
         isCached: true
 
-secured: "gWAkjEfAC8DGOuKL4pVwY5SX8C1iyDAqfGdZOJPSe7idCthv1fW8HJ4sI6JFLVKrVO2kRzHRCBIW8slNZEMARlHox5J+HaTENVuLNh9HgRLKoFPx6IIz8KYWcfKdlxoYjbHSjL3zoZtnqdsYWqr2qsFpwJCQJkyv9ftnwUNFuBURSh8KZNyQUH50AVad86AxrjjmwNSlRsFB2e4om2Wt5mchlpZo/Vyy4g42RyPc7bLbxCHN7VrDVJIvb7imDWLmVZCk7CwlEPZq6V/U6f5OvDr7rdgjFSGTzHOtnM7EKKsIDnkolv/6VU64TnkDXH8RW+cRbZ74VkLNfCchWeGrNnSSUHRiCL4sVBplNnaGARE=;i+fgnVShdAGLCodEdeC0Bg=="
+secured: "urTNv6bhRpbP3qD8hyXlwp3/21+81kLLy7T5TUzgZdZLecXAD59QRymhuE35xLKB2pssSt0Lcgty88wy9pCJ4L879YxadfbH6NsA1lAisL7l6+EUNRsqjCcOEsmcbl/q44tIhlfQaeFaXYUetwPJX4FDjgzC5ysDzuca4A5uYQpsuRN+GsvbnRt1mlBfxHHUcr5fLN7Wg5lcV2v0isbaSwx+R1JdCNZBQMxRncLaKs9aTcnYSr1u48Uq0z5PpiqEEHLUTVxDyfy1tBClUmQHOmsuAZL4f7wIgrrP1p+ynqGkpbHQqKDykSn0v7hfnsz1OAHEGKaNY2M1rCozQsnhihiG9bSdEvumk1hY4uNJK5MO7XtXAFJnjWsti7vnWTQxxbw7hfrvBxvKvAujWfKP65Z+OM0D7KipZkEL3zSXaKM+W4rgmvAW3fIB/mB58b55VY1e04Vl87mRrK5f8H6a7jA2CRzKKo8V9Drqyd7fccLxEx2OqVvpVaJeiLo7wIofWdE4gkBy1bHbZGzVR668uw==;qZYk6gDFnw9tulI29Su/2A=="
 ---
 
