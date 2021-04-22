@@ -2,6 +2,261 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-21-google-ethical-ai-groups-turmoil-began-long-before-public-unraveling.md",
+      "title": "Google Ethical AI Group’s Turmoil Began Long Before Public Unraveling",
+      "excerpt": "The ouster of lead researchers Gebru, Mitchell followed years of friction over how Google handled allegations of harassment and bias",
+      "sourceUrl": null,
+      "webUrl": "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362",
+      "originalUrl": "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1593363!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/margaret-mitchell-photographer-chona-kasinger-bloomberg.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362.amp.html",
+      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362.amp.html",
+      "publishedDateTime": "2021-04-21T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bnnbloomberg",
+        "domain": "bnnbloomberg.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Size Report, Trend, COVID19 Impact, Industry Outlook, Derive Growth, Share, Revenue Forecast to 2027",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware",
+        "AI in Healthcare",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-how-communicators-can-help-address-ethical-ai-risks.md",
+      "title": "How Communicators Can Help Address Ethical AI Risks",
+      "excerpt": "Fortunately, as communications specialists, we can work cross-functionally to evaluate AI-powered products or services, determine if they have ethical risks and champion actions to manage them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb3ff457ad853db35f0dbc5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/amp/",
+      "publishedDateTime": "2021-04-20T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-the-ai-arms-race-has-us-on-the-road-to-armageddon.md",
+      "title": "The AI arms race has us on the road to Armageddon",
+      "excerpt": "For now, the AI arms race is a cold war, mostly between the U.S., China, and Russia, but worries are it will become more than that. Driven by fear of other countries gaining the upper hand, the world’s military powers have been competing by leveraging AI for years — dating back at least to 1983 — to achieve an advantage in the balance of power .",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/",
+      "originalUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/military-AI.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/amp/",
+      "publishedDateTime": "2021-04-19T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-survey-finds-talent-gap-is-slowing-enterprise-ai-adoption.md",
+      "title": "Survey finds talent gap is slowing enterprise AI adoption",
+      "excerpt": "According to an O'Reilly survey, enterprises are struggling to overcome a talent gap in data science, affecting their ability to adopt AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/",
+      "originalUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/amp/",
+      "publishedDateTime": "2021-04-19T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-ai-artificial-intelligence-build-it-or-buy-it.md",
       "title": "AI (Artificial Intelligence): Build It Or Buy It?",
       "excerpt": "And to accomplish this, the company evaluated a myriad of AI solutions. But they all fell short. “In the end, we leveraged a combination of best of breed open source technology and tools to build our own AI platform that is very powerful,",
@@ -1098,194 +1353,6 @@
       "provider": {
         "name": "Nextgov",
         "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-the-departure-of-2-google-ai-researchers-spurs-more-fallout.md",
-      "title": "The Departure of 2 Google AI Researchers Spurs More Fallout",
-      "excerpt": "Two academics changed plans to attend an invite-only conference this week; a third says he’ll no longer accept funding from the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/",
-      "originalUrl": "https://www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/amp",
-      "publishedDateTime": "2021-03-16T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.md",
-      "title": "Use of artificial intelligence to tackle coronavirus must go through ethical checks, say experts",
-      "excerpt": "Rapid deployment of artificial intelligence and machine learning to tackle coronavirus must still go through ethical checks and balances, or we risk harming already disadvantaged communities in the rush to defeat the disease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210316/Use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210316/Use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210316/Use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210316/Use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.aspx",
-      "publishedDateTime": "2021-03-15T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-use-of-ai-to-fight-covid-19-risks-harming-disadvantaged-groups-experts-warn.md",
-      "title": "Use of AI to fight COVID-19 risks harming 'disadvantaged groups', experts warn",
-      "excerpt": "The Leverhulme Centre for the Future of Intelligence recently launched the UK's first Master's course for ethics in AI. For Cave and colleagues, machine learning in the COVID era should be viewed ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp",
-      "publishedDateTime": "2021-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-deloitte-partners-with-chatterbox-to-create-ethical-ai-technology-beena-ammanath-quoted.md",
-      "title": "Deloitte Partners With Chatterbox To Create Ethical AI Technology; Beena Ammanath Quoted",
-      "excerpt": "Deloitte AI Institute announced Monday a new partnership with Chatterbox Labs to develop Model Insights for Trustworthy AI, a Deloitte-branded product that will assist organizations address artificial intelligence (AI) ethics by monitoring,",
-      "sourceUrl": null,
-      "webUrl": "https://www.executivegov.com/2021/03/deloitte-partners-with-chatterbox-to-create-ethical-ai-technology-beena-ammanath-quoted/",
-      "originalUrl": "https://www.executivegov.com/2021/03/deloitte-partners-with-chatterbox-to-create-ethical-ai-technology-beena-ammanath-quoted/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Executive Gov",
-        "domain": "executivegov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-deloitte-ai-institute-teams-with-chatterbox-labs-to-ensure-ethical-application-of-ai.md",
-      "title": "Deloitte AI Institute Teams With Chatterbox Labs to Ensure Ethical Application of AI",
-      "excerpt": "To help companies proactively address AI ethics, the Deloitte AI Institute developed its Trustworthy AI™ framework, which provides a guide for organizations on how to apply AI responsibly within their businesses and manage common risks and challenges ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-corporate-ethics-artificial-intelligence-fe15f1d4eb4f983512db84996b4ebae9",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-corporate-ethics-artificial-intelligence-fe15f1d4eb4f983512db84996b4ebae9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

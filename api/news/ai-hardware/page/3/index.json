@@ -2,6 +2,386 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-17-graphics-processing-unit-gpu-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-to-2025.md",
+      "title": "Graphics Processing Unit (GPU) Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast to 2025",
+      "excerpt": "For instance, AMD, in FY2018, reported more than USD 1.2 billion of revenue owing to the demand for its datacenter GPU products.-As enterprises are undergoing digital transformation by embracing the cloud, big data and also AI, computer technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-to-2025-2021-03-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-to-2025-2021-03-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips.md",
+      "title": "New Applied Materials Tools Use AI to Catch Mistakes on Chips",
+      "excerpt": "A new semiconductor manufacturing technology from Applied Materials uses artificial intelligence, or AI, to spot mistakes in chips more effectively, the U.S. company said on Tuesday. Modern chip manufacturing happens in factories that cost upward of $18 billion each to build and requires hundreds of separate steps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-16/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-16/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-baidus-ai-chip-business-kunlun-valued-at-2b-after-new-funding-round.md",
+      "title": "Baidu’s AI chip business Kunlun valued at $2B after new funding round",
+      "excerpt": "Monday that its Kunlun artificial intelligence chip business has closed on a funding round that takes its value to about $2 billion. Reuters reported Sunday that Chinese private equity firm CITIC Private Equity Funds Management led the round,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/03/15/baidus-ai-chip-business-kunlun-valued-2b-new-funding-round/",
+      "originalUrl": "https://siliconangle.com/2021/03/15/baidus-ai-chip-business-kunlun-valued-2b-new-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-raises-2bn.md",
+      "title": "Baidu’s AI chip unit Kunlun raises $2bn",
+      "excerpt": "Baidu Inc said its artificial intelligence chip unit Kunlun raised around $2 billion, according to a source with direct knowledge of the matter, Reuters reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.capacitymedia.com/articles/3828015/baidus-ai-chip-unit-kunlun-raises-2bn",
+      "originalUrl": "https://www.capacitymedia.com/articles/3828015/baidus-ai-chip-unit-kunlun-raises-2bn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://capacityliveblobstorage.blob.core.windows.net/files/Samsung-Baidu-Chip-3.jpg",
+          "width": 900,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Capacity Media",
+        "domain": "capacitymedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.md",
+      "title": "VMware, Nvidia offer GPU-powered AI in virtual machines",
+      "excerpt": "VMware and Nvidia have expanded their alliance to support Nvidia GPU-based applications on VMware's new vSphere 7 Update 2. The upgraded version of vSphere 7 will support the new Nvidia AI Enterprise offering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.html",
+      "originalUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/05/nvidia-a100-stock-100842030-large.jpg",
+          "width": 1200,
+          "height": 851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.amp.html",
+      "publishedDateTime": "2021-03-15T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-bln-valuation-source.md",
+      "title": "Baidu’s AI chip unit Kunlun completes new funding, at $2 bln valuation- source",
+      "excerpt": "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about $2 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/china-baidu-idUSL4N2LD1CY",
+      "originalUrl": "https://www.reuters.com/article/china-baidu-idUSL4N2LD1CY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2LD1CY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2LD1CY",
+      "publishedDateTime": "2021-03-14T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-global-artificial-intelligence-ai-chips-market-2020-study-report-with-prospects-and-strategies-to-boost-growth-covid-19-impact-and-recovery.md",
+      "title": "Global Artificial intelligence (AI) Chips Market 2020: Study Report with Prospects and Strategies to Boost Growth- COVID-19 Impact and Recovery",
+      "excerpt": "This report aims to estimate the Global “Artificial intelligence (AI) Chips Market” for 2020 and to project the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-study-report-with-prospects-and-strategies-to-boost-growth--covid-19-impact-and-recovery-2021-03-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-study-report-with-prospects-and-strategies-to-boost-growth--covid-19-impact-and-recovery-2021-03-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-14T19:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source.md",
+      "title": "Baidu’s AI Chip Unit Kunlun Completes New Funding, at $2 Billion Valuation: Source",
+      "excerpt": "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about $2 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-15/baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-15/baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-14T17:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-samsung-electronics-to-be-responsible-for-development-of-chip-used-for-googles-self-driving-car-waymo.md",
+      "title": "Samsung Electronics to Be Responsible for Development of Chip Used for Google’s Self-Driving Car Waymo",
+      "excerpt": "Samsung Electronics has begun the development of core chip that will be used for Google’s next-generation self-driving car. There is a high chance that the chip will be produced through Samsung Elec",
+      "sourceUrl": null,
+      "webUrl": "https://english.etnews.com/20210315200002",
+      "originalUrl": "https://english.etnews.com/20210315200002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etnews.com/news/article/2021/03/15/article_15091456893673.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.etnews.com/amp/20210315200002",
+      "cdnAmpWebUrl": "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210315200002",
+      "publishedDateTime": "2021-03-14T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Etnews.com",
+        "domain": "etnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-the-chip-shortage-seems-to-be-impacting-ai-workloads-in-the-cloud.md",
       "title": "The Chip Shortage Seems To Be Impacting AI Workloads in the Cloud",
       "excerpt": "The combination of a global chip shortage and increased demand for AI model training may be leading to longer wait times for some cloud GPU users. Nvidia, which makes most of the GPUs used for AI, says its overall operations are supply-constrained at the ...",

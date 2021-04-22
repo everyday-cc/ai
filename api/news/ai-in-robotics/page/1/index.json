@@ -2,6 +2,241 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-19-want-to-get-along-with-robots-pretend-theyre-animals.md",
+      "title": "Want to Get Along With Robots? Pretend They’re Animals",
+      "excerpt": "Robotics ethicist Kate Darling surveys our history with animals—in work, war, and companionship—to show how we might develop similar relationships with robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/",
+      "originalUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/607a36b98b8cd2f789408f30/master/pass/science_robot_876959718.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/amp",
+      "publishedDateTime": "2021-04-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-ecovacs-robotics-introduces-the-deebot-n8-family-in-thailand.md",
+      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Thailand",
+      "excerpt": "ECOVACS ROBOTICS, the world's leading home service robotics maker, today announces the launch of the DEEBOT N8 Family in Thailand, bringing a hands-free and effectively superior cleaning experience for customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswit.com/en/L7BH",
+      "originalUrl": "https://www.newswit.com/en/L7BH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newswit.com/img/f/20210419/5260a0b19f5d8644725b108b03935f64-0.jpg",
+          "width": 1067,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "academy",
+        "domain": "newswit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-is-boston-dynamics-becoming-a-boring-robotics-company.md",
+      "title": "Is Boston Dynamics becoming a boring robotics company?",
+      "excerpt": "The new Stretch robot from Boston Dynamics doesn't do backflips or dance, but it may become the company's most successful commercial product.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/",
+      "originalUrl": "https://venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/boston-dynamics-robots-spot-handle-atlas-web-summit.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/amp/",
+      "publishedDateTime": "2021-04-18T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing.md",
+      "title": "The New Zealand scientists trying to make brain-controlled robots a thing",
+      "excerpt": "Brain-controlled devices could give people with disabilities or severe injuries new access to the world. But it could also be used to enhance humans, create super soldiers or even transcend the human body entirely.",
+      "sourceUrl": null,
+      "webUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/",
+      "originalUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thespinoff.co.nz/1/2021/04/Robot-arm.jpg",
+          "width": 850,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp",
+      "cdnAmpWebUrl": "https://thespinoff-co-nz.cdn.ampproject.org/c/s/thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp",
+      "publishedDateTime": "2021-04-18T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Spinoff",
+        "domain": "thespinoff.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-artificial-intelligence-robotics-new-heights-in-healthcare.md",
+      "title": "Artificial Intelligence, robotics new heights in healthcare",
+      "excerpt": "Artificial Intelligence (AI) and robotics are used in transforming the world of the health industry and also offer an awesome strategy with much care. It puts the customers in control of the health and also the well-being.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "originalUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypioneer.com/images/logo.jpg",
+          "width": 325,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pioneer",
+        "domain": "dailypioneer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-evolving-self-replicating-robots-are-here-but-dont-worry-about-an-uprising.md",
       "title": "Evolving, self-replicating robots are here — but don’t worry about an uprising",
       "excerpt": "Self-replicating robots are a staple of apocalyptic science fiction movies, but now the idea has made the jump from fiction to reality.",
@@ -41,6 +276,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-like-science-fiction-seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland.md",
+      "title": "‘Like science fiction,’ Seattle startup sends laser-equipped robots to zap weeds on farmland",
+      "excerpt": "Running day and night, a tractor-sized robot designed by a Seattle startup uses lasers to kill weeds on acres of farm land. The machine is the latest form of automation to arrive in agriculture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/",
+      "originalUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/?amp=1",
+      "publishedDateTime": "2021-04-16T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -109,25 +378,34 @@
     {
       "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
       "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
-      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 99.4% from its 52-week low price of $18.",
+      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": null,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T15:00:00-07:00",
+      "publishedDateTime": "2021-04-15T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -136,8 +414,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -244,6 +522,49 @@
         "AI",
         "AI in Robotics",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-california-dreaming-artificial-intelligence-and-robots-are-helping-farmers-prepare-for-climate-change-crisis.md",
+      "title": "California Dreaming: Artificial intelligence and robots are helping farmers prepare for climate change crisis",
+      "excerpt": "Rising temperatures caused by climate change are forcing farmers to look for ways to grow crops. Some are using artificial intelligence and robots to analyze crops while others are taking their farms indoors.",
+      "sourceUrl": null,
+      "webUrl": "https://abc30.com/technology/robots-help-farmers-prepare-for-climate-change/10503046/",
+      "originalUrl": "https://abc30.com/technology/robots-help-farmers-prepare-for-climate-change/10503046/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/10515602_041421-kgo-ca-dreaming-future-food-img.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc30.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/",
+      "cdnAmpWebUrl": "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/",
+      "publishedDateTime": "2021-04-14T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC30 Action News",
+        "domain": "abc30.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -685,8 +1006,8 @@
       "title": "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ...",
       "excerpt": "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1067,309 +1388,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-how-to-train-a-robot-using-artificial-intelligence-and-supercomputers.md",
-      "title": "How to Train a Robot (Using Artificial Intelligence and Supercomputers)",
-      "excerpt": "UT Arlington computer scientists use TACC systems to generate synthetic objects for robot training. Before he joined the University of Texas at Arlington as an Assistant Professor in the Department of Computer Science and Engineering and founded the Robotic Vision Laboratory there,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/",
-      "originalUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Derived-3D-Point-Clouds-for-Robotic-Vision-Training-777x454.jpg",
-          "width": 777,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/amp/",
-      "publishedDateTime": "2021-04-02T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates.md",
-      "title": "HAI ROBOTICS, the Shenzhen-based ACR pioneer, receives IFOY AWARD 2021 “Best in Intralogistics” certificates",
-      "excerpt": "Based in Shenzhen, the powerhouse of ICT industry in China, HAI ROBOTICS has been developing AI powered ACR systems since 2015 and ... of the Shenzhen based ACR systems pioneer’s strong head start of a fast expansion to the global markets.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-asia-greater-china-fe0450884b36ab2dc44540944e1fa6fd",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-asia-greater-china-fe0450884b36ab2dc44540944e1fa6fd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-lounge-lab-unveils-aris-capsule-based-ice-cream-robot-customizable-with-10-flavors-and-3-shapes.md",
-      "title": "LOUNGE LAB Unveils 'ARIS', Capsule-Based Ice Cream Robot Customizable with 10 Flavors and 3 Shapes",
-      "excerpt": "About LOUNGE LAB INC. LOUNGE LAB is a retail tech start-up founded based on \"We Augment Space with Technology.\" Currently, we are operating a robot-barista collaboration cafe, LOUNGE'X, and an AI-based unmanned store. Dr. Hwang Sungjae is our CEO ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/04/ac20464632/lounge-lab-unveils-aris-capsule-based-ice-cream-robot-customizable-with-10-flavors-and-3-shapes",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/ac20464632/lounge-lab-unveils-aris-capsule-based-ice-cream-robot-customizable-with-10-flavors-and-3-shapes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/638740/image-20210402192307-1.jpeg",
-          "width": 900,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20464632",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20464632",
-      "publishedDateTime": "2021-04-02T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally.md",
-      "title": "Karachi students introduce another version of mind-controlled prosthetic arm, not yet available globally.",
-      "excerpt": "Despite the students’ claim, mind-controlled prosthetics are nothing new, and a group of Pakistani engineers successfully created a similar robotic arm controlled by the brain, also as part of their final year project back in 2019. Some 30 disabled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techjuice.pk/karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally/",
-      "originalUrl": "https://www.techjuice.pk/karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techjuice.pk/wp-content/uploads/2021/04/Untitled.png",
-          "width": 1303,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techjuice.pk",
-        "domain": "techjuice.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-mit-robot-sees-hidden-objects-with-radio-waves.md",
-      "title": "MIT Robot Sees Hidden Objects with Radio Waves",
-      "excerpt": "The robot, known as RF-Grasp, has traditional cameras for object recognition. The camera is mounted to the bot’s mechanical grasper, giving it a good view of anything the hand might be trying to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
-      "originalUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2021/04/rf-grasp.jpg",
-          "width": 672,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-three-stocks-to-profit-from-the-robot-revolution.md",
-      "title": "Three stocks to profit from the robot revolution",
-      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
-      "sourceUrl": null,
-      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.moneyweek.com/image/private/s--c8ThaiIG--/v1583342977/covers-etc/989-Cover.jpg",
-          "width": 600,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
-      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
-      "publishedDateTime": "2021-04-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyWeek",
-        "domain": "moneyweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-articulos-sobre-artificial-intelligence-ai.md",
-      "title": "Artículos sobre Artificial intelligence (AI)",
-      "excerpt": "The European Union is currently debating the legal status of intelligent robots, and whether they ought to be given a new classification of 'electronic persons'. Artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/es/topics/artificial-intelligence-ai-90?page=23",
-      "originalUrl": "https://theconversation.com/es/topics/artificial-intelligence-ai-90?page=23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/393723/original/file-20210407-17-yj7942.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip",
-          "width": 496,
-          "height": 331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null

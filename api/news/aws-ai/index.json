@@ -2,6 +2,323 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-21-artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Size Report, Trend, COVID19 Impact, Industry Outlook, Derive Growth, Share, Revenue Forecast to 2027",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware",
+        "AI in Healthcare",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories.md",
+      "title": "Rackspace Technology Achieved AWS Machine Learning Competency in New Applied AI and ML Ops Categories",
+      "excerpt": "The solution uses Amazon Athena, AWS Glue, Amazon Simple Storage Services (Amazon S3), Amazon SageMaker, and Amazon Translate and the automated ML natural language processing solution enables the ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories-1030324209",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories-1030324209",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models.md",
+      "title": "Enforce VPC rules for Amazon Comprehend jobs and CMK encryption for custom models",
+      "excerpt": "You can now control the Amazon Virtual Private Cloud (Amazon VPC) and encryption settings for your Amazon Comprehend APIs using AWS Identity and Access Management (IAM) condition keys, and encrypt your Amazon Comprehend custom models using customer managed keys (CMK) via AWS Key Management Service (AWS",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/13/1-Architecture1853.jpg",
+          "width": 800,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T16:44:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-ambow-education-expands-partnership-with-amazon-in-artificial-intelligence-training-for-teachers.md",
+      "title": "Ambow Education Expands Partnership with Amazon in Artificial Intelligence Training for Teachers",
+      "excerpt": "Ambow Education Holding Ltd. (\"Ambow\" or \"the Company\") (NYSE American: AMBO), China's leading provider of educational and career enhancement",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
+      "originalUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/pr-newswire_500_4_966.jpg?itok=n0UX2udW",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp",
+      "publishedDateTime": "2021-04-19T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
+      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
+      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
+      "originalUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-as-bezos-seeks-to-be-earths-best-employer-amazon-fights-shareholder-calls-to-prove-its-progress.md",
+      "title": "As Bezos seeks to be 'Earth's best employer,' Amazon fights shareholder calls to prove its progress",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/marketwatch/20210415680/as-bezos-seeks-to-be-earths-best-employer-amazon-fights-shareholder-calls-to-prove-its-progress",
+      "originalUrl": "https://www.morningstar.com/news/marketwatch/20210415680/as-bezos-seeks-to-be-earths-best-employer-amazon-fights-shareholder-calls-to-prove-its-progress",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-best-machine-learning-software-in-2021.md",
+      "title": "Best Machine Learning Software in 2021",
+      "excerpt": "Machine learning software evolves and learns from analyzing data. Compare the best machine learning tools today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusinessedge.com/business-intelligence/machine-learning-software/",
+      "originalUrl": "https://www.itbusinessedge.com/business-intelligence/machine-learning-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/04/Top-Machine-Learning-Software-e1618509296268.jpeg",
+          "width": 1500,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T11:20:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business Edge",
+        "domain": "itbusinessedge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-domino-accelerates-mlops-with-new-nvidia-integrations.md",
       "title": "Domino accelerates MLOps with new Nvidia integrations",
       "excerpt": "Domino additionally supports containers for SAS, MATLAB, Amazon SageMaker, and private container repositories. Finally, Domino worked with Nvidia and NetApp to develop a preconfigured hardware ...",
@@ -568,6 +885,93 @@
       ]
     },
     {
+      "path": "_news/2021-04-07-top-20-data-science-and-machine-learning-platforms-gartner.md",
+      "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
+      "excerpt": "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg",
+          "width": 609,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-cyber-snapshot-adam-desseyn.md",
+      "title": "CYBER SNAPSHOT: Adam Desseyn",
+      "excerpt": "I’ve already had the opportunity to greatly improve my machine learning skills by placing third in the Army in the 1st Annual AWS DeepRacer (an Amazon Web Services hands-on, machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.army.mil/article/245026/cyber_snapshot_adam_desseyn",
+      "originalUrl": "https://www.army.mil/article/245026/cyber_snapshot_adam_desseyn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.army.mil/e2/c/images/2021/04/06/b73bbe98/max1200.jpg",
+          "width": 1200,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "United States Army",
+        "domain": "army.mil",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-7-ways-the-cloud-is-changing.md",
       "title": "7 ways the cloud is changing",
       "excerpt": "Amazon’s AWS for the Edge service offers a similar opportunity to move your code closer to the users. Those who use the Amazon SageMaker machine learning services can push them out of the major data centers to the edges. Amazon is now emphasizing their ...",
@@ -943,400 +1347,6 @@
       "provider": {
         "name": "datanami.com",
         "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-artificial-intelligence-in-medical-market-next-big-thing-major-giants-nvidia-intel-ibm-ge-healthcare-siemens.md",
-      "title": "Artificial Intelligence in Medical Market Next Big Thing | Major Giants- NVIDIA, Intel, IBM, GE Healthcare, Siemens",
-      "excerpt": "Some are the key & emerging players that are part of coverage and have being profiled are NVIDIA, Intel, IBM, Google, Microsoft, AWS, GE Healthcare, Siemens Healthineers & Medtronic. Click to get Global Artificial Intelligence (AI) in Medical Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://industribune.net/uncategorised/533/artificial-intelligence-in-medical-market-next-big-thing-major-giants-nvidia-intel-ibm-ge-healthcare-siemens/",
-      "originalUrl": "https://industribune.net/uncategorised/533/artificial-intelligence-in-medical-market-next-big-thing-major-giants-nvidia-intel-ibm-ge-healthcare-siemens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://industribune.net/wp-content/uploads/2021/04/Artificial-Intelligence-in-Medical-Market.jpeg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indus Tribune",
-        "domain": "industribune.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-here-are-five-key-findings-from-the-aws-startup-showcase-you-might-have-missed.md",
-      "title": "Here are five key findings from the AWS Startup Showcase you might have missed",
-      "excerpt": "After more than 15 separate interviews involving 10 startup companies, a lot of ground was covered during the AWS Startup Showcase Event: Innovators in Cloud Data, produced by theCUBE, SiliconANGLE Media’s livestreaming studio on March 24.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/03/31/here-are-five-key-findings-from-the-aws-startup-showcase-you-might-have-missed-cubeoncloudawsstartups/",
-      "originalUrl": "https://siliconangle.com/2021/03/31/here-are-five-key-findings-from-the-aws-startup-showcase-you-might-have-missed-cubeoncloudawsstartups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/rocket-idea-light-bulb-startup-success-to-the-moon.jpg",
-          "width": 4774,
-          "height": 3364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-aws-adds-explainability-to-sagemaker.md",
-      "title": "AWS Adds Explainability to SageMaker",
-      "excerpt": "Amazon Web Services is adding an AI explainability reporting feature to its SageMaker machine learning model builder aimed at improving model accuracy. SageMaker Autopilot now generates a model explainability report via SageMaker Clarify, the Amazon tool ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/03/31/aws-adds-explainability-to-sagemaker/",
-      "originalUrl": "https://www.datanami.com/2021/03/31/aws-adds-explainability-to-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/ML-models_shutterstock_OlegVyshnevskyy.jpg",
-          "width": 2000,
-          "height": 999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-rust-detection-using-machine-learning-on-aws.md",
-      "title": "Rust detection using machine learning on AWS",
-      "excerpt": "Visual inspection of industrial environments is a common requirement across heavy industries, such as transportation, construction, and shipbuilding, and typically requires qualified experts to perform the inspection. Inspection locations can often be remote or in adverse environments that put humans",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/rust-detection-using-machine-learning-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/rust-detection-using-machine-learning-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T09:20:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-virtual-contest-to-cultivate-interest-in-robotic-fields.md",
-      "title": "Virtual contest to cultivate interest in robotic fields",
-      "excerpt": "KOTA KINABALU: Sabah is organising ROBONEO AWS DeepRacer Challenge 2021 to cultivate interest in robotics field in the efforts to boost Malaysia TVET (Technical and Vocational Education and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theborneopost.com/2021/03/30/virtual-contest-to-cultivate-interest-in-robotic-fields/?amp",
-      "originalUrl": "https://www.theborneopost.com/2021/03/30/virtual-contest-to-cultivate-interest-in-robotic-fields/?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theborneopost.com/newsimages/2021/03/Julkifli-Fazlan-1.jpeg",
-          "width": 335,
-          "height": 241,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theborneopost.com/2021/03/30/virtual-contest-to-cultivate-interest-in-robotic-fields/?amp",
-      "cdnAmpWebUrl": "https://www-theborneopost-com.cdn.ampproject.org/c/s/www.theborneopost.com/2021/03/30/virtual-contest-to-cultivate-interest-in-robotic-fields/?amp",
-      "publishedDateTime": "2021-03-30T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Borneo Post",
-        "domain": "theborneopost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow.md",
-      "title": "Aerobotics improves training speed by 24 times per sample with Amazon SageMaker and TensorFlow",
-      "excerpt": "Editor’s note: This is a guest post written by Michael Malahe, Head of Data at Aerobotics, a South African startup that builds AI-driven tools for agriculture. Aerobotics is an agri-tech company operating in 18 countries around the world, based out of Cape Town, South Africa. Our mission is to provide",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T10:03:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-aws-ml-community-showcase-march-2021-edition.md",
-      "title": "AWS ML Community showcase: March 2021 edition",
-      "excerpt": "In our Community Showcase, Amazon Web Services (AWS) highlights projects created by AWS Heroes and AWS Community Builders.&nbsp; Each month AWS ML Heroes and AWS ML Community Builders bring to life projects and use cases for the full range of machine learning skills from beginner to expert through deep",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ml-community-showcase-march-2021-edition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ml-community-showcase-march-2021-edition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/26/Header.jpg",
-          "width": 800,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-26T11:48:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
-      "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
-      "excerpt": "Indian-Canadian comedian Lilly Singh says her journey towards becoming the first female late-night show host was really a journey to be her authentic self. Amaravati/ Delhi, March 22 (IANS) Two ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml",
-      "originalUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-26T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-amazons-ai-is-helping-the-police-watch-you.md",
-      "title": "Amazon's AI Is Helping the Police Watch You",
-      "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg",
-          "width": 1280,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

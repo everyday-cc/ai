@@ -2,6 +2,435 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-30-cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning.md",
+      "title": "Cambridge Quantum Computing Pioneers Quantum Machine Learning Methods for Reasoning",
+      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... and is part of the Quantum Machine Learning division of CQC, headed by Dr. Mattia Fiorentini.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257268",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-adversarial-training-reduces-safety-of-neural-networks-in-robots-research.md",
+      "title": "Adversarial training reduces safety of neural networks in robots: Research",
+      "excerpt": "“In a lot of deep learning, machine learning, and artificial intelligence literature, we often see claims that ‘neural networks are not safe for robotics because they are vulnerable to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/",
+      "originalUrl": "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
+      "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
+      "excerpt": "Healthcare was a big area for AI investment. Today, the results of a new survey focusing precisely on the adoption of AI in healthcare are being unveiled. ZDNet caught up with Gradient Flow Principal Ben Lorica, and John Snow Labs CTO David Talby ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "originalUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-neural-network-knows-when-cat-wants-to-go-outside.md",
+      "title": "Neural Network Knows When Cat Wants To Go Outside",
+      "excerpt": "A Python script regularly captures images and passes them to a TensorFlow neural network for object recognition. The TensorFlow network returns object type and positions to the Python script.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/",
+      "originalUrl": "https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/12/0800.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-aws-ml-community-showcase-march-2021-edition.md",
+      "title": "AWS ML Community showcase: March 2021 edition",
+      "excerpt": "In our Community Showcase, Amazon Web Services (AWS) highlights projects created by AWS Heroes and AWS Community Builders.&nbsp; Each month AWS ML Heroes and AWS ML Community Builders bring to life projects and use cases for the full range of machine learning skills from beginner to expert through deep",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ml-community-showcase-march-2021-edition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-ml-community-showcase-march-2021-edition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/26/Header.jpg",
+          "width": 800,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-26T11:48:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
+      "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
+      "excerpt": "Indian-Canadian comedian Lilly Singh says her journey towards becoming the first female late-night show host was really a journey to be her authentic self. Amaravati/ Delhi, March 22 (IANS) Two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml",
+      "originalUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-26T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence.md",
+      "title": "The Antidote To The Hype, Noise, And Spin Of Artificial Intelligence",
+      "excerpt": "There are four mental models I believe any business, decision-maker, or tech enthusiast interested in AI must take to see past all the hype, noise, and spin.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/03/25/the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/03/25/the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605cb0a3131e9c7d0acdba21%2F0x0.jpg",
+          "width": 1200,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/03/25/the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2021/03/25/the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-03-25T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-deep-neural-networks-market-types-applications-products-share-growth-insights-and-forecasts-report-2027.md",
+      "title": "Deep Neural Networks Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027",
+      "excerpt": "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-deep-learning-in-computer-vision-market-will-grow-at-massive-cagr-5565-for-the-forecast-period-2027.md",
+      "title": "Deep Learning in Computer Vision Market will grow at Massive CAGR 55.65% for the forecast period 2027",
+      "excerpt": "Deep learning is an intense machine learning tool which indicates extraordinary execution in several fields. The best accomplishments of deep learning are protest acknowledgment with Convolutional Neural Networks (CNNs). CNNs’ principle control ...",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/03/25/deep-learning-in-computer-vision-market-swot-analysis-emerging-trends-key-players-accenture-applariat-inc-ca-technologies-heroku-ibm-and-more-future-scope-forecast-2027/",
+      "originalUrl": "https://ksusentinel.com/2021/03/25/deep-learning-in-computer-vision-market-swot-analysis-emerging-trends-key-players-accenture-applariat-inc-ca-technologies-heroku-ibm-and-more-future-scope-forecast-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-automated-detection-of-critical-findings-in-multi-parametric-brain-mri-using-a-system-of-3d-neural-networks.md",
+      "title": "Automated detection of critical findings in multi-parametric brain MRI using a system of 3D neural networks",
+      "excerpt": "With the rapid growth and increasing use of brain MRI, there is an interest in automated image classification to aid human interpretation and improve workflow. We aimed to train a deep convolutional neural network and assess its performance in identifying abnormal brain MRIs and critical intracranial findings including acute infarction,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-021-86022-7",
+      "originalUrl": "https://www.nature.com/articles/s41598-021-86022-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-artificial-intelligence-neural-network.md",
       "title": "Artificial Intelligence Neural Network",
       "excerpt": "Artificial neuron in concept of artificial intelligence. Wall-shaped binary codes make transmission lines of pulses and/or information in an analogy to a microchip. Neural network and data transmission.",
@@ -817,395 +1246,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-facebook-is-developing-a-neural-wristband-for-interacting-with-ar-glasses.md",
-      "title": "Facebook is developing a neural wristband for interacting with AR glasses",
-      "excerpt": "The wristband, detailed today, is part of a broader project by the social network to create augmented reality glasses suitable for everyday use. Facebook argues that such glasses will require the ability to not only display content but also give users an easy way to interact with that content.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/03/18/facebook-developing-neural-wristband-interacting-ar-glasses/",
-      "originalUrl": "https://siliconangle.com/2021/03/18/facebook-developing-neural-wristband-interacting-ar-glasses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/facebook.png",
-          "width": 708,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-domo-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
-      "title": "Domo Achieves AWS Machine Learning Competency Status in Applied AI",
-      "excerpt": "SILICON SLOPES, Utah--(BUSINESS WIRE)--Domo (Nasdaq: DOMO) today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category. This designation recognizes that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210318005321/en/Domo-Achieves-AWS-Machine-Learning-Competency-Status-in-Applied-AI",
-      "originalUrl": "https://www.businesswire.com/news/home/20210318005321/en/Domo-Achieves-AWS-Machine-Learning-Competency-Status-in-Applied-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-artificial-neuron-device-could-shrink-energy-use-and-size-of-neural-network-hardware.md",
-      "title": "Artificial neuron device could shrink energy use and size of neural network hardware",
-      "excerpt": "Training neural networks to perform tasks, such as recognizing images or navigating self-driving cars, could one day require less computing power and hardware thanks to a new artificial neuron ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-artificial-neuron-device-energy-size.html",
-      "originalUrl": "https://phys.org/news/2021-03-artificial-neuron-device-energy-size.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-artificial-neuron-device-energy-size.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-artificial-neuron-device-energy-size.amp",
-      "publishedDateTime": "2021-03-18T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-neural-network-based-on-autocatalytic-reaction-performs-image-classification.md",
-      "title": "Neural network based on autocatalytic reaction performs image classification",
-      "excerpt": "Researchers in the US have combined an autocatalytic click reaction with automated liquid handling and UV-Vis spectroscopy to create a simple neural network that can classify binary images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chemistryworld.com/news/neural-network-based-on-autocatalytic-reaction-performs-image-classification/4013413.article",
-      "originalUrl": "https://www.chemistryworld.com/news/neural-network-based-on-autocatalytic-reaction-performs-image-classification/4013413.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chemistry World",
-        "domain": "chemistryworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-domo-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
-      "title": "Domo Achieves AWS Machine Learning Competency Status in Applied AI",
-      "excerpt": "Domo (Nasdaq: DOMO) today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category. This designation recognizes that Domo has demonstrated deep experience and expertise in building or integrating ML solutions on AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/domo-achieves-aws-machine-learning-competency-status-in-applied-ai/",
-      "originalUrl": "https://www.financialbuzz.com/domo-achieves-aws-machine-learning-competency-status-in-applied-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-three-ways-machine-learning-helps-tech-businesses.md",
-      "title": "Three Ways Machine Learning Helps Tech Businesses",
-      "excerpt": "Machine learning, a subcategory of artificial intelligence, has quickly proven to be a helpful tool for consumers and tech business owners. There’s AI-powered software on the market that helps leaders and marketing teams understand their audience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/three-ways-machine-learning-helps-tech-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/three-ways-machine-learning-helps-tech-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/three-ways-machine-learning-helps-tech-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/18/three-ways-machine-learning-helps-tech-businesses/amp/",
-      "publishedDateTime": "2021-03-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-machine-learning-system-predicts-severe-covid-19.md",
-      "title": "Machine Learning System Predicts Severe COVID-19",
-      "excerpt": "An advanced machine-learning system can accurately predict if a patient’s bout with COVID-19 will become severe or fatal and relay its findings to clinicians. Clinicians often learn how to recognize patterns in COVID-19 cases after they treat many ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govexec.com/oversight/2021/03/machine-learning-system-predicts-severe-covid-19/172723/",
-      "originalUrl": "https://www.govexec.com/oversight/2021/03/machine-learning-system-predicts-severe-covid-19/172723/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Executive",
-        "domain": "govexec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-global-machine-learning-chip-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021.md",
-      "title": "Global Machine Learning Chip Market By Type, By Application, By Segmentation, By Region, and By Country 2021",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2021 (Heraldkeepers) -- The global Machine Learning Chip market report is a comprehensive research that focuses on the overall consumption structure, development ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T15:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-for-oracles-updated-autonomous-data-warehouse-no-sql-needed.md",
-      "title": "For Oracle's updated Autonomous Data Warehouse, no SQL needed",
-      "excerpt": "With drag-and-drop UIs and AutoML capabilities, the simplified data warehousing tool is designed to be accessible to data analysts and business users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
-      "originalUrl": "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
-      "publishedDateTime": "2021-03-17T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-researchers-enhance-quantum-machine-learning-algorithms.md",
-      "title": "Researchers enhance quantum machine learning algorithms",
-      "excerpt": "Researchers found a way to automatically infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/03/210316112244.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/03/210316112244.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

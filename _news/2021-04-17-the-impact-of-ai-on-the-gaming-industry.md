@@ -7,7 +7,7 @@ originalUrl: "https://techaeris.com/2021/04/17/impact-ai-gaming-industry/"
 webUrl: "https://techaeris.com/2021/04/17/impact-ai-gaming-industry/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Impact of AI on B2B Payments"
-    excerpt: "The revolutionary movement of the digital payments landscape is well underway, with new entrants and technologies in the B2C"
-    publishedDateTime: 2021-04-16T15:00:00Z
-    webUrl: "https://www.business2community.com/business-innovation/the-impact-of-ai-on-b2b-payments-02398830"
-    ampWebUrl: "https://www.business2community.com/business-innovation/the-impact-of-ai-on-b2b-payments-02398830/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/the-impact-of-ai-on-b2b-payments-02398830/amp"
+  - title: "Poker Playing AI to Change the Game"
+    excerpt: "Great Big Story, YouTube Artificial Intelligence (AI) never fails to surprise us. With its limitless possibilities and an extensive capacity to adapt and learn has always been a topic of curiosity. Artificial Intelligence (AI) has proven to extremely useful in many fields."
+    publishedDateTime: 2021-04-18T06:50:00Z
+    webUrl: "https://techstory.in/poker-playing-ai-to-change-the-game/"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 59
+      name: tech
+      domain: techstory.in
+    quality: 39
     images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/04/stats1-600x312.png"
-        width: 600
-        height: 312
+      - url: "https://techstory.in/wp-content/uploads/2021/04/0_q7R7nvpcCkl8pryb.jpg"
+        width: 1620
+        height: 1081
         isCached: true
 
 secured: "/E22MKlrxnOWkwQQPTBVwnXXaxnlGFTho2F6Oiio8+OGfMzFyaeatUbKwaRXWwRb338ZzeXBkV/su76OllrnhM8nw7OO+OjU2CAVYf/VT7mSfqt2dUOmYGx592Z/341eW5fr+xRJ0ij2cyIJXuix6JAtOtQls97yCELQzqCVwmSvRi7OF39WRXn5YZaxDTvX+JE3M8sL/flkMGQwioBq8N55WbvKR+BLTd1u3IljwtvZJ7CzWgybZ5ClNGFK0EmKOYiccbzfMX6zU2PovwKcQbuMOLTsESrPuivrkof7qcXWebY7+A6F6GiPZbXLHOA+BVXKoXRdAgH23nWIR4/9guMyWMSl4nrlxd7Oc6YYhG0=;NeGRHcEGNTniuFbLTcqWVg=="

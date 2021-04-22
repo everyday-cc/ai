@@ -2,6 +2,441 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-07-op-ed-using-ai-to-help-solve-todays-semiconductor-problems.md",
+      "title": "Op-ed: Using AI to help solve today's semiconductor problems",
+      "excerpt": "The chip technologies that exist today make it possible for cars ... more efficiently through the utilization of intelligent control that is possible with AI. This will allow for older machines to make chips in ways they were not originally designed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
+      "originalUrl": "https://www.cnbc.com/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106862811-16172891392021-04-01t014455z_1800782907_rc2pmm9drooi_rtrmadp_0_usa-semiconductors.jpeg?v=1617289180",
+          "width": 3500,
+          "height": 2505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
+      "publishedDateTime": "2021-04-07T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost.md",
+      "title": "Photonic Supercomputer For AI: 10X Faster, 90% Less Energy, Plus Runway For 100X Speed Boost",
+      "excerpt": "The Lightmatter photonic computer is 10 times faster than the fastest NVIDIA artificial intelligence GPU while using far less energy. And it has a runway for boosting that massive advantage by a factor of 100,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d2d1d000492b0c778e83e%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/amp/",
+      "publishedDateTime": "2021-04-06T21:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Apr 07, 2021 (The Expresswire) -- The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting a CAGR of 38.9% ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-nvidia-gpu-technology-conference-brings-out-the-ai-all-stars.md",
+      "title": "Nvidia GPU Technology Conference Brings Out The AI All Stars",
+      "excerpt": "Nvidia’s GPU Technology Conference (GTC) is a conference focused on AI and accelerated computing that draws the big names in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4e8e74c42155d05d289032%2F0x0.jpg%3FcropX1%3D39%26cropX2%3D1230%26cropY1%3D18%26cropY2%3D689",
+          "width": 1191,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/04/06/nvidia-gpu-technology-conference-brings-out-the-ai-all-stars/amp/",
+      "publishedDateTime": "2021-04-06T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-sambanova-raises-650m-to-mass-produce-ai-training-and-inference-chips.md",
+      "title": "SambaNova raises $650M to mass-produce AI training and inference chips",
+      "excerpt": "AI chip startup SambaNova systems has raised $650 million, bringing its total raised to over $1 billion at a $5 billion valuation.Read MoreRead",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sambanova-raises-$650m-to-mass-produce-ai-training-and-inference-chips-9984417",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sambanova-raises-$650m-to-mass-produce-ai-training-and-inference-chips-9984417",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-you-can-now-turn-on-nvidias-excellent-noise-cancellation-with-any-geforce-gpu.md",
+      "title": "You can now turn on Nvidia's excellent noise cancellation with any GeForce GPU",
+      "excerpt": "With the latest update to RTX Voice, which now goes by 'Noise Removal' in the RTX Broadcast app, it's possible to run the feature across a wide range of GPU generations (nice spot ... as the Asus Noise-Cancelling AI Mic Adapter, which offer much of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "originalUrl": "https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/48T59jevWjdV3uxFo5wWBb-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "publishedDateTime": "2021-04-06T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach.md",
+      "title": "Intel Sets Ice Lake Apart From AMD EPYC With AI, Systems Approach",
+      "excerpt": "Intel launches its third-gen Xeon Scalable CPUs, code-named Ice Lake, saying they are faster than AMD's latest EPYC Milan chips in certain workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/components-peripherals/intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach",
+      "originalUrl": "https://www.crn.com/news/components-peripherals/intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0268-11fa0f99b4e0-e1b195cc181a-1000/intel-ice-lake.jpg",
+          "width": 610,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-ai-upscaling-and-the-future-of-content-delivery.md",
+      "title": "AI Upscaling And The Future Of Content Delivery",
+      "excerpt": "So rather than tasking the GPU with producing a native 4K image ... To address this fundamental issue, AI-enhanced scaling actually creates new visual data to fill in the gaps between the source ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2021/04/05/ai-upscaling-and-the-future-of-content-delivery/",
+      "originalUrl": "https://hackaday.com/2021/04/05/ai-upscaling-and-the-future-of-content-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2021/04/Upscaling.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-graphics-processing-unit-gpu-market-current-trends-segmentation-key-players-analysis-and-forecast-to-2025.md",
+      "title": "Graphics Processing Unit (GPU) Market Current, Trends, Segmentation, Key Players, Analysis and Forecast to 2025",
+      "excerpt": "For instance, AMD, in FY2018, reported more than USD 1.2 billion of revenue owing to the demand for its datacenter GPU products. -As enterprises are undergoing digital transformation by embracing the cloud, big data and also AI, computer technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-current-trends-segmentation-key-players-analysis-and-forecast-to-2025-2021-04-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-current-trends-segmentation-key-players-analysis-and-forecast-to-2025-2021-04-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure.md",
       "title": "How NVIDIA Is Embracing Cloud Native To Scale GPU Infrastructure",
       "excerpt": "NGC - The Hub for Cloud Native, GPU-Optimized AI Resources The NVIDIA GPU Cloud (NGC) is a one-stop-shop for accessing GPU-optimized containerized software. One of the key elements of NGC is the NVIDIA Container Registry (NVCR), an image registry with a ...",
@@ -907,386 +1342,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-graphics-processing-unit-gpu-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-to-2025.md",
-      "title": "Graphics Processing Unit (GPU) Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast to 2025",
-      "excerpt": "For instance, AMD, in FY2018, reported more than USD 1.2 billion of revenue owing to the demand for its datacenter GPU products.-As enterprises are undergoing digital transformation by embracing the cloud, big data and also AI, computer technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-to-2025-2021-03-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-to-2025-2021-03-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips.md",
-      "title": "New Applied Materials Tools Use AI to Catch Mistakes on Chips",
-      "excerpt": "A new semiconductor manufacturing technology from Applied Materials uses artificial intelligence, or AI, to spot mistakes in chips more effectively, the U.S. company said on Tuesday. Modern chip manufacturing happens in factories that cost upward of $18 billion each to build and requires hundreds of separate steps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-16/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-16/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-baidus-ai-chip-business-kunlun-valued-at-2b-after-new-funding-round.md",
-      "title": "Baidu’s AI chip business Kunlun valued at $2B after new funding round",
-      "excerpt": "Monday that its Kunlun artificial intelligence chip business has closed on a funding round that takes its value to about $2 billion. Reuters reported Sunday that Chinese private equity firm CITIC Private Equity Funds Management led the round,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/03/15/baidus-ai-chip-business-kunlun-valued-2b-new-funding-round/",
-      "originalUrl": "https://siliconangle.com/2021/03/15/baidus-ai-chip-business-kunlun-valued-2b-new-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-raises-2bn.md",
-      "title": "Baidu’s AI chip unit Kunlun raises $2bn",
-      "excerpt": "Baidu Inc said its artificial intelligence chip unit Kunlun raised around $2 billion, according to a source with direct knowledge of the matter, Reuters reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.capacitymedia.com/articles/3828015/baidus-ai-chip-unit-kunlun-raises-2bn",
-      "originalUrl": "https://www.capacitymedia.com/articles/3828015/baidus-ai-chip-unit-kunlun-raises-2bn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://capacityliveblobstorage.blob.core.windows.net/files/Samsung-Baidu-Chip-3.jpg",
-          "width": 900,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Capacity Media",
-        "domain": "capacitymedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.md",
-      "title": "VMware, Nvidia offer GPU-powered AI in virtual machines",
-      "excerpt": "VMware and Nvidia have expanded their alliance to support Nvidia GPU-based applications on VMware's new vSphere 7 Update 2. The upgraded version of vSphere 7 will support the new Nvidia AI Enterprise offering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.html",
-      "originalUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/05/nvidia-a100-stock-100842030-large.jpg",
-          "width": 1200,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.amp.html",
-      "publishedDateTime": "2021-03-15T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-bln-valuation-source.md",
-      "title": "Baidu’s AI chip unit Kunlun completes new funding, at $2 bln valuation- source",
-      "excerpt": "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about $2 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/china-baidu-idUSL4N2LD1CY",
-      "originalUrl": "https://www.reuters.com/article/china-baidu-idUSL4N2LD1CY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2LD1CY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2LD1CY",
-      "publishedDateTime": "2021-03-14T20:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-global-artificial-intelligence-ai-chips-market-2020-study-report-with-prospects-and-strategies-to-boost-growth-covid-19-impact-and-recovery.md",
-      "title": "Global Artificial intelligence (AI) Chips Market 2020: Study Report with Prospects and Strategies to Boost Growth- COVID-19 Impact and Recovery",
-      "excerpt": "This report aims to estimate the Global “Artificial intelligence (AI) Chips Market” for 2020 and to project the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-study-report-with-prospects-and-strategies-to-boost-growth--covid-19-impact-and-recovery-2021-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-study-report-with-prospects-and-strategies-to-boost-growth--covid-19-impact-and-recovery-2021-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-14T19:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source.md",
-      "title": "Baidu’s AI Chip Unit Kunlun Completes New Funding, at $2 Billion Valuation: Source",
-      "excerpt": "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about $2 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-15/baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-15/baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-14T17:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-samsung-electronics-to-be-responsible-for-development-of-chip-used-for-googles-self-driving-car-waymo.md",
-      "title": "Samsung Electronics to Be Responsible for Development of Chip Used for Google’s Self-Driving Car Waymo",
-      "excerpt": "Samsung Electronics has begun the development of core chip that will be used for Google’s next-generation self-driving car. There is a high chance that the chip will be produced through Samsung Elec",
-      "sourceUrl": null,
-      "webUrl": "https://english.etnews.com/20210315200002",
-      "originalUrl": "https://english.etnews.com/20210315200002",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etnews.com/news/article/2021/03/15/article_15091456893673.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.etnews.com/amp/20210315200002",
-      "cdnAmpWebUrl": "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210315200002",
-      "publishedDateTime": "2021-03-14T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Etnews.com",
-        "domain": "etnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

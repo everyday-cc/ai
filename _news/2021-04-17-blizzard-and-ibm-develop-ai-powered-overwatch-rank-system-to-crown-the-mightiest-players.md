@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chengdu Hunters Dominate The First Week Of Overwatch League’s AI-Driven Power Rankings"
+    excerpt: "Chengdu Hunters reign supreme on both the team and overall player rankings. MORE FROM FORBES IBM Watson AI Will Calculate The Overwatch Lea"
+    publishedDateTime: 2021-04-20T19:48:00Z
+    webUrl: "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/"
+    ampWebUrl: "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607f0828aef7a98e2d58bc3a%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Blizzard, IBM use AI to find the best Overwatch players"
     excerpt: "Blizzard and IBM have entered a multi-year deal to analyse data and rank the best Overwatch players in the world."
     publishedDateTime: 2021-04-17T22:54:00Z

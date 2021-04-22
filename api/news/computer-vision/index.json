@@ -2,6 +2,310 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-21-artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal.md",
+      "title": "Artificial Intelligence, Facial Recognition Face Curbs in New EU Proposal",
+      "excerpt": "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet to regulate high-stakes applications of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-327981/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
+      "publishedDateTime": "2021-04-21T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-fbi-used-facial-recognition-to-identify-a-capitol-rioter-from-his-girlfriends-instagram-posts.md",
+      "title": "FBI used facial recognition to identify a Capitol rioter from his girlfriend’s Instagram posts",
+      "excerpt": "The FBI says it used facial recognition technology to track down and arrest an individual suspected of taking part in the US Capitol riots earlier this year. The case, which was first reported by The Huffington Post,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/4/21/22395323/fbi-facial-recognition-us-capital-riots-tracked-down-suspect",
+      "originalUrl": "https://www.theverge.com/2021/4/21/22395323/fbi-facial-recognition-us-capital-riots-tracked-down-suspect",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/21bm0QFzvWH99KP5t_dHCx60JnU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69161462/acastro_180730_1777_facial_recognition_0003.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/21/22395323/fbi-facial-recognition-us-capital-riots-tracked-down-suspect",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/21/22395323/fbi-facial-recognition-us-capital-riots-tracked-down-suspect",
+      "publishedDateTime": "2021-04-21T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding.md",
+      "title": "Orca AI, which puts computer vision onto cargo ships, raises $13M Series A funding",
+      "excerpt": "Tel Aviv’s Orca AI, a computer vision startup that can be retrofitted to cargo ships and improve navigation and collision avoidance, has raised $13 million in a Series A funding, taking its total raised to over $15.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/",
+      "originalUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/yarden-7089.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/",
+      "publishedDateTime": "2021-04-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-why-a-cedars-sinai-hospital-and-bp-use-facial-recognition-exclusive.md",
+      "title": "Why a Cedars-Sinai hospital and BP use facial recognition (exclusive)",
+      "excerpt": "Facial recogntion is widely used in entertainment, finance, and retail in various ways tp boost building security and stop criminal activity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/20/why-a-cedars-sinai-hospital-and-bp-use-facial-recognition-exclusive/",
+      "originalUrl": "https://venturebeat.com/2021/04/20/why-a-cedars-sinai-hospital-and-bp-use-facial-recognition-exclusive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/20/why-a-cedars-sinai-hospital-and-bp-use-facial-recognition-exclusive/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/why-a-cedars-sinai-hospital-and-bp-use-facial-recognition-exclusive/amp/",
+      "publishedDateTime": "2021-04-20T20:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-how-face-recognition-can-destroy-anonymity.md",
+      "title": "How Face Recognition Can Destroy Anonymity",
+      "excerpt": "Cameras are everywhere, and increasingly powerful software can pick an individual out of a crowd. Except sometimes algorithms get it wrong.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/",
+      "originalUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/607e24ad084a1594b46b28c1/master/pass/face_recognition_jpeg0.jpg",
+          "width": 2000,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-face-recognition-destroy-anonymity/amp",
+      "publishedDateTime": "2021-04-20T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-ecovacs-robotics-introduces-the-deebot-n8-family-in-thailand.md",
+      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Thailand",
+      "excerpt": "ECOVACS ROBOTICS, the world's leading home service robotics maker, today announces the launch of the DEEBOT N8 Family in Thailand, bringing a hands-free and effectively superior cleaning experience for customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswit.com/en/L7BH",
+      "originalUrl": "https://www.newswit.com/en/L7BH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newswit.com/img/f/20210419/5260a0b19f5d8644725b108b03935f64-0.jpg",
+          "width": 1067,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "academy",
+        "domain": "newswit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-new-to-computer-vision-and-medical-imaging-start-with-these-10-projects.md",
       "title": "New to computer vision and medical imaging? Start with these 10 projects",
       "excerpt": "(AI) and computer science that enables automated systems to see, i.e. to process images and video in a human-like manner to detect and identify objects or regions of importance, predict an outcome or",
@@ -878,6 +1182,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-06-haptic-feedback-smart-glove-as-a-creative-human-machine-interface-hmi-for-virtualaugmented-reality-applications.md",
+      "title": "Haptic-feedback smart glove as a creative human-machine interface (HMI) for virtual/augmented reality applications",
+      "excerpt": "We also perform haptic mechanical stimulation via piezoelectric chips to realize the augmented HMI. The smart glove achieves object recognition using machine learning technique, with an accuracy of 96%. Through the integrated demonstration of ...",
+      "sourceUrl": null,
+      "webUrl": "https://advances.sciencemag.org/content/6/19/eaaz8693.full",
+      "originalUrl": "https://advances.sciencemag.org/content/6/19/eaaz8693.full",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://advances.sciencemag.org/content/6/19/eaaz8693/F1.large.jpg",
+          "width": 1400,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science",
+        "domain": "sciencemag.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-us-army-looks-to-facial-recognition-access-at-bases.md",
       "title": "U.S. Army looks to facial recognition access at bases",
       "excerpt": "The U.S. Army seeks to install face-recognition cameras at base entrance checkpoints, it announced in a contract call for a recognition biometric camera system.",
@@ -1091,328 +1438,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects.md",
-      "title": "Intel and John Deere pilot AI and computer vision program to detect manufacturing defects",
-      "excerpt": "These solutions range from sprawling LED-equipped indoor farming facilities to robotically plucking ripe produce off the vine using computer vision and artificial intelligence (AI). On Thursday, John Deere and Intel announced a pilot program that relies on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
-      "originalUrl": "https://www.techrepublic.com/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/01/24afeb96-0fbc-4eea-a829-45cf404f852e/resize/1200x/cb0cce3d1fdb8f244a749341905133fb/john-deere.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
-      "publishedDateTime": "2021-04-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-ai-fire-detection-computer-vision-guards-the-forest.md",
-      "title": "AI Fire Detection: Computer Vision Guards the Forest",
-      "excerpt": "Find out how the AAEON Intelligent Forest Fire Monitoring System uses AI to detect smoke, activate an alarm, and even predict the direction and speed at which the fire will spread.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
-      "originalUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-156-valuates-reports.md",
-      "title": "Image Recognition Market Size to Reach USD 58920 Million by 2026 at CAGR 15.6% - Valuates Reports",
-      "excerpt": "The Image Recognition Market is Segmented by Type (Code Recognition, Digital Image Processing, Facial Recognition, Object Recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/in/news-releases/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-879065277.html",
-      "originalUrl": "https://www.prnewswire.com/in/news-releases/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-879065277.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook",
-          "width": 920,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-156-valuates-reports.md",
-      "title": "Image Recognition Market Size to Reach USD 58920 Million by 2026 at CAGR 15.6% - Valuates Reports",
-      "excerpt": "Increasing penetration of Smartphones with image recognition technology for authentication, object identification and augmented reality use cases. Increasing adoption of image recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264522",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264522",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-cioe-intelligent-sensing-expo-to-promote-industrial-development.md",
-      "title": "CIOE-Intelligent Sensing Expo to promote industrial development",
-      "excerpt": "AR/VR action recognition, UAV flight obstacle avoidance, industrial robot object recognition, security monitoring, etc. As a 3D vision industry event, Intelligent Sensing Expo showcases infrared ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/cioe-intelligent-sensing-expo-to-promote-industrial-development-808180956.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/cioe-intelligent-sensing-expo-to-promote-industrial-development-808180956.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1476044/1.jpg?p=facebook",
-          "width": 796,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-object-detection-with-tensorflow.md",
-      "title": "Object Detection, With TensorFlow",
-      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-neural-network-knows-when-cat-wants-to-go-outside.md",
-      "title": "Neural Network Knows When Cat Wants To Go Outside",
-      "excerpt": "A Python script regularly captures images and passes them to a TensorFlow neural network for object recognition. The TensorFlow network returns object type and positions to the Python script.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/",
-      "originalUrl": "https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/12/0800.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,273 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-14-the-future-of-facial-recognition-blends-ai-and-ir.md",
-      "title": "The future of facial recognition blends AI and IR",
-      "excerpt": "Current facial recognition technologies aren't the most secure security options, but AI and IR are about to change that.",
+      "path": "_news/2021-04-21-cerebras-launches-new-ai-supercomputing-processor-with-26-trillion-transistors.md",
+      "title": "Cerebras launches new AI supercomputing processor with 2.6 trillion transistors",
+      "excerpt": "Cerebras Systems has unveiled its new Wafer Scale Engine 2 processor with a record-setting 2.6 trillion transistors and 850,000 AI cores.",
       "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/future-face-recognition-1217022/",
-      "originalUrl": "https://www.androidauthority.com/future-face-recognition-1217022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Apple-Face-ID-setup-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/future-face-recognition-1217022/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/future-face-recognition-1217022/amp/",
-      "publishedDateTime": "2021-04-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-global-ai-in-computer-vision-market-regional-trends-growth-projections-2026.md",
-      "title": "Global AI In Computer Vision Market Regional Trends & Growth Projections 2026",
-      "excerpt": "Apr 14, 2021 (Market Insight Reports) -- New York, NY The report on global AI In Computer Vision Market offers in-depth analysis of major market players, revenue, market share, market segments & its sub segments, and geographic regions. It also offers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-google-backs-former-deepmind-employees-solar-forecasting-start-up.md",
-      "title": "Google backs former DeepMind employee’s 'solar forecasting' start-up",
-      "excerpt": "Open Climate Fix, a non-profit lab focused on reducing greenhouse gas emissions, has been awarded over £500,000 ($686,350) by Google.org. The London-headquartered start-up is aiming to build an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104466614-AP_959350424445.jpg?v=1494604726",
-          "width": 3648,
-          "height": 2432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
-      "publishedDateTime": "2021-04-14T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-is-it-time-to-buy-the-nasdaqs-biggest-dippers.md",
-      "title": "Is It Time to Buy the Nasdaq's Biggest Dippers?",
-      "excerpt": "The Chinese tech giant is also an early mover in artificial intelligence and self-driving vehicle software, and it's said to be readying a big push in the electric vehicle space. Baidu won't be a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/c5066787a33f9d3fca259fedf4802d5f.png",
-          "width": 720,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "publishedDateTime": "2021-04-14T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match.md",
-      "title": "Wrongfully arrested man sues Detroit police over false facial recognition match",
-      "excerpt": "The case could fuel criticism of police investigators’ use of a controversial technology that has been shown to perform worse on people of color.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/",
+      "webUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/",
+      "originalUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/",
       "featuredContent": null,
       "highlight": null,
       "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp",
-      "publishedDateTime": "2021-04-13T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-informatica-modernizes-ipaas-platform-using-microservices-and-ai.md",
-      "title": "Informatica modernizes iPaaS platform using microservices and AI",
-      "excerpt": "Informatica unveils revamped platform based on microservices and AI to modernize cloud integration services at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/",
-      "originalUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Informatica-Intelligent-Data-Management-Cloud.png?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 600,
+          "height": 668,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -276,61 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/amp/",
-      "publishedDateTime": "2021-04-13T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-sambanova-raises-676m-to-mass-produce-ai-training-and-inference-chips.md",
-      "title": "SambaNova raises $676M to mass-produce AI training and inference chips",
-      "excerpt": "AI chip startup SambaNova systems has raised $676 million, bringing its total raised to over $1 billion at a $5 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/",
-      "originalUrl": "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/",
-      "publishedDateTime": "2021-04-13T13:00:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/",
+      "publishedDateTime": "2021-04-20T18:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -358,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-13-modular-mobile-robot-can-take-on-multiple-roles-at-construction-site.md",
-      "title": "Modular mobile robot can take on multiple roles at construction site",
-      "excerpt": "Austrian startup Printstones has been developing robotic 3D-printing robots since 2017, and has just pulled back the curtain on its latest prototype, a mobile multi-tasking construction bot called the Baubot.",
+      "path": "_news/2021-04-21-synthesia-raises-125m-for-ai-that-generates-avatar-videos.md",
+      "title": "Synthesia raises $12.5M for AI that generates avatar videos",
+      "excerpt": "Synthesia, a startup developing AI that can generate videos of avatars for marketing purposes, has raised $12.5 million.",
       "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/",
-      "originalUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/",
+      "webUrl": "https://venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/",
+      "originalUrl": "https://venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.newatlas.com/dims4/default/0691c04/2147483647/strip/true/crop/3084x2056+106+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F89%2F84%2Fe6e51926454eaacd6abed52030a4%2Fstairs-1.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/maxresdefault-3-e1618843541929.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 800,
+          "height": 601,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -380,68 +76,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/baubot-modular-mobile-construction-robot/?amp=true",
-      "publishedDateTime": "2021-04-13T09:33:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/amp/",
+      "publishedDateTime": "2021-04-20T14:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-behind-microsofts-nuance-deal-natural-language-processing-explained.md",
-      "title": "Behind Microsoft’s Nuance Deal: Natural Language Processing, Explained",
-      "excerpt": "From virtual assistants to call center attendants, voice is beginning to rival text as the primary computing interface.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
-      "originalUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-324318/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
-      "publishedDateTime": "2021-04-13T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -458,26 +102,25 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-04-13-perceiver-one-neural-network-model-for-multiple-input-data-types.md",
-      "title": "Perceiver: One Neural-Network Model for Multiple Input Data Types",
-      "excerpt": "Google’s DeepMind company has recently released a state-of-the-art deep-learning model called Perceiver that receives and processes multiple input data ranging from audio to images, similarly to how the human brain perceives multimodal data.",
+      "path": "_news/2021-04-21-xilinx-launches-kria-chips-to-handle-ai-for-edge-applications.md",
+      "title": "Xilinx launches Kria chips to handle AI for edge applications",
+      "excerpt": "Xilinx has introduced its Kria programmable chips and boards for holding AI applications at the edge of the network.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/04/perceiver-neural-network-model/",
-      "originalUrl": "https://www.infoq.com/news/2021/04/perceiver-neural-network-model/",
+      "webUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/",
+      "originalUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://res.infoq.com/news/2021/04/perceiver-neural-network-model/en/headerimage/header+%2810%29-1618240844672.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/xilinx-2.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 630,
+          "height": 781,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -485,127 +128,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T07:16:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/",
+      "publishedDateTime": "2021-04-20T13:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-clock-ticking-for-strategy-to-maintain-us-global-lead-in-artificial-intelligence.md",
-      "title": "Clock Ticking for Strategy to Maintain U.S. Global Lead in Artificial Intelligence",
-      "excerpt": "U.S. technological advantages over great power competitor China could be lost in less than 10 years without a robust and comprehensive artificial intelligence (AI) security strategy, according to the findings of an independent government commission.",
-      "sourceUrl": null,
-      "webUrl": "https://seapowermagazine.org/clock-ticking-for-strategy-to-maintain-u-s-global-lead-in-artificial-intelligence/",
-      "originalUrl": "https://seapowermagazine.org/clock-ticking-for-strategy-to-maintain-u-s-global-lead-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://seapowermagazine.org/wp-content/uploads/2021/04/AI-Navy-UGVs-for-AI-webbie-scaled.jpg",
-          "width": 2048,
-          "height": 1515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SEAPOWER",
-        "domain": "seapowermagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-logitech-and-baidu-brain-partner-to-transform-the-way-we-work-using-ai-and-voice.md",
-      "title": "Logitech and Baidu Brain Partner to Transform the Way We Work Using AI and Voice",
-      "excerpt": "The Logitech Voice M380 Wireless Mouse is powered exclusively by intelligent Speech & Machine Translation technologies from Baidu ... “We saw an opportunity to leverage the power of Baidu AI to bring fast, accurate speech recognition to our customers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210412006053/en/Logitech-and-Baidu-Brain-Partner-to-Transform-the-Way-We-Work-Using-AI-and-Voice",
-      "originalUrl": "https://www.businesswire.com/news/home/20210412006053/en/Logitech-and-Baidu-Brain-Partner-to-Transform-the-Way-We-Work-Using-AI-and-Voice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-165-new-cancer-genes-identified-with-the-help-of-machine-learning.md",
-      "title": "165 new cancer genes identified with the help of machine learning",
-      "excerpt": "A new algorithm can predict which genes cause cancer, even if their DNA sequence is not changed. A team of researchers combined a wide variety of data, analyzed it with 'Artificial Intelligence' and identified numerous cancer genes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/04/210412142730.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/04/210412142730.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -621,25 +153,25 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI Hardware",
         "AI",
-        "Machine Learning"
+        "Google AI"
       ]
     },
     {
-      "path": "_news/2021-04-13-overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings.md",
-      "title": "Overwatch League teams with IBM Watson for Season 4 Power Rankings",
-      "excerpt": "The Overwatch League is joining forces with IBM Watson this season to put out its most accurate player and team power rankings yet.",
+      "path": "_news/2021-04-21-chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings.md",
+      "title": "Chengdu Hunters Dominate The First Week Of Overwatch League’s AI-Driven Power Rankings",
+      "excerpt": "Chengdu Hunters reign supreme on both the team and overall player rankings. MORE FROM FORBES IBM Watson AI Will Calculate The Overwatch Lea",
       "sourceUrl": null,
-      "webUrl": "https://www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings",
-      "originalUrl": "https://www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings",
+      "webUrl": "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/",
+      "originalUrl": "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/04/12/owl-season4_feature.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607f0828aef7a98e2d58bc3a%2F0x0.jpg",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -649,95 +181,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings?amphtml=1",
-      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings?amphtml=1",
-      "publishedDateTime": "2021-04-13T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shacknews",
-        "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-ibm-introduces-ai-driven-overwatch-league-power-rankings.md",
-      "title": "IBM introduces AI-driven Overwatch League Power Rankings",
-      "excerpt": "IBM has introduced Power Rankings with Watson, an AI-powered method of evaluating players and teams' performances in the Overwatch League.",
-      "sourceUrl": null,
-      "webUrl": "https://esportsinsider.com/2021/04/ibm-overwatch-league-power-rankings/",
-      "originalUrl": "https://esportsinsider.com/2021/04/ibm-overwatch-league-power-rankings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://oddslifenetstorage.blob.core.windows.net/esportsinsider/2021/04/IBMxOWL.jpg",
-          "width": 1781,
-          "height": 906,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "esportsinsider",
-        "domain": "esportsinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021.md",
-      "title": "IBM Watson AI Will Calculate The Overwatch League’s Data-Driven Power Rankings In 2021",
-      "excerpt": "Everyone loves power rankings. Well, unless your team stinks enough to land at the bottom of most people’s lists. Power rankings give fans something else to obsess over and argue about, especially in the offseason or between match days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6075a1d7c250de2567901b2e%2F0x0.jpg",
-          "width": 1102,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/04/13/ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021/amp/",
-      "publishedDateTime": "2021-04-13T06:50:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/amp/",
+      "publishedDateTime": "2021-04-20T12:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -765,36 +211,36 @@
       ]
     },
     {
-      "path": "_news/2021-04-13-open-source-framework-simplifies-machine-learning-processes.md",
-      "title": "Open-Source Framework Simplifies Machine Learning Processes",
-      "excerpt": "The system brings hospital data through a set of machine learning models to help inform clinical decision-making.",
+      "path": "_news/2021-04-20-rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories.md",
+      "title": "Rackspace Technology Achieved AWS Machine Learning Competency in New Applied AI and ML Ops Categories",
+      "excerpt": "The solution uses Amazon Athena, AWS Glue, Amazon Simple Storage Services (Amazon S3), Amazon SageMaker, and Amazon Translate and the automated ML natural language processing solution enables the ...",
       "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/open-source-framework-simplifies-machine-learning-processes",
-      "originalUrl": "https://healthitanalytics.com/news/open-source-framework-simplifies-machine-learning-processes",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories-1030324209",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories-1030324209",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 91,
       "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg",
-          "width": 690,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T06:31:00-07:00",
+      "publishedDateTime": "2021-04-20T08:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -803,26 +249,27 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-04-13-google-is-poisoning-its-reputation-with-ai-researchers.md",
-      "title": "Google is poisoning its reputation with AI researchers",
-      "excerpt": "The firing of top Google AI ethics researchers has created a significant backlash Google has worked for years to position itself as a responsible steward of AI. Its research lab hires respected academics,",
+      "path": "_news/2021-04-20-how-face-recognition-can-destroy-anonymity.md",
+      "title": "How Face Recognition Can Destroy Anonymity",
+      "excerpt": "Cameras are everywhere, and increasingly powerful software can pick an individual out of a crowd. Except sometimes algorithms get it wrong.",
       "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation",
-      "originalUrl": "https://www.theverge.com/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation",
+      "webUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/",
+      "originalUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.vox-cdn.com/thumbor/-cJlGNIdcC3kFD8y7oT_322pRW8=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69118193/acastro_210412_4523_0002.0.jpg",
-          "width": 1400,
-          "height": 933,
+          "url": "https://media.wired.com/photos/607e24ad084a1594b46b28c1/master/pass/face_recognition_jpeg0.jpg",
+          "width": 2000,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -830,16 +277,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation",
-      "publishedDateTime": "2021-04-13T06:30:00-07:00",
+      "ampWebUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-face-recognition-destroy-anonymity/amp",
+      "publishedDateTime": "2021-04-20T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
+        "name": "Wired",
+        "domain": "wired.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-how-communicators-can-help-address-ethical-ai-risks.md",
+      "title": "How Communicators Can Help Address Ethical AI Risks",
+      "excerpt": "Fortunately, as communications specialists, we can work cross-functionally to evaluate AI-powered products or services, determine if they have ethical risks and champion actions to manage them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb3ff457ad853db35f0dbc5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/amp/",
+      "publishedDateTime": "2021-04-20T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -860,65 +359,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-13-165-new-cancer-genes-identified-using-machine-learning-helpful-in-individual-centric-therapy.md",
-      "title": "165 New Cancer Genes Identified Using Machine Learning; Helpful in Individual-Centric Therapy",
-      "excerpt": "Scientists from the Max Planck Institute for Molecular Genetics (MPIMG) and Institute of Computational Biology of Helmholtz Zentrum München have identified 165 new cancer genes using machine learning",
+      "path": "_news/2021-04-20-python-is-devouring-data-science.md",
+      "title": "Python is devouring data science",
+      "excerpt": "Someone once said that Python’s data science training wheels would increasingly lead to the R language. Boy, was he wrong.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196",
-      "originalUrl": "https://www.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196",
+      "webUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html",
+      "originalUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://data1.ibtimes.co.in/en/full/758247/artificial-intelligence.jpg?w=570&h=380",
-          "width": 570,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196",
-      "publishedDateTime": "2021-04-13T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-microsoft-releases-ai-training-library-zero-3-offload.md",
-      "title": "Microsoft Releases AI Training Library ZeRO-3 Offload",
-      "excerpt": "Microsoft recently open-sourced ZeRO-3 Offload, an extension of their DeepSpeed AI training library that improves memory efficiency while training very large deep-learning models. ZeRO-3 Offload allows users to train models with up to 40 billion parameters on a single GPU and over 2 trillion parameters on 512 GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/04/microsoft-zero3-offload/",
-      "originalUrl": "https://www.infoq.com/news/2021/04/microsoft-zero3-offload/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/04/microsoft-zero3-offload/en/headerimage/microsoft-zero3-offload-header-1617471413275.jpg",
+          "url": "https://images.techhive.com/images/article/2014/04/dna-research-science-medical-advancement-101334656-100264916-large.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 776,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -926,94 +381,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T06:04:00-07:00",
+      "ampWebUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.amp.html",
+      "publishedDateTime": "2021-04-20T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-nvidia-unveils-new-ai-processor-for-self-driving-cars.md",
-      "title": "Nvidia unveils new AI processor for self-driving cars",
-      "excerpt": "Nvidia has introduced the next-generation of artificial intelligence (AI)-enabled processors for autonomous vehicles called Nvidia Drive Atlan. According to Nvidia, Atlan is capable of delivering more than 1,",
-      "sourceUrl": null,
-      "webUrl": "https://electronics360.globalspec.com/article/16583/nvidia-unveils-new-ai-processor-for-self-driving-cars",
-      "originalUrl": "https://electronics360.globalspec.com/article/16583/nvidia-unveils-new-ai-processor-for-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering360 News",
-        "domain": "globalspec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding.md",
-      "title": "Female Co-Founders advance AI translation technology with $5m in VC funding",
-      "excerpt": "Years after being told that she couldn’t be a fighter pilot for the US Airforce because she was female, Language I/O (LIO) Co-Founder and CEO Heather Morgan Shoemaker asked her co-founder, Kaarina Kvaavik,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/language-i-o/female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding/",
-      "originalUrl": "https://techcrunch.com/sponsor/language-i-o/female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Heather-and-Kaarina.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1029,31 +406,673 @@
         "news"
       ],
       "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-how-fintech-is-changing-the-face-of-the-stock-market.md",
+      "title": "How Fintech Is Changing the Face Of the Stock Market",
+      "excerpt": "Several fintech businesses offer services to normal investors which could include a user-friendly, artificial intelligence-based platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/369803",
+      "originalUrl": "https://www.entrepreneur.com/article/369803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1618899844-money-transfer-3588301-19202.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369803",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369803",
+      "publishedDateTime": "2021-04-19T23:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-google-translation-ai-botches-legal-terms-enjoin-garnish-research.md",
+      "title": "Google translation AI botches legal terms ‘enjoin,’ ‘garnish’ – research",
+      "excerpt": "Translation tools from Alphabet Inc's Google and other companies could be contributing to significant misunderstanding of legal terms with conflicting meanings such as \"enjoin,\"",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research",
+      "originalUrl": "https://technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2021/04/2021-04-21T155553Z_1_LYNXMPEH3K18J_RTROPTP_4_HEALTH-CORONAVIRUS-USA-TRAVEL-300x212.jpg",
+          "width": 300,
+          "height": 212,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research/amp",
+      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research/amp",
+      "publishedDateTime": "2021-04-19T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-04-13-appharvest-acquires-robotics-and-ai-company-root-ai.md",
-      "title": "AppHarvest acquires robotics and AI company Root AI",
-      "excerpt": "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting support ...",
+      "path": "_news/2021-04-20-the-ai-arms-race-has-us-on-the-road-to-armageddon.md",
+      "title": "The AI arms race has us on the road to Armageddon",
+      "excerpt": "For now, the AI arms race is a cold war, mostly between the U.S., China, and Russia, but worries are it will become more than that. Driven by fear of other countries gaining the upper hand, the world’s military powers have been competing by leveraging AI for years — dating back at least to 1983 — to achieve an advantage in the balance of power .",
       "sourceUrl": null,
-      "webUrl": "https://www.futurefarming.com/Machinery/Articles/2021/4/AppHarvest-acquires-robotics-and-AI-company-Root-AI-733734E/?intcmp=related-content",
-      "originalUrl": "https://www.futurefarming.com/Machinery/Articles/2021/4/AppHarvest-acquires-robotics-and-AI-company-Root-AI-733734E/?intcmp=related-content",
+      "webUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/",
+      "originalUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/military-AI.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/amp/",
+      "publishedDateTime": "2021-04-19T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models.md",
+      "title": "Enforce VPC rules for Amazon Comprehend jobs and CMK encryption for custom models",
+      "excerpt": "You can now control the Amazon Virtual Private Cloud (Amazon VPC) and encryption settings for your Amazon Comprehend APIs using AWS Identity and Access Management (IAM) condition keys, and encrypt your Amazon Comprehend custom models using customer managed keys (CMK) via AWS Key Management Service (AWS",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/13/1-Architecture1853.jpg",
+          "width": 800,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T05:01:00-07:00",
+      "publishedDateTime": "2021-04-19T16:44:20-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "futurefarming",
-        "domain": "futurefarming.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai.md",
+      "title": "The Forbes 30 Under 30 Asia Startups Unshackling Businesses Using AI",
+      "excerpt": "The four cofounders of South Korean startup Selectstar are among the entrepreneurs in the Enterprise Technology category of this year's Forbes 30 Under 30 Asia list that are using AI technologies to improve everything from drafting legal documents to the way AI itself is trained.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6073b74ced6af72207d03133%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/amp/",
+      "publishedDateTime": "2021-04-19T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-survey-finds-talent-gap-is-slowing-enterprise-ai-adoption.md",
+      "title": "Survey finds talent gap is slowing enterprise AI adoption",
+      "excerpt": "According to an O'Reilly survey, enterprises are struggling to overcome a talent gap in data science, affecting their ability to adopt AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/",
+      "originalUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/amp/",
+      "publishedDateTime": "2021-04-19T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-saudi-aramco-accelerates-employee-expertise-with-conversational-ai-and-enterprise-search.md",
+      "title": "Saudi Aramco accelerates employee expertise with conversational AI and enterprise search",
+      "excerpt": "IBM Watson Discovery reduces research time for scientists by up to 75% Agents using IBM Watson Assistant chatbot handle calls 10% faster In this time of unprecedented change, Saudi Aramco has fully committed to automating the most arduous of their manual processes. By adopting AI-infused workflows and",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-expertise-ai/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-expertise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-58_Tech-M-Blog_Leadspace.png",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T06:00:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-ambow-education-expands-partnership-with-amazon-in-artificial-intelligence-training-for-teachers.md",
+      "title": "Ambow Education Expands Partnership with Amazon in Artificial Intelligence Training for Teachers",
+      "excerpt": "Ambow Education Holding Ltd. (\"Ambow\" or \"the Company\") (NYSE American: AMBO), China's leading provider of educational and career enhancement",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
+      "originalUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/pr-newswire_500_4_966.jpg?itok=n0UX2udW",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp",
+      "publishedDateTime": "2021-04-19T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-want-to-get-along-with-robots-pretend-theyre-animals.md",
+      "title": "Want to Get Along With Robots? Pretend They’re Animals",
+      "excerpt": "Robotics ethicist Kate Darling surveys our history with animals—in work, war, and companionship—to show how we might develop similar relationships with robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/",
+      "originalUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/607a36b98b8cd2f789408f30/master/pass/science_robot_876959718.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/amp",
+      "publishedDateTime": "2021-04-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-ecovacs-robotics-introduces-the-deebot-n8-family-in-thailand.md",
+      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Thailand",
+      "excerpt": "ECOVACS ROBOTICS, the world's leading home service robotics maker, today announces the launch of the DEEBOT N8 Family in Thailand, bringing a hands-free and effectively superior cleaning experience for customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswit.com/en/L7BH",
+      "originalUrl": "https://www.newswit.com/en/L7BH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newswit.com/img/f/20210419/5260a0b19f5d8644725b108b03935f64-0.jpg",
+          "width": 1067,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "academy",
+        "domain": "newswit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-asia-pacific-artificial-intelligence-ai-in-healthcare-market.md",
+      "title": "Asia Pacific Artificial Intelligence (AI) in Healthcare Market",
+      "excerpt": "The Business Market Insights provides you regional research analysis on Asia Pacific Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic indicators and",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
+      "originalUrl": "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U419236836_g.jpg",
+          "width": 563,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
+      "publishedDateTime": "2021-04-19T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years.md",
+      "title": "Baidu Expects to Supply Self-Driving System to 1 Million Cars in 3-5 Years",
+      "excerpt": "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice president at Baidu,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp",
+      "publishedDateTime": "2021-04-18T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-is-boston-dynamics-becoming-a-boring-robotics-company.md",
+      "title": "Is Boston Dynamics becoming a boring robotics company?",
+      "excerpt": "The new Stretch robot from Boston Dynamics doesn't do backflips or dance, but it may become the company's most successful commercial product.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/",
+      "originalUrl": "https://venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/boston-dynamics-robots-spot-handle-atlas-web-summit.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/amp/",
+      "publishedDateTime": "2021-04-18T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing.md",
+      "title": "The New Zealand scientists trying to make brain-controlled robots a thing",
+      "excerpt": "Brain-controlled devices could give people with disabilities or severe injuries new access to the world. But it could also be used to enhance humans, create super soldiers or even transcend the human body entirely.",
+      "sourceUrl": null,
+      "webUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/",
+      "originalUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thespinoff.co.nz/1/2021/04/Robot-arm.jpg",
+          "width": 850,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp",
+      "cdnAmpWebUrl": "https://thespinoff-co-nz.cdn.ampproject.org/c/s/thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp",
+      "publishedDateTime": "2021-04-18T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Spinoff",
+        "domain": "thespinoff.co.nz",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1068,21 +1087,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-13-machine-learning-can-help-slow-down-future-pandemics.md",
-      "title": "Machine learning can help slow down future pandemics",
-      "excerpt": "Artificial intelligence could be one of the keys for limiting the spread of infection in future pandemics. In a new study, researchers at the University of Gothenburg have investigated how machine learning can be used to find effective testing methods during epidemic outbreaks,",
+      "path": "_news/2021-04-19-artificial-intelligence-robotics-new-heights-in-healthcare.md",
+      "title": "Artificial Intelligence, robotics new heights in healthcare",
+      "excerpt": "Artificial Intelligence (AI) and robotics are used in transforming the world of the health industry and also offer an awesome strategy with much care. It puts the customers in control of the health and also the well-being.",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.html",
+      "webUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "originalUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/24-machinelearn.jpg",
-          "width": 1000,
-          "height": 400,
+          "url": "https://www.dailypioneer.com/images/logo.jpg",
+          "width": 325,
+          "height": 325,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1090,13 +1109,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-machine-future-pandemics.amp",
-      "publishedDateTime": "2021-04-13T04:55:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T11:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "The Pioneer",
+        "domain": "dailypioneer.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1106,32 +1125,103 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-18-why-microsofts-new-ai-acquisition-is-a-big-deal.md",
+      "title": "Why Microsoft’s new AI acquisition is a big deal",
+      "excerpt": "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/",
+      "originalUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/",
+      "publishedDateTime": "2021-04-17T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-04-13-nvidia-announces-new-gpu-collaborations-latest-dpu-for-ai-computing-at-data-centres.md",
-      "title": "Nvidia announces new GPU collaborations, latest DPU for AI computing at data centres",
-      "excerpt": "Nvidia announced a series of collaborations that will combine Nvidia GPUs and software with Arm-based GPUs, extending Arm's flexible, energy-efficient architecture to computing workloads from the cloud to the edge.",
+      "path": "_news/2021-04-18-new-to-computer-vision-and-medical-imaging-start-with-these-10-projects.md",
+      "title": "New to computer vision and medical imaging? Start with these 10 projects",
+      "excerpt": "(AI) and computer science that enables automated systems to see, i.e. to process images and video in a human-like manner to detect and identify objects or regions of importance, predict an outcome or",
       "sourceUrl": null,
-      "webUrl": "https://www.telecompaper.com/news/nvidia-announces-new-gpu-collaborations-latest-dpu-for-ai-computing-at-data-centres--1379238",
-      "originalUrl": "https://www.telecompaper.com/news/nvidia-announces-new-gpu-collaborations-latest-dpu-for-ai-computing-at-data-centres--1379238",
+      "webUrl": "https://thenextweb.com/news/computer-vision-and-medical-imaging-start-with-10-projects-beginners-syndication",
+      "originalUrl": "https://thenextweb.com/news/computer-vision-and-medical-imaging-start-with-10-projects-beginners-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 70,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fhero-.png&signature=cd61268df83fc72ad7dcae4ffc028246",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T03:43:00-07:00",
+      "publishedDateTime": "2021-04-17T10:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Telecompaper",
-        "domain": "telecompaper.com",
-        "images": null,
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1140,8 +1230,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "Google AI",
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "Image Recognition Market Size to Reach USD 58920 Million by 2026 at CAGR 15.6% - Valuates Reports"
 excerpt: "Increasing penetration of Smartphones with image recognition technology for authentication, object identification and augmented reality use cases. Increasing adoption of image recognition ..."
 publishedDateTime: 2021-03-31T14:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264522"
-webUrl: "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264522"
+originalUrl: "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264531"
+webUrl: "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264531"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "RIFpmOQPmRGixpVJgfmJouhog+6Wi2AY8pJc4ssdPf9aAgqABOA4KkTAy+Yen6z0rxXR2IBjdnmhWqF35TIQeg6U2yiAUGawy6iPA2Fq0/NyA35UwlSG3wJsLnmBsm6YzK2S46Jlaus+1VIXXWwNW8RT8k+A/f/AKjDOfbVfoNmXgOn2JvwiNT6r+QUvvCNJaUEMR8jC3UhUvKLeB6ep6L6bQwsjS91IvRlHPHdZbAbz9F+DfaOv2M5WaweKTRXB2vox452ZOECCnckPD/pPQqD4Fh8Mq+S3XPzMQEcKF8dcl0Ay6x9NeJMlmBe3+EGZ2GfeE6AK2+XYtoSKWhGjPqXP9ryA1sAkX8SO5XxzWY4=;rC40bQWxx5nrlLh/hyi/9Q=="
+secured: "6/Bh91vSGlZkhnf77gtCnI9WTN1HLgHhNqTb8eIOzoOjimUeIjUGCiH1tEc7tXUM7ndyBlfhQu1aq42MQxYTCx72Vaki4fvJhfbDXmFzjGDl71HK3opgzBFd9P0V5/IC7VeazHmQE3Nxw5VAtOCO263i2EllGrU3zX3qzyakovvMJWYAZQKQXpc2+m82+tnVbxj9EkqQp+88WDpUshA9jBP9gPMEK7x39HHKRnDhlz2MMy+Hu5vczUmMgkuOO3/egRGtpVINyIo4QjK2HDnX21XfO1gW6phjd1Df7MgmXiEOnsKpy6Rd4Kc9QE3NE7qKjtEjfJyo0UmNVF7x5sg8d15nxB0NJFkDSwNABcE2uHw=;kwjB9fvw/rXqYEjXMe6DDA=="
 ---
 

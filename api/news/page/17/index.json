@@ -2,31 +2,22 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2021-03-25-salesforce-introduces-ai-powered-features-to-improve-meetings-and-identify-sales.md",
-      "title": "Salesforce introduces AI-powered features to improve meetings and identify sales",
-      "excerpt": "Salesforce introduced new features in Sales Cloud, including AI-powered meeting insights for video calls and models for opportunity scoring.",
+      "path": "_news/2021-03-30-adversarial-training-reduces-safety-of-neural-networks-in-robots-research.md",
+      "title": "Adversarial training reduces safety of neural networks in robots: Research",
+      "excerpt": "“In a lot of deep learning, machine learning, and artificial intelligence literature, we often see claims that ‘neural networks are not safe for robotics because they are vulnerable to ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/24/youdsalesforce-introduces-ai-powered-features-for-meetings-and-opportunity-scoring/",
-      "originalUrl": "https://venturebeat.com/2021/03/24/youdsalesforce-introduces-ai-powered-features-for-meetings-and-opportunity-scoring/",
+      "webUrl": "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/",
+      "originalUrl": "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/24/youdsalesforce-introduces-ai-powered-features-for-meetings-and-opportunity-scoring/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/24/youdsalesforce-introduces-ai-powered-features-for-meetings-and-opportunity-scoring/amp/",
-      "publishedDateTime": "2021-03-24T12:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T21:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -49,26 +40,27 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI",
-        "AI in Sales"
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2021-03-25-y-combinators-biotech-startups-incubate-a-new-generation-of-therapies-and-tools.md",
-      "title": "Y Combinator’s biotech startups incubate a new generation of therapies and tools",
-      "excerpt": "Curvenote is a shared document platform built with these folks in mind; it integrates with Jupyter, SaturnCloud, and Sagemaker, supports lots of import and export options, integrates visualization ...",
+      "path": "_news/2021-03-30-sophia-the-robot-sells-digital-nft-artwork-for-nearly-700000.md",
+      "title": "Sophia the robot sells digital NFT artwork for nearly $700,000",
+      "excerpt": "Continuing the wave of extraordinary digital art sales manifested by new blockchain-based NFT technology, an artwork co-created by the famous humanoid robot Sophia has now sold for just under US$700,000.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/24/y-combinators-biotech-startups-incubate-a-new-generation-of-therapies-and-tools/",
-      "originalUrl": "https://techcrunch.com/2021/03/24/y-combinators-biotech-startups-incubate-a-new-generation-of-therapies-and-tools/",
+      "webUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
+      "originalUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/forcyte.gif?w=300",
-          "width": 300,
-          "height": 296,
+          "url": "https://assets.newatlas.com/dims4/default/930c08f/2147483647/strip/true/crop/761x507+81+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F44%2F7b%2F8a803840418f86bb4c1a92b9f723%2Fscreen-shot-2021-03-30-at-12.31.32.png",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +68,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/24/y-combinators-biotech-startups-incubate-a-new-generation-of-therapies-and-tools/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/24/y-combinators-biotech-startups-incubate-a-new-generation-of-therapies-and-tools/amp/",
-      "publishedDateTime": "2021-03-24T11:56:00-07:00",
+      "ampWebUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
+      "publishedDateTime": "2021-03-29T18:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "New Atlas",
+        "domain": "newatlas.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -101,26 +93,26 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-03-25-the-trevor-project-enlists-googles-ai-to-help-combat-the-lgbtq-suicide-crisis.md",
-      "title": "The Trevor Project enlists Google’s AI to help combat the LGBTQ suicide crisis",
-      "excerpt": "To accomplish this, the group’s AI division turned to the experts at Google.org to help with funding and know-how. Their combined efforts produced a novel training system called the “Crisis ...",
+      "path": "_news/2021-03-30-object-detection-with-tensorflow.md",
+      "title": "Object Detection, With TensorFlow",
+      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/",
+      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
+      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/trevorsplash-796x396.jpg",
-          "width": 796,
-          "height": 396,
+          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
+          "width": 877,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,9 +120,824 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/amp/",
-      "publishedDateTime": "2021-03-24T10:39:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-smarter-phones-in-your-hacks-with-tensorflow-lite.md",
+      "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
+      "excerpt": "If your neural network was written using Google’s TensorFlow framework then you’ve had the option of using TensorFlow Mobile, but it doesn’t use any of the phone’s accelerated hardware ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
+      "originalUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2017/11/tensor_flow_lite_demo_fe.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-book-review-convergence-of-self-driving-cars-ride-sharing-service-will-bring-urban-transformation.md",
+      "title": "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation",
+      "excerpt": "In the present day, the automotive industry has turned its attention to self-driving cars as its near ... companies including Google, Uber and Baidu are in a fierce competition to gain the lead ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/art/2021/03/142_306295.html?fl",
+      "originalUrl": "https://www.koreatimes.co.kr/www/art/2021/03/142_306295.html?fl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202104/cf8cd12b7ffb4679b4fc9002cc9e8eed.jpg",
+          "width": 980,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
+      "publishedDateTime": "2021-03-29T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-top-ai-companies-in-the-world-creating-massive-disruption.md",
+      "title": "Top AI Companies in the World Creating Massive Disruption",
+      "excerpt": "As AI has become a strong power in business, today’s top AI companies in the world are leaders of this growing technology. Let’s look at the best AI companies in the world playing a critical role in industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-ai-companies-in-the-world-creating-massive-disruption/",
+      "originalUrl": "https://www.analyticsinsight.net/top-ai-companies-in-the-world-creating-massive-disruption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-AI-Companies.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow.md",
+      "title": "Aerobotics improves training speed by 24 times per sample with Amazon SageMaker and TensorFlow",
+      "excerpt": "Editor’s note: This is a guest post written by Michael Malahe, Head of Data at Aerobotics, a South African startup that builds AI-driven tools for agriculture. Aerobotics is an agri-tech company operating in 18 countries around the world, based out of Cape Town, South Africa. Our mission is to provide",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T10:03:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
+      "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
+      "excerpt": "Healthcare was a big area for AI investment. Today, the results of a new survey focusing precisely on the adoption of AI in healthcare are being unveiled. ZDNet caught up with Gradient Flow Principal Ben Lorica, and John Snow Labs CTO David Talby ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "originalUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry.md",
+      "title": "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry",
+      "excerpt": "and the ability to seamlessly connect to the DELFI* cognitive E&P environment from Schlumberger. The Enterprise Data Management Solution is ready for global customers to deploy on Microsoft Azure, ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210329005467/en/Schlumberger-and-Microsoft-Expand-Partnership-to-Bring-Open-Enterprise-Scale-Data-Management-to-the-Energy-Industry",
+      "originalUrl": "https://www.businesswire.com/news/home/20210329005467/en/Schlumberger-and-Microsoft-Expand-Partnership-to-Bring-Open-Enterprise-Scale-Data-Management-to-the-Energy-Industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-energy-industry.md",
+      "title": "Schlumberger and Microsoft expand partnership to bring open, enterprise-scale data management to energy industry",
+      "excerpt": "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU Data Platform optimized for Microsoft Azure LONDON and",
+      "sourceUrl": null,
+      "webUrl": "https://www.miragenews.com/schlumberger-and-microsoft-expand-partnership-536270/",
+      "originalUrl": "https://www.miragenews.com/schlumberger-and-microsoft-expand-partnership-536270/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.defense.gov/2016/May/25/2001544776/1280/1280/0/120213-F-MG591-256.JPG",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Armed robbery in Revesby",
+        "domain": "miragenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-openais-text-generating-system-gpt-3-is-now-spewing-out-45-billion-words-a-day.md",
+      "title": "OpenAI’s text-generating system GPT-3 is now spewing out 4.5 billion words a day",
+      "excerpt": "The best-known AI text-generator is OpenAI’s GPT-3, which the company recently announced is now being used in more than 300 different apps, by “tens of thousands” of developers, and producing 4.5 billion words per day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/3/29/22356180/openai-gpt-3-text-generation-words-day?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/openai-e2-80-99s-text-generating-system-gpt-3-is-now-spewing-out-45-billion-words-a-day/ar-BB1f4UnD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T05:24:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/3/29/22356180/openai-gpt-3-text-generation-words-day?scrolla=5eb6d68b7fedc32c19ef33b4",
+        "domain": "theverge.com/2021/3/29/22356180/openai-gpt-3-text-generation-words-day?scrolla=5eb6d68b7fedc32c19ef33b4",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-book-review-convergence-of-self-driving-cars-ride-sharing-service-will-bring-urban-transformation.md",
+      "title": "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation",
+      "excerpt": "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202104/cf8cd12b7ffb4679b4fc9002cc9e8eed.jpg",
+          "width": 980,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
+      "publishedDateTime": "2021-03-29T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-from-iits-to-harvard-list-of-online-courses-offered-in-artificial-intelligence.md",
+      "title": "From IITs to Harvard - List of Online Courses Offered in Artificial Intelligence",
+      "excerpt": "Artificial Intelligence (AI) is one of the most sought-after courses of study for a long time and is expected to remain in trend for a couple of years to come. Students and working professionals who want to upskill in this emerging technology can pursue several online courses offered by IITs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/from-iits-to-harvard-list-of-online-courses-offered-in-artificial-intelligence-3585221.html",
+      "originalUrl": "https://www.news18.com/news/education-career/from-iits-to-harvard-list-of-online-courses-offered-in-artificial-intelligence-3585221.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/03/1617002289_ignou1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/from-iits-to-harvard-list-of-online-courses-offered-in-artificial-intelligence-3585221.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/from-iits-to-harvard-list-of-online-courses-offered-in-artificial-intelligence-3585221.html",
+      "publishedDateTime": "2021-03-28T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-how-artificial-intelligence-is-transforming-manufacturing.md",
+      "title": "How artificial intelligence is transforming manufacturing",
+      "excerpt": "Artificial intelligence can ingest a combination of data from sensors, machines, and people and then apply it to algorithms designed to optimize operations or achieve lights out manufacturing. Back in reality, we have some time before leading organizations achieve this pinnacle state of manufacturing, let alone the industry as a whole.",
+      "sourceUrl": null,
+      "webUrl": "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=UK",
+      "originalUrl": "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=UK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/07/14113149/shutterstock_732658279-e1594206468206.jpg",
+          "width": 1920,
+          "height": 1147,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "themanufacturer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-the-lab-of-the-future-is-now.md",
+      "title": "The lab of the future is now",
+      "excerpt": "Members include industrial and academic researchers. IBM followed up its chess win with a second popular showcase for AI by introducing Watson, a question-answering computer, as a contestant on ...",
+      "sourceUrl": null,
+      "webUrl": "https://cen.acs.org/business/informatics/lab-future-ai-automated-synthesis/99/i11",
+      "originalUrl": "https://cen.acs.org/business/informatics/lab-future-ai-automated-synthesis/99/i11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T17:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C&EN",
+        "domain": "acs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-neural-network-knows-when-cat-wants-to-go-outside.md",
+      "title": "Neural Network Knows When Cat Wants To Go Outside",
+      "excerpt": "A Python script regularly captures images and passes them to a TensorFlow neural network for object recognition. The TensorFlow network returns object type and positions to the Python script.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/",
+      "originalUrl": "https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/12/0800.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-the-tiniest-computer-vision-platform-just-got-better.md",
+      "title": "The Tiniest Computer Vision Platform Just Got Better",
+      "excerpt": "The future, if you believe the ad copy, is a world filled with cameras backed by intelligence, neural nets, and computer vision. Despite the hype, this may actually turn out to be true ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
+      "originalUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/09/openmvheader.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-can-artificial-intelligence-replace-human-therapists.md",
+      "title": "Can artificial intelligence replace human therapists?",
+      "excerpt": "Websites, smartphone apps and social-media sites are dispensing mental-health advice, often using artificial intelligence ... for less money than traditional therapy. The algorithms underpinning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists-11616917093082.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists-11616917093082.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/03/28/600x338/AI-kkGH--621x414@LiveMint_1616917196222.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists/amp-11616917093082.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists/amp-11616917093082.html",
+      "publishedDateTime": "2021-03-28T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-ai-weekly-algorithms-accountability-and-regulating-big-tech.md",
+      "title": "AI Weekly: Algorithms, accountability, and regulating Big Tech",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. This week, Facebook CEO Mark Zuckerberg, Google CEO Sundar Pichai, and Twitter CEO Jack Dorsey went back to Congress,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/",
+      "originalUrl": "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/facebook-google-twitter-logos.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/amp/",
+      "publishedDateTime": "2021-03-26T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-how-yandex-plans-to-expand-its-autonomous-robot-delivery-service.md",
+      "title": "How Yandex plans to expand its autonomous robot delivery service",
+      "excerpt": "Yandex plans to expand its autonomous delivery service to the U.S. and elsewhere. Here's how it hopes to accomplish this.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/",
+      "originalUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/YandexRover_delivery_robot.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/amp/",
+      "publishedDateTime": "2021-03-26T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-robotics-firm-uipath-files-for-ipo-after-35b-valuation.md",
+      "title": "Robotics Firm UiPath Files for IPO After $35B Valuation",
+      "excerpt": "UiPath, the New York robotics automation company, filed for an initial public offering after raising capital at a $35 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
+      "originalUrl": "https://www.thestreet.com/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.jwplatform.com/thumbs/xH61MO4x-720.jpg",
+          "width": 720,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
+      "publishedDateTime": "2021-03-26T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-report-apples-been-snapping-up-ai-firms-to-make-siri-smarter.md",
+      "title": "Report: Apple’s been snapping up AI firms to make Siri smarter",
+      "excerpt": "Apple was the leading buyer of AI companies between 2016 and 2020, and many of the acquisitions were focused on Siri, according to research by GlobalData.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/26/report-apples-been-snapping-up-ai-firms-to-make-siri-smarter/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/26/report-apples-been-snapping-up-ai-firms-to-make-siri-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/header-image-tim-cook-Apple-financials-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/26/report-apples-been-snapping-up-ai-firms-to-make-siri-smarter/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/26/report-apples-been-snapping-up-ai-firms-to-make-siri-smarter/amp/",
+      "publishedDateTime": "2021-03-26T12:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Next Web",
@@ -153,25 +960,26 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
-      "path": "_news/2021-03-25-artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts.md",
-      "title": "Artificial Intelligence Could Have Helped Alleviate Suffering From Texas Blackouts",
-      "excerpt": "While debates as to the root causes of the recent failure of the Texas power grid are likely to go on for months, energy experts contend that the introduction of artificial intelligence (AI) into the management of the grid could have alleviated some of the worst effects of the power shutdown.",
+      "path": "_news/2021-03-27-computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move.md",
+      "title": "Computer vision software has the potential to reinvent the way cities move",
+      "excerpt": "The same frustrations have plagued urban roadways for decades. But technology is finally providing new ways to address the challenges of crowding, pollution and parking enforcement on city streets.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/",
-      "originalUrl": "https://www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/",
+      "webUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/",
+      "originalUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b7edbbed55be5d6f63f2f%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-951157764.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -179,16 +987,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/amp/",
-      "publishedDateTime": "2021-03-24T10:14:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/amp/",
+      "publishedDateTime": "2021-03-26T12:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -196,221 +1004,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-natural-language-processing-nlp-market-by-new-business-developments-innovations-and-top-companies-a-forecast-to-2026.md",
-      "title": "Natural Language Processing (NLP) Market by New Business Developments, Innovations, And Top Companies â Forecast To 2026",
-      "excerpt": "In 2019, the global Natural Language Processing (NLP) market size was US$ 854.6 million and it is expected to reach US$ 3121.5 million by the end of 2026, with a CAGR of 20.1% during 2021-2026. Request a sample Report of Natural Language Processing (NLP) Market at:  The major vendors include 3M,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/26/latest-updated-report-on-global-label-applicators-market-2021-covid-19-impact-share-trend-segmentation-and-forecast-to-2028-weber-herma-primeras-label-take-a-label/?random-post=1",
-      "originalUrl": "https://ksusentinel.com/2021/03/26/latest-updated-report-on-global-label-applicators-market-2021-covid-19-impact-share-trend-segmentation-and-forecast-to-2028-weber-herma-primeras-label-take-a-label/?random-post=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-researchers-developed-an-ai-backpack-system-to-guide-vision-impaired-wearers.md",
-      "title": "Researchers developed an AI backpack system to guide vision-impaired wearers",
-      "excerpt": "The backpack uses a Luxonis OAK-D spatial camera, which has an on-chip edge AI processor and uses Intel's Movidius image processing tech. The 4K camera, which captures depth information as well as color images, is packed inside a vest or fanny pack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ai-backpack-system-visually-impaired-intel-university-of-georgia-150025561.html",
-      "originalUrl": "https://www.engadget.com/ai-backpack-system-visually-impaired-intel-university-of-georgia-150025561.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-03/8c6dde50-8cb2-11eb-a779-9989ea912ca8",
-          "width": 678,
-          "height": 391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network.md",
-      "title": "Soft-bodied Robots More Efficient With New Deep Learning Neural Network",
-      "excerpt": "Alexander Amini is co-lead author of the research along with Andrew Spielberg, both PhD students in MIT Computer Science and Artificial Intelligence Laboratory. The research was published in IEEE Robotics and Automation Letters with other co-authors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network/",
-      "originalUrl": "https://www.unite.ai/soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/03/artificial-intelligence-2228610__480.jpg",
-          "width": 767,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-artificial-intelligence-ai-robots-market-is-set-to-develop-new-growth-story-abb-fanuc-kuka-amazon.md",
-      "title": "Artificial Intelligence (AI) Robots Market is Set to Develop New Growth Story | ABB, Fanuc, Kuka, Amazon",
-      "excerpt": "The latest research on Global Artificial Intelligence AI Robots Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
-      "originalUrl": "https://www.openpr.com/news/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U324252805_g.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
-      "publishedDateTime": "2021-03-24T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-apple-tightens-partner-security-rules-forbids-facial-recognition-of-its-employees.md",
-      "title": "Apple tightens partner security rules, forbids facial recognition of its employees",
-      "excerpt": "New rules for manufacturers working with Apple reportedly include severe limits on biometric scans of Apple staff on premises, yet encourages greater use of security cameras for factory workers.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees",
-      "originalUrl": "https://appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/40997-79270-000-Facial-scanning-xl.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees/amp/",
-      "publishedDateTime": "2021-03-24T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -420,27 +1013,69 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI in Security"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-03-24-artificial-intelligence-healthcare-arkq-is-investing-in-the-future.md",
-      "title": "Artificial Intelligence. Healthcare. ‘ARKQ’ Is Investing in the Future",
-      "excerpt": "Artificial intelligence (AI) is seen driving a new breed of innovation in the healthcare arena. “Digital tools can help. In just one example, clinicians around the world are usi",
+      "path": "_news/2021-03-27-watch-the-role-of-artificial-intelligence-in-auto-finance.md",
+      "title": "Watch: The role of artificial intelligence in auto finance",
+      "excerpt": "Auto lenders are turning to artificial intelligence (AI) and machine learning to increase efficiencies, improve customer service and expand marketing endeavors. Yet, incorporating new technology stacks poses challenges that financiers will need to navigate in order to take full advantage of the opportunities AI offers.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24",
-      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24",
+      "webUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/",
+      "originalUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autofinancenews.net/wp-content/uploads/2017/10/favicon-1.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/amp/",
+      "cdnAmpWebUrl": "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/amp/",
+      "publishedDateTime": "2021-03-26T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auto Finance News",
+        "domain": "autofinancenews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-how-microsoft-azure-is-powering-digital-transformation-from-the-cloud.md",
+      "title": "How Microsoft Azure is Powering Digital Transformation From the Cloud",
+      "excerpt": "Here’s an overview of its journey so far, and how it’s working to boost Microsoft Azure. In FY 2014 (July-June), Microsoft reported that its commercial cloud revenue hit a $4.4 billion annual run-rate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-microsoft-azure-is-powering-digital-transformation-from-the-cloud-2021-03-26",
+      "originalUrl": "https://www.nasdaq.com/articles/how-microsoft-azure-is-powering-digital-transformation-from-the-cloud-2021-03-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp",
-      "publishedDateTime": "2021-03-24T06:27:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-26T12:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -454,700 +1089,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-orange-forms-ai-data-ethics-council.md",
-      "title": "Orange forms AI, data ethics council",
-      "excerpt": "Orange continued efforts around defining ethical principles for use of data and AI, creating an advisory body comprised of 11 independent field experts to oversee its implementation of related technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council",
-      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS-e1607946380220.jpg?fit=600%2C375&#038;ssl=1",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council/amp",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council/amp",
-      "publishedDateTime": "2021-03-24T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-rovcos-robotics-spin-off-vaarst-open-for-business.md",
-      "title": "Rovco's Robotics Spin-off Vaarst Open for Business",
-      "excerpt": "Vaarst, an offshore robotics technology spin-off from ROV-services firm Rovco, was formally launched Wednesday.Vaarst says its",
-      "sourceUrl": null,
-      "webUrl": "https://www.oedigital.com/news/486296-rovco-s-robotics-spin-off-vaarst-open-for-business",
-      "originalUrl": "https://www.oedigital.com/news/486296-rovco-s-robotics-spin-off-vaarst-open-for-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.oedigital.com/images/magazines/w300/OffshoreEngineer-202101-page1.png",
-          "width": 299,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oedigital.com/amp/news/486296-rovco-s-robotics-spin-off-vaarst-open-for-business",
-      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/486296-rovco-s-robotics-spin-off-vaarst-open-for-business",
-      "publishedDateTime": "2021-03-24T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "oedigital.com",
-        "domain": "oedigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-the-biggest-changes-ai-can-make-for-retailers.md",
-      "title": "The Biggest Changes AI Can Make For Retailers",
-      "excerpt": "Making AI uncomplicated. Retailers are always on the lookout for ways to make themselves more competitive — trends in advertising, social media channels to leverage, new takes on email and online marketing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/24/the-biggest-changes-ai-can-make-for-retailers/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/24/the-biggest-changes-ai-can-make-for-retailers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8ef32c53de1add7201f44a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/24/the-biggest-changes-ai-can-make-for-retailers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/24/the-biggest-changes-ai-can-make-for-retailers/amp/",
-      "publishedDateTime": "2021-03-24T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-amazon-delivery-drivers-have-to-consent-to-ai-surveillance-in-their-vans-or-lose-their-jobs.md",
-      "title": "Amazon delivery drivers have to consent to AI surveillance in their vans or lose their jobs",
-      "excerpt": "But after installing machine learning-powered surveillance cameras in its delivery vans earlier this year, the company is now telling employees: agree to be surveilled by AI or lose your job. As first reported by Vice, Amazon delivery drivers in the US now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/3/24/22347945/amazon-delivery-drivers-ai-surveillance-cameras-vans-consent-form",
-      "originalUrl": "https://www.theverge.com/2021/3/24/22347945/amazon-delivery-drivers-ai-surveillance-cameras-vans-consent-form",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/VzOCdKgXn64AZFULAJ_nsME2304=/0x0:4000x2667/1400x933/filters:focal(1680x1014:2320x1654):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69016517/1230412848.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/3/24/22347945/amazon-delivery-drivers-ai-surveillance-cameras-vans-consent-form",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/24/22347945/amazon-delivery-drivers-ai-surveillance-cameras-vans-consent-form",
-      "publishedDateTime": "2021-03-24T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-global-ai-in-computer-vision-market-2020-remarking-enormous-growth-with-recent-trends-demand.md",
-      "title": "Global AI In Computer Vision Market 2020 Remarking Enormous Growth with Recent Trends & Demand",
-      "excerpt": "ZMR analysts forecast the latest report on AI In Computer Vision Market Size continues to grow from 2020 to 2026, according to their latest report. The report on the global “Global AI In Computer Vision Market 2020 Remarking Enormous Growth with Recent ...",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/23/inspection-drones-in-electric-power-market-growth-opportunities-industry-analysis-size-share-geographic-segmentation-competitive-landscape-report-to-2027/?random-post=1",
-      "originalUrl": "https://ksusentinel.com/2021/03/23/inspection-drones-in-electric-power-market-growth-opportunities-industry-analysis-size-share-geographic-segmentation-competitive-landscape-report-to-2027/?random-post=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-is-coffee-good-for-us-maybe-machine-learning-can-help-figure-it-out.md",
-      "title": "Is Coffee Good for Us? Maybe Machine Learning Can Help Figure It Out.",
-      "excerpt": "The advice from research on coffee, and nutrition more generally, always seems to be changing. Processing vast amounts of data could help us pin it down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/28/magazine/28Mag-StudiesShow-1/28Mag-StudiesShow-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.amp.html",
-      "publishedDateTime": "2021-03-24T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantagecom-amazon-web-services-inc-samsung.md",
-      "title": "AI in Fintech Market Growth by Global Key Players: IBM Corporation, Intel Corporation, ComplyAdvantage.com, Amazon Web Services, Inc., Samsung Group",
-      "excerpt": "The computational arms race for past years has revolutionized the Fintech companies. AI and machine learning have benefited the banks and fintechs as they can process huge amounts of information about customers.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/24/ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantage-com-amazon-web-services-inc-samsung-group/",
-      "originalUrl": "https://ksusentinel.com/2021/03/24/ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantage-com-amazon-web-services-inc-samsung-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-how-blockchain-and-machine-learning-can-deliver-the-promise-of-omnichannel-marketing.md",
-      "title": "How blockchain and machine learning can deliver the promise of omnichannel marketing",
-      "excerpt": "Researchers from University of Minnesota, New York University, University of Pennsylvania, BI Norwegian Business School, University of Michigan, National Bureau of Economic Research, and University of North Carolina published a new paper in the Journal of Marketing that examines how advances in machine learning (ML) and blockchain can address inherent frictions in omnichannel marketing and raises many questions for practice and research.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-blockchain-machine-omnichannel.html",
-      "originalUrl": "https://phys.org/news/2021-03-blockchain-machine-omnichannel.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-blockchain.jpg",
-          "width": 1920,
-          "height": 1439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-blockchain-machine-omnichannel.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-blockchain-machine-omnichannel.amp",
-      "publishedDateTime": "2021-03-24T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-fintech-startup-qraft-technologies-raises-9-mn-from-smilegate-investments.md",
-      "title": "Fintech Startup Qraft Technologies Raises $9 Mn From Smilegate Investments",
-      "excerpt": "Seoul-based fintech company Qraft Technologies, which uses artificial intelligence (AI) to create and manage exchange-traded funds (ETFs), announced on Tuesday to have closed a funding round worth $9 million. Veteran South Korea-based venture capital (VC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/367792",
-      "originalUrl": "https://www.entrepreneur.com/article/367792",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1616568382-CEO-Marcus-Kim-1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/367792",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367792",
-      "publishedDateTime": "2021-03-23T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-nyts-kevin-roose-robots-and-ai-have-potential-to-replace-white-collar-jobs.md",
-      "title": "NYT's Kevin Roose: Robots and AI have potential to replace white-collar jobs",
-      "excerpt": "Consulting firm McKinsey predicts automation will take over the workplace with 45 million U.S. workers displaced by 2030. Kevin Roose, a columnist at The New York Times, says \"robots will be the ones to climb the corporate ladder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/03/23/nyts-kevin-roose-robots-and-ai-have-potential-to-replace-white-collar-jobs.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/03/23/nyts-kevin-roose-robots-and-ai-have-potential-to-replace-white-collar-jobs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106858389-16165437791616543776-14971760142-1080pnbcnews.jpg?v=1616543778",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-vmware-and-nvidia-bring-a100-gpus-to-vsphere-7-to-virtualize-ai-acceleration.md",
-      "title": "VMware And NVIDIA Bring A100 GPUs To vSphere 7 To Virtualize AI Acceleration",
-      "excerpt": "With vSphere 7 Update 2 and NVIDIA AI Enterprise suite, the A100 GPU becomes available to VMware customers running AI workloads in the enterprise data center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/23/vmware-and-nvidia-bring-a100-gpus-to-vsphere-7-to-virtualize-ai-acceleration/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/23/vmware-and-nvidia-bring-a100-gpus-to-vsphere-7-to-virtualize-ai-acceleration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60583db2404355d3e27ca8ff%2F0x0.jpg",
-          "width": 1000,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/23/vmware-and-nvidia-bring-a100-gpus-to-vsphere-7-to-virtualize-ai-acceleration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/23/vmware-and-nvidia-bring-a100-gpus-to-vsphere-7-to-virtualize-ai-acceleration/amp/",
-      "publishedDateTime": "2021-03-23T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-disney-begins-testing-facial-recognition-software.md",
-      "title": "Disney begins testing facial recognition software",
-      "excerpt": "Park goers entering the Magic Kingdom at Walt Disney World Resort can opt-in to testing Disney’s new facial recognition software. This segment aired as part of KTLA 5 Live on March 23, 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/5-live/disney-begins-testing-facial-recognition-software/",
-      "originalUrl": "https://ktla.com/5-live/disney-begins-testing-facial-recognition-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2021/03/download-4-1.png?w=1280",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ktla.com/5-live/disney-begins-testing-facial-recognition-software/amp/",
-      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/5-live/disney-begins-testing-facial-recognition-software/amp/",
-      "publishedDateTime": "2021-03-23T18:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-major-flaws-found-in-machine-learning-for-covid-19-diagnosis.md",
-      "title": "Major flaws found in machine learning for COVID-19 diagnosis",
-      "excerpt": "High levels of bias and not enough high quality data plague machine learning for COVID-19 diagnosis and prognosis, an analysis found.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/",
-      "originalUrl": "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/NVIDIA-CLARA.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/amp/",
-      "publishedDateTime": "2021-03-23T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-global-ai-in-fashion-market-2020-remarking-enormous-growth-with-recent-trends-demand.md",
-      "title": "Global AI in Fashion Market 2020 Remarking Enormous Growth with Recent Trends & Demand",
-      "excerpt": "The major players in the global market are Microsoft, IBM, Google, Facebook, Adobe, AWS, SAP, Oracle, Huawei, Vue.ai, Catchoom, Heuritech ... latest technological advancements. Zion Market Research is an obligated company. We create futuristic, cutting ...",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/24/global-ai-in-fashion-market-2020-remarking-enormous-growth-with-recent-trends-demand/",
-      "originalUrl": "https://ksusentinel.com/2021/03/24/global-ai-in-fashion-market-2020-remarking-enormous-growth-with-recent-trends-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser.md",
-      "title": "TuSimple IPO Filing Shows Self-Driving Trucks Still a Money-Loser",
-      "excerpt": "The startup lost $178 million last year, reflecting how the company is still in the early stages of developing commercially ready technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572",
-      "originalUrl": "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-315504/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572",
-      "publishedDateTime": "2021-03-23T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
+        "Microsoft AI",
         "AI"
       ]
     }

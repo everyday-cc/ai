@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 204
 published: true
 
 provider:
@@ -31,169 +31,130 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon, Microsoft Team Against Facial Recognition Lawsuits"
-    excerpt: "Cloud-computing and major tech company rivals Amazon and Microsoft have now teamed up to defend themselves against twin lawsuits that are challenging how the companies built their facial recognition software."
-    publishedDateTime: 2021-04-16T16:37:00Z
-    webUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html"
-    ampWebUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
+  - title: "Microsoft’s acquisition of Nuance tells us a lot about its AI strategy"
+    excerpt: "The acquisition is Microsoft’s biggest since the $26-billion purchase of LinkedIn. And it tells a lot about Microsoft’s AI strategy."
+    publishedDateTime: 2021-04-21T07:34:00Z
+    webUrl: "https://thenextweb.com/news/microsofts-acquisition-of-nuance-tells-us-a-lot-about-its-ai-strategy-syndication"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 91
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
-        width: 927
-        height: 626
-        isCached: true
-  - title: "Microsoft’s latest acquisition shows speech recognition is big business"
-    excerpt: "Microsoft this week announced it will acquire Nuance, a Boston-based speech recognition and artificial intelligence company, for around $16 billion. It’s the company’s largest acquisition after LinkedIn and a big bet on speech recognition technology."
-    publishedDateTime: 2021-04-16T03:20:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business?amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 76
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/04/GettyImages-927963448-edited.jpg?fit=740%2C420"
-        width: 740
-        height: 420
-        isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Sector Market May See a Big Move: Oracle, JP Morgan, Microsoft, IP soft, Intel, Google"
-    excerpt: "Global Artificial Intelligence (AI) in BFSI Sector Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2020 COVID-19 Worldwide Spread) is latest research study released by HTF MI evaluating the market,"
-    publishedDateTime: 2021-04-16T23:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-sector-market-may-see-a-big-move-oracle-jp-morgan-microsoft-ip-soft-intel-google-2021-04-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fmicrosoft-nuance-acquisition.jpeg&signature=addb758bbb3143952cd453b6387d1063"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "New Deep Learning AI Tool Can Revolutionize Microscopy"
-    excerpt: "An AI tool developed at the University of Gothenburg offers new opportunities for analyzing images taken with microscopes. A study shows that the tool, which has already received international recognition,"
-    publishedDateTime: 2021-04-14T23:26:00Z
-    webUrl: "https://scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/"
-    ampWebUrl: "https://scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/amp/"
+  - title: "Authentic Azure AI Engineer Associate Microsoft AI-100 Exam Dumps [2021]"
+    excerpt: "Prepare your AI-100 exam questions with Dumps2GO Microsoft AI-100 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AI-100 test because of your Azure AI Engineer Associate AI-100 certification exam fear?"
+    publishedDateTime: 2021-04-21T04:11:00Z
+    webUrl: "https://www.madinamerica.com/author/download-ai-100-exam-dumps/"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 74
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 68
     images:
-      - url: "https://scitechdaily.com/images/Neural-Network-Used-to-Retrieve-Information-From-Microscope-Image-777x777.jpg"
-        width: 777
-        height: 777
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
         isCached: true
-  - title: "SmartStream introduces data management AI on Microsoft Azure"
-    excerpt: "SmartStream Technologies, the financial Transaction Lifecycle Management (TLM®) solutions provider today announces the launch of SmartStream Air version 3, designed to support global clients on the Microsoft Azure platform,"
-    publishedDateTime: 2021-04-14T08:40:00Z
-    webUrl: "https://www.finextra.com/pressarticle/87087/smartstream-introduces-data-management-ai-on-microsoft-azure"
+  - title: "Updated Microsoft AI-100 Exam Dumps [2021] Azure AI Engineer Associate Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft AI-100 exam with ITExamQuestions AI-100 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-100 Microsoft Designing and Implementing an Azure AI Solution exam?"
+    publishedDateTime: 2021-04-18T21:55:00Z
+    webUrl: "https://www.madinamerica.com/author/download-real-ai-100-exam-dumps/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 69
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 64
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
         isCached: true
-  - title: "Amazon and Microsoft team up to defend against facial recognition lawsuits"
-    excerpt: "Two Illinois residents have contended that Microsoft and Amazon illegally profited off their biometric information when the tech giants used the plaintiffs' images to help train facial recognition algorithms."
-    publishedDateTime: 2021-04-16T01:12:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
+  - title: "Microsoft’s $20 billion AI deal will shake up how we work"
+    excerpt: "AI specialist Nuance Communications Inc. shows it’s willing to spend a lot of money to do it. Microsoft said on Monday that had agreed to buy Nuance Communications Inc. for about $56 a share, or almost $20 billion including debt."
+    publishedDateTime: 2021-04-19T19:00:00Z
+    webUrl: "https://www.postbulletin.com/business/technology/6990454-Microsoft’s-20-billion-AI-deal-will-shake-up-how-we-work"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 69
-  - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
-    excerpt: "So we continue to invest in a really big way in things like Azure Machine Learning, Azure Cognitive Services and effectively enable customers to transform their digital infrastructure in ways that are profound. It’s beyond saying that, “Hey ..."
-    publishedDateTime: 2021-04-13T17:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
+      name: Post-Bulletin
+      domain: postbulletin.com
     quality: 54
     images:
-      - url: "https://www.crn.com/resources/0268-12082f505be3-471dce422408-1000/john-jg-chirapurath-microsoft.jpg"
-        width: 610
-        height: 457
+      - url: "https://www.postbulletin.com/incoming/6990458-skdixu-Microsoft-AI-deal/alternates/BASE_LANDSCAPE/Microsoft%20AI%20deal"
+        width: 1140
+        height: 712
         isCached: true
-  - title: "Microsoft flexes speech recognition muscle with US$19.7B Nuance acquisition"
-    excerpt: "Microsoft has agreed terms to purchase leading speech recognition software maker Nuance Communications for US$19.7 billion. The acquisition is expected to"
-    publishedDateTime: 2021-04-14T09:22:00Z
-    webUrl: "https://techhq.com/2021/04/microsoft-flexes-speech-recognition-muscle-with-us19-7b-nuance-acquisition/"
+  - title: "Cloud rivals AWS, Microsoft compete in a new arena: specialized AI services"
+    excerpt: "AWS and its chief competitor, Microsoft Corp., are now fine-tuning their cloud offerings, developing highly specialized products, most often with AI, that can be targeted at specific industries."
+    publishedDateTime: 2021-04-19T02:35:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/18/aws-microsoft-cloud-ai-services.html"
     type: article
     provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/04/000_97U8YD.jpg"
-        width: 1024
-        height: 666
-        isCached: true
-  - title: "What to know about Microsoft’s Azure cloud strategy"
-    excerpt: "The global coronavirus pandemic has validated Microsoft’s hybrid go-to-market strategy that recognises the cloud is not a one-size-fits-all solution and providers must meet customers where they are on their digital transformation journeys,"
-    publishedDateTime: 2021-04-13T22:45:00Z
-    webUrl: "https://www.crn.com.au/news/what-to-know-about-microsofts-azure-cloud-strategy-563319"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210414094154_iStock-471179856.jpg"
-        width: 1254
-        height: 836
-        isCached: true
-  - title: "Why Microsoft’s $19bn acquisition of Nuance makes sense"
-    excerpt: "translation, conversational platforms and natural language generation,” the report’s authors wrote. Forrester principal analyst Kjell Carlsson said voice analysis, where the AI is tasked with ..."
-    publishedDateTime: 2021-04-14T10:11:00Z
-    webUrl: "https://www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense"
-    ampWebUrl: "https://www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense?amp=1"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 49
+  - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
+    excerpt: "Software giant wants give end-users a ‘tangible view’ of the inner workings of its public cloud through its newly launched virtual tour experience."
+    publishedDateTime: 2021-04-20T09:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour"
+    ampWebUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
     type: article
     provider:
       name: Computer Weekly
       domain: computerweekly.com
-    quality: 41
-  - title: "Microsoft’s share price pops after Nuance acquisition"
-    excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
-    publishedDateTime: 2021-04-16T12:25:00Z
-    webUrl: "https://www.cmcmarkets.com/en-au/opto/microsofts-share-price-pops-after-nuance-acquisition"
+    quality: 44
+  - title: "G Suite Technology Services Market – Microsoft’s Hold over Larger Organization Unchallenged, Reveals Fact.MR"
+    excerpt: "G Suite technology services market reported a revenue generation of nearly US$ 214 Mn in 2017 and is expected to witness a 1.2x growth in 2018, according to Fact.MR estimations. Overall market growth is likely to be driven by,"
+    publishedDateTime: 2021-04-20T21:05:00Z
+    webUrl: "https://www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
     type: article
     provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 41
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 40
     images:
-      - url: "https://assets.cmcmarkets.com/images/Microsoft1604_medium.jpg"
-        width: 768
-        height: 576
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/04/report-1-10.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "InnovoEdge Joins Microsoft for Startups Program"
-    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to help business to business (B2B) startups scale with access to technology,"
-    publishedDateTime: 2021-04-15T14:48:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-df5007d4687cf8a9239ab6e8d22518c4"
+  - title: "UK government agrees new three-year deal with Microsoft"
+    excerpt: "The UK government has signed a new three-year Memorandum of Understanding (MOU) with Microsoft to give the public sector specialist discounts for the vendor's services. The Digital Transformation Arrangement 2021 (DTA21) will see eligible organisations granted access to 365,"
+    publishedDateTime: 2021-04-21T14:14:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4030202/uk-government-agrees-deal-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 39
+    images:
+      - url: "https://www.channelweb.co.uk/api/v1/wps/9741a46/515805b7-19a2-4320-917b-c56e319c031f/2/whitehall-government-it-cloud-computing-money-savings-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
+    publishedDateTime: 2021-04-20T16:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 30
+  - title: "Prevencio Announces Laboratory Commercialization Partnership with Atlas Genomics Incorporating Microsoft’s AI-computing Cloud"
+    excerpt: "Prevencio, Inc. today announces an Agreement with Atlas Genomics to commercially launch its highly accurate, AI-driven HART blood tests for heart disease and risk of heart attack, stroke, and cardiovascular death."
+    publishedDateTime: 2021-04-21T14:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/health-science-technology-business-77896c9ed77048668233ecd552c5913e"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 39
+    quality: 27
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

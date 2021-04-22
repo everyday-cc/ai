@@ -2,6 +2,353 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-03-how-to-train-a-robot-using-artificial-intelligence-and-supercomputers.md",
+      "title": "How to Train a Robot (Using Artificial Intelligence and Supercomputers)",
+      "excerpt": "UT Arlington computer scientists use TACC systems to generate synthetic objects for robot training. Before he joined the University of Texas at Arlington as an Assistant Professor in the Department of Computer Science and Engineering and founded the Robotic Vision Laboratory there,",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/",
+      "originalUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/AI-Derived-3D-Point-Clouds-for-Robotic-Vision-Training-777x454.jpg",
+          "width": 777,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/amp/",
+      "publishedDateTime": "2021-04-02T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates.md",
+      "title": "HAI ROBOTICS, the Shenzhen-based ACR pioneer, receives IFOY AWARD 2021 “Best in Intralogistics” certificates",
+      "excerpt": "Based in Shenzhen, the powerhouse of ICT industry in China, HAI ROBOTICS has been developing AI powered ACR systems since 2015 and ... of the Shenzhen based ACR systems pioneer’s strong head start of a fast expansion to the global markets.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-asia-greater-china-fe0450884b36ab2dc44540944e1fa6fd",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-asia-greater-china-fe0450884b36ab2dc44540944e1fa6fd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-lounge-lab-unveils-aris-capsule-based-ice-cream-robot-customizable-with-10-flavors-and-3-shapes.md",
+      "title": "LOUNGE LAB Unveils 'ARIS', Capsule-Based Ice Cream Robot Customizable with 10 Flavors and 3 Shapes",
+      "excerpt": "About LOUNGE LAB INC. LOUNGE LAB is a retail tech start-up founded based on \"We Augment Space with Technology.\" Currently, we are operating a robot-barista collaboration cafe, LOUNGE'X, and an AI-based unmanned store. Dr. Hwang Sungjae is our CEO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/04/ac20464632/lounge-lab-unveils-aris-capsule-based-ice-cream-robot-customizable-with-10-flavors-and-3-shapes",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/ac20464632/lounge-lab-unveils-aris-capsule-based-ice-cream-robot-customizable-with-10-flavors-and-3-shapes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/638740/image-20210402192307-1.jpeg",
+          "width": 900,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20464632",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20464632",
+      "publishedDateTime": "2021-04-02T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally.md",
+      "title": "Karachi students introduce another version of mind-controlled prosthetic arm, not yet available globally.",
+      "excerpt": "Despite the students’ claim, mind-controlled prosthetics are nothing new, and a group of Pakistani engineers successfully created a similar robotic arm controlled by the brain, also as part of their final year project back in 2019. Some 30 disabled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techjuice.pk/karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally/",
+      "originalUrl": "https://www.techjuice.pk/karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techjuice.pk/wp-content/uploads/2021/04/Untitled.png",
+          "width": 1303,
+          "height": 709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techjuice.pk",
+        "domain": "techjuice.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-mit-robot-sees-hidden-objects-with-radio-waves.md",
+      "title": "MIT Robot Sees Hidden Objects with Radio Waves",
+      "excerpt": "The robot, known as RF-Grasp, has traditional cameras for object recognition. The camera is mounted to the bot’s mechanical grasper, giving it a good view of anything the hand might be trying to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
+      "originalUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2021/04/rf-grasp.jpg",
+          "width": 672,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-three-stocks-to-profit-from-the-robot-revolution.md",
+      "title": "Three stocks to profit from the robot revolution",
+      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
+      "sourceUrl": null,
+      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.moneyweek.com/image/private/s--c8ThaiIG--/v1583342977/covers-etc/989-Cover.jpg",
+          "width": 600,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
+      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
+      "publishedDateTime": "2021-04-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyWeek",
+        "domain": "moneyweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-ecovacs-robotics-introduces-the-deebot-n8-pro-in-malaysia-to-provide-hands-free-and-effective-home-cleaning-experience.md",
+      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 PRO In Malaysia to Provide Hands-free and Effective Home Cleaning Experience",
+      "excerpt": "The DEEBOT N8 PRO dToF laser detection has doubled the distance recognition capabilities with a four-fold improvement in object recognition. Detection distance is enhanced to 10 meters ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-pro-malaysia-provide-hands-free-and-effective-home",
+      "originalUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-pro-malaysia-provide-hands-free-and-effective-home",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/N8-PRO-3_0.jpg?itok=hnGcWXo9",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-pro-malaysia-provide-hands-free-and-effective-home?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-pro-malaysia-provide-hands-free-and-effective-home?amp",
+      "publishedDateTime": "2021-04-01T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-articulos-sobre-artificial-intelligence-ai.md",
+      "title": "Artículos sobre Artificial intelligence (AI)",
+      "excerpt": "The European Union is currently debating the legal status of intelligent robots, and whether they ought to be given a new classification of 'electronic persons'. Artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/es/topics/artificial-intelligence-ai-90?page=23",
+      "originalUrl": "https://theconversation.com/es/topics/artificial-intelligence-ai-90?page=23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/393723/original/file-20210407-17-yj7942.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip",
+          "width": 496,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-adversarial-training-reduces-safety-of-neural-networks-in-robots-research.md",
       "title": "Adversarial training reduces safety of neural networks in robots: Research",
       "excerpt": "“In a lot of deep learning, machine learning, and artificial intelligence literature, we often see claims that ‘neural networks are not safe for robotics because they are vulnerable to ...",
@@ -931,351 +1278,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-mark-cuban-joins-philadelphia-startups-13m-funding-round.md",
-      "title": "Mark Cuban joins Philadelphia startup's $13M funding round",
-      "excerpt": "A Philadelphia startup raised $13 million from a group of investors that includes billionaire Mark Cuban and intends to use the funds to double the size of its staff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/philadelphia/news/2021/03/18/fort-robotics-philadelphia-raises-13-m-double.html",
-      "originalUrl": "https://www.bizjournals.com/philadelphia/news/2021/03/18/fort-robotics-philadelphia-raises-13-m-double.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-5-robotics-stocks-on-the-cutting-edge.md",
-      "title": "5 Robotics Stocks on the Cutting Edge",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics stocks seem like a slam-dunk. The trend toward automation has been",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632",
-      "publishedDateTime": "2021-03-17T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-dexter-robot-arm-embraces-new-manufacturing-with-first-micro-factory.md",
-      "title": "Dexter Robot Arm Embraces New Manufacturing With First Micro-Factory",
-      "excerpt": "Haddington Dynamics, the company behind the Dexter robot arm that won the 2018 Hackaday Prize, has opened its first microfactory to build robot arms for Australia and Southeast Asia. You may ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/03/09/dexter-robot-arm-embraces-new-manufacturing-with-first-micro-factory/",
-      "originalUrl": "https://hackaday.com/2020/03/09/dexter-robot-arm-embraces-new-manufacturing-with-first-micro-factory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-advanced-prosthetic-hands-are-closer-than-ever-to-the-real-thing.md",
-      "title": "Advanced Prosthetic Hands Are Closer Than Ever to the Real Thing",
-      "excerpt": "Image source: Guy Hotson) Earlier this year, researchers in Baltimore demonstrated a mind-controlled prosthetic hand. The robotic hand was wired to an electrode array containing 128 sensors, about the size of a credit card, which was attached to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
-      "originalUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/HandOnBrain.png",
-          "width": 1318,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-retrotechtacular-6ch-industrial-robot.md",
-      "title": "Retrotechtacular: 6CH Industrial Robot",
-      "excerpt": "With this robotic arm demo video from 1975 the future really is now. Think about it, there are entire factories full of the descendants of this technology where the human workers simply feed the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2013/09/03/retrotechtacular-6ch-industrial-robot/",
-      "originalUrl": "https://hackaday.com/2013/09/03/retrotechtacular-6ch-industrial-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2013/09/retrotechtacular-6ch-robot-arm.png",
-          "width": 640,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-alibaba-backed-ai-startup-megvii-files-for-ipo-in-shanghai.md",
-      "title": "Alibaba-Backed AI Startup Megvii Files for IPO in Shanghai",
-      "excerpt": "The startup, backed by Alibaba Group Holding Ltd., plans to issue ... Megvii is one of the world’s largest AI startups, specializing in areas such as facial recognition. The eight-year-old firm gained fame in part because of China’s obsession with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia640Sm27PHY/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-14T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons.md",
-      "title": "Luum’s AI-based Lash Robot can delicately extend eyelashes for customers in beauty salons",
-      "excerpt": "Luum has created an AI-based Lash Robot that can delicately extend eyelashes for customers in beauty salons. I’ll let you absorb that for a minute. Luum CEO Philippe Sanchez said in an interview with VentureBeat that the lash extension procedure is ideal for robotics because it’s a tedious job for humans,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/",
-      "originalUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/lash-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/amp/",
-      "publishedDateTime": "2021-03-12T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-nuport-robotics-to-conduct-self-driving-middle-mile-truck-project.md",
-      "title": "NuPort Robotics to conduct self-driving middle-mile truck project",
-      "excerpt": "During the two-year project, artificial intelligence technology from NuPort will be used in two retrofitted conventional semi-tractor trailers with sensors and controls. Source: NuPort Canadian autonomous trucking startup NuPort Robotics Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://insights.globalspec.com/article/16158/nuport-robotics-to-conduct-self-driving-middle-mile-truck-project",
-      "originalUrl": "https://insights.globalspec.com/article/16158/nuport-robotics-to-conduct-self-driving-middle-mile-truck-project",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insights.globalspec.com/images/assets/158/16158/Canadian_Tire.jpg",
-          "width": 752,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T05:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering360 News",
-        "domain": "globalspec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -379,6 +379,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-13-6-big-things-to-know-about-microsofts-azure-cloud-strategy.md",
+      "title": "6 Big Things To Know About Microsoft’s Azure Cloud Strategy",
+      "excerpt": "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0268-12082f505be3-471dce422408-1000/john-jg-chirapurath-microsoft.jpg",
+          "width": 610,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-microsoft-boosts-conversational-ai-with-197-billion-nuance-deal.md",
       "title": "Microsoft Boosts Conversational AI with $19.7 Billion Nuance Deal",
       "excerpt": "said Nuance’s technology will enable Microsoft to augment the conversational AI capabilities of its Azure cloud, Dynamics 365 and Teams. “We believe we’ll be able to deliver AI-driven digital engagement solutions for any industry scenario,” Guthrie ...",
@@ -423,35 +466,35 @@
     },
     {
       "path": "_news/2021-04-13-microsoft-buying-speech-recognition-firm-nuance-in-16b-deal.md",
-      "title": "Microsoft buying speech recognition firm Nuance in $16B deal",
-      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion",
+      "title": "Microsoft Buying Speech Recognition Firm Nuance in $16B Deal",
+      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091",
+      "webUrl": "https://www.usnews.com/news/business/articles/2021-04-12/microsoft-buying-nuance-in-deal-worth-197b",
+      "originalUrl": "https://www.usnews.com/news/business/articles/2021-04-12/microsoft-buying-nuance-in-deal-worth-197b",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_e379a2a57666484dbff3b3d3885932f3_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091",
-      "publishedDateTime": "2021-04-12T14:29:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T15:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -866,6 +909,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-12-microsoft-in-talks-to-buy-ai-speech-recognition-provider-nuance-communications.md",
+      "title": "Microsoft in talks to buy AI speech recognition provider Nuance Communications",
+      "excerpt": "Microsoft is in advanced talks to buy AI speech recognition company Nuance Communications, according to Bloomberg sources. The deal being mooted places a value on Nuance of approx $56 a share, giving Nuance a value of about $16 billion. Nuance provides ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.inavateonthenet.net/news/article/microsoft-in-talks-to-buy-ai-speech-recognition-provider-nuance-communications",
+      "originalUrl": "https://www.inavateonthenet.net/news/article/microsoft-in-talks-to-buy-ai-speech-recognition-provider-nuance-communications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1618234626/widgetdocs/BAIVECTOR_Shutterstock_fukhvy_wc3dr2.jpg",
+          "width": 750,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InAVate",
+        "domain": "inavateonthenet.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-digitate-provides-aiops-platform-for-microsoft-azure.md",
       "title": "Digitate Provides AIOps Platform for Microsoft Azure",
       "excerpt": "Digitate, an autonomous enterprise software provider, is releasing ignio AIOps for Azure in the Microsoft Azure Marketplace, enabling customers to drive their digital transformation on cloud with Azure.",
@@ -1222,26 +1309,35 @@
       ]
     },
     {
-      "path": "_news/2021-04-06-5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend.md",
-      "title": "5 Top Advanced ML Stocks Poised to Gain From Automation Trend",
-      "excerpt": "Moreover, Microsoft, currently carrying a Zacks Rank #2 (Buy), offers ML-based ML.NET open-source cross-platform, Azure Machine Learning service, AutoML tools, Cognitive API Services, Azure Machine Learning Studio, to name a few. With these solutions ...",
+      "path": "_news/2021-04-07-very-few-things-are-stopping-big-tech-from-popping-in-healthcare.md",
+      "title": "Very Few Things Are Stopping Big Tech from “Popping” in Healthcare",
+      "excerpt": "Azure Machine Learning and Azure Cognitive Services, to deliver on the vision of the Terra platform at a new level of scale.” Taking a Deep Look at Big Tech’s Influence in Healthcare Big tech companies’ presence in healthcare greatly expanded during ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend-2021-04-06",
-      "originalUrl": "https://www.nasdaq.com/articles/5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend-2021-04-06",
+      "webUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
+      "originalUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan112021at22713PM.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T06:23:00-07:00",
+      "publishedDateTime": "2021-04-06T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "MD&M East",
+        "domain": "mddionline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1253,95 +1349,7 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-global-edge-ai-market-2021-2026-rising-demand-for-innovative-advanced-vehicles-researchandmarketscom.md",
-      "title": "Global Edge AI Market 2021-2026 - Rising Demand for Innovative & Advanced Vehicles - ResearchAndMarkets.com",
-      "excerpt": "The “Edge AI Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global edge AI market is expected to grow at a compound annual growth rate of 19.27% over the forecast period to reach a market size of US$1,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-apple-inc-corporate-news-driverless-cars-0c6938d9d3e848619fddf7e0ea0f3ff1",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-apple-inc-corporate-news-driverless-cars-0c6938d9d3e848619fddf7e0ea0f3ff1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach.md",
-      "title": "Intel Sets Ice Lake Apart From AMD EPYC With AI, Systems Approach",
-      "excerpt": "Intel launches its third-gen Xeon Scalable CPUs, code-named Ice Lake, saying they are faster than AMD's latest EPYC Milan chips in certain workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/components-peripherals/intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach",
-      "originalUrl": "https://www.crn.com/news/components-peripherals/intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0268-11fa0f99b4e0-e1b195cc181a-1000/intel-ice-lake.jpg",
-          "width": 610,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
+        "AI in Healthcare"
       ]
     }
   ],

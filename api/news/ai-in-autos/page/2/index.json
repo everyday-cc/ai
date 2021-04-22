@@ -2,6 +2,446 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-03-john-krafcik-quits-as-ceo-of-googles-self-driving-car-project.md",
+      "title": "John Krafcik quits as CEO of Google's self-driving car project",
+      "excerpt": "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov ... Google was uniquely positioned as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry Page and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prokerala.com/news/articles/a1146846.html",
+      "originalUrl": "https://www.prokerala.com/news/articles/a1146846.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prokerala.com/news/photos/imgs/1200/john-krafcik-quits-as-ceo-of-google-s-self-driving-car-project-1180075.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.prokerala.com/news/articles/a1146846.html?amp=1",
+      "cdnAmpWebUrl": "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1146846.html?amp=1",
+      "publishedDateTime": "2021-04-02T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Prokerala",
+        "domain": "prokerala.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-ceo-of-googles-self-driving-car-spinoff-steps-down-from-job.md",
+      "title": "CEO of Google's self-driving car spinoff steps down from job",
+      "excerpt": "IT WILL BE A COMFORTABLE EVENING AT 75. COOLING OFF EVEN MORE OV The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kcra.com/article/ceo-google-self-driving-car-steps-down/36017949",
+      "originalUrl": "https://www.kcra.com/article/ceo-google-self-driving-car-steps-down/36017949",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/kcra/35042856-new-google-logo-jpg.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kcra.com/amp/article/ceo-google-self-driving-car-steps-down/36017949",
+      "cdnAmpWebUrl": "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/ceo-google-self-driving-car-steps-down/36017949",
+      "publishedDateTime": "2021-04-02T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KCRA",
+        "domain": "kcra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-the-ceo-of-the-self-driving-car-company-waymo-will-step-down-after-more-than-5-years.md",
+      "title": "The C.E.O. of the self-driving car company Waymo will step down after more than 5 years.",
+      "excerpt": "Waymo, the autonomous car unit of Google’s parent company, Alphabet, said John Krafcik is stepping down as chief executive after five and a half years at the helm. In a statement, Waymo said the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/02/business/02economy-briefing-waymo/02economy-briefing-waymo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html",
+      "publishedDateTime": "2021-04-02T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-three-stocks-to-profit-from-the-robot-revolution.md",
+      "title": "Three stocks to profit from the robot revolution",
+      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
+      "sourceUrl": null,
+      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.moneyweek.com/image/private/s--c8ThaiIG--/v1583342977/covers-etc/989-Cover.jpg",
+          "width": 600,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
+      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
+      "publishedDateTime": "2021-04-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyWeek",
+        "domain": "moneyweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-driverless-vehicle-developer-horiba-mira-welcomes-mods-66bn-military-tech-pledge.md",
+      "title": "Driverless vehicle developer Horiba MIRA welcomes MoD's £6.6bn military tech pledge",
+      "excerpt": "Horiba MIRA leads the world in developing next generation of driverless and intelligent civilian and military vehicles",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-live.co.uk/technology/driverless-vehicle-developer-horiba-mira-20287658",
+      "originalUrl": "https://www.business-live.co.uk/technology/driverless-vehicle-developer-horiba-mira-20287658",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.business-live.co.uk/incoming/article17958124.ece/ALTERNATES/s615/0_HORIBA-MIRA-VIKING-ALMRS-SPTA-2jpg-VIKIN.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business-live.co.uk/technology/driverless-vehicle-developer-horiba-mira-20287658.amp",
+      "cdnAmpWebUrl": "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/driverless-vehicle-developer-horiba-mira-20287658.amp",
+      "publishedDateTime": "2021-03-31T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "business-live",
+        "domain": "business-live.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-the-cpsc-digs-in-on-artificial-intelligence.md",
+      "title": "The CPSC Digs In on Artificial Intelligence",
+      "excerpt": "American households are increasingly connected internally through the use of artificially intelligent appliances.1 But who regulates the safety of those dishwashers, microwaves, refrigerators, an",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/cpsc-digs-artificial-intelligence",
+      "originalUrl": "https://www.natlawreview.com/article/cpsc-digs-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/cpsc-digs-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/cpsc-digs-artificial-intelligence?amp",
+      "publishedDateTime": "2021-03-31T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-using-artificial-intelligence-to-discover-new-drug-treatments-science-next.md",
+      "title": "Using Artificial Intelligence To Discover New Drug Treatments: Science Next",
+      "excerpt": "In the fields of medicine and pharmacology, drugs have historically been discovered either by identifying active ingredients from traditional remedies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next",
+      "originalUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/6e23bb3/2147483647/strip/true/crop/1109x683+46+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwrkf%2Ffiles%2F202103%2FAI_AVPs.jpg",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next?_amp=true",
+      "cdnAmpWebUrl": "https://www-wrkf-org.cdn.ampproject.org/c/s/www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next?_amp=true",
+      "publishedDateTime": "2021-03-31T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRKF",
+        "domain": "wrkf.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-new-early-warning-system-for-self-driving-cars.md",
+      "title": "New early warning system for self-driving cars",
+      "excerpt": "Thanks to artificial intelligence (AI), their system can learn from past situations where self-driving test vehicles were pushed to their limits in real-world road traffic. Those are situations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/03/210330121234.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/03/210330121234.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-3-top-artificial-intelligence-stocks-to-buy-in-april.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in April",
+      "excerpt": "Artificial intelligence can add a much-needed shot of predictability ... from its core internet search engine to its moonshot upstart subsidiaries like autonomous vehicle subsidiary Waymo. But Google is also helping customers make use of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619767%2Fhealth-monitoring-getty.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
+      "publishedDateTime": "2021-03-31T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-strength-seen-in-baidu-inc-bidu-can-its-66-jump-turn-into-more-strength.md",
+      "title": "Strength Seen in Baidu Inc. (BIDU): Can Its 6.6% Jump Turn into More Strength?",
+      "excerpt": "Baidu Inc. (BIDU) shares rallied 6.6% in the last trading session to close at $218.23. This move can be attributable to notable volume with a higher number of shares being traded than in a typical session.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/strength-seen-in-baidu-inc.-bidu%3A-can-its-6.6-jump-turn-into-more-strength-2021-03-31",
+      "originalUrl": "https://www.nasdaq.com/articles/strength-seen-in-baidu-inc.-bidu%3A-can-its-6.6-jump-turn-into-more-strength-2021-03-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-how-driverless-scooters-could-boost-healthcare.md",
       "title": "How Driverless Scooters Could Boost Healthcare",
       "excerpt": "The latest entry to the growing fleet of driverless vehicles is the autonomous mobility scooter, developed jointly by MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the National University of Singapore, and the Singapore-MIT ...",
@@ -843,364 +1283,6 @@
       "provider": {
         "name": "NIKKEI",
         "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-self-driving-car-bill-heads-for-gov-duceys-approval.md",
-      "title": "Self-driving car bill heads for Gov. Ducey's approval",
-      "excerpt": "The first bill to impose any regulation on the self-driving car industry is headed for the Governor's Office. William Pitts has the details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.12news.com/video/news/local/arizona/self-driving-car-bill-heads-for-gov-duceys-approval/75-61a6ae06-e25d-4d93-a712-8e4a6c451a91",
-      "originalUrl": "https://www.12news.com/video/news/local/arizona/self-driving-car-bill-heads-for-gov-duceys-approval/75-61a6ae06-e25d-4d93-a712-8e4a6c451a91",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPNX",
-        "domain": "12news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-via-rideshare-to-implement-self-driving-vehicles-servicing-downtown-arlington-uta.md",
-      "title": "Via Rideshare to implement self-driving vehicles servicing downtown Arlington, UTA",
-      "excerpt": "UTA students will be able to ride the autonomous vehicles for free throughout the one-year pilot program starting Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theshorthorn.com/news/via-rideshare-to-implement-self-driving-vehicles-servicing-downtown-arlington-uta/article_cc39d90e-8900-11eb-9c3e-b75353167403.html",
-      "originalUrl": "https://www.theshorthorn.com/news/via-rideshare-to-implement-self-driving-vehicles-servicing-downtown-arlington-uta/article_cc39d90e-8900-11eb-9c3e-b75353167403.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Shorthorn",
-        "domain": "theshorthorn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-can-we-trust-autonomous-driving-technology.md",
-      "title": "Can We Trust Autonomous Driving Technology?",
-      "excerpt": "There is a huge amount of activity in the tech sector surrounding the development and deployment of self-driving vehicles. Are they ready for the road?",
-      "sourceUrl": null,
-      "webUrl": "https://www.truckinginfo.com/10139281/can-we-trust-autonomous-driving-technology",
-      "originalUrl": "https://www.truckinginfo.com/10139281/can-we-trust-autonomous-driving-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Truckinginfo",
-        "domain": "truckinginfo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-self-driving-cars-market-to-see-strong-growth-momentum-tesla-motors-general-motor-ford-motor.md",
-      "title": "Self-Driving Cars Market to See Strong Growth Momentum | Tesla Motors, General Motor, Ford Motor",
-      "excerpt": "Mar 19, 2021 (Market Insight Reports) -- A new business intelligence report released by HTF MI with title “Global Self-Driving Cars Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2020 COVID-19 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-to-see-strong-growth-momentum-tesla-motors-general-motor-ford-motor-2021-03-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-to-see-strong-growth-momentum-tesla-motors-general-motor-ford-motor-2021-03-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-fmcsa-driverless-truck-message-stokes-fear-in-the-workforce.md",
-      "title": "FMCSA driverless truck message stokes fear in the workforce",
-      "excerpt": "The FMCSA acting administrator said driverless trucks will lead to \"a major shift in the workforce,\" though a Trump-era DOT policy official said the data tells a different story.",
-      "sourceUrl": null,
-      "webUrl": "https://www.trucker.com/regulations/article/21158365/are-driverless-truck-workforce-fears-warranted",
-      "originalUrl": "https://www.trucker.com/regulations/article/21158365/are-driverless-truck-workforce-fears-warranted",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Trucker",
-        "domain": "trucker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-baidu-to-test-paid-robotaxi-services.md",
-      "title": "Baidu to test paid robotaxi services",
-      "excerpt": "Baidu, the Chinese internet giant and a leading autonomous driving technology developer, is poised to become the first company in China to demonstrate paid robotaxi services. The program, approved by local traffic authorities,",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/china/baidu-test-paid-robotaxi-services",
-      "originalUrl": "https://www.autonews.com/china/baidu-test-paid-robotaxi-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-safety-concerns-determine-level-of-public-support-for-driverless-vehicles-finds-ntu-study.md",
-      "title": "Safety concerns determine level of public support for driverless vehicles, finds NTU study",
-      "excerpt": "When it comes to the use of driverless vehicles, an individual's support for their adoption hinges on how safe they are, rather than their economic impact or privacy concerns stemming from the data they might collect,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/ntu-scd031721.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/ntu-scd031721.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-chinas-saic-partners-with-us-lidar-maker-luminar-on-self-driving-cars.md",
-      "title": "China's SAIC partners with U.S. lidar maker Luminar on self-driving cars",
-      "excerpt": "FILE PHOTO: SAIC Motor Corp's logos are pictured at its booth during the Auto China 2016 auto show in Beijing, China April 26, 2016. REUTERS/Kim Kyung-Hoon (Reuters) - Cybersecurity ratings firm SecurityScorecard has raised $180 million of fresh capital as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/chinas-saic-partners-with-us-lidar-maker-idUSKBN2BA1DO",
-      "originalUrl": "https://www.reuters.com/news/picture/chinas-saic-partners-with-us-lidar-maker-idUSKBN2BA1DO",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-safety-concerns-determine-level-of-public-support-for-driverless-vehicles-finds-ntu-singapore-study.md",
-      "title": "Safety concerns determine level of public support for driverless vehicles, finds NTU Singapore study",
-      "excerpt": "Findings have implications for improving adoption rate of driverless vehicles When it comes to the use of driverless vehicles, an individual's",
-      "sourceUrl": null,
-      "webUrl": "https://www.miragenews.com/safety-concerns-determine-level-of-public-530322/",
-      "originalUrl": "https://www.miragenews.com/safety-concerns-determine-level-of-public-530322/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Armed robbery in Revesby",
-        "domain": "miragenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-baidus-second-listing-in-hong-kong-to-bring-in-31-billion.md",
-      "title": "Baidu’s Second Listing In Hong Kong To Bring In $3.1 Billion",
-      "excerpt": "Baidu will use some of the funds raised to further invest in artificial intelligence (AI), including its AI cloud unit and its self-driving vehicle platform Apollo. Bank of America, Citic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/",
-      "originalUrl": "https://www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/amp/",
-      "publishedDateTime": "2021-03-17T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
         "images": null,
         "publishers": null,
         "authors": null

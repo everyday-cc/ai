@@ -1,29 +1,25 @@
 ---
 category: news
-title: "Microsoft buying speech recognition firm Nuance in $16B deal"
-excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion"
-publishedDateTime: 2021-04-12T21:29:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
-webUrl: "https://abcnews.go.com/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/microsoft-buying-nuance-deal-worth-197b-77019091"
+title: "Microsoft Buying Speech Recognition Firm Nuance in $16B Deal"
+excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion."
+publishedDateTime: 2021-04-12T22:38:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2021-04-12/microsoft-buying-nuance-in-deal-worth-197b"
+webUrl: "https://www.usnews.com/news/business/articles/2021-04-12/microsoft-buying-nuance-in-deal-worth-197b"
 type: article
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_e379a2a57666484dbff3b3d3885932f3_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-secured: "bm7vhfRQRlmCjC9V1qMHtioGWonEye07ByvhXRHil9VaxKD/9S3M5k+V0n0Fl/M9kA38Hfk2FRETa0u1rUq+Q/w3ghFpo49p5O9d96GpaId5v2aTLPm4luXAaZxyfg+AYEnVqXjvMMOFRs37VbUlaRCqDv9qZgfZx9t87JNwrflBC8vYIY8IoKtFJWG96pk45j9kYvpqCzxugCnqDjrCKfoQwrevuEJX9E46ccVVPTD/1GCtL2X9lYDSkaacZQr2CLcedWt4ncUnFwOITJL7LMlOaD+YZRCvZZPs8zHhLcG86swoBBKUAwTKeQmXe0UbPRySKipiuIOVFdSSwSugUJgyB81QH8lP76RveiesoFM=;aQhRQymRPLJ5JsAXFzsahA=="
+secured: "XgXEyM7hkdI4nly5AcMweCb4dyKS/H1RqFVBMMqA2MEzfmaIwX1dc2p+wCXNpoJRQ0woSOLbGUxImHhdmG8O2zn7VCnIGxPC1a6NEc+aT+O5lH1AjAiQK43sdqIFvmADqTLET6qqQBEM+01V0jfmQPSSASnFOuTD3vFIgy62xZLCNtJmpRHPEb2j2zJBfDXle071nyLdZdMLDV9J3g1OIaI4YZ+cS97AXIpZDJTvSE33BQ4NeZdTHZWF25xXaIGMEuj3Fqh8yN22+AIrPS8EQY04WwjQD7UoH29VoxmPGYgq/LddjljFBvyZ9uovKEK6GzB52RHt1Ut5CxZHE49GsrQTiDXxWRucFyJ0IGTkvGvJpCioTAU2Q3oAwnhDIv46kGqwVePUSjYUBFNDdeZNLPRRGvsZSMfk9NKbc8PQPbEn6HRbJlkjzezid1CXkX7olVanjcx9GIY8SNgzGMdaMEmQQCpNyBPm0Ink2VKIiDLS+PIiQW/vb3JVZpZHr2Fc4DahiHc0cTErBgnaWBB+Gg==;aCd5BJNkWfjfmyK1AM7phg=="
 ---
 

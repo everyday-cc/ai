@@ -2,6 +2,207 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-22-how-were-minimizing-ais-carbon-footprint.md",
+      "title": "How we’re minimizing AI’s carbon footprint",
+      "excerpt": "The book that led to my visit to Google.When I first visited Google back in 2002, I was a computer science professor at UC Berkeley. My colleague John Hennessey and I were updating our textbook on computer architecture, and Larry Page — who rode a hot-rodded electric scooter at the time — agreed to show",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/minimizing-carbon-footprint/",
+      "originalUrl": "https://blog.google/technology/ai/minimizing-carbon-footprint/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image2_J0u7kXp.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/minimizing-carbon-footprint/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/minimizing-carbon-footprint/amp/",
+      "publishedDateTime": "2021-04-21T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-master-the-science-of-machine-learning-with-these-training-classes.md",
+      "title": "Master The Science Of Machine Learning With These Training Classes",
+      "excerpt": "Our interactions in (and out) of the tech world all rely heavily on machine learning (ML), the science of getting computers and devices to mimic human be",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
+      "originalUrl": "https://www.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/8c53767e-52ed-5884-8538-ff5b3687daec/default-1618998050-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
+      "publishedDateTime": "2021-04-21T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-xilinx-launches-kria-chips-to-handle-ai-for-edge-applications.md",
+      "title": "Xilinx launches Kria chips to handle AI for edge applications",
+      "excerpt": "Xilinx has introduced its Kria programmable chips and boards for holding AI applications at the edge of the network.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/",
+      "originalUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/xilinx-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/",
+      "publishedDateTime": "2021-04-20T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-python-is-devouring-data-science.md",
+      "title": "Python is devouring data science",
+      "excerpt": "Someone once said that Python’s data science training wheels would increasingly lead to the R language. Boy, was he wrong.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html",
+      "originalUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/04/dna-research-science-medical-advancement-101334656-100264916-large.jpg",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.amp.html",
+      "publishedDateTime": "2021-04-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-new-to-computer-vision-and-medical-imaging-start-with-these-10-projects.md",
       "title": "New to computer vision and medical imaging? Start with these 10 projects",
       "excerpt": "(AI) and computer science that enables automated systems to see, i.e. to process images and video in a human-like manner to detect and identify objects or regions of importance, predict an outcome or",
@@ -1167,146 +1368,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies.md",
-      "title": "DeepMind Proposes Manipulation-Independent Representations for Imitation of Behaviours Demonstrated by Previously Unseen Manipulator Morphologies",
-      "excerpt": "A research team from DeepMind proposes manipulation-independent representations (MIR) that can support successful imitation of behaviours demonstrated by previously unseen manipulator morphologies using only visual observations.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/03/22/deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies/",
-      "originalUrl": "https://syncedreview.com/2021/03/22/deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation.md",
-      "title": "Is TensorFlow ‘for Boomers’? PyTorch May Gain More Ground in Machine Translation",
-      "excerpt": "PyTorch, the open source framework used to build machine learning models, including those used for machine translation, released its newest version, 1.8, on March 4, 2021. According to PyTorch’s official announcement,",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/machine-translation/is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation/",
-      "originalUrl": "https://slator.com/machine-translation/is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI",
-        "Facebook AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-xsede-hpc-workshop-big-data-and-machine-learning-april-6-7.md",
-      "title": "XSEDE HPC Workshop: Big Data and Machine Learning, April 6-7",
-      "excerpt": "XSEDE, the National Science Foundation’s Extreme Science and Engineering Discovery Environment virtual organization that shares HPC, supercomputing and other advanced computing resources, will present a Big Data and machine learning workshop on Tuesday ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/03/xsede-hpc-workshop-big-data-and-machine-learning-april-6-7/",
-      "originalUrl": "https://insidehpc.com/2021/03/xsede-hpc-workshop-big-data-and-machine-learning-april-6-7/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-21T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-an-inside-look-at-fetchai-the-ambitious-startup-by-former-deepmind-investor.md",
-      "title": "An Inside Look At Fetch.ai, The Ambitious Startup By Former DeepMind Investor",
-      "excerpt": "Fetch is building out a solution that leverages the best of both blockchain integration and autonomous tech in real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/an-inside-look-at-fetch-ai-the-ambitious-startup-by-former-deepmind-investor/",
-      "originalUrl": "https://analyticsindiamag.com/an-inside-look-at-fetch-ai-the-ambitious-startup-by-former-deepmind-investor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

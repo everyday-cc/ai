@@ -2,6 +2,252 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-21-jpmorgan-chase-vows-again-to-address-banker-burnout-live-updates.md",
+      "title": "JPMorgan Chase Vows, Again, to Address Banker Burnout: Live Updates",
+      "excerpt": "JPMorgan Chase’s co-heads of investment banking, Jim Casey and Viswas Raghavan, announced policies aimed at improving working conditions amid record deal volume and",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2021/04/21/business/stock-market-today",
+      "originalUrl": "https://www.nytimes.com/live/2021/04/21/business/stock-market-today",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/21/business/21economy-briefing-techhearings/merlin_186670563_fa81e2bb-9e33-4213-ad08-aa6c6a3cd16b-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/04/21/business/stock-market-today.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/21/business/stock-market-today.amp.html",
+      "publishedDateTime": "2021-04-21T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-europe-proposes-strict-regulation-of-artificial-intelligence.md",
+      "title": "Europe proposes strict regulation of artificial intelligence.",
+      "excerpt": "The rules have far-reaching implications for tech firms like Amazon, Google, Facebook and Microsoft, which have poured resources into developing the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/21/business/21economy-briefing-eu-ai/21economy-briefing-eu-ai-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html",
+      "publishedDateTime": "2021-04-20T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Size Report, Trend, COVID19 Impact, Industry Outlook, Derive Growth, Share, Revenue Forecast to 2027",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware",
+        "AI in Healthcare",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-asia-pacific-artificial-intelligence-ai-in-healthcare-market.md",
+      "title": "Asia Pacific Artificial Intelligence (AI) in Healthcare Market",
+      "excerpt": "The Business Market Insights provides you regional research analysis on Asia Pacific Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic indicators and",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
+      "originalUrl": "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U419236836_g.jpg",
+          "width": 563,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
+      "publishedDateTime": "2021-04-19T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-artificial-intelligence-robotics-new-heights-in-healthcare.md",
+      "title": "Artificial Intelligence, robotics new heights in healthcare",
+      "excerpt": "Artificial Intelligence (AI) and robotics are used in transforming the world of the health industry and also offer an awesome strategy with much care. It puts the customers in control of the health and also the well-being.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "originalUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypioneer.com/images/logo.jpg",
+          "width": 325,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pioneer",
+        "domain": "dailypioneer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-165-new-cancer-genes-identified-with-the-help-of-machine-learning.md",
       "title": "165 new cancer genes identified with the help of machine learning",
       "excerpt": "A new algorithm can predict which genes cause cancer, even if their DNA sequence is not changed. A team of researchers combined a wide variety of data, analyzed it with 'Artificial Intelligence' and identified numerous cancer genes.",
@@ -497,6 +743,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-very-few-things-are-stopping-big-tech-from-popping-in-healthcare.md",
+      "title": "Very Few Things Are Stopping Big Tech from “Popping” in Healthcare",
+      "excerpt": "Azure Machine Learning and Azure Cognitive Services, to deliver on the vision of the Terra platform at a new level of scale.” Taking a Deep Look at Big Tech’s Influence in Healthcare Big tech companies’ presence in healthcare greatly expanded during ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
+      "originalUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan112021at22713PM.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1070,268 +1360,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-driverless-scooters-could-boost-healthcare.md",
-      "title": "How Driverless Scooters Could Boost Healthcare",
-      "excerpt": "The latest entry to the growing fleet of driverless vehicles is the autonomous mobility scooter, developed jointly by MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the National University of Singapore, and the Singapore-MIT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/rd/how-driverless-scooters-could-boost-healthcare",
-      "originalUrl": "https://www.mddionline.com/rd/how-driverless-scooters-could-boost-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-global-natural-language-processing-nlp-in-healthcare-market-size-share-to-expand-at-192-cagr-through-2025.md",
-      "title": "Global Natural Language Processing (NLP) in Healthcare Market Size, Share To Expand At 19.2% CAGR Through 2025",
-      "excerpt": "Mar 30, 2021 (Market Insight Reports) -- Selbyville, Delaware. The report Natural Language Processing (NLP) in Healthcare Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-size-share-to-expand-at-192-cagr-through-2025-2021-03-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-size-share-to-expand-at-192-cagr-through-2025-2021-03-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
-      "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
-      "excerpt": "Healthcare was a big area for AI investment. Today, the results of a new survey focusing precisely on the adoption of AI in healthcare are being unveiled. ZDNet caught up with Gradient Flow Principal Ben Lorica, and John Snow Labs CTO David Talby ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "originalUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-can-artificial-intelligence-replace-human-therapists.md",
-      "title": "Can artificial intelligence replace human therapists?",
-      "excerpt": "Websites, smartphone apps and social-media sites are dispensing mental-health advice, often using artificial intelligence ... for less money than traditional therapy. The algorithms underpinning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists-11616917093082.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists-11616917093082.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/03/28/600x338/AI-kkGH--621x414@LiveMint_1616917196222.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists/amp-11616917093082.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists/amp-11616917093082.html",
-      "publishedDateTime": "2021-03-28T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-ai-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.md",
-      "title": "AI study on aggressive form of cancer could improve patient outcomes",
-      "excerpt": "International genomics research led by the University of Leicester has used artificial intelligence (AI ... These paths predict the aggressiveness and possible therapy of this otherwise incurable cancer. It has long been appreciated that asbestos causes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
-      "publishedDateTime": "2021-03-26T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-artificial-intelligence-healthcare-arkq-is-investing-in-the-future.md",
-      "title": "Artificial Intelligence. Healthcare. ‘ARKQ’ Is Investing in the Future",
-      "excerpt": "Artificial intelligence (AI) is seen driving a new breed of innovation in the healthcare arena. “Digital tools can help. In just one example, clinicians around the world are usi",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24",
-      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp",
-      "publishedDateTime": "2021-03-24T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

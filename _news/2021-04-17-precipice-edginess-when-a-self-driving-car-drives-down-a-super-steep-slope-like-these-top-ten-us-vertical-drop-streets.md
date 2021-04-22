@@ -30,22 +30,6 @@ images:
     height: 255
     isCached: true
 
-related:
-  - title: "Canadian police pull over car thinking driver is drunk — nope, it’s ‘self-driving’"
-    excerpt: "Police in Canada pulled over a car last week thinking it was being driven by a drunkard! But no, it was driving itself... apparently!"
-    publishedDateTime: 2021-04-16T16:30:00Z
-    webUrl: "https://thenextweb.com/news/canadian-police-driver-drunk-nope-self-driving"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 48
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F03%2Fthird-autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving.png&signature=045313075df9ec4fba69a44106485acf"
-        width: 1280
-        height: 640
-        isCached: true
-
 secured: "1EkLxzWqZG6FlbO4n+dwWLdHWP/6zld9R0zupgrW40bEQykF2+HY55L5jRuVzomPIF3TY/dFANjp7CJM3r5rANrPCr1hM0lBDwIzP2HsWwHYv9nABPJMTj4FcS2y9oMQBa71KN+B6901xUHXNk3zK+2tE26WMHuw44MskHFtA6MouDkSUWe3K79pImj/Wbbu4KvbYEo3GJIpH7uaYr4yxds6XoDzEyCdklAErMrd/HXKwKn+1SZb1KUpiJa67mqPuoPwyLMEjt7cnsZeE2n7K6mEa7R7GUM9MHj83IAU7qla5gzE9IK4vxbLKH9ciLfCpipcZEj3Q4auViSfco3R11CSVfzIpMAQgZYot8rVKhU=;r4ZyGSliPQFI1b125IV6bQ=="
 ---
 
