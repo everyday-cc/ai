@@ -2,7 +2,7 @@
 name: "Mythic"
 overview: "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles."
 type: "profile"
-heat: 41
+heat: 56
 
 website: https://www.mythic-ai.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "mythicinc"
   url: "https://twitter.com/mythicinc"
-  followers: 707
+  followers: 712
 
 size: 11-50 employees
 yearFounded: 2012
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=q59k-4c-hbk"
 
-secured: "vINLMRAbcSJWbzoUVMfuO1YHbgw8G8wKrDVInwPqVHyI7zvhQAyvPk0gICY9iwtuMRiEiQPZ7tmhXpu32BmdRYu1HK/3qVx1Ksm5MY+wPhpsbPwek6I2ee3wC/hvs8KBCLCkc44oxOxhvsuWUHpiZlb0QZEodtaYH9xgXP3yyVooklKgoMDNCcXQGKhPokkzxqKKyiagpDSWjMWi7Dt6eErBIKCUoCFz2tiVVZTASt2fvp9weUtJExAKfpDNrL2ki2SvFmI/bIhWenLOU4LzirzGK4tT4ArJnMUiMzwV9Z0h7PqJacBBn2z4VfKPfeFdg4108x2hqhK7MNs/LZWEo28lFIKBJuTNfqipwUrkgV8fLncdhPcKAgliD8gL48arSXIHAiKO9Si0rg3QTRDsFg==;ksg99Or0InmUg8HGgdenWw=="
+secured: "FeDwc3D+2kk8oyhxR1JR9kl6ImlYnZdHP4hARsg1GOvCmc8sRzw3NfRWr99lQONP+haIAk/SLPK2Blaj38ddy8r8x4bT8QiZH5OqCjwEmRNgzBzH/SHLlmQJ/YiM6uTnZ69eybt/mT/nVTarmlFreI08iQ8vm6k0ZPbwrp0N38zdWzQxT58Cd4E5pNGVzJ0L1lxGnLUenB0GmKLYsdohKXCw2ELFIS6SChOXVzIr0bWCo67lYAt3/qUUl3ziBXYjLmKwZwOlhPUUafc9YurLi8HSzAUcqa+VeLbpkAoeDbdfohjPUw/IBdTDy+aUUqRJr7O6aXjEq4YRgoG+1MKHeN6ug96wRIhqRnd1xvWmxOg452cuIHPhBy6iVgwIuAQUO7A58LHZnxvYQgmQQ2vyjQ==;d085+/IEkWsPJ9iMucdJ/g=="
 ---
 

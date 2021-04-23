@@ -2,7 +2,7 @@
 name: "Forbes AI 50: America’s Most Promising Artificial Intelligence Companies in 2019"
 overview: "To be included on the list, companies needed to show that techniques like machine learning, natural language processing, or computer vision are a core part of their business model and future success."
 type: "collection"
-heat: 99
+heat: 182
 
 
 items:
@@ -61,7 +61,7 @@ topics:
   - AI
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1381466156721037314/21ZmHs4w_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1385346704057143297/9WQU1ggn_400x400.jpg"
     width: 400
     height: 400
     isCached: true

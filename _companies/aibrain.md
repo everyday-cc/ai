@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "aibraininc"
   url: "https://twitter.com/aibraininc"
-  followers: 199
+  followers: 198
 
 size: 11-50 employees
 yearFounded: 2012
@@ -38,6 +38,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Kq7MAtE32QpVwrY3J4KD0tDutoUVf3Q24Y/99ea54pG69N9YbgWqJoabW0k8g9MMaKUCgnIngVBfLL9hSSXEpTIC2FlD02bAiQf+0WAIEztdTtAX32WrrR1IdDqrfqm6vvr/ad4xhWl2cBfPEf8fQLdh3M4Jn3R72uxf6QAbpGFSSy+3P5ytXyMB0W8VHdBrJ59AQ5DcTvJDgGYDwCSTMMhxYOS2Ige23/WwuUj/4j2yHtmWMRj4dEf+sO4wgEl5MjiTVvQ2Z5YtGREpUHQetEHseUX2ohprAarkD/kqlCBw7AFxjr0Gz58W6NBDwHUI60s5Fk4Tr9FUT7yx6ntfUZsDDiV7cG8ViVYunfU13DE6/fQO8thaSeDBp1BOc9sRIl9txMYDmTJKv5uF4cscMQ==;rxhqtgLWilnVZeteURJiZQ=="
+secured: "OEZX9XKywX5BzVxvQS1JQWmiSYNbGf2tIchY/P5xwaIBVM55lPoPyLLLAPWXwAZ2SnU/dw8osE2GQ6xgW4arHGfx7fB/eQGxUqd18qIeoD4aE2LJE8g9z9T0ARsx1lGYRBIZ4gtrx9iDj3OTMFVposbH/IR8XfJCsay/Uz6uRCoZtPcGqGKgqyffX0p/NEhmJy9L/yCaxZA2WEUGfiattFgm+dDS+1XDaSwlAG1fv+XAA3755wYh3SFX/3h6Pg4SWB/eBuPWaiqRbUojaxUU6WmrEPTCdMsfUPT1nwx3Z6QGSRaeHYl22rAooDpBGq+QI9fhBfmvjDkn+VbngPyFoclaT972Yt/tvrGRCswL6VmXkgtHJnPv7il13kXCzBhzm7dVh6nmT4Z+78WtfmC0Pg==;8rmjT98uKllDrDm8e9PvoA=="
 ---
 

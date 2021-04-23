@@ -2,7 +2,7 @@
 name: "MOV.AI"
 overview: "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use."
 type: "profile"
-heat: 50
+heat: 51
 
 website: http://mov.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "movairobots"
   url: "https://twitter.com/movairobots"
-  followers: 123
+  followers: 124
 
 size: 11-50 employees
 yearFounded: 2016
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=KF0y_gPMnGI"
 
-secured: "2IUYv1ALEeSpMZdYcZE4UEJRY7CC67AHT/774iIZsKdpKPnzuT2M2ttPXzldRglAhz5LibKZTU4J+lcAqt2dOc9I5WKQ9YqasWVXvyeE1KdN1GLE1UK9Gcj3AK30Ii7fpP+dJr0NZKUVIPv162aM5FB0lwg2T/HzCAOqP6uFFd0OaNtGR6yFKV97dHu0pbrbDu7cytq+Rve0sAcSHlTHn4GZESYOy9XwsH/qxAKTWWXCqk2fxLudCKLOeVrubqndmIBcngoK0sfhpXFqrnZT069ODKnDDjErs1nlqcn8/0DrWA3iKqT6Q+UuXmgC57njnPWQlVPCEOmmkdtEIXE6tzajuIUOhC01jhiwgM6eGgDkKEUG9Dl53065+KeaH1rBOETAwRaYNLJVhxcCFKP9yQ==;qBl/+ccAjsHU9eBKnXGfYA=="
+secured: "L+s5E8BuUJrbmY0K/yFYhud/R5t7VT01spMIdfUXPHys32QkDRATBO2lswNRNxzp5AgF4Zx0H5yjlhd8sD6Bp1bFN74T7zifQMtPlQYO0Qu9NmCDdX4Q8cp0otyBeC89cbgkxOemd5CuJ0qp7DcbXA8VrsDvnamEWid4guQOMy/vdCViqt06JHLzV/crXWu5vwvHFywKmmN/e3Lm67NScCF6hq3WlkFreyExMVfaNsq3l6cmAzC0y2q5ovdDyfsX3R6FSbQOtfvefvvWupuI4i1IxBnuVu1TdqYZ/TV2TrHj5tvfzA3nDQ+s8dIVmH9vtqwfVtEXTNQJd94Ugs2ewLSfgLlcMWrqp3086jpCGV1Is2dgdUp/7RwVD+FsWxmfJfEgKDtbBB1V8qMwpgj/pg==;eRj/Ew0YVMpBG6tOAZSRnA=="
 ---
 

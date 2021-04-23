@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 623
+heat: 654
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 8834352
+  followers: 9055230
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Tqmnowdzp2gEdyUl+3VnnDm3xqiENanYkyR083QHP1x3hrPNEbYrDuuVsiWtGHgwwLhT0u7rNjIGmDH8pF2nWa+XnLM+8HE5RAxRwRUJw/zXFPwrbB7n/79KwJtIIWwG0Lc+hDhe7zzDpRm6BKoJSwgWN90bG++vzm1FUKRKnlvldY2a4RBfoNVmrNwrI5JGdfBYafEkPfdY+vYBEu4ZhBIvKTNHwLsvnMpWsQZhB+TixDJnm8WoMsA2aJayEFJWu5J01UmCVryoH9cJRnyx1+P4AAOz/D6H7kzursxr4l6hS5/S8mZuux4s2yyjrp/6JSuO/eVNV175GwlF2q/8MGVnSIiIOaJAyU2VCYkSvMmI19MEu+1hpq8GAOHfeeualjZMWTb6FzxTpgC2hogM7qWQMvZy79aivdxmEJSdh8Y=;ZdYWziEFN+A5+mnfX54Edw=="
+secured: "sKZuEWvzAkFe9iNsIf1ZPuQZYK0VWyBwBd45IX35tOqotZ7uPw4jMdO5Oil8F5SNnuG3M40SzgOyifF/hGMrxTIdsQary6FGDBGpYqYaxSiGOqJPjjLO4HnUJ7iMcDcj989yjjfYQNLCVKNVAbfez4PwDbuaS3a/EWdjTAKkq7u9q2bqUqCX/bt4sItbR1YVlyGiHqbNN4rMhb/VO2sshqpQa0hfSmHOuvDqP/M9Wsn/vgv311vj3gQButhjcY8/IYbjSUrDsJm6qQFZla7ICxV8nxH/gERFLEhc42hVkNvyEWATcZAxEovgBX3c8aYxfrdJZiwrpyxlKK0aqMvAvWX83dHG3/hpShT1wlj4EY5qwWT4ettojwikelEKSaG1NXwYBk7pkbkRv9Empfkl5YngHksh5VvVX/Nnw+e3IGk=;zISWr5/ExuoIS3gvFFITpQ=="
 ---
 
