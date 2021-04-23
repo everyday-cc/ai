@@ -17,7 +17,7 @@
       "twitter": {
         "username": "lmoroney",
         "url": "https://twitter.com/lmoroney",
-        "followers": 22288
+        "followers": 22415
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/laurence-moroney/"
@@ -54,14 +54,14 @@
       "twitter": {
         "username": "rajatmonga",
         "url": "https://twitter.com/rajatmonga",
-        "followers": 14163
+        "followers": 14145
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rajatmonga/"
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
-        "citations": 36624
+        "citations": 37555
       },
       "affiliation": {
         "path": "",
@@ -69,13 +69,13 @@
         "domain": "google.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/google.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           },
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/google.com-400x400.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-400x400.jpg",
             "width": 400,
             "height": 400,
             "isCached": false
@@ -88,7 +88,7 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 50,
+      "heat": 5,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",

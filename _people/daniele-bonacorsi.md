@@ -2,7 +2,7 @@
 name: "Daniele Bonacorsi"
 bio: "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN."
 type: "profile"
-heat: 57
+heat: 50
 
 affiliation:
   name: infn.it
@@ -11,11 +11,11 @@ affiliation:
 twitter:
   username: DBonacorsi
   url: https://twitter.com/DBonacorsi
-  followers: 694
+  followers: 695
 
 googleScholar:
   url: https://scholar.google.com/citations?user=7_xEzmUAAAAJ
-  citations: 148380
+  citations: 149175
 
 topics:
   - AI
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Daniele Bonacorsi"
 
-secured: "ToAC8VusBi0Csc+XAQGHGvY5u0LQJ9n6fB2boz/DDWUBzz5id+bdCfQwn4RbyAtTqObwt2QF7WQpyauGfVqA9W0yvVkkJIE8dx3UPY4t674kb1BcvYTl+miyO8Ku5dLw2D1Aa2b3N9XS0+TD3Wail8AGtJC3fPqMAn/IGGEiixY8AVO+9QJZd+hazOmrRcC5DagLLZmjlOiKzqog4DlZIvPf3GTGnv9WamU55zyEUGRtCsi7KSMW88t5XoLZHEta2aw+nr/LadxsL31ke9NCJndJ7R+0sxsmlVJv74j6NpPyqqaoxF2Rl6Fqv7JQBUJ5QmFvCOAPiM+o2cPruuY63Gm++oJ38IQuU+XVEGZQb4+vZj0R6eDKqz0XE9H6niFeiRJy4WareRt3Z2y+gmJCYfZAN6q7VW/9FSDvgfPsa5A=;+NhRNqntbXyQCCY/O9K5Aw=="
+secured: "1c+KHH4zJtRkh9T5rp3A0hYzjWVVJwm6JVcDaRMGJBU14lpOfjnQHiObViq4Y/7QwBqX6WQelRLMnWa1Wuw6p+pYCq4An64zZOtjjmIhuoupzdVxsFk0yEEtMw/i8WpKCpOIB0g/u8e/+3Q5VQrNwpx9g3ejuQwBn46pcfxaZYzUg3XTDgEFBozNuUM09RqR9CVIt1o/tPykYPFLVUXYVwhNd6ZvYOYKrGpHjA1AgYS189K8SfyxoDlnqXlT9nLyJF0nsTkL0S5YRmsEnW2zyn31/OStuvm5jQ9/41egkNigOIalj7u/wuOkk3n77gFgvg4EzEi0JiaCZ/pL3xUw7TnpOT2Bm+9L/PVDgTSMCwKTfLsg3qXvtNVBUdXrYa9QIG/Ztsc/CA64wpFbCmZss9kofmwD4PwjGlahqj2r+W4=;2V1X1OIxOHCTd0klJEAwJA=="
 ---
 
