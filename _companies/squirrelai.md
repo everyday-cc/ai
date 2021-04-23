@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "SquirrelAI_Edu"
   url: "https://twitter.com/SquirrelAI_Edu"
-  followers: 475
+  followers: 479
 
 locations:
   - Shanghai
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Squirrel AI Learning"
 
-secured: "qBscnS1aeW+NffxAdHwWsgxAo0SiIv9lTEbInYzpnEFdFdRZriZJ8x+LB8HZP3brHXAqAp2L6mbRydGQmZ92/JOHcUvU4K0j6QV0CXyCdiFrKpQL0CoDqyWQvb2GxPFxZKF3jWEwOm8TKc0O6vypF4za73BYgNWL+m255HrtW50JAQ66Xh+Jg5mueuz0uomlTZhmwgkww5MUIfoENKhuFQltzTTXIwTmIpIL2kV+AmGjzqCQZVxBGIsUbl6xMGU7scTm0n6cFqphRJQ3fb/SYFAjnyTyKZHj9DyNL32XDWgp6jC2kOnRVBhrjiLGORtxCMcUJX7AQW+mgScD5FssPJV33XImlGy0Ghq26kkBMTwKrT5TiorVF+mMbMfI6BUtSuwn/SHgvFKmOpzwJDZHZA==;0/aM9spZ5Y+xPBpQbwLoZQ=="
+secured: "XlMwwXYURQo9n0JvUpr1mPm/9JIbQFPcVm1uKZXvSMbFmzxWrYqTG4YCt2xJspccLDEM0MoLoqw1ACFfqDeLEnEjtQ97kDXdrlYr6Cm/Gd+r39uBYf0/pUS7xFXNd5BUWrFq4RuOZNmS4Vb9denx3Nu7aeRRPITEKsfqrz/V+z/wzOLCvhLzKZYM8MKLXrqTJKWuZbkEEdC2R/aK7VrL6SJXdkJgqG18ncByQ45sUIxZZpoOg8ZrDSsslZp+NbislAgJjYl8Ga26kBre0vT6j7WdeG5DsDivT35+MkiZjB9QwmbMUMe1bpjRsDOLnOHBPKMkCoA9+hrLRr80ZCzjsGzomG4FlLO3ejS4uYYr/m3aRALAawF9HAuFiKd0gHiFfHpDHUFQkEgthjI4idvlJQ==;38aCpr2EKdzzGwNg35B9Lw=="
 ---
 

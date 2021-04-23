@@ -29,21 +29,23 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Sets AI Inference Records, Introduces A30 and A10 GPUs for Enterprise Servers"
-    excerpt: "SANTA CLARA, Calif., (GLOBE NEWSWIRE) -- NVIDIA today announced that its AI inference platform, newly expanded with NVIDIA (R) A30 and A10 GPUs for mainstream servers, has achieved record-setting performance across every category on the latest release of MLPerf."
-    publishedDateTime: 2021-04-21T17:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-2021-04-21"
+  - title: "NVIDIA Crushes Latest Artificial Intelligence Benchmarking Tests"
+    excerpt: "Goodson dives deeper as in its third round of submissions, MLCommons released results for MLPerf Inference v1.0."
+    publishedDateTime: 2021-04-22T21:26:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6081e85001858f30506843b4%2F0x0.png"
         width: 1200
-        height: 630
+        height: 680
         isCached: true
 
-secured: "pXwpVKRkeFR6T/D0gSEtCMKNu5Yr9X++Z0EiEtK3qF7VVsbN6+3j9NQE9WllZCPhEzbOqOo3G7cy4hA4OBmiAj2fAB8pxNL+vXWgf/WR4+Oicv8iTI7ruoRg4hN6FE7sI2aFOSzJibTQ2kCbR7XkHajujZO3l76jlw32bi3DAAa+x2O8jB6CMhiJ44bXAPCDqB6ZQ0HEWPgg2Zj4QFrU0QMJ6ughTcy+TMMwh2hH7Hd2Yp+5Db0e6O7enb1FcUuVnj6sJs4KLeW9ac3XSfxpH5N1tnpC3kMnuIDnFNQuuAMFU1cn9GZ/2OlZrzOdGDZ2396Uq+eKk04rjvrHEYfacZgpl4lfwtPTdemJDgqb/k4=;Hx+GEnT5lwVZk8GYkfmRcw=="
+secured: "eA2WuayiChbw1HU5zN2eaSyRjhflvvU6HmuzAeaOsQiJfRRj3eRElKtq+hHi67OaoRtnTOWF7FNNnHd2B1NiWQnCcEDi5epxi3gNzUsOgkHLcoyoYQJSXo9lUKneHKPEriClY1/vgL2kvEpwkMDyaqiUihiA3IAEybzf1PJnvhwu00afzuVy86Ku73eoArCwjHJ/6gfSFC8zwvVa+/SvmOpgcdnE37+/cvAzB20zHeK4txBlAMmdjtGWMrvpji8mcZrfQlWJkVUIYU+QMFG0Nul5ijJl1C3TnjIU1wlClzPUF3emSK9uv0oFfvSwAwp19wb01CQDharZIDmfqxmA1xDSIw4yQ2hOwkasWbj2CdgS+tt3lDR/QdRL8He2EkeU+zHqu6pM1Z3wCU1mKrcRgy4yNp5sGbup/sHnBWhMHG5dEbQrJaMXu9xi7Y4cLWac+VGRu4ki9t7+Y/inJFkKTz/48LbMBZXOS1CKdMphh6yng6rvAMDRQHS/423RRftFdKUeSRRAS+DpDZI1TSTyiw==;kBWz4pC1p3FXhzTK/21zOQ=="
 ---
 

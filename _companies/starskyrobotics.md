@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "StarskyRobotics"
   url: "https://twitter.com/StarskyRobotics"
-  followers: 908
+  followers: 913
 
 size: 11-50 employees
 locations:
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-fjy3iaiWFw"
 
-secured: "vjIwSl/4wcI90Bz2w5wjfirP6DxOpkrSplUVJDLy2rz4/je9QVy7f4ENJkGaLhzwTBdUm9Ya566ilCL1cqYxj9D/9GNRLi4pECUIPI/BixXr9NHxQaqwZosdXJJppYPeGMBqctvlvTM9xmzPoagPqWL1G1x+BZlC2F5EV6JmtnniKk7vTIx5fUS7GFheTS9M/wLsCUUMuLSwbG9JWDriwIMTQRzeTXOsSFfjRe9US0njbYeUPcb4XEQFLOELZCP5KeBftKKsX7wxNpnwowO27+4fabEbQCnOvAUudof0sCKuF8w5rUmN1h87DXFHkHZbNfmEmh9YGWiGp2oBGjhtYVgxOs/dmaHPH771ERaUfpTPuHlPfdE8uL2ZTpoTqvq/ENO1Vd1UeZx5/I1EMgs2hg==;3dZuJ2PssWCjh15byy4Hbw=="
+secured: "l6LO8YY5ZciW6u4EIZSHTOSnVFl2QOq//TBjtXOQaV3bTpusrrSX08Wn0gwStioNXsg5A1fO/3nLU17WvYgLaQCaWlGk1Ebg2FtqL2QpAiarMYTb2+gwYTrkQFG03prRdcNNJoX62LNpTW9P8BcAkKM/snkQ5qH4mawtt2VFLMFylKt5UKaXvIRtJGb51OfrePpfev7f07DLxfOqqkwh93fWJhiMEQ7iO8a7n3bC25zV/rfZmedLF3RXluhYn0xgghWXyy7PPV1oigHeTkoi/7KyXMuZZLYMt65BnOGvPIDHfNu8SEsHUGiyxNxy9LPatffhHD1rZAnY52L5gcUCUxXScxfEzX9xrCjc0cuUDqrybZoBUUFvykA652+rRc6mgLVE0kIxayApmcEogm+xYg==;gOqxST87vKJYOGKpYuXpUw=="
 ---
 

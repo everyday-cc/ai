@@ -60,6 +60,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "E.U. proposes rules for high-risk artificial intelligence uses"
+    excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning."
+    publishedDateTime: 2021-04-21T11:54:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/eu-proposes-rules-high-risk-artificial-intelligence-uses-rcna731"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna731"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna731"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/1102/210421-vestager-mc-1252-9e482b_d2b35278be7c91736bbfaea0c20fcbf92f8af42b.jpg"
+        width: 2500
+        height: 1602
+        isCached: true
   - title: "EU lawmakers propose strict curbs on use of facial recognition"
     excerpt: "EU regulators have proposed strict curbs on the use of facial recognition in public spaces, limiting the controversial technology to a small number of public-interest scenarios, a"
     publishedDateTime: 2021-04-20T16:59:00Z
@@ -75,22 +91,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F366293b3-0031-4df7-ac2c-5b5c0908239b.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-        isCached: true
-  - title: "EU proposes rules for high-risk artificial intelligence uses"
-    excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
-    publishedDateTime: 2021-04-21T11:41:00Z
-    webUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
-    ampWebUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-    type: article
-    provider:
-      name: WBAL
-      domain: wbal.com
-    quality: 59
-    images:
-      - url: "https://cdn.s3-media.wbal.com/Media/2021/04/21/6b8548d1-c476-41c6-8ccf-1274955ca07f/original.jpg"
-        width: 512
-        height: 331
         isCached: true
   - title: "EU proposes rules for high-risk artificial intelligence uses"
     excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people's safety or rights. The draft regulations from the EU's executive commission include rules on the use of the rapidly expanding technology in systems that filter out school,"
@@ -137,6 +137,6 @@ related:
         height: 707
         isCached: true
 
-secured: "sns6mvyeHzdjxojMLas6fxlJeM9+epGtOEIpa70BwEXdVXgTvAN95F3ZLvZFhnbX4d1c4IEOB2+c0dQvnU3MxnL/AW0ge6fTSdUFtq2XyORhDxI3P9SPqAgPd7ZMKPXHuJypFiFlsfmNDByi5f4g95HBoFEkpMTBulUYHj9w9D5sRXP9y/IVfr65ZOSJol5fUj1t9DxaBlrOA6l8/qUJt/n/L1ulo8g8RfOAFyV0sHMI8j5TEzaB/ZWIijGjBlZAfSanCDYFwWJZtLKAQA/5W3OoS15COQSUz9QPvFe484uFXAHnucEvXBYdeuN1hByOJmlO8D2WerzCDxJlvjLOu6djBf7ZEldrvjgTp2kbRsY=;5NLn46cRmHeKRbGVytHDQw=="
+secured: "cFhTyIaJnPobM63lTi4s/KE1iUqhax9WVYE1wrO+dC7793TC+KJsWdq/yQ0E5JHmxfvjj3oN2kA9eUrV8oojGG9vzYnhwk46RiXuyyVcBwErtV8FOciQZkPcB6L2zEWuCRBV1myfZxXrjyCYrT9vb+RTQY5uQ63Cq46mMS0W8P6jxlgRHAv253WxTVhldMOVoahKqQ+swmKNiAgFLPDKX8Sefv6ORB44KSdZauqP/LDYIgzrhguI+02Bk1OBJybaGGpmZopbtjPbwyfNYJ5xdDdiqQu2BeqYAIOnsZ/yKKQkTKPqEDBcy5Pz1vElEuRBsIZPR/iXuB522jt+p/r6atjTadcr8m7Fcsvr7rSDz+pQv6rh4sR5Bchu4UdNZWc1I22OxuSctsI1GsGaB5NLbxw/o6UP51r3IFKtc24A7Dm881cxMliJWairVCRdS7zXm7DfxjiXhKv2jPF1BW6Dv6nxSM3fHtlJX/NdrkvW3TI+VzUmyhhKtTFbe8KGDT0vOkAu15xxP/0Fn8JfdzXOuQ==;B7Lp1/O2Y/+eE6Fh3jDDkQ=="
 ---
 

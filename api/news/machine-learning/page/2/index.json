@@ -2,6 +2,198 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-12-deep-learning-model-developed-at-uhn-to-maximize-lifespan-after-liver-transplant.md",
+      "title": "Deep Learning model developed at UHN to maximize lifespan after liver transplant",
+      "excerpt": "Toronto (April 12, 2021) - Researchers from University Health Network have developed and validated an innovative deep learning model to predict a patient's long-term outcome after receiving a liver transplant. First of its kind in the field of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-04/uhn-dlm040921.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-04/uhn-dlm040921.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-11T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se.md",
+      "title": "Machine Learning in IoT Market to Witness Remarkable Growth by 2025 | Microsoft, IBM, SAP SE",
+      "excerpt": "A new business intelligence report released by Advance Market Analytics with title Global Machine Learning in IoT Market Insights, forecast to 2025.This report provides a detailed overview of key factors in the Global Machine Learning in IoT Market and factors such as driver,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-11T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-review-aws-ai-and-machine-learning-stacks-up.md",
+      "title": "Review: AWS AI and Machine Learning stacks up",
+      "excerpt": "Amazon SageMaker Clarify is the new add-on to the Amazon SageMaker machine learning ecosystem for Responsible AI. SageMaker Clarify integrates with SageMaker at three points: in the new Data Wrangler to detect data biases at import time, such as imbalanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/686507/review-aws-ai-machine-learning-stacks-up/",
+      "originalUrl": "https://www.reseller.co.nz/article/686507/review-aws-ai-machine-learning-stacks-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/aws_website_crop.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-11T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-10-global-deep-learning-market-size-share-value-and-competitive-landscape-2024.md",
+      "title": "Global Deep Learning Market Size, Share, Value, and Competitive Landscape 2024",
+      "excerpt": "Global Deep Learning Market Overview:Global Deep Learning Market Report 2020 comes with the extensive industry analysis",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-size-share-value-and-competitive-landscape-2024-2021-04-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-10T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-ai-weekly-continual-learning-offers-a-path-toward-more-humanlike-ai.md",
       "title": "AI Weekly: Continual learning offers a path toward more humanlike AI",
       "excerpt": "And we do this completely for free, for anyone.” Even highly sophisticated deep learning algorithms can experience catastrophic learning or catastrophic interference, a phenomenon where deep ...",
@@ -251,6 +443,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-like-us-deep-learning-networks-prefer-a-human-voice.md",
+      "title": "Like Us, Deep Learning Networks Prefer a Human Voice",
+      "excerpt": "This study opens up new research questions on the role of label representations for object recognition. Credit: Creative Machines Lab/ Columbia Engineering",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/like-us-deep-learning-networks-prefer-a-human-voice-347433",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/like-us-deep-learning-networks-prefer-a-human-voice-347433",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/like-us-deep-learning-networks-prefer-a-human-voice-347433.jpg?cb=20210407",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1139,224 +1375,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-dall-e-openais-new-neural-network-wonder.md",
-      "title": "DALL-E: OpenAI's new neural network wonder",
-      "excerpt": "The future of AI is shining bright. AI expert Sahar Mor takes through the experience of OpenAI's new neural network technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
-      "originalUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/xiY4gazanXp5xT5BGYXLZDsup4PnFGuMiEE79Cb0AgXSDJoobxrJzrvKlCF8-Wo3VJOxY-HDuu4qlIUisNPeOmyIl1qPXuWcIJw5vyOVeHZQn-wO1GphnxPLdNGFhIcXL5kFuVEJ",
-          "width": 1134,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
-      "publishedDateTime": "2021-03-30T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-artificial-intelligence-is-learning-to-categorize-and-talk-about-art.md",
-      "title": "Artificial Intelligence Is Learning To Categorize And Talk About Art",
-      "excerpt": "It’s hard enough for humans to categorize or discuss art, but it’s even more difficult for artificial intelligence. Several research groups have tried to apply machine learning to databases of artworks to sort and describe them in a meaningful way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/evaamsen/2021/03/30/artificial-intelligence-is-learning-to-categorize-and-talk-about-art/",
-      "originalUrl": "https://www.forbes.com/sites/evaamsen/2021/03/30/artificial-intelligence-is-learning-to-categorize-and-talk-about-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6063830b85c39ae0e8ce7e1c%2F0x0.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/evaamsen/2021/03/30/artificial-intelligence-is-learning-to-categorize-and-talk-about-art/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evaamsen/2021/03/30/artificial-intelligence-is-learning-to-categorize-and-talk-about-art/amp/",
-      "publishedDateTime": "2021-03-30T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-rust-detection-using-machine-learning-on-aws.md",
-      "title": "Rust detection using machine learning on AWS",
-      "excerpt": "Visual inspection of industrial environments is a common requirement across heavy industries, such as transportation, construction, and shipbuilding, and typically requires qualified experts to perform the inspection. Inspection locations can often be remote or in adverse environments that put humans",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/rust-detection-using-machine-learning-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/rust-detection-using-machine-learning-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T09:20:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy.md",
-      "title": "inSearchX Partners with Strategic Visions Using Machine Learning to Help Customers Find their Ideal Car With Uncanny Accuracy",
-      "excerpt": "Startup inSearchX and advisory services firm Strategic Vision announce they have partnered to deliver an exciting vehicle-matching technology that pairs new vehicle shoppers with their ideal vehicle match.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy/",
-      "originalUrl": "https://www.financialbuzz.com/insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-a-rundown-top-programming-languages-in-machine-learning-in-2021.md",
-      "title": "A Rundown: Top Programming Languages in Machine Learning in 2021",
-      "excerpt": "Python is a widely-used language, however, it is the essential choice for the greater part of its users because of the arrival of TensorFlow and a wide selection of other libraries Python is the most ideal choice for amateurs in the field. There are a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/a-rundown-top-programming-languages-in-machine-learning-in-2021/",
-      "originalUrl": "https://www.analyticsinsight.net/a-rundown-top-programming-languages-in-machine-learning-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Programming-Languages-in-Machine-Learning.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI",
         "Machine Learning"
       ]

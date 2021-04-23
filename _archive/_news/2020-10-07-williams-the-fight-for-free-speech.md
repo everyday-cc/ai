@@ -1,0 +1,159 @@
+---
+category: news
+title: "WILLIAMS: The fight for free speech"
+excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
+publishedDateTime: 2020-10-07T14:03:00Z
+originalUrl: "https://nsjonline.com/article/2020/10/williams-the-fight-for-free-speech/"
+webUrl: "https://nsjonline.com/article/2020/10/williams-the-fight-for-free-speech/"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: North State Journal
+  domain: nsjonline.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://nsjonline.com/wp-content/uploads/2017/08/ws-326x245.jpg"
+    width: 326
+    height: 245
+    isCached: true
+
+related:
+  - title: "WALTER WILLIAMS: The fight for free speech"
+    excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all"
+    publishedDateTime: 2020-10-11T11:00:00Z
+    webUrl: "https://www.nwitimes.com/opinion/columnists/guest-commentary/walter-williams-the-fight-for-free-speech/article_4ec7a493-ebe9-547a-b70c-213659e6e188.html"
+    ampWebUrl: "https://www.nwitimes.com/opinion/columnists/guest-commentary/walter-williams-the-fight-for-free-speech/article_4ec7a493-ebe9-547a-b70c-213659e6e188.amp.html"
+    cdnAmpWebUrl: "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/opinion/columnists/guest-commentary/walter-williams-the-fight-for-free-speech/article_4ec7a493-ebe9-547a-b70c-213659e6e188.amp.html"
+    type: article
+    provider:
+      name: Northwest Indiana Times
+      domain: nwitimes.com
+    quality: 44
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/09/f0993cf9-caa7-5431-9f1d-87149123ba8c/5a74c4ad30573.image.jpg"
+        width: 442
+        height: 619
+        isCached: true
+  - title: "The Fight for Free Speech"
+    excerpt: "Leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty. Chief among their lessons is a need to attack free speech in the form of prohibitions against so-called hate speech and microaggressions."
+    publishedDateTime: 2020-10-07T14:30:00Z
+    webUrl: "https://thenewamerican.com/the-fight-for-free-speech/"
+    type: article
+    provider:
+      name: The New American
+      domain: thenewamerican.com
+    quality: 24
+    images:
+      - url: "https://thenewamerican.com/assets/sites/2/media/k2/items/src/e686115d8bae0aa58bf88143240c00cb.jpg"
+        width: 947
+        height: 500
+        isCached: true
+  - title: "WALTER WILLIAMS: The fight for free speech"
+    excerpt: "The violence, looting and mayhem this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts common sense and the principles of liberty."
+    publishedDateTime: 2020-10-08T08:13:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/oct/08/walter-williams-the-fight-for-free-speech/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
+        width: 340
+        height: 246
+        isCached: true
+  - title: "OPINION | WALTER WILLIAMS: The fight for free speech"
+    excerpt: "The violence, looting and mayhem this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts common sense and the principles of liberty."
+    publishedDateTime: 2020-10-09T15:01:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/oct/08/walter-williams-the-fight-for-free-speech/?news-columnists"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
+        width: 340
+        height: 246
+        isCached: true
+  - title: "WALTER WILLIAMS: The fight for free speech (column)"
+    excerpt: "It is a tragic state of affairs when free speech and inquiry require protection at institutions of higher learning."
+    publishedDateTime: 2020-10-08T18:16:00Z
+    webUrl: "https://www.annistonstar.com/the_daily_home/free/walter-williams-the-fight-for-free-speech-column/article_6453e9d0-0992-11eb-8ff8-0b2a3e72f26b.html"
+    type: article
+    provider:
+      name: Anniston Star
+      domain: annistonstar.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/annistonstar.com/content/tncms/assets/v3/editorial/4/74/47436cd8-fb52-11e5-a7e1-d36fba67df42/5703f3478401e.image.jpg"
+        width: 398
+        height: 330
+        isCached: true
+  - title: "OPINION | WALTER WILLIAMS: The fight for free speech"
+    excerpt: "The violence, looting and mayhem this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts common sense and the principles of liberty."
+    publishedDateTime: 2020-10-10T02:09:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/oct/08/walter-williams-the-fight-for-free-speech/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
+        width: 340
+        height: 246
+        isCached: true
+  - title: "Syndicated column: The fight for free speech"
+    excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all"
+    publishedDateTime: 2020-10-10T20:00:00Z
+    webUrl: "https://www.victoriaadvocate.com/opinion/syndicated-column-the-fight-for-free-speech/article_ccf9ce20-09ae-11eb-ad49-d79bc4f11557.html"
+    type: article
+    provider:
+      name: The Victoria Advocate
+      domain: victoriaadvocate.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/cf/ccf9ce20-09ae-11eb-ad49-d79bc4f11557/5aa69fbb7d1d0.preview.jpg?crop=502%2C501%2C24%2C23&resize=502%2C501&order=crop%2Cresize"
+        width: 502
+        height: 501
+        isCached: true
+  - title: "The fight for free speech"
+    excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all"
+    publishedDateTime: 2020-10-11T11:00:00Z
+    webUrl: "https://www.avpress.com/opinion/the-fight-for-free-speech/article_b9de26dc-0b67-11eb-9ca1-eb5dd62cc38b.html"
+    type: article
+    provider:
+      name: Antelope Valley Press
+      domain: avpress.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/assets/v3/editorial/f/9b/f9bc5016-55fb-11ea-ab48-97fc893c78fe/5e520b6680ef9.image.jpg?resize=311%2C229"
+        width: 311
+        height: 229
+        isCached: true
+  - title: "WILLIAMS: The fight for free speech"
+    excerpt: "The violence, looting and mayhem that this nation has seen over the last several months has much of its roots in academia, where leftist faculty teach immature young people all manner of nonsense that contradicts commonsense and the principles of liberty."
+    publishedDateTime: 2020-10-11T10:15:00Z
+    webUrl: "https://www.oaoa.com/editorial/columns/opinion_columnist/williams-the-fight-for-free-speech/article_9b947194-0a55-11eb-895e-4f7a232c9374.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/a/94/a940a970-0a55-11eb-9064-77d50a5280e8/5f809f1b4da54.image.jpg?resize=300%2C207"
+        width: 300
+        height: 207
+        isCached: true
+
+secured: "clal/yipK+Euyev8RdWWzbs8DTYHuVu0/vLrw1m9t3jmq3j74Ar+QCS6KxVbVrm04UE735oocyMRMvuVTWK9K01aL8p+69PD0qoODvuWyHd9CWYFMFiytTgol1ZI1rewu+AQpxpbKMrkNRZDGu0gFCaJMEVvlluqaWf6+y5xxytuMvielGQ4MyLQo/f4t4yZ/5kYrZdxa00lX9joHzYc4M7f2Ya+UOhJJOrSxPW2WKwxIuaRHXyw+MCyEX6JakSid8uVnTkb6OA36nXcm+rpiSk3aiwjcsPRMsWD7iHm250C3Hfyb54M33wi00+X0fTFGelGvTW9DGqpTemdsvHkKFJJBOL4Bg57kInGmEJWukG+pZY970NNlAl1xXUqz//vF0+4c3kojRQxWFnGlW+HlaaNQ96Xpf6DSKcl78mPREe/xp85tyZLLBPN2ZSihXii42rqExd+XBEtWPkYd4QB+KylmUhPbskGlT7J69A1X8v/YDs1bcDS3nDKGn+FvbofcWWkHDOWeHVqY372oyBf4w==;1iJCiYQw/+Xyhm29K8N5fw=="
+---
+

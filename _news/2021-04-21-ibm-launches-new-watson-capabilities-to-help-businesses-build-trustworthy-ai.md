@@ -1,27 +1,29 @@
 ---
 category: news
 title: "IBM Launches New Watson Capabilities to Help Businesses Build Trustworthy AI"
-excerpt: "IBM (NYSE: IBM) today announced new capabilities for IBM Watson designed to help businesses build trustworthy AI. These capabilities further expand Watson tools"
-publishedDateTime: 2021-04-21T14:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai/article_8f4048e0-5fa5-500b-9974-cc2fdbd21e0b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai/article_8f4048e0-5fa5-500b-9974-cc2fdbd21e0b.html"
+excerpt: "today announced new capabilities for IBM Watson designed to help businesses build trustworthy AI. These capabilities further expand Watson tools designed to help businesses govern and explain AI ..."
+publishedDateTime: 2021-04-21T14:50:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20727354/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/n20727354/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20727354"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20727354"
 type: article
-quality: 51
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/60801e8f02b1c.image.jpg?resize=1200%2C627"
-    width: 1200
-    height: 627
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 498
         isCached: true
 
-secured: "kaMVkDQuZxDvi3sy/UES+4VNkfGoD5TxDcnNOJMweyWCAaltR/qdX8BQ371bQ/lhAyZ5LLfSYAjtfp4MhasTg548gWlIpf6IMvnslm43z8yV5r+LDzWbrQ2B0QkIwUUWUeHB9seYY2A2aK8y2k6HiAgXHl43eUF1gKfmXfzSjvuEgctto6OzfUnBVxqhSl22Jlpo74WRljyK5c5wv6UwvyUq6MjsymgAPwnpZRgllNR+od8KYEGHvrpXnKKaVZD6ieHWp6Do1HjSNHP6p0jObCrrrhJG6ghDVEwI0TXEps01JSRIrSgeSYf1nCMx3czu/UYCRS6kDGCKGvHgeady5iqbYqxFq34vybQeAy5gGwA=;iR4OncvzDGrjc5BA4gHAzQ=="
+secured: "bVIrPcH0c6XUYlWBJ5OCUiZMXTgCB9PhcDU7i9wnChOAjjz0+exKoWYE0ZZvypGFv/myw/sSNKSpbRxVW+ik1/aCEQWIf0MROBqkNDJ1A6Kfev9OG5OWq+7/zblxYKGWpZ/1f97UaTWJfCTcnGawWAEpTcIwdAmGaxyQtwhzUNn32kvCsWHP0h/kUFVvV6WbOhSp/J2T07Ms9ZSrzXp0tQ40cFS/s1etls3XHwnJKBTYFXz+jkP9cMHINtyVahaQepfkVG2FL6tNgnWaCMmoP4nKxruClXZfjkqGg215lSMjv9A+pCYgiudbapcZmmMzuNLSvF17wCaCzGaAhqlcZQy1fLTTAKyx0p6VyWd9igU=;z3D86VTFADNEbZc82gf6/g=="
 ---
 

@@ -49,6 +49,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "Autonomous Marine Navigation Startup Orca AI Raises $13m Series A"
+    excerpt: "Orca AI, the industry leading AI-based navigation and collision avoidance solution, has raised $13 million in Series A funding, taking its total raised to over $15.5 million. Orca AI’s solution is the first step in introducing autonomous features to vessels already on the water."
+    publishedDateTime: 2021-04-22T15:28:00Z
+    webUrl: "https://maritime-executive.com/corporate/autonomous-marine-navigation-startup-orca-ai-raises-13m-series-a"
+    type: article
+    provider:
+      name: Maritime Executive
+      domain: maritime-executive.com
+    quality: 37
+    images:
+      - url: "https://maritime-executive.com/media/images/PR2021/Orca-AI-Co-founders-.c992b2.jpg"
+        width: 643
+        height: 361
+        isCached: true
   - title: "Autonomous marine navigation startup Orca AI raises $13million Series A"
     excerpt: "Orca AI, the industry leading AI-based navigation and collision avoidance solution, has raised $13 million in Series A funding, taking its total raised to over $15.5 million. Orca AI’s solution is the first step in introducing autonomous features to vessels already on the water."
     publishedDateTime: 2021-04-21T18:00:00Z
@@ -61,6 +75,6 @@ related:
       domain: hellenicshippingnews.com
     quality: 37
 
-secured: "JxEOZ3xnDmRnpV28Tk75U/j2H8hqVVQTOlLQpMJT/ZETcfnL2c1M7wlxnZYeYKyuGdcVUa3SBr2KF89Upfk8je0du5CmmspPhlVscYDBNjqIybTiJn4eq08N9TlNk1Za3WwXR4/YpQFpRiCD6SSewWSxVBs6juZeMvOP75FdsY9meFtBY3P5cei8grO2HF1uJTj+XX4bV8qEGE8yn0Uy3vbnSRXM2AX7AgFPuzUqPAe7vsy5fBXRWeCkA/N0EPpJouB3pvV+LXoRYK8VB6fo+Q5NpzqifF2NcIciB63j1O+poJ0QtWK7XoFGItcUNkkmLNXa1NwnhIn/XxNmB5gCq1/9W5Y/h4i5K28ZTU2Dh1M=;qvu82U7211GDFADmb+OhMA=="
+secured: "u9PZq+jLIzFssZ5gXsF3JeAyw99FqS+S0jqOxosj/9vYe1u4ZpRGytFa9sPNeVJBpYUEkQyBgTyN4rGdbj5rvRAFbK1kVwKDzQS1odr5si/IcQrcz2DDpPwVuH2tV8+not//ZI5TOeRC5XK0rNEd4L1XoD7/cKdqj3NZbOXlMLy1yKoT8cRA2bINGRIN+lllAku9z2Y+gj4sIkLf3dV0EEr5OR9Im8EHO4sAvBHPhcfxGLZyeguHNPH62T85K/DZbzcajbZCac/JkZUJ4+x6/aJbIBX6PFxv+bruWyL+IjrLeEFbxIhy2K6zFqDeQXDvJrdKb/6G/Wcgxkqq/9sA8TA3GIA8hdCgkeq7f9Dqxxk3f2msyiFx+LdiJ7YKa9yXY/G/aF93M82tKN15rOlgfcCtvg8IGQZmDW1rhfmVPQSkFCW7C8COU/X+5u/kPLwGcCDbDRHlPgqAvMX7WoGVnaKShDZKoLBwmWPgKpWsxXx+H0jy4rhGlKJ6vIa1Kydsc3PnXdA+V3IdotOtP9TF6Q==;GoqTN1w8aGQLZZOIe2F1tA=="
 ---
 

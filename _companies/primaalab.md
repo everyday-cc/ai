@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "primaalab"
   url: "https://twitter.com/primaalab"
-  followers: 33
+  followers: 34
 
 size: 11-50 employees
 locations:
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=3CQMfhc6Atc"
 
-secured: "qaleESEvRH+gnhE2nXal+M9XoqFTWkq5Y/TqpcF9pboQgrTMkgxtNErKiji6fZDv8y8uxOpD0Kn9arXZTgpAZnQQKIXl95tLdOtO5sIAqmyoJ7VuXOsb0gZILRsn9rRmiQ/G092CA4vuKnagw8iuj4mo1ANXHlmlfUrAMFi5eiAQaRyoOmgyMvrP9Mbym5lP71xY5Ghm7QzzxKOYNdl030XrOuE1KJMUKhk3eB/KkOdeWaKxIPM+6WlXK3IEfw0ps8SP7PlveCuqRwSM1u0bZQxA1M+erj6bQ4X81KpZV4ap5Am3EgmClATgWmvIjtYsXicEVYFJuTBtGyRAyfFtpcVSUVFFG8ajcaqtb/m0m60HufbJtuXOid/gtF3OW0+2PDx4whZUmHjVRMuPpblNQQ==;MxtmnhuQSg5jiwC6Iga4xg=="
+secured: "cMxOQ6dj2AN4Z/7zotgdoAW2VwlI0pB/ra6o4db2JqTvFvU7rLB1GhGCF6f/C3WlC2l6bCo/R9Ub2osM+eyiLVF5x8uZy+qQHEdKj51fBzRgnOBuR/Sel2NcwVZhsT1NUshMl2vIvwPIBZ+hwZykgn8fOioWJBHDMh6j0OuVuQz6lD5HglvI5wupFJSSCJ4XGrvLXlZXy3os63jIW1gjl4Yu34DMmNjuDXRRACYpbP114RVYVfv+kNtJ09ESu/Y6eZBJzImoq1xQIbUryFhLaVDMSMS4o9iFBvbZF5mhWCNFLXNhFs5A9DXB6B/J09wc/CXT75fW5ATMONzh6kCfSJhCkULzG7HZS7GzKWW2TDm421XwzxVqEZLtACJPCvsucveHUn5LiQIXkyZRoka+8A==;BJelg9fBLk8NtQnEOaw/zQ=="
 ---
 

@@ -3,7 +3,7 @@ name: "Joy Buolamwini"
 bio: "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software."
 location: United States
 type: "profile"
-heat: 255
+heat: 374
 
 affiliation:
   name: MIT
@@ -14,7 +14,7 @@ website: https://www.patreon.com/poetofcode
 twitter:
   username: jovialjoy
   url: https://twitter.com/jovialjoy
-  followers: 47370
+  followers: 52533
 
 linkedin:
   url: https://www.linkedin.com/in/buolamwini/
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Joy Buolamwini"
 
-secured: "EpLFmr8plX2UYMrqsteBzz+rh43hOwKXr4Tm65+MsqCw3hS7Mmc7gysZ+tct7aWE9WQcnGZJjCPnYptD13iFI9NI1vai07RGl2YI6cKGBgTyYc0brE/gxTVLT+u1q5fppTQvHcfojG2/aYxrua/EeHsAE0HAtK8U9wgUlt0r1QMQ+uvhfp8w+Phdqs+MyfTifDv7c8EXAYa7ufgJha+o0pzdqA8Xl6MiY0badFU/SuFA5dQ5GXUS0mGI2FuUiWJze5HCn8rQGGRa+/j9TM6TR03DASRbOK9PgZBM2NxgP8INAdMlsattYQrC/0FOpqXLvGA/V3BZ5n07YClEpGzybz+irNr5JdJ4cF59XBqMyj5ykC4hsOVoyr4wO6cJpL3wIpf61OwDf0Xm1Hajcnnf0gAxqyVwk6zp6rtFwsZ94Cc=;+3VjdxKLCwGerH+mcpq9Mw=="
+secured: "0PME3cwX7O2E9CNioByHPRBqd2pt7cP2rIpcXPRDHv3fZjeV78/bx6eqTtF6g3jtt9mXcjeiLP8/0rvhDuBxAFXYucqopEJQ/pRICuavlf1BBkU7/OR2d2y44OpwjN2Uvt7jpLAQ2UWZLcIDwPLiJ6b5BLnNS3Yuf8f/1uVplciVFKxwG1AKNIQm7nZGzLm/rxlLlNMaabK0jYSa1hQEEMZ9sYYMFNNS6dRhaltp0H97SZB4oYZ7uQn2CHo6AKBVkSFt0nEMtRlXGteD92HdIKSBe8LLhyS5QTvbUXdxgwMgFiI4VN8/eJo4qJMdm0DsYxbA6w/gZm/A8K3pZpjcsH/l+S1Y7GB1lZ/gLHLXVsOiDK6fLZft0PZNWo+CjNlNTfujklRA/CxIeOGjkRe3m6q9TZGAu53uWu0ElZ1Za84=;pzdtBGOfiHdg5eM2YrvX1g=="
 ---
 

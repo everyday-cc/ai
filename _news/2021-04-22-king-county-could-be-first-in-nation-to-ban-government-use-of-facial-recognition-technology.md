@@ -55,20 +55,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Bucks County commissioners pull facial-recognition contract off agenda"
-    excerpt: "The Bucks County commissioners dropped a contract for facial-recognition services from their agenda Wednesday after residents objected to a potential high-tech threat to privacy. The agenda available Tuesday listed an agreement with Clearview AI \"to provide assistive technology for law enforcement\" for $25,"
-    publishedDateTime: 2021-04-21T17:54:00Z
-    webUrl: "https://www.wfmz.com/news/area/southeastern-pa/bucks-county-commissioners-pull-facial-recognition-contract-off-agenda/article_9a8aaa8a-a2ca-11eb-bb9d-e322f59d90f8.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/b4/6b495390-e0aa-11e9-aae3-b30e89b9bb11/5d8d37d28467b.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "3gqU7qNSSPGTx0bY8ds7RIn2AxvfOrzeS/oH+YIcsTuCBjbjODi8dCebCarPU1qPSnXrFTBrwCU/ktGvVAGtj8QO9grAdAVwOa02lIo4SVbDm7CZ95p8/oz8LOlP9nAyCAuPh4g//Z9+V2j9s7dcJ6nlbGhuuLQDgf0LXm/rE0dubgU0G3fccdkvfE8C5L7yGukqRsfCwB3NON26HINZv5Bd6TjGxhLIwwB5x/8oc+3hSjp0MT+TsU1pQdeWj7HBE8fLl5DWXI2vRTiKllSHRw6HaRSFpwxnAmBj1W+5dz+Prq/SidOcoTcXnaySG3JLmjnZ2rFOU9VbV5t6059XAjTNUheKE6J1XpTr+53ey9k=;4BPfpX9xprezimhsvw4KsA=="
 ---

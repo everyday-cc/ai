@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "mapegy"
   url: "https://twitter.com/mapegy"
-  followers: 280
+  followers: 279
 
 size: 11-50 employees
 yearFounded: 2012
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=FM_2nxVEIOs"
 
-secured: "ZjdSE2e3iTqieLXiWiTt9t6/Ylc43xtQGyvCOZS/Eeotu0h6vk9Pa5iRr93/izxvjM3gU4apuGGppDFk0h1PgmuUVonKDfrtnPBWlUp28jpDGi0Z/clapowOzsZbkZVjSYAly5xXGC9nj9rnyv6wYZjKcbWCPfttDaV5C0rZONwoocMEMXbb094oRdpWDg+FGNAdTGKqlGI1cOy6VUmjhj+ED8n9l/WmqQJq1X/X96AYfKQRmWKBzEFmDi8mCpjp5kDC9IqEvZlJx3efXTmn6Iwo8GjntHYmAyk4057B8uJoXjYig09y0KIG1EGS7VB0MoJmJ+HzKdFlGC3PyOvP3tkEbXG/gWQHx/WYay6aszvFFzWlMJydvZMLpU7+F6L4L43ARczXUrbJV+63T3NnCg==;TDYf/PeVc3FwNgkoURUzdA=="
+secured: "PFapushOkVQhBcvY9+mBYKNWyBdrphxOuqdiX+Td6JxI6bPLbKhv5OhURkTekwQrSCrOrhgO+sh08a0/TSbJcOmP04YBhA9XS4sNoLrBoZbkkGOxFtjyUegHqmA68NZdpPRV40nJ/crM2Gi8E7ZRMbTo3bf0SEK5ZkNpKMDcBp6Eb96e4+K4sFfvSdvdnhSfbS9vAAEgdY7tjDG5ZE3/Gb1sqOQl5xo0rh7tqH/wxyxwkyKloqkzAFJWEjs0v+63ZMDBRDK1yNQETpOWo/3lTcJDC3zRtXa0gAYNvL4oUlnYiEFigxoYlWq6pv87B3G+wAPDXGzcFwf01xo768GyCc4d/A9qpb7fiF8S1ihrVcad+J+OuEg08EQXv3ugbq/xIErOqxlXF8UrNz1ScFD2Lw==;jVcG/Vuf0I4vrc9Xw8Zblg=="
 ---
 

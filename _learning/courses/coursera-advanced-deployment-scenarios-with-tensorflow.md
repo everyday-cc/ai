@@ -14,14 +14,14 @@ provider:
   name: Coursera
   domain: coursera.com
   images:
-    - url: https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg
+    - url: https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg
       width: 50
       height: 50
   publishers:
     - name: deeplearning.ai
       domain: deeplearning.ai
       images:
-        - url: https://everyday-cc.github.io/ai/assets/images/organizations/deeplearning.ai-50x50.jpg
+        - url: https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg
           width: 50
           height: 50
 

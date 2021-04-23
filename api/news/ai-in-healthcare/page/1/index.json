@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-23-artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.md",
+      "title": "Artificial intelligence helps identify new key-lock pairs against coronavirus",
+      "excerpt": "The human immune defense is based on the ability of white blood cells to accurately identify disease-causing pathogens and to initiate a defense reaction against them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx",
+      "publishedDateTime": "2021-04-22T21:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-jpmorgan-chase-vows-again-to-address-banker-burnout-live-updates.md",
       "title": "JPMorgan Chase Vows, Again, to Address Banker Burnout: Live Updates",
       "excerpt": "JPMorgan Chase’s co-heads of investment banking, Jim Casey and Viswas Raghavan, announced policies aimed at improving working conditions amid record deal volume and",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -102,7 +145,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -114,7 +158,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -245,6 +289,49 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-global-artificial-intelligence-in-medical-imaging-market.md",
+      "title": "Global Artificial Intelligence in Medical Imaging Market",
+      "excerpt": "Added a New Report on Artificial intelligence in medical imaging Market Report the combination of best industry insight practical solutions talent solutions and latest technology have been used The market report is a comprehensive study of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2270936/global-artificial-intelligence-in-medical-imaging-market",
+      "originalUrl": "https://www.openpr.com/news/2270936/global-artificial-intelligence-in-medical-imaging-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U415772049_g.jpg",
+          "width": 696,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2270936/global-artificial-intelligence-in-medical-imaging-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270936/global-artificial-intelligence-in-medical-imaging-market",
+      "publishedDateTime": "2021-04-15T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1274,92 +1361,6 @@
         "AWS AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-ping-an-askbob-doctors-smart-imaging-model-for-diagnosis-of-pelvic-and-hip-injuries-is-a-breakthrough-for-artificial-intelligence.md",
-      "title": "Ping An AskBob Doctor's Smart Imaging Model for Diagnosis of Pelvic and Hip Injuries is a Breakthrough for Artificial Intelligence",
-      "excerpt": "In a research paper published in the international journal Nature Communications, the model is shown to overcome the limitation of other artificial intelligence (AI ... to continue offering our pelvic floor therapy across northern California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19728461.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19728461.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-artificial-intelligence-in-precision-medicine-market-research-2021-to-2027-post-impact-of-worldwide-covid-19-spread-analysis.md",
-      "title": "Artificial Intelligence in Precision Medicine Market Research 2021 to 2027 Post Impact of Worldwide COVID-19 Spread Analysis",
-      "excerpt": "The Artificial Intelligence in Precision Market research report offers qualitative and quantitative insights in relation to industry growth rate market segmentation Artificial Intelligence in Precision market size demand and revenue The current trends that are expected to influence",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2263942/artificial-intelligence-in-precision-medicine-market-research",
-      "originalUrl": "https://www.openpr.com/news/2263942/artificial-intelligence-in-precision-medicine-market-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U331110154_g.jpg",
-          "width": 780,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2263942/artificial-intelligence-in-precision-medicine-market-research",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2263942/artificial-intelligence-in-precision-medicine-market-research",
-      "publishedDateTime": "2021-03-31T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

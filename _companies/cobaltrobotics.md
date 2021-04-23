@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "CobaltRobotics"
   url: "https://twitter.com/CobaltRobotics"
-  followers: 1296
+  followers: 1299
 
 size: 51-200 employees
 yearFounded: 2016
@@ -47,6 +47,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=68rBm8bm9AA"
 
-secured: "0VvKipnsELFlG87eWjWoiSMHqv8MQnV8k000M+WQlr0ycZTwdDcS/AuEAaoRb+SvnElUOoh5YXdSrjNmhqtA04PkFMLjTZL9HEvXgeK30d8GA3Rd4VVW8F2spN6mR+B0ygS/WD4w2Z+c4xfEKmOaHo7qDVIN5ETPWWk5//fB6Jj1g59lcmZlfUE6iItQrU4SvzXFyeESsKz6AGY7iGyRKo1NbI8lsIQjAgkllihppkB8xjgV2168WUgTyi3CyCmHDefy+2JQz9E87ShsZSbR5Di4KZPRlqe4b5X5CMn2+yfTp/tVBBr+TSnkH6muo5NJvfq1Cn5P7Tp0kwp5aZjFAwmplA7hMlaESsq6JpxS+/F+OX3+Hq0wrI6IK4+c7eayD8H39NHKJj8iIdTE3Fqx9NHsWIfb7ACFQ3ERZ42KyIQ=;JlEa63qf1AVHGaxeE5EOhw=="
+secured: "iLYfCe+LxQ97boOoE/tfRFUTnI2eOx/I6zXA3oWOPwrz1k+PoSVIQPaOzEive70qKMfxugoC2uMJuLpxZsTdWwCZ1488tAt9mVk7ZKYMwJbWE6D7wfdOkLv1ytm+15PR+JT+NqQ3My5rkpKsw2GT95fv+2VFLkEqSh+W9zbZFqKWzAbiIOumEcF6enIapH2MP1mjP1G0J+wS5U40EwJtrWL9QCYD3JetrhMatjYCe5X4G86tDnYyIRX7VXJUjxCAyPVTgfLk/ew7LK39p+m2sbdHakCGT8axj7C5mx1jUWQxHQpRK+t7kWkotU7dFke9Yx7vKIIG8eYSw3LhXAOKD0Jxz96TSFNIduiBNV5HPDM0srRHuZ3ce89GU4dFmL52RDE1PVMDZiGn9z5fiKB3qB79r81stq2jbke/q7mUTBc=;nT1b3QaPOOLu9ejV5/egzg=="
 ---
 

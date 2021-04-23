@@ -2,7 +2,7 @@
 name: "Sighthound"
 overview: "Sighthound combines machine vision, big data, analytics, and industry-upending intelligence to help see obviously valuable information in previously unobvious data."
 type: "profile"
-heat: 50
+heat: 41
 
 website: https://www.sighthound.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sighthoundinc"
   url: "https://twitter.com/sighthoundinc"
-  followers: 410
+  followers: 411
 
 size: 11-50 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=JdZBDfOO25I"
 
-secured: "5eLbNHowVERnGTAuuZ8L8tArkcO+Ef9AATFQd9fFvLZJH/o3qsmsJLxR4zGxMtJ8NAZx3Xp/KDqRYqXvzwGwT0G/AZ/YaUbJ8T8jO0Ui2sDVbQx58Dprm0j3vQfa8WGg2luL6tXIm3RuZykVmKBuT4lpoSjCSPbjbBcjLboMvD34T0Ix+MCwJbc8+XA9S3R3HqydoshM63Ai+eItXmu5NDqBwQ3D/ZcQvEmLWZDPG4wZyUE33GxvF2Ey01EfnkxDQyVrbHEJXVKRTVXrAL2U+Fj3GClupjhOQ+Gf3/+ScqgNmh/fYZfYXxLcjk4w81zij+Uenl3r6jrNWgwIu07cZvLZAT0kafMCGFZ+/z/ZFbd03+POieKd6W5ZQGPpLpHJ3Q1/uZgCfg4qJuLq4a1lSA==;K1ZawRiGF4Axu/NesiHGbA=="
+secured: "T59f9sLdExteXuzancCWJz5V+um5kn1GLlvHaT2XkbZsRiKU2zKRs7qMAT2N6WwmJPTjsOPdL/JutDYiP6X0ls+dDzAqev+sgYKUUhKJbEvSSDkGnxgm7dR5X5YvzaSK3BJY+OdeJkfijJOilEgrQVffjAb4MVikVnbBF7ML6cHvAtAPCCt9yhkrB4DaEq+ucVkeCWkBOZqU7728jCUar/x6sMzIwi2QQQrbByjGteiVqK3a9hXbNrLX9hhJ5ydCBWCuXdqJ4xrLkpupKidhoNTB/aSwyRrN7wZFvfARW6yvwy4jRdBgSC5vKDc6dEMT+98mWVnJyIqX+yWswkEljyxTyV4c4p2Nd7oQkbgLPQml/6mSW6C+L6A6p0w9Yy0fz75rgXd5G/ZLduyKMaNE6w==;CZ+YyVR5vSB+UNXSoxChfQ=="
 ---
 

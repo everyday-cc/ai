@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-23-mta-pulls-security-cameras-from-nyc-subway-train-due-to-vendors-ties-to-chinese-facial-recognition-company.md",
+      "title": "MTA pulls security cameras from NYC subway train due to vendor’s ties to Chinese facial recognition company",
+      "excerpt": "The cameras began monitoring passengers on the G line train last Thursday — and MTA officials planned to keep them there for a year to see how they worked. But the vendor contracted to provide the system’s technology — Suzhou Huaqi Intelligent Technology — raised major security flags that prompted officials to suddenly pull the camera-filled train from service on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/new-york/ny-g-line-surveillance-cameras-cctv-subway-mta-20210422-pg2jooirajenzjxanowqen53c4-story.html",
+      "originalUrl": "https://www.nydailynews.com/new-york/ny-g-line-surveillance-cameras-cctv-subway-mta-20210422-pg2jooirajenzjxanowqen53c4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/7RV4Q09wAlPocpkw39__PEHNCrE=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/DBIOLYQ3EZAP7O33M3FED2UIXM.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/new-york/ny-g-line-surveillance-cameras-cctv-subway-mta-20210422-pg2jooirajenzjxanowqen53c4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-g-line-surveillance-cameras-cctv-subway-mta-20210422-pg2jooirajenzjxanowqen53c4-story.html?outputType=amp",
+      "publishedDateTime": "2021-04-22T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-computer-vision-market-overview-swot-analysis-applications-trends-and-forecast-2021-2025.md",
+      "title": "Computer Vision Market Overview, SWOT Analysis, Applications, Trends and Forecast 2021 – 2025",
+      "excerpt": "Kenneth Research has published a detailed report on Computer Vision Market, which has been categorized by market size",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-overview-swot-analysis-applications-trends-and-forecast-2021-2025-2021-04-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-overview-swot-analysis-applications-trends-and-forecast-2021-2025-2021-04-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal.md",
       "title": "Artificial Intelligence, Facial Recognition Face Curbs in New EU Proposal",
       "excerpt": "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet to regulate high-stakes applications of artificial intelligence.",
@@ -114,7 +210,7 @@
       "originalUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -879,6 +975,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-07-like-us-deep-learning-networks-prefer-a-human-voice.md",
+      "title": "Like Us, Deep Learning Networks Prefer a Human Voice",
+      "excerpt": "This study opens up new research questions on the role of label representations for object recognition. Credit: Creative Machines Lab/ Columbia Engineering",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/like-us-deep-learning-networks-prefer-a-human-voice-347433",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/like-us-deep-learning-networks-prefer-a-human-voice-347433",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/like-us-deep-learning-networks-prefer-a-human-voice-347433.jpg?cb=20210407",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock.md",
       "title": "Singapore-based retail analytics company Trax raises $640M Series E led by SoftBank Vision Fund 2 and BlackRock",
       "excerpt": "The Singapore-based company announced today that it has raised $640 million in Series E funding to expand its products, which combine computer vision and cloud-based software to help brick-and ...",
@@ -1297,136 +1437,6 @@
       "provider": {
         "name": "SiliconRepublic",
         "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-chinese-computer-vision-startup-raises-31m-for-rd.md",
-      "title": "Chinese computer-vision startup raises $31m for R&D",
-      "excerpt": "Clobotics, a startup that provides computer vision technology and services, has raised 200 million yuan ($31 million) in a preseries B-4 funding round. GP Capital and Xiaomiao Longcheng, as well as existing shareholders CDIB Capita and CDIB Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-computer-vision-startup-raises-31m-for-R-D",
-      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-computer-vision-startup-raises-31m-for-R-D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F1%252F8%252F5%252F33105818-3-eng-GB%252FCropped-161612795420210319%252036Kr.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-mit-robot-sees-hidden-objects-with-radio-waves.md",
-      "title": "MIT Robot Sees Hidden Objects with Radio Waves",
-      "excerpt": "The robot, known as RF-Grasp, has traditional cameras for object recognition. The camera is mounted to the bot’s mechanical grasper, giving it a good view of anything the hand might be trying to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
-      "originalUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2021/04/rf-grasp.jpg",
-          "width": 672,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-viennese-researchers-develop-super-fast-image-sensor.md",
-      "title": "Viennese researchers develop super-fast image sensor",
-      "excerpt": "The image sensor can simultaneously capture and process images, making object recognition many orders of magnitude faster. The device does not consume any electrical power when it is operating, since the photons themselves provide the energy for the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/business/viennese-researchers-develop-super-fast-image-sensor-2021-04/",
-      "originalUrl": "https://www.electronicsweekly.com/news/business/viennese-researchers-develop-super-fast-image-sensor-2021-04/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2020/09/22162810/EWat60-300-2.jpg",
-          "width": 292,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
         "images": null,
         "publishers": null,
         "authors": null

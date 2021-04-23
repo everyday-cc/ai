@@ -35,6 +35,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Google ethical AI group’s turmoil began long before public unravelling"
+    excerpt: "The collapse of the group’s leadership has provoked debate in the artificial-intelligence community over how serious the company is about supporting the work of the Ethical AI group – and ultimately whether the tech industry can reliably hold itself in check while developing technologies that touch virtually every area of people’s lives."
+    publishedDateTime: 2021-04-22T15:15:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/23/google-ethical-ai-groups-turmoil-began-long-before-public-unravelling"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 56
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/22/1123908.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Google Turmoil Exposes Cracks Long in Making for Top AI Watchdog"
     excerpt: "Google held up its Ethical AI research team as a shining example of a concerted effort to address thorny issues raised by its innovations. Created in 2017, the group assembled researchers from underrepresented communities and varied areas of expertise to examine the moral implications of futuristic technology and illuminate Silicon Valley’s blind spots."
     publishedDateTime: 2021-04-22T03:51:00Z

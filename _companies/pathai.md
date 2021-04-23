@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Path_AI"
   url: "https://twitter.com/Path_AI"
-  followers: 1021
+  followers: 1034
 
 locations:
   - Fremont, CA
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=cUeScCtTng4"
 
-secured: "7v1fh1yoW2tWxTrG3BJtBEPKlFQtPV8aM48QjIyZIAMFmfvsqDxvttgmPq7ZCapoMhG4q3f75UXWAd2Uq1kpVYnkkSaABe5XvCRoYZ+GFyg/KRz2dZqQGP+NzUHPkvDl+UjZDpwNiZfgIokIRcpYY42qAabuMGnGUz0ngIpKDLgRgvSYjg/Dx+DFzFhcg1MxMFFdlpzqjdwQ1/c2VKcptWum/FBZKG41rePG+7UNw1jo/jeYyP17BGhuaojRRpux9csOZNG1iccPwUTfdwKP7VBTFB6S222ofBJSoleP9RgU405b4jdJtJUoVU6pjUt10jw+hjkjuNrWBT/XfDSMWJ/19NNTJViY0/cLqQaf8YhW4YUIMQTnMDzdVs0DKbyeGjs5dlpGv7snrhtew01gl+LQThpnD4WawwAX5240wrE=;MTLdfyt/JNPIZ1jzQ16YeQ=="
+secured: "5H0LbRqoMnG4SCCct/O0Hyr6Ae7Zhe3PK2qxwmzFCiJNgI1Yn/wHP4GmtCJ2LkziwtDl7x8nToKqACcp4sOnzjvMdR8zvaXhGwRaonMmzOFnoxQi23idITdVsJknOdPa1ZQiCfZpR56vJCeLt2nqwkjS99nOIqvLM9eExJb5X3o2hwLc/vCA4dOqTKpa2D/Y/cFevqEGgDJL1LSlOCQTn9/46jZJVt5eAFA+AlmFCo4cMM0LzYFVROgvxQlGC71+aX0QAm66gh6fgZ/TApxcKQEfhvz2g3OEypuTe7FkZ1OBAzmMowNGuBKuoe44XxQZNdgeUF6TTCg3J6O0n57H3BQQYSekn85TvhnE1Jy5lVDbP4rNTyjCjEp8/A3Fph8rZp8YiBBcxrFZis5kgUWqCA==;FU3SSBns5dCmhoGHqs/wcQ=="
 ---
 

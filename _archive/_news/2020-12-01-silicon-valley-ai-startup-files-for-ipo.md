@@ -1,0 +1,48 @@
+---
+category: news
+title: "Silicon Valley AI Startup Files For IPO"
+excerpt: "A Redwood City startup announced plans to go public Monday, and all indications are that the artificial intelligence software provider is poised to make some real money. When the dust clears, C3.ai could be worth north of $3 billion according to a published report."
+publishedDateTime: 2020-11-30T20:46:00Z
+originalUrl: "https://patch.com/california/losgatos/silicon-valley-ai-startup-files-ipo"
+webUrl: "https://patch.com/california/losgatos/silicon-valley-ai-startup-files-ipo"
+ampWebUrl: "https://patch.com/california/losgatos/amp/29112695/silicon-valley-ai-startup-files-for-ipo"
+cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/losgatos/amp/29112695/silicon-valley-ai-startup-files-for-ipo"
+type: article
+quality: 57
+heat: -1
+published: false
+
+provider:
+  name: Patch
+  domain: patch.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://patch.com/img/cdn20/users/22137850/20201130/032416/styles/patch_image/public/screen-shot-2020-11-30-at-122324-pm___30152339121.png?width=984"
+    width: 816
+    height: 612
+    isCached: true
+
+related:
+  - title: "Peninsula AI Startup Files For IPO"
+    excerpt: "The company would be valued between $3.08 to $3.37 billion using the company's share count, according to the report, but C3.ai's IPO could take a hit in the $70-to $80-million range should underwriters decline their option."
+    publishedDateTime: 2020-11-30T20:55:00Z
+    webUrl: "https://patch.com/california/sanmateo/peninsula-ai-startup-files-ipo"
+    ampWebUrl: "https://patch.com/california/sanmateo/amp/29112696/peninsula-ai-startup-files-for-ipo"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/sanmateo/amp/29112696/peninsula-ai-startup-files-for-ipo"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 57
+    images:
+      - url: "https://patch.com/img/cdn20/users/22137850/20201130/032416/styles/patch_image/public/screen-shot-2020-11-30-at-122324-pm___30152339121.png?width=984"
+        width: 816
+        height: 612
+        isCached: true
+
+secured: "l5Z7Gi6JLzV7AwVFsIQQbF8+RzENpx5/MF2Oa0s2ML2TayFWb51QqOashc7Td++UI0V3vddOoSJAXaAliWi877a949CKo2ONcSExcAB1nAdFXKlcKa2IJgMQL3NytAD1/3yzfg58zBqjdfAXRpzF4CsB8/8ekvi4gNdWyQc0R20eKqke9zFzm70my148UM4SLDvg6QcBhM8IqPYu+ukFAoAu+0lpbwCkjEbHSNUrDwi805ouYH20S3QYYZni1GVoeMmWEUw1/P1XdKE6ORo6j3MXnhTTyMKBIxQp7P8mJbnmtzW6J0UYwkm9VPZ7kK/xgBcecpvrEDG8FajbiBxAqBspPT/F0a9VH1wyt0IsSH30pmVo8cXha8A3tgTq4yM7h31wCHIs+X1v4+PopmHpG4+Qf5twzXe6pmreIpyN+W2IGjqGLn5D8s3uyEjYCTdCJxcP585C/Ymfq1ya4EerVdl5qFtycGSVmnQCwXFOqO/tm++m16G5UXvHGgdoU5BjWBexhv8qaUkd930QVK6GNg==;bTtl6IHY0kkeeIBgnMZiZw=="
+---
+

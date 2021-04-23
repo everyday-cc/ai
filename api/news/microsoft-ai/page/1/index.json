@@ -2,6 +2,250 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-23-nba-using-microsoft-cloud-and-ai-to-power-courtoptix-and-bring-enhanced-stats-to-fans.md",
+      "title": "NBA using Microsoft cloud and AI to power ‘CourtOptix’ and bring enhanced stats to fans",
+      "excerpt": "The NBA is tapping the power of its partnership with Microsoft to deliver advanced analytics that offer insights into shots, passes, defense, double teams and more. NBA CourtOptix Powered by",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/",
+      "originalUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-22-at-9.28.33-AM.png",
+          "width": 630,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/",
+      "publishedDateTime": "2021-04-22T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21.md",
+      "title": "Microsoft details the latest developments in machine learning at GTC 21",
+      "excerpt": "With the rapid pace of change in AI and machine learning, it’s no surprise Microsoft had its usual strong presence at this year’s Nvidia GTC.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/",
+      "originalUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/",
+      "publishedDateTime": "2021-04-22T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings.md",
+      "title": "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings",
+      "excerpt": "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22",
+      "originalUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing.md",
+      "title": "Akamai boosts traffic by 350% but keeps energy use flat thanks to edge computing",
+      "excerpt": "Content delivery network gets 23% of global power needs from green sources including two wind farms and one solar array in the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing/",
+      "originalUrl": "https://www.techrepublic.com/article/akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/13/c769bfe0-c3f3-4ec1-b376-3a25f2c66ba6/resize/1200x/475dd41c47a53de3dc2e908c23d3e2c2/gettyimages-1195482922.jpg",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing/",
+      "publishedDateTime": "2021-04-22T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-5-things-to-know-about-ibms-earnings-report.md",
+      "title": "5 Things to Know About IBM's Earnings Report",
+      "excerpt": "Here are five key things to know about IBM's results. IBM offers a public cloud platform similar to market leaders Amazon Web Services and Microsoft Azure, but the company's main focus is on hybrid cloud computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
+      "originalUrl": "https://www.fool.com/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F622197%2Fibmz_01_ships-3.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
+      "publishedDateTime": "2021-04-21T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-why-microsofts-new-ai-acquisition-is-a-big-deal.md",
       "title": "Why Microsoft’s new AI acquisition is a big deal",
       "excerpt": "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI.",
@@ -41,6 +285,94 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-best-machine-learning-software-in-2021.md",
+      "title": "Best Machine Learning Software in 2021",
+      "excerpt": "Machine learning software evolves and learns from analyzing data. Compare the best machine learning tools today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusinessedge.com/business-intelligence/machine-learning-software/",
+      "originalUrl": "https://www.itbusinessedge.com/business-intelligence/machine-learning-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/04/Top-Machine-Learning-Software-e1618509296268.jpeg",
+          "width": 1500,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T11:20:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business Edge",
+        "domain": "itbusinessedge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-smartstream-expand-global-footprint-with-its-latest-cloud-native-ai-application.md",
+      "title": "SmartStream Expand Global Footprint With its Latest Cloud-Native AI Application",
+      "excerpt": "SmartStream Air version 3 is cloud-native, behaves like a consumer app, requires no training or IT skill set for its use and is the fastest AI data quality application available today. SmartStream Air has always been hosted on Amazon Web Services (AWS),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-cloud-computing-data-management-web-services-computing-and-information-technology-5be46dfda8694a5da47d403e2552849f",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-cloud-computing-data-management-web-services-computing-and-information-technology-5be46dfda8694a5da47d403e2552849f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -552,6 +884,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-13-what-microsofts-197-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech.md",
+      "title": "What Microsoft's $19.7 billion purchase of Nuance could mean for AI and speech tech",
+      "excerpt": "Carlsson said of Monday's news, \"This has been proceeded by a major shakeup internally in Microsoft when it comes to AI—both organizationally (key Azure Cognitive Services individuals are now at Oracle) and technically (the services are being ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/what-microsofts-19-7-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech/",
+      "originalUrl": "https://www.techrepublic.com/article/what-microsofts-19-7-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/12/3518d643-217e-4ace-aa3f-eaf2e9360af5/resize/1200x/e684b41809444853af05cb5db997b971/microsoft-nuance-logos.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/what-microsofts-19-7-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-microsofts-19-7-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech/",
+      "publishedDateTime": "2021-04-12T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-doubling-down-on-ai-microsoft-to-acquire-nuance-for-197b.md",
       "title": "Doubling down on AI, Microsoft to acquire Nuance for $19.7B",
       "excerpt": "Microsoft Corp. will pay $19.7 billion to acquire Nuance Communications Inc., a company that uses artificial intelligence to help physicians create medical notes faster. The hefty price tag of the transaction,",
@@ -993,363 +1377,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-latest-release-of-the-indico-ipa-platform-delivers-unmatched-scalability-performance-for.md",
-      "title": "Latest Release of the Indico IPA Platform Delivers Unmatched Scalability & Performance for ...",
-      "excerpt": "Indico, a provider of intelligent process automation for the intake, understanding, and automation of document-based workflows, today announced significant enhancements to its award-winning Indico IPA software platform.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-software-industry-ba326e6167257a29766a2bba00800212",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-software-industry-ba326e6167257a29766a2bba00800212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-on-growth-push-to-buy-speech-recognition-company-nuance-for-about-16-billion.md",
-      "title": "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion",
-      "excerpt": "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion. 24/7 coverage of breaking news and live events",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056",
-      "publishedDateTime": "2021-04-12T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-buying-burlington-based-speech-recognition-company-nuance-in-16-billion-deal.md",
-      "title": "Microsoft Buying Burlington-Based Speech Recognition Company Nuance In $16 Billion Deal",
-      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. Microsoft will pay $56 per share cash. That’s a 23% premium to Nuance’s Friday closing price.",
-      "sourceUrl": null,
-      "webUrl": "https://boston.cbslocal.com/2021/04/12/microsoft-nuance-deal-stock-speech-recognition-burlington/",
-      "originalUrl": "https://boston.cbslocal.com/2021/04/12/microsoft-nuance-deal-stock-speech-recognition-burlington/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://boston.cbslocal.com/2021/04/12/microsoft-nuance-deal-stock-speech-recognition-burlington/amp/",
-      "cdnAmpWebUrl": "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2021/04/12/microsoft-nuance-deal-stock-speech-recognition-burlington/amp/",
-      "publishedDateTime": "2021-04-12T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se.md",
-      "title": "Machine Learning in IoT Market to Witness Remarkable Growth by 2025 | Microsoft, IBM, SAP SE",
-      "excerpt": "A new business intelligence report released by Advance Market Analytics with title Global Machine Learning in IoT Market Insights, forecast to 2025.This report provides a detailed overview of key factors in the Global Machine Learning in IoT Market and factors such as driver,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-11T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications.md",
-      "title": "Microsoft reportedly in talks to buy AI company Nuance Communications",
-      "excerpt": "Microsoft is in talks to acquire AI and speech company Nuance Communications in a deal that would value the company at about $16 billion, Bloomberg reported Sunday. The Burlington, Massachusetts-based company's technology helped launch Apple's digital assistant Siri.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications/",
-      "originalUrl": "https://www.cnet.com/news/microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/X7NTgjhjRZTxZF3ItadfSoG9XtQ=/1200x630/2019/02/04/41fe4b3a-f930-4dd6-b63d-3b5d1b91ce91/msft-microsoft-logo-2-2.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications/",
-      "publishedDateTime": "2021-04-11T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Digitates ignio AIOps For Azure Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Digitate, the leading autonomous enterprise software provider, today announced the availability of ignio™ AIOps for Azure in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace/",
-      "originalUrl": "https://www.financialbuzz.com/digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-ai-powered-virtual-assistants-and-the-future-of-work.md",
-      "title": "AI-powered virtual assistants and the future of work",
-      "excerpt": "With businesses across all verticals, 2020 kicked off a decade of innovation with Conversational AI and the use of cloud computing with advanced platforms being offered by Amazon Web Services, Google Cloud, and Microsoft Azure. But now, it's less about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-powered-virtual-assistants-and-future-of-work/",
-      "originalUrl": "https://www.zdnet.com/article/ai-powered-virtual-assistants-and-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/04/07/9f87f6fa-b6b8-48b5-8f64-6d646c0f5e99/delacolcreative-artificial-intelligence2.jpg",
-          "width": 1280,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/",
-      "publishedDateTime": "2021-04-07T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-very-few-things-are-stopping-big-tech-from-popping-in-healthcare.md",
-      "title": "Very Few Things Are Stopping Big Tech from “Popping” in Healthcare",
-      "excerpt": "Azure Machine Learning and Azure Cognitive Services, to deliver on the vision of the Terra platform at a new level of scale.” Taking a Deep Look at Big Tech’s Influence in Healthcare Big tech companies’ presence in healthcare greatly expanded during ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
-      "originalUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan112021at22713PM.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -11,11 +11,11 @@ affiliation:
 twitter:
   username: fmatorras
   url: https://twitter.com/fmatorras
-  followers: 280
+  followers: 281
 
 googleScholar:
   url: https://scholar.google.com/citations?user=q_wYjF8AAAAJ
-  citations: 245555
+  citations: 246847
 
 topics:
   - AI
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Francisco Matorras"
 
-secured: "1sZCuespXgJgKctS8mVWpx1ZQmmhfDXJ6e268ht+0UiSHpEbSta9fyejPULa8FPCHOb0zzlxN6GgK/RZJUYvLg8EE+fQwNEOUKX5/MEGUSOSSRIM153hCUza6RLFvWz4obnOO6AvrtwUtooQxGKfh4JYUYVNxP9y30RZ5mS0DOTYfjc10b3OwkngEoVLkc6YTeC2iLGOTakIu7Ae4sZ5yk72JL9wUQOaIf0JLUIGMgnDwN9fzazmNeMGHOByi6U1ZSoFqz5l5dXCy/+DT89WgebcSJGsRcofAW2Tnk8zDRkedybB4PwsyHStjWmOI9Y13zoRH1kv7JkDBA+H80WcyRhH1tYm3pkCkfj59W0Td1/Cb9qqLJVUWY1B+4Bucydb/pvVii0m19AuWcQKKrCU7oHmaMaUcLWLEyVAbv5IEkI=;OBSJynWQYHEv6YG0t1+KSQ=="
+secured: "OI2tINdqOTjlbmgR4nwqbHYsLk4ZwdZGY5yKqCitBZs2cx+rC8rSI+KdbR1Lc5Up6yTzpZrd30l0/hLECv8BfGhBLYPRWUtnxxOenFp59kpddXNR24+iBJwxmLnvDlgC3urLvYM6s81FQg7scV0yDpueGb3aAKiEyuDK4L6NukhIzG5TItB0FhyK2TMFXSWpD1O7QO9ILxUTpnGgrTIVBbqJzuPBNyvMPuYqCoOXNu2YzNykb6XY00gGQZy1D9kh4rQOBQ6SnmshuUZITB4HTBzOpgKAjvfs5a92kZxA0FzvFjzhbq0FdB9Ks+eRHmoKJOIk6PT54/bmZ8JxWZKnZEkOtIlaoYaqYhxGTmaOEfEIO1F8FK5EIAKSf39FYdKlA0WBNNtG4tH1D+/VT9LIBXrQkEwD09xuQz8c5SQtdYo=;HTHew8xMYnqctUAqChHVvQ=="
 ---
 

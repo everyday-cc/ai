@@ -24,6 +24,22 @@ images:
     height: 254
     isCached: true
 
-secured: "MoWKktf4EQrYUZhy5Frafo99gYPGZ7f4gx7d97rA1muJUsl3X/8k7S7l5MmmRxKtxktRAWrCqnTGjlNQHu+HgdsWvdUu0lGU3Jqw16ZqPOAAf8p9NgjmP3PAR5cIYfkQrK9uUrI7tjMsyVB7oywKaGW+d9GU4HOuMi4b6F+dDBsIluUt5hs8b8GOCLDoEoUuBQvJStR67Keol1AlfD1K0UMzJ4FQv5dZ9aH3QE0VNVgzQOWI8pu6ypYLENdA4N8c8XKbZp+ssy6GsZMgEsOovDp2sbHs+I6Sjbn4qZyIx/c4BWeNxf/FHXtm6qrA9rfkb+G8nI7LFSMFrQAeJRtMD0VzfQqZLhBT4Y3HmpvdKWQ=;Z13At+tauyzy/urAlVE2HA=="
+related:
+  - title: "AI-based analysis of CT images for rapid triage of COVID-19 patients"
+    excerpt: "The COVID-19 pandemic overwhelms the medical resources in the stressed intensive care unit (ICU) capacity and the shortage of mechanical ventilation (MV). We performed CT-based analysis combined with electronic health records and clinical laboratory results on Cohort 1 ( n = 1662 from 17 hospitals) with prognostic estimation for the rapid stratification of PCR confirmed COVID-19 patients."
+    publishedDateTime: 2021-04-22T12:59:00Z
+    webUrl: "https://www.nature.com/articles/s41746-021-00446-z"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00446-z/MediaObjects/41746_2021_446_Fig1_HTML.png"
+        width: 593
+        height: 685
+        isCached: true
+
+secured: "MdFo9Xz5gUpKOZM1ZT/fnYhjW6reqn9pM5o+jekYnz86Uk1yeRS24LWaaUT5ZZfKvwOaTqw935xoJ91wcrsHqFaDAHbuAm8mgE9PXpUIqsEZG5qtkmV3QNyhJ1Q8uh27hxbhuwoUnYPzVFcRr/zCQ7ZySwCtqRKZhvgoBNw3yBwIVtAGWcHXnnaJ5oDu1in4B0/Or+EF9HUR4ibMcniBGvV3qTqp8mErsmADWi2DZUks4u2SksG5BA58SaL7ag3fK8TevF9J/qN4qg22NAlEzDI0J8Z50vc6vBK0cYIcKVBqAZRg0C/V4EbBPN5iUWXuu4XjiiOL+n+e4BEhqzG27NI5n9skMry8SFW7KI2Vr+Ib+NJHDKU/qdqMp8un3cA5ZdsW+UTam7LRdm33wc0up/is/WfCvblZV3fpeKJrPVeP6BOwGhczne9gjUGjBEL5sMpAhoQn6quI7ay95hboPnlDTByiubzKPr4ZyhJFboOT1u1y4mpO5nAR+TumejM7rhYz9PwgFYRqoSCOEHeZGw==;F6ORpQXe/abQj/dzpvj9iA=="
 ---
 

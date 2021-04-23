@@ -2,6 +2,136 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-03-chinese-computer-vision-startup-raises-31m-for-rd.md",
+      "title": "Chinese computer-vision startup raises $31m for R&D",
+      "excerpt": "Clobotics, a startup that provides computer vision technology and services, has raised 200 million yuan ($31 million) in a preseries B-4 funding round. GP Capital and Xiaomiao Longcheng, as well as existing shareholders CDIB Capita and CDIB Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-computer-vision-startup-raises-31m-for-R-D",
+      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-computer-vision-startup-raises-31m-for-R-D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F1%252F8%252F5%252F33105818-3-eng-GB%252FCropped-161612795420210319%252036Kr.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-mit-robot-sees-hidden-objects-with-radio-waves.md",
+      "title": "MIT Robot Sees Hidden Objects with Radio Waves",
+      "excerpt": "The robot, known as RF-Grasp, has traditional cameras for object recognition. The camera is mounted to the bot’s mechanical grasper, giving it a good view of anything the hand might be trying to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
+      "originalUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2021/04/rf-grasp.jpg",
+          "width": 672,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-viennese-researchers-develop-super-fast-image-sensor.md",
+      "title": "Viennese researchers develop super-fast image sensor",
+      "excerpt": "The image sensor can simultaneously capture and process images, making object recognition many orders of magnitude faster. The device does not consume any electrical power when it is operating, since the photons themselves provide the energy for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/news/business/viennese-researchers-develop-super-fast-image-sensor-2021-04/",
+      "originalUrl": "https://www.electronicsweekly.com/news/business/viennese-researchers-develop-super-fast-image-sensor-2021-04/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/2020/09/22162810/EWat60-300-2.jpg",
+          "width": 292,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects.md",
       "title": "Intel and John Deere pilot AI and computer vision program to detect manufacturing defects",
       "excerpt": "These solutions range from sprawling LED-equipped indoor farming facilities to robotically plucking ripe produce off the vine using computer vision and artificial intelligence (AI). On Thursday, John Deere and Intel announced a pilot program that relies on ...",
@@ -1124,126 +1254,6 @@
         "name": "Law360",
         "domain": "law360.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-ai-company-escapes-lawsuit-over-use-of-okcupid-photos-to-guide-facial-recognition.md",
-      "title": "AI company escapes lawsuit over use of OKCupid photos to guide facial recognition",
-      "excerpt": "An Illinois federal judge has tossed a proposed class action against artificial intelligence company Clarifai Inc over its alleged unlawful use of dating profile images to train facial recognition technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/dataprivacy-clarifai-idUSL1N2LF39D",
-      "originalUrl": "https://www.reuters.com/article/dataprivacy-clarifai-idUSL1N2LF39D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LF39D",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LF39D",
-      "publishedDateTime": "2021-03-17T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-anviz-launched-new-crosschex-cloud-system-along-with-facedeep-3-contactless-face-recognition-terminal.md",
-      "title": "Anviz Launched New CrossChex Cloud System along with FaceDeep 3 Contactless Face Recognition Terminal",
-      "excerpt": "The FaceDeep3 Series is the powerful face recognition terminal with 1:10,000 user <0.3 sec operational recognition ability, And the latest BioNANO deep learning algorithm. With the assistance of AI NPU,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-cloud-computing-30983aac087bd5291f62487e147008fd",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-cloud-computing-30983aac087bd5291f62487e147008fd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T20:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy.md",
-      "title": "ImageNet creators find blurring faces for privacy has a ‘minimal impact on accuracy’",
-      "excerpt": "Makers of the influential ImageNet plan to replace a version of the dataset with the blurred faces of more than half a million people.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/",
-      "originalUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/amp/",
-      "publishedDateTime": "2021-03-16T17:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -45,6 +45,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "E.U. proposes rules for high-risk artificial intelligence uses"
+    excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning."
+    publishedDateTime: 2021-04-21T11:54:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/eu-proposes-rules-high-risk-artificial-intelligence-uses-rcna731"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna731"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna731"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/1102/210421-vestager-mc-1252-9e482b_d2b35278be7c91736bbfaea0c20fcbf92f8af42b.jpg"
+        width: 2500
+        height: 1602
+        isCached: true
   - title: "Europe's Proposed Limits on AI Would Have Global Consequences"
     excerpt: "The EU released draft laws that would regulate facial recognition and uses of algorithms. If it passes, the policy will impact companies in the US and China."
     publishedDateTime: 2021-04-21T19:56:00Z
@@ -76,22 +92,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F366293b3-0031-4df7-ac2c-5b5c0908239b.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-        isCached: true
-  - title: "EU proposes rules for high-risk artificial intelligence uses"
-    excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
-    publishedDateTime: 2021-04-21T11:41:00Z
-    webUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
-    ampWebUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-    type: article
-    provider:
-      name: WBAL
-      domain: wbal.com
-    quality: 59
-    images:
-      - url: "https://cdn.s3-media.wbal.com/Media/2021/04/21/6b8548d1-c476-41c6-8ccf-1274955ca07f/original.jpg"
-        width: 512
-        height: 331
         isCached: true
   - title: "EU proposes rules for high-risk artificial intelligence uses"
     excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people's safety or rights. The draft regulations from the EU's executive commission include rules on the use of the rapidly expanding technology in systems that filter out school,"
@@ -138,6 +138,6 @@ related:
         height: 707
         isCached: true
 
-secured: "KTgPom3Z/FR63/vhC0LxmT9mchy4F1O2GS59Nf1FXYm8FayDFAGIyR2Oe4gmdqNIL7+D/V3DRhlfZyTfIkS12aYE31hkiMNvQ+ysbEUr7/GkABs+xW8O67Dx7B7QNIn0bg3b/u+DqIM7VOdFVm7B8gAv09RWdZWub3L6FcIvOejz6JqLmCIHRlD9Wi7lIHTJ6NOoIQEeapRpr8fsfp8r/hoJcQY8E+Or9oXAzM2q4BeMtHuKFzclZPfN5JLXM8lcQ7IIOGaAK5mI1YQ84rntdIq0OVGj5mve8Ib1NfxFXPYCDN/A/d/QyxXmdz8nfBgtjaoA59UIdeCl1NdzuJ08Vnnp+FVKvidnB4fm3Y8eK6A=;NqjDTM/eEy0S7Knx7kM8LQ=="
+secured: "eS5AD7XADH06quERkAlgNC8CXcv9SgIC9dLkzvcYzP/C4P3XgIXYaD0Ugu1dmqNokVJnA6dHFFavItUpgY80ATuanjI8prN023uS870WULW9dqRRY4V5zbcr9S9DIU0ZKz9iIaSwpJtl4hKkizgGjikZv3Oj78FsSLssvCVVlDemZeqDEMi1DRw7l/tG1XjFOrJyZw5SNbRINNwEVDowFj8WultzBLXA07lE1oMNOGGoZicbAJqr2MY5w9+Q5kYJSr/js7LX5Q9NNgUyBnX6YkYVkpv3z0Ftt7IsV5kbHA0pSKvgOYT2C2thUIm+chgVoxFUU5aZacSASwYlO3uBRjbTVY2ky85YV1lrywh4CRrdUTXgqnQyfX/6ZLMp60WVGju9OB5drQTJFWzpZW9n6ltzuaB2CxmrfFTbhlri0V31ByccTba27o4H6/sWS2oCOjMaHUg+TA886o+wkCErHip4nCMFBR8TOSWUsHCXHZtoLu0ksEXktnqfhwsZrFHIM1B2X3Xmr0CYTikN6hA3yQ==;ps/qi0rz+MizD8jdxM65FA=="
 ---
 

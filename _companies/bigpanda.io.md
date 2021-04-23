@@ -2,7 +2,7 @@
 name: "BigPanda"
 overview: "BigPanda Autonomous Operations platform helps IT Ops, NOC and DevOps teams detect, investigate, and resolve IT incidents faster and more easily than ever before. Powered by Open Box Machine Learning, BigPanda correlates IT noise into insights, automates incident management, and unifies fragmented IT operations. Customers such as Intel, TiVO, Turner Broadcasting and Workday rely on BigPanda to reduce their operating costs, improve service availability and performance, and de-risk and accelerate their digital transformation initiatives. Founded in 2012, BigPanda is backed by top-tier investors including Sequoia Capital, Mayfield, and Battery Ventures. Visit www.bigpanda.io for more information."
 type: "profile"
-heat: 42
+heat: 58
 
 website: https://www.bigpanda.io/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bigpanda"
   url: "https://twitter.com/bigpanda"
-  followers: 3055
+  followers: 3064
 
 size: 51-200 employees
 yearFounded: 2012
@@ -31,7 +31,7 @@ topics:
   - AI
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1372971954458697731/Mz07JDOG_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1379472440116436996/fznuwbQj_400x400.jpg"
     width: 400
     height: 400
     isCached: true
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "y1TDm4A/UeC2OdM4q68cjLjpN8BlkoF5qYbC+BN9rcTH2FY04+FmYgseNtROoHI/kPx63PRerYJX1kURVkGyq1flzvaPp9LBLYFwr62qtGw7EInaB8Fx7ZmN6bbA7CD/HbtR4kVTuEQOZb2Mr4O/OqDTWGoozLht704P5wIrK/2LD8oF9No9i/ieCo4Rhq5sE8cV2KiPKCVAfssM+IV9nFykDfCFW82KpxW77KUOgJG5mch4yXXDBf8v7g6UuYkKluEQdvpM97wr3PMMefSRYeqvkG9ySwOOYXOYD/9hKdm/jVO7UxuMacme0mDFd9uIqL8fiKLe4ZaDPIVsqcG8ld7UX2EES1G3rbYTJlnbb2SJRQfP+Adm60T2UjfjvJ1VLcyeWfZ6AL8mwBxIoupBSu7tWts4pk3VwbC73qiaR2w=;YZKJx3DCH0nOAybl8f/85w=="
+secured: "CfOItYbMdWWY2nt+wPz11BPSeN+a/mYpgouFTRfKE1edUpcQVumb+OIcFcwZhUIMgk5mwFI6LNDcpTW9SRrLujAoBkYvLkOQo4tfIMtwqPKVkSvUhPsOnpblq4uKYGW8Wt8LQpjjRbadlVHaCOF94F1QTGkRh15WOMOjnWWX8Pg0qGIUhHJDHX53S5uhYzmM8oVcOubycFVayuRv1oRKVGW/bBrGNEkwQ654M36zlOUglgDZTnWBbwV78mMOZilXxPEHoE7hUjbkodYeVn6sqlhb9RYtZ4o0sXbmgH2+xk6myZWU6MCidpilyo6XqyKA9jDfSgG3q2osJ1P6ToZh7R1cMAlrYjU5dJAnkgZaZUk4ckV+Cm1HodI4RAHBsF088Wcn1d2woKH4KN+rLqV4ThHN7B/aMKh9ff005ehs7lk=;72/Ug1XO5DjxREwfL46T+w=="
 ---
 

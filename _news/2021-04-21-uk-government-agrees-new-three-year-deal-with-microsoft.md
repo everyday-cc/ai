@@ -25,113 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Why Microsoft’s new AI acquisition is a big deal"
-    excerpt: "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI."
-    publishedDateTime: 2021-04-18T00:25:00Z
-    webUrl: "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/"
-    ampWebUrl: "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/"
+  - title: "Microsoft details the latest developments in machine learning at GTC 21"
+    excerpt: "With the rapid pace of change in AI and machine learning, it’s no surprise Microsoft had its usual strong presence at this year’s Nvidia GTC."
+    publishedDateTime: 2021-04-22T21:50:00Z
+    webUrl: "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/"
+    ampWebUrl: "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 123
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158.jpg?w=1200&strip=all"
         width: 1200
-        height: 600
+        height: 506
         isCached: true
-  - title: "Microsoft’s acquisition of Nuance tells us a lot about its AI strategy"
-    excerpt: "The acquisition is Microsoft’s biggest since the $26-billion purchase of LinkedIn. And it tells a lot about Microsoft’s AI strategy."
-    publishedDateTime: 2021-04-21T07:34:00Z
-    webUrl: "https://thenextweb.com/news/microsofts-acquisition-of-nuance-tells-us-a-lot-about-its-ai-strategy-syndication"
+  - title: "UK government turns to Microsoft for digital transformation assistance"
+    excerpt: "The UK government has agreed a new deal with Microsoft, giving public sector organizations discounted access to its cloud productivity tools and services. In a blog post, Microsoft explained the Crown Commercial Service,"
+    publishedDateTime: 2021-04-22T12:00:00Z
+    webUrl: "https://www.itproportal.com/news/uk-government-turns-to-microsoft-for-digital-transformation-assistance/"
+    ampWebUrl: "https://www.itproportal.com/amp/news/uk-government-turns-to-microsoft-for-digital-transformation-assistance/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/uk-government-turns-to-microsoft-for-digital-transformation-assistance/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fmicrosoft-nuance-acquisition.jpeg&signature=addb758bbb3143952cd453b6387d1063"
-        width: 1200
-        height: 600
+      - url: "https://cdn.mos.cms.futurecdn.net/UmMgpy7oe757BJ47MjAphk-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Authentic Azure AI Engineer Associate Microsoft AI-100 Exam Dumps [2021]"
-    excerpt: "Prepare your AI-100 exam questions with Dumps2GO Microsoft AI-100 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AI-100 test because of your Azure AI Engineer Associate AI-100 certification exam fear?"
-    publishedDateTime: 2021-04-21T04:11:00Z
-    webUrl: "https://www.madinamerica.com/author/download-ai-100-exam-dumps/"
+  - title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
+    excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."
+    publishedDateTime: 2021-04-22T13:15:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-enterprise-search-gets-boost-with-new-integration"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 68
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Updated Microsoft AI-100 Exam Dumps [2021] Azure AI Engineer Associate Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft AI-100 exam with ITExamQuestions AI-100 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-100 Microsoft Designing and Implementing an Azure AI Solution exam?"
-    publishedDateTime: 2021-04-18T21:55:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-ai-100-exam-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 64
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Microsoft’s $20 billion AI deal will shake up how we work"
-    excerpt: "AI specialist Nuance Communications Inc. shows it’s willing to spend a lot of money to do it. Microsoft said on Monday that had agreed to buy Nuance Communications Inc. for about $56 a share, or almost $20 billion including debt."
-    publishedDateTime: 2021-04-19T19:00:00Z
-    webUrl: "https://www.postbulletin.com/business/technology/6990454-Microsoft’s-20-billion-AI-deal-will-shake-up-how-we-work"
-    type: article
-    provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
+      name: CRN
+      domain: crn.com
     quality: 54
     images:
-      - url: "https://www.postbulletin.com/incoming/6990458-skdixu-Microsoft-AI-deal/alternates/BASE_LANDSCAPE/Microsoft%20AI%20deal"
-        width: 1140
-        height: 712
+      - url: "https://www.crn.com/resources/0268-11f04f866ca3-361fd3e7c046-1000/microsoft-azure-1.jpg"
+        width: 607
+        height: 456
         isCached: true
-  - title: "Cloud rivals AWS, Microsoft compete in a new arena: specialized AI services"
-    excerpt: "AWS and its chief competitor, Microsoft Corp., are now fine-tuning their cloud offerings, developing highly specialized products, most often with AI, that can be targeted at specific industries."
-    publishedDateTime: 2021-04-19T02:35:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/18/aws-microsoft-cloud-ai-services.html"
+  - title: "Microsoft Acquisition of Nuance is a Big Deal in Voice Recognition"
+    excerpt: "With its acquisition of Nuance, Microsoft also gains a number of voice technology patents it can use to extend into healthcare and other strategic markets."
+    publishedDateTime: 2021-04-22T18:52:00Z
+    webUrl: "https://www.aitrends.com/ai-in-business/microsoft-acquisition-of-nuance-is-a-big-deal-in-voice-recognition/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
-  - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
-    excerpt: "Software giant wants give end-users a ‘tangible view’ of the inner workings of its public cloud through its newly launched virtual tour experience."
-    publishedDateTime: 2021-04-20T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour"
-    ampWebUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 44
-  - title: "G Suite Technology Services Market – Microsoft’s Hold over Larger Organization Unchallenged, Reveals Fact.MR"
-    excerpt: "G Suite technology services market reported a revenue generation of nearly US$ 214 Mn in 2017 and is expected to witness a 1.2x growth in 2018, according to Fact.MR estimations. Overall market growth is likely to be driven by,"
-    publishedDateTime: 2021-04-20T21:05:00Z
-    webUrl: "https://www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 40
+      name: aitrends
+      domain: aitrends.com
+    quality: 41
     images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/04/report-1-10.jpg"
-        width: 750
-        height: 422
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/04/4-23SpeechRecognition-2.jpeg"
+        width: 550
+        height: 366
         isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
@@ -142,21 +94,7 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 30
-  - title: "Prevencio Announces Laboratory Commercialization Partnership with Atlas Genomics Incorporating Microsoft’s AI-computing Cloud"
-    excerpt: "Prevencio, Inc. today announces an Agreement with Atlas Genomics to commercially launch its highly accurate, AI-driven HART blood tests for heart disease and risk of heart attack, stroke, and cardiovascular death."
-    publishedDateTime: 2021-04-21T14:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/health-science-technology-business-77896c9ed77048668233ecd552c5913e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
-secured: "QbxJthDvrdyHklzNSZDTQIhVJScNs9TUa7KkIIJigsSSommwtKBsPTKN0yeRFb7dk8NeNWy0VsOktlH3da2T6w/pH3kDBwn0E9uiBcEhtIRUsBrLeguEbwLD/Tnr6BmO8xao6AvjLg4SuifuwWmxk3qgWNYg5oF74jIa8/I7VptmuUmYJf/N47/Iq9XQJG0oRNbSVnWa1/5a1gYgSdPLc7TTjgKiOM9yJgM2MTmmJnR2NpeiXA2gEpG1y3sxCp+B41YlaCiG95EI7YFGnT42OfTZMBSvtk2W9NmwO22knuY8dG7pUDRIWKZ08/FlpU0I4WRNrgqZGi8sGwOqkHY1ua6s9HGruWrsVXhLV0YaXQM=;jzpGPaY/l4uX/eWlFzMLWQ=="
+secured: "+hXLm+f90AVDwMHTS+Bj/+8jOIi6NQ2nX2kQ1SiyDB7YtIzlHiOscwDgKTNZfYevUx3Im/xZhzZpiPcqz56QxkhynRjOgg8DGgrpxiPDB9uVqIYD+B92fcbDlBhBxHMRNIuRpvI4X8y8h3JtNMFSRGxNohhOd5lN+PM85T6w8fXJWZfvFw5PCbIQSLkjWfZq+E7seSZrtThxrS0TdMjkICs6VFEQ5P5FfSON31wy9PdNuxNyphay/3uhAn2B/eg1ozt8RUGZ1u0ar2jrMW015bXcOVf7mIzwqDTNj8TfWt5HT5hmsY/wpPdQ3ozUk2wJxPkBx/Adb8KGuLs6sYPr0LmtiC6hpk4EV1udyhuGpf0vyv1IHWpt5ITNVRPc1kJ0hY710YB5e/TAaaBKeOAcsVuvGhHC10KrtMKHszct9aD+VJKbWBy6Hi8jFj3+aqq7npJ7JHsJi4n5/P5V4cB+MJubsn6XP5Jy539KE63HDqLj+objmfXgTkJsj2X1iAjr00LCfC35pL/aXO9sss8g4A==;jfWOxDxyN2n39Y/w+3Tyrg=="
 ---
 

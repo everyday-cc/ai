@@ -43,6 +43,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Google ethical AI group’s turmoil began long before public unravelling"
+    excerpt: "The collapse of the group’s leadership has provoked debate in the artificial-intelligence community over how serious the company is about supporting the work of the Ethical AI group – and ultimately whether the tech industry can reliably hold itself in check while developing technologies that touch virtually every area of people’s lives."
+    publishedDateTime: 2021-04-22T15:15:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/23/google-ethical-ai-groups-turmoil-began-long-before-public-unravelling"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 56
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/22/1123908.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "2 Unpacking the Ethics of AI"
     excerpt: "In this chapter, we explore a number of experiments revealing people's attitudes toward artificial intelligence (AI). They compare people's reactions to humans and machines performing the same action."
     publishedDateTime: 2021-04-19T02:52:00Z
@@ -53,6 +67,6 @@ related:
       domain: ieee.org
     quality: 34
 
-secured: "lYwN6Re2Do9lefqQ+gR0bshTxUrAUkc95oOYiAh0nSq9B/DXkI1JzHqefMyqH1XJf0rW3alOdXc59T7i2Xe2Gy9UsKSh7pmY/D9K8YOAo4DrZRTS6EjKYjFdeCUHykYeXjhImD7buLyIf3ZkY0Y3MO741YMJ5V4qgYzF0G9bU+C+bjWurGbUt90kF6fikEoJC7ZoDWy7nOgAA14I/puvdZvhy3ZQ2yBehd/FdiEGriLnKMUG9uR+jflMR56UvvPCDK2WuiLsuqJb1h4o+q7iwrlDO+Gs+5RP8Aqc1ldxsyzG7svKS9qkzWzglNiDHtQ0D5Ds1iYvpok7Xmj2OSmLljuVIIxg1X1r6D1AQl+I8iU=;dK6kLGktdbU9QXg1Nmh3nw=="
+secured: "rtP6c39iZTMqfLP+wGsNuhR2tmBZBYnrxFA1oluUVzsUF2cny5sbSZr1IX3Qqz3l7PSrQJHqkdbRr7e1BaO4QX011fgbn8vuZCKZmPFqADr7dB84ZIHO+QsKw3yA5JRBCehprzokRFfjB8NTSnnqMw+6fb6Di3U/hnv6O5a4XF78hwnOHKANw+tu0AZiKh5GrKc3whii6Q+VjZVn/ohUHEk8XuSNVBmpfoxLSav3lm+KMg1Ad5DBKlZ7YueG+1hugkPiHGy2RDP4zdiuAdfnzu5JE6sVaXf3Qbtuy3nVuUFrsOv9a3oxCQg+Ys9gFldf0lRVQ2icI3LKOgjw+X0wI0JwJQMCv/mV/p93qtkBwo/BRLQ8mYfpG9EwARzldprHIWKIIppDvvEfWp4tSzI3RkpTihBHUCXBJh8i0LV2EJpx/RN/Z3VvByQ7j01jycpKNbr/kqlkCzLRNV2zyGJf2V+sRUWy3gLysGfp1PWBOC/gMvT88ECOe8wMnREejnFU9i4eDQQbvF2wcjoP/t+C4w==;bq3m9mGJ39iy3ZnkShkMIQ=="
 ---
 

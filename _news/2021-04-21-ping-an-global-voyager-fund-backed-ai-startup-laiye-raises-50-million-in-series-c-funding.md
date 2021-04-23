@@ -39,6 +39,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Autonomous Marine Navigation Startup Orca AI Raises $13m Series A"
+    excerpt: "Orca AI, the industry leading AI-based navigation and collision avoidance solution, has raised $13 million in Series A funding, taking its total raised to over $15.5 million. Orca AI’s solution is the first step in introducing autonomous features to vessels already on the water."
+    publishedDateTime: 2021-04-22T15:28:00Z
+    webUrl: "https://maritime-executive.com/corporate/autonomous-marine-navigation-startup-orca-ai-raises-13m-series-a"
+    type: article
+    provider:
+      name: Maritime Executive
+      domain: maritime-executive.com
+    quality: 37
+    images:
+      - url: "https://maritime-executive.com/media/images/PR2021/Orca-AI-Co-founders-.c992b2.jpg"
+        width: 643
+        height: 361
+        isCached: true
   - title: "Autonomous marine navigation startup Orca AI raises $13million Series A"
     excerpt: "Orca AI, the industry leading AI-based navigation and collision avoidance solution, has raised $13 million in Series A funding, taking its total raised to over $15.5 million. Orca AI’s solution is the first step in introducing autonomous features to vessels already on the water."
     publishedDateTime: 2021-04-21T18:00:00Z

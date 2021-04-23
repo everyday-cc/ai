@@ -36,7 +36,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://static01.nyt.com/images/2021/04/21/business/21economy-briefing-eu-ai/21economy-briefing-eu-ai-facebookJumbo.jpg"
         width: 1050
@@ -89,6 +89,36 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D23%26cropY2%3D516"
         width: 876
         height: 493
+        isCached: true
+  - title: "European Union Unveils Regulations Governing Artificial Intelligence"
+    excerpt: "The European Union has unveiled strict regulations to govern the use of artificial intelligence. The draft rules,"
+    publishedDateTime: 2021-04-22T12:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/european-union-unveils-regulations-governing-artificial-intelligence-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "European Commission Publishes Proposal for Artificial Intelligence Act"
+    excerpt: "On April 21, 2021, the European Commission (the “Commission”) published its Proposal for a Regulation on a European approach for Artificial Intelligence (the “Artificial In"
+    publishedDateTime: 2021-04-22T17:57:00Z
+    webUrl: "https://www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act"
+    ampWebUrl: "https://www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
   - title: "Europe proposes strict regulation of artificial intelligence"
     excerpt: "The European Union unveiled strict rules to govern the use of artificial intelligence, a first-of-its-kind policy that outlines how companies and governments can use a technology seen as a significant,"

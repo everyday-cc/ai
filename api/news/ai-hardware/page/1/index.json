@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-23-xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame.md",
+      "title": "Xiaomi Is Said to Mull Investing in AI Chipmaker Black Sesame",
+      "excerpt": "Mobile phone giant Xiaomi Corp. is among investors considering joining a funding round of at least 1.5 billion yuan ($231 million) for Black Sesame Technologies Inc., according to people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-23/xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-23/xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5.y9b1.0zKA/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T19:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers.md",
       "title": "NVIDIA Sets AI Inference Records, Introduces A30 and A10 GPUs for Enterprise Servers",
       "excerpt": "SANTA CLARA, Calif., (GLOBE NEWSWIRE) -- NVIDIA today announced that its AI inference platform, newly expanded with NVIDIA (R) A30 and A10 GPUs for mainstream servers, has achieved record-setting performance across every category on the latest release of MLPerf.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-2021-04-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -54,49 +106,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-21-chinas-ai-chip-investments-for-2021-total-usd-31-billion-so-far.md",
-      "title": "China’s AI Chip Investments for 2021 Total USD 3.1 Billion So Far",
-      "excerpt": "According to Chinese media report on April 19, there have been at least 21 AI chips investments involving 17 companies since the beginning of 2021, totaling approx. RMB 20 billion (USD 3.1 billion). Among them,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/04/21/chinas-ai-chip-investments-for-2021-total-usd-3-1-billion-so-far/",
-      "originalUrl": "https://syncedreview.com/2021/04/21/chinas-ai-chip-investments-for-2021-total-usd-3-1-billion-so-far/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/04/China-Flag.jpeg?fit=950%2C713&ssl=1",
-          "width": 950,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/04/21/chinas-ai-chip-investments-for-2021-total-usd-3-1-billion-so-far/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/04/21/chinas-ai-chip-investments-for-2021-total-usd-3-1-billion-so-far/amp/",
-      "publishedDateTime": "2021-04-21T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-21-artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Size Report, Trend, COVID19 Impact, Industry Outlook, Derive Growth, Share, Revenue Forecast to 2027",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -105,7 +114,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -402,6 +411,58 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq.md",
+      "title": "Tiger Global, D1 Lead $300 Million Round in AI Chip Startup Groq",
+      "excerpt": "Read more: Small Chip Startup Cerebras Shows Off World’s Biggest Processor Ross said his approach is unconventional and more efficient than the AI chips made by Nvidia and rivals. An electric vehicle maker and a financial-services company are in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH_t8r6CqG2g/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -836,6 +897,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-13-nvidias-grace-ai-chip-leaves-intel-processors-behind.md",
+      "title": "Nvidia's Grace AI chip leaves Intel processors behind",
+      "excerpt": "Subscribe to CNET Now for the day's most interesting reviews, news stories and videos. The new chip should let AI customers run computing tasks that are vastly more complex than is possible with today's chip designs, a step toward the general artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
+      "originalUrl": "https://www.cnet.com/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/0xKtTu7axsZ2jSmw7JvDg6sWLIY=/1200x630/2021/04/12/80c1b4b1-4ff2-4ee2-bb6a-8b6b81c5b60f/nvidia-grace-processor.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
+      "publishedDateTime": "2021-04-12T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-nvidia-completely-re-imagines-the-data-center-for-ai.md",
       "title": "NVIDIA Completely Re-Imagines The Data Center For AI",
       "excerpt": "NVIDIA has used its wildly popular GPU Technology Conference (GTC) to announce new products for AI applications. However, this year the big reveal a new NVIDIA Arm CPU tightly coupled with a GPU to enable massive Artificial Intelligence.",
@@ -1253,101 +1366,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-luminar-ai-hands-on-quick-and-easy-ai-powered-photo-editing.md",
-      "title": "Luminar AI, hands on: Quick and easy AI-powered photo editing",
-      "excerpt": "Beginners, in particular, will find Luminar AI a useful alternative to the simple image editing tools bundled with most computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/product/luminar-ai/",
-      "originalUrl": "https://www.zdnet.com/product/luminar-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/04/08/39ee0b69-a1cd-46ec-b8f3-8f7b0f00c758/luminarai-detail.jpg",
-          "width": 770,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/product/luminar-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/luminar-ai/",
-      "publishedDateTime": "2021-04-08T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-sdsc-picks-habana-ai-training-and-inference-chips-for-voyager-hpc-system.md",
-      "title": "SDSC Picks Habana AI Training and Inference Chips for Voyager HPC System",
-      "excerpt": "During this phase, SDSC said it will share experiences with the AI research computing community and documentation developed to serve as a resource for an expanded user base. Habana said its training and inference chips “will provide data scientists and ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/04/sdsc-picks-habana-ai-training-and-inference-chips-for-voyager-hpc-system/",
-      "originalUrl": "https://insidehpc.com/2021/04/sdsc-picks-habana-ai-training-and-inference-chips-for-voyager-hpc-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2021/04/Voyager-supercomputer-graphic-1-040821.jpg",
-          "width": 600,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

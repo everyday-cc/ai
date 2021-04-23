@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-sho
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: South China Morning Post
@@ -31,17 +31,29 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Expects to Supply Self-Driving System to 1 Million Cars in 3-5 Years"
-    excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice president at Baidu,"
-    publishedDateTime: 2021-04-19T04:06:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp"
+  - title: "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens"
+    excerpt: "Volatility begets opportunity. The news over the weekend that the Baidu looks to supply 1 million self driving systems in the next 3 to 5 years through it’s Apollo autonomous driving unit should ..."
+    publishedDateTime: 2021-04-19T21:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-1030319197"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
+    excerpt: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years Published just now Kruger Energy Ontario 101 MW Port Alma 2 wind power plant shut - Ontario IESO"
+    publishedDateTime: 2021-04-19T04:19:00Z
+    webUrl: "https://www.theguardian.pe.ca/business/reuters/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-577554/"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.pe.ca
+    quality: 37
+    images:
+      - url: "https://www.saltwire.com/static/img/default_og_image.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "China's Baidu Inc. Plans to Have its Apollo Autonomous Driving Technology Pre-installed in One Million Vehicles in 3 to 5 Years"
     excerpt: "During a presentation at Auto Shanghai 2021, China's Baidu Inc shared the latest upgrades to its Apollo autonomous driving platform, including plans to offer customizable versions to automakers for the commercialization of self-driving vehicles at scale."
     publishedDateTime: 2021-04-19T22:15:00Z

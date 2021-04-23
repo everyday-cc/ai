@@ -101,6 +101,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Big Data & Machine Learning in Telecom Market Outlook, Industry Analysis and Prospect 2021-2026"
+    excerpt: "The Big Data & Machine Learning in Telecom market report provides a detailed analysis of global market size, regional"
+    publishedDateTime: 2021-04-22T11:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market Global Industry Insights, Trends, Size, Share, Outlook, And Opportunity Analysis, 2021-2025"
+    excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
+    publishedDateTime: 2021-04-22T09:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-global-industry-insights-trends-size-share-outlook-and-opportunity-analysis-2021-2025-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Analytics Market Trends, Global Industry Scenario, Outlook and Growth Strategies Forecast 2020-2026"
     excerpt: "The Global Cognitive Analytics Market is forecast to reach USD 129.99 Billion by 2026, according to a new report"
     publishedDateTime: 2021-04-20T16:42:00Z
@@ -131,6 +159,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Machine Learning Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Machine Learning Market size is expected to grow at an annual average of 42 during 2021 2027 Machine learning is defined as the process of applying artificial intelligence AI to provide system capabilities that can automatically learn and improve"
+    publishedDateTime: 2021-04-22T13:52:00Z
+    webUrl: "https://www.openpr.com/news/2274043/machine-learning-market-share-2021-global-trends-key-players"
+    ampWebUrl: "https://www.openpr.com/amp/2274043/machine-learning-market-share-2021-global-trends-key-players"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274043/machine-learning-market-share-2021-global-trends-key-players"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
   - title: "Global Speech & Voice Recognition Market 2020 Definitions, Classifications, Applications, Industry Analysis and Forecast by 2026"
     excerpt: "The most recent report namely Global Speech & Voice Recognition Market Growth (Status and Outlook) 2020-2026 by MarketandResearch.biz contains all the stats, data, facts, and figures collected from trustworthy sources such as websites,"
     publishedDateTime: 2021-04-18T14:39:00Z

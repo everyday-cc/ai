@@ -341,6 +341,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-13-algorithms-used-by-companies-like-netflix-could-decipher-biological-language-of-neurodegenerative-diseases.md",
+      "title": "Algorithms Used by Companies Like Netflix Could Decipher Biological Language of Neurodegenerative Diseases",
+      "excerpt": "Powerful algorithms used by companies like Netflix, Facebook, and Amazon could have major implications in healthcare. They have demonstrated the ability to predict the biological language of cancer and other neurodegenerative diseases such as Alzheimer’s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/algorithms-used-by-companies-like-netflix-could-decipher-biological-language-of-neurodegenerative-diseases/",
+      "originalUrl": "https://www.unite.ai/algorithms-used-by-companies-like-netflix-could-decipher-biological-language-of-neurodegenerative-diseases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/04/dna-3539309_1280.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-logitech-and-baidu-brain-partner-to-transform-the-way-we-work-using-ai-and-voice.md",
       "title": "Logitech and Baidu Brain Partner to Transform the Way We Work Using AI and Voice",
       "excerpt": "The Logitech Voice M380 Wireless Mouse is powered exclusively by intelligent Speech & Machine Translation technologies from Baidu ... “We saw an opportunity to leverage the power of Baidu AI to bring fast, accurate speech recognition to our customers ...",
@@ -854,6 +897,40 @@
       ]
     },
     {
+      "path": "_news/2021-04-12-william-wang-recognized-for-work-to-advance-natural-language-processing.md",
+      "title": "William Wang Recognized For Work to Advance Natural Language Processing",
+      "excerpt": "As we rely more on natural language processing to help us navigate our world, it’s more important than ever that these artificial intelligence models — used increasingly in applications such as caption generation for the visually impaired — remain true to reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.noozhawk.com/article/william_wang_recognized_for_work_to_advance_natural_language_processing",
+      "originalUrl": "https://www.noozhawk.com/article/william_wang_recognized_for_work_to_advance_natural_language_processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.noozhawk.com/amp/william_wang_recognized_for_work_to_advance_natural_language_processing",
+      "cdnAmpWebUrl": "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/william_wang_recognized_for_work_to_advance_natural_language_processing",
+      "publishedDateTime": "2021-04-12T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Noozhawk",
+        "domain": "noozhawk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-microsoft-buying-speech-recognition-firm-nuance-in-16-billion-deal.md",
       "title": "Microsoft buying speech recognition firm Nuance in $16 billion deal",
       "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. Microsoft will pay $56 per share cash. That's a 23% premium to Nuance's Friday closing price.",
@@ -1018,6 +1095,49 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-how-the-financial-industry-is-using-natural-language-processing.md",
+      "title": "How the Financial Industry Is Using Natural Language Processing",
+      "excerpt": "With useful data and information piling up in the financial realm, firms can use all the help they can get to more efficiently compile and employ it. Automation, which manifests itself in many forms,",
+      "sourceUrl": null,
+      "webUrl": "https://internationalbanker.com/technology/how-the-financial-industry-is-using-natural-language-processing/",
+      "originalUrl": "https://internationalbanker.com/technology/how-the-financial-industry-is-using-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://internationalbanker.com/wp-content/uploads/2021/04/Natural-Language-Processing.png",
+          "width": 1300,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Banker",
+        "domain": "internationalbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1198,137 +1318,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost.md",
-      "title": "Photonic Supercomputer For AI: 10X Faster, 90% Less Energy, Plus Runway For 100X Speed Boost",
-      "excerpt": "The Lightmatter photonic computer is 10 times faster than the fastest NVIDIA artificial intelligence GPU while using far less energy. And it has a runway for boosting that massive advantage by a factor of 100,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d2d1d000492b0c778e83e%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/amp/",
-      "publishedDateTime": "2021-04-06T21:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-akasas-ai-technology-lead-byung-hak-kim-phd-presents-at-the-healthcare-natural-language-processing-summit-2021.md",
-      "title": "AKASA's AI Technology Lead, Byung-Hak Kim, Ph.D., Presents at the Healthcare Natural Language Processing Summit 2021",
-      "excerpt": "SOUTH SAN FRANCISCO, Calif., April 6, 2021 /PRNewswire/ -- AKASA, the only Unified Automation™ company for revenue cycle management in healthcare, announced that its AI Technology Lead, Byung-Hak Kim, Ph.D., is leading a discussion today at 3:10 pm ET ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/akasas-ai-technology-lead-byung-hak-kim-phd-presents-at-the-healthcare-natural-language-processing-summit-2021-301262576.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/akasas-ai-technology-lead-byung-hak-kim-phd-presents-at-the-healthcare-natural-language-processing-summit-2021-301262576.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1471292/AKASA_Logo.jpg?p=facebook",
-          "width": 2583,
-          "height": 1355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-natural-language-processing-market-growth-opportunities-and-top-manufacturers-with-covid-19-impact.md",
-      "title": "Natural Language Processing Market Growth Opportunities and Top Manufacturers with COVID-19 Impact",
-      "excerpt": "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information.",
-      "sourceUrl": null,
-      "webUrl": "https://industribune.net/uncategorised/18898/natural-language-processing-market-growth-opportunities-and-top-manufacturers-with-covid-19-impact/",
-      "originalUrl": "https://industribune.net/uncategorised/18898/natural-language-processing-market-growth-opportunities-and-top-manufacturers-with-covid-19-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indus Tribune",
-        "domain": "industribune.net",
         "images": null,
         "publishers": null,
         "authors": null

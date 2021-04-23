@@ -2,7 +2,7 @@
 name: "Wrappup"
 overview: "Wrappup directs productive meetings by using smart voice recording to create minutes from hours. Re-inventing the office meeting! https://t.co/weee4bWAbe"
 type: "profile"
-heat: 50
+heat: 41
 
 website: http://www.wrappup.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "justwrappup"
   url: "https://twitter.com/justwrappup"
-  followers: 452
+  followers: 451
 
 size: 2-10 employees
 yearFounded: 2015
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=wovsuTYqnC8"
 
-secured: "tadzESA9l/86MC8tE4eJzUn5T3aV3lMwSDRCKUxJk2dTAGRuyB0gWuoMl3MdWWMnxPUMOvdzefT3rKrKSjQ9CwIFAn7qWu4xCdbogkNi4085karNE+Bc0lqY3g5M9dCROsH3dWDSFeFa2fZvn1VUnr9IKeQTcQLyBmjgMU0ZEDQut31E4updRfPNzwN8JNOB3HFiAfc7XdKTLGDxH9/+ZJVWKa8uIfQea8seBHtJPcgqOzLUTjTh9ZEJHw3XK3pTydNmDxHbkdxSx40x+HCG+HRt/xnWfDEtc4banb+t5onwlkHC9WbOkWyNcllI8bzGZEeJw0A60Ih0AZ+ZWkO8UlCWxMKCQiXlBEMuO2IW2sOIV2xsvl9o7qcUzUgoXsaUiY3Nd2Y0gSMC9VTJilGrgw==;yr+7lJXtld2WZV/mmMdJBA=="
+secured: "vYxLYXfHqO/zsMsRyr7L8nLfl/v2Reg4N/YmDPp/OU8MRY7exZQN4hxvwxfAdXOQvS4sQBcvJI8UUXbwMePJn3NFy1rXaOtjJkdbQ0/w1erG/BRPlv+Uiaq9k1jz7y0vYmsw4LAQ0u0cviubXzrQ8ALDdJ8eQIrJVyH3ai7wn8WoaWBoccjyz6SYNwjHZYiC3AuTEUfCgHGYn1hWvve9msiCYJl1Had54aVM4pfcAN/58mciiKdq/JbV58KQjpe7r0Ho+SXR83sEWcSOobRHpuVWx/kjLVVM2hporDIYgZ4SsfN+UQrb978VFGJRLFI3wTCewrCl9oVIm9X846a3C6kMKCWjmI2OHLcs7aDxiLb0pX1rzDrG8Rsnb+bkvQcEBKcWpG0U5CaBMvOyhWz9uA==;8z0gFyM19dyS0cl3vUwkfg=="
 ---
 

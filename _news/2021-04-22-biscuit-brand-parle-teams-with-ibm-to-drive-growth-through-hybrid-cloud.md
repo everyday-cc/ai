@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.in/news/biscuit-brand-parle-teams-with-ibm-to-driv
 webUrl: "https://www.crn.in/news/biscuit-brand-parle-teams-with-ibm-to-drive-growth-through-hybrid-cloud/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - IBM AI
   - AI
+
+related:
+  - title: "Parle Products to leverage on IBM hybrid cloud and AI to drive growth"
+    excerpt: "With this, Parle hopes to find new ways to get its products to the consumer as the pandemic disrupts supply chain and mandates WFH for some employees"
+    publishedDateTime: 2021-04-22T10:41:00Z
+    webUrl: "https://www.business-standard.com/article/companies/parle-products-to-leverage-on-ibm-hybrid-cloud-and-ai-to-drive-growth-121042200813_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/parle-products-to-leverage-on-ibm-hybrid-cloud-and-ai-to-drive-growth-121042200813_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/parle-products-to-leverage-on-ibm-hybrid-cloud-and-ai-to-drive-growth-121042200813_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/29/full/1593449356-4948.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "I2oVT8tvD0MwmWEGOZkSfmwbNo+e9ovZfBCnGwS2CLkfzznvfNOFo9o90grLE6JnDPFnSsthKwzAy/zV86inIN7iorCy8XTEiH2z66UdMK210cW8hk1sUeTEU8eyATnKdKGJq3VbqWSymWfU++BbTho0FdKR9Gu4zZSASaGVJ3zMbg95Z7+dXkYDLO4OOq39H8YD4X8vRxyYnZh2MA++ydcOm23nih2TzxBJ7sDuQ9O8tkCbX53Mrlyud2qXYJ1ycS9fi5vSPUJZqTV0V0Rzi6M17yzMHE05GdNTQSWx/Mqn3yAcBYLGyT2gYms6G6/RbyHVUZZvBsKE2hAnaO8J3s/KB7j0CI+FSctX/Augpr1aEmbNcLn/b8sktVi5lTHL65WSFf7fMuyF8d5zvmNpNpjH2fDIKIeOf5LAw+3CDboK+3jIzU/0RP6+zi+GS3lk/wMtmjEk2+9G5ZmmW73HfDEvPDCf0pUMfEXkhMQYx/9EKNZJsJ/UGLyN2Xr4ALCOUsT37mDh95BceyS5ymZ9fQ==;/w0EeW4kNIWr1ALZNdLF0g=="
 ---

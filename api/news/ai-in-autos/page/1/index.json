@@ -10,7 +10,7 @@
       "originalUrl": "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -89,6 +89,59 @@
       ]
     },
     {
+      "path": "_news/2021-04-21-europe-proposes-strict-regulation-of-artificial-intelligence.md",
+      "title": "Europe proposes strict regulation of artificial intelligence.",
+      "excerpt": "The rules have far-reaching implications for tech firms like Amazon, Google, Facebook and Microsoft, which have poured resources into developing the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/21/business/21economy-briefing-eu-ai/21economy-briefing-eu-ai-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html",
+      "publishedDateTime": "2021-04-20T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-elon-musks-driverless-dreams-take-hit-as-tesla-autopilot-accidents-pile-up.md",
       "title": "Elon Musk's driverless dreams take hit as Tesla Autopilot accidents pile up",
       "excerpt": "The car, a 2019 Model S Tesla, was manoeuvering a curve when it went off the road for about 100 feet and hit a tree at 11.25pm local time. The men’s wives had watched them leave just minutes before the collision,",
@@ -132,29 +185,82 @@
       ]
     },
     {
-      "path": "_news/2021-04-19-baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years.md",
-      "title": "Baidu Expects to Supply Self-Driving System to 1 Million Cars in 3-5 Years",
-      "excerpt": "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice president at Baidu,",
+      "path": "_news/2021-04-20-ishares-robotics-and-artificial-intelligence-etf-built-for-the-future.md",
+      "title": "iShares Robotics and Artificial Intelligence ETF: Built For The Future",
+      "excerpt": "Shares Robotics And Artificial Intelligence ETF - While the potential for growth is phenomenal, risks like significant foreign exposure and regulatory action are something to keep an eye on",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
+      "webUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "originalUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 101,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1204583853/medium_image_1204583853.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp",
-      "publishedDateTime": "2021-04-18T21:06:00-07:00",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "publishedDateTime": "2021-04-20T05:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-shanghai-auto-show-chinese-internet-search-giant-baidu-to-supply-its-apollo-self-driving-system-to-1-million-cars-in-3-5-years.md",
+      "title": "Shanghai Auto Show: Chinese internet search giant Baidu to supply its Apollo self-driving system to 1 million cars in 3-5 years",
+      "excerpt": "Baidu expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/19/70a4be44-f092-4f4e-8220-8a890c2b36e3_a4578779.jpg?itok=v2IRb_0i&v=1618819473",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
+      "publishedDateTime": "2021-04-19T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -520,6 +626,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-nvidia-partners-with-uber-volkswagen-in-self-driving-technology.md",
+      "title": "Nvidia partners with Uber, Volkswagen in self-driving technology",
+      "excerpt": "LAS VEGAS: Nvidia Corp will partner with Uber Technologies Inc and Volkswagen AG as the graphics chipmaker's artificial intelligence ... in San Francisco by rival Waymo alleging trade secret ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2018/01/08/nvidia-partners-with-uber-volkswagen-in-self-driving-technology/",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2018/01/08/nvidia-partners-with-uber-volkswagen-in-self-driving-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1043,6 +1192,110 @@
       ]
     },
     {
+      "path": "_news/2021-04-08-whats-it-going-to-take-to-perfect-self-driving-cars.md",
+      "title": "What’s it going to take to perfect self-driving cars?",
+      "excerpt": "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/perfecting-self-driving-cars-conversation-syndication",
+      "originalUrl": "https://thenextweb.com/news/perfecting-self-driving-cars-conversation-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FAutonomous-driving-Barcelona.jpg&signature=766b92d1a4dd522274911bb8f6fa4179",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-artificial-intelligence-revolution-3-stocks-to-automate-your-gains.md",
+      "title": "Artificial Intelligence Revolution: 3 Stocks to Automate Your Gains",
+      "excerpt": "Take a moment to consider all of the different applications for artificial intelligence technology ... the company is investing in things like self-driving vehicles that have huge potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/368936",
+      "originalUrl": "https://www.entrepreneur.com/article/368936",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-368936.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/368936",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368936",
+      "publishedDateTime": "2021-04-08T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-self-driving-cars-may-be-too-speculative-even-for-this-market.md",
       "title": "Self-Driving Cars May Be Too Speculative Even for This Market",
       "excerpt": "Autonomous driving remains an unproven technology, but trucks have a better commercial case than robotaxis as startups sound out stock investors.",
@@ -1171,230 +1424,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-john-krafcik-quits-as-ceo-of-googles-self-driving-car-project.md",
-      "title": "John Krafcik quits as CEO of Google's self-driving car project",
-      "excerpt": "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-topnews-vefnuxfdggfhh.html",
-      "originalUrl": "https://www.sify.com/finance/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-topnews-vefnuxfdggfhh.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/John_Krafcik_ians_vd0m26dcijffe.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-topnews-vefnuxfdggfhh.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-topnews-vefnuxfdggfhh.html",
-      "publishedDateTime": "2021-04-05T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-autonomous-endgame-the-10-year-plan.md",
-      "title": "Autonomous endgame: The 10-year plan",
-      "excerpt": "After its debut in 2015 in Las Vegas, the autonomous commercial vehicle has been making waves in the trucking industry. Some skeptical, some awed, some practical and some cautiously optimistic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21160184/autonomous-endgame-the-10year-plan",
-      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21160184/autonomous-endgame-the-10year-plan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/04/16x9/fleetowner_33944_091318_volvo_trucks_vera_autonomous_10_1.606b0be5465da.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-grab-and-tesla-might-soon-compete-in-the-self-driving-war-who-will-stand-to-win.md",
-      "title": "Grab And Tesla Might Soon Compete In The Self-Driving War: Who Will Stand To Win?",
-      "excerpt": "If the number of trials for self-driving vehicles in Singapore is anything to go by, the future of driving in the Republic is, it seems, driverless. Recent years have also seen the nation warmly embrace electric vehicles (EVs), with plans to phase out all ...",
-      "sourceUrl": null,
-      "webUrl": "https://vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/",
-      "originalUrl": "https://vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn01.vulcanpost.com/wp-uploads/2021/04/tesla-grab-606abf42e7396.jpg",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/amp/",
-      "cdnAmpWebUrl": "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/amp/",
-      "publishedDateTime": "2021-04-05T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vulcan Post",
-        "domain": "vulcanpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-heres-why-some-are-vehemently-and-diametrically-opposed-to-self-driving-cars.md",
-      "title": "Here’s Why Some Are Vehemently And Diametrically Opposed To Self-Driving Cars",
-      "excerpt": "The headlines proclaiming the emergence of self-driving cars are usually soaked in high praise for the advent of these technological marvels. This heralding of such wonderment in innovation is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/05/heres-why-some-are-vehemently-and-diametrically-opposed-to-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/05/heres-why-some-are-vehemently-and-diametrically-opposed-to-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602de8f944ba98dd7fb5b0c2%2F0x0.jpg%3FcropX1%3D173%26cropX2%3D4200%26cropY1%3D62%26cropY2%3D2327",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/05/heres-why-some-are-vehemently-and-diametrically-opposed-to-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/05/heres-why-some-are-vehemently-and-diametrically-opposed-to-self-driving-cars/amp/",
-      "publishedDateTime": "2021-04-05T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-skoreas-lg-to-exit-loss-making-mobile-phone-business.md",
-      "title": "SKorea’s LG to exit loss-making mobile phone business",
-      "excerpt": "South Korean electronics maker LG said Monday, April 5, 2021, it is getting out of its loss-making mobile phone business to focus on electric vehicle components, robotics, artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/",
-      "originalUrl": "https://pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pix11.com/wp-content/uploads/sites/25/2021/04/a689754fbd374e749620a511f96e60b8.jpg?w=1280",
-          "width": 1280,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/amp/",
-      "cdnAmpWebUrl": "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/amp/",
-      "publishedDateTime": "2021-04-05T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPIX",
-        "domain": "pix11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

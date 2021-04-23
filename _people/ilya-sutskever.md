@@ -2,7 +2,7 @@
 name: "Ilya Sutskever"
 bio: "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton."
 type: "profile"
-heat: 190
+heat: 140
 
 affiliation:
   name: openai.com
@@ -11,11 +11,11 @@ affiliation:
 twitter:
   username: ilyasut
   url: https://twitter.com/ilyasut
-  followers: 64250
+  followers: 64744
 
 googleScholar:
   url: https://scholar.google.com/citations?user=x04W_mMAAAAJ
-  citations: 229847
+  citations: 234599
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Ilya_Sutskever
@@ -25,12 +25,12 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1361039655068663812/Ih0FuBdc_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1374354193721491463/ehNHYiyy_400x400.jpg
     width: 400
     height: 400
     isCached: true
     title: "Ilya Sutskever"
 
-secured: "5W5jw/BKmYH/DSZtmUk15e5U3OTmVLxML5R5K7nGa7fxb/e3rSWK0IXfx2CsHDfD4x7Lwl5HbrhJdwLobUERWFFhb0WWEBM0ejmdZjnr1JgFpjPhL37fZ+dgFOY0t5DisylT/XMuk92RY/J9KvdirP535WH5pihXzbztl3zp9/JiyKnMMAQrVVPIZfhWcFiSqbxea3tbSA0mBoVwt35SnhZ/BtXpNuhWBLcG353ihBEyNHZJc0bU3NXxit1DNmR14/33n2QP5ep4ruybzgDOR0V4VMa+tckCTx7Vw2yV9iCyWywk8S89RYwPZpSxyrtUVugIJ1tapIR9psSPYWBfIT5gPrBnVWOiTl7dSvU+gKpBhArB2Hl6p91FM3Uk4SK39RulEsFkzRlEP99jDpxHNPb01AZZrBI/WykgUZQqUk0=;+nwFqJFEbJS6tl2ff/NUrw=="
+secured: "aKjkZZ7Fxhw9YVj/ORpHZKzatQNXsDTsvFiCdMNyOWzMT3ShMD+0mZ5V4Eotqz1A6iWMo7Wc8awBuR98mn6J119/gQCQaq/dxsLCfboEBAGe4aTd+eu89jbQTduxOLdFa9ilS3xBQuaJkHlg3hS7lWL3yOsezRBTq3gc5/DMiDE1e5Rk0L1eZ/c/G1HG6KHhFVNjD7o9wYWjxUw5jl5Z1qvVoDkPo91qg432ukCKmba16a2fu41AVtLCq4MPZwmJ9MACGRfphCwsefU2zY8/Rvuy/9wd++P8iN46kqr9CyL1zsJtTDEzEpdtGst0fItg47oL/J9TLC+zD2jq84otDDz0aNS5e0OfkE20mYFxlvYuz5u2XZDRYPQ66uhqQTJqfDNfDaue7zKEUxZz17Q4jZeJeyfg1kCzmbX6LuaA8qk=;DguoExEnebYSfWeLDRj9JQ=="
 ---
 

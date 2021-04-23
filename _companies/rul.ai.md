@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "rulaiinc"
   url: "https://twitter.com/rulaiinc"
-  followers: 211
+  followers: 210
 
 size: 11-50 employees
 yearFounded: 2016
@@ -38,6 +38,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Ov6QYlYdJHnHwLzykKt5Ymfc/2pCoDU+Z1IgjLE++aHE0VAzXMVDf9PRGS0iNox9mzi12tA6LRfQa/SPy8j+/NtI9HArzkeFIwliGwT7CEeYXv2V4WYJF1sll4tZ5nM9YG5dn5of9qH2fq+NjCjc4BKGQ3d0YFRaIYERbQwDOPSOm/9rq4ZdBtoAhObY3TU1qD5TRtCM9Oq8kMmmRkcdrmdzKjnHh4WTydUPLN21Fl55SrUKQUZHjNzZkSm1n+h6TWLXsB8hiGIrK4IiWXFDiW1886DHsZoxuVaepaqks0s2HVagm+6BXJkThwPCBXiGzHAXH+ylsbrno0i6r/1OQmThqN7+HgR4EzYc0T++xV7CacOKecdV60JeZ3brk98J7Yb64EgZzQxo5MNqThZwbw==;+T48pgo2sJhOHqlqhsUaTg=="
+secured: "tXY4frn5HZJI6yoSxIq1BlvkQqyTQ5Sd7QzdbXBjk+PDEBXhaDoUwAEno/CVWvDkumfucM7Z5evPJkGgI+gwHjHmZB8eHIq4TTXshMr7K/Tr+ESr+cScmlP3Ty0Od0OeJUdQh1KBzICKw+NE2QKHh4u3sz8qcYyuKbhT0AWIRkLSpZSTK4epi0iJXdYK1ZfrJLYAN3UfDsL1LiXXBD6SE86qWV6ZGX2XwwxD5EKmrMWvY/yPnK95v6iN6YpvuzbNIIDVqs5JvNvi1hf8oeVwoZPImXZl//TrmDUJDubkOdsUE9RhAdNBik2uutHOOUwtWF5rZOSYYAtEMO3VHiNJMqvwc+Z3s7PEppr8i5NOzka6dAkU2O4rzcq7Gvh0jgYRI0tWq3KzvMbOO25KbxTwCg==;iYVf0v2wVKMzxp6yfhvJ/Q=="
 ---
 

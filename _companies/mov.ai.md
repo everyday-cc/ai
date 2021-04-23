@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "movairobots"
   url: "https://twitter.com/movairobots"
-  followers: 125
+  followers: 123
 
 size: 11-50 employees
 yearFounded: 2016
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=KF0y_gPMnGI"
 
-secured: "L4BkCocgOYmEqiuWk9zhxnSrCSfJE/49u6VtSCxP+EsldguT/IYl919GwlcJdBeOW31GU/3iiPLOEzXzETy1jTVu6CYbo/AXPE0qU+CMrd+AUZ5HBhUftU8x2ez3PYTxpvpDMjm6f2X7U3zszjgqHfzpLHDxTq10KHpBUAdkSywsmI22hLdGaP1rxvJvPEFwVZ64qkE5mu4UQyTpsxyYhLugOWqJx+C2440zKxvnvUiyD5m3wWCy6w+EO6gOglP93K10paX6gIVwbHIAlMoSVJSykvbJL7zlHCkhhLDHPpFY/dgzW1MJjSp6Ktvmdz3WW3PIOt7jxo1q1RZqjlOi0Y1KcV0aEiWzG3gwZw0be2wdV24gIq1f9nhfeVK+tj6WOxxaYEYxwl2cOfrZvlWOYQ==;WVvn2h+fOeUC16SPgztxLw=="
+secured: "2IUYv1ALEeSpMZdYcZE4UEJRY7CC67AHT/774iIZsKdpKPnzuT2M2ttPXzldRglAhz5LibKZTU4J+lcAqt2dOc9I5WKQ9YqasWVXvyeE1KdN1GLE1UK9Gcj3AK30Ii7fpP+dJr0NZKUVIPv162aM5FB0lwg2T/HzCAOqP6uFFd0OaNtGR6yFKV97dHu0pbrbDu7cytq+Rve0sAcSHlTHn4GZESYOy9XwsH/qxAKTWWXCqk2fxLudCKLOeVrubqndmIBcngoK0sfhpXFqrnZT069ODKnDDjErs1nlqcn8/0DrWA3iKqT6Q+UuXmgC57njnPWQlVPCEOmmkdtEIXE6tzajuIUOhC01jhiwgM6eGgDkKEUG9Dl53065+KeaH1rBOETAwRaYNLJVhxcCFKP9yQ==;qBl/+ccAjsHU9eBKnXGfYA=="
 ---
 

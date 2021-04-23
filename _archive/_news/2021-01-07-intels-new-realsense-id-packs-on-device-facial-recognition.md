@@ -1,0 +1,102 @@
+---
+category: news
+title: "Intel's new RealSense ID packs on-device facial recognition"
+excerpt: "Intel's new RealSense ID will cost $99 and launch in Q1 2021 with built-in anti-spoofing technology protecting your data."
+publishedDateTime: 2021-01-07T06:36:00Z
+originalUrl: "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/index.html"
+webUrl: "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/index.html"
+ampWebUrl: "https://www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html"
+cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/77159/intels-new-realsense-id-packs-on-device-facial-recognition/amp.html"
+type: article
+quality: 59
+heat: 109
+published: true
+
+provider:
+  name: TweakTown
+  domain: tweaktown.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://static.tweaktown.com/news/7/7/77159_03_intels-new-realsense-id-packs-on-device-facial-recognition.png"
+    width: 620
+    height: 387
+    isCached: true
+
+related:
+  - title: "Intel launches facial recognition solution amid debate around the tech’s biases"
+    excerpt: "Intel has launched a facial recognition solution, which will work with smart locks, access control, point-of-sale, ATMs, and kiosks"
+    publishedDateTime: 2021-01-11T04:56:00Z
+    webUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/"
+    ampWebUrl: "https://www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
+    cdnAmpWebUrl: "https://www-medianama-com.cdn.ampproject.org/c/s/www.medianama.com/2021/01/223-intel-facial-recognition-solution/amp/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 55
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Intel's Israeli facial recognition technology is going to change the way you draw cash"
+    excerpt: "Powered by Intel, Israel's RealSense ID develops a facial recognition system that aims to make debit cards obsolete... Facial recognition technology has already found its way into almost everyone’s pocket nowadays."
+    publishedDateTime: 2021-01-10T04:27:00Z
+    webUrl: "https://www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/"
+    ampWebUrl: "https://www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/intels-israeli-facial-recognition-technology-is-going-to-change-the-way-you-draw-cash/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 51
+    images:
+      - url: "https://www.geektime.com/content/images/2021/01/1ca31571-f685-4bee-85be-b55bac1216ec-1609950288.jpeg"
+        width: 1431
+        height: 966
+        isCached: true
+  - title: "Intel unveils on-device face recognition tech for ATMs, kiosks"
+    excerpt: "Chip maker Intel has introduced RealSense 3D cameras with an on-device solution for facial recognition, designed to perform facial authentication on consumer devices such as point-of-sale (PoS) systems,"
+    publishedDateTime: 2021-01-07T08:11:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/intel-unveils-on-device-face-recognition-tech-for-atms--kiosks.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/intel-unveils-on-device-face-recognition-tech-for-atms--kiosks-2021-01-07.jpg"
+        width: 1000
+        height: 800
+        isCached: true
+  - title: "Intel is Repositioning its Depth-Sensing Camera into Facial Recognition"
+    excerpt: "Intel has officially launched RealSense ID, a facial recognition camera module that is built on its RealSense depth-sensing technology. Originally"
+    publishedDateTime: 2021-01-08T19:08:00Z
+    webUrl: "https://petapixel.com/2021/01/08/intel-is-repositioning-its-depth-sensing-camera-into-facial-recognition/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 39
+    images:
+      - url: "https://petapixel.com/assets/uploads/2021/01/Intel-is-Repositioning-its-Camera-Depth-Sensing-Tech-into-Facial-Recognition.jpg"
+        width: 1600
+        height: 840
+        isCached: true
+  - title: "Intel launched RealSense ID, a facial recognition tech"
+    excerpt: "Intel launched RealSense ID, a facial recognition arrangement that depends on its RealSense depth-sensing technology that helps in recognition."
+    publishedDateTime: 2021-01-11T11:36:00Z
+    webUrl: "https://techstory.in/intel-launched-realsense-id-a-facial-recognition-tech/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 19
+
+secured: "gnG3hQc2TslCnAc+pgCtKlVg/4ACdc+spHtHvhqm9fRDPL4nK28p7eu/wgxcw3OCnPH6+pbh4WIKnxwCeujhqRYwI7fVx5mSUMHetis+45qx6yfE2O2ZclWSssaJJOpLv2Yn3ZP30YewGbhuQceX/KE80BSl7RKJUYd/pRGEwVw5CR4oWlFBObDLqMREnQUroesSaHFWFmRlVqQQO+OS7mW/yJ53HrsnipKys0tiK2BakCU8QCaJwN8lG5rF/pWrSdbeTSYiOhz1BhUg+ozRtYvXhpo1mrCmViObejMG7m746ws0rm5wQ6tEU0BwveeRF0CiNqDTEBNNudkpW4rFTa+w6fGVDmesvCTXhY3Y20w=;qUvVEiyzuD4tnlum8DSx5w=="
+---
+

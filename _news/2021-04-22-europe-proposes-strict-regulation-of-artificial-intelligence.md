@@ -31,7 +31,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://static01.nyt.com/images/2021/04/21/business/21economy-briefing-eu-ai/21economy-briefing-eu-ai-facebookJumbo.jpg"
         width: 1050
@@ -85,6 +85,20 @@ related:
         width: 876
         height: 493
         isCached: true
+  - title: "European Union Unveils Regulations Governing Artificial Intelligence"
+    excerpt: "The European Union has unveiled strict regulations to govern the use of artificial intelligence. The draft rules,"
+    publishedDateTime: 2021-04-22T12:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/european-union-unveils-regulations-governing-artificial-intelligence-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "European Union Moves to Regulate Artificial Intelligence"
     excerpt: "The European Union’s executive branch on Wednesday announced proposals designed to regulate the use of artificial intelligence (AI), banning its use in practices such as surveillance and facial scanning that threaten personal rights."
     publishedDateTime: 2021-04-21T17:23:00Z
@@ -100,6 +114,22 @@ related:
       - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/2021-04/2021-04-21T114853Z_1093366680_RC2B0N9IYPRY_RTRMADP_3_EU-TECH-AI.JPG"
         width: 4886
         height: 3130
+        isCached: true
+  - title: "European Commission Publishes Proposal for Artificial Intelligence Act"
+    excerpt: "On April 21, 2021, the European Commission (the “Commission”) published its Proposal for a Regulation on a European approach for Artificial Intelligence (the “Artificial In"
+    publishedDateTime: 2021-04-22T17:57:00Z
+    webUrl: "https://www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act"
+    ampWebUrl: "https://www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
 
 secured: "laEQSgvA+rvGhlgW64lVEcSLrI06gggoIHUqNbhTlUyIAC9vDJSjwLn4VTVsAmpz8YEfoEmXoBIqoguHT7WdMQjWayWoTeYt2wrh88wFaN6kUGEU70gY8CeWOmUs6NlTaC363b4lCwlX7S4qugiCwnINVpV3fh/OZVSWCMuZpU14KkMMnJcWoGVO2aA5v4gdn4T7pVoQvEwi7r0H+fFMwzqyyu2UrhObMwbraOskMG3tvTp5lEQgSGj+TfUqIF+gHWHvmHnvha6i/yMDsxgajfG3FmrJ10a9QY9t7ASySLLdvWF6uSdl7YhQNsm4gRYje7zXx0Ies3TiALJ97fPo6xyJznzvqkL6Y3JcOyQ3Qxc/D/yl8jWO1B4XYY68/SM5wnz6htIwR+K7w3wEDjyM/fpLck8BdEs/yZwTZFxCTZ1UBvn7EgkoQjTcdnBLfcXm3y+I1fI4iHk4mOaXegZ0kcEXls1spt0I3EhJvCsCnjCljsn2Mds3zqggIZGb6NGFxtdKnS3exsdxnKK9zOR6FQ==;4a3rf+Bj5LxNup3sKqunVw=="

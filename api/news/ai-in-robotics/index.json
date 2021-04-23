@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-23-zombies-robots-and-big-unknowns-lurk-as-the-us-economy-recovers-from-pandemic.md",
+      "title": "Zombies, robots and big unknowns lurk as the U.S. economy recovers from pandemic",
+      "excerpt": "Some unanswered questions about the U.S. economy post-pandemic could set off a chain of consequences like dominos and impact career and investment goals",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504",
+      "originalUrl": "https://www.marketwatch.com/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-328162/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504",
+      "publishedDateTime": "2021-04-22T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-ishares-robotics-and-artificial-intelligence-etf-built-for-the-future.md",
+      "title": "iShares Robotics and Artificial Intelligence ETF: Built For The Future",
+      "excerpt": "Shares Robotics And Artificial Intelligence ETF - While the potential for growth is phenomenal, risks like significant foreign exposure and regulatory action are something to keep an eye on",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "originalUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1204583853/medium_image_1204583853.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "publishedDateTime": "2021-04-20T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-want-to-get-along-with-robots-pretend-theyre-animals.md",
       "title": "Want to Get Along With Robots? Pretend They’re Animals",
       "excerpt": "Robotics ethicist Kate Darling surveys our history with animals—in work, war, and companionship—to show how we might develop similar relationships with robots.",
@@ -664,6 +760,92 @@
       ]
     },
     {
+      "path": "_news/2021-04-15-ai-and-hiring-bias-why-you-need-to-teach-your-robots-well.md",
+      "title": "AI and hiring bias: Why you need to teach your robots well",
+      "excerpt": "Your artificial intelligence hiring tool told you so. Your AI system knows what great talent looks like because you trained it on the resumes of your existing high performers. This golden resume—your next,",
+      "sourceUrl": null,
+      "webUrl": "https://hrexecutive.com/ai-and-hiring-bias-why-you-need-to-teach-your-robots-well/",
+      "originalUrl": "https://hrexecutive.com/ai-and-hiring-bias-why-you-need-to-teach-your-robots-well/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hrexecutive.com/wp-content/uploads/2021/04/AI-Bias.Social.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hrexecutive",
+        "domain": "hrexecutive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-robots-will-not-take-jobs-if-cios-start-preparing-the-workforce-now.md",
+      "title": "Robots will not take jobs — if CIOs start preparing the workforce now",
+      "excerpt": "On the whole, emerging technologies are \"unfolding gradually\" with time for companies and workers to adapt, MIT Sloan affiliates said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciodive.com/news/MIT-Sloan-CIO-symposium-future-work-automation/598329/",
+      "originalUrl": "https://www.ciodive.com/news/MIT-Sloan-CIO-symposium-future-work-automation/598329/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ciodive.com/user_media/cache/ab/f8/abf891e27d1a07668c053b648db45cc8.jpg",
+          "width": 770,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Dive",
+        "domain": "ciodive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-modular-mobile-robot-can-take-on-multiple-roles-at-construction-site.md",
       "title": "Modular mobile robot can take on multiple roles at construction site",
       "excerpt": "Austrian startup Printstones has been developing robotic 3D-printing robots since 2017, and has just pulled back the curtain on its latest prototype, a mobile multi-tasking construction bot called the Baubot.",
@@ -737,6 +919,58 @@
         "name": "futurefarming",
         "domain": "futurefarming.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-isilon-founder-lifts-the-hood-on-farming-startup-carbon-robotics-and-its-weed-zapping-machine.md",
+      "title": "Isilon founder lifts the hood on farming startup Carbon Robotics and its weed zapping machine",
+      "excerpt": "is unveiling its self-driving robot that uses artificial intelligence to identify weeds growing in fields of vegetables, then zaps them with precision thermal bursts from lasers. The startup, previously known as Maka Autonomous Robots, was in stealth mode ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/",
+      "originalUrl": "https://www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/04/photo3-630x354.jpg",
+          "width": 630,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/amp/",
+      "publishedDateTime": "2021-04-13T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1170,225 +1404,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-softbank-to-buy-28-bn-stake-in-norway-robotics-firm.md",
-      "title": "Softbank to buy $2.8 bn stake in Norway robotics firm",
-      "excerpt": "Japanese investment giant SoftBank Group will buy a 40 percent stake in Norwegian robotics company AutoStore ... on some of the tech world's hottest start-ups and biggest names, ranging from artificial intelligence to biotech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-04-softbank-bn-stake-norway-robotics.html",
-      "originalUrl": "https://techxplore.com/news/2021-04-softbank-bn-stake-norway-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-04-softbank-bn-stake-norway-robotics.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-softbank-bn-stake-norway-robotics.amp",
-      "publishedDateTime": "2021-04-06T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-real-or-fake-robot-uses-ai-to-find-waldo.md",
-      "title": "Real Or Fake? Robot Uses AI To Find Waldo",
-      "excerpt": "A Logitech c525 webcam captures images, which are processed by the Pi with OpenCV, then sent to Google’s cloud-based AutoML Vision service. AutoML is trained with numerous images of Waldo ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/08/30/real-or-fake-robot-uses-ai-to-find-waldo/",
-      "originalUrl": "https://hackaday.com/2018/08/30/real-or-fake-robot-uses-ai-to-find-waldo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/08/waldo-bot.png",
-          "width": 1691,
-          "height": 871,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition.md",
-      "title": "NIWC Atlantic Wins Big in Joint Artificial Intelligence Robotics Competition",
-      "excerpt": "Atlantic swept the top five places in the Amazon Web Services (AWS) DeepRacer First Annual Army-Navy Competition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.navy.mil/Press-Office/News-Stories/Article/2561638/niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition/",
-      "originalUrl": "https://www.navy.mil/Press-Office/News-Stories/Article/2561638/niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.defense.gov/2021/Apr/05/2002614499/1460/1280/0/210319-N-GB257-001.JPG",
-          "width": 1460,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "United States Navy",
-        "domain": "navy.mil",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science.md",
-      "title": "Why machine learning, not artificial intelligence, is the right way forward for data science",
-      "excerpt": "Commentary: We like to imagine an AI-driven future, but it's machine learning that will actually help us to progress, argues expert Michael I. Jordan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
-      "originalUrl": "https://www.techrepublic.com/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
-      "publishedDateTime": "2021-04-05T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-lounge-lab-unveils-aris-capsule-based-ice-cream-robot.md",
-      "title": "LOUNGE LAB Unveils 'ARIS', Capsule-Based Ice Cream Robot",
-      "excerpt": "Customizable with 10 flavors and 3 shapes “We want everyone to be happy.” From the comment on the launch. Visit:  The food-tech start-up",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/04/ab20488883/lounge-lab-unveils-aris-capsule-based-ice-cream-robot",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/ab20488883/lounge-lab-unveils-aris-capsule-based-ice-cream-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/ba1c0b33f681aaf9fcd339ba804ddacd.png",
-          "width": 600,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20488883",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20488883",
-      "publishedDateTime": "2021-04-05T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

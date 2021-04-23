@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/"
 type: article
 quality: 98
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "Autonomous Marine Navigation Startup Orca AI Raises $13m Series A"
+    excerpt: "Orca AI, the industry leading AI-based navigation and collision avoidance solution, has raised $13 million in Series A funding, taking its total raised to over $15.5 million. Orca AI’s solution is the first step in introducing autonomous features to vessels already on the water."
+    publishedDateTime: 2021-04-22T15:28:00Z
+    webUrl: "https://maritime-executive.com/corporate/autonomous-marine-navigation-startup-orca-ai-raises-13m-series-a"
+    type: article
+    provider:
+      name: Maritime Executive
+      domain: maritime-executive.com
+    quality: 37
+    images:
+      - url: "https://maritime-executive.com/media/images/PR2021/Orca-AI-Co-founders-.c992b2.jpg"
+        width: 643
+        height: 361
+        isCached: true
   - title: "Autonomous marine navigation startup Orca AI raises $13million Series A"
     excerpt: "Orca AI, the industry leading AI-based navigation and collision avoidance solution, has raised $13 million in Series A funding, taking its total raised to over $15.5 million. Orca AI’s solution is the first step in introducing autonomous features to vessels already on the water."
     publishedDateTime: 2021-04-21T18:00:00Z
@@ -66,6 +80,6 @@ related:
         height: 380
         isCached: true
 
-secured: "hoFiprBel6ceRIMeUbwlymYD1ITwx3fZXxnx5KgJ9opquCrsQh5VwRrrkvAEFDyCNjwy59LtSQAK8LmjcyfVYSjXmIK6W1R3KZpSAdx/mGbmHecTSD18OvmbBpCxW9nrFDfprj/HFSsE49gfO7sE6CxPZ/eYlz4eFtTypKzBv9tPg5VGDNNvdqGzHvyC5slUx3xhNyQf66l9tmrMNNoT1s2fWWHSlVSpf/xTFJW03FOQp0P+EegUcN8CA7vxAKvl/5UM9oKY8lET84CB2sv5WO9H57YfOYxXZM7diSvr2CAw6G25OCCt5Ye7m6XHZhTgWnv6TSlCY6zdHia95htJVV/mmQOB8SH105SWv0oLFZ4=;HrOeVmob2Ts8gOKSnQJ1nA=="
+secured: "3Ogmc3ZaHs/e04VlzrNLihVl/sOHTijy63OezbSMo1B603oNC1hYKcxYX8p9x7Z/sAtA6Ehf9zqdt4NkxVdbANgc8T+QTViGzxd9QLlWzas336XMplw75s0Bm802zrHgYARtt+klgYImZjq2Jj7g5SLqY9ugROCZztZy4GLnaqazXruSwXfasBX8McZuzrBWkmXfEX2qnTq8drtm4cOVlZRcANzMLwVgddWZ6Iq70goF7wyVULLvonXWjNjjKBMTgFuerHfHRWfDwUjAkJqQ386j6Y6QZMgwWmua4x3VjUE8iSs0D56Jl4mJwZVx75wIO00ZoQxtGVLRbi/tTMDkIHqi7izteIWn86szOp+j+1w/TMSsKJnceXl/730+gFEu+frZGNDHsbN7Al2xyw1vgnYlLLMn2xGORS0i7Di3r5j9biIx1Kuwz9wSLKJl8p3m6+tSVJe4JK3Um2LsLHnNWhu8wjaxtgiTtJc+ktGOSPVxXBuMkWTtQYUKZcYJXqPtEcWVsdnaXXHMOSi8iMhCCg==;FWc/Mhkkc4pzQqSLrOdwww=="
 ---
 

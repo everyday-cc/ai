@@ -14,14 +14,14 @@ website: https://datascience.uoregon.edu/jake-searcy
 twitter:
   username: jakesearcy
   url: https://twitter.com/jakesearcy
-  followers: 73
+  followers: 74
 
 linkedin:
   url: https://www.linkedin.com/in/jacob-searcy-28819b51/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=Bgzrdc8AAAAJ
-  citations: 148091
+  citations: 151273
 
 topics:
   - AI
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Jacob Searcy"
 
-secured: "m6FBTg5UbYwZTSIr46yfmlL8rphOFH9lrOFS7p8me5N50cyDRCN0Cx5Qizt3SLdPVTRqXkVYaeSW0TBtz6/SdFA3TZfvx+BzubCEf4z+0XdUOBvFS6K4bN1UqNIiHPBX3YcpdiVdDkW7pjPDzr5OgwBgQsfoAyNoQVgNy82Tyw8Pl0XByChuVj+Ek59udv3R8qoCGN/vYdnnBwNe0CEQ7y4mVq79elX2ZvfJClCdq0qe8HNkj/hM7htj2INCLMshuPfsxvdvNOkm8gYy2usDo5uZTzl9CKTxHt8YuDl0S0/0gfuaQH9jjVTR0qQcI0Yw+mfhYzLeTGftaEPpu2OnvQMnOSc1tbGuv/ouPbiu6Uzf9PSaVSk5kLfnfTHAxqQzrnYbf8Hk0bTE6OT5xsgzlg==;srH1Hdbjk8BJjFSkDTz/kQ=="
+secured: "ZL+N44uKhgjDQuVOxuqS/S70dtDk9k1PeLD2H6mXwRtvEDmYHhrNy12lvICDBLlHD/dMULof3vu3e/xum5bmXV4ZVij/O3K6QGL1ycOfyOJ+YFg466215sRArJ9cS1WEXK615/tkKdEDiRdb9gHWfLJWc8OqA1ieoUxYRMpoHnTqO7iw62hxNezy4rw5U0aNhMxYXD3/YUeFTlMpbaTnT6CE86o6H/HuXuVYeCfgtm+uEEudLEQ8tPEsCTjYjryGkC6LT8YhM6inFhq6+qDmeLJYM2jZzVRSc3/CcmnYyQEZUjnFvNcLqxC6j7lynBwi/FTgOAncUivvdKyrSPJzJ/3ZHaz2LRduBLTvc56sn9ibhKvADtftjwcw8xvDZaHjE2psOpHdTPYYuSX6Rv212g==;Nq+arXI4U97JsR2xbhrl+w=="
 ---
 

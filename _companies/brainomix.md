@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "brainomix"
   url: "https://www.twitter.com/brainomix"
-  followers: 906
+  followers: 912
 
 size: 11-50 employees
 yearFounded: 2010
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=S2eI-YOtTZg"
 
-secured: "/kVu1vc2LTbp4dggH++axDSQekD91Unx/lg/puqAtSAxN/OPb1hKhRD0Pi+hl7PxtF3aJohL1oMOeu23e8OQBIMahXwXPcX1pOA1sDe0MTnbSF0sGGqjBw41l1OdwrI/BpDYyZlFhsXAfh5jMyp9FHKpH4brzpNwAOA1lFIZ+s1AhnlsBxBHF4vt0QwKE4GHq/2BHd+vvw7wCquKv5FE+IHb++xqCsrU+lfFPr1Xl8zTTWy7JLwcaa7d3OiaM/H1S6t04h2aa3QzW3G8TUQrdPSUfpripn5uKoUrl6Yqo+5TUPu0eJUVz5LP+U3OJndJImdPHv6mK0Kc7JtMwRQnSwrPZwSizyEExy0EkVlHp/XXRuV/zZbu3AMDDYwpO5WdwSRIEGi2BMjAx0Jc57Gr2A==;A3A9SoQIsUQ0hqg9I8Nhpw=="
+secured: "x2ohXiVxh13rnulSU+cdBr7KNWwoJi2+XHSy7i+mOD1bpqOR69UX/ovojuhF+ZjJIFwWJ2QjKWjvPr9NwiGnqwohh44yGC0PMSD9/i0Mlit9kTMqLsVHfcnw6cb5fkIGpUsfH5fzexQS1BQN4Cp2ajNAUkx6TBuJIBUWR7m6eEx3NbybcsSVwNmvTLlziXLbl7CGQe1AUDnyNpU9qeb2I8Wl+TZxvRy0HDZPecFB/IyaXA6bECzSNrbmqT+V73vYVMf8rSNZHjWYpIbpEOmvE4ndXjc5gr+fMifCmnMBYXbG3YuYBW+Ft+ZdRuDzb/Ji/7QWc6ZaoqJfX4xmUG2bXz0Wc9gcuSkSqt3qeqex1W6lHLX+eu0Sf0qPzWEhWyr04qmgpdG8O8klvdUzDXcoEg==;pwOuCOnR0mIZ1YhwZ3NrDg=="
 ---
 

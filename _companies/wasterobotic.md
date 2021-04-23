@@ -2,7 +2,7 @@
 name: "Waste Robotics"
 overview: "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS)."
 type: "profile"
-heat: 57
+heat: 50
 
 website: https://wasterobotic.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "dirtyjobrobot"
   url: "https://twitter.com/dirtyjobrobot"
-  followers: 331
+  followers: 334
 
 size: 11-50 employees
 yearFounded: 2016
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=QbKA9uNgzYQ"
 
-secured: "4df7+vR3+XywckeNfl0VCzdw8sI2Un4sGAKFiThUxRxKlrfEtOqr40exA3uGCtxjUMtAL2J//Chiv4NhtXKFo4ZVr6637vTSgMrcq6/64tzQZNv1KpLEUqKtcb+qxck0JM0cUGyVEsnXLtyPkaeELPmOkkw6AO5Wmzcx0neqZ2SroRbJncpscroSAy4hk0Q0LIh/VBFdlKXuY9ONMI67tLTS3L/gkMn84QQZURfhe6mrBjE/EIFibwOwtxG8hpd+m1wKjwqSWr/kZFmjSEL3IDAot0oIA7DF5d5dpZzzLDNovZrBa9ZkOl9ErdFmlCs/VpYOS7SZQIHo8rKbKNLIvF0fA8VAIQKmGSo/a7XI3vvhoNOfS7fjwygmBKIVDKcpPsfMU9fgvoTBlF700VjkeQ==;NU3qJ9ht3XVxGJqT9+Vpsg=="
+secured: "w3wJe3tK3WYd0eeFWKsu72lBiWwxE2cvIkV7sTy5io1OSob1jzMI4s/dvY2t6Zzpckxo/zwcme362dr3+mC54rk8DMDg0kPLJncIRqAG82EtqrhxdJJmTVW5MQw1gVofdw9/jqGFEqAORs7zTWmuc6KjAkReHYqGNxYH6e4yKS2Azu+/7Adzgx5lb1pZXXOhh1DOmIy1IHPE22CzzZnL3IeS2CD8fbc94A775+l+nWPlshPE/2A7FtvmkKtLBaTnYO6Di0T/SLrWFL0Gjlkx97iNVmYvO7HE8btD+OgDAcj0LkKBlzuaUzlWLbgVOTR0M+nqbi4AWXp6GPvyaDB4LfcdFMGAAjUic5TYKYiAkrYgyzpHeoSdsd/oOkfeqPkNf25CTV34bonCncUNXvjjfQ==;5L/0jhUqzH0bVCFcEzTCQg=="
 ---
 

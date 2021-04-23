@@ -1,29 +1,28 @@
 ---
 category: news
-title: "EU proposes rules for high-risk artificial intelligence uses"
-excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
-publishedDateTime: 2021-04-21T11:41:00Z
-originalUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
-webUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
-ampWebUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
+title: "E.U. proposes rules for high-risk artificial intelligence uses"
+excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning."
+publishedDateTime: 2021-04-21T11:54:00Z
+originalUrl: "https://www.nbcnews.com/tech/tech-news/eu-proposes-rules-high-risk-artificial-intelligence-uses-rcna731"
+webUrl: "https://www.nbcnews.com/tech/tech-news/eu-proposes-rules-high-risk-artificial-intelligence-uses-rcna731"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna731"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna731"
 type: article
-quality: 59
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: WBAL
-  domain: wbal.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.s3-media.wbal.com/Media/2021/04/21/6b8548d1-c476-41c6-8ccf-1274955ca07f/original.jpg"
-    width: 512
-    height: 331
+  - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/1102/210421-vestager-mc-1252-9e482b_d2b35278be7c91736bbfaea0c20fcbf92f8af42b.jpg"
+    width: 2500
+    height: 1602
     isCached: true
 
 related:
@@ -134,6 +133,6 @@ related:
         height: 707
         isCached: true
 
-secured: "E2dawFgLAKQZz2g7nRKHzMCCuZRG7OKfI3vTa9WGY/pT8fRYdX6rFNwAGyfnKvHoHqYrgwRKuLKgmJw7KLE/eyQeq6xQiAiv4TKShjUiZc8HA5EagLDSFUrY7Lrjdh14ymxZ+ORsP8c08elVx6d8Xev42lKbrfQrYowcUT4JDr0JmV/MW245nNydjr6s8jwDescbgC9yANImxZyP6axhKE3uSavsIxhwGU34MHK3oIQMvbvYpMjku1fIozc41tXmSnBrE5XCXKe8wlJcRnV/k2n4R02flwWrdjJsd3YrrYdvqP6ulwLTMND1f+lRXg+J/mxt4rBZExuoPKJ7qtxj/RqpejT8z7QX/5eN1UBaNeo=;zRUZgYotDoYj3Dv+WPkjpg=="
+secured: "PIcKiPtPaWxQDMrGpe5MjtL7R64Sp/Qlr+DNT1PqKi7QUacUuBZEkLR8eDWSwrgw2Zfae4/lXS6Q0QCYO/0Sfp3EoWbqwuptU8sc9nQjSOD0DmUVziH6OZ60Cu1VllfoVUGwuDE5m41DMG2csV1u7rM4gulTGNFUHDFpMhE7eRn+OBeLeWcnSkUgnyVGf2wto4kDcQGCjm5+Q0WsS1jJ6yPhL11/c6zYO0xuv60fXrIkt4MK76r17U1/Jx7+gEbAfk3RmiqSHekatAbk3E2xro/F4gHXAsFRdpvglXEdl+xXvonW9ChJ4H424fDTLr+Lljf36jydp+a5x8fJD3G7JW6QroxtNSwhULKNpn3R/f0=;JPdFzIL9fL27ZvOIuy1I/Q=="
 ---
 

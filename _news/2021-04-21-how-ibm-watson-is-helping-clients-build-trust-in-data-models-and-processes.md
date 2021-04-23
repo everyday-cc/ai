@@ -29,18 +29,20 @@ images:
 
 related:
   - title: "IBM Launches New Watson Capabilities to Help Businesses Build Trustworthy AI"
-    excerpt: "IBM (NYSE: IBM) today announced new capabilities for IBM Watson designed to help businesses build trustworthy AI. These capabilities further expand Watson tools"
-    publishedDateTime: 2021-04-21T14:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai/article_8f4048e0-5fa5-500b-9974-cc2fdbd21e0b.html"
+    excerpt: "today announced new capabilities for IBM Watson designed to help businesses build trustworthy AI. These capabilities further expand Watson tools designed to help businesses govern and explain AI ..."
+    publishedDateTime: 2021-04-21T14:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/n20727354/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20727354"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20727354"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 51
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 71
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/60801e8f02b1c.image.jpg?resize=1200%2C627"
-        width: 1200
-        height: 627
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
 
 secured: "m1W1kXGv9nVU89w3ORlWVarIrqwIh3i5KBUzucEarHuzADFZ3NN1t5h/QwLXa2BEcmsG7AQKilEkWxJNXO+OaePNWPk/8iA3/emIcMFwy/hN/Misnl/nXRXZgf98TmEvVcstM38qQLQL5jU19qnG/dsFGX17q6trByRghoFrNmLJEPET8wpxCsjslTt0YRswYvagPky9BKLEP3QxfAJF9kf2fG2q7CWpTFx19oH6N7quq01X8x+DYniohgP/3s1/iGlPc+tmCS7bOWfuIFZjeP59fUHPX3vBAVfZtNs+IOGZ77E3Eu/dVhkz9QKxXMX2LVFEDwucQjgENLlMj/6fkbq5PMJ8bUdci1pFeYntPRU=;HP8KH/uSm+FGnloK4irQQA=="

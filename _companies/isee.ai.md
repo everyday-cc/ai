@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "isee_ai"
   url: "https://twitter.com/isee_ai"
-  followers: 172
+  followers: 179
 
 size: 11-50 employees
 yearFounded: 2016
@@ -35,12 +35,12 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1140742840529674240/YQ5p0qSF_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1376600738491666436/zWT9Q4o5_400x400.jpg"
     width: 400
     height: 400
     isCached: true
     title: "ISEE"
 
-secured: "Am5ORWv7yKQRXvLXrS8E+bJnVV6+QSYEnP/NEIGFzn8lZuRHowg+Y3IQy9oEhdWCwe/fRxa3KyqCCqEpF7TwMQbXnVE5/Nr1sZleh8/iDO+pA+Vk7hw8k4TCjCPN32Qa9N5yUeKf2Y+rlMG6I4WYIYC0q4PkALDwx/FoEiIItc7ZxbWXX/2vcXdl/no+icExLjdr1idem999XW+8ZQdBgceLHBC5O3Gs7V95pRI3NT4iAnRwCYl98MlNRS1fou70ZWV4XkqGrWg4uPur5/OK6QXLw5ZVhDYeIgStlgJT82EaiBHXh1E7IIYyVZpEbQvmeK+EugtguMYUX6O8/o08mWvMRC1ZC5nXru8L4ch3Ko0AArx4S+NksjUnlukw73v3ChT7FRiDqtij22zYT0wXHQ==;nFySp/78HpFJ7ejjTSWcEQ=="
+secured: "6CQfQTXR19OX2DvgUtqyLSxTIx5wrHNgiRp539Sktm7zkJ7IbCC/PMTE7UZZiVX0DOejrGTcvKk8EKtUXtTH/tIa2Co4dabgiLPZx6b6/kY93Ky+FoajxXmo2FpHaoZe0Z5qMkWSRVTAUsjw4ECEIormIEBI+Hobuu3+a6Z3RPfk9yYhUpeoVpMNCCkz1LXRc80OZR4UwzvW1m3tnajupRH6wUHdxL5hmOc9hCHLc81HYz2ok62lJmFmK1tWm5B6FEbyvHjUU7tfBSpPTnW7NLZYx8tEdmVFjHfL2VRQAirpzI/kdZtar935odHDKnIf8JpTEO/tuREjc+bsVwfOhP07FTShu7Eu8G7b+9CihqOI6dppu3X99GKYxS1BV8lnPEi2DeAQKfBBBerGZiMBhA==;sH4zGkpfOSvKTBfH98d0FQ=="
 ---
 

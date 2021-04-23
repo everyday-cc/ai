@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "boulderai"
   url: "https://www.twitter.com/boulderai"
-  followers: 140
+  followers: 138
 
 locations:
   - San Diego, CA
@@ -35,6 +35,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=UoXpoP7ibGk"
 
-secured: "Oo2edSqwFCI8FeWVCsgm7jnfuq41GxPcBuiFsJatAGQZ2fToPVienJ8ALJV2TF9yo6QbCBR+qUJPvovZv+SjkmxAYOH9YH5wD1rB75QQF3fuQKLqdEvX/Qrvm41OTldZUX2nzS5WfaAmYt3kbvgrjoSRbXpVlf8qpiLcWiypmUKW7HhZdNCkgYK0yGs4o5aSGpAvjwyfeSWRu5eYkSdNLSJ1eJTuEMSG6J5kqAsBNAOTo5lt6xZFz8FjLl8NHd6W+71QKVUb+86w7tjwCK8I3AADO+6HvJSUxE6VzJONQfHm8jy3XgwC7u7EBXciXEIgYv5lniWjH1vSElVskzhXUtkhBhCFKLjaOxVaaKYJBjYptwaxYEdUO/hl55EcmXu03K4oS32intKYBOcvheAi7Q==;wRpHMAegMfzgk0vzugi8lg=="
+secured: "lUg2v3CPiCb9wyRnorn+oX1lOBB9FsWWWkR+0og5NQS0MXCAWJMxnNsDIn2bdgmK2os1hqYbjyEyUQxprRcXwnmhhrctnGaFwaoDJ/WTFZOA4Uq+b4XkafSzhrQFiKzJUWuqURZVYObIKrux7I9RiZcMUq/KKOTqCkOgtZ+HEAhv3MP9uD93tcg42MmnZykNKplEzaKs0A8efYQyr4gDSTr/VZZKElWy+EFE0Gf20AlPMvWPmXrMJ/262M8yBVjjS3LjFzghbg9/FpcT7lJUjQa9b+svu9Z6vtZLg3JBfKzjyFSFqj7SUEj2bROiZjTGcHfCWlhGNSDOA07IJ6kRBIPSj9Q2/ggNJDrT1oiEQuVh+pmozcymlwPJ/N6oLFisSPeWIzGjtJdqgjuIKeq/kw==;AMdfd9qxh15bev1BIUfJag=="
 ---
 

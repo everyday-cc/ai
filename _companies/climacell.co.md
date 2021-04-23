@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "weatherrevealed"
   url: "https://twitter.com/weatherrevealed"
-  followers: 16
+  followers: 17
 
 size: 51-200 employees
 yearFounded: 2015
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "XmTDdIW7HlfBGwLFYV05HuxghR6KEECDqYwX9vDGuga6sFBjV30D6E0Vi9URMRYOspDSwLcGEFdLG/vJWhYK1y7dR2/wpJFgjj01W2RiTKiCg0kCfdrLZKxOHUi4uVrPl+rniNCJ3V/TcNqYyoFhJQQTdZeTHiEO74ee9WhsTYh3kSKKlMH8l6F9ggSH/UjnRMsd/JpdJa5tp5yfB/4Ea2Ll8DP80dHNpa6XvK/PPuXFPSTs89I7J2ANVo7OWl4GyDUUujszUXkgvCQq2Z+LCq9wBXVFh8jKtUqGZE9yiSJMAXj4tyX04uCKWil61TjFgHDmFTchShm1kbRpQCEUXJbyrflAL9RK1/KprfIjGBtylknfYz3Su/r0dFAAtMPQA/4PL+cRXLAV53WF3b9Vmw==;HXXkiErl/EkiCM7M1IJE0A=="
+secured: "AVKx2EKalBd283DMH4PkNSyU5W7VCIrIKEuQVzKAENghrPTzc5LHk8hAVQ+XTc/Lhtfh8bElxAtSc+xIdZaRUGoLFX4vSDhGoB5BzwwKWEZ9XFJpvXyC74CMSF5h1O4PgojtUL2rusMWx6m08IUt6pBVvcVXaIzkfjy9TJxw9pwI6iblQQuag89HB/ovcEflyWwtjET5DhbzDKKylg2VNomhKVUuoS7yKVQd//J9iIfaWlsVYeAfDQzdjzy3JE/97s5TuztCfLXwSuM84jWiQzcj5WTbUTpOQOs+Kq87ENablriCvKb7N+jW3sCS8APdpBGKX8CCTxx5lrO7wH8EemCjX5ZmDGRZF20SBLmWEb74BqQsK0XbsdP/1Po0I+wN/zakzcD7lYEzJpAq8VlfjQ==;17cswYLGCTvWzjeZuLoLqQ=="
 ---
 

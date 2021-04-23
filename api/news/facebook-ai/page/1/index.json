@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-22-amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1.md",
+      "title": "Amazon, Facebook keep up their sizable spending on Washington lobbying during Q1",
+      "excerpt": "Amazon.com Inc. and Facebook Inc. continue to lead the so-called FAANG companies in spending on Washington lobbying during this year's first",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1-11619021728",
+      "originalUrl": "https://www.marketwatch.com/story/amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1-11619021728",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-328147/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1-11619021728",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1-11619021728",
+      "publishedDateTime": "2021-04-22T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-facebook-employs-ai-tech-to-combat-complex-illnesses.md",
       "title": "Facebook Employs AI Tech To Combat Complex Illnesses",
       "excerpt": "Facebook said it is rolling out artificial intelligence (AI) tools aimed at predicting the best combination of pharmaceuticals to combat complex illnesses.",
@@ -1234,58 +1286,6 @@
         "Facebook AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness.md",
-      "title": "AI Weekly: Facebook, Google, and the tension between profits and fairness",
-      "excerpt": "The inner workings of ethics and fairness operations at Facebook and Google reveal tension between profits and harm caused by AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/",
-      "originalUrl": "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/amp/",
-      "publishedDateTime": "2021-03-12T20:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

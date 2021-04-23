@@ -1,0 +1,161 @@
+---
+category: news
+title: "New Amazon SageMaker Neo features to run more models faster and more efficiently on more hardware platforms"
+excerpt: "Amazon SageMaker Neo enables developers to train machine learning (ML) models once and optimize them to run on any Amazon SageMaker endpoints in the cloud and supported devices at the edge. Since Neo was first announced at re:Invent 2018, we have been continuously working with the Neo-AI open-source"
+publishedDateTime: 2020-12-09T01:27:55Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/new-amazon-sagemaker-neo-features-to-run-more-models-faster-and-more-efficiently-on-more-hardware-platforms/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/new-amazon-sagemaker-neo-features-to-run-more-models-faster-and-more-efficiently-on-more-hardware-platforms/"
+type: article
+quality: 71
+heat: -1
+published: false
+
+provider:
+  name: AWS
+  domain: aws.amazon.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+    width: 768
+    height: 385
+    isCached: true
+
+related:
+  - title: "Speeding up TensorFlow, MXNet, and PyTorch inference with Amazon SageMaker Neo"
+    excerpt: "Various machine learning (ML) optimizations are possible at every stage of the flow during or after training. Model compiling is one optimization that creates a more efficient implementation of a trained model. In 2018, we launched Amazon SageMaker Neo to compile machine learning models for many frameworks"
+    publishedDateTime: 2020-12-09T01:27:21Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/speeding-up-tensorflow-mxnet-and-pytorch-inference-with-amazon-sagemaker-neo/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 136
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
+  - title: "Optimizing ML models for iOS and MacOS devices with Amazon SageMaker Neo and Core ML"
+    excerpt: "Core ML is a machine learning (ML) model format created and supported by Apple that compiles, deploys, and runs on Apple devices. Developers who train their models in popular frameworks such as TensorFlow and PyTorch convert models to Core ML format to deploy them on Apple devices. Recently, Apple and"
+    publishedDateTime: 2020-12-09T01:27:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimizing-ml-models-for-ios-and-macos-devices-with-amazon-sagemaker-neo-and-core-ml/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
+  - title: "Amazon SageMaker Neo makes it easier to get faster inference for more ML models with NVIDIA TensorRT"
+    excerpt: "Amazon SageMaker Neo now uses the NVIDIA TensorRT acceleration library to increase the speedup of machine learning (ML) models on NVIDIA Jetson devices at the edge and AWS g4dn and p3 instances in the AWS Cloud. Neo compiles models from TensorFlow, TFLite, MXNet, PyTorch, ONNX, and DarkNet to make optimal"
+    publishedDateTime: 2020-12-09T01:27:38Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-neo-makes-it-easier-to-get-faster-inference-for-more-ml-models-with-nvidia-tensorrt/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
+  - title: "Model dynamism Support in Amazon SageMaker Neo"
+    excerpt: "Amazon SageMaker Neo was launched at AWS re:Invent 2018. It made notable performance improvement on models with statically known input and output data shapes, typically image classification models. These models are usually composed of a stack of blocks that contain compute-intensive operators, such as"
+    publishedDateTime: 2020-12-09T01:27:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/model-dynamism-support-in-amazon-sagemaker-neo/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
+  - title: "Customizing and reusing models generated by Amazon SageMaker Autopilot"
+    excerpt: "Amazon SageMaker Autopilot automatically trains and tunes the best machine learning (ML) models for classification or regression problems while allowing you to maintain full control and visibility. This not only allows data analysts, developers, and data scientists to train, tune, and deploy models with"
+    publishedDateTime: 2020-12-10T17:46:40Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/customizing-and-reusing-models-generated-by-amazon-sagemaker-autopilot/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/28/ML-1214-5.jpg"
+        width: 800
+        height: 391
+        isCached: true
+  - title: "Identifying training bottlenecks and system resource under-utilization with Amazon SageMaker Debugger"
+    excerpt: "At AWS re:Invent 2020, AWS released the profiling functionality for Amazon SageMaker Debugger. In this post, we expand on the importance of profiling deep neural network (DNN) training, review some of the common performance bottlenecks you might encounter, and demonstrate how to use the profiling feature"
+    publishedDateTime: 2020-12-10T23:57:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/identifying-training-bottlenecks-and-system-resource-under-utilization-with-amazon-sagemaker-debugger/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1883-4.jpg"
+        width: 800
+        height: 359
+        isCached: true
+  - title: "Using streaming ingestion with Amazon SageMaker Feature Store to make ML-backed decisions in near-real time"
+    excerpt: "Businesses are increasingly using machine learning (ML) to make near-real time decisions, such as placing an ad, assigning a driver, recommending a product, or even dynamically pricing products and services. ML models make predictions given a set of input data known as features, and data scientists easily"
+    publishedDateTime: 2020-12-10T22:19:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/using-streaming-ingestion-with-amazon-sagemaker-feature-store-to-make-ml-backed-decisions-in-near-real-time/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/09/Architecture-Chart.jpg"
+        width: 800
+        height: 416
+        isCached: true
+  - title: "Identify bottlenecks, improve resource utilization, and reduce ML training costs with the deep profiling feature in Amazon SageMaker Debugger"
+    excerpt: "Machine learning (ML) has shown great promise across domains such as predictive analysis, speech processing, image recognition, recommendation systems, bioinformatics, and more. Training ML models is a time- and compute-intensive process, requiring multiple training runs with different hyperparameters"
+    publishedDateTime: 2020-12-09T19:40:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/identify-bottlenecks-improve-resource-utilization-and-reduce-ml-training-costs-with-the-new-profiling-feature-in-amazon-sagemaker-debugger/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/09/HeatMap.jpg"
+        width: 800
+        height: 409
+        isCached: true
+  - title: "Exploratory data analysis, feature engineering, and operationalizing your data flow into your ML pipeline with Amazon SageMaker Data Wrangler"
+    excerpt: "According to The State of Data Science 2020 survey, data management, exploratory data analysis (EDA), feature selection, and feature engineering accounts for more than 66% of a data scientist’s time (see the following diagram). The same survey highlights that the top three biggest roadblocks to deploying"
+    publishedDateTime: 2020-12-11T17:39:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/exploratory-data-analysis-feature-engineering-and-operationalizing-your-data-flow-into-your-ml-pipeline-with-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/08/ML-1680-2.jpg"
+        width: 800
+        height: 326
+        isCached: true
+
+secured: "ppo3KMRT5cE54BQQUMWvNpDBjqTYMErlArNk/3hHYE/xUmgzHbtzkPzNW+xAEVdcLcJrdfQgmpeVv5ki2S4oEu8vYN/81jNmzaTHvFYV12DTtySqUsa9+HRuAVIxVoUu1gtXTcQWMO84mm5GgxH4aZBG4nmQgI8I2kV42ExRb6SvWfIkUjrtHdVvjPW4Qr4Oh164OQqm1ev79ohMFyHF5ByC+K4PnfM/j+hpICIN2alwAkZREl3Z/yenKWqULNyrnzjXCnoC+pVLA437aTY9SzRC9ldTcALn1z4g3ocyGImpOc+xglDG0Ww2j7w1bpAAesW73MOIWKUXXTjSVaiKyy/W+fV2CKZlYeBT2U6j8VQ=;8eeSXCFgrXAekA42fupc+A=="
+---
+

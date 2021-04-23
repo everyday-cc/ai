@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-reg
 ampWebUrl: "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html"
 type: article
-quality: 89
-heat: 139
+quality: 91
+heat: 161
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://static01.nyt.com/images/2021/04/21/business/21economy-briefing-eu-ai/21economy-briefing-eu-ai-facebookJumbo.jpg"
@@ -79,6 +80,20 @@ related:
         width: 876
         height: 493
         isCached: true
+  - title: "European Union Unveils Regulations Governing Artificial Intelligence"
+    excerpt: "The European Union has unveiled strict regulations to govern the use of artificial intelligence. The draft rules,"
+    publishedDateTime: 2021-04-22T12:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/european-union-unveils-regulations-governing-artificial-intelligence-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "European Union Moves to Regulate Artificial Intelligence"
     excerpt: "The European Union’s executive branch on Wednesday announced proposals designed to regulate the use of artificial intelligence (AI), banning its use in practices such as surveillance and facial scanning that threaten personal rights."
     publishedDateTime: 2021-04-21T17:23:00Z
@@ -95,6 +110,22 @@ related:
         width: 4886
         height: 3130
         isCached: true
+  - title: "European Commission Publishes Proposal for Artificial Intelligence Act"
+    excerpt: "On April 21, 2021, the European Commission (the “Commission”) published its Proposal for a Regulation on a European approach for Artificial Intelligence (the “Artificial In"
+    publishedDateTime: 2021-04-22T17:57:00Z
+    webUrl: "https://www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act"
+    ampWebUrl: "https://www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "Europe proposes strict regulation of artificial intelligence"
     excerpt: "The European Union unveiled strict rules to govern the use of artificial intelligence, a first-of-its-kind policy that outlines how companies and governments can use a technology seen as a significant,"
     publishedDateTime: 2021-04-21T23:03:00Z
@@ -107,6 +138,6 @@ related:
       domain: seattletimes.com
     quality: 39
 
-secured: "jt83KiuTUr07jLMCwYfVWZHBv6dg173NJqbkqQle6UXX/l2ImkNXgH8f5oryZ41co8IDmWmv37PsovbwMa2kUigTXIYMJlOOiEv3g7P518Ei/TGpAJq6TFNcpdvEpfGyJlp+6+Beuv9VT7PkBLcArqJpu351+gFbGMmGtK4xBhSlMOhBenGCEeNVS+wr0t9gDap19+7GtVVn8B7eMIKHrxLhd26asAa5YRbrQDj7n7sw/Q4S+nlygTNlXQmK+gb8A/UXm5u0u5xukmIb/al0g8bSkCRHbtpGfTiQ6mhHJPRkV2cJ2dIZLFZFuifnkvp5PNyeI4iNVpGLMCnLignO01twzJXFldgbRoJBPFbWxH0=;H7j1M0Hg9P6SO+4hs5bUFQ=="
+secured: "9R0QZVCUSBPLKWjUhhRTcrrtJFs5qbPA1+n1JwiVQ6Wy9vL8EyV1r5yfUMsRjrlhb4TrK5M2Q6TIo6RxhK3hkYA+m8nkYXUfAmvZoAl9BgnlLP2qd28izcomN7y7bVlC/wfHUgy2UssyOOwO9kc4kHadK8ho+BES5ZTZiX3r0rgEli+sFza50TGQwIBeinVn9qqPBn8CnNSap2aDMhyN9iMnRFAogaH0XmFO9xEB3x1v03iJZfQYewZGuEqQt48Lvwqs6uolqjWLtgsahumlw1EPPH17LTx6Etdkp8vK0NCOqSrUh4wIukEM9BnE+5BlTU8zgtPkWGwkBBKmb8qXc1IlFb7ccm0pp1lryW/VVlf2Q6th/H2nnBtRWnBYaqGJiYajI6DxHD+qpGja2D4gleZwtejh3mR8SfO0/Yg6KsEhQJHSscnK0Tn8veokw3PA9K5dBzYvzWs5wmRj06V4J+G4WxpCmboyBQhHeyoSDZTrlNLjyvujRuWTfSz/NF52PGg2AmP0ZC4RRKGZ+UPDOw==;Ar3olVk5DFNKYJ2mVv2qyw=="
 ---
 

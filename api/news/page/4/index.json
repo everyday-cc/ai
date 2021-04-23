@@ -2,6 +2,1093 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-17-ai-artificial-intelligence-build-it-or-buy-it.md",
+      "title": "AI (Artificial Intelligence): Build It Or Buy It?",
+      "excerpt": "And to accomplish this, the company evaluated a myriad of AI solutions. But they all fell short. “In the end, we leveraged a combination of best of breed open source technology and tools to build our own AI platform that is very powerful,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/04/16/ai-artificial-intelligence-build-it-or-buy-it/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/04/16/ai-artificial-intelligence-build-it-or-buy-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f821dc276c3f7d5c600d9df%2F0x0.jpg%3FcropX1%3D156%26cropX2%3D9343%26cropY1%3D0%26cropY2%3D5168",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/04/16/ai-artificial-intelligence-build-it-or-buy-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/04/16/ai-artificial-intelligence-build-it-or-buy-it/amp/",
+      "publishedDateTime": "2021-04-16T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-like-science-fiction-seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland.md",
+      "title": "‘Like science fiction,’ Seattle startup sends laser-equipped robots to zap weeds on farmland",
+      "excerpt": "Running day and night, a tractor-sized robot designed by a Seattle startup uses lasers to kill weeds on acres of farm land. The machine is the latest form of automation to arrive in agriculture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/",
+      "originalUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/?amp=1",
+      "publishedDateTime": "2021-04-16T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-facebook-employs-ai-tech-to-combat-complex-illnesses.md",
+      "title": "Facebook Employs AI Tech To Combat Complex Illnesses",
+      "excerpt": "Facebook said it is rolling out artificial intelligence (AI) tools aimed at predicting the best combination of pharmaceuticals to combat complex illnesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-combat-complex-illnesses/",
+      "originalUrl": "https://www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-combat-complex-illnesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/Facebook-AI-pharmaceuticals-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-combat-complex-illnesses/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-combat-complex-illnesses/amp/",
+      "publishedDateTime": "2021-04-16T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases.md",
+      "title": "Facebook claims AI can predict drug combinations to treat complex diseases",
+      "excerpt": "Facebook in collaboration with Helmholtz Zentrum München is developing an AI system that can predict drug combinations to combat disease.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/",
+      "originalUrl": "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/amp/",
+      "publishedDateTime": "2021-04-16T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot.md",
+      "title": "AI-driven audio cloning startup gives voice to Einstein chatbot",
+      "excerpt": "You’ll need to prick up your ears for this slice of deepfakery emerging from the wacky world of synthesized media: A digital version of Albert Einstein — with a synthesized voice that’s been (re)created using AI voice cloning technology drawing on audio recordings of the famous",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot/",
+      "originalUrl": "https://techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/6076b79e65c03b4b318d885a_Digital-Einstein-image-9.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot/amp/",
+      "publishedDateTime": "2021-04-16T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-relay-therapeutics-acquires-ai-startup-for-85m.md",
+      "title": "Relay Therapeutics acquires AI startup for $85M",
+      "excerpt": "Relay Therapeutics, the Cambridge precision medicine company that raced onto the stock market last summer with one of the largest IPOs in the biotech industry, is looking to build out its data science capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/boston/news/2021/04/16/relay-therapeutics-acquires-ai-startup-for-85m.html",
+      "originalUrl": "https://www.bizjournals.com/boston/news/2021/04/16/relay-therapeutics-acquires-ai-startup-for-85m.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-better-buy-baidu-vs-alibaba.md",
+      "title": "Better Buy: Baidu vs. Alibaba",
+      "excerpt": "Last September, I declared Alibaba ( NYSE:BABA) was a better buy than Baidu ( NASDAQ:BIDU). I claimed that the strength of Alibaba's core commerce business, the narrowing losses at its cloud division,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
+      "originalUrl": "https://www.fool.com/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F621359%2Fgettyimages-970600792-1.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
+      "publishedDateTime": "2021-04-16T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-nvidia-shares-up-11-this-week-on-new-supercomputing-chip.md",
+      "title": "Nvidia Shares Up 11% This Week On New Supercomputing Chip",
+      "excerpt": "Shares of graphics chip maker Nvidia (NASDAQ: NVDA) jumped 11% this week after the company announced its new Grace chip created specifically for artificial intelligence data centers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/369592",
+      "originalUrl": "https://www.entrepreneur.com/article/369592",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-369592.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369592",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369592",
+      "publishedDateTime": "2021-04-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-financial-standards-setter-to-focus-on-use-of-ai.md",
+      "title": "Financial Standards Setter To Focus On Use Of AI",
+      "excerpt": "A global standards-setting body for the prudential regulation of banks said on Friday that one of its main focuses for the year ahead will be on the role of artificial intelligence in the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-ai",
+      "originalUrl": "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1375927",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1375927",
+      "publishedDateTime": "2021-04-16T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise.md",
+      "title": "Gurobi Teams Up With Lityx To Accelerate The Adoption Of Mathematical Optimization Across The Enterprise",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210415005086/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210415005086/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-ocado-invests-10-million-in-self-driving-firm-oxbotica.md",
+      "title": "Ocado invests £10 million in self-driving firm Oxbotica",
+      "excerpt": "Ocado has announced it is investing £10 million into the autonomous vehicle company, Oxbotica. The two will work more closely together to build early prototypes within the next two years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/ocado-invests-10-million-in-self-driving-firm-oxbotica/",
+      "originalUrl": "https://www.neowin.net/news/ocado-invests-10-million-in-self-driving-firm-oxbotica/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1618582719_ocado_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Share Current and Future Industry Trends, 2020-2026",
+      "excerpt": "Selbyville, Delaware, As per the report titled ' Artificial Intelligence (AI) Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-04-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-04-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-driverless-truck-developer-tusimple-debuts-on-nasdaq.md",
+      "title": "Driverless truck developer TuSimple debuts on Nasdaq",
+      "excerpt": "The Chinese startup raised US$1.1 billion at a market capitalization of US$8.5 billion and ended the trading day unchanged.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq#!",
+      "originalUrl": "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-deep-learning-market-size-share-growth-trends-and-forecast-2021-2023.md",
+      "title": "Deep Learning Market Size, Share, growth, Trends and Forecast 2021-2023",
+      "excerpt": "Market Synopsis The Deep Learning Market is estimated to record a significant growth throughout the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-growth-trends-and-forecast-2021-2023-2021-04-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-growth-trends-and-forecast-2021-2023-2021-04-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-artificial-intelligence-and-whisky-making-the-perfect-blend.md",
+      "title": "Artificial Intelligence And Whisky Making: The Perfect Blend?",
+      "excerpt": "Find out how Mackmyra, a Swedish whisky distillery, used AI to analyze 70 million possible combinations and create an innovative new whiskey recipe that customers love.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607910368e6e3822f9bc7cc1%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/amp/",
+      "publishedDateTime": "2021-04-15T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-ai-and-the-human.md",
+      "title": "AI and the Human",
+      "excerpt": "But how might we prepare literature scholars to evaluate specialist presentations on AI like the one Dimock discusses? Widely touted as a fourth industrial revolution, AI is notoriously subject to hype,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/pmla/article/ai-and-the-human/3FEBDB0945D8CF022EC949D945C80CEA",
+      "originalUrl": "https://www.cambridge.org/core/journals/pmla/article/ai-and-the-human/3FEBDB0945D8CF022EC949D945C80CEA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
+      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
+      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
+      "originalUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
+      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis.md",
+      "title": "Autonomous trucking company Plus will use AI and billions of miles of data to train self-driving semis",
+      "excerpt": "By this time next year, hundreds of automated trucks powered by PlusDrive will be on the road, hauling commercial cargo.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/",
+      "originalUrl": "https://venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Pluss-Autonomous-Truck-Powered-by-PlusDrive-4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/amp/",
+      "publishedDateTime": "2021-04-15T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-williams-av-announces-convey-video-worlds-first-pro-av-real-time-language-translation-open-captioning-and-archiving-system.md",
+      "title": "Williams AV Announces Convey Video - World's First Pro-AV Real-Time Language Translation, Open Captioning, and Archiving System",
+      "excerpt": "\"Utilizing leading-edge AI-based technology, Convey Video enhances communications across boundaries and languages. Whether it is enhancing comprehension in Higher Education, translation and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/williams-av-announces-convey-video---worlds-first-pro-av-real-time-language-translation-open-captioning-and-archiving-system-301270267.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/williams-av-announces-convey-video---worlds-first-pro-av-real-time-language-translation-open-captioning-and-archiving-system-301270267.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1489012/WilliamsAV.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-google-researchers-boost-speech-recognition-accuracy-with-more-datasets.md",
+      "title": "Google researchers boost speech recognition accuracy with more datasets",
+      "excerpt": "Google researchers propose a simple solution for improving speech recognition accuracy: training one large model on many datasets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/15/google-researchers-boost-speech-recognition-accuracy-with-more-datasets/",
+      "originalUrl": "https://venturebeat.com/2021/04/15/google-researchers-boost-speech-recognition-accuracy-with-more-datasets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/15/google-researchers-boost-speech-recognition-accuracy-with-more-datasets/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/15/google-researchers-boost-speech-recognition-accuracy-with-more-datasets/amp/",
+      "publishedDateTime": "2021-04-15T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-as-bezos-seeks-to-be-earths-best-employer-amazon-fights-shareholder-calls-to-prove-its-progress.md",
+      "title": "As Bezos seeks to be 'Earth's best employer,' Amazon fights shareholder calls to prove its progress",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/marketwatch/20210415680/as-bezos-seeks-to-be-earths-best-employer-amazon-fights-shareholder-calls-to-prove-its-progress",
+      "originalUrl": "https://www.morningstar.com/news/marketwatch/20210415680/as-bezos-seeks-to-be-earths-best-employer-amazon-fights-shareholder-calls-to-prove-its-progress",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo.md",
+      "title": "Robot Truck Startup TuSimple Raises $1 Billion In First Self-Driving Startup IPO",
+      "excerpt": "The San Diego-based developer of robotic truck technology is the first self-driving tech company to go public in the U.S. The IPO also turned its cofounders into billionaires.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607865b5d90af15ae52022c7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/",
+      "publishedDateTime": "2021-04-15T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-best-machine-learning-software-in-2021.md",
+      "title": "Best Machine Learning Software in 2021",
+      "excerpt": "Machine learning software evolves and learns from analyzing data. Compare the best machine learning tools today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusinessedge.com/business-intelligence/machine-learning-software/",
+      "originalUrl": "https://www.itbusinessedge.com/business-intelligence/machine-learning-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/04/Top-Machine-Learning-Software-e1618509296268.jpeg",
+          "width": 1500,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T11:20:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business Edge",
+        "domain": "itbusinessedge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-tecton-teams-with-founder-of-feast-open-source-machine-learning-feature-store.md",
       "title": "Tecton teams with founder of Feast open source machine learning feature store",
       "excerpt": "Tecton, the company that pioneered the notion of the machine learning feature store, has teamed up with the founder of the open source feature store project called Feast. Today the company announced the release of version 0.",
@@ -50,1135 +1137,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise.md",
-      "title": "Gurobi Teams Up With Lityx To Accelerate The Adoption Of Mathematical Optimization Across The Enterprise",
-      "excerpt": "This combination of Lityx’s user-friendly, cutting-edge AutoML platform with Gurobi’s best-of-breed solver will give users across the enterprise (including data scientists and business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise/article_3788d357-343c-57ef-9b6a-9d9a2592c8fd.html",
-      "originalUrl": "https://www.oaoa.com/news/business/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise/article_3788d357-343c-57ef-9b6a-9d9a2592c8fd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-cruises-head-of-artificial-intelligence-wants-the-autonomous-car-startup-to-be-defined-by-its-ai-innovation.md",
-      "title": "Cruise's head of artificial intelligence wants the autonomous-car startup to be defined by its AI innovation",
-      "excerpt": "Hussein Mehanna thinks machine learning is going to set Cruise apart, and he told Insider how companies could become \"AI natives\" in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4",
-      "originalUrl": "https://www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6070b4644943790018bb1bc4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4?amp",
-      "publishedDateTime": "2021-04-15T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-galileo-sunspot-sketches-versus-modern-deep-learning-ai.md",
-      "title": "Galileo sunspot sketches versus modern 'deep learning' AI",
-      "excerpt": "What would we see, if astronomers back in the time of Kepler and Galileo had modern technology monitoring the Sun across the electromagnetic spectrum, available to them? Thanks to modern artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.html",
-      "originalUrl": "https://phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/galileosunsp.jpg",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.amp",
-      "publishedDateTime": "2021-04-15T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-ai-security-how-human-bias-limits-artificial-intelligence.md",
-      "title": "AI Security: How Human Bias Limits Artificial Intelligence",
-      "excerpt": "Looking at AI security from a social sciences side shows that it still has a long way to go. Sometimes, it needs to learn from humans. An expert weighs in.",
-      "sourceUrl": null,
-      "webUrl": "https://securityintelligence.com/articles/ai-security-human-bias-artificial-intelligence/",
-      "originalUrl": "https://securityintelligence.com/articles/ai-security-human-bias-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securityintelligence.com/wp-content/uploads/2021/04/AI-Security.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hack",
-        "domain": "securityintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-california-dreaming-artificial-intelligence-and-robots-are-helping-farmers-prepare-for-climate-change-crisis.md",
-      "title": "California Dreaming: Artificial intelligence and robots are helping farmers prepare for climate change crisis",
-      "excerpt": "Rising temperatures caused by climate change are forcing farmers to look for ways to grow crops. Some are using artificial intelligence and robots to analyze crops while others are taking their farms indoors.",
-      "sourceUrl": null,
-      "webUrl": "https://abc30.com/technology/robots-help-farmers-prepare-for-climate-change/10503046/",
-      "originalUrl": "https://abc30.com/technology/robots-help-farmers-prepare-for-climate-change/10503046/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/10515602_041421-kgo-ca-dreaming-future-food-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc30.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/",
-      "cdnAmpWebUrl": "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/",
-      "publishedDateTime": "2021-04-14T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC30 Action News",
-        "domain": "abc30.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks.md",
-      "title": "This robot-run fund with a history of predicting Tesla price moves has just made these stock picks",
-      "excerpt": "An exchange-traded fund driven by artificial intelligence has correctly predicted Tesla price movements, and recently shared its most recent",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks-11618396980",
-      "originalUrl": "https://www.marketwatch.com/story/this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks-11618396980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-324370/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks-11618396980",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks-11618396980",
-      "publishedDateTime": "2021-04-14T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-lounge-lab-barista-robot-joined-hyundai-motors-ioniq-5-experience-space.md",
-      "title": "LOUNGE LAB Barista Robot joined Hyundai Motor's IONIQ 5 Experience Space",
-      "excerpt": "One can experience various things with robot hand drip coffee for an 18-minute charging time. Cloud technology delivers the same taste of coffee as in-store in catering",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/04/ab20627997/lounge-lab-barista-robot-joined-hyundai-motors-ioniq-5-experience-space",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/ab20627997/lounge-lab-barista-robot-joined-hyundai-motors-ioniq-5-experience-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/16e6dd091e0c037c0fe5874b61d80544.png",
-          "width": 600,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20627997",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20627997",
-      "publishedDateTime": "2021-04-14T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-domino-accelerates-mlops-with-new-nvidia-integrations.md",
-      "title": "Domino accelerates MLOps with new Nvidia integrations",
-      "excerpt": "Domino additionally supports containers for SAS, MATLAB, Amazon SageMaker, and private container repositories. Finally, Domino worked with Nvidia and NetApp to develop a preconfigured hardware ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/",
-      "originalUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/",
-      "publishedDateTime": "2021-04-14T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers.md",
-      "title": "AI Chip Startup Groq, Founded By Ex-Googlers, Raises $300 Million To Power Autonomous Vehicles And Data Centers",
-      "excerpt": "Groq founder Jonathan Ross, who helped invent Google's tensor processing unit, has plans to double the AI chip startup's staff and expand its customers beyond existing ones in data centers and autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/",
-      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074cb4ae44b16aa367895a0%2F0x0.jpg",
-          "width": 841,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/amp/",
-      "publishedDateTime": "2021-04-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-the-future-of-facial-recognition-blends-ai-and-ir.md",
-      "title": "The future of facial recognition blends AI and IR",
-      "excerpt": "Current facial recognition technologies aren't the most secure security options, but AI and IR are about to change that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/future-face-recognition-1217022/",
-      "originalUrl": "https://www.androidauthority.com/future-face-recognition-1217022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Apple-Face-ID-setup-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/future-face-recognition-1217022/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/future-face-recognition-1217022/amp/",
-      "publishedDateTime": "2021-04-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-global-ai-in-computer-vision-market-regional-trends-growth-projections-2026.md",
-      "title": "Global AI In Computer Vision Market Regional Trends & Growth Projections 2026",
-      "excerpt": "Apr 14, 2021 (Market Insight Reports) -- New York, NY The report on global AI In Computer Vision Market offers in-depth analysis of major market players, revenue, market share, market segments & its sub segments, and geographic regions. It also offers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-google-backs-former-deepmind-employees-solar-forecasting-start-up.md",
-      "title": "Google backs former DeepMind employee’s 'solar forecasting' start-up",
-      "excerpt": "Open Climate Fix, a non-profit lab focused on reducing greenhouse gas emissions, has been awarded over £500,000 ($686,350) by Google.org. The London-headquartered start-up is aiming to build an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104466614-AP_959350424445.jpg?v=1494604726",
-          "width": 3648,
-          "height": 2432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
-      "publishedDateTime": "2021-04-14T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-is-it-time-to-buy-the-nasdaqs-biggest-dippers.md",
-      "title": "Is It Time to Buy the Nasdaq's Biggest Dippers?",
-      "excerpt": "The Chinese tech giant is also an early mover in artificial intelligence and self-driving vehicle software, and it's said to be readying a big push in the electric vehicle space. Baidu won't be a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/c5066787a33f9d3fca259fedf4802d5f.png",
-          "width": 720,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/07/time-to-buy-nasdaq-3-worst-performing-stocks/",
-      "publishedDateTime": "2021-04-14T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-systran-brings-epic-translations-in-as-a-value-added-partner.md",
-      "title": "SYSTRAN Brings EPIC Translations in as a Value-Added Partner",
-      "excerpt": "Whether it is securely in the cloud or on-premise, or in any of our 335 language and domain combinations ... \"We recently field tested our AI + Human translation solution with one of the leading ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/systran-brings-epic-translations-in-as-a-value-added-partner-301267964.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/systran-brings-epic-translations-in-as-a-value-added-partner-301267964.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1227311/LOGO_SYSTRAN_VERTICAL_RVB_4K.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T22:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-wrongfully-arrested-man-sues-detroit-police-over-false-facial-recognition-match.md",
-      "title": "Wrongfully arrested man sues Detroit police over false facial recognition match",
-      "excerpt": "The case could fuel criticism of police investigators’ use of a controversial technology that has been shown to perform worse on people of color.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp",
-      "publishedDateTime": "2021-04-13T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-informatica-modernizes-ipaas-platform-using-microservices-and-ai.md",
-      "title": "Informatica modernizes iPaaS platform using microservices and AI",
-      "excerpt": "Informatica unveils revamped platform based on microservices and AI to modernize cloud integration services at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/",
-      "originalUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Informatica-Intelligent-Data-Management-Cloud.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/informatica-modernizes-ipaas-platform-using-microservices-and-ai/amp/",
-      "publishedDateTime": "2021-04-13T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-sambanova-raises-676m-to-mass-produce-ai-training-and-inference-chips.md",
-      "title": "SambaNova raises $676M to mass-produce AI training and inference chips",
-      "excerpt": "AI chip startup SambaNova systems has raised $676 million, bringing its total raised to over $1 billion at a $5 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/",
-      "originalUrl": "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/",
-      "publishedDateTime": "2021-04-13T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-modular-mobile-robot-can-take-on-multiple-roles-at-construction-site.md",
-      "title": "Modular mobile robot can take on multiple roles at construction site",
-      "excerpt": "Austrian startup Printstones has been developing robotic 3D-printing robots since 2017, and has just pulled back the curtain on its latest prototype, a mobile multi-tasking construction bot called the Baubot.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/",
-      "originalUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0691c04/2147483647/strip/true/crop/3084x2056+106+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F89%2F84%2Fe6e51926454eaacd6abed52030a4%2Fstairs-1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/baubot-modular-mobile-construction-robot/?amp=true",
-      "publishedDateTime": "2021-04-13T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-behind-microsofts-nuance-deal-natural-language-processing-explained.md",
-      "title": "Behind Microsoft’s Nuance Deal: Natural Language Processing, Explained",
-      "excerpt": "From virtual assistants to call center attendants, voice is beginning to rival text as the primary computing interface.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
-      "originalUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-324318/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
-      "publishedDateTime": "2021-04-13T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-perceiver-one-neural-network-model-for-multiple-input-data-types.md",
-      "title": "Perceiver: One Neural-Network Model for Multiple Input Data Types",
-      "excerpt": "Google’s DeepMind company has recently released a state-of-the-art deep-learning model called Perceiver that receives and processes multiple input data ranging from audio to images, similarly to how the human brain perceives multimodal data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/04/perceiver-neural-network-model/",
-      "originalUrl": "https://www.infoq.com/news/2021/04/perceiver-neural-network-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/04/perceiver-neural-network-model/en/headerimage/header+%2810%29-1618240844672.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-clock-ticking-for-strategy-to-maintain-us-global-lead-in-artificial-intelligence.md",
-      "title": "Clock Ticking for Strategy to Maintain U.S. Global Lead in Artificial Intelligence",
-      "excerpt": "U.S. technological advantages over great power competitor China could be lost in less than 10 years without a robust and comprehensive artificial intelligence (AI) security strategy, according to the findings of an independent government commission.",
-      "sourceUrl": null,
-      "webUrl": "https://seapowermagazine.org/clock-ticking-for-strategy-to-maintain-u-s-global-lead-in-artificial-intelligence/",
-      "originalUrl": "https://seapowermagazine.org/clock-ticking-for-strategy-to-maintain-u-s-global-lead-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://seapowermagazine.org/wp-content/uploads/2021/04/AI-Navy-UGVs-for-AI-webbie-scaled.jpg",
-          "width": 2048,
-          "height": 1515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SEAPOWER",
-        "domain": "seapowermagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-logitech-and-baidu-brain-partner-to-transform-the-way-we-work-using-ai-and-voice.md",
-      "title": "Logitech and Baidu Brain Partner to Transform the Way We Work Using AI and Voice",
-      "excerpt": "The Logitech Voice M380 Wireless Mouse is powered exclusively by intelligent Speech & Machine Translation technologies from Baidu ... “We saw an opportunity to leverage the power of Baidu AI to bring fast, accurate speech recognition to our customers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210412006053/en/Logitech-and-Baidu-Brain-Partner-to-Transform-the-Way-We-Work-Using-AI-and-Voice",
-      "originalUrl": "https://www.businesswire.com/news/home/20210412006053/en/Logitech-and-Baidu-Brain-Partner-to-Transform-the-Way-We-Work-Using-AI-and-Voice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-165-new-cancer-genes-identified-with-the-help-of-machine-learning.md",
-      "title": "165 new cancer genes identified with the help of machine learning",
-      "excerpt": "A new algorithm can predict which genes cause cancer, even if their DNA sequence is not changed. A team of researchers combined a wide variety of data, analyzed it with 'Artificial Intelligence' and identified numerous cancer genes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/04/210412142730.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/04/210412142730.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings.md",
-      "title": "Overwatch League teams with IBM Watson for Season 4 Power Rankings",
-      "excerpt": "The Overwatch League is joining forces with IBM Watson this season to put out its most accurate player and team power rankings yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings",
-      "originalUrl": "https://www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/04/12/owl-season4_feature.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings?amphtml=1",
-      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/123802/overwatch-league-teams-with-ibm-watson-for-season-4-power-rankings?amphtml=1",
-      "publishedDateTime": "2021-04-13T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shacknews",
-        "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Victory Square Technologies To Present At The H.C. Wainwright Cryptocurrency, Blockchain & FinTech Conference"
-excerpt: "Victory Square Technologies Inc. (“Victory Square'' or the “Company”) (CSE:VST) (OTC:VSQTF) (FWB:6F6), a company that provides investors access to a diverse portfolio of next generation internet companies in key sectors including: digital health,"
-publishedDateTime: 2021-04-21T13:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/victory-square-technologies-to-present-at-the-h-c-wainwright-cryptocurrency-blockchain-fintech-conference-1030328908"
-webUrl: "https://markets.businessinsider.com/news/stocks/victory-square-technologies-to-present-at-the-h-c-wainwright-cryptocurrency-blockchain-fintech-conference-1030328908"
+excerpt: "Victory Square Technologies Inc., a company that provides investors access to a diverse portfolio of next generation internet companies in key sectors including: digital health, gaming, blockchain, AR/VR,"
+publishedDateTime: 2021-04-21T13:30:00Z
+originalUrl: "https://www.nasdaq.com/press-release/victory-square-technologies-to-present-at-the-h.c.-wainwright-cryptocurrency"
+webUrl: "https://www.nasdaq.com/press-release/victory-square-technologies-to-present-at-the-h.c.-wainwright-cryptocurrency"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
@@ -38,6 +34,22 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1618899844-money-transfer-3588301-19202.jpg?width=600&crop=16:9"
         width: 600
         height: 338
+        isCached: true
+  - title: "Chatty bots and AI bank managers: getting inside fintech’s future"
+    excerpt: "Here, we explore four key areas of innovation that are powering today’s fintech insurgency – and explore how they will reshape our financial services of the future. The bank manager as an AI It comes as no surprise that artificial intelligence (AI ..."
+    publishedDateTime: 2021-04-22T07:33:00Z
+    webUrl: "https://www.wired.co.uk/article/bc/inside-fintechs-future"
+    ampWebUrl: "https://www.wired.co.uk/article/bc/inside-fintechs-future/amp"
+    cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/bc/inside-fintechs-future/amp"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 74
+    images:
+      - url: "https://media.wired.co.uk/photos/606da9ca9a15f73a597a2045/master/pass/JP_Hero.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026"
     excerpt: "The AI in Fintech Market is forecast to reach 11 2 billion by 2026 growing at a CAGR of 29 75 from 2021 to 2026 Artificial Intelligence AI has taken the tech world by storm allowing companies to automate their"
@@ -64,6 +76,15 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "Vertex-backed AI fintech firm TurnKey Lender secures new round of funding"
+    excerpt: "TurnKey Lender, a startup that uses artificial intelligence to power lending automation and risk mitigation, said it has raised an undisclosed amount of funding in its latest round. Returning investors: SEEDS Capital,"
+    publishedDateTime: 2021-04-20T11:16:00Z
+    webUrl: "https://www.techinasia.com/vertexbacked-ai-fintech-firm-turnkey-lender-secures-new-round-funding#!"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 48
   - title: "Ramsden reflects on changing relationship between the Bank of England and fintech"
     excerpt: "Dave Ramsden talks about how we support the safe development of fintech services in the UK. Thank you for this invitation to speak at UK Fintech Week. Every year this event performs an important role in highlighting the strength and potential of the fintech sector in the UK."
     publishedDateTime: 2021-04-21T10:15:00Z
@@ -78,6 +99,17 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "AI in Fintech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The AI in Fintech Market size is expected to grow at an annual average of 38 during 2021 2027 The results of artificial intelligence have not been improved beyond the scale of humans but by applying methods derived from the"
+    publishedDateTime: 2021-04-22T12:31:00Z
+    webUrl: "https://www.openpr.com/news/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
+    ampWebUrl: "https://www.openpr.com/amp/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
   - title: "China: WeiyangX Fintech Review"
     excerpt: "The People's Bank of China and Six Other Departments Launch Fintech Projects for Rural Vitalization In order to better implement the strategy of rural vitalization, the People’s Bank of China and six other department (namely Ministry of Agriculture and Rural Affairs,"
     publishedDateTime: 2021-04-18T16:58:00Z
@@ -141,6 +173,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "9n4riwb2zvdFTYJrweCPvClbSNo5/RXwsIoeAzOzPThJvqTz0aZs1UhLZm3KMKqjoE2O0XIrQrqd9fBZN5JDeNIvrVB0IvN/PXenMyRMZq7JS5jrM5epGxmwHCeN/ff4+w4mkgMnAZH55m6OA3kx5aoSa0ABf6vKZ4VzM2yeWQd9oz9HqUFbgrAqX4AMM4rcswi58jRFsu++Cx8U7XWpb8Ae+5GWdf677zkCbBzUJIFolQ3M/SYvEZu4wYtOk8e6tl2lCRoHyMXl8zCx6abm13shUFiUs4+jy8TlxvHxHl54Dm21EgZRdsEFKOSoP1OCfa8AUvinNVG0mzMjLr73vevmKxz49ub1G+Rm2L4y29c=;8bz08u+oKYUrQg/WArJANw=="
+secured: "1uMRuF9MeEgxJnxWOgpo9IP4ErTUesrXbon1jlwW+p/Sk8ak/vOFrDbAeCxC2v+SIrJHIDevv/OLYwO3lE2UB2lvP6kQBRlU+IS5hxm8ic6wLLIoX5CS0mVPyU0NyNAJbH0BHzFRAbZbSqCE51+AmHTUUzdKI4lNOkok5SEyMZtSRQwqtF3j+7AsNhNYIvxCnmGBqJeaw6YKlkY8iRmpMGOitQcnVkPHItsiu2/fv74/GWfZnBRzxxHiq17Y29zoJdnwMf9a79OdpB4b5ZBLfsb9NTfM6SwPwKf5eM4bpOPa1qBjIdXCZTXgDNByx65l8U9gMWeViNIht4XpQqgdnu/79rChFIP4dZwJnxVUpHk=;pOFpKYSj2UW79HXc+b745A=="
 ---
 

@@ -2,6 +2,215 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-23-the-challenges-of-applied-machine-learning.md",
+      "title": "The challenges of applied machine learning",
+      "excerpt": "But using machine learning in real-world applications and business problems—often referred to as “applied machine learning” or “applied AI”—presents challenges that are absent in academic and scientific research settings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/22/challenges-of-applied-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2021/04/22/challenges-of-applied-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/real-world-ai-applied-machine-learning.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/22/challenges-of-applied-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/challenges-of-applied-machine-learning/amp/",
+      "publishedDateTime": "2021-04-22T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-securing-amazon-sagemaker-studio-internet-traffic-using-aws-network-firewall.md",
+      "title": "Securing Amazon SageMaker Studio internet traffic using AWS Network Firewall",
+      "excerpt": "Amazon SageMaker Studio is a web-based fully integrated development environment (IDE) where you can perform end-to-end machine learning (ML) development to prepare data and build, train, and deploy models. Like other AWS services, Studio supports a rich set of security-related features that allow you",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-internet-traffic-using-aws-network-firewall/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-internet-traffic-using-aws-network-firewall/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/2-Architecture.jpg",
+          "width": 800,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T15:53:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-perform-medical-transcription-analysis-in-real-time-with-aws-ai-services-and-twilio-media-streams.md",
+      "title": "Perform medical transcription analysis in real-time with AWS AI services and Twilio Media Streams",
+      "excerpt": "Medical providers often need to analyze and dictate patient phone conversations, doctors’ notes, clinical trial reports, and patient health records. By automating transcription, providers can quickly and accurately provide patients with medical conditions, medication, dosage, strength, and frequency.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/perform-medical-transcription-analysis-in-real-time-with-amazon-transcribe-medical-and-amazon-comprehend-medical-with-twilio-media-streams/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/perform-medical-transcription-analysis-in-real-time-with-amazon-transcribe-medical-and-amazon-comprehend-medical-with-twilio-media-streams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/18/2-Architecture1562.jpg",
+          "width": 750,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T14:45:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-build-an-event-based-tracking-solution-using-amazon-lookout-for-vision.md",
+      "title": "Build an event-based tracking solution using Amazon Lookout for Vision",
+      "excerpt": "Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV). With Amazon Lookout for Vision, manufacturing companies can increase quality and reduce operational costs by quickly identifying differences in images of",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-event-based-tracking-solution-using-amazon-lookout-for-vision/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-event-based-tracking-solution-using-amazon-lookout-for-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/14/1-Architecture2271.jpg",
+          "width": 800,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T12:32:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Size Report, Trend, COVID19 Impact, Industry Outlook, Derive Growth, Share, Revenue Forecast to 2027",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -10,7 +219,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -315,7 +524,8 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -1175,179 +1385,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-artificial-intelligence-market-report-by-industry-trends-and-leading-key-players-forecast-to-2026.md",
-      "title": "artificial intelligence market Report By Industry Trends And Leading Key Players Forecast To 2026",
-      "excerpt": "The prominent players in the Global artificial intelligence market are Intel (US), NVIDIA (US), Xilinx (US), Samsung (South Korea), Facebook (US), Micron Technology (US), IBM (US), Google (US), Microsoft (US), and AWS (US). Whipsmart MI provides fact-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2265732/artificial-intelligence-market-report-by-industry-trends",
-      "originalUrl": "https://www.openpr.com/news/2265732/artificial-intelligence-market-report-by-industry-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends",
-      "publishedDateTime": "2021-04-05T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-ai-infrastructure-market-to-witness-astonishing-growth-with-vital-key-players-intel-corporation-cisco-amazon-web-services-facebook-oracle.md",
-      "title": "AI Infrastructure Market to Witness Astonishing Growth With Vital Key Players | Intel Corporation, CISCO, Amazon Web Services, Facebook, Oracle",
-      "excerpt": "The Global Report on AI Infrastructure Market Size, Status, Growth and Forecast 2021-2027. The report provides a unique tool for evaluating the AI Infrastructure Market highlighting opportunities, and supporting strategic and tactical decision-making.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/03/ai-infrastructure-market-to-witness-astonishing-growth-with-vital-key-players-intel-corporation-cisco-amazon-web-services-facebook-oracle/",
-      "originalUrl": "https://ksusentinel.com/2021/04/03/ai-infrastructure-market-to-witness-astonishing-growth-with-vital-key-players-intel-corporation-cisco-amazon-web-services-facebook-oracle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techgenyz.com/wp-content/uploads/2018/08/ai-in-business.jpg",
-          "width": 780,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-03T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-this-premium-aws-training-could-enhance-your-job-prospects.md",
-      "title": "This premium AWS training could enhance your job prospects",
-      "excerpt": "ZDNet reported that AWS was the leader in the cloud provider space. And with more and more businesses going remote (Salesforce rolled out permanent remote work plans) and increasing spend on cloud computing, automation, artificial intelligence and machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/this-premium-aws-training-could-enhance-your-job-prospects/",
-      "originalUrl": "https://www.techrepublic.com/article/this-premium-aws-training-could-enhance-your-job-prospects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/02/83a2478f-e18b-47e1-8ad4-5c893f0459fc/resize/1200x/85b4f359ae9c5961c8abf2e96147cb57/aws-amazon-logo-5g-phone-lg-velvet-5893.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/this-premium-aws-training-could-enhance-your-job-prospects/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/this-premium-aws-training-could-enhance-your-job-prospects/",
-      "publishedDateTime": "2021-04-02T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-cloud-data-warehousing-understanding-your-options.md",
-      "title": "Cloud Data Warehousing: Understanding Your Options",
-      "excerpt": "Cloud data warehouses have emerged as the go-to repositories for amassing huge amounts of data and running advanced analytics and AI upon it. This is",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/04/01/cloud-data-warehousing-understanding-your-options/",
-      "originalUrl": "https://www.datanami.com/2021/04/01/cloud-data-warehousing-understanding-your-options/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/cloud_database_shutterstock_Blackboard.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

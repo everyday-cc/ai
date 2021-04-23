@@ -2,7 +2,7 @@
 name: "Suki"
 overview: "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients."
 type: "profile"
-heat: 42
+heat: 58
 
 website: https://www.suki.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SukiHQ"
   url: "https://www.twitter.com/SukiHQ"
-  followers: 1592
+  followers: 1599
 
 size: 11-50 employees
 yearFounded: 2017
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Z6ivTdnmGVJRVw5ITANuhb0hlHcDUJsKV/MTtdl3WA8DVy1vAmiylSkp77zbWM41+K8TLKO8x2sMCici3odFKRi9f8UQA9Dd1+CS/yNuk0Z+g4Eh90cjNIvZWA5XNl7km6KB/99IfCQJ9BwT63OfnQ/fWh7u97ROF+9V+MJbgm4qq/6k8U6HRAWszwnvluU3eRlr6ufpfjLwo8+a9+UQCSsy1kmjZCNrLJj8dI0mRtq/Gr/4V5VbYz/AK5HJjacxY7/vztbcN9u8TqWf48UiwUEP7RqiBiN06yPvCkYzCtzL1tV3XCmuNdWQqnMu7H3teXyWbalrveWglBKWXu+cV4Dk5AEBC7OHYcsSXA1hXGYliP9oKO2nJeKVneKw0G4c1FcRugUWmNM78ZOdaqwcnQz5gLCZSQrDkaMiJzmq/Hc=;TbX/9r7SwUaqP4u0eMqyxg=="
+secured: "J0ezOdtDkfy8bDK31NNbfHUITMX4S/zCZwKM3OqPBHETzX8A3L80YGC5EJBvH+2/GUNbDlCgxCykwz2HQ+N+V1Y8Fr4b7npd9tB+zMWMfbsNi7VjbFIHWc86viiCg3IOs9lbQgGQbF1snOQ+d66fRGuoPs8BLGfQnrhSmf+hwdvT971UdzSQvGicGHt2gSNRQCGJ758FCKL1ppx6Rz00xbdMPcq7PY0Al/qn/glC8q3TeUDTjAQZlCKT6jHaDqm+izNzNGNk16guOri5GB1YhRIpuPJxYXlACL9MUVL5yFHZm8E+q7Ks4rEa0t1PLWGgPIjubCIrEqgLRTQYOxSaz9fpC1+LixuUPcn39h9i5a5vN1ZdyvjQs7L4F1dUCHahGp9ZnuUwhniOy8k/11P2AiG/QjK+pJSX2R6yZ1Z6pSg=;akY68Doo3yiFnA2CpgT7Yw=="
 ---
 

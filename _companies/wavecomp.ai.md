@@ -2,7 +2,7 @@
 name: "Wave Computing"
 overview: "Wave Computing is a VC-backed company that is revolutionizing artificial intelligence. with its dataflow-based chips, systems and software that deliver orders of magnitude performance improvements over legacy architectures. The company’s vision is to bring deep learning to customers’ data wherever it may be—from the edge to the data center—helping accelerate time-to-insight. Based in Campbell, CA, Wave Computing has been named Frost &amp; Sullivan’s 2018 “Machine Learning Industry Technology Innovation Leader,” and recognized by CIO Application Magazine’s as one of the “Top 25 Artificial Intelligence Providers.” Combined with MIPS, Wave now has over 400 granted and pending patents and hundreds of customers worldwide."
 type: "profile"
-heat: 50
+heat: 41
 
 website: https://wavecomp.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "wavecomputing"
   url: "https://twitter.com/wavecomputing"
-  followers: 438
+  followers: 436
 
 size: 51-200 employees
 yearFounded: 2010
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=pHaRbs5cOek"
 
-secured: "Bazr/EeU9/d1oAV87Fu6mMyZ8wIVo5oM3HCgjNa8C3Va0IYyNZqkR39Po6hzj+YpYlYvptQsRNTIaMtPcyQ5TXk2SRq08nEIIMDczoIrnCaEGDh34UhM58qUcJCm7mAuKKWxKi444Zpwrasogb1EaqiG8aOWnxia7RLyv7kbNVQ3y/4DkkwEioAi5Fjsxk1biv5kQWGysC5N9eZjaktNj2q3QaR+xxAND1q/jBbVtV0Hgju8voiFBCo4eMl1f0TbQIX0wZ1dvMnrwETM5FdIw1dtVquNN1Fwc9vG88ldMtwGyS0Z8cGKycqw1oKCtGIFVuQUYTJnarx+fGmrZ3KEIRqvziiwhx8lA/zMMX9oKLJK1gn/tq/uWY/qqXIlUBstYCHZVhVPcZXtTMCQqvTHNA==;/0g+5bLE3C/cWMPW+cuZzw=="
+secured: "lUMBDlsvCQ39fL4kYajoHgJ59DJNkoZaRDE30/1z4h3m1WodanzPRUM2HcQV1fPdfKBhKkJIw+46eAg99rkrrLsbRHxqjrxMdFP4BjH7+HtyXBPPrN/ZZp09jlnYvC6eMr4l5XI+zGKeE+Dbc9YE2bCXtyxyctQqO+dqWoQLdMNPStu+BDeXg1PTd814DRunZKfxSwTudQPGW991JhCV2nSaCO68C1N/qnxUovkP+4MJoNwjN5VpDqj9vZGQw0v+TSizMUyMYSDtCctq2FD91IgHWJZb7TEZETsa+QkXVLcNIx9LZKWOS716zIGXW/p4GjRm/tiDupjjvdrzWmBmBJ6JC9Kj+yajYXbORJusox3dWmHnUQjke5/7kUe/QXD55sOxofZRlvh6/Z89fy5o3A==;WSVFyz4aR73V09315GL9Ww=="
 ---
 

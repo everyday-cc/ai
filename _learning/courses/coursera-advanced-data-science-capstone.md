@@ -21,7 +21,7 @@ provider:
     - name: IBM
       domain: ibm.com
       images:
-        - url: https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg
+        - url: https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg
           width: 50
           height: 50
 

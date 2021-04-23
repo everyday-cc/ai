@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "aiva_health"
   url: "https://twitter.com/aiva_health"
-  followers: 79
+  followers: 80
 
 size: 11-50 employees
 yearFounded: 2016
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=WrteXpQ5n7Q"
 
-secured: "QVxi+4Bvs/6wyc/wzOVwjXyGmEFO9hdQIlXmkVmH+24uAnC1MGqRjf5cQv6von4HaAGt6QZbo2DKl3jftQ5KvXHp9ofKgwUWgxsQSsQPVBB0Xheri3ZTxMqXx8qimrqVFZ1iDLR6C3EwO+jZ91tQf5PlY+KfFyS/oZNvUpVakPy0m9cVWLkFBVV7mdCLYCdZu95uUmriAh0DWUImveFfPIBW87fY1PLFaY+OqEzmS3eE4rbHsIsMroQ80znxuk0CKVLA+39x1rgDtDlxRFHrfARyzAUwCiuVOR9RW4MRqXEp+GgiVAGCMyJuOEvSW0YIMhhVEHJxNAtoJrcWAvtI7pjz9B6tAP9aTHUmpqOg+h1HbKDKcajJJCqgShHeEFZeMJNbrYkMxkDGfcfzTMC81w==;KtkpYGyhLG3Brz4B4ByjRA=="
+secured: "CFu8AwnKtv3WbG9llhvRN8PorFYSbV/B0pJtteP3fcG6mRuQvAVSYXNp1ru3kKiVpto0fkvybCA4bCCnPA1dVpbPVAgGykRJZLh/Ma6aLwFnPtXNcaXITYjtpvqKViZsY5sG0GM17bJWXU2fVEW19i5wTxEgdEqKpe6TdRqiAMd/ZYLxlWULidYLxkwvgGzNzkV98GmBs9PI1n32uK19EB6HUKb2/H+6dwddCd0lJcnXzf3OWJB25ZOx1Otf8sEY0GIoL4Cd1vwKG6+jcngjZ1Q2IbC901a9JmXLCQmqgs9nW81j4D7erzItWBPW3TACyv7+RkMl57RaIZ27jSISDOLD9LCqSDCyEnKeNU2gSDaNJmqV6RaZi4nnZfHZxuwshVoehvGvpdG/HsXgCjLrHA==;xo2NlGymBCcSB5Y8Pbr6qg=="
 ---
 

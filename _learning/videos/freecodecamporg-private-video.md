@@ -15,7 +15,7 @@ provider:
   name: freeCodeCamp.org
   domain: freecodecamp.org
   images:
-    - url: https://everyday-cc.github.io/ai/assets/images/organizations/freecodecamp.org-50x50.jpg
+    - url: https://smartableai.github.io/artificial-intelligence/assets/images/organizations/freecodecamp.org-50x50.jpg
       width: 50
       height: 50
 

@@ -25,6 +25,17 @@ images:
     height: 960
     isCached: true
 
-secured: "VWMufUq+F1C98eNBIMDeE+vwpELWX07QQsYBOjkm8/AC0Nexo0IYb5BU+seMJVUapWiWndPtuIoj8UuKcHRDVtu04sZHnzBWGCs6N7lAIKtU6gbn8b7lEgSwPq58GtfB3d7eymjwI3i9g7Iwo8NyMF+xMIVg38Uk60a2qMEssXgLyWz1L9uimy6ZnDj5EwHLSkqYuhuRZqEs0mAqq1KcrFrMMhm9USWRACbD5n/7xDdDZZtcMyx4Ipq77b4DN/ajgmUEiS34qF7yeHVX2j5bVAgREGOdHyNsm8wxc3RKJyRoFp/uzV9LBHfrdpv95nvDOPdmWohJcSxnLk3alvOsb9dTNeFargMvwPePCWZQcoA=;q4Ob3/iHQZDAPQ8TiCVDzw=="
+related:
+  - title: "Synopsys Unleashes PrimeSim Continuum Solution to Accelerate the Design of Hyper-Convergent ICs for Memory, AI, Automotive and 5G Applications"
+    excerpt: "Synopsys, Inc. today announced at its SNUG ® World international user conference the PrimeSim™ Continuum solution, a unified workflow for circuit simulation technologies to accelerate the creation and signoff of hyper-convergent designs."
+    publishedDateTime: 2021-04-20T13:05:00Z
+    webUrl: "https://www.nasdaq.com/press-release/synopsys-unleashes-primesim-continuum-solution-to-accelerate-the-design-of-hyper"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 13
+
+secured: "fR/OC/SHks6xvUtg0HFSNM9iaK8xQRymZ0i6YOxuOfN6vVX5DJryhcmkVSIaAC+kgKIqyFhstoJY+Jj/NMfoUxWZeSy5LW5ezyk3rptYylKaUOj7hSHHsQ4hNIoxM1pCqR8VER5yaxOCyIZkxzGDfV8oW4EWagBlzTLObsnRaLYmdXX/wZES1nVx+xo/FTfmm+wH0EyW9a0eOwRBz2lMlEDVoHOK+cph5JiAkbGxJfkkuabkj4Nj0T4BDFLwF7QL04GPGNSd3rI7z8iLfnc3pWrnh2Rc0nHwJPe97nK2FQIkxw8epfS+kLqYv/7l4Wh6FoHSLIdU/4zKdstB2TWzu1usCQboCBliu2Tb9KW05svD3GsH4EYJlSt6mO6tsIcJ+ALh2F00NuFnNyDuz7QSnPtawWIAjicrDie1mELnrtA8IKJepmSe4r+tT2c3RS0ZegyAywkVhs8adcyQ8RlrXTtwXUKGtsDgrP7OVjHnx/7JGPqv697Roxg3LUkEmZQTdqW5LE85KZsnXByf1yMLRQ==;xaFAXBC7LoRK4X99lq5dcQ=="
 ---
 

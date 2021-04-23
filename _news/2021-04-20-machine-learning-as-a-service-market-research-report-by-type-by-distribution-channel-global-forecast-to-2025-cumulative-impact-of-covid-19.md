@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market Detailed information on Top players, Industry Size, Trends and forecast to 2026"
+    excerpt: "How will the voice recognition market register profitable growth by 2026? Rapid technological advancements in machine learning and AI is expected to augment the voice recognition market size by 2026."
+    publishedDateTime: 2021-04-22T08:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Neural Network Software Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast"
     excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
     publishedDateTime: 2021-04-20T09:39:00Z

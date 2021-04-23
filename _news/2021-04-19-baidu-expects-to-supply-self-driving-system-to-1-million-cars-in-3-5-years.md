@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Baidu Expects to Supply Self-Driving System to 1 Million Cars in 3-5 Years"
-excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice president at Baidu,"
-publishedDateTime: 2021-04-19T04:06:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp"
+title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
+excerpt: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years Published just now Kruger Energy Ontario 101 MW Port Alma 2 wind power plant shut - Ontario IESO"
+publishedDateTime: 2021-04-19T04:19:00Z
+originalUrl: "https://www.theguardian.pe.ca/business/reuters/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-577554/"
+webUrl: "https://www.theguardian.pe.ca/business/reuters/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-577554/"
 type: article
-quality: 67
-heat: 87
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Guardian
+  domain: theguardian.pe.ca
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.saltwire.com/static/img/default_og_image.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Shanghai Auto Show: Chinese internet search giant Baidu to supply its Apollo self-driving system to 1 million cars in 3-5 years"
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens"
+    excerpt: "Volatility begets opportunity. The news over the weekend that the Baidu looks to supply 1 million self driving systems in the next 3 to 5 years through it’s Apollo autonomous driving unit should ..."
+    publishedDateTime: 2021-04-19T21:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-1030319197"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "China's Baidu Inc. Plans to Have its Apollo Autonomous Driving Technology Pre-installed in One Million Vehicles in 3 to 5 Years"
     excerpt: "During a presentation at Auto Shanghai 2021, China's Baidu Inc shared the latest upgrades to its Apollo autonomous driving platform, including plans to offer customizable versions to automakers for the commercialization of self-driving vehicles at scale."
     publishedDateTime: 2021-04-19T22:15:00Z
@@ -56,6 +65,6 @@ related:
         height: 533
         isCached: true
 
-secured: "9eLSfqWgm6tHaqHhWqMm0owtws6vHWVJq3LiNaejvlWBJ4Wi+hwi3JZ8qbcM3pdAI5uwVVM2sZVjmTPX58kC7BhLz/5wKJOamoTG4nZPgnsRLrq1WI4JeBMfqRqCcpH1ZQWVP5X/VClQsMTB2CBTysHWTCqziLgt4xHEVnyCFvyKGouYlhcz57H0IlYPCbJ3iG8yTfnMHsZ1XDIyZD9tzEb3dmMUAJrGS9pIFo7g7qBABD3vYX/+0lNuHQ5s/DPw1Yi4939C+LUy9uwwUHZMqOqYeGL/ihhRfBvTNktveTYioErHbrZ4jJ5zWbqTJXV2VRJZKq/Tmr+aHEpCvpleB5fovgNIKGOpYA/ac6p7u+z9AyHXx3H3uyjLBxJO/OaMoybUAOYJarV/pWhIzDX0AN24mQinb7spPhEmuYAexqmGBKQoj1z78bantQ7O9ox94342St5lSl9gV5HYv5FNQf2OJobX/UbjtAVcENLoUM3UiyJTZhK3Fa+JDjDTtJ7qo4INFAoVOkFK/oZNGmB6Uw==;Ddv+6JWvS/OxDHn86gVKFA=="
+secured: "j2UxftHDqMKSAH7Ayn7ZBKdotakCff+r7OcCzesPga6WWJ161YBfMXzBFe00u/iYYPLs/hbtLEZv7fsKmCPAVobrQ9IK02ciFNzPt8zz3GTw3CSvO6voieJEogyXEad1vfRsiYelPqHwpb1a0RIontfL9VbMIf3q516kFKc8EStCOFK/dm2I2UAr84y7zoR7C6LIRYpW5lkQG8b+Q9k7w5cx0d98Ccm/X3F9u9WdeOmcL2dJ1WF/j2SBlSfvLhM1Pcmn966sL7Z31Ph6vD7tcXKwXr7FRAGJDYhKdtqsm28K7wAxtGHRAsai3d1Gts999oHZ8RG036Zncb8w+aFjumnruwHQt0iLOfnXc6YGU4A=;IWw2S2+MeenqSOwGoR1mtw=="
 ---
 

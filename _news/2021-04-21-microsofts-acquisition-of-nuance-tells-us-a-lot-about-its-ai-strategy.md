@@ -29,17 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Why Microsoft’s new AI acquisition is a big deal"
-    excerpt: "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI."
-    publishedDateTime: 2021-04-18T00:25:00Z
-    webUrl: "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/"
-    ampWebUrl: "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/"
+  - title: "NBA using Microsoft cloud and AI to power ‘CourtOptix’ and bring enhanced stats to fans"
+    excerpt: "The NBA is tapping the power of its partnership with Microsoft to deliver advanced analytics that offer insights into shots, passes, defense, double teams and more. NBA CourtOptix Powered by"
+    publishedDateTime: 2021-04-22T23:50:00Z
+    webUrl: "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/"
+    ampWebUrl: "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 96
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-22-at-9.28.33-AM.png"
+        width: 630
+        height: 352
+        isCached: true
+  - title: "Ally explores fintech products using quantum computing with Microsoft"
+    excerpt: "Ally Financial and Microsoft are collaborating to explore quantum solutions to challenges in the fintech sector."
+    publishedDateTime: 2021-04-23T01:35:00Z
+    webUrl: "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/"
+    ampWebUrl: "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
         width: 1200
@@ -73,20 +89,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Microsoft’s $20 billion AI deal will shake up how we work"
-    excerpt: "AI specialist Nuance Communications Inc. shows it’s willing to spend a lot of money to do it. Microsoft said on Monday that had agreed to buy Nuance Communications Inc. for about $56 a share, or almost $20 billion including debt."
-    publishedDateTime: 2021-04-19T19:00:00Z
-    webUrl: "https://www.postbulletin.com/business/technology/6990454-Microsoft’s-20-billion-AI-deal-will-shake-up-how-we-work"
-    type: article
-    provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
-    quality: 54
-    images:
-      - url: "https://www.postbulletin.com/incoming/6990458-skdixu-Microsoft-AI-deal/alternates/BASE_LANDSCAPE/Microsoft%20AI%20deal"
-        width: 1140
-        height: 712
-        isCached: true
   - title: "Cloud rivals AWS, Microsoft compete in a new arena: specialized AI services"
     excerpt: "AWS and its chief competitor, Microsoft Corp., are now fine-tuning their cloud offerings, developing highly specialized products, most often with AI, that can be targeted at specific industries."
     publishedDateTime: 2021-04-19T02:35:00Z
@@ -96,56 +98,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 49
-  - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
-    excerpt: "Software giant wants give end-users a ‘tangible view’ of the inner workings of its public cloud through its newly launched virtual tour experience."
-    publishedDateTime: 2021-04-20T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour"
-    ampWebUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 44
-  - title: "G Suite Technology Services Market – Microsoft’s Hold over Larger Organization Unchallenged, Reveals Fact.MR"
-    excerpt: "G Suite technology services market reported a revenue generation of nearly US$ 214 Mn in 2017 and is expected to witness a 1.2x growth in 2018, according to Fact.MR estimations. Overall market growth is likely to be driven by,"
-    publishedDateTime: 2021-04-20T21:05:00Z
-    webUrl: "https://www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 40
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/04/report-1-10.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "UK government agrees new three-year deal with Microsoft"
-    excerpt: "The UK government has signed a new three-year Memorandum of Understanding (MOU) with Microsoft to give the public sector specialist discounts for the vendor's services. The Digital Transformation Arrangement 2021 (DTA21) will see eligible organisations granted access to 365,"
-    publishedDateTime: 2021-04-21T14:14:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4030202/uk-government-agrees-deal-microsoft"
-    type: article
-    provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 39
-    images:
-      - url: "https://www.channelweb.co.uk/api/v1/wps/9741a46/515805b7-19a2-4320-917b-c56e319c031f/2/whitehall-government-it-cloud-computing-money-savings-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
-    publishedDateTime: 2021-04-20T16:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 30
   - title: "Prevencio Announces Laboratory Commercialization Partnership with Atlas Genomics Incorporating Microsoft’s AI-computing Cloud"
     excerpt: "Prevencio, Inc. today announces an Agreement with Atlas Genomics to commercially launch its highly accurate, AI-driven HART blood tests for heart disease and risk of heart attack, stroke, and cardiovascular death."
     publishedDateTime: 2021-04-21T14:51:00Z
@@ -160,7 +112,16 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Prevencio Announces Laboratory Commercialization Partnership with Atlas Genomics Incorporating Microsoft’s AI-computing Cloud"
+    excerpt: "Prevencio, Inc. today announces an Agreement with Atlas Genomics to commercially launch its highly accurate, AI-driven HART blood tests."
+    publishedDateTime: 2021-04-21T18:51:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210421005747/en/Prevencio-Announces-Laboratory-Commercialization-Partnership-with-Atlas-Genomics-Incorporating-Microsoft’s-AI-computing-Cloud"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
 
-secured: "oOI/9cRKBSckHtKiYnxF4Mc13IiP3aU1+L5XsvpdZ9xzo5Z4ZQOQ8YwRwMcRQMNX0L4WOhVGVN2+PB1zKo2o2J0JtJP1IBcWplpApIB4CTkWCWyuzTv317GYX0vY1dH6yU6fWXKzDjjgT/fgKa5qujKDO95jwPpMp5BdmDs5mjRFLq+W02jiL5XjuOWCFlRU6TzS01tsoa3XPZzAOn7ReWgnLsab08qJpt9a/CE/AJonWZtuSzKCZgz52A5fvK/VCR2fxPZr2SuE5domPamczpgWyrRaVL5ShGI7A2KR9IU46r/ifqDv4SVdlFhu05D+RaOpeXTBdEi9HVi++K5ZcrvPVNPD5QatmpymKk3fVGA=;beW4uwAcyVc1i5pMtzO4bw=="
+secured: "Kd16Kphprk3pEm9O8B29LoxztuWUCXI0kJHLGvJ8wb1/VfJ/iX0wbHPXWmdeScP8rTavMQTJrK9NGBF6IPDvMSrfpiISTcsIILqZ6YkQ36EjwFwlF6WOtui17QdVlqZN+v0Epiau7X/wa3Z4luQxTjMvIGf1rcpwhhK1ZcAMTesQWPbn2ZXZBeHB0MpJvCj3ktqVrzeKoYvTuIfthKJ+SppQA/gGfvnkorY2aF0WY3Sb5VpTC7Gb8SNTObBif1rwfChqHV/lN6FVisfXRYXIWYv/lPk+khdg6ROTo8cURZxBy4lSlBS0N6d6k6nbBIBVIQ2ytPYBI98pMYr8fAXJ9eEJHmdSoleQAXpdHSH9EzR4sH2IujTW67ON630H2Bi7Y15fujzxVhE9+Yy426/mIXK4CUM4goWs9XQbBGwAvKhuu8R3iTzLv4MA+HkfoM+9EJtLfI29WynYNOtmv5E/ZYd62YeoaibxFTAXCyBgR0+3cMfcVwkrXsE6oZ8NxIv3ntvZhIvzyVGFhY7t9inqpw==;m4nFs4CLPbb8jDAbRsdLRA=="
 ---
 

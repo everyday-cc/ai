@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-23-microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21.md",
+      "title": "Microsoft details the latest developments in machine learning at GTC 21",
+      "excerpt": "With the rapid pace of change in AI and machine learning, it’s no surprise Microsoft had its usual strong presence at this year’s Nvidia GTC.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/",
+      "originalUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/",
+      "publishedDateTime": "2021-04-22T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-a-whale-of-a-tale-about-responsibility-and-ai.md",
+      "title": "A whale of a tale about responsibility and AI",
+      "excerpt": "A couple of years ago, Google AI for Social Good’s Bioacoustics team created a ML model that helps the scientific community detect the presence of humpback whale sounds using acoustic recordings. This tool, developed in partnership with the National Oceanic and Atmospheric Association, helps biologists",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/",
+      "originalUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/keyframe_whale_ai.max-1300x1300.png",
+          "width": 1300,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/whale-tale-about-responsibility-and-ai/amp/",
+      "publishedDateTime": "2021-04-22T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-how-were-minimizing-ais-carbon-footprint.md",
       "title": "How we’re minimizing AI’s carbon footprint",
       "excerpt": "The book that led to my visit to Google.When I first visited Google back in 2002, I was a computer science professor at UC Berkeley. My colleague John Hennessey and I were updating our textbook on computer architecture, and Larry Page — who rode a hot-rodded electric scooter at the time — agreed to show",
@@ -1273,101 +1379,6 @@
         "AI",
         "Natural Language Processing",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-this-40-computer-science-training-includes-classes-on-python-linux-and-more.md",
-      "title": "This $40 computer science training includes classes on Python, Linux and more",
-      "excerpt": "This bundle features 212 hours of curated classes on Python, Tensorflow, data analysis, applied probability and more. The bundle begins with \"Python Data Science,\" a practical, hands-on course ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2021-complete-computer-science-training-bundle-145556015.html",
-      "originalUrl": "https://www.engadget.com/2021-complete-computer-science-training-bundle-145556015.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-03/66df4a10-8bf5-11eb-9efd-1d5d2561882e",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/2021-complete-computer-science-training-bundle-145556015.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2021-complete-computer-science-training-bundle-145556015.html",
-      "publishedDateTime": "2021-03-25T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-what-drives-nithya-sambasivans-fight-for-fairness.md",
-      "title": "What drives Nithya Sambasivan’s fight for fairness",
-      "excerpt": "When Nithya Sambasivan was finishing her undergraduate degree in engineering, she felt slightly unsatisfied. “I wanted to know, ‘how will the technology I build impact people?’” she says. Luckily, she would soon discover the field of Human Computer Interaction (HCI) and pursue her graduate degrees. She",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/",
-      "originalUrl": "https://blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/amp/",
-      "publishedDateTime": "2021-03-22T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "King County could be first in nation to ban government use of facial recognition technology"
-    excerpt: "King County could become the first in the nation to ban the government’s use of facial recognition technology."
-    publishedDateTime: 2021-04-22T04:38:00Z
-    webUrl: "https://www.kiro7.com/news/local/king-county-could-be-first-nation-ban-government-use-facial-recognition-technology/H6NJWIBWQRHY5CD74NCEDVAA2M/"
-    ampWebUrl: "https://www.kiro7.com/news/local/king-county-could-be-first-nation-ban-government-use-facial-recognition-technology/H6NJWIBWQRHY5CD74NCEDVAA2M/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/local/king-county-could-be-first-nation-ban-government-use-facial-recognition-technology/H6NJWIBWQRHY5CD74NCEDVAA2M/?outputType=amp"
+  - title: "MTA pulls security cameras from NYC subway train due to vendor’s ties to Chinese facial recognition company"
+    excerpt: "The cameras began monitoring passengers on the G line train last Thursday — and MTA officials planned to keep them there for a year to see how they worked. But the vendor contracted to provide the system’s technology — Suzhou Huaqi Intelligent Technology — raised major security flags that prompted officials to suddenly pull the camera-filled train from service on Thursday."
+    publishedDateTime: 2021-04-22T23:03:00Z
+    webUrl: "https://www.nydailynews.com/new-york/ny-g-line-surveillance-cameras-cctv-subway-mta-20210422-pg2jooirajenzjxanowqen53c4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/ny-g-line-surveillance-cameras-cctv-subway-mta-20210422-pg2jooirajenzjxanowqen53c4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-g-line-surveillance-cameras-cctv-subway-mta-20210422-pg2jooirajenzjxanowqen53c4-story.html?outputType=amp"
     type: article
     provider:
-      name: KIRO-TV
-      domain: kiro7.com
-    quality: 49
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 73
     images:
-      - url: "https://d1hfln2sfez66z.cloudfront.net/04-22-2021/t_4f4df85d67ac4f06912fac52d86ea86f_name_ftp_4_21_johnson_515p_KC_Facial_Recongnition.jpg"
-        width: 850
-        height: 480
-        isCached: true
-  - title: "Facial recognition solution to boost contactless site entry"
-    excerpt: "Biosite Systems Ltd has developed a facial recognition solution to respond to increased demand for contactless site entry"
-    publishedDateTime: 2021-04-20T11:00:00Z
-    webUrl: "https://www.pbctoday.co.uk/news/construction-technology-news/facial-recognition-construction/92223/"
-    type: article
-    provider:
-      name: pbctoday.co.uk
-      domain: pbctoday.co.uk
-    quality: 39
-    images:
-      - url: "https://www.pbctoday.co.uk/news/wp-content/uploads/2021/04/Biosite-Facial-Recognition-2-lr.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "Facial recognition tech in Selarang Park Complex facilitates inmate movement"
-    excerpt: "Doing so enables prison officers to focus on other functions, such as inmate rehabilitation.. Read more at straitstimes.com."
-    publishedDateTime: 2021-04-22T05:13:00Z
-    webUrl: "https://www.straitstimes.com/singapore/courts-crime/facial-recognition-tech-in-selarang-park-complex-facilitates-inmate-movement"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 36
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/04/21/rk_selarangparkcomplex_210421.jpg?itok=o_HHyqU8"
-        width: 763
-        height: 509
+      - url: "https://www.nydailynews.com/resizer/7RV4Q09wAlPocpkw39__PEHNCrE=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/DBIOLYQ3EZAP7O33M3FED2UIXM.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "LOcQpBVcRmnJ5stV6vG4vwRRh82O3fp2VB3w0WQUHlGagdt618rLtsAwA4zte9jiqasp584PHKCZYPA+NBM6w7OnZqdb/sUfBg/pkuC/Iw1UHTe3rtFmcwhWWQt7bBPNQBNJ0a6VQV4pxoJc8xMShkcthRmS+O00FwmjzZpljF5NEN8za7Hjz+lgnkfY9CFekn11znHl5l9tgzG8eEXgw9z9fLlO4zVTN05tXaYE8NQkBKVnpKgOW5G5d72GXjfcxwuedaP1JDJg5Uj5/GnOd2+BYjLDXseDoz5FxayG3VAVsNdAX5/7Zia9vQjVMsKJXqikoyvlGtjExFh4KdSPKqhYkVub4+NPfzSxzi8E3i0=;Lw65eINnjVqjQ4q6FjhYcQ=="

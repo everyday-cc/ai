@@ -15,6 +15,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/04/Top-Machine-Learning-Software-e1618509296268.jpeg"
@@ -22,6 +23,6 @@ images:
     height: 840
     isCached: true
 
-secured: "DZ6cZilnhNrui4k9l52ilhVVvH5CTR8mnY1PbrHwxZcZyHX5af/DSmAn9Bcq9RifqkJ/paZ2tVsnxbBwdjnpgNRWf4KbGqyYrkI2SK0Z1AILeIoHwCh3RKiW5rCHHaoGKDGHAeqjhC6pxD3+C4LjI6942+o/iEsEr0AljCd31sySTuvH00ec+q95qwW1gmu93HsC7g0pPYombu9xGx+coplmN7Y1n2PWVK7BTz0q9bxTHC4m0QnvBhykNTERLayrimrpnPdV5BO+HqrA6OmqHqj82Th10HyJL2GUUxx9OrInhzQx8+y4GxOL6TqOCgXyC0yfUwrAV8sbUdQaL+ew+53mtbw776RlaGa7aizqetQ=;G90rZcvDqgKSEpsTjv0mtA=="
+secured: "hLjj7ohkRfXyfuaZbzNqDGyoAh9Q3o6+UlnRgaLuwWjFm63oZHwlK5nexCf+0ipPzg4+RnXulk+5q9qlfe+SrHQkQiw2LvyhS/h8jE6duloUqsgQcnBuqVfGi3XU4ONDnsPWD+0s0FZ06rtUeQ2jGx8ipLnlYIM7yVjyCvQyeUO7gals236TYlarC/RF4IGgFijWkzpm8b6v+HbiopngXtR0Q4KNtbPTgX0821nGYMhArr71kOZv8UTo+oc7yGBitc2LCx6FraEjp7WTNz99j2xHmnawS8KYbbfrXVIWLoMmECsKmSr5b6Ir8QggWfUuZnNnp6z7tDTwx6Lsq1wXq8VMIdk3rKDJ8fjqbMoelb4xxatMVp/nqh655/HRHi34VCBlhhWooGXsuH460FdTNjDDZhYF48QJwJDGQyEVtR9+z/N84Yz/rw7mWrakj/+vW1ff7IiA/xQK8CEYxUWZZdBhEj5j/mTVmcYe29uiihkWYHSknLqcRJojC2ZINJPP9xbp0l78AQGl+BRbgZX1Sw==;odFcB9iyKK72cglAwGxEeg=="
 ---
 
