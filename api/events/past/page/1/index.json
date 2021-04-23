@@ -4,6 +4,372 @@
   "page": 1,
   "value": [
     {
+      "path": "_events/2021-03-15-ai-data-science-in-trading-new-york-2020.md",
+      "title": "AI & Data Science in Trading New York 2020",
+      "excerpt": "AI & Data Science in Trading brings together experts in the use of AI and advanced data analytic techniques within asset management, primarily for finding alpha, managing risk and optimizing portfolios.  Initially exclusively used by analysts within quantitative firms, automation and outsourced tools are allowing fundamental firms to benefit from these techniques -  providing new insight for their discretionary strategies.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2021-03-15-ai-data-science-in-trading-new-york-2020/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2021-03-15-ai-data-science-in-trading-new-york-2020/",
+      "originalUrl": "https://www.aidatatrading.com/",
+      "name": "AI & Data Science in Trading New York 2020",
+      "type": "conference",
+      "startDateTime": "2021-03-15T02:00:00-07:00",
+      "endDateTime": "2021-03-17T10:00:00-07:00",
+      "location": "New York, NY",
+      "website": "https://www.aidatatrading.com/",
+      "provider": {
+        "name": "aidatatrading.com",
+        "domain": "aidatatrading.com"
+      },
+      "topics": [
+        "AI"
+      ],
+      "images": [
+        {
+          "url": "https://plsadaptive.s3.amazonaws.com/eco/images/logos/a6zxkHCMS4PWWwq1V1GzGJcqHatPbWwNw2Uh68Uq.png",
+          "width": 800,
+          "height": 600,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_events/2021-03-15-ai-data-science-in-trading-new-york-2021.md",
+      "title": "AI & Data Science in Trading New York 2021",
+      "excerpt": "AI & Data Science in Trading brings together experts in the use of AI and advanced data analytic techniques within asset management, primarily for finding alpha, managing risk and optimizing portfolios.  Initially exclusively used by analysts within quantitative firms, automation and outsourced tools are allowing fundamental firms to benefit from these techniques -  providing new insight for their discretionary strategies.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2021-03-15-ai-data-science-in-trading-new-york-2021/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2021-03-15-ai-data-science-in-trading-new-york-2021/",
+      "originalUrl": "https://www.aidatatrading.com/",
+      "name": "AI & Data Science in Trading New York 2021",
+      "type": "conference",
+      "startDateTime": "2021-03-15T02:00:00-07:00",
+      "endDateTime": "2021-03-16T10:00:00-07:00",
+      "website": "https://www.aidatatrading.com/",
+      "provider": {
+        "name": "aidatatrading.com",
+        "domain": "aidatatrading.com"
+      },
+      "topics": [
+        "AI"
+      ],
+      "images": [
+        {
+          "url": "https://plsadaptive.s3.amazonaws.com/eco/images/logos/a6zxkHCMS4PWWwq1V1GzGJcqHatPbWwNw2Uh68Uq.png",
+          "width": 800,
+          "height": 600,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_events/2021-03-09-the-ai-machine-learning-convention.md",
+      "title": "The AI & Machine Learning Convention",
+      "excerpt": "The AI & Machine Learning Convention is one of the UK’s most forward thinking events. Dedicated to exhibiting technology which is really just beginning to be introduced across hospital services, this truly is a pioneering event that will shape the future of healthcare.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2021-03-09-the-ai-machine-learning-convention/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2021-03-09-the-ai-machine-learning-convention/",
+      "originalUrl": "http://www.aimlconvention.com/",
+      "name": "The AI & Machine Learning Convention",
+      "type": "conference",
+      "startDateTime": "2021-03-09T01:00:00-08:00",
+      "endDateTime": "2021-03-10T09:00:00-08:00",
+      "website": "http://www.aimlconvention.com/",
+      "provider": {
+        "name": "aimlconvention.com",
+        "domain": "aimlconvention.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "AI in Healthcare"
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_events/2021-01-01-ijcai-pricai-2020.md",
+      "title": "IJCAI-PRICAI 2020",
+      "excerpt": "Welcome to IJCAI-PRICAI2020, the 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence. Yokohama is the second largest city in Japan, located 30 minutes from Tokyo by train.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2021-01-01-ijcai-pricai-2020/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2021-01-01-ijcai-pricai-2020/",
+      "originalUrl": "https://www.ijcai20.org",
+      "name": "IJCAI-PRICAI 2020",
+      "type": "conference",
+      "startDateTime": "2021-01-07T01:00:00-08:00",
+      "endDateTime": "2021-01-15T09:00:00-08:00",
+      "location": "Yokohama, Japan",
+      "website": "https://www.ijcai20.org",
+      "provider": {
+        "name": "ijcai20.org",
+        "domain": "ijcai20.org"
+      },
+      "topics": [
+        "AI"
+      ],
+      "images": [
+        {
+          "url": "https://www.ijcai20.org/Header-Yokohama-Mobile.png",
+          "width": 654,
+          "height": 648,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_events/2020-12-08-data-science-salon-applying-ai-machine-learning-to-finance-technology.md",
+      "title": "Data Science Salon - Apply AI & Machine Learning to Finance & Technology",
+      "excerpt": "The data science salon is a unique vertical focused conference which grew into a diverse community of senior data science, machine learning and other technical specialists. We gather face-to-face and virtually to educate each other, illuminate best practices and innovate new solutions in a casual atmosphere.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-12-08-data-science-salon-applying-ai-machine-learning-to-finance-technology/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2020-12-08-data-science-salon-applying-ai-machine-learning-to-finance-technology/",
+      "originalUrl": "https://www.datascience.salon/retail-and-ecommerce/",
+      "name": "Data Science Salon - Apply AI & Machine Learning to Finance & Technology",
+      "type": "conference",
+      "startDateTime": "2020-12-08T01:00:00-08:00",
+      "endDateTime": "2020-12-11T09:00:00-08:00",
+      "location": "Online",
+      "website": "https://www.datascience.salon/retail-and-ecommerce/",
+      "provider": {
+        "name": "Data Science Salon",
+        "domain": "datascience.salon"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ],
+      "images": [
+        {
+          "url": "https://www.datascience.salon/wp-content/uploads/2020/05/DSS-VIRTUAL-TRAVEL-FINANCE.jpg",
+          "width": 878,
+          "height": 439,
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_events/2020-11-28-aisca-2020.md",
+      "title": "AISCA 2020",
+      "excerpt": "4th International Conference on Artificial Intelligence, Soft Computing And Applications (AISCA 2020) will provide an excellent international forum for sharing knowledge and results in theory, methodology and applications of Artificial Intelligence, Soft Computing and Applications. The aim of the conference is to provide a platform to the researchers and practitioners from both academia as well as industry to meet and share cutting-edge development in the field.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-11-28-aisca-2020/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2020-11-28-aisca-2020/",
+      "originalUrl": "https://aisca2020.org/",
+      "name": "AISCA 2020",
+      "type": "conference",
+      "startDateTime": "2020-11-28T01:00:00-08:00",
+      "endDateTime": "2020-11-29T09:00:00-08:00",
+      "website": "https://aisca2020.org/",
+      "provider": {
+        "name": "aisca2020.org",
+        "domain": "aisca2020.org"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics",
+        "Computer Vision",
+        "AI Hardware"
+      ],
+      "images": [
+        {
+          "url": "https://aisca2020.org/images/csit.jpg",
+          "width": 598,
+          "height": 256,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_events/2020-11-18-ai-in-payments-fraud-risk-management-summit-new-york-2020.md",
+      "title": "AI in Payments & Fraud Risk Management Summit New York 2020",
+      "excerpt": "Artificial Intelligence (AI) is here for quite some time and is successfully being used in banking applications like Fraud Analysis and Customer Risk Scoring but with a limited scope. With such high expectations for the technology in payments and in myriad other industries, what will AI actually mean for consumers and merchants? What types of problems do payments technology companies and financial institutions expect to solve by deploying AI and other similar technologies? AI and machine learning is quickly becoming a valuable tool for payments companies and financial institutions to reduce fraud in all environments, but particularly in securing e-commerce transactions.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-11-18-ai-in-payments-fraud-risk-management-summit-new-york-2020/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2020-11-18-ai-in-payments-fraud-risk-management-summit-new-york-2020/",
+      "originalUrl": "https://www.kinfos.events/aipsummit/",
+      "name": "AI in Payments & Fraud Risk Management Summit New York 2020",
+      "type": "conference",
+      "startDateTime": "2020-11-18T01:00:00-08:00",
+      "endDateTime": "2020-11-18T09:00:00-08:00",
+      "location": "New York, NY",
+      "website": "https://www.kinfos.events/aipsummit/",
+      "provider": {
+        "name": "Kinfos Events",
+        "domain": "kinfos.events"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ],
+      "images": [
+        {
+          "url": "https://www.kinfos.events/wp-content/uploads/2020/01/picturemessage_gnr305ax.d3d.png",
+          "width": 300,
+          "height": 300,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_events/2020-11-17-data-science-salon-applying-ai-machine-learning-to-retail-ecommerce.md",
+      "title": "Data Science Salon - Apply AI & Machine Learning to Retail & Ecommerce",
+      "excerpt": "The data science salon is a unique vertical focused conference which grew into a diverse community of senior data science, machine learning and other technical specialists. We gather face-to-face and virtually to educate each other, illuminate best practices and innovate new solutions in a casual atmosphere.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-11-17-data-science-salon-applying-ai-machine-learning-to-retail-ecommerce/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2020-11-17-data-science-salon-applying-ai-machine-learning-to-retail-ecommerce/",
+      "originalUrl": "https://www.datascience.salon/retail-and-ecommerce/",
+      "name": "Data Science Salon - Apply AI & Machine Learning to Retail & Ecommerce",
+      "type": "conference",
+      "startDateTime": "2020-11-17T01:00:00-08:00",
+      "endDateTime": "2020-11-20T09:00:00-08:00",
+      "location": "Online",
+      "website": "https://www.datascience.salon/retail-and-ecommerce/",
+      "provider": {
+        "name": "Data Science Salon",
+        "domain": "datascience.salon"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "images": [
+        {
+          "url": "https://www.datascience.salon/wp-content/uploads/2020/05/DSS-VIRTUAL-RETAIL-ECOMM.jpg",
+          "width": 878,
+          "height": 439,
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_events/2020-11-16-ml-conference-munich-2020.md",
+      "title": "ML Conference Munich 2020",
+      "excerpt": "Making sense of your data is becoming key for every modern predictive business. At ML Conference you will develop a deep understanding of your data, as well as of the latest tools and technologies.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-11-16-ml-conference-munich-2020/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2020-11-16-ml-conference-munich-2020/",
+      "originalUrl": "https://mlconference.ai/munich/",
+      "name": "ML Conference Munich 2020",
+      "type": "conference",
+      "startDateTime": "2020-11-16T01:00:00-08:00",
+      "endDateTime": "2020-11-18T09:00:00-08:00",
+      "location": "Online",
+      "website": "https://mlconference.ai/munich/",
+      "provider": {
+        "name": "ML Conference",
+        "domain": "mlconference.ai",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mlconference.ai-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "images": [
+        {
+          "url": "https://mlconference.ai/wp-content/uploads/2020/07/MLC_MUN20_Websitebanner_HybridMobile__58078_v3.jpg",
+          "width": 600,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_events/2020-11-11-data-science-salon-los-angeles-2020.md",
+      "title": "Data Science Salon Los Angeles  2020",
+      "excerpt": "Machine Learning and Artificial Intelligence Conference in Media and Entertainment The data science salon is a unique vertical focused conference which brings together specialists face-to-face to educate each other, illuminate best practices and innovate new solutions in a casual atmosphere with food, great coffee and entertainment. Data Science Salon Los Angeles is the only vertically-focused industry conference series around applications in AI and Machine Learning in Media and Entertainment.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-11-11-data-science-salon-los-angeles-2020/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2020-11-11-data-science-salon-los-angeles-2020/",
+      "originalUrl": "https://www.datascience.salon/la/",
+      "name": "Data Science Salon Los Angeles  2020",
+      "type": "conference",
+      "startDateTime": "2020-11-11T01:00:00-08:00",
+      "endDateTime": "2020-11-11T09:00:00-08:00",
+      "location": "Los Angeles, CA",
+      "website": "https://www.datascience.salon/la/",
+      "provider": {
+        "name": "Data Science Salon",
+        "domain": "datascience.salon"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "images": [
+        {
+          "url": "https://www.datascience.salon/wp-content/uploads/2019/05/data-science-salon-los-angeles.jpg",
+          "width": 1024,
+          "height": 512,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_events/2020-11-09-the-ai-machine-learning-convention.md",
+      "title": "The AI & Machine Learning Convention",
+      "excerpt": "The AI & Machine Learning Convention is one of the UK’s most forward thinking events. Dedicated to exhibiting technology which is really just beginning to be introduced across hospital services, this truly is a pioneering event that will shape the future of healthcare.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-11-09-the-ai-machine-learning-convention/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2020-11-09-the-ai-machine-learning-convention/",
+      "originalUrl": "http://www.aimlconvention.com/",
+      "name": "The AI & Machine Learning Convention",
+      "type": "conference",
+      "startDateTime": "2020-11-09T01:00:00-08:00",
+      "endDateTime": "2020-11-10T09:00:00-08:00",
+      "location": "Birmingham, UK",
+      "website": "http://www.aimlconvention.com/",
+      "provider": {
+        "name": "AI & Machine Learning Convention",
+        "domain": "aimlconvention.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "AI in Healthcare"
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_events/2020-10-28-ai-world-government-2020.md",
+      "title": "AI World Government 2020",
+      "excerpt": "AI World Government provides a comprehensive three-day forum to educate and inform public sector agencies on proven strategies and tactics to successfully deploy AI and cognitive technologies. With AI technology at the forefront of our everyday lives, there are significant efforts already underway by federal agencies to deploy and integrate data-driven government services.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-10-28-ai-world-government-2020/index.json",
+      "webUrl": "https://everyday.cc/ai/event/2020-10-28-ai-world-government-2020/",
+      "originalUrl": "https://www.aiworldgov.com/",
+      "name": "AI World Government 2020",
+      "type": "conference",
+      "startDateTime": "2020-10-28T02:00:00-07:00",
+      "endDateTime": "2020-10-30T10:00:00-07:00",
+      "location": "Online",
+      "website": "https://www.aiworldgov.com/",
+      "provider": {
+        "name": "AI World Government",
+        "domain": "aiworldgov.com"
+      },
+      "topics": [
+        "AI"
+      ],
+      "images": [
+        {
+          "url": "https://www.aiworldgov.com/images/default-source/default-album/aigv_og_1200x627.png?sfvrsn=a660b31b_0",
+          "width": 1200,
+          "height": 627,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_events/2020-10-22-ai-world-congress-london-2020.md",
       "title": "AI World Congress London 2020",
       "excerpt": "AI Conference in London is AI World Congress 2020, fostering debate as AI events and Artificial Intelligence Conference on ai technology and ai business, ai industry and smart cities. It is one of leading global ML AI events in UK Europe.",
@@ -397,142 +763,7 @@
         }
       ],
       "content": ""
-    },
-    {
-      "path": "_events/2020-04-28-ai-conference-2020.md",
-      "title": "AI Conference 2020: AI, Voice & Bots",
-      "excerpt": "AI Conference is a premier conference for Artificial Intelligence, Voice Skills, and Bots. Discover latest and Network with experts.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-04-28-ai-conference-2020/index.json",
-      "webUrl": "https://everyday.cc/ai/event/2020-04-28-ai-conference-2020/",
-      "name": "AI Conference 2020: AI, Voice & Bots",
-      "type": "conference",
-      "startDateTime": "2020-04-28T05:30:00-07:00",
-      "endDateTime": "2020-04-29T13:30:00-07:00",
-      "location": "New York, NY",
-      "price": "$$$",
-      "website": "https://www.aiconference.co/",
-      "provider": {
-        "name": "Chatbot Conference",
-        "domain": "chatbotconference.com"
-      },
-      "topics": [
-        "AI"
-      ],
-      "images": [
-        {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F86479479%2F196455670280%2F1%2Foriginal.20200106-215352?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=199%2C0%2C2228%2C1114&s=43cdf065d27af6eb10a784d1f6077fb9",
-          "width": 800,
-          "height": 400,
-          "title": "AI Conference 2020: AI, Voice & Bots",
-          "isCached": false
-        }
-      ],
-      "content": ""
-    },
-    {
-      "path": "_events/2020-03-03-tc-sessions-robotics-ai-2020.md",
-      "title": "TC Sessions: Robotics + AI 2020",
-      "excerpt": "TechCrunch Sessions: Robotics & AI is a single-day event that features in-depth interviews and networking opportunities with top robotics and AI technologists, founders, investors and researchers.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-03-03-tc-sessions-robotics-ai-2020/index.json",
-      "webUrl": "https://everyday.cc/ai/event/2020-03-03-tc-sessions-robotics-ai-2020/",
-      "name": "TC Sessions: Robotics + AI 2020",
-      "type": "conference",
-      "startDateTime": "2020-03-03T10:00:00-08:00",
-      "endDateTime": "2020-03-03T17:20:00-08:00",
-      "location": "Berkeley, CA",
-      "price": "$$$",
-      "website": "https://techcrunch.com/events/tc-sessions-robotics-ai-2020/",
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/10/tc_sessions_robotics_newrobot.png?w=2000",
-          "width": 900,
-          "height": 1080,
-          "title": "TC Sessions: Robotics + AI 2020",
-          "isCached": false
-        }
-      ],
-      "content": ""
-    },
-    {
-      "path": "_events/2020-02-12-ai-nextcon-2020-seattle.md",
-      "title": "AI NEXTCon 2020 - Seattle",
-      "excerpt": "AI NEXTCon Developers Conference is AI developers-driven event hosted around the world (Seattle, New York, San Francisco, London, Beijing), specially geared to engineers, developers, data scientists to share, learn, and practice AI technology and how apply AI, ML, DL, Data to solve engineering problems, and machine learning production lifecycle. Now it's 10th edition, the conference features a blend of inspirational keynotes, deep dive tech talks, hands-on workshops, tools/framework live demo, networking opportunity with like minded developers.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2020-02-12-ai-nextcon-2020-seattle/index.json",
-      "webUrl": "https://everyday.cc/ai/event/2020-02-12-ai-nextcon-2020-seattle/",
-      "name": "AI NEXTCon 2020 - Seattle",
-      "type": "conference",
-      "startDateTime": "2020-02-12T08:00:00-08:00",
-      "endDateTime": "2020-02-15T17:00:00-08:00",
-      "location": "Seattle, WA",
-      "price": "$$$",
-      "website": "http://aisea20.xnextcon.com/",
-      "provider": {
-        "name": "AI NEXTCon",
-        "domain": "xnextcon.com"
-      },
-      "topics": [
-        "AI"
-      ],
-      "images": [
-        {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F81042537%2F39270685914%2F1%2Foriginal.20191114-061122?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C600%2C300&s=106fdebd9ea55af98bdd9966bd91b594",
-          "width": 790,
-          "height": 395,
-          "title": "AI NEXTCon 2020 - Seattle",
-          "isCached": false
-        }
-      ],
-      "content": ""
-    },
-    {
-      "path": "_events/2019-12-08-neurips-2019.md",
-      "title": "NeurIPS 2019",
-      "excerpt": "The 33rd annual Conference on Neural Information Processing Systems brings together researchers from all fields engaged in fundamental work in Machine Learning and Artificial Intelligence to enjoy a week of talks, panels, workshops, demonstrations, and competitions.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/events/2019-12-08-neurips-2019/index.json",
-      "webUrl": "https://everyday.cc/ai/event/2019-12-08-neurips-2019/",
-      "name": "NeurIPS 2019",
-      "type": "conference",
-      "startDateTime": "2019-12-08T08:00:00-08:00",
-      "endDateTime": "2019-12-14T18:00:00-08:00",
-      "location": "Vancouver, BC, Canada",
-      "website": "https://nips.cc/Conferences/2019",
-      "provider": {
-        "name": "nips",
-        "domain": "nips.cc"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "tags": [
-        "Academic Conference"
-      ],
-      "images": [
-        {
-          "url": "https://media.neurips.cc/Conferences/NeurIPS2019/Poster/NeurIPS-2019-Poster-Thumbnail.jpg",
-          "width": 510,
-          "height": 660,
-          "title": "NeurIPS 2019",
-          "isCached": false
-        }
-      ],
-      "content": ""
     }
-  ]
+  ],
+  "nextPage": 2
 }

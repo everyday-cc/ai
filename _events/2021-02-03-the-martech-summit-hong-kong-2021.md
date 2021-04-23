@@ -4,8 +4,8 @@ excerpt: "The digital revolution has urged brands and advertisers to reshape the
 originalUrl: https://www.themartechsummit.com/hongkong
 website: https://www.themartechsummit.com/hongkong
 type: conference
-startDateTime: 2021-02-03T09:00:00Z
-endDateTime: 2021-02-04T17:00:00Z
+startDateTime: 2021-08-18T09:00:00Z
+endDateTime: 2021-08-19T17:00:00Z
 location: "Hong Kong, China"
 
 provider:

@@ -5,7 +5,7 @@ originalUrl: https://www.aidatatrading.com/
 website: https://www.aidatatrading.com/
 type: conference
 startDateTime: 2021-03-15T09:00:00Z
-endDateTime: 2021-03-17T17:00:00Z
+endDateTime: 2021-03-16T17:00:00Z
 
 provider:
   name: aidatatrading.com
