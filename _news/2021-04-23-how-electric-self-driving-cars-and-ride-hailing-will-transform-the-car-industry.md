@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-electric-self-driving-cars-and-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Three reasons 'self-driving' cars are still a long way off"
+    excerpt: "The recent crash of a Tesla car in the United States, in which two people died, has reignited debate about the capabilities and safety of today's \"self-driving\" technologies."
+    publishedDateTime: 2021-04-22T14:00:00Z
+    webUrl: "https://techxplore.com/news/2021-04-self-driving-cars-1.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 24
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/selfdrivingc.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "‘Self-driving’ cars are still a long way off. Here are three reasons why"
     excerpt: "While the technologies required to enable higher levels of automation are advancing rapidly, producing a vehicle that can complete a journey safely and legally without human input remains a big challenge."
     publishedDateTime: 2021-04-22T20:43:00Z
@@ -62,6 +76,6 @@ related:
         height: 368
         isCached: true
 
-secured: "CiMhU8kny3twuF9VC4z9tGzrOkmUzNTJCTdfgK43PCiZKcbbWt9h5FEq7rpZJlMb6Z2nzdBzsPtF1Moe19tuD40leG+xKAFbj0qzQwKeDAR7UcbQR7gTUFj1UVpElm5jB7Rt+xN7IjPf9AkHgmNwN/hJNDejzb87OejASaAwt5kjuAFp3oNqcFAxXJfAOHn4+J8LLnO5r42BlpJED1xblGb9uOzl3g5qPQcYMu6/l5GbxYJSUm2Hr2NmqIlAZFKGJ3smclf0AKRxlPO4gDvpPHIjAfgeka81cuywS9vzF/gFTH3L2jV1oMouxwoxKFDSRKifaOYYhZKRlHux5lC8pAebprtsUNAtTDK9k0kfDTI=;XD0JHKx6OY0SPV1S0vDcNA=="
+secured: "IcpB+jTqot5hQW8XBLoBemg/kBDiUehQPQyXLtwIs2KFOUCG6VFWb8RhQOMWSszM3J4bfqkUe8DpOIFA/muYClkGzVQCVv6an1OK2CLCeEAYAfI4aRPZbMj6ziRJkDeectUqmJpcFyaNrNEqUeP3Ahz7cBaGuf7LJOyKRRgujiJJECfuZ/93mXEReJLKSouCkdk8a/kQy9ExjRk6XzXLy8F5s/OT8ENB8YliQ0u3Bmh6FaL31GNyYDYJJYl3H9TsU4b1hKj5jlJ6rI2NQSkRYpMrnVND2kVsJt3U2Mx+1K43rSRmw5B3GgFGt5Yq8WGi1l9cM54m0SNObO8XgwDxkcxot49uJSBoC1lc0fgIHwxX6KKzaTz7REovv/AslkDHSYaon5M1xN0NydDudkF3UMuVuGUSB2x1XhGjRXZriBk/x5Gnc3Zt3wz21jVQO/6RC/S/UM5PJvjzXwAJv2TuVpoqSVNUQ35als+vcS4rft3D7Tdsy0l6etkxMPnyxB3ymepd6fajGtcyjpOiEXtoQQ==;zMvK56DpUSSbvr9PBWuKbg=="
 ---
 

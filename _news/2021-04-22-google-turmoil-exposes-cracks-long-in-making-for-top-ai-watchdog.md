@@ -2,7 +2,7 @@
 category: news
 title: "Google Turmoil Exposes Cracks Long in Making for Top AI Watchdog"
 excerpt: "Gebru had emerged as one of a handful of artificial intelligence researchers who was well-known outside ... In the spring of 2020, Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent Alphabet Inc ..."
-publishedDateTime: 2021-04-21T19:11:00Z
+publishedDateTime: 2021-04-21T19:01:00Z
 originalUrl: "https://www.bloombergquint.com/technology/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
 webUrl: "https://www.bloombergquint.com/technology/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
 type: article
@@ -56,6 +56,6 @@ related:
         height: 826
         isCached: true
 
-secured: "/+z2cDkyb+b1uaJvv99IvQn+kvKD37sqXLKot9x3YWxlVsIw/M9fol1idGoN+MoQaLhUPZ1WRfNJ4tiMYtcxfbE7HJTeSmTPkRPVeC2ALkafeqE4mJew5yUAvAPvqtA/YQzvlEhAKYBGjtQlpq833sqEKnH0wNvKSWOT0q4l0HJQ6PGJkYrCMnnFre76X/fuFy6SX1h9VHUrZBdbimEipiDGKpOnfAyJZvP+5AHhP/qtBQhy8/X1L46cJDoaJeljMiLronM/VhG0vUFqC2+y9PnhB4hjx9WG/pHyiwL74q3XiAUyOo/uL1Hp0CURqvKVUQqGafdiRsa9k8r2iGJ+n1kzVkF7ykYr6BMiWZVg9lU=;jZJdyHouagc5E9aeYCJ9hg=="
+secured: "cdZwCDwl+lXtyx5GuJ8CMpsV8inMFGcyEvb0ssPBKY1CKEQzkgehiWPV6nHtZ32wBhm/uamXVW7M0kq3XK0qOph04NhxnOEvnj5b1y/FPnEj08ZYbV9SwgAyq3vjWQJOGuJw7JMnWKPP729ibQa6oI1M1BrgbOdP2IEDMmnVhihOe0eRvUq50KP3ke3+tk6Al43DtVqPndSEv7surbbi+FdaZKFebjC+Ozq0hXCFXBXECoxIvt+0Ad3V23f1CErTJvjO7FMOLBmZhtfXPw/7dqFvlqD6tFOJuYawKKyoYuY+ORxYBR8VpEZVsm096iY99sAl/AYOCpzB/1TbLg1WdkfFmwVuMscMMBZuc083hIE=;xpscy+8+N+VPypK7lRYyNA=="
 ---
 

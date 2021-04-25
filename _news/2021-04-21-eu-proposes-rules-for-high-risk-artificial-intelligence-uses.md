@@ -105,22 +105,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "EU lawmakers propose strict curbs on use of facial recognition"
-    excerpt: "EU regulators have proposed strict curbs on the use of facial recognition in public spaces, limiting the controversial technology to a small number of public-interest scenarios, a"
-    publishedDateTime: 2021-04-20T16:59:00Z
-    webUrl: "https://www.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
-    ampWebUrl: "https://amp.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F366293b3-0031-4df7-ac2c-5b5c0908239b.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "EU proposes rules for high-risk artificial intelligence uses"
     excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people's safety or rights. The draft regulations from the EU's executive commission include rules on the use of the rapidly expanding technology in systems that filter out school,"
     publishedDateTime: 2021-04-21T17:38:00Z
@@ -166,6 +150,6 @@ related:
         height: 707
         isCached: true
 
-secured: "elha3jvOhPXSwb/HNZ5SNc+da4JgLa3iGlysQVVPH4nnmmMgMaOpEe1GSwupLx5myoBrE7Vz07mT2BlqSF4B0JifjOXe+F23GIDn0WB4BKXLfWGj88643FIMfexzOF13MHesq8MC6MxIUrOL/yZz1k/Eco/qiYK/6NcWkccRUqASGMFaj0f8dVRw97DQzihHpfuFLxhhKlIvcHP5Zp66GKjFjxsqMlTn7KPH4qLu4CnzkydWg9ldec77nSvpZsVSUYwwAN8KO6vAB3zbYWT4MjLwNiE0IRaDnhJyWdea0r77FzLQm/3NJcUhra2FL7p6JyXmYt8+VOWcZ91QY8TJMKkq+935SIhenpzcbtaGNjo=;cOKKsWu3sebxRerSkUS9uA=="
+secured: "zR3ER0kaykWZvXYiBcV9QV6pwQTU76doqFLJqc5F5xFGSyoZEq9JLuoxCbfakPOPx+JelV9dCb+Hd0SrZLJfGsMHzB4/T3Jjg7fMwn/jHreHkyNIk98Iina0QImiG+3291hcOdd2H6EoqO9BcyEIU64USch9VxPxJES02htTm51GUd8q/NvrhLOfil6DrUmjWDc57e/Dn6ekk5V/8KHio9hw/v9b3Hdw8pB47yXSe6CS7ikCbJzE1Lh7KAam2gpCex7nKRLEpfTlXiMcPDtbkHyINXSv33U2KSWkkAnTxmwXTr03+qPv8hGraGk/CqGZWZzlboMBFu5az04eY5/5zQqLSipMDS8ntTE6NmCIjgABVhVG1ghYU5kflf28vfE6qPtKLttlqCmhSSoo7DuqAXyUaQopLMdDUazso7a8YGAbtp2or6wUHOIvUyJb3AwqqqHpZD20ZhrpCi4ixBmIAtysqkScIpaeZDbZWF/wZpuCduYsOiVEAP7azqVNTx1Od+Fgdtdr2VNvsR8LS1BQCg==;i622iGfWWfoGjGmshIykpw=="
 ---
 

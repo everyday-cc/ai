@@ -72,6 +72,22 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "How can technology bridge fintech and SMEs to ease the lending process"
+    excerpt: "Fintech startups bring convenience and help SMEs get easy access to products like bank accounts, cards, securing working capital, managing cash flow, etc."
+    publishedDateTime: 2021-04-25T09:22:00Z
+    webUrl: "https://yourstory.com/smbstory/technology-bridge-fintech-smes-ease-lending-process"
+    ampWebUrl: "https://yourstory.com/smbstory/technology-bridge-fintech-smes-ease-lending-process/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/smbstory/technology-bridge-fintech-smes-ease-lending-process/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: "https://images.yourstory.com/cs/21/f02aced0d86311e98e0865c1f0fe59a2/lending-1619070105454.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "AI in Fintech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The AI in Fintech Market size is expected to grow at an annual average of 38 during 2021 2027 The results of artificial intelligence have not been improved beyond the scale of humans but by applying methods derived from the"
     publishedDateTime: 2021-04-22T12:31:00Z
@@ -93,6 +109,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "BPJ/HyE7Zp5h+8pI9RWgJH5UQZdRiyPxwJ9pOkjlA7nQqbujna14WfYDUVCt5xN5vMKaaFxnsbNQ0FJX8EkHY+MYDH7ri6hm3WjWmr/EC1AyKZai49uGxa52/yVLelkAzjQPN8UVQD2DZvkr7R1BBPgP956akhxR4HU1jiuwg9hAia7vyIlTDKiIkn/5kqitEP8SecCQDI5TJRn8hSJ+9+N+CWwj4h1gMRnwftDFG5ZbkGvfanF9lEB7FJEsfYnNwL86nWdI9iGSY7vmvQZfv3UN9lWgU3oxQSD70FCFTgR2z2bXyx/ybk4GJcPoY51PXZj3z4aeTCWhwQL4ALOLXjni1CEIwCMbTxf1M8UUmWY=;wVm2rIWTb/HFRsiLeg2d7Q=="
+secured: "InAPMpgnk7D5l2NzAItpEuZGRXcujBR+kaAa/jDnYjTf1Tthi0M9lfob1sMDf0QyBjnX2mAIEsIS45rhxTJg5wg/YOp2JsopezBFSSQNwuCYHoypj1qpxrLrUWzBqhaLdsUfFk639dp38JDRkMmeBYFYjwKYzPSn8+U2Qg2ZHON3BZ04V3nRVcmFKqtErjws8IzTt5HxV66+hZtYY/voNNp7OH0tbQGs72M94fp5U+2hZrS0BLtM9YVcI5B48UTGNE26q5SzM4tU7EkG10+qm5/NQ27W/Fn42xrhHHcqZGGg97pZVLDrQuOV6MD4Oi2qWFE//OL+UylosDdjA4LFQ29A6ktxux+mhkg5246fYB4zQNZYWM6v+g4EkcvE4msSYShpAyVUI/Rws/Ft0VpyO3TGDY9FDe4jFWDGOXsQ92UORD6yJ1xJY9oIZeFKPGuhmxyjwhQWYBIAW0WxN21NQnxvydGJ0U9sUg9QwXQ9azLLcb45+sQ/DodGoaCXOlaVhF07F1g4xdKxdKx+ePXWwA==;q85hBL46X/oM6JmZgaSiXg=="
 ---
 

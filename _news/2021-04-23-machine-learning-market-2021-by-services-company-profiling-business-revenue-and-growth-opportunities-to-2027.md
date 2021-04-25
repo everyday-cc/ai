@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2274644/machine-learning-market-2021-by-ser
 ampWebUrl: "https://www.openpr.com/amp/2274644/machine-learning-market-2021-by-services-company-profiling"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274644/machine-learning-market-2021-by-services-company-profiling"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://cdn.openpr.com/U/4/U423349473_g.jpg"
@@ -128,6 +129,6 @@ related:
         height: 630
         isCached: true
 
-secured: "iB75+I/0kmGqMkS0RSrppi9Ba43vXBkAmmIONBewBOf3/kdZnEvlC+BK9A2K2d43tNOFOL6CXetl7FeNYB+gPe727uJLmgzaNT4mVDueGum3kBIjfILP8sQW6d8YxakfBNAiT+WVs5EGkqW19BL+vt6u4xQ0yMSVQoJPsL26RuGxAOJFpnuEE4pxsUcQFy7FvQ1ZPCmvedUmitYneIRvhs1bJO+UoN/zO7sWpqP7Jmaz1RBclBhgF19edetcaTB/ngXhMnEcmYPEtvYIO8I0FSB3wJWxgeTfPWbyy5ntlfARGYfmXOC8cde2KR0urRsvmzti0IpcSAIK1mbE3re5JuXYWh35Xn9wvUfJrQgTeEk=;N9P08NBepAfaFu5Vj6lasg=="
+secured: "2vsYG/g9QJXXyRmXWHyudom7d+b8t42LOdM2/XiY9HVGO7YGfca2hyEfS6d44VIVa9aQF4ObRg0F0oCKh6hZooIEfkrMpkTQNm0f/CgqD+/FTM7lzPwiIoq8sSSVr3/WKqpQAENT2ug7ApigQd4wyWWP5F6i4WW/YuwffIpvO3XDwdEzN4yORQTPaM9WbDz4BzyD0aTwWZY32oylx49YeiV36H0A3Ayb0si7GlDUElF30h/TdDmrkc5KEdm+oXOCZvHDz3TlLTnqCQ9/KsefEOW381yhWxzuoleNIZe77Bnz1d+7cXz2Yg+sW5P8ltkLzwYE/meoktWhNQlKUxQZu+DiW9LIkpfjtPDiRVYqclY12ULTmTJ0FuwIEMlIDFYSyj6kLG3OkzCd5Xq5+HWDajO/U3/gfKagiAJ2bZl/yzqMj8ix+JbZhy6JgFNvtdldHpJLBeJntoODkWvRr5kpKke1kJCn6MfwkzBJOQbTJH4JlqPLrUPPb7y9c5awqTyoqOPoUiVnX8ska/Q9DTbNGA==;VI8vFQPRb6AgczDHge8qXA=="
 ---
 

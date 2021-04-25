@@ -3,8 +3,8 @@ category: news
 title: "The driverless cars of the future that will be constantly spying on us"
 excerpt: "Continual surveillance of drivers through video cameras to ensure they are paying attention is the only answer, say experts"
 publishedDateTime: 2021-04-24T04:00:00Z
-originalUrl: "https://www.telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/"
-webUrl: "https://www.telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/"
+originalUrl: "https://telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/"
+webUrl: "https://telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/"
 ampWebUrl: "https://www.telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/amp/"
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/amp/"
 type: article
@@ -44,6 +44,6 @@ related:
         height: 748
         isCached: true
 
-secured: "VM+FJAMIq0SDi1XVQGKFb04M2786riJkEnSVrUSQggUQ0OC9+YNPIg9kZ/97ZOkM2Y6ULOr0Nxmqr2vwB2wlmaFZgb+YLR12E6mUuvNqnjBFFvj5Q5Gze7Vqwkbjr3+bAyp7oeJqz0Ao8apiw2JHzta6JTTIpUkzV58hdEkFV06BpGdD7yLIdcCZY7KrI+1Gq390ViZ8+bTRFcUvZERzX6QVLay0f3dbqnHvWlbiN8r7umCVAIS0uySipyFMls4owa9p82NVwsb5h3l5/oz+cSNvblM7pohVi5I53bY2UATa7i9Wmzu5l2x6O06ai4ET1iDCARca+Oq57pfnOzyNePohMqka998WcgLtDNRTSQY=;brQLx/eFsuSIJyg7bHhxkQ=="
+secured: "4BAy+r6KvQ6Sehr4XdlY7a9W0aPo7A7g4RKLfzaZpi7q7tsgAhk+r/hVBHi7pRLBS4kHJgc0SSlhUB0fiNox1YrceJQJmcpMB/yw4Y9FwrvJgxVpAZiKpLtA4lkTkZMq+H0zq1tnPkDEC2qCRXSatuDEwTKYH1X15/25lUybPBKB9+z1saYFh+CRpByH/A26Pj6pzY1+WknzUHLroDJJ5IDsq7yQC5G/Lmrd84SrYEfkmXziCekeQ2kroM8J9tz5lRRwpU7uz2OySrp3iptto1Te9N5E+P7uYMZrHTQQlEGyJblyrHM/54uwiBe+h7XLb3EIpFeMHZBdabg0rJOAIr/g4XjQmL/fFCFy8BC8l0I=;R6r7o7T2DIDtL/A+RFTzqA=="
 ---
 

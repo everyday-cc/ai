@@ -7,7 +7,7 @@ originalUrl: "https://www.tapinto.net/towns/elizabeth/articles/3-applications-of
 webUrl: "https://www.tapinto.net/towns/elizabeth/articles/3-applications-of-machine-learning-and-ai-in-finance-2d5c4825-e0ad-4dda-bec6-22e91842eaa7"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "Direct-to-consumer medical machine learning and artificial intelligence applications"
-    excerpt: "Medical artificial intelligence and machine learning technologies marketed directly to consumers are on the rise. The authors argue that the regulatory landscape for such technologies should operate differently when a system is designed for personal use than when it is designed for clinicians and doctors."
-    publishedDateTime: 2021-04-20T19:10:00Z
-    webUrl: "https://www.nature.com/articles/s42256-021-00331-0"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 49
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00331-0/MediaObjects/42256_2021_331_Figa_HTML.png"
-        width: 685
-        height: 422
-        isCached: true
 
 secured: "E9pyvjSRt03GA/4MZ6wS2+eWlbzwNjmsvQHKr3GB97D1TAsnroSi0Rr7N5yLNLE3f6oRf4xmNQIGeH6x5AjtiN/ZYhLWMp1CYMh7fkZgcspuMbnLXGC8EKyNozFk8h9CI9nwn2eo2TCeKIVb5hp/1C+pnf0WpOnMmKc/YKQYcW1xPsU+MNxV/t/h7J40ZIQeKsvRPP45oN/8AfJj4jzp8pSCyxFYnWS87J1EqAWhFUTOUWiwJV2CKoK0ky46lqOQ/JQ5EYkrhgF+zIvBjAv99pT++bOvxOqS07jqZ0Cai2Pivk14QKZTqN6dinzjhzVSUz/fGBx2kbuV9rUd/EeLVATUx5cv2m2EYBV+SGyLd4A=;5QaW04xs79wi25d+badUKg=="
 ---

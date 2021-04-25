@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-internet-traffic-using-aws-network-firewall/"
 type: article
 quality: 101
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 800
         height: 464
         isCached: true
-  - title: "It’s here! Join us for Amazon SageMaker Month, 30 days of content, discussion, and news"
-    excerpt: "Want to accelerate machine learning (ML) innovation in your organization? Join us for 30 days of new Amazon SageMaker content designed to help you build, train, and deploy ML models faster. On April 20, we’re kicking off 30 days of hands-on workshops, Twitch sessions, Slack chats, and partner perspectives."
-    publishedDateTime: 2021-04-20T23:08:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/its-here-join-us-for-amazon-sagemaker-month-30-days-of-content-discussion-and-news/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 61
 
 secured: "/mA5a7MSQI9KV0g2uEjsMZDKjQSMpaBrxTXqZODRtoTVeHVyd3JBMlgO56H2mMOmHsgnIs1GZB+RE1VVEM/84GeHgZzIgtHtEkB3n80EjRSEcoGbAq8hJ952U9CMwoazs8H3GC0Nqrj9+QOQXesyITPCwop+y0uQB/jT7d/UOM6qsIYSOwAPldbDbtz2BoVMdJ8Xutp5VqTjFKCqbVRWyefHkRteZ+fR3pwAaaavQie8tgu14ANJGTit4SYFalXRG0FQ1R/B+nXFNt41bKAh+XR6K5LQZglZlRPtwrbZmuwPQnYMPjzyjYEcMPGY2AQoqIcDPq3NqV7hv3+AEBsWpcGvTRfMf5t+ch9ZoHC8BzU=;LoL5ZTIrcTSKaA6IvN+5MA=="
 ---

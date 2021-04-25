@@ -43,7 +43,32 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Tesla crash in Texas shouldn't diminish hopes for self-driving trucks"
+    excerpt: "Deadly Tesla crash raises concerns about the future of self-driving trucks. Will computer-assisted driving emerge a winner? Read CCJ to find out."
+    publishedDateTime: 2021-04-23T12:49:00Z
+    webUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-despite-fatal-tesla-crash-in-tx"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 39
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/04/Screen_Shot_2021_04_22_at_4.28.57_PM.6081e6d47640f.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 608
+        isCached: true
+  - title: "Tesla crash becomes subject of multiple investigations as it revives questions about self-driving cars"
+    excerpt: "After a fatal crash in Texas last week involving a Tesla with no one behind the wheel raised interest in self-driving cars, multiple federal agencies are investigating the electric car company."
+    publishedDateTime: 2021-04-24T14:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 23
 
-secured: "tYcqvtlgNSONyA3p4YvgDKNcgnsh98Vnnew2UStp0QamvMD8cnJTtDF0EA6GgZJob2dkxgS+Lg03u6cCZhy82ytDYI9XHZFhSowQ+wzrZkgxu2pqjtGFrPh+PMPqUipB9Zk4Xel7v5mfMJzRLXWG6MxJF5S4TQl/Thv43MFSI0+HfDWTzRh2sGB0jkstL8q2p8OSC5upgq1Ns44pd6Cya1nidF4Wff6TkeZLSWUBM3slS8uLiDqDWXLIf/Cd91Pa/QCcVnONjXu65nSDDvzY7kHvqpkCDqBXVcuNGo1PMyKQ3uwtpHxSH0Kmpw04L/XqpkQ1MpegPyj7XsiQkN0BpnCnNIBHfiXcshrT5th+ukY=;3uQfuBeA+epzWJdN6LPQ3A=="
+secured: "VzgttqnWJIG/H3rUtCtfJaqigtVEhN91aXnZgBiw56RRPks+YnsFGNDLMswKdeZt+5E6CNbbfc3O6XDtCPJkNwWLgUy9cX27BPfwKK7FsQI1tXoG3ZEpZRDQFjeRrMUZvnJi1JGOBXka7LiiqwSy+chvQzwS8yP0sW6wVtXBEXijBC2Y5FHEfiTu87En80Azbjikz/ou2SCdr1dTWiC1vFZRlpUlm17OFdygfJHRmzJtNA/rqmYGIDDOpMF3R67ekxJjHEYYjLlXDEcLvBZVeaZycSM0yL/YMY3SbDPbZiKujRUePEouTZu0rf/KtQbEneCTAB+n6TbbNNOzTtOqgqQt8C65pOG0CCUWY4xC+W6Kd5W0uUv44cfLEhSgw2TEJm+qshfK1up0n/BOZjGc+BOCs8qm30STvQ01SJLy+Q9krPUuAceHuXwTmS1ozMEMDfWjbxh6R5VBioN5s79SKZnPDOe/amVbv7gx8dmyAOFzZfLn5XBPISsbtg636BY101Qg01obdotfgLdy/q5WMA==;+3csv4RsYbClThhTZ2rh6A=="
 ---
 

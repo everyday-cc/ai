@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/artificial-intelligence-facial-reco
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520"
 type: article
 quality: 103
-heat: 193
+heat: 183
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-135627371-facial-recognition.jpg?w=1024"
         width: 1024
         height: 684
-        isCached: true
-  - title: "EU lawmakers propose strict curbs on use of facial recognition"
-    excerpt: "EU regulators have proposed strict curbs on the use of facial recognition in public spaces, limiting the controversial technology to a small number of public-interest scenarios, a"
-    publishedDateTime: 2021-04-20T16:59:00Z
-    webUrl: "https://www.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
-    ampWebUrl: "https://amp.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F366293b3-0031-4df7-ac2c-5b5c0908239b.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
         isCached: true
   - title: "EU proposes rules for high-risk artificial intelligence uses"
     excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learni
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     height: 744
     isCached: true
 
-secured: "vhqPhSeJiB/yJwvYYkvnhPXNvS+PsTOjzBKDgNOTaj8LBEHBxwoizS+GurUxEnYRKzN48L8rlurnkPOd2Gly2ihXhWxveekX9S6vj4SOUEJSplsnDgMMpiBb3XOaqdo5gzlLd37kOK64+wV+bjddqQL9qEOMvoclwF1FI8kf16nsuC1leS5YmBqGKYB8oY6FXpM2O8LHq+W28rKsxEkJFcEtGZI0LfiKVSdjbmEMrl1sIRQFGr2ygtFv2iHpcrgz93SOydhAjAK/nbQgwISqCUmEzqVvrbswNvP2yoXycSAjD9SLOpiA+KgRT8X8gEX1hvCwQv3jsR6tXQe6I7HrRiDPPxW/kmIw/AyV99nPbgM=;WOgpYWrum3RPFKLSUql89A=="
+related:
+  - title: "Step aside, Python — 4 benefits of using JavaScript for machine learning"
+    excerpt: "Python isn't the only option for programming machine learning applications: there’s a growing group of developers who use JavaScript to run machine learning models."
+    publishedDateTime: 2021-04-25T08:40:00Z
+    webUrl: "https://thenextweb.com/news/4-benefits-using-javascript-for-machine-learning-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 70
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FJavaScript-machine-learning-deep-learning.jpeg&signature=cc02d26357590de1ead2f924ecd2ecc4"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "Z9qOJIWsNnRuNdXWJuVRKSZ00d0Ux1hkRTSQk6Cg8y/VMaUyYMbq+zWjUCgcpGUZPPXuTtzTy5QOUho8hRa8xHaP+Mb1OZ5HvP3+P1IBNkMGx4+pMkVy5av27UIp8D4LptbmxRYpACsQEXqh19OZ09UApCXUyw6FF5QbRfVqKxXb/DT2Lo9TWyJu2sse1JPYhmHH11zaxGCMCyZ9OtJG5BjxB+TIRsLu37NawLl4+yqJ9jvebrswRjXr85NKasv52fuQ2NHlwMG4NZqnYDyf+strykyEsxbHXFp0ei/3giHWNNhXQgEu52+6zPo/mlmzeYX7vRrYrbmiCas1Zq3VZiAoA7yQve22kbHhcJZcmYM5NWzwt+oeb1bXfSBHECusUI0qta58wvZ9+yPykNRC1ibo2Lk58aoHSTIEASCSoLyUtZi59yZpTgdTMf4eaoSqd6+NFJLEBFIRP4iO6IFr7fQxIh8sA9QBMIypgPcYJgUwJtCzxL6s0n26b+NO+MC8IHJrE6DazrSTjtpguOotjQ==;PKBkYQ7GBwXTqb7nk3KLiw=="
 ---
 

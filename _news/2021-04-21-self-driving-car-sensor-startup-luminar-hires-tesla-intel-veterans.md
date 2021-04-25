@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Self-driving car sensor startup Luminar hires Tesla, Intel veterans"
-excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions."
+title: "Self-Driving Car Sensor Startup Luminar Hires Tesla, Intel Veterans"
+excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions. Palo Alto, California-based Luminar makes a lidar sensor that uses laser light to give self-driving vehicles a three-dimensional view of the road."
 publishedDateTime: 2021-04-21T15:37:00Z
-originalUrl: "https://www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4"
-webUrl: "https://www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4"
-ampWebUrl: "https://www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4?amp"
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-04-21/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-04-21/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans"
 type: article
-quality: 69
-heat: 99
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -39,32 +37,7 @@ related:
         width: 1200
         height: 726
         isCached: true
-  - title: "Tesla crash in Texas shouldn't diminish hopes for self-driving trucks"
-    excerpt: "Deadly Tesla crash raises concerns about the future of self-driving trucks. Will computer-assisted driving emerge a winner? Read CCJ to find out."
-    publishedDateTime: 2021-04-23T12:49:00Z
-    webUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-despite-fatal-tesla-crash-in-tx"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 39
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/04/Screen_Shot_2021_04_22_at_4.28.57_PM.6081e6d47640f.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 608
-        isCached: true
-  - title: "Tesla crash becomes subject of multiple investigations as it revives questions about self-driving cars"
-    excerpt: "After a fatal crash in Texas last week involving a Tesla with no one behind the wheel raised interest in self-driving cars, multiple federal agencies are investigating the electric car company."
-    publishedDateTime: 2021-04-24T14:30:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 23
 
-secured: "aVysWnrRMdU7Oo7u+QUwOlK7pRCY/A9z4D1EYrSURoM5pHcHnManQVJScl2zBc0mTdsWsiQokJHHiMqF+IhpSadx+jSR6CDdn7IFEGt8AwWvKkVyFDhnluqAU0xbm4DYLFw+D59S3gNawLvQGB2kDrv5IRxqCvcD5b3NYA86X1mhqQ4oD8cqFqYuaU0m+vkw6jwF9ovsqeIf1DixkUEQBEEneCzc//Y/6KddXiqHsuAQ0+GZ7pAh45PaUQvn3jfCi+s4d6528nKJLJ9OSmjo2PqXv84Ke60fZGhBj8G8mv7pZjP5Dse3W7aLlu7WuiRWCbi9botBCK3B2Ai9S3/MecAWdNvj/w+qkfmR2GzSH/g=;yd1mcKf6+2oIGymVeO+oqQ=="
+secured: "deqAX8PUKee+E23ICzsjOdU346gpyvvOajydUA35ro2j4800FIBy8aQmhkOq2OF1PADsY6UPAME6q/6BzK3j41/Z/CtYiqUAfZsogkuHKCJBFUlDdLc+2O47GVhcXY5V+O6or85j3Ktox56AoYiwQXw7FvW2FLecQQ28/xzz4PChr6ClWyvyFZYJ9ZCscMJvM5TkjfBurjRqHbmoPRe0kWPB0qcfhXfM0URoybgJeVtbZreE1IAccJoPnNMLromxifOCOUPwJLiYGv97TFed9YlXj0wXQzR89VOtijENbZaStM8PxdQNlq6+vM+cYXOpG8N58fQIah5e7CnEklFiTvEl6sEBHhz6RLZeYhjNtW4=;cADBvDT0Hn61dVoqyTSsww=="
 ---
 

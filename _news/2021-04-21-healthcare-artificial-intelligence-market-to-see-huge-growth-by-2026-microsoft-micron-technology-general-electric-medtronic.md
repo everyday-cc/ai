@@ -25,24 +25,6 @@ images:
     height: 420
     isCached: true
 
-related:
-  - title: "G Suite Technology Services Market – Microsoft’s Hold over Larger Organization Unchallenged, Reveals Fact.MR"
-    excerpt: "G Suite technology services market reported a revenue generation of nearly US$ 214 Mn in 2017 and is expected to witness a 1.2x growth in 2018, according to Fact.MR estimations. Overall market growth is likely to be driven by,"
-    publishedDateTime: 2021-04-20T21:05:00Z
-    webUrl: "https://www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 40
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/04/report-1-10.jpg"
-        width: 750
-        height: 422
-        isCached: true
-
 secured: "To1vJmsztMFXmm2fFazWg99ZV13FdfjVrJDHQmW0VAi8VRhthoIozgQTBgtaYRJ2xrNEFIj8+4UxXf4dI0ZvjzzzWbr2Q7hxvqDEuQVMqR6jhoPcuKORwyUh47DSXOwcWSBVKQSOxziNyZiTUx40y4gBzva2WiILdqloc60mIk3kmlIUrkOgIR+TSHQX5i2Um3ZSvy24DeWbo0+eZienXFB2MtJaoQZVIESauOAyWo7O1YW43xgKdaNPyIZ1ol8NBL5QqmkxLb5UaSXxZFfQEg6uhUMQ7sM4gknyd5Vkh6FuVepX6goTtWPKcif5aE7Jco6etnavGRRXiuPjV8NV1CAWQGYKasKh4K3AcrokF2k=;x5avr5VUqU+OF/ZUpuaXMA=="
 ---
 

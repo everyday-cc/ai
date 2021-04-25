@@ -30,7 +30,7 @@ related:
   - title: "The driverless cars of the future that will be constantly spying on us"
     excerpt: "Continual surveillance of drivers through video cameras to ensure they are paying attention is the only answer, say experts"
     publishedDateTime: 2021-04-24T04:00:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/"
+    webUrl: "https://telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/"
     ampWebUrl: "https://www.telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/amp/"
     cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/amp/"
     type: article

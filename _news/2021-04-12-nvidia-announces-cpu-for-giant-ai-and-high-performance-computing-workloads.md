@@ -1,20 +1,26 @@
 ---
 category: news
 title: "NVIDIA Announces CPU for Giant AI and High Performance Computing Workloads"
-excerpt: "Leading-edge AI and data science are pushing today’ s computer architecture beyond its limits– processing unthinkable amounts of data,” said Jensen Huang, founder and CEO of NVIDIA.“ Using licensed Arm IP,"
-publishedDateTime: 2021-04-12T16:19:00Z
-originalUrl: "https://www.nasdaq.com/press-release/nvidia-announces-cpu-for-giant-ai-and-high-performance-computing-workloads-2021-04-12"
-webUrl: "https://www.nasdaq.com/press-release/nvidia-announces-cpu-for-giant-ai-and-high-performance-computing-workloads-2021-04-12"
+excerpt: "“Using licensed Arm IP, NVIDIA has designed Grace as a CPU specifically for giant-scale AI and HPC. Coupled with the GPU and DPU, Grace gives us the third foundational technology for computing, and the ability to re-architect the data center to advance A"
+publishedDateTime: 2021-04-12T16:23:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-grace-hopper-93a08d90026117b26646e7e18122400e"
+webUrl: "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-grace-hopper-93a08d90026117b26646e7e18122400e"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "3bANNldOknTPZ9oxCHWJR7neuSE7NwAWq4MZXDKbKyeTrq6f2b0237aECJ5/SDgLalKGfl7Xc8FkkL+Xq0N2/IQH/LenNibff+pUllefGYKGTUPuUC7IeBxA6gPwPOgxPwl2QK+qB6VxofBseu2FO6aPkwU9gg13bOzaWScyXH+4H3vQNtk7mFZ82rFZq2n7kbCy7shPbtWPqUMv/3abXQiM75sQc4s4pVNsLYS9vxGl3hV0VsK2PMm5o288Xfeide0baaqKZPWGfRA3LGGkmX454c4LW9P76lA3Vc/DFkI42W2PhSwAdDvDhTSdS8/Jptbl27J3OOpQC1hHb5kI49/P7ZwJ09SplSW2jXU1BNQ=;Ntq/nW6jLL6k/hVaqMgo/g=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "zmSUKdJr80N+qL5k7Dbok3Jpp48pkCNunCOv1t55MnCsuAmnWgqjw4Xye3tf67LXAcjCemiXaFO9hL+cgC+DEpMAqB3ACoQDKSjQUEaGS8/o1yIyMFwjEXkbW06nuJ2ESTr1bX5NoiopQFchLkmS/L0QHUA2Dx/t76kEfqGUOaUlIFIJRLc9ujJA9zpISbSCFLmXmEzwpbKoWUbN4aV9iNr7aKp1pmq1bjnS+w4rVHyrrJ7/Er62P4Dv55VwVjy6I+VQRgbAVD9E+7qnW4S2nwFh7HssROGLHaklvM2V7an6nU4yaYL2/D+EAfmJF1m2NrVeGQCXlUvj6na1Bg7Ax7CfhD1f5xFv5a/CT6Vosy4=;ReZGC8leTvhGPCxi4jGXqw=="
 ---
 

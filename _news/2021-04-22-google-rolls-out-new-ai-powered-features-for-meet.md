@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/21/google-rolls-out-new-ai-powered-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/google-rolls-out-new-ai-powered-features-for-meet/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 500
     isCached: true
-
-related:
-  - title: "People have the AI power"
-    excerpt: "Citizen scientists are empowered by mobile technology to collect data and crowdsource knowledge. Furthermore, automated machine learning tools allow non-experts in AI to analyse data. Ethical and regulatory questions arise,"
-    publishedDateTime: 2021-04-20T19:10:00Z
-    webUrl: "https://www.nature.com/articles/s42256-021-00340-z"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00340-z/MediaObjects/42256_2021_340_Figa_HTML.jpg"
-        width: 685
-        height: 568
-        isCached: true
 
 secured: "+YvS47ex97MjodgI+N8GZToCkCbtiMQosmScXa4I+v5QlxJk8vPG5t9HDHaiBeGb3jOVf4/bERiB3uJapaO20uK0VB0yRIfb3GPJ2/EgbdjblUZTEdaTRh5TOTe8Fg2kym9WeWA/tvzK3Kq0hixnH7oW5N6+DrTT3/pxEXnLBXd1iyJNWKA3wnlDIUrt3SdI876Mqt1Ni6tfk9GI/UOATxemu1KD/2jNk2mClRIlRlIxXn/2dJkIKAhpr0/Au10RYR2a7vZuQGi2KfvuqWNIUz+FB3jV8rNdLTvD+2eNSguGXVYq31XKibCZzNbyqL3fmPRwCXsc5BlaGnkN2/Pf+cGLKF6xiJozWnOYU8tDH8U=;BEvPMEESnl88fMameUY22g=="
 ---

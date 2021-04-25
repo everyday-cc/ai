@@ -52,7 +52,21 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "Exclusive: Sen. Thune and colleague make new push to advance self-driving cars"
+    excerpt: "Two U.S. senators are working to attach legislation to allow automakers to deploy tens of thousands of self-driving vehicles"
+    publishedDateTime: 2021-04-22T16:54:00Z
+    webUrl: "https://kelo.com/2021/04/22/exclusive-two-u-s-senators-make-new-push-to-advance-self-driving-cars/"
+    type: article
+    provider:
+      name: KELO
+      domain: kelo.com
+    quality: 20
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-04/22/2021-04-22T163405Z_1_LYNXMPEH3L130_RTROPTP_3_USA-CONGRESS.JPG"
+        width: 800
+        height: 533
+        isCached: true
 
-secured: "/UhE4wlZdO4ymB5duJ1pEZ4civN2CNjeEvWH4qVExj5QIgWC1ttJJI8noLqcW5lx2H4Hm/a8QVJsKUDZlcpOQOc8vxEAyZjXj2Sq1UVLbfDdNrUmtBbzekQ1RodAXyrsOPghx3yf/62SQRT/D9s1VZnZLv3+UXX0DauDveFAJUfTaKvexafAz2zbznhFLMFSCC3gPVPUwp1DyqFwsn2+dtC24f8sDqYcbISyfEuNPIqb5oy6l+l1NL7L2g3JQU336zMpbdQx/JxrG0xrPRtzBu0Pt5biVarzXfjnEqt+emxRwoc1dlCxjqt2I/ZBAJcbVQfbW010YuWpIsgwxpIZZGYYeFEqLR2S+mPNkeJVT0w=;I8+XTwApMwzpaXaeCOz1Vg=="
+secured: "meqYM5Nkmgdcge5qhUDl9RlSSj0WXjLUaI9DwD4zYdMNqZ/FMnCM1ISGxZ495iLMdk6JAEbUxSS8zW8gpUabIcmoL4Q9NooFv5nK4BK6KVGvwPpoowZqNb5PUb88RTdNrfP6PGfWQY0N1dsebrPLX54jNOKTZdbsAkdJBX6GU4685D4UTn/aOU3Vmy/vaBYw/11B0tgr1tohs/90zHmc6u0mw49Y1IdkfBPGBwm5ebxkFdPh5DbL4AqZCjJxc6uYvgA18ec9zQ7/v0/dluvyiaF9ouXg9ifY0Mj0jKrT35NUjLEGDf07IGURNS6yusc98ti5P4SWO1qc6+vENBzkWzq0EJEZlyhQfCV2Amt7j6v/j2wAQUVGY732osYF8yqdccspSlLxW1rpcKTAd2G05Y6TQyjRqbAaCAXaEAyyoMcROPkH8065ZBZWCng9TwZUh8mZklFELH0sFQ0ELFwwlYUa0WSXKNuI7iKr9ppjigMnf15izQGND0h1fawtyZ5YI4fD8JdnD+QYSKsCyTX2ug==;c5FjwXt4X+20sITByAau4w=="
 ---
 

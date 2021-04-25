@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41598-021-87757-z"
 webUrl: "https://www.nature.com/articles/s41598-021-87757-z"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     height: 375
     isCached: true
 
-secured: "refXNHsh6oPnCdnuR34+6zVG+MVEip+SFacBEbzv/Hk49uyos3bkxN/X5CiiAXkJTu7m2X1YbCA1x/tetOxl+z1RfXg5M2JCGeof/IBT7l82iBH1zDEVBrT4GB+DpLSpMBCZq5LHtMAO85njENX+iiQD2v6IH1zmue7Fxt/inzBy+XrzIg9S/F83S4R1PyQIiDGO6Mg+JJofsPHXBT1jx+nCIOeRWmrMyWdBPVkh3KEwpp52+dP6Y6fqlktpR9rZXw+N7DOiYK2065GoDh5JJdR9myKEMPE3hkAQkGw/AaTlf3aQI42UVXNRYC1PO188DvMwy147tuQXl9jqioL3oGtTUt5v8wk8wo5dQIrC6n4=;ACrEFAWqv4IABLj9DBqbyA=="
+related:
+  - title: "Top 8 Books To Learn Convolutional Neural Networks"
+    excerpt: "LeNet, developed by French computer scientist Yann Lecun, was the frontrunner to the convolutional neural network (CNN). His breakthrough came when he conceived a neural network modelled on the human visual cortex."
+    publishedDateTime: 2021-04-25T10:31:00Z
+    webUrl: "https://analyticsindiamag.com/top-8-books-to-learn-convolutional-neural-networks/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/Untitled-design-28.jpg"
+        width: 1600
+        height: 1131
+        isCached: true
+
+secured: "0RqEG4C9Sh9FeLcU549iUnlhU6Z6MW/ek2O/VXcGmU3OjPRUwTZ668YLHHl/KRjBoRA/Axxkz2LrxJ4LA+4V6vztZyOXIhLL86S+d6/LpqMKGVlJYdBIxZHXae9vqgQqI2GE3GN6i8X8kA3K0vlmhw4+60BnmPFRmC0KwXakM/eraYmNs92h6xOJvA+F0EuCUYPQf9WCAWOdwx0jg5IzUnhkzjYn6NtvhJF9CPOnyDydE+5PIZOsg9SGJdXorni3WDVFrncwIVaiHnzp5G/3RaZuBKwiFvyPnlk8/f1deBB9K5QLRYcPyGLvw9G7G90nBNJDtH1WlEKTuX8maV5jsf9NIplGKxjOlu/XLllJytCZ9yQu0+1UzyuadaTl3lKQpQfdwHV/VsGBWKJAf7UIm1Ch9KNUlPSSeS6LvpO48RL2UqSW8+Sl7jI/F5kuddeoPRKpG9lRyrBPoohby5aVUza//4JSSMvWzbMMnaLAfVmGbQsUwoNZMlG4KE+g4eogOf33TYSL/SySvjVk0LSaxA==;uFcVNAIsS9ozgFgBggcgyw=="
 ---
 

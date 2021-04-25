@@ -1,22 +1,30 @@
 ---
 category: news
 title: "IBM Launches New Watson Capabilities to Help Businesses Build Trustworthy AI"
-excerpt: "International Business Machines Corp. unveiled new capabilities for its IBM Watson Artificial intelligence technology designed to help businesses build trustworthy AI. The new capabilities include ..."
-publishedDateTime: 2021-04-21T15:49:00Z
-originalUrl: "https://www.morningstar.com/news/dow-jones/2021042110499/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai"
-webUrl: "https://www.morningstar.com/news/dow-jones/2021042110499/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai"
+excerpt: "today announced new capabilities for IBM Watson designed to help businesses build trustworthy AI. These capabilities further expand Watson tools designed to help businesses govern and explain AI ..."
+publishedDateTime: 2021-04-21T14:50:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20727354/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/n20727354/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20727354"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20727354"
 type: article
-quality: 31
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
 
 related:
   - title: "How IBM Watson is helping clients build trust in data, models and processes"
@@ -34,6 +42,6 @@ related:
         height: 498
         isCached: true
 
-secured: "4URLsQXSzFtmV/EUz7euEZ/fHaSzMd+60HsmQsEB0bhhoiQQpJO79LuUv/WT6R5bP7R6cNja+2JTNLfO3FRr85BTF3XsI6IHAVb/1Z/5cg4Ip7qHPEAcYQZBKoU9X/61SvDPbNceNdrNaydkbyUseB0+RucTD9omXQXVZ63a03PdLyoQlilbFRjHnUKqXlwRvJnogL7JNsz/oDcH79hQH4sJYgkUQ6xJsVezogcPq3S2mdq1CyXhuzqGK/h0dykYG7Lg8XbwqHtBnMbRTosnA+J5I+89DJ6t3E3UuoGHOcqg6paq4B3yBhNmyClfuiJc7IKyKStBIe5XY40dMDfcbrE1S6tM8Lhz6rSJdUobeEs=;uEUENMt74V863erxRYP89w=="
+secured: "nPEIdpijpikTXLnkIYmNqDdm48506HlRJCA0mFB5pEP1jIAPi/lG7ou3IH8aKI50wR7fSdgl7w5J8DxA0fBQd4qVgtURQMUykkR1K8fs8KvvkrVFgjjsYzScGMxIiySvX5sRUSYFXzLFExkPYz/Fv6S7VDbz2uxs8bmVBrsqg73ILYZrr2cEvMSL8qHNRjs8vCL4am1rIPjsQNBhVbYZLV4FR93XuPmt9rSxZ02x3m3OQLS6A0jhq3NOrmSz+2oplm/F3iVbd1edreIUPA2R7OV3L3R3aDdUUsX4JUnpBXUzMLYENBi+ZnNIjnoVvk1DVEi4A7aJHTn6/P2eOouQEonWYpg6ZF8/QHcvDzoT490=;53z4Rp/HlfhS1UrneX1i2g=="
 ---
 

@@ -34,6 +34,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon, Microsoft Team Against Facial Recognition Lawsuits"
+    excerpt: "Snapchat and Shutterfly have faced similar suits. Amazon's facial recognition software, Rekognition, has become a particular focus of criticism by civil-liberties advocates. Amazon is the largest provider of facial recognition technology to U.S. law ..."
+    publishedDateTime: 2021-04-21T19:15:00Z
+    webUrl: "https://www.govtech.com/computing/amazon-microsoft-team-against-facial-recognition-lawsuits.html"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 88
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2176ccc/2147483647/strip/true/crop/927x451+0+88/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F86%2F7a%2F5dcdf98c5260ec88bbe78c257b82%2Fshutterstock-1492635029-2.JPG"
+        width: 1440
+        height: 700
+        isCached: true
   - title: "UK government turns to Microsoft for digital transformation assistance"
     excerpt: "The UK government has agreed a new deal with Microsoft, giving public sector organizations discounted access to its cloud productivity tools and services. In a blog post, Microsoft explained the Crown Commercial Service,"
     publishedDateTime: 2021-04-22T12:00:00Z
@@ -106,15 +120,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
-    publishedDateTime: 2021-04-20T16:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 30
 
 secured: "X5R9TQWABDYr1BDsL7PwOCDFJXMD8VNhTRIlEpYEMmjOZPeMOYpLCtyNlFlgHC1tt4rYb7H8yYhgr+mv7CeUQqHo7ZIcb/2e35g+G5kLu8cg6AXp9YEb7RG6ecPp5Y7gft3nuWS3AMv9GDVPrh8hVOzTlAorDV5MkNp2gHSN46Nv4nVIxnxu5zBLHHmocdX9iuKTmpKjCNJGwquQBCc5uXzUEqGv/x+20zxAySgtkZH0fyG/WEFs2KbkJfyV3dLI7HrvsOOdsgeh/JL4wa7PJlvPUdXZDPgTzxJlR3pod2FJXXePGewy/XPzlOJELtNkPw0t9y9OrD/gtIEvNhA/bY6oD51ALHGAoMz73fy8QBxFPMWIwGpJImgvzdnZb2BaSSMebv8DfN99zM1JS+hCOuEunSa4VaSpqzzXsJq5BAuU8fQbXQIuCHmwXiFB6o7C0NQ6fQ6MYesM4mKXGG5SXHq6sanFTgET2CZ62mckiizv5j4tNUILdOApyNgcHqD2LOFqEZydBpU4NgOGKvwmPQ==;WajPPI6r5g57v4CS4QkqDw=="
 ---

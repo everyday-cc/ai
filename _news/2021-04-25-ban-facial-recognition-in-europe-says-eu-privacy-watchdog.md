@@ -93,22 +93,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "EU lawmakers propose strict curbs on use of facial recognition"
-    excerpt: "EU regulators have proposed strict curbs on the use of facial recognition in public spaces, limiting the controversial technology to a small number of public-interest scenarios, a"
-    publishedDateTime: 2021-04-20T16:59:00Z
-    webUrl: "https://www.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
-    ampWebUrl: "https://amp.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F366293b3-0031-4df7-ac2c-5b5c0908239b.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "EU proposes rules for high-risk artificial intelligence uses"
     excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
     publishedDateTime: 2021-04-21T11:41:00Z
@@ -170,6 +154,6 @@ related:
         height: 707
         isCached: true
 
-secured: "9hBShCnh85u9gYhEv4teULJbxYAAqQH7lE6B4/tpePehUiPpbYFZCea4TdmmNy7/XrP4STgkB67WdMPRlT7ZSXfy5srIuae3G7sEq55Xdm8+6UUuVEmOWqvvFY7OEwWaMenMr6DHLeT2vyoshoXRQH8P9QYG9F+pksgLL+pR51Bv2JSrQ1SZjiHbqKwbN6TsOPUtka0I6ZGIe42niyW325ZWS+TayaxWWefV3huSK4MD+0V8jkoTAs8nUGL8/zE7IJaa0AtupBJw6f9w1C/zuhdVnWEOhkmfc2faPtBBdyYqkDxyt8hJVPJMbGzct+06s49FUKgELwsOwj0kd+ifh+eymlVdT8SlX+x1UEOB+rM=;iCW5dz2S8KnOEaJmPCJ+ag=="
+secured: "vebgFov2dDkwO9N0tIn65XhYFMxJ1h5nj63hi4kiZfIa7h2uTUO73/bBGd1sKPLZE1OAjHOkNwlAFdvsvkGUuUiu+T+9kekxuYThl6Pzx1++LG4sna/2MLhT3zGVUyhzEFvMednVLEmPjrkB83pBo3kXiiiZDbC3VYxypjuXF5qsLOaXQmICiI14RJc5C+NmgFjiClB7nLviFjBNYZS3z0bw6LzPfZNt/KC5rAthOqOHK5OR7IBpYH1avC7t04VLVjTEFmg8vSXFXidVYbH2eqITkmqjAfQtqt5M2wEDviflHfI0wK2Qeq9N8AJaVhp8EfvT/qnPtz61MoqLuuYmHc+LvJ+De3H8N5M4POg1BJHPa0PcWWLAw8jaVI6fSG6Fbbx0TAgcU7VqQuWsdL4ZUd5H3ZatYp0eR5BzDgHfDVQjEr1/YU1YQTAlZ9QVVHjRSTzVffiP87CS+RlZd1aIsH+ehnZAlIlxeoF9NKsCUvKOQgiALCb4QbUtUX4IK1CO6PkfCBun09p0O2MGO4YHTw==;B7BwivTZe1BOrPRsk1wBsQ=="
 ---
 

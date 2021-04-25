@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Three reasons 'self-driving' cars are still a long way off"
+    excerpt: "The recent crash of a Tesla car in the United States, in which two people died, has reignited debate about the capabilities and safety of today's \"self-driving\" technologies."
+    publishedDateTime: 2021-04-22T14:00:00Z
+    webUrl: "https://techxplore.com/news/2021-04-self-driving-cars-1.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 24
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/selfdrivingc.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "‘Self-driving’ cars are still a long way off. Here are three reasons why"
     excerpt: "While the technologies required to enable higher levels of automation are advancing rapidly, producing a vehicle that can complete a journey safely and legally without human input remains a big challenge."
     publishedDateTime: 2021-04-22T20:43:00Z
@@ -58,6 +72,6 @@ related:
         height: 368
         isCached: true
 
-secured: "rhEOItQhUTFmAZTsvBe5fPOSPJuNXnvDatP9F2ihzmBg+eAJjXinDF/iBspDMfRIku6sDzL7Tfkl1TD8sWRqIK2rgnT1CiEzhjqFEj0tegJIlQGRvtdjoUhnM7EWCE+IKSBy2AIbX4y5z8FZtBg0TPsyK066k8Sm2SJ0JAFMUjcXmYOLR/5KqrpPuIA41fejVLcxgnzjwBzbvKmcymHmuqmvcw4hoSdAA4+yu2It/1+a3OCQCKxzl9nrZ6CUdSJ5A5i8b1ZRNCvyCgr6b7LWBsPH4vTdBA5r8h+gxMx+3oR0QgWWR+ErKXNpm22X5cCT+2YGsMqGE4sGzl1Qnt3iurrTuVePJ6L8zm6w5CIlCm0=;Uztb5gTLEvuw3AplfM0w/A=="
+secured: "glX8exdwcsTw+BFv0rLW47EzBIIsMR76YszaPX+GRoFvX8Z+wnF+bcQySK7OwcVt+jfAKQ/iFyzcpsvxMJez+jFV/67h/pAWnVn48NUmYW1h/iw0e/AIWU229iNyfN4Kkq1f55+0h4zRIIPfEKSoOiuODfds8G863Y0kqnpQ68ztyMJNbyFdOtEM7nKw/NzgG+KTOB6mUxF8sRIjKeWRV6DvaQ9qA64ZI/9KGMuKtBIeSAdUN13ENCXo9XRM8hchEMha38O5bShC9Nor0jUJTlEMhnieuVc3XkvUh4vSBeg6SR8NqI0YsLs6JjQ6lwbEYvfjMLoMjAGVlW2sMqzcLQ6E6TOGRS6bOxQMw1sPTDYAmK6zabUTbnJMSmofcpeU+/vjUD4lyJWw3OrZ4Ure013hyb1yj+Qa80rrLatFJH1FFLHxWVJLEndShIKV4p/dOEWkHP/cQtAL/mGszULd7RsHPMi4B1oLaBpyZ3XDjFTMlnRgp/gei1hnFBiuIVjugnTaiz2pvewji8OXhZxJ8Q==;ugIKDNiTdWKubosYRbcBhg=="
 ---
 

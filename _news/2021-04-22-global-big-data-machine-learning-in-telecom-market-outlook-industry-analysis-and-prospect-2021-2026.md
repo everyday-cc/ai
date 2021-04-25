@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision in Healthcare Market Analysis, Status and Global Outlook 2021 to 2026"
+    excerpt: "Latest Research Report on “ Computer Vision in Healthcare Market size | Industry Segment by Applications (Medical Imaging , Surgery and Othe"
+    publishedDateTime: 2021-04-25T10:37:00Z
+    webUrl: "https://www.express-journal.com/computer-vision-in-healthcare-market-386853"
+    ampWebUrl: "https://www.express-journal.com/computer-vision-in-healthcare-market-386853/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/computer-vision-in-healthcare-market-386853/amp"
+    type: article
+    provider:
+      name: express-journal
+      domain: express-journal.com
+    quality: 69
+    images:
+      - url: "https://www.express-journal.com/img/img-14.png"
+        width: 1042
+        height: 625
+        isCached: true
   - title: "Global Artificial Intelligence in Indian Manufacturing Market Outlook, Industry Analysis and Prospect 2021"
     excerpt: "Manufacturing companies in India have been digitizing their plants with advanced process controls, analytics, and"
     publishedDateTime: 2021-04-22T02:47:00Z
@@ -84,36 +100,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Cognitive Analytics Market Trends, Global Industry Scenario, Outlook and Growth Strategies Forecast 2020-2026"
-    excerpt: "The Global Cognitive Analytics Market is forecast to reach USD 129.99 Billion by 2026, according to a new report"
-    publishedDateTime: 2021-04-20T16:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-trends-global-industry-scenario-outlook-and-growth-strategies-forecast-2020-2026-2021-04-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Voice Recognition Market Trends 2021 | Segmentation, Outlook, Industry Report to 2027"
-    excerpt: "Voice recognition is a technology used in various devices such as smartphones, cars, and computers, and the system can recognize the sound of speech and convert it into a machine-readable form. Language units are used for speech and audio signals."
-    publishedDateTime: 2021-04-20T16:28:00Z
-    webUrl: "https://www.openpr.com/news/2272805/global-voice-recognition-market-trends-2021-segmentation"
-    ampWebUrl: "https://www.openpr.com/amp/2272805/global-voice-recognition-market-trends-2021-segmentation"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272805/global-voice-recognition-market-trends-2021-segmentation"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/U/4/U420595093_g.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Machine Learning Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Machine Learning Market size is expected to grow at an annual average of 42 during 2021 2027 Machine learning is defined as the process of applying artificial intelligence AI to provide system capabilities that can automatically learn and improve"

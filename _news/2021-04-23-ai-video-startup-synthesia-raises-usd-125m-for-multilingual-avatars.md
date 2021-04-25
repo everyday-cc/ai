@@ -7,7 +7,7 @@ originalUrl: "https://slator.com/ma-and-funding/ai-video-startup-synthesia-raise
 webUrl: "https://slator.com/ma-and-funding/ai-video-startup-synthesia-raises-usd-12-5m-for-multilingual-avatars/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Synthesia raises $12.5M for AI that generates avatar videos"
-    excerpt: "Synthesia, a startup developing AI that can generate videos of avatars for marketing purposes, has raised $12.5 million."
-    publishedDateTime: 2021-04-20T21:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/"
-    ampWebUrl: "https://venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/maxresdefault-3-e1618843541929.jpg?w=1200&strip=all"
-        width: 1200
-        height: 601
-        isCached: true
-
-secured: "7wpshLjUjp7QJzWmHV6huKBMoF9d6BtylPeQEGl6cJrEic9K1/vzLTcYRgNxDWumjOFYnQdhFWmmn2fUaqoIgBhNDPz3w+mJNIS2tFyFaS0NNad+hT/fPX2GP8vKdJ420BpQRkqiYFOXydsi66xnHlXySThQGGg9b7lSdckksKuONbfbvhGWzhlKA38HV9IDef9/r3Dvj5WbhzM/GIG0j90MN9r0pLZ6PjAqz9hwMspebXvhgOKz5EqJ99Mv4+IoDI1zOjtVeQlI+bVJn+f038TN/z6oJNss7UTLU7A6MYsTHwF/MzKBL2wwHu0iiH4oBjTHM5qDAWy3f21M8aMUUPaBLRDKEiG2lJkWyKr6hYw=;AtwlHQ7jcyNczY/OCj6+vg=="
+secured: "C6A62L+WVC1Dxm+3mIBQd0/bwp2mkcdTIKKRSlCcQxCf2+FiizPstbEP2hgadMMgOu1NVU2dWu5RN51Ij4VOSk/pPF/V2DhFfWb7NQIdsI/GT4Pe++e4q19AW7bRlyMFM8HiCFksme2TXHQ7wo63YXuvTQAw3w0b7OtdTZmdXshrlBHurohq8Os1mw71uSmWeDRktpZOc6J3iEmd284PhB4c/QxumjV8ry1v9ZsNzvRH6WTtMEA26NRLpIj42GPHAystpjJ7R0E4jzRgii7eHHZAVQFmnqIRwH7PwzaUqX8J/7+hfdY/KXNp3OIXAsvkbJA9/v1wUeKaL8R0cmYg41UIaJ3Ni8YNbITWNuRrEtaCFXQSjikH9+EcL7CQDC3cS+ZxJcYdsJOVLaOdFqC5ruX/5M562e3FFmlNUZUwFhXY48lRCTNcf1yohgvBcWXJ6ps7R/C3b6D19CCmLzMKzVUsDwpJ0P9nCfvHDiIeGVzvq6rKFazowyD/32Q38fbIYec8+s5Vlv6vzhsf6vIbtg==;xi997BBJ5xMqueAvgg2XNg=="
 ---
 

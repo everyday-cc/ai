@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-24T17:50:00Z
 originalUrl: "https://thenextweb.com/news/why-applied-ai-requires-skills-and-knowledge-beyond-data-science-syndication"
 webUrl: "https://thenextweb.com/news/why-applied-ai-requires-skills-and-knowledge-beyond-data-science-syndication"
 type: article
-quality: 73
-heat: 73
+quality: 75
+heat: 75
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - Microsoft AI
   - AI Ethics
   - IBM AI
+  - AWS AI
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Frobot.jpg&signature=91ce227571d5e03e58b5f583cc661040"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "zEGS7N3a0vLkoMd7WrbAN7FcsJKjsj3XpCsxMJ9iwBQ9/sK5xafS8TU1B4fCbPxhx9+mxMHdI5dIjboFNIEJ/mBDl+DEIGz76PWMxYHjaPb3aTB3XNJZDDiVGx6DbfAEY/AY17ITrZAbhUtgAoNcyVj/4pASgibBpCKg2QD1e9krSmdCynaVSL0FCMMyCqOCMYrIaLaYX15QJ38Ovxt8Rtx4N1hj5ggGEwYpUaaiy/GaAvjy4/SajwxCktaZFNAGUZsgOje8TaM7i3pTCxTCjXe5i+g7hEqvkfUzLH2L8qMlsOnf9plPfXVJHGmcTnlnK10LD5MTASlMbey/8lE1fi5whmQBUqBDiUytmtIgxS0=;mDRY2U3slIoddV1oeWw1bw=="
+secured: "tN2jPPY73e+OqXVEKy5iq1D/dk0R6QH4r38GzDVjlC+AkJBGZBxh0puCby8PPLe/9reX6lRJwIwPTjFex43LqL3wUkJT24nZup0c4sKyZDD1JQg/spjYRm7kOjKISPVZ138DdaQRC+THLlXTUetzrmeNblfpDL5b6ss60JE9E616V9Aeik8P8hk6fICYfDbB01hfKOgQxSROSSA8acAn9v3TRp6bO605HzmE/bM0k+faJzlSn6G3N9Y+oWQYucDVoYW29ZG1w7fL0Kx3K1bKh8XWw0tWGL7DPxpjqwW8GKcvJKV46OGtYOn4gNBwa4xPOD1/DxIUv2tznefHlWINE1hc2KGdqnuo7KbEJW9JaQOli1zq+lhzoD8Mrc+bGcx34Z+OfMqPlx17IkzKUEH3W8Lz01qau/0jLrpPXnRlvJWPX7//QLPgk0BFEyUFFx4UOQahNMGbDS8D1ARcctZQS764msGKT8kQ0chn3YK5igt1iDxaKMwov0/vEc/p4Bo3Xz9UAb7TwJFaR5clEFNWlg==;6yrFaNk8cPJnVBR8QAfvng=="
 ---
 

@@ -73,6 +73,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences in Thailand"
+    excerpt: "Integrating intelligent virtual meeting assistants with language translation capabilities significantly ... SVP and GM Security and Applications, Cisco. \"AI technologies play an integral role ..."
+    publishedDateTime: 2021-04-21T08:03:00Z
+    webUrl: "https://www.asiaone.com/business/cisco-webex-innovation-breaks-through-language-barriers-real-time-translation-more-0"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 8
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2021/Cisco-Logo_0.jpg?itok=MFwpQ-rT"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "xu4iApzcvf3B7faomqjjpZaLXixnur0J6PdbHCydAz7qvsWFZPu8kOjYrXpC3W7Y09Q16FmshpKx4UtAD33YegzaN1WYBYMm4G4XO7OrDIDinhqN+o3dKRweo7lXMvOfOcKkvocc89vyhdRjnLMMQkoDNve705rndZTqalWAX3cSoKMqt2vFTnDoaIKu/Yg7pqdNwbYBk5dviUmatXxZTanCJdfGFN9ADfjHVC7/f2LCri6RRWH+sHZi0LnsEx8SNrdjLPaZr/I0jDJC3iKqtKvK4kRhqI0dU6pycMlG1hgGFbjGAU5Db7UdpuTQL3fafXwSNiit3A+ToudF/UFBigpEDzejGFfaWGWnckbh+RY=;rtJRwQyVY1ACsVn+L2Y2/Q=="
 ---

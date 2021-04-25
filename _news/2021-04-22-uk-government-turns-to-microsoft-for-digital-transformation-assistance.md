@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 506
         isCached: true
+  - title: "Amazon, Microsoft Team Against Facial Recognition Lawsuits"
+    excerpt: "Snapchat and Shutterfly have faced similar suits. Amazon's facial recognition software, Rekognition, has become a particular focus of criticism by civil-liberties advocates. Amazon is the largest provider of facial recognition technology to U.S. law ..."
+    publishedDateTime: 2021-04-21T19:15:00Z
+    webUrl: "https://www.govtech.com/computing/amazon-microsoft-team-against-facial-recognition-lawsuits.html"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 88
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2176ccc/2147483647/strip/true/crop/927x451+0+88/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F86%2F7a%2F5dcdf98c5260ec88bbe78c257b82%2Fshutterstock-1492635029-2.JPG"
+        width: 1440
+        height: 700
+        isCached: true
   - title: "Azure AI Cloud Computing Driving Microsoft Tech Stock Giants Profits - Tech Stocks Investing 2021"
     excerpt: "With Microsoft AI Azure cloud computing division growing by 50% per annum, converts into a Buy rating of 65%. This video is excerpted from my recent in-depth analysis that updates buy ratings, levels and valuations for the top tech stocks in my AI ..."
     publishedDateTime: 2021-04-23T16:38:00Z
@@ -99,15 +113,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
-    publishedDateTime: 2021-04-20T16:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 30
 
 secured: "mujqYLmq4ABDfm6z/C4fzAwq4/PIDE3g60ccxEEhCCknHYtgiQnfj6FZGUYVbUCDs5pjmtCqscZRZSzqptcY5Lt1tOHZ7PkGpYsaRuFMtK+56P50bOQITqeKOLMxIUm2Z6NHplg9NxgE9607vPjUbQxE4+xiLXufT77D8UIxGjaVG0djv6kkblRg01pk8F5b0sR+skAHboVDnl+JgaGHp3iRnaDVbqf3r3MsM4e5piCEOezKJEeoiSJseF9S48D3ajD5H7WNEQHG5wbtEtpYmRPNsmD23mafdibIpoWW2waA7UsxRAcaUH1cNZ6ADcQFQWyFvcNI22ZksvCT6RolRZ5ywoQGLqZvHLlc6s51m92mOajVSehOq0k7eJdnFKkCq41XacWk9gwUOUrw6Vnscxpezna5MXSOD3me/OM7OiYAd1KcrsGkP3khlh0HkB6J7ATsHbLTBl1WVjyzJM4XbOjBhHKMm8n+8g1S1WI8/wpx9t5SCBbAdwtPj41lkdAeB6st+kqxnzshhdkDuYJkfQ==;l/DF7MDbW0GJuFqS7mUeFg=="
 ---

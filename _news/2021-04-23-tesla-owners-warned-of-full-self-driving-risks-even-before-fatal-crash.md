@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks
 cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 88
+published: true
 
 provider:
   name: CBS Atlanta
@@ -43,7 +43,32 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Tesla crash in Texas shouldn't diminish hopes for self-driving trucks"
+    excerpt: "Deadly Tesla crash raises concerns about the future of self-driving trucks. Will computer-assisted driving emerge a winner? Read CCJ to find out."
+    publishedDateTime: 2021-04-23T12:49:00Z
+    webUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-despite-fatal-tesla-crash-in-tx"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 39
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/04/Screen_Shot_2021_04_22_at_4.28.57_PM.6081e6d47640f.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 608
+        isCached: true
+  - title: "Tesla crash becomes subject of multiple investigations as it revives questions about self-driving cars"
+    excerpt: "After a fatal crash in Texas last week involving a Tesla with no one behind the wheel raised interest in self-driving cars, multiple federal agencies are investigating the electric car company."
+    publishedDateTime: 2021-04-24T14:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 23
 
-secured: "DYf2vZJUAp7z9cYCsfapa7YkS8J980mi0jvqdHqq61im4psREYYew95eVPpdMoDY1+8kkL873v9YUIEgkGAFtsumYAHqN0F65Qg9KG184YNRc1eAdoOrh2UhfxcLKIkzaRyBvcyHWCI5IXgu4RqojFavz8xlb3LHU5go7vvHzYPPum3if8R9JvJB9WFGP5+BF+HjR6LeQqYxMRNae8aKrh96aTAkgaYG9OgarJSDuCjZWcw7PnGpoJ+8vfO2fF7b/3lfyeBYcXngCkIa4AOGXWCPpXrCyGPfhCFNVXHoIPePCYRbTxUZy55nHx0iPVbdCv2dQCWyHd2jbOxkCZ01SabILMZ0szZ5Ext92KTcX04=;vFYiOtSzdmhcWKqvoH+s3g=="
+secured: "zbasshNtU5JZQER8v1o8c98YX766k0yIOSWvi6RlMSLAwrWOprHluRTQL4bxQoojx7B3g9OWSovmsYs7FAtiR5mGuRC1A4snkeTvjGXhJaD4wFaq/eC8VF9Dsgi2mbRnStWwAd1ROlFQkwJmg9WsjjmRYate+wnPUv6LIlXHYhHPo4mEsrremFuNxN4hJJsOvK+EVz4+W32hWNJMndby2HqvfaLPxatECRPOA+Auk/huwEQ1YCiXlIi9qgxZvRo5CFLClxXX8FjE0OAZ2pT/pRS/j7eKtmJ0yuRk77Kze9PvTDebKOTdJ14cHzJk7bOmlA77uWwJz24AQTsVil1X4au9TedxL0kt++8lHlMeMewMmbZ+nCmCRYhLdGwnUaGRYeNxyz7bUKigqPM6mtPp4CYRTO0T4s1Lkk4TYWD+uOSWayZe3P2rmQTPs4Lun46hIoMx9NufIAfMT4dnEZ2jr/z5lQRxNnj5XJph3xKzR7y5o9HQ5gXSulGfu5yn2/FzNpdxeaJkus/dg/Cqykfwiw==;djebkgf+QNNKrLMY3v+59A=="
 ---
 

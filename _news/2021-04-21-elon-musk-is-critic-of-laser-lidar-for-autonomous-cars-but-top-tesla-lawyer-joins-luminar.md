@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/21/elon-musk-is-c
 webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/21/elon-musk-is-critic-of-laser-lidar-for-autonomous-cars-but-top-tesla-lawyer-joins-luminar/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -29,42 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving car sensor startup Luminar hires Tesla, Intel veterans"
-    excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions."
+  - title: "Self-Driving Car Sensor Startup Luminar Hires Tesla, Intel Veterans"
+    excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions. Palo Alto, California-based Luminar makes a lidar sensor that uses laser light to give self-driving vehicles a three-dimensional view of the road."
     publishedDateTime: 2021-04-21T15:37:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4?amp"
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-04-21/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "Tesla crash in Texas shouldn't diminish hopes for self-driving trucks"
-    excerpt: "Deadly Tesla crash raises concerns about the future of self-driving trucks. Will computer-assisted driving emerge a winner? Read CCJ to find out."
-    publishedDateTime: 2021-04-23T12:49:00Z
-    webUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-despite-fatal-tesla-crash-in-tx"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 39
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/04/Screen_Shot_2021_04_22_at_4.28.57_PM.6081e6d47640f.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 608
-        isCached: true
-  - title: "Tesla crash becomes subject of multiple investigations as it revives questions about self-driving cars"
-    excerpt: "After a fatal crash in Texas last week involving a Tesla with no one behind the wheel raised interest in self-driving cars, multiple federal agencies are investigating the electric car company."
-    publishedDateTime: 2021-04-24T14:30:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 23
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
 secured: "hChyXiG8mOVEFsNNpRsUGZ6ye1bsAAXa1zCuudXMlZtsC7GP64DG69IXxiZFa6pXa22LDx6LfUH5zx8B8zvHGxuILup2GAPBHwQ9jAPAdXfcctNIs3j9lgtZmRRXWJaBcDi3VfPrF3smyYN62UzGyflen8TPBPX+cXOPLA+V4n4hVES72pzFUpa699KuD9fXCSGHSv66B0cqtK4966vf6PmwUpWbcCETgG91vGvEk0eQpmjuBM9mfGBQuSBhBmWSasBnMSDjQT5wF9vahCtmMwRcQwelIFRPMy/VWVtr7atoaQaLSIocO/UZP4oAvwgu/eFlCKH25F3fUGXVSLmuZ+Ws/krCr8uAA7fSI5naq51m2VQQJCscL/gRPRYJet+sgAy1S3+FYG5wyaLrdVnW210VietWoMK7dR2nyX3zjMFGN8hjCgsL0xBBzjMM4pkgCOQcjsq0dM7DoWhK5joZSLv1D3/MKPTo45/GPgUoX8nYhq3Y8VAFkFfzLEyAMeMEpYSgUgPqON3RIZQ43C57sQ==;gThajLmp3/TAoRxE+BhVZQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.co.uk/article/bc/inside-fintechs-future/amp"
 cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/bc/inside-fintechs-future/amp"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -68,6 +68,22 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "How can technology bridge fintech and SMEs to ease the lending process"
+    excerpt: "Fintech startups bring convenience and help SMEs get easy access to products like bank accounts, cards, securing working capital, managing cash flow, etc."
+    publishedDateTime: 2021-04-25T09:22:00Z
+    webUrl: "https://yourstory.com/smbstory/technology-bridge-fintech-smes-ease-lending-process"
+    ampWebUrl: "https://yourstory.com/smbstory/technology-bridge-fintech-smes-ease-lending-process/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/smbstory/technology-bridge-fintech-smes-ease-lending-process/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: "https://images.yourstory.com/cs/21/f02aced0d86311e98e0865c1f0fe59a2/lending-1619070105454.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "AI in Fintech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The AI in Fintech Market size is expected to grow at an annual average of 38 during 2021 2027 The results of artificial intelligence have not been improved beyond the scale of humans but by applying methods derived from the"
     publishedDateTime: 2021-04-22T12:31:00Z

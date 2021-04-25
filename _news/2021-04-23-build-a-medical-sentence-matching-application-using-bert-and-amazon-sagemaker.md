@@ -57,15 +57,6 @@ related:
         width: 800
         height: 464
         isCached: true
-  - title: "It’s here! Join us for Amazon SageMaker Month, 30 days of content, discussion, and news"
-    excerpt: "Want to accelerate machine learning (ML) innovation in your organization? Join us for 30 days of new Amazon SageMaker content designed to help you build, train, and deploy ML models faster. On April 20, we’re kicking off 30 days of hands-on workshops, Twitch sessions, Slack chats, and partner perspectives."
-    publishedDateTime: 2021-04-20T23:08:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/its-here-join-us-for-amazon-sagemaker-month-30-days-of-content-discussion-and-news/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 61
 
 secured: "SkYCEQdHYH4nx3IGqPYNUPJk3o0TdbROdzH1Et/uq7IkY3dnKL7OcCNPwEZXcBlY19RefYoo3mZoqEO25P5gLFfPnDHsvVgrcdb6KaQbhDcr6ndoIm32nf/Ec8uZLuHuYV7Gm3P1jfSRMHYJgkF84ueuIDA/5X0g5Ohou/ZFjlIVbdaw47tnvbXHxH9/UZASr/uVTbXNGhDquiutqpvIJSEtHO9xNBECVICLAbdaZkGnxKPttwvEC0BTLcQf8eH3DE1du2aGJp8PgjKrpHuAf5geEMti5QzCef5AdW5LDl6DeAD82VKHZRlI/49U7Yk6ztWMeyZjB6oAKlP90J1ozYiTk4wFyRjf+D07LNacVO0=;uIrpBuUhO8GIx3boXBD6Cg=="
 ---
