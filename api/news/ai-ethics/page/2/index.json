@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-19-who-is-afraid-of-black-box-algorithms-on-the-epistemological-and-ethical-basis-of-trust-in-medical-ai.md",
+      "title": "Who is afraid of black box algorithms? On the epistemological and ethical basis of trust in medical AI",
+      "excerpt": "The use of black box algorithms in medicine has raised scholarly concerns due to their opaqueness and lack of trustworthiness. Concerns about potential bias, accountability and responsibility, patient autonomy and compromised trust transpire with black box algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://jme.bmj.com/content/early/2021/03/18/medethics-2020-106820",
+      "originalUrl": "https://jme.bmj.com/content/early/2021/03/18/medethics-2020-106820",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BMJ",
+        "domain": "bmj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-is-your-privacy-governance-ready-for-ai.md",
+      "title": "Is Your Privacy Governance Ready for AI?",
+      "excerpt": "Privacy has always meant minimizing the collection of data to what is “fit for purpose,” and then limiting the access and retention of that data only to what is required. Artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/sponsored/2021/03/is-your-privacy-governance-ready-for-ai",
+      "originalUrl": "https://hbr.org/sponsored/2021/03/is-your-privacy-governance-ready-for-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-lawmakers-experts-industry-highlight-need-for-ethics-after-defense-commission-releases-final-ai-report.md",
+      "title": "Lawmakers, Experts, Industry Highlight Need for Ethics After Defense Commission Releases Final AI Report",
+      "excerpt": "highlighted ethics during his opening statement at Friday’s hearing. “Above all, the commission has crucial recommendations related to building and deploying AI in an ethical manner that is respectful of human rights,” Langevin said at the hearing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2021/03/lawmakers-experts-industry-highlight-need-ethics-after-defense-commission-releases-final-ai-report/172704/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/03/lawmakers-experts-industry-highlight-need-ethics-after-defense-commission-releases-final-ai-report/172704/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-the-departure-of-2-google-ai-researchers-spurs-more-fallout.md",
       "title": "The Departure of 2 Google AI Researchers Spurs More Fallout",
       "excerpt": "Two academics changed plans to attend an invite-only conference this week; a third says he’ll no longer accept funding from the company.",

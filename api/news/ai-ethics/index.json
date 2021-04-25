@@ -2,6 +2,148 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-25-why-applied-ai-requires-skills-and-knowledge-beyond-data-science.md",
+      "title": "Why applied AI requires skills and knowledge beyond data science",
+      "excerpt": "Using machine learning in real-world applications and business problems presents challenges that are absent in academic and scientific research settings.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-applied-ai-requires-skills-and-knowledge-beyond-data-science-syndication",
+      "originalUrl": "https://thenextweb.com/news/why-applied-ai-requires-skills-and-knowledge-beyond-data-science-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Frobot.jpg&signature=91ce227571d5e03e58b5f583cc661040",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-24T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI Ethics",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-24-linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news.md",
+      "title": "LinkedIn Debuts LinkedIn Learning Hub, IBM Doubles Down on Ethical AI and More News",
+      "excerpt": "LinkedIn announced plans to launch its LinkedIn Learning Hub, a skills-building platform currently in beta, in the second half of 2021 this week. James Raybould, senior director of product, LinkedIn Learning and Glint,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/",
+      "originalUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/ee83660ce436477a992a325b7f73cf8f.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/amp/",
+      "publishedDateTime": "2021-04-23T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-stop-talking-about-ai-ethics-its-time-to-talk-about-power.md",
+      "title": "Stop talking about AI ethics. It’s time to talk about power.",
+      "excerpt": "Now the conversation has evolved, and AI ethics has blossomed into its own field. She hopes her book will help it mature even further. I sat down with Crawford to talk about her book. Crawford: So many of the books that have been written about artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/",
+      "originalUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/Atlas-of-AI_-illustrations-1-2.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/amp/",
+      "publishedDateTime": "2021-04-23T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-google-ethical-ai-groups-turmoil-began-long-before-public-unraveling.md",
       "title": "Google Ethical AI Group’s Turmoil Began Long Before Public Unraveling",
       "excerpt": "The ouster of lead researchers Gebru, Mitchell followed years of friction over how Google handled allegations of harassment and bias",
@@ -10,7 +152,7 @@
       "originalUrl": "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -54,7 +196,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1251,108 +1393,6 @@
       "provider": {
         "name": "Biometric Companies",
         "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-who-is-afraid-of-black-box-algorithms-on-the-epistemological-and-ethical-basis-of-trust-in-medical-ai.md",
-      "title": "Who is afraid of black box algorithms? On the epistemological and ethical basis of trust in medical AI",
-      "excerpt": "The use of black box algorithms in medicine has raised scholarly concerns due to their opaqueness and lack of trustworthiness. Concerns about potential bias, accountability and responsibility, patient autonomy and compromised trust transpire with black box algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://jme.bmj.com/content/early/2021/03/18/medethics-2020-106820",
-      "originalUrl": "https://jme.bmj.com/content/early/2021/03/18/medethics-2020-106820",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BMJ",
-        "domain": "bmj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-is-your-privacy-governance-ready-for-ai.md",
-      "title": "Is Your Privacy Governance Ready for AI?",
-      "excerpt": "Privacy has always meant minimizing the collection of data to what is “fit for purpose,” and then limiting the access and retention of that data only to what is required. Artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/sponsored/2021/03/is-your-privacy-governance-ready-for-ai",
-      "originalUrl": "https://hbr.org/sponsored/2021/03/is-your-privacy-governance-ready-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-lawmakers-experts-industry-highlight-need-for-ethics-after-defense-commission-releases-final-ai-report.md",
-      "title": "Lawmakers, Experts, Industry Highlight Need for Ethics After Defense Commission Releases Final AI Report",
-      "excerpt": "highlighted ethics during his opening statement at Friday’s hearing. “Above all, the commission has crucial recommendations related to building and deploying AI in an ethical manner that is respectful of human rights,” Langevin said at the hearing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/03/lawmakers-experts-industry-highlight-need-ethics-after-defense-commission-releases-final-ai-report/172704/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/03/lawmakers-experts-industry-highlight-need-ethics-after-defense-commission-releases-final-ai-report/172704/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
         "images": null,
         "publishers": null,
         "authors": null

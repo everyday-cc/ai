@@ -35,13 +35,13 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/04/real-world-ai-applied-machine-learning.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true
 
-secured: "BXUQ0NnrvPW7iWj0/yCksXs6Z4U+LPcqoR6U/I3PUe/eNAuoGerOsLE4MZUCWFsqo9Q78Mm8eHHmqVc4Sn7hOkGA0OCycjdQE5DdRT5YOtcHlUS79bqL7u2eDazb2pg6yndEE9mXPITrT9RUloL+Yit+32wDznVtYwtFzNbon/XtR7i7gqqWC4poXrPgjxAQsEd5M0UiSDvdp9MGs+e1Af2YspP2OPjA8x58ev2avsh5kA/sc+Ay/7cSPZ7Eq4iiqCWeZXASo302U4fDZR70TeOjUPkBdKCY1HkvoKuLDR2gP7wBOIFUiI1PMMEJsV+Agk+qYx+vz9rQD1I0mfwHmx9AJ2Q8j3dopl5VAfkeEMs=;PiY4oQzapV8hJhUVFQUSDQ=="
+secured: "tIYvQhP3opUSRVZkLspglnAfCamoA+b2z+UYW5HL7sYTB0jB4P2ihgk9TDd5xg9x0U0w3QxGCDvMvyMKtCNZCiZapMruQAsLHyhgH83tVMD9yrzj1qWgFfi5cSrfgonv8nYKOCG0dE0/+efH3HnDJU+oGdRKd17ZdeSiKPydLXC2ed0BN2Or72cxYkxMySJT/FutXi38rzBpGNigOryekm6rOqjmEh3KK6Oos6TroXORTDWB69/0UJzSwQmtBJWR/NJvyqRxSLKvN4oWgUYYEM3twD/Z55y+EK0WAxP5ef5Jln2cFnlF4cISbHbrZqYks+T6CfqIgfnQPJj2RL2nqG5U/URPyEhbbAykdKeSORWCPZv/YyxxE8xUjWEXbg6Bq+W58wjc1pqsI3NC7ShiI5R2erRMfLTI1Xxi41AjAy2ytoU6kU8E5kRaBniT44BocuiN5AzewTl5J1bn8VkNNwz4xcEVFfE3ZauEF0SislJ/+M42FfP3I+OpAqDsNHpg2hgMA/y/bg0VMV2On2vc/g==;W3FQMRDB2vJ6kN8LMKRFQw=="
 ---
 

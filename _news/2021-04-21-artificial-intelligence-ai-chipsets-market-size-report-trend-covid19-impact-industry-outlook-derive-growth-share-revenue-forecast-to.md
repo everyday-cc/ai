@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21"
 type: article
 quality: 68
-heat: 98
+heat: 78
 published: true
 
 provider:
@@ -41,34 +41,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neural Network Software Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2021-04-20T09:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-2021-04-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning as a Service Market Research Report by Type, by Distribution Channel – Global Forecast to 2025 – Cumulative Impact of COVID-19"
-    excerpt: "The Machine Learning as a Service Market is expected to exceed more than US$ 7500 Million by 2024 at a CAGR of 42% in"
-    publishedDateTime: 2021-04-20T09:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-research-report-by-type-by-distribution-channel-global-forecast-to-2025-cumulative-impact-of-covid-19-2021-04-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

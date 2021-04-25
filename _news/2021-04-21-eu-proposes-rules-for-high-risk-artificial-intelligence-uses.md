@@ -1,28 +1,29 @@
 ---
 category: news
-title: "E.U. proposes rules for high-risk artificial intelligence uses"
-excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning."
-publishedDateTime: 2021-04-21T11:54:00Z
-originalUrl: "https://www.nbcnews.com/tech/tech-news/eu-proposes-rules-high-risk-artificial-intelligence-uses-rcna731"
-webUrl: "https://www.nbcnews.com/tech/tech-news/eu-proposes-rules-high-risk-artificial-intelligence-uses-rcna731"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna731"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna731"
+title: "EU proposes rules for high-risk artificial intelligence uses"
+excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
+publishedDateTime: 2021-04-21T11:41:00Z
+originalUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
+webUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
+ampWebUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
+cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
 type: article
-quality: 87
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: WBAL
+  domain: wbal.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/1102/210421-vestager-mc-1252-9e482b_d2b35278be7c91736bbfaea0c20fcbf92f8af42b.jpg"
-    width: 2500
-    height: 1602
+  - url: "https://cdn.s3-media.wbal.com/Media/2021/04/21/6b8548d1-c476-41c6-8ccf-1274955ca07f/original.jpg"
+    width: 512
+    height: 331
     isCached: true
 
 related:
@@ -56,6 +57,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Ban facial recognition in Europe, says EU privacy watchdog"
+    excerpt: "Two days after the European Union unveiled draft rules on how to use AI in Europe, a privacy watchdog urged the EU to ban facial recognition."
+    publishedDateTime: 2021-04-25T02:22:00Z
+    webUrl: "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/"
+    ampWebUrl: "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/06/4768764591_bac4a6d442_o.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Europe's Proposed Limits on AI Would Have Global Consequences"
     excerpt: "The EU released draft laws that would regulate facial recognition and uses of algorithms. If it passes, the policy will impact companies in the US and China."
     publishedDateTime: 2021-04-21T19:56:00Z
@@ -71,6 +88,22 @@ related:
       - url: "https://media.wired.com/photos/60806e8937aa1cabc1105297/master/pass/business_facial-recognition_75287401.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "EU’s top data protection supervisor urges ban on facial recognition in public"
+    excerpt: "The European Union’s lead data protection supervisor has called for remote biometric surveillance in public places to be banned outright under incoming AI legislation. The European Data Protection Supervisor’s (EDPS) intervention follows a proposal,"
+    publishedDateTime: 2021-04-23T13:25:00Z
+    webUrl: "https://techcrunch.com/2021/04/23/eus-top-data-protection-supervisor-urges-ban-on-facial-recognition-in-public/"
+    ampWebUrl: "https://techcrunch.com/2021/04/23/eus-top-data-protection-supervisor-urges-ban-on-facial-recognition-in-public/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/23/eus-top-data-protection-supervisor-urges-ban-on-facial-recognition-in-public/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-135627371-facial-recognition.jpg?w=1024"
+        width: 1024
+        height: 684
         isCached: true
   - title: "EU lawmakers propose strict curbs on use of facial recognition"
     excerpt: "EU regulators have proposed strict curbs on the use of facial recognition in public spaces, limiting the controversial technology to a small number of public-interest scenarios, a"
@@ -133,6 +166,6 @@ related:
         height: 707
         isCached: true
 
-secured: "PIcKiPtPaWxQDMrGpe5MjtL7R64Sp/Qlr+DNT1PqKi7QUacUuBZEkLR8eDWSwrgw2Zfae4/lXS6Q0QCYO/0Sfp3EoWbqwuptU8sc9nQjSOD0DmUVziH6OZ60Cu1VllfoVUGwuDE5m41DMG2csV1u7rM4gulTGNFUHDFpMhE7eRn+OBeLeWcnSkUgnyVGf2wto4kDcQGCjm5+Q0WsS1jJ6yPhL11/c6zYO0xuv60fXrIkt4MK76r17U1/Jx7+gEbAfk3RmiqSHekatAbk3E2xro/F4gHXAsFRdpvglXEdl+xXvonW9ChJ4H424fDTLr+Lljf36jydp+a5x8fJD3G7JW6QroxtNSwhULKNpn3R/f0=;JPdFzIL9fL27ZvOIuy1I/Q=="
+secured: "elha3jvOhPXSwb/HNZ5SNc+da4JgLa3iGlysQVVPH4nnmmMgMaOpEe1GSwupLx5myoBrE7Vz07mT2BlqSF4B0JifjOXe+F23GIDn0WB4BKXLfWGj88643FIMfexzOF13MHesq8MC6MxIUrOL/yZz1k/Eco/qiYK/6NcWkccRUqASGMFaj0f8dVRw97DQzihHpfuFLxhhKlIvcHP5Zp66GKjFjxsqMlTn7KPH4qLu4CnzkydWg9ldec77nSvpZsVSUYwwAN8KO6vAB3zbYWT4MjLwNiE0IRaDnhJyWdea0r77FzLQm/3NJcUhra2FL7p6JyXmYt8+VOWcZ91QY8TJMKkq+935SIhenpzcbtaGNjo=;cOKKsWu3sebxRerSkUS9uA=="
 ---
 

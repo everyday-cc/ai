@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 123
+    quality: 125
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158.jpg?w=1200&strip=all"
         width: 1200
@@ -56,6 +56,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/UmMgpy7oe757BJ47MjAphk-480-80.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Azure AI Cloud Computing Driving Microsoft Tech Stock Giants Profits - Tech Stocks Investing 2021"
+    excerpt: "With Microsoft AI Azure cloud computing division growing by 50% per annum, converts into a Buy rating of 65%. This video is excerpted from my recent in-depth analysis that updates buy ratings, levels and valuations for the top tech stocks in my AI ..."
+    publishedDateTime: 2021-04-23T16:38:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article68794.html"
+    type: article
+    provider:
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 56
+    images:
+      - url: "https://www.marketoracle.co.uk/images/2021/Apr/Azure-AI-Cloud-Computing-Microsoft-Profits.jpg"
+        width: 800
+        height: 466
         isCached: true
   - title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
     excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."

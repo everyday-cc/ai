@@ -2,6 +2,545 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-12-huawei-to-invest-1-billion-on-auto-technology.md",
+      "title": "Huawei to invest $1 billion on auto technology",
+      "excerpt": "Huawei Technologies Co. plans to invest $1 billion on researching self-driving and electric-car technologies, accelerating plans to compete with Tesla Inc. and Xiaomi Corp. in the world’s biggest vehicle arena.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/china/huawei-invest-1-billion-auto-technology",
+      "originalUrl": "https://www.autonews.com/china/huawei-invest-1-billion-auto-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/huwai.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-teslas-ai-is-about-to-get-better-and-not-just-for-full-self-driving.md",
+      "title": "Tesla’s AI is about to get better, and not just for Full Self-Driving",
+      "excerpt": "While Tesla is famous for its investment in artificial intelligence for self-driving technology, the automaker has also been using its expertise in machine learning and other branches of AI to ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
+      "originalUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/",
+      "publishedDateTime": "2021-04-12T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-10-barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars.md",
+      "title": "Barring Those Gearhead Enthusiasts From Tinkering With Self-Driving Cars",
+      "excerpt": "Those vaunted gearheads are going to be barred from tinkering with self-driving cars and won't be allowed to do any under-the-hood wonderment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605e41af621a72060b9d9140%2F0x0.jpg%3FcropX1%3D55%26cropX2%3D1419%26cropY1%3D16%26cropY2%3D963",
+          "width": 1200,
+          "height": 833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/amp/",
+      "publishedDateTime": "2021-04-10T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-10-robo-taxi-company-waymo-now-has-two-ceos.md",
+      "title": "Robo-taxi company Waymo now has two CEOs",
+      "excerpt": "Pronouns: He/him Tristan covers human-centric artificial intelligence advances, politics, queer stuff, cannabis, and gaming. Pronouns: He/him Take me to your leader(s). Waymo CEO John Krafcik ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/robo-taxi-company-waymo-ceo-self-driving-autonomous-vehicle",
+      "originalUrl": "https://thenextweb.com/news/robo-taxi-company-waymo-ceo-self-driving-autonomous-vehicle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2018%2F06%2FwaymoIO.jpg&signature=7c220beffc9bb52ed7fef89e89d73392",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-10T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console.md",
+      "title": "Win a digital car and personalize your racer profile on the AWS DeepRacer console",
+      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning, giving developers the chance to learn ML hands-on with a 1/18th scale autonomous car, 3D virtual racing simulator, and the world’s largest global autonomous car racing league. With the 2021 AWS DeepRacer League Virtual Circuit now",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://aws-ml-blog.s3.amazonaws.com/artifacts/Win-digital-car-and-personalize-your-racer-profile-DeepRacer-console/DeepRacer-Van.gif",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T17:03:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-toyota-unveils-new-models-in-advanced-driver-assist-technology-push.md",
+      "title": "Toyota unveils new models in advanced driver-assist technology push",
+      "excerpt": "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-toyota-autonomous-idUSKBN2BV0F1",
+      "originalUrl": "https://www.reuters.com/article/us-toyota-autonomous-idUSKBN2BV0F1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557678412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3709Y",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BV0F1",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV0F1",
+      "publishedDateTime": "2021-04-08T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-whats-it-going-to-take-to-perfect-self-driving-cars.md",
+      "title": "What’s it going to take to perfect self-driving cars?",
+      "excerpt": "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/perfecting-self-driving-cars-conversation-syndication",
+      "originalUrl": "https://thenextweb.com/news/perfecting-self-driving-cars-conversation-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FAutonomous-driving-Barcelona.jpg&signature=766b92d1a4dd522274911bb8f6fa4179",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-artificial-intelligence-revolution-3-stocks-to-automate-your-gains.md",
+      "title": "Artificial Intelligence Revolution: 3 Stocks to Automate Your Gains",
+      "excerpt": "Take a moment to consider all of the different applications for artificial intelligence technology ... the company is investing in things like self-driving vehicles that have huge potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/368936",
+      "originalUrl": "https://www.entrepreneur.com/article/368936",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-368936.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/368936",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368936",
+      "publishedDateTime": "2021-04-08T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-self-driving-cars-may-be-too-speculative-even-for-this-market.md",
+      "title": "Self-Driving Cars May Be Too Speculative Even for This Market",
+      "excerpt": "Autonomous driving remains an unproven technology, but trucks have a better commercial case than robotaxis as startups sound out stock investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-321568/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
+      "publishedDateTime": "2021-04-07T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-self-driving-sensor-startup-innovizs-shares-rise-on-public-debut.md",
+      "title": "Self-Driving Sensor Startup Innoviz's Shares Rise on Public Debut",
+      "excerpt": "Self-Driving Sensor Startup Innoviz's Shares Rise on Public Debut (Reuters) - Shares of self-driving car sensor startup Innoviz rose on Tuesday, on its first day trading as public company. The Tel Aviv, Israel-based firm is developing a lidar sensor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut?context=amp",
+      "publishedDateTime": "2021-04-06T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend.md",
+      "title": "5 Top Advanced ML Stocks Poised to Gain From Automation Trend",
+      "excerpt": "Moreover, Microsoft, currently carrying a Zacks Rank #2 (Buy), offers ML-based ML.NET open-source cross-platform, Azure Machine Learning service, AutoML tools, Cognitive API Services, Azure Machine Learning Studio, to name a few. With these solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend-2021-04-06",
+      "originalUrl": "https://www.nasdaq.com/articles/5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend-2021-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-john-krafcik-quits-as-ceo-of-googles-self-driving-car-project.md",
       "title": "John Krafcik quits as CEO of Google's self-driving car project",
       "excerpt": "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ...",
@@ -227,34 +766,25 @@
     },
     {
       "path": "_news/2021-04-03-john-krafcik-quits-as-ceo-of-googles-self-driving-car-project.md",
-      "title": "John Krafcik quits as CEO of Google's self-driving car project",
-      "excerpt": "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov ... Google was uniquely positioned as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry Page and ...",
+      "title": "John Krafcik quits as CEO of Googles self-driving car project",
+      "excerpt": "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prokerala.com/news/articles/a1146846.html",
-      "originalUrl": "https://www.prokerala.com/news/articles/a1146846.html",
+      "webUrl": "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
+      "originalUrl": "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.prokerala.com/news/photos/imgs/1200/john-krafcik-quits-as-ceo-of-google-s-self-driving-car-project-1180075.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.prokerala.com/news/articles/a1146846.html?amp=1",
-      "cdnAmpWebUrl": "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1146846.html?amp=1",
-      "publishedDateTime": "2021-04-02T22:06:00-07:00",
+      "ampWebUrl": "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
+      "publishedDateTime": "2021-04-03T04:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Prokerala",
-        "domain": "prokerala.com",
+        "name": "Sify.com",
+        "domain": "sify.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -826,508 +1356,6 @@
         "name": "koreatimes.co.kr",
         "domain": "koreatimes.co.kr",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-how-artificial-intelligence-is-transforming-manufacturing.md",
-      "title": "How artificial intelligence is transforming manufacturing",
-      "excerpt": "Artificial intelligence can ingest a combination of data from sensors, machines, and people and then apply it to algorithms designed to optimize operations or achieve lights out manufacturing. Back in reality, we have some time before leading organizations achieve this pinnacle state of manufacturing, let alone the industry as a whole.",
-      "sourceUrl": null,
-      "webUrl": "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=UK",
-      "originalUrl": "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=UK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/07/14113149/shutterstock_732658279-e1594206468206.jpg",
-          "width": 1920,
-          "height": 1147,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-28T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "themanufacturer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-underage-teen-gets-in-teslas-back-seat-and-claims-it-was-self-driving-after-being-pulled-over-by-police.md",
-      "title": "Underage teen gets in Tesla’s back seat and claims it was self-driving after being pulled over by police",
-      "excerpt": "Both girls claimed that no one was driving the vehicle and that the Tesla was self-driving. While Tesla does sell a “Full Self-Driving package,” the feature-complete version of the package is ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/",
-      "originalUrl": "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-driver-back-seat.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/",
-      "publishedDateTime": "2021-03-26T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
-      "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
-      "excerpt": "Indian-Canadian comedian Lilly Singh says her journey towards becoming the first female late-night show host was really a journey to be her authentic self. Amaravati/ Delhi, March 22 (IANS) Two ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml",
-      "originalUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-26T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-artificial-intelligence-blazing-a-trail-for-the-future.md",
-      "title": "Artificial Intelligence: Blazing A Trail For The Future",
-      "excerpt": "Amid its continuously evolving nature and the need for ensuring ongoing management, organizations still confront challenges when implementing AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/amp/",
-      "publishedDateTime": "2021-03-26T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-this-is-the-tech-investing-trend-im-most-excited-about-right-now.md",
-      "title": "This Is the Tech Investing Trend I'm Most Excited About Right Now",
-      "excerpt": "including driverless cars, automated factories, wearables, chatbots, and cloud services. However, one common theme links most of these next-gen markets together: artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619166%2Fgettyimages-1267193955.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "publishedDateTime": "2021-03-25T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-this-is-the-tech-investing-trend-im-most-excited-about-right-now.md",
-      "title": "This Is the Tech Investing Trend I'm Most Excited About Right Now",
-      "excerpt": "However, one common theme links most of these next-gen markets together: artificial intelligence (AI ... and Alphabet's driverless subsidiary Waymo. None of these companies are \"pure plays\" on the AI market, but they'll all likely benefit from its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/this-is-the-tech-investing-trend-im-most-excited-about-right-now-2021-03-25",
-      "originalUrl": "https://www.nasdaq.com/articles/this-is-the-tech-investing-trend-im-most-excited-about-right-now-2021-03-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-will-self-driving-cars-disrupt-the-insurance-industry.md",
-      "title": "Will Self-Driving Cars Disrupt The Insurance Industry?",
-      "excerpt": "Automated vehicles are rapidly advancing in capability, altering the risks and liabilities traditionally associated with driving. These changes will disrupt the $300B auto insurance market and the wider P&C insurance industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/",
-      "originalUrl": "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605799f7019e55638773bbe1%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/amp/",
-      "publishedDateTime": "2021-03-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-chinas-baidu-is-building-an-entire-mobility-as-a-service-ecosystem-around-autonomous-vehicles.md",
-      "title": "China's Baidu is Building an Entire ‘Mobility as a Service' Ecosystem Around Autonomous Vehicles",
-      "excerpt": "With Baidu's recent IPO in Hong Kong, the Chinese internet services company is poised to become a major player in the future of mobility, just like many of the new startups are trying to do by merging with SPACs to launch IPO’s in order to raise new capital from investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurecar.com/4505/Chinas-Baidu-is-Building-an-Entire-‘Mobility-as-a-Service-Ecosystem-Around-Autonomous-Vehicles",
-      "originalUrl": "https://www.futurecar.com/4505/Chinas-Baidu-is-Building-an-Entire-‘Mobility-as-a-Service-Ecosystem-Around-Autonomous-Vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.futurecar.com/202103/24/l_605b90ed6a851.jpeg",
-          "width": 800,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "futurecar",
-        "domain": "futurecar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser.md",
-      "title": "TuSimple IPO Filing Shows Self-Driving Trucks Still a Money-Loser",
-      "excerpt": "The startup lost $178 million last year, reflecting how the company is still in the early stages of developing commercially ready technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572",
-      "originalUrl": "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-315504/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572",
-      "publishedDateTime": "2021-03-23T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-monash-university-researchers-asking-the-tough-questions-about-data-in-ai-systems.md",
-      "title": "Monash University researchers asking the tough questions about data in AI systems",
-      "excerpt": "Topic: Innovation Researchers from Melbourne's Monash University have developed a framework they say could be used to provide greater transparency into the type of data being fed into artificial intelligence (AI) systems,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/",
-      "originalUrl": "https://www.zdnet.com/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles.md",
-      "title": "Baidu’s Homecoming Raises Questions Over The Search Giant’s Plans For Electric Vehicles",
-      "excerpt": "Baidu aims to conquer smart transport, but search engines aren’t automobiles, and China’s EV sector is already fiercely competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/",
-      "originalUrl": "https://www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/amp/",
-      "publishedDateTime": "2021-03-22T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

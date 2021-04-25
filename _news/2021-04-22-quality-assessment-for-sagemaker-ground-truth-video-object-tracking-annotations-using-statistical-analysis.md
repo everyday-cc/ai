@@ -43,6 +43,20 @@ related:
         width: 800
         height: 362
         isCached: true
+  - title: "Build a medical sentence matching application using BERT and Amazon SageMaker"
+    excerpt: "Determining the relevance of a sentence when compared to a specific document is essential for many different types of applications across various industries. In this post, we focus on a use case within the healthcare field to help determine the accuracy of information regarding patient health. Frequently,"
+    publishedDateTime: 2021-04-23T17:52:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-medical-sentence-matching-application-using-bert/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/15/1-Architecture1305.jpg"
+        width: 800
+        height: 509
+        isCached: true
   - title: "It’s here! Join us for Amazon SageMaker Month, 30 days of content, discussion, and news"
     excerpt: "Want to accelerate machine learning (ML) innovation in your organization? Join us for 30 days of new Amazon SageMaker content designed to help you build, train, and deploy ML models faster. On April 20, we’re kicking off 30 days of hands-on workshops, Twitch sessions, Slack chats, and partner perspectives."
     publishedDateTime: 2021-04-20T23:08:52Z

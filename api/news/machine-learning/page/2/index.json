@@ -2,6 +2,179 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-13-nvidia-unveils-grace-deep-learning-cpu-for-supercomputing-applications.md",
+      "title": "Nvidia Unveils ‘Grace’ Deep-Learning CPU for Supercomputing Applications",
+      "excerpt": "Nvidia is already capitalizing on its ARM acquisition with a massively powerful new CPU-plus-GPU combination that it claims will speed up the training of large machine-learning models by a factor of 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/computing/321738-nvidia-grace-cpu",
+      "originalUrl": "https://www.extremetech.com/computing/321738-nvidia-grace-cpu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2021/04/Nvidia-Grace-CPU.jpg",
+          "width": 1344,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-microsoft-uses-machine-learning-to-predict-attackers-next-steps.md",
+      "title": "Microsoft Uses Machine Learning to Predict Attackers' Next Steps",
+      "excerpt": "Researchers build a model to attribute attacks to specific groups based on tactics, techniques, and procedures, and then figure out their next move.",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/analytics/microsoft-uses-machine-learning-to-predict-attackers-next-steps/d/d-id/1340642",
+      "originalUrl": "https://www.darkreading.com/analytics/microsoft-uses-machine-learning-to-predict-attackers-next-steps/d/d-id/1340642",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.deusm.com/darkreading/Edge/400x300_DR_March2021toonwinner.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-machine-learning-at-speed-with-in-network-aggregation.md",
+      "title": "Machine learning at speed with in-network aggregation",
+      "excerpt": "Inserting lightweight optimization code in high-speed network devices has enabled a KAUST-led collaboration to increase the speed of machine learning on parallelized computing systems five-fold.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-04-machine-in-network-aggregation.html",
+      "originalUrl": "https://techxplore.com/news/2021-04-machine-in-network-aggregation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/6074316c36198.jpg",
+          "width": 722,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-04-machine-in-network-aggregation.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-machine-in-network-aggregation.amp",
+      "publishedDateTime": "2021-04-12T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-deeponet-a-deep-neural-network-based-model-to-approximate-linear-and-nonlinear-operators.md",
+      "title": "DeepONet: A deep neural network-based model to approximate linear and nonlinear operators",
+      "excerpt": "Artificial neural networks are known to be highly efficient approximators of continuous functions, which are functions with no sudden changes in values (i.e., discontinuities, holes or jumps in graph representations).",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approximate.html",
+      "originalUrl": "https://techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approximate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/deeponetadee.jpg",
+          "width": 998,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approximate.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approximate.amp",
+      "publishedDateTime": "2021-04-12T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-deep-learning-model-developed-at-uhn-to-maximize-lifespan-after-liver-transplant.md",
       "title": "Deep Learning model developed at UHN to maximize lifespan after liver transplant",
       "excerpt": "Toronto (April 12, 2021) - Researchers from University Health Network have developed and validated an innovative deep learning model to predict a patient's long-term outcome after receiving a liver transplant. First of its kind in the field of ...",
@@ -1129,6 +1302,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-03-second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider.md",
+      "title": "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
+      "sourceUrl": null,
+      "webUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
+      "originalUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:AMZN&p=5&t=52",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ADVFN",
+        "domain": "advfn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-an-artificial-intelligence-tool-that-can-help-detect-melanoma.md",
       "title": "An artificial intelligence tool that can help detect melanoma",
       "excerpt": "An artificial intelligence system can efficiently detect melanoma, a type of skin cancer. MIT researchers used deep convolutional neural networks (DCNNs) to quickly analyze wide-field photos of patients’ bodies.",
@@ -1178,205 +1395,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-scientists-turn-to-deep-learning-to-improve-air-quality-forecasts.md",
-      "title": "Scientists turn to deep learning to improve air quality forecasts",
-      "excerpt": "Air pollution from the burning of fossil fuels impacts human health but predicting pollution levels at a given time and place remains challenging, according to a team of scientists who are turning to deep learning to improve air quality estimates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/04/210402095934.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/04/210402095934.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-deep-learning-genomic-data-may-help-predict-alzheimers-disease.md",
-      "title": "Deep Learning, Genomic Data May Help Predict Alzheimer’s Disease",
-      "excerpt": "Deep learning methods analyzed genomic data from whole blood samples and found differences in patients with Alzheimer's disease.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/deep-learning-genomic-data-may-help-predict-alzheimers-disease",
-      "originalUrl": "https://healthitanalytics.com/news/deep-learning-genomic-data-may-help-predict-alzheimers-disease",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1040557296.jpg",
-          "width": 690,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services.md",
-      "title": "Aible Ranked #1 for AutoML Use Case in the 2021 Gartner Critical Capabilities Report for Cloud AI Developer Services",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-octomize-your-ml-code.md",
-      "title": "‘Octomize’ Your ML Code",
-      "excerpt": "Quite often, the services of a software engineer are required to convert the ML model, which is often written in Python using one of the popular frameworks like TensorFlow or PyTorch, into highly optimized C or C++ that can run on a particular processor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/03/31/octomize-your-ml-code/",
-      "originalUrl": "https://www.datanami.com/2021/03/31/octomize-your-ml-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/code_shutterstock__1BEST-BACKGROUNDS.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-legal-software-focus-on-machine-learning-market-size-share-trends-analysis-report-2021-2025.md",
-      "title": "Legal Software (Focus On Machine Learning) Market Size, Share Trends Analysis Report 2021-2025",
-      "excerpt": "New year new updates Our reports have been revised for market size forecasts and strategies to take on 2021 after the COVID 19 impact https www thebusinessresearchcompany com global market reports The global legal software focus on machine learning market",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2263911/legal-software-focus-on-machine-learning-market-size-share",
-      "originalUrl": "https://www.openpr.com/news/2263911/legal-software-focus-on-machine-learning-market-size-share",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2263911/legal-software-focus-on-machine-learning-market-size-share",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2263911/legal-software-focus-on-machine-learning-market-size-share",
-      "publishedDateTime": "2021-03-30T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

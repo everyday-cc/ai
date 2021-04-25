@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-23-canaan-announces-partnership-with-cathay-to-launch-ai-facial-recognition-module-and-ai-chip-in-japan.md",
+      "title": "Canaan Announces Partnership with Cathay to Launch AI Facial Recognition Module and AI Chip in Japan",
+      "excerpt": "BEIJING, April 23, 2021 (GLOBE NEWSWIRE) -- Canaan Inc. (NASDAQ: CAN) (\"Canaan\" or the \"Company\"), a leading high-performance computing solutions provider, today announced that it has entered into a partnership (the \"Partnership\") with Cathay Tri-Tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/canaan-announces-partnership-with-cathay-to-launch-ai-facial-recognition-module-and-ai-chip-in-japan-2021-04-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/canaan-announces-partnership-with-cathay-to-launch-ai-facial-recognition-module-and-ai-chip-in-japan-2021-04-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-mta-pulls-security-cameras-from-nyc-subway-train-due-to-vendors-ties-to-chinese-facial-recognition-company.md",
       "title": "MTA pulls security cameras from NYC subway train due to vendor’s ties to Chinese facial recognition company",
       "excerpt": "The cameras began monitoring passengers on the G line train last Thursday — and MTA officials planned to keep them there for a year to see how they worked. But the vendor contracted to provide the system’s technology — Suzhou Huaqi Intelligent Technology — raised major security flags that prompted officials to suddenly pull the camera-filled train from service on Thursday.",
@@ -46,58 +99,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-22-computer-vision-market-overview-swot-analysis-applications-trends-and-forecast-2021-2025.md",
-      "title": "Computer Vision Market Overview, SWOT Analysis, Applications, Trends and Forecast 2021 – 2025",
-      "excerpt": "Kenneth Research has published a detailed report on Computer Vision Market, which has been categorized by market size",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-overview-swot-analysis-applications-trends-and-forecast-2021-2025-2021-04-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-overview-swot-analysis-applications-trends-and-forecast-2021-2025-2021-04-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-21-artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal.md",
       "title": "Artificial Intelligence, Facial Recognition Face Curbs in New EU Proposal",
       "excerpt": "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet to regulate high-stakes applications of artificial intelligence.",
@@ -106,7 +107,7 @@
       "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 193,
       "tags": null,
       "images": [
         {

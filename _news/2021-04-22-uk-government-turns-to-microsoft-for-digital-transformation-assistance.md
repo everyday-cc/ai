@@ -37,11 +37,25 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 123
+    quality: 125
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158.jpg?w=1200&strip=all"
         width: 1200
         height: 506
+        isCached: true
+  - title: "Azure AI Cloud Computing Driving Microsoft Tech Stock Giants Profits - Tech Stocks Investing 2021"
+    excerpt: "With Microsoft AI Azure cloud computing division growing by 50% per annum, converts into a Buy rating of 65%. This video is excerpted from my recent in-depth analysis that updates buy ratings, levels and valuations for the top tech stocks in my AI ..."
+    publishedDateTime: 2021-04-23T16:38:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article68794.html"
+    type: article
+    provider:
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 56
+    images:
+      - url: "https://www.marketoracle.co.uk/images/2021/Apr/Azure-AI-Cloud-Computing-Microsoft-Profits.jpg"
+        width: 800
+        height: 466
         isCached: true
   - title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
     excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."
@@ -95,6 +109,6 @@ related:
       domain: businesswire.com
     quality: 30
 
-secured: "GEBEU1M0z4kAkLnpoBK7mBYc7Gni0/aCmFVOe3tdy2wppZktc5Uy41Fb1PAsHwCTBcHKqVidiCC5RfX6mHNMMUdOGsVSPXOZD2+uUNpBtHvc7t9sLB5zbWhYrN7RgSb28TAKwv8K+hTaVVwGlqC3qBKPWSO3RraqlyTm5Sw85CEVHxlO14DFa/gcUpgjGR9z+yCxJCSn+FPUp/y9UH0D9Xz0HM2wUUp554N+kZmr+WqSK8+iKt3gQufXbTPUUDs8iaigfelGjJ10pXPKts0hAryLk18Cfiu7d1nuAIoBxpchaXihFl+XuGfUv/jCEklwngJcejIHmRRgExXFCEGWNahiRSfbrsthgXC8gC4JfDU=;Szuk7vRFgFiNsRjvmQLWhw=="
+secured: "mujqYLmq4ABDfm6z/C4fzAwq4/PIDE3g60ccxEEhCCknHYtgiQnfj6FZGUYVbUCDs5pjmtCqscZRZSzqptcY5Lt1tOHZ7PkGpYsaRuFMtK+56P50bOQITqeKOLMxIUm2Z6NHplg9NxgE9607vPjUbQxE4+xiLXufT77D8UIxGjaVG0djv6kkblRg01pk8F5b0sR+skAHboVDnl+JgaGHp3iRnaDVbqf3r3MsM4e5piCEOezKJEeoiSJseF9S48D3ajD5H7WNEQHG5wbtEtpYmRPNsmD23mafdibIpoWW2waA7UsxRAcaUH1cNZ6ADcQFQWyFvcNI22ZksvCT6RolRZ5ywoQGLqZvHLlc6s51m92mOajVSehOq0k7eJdnFKkCq41XacWk9gwUOUrw6Vnscxpezna5MXSOD3me/OM7OiYAd1KcrsGkP3khlh0HkB6J7ATsHbLTBl1WVjyzJM4XbOjBhHKMm8n+8g1S1WI8/wpx9t5SCBbAdwtPj41lkdAeB6st+kqxnzshhdkDuYJkfQ==;l/DF7MDbW0GJuFqS7mUeFg=="
 ---
 

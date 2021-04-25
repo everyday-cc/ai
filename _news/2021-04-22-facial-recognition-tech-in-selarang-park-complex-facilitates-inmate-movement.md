@@ -41,20 +41,6 @@ related:
         width: 850
         height: 480
         isCached: true
-  - title: "Facial recognition solution to boost contactless site entry"
-    excerpt: "Biosite Systems Ltd has developed a facial recognition solution to respond to increased demand for contactless site entry"
-    publishedDateTime: 2021-04-20T11:00:00Z
-    webUrl: "https://www.pbctoday.co.uk/news/construction-technology-news/facial-recognition-construction/92223/"
-    type: article
-    provider:
-      name: pbctoday.co.uk
-      domain: pbctoday.co.uk
-    quality: 39
-    images:
-      - url: "https://www.pbctoday.co.uk/news/wp-content/uploads/2021/04/Biosite-Facial-Recognition-2-lr.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "tnbqGhA5iYX9JEw4NFEHRlAUQ/Iai/tj7J7Cfvx+5vx3NpVR5fBr8djKwpcWJgC/uk5f1Zo+YzpIwBLGRoPj+aCiWFVqFlJWBaTUCYzWF+P00xl5olUmpt5L2a5VpUMXp/9gvT5JPm5S9R4PhYBU280i9Ravdb6Is+lYM71a/e+D+bCx0+ymAivn7EmGdFBwfasKKG97+a/f67P2mOsUJaZiVMtrFeGQGLNbB3ZLrRp5kylzpSllKygZ2Hb+INe14iz4BXJZv3j3qYRpnY2lEvVuZl1QMcJlcl4uST4VMLq8p1rU19UBTi4BXc8rtmRlxQdyaVoQpbwgJ/f41mwseUNxEd3+Ew9vkzUESZJbleQ=;QT/2gQTifxO1SH6jX7i5UA=="
 ---

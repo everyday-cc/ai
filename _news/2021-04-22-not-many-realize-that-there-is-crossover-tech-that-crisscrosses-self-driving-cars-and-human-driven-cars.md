@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/amp/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Forbes
@@ -42,7 +42,21 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "Two U.S. senators make new push to advance self-driving cars"
+    excerpt: "Two U.S. senators are working on legislation that would allow automakers to deploy tens of thousands of self-driving vehicles on U.S. roads, a significant reform that could help speed the commercial use of automated vehicles."
+    publishedDateTime: 2021-04-22T18:51:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/two-us-senators-make-new-push-advance-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/U.S.%20Capitol-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
-secured: "4s4baM/C+ZXkaFqBzQotpx1KsWO5z4agzqEpDCRLl8kn2sDXL8QYrTWHkiTF33Wf+/JvtrbBuj9dDi9WemFnWP2iRHNEcEmaOLD7mH20nZWMDI1oZ6Fx/gdGaK7y5PULu/3s30C4UuzrbEgzUQNoav74thfZOf/3DXptzzbArZnbaeCsoCuCfFLkCNLsT8LLWdLeqsl+hU3pkfFCUg2AG/cBFmqlf/Zq7LjaSPfR7fz1QXBfn84CbmevN9TjQhRpOoGt4upV2BZscUj97+iajX4ip1qo8RKU7RIHsZNCU7rFVG04XIbHCA04g7tGNBvrYGXm62koVszSyAB3hCB+oKJD6iUxY5OtQ3zY4FPCmVM=;qpEIozZ7PswWY9SL+sm02w=="
+secured: "c5Mj7ijslIY8EIPSaE7pXB0HiDaQBcsW/d88uUkiYy5etHkAlUl+9H/UUs0PutKJ4D9geev/1uoGAjk4r8Zhosiwj6xuJjCXT1Mx1hQSo3/rrjlvGlzyM6LoPe8fTSRjCINDMrjk9REi6AaFidgPiTjMdfLMAMaC9e/9sWZcTTZ4QYkzXBWfxWACIK5FQD71+qS+Pam2m4GIzHPHV00+aEwQLbmkSzUYuIW5j0OKV65QkGTqPpenYuKYanuabV4YNbxtlmGAMqFSO1MRIOvQGVjYNPa81FmgrznJd2V3v/c1YzRia2DwbgMI9pppBe5UEJ9KANq7dAKD5j+P5hOv2Y5qgMFlRDqkv/aG55QHwNQOLPeCqUPUvgkEVo/LaAySDPJDodmUnj609zULEgVZLKlGrfRUSEqocB0b9vewprdrLyx90Vco3Lv1S6XlghTAqGyH49nEDOOPrK7jO876zFYblK4H3NAUMuPC55Tkn22nLZEjSaeP+jOhvXfqOaHuSR2PfAHP1awv77joJaoOUg==;nmuPakmFu+3PXPiscdeodA=="
 ---
 

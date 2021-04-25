@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/22/tech-in-farming
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/22/tech-in-farming-growth/?outputType=amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1440
     height: 1080
     isCached: true
+
+related:
+  - title: "Farmers have more mouths to feed. Bring in the robots."
+    excerpt: "AI-powered farm machines may one day be able to perform most tasks that require people today. At one farm that's going high tech with autonomous equipment, an executive says, \"The machines don't know that it's Friday at five o'clock."
+    publishedDateTime: 2021-04-24T15:30:00Z
+    webUrl: "https://www.seattletimes.com/business/agriculture/farmers-have-more-mouths-to-feed-bring-in-the-robots/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "DhiUJFE6OtIlLdDHbTrsDqwhBjIGMbXjYXo5IwVxFik4saUm9kE/LKnzIfPZrGOeuybanF8+7SkXsxtsLdVK0GfL8ki0VUlcAgHtntMthts0q3UOIja2OPIXj6IUNe4yL/MdfWdQwebPMGp/mLn+g35lFRGmPeJpihodNiRh98Q1JClTMopFUPxcwTUSl3WiS8sHhnpOU40yUt+Yl6oOICw+Y1bb6dGUL/iMz9FJeKDaW4h6EUgbdq3lcO8AzD+ambQDtHei2eEtmjvqjbIkEF82y2c8YOr/ZSz65k9ct06r/upB0+leTrkf8XUUDeNNvpXw3/HW6arkcCtUve0pb+/B8owq+aBPJX8xfPFJW60=;O/SoPLzQuDfYqxFbIiDfKw=="
 ---

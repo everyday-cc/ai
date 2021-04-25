@@ -1,35 +1,23 @@
 ---
 category: news
 title: "5 Things to Know About IBM's Earnings Report"
-excerpt: "Here are five key things to know about IBM's results. IBM offers a public cloud platform similar to market leaders Amazon Web Services and Microsoft Azure, but the company's main focus is on hybrid cloud computing."
-publishedDateTime: 2021-04-21T14:45:00Z
-originalUrl: "https://www.fool.com/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/"
-webUrl: "https://www.fool.com/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/"
-ampWebUrl: "https://www.fool.com/amp/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/"
+excerpt: "Here are five key things to know about IBM's results. IBM delivered 18% cloud revenue growth in the first quarter. Within the cloud and cognitive software segment, cloud revenue grew by 34%, and the company now has approximately 3,"
+publishedDateTime: 2021-04-21T10:45:00Z
+originalUrl: "https://www.nasdaq.com/articles/5-things-to-know-about-ibms-earnings-report-2021-04-21"
+webUrl: "https://www.nasdaq.com/articles/5-things-to-know-about-ibms-earnings-report-2021-04-21"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F622197%2Fibmz_01_ships-3.jpg&w=1200&op=resize"
-    width: 1200
-    height: 802
-    isCached: true
-
-secured: "k4LywfYkFem1vNA/tPcGvBSjseThcL0hE1JxPLkxeKLpU4ffeKtkf8GqShjpu6NrX7piedqDcVt9ZUsLKVZRsNho1TLHDkMz6ddaRX1n/aZM676rPPxfeuhBzI71V4SyX0A+wF8npflDqx/+IJ7WhUV6wUIGFlhKzaLL9bq/0bmlckHrTwxjqEUqMsvHYn8of3IuKTBnP601wxkAPd/ZhO/wt+g0FQjd5/h0e4mhlQ62xLwpcES65oTTFKHdGeXohu6XYPBP77SP/pwrnO2JiHFe9tM6Tg+EsUBTCSIL+Tb93xrztbVJcHPQWhC4fJ+Ph9ZIL39/aj2VB1pDJpQXHxIYDInZU+l88Z0ctw2RhpU=;kU44fCvM2Cu/1MGBAWksiQ=="
+secured: "n/2DQZGnt9ljLaWSh3DNwoR8xxz8XphDJXqpZaOuNka3XJZXTHkpO6Z5zd4gidiqGa6km71WuAEj1D69NdviNwGxh7k0OC218FQR6jw98sN+AQAV1dsH1T118txcxVsQN/lepdoaMRHJIfUoVc2zizC0pCog5641bPyX0QjcaBG5j3G6gNoCzaNFkvwAKsrh5V6zyJWJH6NcdHdKFUPmxKFf39K1rHU49zPQeaF3JRzLmevkVeRv1cYDneC5WZt0uSwFCBzVOF1uPCLrSqKDNRdX2xYBxsWAlATwtqFnq+3NSgCyKzNssPoCzlrpEVHLg6kNMsMh8v6aKWnzKjKg++KshBCXi82PjisENhF+Ypw=;CVUl3EdHqAdu181DxU8KSg=="
 ---
 

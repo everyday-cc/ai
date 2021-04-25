@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/04/22/challenges-of-applied-machine-learni
 ampWebUrl: "https://venturebeat.com/2021/04/22/challenges-of-applied-machine-learning/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/challenges-of-applied-machine-learning/amp/"
 type: article
-quality: 91
-heat: 101
+quality: 93
+heat: 103
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Machine Learning
   - AI
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/04/real-world-ai-applied-machine-learning.jpg?w=1200&strip=all"
@@ -47,6 +48,6 @@ related:
         height: 536
         isCached: true
 
-secured: "kmVy9r3Q2n0zbxuHm5356VURZJ56lKTskCVtcjOosCjCPh3mSkPp4gnoioFz9WVt37xw38w9e57rxdVbmy58f9RwQpFbgk9iPStmNpbPrv3SguxaCPNvbzvyU7gEpPLbLpHx7M0QI9OCIX/sgR3Hso1OhldIIin+TJQ+L1c1Z6iQFrm9gFk0K5kVkFHRl/hm8c3UEu063Jk9BLuLNYJEoOVSJ9YTSp0q4VtsHu7HmArmDsZc8psg+iHBMgWmra9u8WuLk7MmxOjbg1/YT37xEz/SYJ7R2ptfTDOnLLuPodnVqhSSaE8p8C07Zvxl1UevT/4pOvwV3+iyppJj3y7+neSBVPnrRuF6OjkLr7+DePo=;EK6UYip131mZi5NVnixOKw=="
+secured: "ZI/Fl3xW3X8Y7AalrRlfEWah671RQ7IAP8GzH29RJxLm2Cc1TnYSMkIJ/QYpvqRvofo2YBYY9zhuhDZGBoa3ldTsJztTAbJOuiYlNTeR7d8cbR/v0DokBO9MBfBydHLMvis899eWdsldWDHswNocYLXqBxyJuR7y4gxXoviidrFTiUnfiZEFjI61iiOasoCYoN2oFAye+2qzXYASaLhV91+ojSgBcr7/qnlRJzb4c+8KtYSTN+buaFNWHrQnXxVynBHRu675+HkhIRLL/YPIf8wGOcHGkb/rak3qtkYPY0q/KXmvBKwHSV2/YiQpM89cT0s5JHBdT9OySv9+Ds3DBjLo161cOytHhIEZEgHj75COiiAVo9RnnWAe/5Ds1J2taJtKtotYfo4lRHR/OmwDBMZS3jtcfOSvwXGMJJG8jDRt3SI499NkhLMPtfb9pgMJ3mkU1qVLRhNfA5830OOjXJKZVtUSH8zyPez0sUsM7zSIIrg2Y8w6DcPoQd+OWE3ychLF0XguChGSRoFYHEoCUQ==;MBTVCSqmWsY1FztVK6UVMg=="
 ---
 

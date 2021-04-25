@@ -44,50 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GPU for Deep Learning Market 2021 Global Insights and Business Scenario forecast to 2027"
-    excerpt: "The analysis of the global GPU for Deep Learning Market includes the most recent market developments as well as the factors and parameters that influence it in both the short and long term The study provides a comprehensive analysis highlighting"
-    publishedDateTime: 2021-04-21T14:09:00Z
-    webUrl: "https://www.openpr.com/news/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business"
-    ampWebUrl: "https://www.openpr.com/amp/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 67
-    images:
-      - url: "https://cdn.openpr.com/U/4/U421446298_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Indian Manufacturing Market Outlook, Industry Analysis and Prospect 2021"
-    excerpt: "Market insightsThe manufacturing industry in India is edging toward a digital overhaul, with the adoption of industry"
-    publishedDateTime: 2021-04-22T02:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-indian-manufacturing-market-outlook-industry-analysis-and-prospect-2021-2021-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market 2021 Global Leading Companies Analysis, Revenue, Trends and Forecasts 2027"
-    excerpt: "New York, US, The business report released by Zion Market Research on Global Deep Learning Market Research Report Covers, Future Trends, Size, Share, Past, Present Data and Deep Analysis, And Forecast,"
-    publishedDateTime: 2021-04-21T12:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2021-global-leading-companies-analysis-revenue-trends-and-forecasts-2027-2021-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Big Data & Machine Learning in Telecom Market Outlook, Industry Analysis and Prospect 2021-2026"
     excerpt: "The Big Data & Machine Learning in Telecom market report provides a detailed analysis of global market size, regional"
     publishedDateTime: 2021-04-22T11:57:00Z
@@ -171,20 +127,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 26
-  - title: "Global Speech & Voice Recognition Market 2020 Definitions, Classifications, Applications, Industry Analysis and Forecast by 2026"
-    excerpt: "The most recent report namely Global Speech & Voice Recognition Market Growth (Status and Outlook) 2020-2026 by MarketandResearch.biz contains all the stats, data, facts, and figures collected from trustworthy sources such as websites,"
-    publishedDateTime: 2021-04-18T14:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-market-2020-definitions-classifications-applications-industry-analysis-and-forecast-by-2026-2021-04-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "7NxP+GwMsoHvpfSez+p9QlONHl3UJv71WoCMUfcmG+jvek8RnFep5KkUqKVXXS6GmPuOBW/AuauzhlbxEekeIExXxk8zjKxlxKKWRYdSOx7BEnzqmOhHrjpRY6/gjFr6BUfKIDDOe54ty2R1kAMPCmIWLRznM7vb7rAelTjEuYDpXKedAL+tivzUlOUhZiFJnLDNPVXxZDlc3O7NuDUWLZB4Aro/qYvkJCB42fOr4eaa4USLWL0nXukrDTi8rNvPAASoDJ0P9d86JoOugDK7rIcuai9ky0gvtXGLWOvE5sp7qvQ6sbiDt8PQ2fWuyoX//SHPoa48NR7dYsLu1lOzAiGbOvaQqNvJWSZeBA7LJBU=;CwLDmt6ta9gq/YFjpaYUXQ=="
 ---

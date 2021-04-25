@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-tha
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 601
     isCached: true
+
+related:
+  - title: "AI Video Startup Synthesia Raises USD 12.5m for Multilingual Avatars"
+    excerpt: "Synthesia raises USD 12.5m in Series A funding for AI video generation venture that features multilingual avatars."
+    publishedDateTime: 2021-04-23T10:35:00Z
+    webUrl: "https://slator.com/ma-and-funding/ai-video-startup-synthesia-raises-usd-12-5m-for-multilingual-avatars/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 39
+    images:
+      - url: "https://slator.com/assets/2021/04/AI-video-generation-startup-Synthesia-raises-USD-12.5m.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "FexariZ0WNpUAb06cI9GLForyPnRgN1GUDFYUT6FOORCBnBEXu0j1pNAFwKJc0Eu++JVCOJMWzYj/D2Ewytkm6NRxVK1LQvYNiLcevS9BS/nI68FJLT0A5Gp2KAyljns/LSjs1YVBtsMc52d63cjHC/mtezcpcAVnibjRJoXgW5dcX80pg4lW8hueO+o6PbA2xW6aeE+wF/gi8t2xCgfXaQ+h8wCiRjvmUmAAORVvIK8my3v9vjn6ZgmRfYSq1e33gNwsLy38B/s/Ku7xmhilkSIjmLWDeRCKkZZbLvRew0xsANkbX2NXfuUbbG9b88zmeA6yZOrhsf47jnkCsUyaGx8+MvSZopXLPus7iqEFWeuQzDInDDF0woYbVAgdq/sMANOWR/fsql6YxFND+POx7l+pBNpFlI7VPcYHK7S4iA/2WtjmrtqxdmNYw6ffMJVts4I/YN3VAhwu7dtN26C81hOQLBax57HdYE1tjodmAMp2Xx4XNd1TlbFlq3Yu5BKvE/ZTZ5dWKEtu8QV1Vv2Iw==;OGSUvQbql9OCI1mjgukUsg=="
 ---

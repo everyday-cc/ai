@@ -1,28 +1,22 @@
 ---
 category: news
-title: "John Krafcik quits as CEO of Google's self-driving car project"
-excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov ... Google was uniquely positioned as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry Page and ..."
-publishedDateTime: 2021-04-03T05:06:00Z
-originalUrl: "https://www.prokerala.com/news/articles/a1146846.html"
-webUrl: "https://www.prokerala.com/news/articles/a1146846.html"
-ampWebUrl: "https://www.prokerala.com/news/articles/a1146846.html?amp=1"
-cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1146846.html?amp=1"
+title: "John Krafcik quits as CEO of Googles self-driving car project"
+excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
+publishedDateTime: 2021-04-03T11:21:00Z
+originalUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+webUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+ampWebUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
 type: article
 
 provider:
-  name: Prokerala
-  domain: prokerala.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.prokerala.com/news/photos/imgs/1200/john-krafcik-quits-as-ceo-of-google-s-self-driving-car-project-1180075.jpg"
-    width: 1200
-    height: 799
-    isCached: true
-
-secured: "SFczb52H+xDrkAAKRTkhjPeGyOn9Vh4vsgtgw8g0xNdu2Qhdt9nXJmbOpDR82nXy+PkQO1mz8NvNrWFA838XNWSVgy19gLODDB/XbjNRtSOcEhtRbpgCltthJMQR0mX1KhK04WN2dtccgeRypDg8jPY1y5NJHINCsc6idXr9/12L2VE7ToXW3a4RVMo2ad3E9NvhUCm2X3EtBBmiLJ6xR3eCHhIpxYyCUjFD7/NuEtDS+VrabqcMC5rbNwPybEKwAZyUzZ7u4s54sLCgkhErNa8b5jyVbrIbPib532nIfijU4Bf3rOkEqAs5NiPJypCoIjEoqNkI2gxMSC6lHW1WTE0MXxj5cyGkk6h4fN/J/08=;85XOerMMDdatGJU+FeyNFw=="
+secured: "ywkAZFC7mH3du038g8e4aVlDK9eCfkJrtJtk2HOYT+r4u5lxfXo2QejrqthIk7W76HiCOfSkqFjvy10/jneB6FOm+sufwOM3ardVVSkw4aiUt+L7EE+pI4vUwYasDWBN/WSVm02B8kC1pCjrcKtvgkn5gX9aT20ZN+d2f9lWFG1Bl8Il5mQcpN/ymsBeBd7VqKaJ/7WljkdU86v5swx9+MQn1sQWhdgs6/vImR8Xaqb6x+P5BwCd6ZULfZf17y4RLexFhSjdpJWmJrDAnYgHt6XYhCKMKH1xzwFCoLJcU+AoQA3CLtQBW4Zwlj5h0ANI0mRE4qdjr1v6r1KavUh1xSooQopCSRvCoxpeOF2P3U8=;ny1JEH6ZE324WTmUfHhHig=="
 ---
 

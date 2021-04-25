@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Google Turmoil Exposes Cracks Long in Making for Top AI Watchdog"
-excerpt: "Google held up its Ethical AI research team as a shining example of a concerted effort to address thorny issues raised by its innovations. Created in 2017, the group assembled researchers from underrepresented communities and varied areas of expertise to examine the moral implications of futuristic technology and illuminate Silicon Valley’s blind spots."
-publishedDateTime: 2021-04-22T03:51:00Z
+excerpt: "Gebru had emerged as one of a handful of artificial intelligence researchers who was well-known outside ... In the spring of 2020, Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent Alphabet Inc ..."
+publishedDateTime: 2021-04-21T19:11:00Z
 originalUrl: "https://www.bloombergquint.com/technology/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
 webUrl: "https://www.bloombergquint.com/technology/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
 type: article
-quality: 43
+quality: 39
 heat: -1
 published: false
 
@@ -17,13 +17,11 @@ provider:
 topics:
   - AI in Autos
   - AI
-  - AI Ethics
-  - Natural Language Processing
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI58F34A2pB0/v1/560x-1.jpg"
-    width: 560
-    height: 746
+  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -57,16 +55,7 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "2 Unpacking the Ethics of AI"
-    excerpt: "In this chapter, we explore a number of experiments revealing people's attitudes toward artificial intelligence (AI). They compare people's reactions to humans and machines performing the same action."
-    publishedDateTime: 2021-04-19T02:52:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9361686"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 34
 
-secured: "rtP6c39iZTMqfLP+wGsNuhR2tmBZBYnrxFA1oluUVzsUF2cny5sbSZr1IX3Qqz3l7PSrQJHqkdbRr7e1BaO4QX011fgbn8vuZCKZmPFqADr7dB84ZIHO+QsKw3yA5JRBCehprzokRFfjB8NTSnnqMw+6fb6Di3U/hnv6O5a4XF78hwnOHKANw+tu0AZiKh5GrKc3whii6Q+VjZVn/ohUHEk8XuSNVBmpfoxLSav3lm+KMg1Ad5DBKlZ7YueG+1hugkPiHGy2RDP4zdiuAdfnzu5JE6sVaXf3Qbtuy3nVuUFrsOv9a3oxCQg+Ys9gFldf0lRVQ2icI3LKOgjw+X0wI0JwJQMCv/mV/p93qtkBwo/BRLQ8mYfpG9EwARzldprHIWKIIppDvvEfWp4tSzI3RkpTihBHUCXBJh8i0LV2EJpx/RN/Z3VvByQ7j01jycpKNbr/kqlkCzLRNV2zyGJf2V+sRUWy3gLysGfp1PWBOC/gMvT88ECOe8wMnREejnFU9i4eDQQbvF2wcjoP/t+C4w==;bq3m9mGJ39iy3ZnkShkMIQ=="
+secured: "/+z2cDkyb+b1uaJvv99IvQn+kvKD37sqXLKot9x3YWxlVsIw/M9fol1idGoN+MoQaLhUPZ1WRfNJ4tiMYtcxfbE7HJTeSmTPkRPVeC2ALkafeqE4mJew5yUAvAPvqtA/YQzvlEhAKYBGjtQlpq833sqEKnH0wNvKSWOT0q4l0HJQ6PGJkYrCMnnFre76X/fuFy6SX1h9VHUrZBdbimEipiDGKpOnfAyJZvP+5AHhP/qtBQhy8/X1L46cJDoaJeljMiLronM/VhG0vUFqC2+y9PnhB4hjx9WG/pHyiwL74q3XiAUyOo/uL1Hp0CURqvKVUQqGafdiRsa9k8r2iGJ+n1kzVkF7ykYr6BMiWZVg9lU=;jZJdyHouagc5E9aeYCJ9hg=="
 ---
 

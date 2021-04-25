@@ -2,6 +2,94 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-22-how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge.md",
+      "title": "How Azure Percept Simplifies Building And Deploying AI Models At Edge",
+      "excerpt": "Azure Percept platform attempts to simplify running AI at the edge. It’s a powerful edge computing platform for prototyping computer vision and conversational AI models and deploying them in production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/amp/",
+      "publishedDateTime": "2021-03-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel.md",
+      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player Microsoft, Google, Amazon Web Services, Facebook, Intel",
+      "excerpt": "The global Natural Language Processing (NLP) Market size to grow from USD 11.6 billion in 2020 to USD 35.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 20.3% during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel-2021-03-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel-2021-03-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-microsoft-to-work-with-13-start-ups-using-ai-to-help-uks-health-manufacturing-and-resource-sectors.md",
       "title": "Microsoft to work with 13 start-ups using AI to help UK’s health, manufacturing and resource sectors",
       "excerpt": "Microsoft will work with the start-ups to develop AI solutions that can be used to improve people’s lives and the world around us.",
@@ -1114,93 +1202,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know.md",
-      "title": "Microsoft Power BI Premium: New platform and pricing, what you need to know",
-      "excerpt": "The power of Microsoft's Power BI isn't just that ... manage it through local experiences and use Cognitive Services automated machine learning, then you probably need Power BI Premium,\" said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/03/617468b2-bd5d-4d32-a5a1-6664df125a57/resize/1200x/58501250979405fa8006522308f7d8fd/power-bi-premium-dashboard-tr.jpg",
-          "width": 1200,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "publishedDateTime": "2021-03-04T10:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-microsoft-group-transcribe-provides-real-time-transcription-and-translation.md",
-      "title": "Microsoft Group Transcribe provides real-time transcription and translation",
-      "excerpt": "Improving these models with usage data will ensure that our customers will have the best experience,\" said Xuedong Huang, Technical Fellow and CTO of Cognitive Services at Microsoft. The app is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7",
-      "originalUrl": "https://www.iol.co.za/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T00:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

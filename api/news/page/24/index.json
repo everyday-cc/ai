@@ -2,714 +2,31 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2021-03-20-teslas-fully-self-driving-beta-would-fail-a-drivers-license-test.md",
-      "title": "Tesla’s “Fully Self Driving” Beta Would Fail A Driver’s License Test",
-      "excerpt": "YouTuber AI Addict posted a video of a drive through downtown San Jose in a Tesla Model 3 using the company’s “Full Self Driving” (FSD) Beta, according to Road and Track. In it, the semi ...",
+      "path": "_news/2021-03-24-amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning.md",
+      "title": "Amazon AWS, Hugging Face team up to spread open-source deep learning",
+      "excerpt": "Amazon and startup Hugging Face say the ability to rapidly assemble thousands of neural networks inside of Amazon SageMaker, and train them with greater ease, will “democratize” use of deep learning.",
       "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/teslas-autopilot-beta-would-fail-drivers-license-test",
-      "originalUrl": "https://futurism.com/the-byte/teslas-autopilot-beta-would-fail-drivers-license-test",
+      "webUrl": "https://www.zdnet.com/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 136,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/teslas-autopilot-beta-would-fail-drivers-license-test/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/teslas-autopilot-beta-would-fail-drivers-license-test/amp",
-      "publishedDateTime": "2021-03-20T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/23/b303e223-69b6-4396-b744-102b4be9b771/aws-and-hugging-face-2021-for-placement.jpg",
+          "width": 971,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
       ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube.md",
-      "title": "Help for Kids Falling Behind in Math—From AI-Powered Apps, Games and Even YouTube",
-      "excerpt": "There is hope for parents during remote and hybrid learning in the form of problem solvers and virtual tutors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
-      "originalUrl": "https://www.wsj.com/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
-      "publishedDateTime": "2021-03-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-3795-from-2020-2026.md",
-      "title": "Artificial Intelligence & Advanced Machine learning market is expected to grow at a CAGR of 37.95% from 2020-2026",
-      "excerpt": "According to BlueWeave Consulting, The global Artificial Intelligence market & Advanced Machine has reached USD 29.8 Billion in 2019 and projected to reach USD 281.24 Billion by 2026 and anticipated to grow with a CAGR of 37.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/20/artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-37-95-from-2020-2026/",
-      "originalUrl": "https://ksusentinel.com/2021/03/20/artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-37-95-from-2020-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-20T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-healthcare-providers-determine-how-to-best-use-ultrafast-5g.md",
-      "title": "Healthcare providers determine how to best use ultrafast 5G",
-      "excerpt": "A small number of healthcare organizations in recent years have struck partnerships with telecommunications companies to try out 5G—the newest generation of wireless internet—for an expansive roster of innovative tech projects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernhealthcare.com/operations/healthcare-providers-determine-how-best-use-ultrafast-5g",
-      "originalUrl": "https://www.modernhealthcare.com/operations/healthcare-providers-determine-how-best-use-ultrafast-5g",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modern Healthcare",
-        "domain": "modernhealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-self-driving-trucks-wont-have-big-impact-on-trucker-jobs-anytime-soon.md",
-      "title": "Self-driving trucks won't have big impact on trucker jobs anytime soon",
-      "excerpt": "From big rigs to buses, millions of American workers currently earn a living driving vehicles. Someday, self-driving systems could make their jobs obsolete. Whether the transition from human drivers to automated ones results in severe layoffs that occur in a short time frame or as smaller disruptions over decades is a simmering question,",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/self-driving-trucks-wont-have-big-impact-trucker-jobs-anytime-soon",
-      "originalUrl": "https://www.autonews.com/mobility-report/self-driving-trucks-wont-have-big-impact-trucker-jobs-anytime-soon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-toyota-invests-in-chinese-self-driving-partner-momenta.md",
-      "title": "Toyota invests in Chinese self-driving partner Momenta",
-      "excerpt": "Toyota Motor has invested in Chinese autonomous-driving startup Momenta as part of a $500 million fundraising round, expanding the Japanese automaker's development infrastructure in China as tensions between Beijing and the U.",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/Automobiles/Toyota-invests-in-Chinese-self-driving-partner-Momenta",
-      "originalUrl": "https://asia.nikkei.com/Business/Automobiles/Toyota-invests-in-Chinese-self-driving-partner-Momenta",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-ai-weekly-with-rpa-on-the-rise-security-challenges-remain.md",
-      "title": "AI Weekly: With RPA on the rise, security challenges remain",
-      "excerpt": "AI is poised to impact health care dramatically, but how do you ensure it’s used equitably across all populations? Learn what’s needed. Robotic process automation (RPA) is experiencing a watershed moment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/",
-      "originalUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-self-driving-car-bill-heads-for-gov-duceys-approval.md",
-      "title": "Self-driving car bill heads for Gov. Ducey's approval",
-      "excerpt": "The first bill to impose any regulation on the self-driving car industry is headed for the Governor's Office. William Pitts has the details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.12news.com/video/news/local/arizona/self-driving-car-bill-heads-for-gov-duceys-approval/75-61a6ae06-e25d-4d93-a712-8e4a6c451a91",
-      "originalUrl": "https://www.12news.com/video/news/local/arizona/self-driving-car-bill-heads-for-gov-duceys-approval/75-61a6ae06-e25d-4d93-a712-8e4a6c451a91",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPNX",
-        "domain": "12news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-stroke-detection-startup-vizai-raises-71m.md",
-      "title": "Stroke detection startup Viz.ai raises $71M",
-      "excerpt": "Viz.AI, a San Francisco-based care coordination startup, raised $71 million in series C funding. The company plans to use the funds to build out its platform beyond coordinating care for stroke.",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/",
-      "originalUrl": "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust.md",
-      "title": "The success of speech recognition in commercial applications comes down to trust",
-      "excerpt": "Joel Chimoindes, VP Europe at distributor Maverick AV Solutions, speaks to Tim Kridel about the opportunities for speech recognition in pro AV applications. TK: What’s driving interest in and adoption of speech recognition for pro AV applications?",
-      "sourceUrl": null,
-      "webUrl": "https://www.inavateonthenet.net/features/article/the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust",
-      "originalUrl": "https://www.inavateonthenet.net/features/article/the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InAVate",
-        "domain": "inavateonthenet.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-a-researcher-turned-down-a-60k-grant-from-google-because-it-ousted-2-top-ai-ethics-leaders-i-dont-think-this-is-going-to-blow-over.md",
-      "title": "A researcher turned down a $60k grant from Google because it ousted 2 top AI ethics leaders: 'I don't think this is going to blow over'",
-      "excerpt": "An assistant professor at the University of Western Ontario turned down a $60k Google grant after the company ousted two prominent AI ethicists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-researcher-rejects-google-grant-fired-timnit-gebru-margaret-mitchell-2021-3",
-      "originalUrl": "https://www.businessinsider.com/ai-researcher-rejects-google-grant-fired-timnit-gebru-margaret-mitchell-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-google-cloud-nvidia-a100-gpu-a2-vm-instances-now-generally-available.md",
-      "title": "Google Cloud Nvidia A100 GPU A2 VM Instances Now Generally Available",
-      "excerpt": "Eight months after making its Nvidia A100 A2 VM cloud services available on Google Cloud as a beta service for customers, Google Cloud has announced that",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/2021/03/19/google-cloud-nvidia-a100-gpu-a2-vm-instances-now-generally-available/",
-      "originalUrl": "https://www.hpcwire.com/2021/03/19/google-cloud-nvidia-a100-gpu-a2-vm-instances-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-ai-executive-search-firm-shares-insights-into-the-new-trends.md",
-      "title": "AI Executive Search Firm Shares Insights Into The New Trends",
-      "excerpt": "It is commonly understood today that marketing executives are expected to create a smooth customer experience along with establishing",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/business-innovation/ai-executive-search-firm-shares-insights-into-the-new-trends-02393329",
-      "originalUrl": "https://www.business2community.com/business-innovation/ai-executive-search-firm-shares-insights-into-the-new-trends-02393329",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/business-innovation/ai-executive-search-firm-shares-insights-into-the-new-trends-02393329/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/ai-executive-search-firm-shares-insights-into-the-new-trends-02393329/amp",
-      "publishedDateTime": "2021-03-19T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-via-rideshare-to-implement-self-driving-vehicles-servicing-downtown-arlington-uta.md",
-      "title": "Via Rideshare to implement self-driving vehicles servicing downtown Arlington, UTA",
-      "excerpt": "UTA students will be able to ride the autonomous vehicles for free throughout the one-year pilot program starting Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theshorthorn.com/news/via-rideshare-to-implement-self-driving-vehicles-servicing-downtown-arlington-uta/article_cc39d90e-8900-11eb-9c3e-b75353167403.html",
-      "originalUrl": "https://www.theshorthorn.com/news/via-rideshare-to-implement-self-driving-vehicles-servicing-downtown-arlington-uta/article_cc39d90e-8900-11eb-9c3e-b75353167403.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Shorthorn",
-        "domain": "theshorthorn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-facebook-customizes-augmented-reality-to-the-flick-of-a-wrist.md",
-      "title": "Facebook customizes augmented reality to the flick of a wrist",
-      "excerpt": "Fresh off its recent augmented reality (AR) kick, Facebook Labs has revealed plans to curate this AI software for wearable devices. Projected as a shorter-term goal than the previously announced AR glasses,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-03-facebook-customizes-augmented-reality-flick.html",
-      "originalUrl": "https://techxplore.com/news/2021-03-facebook-customizes-augmented-reality-flick.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-03-facebook-customizes-augmented-reality-flick.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-facebook-customizes-augmented-reality-flick.amp",
-      "publishedDateTime": "2021-03-19T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more.md",
-      "title": "Extra Crunch roundup: AI eats fintech, fundraising visas, no-code transition tips, more",
-      "excerpt": "Customers must pass several desks set aside for loan and mortgage officers before they can talk to a customer representative. I only step inside a bank a few times each year, but even pre-pandemic, I can’t remember the last time I saw",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more/",
-      "originalUrl": "https://techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more/amp/",
-      "publishedDateTime": "2021-03-19T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud.md",
-      "title": "IBM’s Rob Thomas details key AI trends in shift to hybrid cloud",
-      "excerpt": "IBM senior vice president outlines AI strategy at a time when more organizations are finally employing it in production environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/19/ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud/",
-      "originalUrl": "https://venturebeat.com/2021/03/19/ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/19/ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud/amp/",
-      "publishedDateTime": "2021-03-19T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-can-we-trust-autonomous-driving-technology.md",
-      "title": "Can We Trust Autonomous Driving Technology?",
-      "excerpt": "There is a huge amount of activity in the tech sector surrounding the development and deployment of self-driving vehicles. Are they ready for the road?",
-      "sourceUrl": null,
-      "webUrl": "https://www.truckinginfo.com/10139281/can-we-trust-autonomous-driving-technology",
-      "originalUrl": "https://www.truckinginfo.com/10139281/can-we-trust-autonomous-driving-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Truckinginfo",
-        "domain": "truckinginfo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-from-robots-to-pollinating-drones-start-ups-create-ways-to-help-cities-go-greener.md",
-      "title": "From robots to pollinating drones, start-ups create ways to help cities go greener",
-      "excerpt": "Plants and drones do not seem to have much in common, but a Singapore team's plan to use the aerial craft to pollinate plants in indoor settings is fast taking flight.. Read more at straitstimes.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/business/economy/from-robots-to-pollinating-drones-start-ups-create-ways-to-help-cities-go-greener",
-      "originalUrl": "https://www.straitstimes.com/business/economy/from-robots-to-pollinating-drones-start-ups-create-ways-to-help-cities-go-greener",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-does-it-keep-covid-19-out-of-buildings-or-is-it-really-a-facial-recognition-tool.md",
-      "title": "Does it keep COVID-19 out of buildings? Or is it really a facial recognition tool?",
-      "excerpt": "Tech companies are already preparing automated safety barriers aimed to keep COVID-19 out of buildings. Some, though, may have worrisome aspects. And I'm not just talking about the foot bath.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
-      "originalUrl": "https://www.zdnet.com/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
-      "publishedDateTime": "2021-03-19T13:47:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
+      "publishedDateTime": "2021-03-23T14:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -732,35 +49,44 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AWS AI",
         "AI",
-        "Natural Language Processing"
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-03-20-natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel.md",
-      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player Microsoft, Google, Amazon Web Services, Facebook, Intel",
-      "excerpt": "The global Natural Language Processing (NLP) Market size to grow from USD 11.6 billion in 2020 to USD 35.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 20.3% during the forecast period.",
+      "path": "_news/2021-03-24-3-questions-artificial-intelligence-for-health-care-equity.md",
+      "title": "3 Questions: Artificial intelligence for health care equity",
+      "excerpt": "MIT faculty members Regina Barzilay, Fotini Christia, and Collin Stultz describe how artificial intelligence and machine learning can support fairness, personalization, and inclusiveness in health care.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel-2021-03-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel-2021-03-19",
+      "webUrl": "https://news.mit.edu/2021/3-questions-barzilay-christia-stultz-ai-health-care-equity-0323",
+      "originalUrl": "https://news.mit.edu/2021/3-questions-barzilay-christia-stultz-ai-health-care-equity-0323",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 79,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202103/Barzilay-Stultz-Christia_V3_0.png",
+          "width": 948,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T13:32:00-07:00",
+      "publishedDateTime": "2021-03-23T13:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -776,19 +102,292 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-03-20-self-driving-cars-market-to-see-strong-growth-momentum-tesla-motors-general-motor-ford-motor.md",
-      "title": "Self-Driving Cars Market to See Strong Growth Momentum | Tesla Motors, General Motor, Ford Motor",
-      "excerpt": "Mar 19, 2021 (Market Insight Reports) -- A new business intelligence report released by HTF MI with title “Global Self-Driving Cars Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2020 COVID-19 ...",
+      "path": "_news/2021-03-23-enable-feature-reuse-across-accounts-and-teams-using-amazon-sagemaker-feature-store.md",
+      "title": "Enable feature reuse across accounts and teams using Amazon SageMaker Feature Store",
+      "excerpt": "Amazon SageMaker Feature Store is a new capability of Amazon SageMaker that helps data scientists and machine learning (ML) engineers securely store, discover, and share curated data used in training and prediction workflows. As organizations build data-driven applications using ML, they’re constantly",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-to-see-strong-growth-momentum-tesla-motors-general-motor-ford-motor-2021-03-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-to-see-strong-growth-momentum-tesla-motors-general-motor-ford-motor-2021-03-19",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-feature-reuse-across-accounts-and-teams-using-amazon-sagemaker-feature-store/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-feature-reuse-across-accounts-and-teams-using-amazon-sagemaker-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/18/1-FeatureStore.jpg",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T13:14:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-75f-an-ai-powered-hvac-management-startup-nabs-475m.md",
+      "title": "75F, an AI-powered HVAC management startup, nabs $4.75M",
+      "excerpt": "F, a Burnsville, Minnesota-based startup providing AI-powered building management technologies, today announced that it raised a $4.75 million extension to its $18 million series A, bringing its total raised to $29.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/23/75f-an-ai-powered-hvac-management-startup-nabs-4-75m/",
+      "originalUrl": "https://venturebeat.com/2021/03/23/75f-an-ai-powered-hvac-management-startup-nabs-4-75m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/img9324_1200xx5385-3029-0-281.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/23/75f-an-ai-powered-hvac-management-startup-nabs-4-75m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/75f-an-ai-powered-hvac-management-startup-nabs-4-75m/amp/",
+      "publishedDateTime": "2021-03-23T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions.md",
+      "title": "eMAM streamlines search and processing with AWS Media Intelligence solutions",
+      "excerpt": "Amazon Rekognition is a service adds powerful visual analysis. Amazon Transcribe is an AWS service converts speech-to-text. Amazon Translate is a neural machine translation service that delivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/p20304553/emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/p20304553/emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20304553",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20304553",
+      "publishedDateTime": "2021-03-23T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-darpa-to-test-ai-controlled-jets-in-live-fly-dogfights-after-successful-simulations.md",
+      "title": "DARPA to test AI-controlled jets in live-fly dogfights after successful simulations",
+      "excerpt": "DARPA recently tested the algorithms in a simulated battle between two friendly F-16s armed with guns and missiles and a single enemy aircraft.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-23T161949.714-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/amp/",
+      "publishedDateTime": "2021-03-23T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-how-3d-machine-learning-is-transforming-the-healthcare-industry.md",
+      "title": "How 3D Machine Learning is Transforming the Healthcare Industry",
+      "excerpt": "Paul Powers, CEO of Physna and Thangs, joins ‘Cheddar Reveals’ to discuss the advantages of 3D machine learning, and how it’s transforming the healthcare industry.",
+      "sourceUrl": null,
+      "webUrl": "https://cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry",
+      "originalUrl": "https://cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.chdrstatic.com/media/8b190c38-f697-45a3-97ff-467278ac1987.png?width=1200&source=backend&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry.amp",
+      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry.amp",
+      "publishedDateTime": "2021-03-23T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cheddar",
+        "domain": "cheddar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-announcing-aws-media-intelligence-solutions.md",
+      "title": "Announcing AWS Media Intelligence Solutions",
+      "excerpt": "Today, we’re pleased to announce the availability of AWS Media Intelligence (AWS MI) solutions, a combination of services that empower you to easily integrate AI into your media content workflows. AWS MI allows you to analyze your media, improve content engagement rates, reduce operational costs, and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-aws-media-intelligence-solutions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-aws-media-intelligence-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-metistream-and-carilion-clinic-partner-to-improve-surgical-quality-using-natural-language-processing-and-artificial-intelligence.md",
+      "title": "MetiStream and Carilion Clinic Partner to Improve Surgical Quality Using Natural Language Processing and Artificial Intelligence",
+      "excerpt": "\"Carilion physicians know the ins and outs of reviewing surgical quality data. We are experts in Natural Language Processing (NLP) and AI,\" said Chiny Driscoll, CEO and founder of MetiStream. \"Together, we're the right team to address the long-standing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/metistream-and-carilion-clinic-partner-to-improve-surgical-quality-using-natural-language-processing-and-artificial/article_bfb97e71-d25a-5869-bba3-c4d94bf95979.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/metistream-and-carilion-clinic-partner-to-improve-surgical-quality-using-natural-language-processing-and-artificial/article_bfb97e71-d25a-5869-bba3-c4d94bf95979.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -798,14 +397,160 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T12:46:00-07:00",
+      "publishedDateTime": "2021-03-23T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-global-artificial-intelligence-in-construction-market-is-projected-to-reach-the-valuation-of-usd-2317-million-by-the-year-2026.md",
+      "title": "Global Artificial Intelligence in Construction Market is projected to reach the valuation of USD 2,317 million by the year 2026",
+      "excerpt": "According to BlueWeave Consulting, the Global Artificial Intelligence in Construction Market is expected to grow at a significant rate during the forecast period. The Global Artificial Intelligence in Construction Market is projected to reach the valuation of USD 2,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/03/24/home-physical-therapy-instrument-market-sales-revenue-consumption-growth-rate-by-top-manufacturers-like-north-america-eu-china-japan-southeast-asia-etc/?random-post=1",
+      "originalUrl": "https://ksusentinel.com/2021/03/24/home-physical-therapy-instrument-market-sales-revenue-consumption-growth-rate-by-top-manufacturers-like-north-america-eu-china-japan-southeast-asia-etc/?random-post=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-boostedai-integrates-esg-data-into-machine-learning-platform-boosted-insights.md",
+      "title": "Boosted.ai Integrates ESG Data into Machine Learning Platform Boosted Insights",
+      "excerpt": "Boosted.ai, the leading distributed machine learning platform for global investment professionals ... asset owners, global banks, and financial technology companies in the world. OWL is dedicated to helping clients make a positive impact by empowering ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-toronto-financial-services-investment-management-a76cc6f13c35462199bcc4a6a7ac3727",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-toronto-financial-services-investment-management-a76cc6f13c35462199bcc4a6a7ac3727",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-alluxio-advances-analytics-and-ai-with-nvidia-accelerated-computing.md",
+      "title": "Alluxio Advances Analytics and AI with NVIDIA Accelerated Computing",
+      "excerpt": "This is the case for both analytics pipelines and AI / Machine Learning (ML) pipelines. Benefits from GPU acceleration for an end-to-end pipeline are limited if data access dominates the execution time. GPU-based processing drives higher data access ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-science-scott-mcclellan-cloud-computing-open-source-software-b37172100a5402dda830de1c753045a5",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-science-scott-mcclellan-cloud-computing-open-source-software-b37172100a5402dda830de1c753045a5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-monash-university-researchers-asking-the-tough-questions-about-data-in-ai-systems.md",
+      "title": "Monash University researchers asking the tough questions about data in AI systems",
+      "excerpt": "Topic: Innovation Researchers from Melbourne's Monash University have developed a framework they say could be used to provide greater transparency into the type of data being fed into artificial intelligence (AI) systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/",
+      "originalUrl": "https://www.zdnet.com/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -826,27 +571,45 @@
       ]
     },
     {
-      "path": "_news/2021-03-20-new-cachengo-computer-vision-solution-supports-edge-facial-recognition-deployments.md",
-      "title": "New Cachengo computer vision solution supports edge facial recognition deployments",
-      "excerpt": "Computer vision solutions provider Cachengo has announced a new on-premise optimized edge service with a proprietary content delivery network (CDN) technology and advanced analytics, capable of delivering artificial intelligence applications like face ...",
+      "path": "_news/2021-03-23-neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution.md",
+      "title": "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution",
+      "excerpt": "a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS turnkey ...",
       "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202103/new-cachengo-computer-vision-solution-supports-edge-facial-recognition-deployments",
-      "originalUrl": "https://www.biometricupdate.com/202103/new-cachengo-computer-vision-solution-supports-edge-facial-recognition-deployments",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution-1030235345",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution-1030235345",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1471349/megamatcher_abis_pr_4.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T12:25:00-07:00",
+      "publishedDateTime": "2021-03-23T03:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -860,12 +623,12 @@
       ]
     },
     {
-      "path": "_news/2021-03-20-usc-scientists-say-artificial-intelligence-can-compute-formulas-for-successful-vaccines-against-covid-variants.md",
-      "title": "USC scientists say artificial intelligence can compute formulas for successful vaccines against COVID variants",
-      "excerpt": "USC researchers are looking for ways to stay one step ahead of COVID-19 variants with the help of artificial intelligence.",
+      "path": "_news/2021-03-23-data-and-ai-ethics-market-report-gives-industry-size-growth-production-types-applications-growing-rapidly-with-recent-trends-2021-to-2026.md",
+      "title": "Data and AI Ethics Market Report Gives Industry Size, Growth, Production, Types, Applications, Growing Rapidly with Recent Trends 2021 to 2026",
+      "excerpt": "The Data and AI Ethics market size analysis is provided for the international market including development history, competitive landscape analysis, major regions’ development status, manufacturing processes and cost structures. Also, the research gives ...",
       "sourceUrl": null,
-      "webUrl": "https://abc7.com/covid-vaccine-coronavirus-research-variants/10430584/",
-      "originalUrl": "https://abc7.com/covid-vaccine-coronavirus-research-variants/10430584/",
+      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-report-gives-industry-size-growth-production-types-applications-growing-rapidly-with-recent-trends-2021-to-2026-2021-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-report-gives-industry-size-growth-production-types-applications-growing-rapidly-with-recent-trends-2021-to-2026-2021-03-23",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -873,14 +636,76 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/",
-      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/",
-      "publishedDateTime": "2021-03-19T11:51:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T00:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC7",
-        "domain": "abc7.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025.md",
+      "title": "Deep Learning Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2025",
+      "excerpt": "Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025-2021-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025-2021-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -894,12 +719,12 @@
       ]
     },
     {
-      "path": "_news/2021-03-20-fact-sheet-opportunity-hub-announces-new-racial-equity-focused-ecosystem-development-expansion-edge-technology-training-school-acquisition.md",
-      "title": "FACT SHEET: Opportunity Hub Announces New Racial Equity Focused Ecosystem Development Expansion, Edge Technology Training School Acquisition & Startup Entrepreneurship Support ...",
-      "excerpt": "To mark its ongoing commitment and work to scaling racial equity in the fourth industrial revolution and beyond, OHUB announces the following new acqu",
+      "path": "_news/2021-03-23-canada-based-startup-dataperformers-targets-ai-powered-visual-inspection-solutions.md",
+      "title": "Canada-based startup Dataperformers targets AI-powered visual inspection solutions",
+      "excerpt": "innovation clusters that host world-leading AI technology firms and talent, startup Dataperformers endeavors to incorporate AI technologies into the day-to-day operations of the manufacturing industry. The Dataperformers team specializing in deep learning ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210319005442/en/FACT-SHEET-Opportunity-Hub-Announces-New-Racial-Equity-Focused-Ecosystem-Development-Expansion-Edge-Technology-Training-School-Acquisition-Startup-Entrepreneurship-Support-Initiative-during-2021-SXSW",
-      "originalUrl": "https://www.businesswire.com/news/home/20210319005442/en/FACT-SHEET-Opportunity-Hub-Announces-New-Racial-Equity-Focused-Ecosystem-Development-Expansion-Edge-Technology-Training-School-Acquisition-Startup-Entrepreneurship-Support-Initiative-during-2021-SXSW",
+      "webUrl": "https://www.digitimes.com/news/a20210322PD215.html?chid=9",
+      "originalUrl": "https://www.digitimes.com/news/a20210322PD215.html?chid=9",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -909,11 +734,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T11:39:00-07:00",
+      "publishedDateTime": "2021-03-22T21:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Digi Times",
+        "domain": "digitimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -923,7 +748,333 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-moodys-analytics-wins-award-for-best-use-of-ai-in-banking-or-fintech.md",
+      "title": "Moody’s Analytics Wins Award for Best Use of AI in Banking or FinTech",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Moody’s Analytics has won Best Use of AI in Banking or FinTech at the 2021 Global Achievement Awards for AI. This award recognizes the Credit Sentiment Score™ solution ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/moodys-analytics-wins-award-for-best-use-of-ai-in-banking-or-fintech-2021-03-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/moodys-analytics-wins-award-for-best-use-of-ai-in-banking-or-fintech-2021-03-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-rates-of-cognitive-and-functional-impairments-in-older-adults-residing-in-a-continuing-care-senior-housing-community.md",
+      "title": "Rates of Cognitive and Functional Impairments in Older Adults Residing in a Continuing Care Senior Housing Community",
+      "excerpt": "Department of Psychiatry, University of California San Diego, 9500 Gilman Dr, La Jolla, CA 92093, USA Sam and Rose Stein Institute for Research on Aging, University of California San Diego, La Jolla, CA 92093, USA Research Service, VA San Diego Healthcare ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/rates-of-cognitive-and-functional-impairments-in-older-adults-residing-in-a-continuing-care-senior-housing-community/28F7A0DF2FA15A2EC74D9CE38D5D3142",
+      "originalUrl": "https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/rates-of-cognitive-and-functional-impairments-in-older-adults-residing-in-a-continuing-care-senior-housing-community/28F7A0DF2FA15A2EC74D9CE38D5D3142",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-flex-logix-raises-55m-to-design-ai-chips-for-edge-enterprise-applications.md",
+      "title": "Flex Logix raises $55M to design AI chips for edge enterprise applications",
+      "excerpt": "Flex Logix, a startup developing AI accelerator hardware, has raised $55 million to bring its chips to market.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/22/flex-logix-raises-55m-to-design-ai-chips-for-edge-enterprise-applications/",
+      "originalUrl": "https://venturebeat.com/2021/03/22/flex-logix-raises-55m-to-design-ai-chips-for-edge-enterprise-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/22/flex-logix-raises-55m-to-design-ai-chips-for-edge-enterprise-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/22/flex-logix-raises-55m-to-design-ai-chips-for-edge-enterprise-applications/amp/",
+      "publishedDateTime": "2021-03-22T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
+      "title": "AI & ML latest: Google disbands another AI ethics committee",
+      "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computing.co.uk/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
+          "width": 370,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-nvidia-could-create-the-worlds-fastest-mining-card-using-its-a100-gpu.md",
+      "title": "Nvidia could create the world's fastest mining card using its A100 GPU",
+      "excerpt": "The news comes from regular hardware leaker kopite7kimi. They tweeted that the new CMP HX card based on the A100 will be a “mining monster,” though",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89000-nvidia-could-create-world-fastest-mining-card-using.html",
+      "originalUrl": "https://www.techspot.com/news/89000-nvidia-could-create-world-fastest-mining-card-using.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89000-nvidia-could-create-world-fastest-mining-card-using.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89000-nvidia-could-create-world-fastest-mining-card-using.html",
+      "publishedDateTime": "2021-03-22T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-gartner-names-ibm-a-leader-in-2021-magic-quadrant-for-insight-engines.md",
+      "title": "Gartner Names IBM a Leader in 2021 Magic Quadrant for Insight Engines",
+      "excerpt": "Gartner has once again recognized IBM as a “Leader” in its Magic Quadrant for Insight Engines. Gartner defines the Insight Engine category as “an evolution of search technologies that provide on-demand and proactive knowledge discovery and exploration augmented by semantic and machine learning technologies.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/ibm-gartner-leader-2021-magic-quadrant-insight-engines/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/ibm-gartner-leader-2021-magic-quadrant-insight-engines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T08:36:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-what-drives-nithya-sambasivans-fight-for-fairness.md",
+      "title": "What drives Nithya Sambasivan’s fight for fairness",
+      "excerpt": "When Nithya Sambasivan was finishing her undergraduate degree in engineering, she felt slightly unsatisfied. “I wanted to know, ‘how will the technology I build impact people?’” she says. Luckily, she would soon discover the field of Human Computer Interaction (HCI) and pursue her graduate degrees. She",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/",
+      "originalUrl": "https://blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/amp/",
+      "publishedDateTime": "2021-03-22T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies.md",
+      "title": "DeepMind Proposes Manipulation-Independent Representations for Imitation of Behaviours Demonstrated by Previously Unseen Manipulator Morphologies",
+      "excerpt": "A research team from DeepMind proposes manipulation-independent representations (MIR) that can support successful imitation of behaviours demonstrated by previously unseen manipulator morphologies using only visual observations.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2021/03/22/deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies/",
+      "originalUrl": "https://syncedreview.com/2021/03/22/deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

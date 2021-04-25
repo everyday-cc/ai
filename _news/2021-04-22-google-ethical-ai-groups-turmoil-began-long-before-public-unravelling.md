@@ -43,29 +43,20 @@ related:
         height: 349
         isCached: true
   - title: "Google Turmoil Exposes Cracks Long in Making for Top AI Watchdog"
-    excerpt: "Google held up its Ethical AI research team as a shining example of a concerted effort to address thorny issues raised by its innovations. Created in 2017, the group assembled researchers from underrepresented communities and varied areas of expertise to examine the moral implications of futuristic technology and illuminate Silicon Valley’s blind spots."
-    publishedDateTime: 2021-04-22T03:51:00Z
+    excerpt: "Gebru had emerged as one of a handful of artificial intelligence researchers who was well-known outside ... In the spring of 2020, Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent Alphabet Inc ..."
+    publishedDateTime: 2021-04-21T19:11:00Z
     webUrl: "https://www.bloombergquint.com/technology/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
     type: article
     provider:
       name: BloombergQuint
       domain: bloombergquint.com
-    quality: 43
+    quality: 39
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI58F34A2pB0/v1/560x-1.jpg"
-        width: 560
-        height: 746
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "2 Unpacking the Ethics of AI"
-    excerpt: "In this chapter, we explore a number of experiments revealing people's attitudes toward artificial intelligence (AI). They compare people's reactions to humans and machines performing the same action."
-    publishedDateTime: 2021-04-19T02:52:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9361686"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 34
 
-secured: "1vDJ2J79uChbhXa8JJSt3UGFFgh5OYBUBSKleJBzfs9ZHvxJOoxYOi2rwzU7JoclI60Bb/x3f9nPnN2v6p3Gy2EGqsGbty9Wlyj6pmBEUUUKsM9rSM039BHKAD8aUEZiSOJcJCRig56TIiuP3UPDkRdXrwucM/RClSk9q96YcTXGVU0jMmKwbWy4KlImXqMgJUzb34jOvgxlxLXGVlGMl+RiIKIR3qJRbZyDE3tGpuzqy48yFCedqIUIegFQOu7GLwwrbJvXRL1Iao6WrdExkB669mlDqCBZgu9mMa4b6jXoEQRvq69sdTPkHJzaTd2d/LxX1MnfRWGQ5Aor5buOSkyBHABw4pTKANneVeF+Jdc=;Wg1PjCFRmSwougPfPh3WJQ=="
+secured: "SUlrJNts905AQu3xCpzuW3I7yii6RoPdfrq+7k/tWXWEaAzZ9zv3w4LhiKc3h87bo3QpMuaRzLyrfJT/ajbm+HsW4PlDNqrX7uIkqe77RfJnBbZM3TNm73yyY2LT8/vWz/D4JVcAXZVa6NySz0aKKKbaNdJ2ipe6sSrI0VZdE0u2vfM0ubULge8m02Fme9BaUKxuKLGm9728Z3AOWNVsl3jALQB9Nm7Jal3kM1PkDxn57vmQXvhwvTsOKOD4FIJHlV+GmyShZ8L8YDgnvGGTVMwgm90rWVw4NzBgeZ4xgv75bZhKWEldD6AN0icargp3DKtmrv8rIJlmqSUAqoKctaxi1GHZm3zImyWFFi/ox9wwNdMuJaFmaZYQ/+enAms5AgRl2F2JBP0vbYRMKdr67XG/LmyszsEAxU3lzhFWP6YxGOiuIdEwPzUe4wUk0RRY0lwdhdn9RFCzMYkzdr1IBf/4L4OWgWknpBeV3LwrEkXUumH9jonSW5RFpCngozdl7Fjl205Z1PBWjazrLVEmdw==;IsDA+nUDSPb8eCDVbhsmgQ=="
 ---
 

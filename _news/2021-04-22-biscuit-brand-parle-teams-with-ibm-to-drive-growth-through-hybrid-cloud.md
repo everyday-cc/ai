@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Best-selling biscuit brand leverages IBM hybrid cloud and AI to boost business"
+    excerpt: "HR and procurement AI: IBM will use IBM Watson Studio to design a performance management framework, monitoring business processes and advocate for an appropriate product mix, faster planning and scheduling, and optimization of supply chain costs Services ..."
+    publishedDateTime: 2021-04-23T14:11:00Z
+    webUrl: "https://www.techrepublic.com/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 85
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/23/cf57977a-339f-47ca-a9c3-232b140459b5/resize/1200x/6307c769b08bc1bb15ba9b3346faf9ff/parle.jpg"
+        width: 1200
+        height: 963
+        isCached: true
   - title: "Parle Products to leverage on IBM hybrid cloud and AI to drive growth"
     excerpt: "With this, Parle hopes to find new ways to get its products to the consumer as the pandemic disrupts supply chain and mandates WFH for some employees"
     publishedDateTime: 2021-04-22T10:41:00Z

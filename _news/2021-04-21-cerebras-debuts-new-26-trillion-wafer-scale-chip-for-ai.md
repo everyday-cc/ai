@@ -57,6 +57,20 @@ related:
         width: 620
         height: 345
         isCached: true
+  - title: "Cerebras debuts new 2.6 trillion transistor wafer scale chip for AI"
+    excerpt: "Cerebras Systems has unveiled its Wafer Scale Engine 2, its successor chip to the world's largest computer chip, the WSE. The new 7nm chip now boasts 2.6 trillion transistors and 850,000 'AI optimized' cores."
+    publishedDateTime: 2021-04-24T07:11:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/cerebras-debuts-new-26-trillion-wafer-scale-chip-for-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Cerebras.040bff2c.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AqozkmJevg8rdC8fck5h/OzjOynZZRmiGWsvP866/kKDR+vK3FNQEB+ZlVMoT16LdUH0gfMPA7zlnpsqxwCKsPZQnFFEOAGzVdz36VCB3z4OuVonTkul5w+nFsxge7ItS3hiW56Y8/T3xz1ffaZBdmj/b9P15J0cKlkdGamoBN0YZ2atINuGVve8u7tFFA7Ux5tFJMoNCwHRCF+zUeoblIX8aohIzKeYwsEK9dJbg3ycf/6rndaF42Yl8lY38eo89D0hmhlTdkarGRWK8b5tjTt9tZHhLR93p00RTGN2BPS7BajNMn7R6d/bqpVmIy3cJuSrqdETFDcRf6Kx8CzBk5BOL3STzzpH56qTsUzTtv3L32likBVWEMbq16CAOkAhOinsz2oOE0jLDXVUkstif6JXhYjlPi9Ipw06HjyLHBxYocUkhx0LvERVClCmH6/SnCqBqyPbxshxewMwD/81VIyfUHOKrjBxjD+C7jBOUnoUQ1FptPWzbvvQDtfbDcj9auUAumOGMWr89oH0IT3QiQ==;8lzFxuv+/6LoJxiz+CKwjw=="
 ---

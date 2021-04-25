@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-internet-traffic-using-aws-network-firewall/"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Build a medical sentence matching application using BERT and Amazon SageMaker"
+    excerpt: "Determining the relevance of a sentence when compared to a specific document is essential for many different types of applications across various industries. In this post, we focus on a use case within the healthcare field to help determine the accuracy of information regarding patient health. Frequently,"
+    publishedDateTime: 2021-04-23T17:52:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-medical-sentence-matching-application-using-bert/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/15/1-Architecture1305.jpg"
+        width: 800
+        height: 509
+        isCached: true
   - title: "Quality Assessment for SageMaker Ground Truth Video Object Tracking Annotations using Statistical Analysis"
     excerpt: "Data quality is an important topic for virtually all teams and systems deriving insights from data, especially teams and systems using machine learning (ML) models. Supervised ML is the task of learning a function that maps an input to an output based on examples of input-output pairs. For a supervised"
     publishedDateTime: 2021-04-22T17:18:23Z

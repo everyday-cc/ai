@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-
 cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362.amp.html"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -43,28 +43,19 @@ related:
         height: 826
         isCached: true
   - title: "Google Turmoil Exposes Cracks Long in Making for Top AI Watchdog"
-    excerpt: "Google held up its Ethical AI research team as a shining example of a concerted effort to address thorny issues raised by its innovations. Created in 2017, the group assembled researchers from underrepresented communities and varied areas of expertise to examine the moral implications of futuristic technology and illuminate Silicon Valley’s blind spots."
-    publishedDateTime: 2021-04-22T03:51:00Z
+    excerpt: "Gebru had emerged as one of a handful of artificial intelligence researchers who was well-known outside ... In the spring of 2020, Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent Alphabet Inc ..."
+    publishedDateTime: 2021-04-21T19:11:00Z
     webUrl: "https://www.bloombergquint.com/technology/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
     type: article
     provider:
       name: BloombergQuint
       domain: bloombergquint.com
-    quality: 43
+    quality: 39
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI58F34A2pB0/v1/560x-1.jpg"
-        width: 560
-        height: 746
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "2 Unpacking the Ethics of AI"
-    excerpt: "In this chapter, we explore a number of experiments revealing people's attitudes toward artificial intelligence (AI). They compare people's reactions to humans and machines performing the same action."
-    publishedDateTime: 2021-04-19T02:52:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9361686"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 34
 
 secured: "jCHJQ9sbI92mhiB6vg0/XTGzlM/2B93asMy2PIF00DiRy2EKqzDjlq6qUV+f87FwGy1Suw8A351lMncY5lKD7wLySE7UFTVf3RFi0TvdGAmZ68+/QnLNDAKEOzsTVQBUSyylaNCFu0pnnMZASonxRKKHmHbdV+IpHuhHXpStwLBQphbKZoXf0E5ym3EcL/Mj4MO4C5ZFioEhcJvFYwDZIzv1F4eNVPPaN8ezy0NOIRUmZz1+sEqu+6N4OSspV4UL+QdCKYN+zwao+LIDzm4qNfbhWxQQB3MBgTRUwyjyt5qKIwjLmbX0Fn8AUBzGKG2HGpi1MYMcnP/I/MyefBuxmOdrgAXpbO5ev9z6t1un/fcqZehhZ1rNd00lXSeDOk+xlQrzRMfRo7EMPtRY1m1Pxx6Hm7RegYUZWQLgVnM5SDU0w1jJz4XU5Wwnj8coMM9nKwcKHJwE4o/EaM19Ii0nDdx1FZKsvgzLlba2aqWFNsnfq1NgG6zwV9nUOW7XpiTla91AZIEfmOv2dELpXh4arg==;dAmVCNgkrEyWP9103+MlGg=="
 ---

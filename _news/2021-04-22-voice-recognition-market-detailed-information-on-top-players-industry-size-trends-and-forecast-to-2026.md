@@ -43,34 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Neural Network Software Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2021-04-20T09:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-2021-04-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning as a Service Market Research Report by Type, by Distribution Channel – Global Forecast to 2025 – Cumulative Impact of COVID-19"
-    excerpt: "The Machine Learning as a Service Market is expected to exceed more than US$ 7500 Million by 2024 at a CAGR of 42% in"
-    publishedDateTime: 2021-04-20T09:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-research-report-by-type-by-distribution-channel-global-forecast-to-2025-cumulative-impact-of-covid-19-2021-04-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "LNXYBRj852R8tfL61RYg3dOr9aer5TaJ3swiXT5Gxcx+2bmzHsTepPd2VEVGes5In3GntX9LPgV8CGb8vr+vQyOgFhZ8IfuWA+93BPZw8hlayuIi6nvJrqK5FliCgL/0TsGMXTjyLTpuBHVptnUhtibP1mfvqcCLdiDkBJBHDjQKipfuXJaYYG71Pu2JuebfGA0E7ebLPRZ6yzNu4iVpwZO29ufAfBSliJ0gC2Y4ElO1GqpJB0jZXntLyOUIbHjQC+gszeRfxPtmXMWMJGAa4AdwC5coif3hISNgJU7G/zJFfroCDr7ok0K5i/1gh36+hBsZTt+RMppHhJWWXlsTvHYUF6x/kUZiKGVMYr8kuAo=;J5cDp4r51rPsTQEwEYlSfA=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-06-the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding.md",
+      "title": "The $2,100-A-Month Factory Robot: Rapid Robotics Pushes To Automate Small Manufacturers, Helped By $12 Million In New Funding",
+      "excerpt": "Forget big, fancy robots. Rapid Robotics wants to spread its robots, which are inexpensive and programmed to do very simple jobs, at small manufacturers across the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/",
+      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606a7fe1ef90295a9f3f14d4%2F0x0.png",
+          "width": 745,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/04/06/the-2100-a-month-factory-robot-rapid-robotics-pushes-to-automate-small-manufacturers-helped-by-12-million-in-new-funding/amp/",
+      "publishedDateTime": "2021-04-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-softbank-to-buy-28-bn-stake-in-norway-robotics-firm.md",
       "title": "Softbank to buy $2.8 bn stake in Norway robotics firm",
       "excerpt": "Japanese investment giant SoftBank Group will buy a 40 percent stake in Norwegian robotics company AutoStore ... on some of the tech world's hottest start-ups and biggest names, ranging from artificial intelligence to biotech companies.",
@@ -1264,40 +1316,6 @@
       "provider": {
         "name": "The Straits Times",
         "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-fact-sheet-opportunity-hub-announces-new-racial-equity-focused-ecosystem-development-expansion-edge-technology-training-school-acquisition.md",
-      "title": "FACT SHEET: Opportunity Hub Announces New Racial Equity Focused Ecosystem Development Expansion, Edge Technology Training School Acquisition & Startup Entrepreneurship Support ...",
-      "excerpt": "To mark its ongoing commitment and work to scaling racial equity in the fourth industrial revolution and beyond, OHUB announces the following new acqu",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210319005442/en/FACT-SHEET-Opportunity-Hub-Announces-New-Racial-Equity-Focused-Ecosystem-Development-Expansion-Edge-Technology-Training-School-Acquisition-Startup-Entrepreneurship-Support-Initiative-during-2021-SXSW",
-      "originalUrl": "https://www.businesswire.com/news/home/20210319005442/en/FACT-SHEET-Opportunity-Hub-Announces-New-Racial-Equity-Focused-Ecosystem-Development-Expansion-Edge-Technology-Training-School-Acquisition-Startup-Entrepreneurship-Support-Initiative-during-2021-SXSW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

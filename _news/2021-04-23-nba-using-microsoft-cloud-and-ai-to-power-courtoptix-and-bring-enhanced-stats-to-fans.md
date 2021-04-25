@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-cou
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/"
 type: article
 quality: 96
-heat: 166
+heat: 146
 published: true
 
 provider:
@@ -41,7 +41,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
         width: 1200
@@ -75,29 +75,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Updated Microsoft AI-100 Exam Dumps [2021] Azure AI Engineer Associate Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft AI-100 exam with ITExamQuestions AI-100 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-100 Microsoft Designing and Implementing an Azure AI Solution exam?"
-    publishedDateTime: 2021-04-18T21:55:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-ai-100-exam-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 64
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Cloud rivals AWS, Microsoft compete in a new arena: specialized AI services"
-    excerpt: "AWS and its chief competitor, Microsoft Corp., are now fine-tuning their cloud offerings, developing highly specialized products, most often with AI, that can be targeted at specific industries."
-    publishedDateTime: 2021-04-19T02:35:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/18/aws-microsoft-cloud-ai-services.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
   - title: "Prevencio Announces Laboratory Commercialization Partnership with Atlas Genomics Incorporating Microsoft’s AI-computing Cloud"
     excerpt: "Prevencio, Inc. today announces an Agreement with Atlas Genomics to commercially launch its highly accurate, AI-driven HART blood tests for heart disease and risk of heart attack, stroke, and cardiovascular death."
     publishedDateTime: 2021-04-21T14:51:00Z
@@ -122,6 +99,6 @@ related:
       domain: businesswire.com
     quality: 7
 
-secured: "jU77p1iGuaTt8fjVguhoM7uU78uBZLqLuDm06KILKgullbzqJBYq8YKP6upjsCgjw4G3079eQ324PLuAVSvDSlrza3poASb/dBEzt76DFwvB2XhbQRTykn1N2lDSeCJiaCrNp3YTCIcDxmX4zWLzOvOoFS7z/tAhQTYM5mtqr23zi5Ju9VTfkA0ifVSGxESLAEvWR0bB29tW0XHXEkWL2sv+ms8pBMqcsOWiII98NTK3T+lZ7LDrHwY+e8FcRJHlyAHT9ao9BDK+KvFfoaF2sObgDkUajapZK7q4xgUyOSo/BiHxYJOHzZt8zQuRkOGdeQNqEhyz5vv6iIDGueRSbEjl7NWY9ryT+R+7cop5cjM=;JwwhUAAEFO9KXOF8gsdJpA=="
+secured: "IoR8q71jqEBRm+AXu+rJUbPljauNPmDJ66eow1oXzNYcTEJXhzPXV2D/YE/FToikbS7UcVj226uAQ1G2XzpSGZhCUHfhwj6kucEWoZGzJW8VmYz8Gr8LlgXoNzfXs+wTaDawd5zSZvsPYzsuOdFVAMLvPFMlrnSFvUlIpRc9NaPRrH9PTgcXlTPHyugfijG4qsepEXcfMNq4ztf8kNF83Xw2WAo7+qO7zRcfWDuW6p/oMD+Zc7Yb3/9JdkUqeXifa8u6BzrTRgRN8sDxPoIVqMYjOlvKpcT+ZA5Ejl1Giwmo/rZFR8VffRtIaYyMdv06Mxf2BOCcvZKKJyRji50tFNieMIihelLOJXLHnj46oARWODaFALs6g3OVqmtoFHE7FhFSU1/f+1wJs+CRDIc58nhVyyVNdJPv5pStQmSI06RsFFRHVfxVCi5edHAjIgnXiTGKoE+a0XRWWwZUF6fcW8uW5zeLYfi1BcAcPIafWP9U/IhP/Gu/DAx3r2aIztOUakav3SWE1ZGjfZOrTe8TXQ==;ii1b6JJPWHqut78J2iYBwg=="
 ---
 

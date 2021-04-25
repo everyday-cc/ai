@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition solution to boost contactless site entry"
-    excerpt: "Biosite Systems Ltd has developed a facial recognition solution to respond to increased demand for contactless site entry"
-    publishedDateTime: 2021-04-20T11:00:00Z
-    webUrl: "https://www.pbctoday.co.uk/news/construction-technology-news/facial-recognition-construction/92223/"
-    type: article
-    provider:
-      name: pbctoday.co.uk
-      domain: pbctoday.co.uk
-    quality: 39
-    images:
-      - url: "https://www.pbctoday.co.uk/news/wp-content/uploads/2021/04/Biosite-Facial-Recognition-2-lr.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Facial recognition tech in Selarang Park Complex facilitates inmate movement"
     excerpt: "Doing so enables prison officers to focus on other functions, such as inmate rehabilitation.. Read more at straitstimes.com."
     publishedDateTime: 2021-04-22T05:13:00Z

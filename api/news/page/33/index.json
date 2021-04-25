@@ -2,667 +2,19 @@
   "page": 33,
   "value": [
     {
-      "path": "_news/2021-03-14-skt-kakao-to-cooperate-in-ai-esg-intellectual-property.md",
-      "title": "SKT, Kakao to cooperate in AI, ESG, intellectual property",
-      "excerpt": "By Kim Bo-eun SK Telecom and Kakao unveiled a partnership Sunday to co-develop technology in artificial intelligence (AI) and create a fund for environmental, social and governanc",
+      "path": "_news/2021-03-16-artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect.md",
+      "title": "Artificial Intelligence In 2021: Five Trends You May (or May Not) Expect",
+      "excerpt": "Artificial Intelligence innovation continues with explosive growth in virtually all industries. We cover five trends to expect in AI in 2021.",
       "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-13T20:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-why-artificial-intelligence-might-not-win-a-war.md",
-      "title": "Why Artificial Intelligence Might Not Win a War",
-      "excerpt": "If neural networks and machine learning remain the dominant AI guiding technologies, the operational usefulness of AI in battle will be rather limited.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/reboot/why-artificial-intelligence-might-not-win-war-180076",
-      "originalUrl": "https://nationalinterest.org/blog/reboot/why-artificial-intelligence-might-not-win-war-180076",
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/NightTankFire.jpg",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-13T19:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-items-filtered-by-date-march-2021.md",
-      "title": "Items filtered by date: March 2021",
-      "excerpt": "At present, Sunrise is rapidly deploying 5G networks for 150 cities/villages in Switzerland, which will be released in March this year. 5G will further enhance the user experience of Sunrise network,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/date?limit=3&limitstart=4536",
-      "originalUrl": "https://www.thefastmode.com/date?limit=3&limitstart=4536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-13T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-what-facial-recognition-and-the-racist-pseudoscience-of-phrenology-have-in-common.md",
-      "title": "What facial recognition and the racist pseudoscience of phrenology have in common",
-      "excerpt": "Technology commentators have panned these facial-recognition technologies as ‘literal phrenology’; they’ve also linked it to eugenics, the pseudoscience of improving the human race by ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-13T11:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-facebooks-computer-vision-system-supervises-its-own-learning-process.md",
-      "title": "Facebook’s computer vision system supervises its own learning process",
-      "excerpt": "Facebook AI researchers wrote in a blog that they have developed SEER (SElf-supERvised). This is one-of-a-kind billion-parameter self-supervised computer vision model. This model has all the potential to learn from any random group of images on the internet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/facebooks-computer-vision-system-supervises-its-own-learning-process/",
-      "originalUrl": "https://www.analyticsinsight.net/facebooks-computer-vision-system-supervises-its-own-learning-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-13T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-google-might-ask-questions-about-ai-ethics-but-it-doesnt-want-answers.md",
-      "title": "Google might ask questions about AI ethics, but it doesn't want answers",
-      "excerpt": "Gebru and Mitchell were both leading members of Google’s Ethical AI team. In other words ... highlighted the extent to which the tech industry’s recent obsession with “ethics” is such a manipulative fraud. As the industry’s feeding frenzy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e66281338e4e2ff1f94da89602c58600fb121707/0_0_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e50f04620ae0716750e717d62f5cf26a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language",
-      "publishedDateTime": "2021-03-13T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness.md",
-      "title": "AI Weekly: Facebook, Google, and the tension between profits and fairness",
-      "excerpt": "The inner workings of ethics and fairness operations at Facebook and Google reveal tension between profits and harm caused by AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/",
-      "originalUrl": "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/amp/",
-      "publishedDateTime": "2021-03-12T20:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-ai-can-bring-a-golden-age-to-humanity-but-only-if-we-have-humble-machines.md",
-      "title": "‘AI can bring a golden age to humanity — but only if we have ‘humble’ machines’",
-      "excerpt": "Speaking to Srijana Mitra Das at Times Evoke, he discusses how artificial intelligence machines could revolutionise human life — and his growing concerns about these powerful entities: What is the core of your work on AI?",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/ai-can-bring-a-golden-age-to-humanity-but-only-if-we-have-humble-machines/articleshow/81471968.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/ai-can-bring-a-golden-age-to-humanity-but-only-if-we-have-humble-machines/articleshow/81471968.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T18:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-facebook-details-ai-that-can-understand-videos.md",
-      "title": "Facebook details AI that can understand videos",
-      "excerpt": "Facebook AI research scientist Lorenzo Torresani told VentureBeat that TimeSformer can be trained in 14 hours with 32 GPUs. “Since TimeSformer specifically enables analysis of much longer videos ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/",
-      "originalUrl": "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/amp/",
-      "publishedDateTime": "2021-03-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-google-acquires-neural-network-startup-to-improve-speech-and-image-recognition-software.md",
-      "title": "Google acquires neural network startup to improve speech and image recognition software",
-      "excerpt": "Recently, Krizhevsky and Sutskever, who will both be moving to Google, developed a system that dramatically improved the state of the art in object recognition. “This is a wonderful opportunity ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/2013/03/13/google-speech-recognition-dnnresearch-373125/",
-      "originalUrl": "https://bgr.com/2013/03/13/google-speech-recognition-dnnresearch-373125/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-the-ethics-of-ai-to-ensure-food-security-and-development.md",
-      "title": "The Ethics of AI to ensure food security and development",
-      "excerpt": "DURHAM: Duke University issued a quarantine order for all of its undergraduates effective Saturday night due to a coronavirus... THE Department of Health (DoH) allayed public fears over the \"Philippine variant\" that was first detected in Central Visayas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manilatimes.net/2021/03/13/opinion/analysis/the-ethics-of-ai-to-ensure-food-security-and-development/850606/",
-      "originalUrl": "https://www.manilatimes.net/2021/03/13/opinion/analysis/the-ethics-of-ai-to-ensure-food-security-and-development/850606/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.manilatimes.net/wp-content/uploads/2021/03/artificial-intelligence20210313.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.manilatimes.net/2021/03/13/opinion/analysis/the-ethics-of-ai-to-ensure-food-security-and-development/850606/amp/",
-      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2021/03/13/opinion/analysis/the-ethics-of-ai-to-ensure-food-security-and-development/850606/amp/",
-      "publishedDateTime": "2021-03-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Manila Times",
-        "domain": "manilatimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-the-chip-shortage-seems-to-be-impacting-ai-workloads-in-the-cloud.md",
-      "title": "The Chip Shortage Seems To Be Impacting AI Workloads in the Cloud",
-      "excerpt": "The combination of a global chip shortage and increased demand for AI model training may be leading to longer wait times for some cloud GPU users. Nvidia, which makes most of the GPUs used for AI, says its overall operations are supply-constrained at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/03/12/the-chip-shortage-seems-to-be-impacting-ai-workloads-in-the-cloud/",
-      "originalUrl": "https://www.datanami.com/2021/03/12/the-chip-shortage-seems-to-be-impacting-ai-workloads-in-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/wafer_shutterstock_MS-Mikel.jpg",
-          "width": 990,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T15:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons.md",
-      "title": "Luum’s AI-based Lash Robot can delicately extend eyelashes for customers in beauty salons",
-      "excerpt": "Luum has created an AI-based Lash Robot that can delicately extend eyelashes for customers in beauty salons. I’ll let you absorb that for a minute. Luum CEO Philippe Sanchez said in an interview with VentureBeat that the lash extension procedure is ideal for robotics because it’s a tedious job for humans,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/",
-      "originalUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/lash-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/amp/",
-      "publishedDateTime": "2021-03-12T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-deep-learning-in-machine-vision-market-swot-analysis-by-key-players-iflytek-navinfo-nvidia.md",
-      "title": "Deep Learning in Machine Vision Market Swot Analysis By Key Players: IFLYTEK, NavInfo, NVIDIA",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 12, 2021 (Market Insight Reports) -- The Global Deep Learning in Machine Vision Market Report provides a holistic evaluation of the market for the forecast period (2020 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-swot-analysis-by-key-players-iflytek-navinfo-nvidia-2021-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-swot-analysis-by-key-players-iflytek-navinfo-nvidia-2021-03-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-natural-language-processing-market-size-share-growth-2021-to-2024-forecast-by-manufacturers-regions-global-type-and-application.md",
-      "title": "Natural Language Processing Market Size, Share, Growth 2021 to 2024, Forecast by Manufacturers, Regions, Global Type and Application",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 11, 2021 (The Expresswire) -- Natural Language Processing Market 2021 report tells about the production process, raw materials and equipment suppliers, various production ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-2021-to-2024-forecast-by-manufacturers-regions-global-type-and-application-2021-03-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-2021-to-2024-forecast-by-manufacturers-regions-global-type-and-application-2021-03-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T15:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box.md",
-      "title": "The Chronicles of AI Ethics: The Man, The Machine, And The Black Box",
-      "excerpt": "Today, machine learning and artificial intelligence systems, trained by data, have become so effective that many of the largest and most well-respected companies in the world use them almost exclusively to make mission-critical business decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604bd86443a3827a0c59de0c%2F0x0.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604fd2d38aad039afa630737%2F0x0.jpg",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -672,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/amp/",
-      "publishedDateTime": "2021-03-12T13:11:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/amp/",
+      "publishedDateTime": "2021-03-15T14:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -697,50 +49,32 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-03-13-facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content.md",
-      "title": "Facebook AI boss Yann LeCun goes off in Twitter rant, blames talk radio for hate content",
-      "excerpt": "Yann LeCun, Facebook’s world-renowned AI guru, had some problems with an article written about his company yesterday. So he did what any of us would do, he went on social media to air his grievances.",
+      "path": "_news/2021-03-16-computer-vision-and-deep-learning-ai-combined-in-self-walking-robotic-exoskeletons.md",
+      "title": "Computer vision and deep-learning AI combined in self-walking robotic exoskeletons",
+      "excerpt": "The system combines computer vision and deep-learning AI to mimic how able-bodied people walk by seeing their surroundings and adjusting their movements. \"We're giving robotic legs vision so they can control themselves,\" said Brokoslaw Laschowski ...",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/",
+      "webUrl": "https://www.news-medical.net/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/11/facebook-796x398.jpg",
-          "width": 796,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/amp/",
-      "publishedDateTime": "2021-03-12T11:38:00-08:00",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "publishedDateTime": "2021-03-15T14:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -749,199 +83,18 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Machine Learning",
         "AI",
-        "Facebook AI"
+        "Computer Vision"
       ]
     },
     {
-      "path": "_news/2021-03-13-aav-elevates-gene-therapy-to-new-horizons.md",
-      "title": "AAV Elevates Gene Therapy to New Horizons",
-      "excerpt": "In this new GEN eBook sponsored by Thermo Fisher Scientific, we will explore various aspects of AAV bioproduction—looking at the challenges that many investigators face, and some of the novel solutions others have employed when ramping up viral production.",
+      "path": "_news/2021-03-16-deloitte-partners-with-chatterbox-to-create-ethical-ai-technology-beena-ammanath-quoted.md",
+      "title": "Deloitte Partners With Chatterbox To Create Ethical AI Technology; Beena Ammanath Quoted",
+      "excerpt": "Deloitte AI Institute announced Monday a new partnership with Chatterbox Labs to develop Model Insights for Trustworthy AI, a Deloitte-branded product that will assist organizations address artificial intelligence (AI) ethics by monitoring,",
       "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/",
-      "originalUrl": "https://www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2021/03/Getty_597972138_AdenoAssociatedViruses-scaled-e1615387965878.jpg",
-          "width": 1400,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/amp/",
-      "cdnAmpWebUrl": "https://www-genengnews-com.cdn.ampproject.org/c/s/www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/amp/",
-      "publishedDateTime": "2021-03-12T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-applications-of-artificial-intelligence-in-cardiovascular-imaging.md",
-      "title": "Applications of artificial intelligence in cardiovascular imaging",
-      "excerpt": "In this Review, Sermesant and colleagues discuss the applications of artificial intelligence (AI) in cardiovascular imaging and explain how pre-existing clinical knowledge can be included in AI methods to increase robustness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41569-021-00527-2",
-      "originalUrl": "https://www.nature.com/articles/s41569-021-00527-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41569-021-00527-2/MediaObjects/41569_2021_527_Fig1_HTML.png",
-          "width": 685,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T10:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-4-ways-to-use-ai-to-enhance-the-customer-experience.md",
-      "title": "4 Ways to Use AI to Enhance the Customer Experience",
-      "excerpt": "Global spending on AI is expected to double by 2024. AI is quickly becoming a cornerstone of customer service especially, but consumer sentiment is mixed. Fifty percent of customers believe ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/366465",
-      "originalUrl": "https://www.entrepreneur.com/article/366465",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1615325187-GettyImages-1206801125.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/366465",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366465",
-      "publishedDateTime": "2021-03-12T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-facebook-aims-to-advance-machine-learning-with-two-new-video-ai-projects.md",
-      "title": "Facebook aims to advance machine learning with two new video AI projects",
-      "excerpt": "Facebook relies on AI to perform tasks ranging from content ... This may dramatically advance research to teach machines to understand complex long-form actions in video.” Show your support ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/03/12/facebook-aims-advance-machine-learning-two-new-video-ai-projects/",
-      "originalUrl": "https://siliconangle.com/2021/03/12/facebook-aims-advance-machine-learning-two-new-video-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/skatefb.png",
-          "width": 1200,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-insights-on-the-ai-in-computer-vision-global-market-to-2027-by-component-end-user-and-region.md",
-      "title": "Insights on the AI in Computer Vision Global Market to 2027 - by Component, End-user and Region",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, March 12, 2021 /PRNewswire/ -- The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-computer-vision-global-market-to-2027-by-component-end-user-and-region-1030179693",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-computer-vision-global-market-to-2027-by-component-end-user-and-region-1030179693",
+      "webUrl": "https://www.executivegov.com/2021/03/deloitte-partners-with-chatterbox-to-create-ethical-ai-technology-beena-ammanath-quoted/",
+      "originalUrl": "https://www.executivegov.com/2021/03/deloitte-partners-with-chatterbox-to-create-ethical-ai-technology-beena-ammanath-quoted/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -951,14 +104,91 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T07:59:00-08:00",
+      "publishedDateTime": "2021-03-15T12:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-experts-disagree-on-the-utility-of-large-language-models.md",
+      "title": "Experts Disagree on the Utility of Large Language Models",
+      "excerpt": "Large language models like OpenAI’s GPT-3 and Google Brain’s Switch Transformer have caught the eye of AI experts, who have expressed surprise at the rapid pace of improvement. However, not everybody is jumping onto the bandwagon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2021/03/15/experts-disagree-on-the-utility-of-large-language-models/",
+      "originalUrl": "https://www.datanami.com/2021/03/15/experts-disagree-on-the-utility-of-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-artificial-organs-market-worldwide-share-recent-trends-business-overview-application-types-future-growth-and-forecasts-2020-2027.md",
+      "title": "Artificial Organs Market Worldwide Share, Recent Trends, Business Overview, Application, Types, Future Growth and Forecasts 2020 - 2027",
+      "excerpt": "The global artificial organs market is expected to reach USD 32.62 Billion by 2027, according to a new report by Emergen Research. The market is experiencing rapid growth attributed to growing incidences of organ failure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-organs-market-worldwide-share-recent-trends-business-overview-application-types-future-growth-and-forecasts-2020---2027-2021-03-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-organs-market-worldwide-share-recent-trends-business-overview-application-types-future-growth-and-forecasts-2020---2027-2021-03-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -974,83 +204,31 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-03-12-aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.md",
-      "title": "AIICT with AWS offers new Certified Artificial Intelligence Professional course",
-      "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new Certified Artificial Intelligence Professional course, jointly developed with Amazon Web Services (AWS). The new course is aimed at ...",
+      "path": "_news/2021-03-16-lawsuit-challenges-clearviews-use-of-scraped-social-media-images-for-facial-recognition.md",
+      "title": "Lawsuit Challenges Clearview's Use of Scraped Social Media Images for Facial Recognition",
+      "excerpt": "Facial recognition technology is getting more sophisticated, more reliable, and more pervasive as the world eases its way toward becoming an all-encompassing surveillance state. That surveillance state doesn't even have to be built;",
       "sourceUrl": null,
-      "webUrl": "https://www.itwire.com/freelancer-sp-720/aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.html",
-      "originalUrl": "https://www.itwire.com/freelancer-sp-720/aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.html",
+      "webUrl": "https://reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/",
+      "originalUrl": "https://reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.itwire.com/media/k2/items/cache/e750cc282c5a3b7cf7d307fee6b8d38d_M.jpg",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T07:31:00-08:00",
+      "ampWebUrl": "https://reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/?amp",
+      "cdnAmpWebUrl": "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/?amp",
+      "publishedDateTime": "2021-03-15T10:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-super-recognizers-some-people-excel-at-both-face-and-voice-recognition.md",
-      "title": "Super-recognizers: Some people excel at both face and voice recognition",
-      "excerpt": "Similar findings have also been discovered for voice recognition. The condition \"phonagnosia\" describes those who struggle to recognize the voices of their friends and family. But whether or not ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-03-super-recognizers-people-excel-voice-recognition.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-03-super-recognizers-people-excel-voice-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/superrecogni.jpg",
-          "width": 926,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-03-super-recognizers-people-excel-voice-recognition.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-super-recognizers-people-excel-voice-recognition.amp",
-      "publishedDateTime": "2021-03-12T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "Reason",
+        "domain": "reason.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1066,21 +244,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-12-facebooks-ar-vision-is-a-contextual-ai-powered-interface.md",
-      "title": "Facebook’s AR Vision is a Contextual AI-Powered Interface",
-      "excerpt": "Virtual reality (VR) might be Facebook’s main commercial focus when it comes to immersive technology at the moment but the company is heavily investing in an augmented reality (AR) future. Today, Facebook Reality Labs (FRL) has given another teasing look into its vision,",
+      "path": "_news/2021-03-15-ai-for-health-a-year-of-innovations-from-grantees-across-the-globe.md",
+      "title": "AI for Health – a year of innovations from grantees across the globe",
+      "excerpt": "As we reflect on how the world has changed this past year due to the pandemic, we want to take a moment to shed light on the great work our grantee partners are doing to tackle some of the most difficult health challenges using AI and data science.",
       "sourceUrl": null,
-      "webUrl": "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/",
-      "originalUrl": "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/",
+      "webUrl": "https://blogs.microsoft.com/on-the-issues/2021/03/15/ai-for-health-grantee-partner-covid-19-anniversary/",
+      "originalUrl": "https://blogs.microsoft.com/on-the-issues/2021/03/15/ai-for-health-grantee-partner-covid-19-anniversary/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.vrfocus.com/wp-content/uploads/2021/03/Facebook_AR-Glasses.jpg",
-          "width": 711,
-          "height": 400,
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/5/2021/03/Stock-Image_3-1024x682.jpg",
+          "width": 1024,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1088,13 +266,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/amp/",
-      "cdnAmpWebUrl": "https://www-vrfocus-com.cdn.ampproject.org/c/s/www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/amp/",
-      "publishedDateTime": "2021-03-12T06:46:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T09:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VRFocus",
-        "domain": "vrfocus.com",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-machine-learning-models-for-diagnosing-covid-19-are-not-yet-suitable-for-clinical-use.md",
+      "title": "Machine learning models for diagnosing COVID-19 are not yet suitable for clinical use",
+      "excerpt": "Systematic review finds that machine learning models for detecting and diagnosing COVID-19 from medical images have major flaws and biases, making them unsuitable for use in patients. However, researchers have suggested ways to remedy the problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/uoc-mlm031221.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/uoc-mlm031221.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1104,7 +334,740 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-using-artificial-intelligence-to-improve-healthcare-for-all.md",
+      "title": "Using Artificial Intelligence to Improve Healthcare for All",
+      "excerpt": "Parkinson’s disease, which afflicts one million Americans, causes both unwanted movements, such as hand tremors, as well as difficulty in initiating",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/",
+      "originalUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-new-study-confirms-predictive-power-of-ai-for-foods-beverages.md",
+      "title": "New Study Confirms Predictive Power of AI for Foods & Beverages",
+      "excerpt": "The right taste and texture are critical to brand success while speed and accuracy are key in getting the right product to the right consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foodnavigator-usa.com/News/Promotional-Features/New-Study-Confirms-Predictive-Power-of-AI-for-Foods-Beverages",
+      "originalUrl": "https://www.foodnavigator-usa.com/News/Promotional-Features/New-Study-Confirms-Predictive-Power-of-AI-for-Foods-Beverages",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-usa.com/news/promotional-features/new-study-confirms-predictive-power-of-ai-for-foods-beverages/12241836-1-eng-GB/New-Study-Confirms-Predictive-Power-of-AI-for-Foods-Beverages.jpg",
+          "width": 980,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Food",
+        "domain": "foodnavigator-usa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-expertai-launches-a-new-natural-language-user-community-at-httpscommunityexpertai.md",
+      "title": "Expert.ai Launches a new Natural Language User Community at https://community.expert.ai",
+      "excerpt": "Expert.ai today launched a new user Community designed to serve the AI natural language understanding (NLU) and natural language",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/expertai-launches-a-new-natural-language-user-community-at-httpscommunityexpertai-301247156.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/expertai-launches-a-new-natural-language-user-community-at-httpscommunityexpertai-301247156.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook",
+          "width": 1500,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-researchers-present-spontaneous-sparse-learning-for-pcm-based-memristor-neural-networks.md",
+      "title": "Researchers present spontaneous sparse learning for PCM-based memristor neural networks",
+      "excerpt": "A recent study, affiliated with South Korea's Ulsan National Institute of Science and Technology (UNIST) has unveiled a novel technology that could improve the learning ability of artificial neural networks (ANNs).",
+      "sourceUrl": null,
+      "webUrl": "https://eurekalert.org/pub_releases/2021-03/unio-rps031521.php",
+      "originalUrl": "https://eurekalert.org/pub_releases/2021-03/unio-rps031521.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/259112_web.jpg",
+          "width": 720,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-baidu-top-artificial-intelligence-innovations-from-the-chinese-google.md",
+      "title": "Baidu : Top Artificial Intelligence Innovations From the Chinese ‘Google’",
+      "excerpt": "Beijing based Baidu Inc., host to diverse artificial intelligence innovations. This includes Autonomous driving platform Apollo, PAddlePaddle, ERNIE, DuerOS, LinearFold, etc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/baidu-top-artificial-intelligence-innovations-from-the-chinese-google/",
+      "originalUrl": "https://www.analyticsinsight.net/baidu-top-artificial-intelligence-innovations-from-the-chinese-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-10.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-deloitte-ai-institute-teams-with-chatterbox-labs-to-ensure-ethical-application-of-ai.md",
+      "title": "Deloitte AI Institute Teams With Chatterbox Labs to Ensure Ethical Application of AI",
+      "excerpt": "To help companies proactively address AI ethics, the Deloitte AI Institute developed its Trustworthy AI™ framework, which provides a guide for organizations on how to apply AI responsibly within their businesses and manage common risks and challenges ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-corporate-ethics-artificial-intelligence-fe15f1d4eb4f983512db84996b4ebae9",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-corporate-ethics-artificial-intelligence-fe15f1d4eb4f983512db84996b4ebae9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-raises-2bn.md",
+      "title": "Baidu’s AI chip unit Kunlun raises $2bn",
+      "excerpt": "Baidu Inc said its artificial intelligence chip unit Kunlun raised around $2 billion, according to a source with direct knowledge of the matter, Reuters reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.capacitymedia.com/articles/3828015/baidus-ai-chip-unit-kunlun-raises-2bn",
+      "originalUrl": "https://www.capacitymedia.com/articles/3828015/baidus-ai-chip-unit-kunlun-raises-2bn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://capacityliveblobstorage.blob.core.windows.net/files/Samsung-Baidu-Chip-3.jpg",
+          "width": 900,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Capacity Media",
+        "domain": "capacitymedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-deepmind-is-on-a-hiring-spree-for-its-new-york-ai-team-whats-cooking.md",
+      "title": "DeepMind Is On A Hiring Spree For Its New York AI Team: What’s Cooking?",
+      "excerpt": "The hiring spree started last June when Facebook AI Research (FAIR) co-founder Rob Fergus was roped in to lead DeepMind’s New York team.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/deepmind-is-on-a-hiring-spree-for-its-new-york-ai-team-whats-cooking/",
+      "originalUrl": "https://analyticsindiamag.com/deepmind-is-on-a-hiring-spree-for-its-new-york-ai-team-whats-cooking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/03/1-1024x576.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-anyword-introduces-new-marketing-language-platform-merging-performance-data-with-cutting-edge-ai-to-drive-results.md",
+      "title": "Anyword Introduces New Marketing Language Platform, Merging Performance Data with Cutting Edge AI to Drive Results",
+      "excerpt": "Anyword, formerly known as Keywee, is the world's first Language Optimization Platform that helps marketers easily optimize the words that they use, introduces",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/anyword-introduces-new-marketing-language-platform-merging-performance-data-with-cutting-edge-ai-to-drive/article_ec4a0cea-0cd2-5845-b5d8-bfbaff9fd4c7.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/anyword-introduces-new-marketing-language-platform-merging-performance-data-with-cutting-edge-ai-to-drive/article_ec4a0cea-0cd2-5845-b5d8-bfbaff9fd4c7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-ai-in-law-language-model-can-speed-up-work-of-lawyers.md",
+      "title": "AI in law: language model can speed up work of lawyers",
+      "excerpt": "The use of AI models can help legal practitioners understand complex legal texts. Julien Rossi, Amsterdam Business School researcher, is trying to",
+      "sourceUrl": null,
+      "webUrl": "https://www.miragenews.com/ai-in-law-language-model-can-speed-up-work-of-528394/",
+      "originalUrl": "https://www.miragenews.com/ai-in-law-language-model-can-speed-up-work-of-528394/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uva.nl/binaries/_ht_1539331659169/small/content/gallery/personen/r/o/julien-rossi.jpg",
+          "width": 457,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Armed robbery in Revesby",
+        "domain": "miragenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability.md",
+      "title": "Study of 25 stroke patients shows BrainQ’s wave therapy can reduce disability",
+      "excerpt": "Hat-like device developed by startup aims to treat damaged areas with 'artificial brainwaves' that mimic healthy neural networks to rebalance the brain",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/",
+      "originalUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/03/Unknown-e1615722753560-640x400.png",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/amp/",
+      "publishedDateTime": "2021-03-15T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-bioxcel-therapeutics-receives-fda-breakthrough-therapy-designation-for-bxcl501-for-the-acute.md",
+      "title": "BioXcel Therapeutics Receives FDA Breakthrough Therapy Designation for BXCL501 for the Acute ...",
+      "excerpt": "BioXcel Therapeutics, Inc. (“BioXcel” or the “Company”) (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-products-and-services-government-regulations-drug-approvals-coronavirus-pandemic-f497a4cc88cc898cfc0ec4cd0d14d3bc",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-products-and-services-government-regulations-drug-approvals-coronavirus-pandemic-f497a4cc88cc898cfc0ec4cd0d14d3bc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.md",
+      "title": "VMware, Nvidia offer GPU-powered AI in virtual machines",
+      "excerpt": "VMware and Nvidia have expanded their alliance to support Nvidia GPU-based applications on VMware's new vSphere 7 Update 2. The upgraded version of vSphere 7 will support the new Nvidia AI Enterprise offering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.html",
+      "originalUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/05/nvidia-a100-stock-100842030-large.jpg",
+          "width": 1200,
+          "height": 851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3611534/vmware-nvidia-offer-gpu-powered-ai-in-virtual-machines.amp.html",
+      "publishedDateTime": "2021-03-15T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-the-elusive-dream-of-the-driverless-car.md",
+      "title": "The Elusive Dream of the Driverless Car",
+      "excerpt": "These corporations have long promised the American public that self-driving car technology is not only imminent but will change the world for the better — reducing urban congestion, combating greenhouse gas emissions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.motherjones.com/politics/2021/03/the-elusive-dream-of-the-driverless-car/",
+      "originalUrl": "https://www.motherjones.com/politics/2021/03/the-elusive-dream-of-the-driverless-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motherjones.com/wp-content/uploads/2021/03/DavidMcNew_Getty_Images_1_2000x1124.jpeg?w=1200&h=630&crop=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mother Jones",
+        "domain": "motherjones.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-toyota-is-using-artificial-intelligence-to-build-a-new-city.md",
+      "title": "Toyota Is Using Artificial Intelligence To Build A New City",
+      "excerpt": "Toyota is building a futuristic city in Japan, powered by artificial intelligence and robots. With dedicated roads for self-driving vehicles and test AI technologies to enable smart cities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/toyota-is-using-artificial-intelligence-to-build-a-new-city/",
+      "originalUrl": "https://www.analyticsinsight.net/toyota-is-using-artificial-intelligence-to-build-a-new-city/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-9.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-global-machine-learning-as-a-service-market-improvement-industry-evolutionary-analysis-orientation-forecast-to-2030-google-inc-ibm-corporation.md",
+      "title": "Global Machine Learning as a Service Market Improvement, Industry Evolutionary Analysis, Orientation, Forecast To 2030 | Google Inc, IBM Corporation",
+      "excerpt": "tie-ups and acquisition with other Machine Learning as a Service leading establishments, financial agreements which affect the Machine Learning as a Service market in recent years are analyzed. In addition, Machine Learning as a Service company long term ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-improvement-industry-evolutionary-analysis-orientation-forecast-to-2030-google-inc-ibm-corporation-2021-03-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-improvement-industry-evolutionary-analysis-orientation-forecast-to-2030-google-inc-ibm-corporation-2021-03-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-languagewire-launch-ai-driven-instant-translation-technology-for-enterprises.md",
+      "title": "LanguageWire Launch AI-driven Instant Translation Technology for Enterprises",
+      "excerpt": "LanguageWire today launched Translate, a new instant translation technology designed and engineered for professionals who appreciate managing content efficiently and require quality translations with enterprise-grade security.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/press-releases/languagewire-launch-ai-driven-instant-translation-technology-for-enterprises/",
+      "originalUrl": "https://slator.com/press-releases/languagewire-launch-ai-driven-instant-translation-technology-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/03/LanguageWire-Logo-900x600-CD.png",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

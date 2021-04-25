@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "8 investors, founders and execs predict cybersecurity, fintech will take Belfast by storm"
+    excerpt: "Belfast is among one of the U.K.'s fastest growing tech hubs, so we reached out to investors, founders and executives for an inside look at the city's startup ecosystem."
+    publishedDateTime: 2021-04-24T06:38:00Z
+    webUrl: "https://techcrunch.com/2021/04/23/8-investors-founders-and-execs-predict-cybersecurity-fintech-will-take-belfast-by-storm/"
+    ampWebUrl: "https://techcrunch.com/2021/04/23/8-investors-founders-and-execs-predict-cybersecurity-fintech-will-take-belfast-by-storm/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/23/8-investors-founders-and-execs-predict-cybersecurity-fintech-will-take-belfast-by-storm/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 65
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-619527766.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Deep Instinct Raises $100M for its Cybersecurity Threat Prevention Platform Built on Deep Learning"
     excerpt: "Deep Instinct, cofounded by Guy Caspi, is an end-to-end cybersecurity detection platform that leverages deep learning to process threats faster than other solutions."
     publishedDateTime: 2021-04-22T13:07:00Z
@@ -48,6 +64,6 @@ related:
         height: 300
         isCached: true
 
-secured: "uR1Qh4rR7NQrJm10wPJqhL2ir4n6ehVTzWCKdAPEq+r0Ser6N/KC7D5RZZQrpsz1rIaJFEmjWJJf/V9wXVEYdYUB+gOgI+YZE9fBL6EpKRNXuGpWTLRgwIUwuE4xn6Fqxuujzci86tk8ALfhOG6RDh7kWS+b6/Lzs0UwoM3sptc2fyC4JqeXMmOxQ75k4US+OTqptP1rM1DQBkrSNI7UV7CeGfF3g1q7muRpj7PvqAZQVZav43tH/u1Kq/C1DeuvMUQkrrIvonZ6oGCdCLOUQTl8EtZ465GeXNuIGCJVB5J/t07OsfKhXPwhQHW6yt0RME+koyeU9TBza8RTknYEhHP4kOqI1O6p/jurD9j/rs8=;mzbTvDZIkKH6l1EyWDmTfw=="
+secured: "GZjFlPwKUN/IB1jeiV/deKCFIV3qpEnk1hA5QW5+78Q2wQf7vlO4x5sX9V8UKazdSQrZfpuJsBWe3ZVHP5s4zPtmVVSp94kGNtV6gEOUGlSxdcS2Xxie/F3sKBV/Ru25YrPudmlZBwQN9SKTs5EK9cfLGe5+ejC+wJ3rOyk2d9FsB3Qd7Hb+/7y93111DmjpOuqJRsFh7tVB2hpso8nhrcwwTJNcikdSUEq3yfJ7jzO2Qe0llwbIUS90GUNrr3zo3kSClJhNRB07TAclt/xn1bKwHJQsHyiGrK/6uTxJkF2t/mlaRns0HDZMdnZJ/5XLvJpRq/A5fhdeFjgZuDkSkcZ8KRH5wU7xNabHgCwQ4ZfLzk12szvkZx4AL+DBal3DU4PmEjEDhSAx/i1dugk/4fmKxwQEo/5rsyuaKUAZnczjtx2ms1/6tzIlmuk3AwXpZFL3asVP8XqhGYSle8kUXX8aZY0wc3dlktnw1vQ4KsuesrYIRGTSHWht1KNYKO9yoJl8nUm7c6cKhnbwqfeVeg==;8ZQBMmp+9YfkgwUaSPvz9g=="
 ---
 

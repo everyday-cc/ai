@@ -43,7 +43,23 @@ related:
         width: 1200
         height: 814
         isCached: true
+  - title: "8 investors, founders and execs predict cybersecurity, fintech will take Belfast by storm"
+    excerpt: "Belfast is among one of the U.K.'s fastest growing tech hubs, so we reached out to investors, founders and executives for an inside look at the city's startup ecosystem."
+    publishedDateTime: 2021-04-24T06:38:00Z
+    webUrl: "https://techcrunch.com/2021/04/23/8-investors-founders-and-execs-predict-cybersecurity-fintech-will-take-belfast-by-storm/"
+    ampWebUrl: "https://techcrunch.com/2021/04/23/8-investors-founders-and-execs-predict-cybersecurity-fintech-will-take-belfast-by-storm/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/23/8-investors-founders-and-execs-predict-cybersecurity-fintech-will-take-belfast-by-storm/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 65
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-619527766.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "Yu59tuxe/XsayAJCMBVMfYarB72Uh3BZKN0EXLhF3aGCTRcYHkJYgUkAIsgXgran0rhBcKjabslRKz2Np+bbmAM8GlGHe3M7VdStaiS5CUM8KbucyiUiLfC65EJx88radC9xuXapFSMAraFPGxhAET3cDeta/PsQXFNl4fPu5Ci/oLTHBjkkcu50gvR+e8UhuWRhe+S2v+ICJEPPJMLR1rjRJrt1NFnsdgTJUqKbz3+KsmQV4bH6GEx3/aUJgxu/irPf9cOcvpQFc/tBZoU9X1xFrmUZ9jnN14sj5bM+lmCGRyudokuOXeUJJO01Txiy1TE3CTPLq6MCLW9o4b0kNXQZ3FD2XiryCalw1s0saiA=;unmRsZ68YjVlnDNRbxkc1A=="
+secured: "qYyI88Lypgenj+tOVcLgnPPpAq0uNY1+GHIKNExyNF/7uyLHXD6JeixYMhl6p5u329tWMeFExyxYSNLAUcC/btwbdNVv2rPiX6NF9/OUtq9MBvwFLhXqkLhY7NDxZJAGhToaJWcbnCd6HHuQZKHlSzBycPA5YojTO35m9HwwEDauPMvQHIZbBky+NzdGXW4keIq4d4hWydTC6mCjQCyPq4krpQIapB81npH8B6L+8JT8r9QKXzcwqXO6fbnWa5HF9c1NaL63V8mjqNF3yKtJXFzTpl+jJ65ClfLHNBdFAiNqq2WZ2pGafAKPCVCysHC3vtYT3jQ9aSqg3341NWDiqStEulXltboc+mFYTtN6yeVehUsY9WrfCNiEMV7hDJx+UhZH1KlmwH8aW0dwQQIB0CwqB+thEkHXuFm25gHhx0JAqFg/GdEml+rkJ/ptus/HtrZ/p2Uh8/xWJMkSf1DfhpRr2Pkmv9OqgWICtgBmkRmjXxZzbyVTMiWCV3bhefBgNl5+Yk0g4OV++DsAVO/1yA==;EH87qlK4or+ZomGQIzjf0Q=="
 ---
 

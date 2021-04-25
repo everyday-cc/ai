@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-24-4-reasons-to-learn-machine-learning-with-javascript.md",
+      "title": "4 reasons to learn machine learning with JavaScript",
+      "excerpt": "There are already several JavaScript machine learning libraries. An example is TensorFlow.js, the JavaScript version of Google’s famous TensorFlow machine learning and deep learning library.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/",
+      "originalUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/01/javascript.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/amp/",
+      "publishedDateTime": "2021-04-23T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21.md",
       "title": "Microsoft details the latest developments in machine learning at GTC 21",
       "excerpt": "With the rapid pace of change in AI and machine learning, it’s no surprise Microsoft had its usual strong presence at this year’s Nvidia GTC.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -52,7 +105,8 @@
         "Microsoft AI",
         "AI",
         "Machine Learning",
-        "Google AI"
+        "Google AI",
+        "AI in Finance"
       ]
     },
     {
@@ -477,6 +531,49 @@
       "provider": {
         "name": "pv magazine International",
         "domain": "pv-magazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-coinbase-expected-to-become-worth-more-than-bp.md",
+      "title": "Coinbase expected to become worth more than BP",
+      "excerpt": "Cambridge Quantum Computing, a company that makes software for quantum computers, announced that it has hired DeepMind’s former Senior Staff Research Scientist, Professor Stephen Clark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2021/03/24/TELEMMGLPICT000254079929_trans_NvBQzQNjv4BqOTom2IDArMR5JububTrAx-tnFTrpsYaAoL1DebmRBSo.jpeg",
+          "width": 2501,
+          "height": 1563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/amp/",
+      "publishedDateTime": "2021-04-12T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1288,96 +1385,6 @@
       "topics": [
         "Google AI",
         "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow.md",
-      "title": "Aerobotics improves training speed by 24 times per sample with Amazon SageMaker and TensorFlow",
-      "excerpt": "Editor’s note: This is a guest post written by Michael Malahe, Head of Data at Aerobotics, a South African startup that builds AI-driven tools for agriculture. Aerobotics is an agri-tech company operating in 18 countries around the world, based out of Cape Town, South Africa. Our mission is to provide",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T10:03:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-ten-minute-tensorflow-speech-recognition.md",
-      "title": "Ten Minute TensorFlow Speech Recognition",
-      "excerpt": "Like a lot of people, we’ve been pretty interested in TensorFlow, the Google neural network software. If you want to experiment with using it for speech recognition, you’ll want to check out ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/03/24/ten-minute-tensorflow-speech-recognition/",
-      "originalUrl": "https://hackaday.com/2017/03/24/ten-minute-tensorflow-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/03/tensor1.gif",
-          "width": 800,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing",
         "TensorFlow"
       ]
     }

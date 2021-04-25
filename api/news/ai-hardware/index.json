@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-23-canaan-announces-partnership-with-cathay-to-launch-ai-facial-recognition-module-and-ai-chip-in-japan.md",
+      "title": "Canaan Announces Partnership with Cathay to Launch AI Facial Recognition Module and AI Chip in Japan",
+      "excerpt": "BEIJING, April 23, 2021 (GLOBE NEWSWIRE) -- Canaan Inc. (NASDAQ: CAN) (\"Canaan\" or the \"Company\"), a leading high-performance computing solutions provider, today announced that it has entered into a partnership (the \"Partnership\") with Cathay Tri-Tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/canaan-announces-partnership-with-cathay-to-launch-ai-facial-recognition-module-and-ai-chip-in-japan-2021-04-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/canaan-announces-partnership-with-cathay-to-launch-ai-facial-recognition-module-and-ai-chip-in-japan-2021-04-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame.md",
       "title": "Xiaomi Is Said to Mull Investing in AI Chipmaker Black Sesame",
       "excerpt": "Mobile phone giant Xiaomi Corp. is among investors considering joining a funding round of at least 1.5 billion yuan ($231 million) for Black Sesame Technologies Inc., according to people familiar with the matter.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-23/xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -54,58 +107,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-22-nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers.md",
-      "title": "NVIDIA Sets AI Inference Records, Introduces A30 and A10 GPUs for Enterprise Servers",
-      "excerpt": "SANTA CLARA, Calif., (GLOBE NEWSWIRE) -- NVIDIA today announced that its AI inference platform, newly expanded with NVIDIA (R) A30 and A10 GPUs for mainstream servers, has achieved record-setting performance across every category on the latest release of MLPerf.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-2021-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-2021-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-21-artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Size Report, Trend, COVID19 Impact, Industry Outlook, Derive Growth, Share, Revenue Forecast to 2027",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -114,7 +115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -212,7 +213,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -306,6 +307,40 @@
         "AI Hardware",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-anari-ai-raises-2m-to-rebuild-the-ai-hardware-industry-through-personalized-cloud-chips.md",
+      "title": "Anari AI Raises $2M to Rebuild the AI Hardware Industry Through Personalized Cloud Chips",
+      "excerpt": "Anari AI raised $2 million in seed funding led by Earlybird VC, to rebuild the AI hardware industry from scratch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210420005700/en/Anari-AI-Raises-2M-to-Rebuild-the-AI-Hardware-Industry-Through-Personalized-Cloud-Chips",
+      "originalUrl": "https://www.businesswire.com/news/home/20210420005700/en/Anari-AI-Raises-2M-to-Rebuild-the-AI-Hardware-Industry-Through-Personalized-Cloud-Chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1307,58 +1342,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat.md",
-      "title": "Intel’s new AI helps you get just the right amount of hate speech in your game chat",
-      "excerpt": "It’s bushwhacked a trail of technology and innovation in the decades since to become one of the leading manufacturers of computer chips worldwide ... of Intel that uses AI to power “White ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat",
-      "originalUrl": "https://thenextweb.com/news/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fbleepfeat.jpg&signature=27601ecd00812c157d5a630250b44201",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-10T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

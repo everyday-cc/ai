@@ -45,7 +45,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
         width: 1200
@@ -79,29 +79,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Updated Microsoft AI-100 Exam Dumps [2021] Azure AI Engineer Associate Questions"
-    excerpt: "The ultimate gateway to pass the Microsoft AI-100 exam with ITExamQuestions AI-100 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-100 Microsoft Designing and Implementing an Azure AI Solution exam?"
-    publishedDateTime: 2021-04-18T21:55:00Z
-    webUrl: "https://www.madinamerica.com/author/download-real-ai-100-exam-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 64
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
-  - title: "Cloud rivals AWS, Microsoft compete in a new arena: specialized AI services"
-    excerpt: "AWS and its chief competitor, Microsoft Corp., are now fine-tuning their cloud offerings, developing highly specialized products, most often with AI, that can be targeted at specific industries."
-    publishedDateTime: 2021-04-19T02:35:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/18/aws-microsoft-cloud-ai-services.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
   - title: "Prevencio Announces Laboratory Commercialization Partnership with Atlas Genomics Incorporating Microsoft’s AI-computing Cloud"
     excerpt: "Prevencio, Inc. today announces an Agreement with Atlas Genomics to commercially launch its highly accurate, AI-driven HART blood tests for heart disease and risk of heart attack, stroke, and cardiovascular death."
     publishedDateTime: 2021-04-21T14:51:00Z

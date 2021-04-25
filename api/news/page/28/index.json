@@ -2,12 +2,46 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2021-03-18-safety-concerns-determine-level-of-public-support-for-driverless-vehicles-finds-ntu-singapore-study.md",
-      "title": "Safety concerns determine level of public support for driverless vehicles, finds NTU Singapore study",
-      "excerpt": "Findings have implications for improving adoption rate of driverless vehicles When it comes to the use of driverless vehicles, an individual's",
+      "path": "_news/2021-03-19-facebook-teases-new-wearable-ar-tech-controlled-with-your-wrists.md",
+      "title": "Facebook Teases New Wearable AR Tech Controlled With Your Wrists",
+      "excerpt": "On Thursday, the company teased information about its “wrist-based” technology that could be combined with artificial intelligence and harnessed into wearable technology. Last year, Facebook Reality Labs unveiled Project Aria,",
       "sourceUrl": null,
-      "webUrl": "https://www.miragenews.com/safety-concerns-determine-level-of-public-530322/",
-      "originalUrl": "https://www.miragenews.com/safety-concerns-determine-level-of-public-530322/",
+      "webUrl": "https://hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device",
+      "originalUrl": "https://hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device?amp=1",
+      "cdnAmpWebUrl": "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device?amp=1",
+      "publishedDateTime": "2021-03-18T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hypebeast",
+        "domain": "hypebeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-raise-robots-and-artificial-intelligence-to-improve-social-skills-for-elementary-students.md",
+      "title": "RAISE: Robots and Artificial Intelligence to Improve Social Skills for Elementary Students",
+      "excerpt": "Project RAISE is a collaborative project between UCP of Central Florida and the University of Central Florida that aims to improve the social skills of students with disabilities by creating a teaching toolkit featuring the Dash™ robot and an AI-driven socially assistive robot,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucf.edu/research/research-project/raise-robots-and-artificial-intelligence-to-improve-social-skills-for-elementary-students/",
+      "originalUrl": "https://www.ucf.edu/research/research-project/raise-robots-and-artificial-intelligence-to-improve-social-skills-for-elementary-students/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -17,11 +51,45 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T20:32:00-07:00",
+      "publishedDateTime": "2021-03-18T11:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Armed robbery in Revesby",
-        "domain": "miragenews.com",
+        "name": "UCF Today",
+        "domain": "ucf.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-baidu-to-test-paid-robotaxi-services.md",
+      "title": "Baidu to test paid robotaxi services",
+      "excerpt": "Baidu, the Chinese internet giant and a leading autonomous driving technology developer, is poised to become the first company in China to demonstrate paid robotaxi services. The program, approved by local traffic authorities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/china/baidu-test-paid-robotaxi-services",
+      "originalUrl": "https://www.autonews.com/china/baidu-test-paid-robotaxi-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -36,12 +104,12 @@
       ]
     },
     {
-      "path": "_news/2021-03-18-startup-medoai-turns-a-new-leaf-for-ultrasound-examination-becoming-a-leader-in-ai-powered-medical-inspection-technologies.md",
-      "title": "Startup MEDO.ai turns a new leaf for ultrasound examination, becoming a leader in AI-powered medical inspection technologies",
-      "excerpt": "The stethoscope may be the one instrument common to all medical professionals today in the 21st century. Its development process from invention to widespread use over the past 200 years is probably hard to imagine.",
+      "path": "_news/2021-03-19-how-conversational-ai-can-help-efficiently-disseminate-covid-19-vaccines.md",
+      "title": "How Conversational AI can help efficiently disseminate Covid-19 vaccines",
+      "excerpt": "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a",
       "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20210317PD218.html&chid=9",
-      "originalUrl": "https://www.digitimes.com/news/a20210317PD218.html&chid=9",
+      "webUrl": "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
+      "originalUrl": "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -51,11 +119,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T19:06:00-07:00",
+      "publishedDateTime": "2021-03-18T11:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -65,16 +133,17 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-03-18-klarna-charts-a-focus-beyond-fintech-with-toplooks-acquisition.md",
-      "title": "Klarna Charts a Focus Beyond Fintech With Toplooks Acquisition",
-      "excerpt": "That’s how you get to this very efficient ad spend ultimately, because of the AI driving many iterations to get to the best-performing ad units.” Toplooks is the latest acquisition allowing Klarna to expand the scope of its services beyond fintech.",
+      "path": "_news/2021-03-19-this-powerful-supercomputer-was-built-in-just-20-weeks-with-a-bit-of-help-from-a-tiny-robot.md",
+      "title": "This powerful supercomputer was built in just 20 weeks, with a bit of help from a tiny robot",
+      "excerpt": "Nvidia announced that it would build Cambridge-1 only 20 weeks ago. Now the supercomputer is almost up and running, despite a global health crisis.",
       "sourceUrl": null,
-      "webUrl": "https://www.apparelnews.net/news/2021/mar/18/klarna-charts-focus-beyond-fintech-toplooks-acquis/",
-      "originalUrl": "https://www.apparelnews.net/news/2021/mar/18/klarna-charts-focus-beyond-fintech-toplooks-acquis/",
+      "webUrl": "https://www.zdnet.com/article/this-powerful-supercomputer-was-built-in-just-20-weeks-with-a-bit-of-help-from-a-tiny-robot/",
+      "originalUrl": "https://www.zdnet.com/article/this-powerful-supercomputer-was-built-in-just-20-weeks-with-a-bit-of-help-from-a-tiny-robot/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -82,164 +151,9 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "California Apparel News",
-        "domain": "apparelnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-uk-must-avoid-complacency-and-seize-ai-opportunity.md",
-      "title": "U.K. Must Avoid Complacency And Seize AI Opportunity",
-      "excerpt": "While it was sold to Google, Deepmind, which recently “changed everything” by solving the protein folding problem, is testament to the U.K.’s AI talent. But in the words of a House of Lords ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/",
-      "originalUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/amp/",
-      "publishedDateTime": "2021-03-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-global-machine-learning-chip-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021.md",
-      "title": "Global Machine Learning Chip Market By Type, By Application, By Segmentation, By Region, and By Country 2021",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2021 (Heraldkeepers) -- The global Machine Learning Chip market report is a comprehensive research that focuses on the overall consumption structure, development ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T15:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-microsoft-buys-the-marsden-group-to-enhance-azure-iot-industry-support.md",
-      "title": "Microsoft Buys The Marsden Group To Enhance Azure IoT Industry Support",
-      "excerpt": "Microsoft on Wednesday announced the acquisition of The Marsden Group, a Houston-based Microsoft partner that helps with industrial automation and safety processes.",
-      "sourceUrl": null,
-      "webUrl": "https://redmondmag.com/articles/2021/03/17/microsoft-buys-the-marsden-group.aspx",
-      "originalUrl": "https://redmondmag.com/articles/2021/03/17/microsoft-buys-the-marsden-group.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Magazine",
-        "domain": "redmondmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-for-oracles-updated-autonomous-data-warehouse-no-sql-needed.md",
-      "title": "For Oracle's updated Autonomous Data Warehouse, no SQL needed",
-      "excerpt": "With drag-and-drop UIs and AutoML capabilities, the simplified data warehousing tool is designed to be accessible to data analysts and business users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
-      "originalUrl": "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
-      "publishedDateTime": "2021-03-17T15:00:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-powerful-supercomputer-was-built-in-just-20-weeks-with-a-bit-of-help-from-a-tiny-robot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-powerful-supercomputer-was-built-in-just-20-weeks-with-a-bit-of-help-from-a-tiny-robot/",
+      "publishedDateTime": "2021-03-18T11:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -262,108 +176,40 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-03-18-facial-recognition-co-dodges-suit-over-okcupid-photos.md",
-      "title": "Facial Recognition Co. Dodges Suit Over OkCupid Photos",
-      "excerpt": "A facial recognition software maker has won dismissal of proposed class claims accusing it of harvesting facial data from OkCupid dating profile photos without obtaining consent from users or making certain disclosures required under Illinois' landmark biometric privacy law.",
+      "path": "_news/2021-03-19-assessment-of-medication-self-administration-using-artificial-intelligence.md",
+      "title": "Assessment of medication self-administration using artificial intelligence",
+      "excerpt": "Artificial intelligence coupled with wireless home sensors can monitor the use of insulin pens and inhalers by patients and alert of errors in self-medication in an unobtrusive manner.",
       "sourceUrl": null,
-      "webUrl": "https://www.law360.com/articles/1365826/facial-recognition-co-dodges-suit-over-okcupid-photos",
-      "originalUrl": "https://www.law360.com/articles/1365826/facial-recognition-co-dodges-suit-over-okcupid-photos",
+      "webUrl": "https://www.nature.com/articles/s41591-021-01273-1",
+      "originalUrl": "https://www.nature.com/articles/s41591-021-01273-1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1365826",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1365826",
-      "publishedDateTime": "2021-03-17T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
+      "images": [
+        {
+          "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-021-01273-1/MediaObjects/41591_2021_1273_Fig2_HTML.png",
+          "width": 685,
+          "height": 257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
       ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-researchers-enhance-quantum-machine-learning-algorithms.md",
-      "title": "Researchers enhance quantum machine learning algorithms",
-      "excerpt": "Researchers found a way to automatically infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/03/210316112244.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/03/210316112244.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T14:53:00-07:00",
+      "publishedDateTime": "2021-03-18T11:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting.md",
-      "title": "Artificial Intelligence in Healthcare: Interview With Nilesh Chandra, Healthcare Expert at PA Consulting",
-      "excerpt": "With the recent news that IBM is looking to sell Watson Health – the company’s interactive, AI platform that can answer human-posed questions in seconds – some think this might be indicative of a wider problem with the use of AI in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/amp/",
-      "publishedDateTime": "2021-03-17T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
+        "name": "Nature",
+        "domain": "nature.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -378,12 +224,12 @@
       ]
     },
     {
-      "path": "_news/2021-03-18-anywordss-technology-can-predict-marketing-language-performance-prior-to-campaign-launch.md",
-      "title": "Anywords’s Technology Can Predict Marketing Language Performance Prior to Campaign Launch",
-      "excerpt": "Anywords’s Technology Can Predict Marketing Language Performance Prior to Campaign Launch New York, NY – March 15, 2021 — Anyword, formerly known as Keywee, is the world’s first Language Optimization Platform that helps marketers easily optimize the words that they use,",
+      "path": "_news/2021-03-19-domo-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
+      "title": "Domo Achieves AWS Machine Learning Competency Status in Applied AI",
+      "excerpt": "SILICON SLOPES, Utah--(BUSINESS WIRE)--Domo (Nasdaq: DOMO) today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category. This designation recognizes that ...",
       "sourceUrl": null,
-      "webUrl": "https://thewisemarketer.com/channels/data-driven-marketing/anyword-introduces-first-language-optimization-platform-for-performance-marketing/",
-      "originalUrl": "https://thewisemarketer.com/channels/data-driven-marketing/anyword-introduces-first-language-optimization-platform-for-performance-marketing/",
+      "webUrl": "https://www.businesswire.com/news/home/20210318005321/en/Domo-Achieves-AWS-Machine-Learning-Competency-Status-in-Applied-AI",
+      "originalUrl": "https://www.businesswire.com/news/home/20210318005321/en/Domo-Achieves-AWS-Machine-Learning-Competency-Status-in-Applied-AI",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -393,234 +239,46 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thewisemarketer.com",
-        "domain": "thewisemarketer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-an-ibm-ai-debates-humansbut-its-not-yet-the-deep-blue-of-oratory.md",
-      "title": "An IBM AI Debates Humans—but It’s Not Yet the Deep Blue of Oratory",
-      "excerpt": "In 1997 IBM’s Deep Blue became the first computer to defeat a reigning chess champion, besting titan Garry Kasparov in a six-game match. Fourteen years later IBM’s Watson defeated Jeopardy! all-stars Brad Rutter and Ken Jennings at their own game.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/an-ibm-ai-debates-humans-but-its-not-yet-the-deep-blue-of-oratory/",
-      "originalUrl": "https://www.scientificamerican.com/article/an-ibm-ai-debates-humans-but-its-not-yet-the-deep-blue-of-oratory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-baidus-second-listing-in-hong-kong-to-bring-in-31-billion.md",
-      "title": "Baidu’s Second Listing In Hong Kong To Bring In $3.1 Billion",
-      "excerpt": "Baidu will use some of the funds raised to further invest in artificial intelligence (AI), including its AI cloud unit and its self-driving vehicle platform Apollo. Bank of America, Citic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/",
-      "originalUrl": "https://www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/amp/",
-      "publishedDateTime": "2021-03-17T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-the-key-to-making-ai-green-is-quantum-computing.md",
-      "title": "The key to making AI green is quantum computing",
-      "excerpt": "We’ve painted ourselves into another corner with artificial intelligence. We’re finally starting to breakthrough the usefulness barrier but we’re butting up against the limits of our our ability to responsibly meet our machines’ massive energy requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/",
-      "publishedDateTime": "2021-03-17T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-ai-company-escapes-lawsuit-over-use-of-okcupid-photos-to-guide-facial-recognition.md",
-      "title": "AI company escapes lawsuit over use of OKCupid photos to guide facial recognition",
-      "excerpt": "An Illinois federal judge has tossed a proposed class action against artificial intelligence company Clarifai Inc over its alleged unlawful use of dating profile images to train facial recognition technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/dataprivacy-clarifai-idUSL1N2LF39D",
-      "originalUrl": "https://www.reuters.com/article/dataprivacy-clarifai-idUSL1N2LF39D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LF39D",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LF39D",
-      "publishedDateTime": "2021-03-17T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-leawood-tech-startup-torchai-raises-30m-series-a-round.md",
-      "title": "Leawood tech startup Torch.AI raises $30M Series A round",
-      "excerpt": "Leawood tech startup Torch.AI raised a $30 million Series A round that will create hundreds of jobs. #kctech #AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/kansascity/news/2021/03/17/torchai-leawood-tech-startup-raises-30m-series-a.html",
-      "originalUrl": "https://www.bizjournals.com/kansascity/news/2021/03/17/torchai-leawood-tech-startup-raises-30m-series-a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-webees-no-code-end-to-end-solution-builder-software-powered-by-microsoft-azure-and-running-on-semtech-lora-devices-democratizes-iot.md",
-      "title": "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT",
-      "excerpt": "By making it easy to connect LoRa devices to Azure and by providing insights generated with Azure Cognitive Services and Azure AI, Webee and Semtech are simplifying IoT for our joint customers.” About Semtech Semtech Corporation is a leading supplier of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210317005214/en/Webees-No-Code-End-to-End-Solution-Builder-Software-Powered-by-Microsoft-Azure-and-Running-on-Semtech-LoRa-Devices-Democratizes-IoT",
-      "originalUrl": "https://www.businesswire.com/news/home/20210317005214/en/Webees-No-Code-End-to-End-Solution-Builder-Software-Powered-by-Microsoft-Azure-and-Running-on-Semtech-LoRa-Devices-Democratizes-IoT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T11:00:00-07:00",
+      "publishedDateTime": "2021-03-18T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-ageing-looming-crisis-or-booming-opportunity.md",
+      "title": "Ageing: Looming crisis or booming opportunity?",
+      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Arathi Sethumadhavan, Project Fellow, Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://europeansting.com/2021/03/18/ageing-looming-crisis-or-booming-opportunity/",
+      "originalUrl": "https://europeansting.com/2021/03/18/ageing-looming-crisis-or-booming-opportunity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://europeansting.com/2021/03/18/ageing-looming-crisis-or-booming-opportunity/amp/",
+      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/03/18/ageing-looming-crisis-or-booming-opportunity/amp/",
+      "publishedDateTime": "2021-03-18T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "europeansting.com",
+        "domain": "europeansting.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -635,12 +293,12 @@
       ]
     },
     {
-      "path": "_news/2021-03-18-retalon-announces-breakthrough-application-of-deep-learning-technology-in-business-specific-predictive-analytics.md",
-      "title": "Retalon Announces Breakthrough Application of Deep Learning Technology in Business Specific Predictive Analytics",
-      "excerpt": "Retalon introduces “Progressive Learning”, a methodology that makes the process of training of Neural Nets 80% more resistant to the bad data. TORONTO, March 17, 2021 /PRNewswire/ - Retalon, an award-winning AI & Predictive Analytics software provider announced a new approach to training of Neural Nets,",
+      "path": "_news/2021-03-18-925-million-voice-recognition-startup-pindrop-just-acquired-competitor-next-caller-to-accelerate-its-path-to-an-ipo.md",
+      "title": "$925 million voice recognition startup Pindrop just acquired competitor Next Caller to accelerate its path to an IPO",
+      "excerpt": "CEO Vijay Balasubramaniyan told Insider the acquisition brings Pindrop closer to an IPO, which the company is planning in the next two years.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-professional-services-educational-services-0d6e5bf1d8cf4438c986bddac258e316",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-professional-services-educational-services-0d6e5bf1d8cf4438c986bddac258e316",
+      "webUrl": "https://www.businessinsider.com/a16z-backed-voice-startup-pindrop-acquires-next-caller-eyes-ipo-2021-3",
+      "originalUrl": "https://www.businessinsider.com/a16z-backed-voice-startup-pindrop-acquires-next-caller-eyes-ipo-2021-3",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -650,11 +308,54 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T10:23:00-07:00",
+      "publishedDateTime": "2021-03-18T09:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-artificial-neuron-device-could-shrink-energy-use-and-size-of-neural-network-hardware.md",
+      "title": "Artificial neuron device could shrink energy use and size of neural network hardware",
+      "excerpt": "Training neural networks to perform tasks, such as recognizing images or navigating self-driving cars, could one day require less computing power and hardware thanks to a new artificial neuron ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-03-artificial-neuron-device-energy-size.html",
+      "originalUrl": "https://phys.org/news/2021-03-artificial-neuron-device-energy-size.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-03-artificial-neuron-device-energy-size.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-artificial-neuron-device-energy-size.amp",
+      "publishedDateTime": "2021-03-18T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -669,12 +370,12 @@
       ]
     },
     {
-      "path": "_news/2021-03-18-schrodinger-to-participate-in-credit-suisse-2021-healthcare-innovators-series-the-intersection-of-drug-discovery-drug-development-and-artificial.md",
-      "title": "Schrödinger to Participate in Credit Suisse 2021 Healthcare Innovators Series: The Intersection of Drug Discovery, Drug Development and Artificial Intelligence",
-      "excerpt": "Schrödinger will participate in the virtual Credit Suisse 2021 Healthcare Innovators Series on March 23, 2021.",
+      "path": "_news/2021-03-18-artificial-intelligence-system-detects-errors-when-medication-is-self-administered.md",
+      "title": "Artificial intelligence system detects errors when medication is self-administered",
+      "excerpt": "From swallowing pills to injecting insulin, patients frequently administer their own medication. But they don't always get it right. Improper adherence to doctors' orders is commonplace, accounting for thousands of deaths and billions of dollars in medical costs annually.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210317005039/en/Schrödinger-to-Participate-in-Credit-Suisse-2021-Healthcare-Innovators-Series-The-Intersection-of-Drug-Discovery-Drug-Development-and-Artificial-Intelligence",
-      "originalUrl": "https://www.businesswire.com/news/home/20210317005039/en/Schrödinger-to-Participate-in-Credit-Suisse-2021-Healthcare-Innovators-Series-The-Intersection-of-Drug-Discovery-Drug-Development-and-Artificial-Intelligence",
+      "webUrl": "https://medicalxpress.com/news/2021-03-artificial-intelligence-errors-medication-self-administered.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-artificial-intelligence-errors-medication-self-administered.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -682,13 +383,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T10:01:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-artificial-intelligence-errors-medication-self-administered.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-artificial-intelligence-errors-medication-self-administered.amp",
+      "publishedDateTime": "2021-03-18T09:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -703,12 +404,12 @@
       ]
     },
     {
-      "path": "_news/2021-03-17-bmws-new-idrive-8-gets-a-massive-curved-display-and-enhanced-voice-recognition.md",
-      "title": "BMW’s New iDrive 8 Gets A Massive Curved Display And Enhanced Voice Recognition",
-      "excerpt": "BMW’s iDrive 8 features a 12.3-inch digital instrument cluster and a 14.9-inch infotainment display in a single unit. The system will use BMW’s Intelligent Assistant AI to control vehicle functions. Users can choose between voice commands,",
+      "path": "_news/2021-03-18-facebook-unveils-ar-control-device-that-taps-into-your-nervous-system.md",
+      "title": "Facebook Unveils AR Control Device That Taps Into Your Nervous System",
+      "excerpt": "Facebook has a team of engineers working on next-generation computing devices and interfaces. The group on Thursday provided a first look at its latest prototype: a wrist-based controller that",
       "sourceUrl": null,
-      "webUrl": "https://www.zigwheels.com/news-features/news/new-bmw-idrive-8-infotainment-system-revealed-will-debut-in-the-ix-electric-suv/41472/",
-      "originalUrl": "https://www.zigwheels.com/news-features/news/new-bmw-idrive-8-infotainment-system-revealed-will-debut-in-the-ix-electric-suv/41472/",
+      "webUrl": "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/#!",
+      "originalUrl": "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/#!",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -716,13 +417,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zigwheels.com/news-features/news/new-bmw-idrive-8-infotainment-system-revealed-will-debut-in-the-ix-electric-suv/41472/?is_amp=1",
-      "cdnAmpWebUrl": "https://www-zigwheels-com.cdn.ampproject.org/c/s/www.zigwheels.com/news-features/news/new-bmw-idrive-8-infotainment-system-revealed-will-debut-in-the-ix-electric-suv/41472/?is_amp=1",
-      "publishedDateTime": "2021-03-17T09:04:00-07:00",
+      "ampWebUrl": "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/amp/",
+      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/amp/",
+      "publishedDateTime": "2021-03-18T08:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZigWheels",
-        "domain": "zigwheels.com",
+        "name": "Variety",
+        "domain": "variety.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -732,51 +433,17 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Facebook AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-03-17-china-grants-baidu-first-robotaxi-permit-for-paying-riders.md",
-      "title": "China grants Baidu first robotaxi permit for paying riders",
-      "excerpt": "Baidu displayed a self-driving car without a safety driver in Shougang Park, the headquarters of the 2022 Winter Olympics organizing committee, on the outskirts of Beijing on Tuesday, Sept. 15, 2020. (Image credit: Baidu) The city of Cangzhou in northern ...",
+      "path": "_news/2021-03-18-global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021.md",
+      "title": "Global GPU for AI Market By Type, By Application, By Segmentation, By Region, and By Country 2021",
+      "excerpt": "The global GPU for AI market report is a comprehensive research that focuses on the overall consumption structure, development trends, sales models and sales of top countries in the global GPU for AI market.",
       "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/03/17/china-grants-baidu-first-robotaxi-permit-for-paying-riders/",
-      "originalUrl": "https://technode.com/2021/03/17/china-grants-baidu-first-robotaxi-permit-for-paying-riders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/03/17/china-grants-baidu-first-robotaxi-permit-for-paying-riders/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/03/17/china-grants-baidu-first-robotaxi-permit-for-paying-riders/",
-      "publishedDateTime": "2021-03-17T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-fmcsa-driverless-truck-message-stokes-workforce-fear.md",
-      "title": "FMCSA driverless truck message stokes workforce fear",
-      "excerpt": "The FMCSA acting administrator said driverless trucks will lead to \"a major shift in the workforce,\" though a Trump-era DOT policy official said the data tells a different story.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21158179/are-driverless-truck-workforce-fears-warranted",
-      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21158179/are-driverless-truck-workforce-fears-warranted",
+      "webUrl": "https://www.marketwatch.com/press-release/global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-18",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -786,108 +453,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-fsu-researchers-report-enhanced-quantum-machine-learning-algorithms.md",
-      "title": "FSU Researchers Report Enhanced Quantum Machine Learning Algorithms",
-      "excerpt": "Florida State University researchers report they have found a way to automatically infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications. The work could help build artificial neural networks used for training computers to solve complicated,",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/03/fsu-researchers-report-enhanced-quantum-machine-learning-algorithms/",
-      "originalUrl": "https://insidehpc.com/2021/03/fsu-researchers-report-enhanced-quantum-machine-learning-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-ai-model-optimization-startup-octoml-raises-28m-series-b-round.md",
-      "title": "AI model optimization startup OctoML raises $28M Series B round",
-      "excerpt": "Machine learning acceleration startup OctoML Inc. has secured yet more ... It works by fine-tuning AI models to run on specific chip architectures, and supports all manner of standard chips ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/03/17/ai-model-optimization-startup-octoml-raises-28m-series-b-round/",
-      "originalUrl": "https://siliconangle.com/2021/03/17/ai-model-optimization-startup-octoml-raises-28m-series-b-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-speech-and-voice-recognition-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities.md",
-      "title": "Speech and Voice Recognition Market Top Companies Data 2021, Industry Share, Demand and Revenue Growth Opportunities",
-      "excerpt": "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T06:35:00-07:00",
+      "publishedDateTime": "2021-03-18T08:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -910,7 +476,454 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-thetaray-wins-transaction-security-innovation-award-in-2021-fintech-breakthrough-awards-program.md",
+      "title": "ThetaRay Wins \"Transaction Security Innovation Award\" in 2021 FinTech Breakthrough Awards Program",
+      "excerpt": "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-wins-transaction-security-innovation-award-in-2021-fintech-breakthrough-awards-program/article_b959df81-0972-5bc1-b9f6-3053043a3ef9.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-wins-transaction-security-innovation-award-in-2021-fintech-breakthrough-awards-program/article_b959df81-0972-5bc1-b9f6-3053043a3ef9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-facebook-lab-reveals-direction-of-ar-smartglasses.md",
+      "title": "Facebook Lab Reveals Direction Of AR Smartglasses",
+      "excerpt": "Facebook Reality Labs (FRL) takes the wraps off pioneering work on the AI and haptics needed for all day every  AR glasses. To have practical use, a number of technolo",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2021/03/18/facebook-lab-reveals-direction-of-ar-smartglasses/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2021/03/18/facebook-lab-reveals-direction-of-ar-smartglasses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-safety-concerns-determine-level-of-public-support-for-driverless-vehicles-finds-ntu-study.md",
+      "title": "Safety concerns determine level of public support for driverless vehicles, finds NTU study",
+      "excerpt": "When it comes to the use of driverless vehicles, an individual's support for their adoption hinges on how safe they are, rather than their economic impact or privacy concerns stemming from the data they might collect,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/ntu-scd031721.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/ntu-scd031721.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-ibms-ai-debating-system-able-to-compete-with-expert-human-debaters.md",
+      "title": "IBM's AI debating system able to compete with expert human debaters",
+      "excerpt": "IBM has developed an artificial intelligence-based system designed to engage in debates with humans. In their paper published in the journal Nature, the team members describe their system and how well it performed when pitted against human opponents.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.html",
+      "originalUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/humanai.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp",
+      "publishedDateTime": "2021-03-18T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-artificial-intelligence-brings-new-vision-to-healthcare.md",
+      "title": "Artificial intelligence brings new vision to healthcare",
+      "excerpt": "Artificial intelligence applications support doctors' diagnostic decisions, automate certain tasks, says Turkish social media expert - Anadolu Agency",
+      "sourceUrl": null,
+      "webUrl": "https://www.aa.com.tr/en/science-technology/artificial-intelligence-brings-new-vision-to-healthcare/2180566",
+      "originalUrl": "https://www.aa.com.tr/en/science-technology/artificial-intelligence-brings-new-vision-to-healthcare/2180566",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "aa.com.tr",
+        "domain": "aa.com.tr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-facebook-reveals-latest-wrist-worn-prototypes-for-xr-input-haptics.md",
+      "title": "Facebook Reveals Latest Wrist-worn Prototypes for XR Input & Haptics",
+      "excerpt": "Facebook today revealed some of its latest research and vision for a wrist-worn input device that the company expects to form the basis of AR and VR interactions and haptics in the future. The device,",
+      "sourceUrl": null,
+      "webUrl": "https://www.roadtovr.com/facebook-reveals-latest-wrist-worn-controller-prototype-for-xr-input-haptics/",
+      "originalUrl": "https://www.roadtovr.com/facebook-reveals-latest-wrist-worn-controller-prototype-for-xr-input-haptics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.roadtovr.com/facebook-reveals-latest-wrist-worn-controller-prototype-for-xr-input-haptics/amp/",
+      "cdnAmpWebUrl": "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/facebook-reveals-latest-wrist-worn-controller-prototype-for-xr-input-haptics/amp/",
+      "publishedDateTime": "2021-03-18T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Road to VR",
+        "domain": "roadtovr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-is-your-privacy-governance-ready-for-ai.md",
+      "title": "Is Your Privacy Governance Ready for AI?",
+      "excerpt": "Privacy has always meant minimizing the collection of data to what is “fit for purpose,” and then limiting the access and retention of that data only to what is required. Artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/sponsored/2021/03/is-your-privacy-governance-ready-for-ai",
+      "originalUrl": "https://hbr.org/sponsored/2021/03/is-your-privacy-governance-ready-for-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-neural-network-based-on-autocatalytic-reaction-performs-image-classification.md",
+      "title": "Neural network based on autocatalytic reaction performs image classification",
+      "excerpt": "Researchers in the US have combined an autocatalytic click reaction with automated liquid handling and UV-Vis spectroscopy to create a simple neural network that can classify binary images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chemistryworld.com/news/neural-network-based-on-autocatalytic-reaction-performs-image-classification/4013413.article",
+      "originalUrl": "https://www.chemistryworld.com/news/neural-network-based-on-autocatalytic-reaction-performs-image-classification/4013413.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chemistry World",
+        "domain": "chemistryworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-ibm-recognizes-40-innovative-female-leaders-in-annual-women-leaders-in-ai-program.md",
+      "title": "IBM Recognizes 40 Innovative Female Leaders in Annual Women Leaders in AI Program",
+      "excerpt": "... female business leaders today as part of the company’s annual Women Leaders in AI program. The women come from 18 different countries and use IBM Watson to help advance industries. This year, the women leaders include names from The Clorox Company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/ibm-recognizes-40-innovative-female-leaders-in-annual-women-leaders-in-ai-program/",
+      "originalUrl": "https://www.unite.ai/ibm-recognizes-40-innovative-female-leaders-in-annual-women-leaders-in-ai-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/03/photo-1562705121-e624542c7b9b.jpeg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-domo-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
+      "title": "Domo Achieves AWS Machine Learning Competency Status in Applied AI",
+      "excerpt": "Domo (Nasdaq: DOMO) today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category. This designation recognizes that Domo has demonstrated deep experience and expertise in building or integrating ML solutions on AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/domo-achieves-aws-machine-learning-competency-status-in-applied-ai/",
+      "originalUrl": "https://www.financialbuzz.com/domo-achieves-aws-machine-learning-competency-status-in-applied-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-mark-cuban-joins-philadelphia-startups-13m-funding-round.md",
+      "title": "Mark Cuban joins Philadelphia startup's $13M funding round",
+      "excerpt": "A Philadelphia startup raised $13 million from a group of investors that includes billionaire Mark Cuban and intends to use the funds to double the size of its staff.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/philadelphia/news/2021/03/18/fort-robotics-philadelphia-raises-13-m-double.html",
+      "originalUrl": "https://www.bizjournals.com/philadelphia/news/2021/03/18/fort-robotics-philadelphia-raises-13-m-double.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-roche-canada-artificial-intelligence-centre-of-excellence-opens-digital-competition-to-tackle-als.md",
+      "title": "Roche Canada Artificial Intelligence Centre of Excellence opens digital competition to tackle ALS",
+      "excerpt": "CNW/ - The Roche Canada Artificial Intelligence Centre of Excellence (AI CoE) is excited to collaborate with Answer ALS and EverythingALS to launch an initiative called the End ALS Challenge, with the support of ALS Society of Canada,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/roche-canada-artificial-intelligence-centre-of-excellence-opens-digital-competition-to-tackle-als-1030223657",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/roche-canada-artificial-intelligence-centre-of-excellence-opens-digital-competition-to-tackle-als-1030223657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

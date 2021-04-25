@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
   - title: "Cerebras debuts new 2.6 trillion wafer scale chip for AI"
     excerpt: "Cerebras Systems has unveiled its Wafer Scale Engine 2, its successor chip to the world's largest computer chip, the WSE. The new 7nm chip now boasts 2.6 trillion transistors and 850,000 'AI optimized' cores."
     publishedDateTime: 2021-04-21T15:54:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/cerebras-debuts-new-26-trillion-wafer-scale-chip-for-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Cerebras.040bff2c.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cerebras debuts new 2.6 trillion transistor wafer scale chip for AI"
+    excerpt: "Cerebras Systems has unveiled its Wafer Scale Engine 2, its successor chip to the world's largest computer chip, the WSE. The new 7nm chip now boasts 2.6 trillion transistors and 850,000 'AI optimized' cores."
+    publishedDateTime: 2021-04-24T07:11:00Z
     webUrl: "https://www.datacenterdynamics.com/en/news/cerebras-debuts-new-26-trillion-wafer-scale-chip-for-ai/"
     type: article
     provider:

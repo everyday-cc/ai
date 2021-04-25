@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/g-suite-technology-services-
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 750
     height: 422
     isCached: true
+
+related:
+  - title: "Healthcare Artificial Intelligence Market to See Huge Growth by 2026 | Microsoft, Micron Technology, General Electric, Medtronic"
+    excerpt: "Healthcare Artificial Intelligence Market to See Huge Growth by 2026 Microsoft Micron Technology General Electric Medtronic"
+    publishedDateTime: 2021-04-21T07:06:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/268877096/healthcare-artificial-intelligence-market-to-see-huge-growth-by-2026--microsoft-micron-technology-general-electric-medtronic"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 42
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1619141577015.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "Fk87NJ010C8nLTVE8p7AZpaSUdOquhN+io0mHiMIj4beI1QvwiNRcN926/piBHlfsUoXkESgf27E3rXYj8UF5Q6c7A4B6LuMZEGAFr4uBbM+MZLZ41xSg2lQ10BHiQAiBaamu9MT3OdTXK6+Ict0kOujhxMeZv939VnQv+rsKUR/SxAnTu6usbnKNEqUbkjS9B/lFnnJfY9F9EplTmw/QKo8/kNHGHjbUMaEcr3f4FIgdV9ghhverAcInTmoxN8MjLut9yfdIjjWAUhaoaDsgSk4/2pHGnY2KdDmZTSTQ4nrxtxwxCu6A1tNLwSsHZwhizfi1zTVUjpg3LnH45+2Ddj8Jzoa/m1Vd+tnLEcDlmg7m5zkc1M9Pw6d5HWLVtTIgu1jc/zLcgjn1IATjKk2jsGw0VQlx/mqOMsHz6MCaPzopejuNuM0tZiASintFwp2uElR5yJ4D0mIzkjVMS97IaUM1UrSNndS+ht0sFZteRa5j2tJarCHbzTWlNZ5uLYRh5KwhEo23u4uBdxHhlh4pQ==;/7y9G31omB51dGHVV0kmCA=="
 ---
