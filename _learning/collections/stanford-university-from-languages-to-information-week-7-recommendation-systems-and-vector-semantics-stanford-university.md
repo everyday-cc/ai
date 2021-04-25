@@ -2,7 +2,7 @@
 title: "From Languages to Information Week 7: Recommendation Systems and Vector Semantics | Stanford University"
 excerpt: "This is the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course"
 type: collection
-heat: 50
+heat: 51
 
 provider:
   name: Stanford University

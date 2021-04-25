@@ -2,7 +2,7 @@
 title: "Intro to Deep Learning (Udacity Nanodegree)"
 excerpt: "Welcome to Intro to Deep Learning! This course is for anyone who wants to become a deep learning engineer. I'll take you from the very basics of deep learning to the bleeding edge over the course of 4 months. In this video, we’ll predict an animal’s body weight given it’s brain weight using linear regression via 10 lines of Python."
 type: collection
-heat: 63
+heat: 62
 
 provider:
   name: Siraj Raval

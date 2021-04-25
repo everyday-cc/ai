@@ -2,7 +2,7 @@
 title: "Artificial Intelligence Tutorial For Beginners | Edureka"
 excerpt: "This 'Artificial Intelligence Tutorial For Beginners' playlist with help you learn AI from scratch. This playlist also covers concepts of Deep Learning and Tensorflow in detail with examples."
 type: collection
-heat: 96
+heat: 97
 
 provider:
   name: Edureka
@@ -18,13 +18,13 @@ items:
   - videos/edureka-artificial-intelligence-in-2-minutes-what-is-artificial-intelligence-edureka
   - videos/edureka-introduction-to-artificial-intelligence-deep-learning-edureka
   - videos/edureka-what-is-artificial-intelligence-artificial-intelligence-tutorial-for-beginners-edureka
-  - videos/edureka-top-10-applications-of-artificial-intelligence-artificial-intelligence-applications-edureka
+  - videos/edureka-top-10-applications-of-artificial-intelligence-in-2021-artificial-intelligence-training-edureka
   - videos/edureka-artificial-intelligence-tutorial-for-beginners-artificial-intelligence-explained-edureka
   - videos/edureka-q-learning-explained-reinforcement-learning-using-python-q-learning-in-ai-edureka
   - videos/edureka-what-is-artificial-intelligence-artificial-intelligence-ai-in-10-minutes-edureka
   - videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka
   - videos/edureka-breadth-first-search-algorithm-in-10-minutes-bfs-in-artificial-intelligence-edureka
-  - videos/edureka-top-10-benefits-of-artificial-intelligence-artificial-intelligence-ai-advantages-edureka
+  - videos/edureka-top-10-benefits-of-artificial-intelligence-in-2021-artificial-intelligence-advantages-edureka
   - videos/edureka-what-is-deep-learning-deep-learning-simplified-deep-learning-tutorial-edureka
   - videos/edureka-ai-vs-machine-learning-vs-deep-learning-machine-learning-training-with-python-edureka
   - videos/edureka-deep-learning-tutorial-deep-learning-tutorial-for-beginners-neural-networks-edureka
@@ -46,6 +46,8 @@ items:
   - videos/edureka-what-is-cognitive-ai-cognitive-computing-vs-artificial-intelligence-ai-tutorial-edureka
   - videos/edureka-future-of-aiml-rise-of-artificial-intelligence-machine-learning-ai-and-ml-training-edureka
   - videos/edureka-ai-in-space-science-future-of-artificial-intelligence-artificial-intelligence-training-edureka
+  - videos/edureka-how-to-become-an-artificial-intelligence-engineer-ai-engineer-skills-python-tutorial-edureka
+  - videos/edureka-ai-roadmap-for-2021-learn-ai-artificial-intelligence-careers-data-science-training-edureka
 
 topics:
   - AI

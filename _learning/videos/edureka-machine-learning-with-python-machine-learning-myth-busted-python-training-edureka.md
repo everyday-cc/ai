@@ -4,7 +4,7 @@ excerpt: "( Machine Learning Training with Python: https://www.edureka.co/data-s
 originalUrl: https://youtube.com/watch?v=fplSLR6dSiE
 type: video
 price: Free
-length: PT28M30S
+length: PT28M29S
 publishedDateTime: 2018-09-04T13:57:24Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "HcispFH7n4NM6u4B/PKkE8MDf+BDZ6BkpbDh0rYTFak4ZMSHDB5DPE1sy0pNedkyeOpqf2hHGplPAnV7PyC8hqOXmnWcHExa4TOjmrXT9QdIppWck6N1mFMHuR5ttJExGIWKGcnuZPCh2CHps5cUU/WxCyP/Kp45ZdVz5dxxE0vNiNzw92CRdIPxvC+Ol//Q8AjEZGXEr20za6rCBRKHbTdnV3wai6KkOsEYMSD2k8/yq+0yWLPPqJ1/+8Bk5EdVE6T8xEo7YFatgLAdDPTGzXsonIbno6dLKfGRjn5mz8rzn8frZkseYmHaXFJNzN58Ndaj0Ss+3yfkN64XWLbLl5PioCCslhlM7Hwm5an++BFVWVMUC0GPxsg6GHwdINivsxcWZ38vRQH00PRtQmvhyYu5CsNU6KCIPN7q5PFj6VU=;fvHXh5MBy/kNZqnWXXRSeQ=="
+secured: "Yupnq09YCtdiyfFFRU2wA03+4XtL+aGGOCN8W4ne2YD2iEEydDNZRhNz6wRT5AIYOxk2ZgzqzXAiWfdOp/QxC5F4qqyDFJ8PZ8eToaMTESRpnk6WsilJPm/6w0ppk2rOZL2oj0WDj3dG8eG7JVM8Y6OwU0NWDxHsnwz5DkFvnNEI8HfMYsTII48kkKzRylxSBi0eq4inO9W4nj0Y7RemXuRV1SZ80+mcYenL0guvFa4Cc/326sv+7hyIO8yyREFTThK+sj25Egw0RHmz6SlTHopRm9Qs+xgH7y7AROu63Bt8f9UjlHITCfmE1bpkVrFbWZBuKVAsTctp9AEcc0E1tpf/KKWzgHGyIfRDtnTgsyzEaUy33esTJvdMGZ3wpE9QFsFVV+ztkmJQip4cNW91+uN5TCcnKK3bSseSEGycsgQ=;1AqxPhq7u4Eeo6STol/ekA=="
 ---
 

@@ -2,7 +2,7 @@
 title: "Artificial Intelligence Explained by Futurology"
 excerpt: "This playlist is a composition of all videos related to artificial intelligence, from the history of AI to modern machine learning algorithms, artificial super intelligence and more!"
 type: collection
-heat: 66
+heat: 64
 
 provider:
   name: Futurology
@@ -10,16 +10,17 @@ provider:
 
 items:
   - videos/futurology-the-history-of-artificial-intelligence-documentary
-  - videos/futurology-artificial-intelligence-an-ancient-history
+  - videos/futurology-artificial-intelligence-a-history
   - videos/futurology-the-birth-of-artificial-intelligence
-  - videos/futurology-supervised-learning-explained-regression-classification-
-  - videos/futurology-unsupervised-learning-explained-clustering-manifold-learning-
-  - videos/futurology-machine-learning-explained-what-is-machine-learning
+  - videos/futurology-supervised-learning-explained
+  - videos/futurology-unsupervised-learning-explained
+  - videos/futurology-machine-learning-everything-you-need-to-know
   - videos/futurology-what-is-deep-learning-why-deep-learning-is-so-popular
   - videos/futurology-what-are-neural-networks-from-the-brain-to-artificial-intelligence
   - videos/futurology-how-to-make-a-neural-network-neural-networks-explained
   - videos/futurology-how-computers-learn-gradient-descent-backpropagation
   - videos/futurology-deep-learning-explained-how-neural-networks-work
+  - videos/futurology-how-convolutional-neural-networks-work-cnns-explained-visualized
 
 topics:
   - AI

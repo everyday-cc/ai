@@ -4,7 +4,7 @@ excerpt: "On today’s episode of TensorFlow Extended hosted by TensorFlow Devel
 originalUrl: https://youtube.com/watch?v=cc1-eocgm1E
 type: video
 price: Free
-length: PT5M32S
+length: PT5M31S
 publishedDateTime: 2019-07-29T21:20:38Z
 heat: 51
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9RMpHXmg/Cj9kgrLG3ZsPFVSuwSNtxkpKw/clug759X/5Th3MUD8H8gXuzwEG4jznhbjbWc5OPVrO2IuGn0IOe1VZmq/OEMu5JlGr47CFA9YHZBSayRCiYW4Ruze189XugUHth8o2uM5nlPibUR8L/0QgkZ2+vQVEBiMHnnFWAfWcXfnF3zyI+7tWpsRDeow5roIOsFbZKhvlrygl12PP9vc+aPPRS0DEjK+0cecar1Lea4mQP03/f+/Tjup6Q4DtWq7TQU3XL1ZG4OM+mouZ4jc/3q6tNFkmnnNlJisPLH7NujqFMqRYxO1Eydqm/EeA63RC4OcCWLv1/MPY1jlYdbHeB0JFgo326oi/i8cYBQsKKm04Bt0rvXr4skbsJm0AiQXNhVDCkTNDjtrAjDUCI3LMU1pCHPw8K/CjzXmPZQ=;xZ0cU6VQ+PLQFTHO+WzXtg=="
+secured: "5hZC5dUsubf2v+F938Ok7L8qbS9Naua7+Onr0SVzcKOuFQtIzL3pKJ3MCY5ce1ebgFfGhgVhvr9XieIB3tUKGTy65yDmoTmO2hjG/aZWs1v2b3b4giEYJ9CXprG+IBrZ3B/O1U1HmXvwkpCyJgdZxec5jtSO9K37yb3YNP2rfdHYn0iWwV1a4mOsXtJJnpLCJyaYyLYIqpi3BBkxAQ91oh5dtIBbNUTFI0MVnBqjI6JYDuzZGPVstop1SI73zaiHyyx+ImK2y4yPYT+48Sa6Vy6Autzop5/NMjCKOSnZQSdXv4aNvbon/7J+QO6lCk2RHRaV2YaJ9qvfuUApc2ivzhGoKjri7Xr/qGpFt0j86rH14VP9InUQwPtaVsSJ3GFdIY+jt2r212o9d2Ki5KwPviPcQyMn26JhLwBVEtB3zoc=;PhhbBQOSwi2LSfXR0Tw9rA=="
 ---
 

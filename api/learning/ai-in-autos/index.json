@@ -4,88 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/youtube-techcrunch-a-ride-in-a-waymo-driverless-car.md",
-      "title": "A ride in a Waymo driverless car",
-      "excerpt": "TechCrunch contributor Ed Niedemeyer gets a ride in Waymo's driverless Chrysler Pacifica minivan in the Phoenix suburb of Chandler. The company is starting to match members of its early rider program with driverless rides as it starts scaling up its robotaxi service.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/youtube-techcrunch-a-ride-in-a-waymo-driverless-car/index.json",
-      "webUrl": "https://www.youtube.com/watch?v=2hqTnmn51Fg",
-      "provider": {
-        "name": "YouTube",
-        "domain": "youtube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/youtube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "TechCrunch",
-            "domain": "techcrunch.com"
-          }
-        ]
-      },
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2hqTnmn51Fg/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCSBjg0QVu8Z7py9rwO64Sm4lHz_g",
-          "width": 336,
-          "height": 188,
-          "title": "A ride in a Waymo driverless car",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-self-driving-cars-the-future-of-autonomous-vehicles-transportation-google-waymo-simplilearn.md",
-      "title": "Self Driving Cars - The Future Of Autonomous Vehicles & Transportation | Google Waymo | Simplilearn",
-      "excerpt": "Self Driving Cars are taking technology to the next level. In this video, we will see how Google successfully launched Waymo. We will also see the drawbacks of non-automated cars and how self-driving cars are advantageous.  We will also see how these cars will change the future. Let's get started and",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-self-driving-cars-the-future-of-autonomous-vehicles-transportation-google-waymo-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-self-driving-cars-the-future-of-autonomous-vehicles-transportation-google-waymo-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=ZXp5PS07ni0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZXp5PS07ni0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M2S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-29T04:29:58-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZXp5PS07ni0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_learning/answers/what-is-deepracer.md",
       "title": "What is DeepRacer?",
       "excerpt": "AWS DeepRacer is an integrated learning system for users of all levels to learn and explore reinforcement learning and to experiment and build autonomous driving applications. It consists of an AWS Machine Learning service, AWS DeepRacer 1/18th scale RC vehicles, and DeepRacer League for paticipants to compete.",
@@ -554,6 +472,46 @@
       ]
     },
     {
+      "path": "_learning/videos/simplilearn-self-driving-cars-the-future-of-autonomous-vehicles-transportation-google-waymo-simplilearn.md",
+      "title": "Self Driving Cars - The Future Of Autonomous Vehicles & Transportation | Google Waymo | Simplilearn",
+      "excerpt": "Self Driving Cars are taking technology to the next level. In this video, we will see how Google successfully launched Waymo. We will also see the drawbacks of non-automated cars and how self-driving cars are advantageous.  We will also see how these cars will change the future. Let's get started and",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-self-driving-cars-the-future-of-autonomous-vehicles-transportation-google-waymo-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-self-driving-cars-the-future-of-autonomous-vehicles-transportation-google-waymo-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=ZXp5PS07ni0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZXp5PS07ni0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M2S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-11-29T04:29:58-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZXp5PS07ni0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/videos/vimeo-web-summit-freights-new-autonomous-journey.md",
       "title": "Freight’s new autonomous journey",
       "excerpt": "Are self-driving trucks on their way? In this keynote, Xiaodi Hou - President and CTO of TuSimple - is going to show us what the future of large scale logistics looks like.",
@@ -577,6 +535,48 @@
           "width": 590,
           "height": 332,
           "title": "Freight’s new autonomous journey",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/videos/youtube-techcrunch-a-ride-in-a-waymo-driverless-car.md",
+      "title": "A ride in a Waymo driverless car",
+      "excerpt": "TechCrunch contributor Ed Niedemeyer gets a ride in Waymo's driverless Chrysler Pacifica minivan in the Phoenix suburb of Chandler. The company is starting to match members of its early rider program with driverless rides as it starts scaling up its robotaxi service.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/youtube-techcrunch-a-ride-in-a-waymo-driverless-car/index.json",
+      "webUrl": "https://www.youtube.com/watch?v=2hqTnmn51Fg",
+      "provider": {
+        "name": "YouTube",
+        "domain": "youtube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/youtube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "TechCrunch",
+            "domain": "techcrunch.com"
+          }
+        ]
+      },
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2hqTnmn51Fg/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCSBjg0QVu8Z7py9rwO64Sm4lHz_g",
+          "width": 336,
+          "height": 188,
+          "title": "A ride in a Waymo driverless car",
           "isCached": false
         }
       ],

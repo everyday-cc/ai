@@ -4,7 +4,7 @@ excerpt: "* Machine Learning Engineer Masters Program: https://www.edureka.co/ma
 originalUrl: https://youtube.com/watch?v=_ThdIOA9Lbk
 type: video
 price: Free
-length: PT17M33S
+length: PT17M32S
 publishedDateTime: 2019-12-31T04:37:45Z
 heat: 58
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "lPfeag0fO3CGemQudgFPLIKq62R1dzGNw3ZHDJJw0INhM4mymQxdjAhOxc9CAo/CttQoVm9LMX/kukwfHK9Cv27EMP5ms7XjhZ2RGZuGFNU0DQEYGXRDfSUeIF2MnMUZxZmrxsM4ATx+S5PQsJ1DrdEBPvSjbX4MlQ/SLA0dEEExtBNWaqutsp3tZ8VinRWa8+hL+YGgsOZaYTURr4CXiJAFFvTD3Zh06b6xDiTj44ZjlEyNDQzGQ/+QJelNhNOErthuY9g48a+aUWHxsCfqu4Ts9Y5E9cm/CovE7f+81QJoBXJYJkuPUKq0rVhmyHC6bIeWhInhVUWmRyB5RtxfqO2Q4qQk1XwHaWgVw2L/newiHfFNUcIP4QKAaojMzYcuEMcajMriHpBhusWGCAgskfxi/K/+Xnda01XJyNCt86s=;sNIj1gB4t+ZMHOb4R6g8yQ=="
+secured: "8KMrZss0X1DgY2Ehsuahga9GSPcgkbQ3LUD8Zzjsot+v8OUmhU76TWhO80PsPOU8ZZXYPGcW5NmJqBxfhSMUiBQnpQjIi3kyVoFrMGss0lA5LnznnjDEFukOeiIMzRrUa9acblA1b5RmttrMJGiyX80Pg+nRa0lqhjT/ronWcrsquLJ6YLKyMvZkrO7Gt0WVnf7oTzR/+hBsxhlixgqF2Xu2lUvKTofhdtC0S0sCPd1UJhqf5H+o9XY6oGKiu5LTSFQnRdeHrtLP6lhJFaWs7Is9G0BizwEUG5ovOPbbasIt8/ZJeH8hB/kAQhPBgCsJr3s7g7fHvgMpMd51DUZVZkKDqttejhFdA7sfhT/N3YQZJSc3+M20McH+aw6ncuqvJ64OnGgQYQyjXoGItoTQLcJYt8WkuwHnIUTQspuBNd4=;6CTHFztmH41CP4xfUYBA7A=="
 ---
 

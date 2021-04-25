@@ -2,7 +2,7 @@
 title: "Machine Learning Tutorial in Python | Edureka"
 excerpt: "This Edureka playlist on 'Machine Learning Tutorial in Python' helps you gain expertise in various types of machine learning algorithms like supervised, unsupervised and reinforcement algorithms. Through this playlist you will be learning the important Machine Learning concepts and its implementation in python programming language."
 type: collection
-heat: 70
+heat: 80
 
 provider:
   name: Edureka
@@ -14,23 +14,23 @@ provider:
 
 items:
   - videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka
-  - videos/edureka-machine-learning-crash-course-2-hours-learn-machine-learning-machine-learning-tutorial-edureka
   - videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka
-  - videos/edureka-top-10-books-for-machine-learning-best-machine-learning-books-for-beginners-and-advanced-edureka
-  - videos/edureka-top-10-applications-of-machine-learning-machine-learning-application-examples-edureka
+  - videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka
+  - videos/edureka-top-10-applications-of-machine-learning-in-2021-machine-learning-application-examples-edureka
   - videos/edureka-machine-learning-tutorial-machine-learning-algorithm-machine-learning-engineer-program-edureka
   - videos/edureka-ai-vs-machine-learning-vs-deep-learning-machine-learning-training-with-python-edureka
-  - videos/edureka-how-to-become-a-machine-learning-engineer-machine-learning-engineer-salary-edureka
+  - videos/edureka-machine-learning-engineer-career-path-in-2021-machine-learning-tutorial-edureka
   - videos/edureka-10-must-have-machine-learning-engineer-skills-that-will-get-you-hired-ml-engineer-skills-edureka
   - videos/edureka-machine-learning-engineer-jobs-resume-salary-machine-learning-engineer-salary-report-edureka
+  - videos/edureka-how-to-become-a-machine-learning-engineer-machine-learning-roadmap-2021-edureka
   - videos/edureka-principal-component-analysis-in-python-basics-of-principle-component-analysis-explained-edureka
   - videos/edureka-python-tutorial-for-beginners-python-programming-language-tutorial-python-training-edureka
-  - videos/edureka-python-machine-learning-tutorial-machine-learning-algorithms-python-training-edureka
+  - videos/edureka-machine-learning-with-python-full-course-in-6-hours-python-for-machine-learning-tutorial-edureka
   - videos/edureka-how-netflix-uses-python-netflix-and-python-python-applications-edureka
   - videos/edureka-python-seaborn-tutorial-data-visualization-in-python-using-seaborn-edureka
   - videos/edureka-scikit-learn-tutorial-machine-learning-with-python-python-for-data-science-training-edureka
   - videos/edureka-top-10-python-libraries-python-certification-training-for-data-science-edureka
-  - videos/edureka-top-10-reasons-to-learn-data-science-why-data-science-data-science-training-edureka
+  - videos/edureka-top-10-reasons-to-learn-data-science-in-2021-why-data-science-data-science-training-edureka
   - videos/edureka-k-means-clustering-algorithm-k-means-example-in-python-machine-learning-algorithms-edureka
   - videos/edureka-logistic-regression-in-python-logistic-regression-example-machine-learning-algorithms-edureka
   - videos/edureka-linear-regression-algorithm-linear-regression-in-python-machine-learning-algorithm-edureka
@@ -38,7 +38,7 @@ items:
   - videos/edureka-time-series-analysis-in-python-time-series-forecasting-data-science-with-python-edureka
   - videos/edureka-decision-tree-algorithm-decision-tree-in-python-machine-learning-algorithms-edureka
   - videos/edureka-python-projects-for-beginners-python-projects-examples-python-tutorial-edureka
-  - videos/edureka-python-certification-data-science-with-python-certification-python-online-training-edureka
+  - videos/edureka-python-certification-data-science-with-python-certification-python-tutorial-edureka
   - videos/edureka-machine-learning-interview-questions-and-answers-machine-learning-interview-preparation-edureka
   - videos/edureka-knn-algorithm-using-python-how-knn-algorithm-works-python-data-science-training-edureka
   - videos/edureka-naive-bayes-classifier-in-python-naive-bayes-algorithm-machine-learning-algorithm-edureka
@@ -61,7 +61,7 @@ items:
   - videos/edureka-data-science-full-course-learn-data-science-in-3-hours-data-science-for-beginners-edureka
   - videos/edureka-artificial-intelligence-full-course-artificial-intelligence-tutorial-for-beginners-edureka
   - videos/edureka-jupyter-notebook-tutorial-introduction-to-jupyter-notebook-python-training-edureka
-  - videos/edureka-how-to-become-a-python-developer-python-tutorial-python-certification-training-edureka
+  - videos/edureka-python-developer-how-to-become-python-developer-python-tutorial-edureka
   - videos/edureka-machine-learning-basics-what-is-machine-learning-introduction-to-machine-learning-edureka
   - videos/edureka-e-ict-academy-nit-warangal-partners-with-edureka-post-graduate-program-in-ai-machine-learning
   - videos/edureka-what-is-artificial-intelligence-artificial-intelligence-ai-in-10-minutes-edureka
@@ -79,6 +79,7 @@ items:
   - videos/edureka-bias-variance-in-machine-learning-bias-variance-trade-off-machine-learning-training-edureka
   - videos/edureka-python-for-data-science-how-to-use-data-science-with-python-data-science-using-python-edureka
   - videos/edureka-what-are-gans-generative-adversarial-networks-explained-deep-learning-with-python-edureka
+  - videos/edureka-machine-learning-crash-course-2-hours-learn-machine-learning-machine-learning-tutorial-edureka
   - videos/edureka-whats-new-in-pandas-100-python-pandas-new-features-python-training-edureka
   - videos/edureka-future-of-aiml-rise-of-artificial-intelligence-machine-learning-ai-and-ml-training-edureka
   - videos/edureka-covid-19-outbreak-prediction-using-machine-learning-machine-learning-training-edureka
@@ -87,6 +88,14 @@ items:
   - videos/edureka-stock-prediction-using-machine-learning-and-python-machine-learning-training-edureka
   - videos/edureka-how-to-select-the-correct-predictive-modeling-technique-machine-learning-training-edureka
   - videos/edureka-top-10-machine-learning-trends-machine-learning-in-2020-machine-learning-training-edureka
+  - videos/edureka-machine-learning-python-machine-learning-algorithms-python-tutorial-edureka
+  - videos/edureka-aiml-facemask-detector-mask-detection-using-opencv-python-data-science-training-edureka
+  - videos/edureka-customer-segmentation-tutorial-python-projects-k-means-algorithm-python-training-edureka
+  - videos/edureka-fake-job-listing-detection-tutorial-python-projects-data-science-training-edureka
+  - videos/edureka-climate-change-prediction-using-time-series-analysis-python-projects-python-training-edureka
+  - videos/edureka-ai-roadmap-for-2021-learn-ai-artificial-intelligence-careers-data-science-training-edureka
+  - videos/edureka-ml-model-deployment-with-flask-on-heroku-how-to-deploy-machine-learning-model-with-flask-edureka
+  - videos/edureka-machine-learning-road-map-machine-learning-careers-machine-learning-training-edureka
 
 topics:
   - AI

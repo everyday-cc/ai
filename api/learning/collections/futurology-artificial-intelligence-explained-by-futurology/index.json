@@ -17,7 +17,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-03-21T17:13:43-07:00",
-      "heat": 118,
+      "heat": 155,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/R3YFxF0n8n8/hqdefault.jpg",
@@ -34,11 +34,11 @@
       ]
     },
     {
-      "path": "_learning/videos/futurology-artificial-intelligence-an-ancient-history.md",
-      "title": "Artificial Intelligence: An Ancient History",
-      "excerpt": "This video was made possible by Surfshark. Sign up with this link and enter the promo code 'Futurology' to get 83% off and an extra month free of your VPN plan! https://surfshark.deals/Futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   Artificial",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-artificial-intelligence-an-ancient-history/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-artificial-intelligence-an-ancient-history/",
+      "path": "_learning/videos/futurology-artificial-intelligence-a-history.md",
+      "title": "Artificial Intelligence: A History",
+      "excerpt": "This video was made possible by Surfshark. Sign up with this link and enter the promo code 'Futurology' to get 83% off and an extra month free of your VPN plan! https://surfshark.deals/Futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://offset.earthone.io/   Artificial",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-artificial-intelligence-a-history/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-artificial-intelligence-a-history/",
       "originalUrl": "https://youtube.com/watch?v=-qnMLjxJZm0",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-qnMLjxJZm0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT14M16S",
@@ -47,7 +47,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-03-22T19:25:02-07:00",
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-qnMLjxJZm0/maxresdefault.jpg",
@@ -77,7 +77,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-03-23T04:15:37-07:00",
-      "heat": 55,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/eYmKC0oQtDE/maxresdefault.jpg",
@@ -94,71 +94,11 @@
       ]
     },
     {
-      "path": "_learning/videos/futurology-supervised-learning-explained-regression-classification-.md",
-      "title": "Supervised Learning Explained (+ Regression, Classification, ...)",
-      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   Artificial",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-supervised-learning-explained-regression-classification-/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-supervised-learning-explained-regression-classification-/",
-      "originalUrl": "https://youtube.com/watch?v=zAPmUlBX-Qg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zAPmUlBX-Qg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M23S",
-      "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-23T08:54:11-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zAPmUlBX-Qg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/futurology-unsupervised-learning-explained-clustering-manifold-learning-.md",
-      "title": "Unsupervised Learning Explained (+ Clustering, Manifold Learning, ...)",
-      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-unsupervised-learning-explained-clustering-manifold-learning-/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-unsupervised-learning-explained-clustering-manifold-learning-/",
-      "originalUrl": "https://youtube.com/watch?v=-OEgiMH5aok",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-OEgiMH5aok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M19S",
-      "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-23T15:11:51-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-OEgiMH5aok/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/futurology-machine-learning-explained-what-is-machine-learning.md",
-      "title": "Machine Learning Explained (What Is Machine Learning)",
-      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the past",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-machine-learning-explained-what-is-machine-learning/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-machine-learning-explained-what-is-machine-learning/",
+      "path": "_learning/videos/futurology-machine-learning-everything-you-need-to-know.md",
+      "title": "Machine Learning: Everything You Need To Know",
+      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://offset.earthone.io/   In the",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-machine-learning-everything-you-need-to-know/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-machine-learning-everything-you-need-to-know/",
       "originalUrl": "https://youtube.com/watch?v=E2IAhfD1WYM",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E2IAhfD1WYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT14M50S",
@@ -167,7 +107,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-03-23T18:59:04-07:00",
-      "heat": 55,
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/E2IAhfD1WYM/maxresdefault.jpg",
@@ -198,7 +138,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-07-15T08:01:44-07:00",
-      "heat": 54,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pK9_ddD56J0/maxresdefault.jpg",
@@ -229,7 +169,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-07-17T05:24:12-07:00",
-      "heat": 54,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/g08A2wiqlxA/maxresdefault.jpg",
@@ -259,7 +199,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-07-19T07:14:15-07:00",
-      "heat": 53,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wieryfWkOl0/maxresdefault.jpg",
@@ -290,7 +230,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-10-16T12:41:27-07:00",
-      "heat": 136,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/mb7bG9ABOLU/maxresdefault.jpg",
@@ -320,7 +260,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2020-11-09T07:41:39-08:00",
-      "heat": 92,
+      "heat": 55,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/rJmBhnLzjOM/maxresdefault.jpg",
@@ -335,6 +275,28 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/futurology-how-convolutional-neural-networks-work-cnns-explained-visualized.md",
+      "title": "How Convolutional Neural Networks Work (CNNs Explained & Visualized)",
+      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://offset.earthone.io/   [Interactive",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-how-convolutional-neural-networks-work-cnns-explained-visualized/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-how-convolutional-neural-networks-work-cnns-explained-visualized/",
+      "originalUrl": "https://youtube.com/watch?v=pj9-rr1wDhM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pj9-rr1wDhM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M47S",
+      "provider": {
+        "name": "Futurology",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-11-09T08:26:46-08:00",
+      "heat": 54,
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
       ]
     }
   ]

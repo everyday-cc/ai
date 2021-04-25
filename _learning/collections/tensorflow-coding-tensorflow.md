@@ -2,7 +2,7 @@
 title: "Coding TensorFlow"
 excerpt: "Welcome to Coding TensorFlow! In this series, we will look at various parts of TensorFlow from a coding perspective."
 type: collection
-heat: 74
+heat: 75
 
 provider:
   name: TensorFlow

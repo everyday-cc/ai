@@ -2,7 +2,7 @@
 title: "Deep Learning With TensorFlow Videos"
 excerpt: "This Deep learning With Tensorflow videos playlist will help you to learn the basic concepts of Deep Learning, TensorFlow, the main functions, operations and the execution pipeline."
 type: collection
-heat: 67
+heat: 104
 
 provider:
   name: Edureka
@@ -13,7 +13,10 @@ provider:
       height: 50
 
 items:
+  - videos/edureka-deep-learning-full-course-learn-deep-learning-in-6-hours-deep-learning-tutorial-edureka
+  - videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka
   - videos/edureka-what-is-deep-learning-deep-learning-simplified-deep-learning-tutorial-edureka
+  - videos/edureka-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-deep-learning-tensorflow-edureka
   - videos/edureka-deep-learning-tutorial-deep-learning-tutorial-for-beginners-neural-networks-edureka
   - videos/edureka-tensorflow-tutorial-deep-learning-using-tensorflow-tensorflow-tutorial-python-edureka
   - videos/edureka-tensorflow-in-5-minutes-introduction-to-tensorflow-deep-learning-using-tensorflow-edureka
@@ -56,18 +59,17 @@ items:
   - videos/edureka-deep-learning-interview-questions-and-answers-ai-deep-learning-interview-questions-edureka
   - videos/edureka-tensorflow-full-course-learn-tensorflow-in-3-hours-tensorflow-tutorial-for-beginners-edureka
   - videos/edureka-tensorflow-installation-step-by-step-guide-to-install-tensorflow-on-windows-edureka
-  - videos/edureka-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-deep-learning-tensorflow-edureka
   - videos/edureka-theano-vs-tensorflow-deep-learning-frameworks-compared-edureka
   - videos/edureka-top-deep-learning-projects-artificial-intelligence-projects-deep-learning-training-edureka
-  - videos/edureka-deep-learning-full-course-learn-deep-learning-in-6-hours-deep-learning-tutorial-edureka
   - videos/edureka-what-are-gans-generative-adversarial-networks-explained-deep-learning-with-python-edureka
+  - videos/edureka-lstm-explained-what-is-lstm-deep-learning-training-edureka
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: https://i.ytimg.com/vi/dafuAz_CV7Q/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/DooxDIRAkPA/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true

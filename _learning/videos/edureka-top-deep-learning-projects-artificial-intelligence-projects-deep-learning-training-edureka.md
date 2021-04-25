@@ -4,9 +4,9 @@ excerpt: "**AI and Deep Learning with TensorFlow:  https://www.edureka.co/ai-dee
 originalUrl: https://youtube.com/watch?v=09hTTPYV3Jg
 type: video
 price: Free
-length: PT12M41S
+length: PT13M57S
 publishedDateTime: 2019-09-05T13:41:33Z
-heat: 57
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/09hTTPYV3Jg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fipeHLX3mrrLLRh0DJQcu7e10LJRVO/vyZhAoVOm0R2zQ1ykpM4vmxKoyQxdrt0z+EB/UjlVog1wB6UMbfqGyF1poHiEvJxAztZGUNkxOPrkRpCmfrXrjNlGN2n2P/Hl9pG5MEt05i2338c1TfoB9ZnzmFmk/94r6YT9YFJIksLE9u9UYYUvYrrYx0APKyRjbPNBQzVt/YunEwZNMsM3/TFm6uCx1ZghA92F0xeDXb+/pYUd0312QQE+4cB+Io5S4IL73kthUXiffNaciPLNDjiLb5NRGw1R3BVKcXRGVAtGxoVm9WY4xmATopIfrYqUtmzOTlMbB14qi77LCcsJDNPNKVF43OyIPB9+hVri47106/aV7eLM7JUVkbeyQaev0kVx09sgslOSi9osJKSNZkH/xIJ9T5ww+Yh8/scBBOU=;L9uMvLetUTJvhimHwLSocw=="
+secured: "+Fwswd/KYelhwrCzqb2O7Wu3s4G9FGcLk39pgBzVUGHgQX2S94bZXLP+GwTHcXFlu1eVamgDd7z9QPhJPAlN3k13r4BBpZP1MTQpshsT7iOAStA0W8GwOwT5V3git9A26LgiVzPVqPPYIxxwbAE+LYtBwCYv4BgMN0R6oqTpi704IaLzGQOhtDcg5VMaVCdCkAd/r5SmYmdrsM9Q1H1bp5B/HtOafbXHQuOKxhcSILNtpn0p/pMxi278T5/ZBRig9bc7AsJb3uUjnJs0RON81EPVrm4/qD5nBzP+Kbu3rB3csP5OfR552dhsfED+COkf1Ll5n4xv5DOhkcWqCuLyIJYhtU2f4vNVOTIrVFug3gaRZ5HfpWGieBHHQzhfzrgvw3iDAwS25hMrzMTLbgRKemDw4LsBc8rEpqdDYiZPIYM=;wVRbAm1EUK8q28I9oxyLfQ=="
 ---
 
