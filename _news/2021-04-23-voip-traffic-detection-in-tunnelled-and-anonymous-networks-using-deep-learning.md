@@ -47,15 +47,6 @@ related:
         width: 685
         height: 329
         isCached: true
-  - title: "Denoising of Video Frames resulting from Video Interface Leakage using Deep Learning for efficient Optical Character Recognition"
-    excerpt: "The present work shows Deep Neural Networks’ application in the automatic recovery of information from unintended electromagnetic emanations emitted by video interfaces. A dataset of 18,194 captured frames is generated,"
-    publishedDateTime: 2021-04-21T12:39:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9405296"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
   - title: "ClearCaptions® Increases Call Captioning Speed and Accuracy for Hard-of-Hearing with Automatic Speech Recognition (ASR)"
     excerpt: "ClearCaptions, a leading provider of a call captioning service that enables the hard-of-hearing to communicate, has been certified by the FCC to incorporate"
     publishedDateTime: 2021-04-22T13:00:00Z

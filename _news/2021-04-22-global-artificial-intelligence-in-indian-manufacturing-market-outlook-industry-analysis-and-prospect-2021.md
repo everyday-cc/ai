@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Machine Learning Market Outlook, Industry Analysis and Prospect 2021"
-    excerpt: "Machine learning (ML) is an emerging artificial intelligence (AI) technology which is being adopted aggressively by"
-    publishedDateTime: 2021-04-21T23:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-21-191753937"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision in Healthcare Market Analysis, Status and Global Outlook 2021 to 2026"
     excerpt: "Latest Research Report on “ Computer Vision in Healthcare Market size | Industry Segment by Applications (Medical Imaging , Surgery and Othe"
     publishedDateTime: 2021-04-25T10:37:00Z
@@ -74,19 +60,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Construction Market Size, Share Industry, Analysis, Price, Trends, Report 2020-2025"
-    excerpt: "Artificial Intelligence in Construction Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & compound annual growth, in-depth qualitative analysis The Artificial Intelligence in Construction Market size was $408."
-    publishedDateTime: 2021-04-22T05:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-share-industry-analysis-price-trends-report-2020-2025-2021-04-22"
+  - title: "Artificial Intelligence-based Security Market Regional Growth Drivers,Segmental Analysis, Opportunities and Trends 2020-2026"
+    excerpt: "The Artificial Intelligence based Security Market report is a compilation of first hand information qualitative and quantitative assessment by industry analysts inputs from industry experts and industry participants across the value chain The report provides in depth analysis of parent"
+    publishedDateTime: 2021-04-24T15:21:00Z
+    webUrl: "https://www.openpr.com/news/2275049/artificial-intelligence-based-security-market-regional"
+    ampWebUrl: "https://www.openpr.com/amp/2275049/artificial-intelligence-based-security-market-regional"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2275049/artificial-intelligence-based-security-market-regional"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: openpr.com
+      domain: openpr.com
     quality: 49
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/4/U424454562_g.jpg"
+        width: 500
+        height: 395
         isCached: true
   - title: "Computer Vision Market Global Industry Insights, Trends, Size, Share, Outlook, And Opportunity Analysis, 2021-2025"
     excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"

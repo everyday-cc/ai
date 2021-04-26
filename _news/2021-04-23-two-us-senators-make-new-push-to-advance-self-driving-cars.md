@@ -41,17 +41,20 @@ related:
         width: 1199
         height: 562
         isCached: true
-  - title: "Who's Liable When Self-Driving Cars Crash?"
-    excerpt: "This weekend saw an accident that killed two occupants in a Tesla Model S reportedly driving in Autopilot mode, reenergizing legal issues once relegated to science fiction: When a self-driving car crashes,"
-    publishedDateTime: 2021-04-21T21:35:00Z
-    webUrl: "https://www.law360.com/articles/1376737/who-s-liable-when-self-driving-cars-crash"
-    ampWebUrl: "https://www.law360.com/amp/articles/1376737"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1376737"
+  - title: "‘Self-driving’ cars are still a long way off. Here are three reasons why"
+    excerpt: "While the technologies required to enable higher levels of automation are advancing rapidly, producing a vehicle that can complete a journey safely and legally without human input remains a big challenge."
+    publishedDateTime: 2021-04-22T20:43:00Z
+    webUrl: "https://gcn.com/articles/2021/04/22/self-driving-cars-challenges.aspx"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
+      name: GCN
+      domain: gcn.com
+    quality: 23
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png"
+        width: 760
+        height: 368
+        isCached: true
   - title: "Exclusive: Sen. Thune and colleague make new push to advance self-driving cars"
     excerpt: "Two U.S. senators are working to attach legislation to allow automakers to deploy tens of thousands of self-driving vehicles"
     publishedDateTime: 2021-04-22T16:54:00Z

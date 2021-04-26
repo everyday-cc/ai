@@ -7,7 +7,7 @@ originalUrl: "https://www.newswiretoday.com/news/175267/Kontron-Delivers-AI-Func
 webUrl: "https://www.newswiretoday.com/news/175267/Kontron-Delivers-AI-Functionality-with-the-KBox-A-203-AI-GC/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,24 @@ topics:
   - Computer Vision
   - AI
   - Google AI
+
+related:
+  - title: "The AI 50 Backstory"
+    excerpt: "Very quickly I noticed that most “AI companies” had very little “AI” (real technology) or very little “company” (real business)."
+    publishedDateTime: 2021-04-26T13:13:00Z
+    webUrl: "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/"
+    ampWebUrl: "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6086b8463c93f7863e620c1e%2F0x0.jpg"
+        width: 1200
+        height: 646
+        isCached: true
 
 secured: "6Sui2jHkycPQZRLJLFtA91gXiBkBglq4Ub7ldXptJhEaS9tlTAl3BadeCNpr17hKr4URD9ke0qJHdFxXO+MbjBrHDfcGQv+AfYAKSxCLsk7QpcXJbu1oZI0hi70KmpE/Q+xXBza86Jp+aF3cFF42S+5/AlbSG3MxfcXltAwHiWxSpmeyJQKKNNyzEC+/SILEbKJTIZi5gSbSxaxPCQhu5uL/kcsNR3poqJRU/NrUaf60R7PswFAdhScGmVNOrQO7zkMMaefzt1EYqwLBGSSyHxRs+iuDdYfsrFFknen0lPYakRxd42B2J98aQmCGedIJ0+0bK1ev1swi574nqvOT3j9gUoTnSbLkW/ajJI6pAyQPmxqFdFHa6T/QDN8wvlN0m9QveFXUFjBR1+q00UG5xE3cpZUW3fV3RwJgLq1c31oIzqzyTNHzZ4bwRGBs1oW07+TeusEtWnN4FCpNFCtVWDBi+w9IzQSBAyJWtMETqppf7bX8n7YAr4/bkyZS1/86jW6zjHs7aLDU0wplVjYz7g==;5kkTgMzggdMB26TYUsJf1g=="
 ---

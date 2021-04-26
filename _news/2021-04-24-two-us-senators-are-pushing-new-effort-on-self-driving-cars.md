@@ -27,49 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Electric, Self-Driving Cars and Ride-Hailing Will Transform the Car Industry"
-    excerpt: "The era launched by Henry Ford more than a century ago is coming to an end, and the big question is whether the U.S. can keep up with China in the new race. Welcome to the world of AutoTech."
-    publishedDateTime: 2021-04-23T13:59:00Z
-    webUrl: "https://www.wsj.com/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966"
-    ampWebUrl: "https://www.wsj.com/amp/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966"
+  - title: "Explaining Why Explainable AI (XAI) Is Needed For Autonomous Vehicles And Especially Self-Driving Cars"
+    excerpt: "Explainable AI (XAI) is going to be vital for Autonomous Vehicles (AVs) and will be first expected in self-driving cars, providing explanations about the driving journey."
+    publishedDateTime: 2021-04-24T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/24/explaining-why-explainable-ai-xai-is-needed-for-autonomous-vehicles-and-especially-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/24/explaining-why-explainable-ai-xai-is-needed-for-autonomous-vehicles-and-especially-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/24/explaining-why-explainable-ai-xai-is-needed-for-autonomous-vehicles-and-especially-self-driving-cars/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://images.wsj.net/im-328645/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Three reasons 'self-driving' cars are still a long way off"
-    excerpt: "The recent crash of a Tesla car in the United States, in which two people died, has reignited debate about the capabilities and safety of today's \"self-driving\" technologies."
-    publishedDateTime: 2021-04-22T14:00:00Z
-    webUrl: "https://techxplore.com/news/2021-04-self-driving-cars-1.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 24
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/selfdrivingc.jpg"
-        width: 1356
-        height: 668
-        isCached: true
-  - title: "‘Self-driving’ cars are still a long way off. Here are three reasons why"
-    excerpt: "While the technologies required to enable higher levels of automation are advancing rapidly, producing a vehicle that can complete a journey safely and legally without human input remains a big challenge."
-    publishedDateTime: 2021-04-22T20:43:00Z
-    webUrl: "https://gcn.com/articles/2021/04/22/self-driving-cars-challenges.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 23
-    images:
-      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png"
-        width: 760
-        height: 368
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6082010f8bc7d9fdc01c1409%2F0x0.jpg%3FcropX1%3D47%26cropX2%3D1677%26cropY1%3D43%26cropY2%3D960"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "glX8exdwcsTw+BFv0rLW47EzBIIsMR76YszaPX+GRoFvX8Z+wnF+bcQySK7OwcVt+jfAKQ/iFyzcpsvxMJez+jFV/67h/pAWnVn48NUmYW1h/iw0e/AIWU229iNyfN4Kkq1f55+0h4zRIIPfEKSoOiuODfds8G863Y0kqnpQ68ztyMJNbyFdOtEM7nKw/NzgG+KTOB6mUxF8sRIjKeWRV6DvaQ9qA64ZI/9KGMuKtBIeSAdUN13ENCXo9XRM8hchEMha38O5bShC9Nor0jUJTlEMhnieuVc3XkvUh4vSBeg6SR8NqI0YsLs6JjQ6lwbEYvfjMLoMjAGVlW2sMqzcLQ6E6TOGRS6bOxQMw1sPTDYAmK6zabUTbnJMSmofcpeU+/vjUD4lyJWw3OrZ4Ure013hyb1yj+Qa80rrLatFJH1FFLHxWVJLEndShIKV4p/dOEWkHP/cQtAL/mGszULd7RsHPMi4B1oLaBpyZ3XDjFTMlnRgp/gei1hnFBiuIVjugnTaiz2pvewji8OXhZxJ8Q==;ugIKDNiTdWKubosYRbcBhg=="

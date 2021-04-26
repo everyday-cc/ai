@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 492
         isCached: true
+  - title: "Facial recognition technology for cats and dogs could help find lost pets. Here's how it works."
+    excerpt: "There's a new way now to find a lost pet, with the recent launch of a nationwide database that uses facial recognition — of the pet — to reunite humans"
+    publishedDateTime: 2021-04-23T23:41:00Z
+    webUrl: "https://www.theadvocate.com/baton_rouge/news/article_7a98d124-a48d-11eb-911e-6fae55a28611.html"
+    ampWebUrl: "https://www.theadvocate.com/baton_rouge/news/article_7a98d124-a48d-11eb-911e-6fae55a28611.amp.html"
+    cdnAmpWebUrl: "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/news/article_7a98d124-a48d-11eb-911e-6fae55a28611.amp.html"
+    type: article
+    provider:
+      name: The Advocate
+      domain: theadvocate.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/7/79/779d58aa-caee-5f34-9855-df73696c9085/6081e05d2d410.image.jpg?resize=1024%2C723"
+        width: 1024
+        height: 723
+        isCached: true
 
 secured: "zO/J2wn6d4ZgX4tsDqi7S16fI2C7l1GcDznDqA9wPi/sq2yyvYKXWtj3nX41lDXdXoCoWFFUBZSOwyp/ZWWHOMokExQb8t3XvvQ/pnXx/DDhIfbOswFZX0uvBpdaCPo0l/d7V+RN2/FVzRRCWe+TJRp3jhySZKA/3gx7Y+7X6agEfHCPaTq0ojQGFE2Nd6APOKFT1532Czn0XDH8M/+7dC8VJGZxINbveyMxQpfvA8J6Jold3NpM8f7TzjM2qtGe9G+jL/VjFNw7SCsw5/hi+KeGDaLfZw71s2GI6oIh8TaNeQE7A93GxK3WzOcYUm+xXY10oNc7CSAOWeQ+GsRcO4jANGcrBUsjEDErspoIxiLfOowW9cksGA4stITyvND9V7ucNxBZMLSVfNfaTh8mTtckM30tyWU+3MNpyX0E9x0pxm2jFld3NYIU5dYmpXpZ+7Lmg1R+0gO9cCDxR5HsbMoEgrSicY9NNYCDi+S5YwbaBfbhegb6oUuxqDK7RaIAukEk63HdOn5i6mjk/Usmdg==;DHC/j94XRD8HmWwpzV/1DQ=="
 ---

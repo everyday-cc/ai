@@ -26,36 +26,6 @@ images:
     height: 266
     isCached: true
 
-related:
-  - title: "FinTech For All: How This Startup is Making Online Financial Services More Accessible"
-    excerpt: "FinTech and financial inclusion are two of the hottest buzzwords in global socioeconomics. Financial technology is viewed as the solution to accelerate financial inclusion, especially in"
-    publishedDateTime: 2021-04-21T02:17:00Z
-    webUrl: "https://www.econotimes.com/FinTech-For-All-How-This-Startup-is-Making-Online-Financial-Services-More-Accessible-1606877"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 17
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/20210421a5d2624f89afd992f_th_1024x0.png"
-        width: 932
-        height: 698
-        isCached: true
-  - title: "Media, Video and Audio Sharing Fintech Platform, Issuer Pixel Launches $2.5 Million Crowd ..."
-    excerpt: "Issuer Pixel, a global, searchable, enterprise video and audio sharing platform connecting companies to the world, has launched a $2.5M A round offering campaign on Netcapital.com to support final development,"
-    publishedDateTime: 2021-04-21T13:07:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-media-business-08ba31ff7935197c701573a0d6e7960e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "3g1sLWyR1EJOZ1h1UfYX8aH+DaIYcbOb1vPQ2Y5YXgrDGDkjE86EpM7tUb8LhdX1fBaC61U8+l+Qg7YyERaOCbrYYAxVCo5aweL+WXahMa6r9OvegCDyG97jui7kppnvH0WUf4y53tinyP5I+d+GFNo2ehEsqxDuf/WhOGc5CA3id2pgi2uuE+MSubBkUzzMSt7R6WDqSVA3L9K2Z2xQ6GJ1SfFMQyOJgNEKRlh3rBn8+YbceZpR9vkCKINSfyTHYOUQQqDkU8LoyLrZ1C5GX3mD1tq8jeJxJRmI+iirgqVUbpKtzbl7KjPGWc+x1T+aroAWSkBLv5mjKe2YqnC+Ds7kmtEqrUFIzimVQ+pfhmu0/AghAeoC/LUCK22Xap58Q5sNAN5LHMQmp9y7WRo8JClfaCG3s3Ed0swY70kjDRPOIbZnAsL8WmI82qzMoRI0adRGjABN/LSCq3ZZqROehrGl/kSJZsJ5Np428Z2zvkDcP2VieD6/7DkQNipZbwS/Ep2OGSxf8M6M8Pzieheqew==;UR4fRRb4YmvjC+m/LxZJzQ=="
 ---
 

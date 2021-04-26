@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence, Facial Recognition Face Curbs in New EU Proposal"
-    excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet to regulate high-stakes applications of artificial intelligence."
-    publishedDateTime: 2021-04-21T12:13:00Z
-    webUrl: "https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520"
-    ampWebUrl: "https://www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 103
-    images:
-      - url: "https://images.wsj.net/im-327981/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
-    excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
-    publishedDateTime: 2021-04-21T15:12:00Z
-    webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?dist=bigcharts"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 90
-    images:
-      - url: "https://images.mktw.net/im-328104/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Ban facial recognition in Europe, says EU privacy watchdog"
     excerpt: "Two days after the European Union unveiled draft rules on how to use AI in Europe, a privacy watchdog urged the EU to ban facial recognition."
     publishedDateTime: 2021-04-25T02:22:00Z
@@ -77,81 +47,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Europe's Proposed Limits on AI Would Have Global Consequences"
-    excerpt: "The EU released draft laws that would regulate facial recognition and uses of algorithms. If it passes, the policy will impact companies in the US and China."
-    publishedDateTime: 2021-04-21T19:56:00Z
-    webUrl: "https://www.wired.com/story/europes-proposed-limits-ai-global-consequences/"
-    ampWebUrl: "https://www.wired.com/story/europes-proposed-limits-ai-global-consequences/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europes-proposed-limits-ai-global-consequences/amp"
+  - title: "European Union Unveils Regulations Governing Artificial Intelligence"
+    excerpt: "The European Union has unveiled strict regulations to govern the use of artificial intelligence. The draft rules,"
+    publishedDateTime: 2021-04-22T12:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/european-union-unveils-regulations-governing-artificial-intelligence-2021-04-22"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://media.wired.com/photos/60806e8937aa1cabc1105297/master/pass/business_facial-recognition_75287401.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "EU proposes rules for high-risk artificial intelligence uses"
-    excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
-    publishedDateTime: 2021-04-21T11:41:00Z
-    webUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
-    ampWebUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-    type: article
-    provider:
-      name: WBAL
-      domain: wbal.com
-    quality: 59
-    images:
-      - url: "https://cdn.s3-media.wbal.com/Media/2021/04/21/6b8548d1-c476-41c6-8ccf-1274955ca07f/original.jpg"
-        width: 512
-        height: 331
-        isCached: true
-  - title: "EU proposes rules for high-risk artificial intelligence uses"
-    excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people's safety or rights. The draft regulations from the EU's executive commission include rules on the use of the rapidly expanding technology in systems that filter out school,"
-    publishedDateTime: 2021-04-21T17:38:00Z
-    webUrl: "https://www.chron.com/business/article/EU-proposes-rules-for-high-risk-artificial-16117035.php"
-    ampWebUrl: "https://www.chron.com/news/amp/EU-proposes-rules-for-high-risk-artificial-16117035.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/EU-proposes-rules-for-high-risk-artificial-16117035.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 57
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "EU’s Proposed AI Rules Add Compliance Burden for Business Use of Facial-Recognition Technology"
-    excerpt: "European Union regulations for how businesses can use facial-recognition technology proposed Wednesday would carry bigger fines than those permitted by the bloc’s existing privacy laws."
-    publishedDateTime: 2021-04-21T21:09:00Z
-    webUrl: "https://www.wsj.com/articles/eus-proposed-ai-rules-add-compliance-burden-for-business-use-of-facial-recognition-technology-11619042982"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 57
-    images:
-      - url: "https://images.wsj.net/im-328370/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "EU unveils proposal on artificial intelligence"
-    excerpt: "The European Commission on Wednesday unveiled a long-awaited proposal on how it wants to regulate artificial intelligence technology. The World's Lydia Emmanouilidou reports that the EU wants to set itself apart by taking a \"human-centric\" approach to AI regulation."
-    publishedDateTime: 2021-04-21T20:38:00Z
-    webUrl: "https://www.pri.org/file/2021-04-21/eu-unveils-proposal-artificial-intelligence"
-    type: article
-    provider:
-      name: PRI
-      domain: pri.org
-    quality: 37
-    images:
-      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 707
+        height: 630
         isCached: true
 
 secured: "tn6tKWnVKNO0GFhw1VIG67eQDScjL8mzgkt2wPgsHBISoxyyfaZw8MaKi7jQqZHILDDaIpHNm/O/Gm60Qo7vwAxHDPBF6p6vHJWa+AOdRqpeK4jPs++Be4GicZJzYdlXxYEW7hHpPfsF9XMaIw9VDb6ljb4hhQKFIoTVffoHJuctdeEGfS0jw4CRm/Xi1J/lp0NzmzHUgl09LNq28C1L/2zUDnvibO7qAGPVJxkJJW27xU4WwKyPC0BOzsVIiCPFBiuC9AjWi34YS4ORQXGPlgJbDsKaro06M7KC6KpntAgQFtftbMjzbx8+aBxYJYuXMXQDTW7CDEWBqNJl4v8yKNyv1fzYcbzgVaATf4ORB4EITcQgThxQ4Z3Uy8KiAd1RHL02tUcZLUB48Xjr/PMgOBNPnyMFpH+xQ+NZrOmQPoXXsGiASRXsf/eH0STCzZxtVRV2UBHSnArp606i6lBt9njcdFB6HKQa+8MnUMkkZWQ0UB0i2Da0so8B8/o67VnizuK+GH0KNA42GXojKkN0tA==;iTkGbMa68TcXFv73bL6z6w=="

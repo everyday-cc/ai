@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "China’s AI Chip Investments for 2021 Total USD 3.1 Billion So Far"
-    excerpt: "According to Chinese media report on April 19, there have been at least 21 AI chips investments involving 17 companies since the beginning of 2021, totaling approx. RMB 20 billion (USD 3.1 billion). Among them,"
-    publishedDateTime: 2021-04-21T09:26:00Z
-    webUrl: "https://syncedreview.com/2021/04/21/chinas-ai-chip-investments-for-2021-total-usd-3-1-billion-so-far/"
-    ampWebUrl: "https://syncedreview.com/2021/04/21/chinas-ai-chip-investments-for-2021-total-usd-3-1-billion-so-far/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/04/21/chinas-ai-chip-investments-for-2021-total-usd-3-1-billion-so-far/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 74
-    images:
-      - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/04/China-Flag.jpeg?fit=950%2C713&ssl=1"
-        width: 950
-        height: 713
-        isCached: true
 
 secured: "5Dcke6lUkmDixD8dXGbP6o+4E454Afz6355j30T8AJxf0iSkRSKSAvcyD10ygj1kmMx15100wj7wyFbs9lJ7zcdD14/IQrPiAYftJInt4R4um1uk4lG8R13J6xXudnk+L5+TPOb+35lt7Su3hr4R6v9EaJZO9R10oahgCFb14LpmjnXAMbpKriHap6nvX1OByATiyX4Fatx+V3eSVb4ueXA0eUabOi0OX37+qUPV6JwI9HFncDnx/DXSfljcsDIRgMzQM18K2cz9uUOrBBPGUbrVHXpmJdJFRx688kfOxF0sGJEdYL1JSx/UPcmz7SbMoW0OLG4WeiTDYcfFdttVwi+4p+JOQD4jzr0f66qYTQv6UQpotIoFRAB0nHdJ8uHahZ+Sby+068mloSflrXLfb+CE3ZP/ovrm9h8eJ/5cV83TUd4f0fjQvz53JoEWv2BF6j4ZoAXAa5g7fUEipSOdE9y7cuQptCGyJ7Y2nJe34Q5jz8a+p8RRewg0eoigNRw8h25Pm5NI1M0w0DVp9ZG8dQ==;tM3/MPEEuX9uxRqTDTlODg=="
 ---

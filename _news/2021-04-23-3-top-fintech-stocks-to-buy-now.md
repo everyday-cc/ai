@@ -47,31 +47,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Fintech and AI Task Forces Reauthorized for 117th Congress by House Committee"
-    excerpt: "Congresswoman Maxine Waters, Chairwoman of the House Financial Services Committee, has announced the reauthorization of the Financial Technology and Artificial Intelligence Task Forces for the 117th Congress."
-    publishedDateTime: 2021-04-21T20:23:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174480-fintech-and-ai-task-forces-reauthorized-for-117th-congress-by-house-committee/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174480-fintech-and-ai-task-forces-reauthorized-for-117th-congress-by-house-committee/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174480-fintech-and-ai-task-forces-reauthorized-for-117th-congress-by-house-committee/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 56
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Maxine-Waters-in-Mask-300x232.jpg"
-        width: 300
-        height: 232
-        isCached: true
-  - title: "AI fintech firm TurnKey Lender secures new funding in DEG-led round"
-    excerpt: "TurnKey Lender claims it tripled its annual recurring revenue year over year in 2020. According to VentureCap Insights data, its revenue for the previous year (FYE 2019) stood at US$2.57 million. It plans to use the new funds to scale the global adoption ..."
-    publishedDateTime: 2021-04-21T11:22:00Z
-    webUrl: "https://www.techinasia.com/vertexbacked-ai-fintech-firm-turnkey-lender-secures-new-round-funding"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
   - title: "How can technology bridge fintech and SMEs to ease the lending process"
     excerpt: "Fintech startups bring convenience and help SMEs get easy access to products like bank accounts, cards, securing working capital, managing cash flow, etc."
     publishedDateTime: 2021-04-25T09:22:00Z
@@ -99,15 +74,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 28
-  - title: "Top countries for launching a Fintech startup"
-    excerpt: "Certain regions and countries are friendly to innovation that have millions of users with a high level of tech adoption  and expanding fintech market. Welcome to Finextra. We use cookies to help us to deliver our services."
-    publishedDateTime: 2021-04-21T20:20:00Z
-    webUrl: "https://www.finextra.com/blogposting/20186/top-countries-for-launching-a-fintech-startup"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "InAPMpgnk7D5l2NzAItpEuZGRXcujBR+kaAa/jDnYjTf1Tthi0M9lfob1sMDf0QyBjnX2mAIEsIS45rhxTJg5wg/YOp2JsopezBFSSQNwuCYHoypj1qpxrLrUWzBqhaLdsUfFk639dp38JDRkMmeBYFYjwKYzPSn8+U2Qg2ZHON3BZ04V3nRVcmFKqtErjws8IzTt5HxV66+hZtYY/voNNp7OH0tbQGs72M94fp5U+2hZrS0BLtM9YVcI5B48UTGNE26q5SzM4tU7EkG10+qm5/NQ27W/Fn42xrhHHcqZGGg97pZVLDrQuOV6MD4Oi2qWFE//OL+UylosDdjA4LFQ29A6ktxux+mhkg5246fYB4zQNZYWM6v+g4EkcvE4msSYShpAyVUI/Rws/Ft0VpyO3TGDY9FDe4jFWDGOXsQ92UORD6yJ1xJY9oIZeFKPGuhmxyjwhQWYBIAW0WxN21NQnxvydGJ0U9sUg9QwXQ9azLLcb45+sQ/DodGoaCXOlaVhF07F1g4xdKxdKx+ePXWwA==;q85hBL46X/oM6JmZgaSiXg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks
 cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/04/Screen_Shot_2021_04_22_at_4.28.57_PM.6081e6d47640f.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 608
+        isCached: true
+  - title: "Three reasons 'self-driving' cars are still a long way off"
+    excerpt: "The recent crash of a Tesla car in the United States, in which two people died, has reignited debate about the capabilities and safety of today's \"self-driving\" technologies."
+    publishedDateTime: 2021-04-22T14:00:00Z
+    webUrl: "https://techxplore.com/news/2021-04-self-driving-cars-1.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 24
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/selfdrivingc.jpg"
+        width: 1356
+        height: 668
         isCached: true
   - title: "Tesla crash becomes subject of multiple investigations as it revives questions about self-driving cars"
     excerpt: "After a fatal crash in Texas last week involving a Tesla with no one behind the wheel raised interest in self-driving cars, multiple federal agencies are investigating the electric car company."

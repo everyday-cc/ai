@@ -27,37 +27,39 @@ images:
     isCached: true
 
 related:
-  - title: "King County could be first in nation to ban government use of facial recognition technology"
-    excerpt: "King County could become the first in the nation to ban the government’s use of facial recognition technology."
-    publishedDateTime: 2021-04-22T04:38:00Z
-    webUrl: "https://www.kiro7.com/news/local/king-county-could-be-first-nation-ban-government-use-facial-recognition-technology/H6NJWIBWQRHY5CD74NCEDVAA2M/"
-    ampWebUrl: "https://www.kiro7.com/news/local/king-county-could-be-first-nation-ban-government-use-facial-recognition-technology/H6NJWIBWQRHY5CD74NCEDVAA2M/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/local/king-county-could-be-first-nation-ban-government-use-facial-recognition-technology/H6NJWIBWQRHY5CD74NCEDVAA2M/?outputType=amp"
+  - title: "LA animal shelters to use facial recognition database to help reunite lost pets with owners"
+    excerpt: "People and organizations can upload a photo of the lost pet, and the database will compare it to other photos to determine if the lost animal is at a participating shelter or with someone in the"
+    publishedDateTime: 2021-04-22T04:25:00Z
+    webUrl: "https://www.whittierdailynews.com/2021/04/21/la-animal-shelters-to-use-facial-recognition-database-to-help-reunite-lost-pets-with-owners/"
+    ampWebUrl: "https://www.whittierdailynews.com/2021/04/21/la-animal-shelters-to-use-facial-recognition-database-to-help-reunite-lost-pets-with-owners/amp/"
+    cdnAmpWebUrl: "https://www-whittierdailynews-com.cdn.ampproject.org/c/s/www.whittierdailynews.com/2021/04/21/la-animal-shelters-to-use-facial-recognition-database-to-help-reunite-lost-pets-with-owners/amp/"
     type: article
     provider:
-      name: KIRO-TV
-      domain: kiro7.com
+      name: Whittier Daily News
+      domain: whittierdailynews.com
     quality: 49
     images:
-      - url: "https://d1hfln2sfez66z.cloudfront.net/04-22-2021/t_4f4df85d67ac4f06912fac52d86ea86f_name_ftp_4_21_johnson_515p_KC_Facial_Recongnition.jpg"
-        width: 850
-        height: 480
+      - url: "https://www.whittierdailynews.com/wp-content/uploads/2021/04/LDN-Z-PET-DATABASE-1.jpg?w=1024&h=492"
+        width: 1024
+        height: 492
         isCached: true
-  - title: "Facial recognition tech in Selarang Park Complex facilitates inmate movement"
-    excerpt: "Doing so enables prison officers to focus on other functions, such as inmate rehabilitation.. Read more at straitstimes.com."
-    publishedDateTime: 2021-04-22T05:13:00Z
-    webUrl: "https://www.straitstimes.com/singapore/courts-crime/facial-recognition-tech-in-selarang-park-complex-facilitates-inmate-movement"
+  - title: "Jacksonville Humane Society takes part in launch of national lost pet database using facial recognition"
+    excerpt: "The database uses facial recognition to analyze your pet's facial structure and find possible matches in the area."
+    publishedDateTime: 2021-04-23T21:56:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/local/jacksonville-humane-society-takes-part-in-launch-of-national-lost-pet-database-using-facial-recognition-local/77-fff0659c-7c34-44f2-ba18-dee99ba4bb05"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/jacksonville-humane-society-takes-part-in-launch-of-national-lost-pet-database-using-facial-recognition-local/77-fff0659c-7c34-44f2-ba18-dee99ba4bb05"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/jacksonville-humane-society-takes-part-in-launch-of-national-lost-pet-database-using-facial-recognition-local/77-fff0659c-7c34-44f2-ba18-dee99ba4bb05"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 36
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 43
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/04/21/rk_selarangparkcomplex_210421.jpg?itok=o_HHyqU8"
-        width: 763
-        height: 509
+      - url: "https://media.firstcoastnews.com/assets/WTLV/images/f19a10ca-7f5e-4a8b-8478-13d7f0991efb/f19a10ca-7f5e-4a8b-8478-13d7f0991efb_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
-secured: "iy814rZoJs42fY8aokxMye+NKr8a0WqnJNpMy0DjD6S0cHDn3jxi1GrTvgByUQOFMU+2tEiTp/2bq7HYD/DRmeTEQlEbjKP/h6ZKgcuzYUfUHeKF9p1NOWD84EioqpsuSRHVZ99RLMay7hqXC3ujbQAFvEnfgW/V62mRo4oOYns1TAiWLNJfL3kpzyQxS1evyAxn6117H0wcNdm2uXthd3Io46fn2fix3FLcc0UhK/1Ht7dGhTqmXVBb5kPI8dPKPloUIavyKQuVyrrKd89tuQczDOmDx5U9K/HqS2NOZYpTP8I9VH4ZaGBaqUvFuKIdww9kYDpG+rJLwAe+7ejJM74FqAvHo1fO4l38PRztcD8=;MU1YbKOneEDfUQ4CMZkJLQ=="
+secured: "ZRGn6risDdu8OCL6mL6Ph32NZo3j613kRNh7mkXLaDGm1FL50aMRNhKcwayTkF58WgICoIg5OPfnxPAZYRgPY6JE76OgK7DvftIl7XtOGYNOnrODj75WHlScDgBn0BbL6R8TNjqiLYfwAtjxoj1hNnCFFkxH641cev+p8U4NUwYhlSrzR0f9bmIOsPXy2SSL0AEKHZrnO7wPkwcaGMBy00micZ8iL6YZ8cDJiW1eSwopZLLDW/jDK6aEtBEx3VJa6mNptXCWEqNUxdwmgqwwFlueg4pRfTh8H23GG8BmkGkTmFwr4o0R6ooiALEz/LJlbZlu1N9td5+OUG+nFqZ/yMyonvT1z3PycMPnGnYSYnfW063mswgHKDh20fov02H/gOKRTYrAwtf8sP7vPv7fO1vm72icyfdm3RL/LtDLlLmSAsh2YJWopSWvV7MKhIOSf4ymDZLolOTf8bzqMdBaFR2wtHRMH1+dbwUrD1G59C8moiRocReaUz7zJfc+unfuRyTQgM5C4BLof+pdJfyLnA==;Frz2YZiZm1eISEob+T6/Ig=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-explori
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 560
     isCached: true
 
-secured: "kU1qab9G8ty6/8fNa4Hglnrjvp/37t7jGr9R9FHlYW9j76cI5L906pFK1ZHEJadFlbBbYMYfdfrQDLa31thg7JAxaHwjwX/7hy0A0vr3H3qX0cQC/yLB/ZcEmrdUCmy3kQNtT/iP+HhDDEB+6ejqH14wD219E7S+g6viXfxOzQcvZHYFaFiflQ3WUIHYhyfIlUwGP4IxCUPMIjAcciYp9Up4NDBlkMUyPq+Xnq+gvCVR1mHewMWHgLwr9SjEviSYJI3VyPdklrl8rNzZjPQTXUYlTP5yVgQXgp/deMDXO87B2e57S/vrqiLGV+0ztdDgU8st2aEVB0/xuY5H5Ycgkm63LShSaX0zziZ5TssMJzo=;NVapM7YJ20G55NUkm6SrLQ=="
+secured: "yDKA3DY5oL89XcHh6uEUW07kbNwRuKVXpiooZqmlHgTniL/5TgXtVKnPkLTBPqaZZJNdfyCS990HRRGRpgNR+aHByd4OxbpPEJrdXoRhhgMm4Nf6tvFQhNwQeSQILJLrSSN1vx8ZZoFvt2mrf/Qm9y96nUEnD/E97qY4WMAWcGMi9RvCn5A4CWtzon8PduHanOidszs/WexN1VJ/0yQyABg7nj42JMfEY9BiqzP3RL0+4hZshyVTakfUMyS4EPP6yb9q4azytgDsryvDD7/Dz9xissIPwHYRfkZ+4Fn9Y6YaekGUo+OFL0w9hD9y15rGyPPsetyFOBK7Ot6rR2mg7h1L31OS0AdmCyfriunGQAQzlQZ6vhH6JohOwSHgE+vE0Fe4yQWeUDdPEw1Ps/zMGYBkZwFSqOoBlb3JK/aCRadh066r8jb6Y5o9uZrtCxOiNDoIHDCLJBbJDqqmzbFBBvJ8FYbiuhf39QuhDGAlpV02ffhK56dOCWlH9gJMUed919lXfLbx9b3oG3SKghlJdw==;zlR4fE7mn5hSpNiVgsZ1sA=="
 ---
 

@@ -48,57 +48,33 @@ related:
         width: 630
         height: 352
         isCached: true
-  - title: "Microsoft’s acquisition of Nuance tells us a lot about its AI strategy"
-    excerpt: "The acquisition is Microsoft’s biggest since the $26-billion purchase of LinkedIn. And it tells a lot about Microsoft’s AI strategy."
-    publishedDateTime: 2021-04-21T07:34:00Z
-    webUrl: "https://thenextweb.com/news/microsofts-acquisition-of-nuance-tells-us-a-lot-about-its-ai-strategy-syndication"
+  - title: "Microsoft adds new Azure specializations to Coursera"
+    excerpt: "The three new courses on the online learning platform cover Azure Fundamentals, AI Fundamentals and Data Fundamentals."
+    publishedDateTime: 2021-04-26T10:51:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-adds-new-azure-specializations-to-coursera/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fmicrosoft-nuance-acquisition.jpeg&signature=addb758bbb3143952cd453b6387d1063"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Authentic Azure AI Engineer Associate Microsoft AI-100 Exam Dumps [2021]"
-    excerpt: "Prepare your AI-100 exam questions with Dumps2GO Microsoft AI-100 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AI-100 test because of your Azure AI Engineer Associate AI-100 certification exam fear?"
-    publishedDateTime: 2021-04-21T04:11:00Z
-    webUrl: "https://www.madinamerica.com/author/download-ai-100-exam-dumps/"
+  - title: "How Nuance May Alter The Healthcare And AI Playing Field Aas Microsoft Reports Q3 Results"
+    excerpt: "In Microsoft’s (NASDAQ: MSFT) last earnings conference call with analysts, CEO Satya Nadella opened with an upbeat and sweeping salvo on cloud platform"
+    publishedDateTime: 2021-04-26T14:52:00Z
+    webUrl: "https://www.benzinga.com/news/earnings/21/04/20793834/how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20793834"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20793834"
     type: article
     provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 68
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 82
     images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
+      - url: "https://tickertapecdn.tdameritrade.com/assets/images/pages/md/2021-04-23-msft-chart.png"
+        width: 1391
+        height: 736
         isCached: true
-  - title: "Prevencio Announces Laboratory Commercialization Partnership with Atlas Genomics Incorporating Microsoft’s AI-computing Cloud"
-    excerpt: "Prevencio, Inc. today announces an Agreement with Atlas Genomics to commercially launch its highly accurate, AI-driven HART blood tests for heart disease and risk of heart attack, stroke, and cardiovascular death."
-    publishedDateTime: 2021-04-21T14:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/health-science-technology-business-77896c9ed77048668233ecd552c5913e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Prevencio Announces Laboratory Commercialization Partnership with Atlas Genomics Incorporating Microsoft’s AI-computing Cloud"
-    excerpt: "Prevencio, Inc. today announces an Agreement with Atlas Genomics to commercially launch its highly accurate, AI-driven HART blood tests."
-    publishedDateTime: 2021-04-21T18:51:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210421005747/en/Prevencio-Announces-Laboratory-Commercialization-Partnership-with-Atlas-Genomics-Incorporating-Microsoft’s-AI-computing-Cloud"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
 
 secured: "e5AEZj6zQhuAZdlRu8N94sHK4VmOrzYjEuor81SJ/e1sNtC+oJB6/TE7um4hFAaVeiWd4JV3xJOZU4XK/gvXjry2iLYy1wJGpcGjTUXgJ0O9wuaI1O6mWWYVbSOJek+85ZmoCU7+oUDD0wSGQN6reNduDYaZ5N99mTWcJJo7uyGLlPqvUxK+PFuxM7sW+t5Nue35owZ+Rm7dRGprETfxhz+iKS4yDmgOlI0c9VCW3+sZIh5QfVVuFxRegzk1Wo94X3kN2rKeRscHy5uLfB4dwbuA6XP7aRHdQPFZeKHhjkzh5p0Uk9NUkOPCek825RE3bstgpJlGVwPQcqiP4sk/nN6wgA6i8WpDgONnsIkSON5vRnCIQII4kjbmt8pDFGvU9NdbQ69EZgfftN7rHR3aro5vomGH9oDG9CJ9FykfhYnFi3vI2cCPiAkyHxo8BFIVIEEiancYytD9R4oB48zAud+c1ZVp0VZTBSz+kYndejLBiJbnqgiOZ9061ynNHnDeQTp1pAuoHrSxXKQLgVdWUg==;eJioerUsLHOOEegTAoXdOA=="
 ---

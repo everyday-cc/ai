@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "MHS Junior Presents COVID Artificial Intelligence Research to BOE"
-    excerpt: "Millburn High School Junior, Ryan Park, presented his COVID artificial intelligence research to the Board of Education during Monday night’s meeting."
-    publishedDateTime: 2021-04-21T05:00:00Z
-    webUrl: "https://www.tapinto.net/towns/millburn-slash-short-hills/sections/education/articles/mhs-junior-presents-covid-artificial-intelligence-research-to-boe"
+  - title: "Covid-19 Devastated Some Industries But Accelerated AI Use By Companies Across The Country"
+    excerpt: "The Covid-19 pandemic was devastating for many industries, but it only accelerated the use of artificial intelligence across the U.S. economy. Amid the crisis, companies scrambled to create new services for remote workers and students,"
+    publishedDateTime: 2021-04-26T10:32:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/26/ai-50-americas-most-promising-artificial-intelligence-companies/"
     type: article
     provider:
-      name: TAPinto
-      domain: tapinto.net
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 59
     images:
-      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/be/facebook_112da30229df3786daa1_BeFunky-photo__10_.jpg"
-        width: 600
-        height: 254
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608360b00a7f489ff308c3f2%2F0x0.png%3FcropX1%3D58%26cropX2%3D1928%26cropY1%3D40%26cropY2%3D1092"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "WbL/B8F/vtnVatx3xqMl4GyfoefXJ4hchnHFIJ5PG6Y+JGRFP0cIydAklhCWIHDcGzXZEHWonJNvfyNXZe2mY4doVUVC9qPf9mgFqemsAimpJo+syDPecYmZBIMtY+lx7NOBfqxdZxoSIx71+iF1pklm/9gOGdyz3QMA8aF3g0qGUNlN61eLubHQzMKFoX17oMLDzixS3HTIuRRBC4BYqamHMxLQgqb3fBdE5etgN+Ow15luPWHwbSmlxax7TRONlSF6RF/EX7e35AstnlVbeoobOpaaTXdcZn8DbeDAmhLZx6CY4aV2SNXzGHbvxw5Pg+zdybOCaxdq2fb+uBRGAmgA3/9jOu8pUkPxUYPZwrXcMrZP+0A/S+ef4ROIXZw/zcPbPht3chrbb7GHN/q0Ropb3m2BHM2gcfgypU0egSoJgv4SDhF1BdD8HKfU5r4hitSD53kQSHBf+Apphp0kAJoJRk8oTuyV07+wCmfpNfunz3LCKKVc6p+dBfVqut92vnTSFPbJZ627GG3YBm63BA==;Rt9nFm5gR9kbvKdqTxPisQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-electric-self-driving-cars-and-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966"
 type: article
 quality: 84
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -31,49 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Two US senators are pushing new effort on self-driving cars"
-    excerpt: "Gary Peters and John Thune are introducing a bill to fund advancements in self-driving cars ... investment in experts in the field of artificial intelligence (AI). In addition to the vehicle ..."
-    publishedDateTime: 2021-04-23T18:02:00Z
-    webUrl: "https://thehill.com/changing-america/resilience/smart-cities/549977-two-us-senators-are-pushing-new-effort-on-self"
-    ampWebUrl: "https://thehill.com/changing-america/resilience/smart-cities/549977-two-us-senators-are-pushing-new-effort-on-self?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/resilience/smart-cities/549977-two-us-senators-are-pushing-new-effort-on-self?amp"
+  - title: "How AI Trends Could Transform The Healthcare Industry"
+    excerpt: "Beyond its applicability in our current public health crisis, AI has several longer-lead implications for how we'll experience healthcare moving forward."
+    publishedDateTime: 2021-04-26T12:40:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://thehill.com/sites/default/files/ca_selfdriving_042321getty.jpg"
-        width: 1440
-        height: 880
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60832c1b062aef4c0ac65530%2F0x0.jpg"
+        width: 1183
+        height: 801
         isCached: true
-  - title: "Three reasons 'self-driving' cars are still a long way off"
-    excerpt: "The recent crash of a Tesla car in the United States, in which two people died, has reignited debate about the capabilities and safety of today's \"self-driving\" technologies."
-    publishedDateTime: 2021-04-22T14:00:00Z
-    webUrl: "https://techxplore.com/news/2021-04-self-driving-cars-1.html"
+  - title: "Artificial Intelligence in Construction Market Size, Share Industry, Analysis, Price, Trends, Report 2020-2025"
+    excerpt: "Artificial Intelligence in Construction Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & compound annual growth, in-depth qualitative analysis The Artificial Intelligence in Construction Market size was $408."
+    publishedDateTime: 2021-04-22T05:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-share-industry-analysis-price-trends-report-2020-2025-2021-04-22"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/selfdrivingc.jpg"
-        width: 1356
-        height: 668
-        isCached: true
-  - title: "‘Self-driving’ cars are still a long way off. Here are three reasons why"
-    excerpt: "While the technologies required to enable higher levels of automation are advancing rapidly, producing a vehicle that can complete a journey safely and legally without human input remains a big challenge."
-    publishedDateTime: 2021-04-22T20:43:00Z
-    webUrl: "https://gcn.com/articles/2021/04/22/self-driving-cars-challenges.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 23
-    images:
-      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png"
-        width: 760
-        height: 368
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "IcpB+jTqot5hQW8XBLoBemg/kBDiUehQPQyXLtwIs2KFOUCG6VFWb8RhQOMWSszM3J4bfqkUe8DpOIFA/muYClkGzVQCVv6an1OK2CLCeEAYAfI4aRPZbMj6ziRJkDeectUqmJpcFyaNrNEqUeP3Ahz7cBaGuf7LJOyKRRgujiJJECfuZ/93mXEReJLKSouCkdk8a/kQy9ExjRk6XzXLy8F5s/OT8ENB8YliQ0u3Bmh6FaL31GNyYDYJJYl3H9TsU4b1hKj5jlJ6rI2NQSkRYpMrnVND2kVsJt3U2Mx+1K43rSRmw5B3GgFGt5Yq8WGi1l9cM54m0SNObO8XgwDxkcxot49uJSBoC1lc0fgIHwxX6KKzaTz7REovv/AslkDHSYaon5M1xN0NydDudkF3UMuVuGUSB2x1XhGjRXZriBk/x5Gnc3Zt3wz21jVQO/6RC/S/UM5PJvjzXwAJv2TuVpoqSVNUQ35als+vcS4rft3D7Tdsy0l6etkxMPnyxB3ymepd6fajGtcyjpOiEXtoQQ==;zMvK56DpUSSbvr9PBWuKbg=="

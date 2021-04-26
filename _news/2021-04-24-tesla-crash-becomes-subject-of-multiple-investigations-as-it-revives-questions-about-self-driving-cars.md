@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 608
         isCached: true
+  - title: "Three reasons 'self-driving' cars are still a long way off"
+    excerpt: "The recent crash of a Tesla car in the United States, in which two people died, has reignited debate about the capabilities and safety of today's \"self-driving\" technologies."
+    publishedDateTime: 2021-04-22T14:00:00Z
+    webUrl: "https://techxplore.com/news/2021-04-self-driving-cars-1.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 24
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/selfdrivingc.jpg"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "6NdKHlhepuAR1KMqdSJbOXIqEqm56CSnUWDY24hQxR1nVSsPCMWXrT163WAYC19lRaGmdcpxQe3FCPEV8uzygXrJDAZAr9jzRUxQuPPgTzit9dGOXlLLrbxOrfpukG8kd1cE85ByJ9pqQY6sOE9aLqDD0Yp1vcU/IL2HKdC/yg0Fh7fGxyLTrTYzBAcBE/UhbEjn9S4Hv1YkK5dWkEwzq19yAKh0B/8WHOWFF44O9z+kagTX0TVjTkGfX8WYzNnkjVIUWLlFGFyNFPlK6EcvS1d19PT7dcPiS4uGTd21+NWNuwRZFuuZ47yIn/pqn16FZ7wjz/+f9yMDUpFKKRSV9TedIryTwLRWl8xR6DzHT/XklRVG5y40dfXffpkFLyOVHmsVwzZVF23RcM42cNEDYfwJ+mWOjSW3a2lyCxbzQun1reLQMreT5gA/hTrxkTl3uNg5Nfb7RLRU7ZeBBfkIud5puRylt/s7MGbuiqI64XO9iF/VCWZAehQQAPTRHcfp55zE80doi+kshjQ8l3kwBw==;3Wrl/ZHx7u0y0DEOE8OZSQ=="
 ---

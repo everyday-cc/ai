@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-internet-traffic-using-aws-network-firewall/"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/21/8-Frame101.jpg"
         width: 800
         height: 464
+        isCached: true
+  - title: "Monitor and Manage Anomaly Detection Models on a fleet of Wind Turbines with Amazon SageMaker Edge Manager"
+    excerpt: "In industrial IoT, running machine learning (ML) models on edge devices is necessary for many use cases, such as predictive maintenance, quality improvement, real-time monitoring, process optimization, and security. The energy industry, for instance, invests heavily in ML to automate power delivery,"
+    publishedDateTime: 2021-04-26T17:12:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/monitor-and-manage-anomaly-detection-models-on-a-fleet-of-wind-turbines-with-amazon-sagemaker-edge-manager/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/2-Turbine-Farm.jpg"
+        width: 800
+        height: 599
         isCached: true
 
 secured: "/mA5a7MSQI9KV0g2uEjsMZDKjQSMpaBrxTXqZODRtoTVeHVyd3JBMlgO56H2mMOmHsgnIs1GZB+RE1VVEM/84GeHgZzIgtHtEkB3n80EjRSEcoGbAq8hJ952U9CMwoazs8H3GC0Nqrj9+QOQXesyITPCwop+y0uQB/jT7d/UOM6qsIYSOwAPldbDbtz2BoVMdJ8Xutp5VqTjFKCqbVRWyefHkRteZ+fR3pwAaaavQie8tgu14ANJGTit4SYFalXRG0FQ1R/B+nXFNt41bKAh+XR6K5LQZglZlRPtwrbZmuwPQnYMPjzyjYEcMPGY2AQoqIcDPq3NqV7hv3+AEBsWpcGvTRfMf5t+ch9ZoHC8BzU=;LoL5ZTIrcTSKaA6IvN+5MA=="

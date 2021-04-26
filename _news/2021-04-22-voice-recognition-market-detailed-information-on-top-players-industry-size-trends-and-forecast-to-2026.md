@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-recognition-market
 webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-detailed-information-on-top-players-industry-size-trends-and-forecast-to-2026-2021-04-22"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market Size Report, Trend, COVID19 Impact, Industry Outlook, Derive Growth, Share, Revenue Forecast to 2027"
-    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
-    publishedDateTime: 2021-04-21T04:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21"
+  - title: "Speech and Voice Recognition Market to be Worth USD 28.3 Billion by 2026, Rising at a CAGR of 19.8%"
+    excerpt: "The report offers comprehensive market overview, covering the most significant trends prevalent in the global market. It presents insights into the key growth drivers and restraints influencing the speech and voice recognition market growth trajectory."
+    publishedDateTime: 2021-04-22T11:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-to-be-worth-usd-283-billion-by-2026-rising-at-a-cagr-of-198-2021-04-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

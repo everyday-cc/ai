@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-23/xiaomi-is-said-
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-23/xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "China’s AI Chip Investments for 2021 Total USD 3.1 Billion So Far"
-    excerpt: "According to Chinese media report on April 19, there have been at least 21 AI chips investments involving 17 companies since the beginning of 2021, totaling approx. RMB 20 billion (USD 3.1 billion). Among them,"
-    publishedDateTime: 2021-04-21T09:26:00Z
-    webUrl: "https://syncedreview.com/2021/04/21/chinas-ai-chip-investments-for-2021-total-usd-3-1-billion-so-far/"
-    ampWebUrl: "https://syncedreview.com/2021/04/21/chinas-ai-chip-investments-for-2021-total-usd-3-1-billion-so-far/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/04/21/chinas-ai-chip-investments-for-2021-total-usd-3-1-billion-so-far/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 74
-    images:
-      - url: "https://i1.wp.com/syncedreview.com/wp-content/uploads/2021/04/China-Flag.jpeg?fit=950%2C713&ssl=1"
-        width: 950
-        height: 713
-        isCached: true
   - title: "Xiaomi may join AI chip-maker Black Sesame's $231m fundraising efforts"
     excerpt: "Chinese smartphone maker Xiaomi is among a group of investors considering joining the latest fundraising bid by chipmaker Black Sesame Technologies Inc."
     publishedDateTime: 2021-04-23T10:01:00Z

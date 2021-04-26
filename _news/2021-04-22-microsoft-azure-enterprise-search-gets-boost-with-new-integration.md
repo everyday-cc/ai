@@ -41,19 +41,21 @@ related:
         width: 1200
         height: 506
         isCached: true
-  - title: "Amazon, Microsoft Team Against Facial Recognition Lawsuits"
-    excerpt: "Snapchat and Shutterfly have faced similar suits. Amazon's facial recognition software, Rekognition, has become a particular focus of criticism by civil-liberties advocates. Amazon is the largest provider of facial recognition technology to U.S. law ..."
-    publishedDateTime: 2021-04-21T19:15:00Z
-    webUrl: "https://www.govtech.com/computing/amazon-microsoft-team-against-facial-recognition-lawsuits.html"
+  - title: "AWS and Microsoft are not yet market leaders in IoT, but soon will be"
+    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2021-04-26T13:06:00Z
+    webUrl: "https://iotbusinessnews.com/2021/04/26/82010-aws-and-microsoft-are-not-yet-market-leaders-in-iot-but-soon-will-be/"
+    ampWebUrl: "https://iotbusinessnews.com/2021/04/26/82010-aws-and-microsoft-are-not-yet-market-leaders-in-iot-but-soon-will-be/amp/"
+    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/04/26/82010-aws-and-microsoft-are-not-yet-market-leaders-in-iot-but-soon-will-be/amp/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 88
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 76
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/2176ccc/2147483647/strip/true/crop/927x451+0+88/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F86%2F7a%2F5dcdf98c5260ec88bbe78c257b82%2Fshutterstock-1492635029-2.JPG"
-        width: 1440
-        height: 700
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/big-data-flows.jpg"
+        width: 360
+        height: 230
         isCached: true
   - title: "UK government turns to Microsoft for digital transformation assistance"
     excerpt: "The UK government has agreed a new deal with Microsoft, giving public sector organizations discounted access to its cloud productivity tools and services. In a blog post, Microsoft explained the Crown Commercial Service,"
@@ -98,20 +100,6 @@ related:
       - url: "https://www.aitrends.com/wp-content/uploads/2021/04/4-23SpeechRecognition-2.jpeg"
         width: 550
         height: 366
-        isCached: true
-  - title: "UK government agrees new three-year deal with Microsoft"
-    excerpt: "The UK government has signed a new three-year Memorandum of Understanding (MOU) with Microsoft to give the public sector specialist discounts for the vendor's services. The Digital Transformation Arrangement 2021 (DTA21) will see eligible organisations granted access to 365,"
-    publishedDateTime: 2021-04-21T14:14:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4030202/uk-government-agrees-deal-microsoft"
-    type: article
-    provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 39
-    images:
-      - url: "https://www.channelweb.co.uk/api/v1/wps/9741a46/515805b7-19a2-4320-917b-c56e319c031f/2/whitehall-government-it-cloud-computing-money-savings-370x229.jpg"
-        width: 370
-        height: 229
         isCached: true
 
 secured: "ywNEm6zO49Oooz9UHHsrCvpjYzgvyTrZwslYJJrERGxlwSEPpvGmpvytEcAWsHkr7Yk1Q0YZHkpK/6DHkfdNl466QDkm0iBTeVMpuYRRBZ2eRwjo75xvt/6kl5GxtRT6YGIXgT4EvBP8nRploW5/ZScMIQCQ3Fn2fBnibNrby32t+b3UoMy5rauF734EcnL9piu8Z4XrXYxIMwTIzzlDcaljoyEpK+lvQ25RUt6VC0TUHP6xM7e+0Vs5w0I/iHmEEPr0k298Sy4ZtpEsHwEHctKsQagjbc+MgRVprMaxPIO4x4VS5X4LapJ3R1tL+a5YZ1prEH11YXx5sMZIGwR39oLzDMYVGeAPcwv7DsntLto=;W1wPk7sRL35LEa125BMUJw=="

@@ -56,15 +56,6 @@ related:
         width: 685
         height: 329
         isCached: true
-  - title: "Denoising of Video Frames resulting from Video Interface Leakage using Deep Learning for efficient Optical Character Recognition"
-    excerpt: "The present work shows Deep Neural Networks’ application in the automatic recovery of information from unintended electromagnetic emanations emitted by video interfaces. A dataset of 18,194 captured frames is generated,"
-    publishedDateTime: 2021-04-21T12:39:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9405296"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
 
 secured: "L1voumeviUNgZwE8ci8ki15SuSyG1Hx6sekY7UnRV1P1eVeWthekEHHZDZuYNxvNrjlidXhFoChRymKzgeAs0bdNewvwfLNU0xFL9GSH9cbNUM4XuurSbESROVxkZfhjXvOEG/WP5UbL+I2nns+2Q/qXw9wVCnOMf7C4BwYdM14iBvO1xQaGKSeQw98BxSveUB0/ZDaUdqSyBk0AgEGdOLCu/+pFJDZK1/LzveHwpamo8rynzkaUdLBsmXlGuRbJ+kgA1u0DIxUDHX65Pm1yMZ99Q4eSWvGGwcykOBcwfgp39u0BUQmy+dp82MmwFMPc8FAFrvIDkpU8gH1xiIYnj2GEAkai92jSOxqVWLfvJWo=;ZIBGpPGk4aeQDTF7JfUTCA=="
 ---

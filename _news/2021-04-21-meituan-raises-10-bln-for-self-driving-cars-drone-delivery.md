@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Meituan raises $10 bln for self-driving cars, drone delivery"
-excerpt: "It said it plans to spend the money it raised on research and development of self-driving vehicles ... including Tencent and Baidu, were fined for failing to disclose takeovers or investments ..."
-publishedDateTime: 2021-04-21T06:51:00Z
-originalUrl: "https://www.independent.co.uk/news/meituan-raises-10-bln-for-selfdriving-cars-drone-delivery-hong-kong-chinese-beijing-moodys-china-b1834926.html"
-webUrl: "https://www.independent.co.uk/news/meituan-raises-10-bln-for-selfdriving-cars-drone-delivery-hong-kong-chinese-beijing-moodys-china-b1834926.html"
+excerpt: "Chinese food delivery giant Meituan says it has raised nearly $10 billion in a sale of convertible bonds and additional shares, with plans to invest in and develop delivery technologies"
+publishedDateTime: 2021-04-21T06:47:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108"
+webUrl: "https://abcnews.go.com/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: The Independent
-  domain: independent.co.uk
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.independent.co.uk/2021/04/21/07/China_Meituan_97795.jpg?width=1200&auto=webp&quality=75"
-    width: 1200
-    height: 800
+  - url: "https://s.abcnews.com/images/Technology/WireAP_e99be59739c54560b88dee5cc61b9a1b_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "mHO9Q4f8mhQOfCEBk/gTNXckQxSbRp+msarXsxmjmrMqdmaRinPKADgb2k7tGFXL29Kajb8GepfFW6we3cZ8aYgBVqxLIG23nRTCCA2648i11IrhRQT0xZ2UJFDE4Jr/jOa40olXNjoJuXsvnsdWyAUMKXamYThOaIeBJ+zyDkR2rW6+d26XNKadqQ2KVTPInhNg+HNtwj8TeTO2Hiong2TGvRc/d20p87GN3JV1TdRYvn8Y7fRhwBsEyWqZUpdjYqGXTIJZVf/VtmurLRpTKshNYYpPU7xQtkPbEZvYITOdJv0FIoBUb/3mK6ftFjjO0nnGyBaaY83T/PwxKlfaibU4G7H+cgraepsSiGoPnCQ=;h5nEE95CEv86yynpV8S+xQ=="
+secured: "lV7udTa40I5s4znNKpl+Ve0XRnAOiNyFFR0Megkwf+hDM5ShRLkhw9pYud+MGIxayjjCW+oKi+Vr75TxYLzcILxiD5Y4PiodO4134aqWuukZ6bUe+qfnRpKUbu6QH73/4CP2l5ID70Uh/2D02UGozQ3d+o+94c2gUW6+WyCWQoZ+O8yPzo6YiKKci2wtke+9GpixHQ2ubtif4CPGnZCfZHJzGP33e4j930jLmfZJpw97NcNc4fzbfXM3cKnJPFhHsdz1K1EG3yFmacHBmnBrXNZB0m3TToCv+kWnqzbU6AlDDKPXcNWzmns8SZXuwsDq2Xaa3mc2WpTGGHm7OrjfkY3GGN8z4jP6W+d3cun9Rg0=;CZ0SNPziTbGT6BAQLOUSEw=="
 ---
 
