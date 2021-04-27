@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailydot.com/debug/donotpay-photo-ninja-facial-recogniti
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/donotpay-photo-ninja-facial-recognition/?amp"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: The Daily Dot
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "With stadiums opening, facial recognition is ready for a closeup"
-    excerpt: "To ensure that fan safety takes absolute precedence, venue owners and management teams should, without a doubt, be deploying facial recognition technology. Above all else, stadiums and event sites are looking to promote themselves as safe and secure ..."
-    publishedDateTime: 2021-04-23T04:01:00Z
-    webUrl: "https://www.paymentssource.com/opinion/with-stadiums-opening-facial-recognition-is-ready-for-a-closeup"
-    type: article
-    provider:
-      name: PaymentsSource
-      domain: paymentssource.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/defec77/2147483647/strip/true/crop/349x183+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fbe%2F51%2F4e4434f44b0d84b5b880cc8066f5%2Fwatts-robb-corsight-opinion-pso.JPG"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Photo Ninja hides your face from online facial recognition"
     excerpt: "Photo Ninja claims to use AI to slightly alter your images so that they become undetectable to facial recognition software online. The tool was developed by the legal advice app DoNotPay. The self-dubbed “World’s First Robot Lawyer” was initially developed as a chatbot that would help users fight parking tickets."
     publishedDateTime: 2021-04-27T15:58:00Z

@@ -63,19 +63,16 @@ related:
         height: 450
         isCached: true
   - title: "MindsDB Named to Forbes AI 50 List of America's Most Promising Artificial Intelligence Companies"
-    excerpt: "MindsDB, the open-source startup that brings machine learning to the database, today was named to the Forbes' AI 50; a list of private,"
+    excerpt: "Open-source, AutoML server MindsDB listed as one of Forbes' AI 50 top privately-held, U.S.-based companies focused on machine learning. BERKELEY, Calif."
     publishedDateTime: 2021-04-27T15:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindsdb-named-to-forbes-ai-50-list-of-americas-most-promising-artificial-intelligence-companies/article_5104386d-086d-57a3-b875-dda0e7905289.html"
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/p20817138/mindsdb-named-to-forbes-ai-50-list-of-americas-most-promising-artificial-intelligence-companies"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20817138"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20817138"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
 
 secured: "rGzUVA+NeL51Os7RQd8kUFTFqConGqHJ8qbuSsKockxV+QqqChM2JUuNsCZvD2tR7/4LISA8Z56cZNrqjsHKYkE1SoxS66GCnYTzDvFyqjhvACg4t2Lqq/K4embCO4+d7AK4hIZS7XuS27MicDzrkKWfXiR0iAbnW87j7Y6S01FsfgWD0n1vLhSTMlw5qRTUld+qil0p1ss7xgWnooT5kJcGVK5AeBlNsQaTwNyxKuDD8fF2C6v/Bn1jkErZ3hZKMiQgyopJBV7skn401rLzuYIEdBrAw6j/CqGhf3mF0qufuwxhsI2lqGDpBkQH4dN3/TZCxN06wuhxhw+58EmTHgnWdEHWp6v0/IIxOpSTSCk=;E1RIlq0Ka96BYskSWKB+GQ=="
 ---

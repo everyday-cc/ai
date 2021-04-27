@@ -1,29 +1,34 @@
 ---
 category: news
 title: "JG Wentworth Welcomes Andrey Zelenovsky as their Vice President of Artificial Intelligence and Machine Learning"
-excerpt: "JG Wentworth announces Andrey Zelenovsky as the company's Vice President of Artificial Intelligence and Machine Learning. Zelenovsky will"
-publishedDateTime: 2021-04-27T13:47:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/jg-wentworth-welcomes-andrey-zelenovsky-as-their-vice-president-of-artificial-intelligence-and-machine-learning-301278007.html"
-webUrl: "https://www.prnewswire.com/news-releases/jg-wentworth-welcomes-andrey-zelenovsky-as-their-vice-president-of-artificial-intelligence-and-machine-learning-301278007.html"
+excerpt: "JG Wentworth announces Andrey Zelenovsky as the company's Vice President of Artificial Intelligence and Machine Learning. Zelenovsky will lead and leverage Robotic Process Automation (RPA) and Artificial Intelligence (AI) to streamline business process and enhance customer engagement."
+publishedDateTime: 2021-04-27T14:02:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/jg-wentworth-welcomes-andrey-zelenovsky-as-their-vice-president-of-artificial-intelligence-and-machine-learning-1030352532"
+webUrl: "https://markets.businessinsider.com/news/stocks/jg-wentworth-welcomes-andrey-zelenovsky-as-their-vice-president-of-artificial-intelligence-and-machine-learning-1030352532"
 type: article
-quality: 34
-heat: 34
+quality: 66
+heat: 66
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1497122/Zelenovsky_Andrey_headshot_enhanced_800px15e0bff427ca603b600cddcf84c2df1fd10dee70039ecefe9b59ea4418a.jpg?p=facebook"
-    width: 799
-    height: 419
+  - url: "https://mma.prnewswire.com/media/1497122/Zelenovsky_Andrey_headshot_enhanced_800px15e0bff427ca603b600cddcf84c2df1fd10dee70039ecefe9b59ea4418a.jpg"
+    width: 400
+    height: 400
     isCached: true
 
-secured: "lrrobPKPdSx/2qXxiijHr4iYtG/voI2GxP9myyz9mfSYiOUwAFUp2Ix6PNXPWLbGKEDA6gkvlSK1GbMuaJ1P41wZ7oOQgJMGbVGKOBaCrDPDrC0TsKwVC0/C6q/W3JT0nkuTgNGZkTRfBYZkQR7q0iGLHanrUsREnrtL6Vz0Gk0NmH9peOae0g5eIDe2elPbJYei04HxivhWE+3mLcskAcGmC4GxI+asdrw595eQqJHWUtcGpXYO8ID3L1Vli475QKBBczHfCHDNm+T+IRTuRprBiyS+62VfOTF6qt7vYnQkUMCr8fkDlAImZbajgLZDCELI28jaWfmLnV9je0kglNStSawkq9BxDOIkmZUNvEo=;TkcKA9oAWqmSNBt54gpOTA=="
+secured: "TH0iIPoSLAlTlqOi7gOCGBtUXc6sagPOWbNED4yygX7NUpcc84sN2Pny7zuPEjUiyCJV0quHhAklDxKoEMCmJExFmpksXboZdjTocSbDl9+vdniID1eoLmxc6jiuUq/p8+RaindMszaWMG6UJ9v1yL5rLs/JNygJQdpxARXr7dkrYNylpepmSBn7uM8I3LXGsPsjb/vOgmn8iqHmf2E8lswMbPBkh1qSZe0w4jmO6kqOp8pqjX5uAFFBm35hROINTavyaamjVunY88C8G/VWLF9gwdkA9BSSuwACOwxzZCTqVZrJ0rIVe4HiO9VaK4zgS+NTAYuWDKuQZk69lRSBIagz/s6QKyuKr+zIVuq37S0=;H90nTSCFsBZx7+42t+d3Bw=="
 ---
 

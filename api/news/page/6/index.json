@@ -2,6 +2,386 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-20-startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates.md",
+      "title": "Startup taps radio frequency data, AWS tools to search the seas for pirates",
+      "excerpt": "The company developed these capabilities using Amazon Web Services' SageMaker Autopilot, a fully-managed service for building, training and deploying machine learning models. Using Autopilot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
+      "originalUrl": "https://www.zdnet.com/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
+      "publishedDateTime": "2021-04-20T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-ishares-robotics-and-artificial-intelligence-etf-built-for-the-future.md",
+      "title": "iShares Robotics and Artificial Intelligence ETF: Built For The Future",
+      "excerpt": "Shares Robotics And Artificial Intelligence ETF - While the potential for growth is phenomenal, risks like significant foreign exposure and regulatory action are something to keep an eye on",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "originalUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1204583853/medium_image_1204583853.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "publishedDateTime": "2021-04-20T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-how-face-recognition-can-destroy-anonymity.md",
+      "title": "How Face Recognition Can Destroy Anonymity",
+      "excerpt": "Cameras are everywhere, and increasingly powerful software can pick an individual out of a crowd. Except sometimes algorithms get it wrong.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/",
+      "originalUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/607e24ad084a1594b46b28c1/master/pass/face_recognition_jpeg0.jpg",
+          "width": 2000,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-face-recognition-destroy-anonymity/amp",
+      "publishedDateTime": "2021-04-20T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-anari-ai-raises-2m-to-rebuild-the-ai-hardware-industry-through-personalized-cloud-chips.md",
+      "title": "Anari AI Raises $2M to Rebuild the AI Hardware Industry Through Personalized Cloud Chips",
+      "excerpt": "Anari AI raised $2 million in seed funding led by Earlybird VC, to rebuild the AI hardware industry from scratch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210420005700/en/Anari-AI-Raises-2M-to-Rebuild-the-AI-Hardware-Industry-Through-Personalized-Cloud-Chips",
+      "originalUrl": "https://www.businesswire.com/news/home/20210420005700/en/Anari-AI-Raises-2M-to-Rebuild-the-AI-Hardware-Industry-Through-Personalized-Cloud-Chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-autoshow-baidu-expects-to-supply-self-driving-system-to-1-mln-cars-in-3-5-years.md",
+      "title": "AUTOSHOW-Baidu expects to supply self-driving system to 1 mln cars in 3-5 years",
+      "excerpt": "SHANGHAI, April 19 (Reuters) - Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice ...",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/autoshow-shanghai-baidu-idCNL1N2MB06V",
+      "originalUrl": "https://cn.reuters.com/article/autoshow-shanghai-baidu-idCNL1N2MB06V",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559010206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3I04N",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2MB06V",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2MB06V",
+      "publishedDateTime": "2021-04-20T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-how-communicators-can-help-address-ethical-ai-risks.md",
+      "title": "How Communicators Can Help Address Ethical AI Risks",
+      "excerpt": "Fortunately, as communications specialists, we can work cross-functionally to evaluate AI-powered products or services, determine if they have ethical risks and champion actions to manage them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb3ff457ad853db35f0dbc5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/amp/",
+      "publishedDateTime": "2021-04-20T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-uk-drone-startup-seesai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights.md",
+      "title": "UK drone startup sees.ai gets go ahead to trial beyond-visual-line-of-sight (BVLOS) flights",
+      "excerpt": "The U.K.’s Civil Aviation Authority (CAA) has given the go ahead to local startup sees.ai, which is developing a beyond-visual-line-of-sight (BVLOS) command & control solution to aid data capture for industrial use-cases,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/",
+      "originalUrl": "https://techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Screenshot-2021-04-20-at-12.07.18.png?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/amp/",
+      "publishedDateTime": "2021-04-20T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-python-is-devouring-data-science.md",
+      "title": "Python is devouring data science",
+      "excerpt": "Someone once said that Python’s data science training wheels would increasingly lead to the R language. Boy, was he wrong.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html",
+      "originalUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/04/dna-research-science-medical-advancement-101334656-100264916-large.jpg",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.amp.html",
+      "publishedDateTime": "2021-04-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-ibm-ceo-arvind-krishnas-turnaround-plan-starting-to-bear-fruit.md",
       "title": "IBM CEO Arvind Krishna’s turnaround plan starting to bear fruit",
       "excerpt": "including Cloud and Cognitive Software, which saw a sales increase of 3.8% from a year earlier to $5.4 billion. The Global Business Services unit, which includes consulting, and the Systems unit ...",
@@ -803,369 +1183,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-deep-learning-market-research-report-by-trends-by-type-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19.md",
-      "title": "Deep Learning Market Research Report by Trends, by Type, by Application – Global Forecast to 2025 – Cumulative Impact of COVID-19",
-      "excerpt": "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-by-trends-by-type-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-2021-04-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-by-trends-by-type-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-2021-04-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-google-translation-ai-botches-legal-terms-enjoin-garnish-research.md",
-      "title": "Google translation AI botches legal terms ‘enjoin,’ ‘garnish’ -research",
-      "excerpt": "They translate foreign text into English and then back into the foreign language, aiming to teach the ... severe consequences as more businesses use AI to generate or translate legal text.",
-      "sourceUrl": null,
-      "webUrl": "https://www.metro.us/google-translation-ai-botches/",
-      "originalUrl": "https://www.metro.us/google-translation-ai-botches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH3I0MA-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.metro.us/google-translation-ai-botches/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/google-translation-ai-botches/amp/",
-      "publishedDateTime": "2021-04-19T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-ecovacs-robotics-introduces-the-deebot-n8-family-in-thailand.md",
-      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Thailand",
-      "excerpt": "ECOVACS ROBOTICS, the world's leading home service robotics maker, today announces the launch of the DEEBOT N8 Family in Thailand, bringing a hands-free and effectively superior cleaning experience for customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswit.com/en/L7BH",
-      "originalUrl": "https://www.newswit.com/en/L7BH",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newswit.com/img/f/20210419/5260a0b19f5d8644725b108b03935f64-0.jpg",
-          "width": 1067,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "academy",
-        "domain": "newswit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-asia-pacific-artificial-intelligence-ai-in-healthcare-market.md",
-      "title": "Asia Pacific Artificial Intelligence (AI) in Healthcare Market",
-      "excerpt": "The Business Market Insights provides you regional research analysis on Asia Pacific Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic indicators and",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
-      "originalUrl": "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U419236836_g.jpg",
-          "width": 563,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
-      "publishedDateTime": "2021-04-19T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-baidu-expects-to-supply-self-driving-system-to-one-million-cars-in-three-to-five-years.md",
-      "title": "Baidu expects to supply self-driving system to one million cars in three to five years",
-      "excerpt": "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday.Li Zhenyu, senior corporate vice president at Baidu,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theedgemarkets.com/article/baidu-expects-supply-selfdriving-system-one-million-cars-three-five-years",
-      "originalUrl": "https://www.theedgemarkets.com/article/baidu-expects-supply-selfdriving-system-one-million-cars-three-five-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.theedgemarkets.com/Baidu-headquartes-beijing-2_20210217160554_reuters_2.jpg?hrI3.OWrZA5yf6i_da_4CCo53dXesn15",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-18T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Edge",
-        "domain": "theedgemarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years.md",
-      "title": "Baidu expects to supply self-driving system to 1 million cars in 3-5 years",
-      "excerpt": "FILE PHOTO: A logo of Baidu is seen during the World Internet Conference (WIC) in Wuzhen, Zhejiang province, China, November 23, 2020. REUTERS/Aly Song/File Photo (Reuters) - Coinbase Chief ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/baidu-expects-to-supply-self-driving-sys-idUSKBN2C60AN",
-      "originalUrl": "https://www.reuters.com/news/picture/baidu-expects-to-supply-self-driving-sys-idUSKBN2C60AN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559010206&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH3I04N",
-          "width": 810,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-18T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-is-boston-dynamics-becoming-a-boring-robotics-company.md",
-      "title": "Is Boston Dynamics becoming a boring robotics company?",
-      "excerpt": "The new Stretch robot from Boston Dynamics doesn't do backflips or dance, but it may become the company's most successful commercial product.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/",
-      "originalUrl": "https://venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/boston-dynamics-robots-spot-handle-atlas-web-summit.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/amp/",
-      "publishedDateTime": "2021-04-18T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing.md",
-      "title": "The New Zealand scientists trying to make brain-controlled robots a thing",
-      "excerpt": "Brain-controlled devices could give people with disabilities or severe injuries new access to the world. But it could also be used to enhance humans, create super soldiers or even transcend the human body entirely.",
-      "sourceUrl": null,
-      "webUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/",
-      "originalUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thespinoff.co.nz/1/2021/04/Robot-arm.jpg",
-          "width": 850,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp",
-      "cdnAmpWebUrl": "https://thespinoff-co-nz.cdn.ampproject.org/c/s/thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp",
-      "publishedDateTime": "2021-04-18T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spinoff",
-        "domain": "thespinoff.co.nz",
-        "images": null,
         "publishers": null,
         "authors": null
       },

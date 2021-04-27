@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-26T10:32:00Z
 originalUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/26/ai-50-americas-most-promising-artificial-intelligence-companies/"
 webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/26/ai-50-americas-most-promising-artificial-intelligence-companies/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608360b00a7f489ff308c3f2%2F0x0.png%3FcropX1%3D58%26cropX2%3D1928%26cropY1%3D40%26cropY2%3D1092"
@@ -62,6 +63,6 @@ related:
         height: 900
         isCached: true
 
-secured: "g3vRzsmX4Wr/NCn18JrbcyKTrwnjgXJFZWWwKrLjyEg3Cj/ufnkG43yu0JpNv/Rw2QNAYGNVAd0iUqgtKsegAvAgJ7kr6VEwJ1Z35UvFZQWcGots1dIOl8OdDL+uP73CYFKFk0VbTwVkI242BN8inhW8jOb+rMMIbBGNHymZD8YGW82G5PnmC4V0rBgAL76oiqUdNVnlEawsFyH9e+L/zJ2f0nb5CoK2s/U2/EcMPD4uqQyva2kguJnAiSmD1tylpyQVXVvBFCfi1lHI7jdSAEXcmtaN7Ubyf5/r7XBnk6JfRQ5A//AeofPAHn5EK3LYeRoXX7xTEtTcOxonAbjDJKy2n74dL8vEakAIltoFhAY=;9sP1qEyNXNQgxk7XRJ99gA=="
+secured: "oBx9q6ndIygOF0HI4pvESnlUrmvnk9eTk9XQDA2U/SWTQ8NyF8tNWaMPm3rFrbj1HDZ9ah6bhyBHrBgzNxRccQXpaCMzqUIgD+CnRKPF5PEXvlVZywxahoxLvdxTMVkuW+3jZJ0hZwcdWWAn6AzHoX88M41HJWbNP2tLfXI7YsSzvJnZNxWIyGlmWp6InUEOMlt84oT54eB367P2kwgqy1knJcrVIYY305OelM+TPO7oG1tTUSvS6YEBwgXsZMyylbE85A8GEWIpjo9oV0+hosCXTMkUVcobug8ilAdPJ1yE2tiKuascGF93Q01HKnUbNzr42UzTtsRA6tBcAiKw/hM25FIr6hQ4hFfvgsXLXs18flexT91sIm4Otsd/nZSItx1lR8ZOVv6iUyRVXxpAmqDArddrjGfQc/z2Yp0ABmDMAxE2+AO7RZlkBNL7gzRhSMJXl9WmhIcoPH+mSNkRCuME71OuBbjc5qSmzFRzWYD55Tbuz59JWi6+AdXXB6rrfD+71CsUWykbGberCtrERQ==;m95RkMHi4rDLKXWsd3oiag=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-28-plus-one-robotics-raises-33-million-for-logistics-vision-system.md",
+      "title": "Plus One Robotics raises $33 million for logistics vision system",
+      "excerpt": "Backing will help firm meet global e-commerce expansion with technology that delivers “hand-eye coordination” for warehouse bots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/50490-plus-one-robotics-raises-33-million-for-logistics-vision-system",
+      "originalUrl": "https://www.dcvelocity.com/articles/50490-plus-one-robotics-raises-33-million-for-logistics-vision-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/2021/04/27/plusone_our-products-left.jpg?height=635&t=1619549271&width=1200",
+          "width": 997,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-tesla-is-becoming-more-of-an-artificial-intelligence-and-robotic-company-says-elon-musk.md",
       "title": "Tesla is becoming more of an artificial intelligence and robotic company, says Elon Musk",
       "excerpt": "Elon Musk made the argument that Tesla is going to be known more as an artificial intelligence and robotic company. For a while now, Musk has been pushing this idea that investors shouldn’t just see Tesla as an automaker and energy company,",
@@ -168,7 +212,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-supply-sales-revenue-and-forecast-from-2021-to-2025-2021-04-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1356,59 +1400,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-neuralink-and-beyond-how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks.md",
-      "title": "Neuralink And Beyond- How Machine Learning Will Enable Technologies That Anticipate What The Brain Thinks",
-      "excerpt": "Brain-machine interfaces - or brain-computer interfaces, the terms are used interchangeably - are technologies designed to directly ‘‘plug’ into the nervous system: the brain, retinas in the eyes (which are actually a part of the brain itself),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/",
-      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606f78e1c80df8df6e0b0c6d%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/amp/",
-      "publishedDateTime": "2021-04-12T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

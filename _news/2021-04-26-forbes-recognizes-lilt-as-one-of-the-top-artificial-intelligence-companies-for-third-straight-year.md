@@ -65,19 +65,16 @@ related:
         height: 450
         isCached: true
   - title: "MindsDB Named to Forbes AI 50 List of America's Most Promising Artificial Intelligence Companies"
-    excerpt: "MindsDB, the open-source startup that brings machine learning to the database, today was named to the Forbes' AI 50; a list of private,"
+    excerpt: "Open-source, AutoML server MindsDB listed as one of Forbes' AI 50 top privately-held, U.S.-based companies focused on machine learning. BERKELEY, Calif."
     publishedDateTime: 2021-04-27T15:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindsdb-named-to-forbes-ai-50-list-of-americas-most-promising-artificial-intelligence-companies/article_5104386d-086d-57a3-b875-dda0e7905289.html"
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/p20817138/mindsdb-named-to-forbes-ai-50-list-of-americas-most-promising-artificial-intelligence-companies"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20817138"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20817138"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
 
 secured: "omToS7T01YxUk7A3er4R0i5u8XUNtr1ZXaiNcACuoy8XY7aG/KOVQPSO9WB5D24mdUogpoosdgZSajP0pHrfwTrH5BlptXZP5TKIdlQeg5vzpHxXAqM0P+h1inrQU2RnuyBnX7dIkakZM4iVDT5Z8waqHOxXQ/3RWvuSpMWMwGEDcywUIGn6FWmjo1C/2Wpx5GgulQKZS+Q8Is/247jI5Yq0i0V/QTgv2uZxp7zoWBSLrMaIV+tJ+BUwTkCO5MHNwO0jpguyseqrEmXIHZ7/QqZEJGQHY+N6gRGbbsApBvhzlYMqumZWEXK8SYVcURzPrP1NNzgavwvYBfFCu2MSPxLd+imP1l3KppIKPYORl0dtv+F5eZTc3oXDLFTIz0iNyxXs/QLoW9SCow+TWeiGg6p7tHkTUAgvrsRYRYPp9Uk5IcTFnd47YHQ0FaPo6JjeuQ8HJ67LnbvX6sHm5xXSvtzkBzHVMhE/H29i2GUvNHdYKh7hTakAT+nw/bK1y50+7/xTUb3AHlcTdjzyesdSNA==;OOsvMt2FqgjCnJQCWTQRVg=="
 ---

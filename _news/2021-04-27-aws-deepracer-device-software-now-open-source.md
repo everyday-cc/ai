@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-device
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-device-software-now-open-source/"
 type: article
 quality: 121
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS open sources its DeepRacer machine learning software to let developers tinker at home"
+    excerpt: "AWS DeepRacer provides a fast way to learn about machine learning programming by putting it into practical terms using autonomous vehicles as a real-world example of its use. In DeepRacer’s case, it is an Ubuntu Linux-based computer on wheels powered by the Robot Operating System."
+    publishedDateTime: 2021-04-27T18:00:00Z
+    webUrl: "https://siliconangle.com/2021/04/27/aws-open-sources-deepracer-machine-learning-software-let-developers-tinker-home/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 81
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/aws-deepracer-robot.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Amazon announces it’s open sourcing DeepRacer device software"
     excerpt: "When Amazon debuted AWS DeepRacer in 2018, it was meant as a fun way to help developers learn machine learning. While it has evolved since and incorporated DeepRacer competitions, today the company announced it was adding a new wrinkle."
     publishedDateTime: 2021-04-27T17:00:00Z

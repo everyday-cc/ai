@@ -35,20 +35,6 @@ related:
         width: 2560
         height: 1293
         isCached: true
-  - title: "With stadiums opening, facial recognition is ready for a closeup"
-    excerpt: "To ensure that fan safety takes absolute precedence, venue owners and management teams should, without a doubt, be deploying facial recognition technology. Above all else, stadiums and event sites are looking to promote themselves as safe and secure ..."
-    publishedDateTime: 2021-04-23T04:01:00Z
-    webUrl: "https://www.paymentssource.com/opinion/with-stadiums-opening-facial-recognition-is-ready-for-a-closeup"
-    type: article
-    provider:
-      name: PaymentsSource
-      domain: paymentssource.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/defec77/2147483647/strip/true/crop/349x183+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fbe%2F51%2F4e4434f44b0d84b5b880cc8066f5%2Fwatts-robb-corsight-opinion-pso.JPG"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "c00fhglg59PYLUoS5R61/YJ6VyMfYwxnhw2Dd2Mr89zfeUE9TIAkJRh4h0VZIHx7glYTKvyNuVVFvR+OA1dIqZafdituIdTI/3pmVB9jwA0rmTs49LX1CQ3Tks2waxmTEdD7Fu1cjdCmDHBrXaY+9qyKdoEFHAb8B+D5ggZ24Tt+HJJwqMLxDific7FaA9FqCMeWbl7nsOSVCLY0qDZO9YKpebCUOJEQAatztcq87Jf/yhjE5lF/UJLqbxAUVEI1wP9/3U6n3eONOicBwQxxduVfZDKvmtNFMghg8YvtdiMc2ZA3VgI2txOk7lT7rulz+27itohXdguxxHB7wZzUSUzduKJONnFNZPb/iLaSHkpV2pUa97S+32nmICmIX+R7oKpG8MdWvKMP+z5I/Tjc1D67L1UKXMFBJIV/WFE+7tz4dZc6rvG11d3xi+ncMYde69gaur2GdsheKlYTH9/a4S3c0gGQ7N+brkNZNdgoYpZ3zJ+BVzBcrt7E7zAzGhA5vYQJ/qj6IZb9TbPsWYZXBA==;qvpOOmE/h9d2dRi9ls2LaQ=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -52,6 +52,58 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-3-top-fintech-stocks-to-buy-now.md",
+      "title": "3 Top Fintech Stocks to Buy Now",
+      "excerpt": "Fintech stocks have been white-hot over the past year ... and Upstart tackles both with its AI-enhanced software. Rather than rely on traditional credit scores, which often exclude lots of potential borrowers that have good-but-not-quite-great credit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/",
+      "originalUrl": "https://www.fool.com/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F622366%2Fyoung-woman-holding-credit-card-and-smartphone-and-thinking-with-chin-on-fist-online-mobile-shopping-e-commerce.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/",
+      "publishedDateTime": "2021-04-23T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1285,59 +1337,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp.md",
-      "title": "Aunalytics unifies siloed bank customer data with AI-driven data mart and NLP",
-      "excerpt": "Register for a free or VIP pass today. Aunalytics announced an update to its Daybreak for Financial Services platform that employs machine learning algorithms to enable midrange banks and credit ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/",
-      "originalUrl": "https://venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/daybreak_slide.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/aunalytics-unifies-siloed-bank-customer-data-with-ai-driven-data-mart-and-nlp/amp/",
-      "publishedDateTime": "2021-03-26T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

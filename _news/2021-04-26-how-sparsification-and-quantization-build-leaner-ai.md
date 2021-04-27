@@ -7,7 +7,7 @@ originalUrl: "https://www.idginsiderpro.com/article/3616173/how-sparsification-a
 webUrl: "https://www.idginsiderpro.com/article/3616173/how-sparsification-and-quantization-build-leaner-ai.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Identification and control of a DC motor using back-propagation neural networks"
-    excerpt: "An artificial-neural-network (ANN)-based high-performance speed-control system for a DC motor is introduced. The rotor speed of the DC motor can be made to follow an arbitrarily selected trajectory. The purpose is to achieve accurate trajectory control of the speed,"
-    publishedDateTime: 2021-04-27T07:28:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/103639"
+  - title: "Formation launches AI-driven sales offer optimization platform"
+    excerpt: "Marketing tech company Formation released a tool that helps companies to send out millions of product offers to consumers."
+    publishedDateTime: 2021-04-27T20:45:00Z
+    webUrl: "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/"
+    ampWebUrl: "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/amp/"
     type: article
     provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 15
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pricefx launches AI-powered market simulation tool"
+    excerpt: "Pricefx launched market simulation, which leverages AI to predict consumer behavior and more in response to product price changes."
+    publishedDateTime: 2021-04-27T19:58:00Z
+    webUrl: "https://venturebeat.com/2021/04/27/pricefx-launches-ai-powered-market-simulation-tool/"
+    ampWebUrl: "https://venturebeat.com/2021/04/27/pricefx-launches-ai-powered-market-simulation-tool/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/pricefx-launches-ai-powered-market-simulation-tool/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/Logo_wo_border-e1574711875163.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "rGQqy9+jQZ8MRXr9/0Vt9rDJD95+3WTmDRtuj/1ZLh+/esOA+zckhFvtCztkKHeK73hsYHvArtjKc3f1YZWwsQX5bUH7O0meUPhTVIwyt5njqgu82+tubFtGHpeENhyg/OpZMJtHf6BIjVpki7nDmiNJz3JXnYkCwBeTqlXttriGzlUp+J0D5M5ao87G38DxB4MVQSXtlxDzs+7bEnVrznW80JqaZKjJzmnrvuxDBpKxvp9Dfj6pG4YL/J8g8F3y/SFFKZAYRw/cHZxjtzgqRODIC184z+66ZdwBChA+/wYNSTqMJWP7WILht+48Kv0KUJAsG82NgXLDfPNmh5U1T5dyc7Gxdphv7+Y/YITZBEYjVKnRke5qMvkuPS8QB9D3JTlRI0UTItuOT5NVJgjKi4OmgxoWX1wa65SdHbzxYspannO+H9nJ9rN9KloITOe7MwqrBXId43S7O7CHDNf6iIC16sPd9Ir8NUTIUcLuqAjqHPMn40lj6HyX37826Nxagys5jMFqz2X3lPugetxJBA==;x5u8rgeZuX6YTLVOi0ldbQ=="
 ---

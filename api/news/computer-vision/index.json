@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-27-this-tool-can-make-your-pics-undetectable-to-facial-recognition-without-ruining-them.md",
-      "title": "This tool can make your pics undetectable to facial recognition without ruining them",
-      "excerpt": "A new tool is promising to make your pictures undetectable to facial recognition software without significantly changing their appearance.",
+      "path": "_news/2021-04-28-plus-one-robotics-raises-33-million-for-logistics-vision-system.md",
+      "title": "Plus One Robotics raises $33 million for logistics vision system",
+      "excerpt": "Backing will help firm meet global e-commerce expansion with technology that delivers “hand-eye coordination” for warehouse bots.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/donotpay-photo-ninja-facial-recognition/",
-      "originalUrl": "https://www.dailydot.com/debug/donotpay-photo-ninja-facial-recognition/",
+      "webUrl": "https://www.dcvelocity.com/articles/50490-plus-one-robotics-raises-33-million-for-logistics-vision-system",
+      "originalUrl": "https://www.dcvelocity.com/articles/50490-plus-one-robotics-raises-33-million-for-logistics-vision-system",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://uploads.dailydot.com/2021/04/facial_recogition-scaled.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2560,
-          "height": 1293,
+          "url": "https://www.dcvelocity.com/ext/resources/2021/04/27/plusone_our-products-left.jpg?height=635&t=1619549271&width=1200",
+          "width": 997,
+          "height": 546,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/donotpay-photo-ninja-facial-recognition/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/donotpay-photo-ninja-facial-recognition/?amp",
-      "publishedDateTime": "2021-04-26T18:14:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T11:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {

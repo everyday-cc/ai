@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-27-announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch.md",
+      "title": "Announcing the AWS DeepComposer Chartbusters challenges 2021 season launch",
+      "excerpt": "We’re back with two new challenges for the AWS DeepComposer Chartbusters 2021 season! Chartbusters is a global challenge in which developers use AWS DeepComposer to create original compositions and compete in monthly challenges to showcase their machine learning (ML) and generative artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/27/2-Track1.jpg",
+          "width": 800,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T14:22:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-aws-deepracer-device-software-now-open-source.md",
       "title": "AWS DeepRacer device software now open source",
       "excerpt": "AWS DeepRacer is the fastest way to get started with machine learning (ML). You can train reinforcement learning (RL) models by using a 1/18th scale autonomous vehicle in a cloud-based virtual simulator and compete for prizes and glory in the global AWS DeepRacer League. Today, we’re expanding AWS DeepRacer’s",
@@ -10,7 +62,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-device-software-now-open-source/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1374,59 +1426,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console.md",
-      "title": "Win a digital car and personalize your racer profile on the AWS DeepRacer console",
-      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning, giving developers the chance to learn ML hands-on with a 1/18th scale autonomous car, 3D virtual racing simulator, and the world’s largest global autonomous car racing league. With the 2021 AWS DeepRacer League Virtual Circuit now",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aws-ml-blog.s3.amazonaws.com/artifacts/Win-digital-car-and-personalize-your-racer-profile-DeepRacer-console/DeepRacer-Van.gif",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T17:03:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
       ]
     }
   ],

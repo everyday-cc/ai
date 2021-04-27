@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20793834"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20793834"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Azure AI Cloud Computing Driving Microsoft Tech Stock Giants Profits - Tech Stocks Investing 2021"
+    excerpt: "With Microsoft AI Azure cloud computing division growing by 50% per annum, converts into a Buy rating of 65%. This video is excerpted from my recent in-depth analysis that updates buy ratings, levels and valuations for the top tech stocks in my AI ..."
+    publishedDateTime: 2021-04-23T16:38:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article68794.html"
+    type: article
+    provider:
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 56
+    images:
+      - url: "https://www.marketoracle.co.uk/images/2021/Apr/Azure-AI-Cloud-Computing-Microsoft-Profits.jpg"
+        width: 800
+        height: 466
+        isCached: true
   - title: "AI supplier Future Anthem secures Microsoft “co-sell” partnership"
     excerpt: "Machine learning solutions provider Future Anthem has secured a strategic partnership with Microsoft that will allow the tech giant to co-sell Future Anthem products as part of its solutions offering."
     publishedDateTime: 2021-04-26T15:35:00Z

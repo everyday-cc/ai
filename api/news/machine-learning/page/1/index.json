@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-28-meet-amy-the-ai-meme-generators-using-deep-learning.md",
+      "title": "Meet AMY: The AI meme generators using deep learning",
+      "excerpt": "It has been architectured to analyze information and produce humor. It solves problems that would be impossible or difficult by human or statistical standards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/",
+      "originalUrl": "https://www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/web-4861609_640.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/amp/",
+      "publishedDateTime": "2021-04-27T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus.md",
       "title": "Apple will focus on machine learning, AI jobs in new NC campus",
       "excerpt": "Apple's new campus and engineering hub in North Carolina will focus on machine learning, artificial intelligence, and software engineering.",
@@ -51,6 +94,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking.md",
+      "title": "Microsoft Defender can now use Intel's CPU-based machine learning to detect cryptojacking",
+      "excerpt": "Microsoft Defender for Endpoint has been enhanced using advancements in Intel Threat Detection Technology to detect cryptojacking attacks via machine learning heuristics based on CPU telemetry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1619243785_figure_1._windows-defender-tdt_chart_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1284,83 +1380,6 @@
       "ampWebUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.amp",
       "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-machine-future-pandemics.amp",
       "publishedDateTime": "2021-04-13T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-aireverie-appoints-former-nvidia-deep-learning-guru-aayush-prakash-as-head-of-machine-learning.md",
-      "title": "AI.Reverie Appoints Former NVIDIA Deep Learning Guru Aayush Prakash as Head of Machine Learning",
-      "excerpt": "\"He brings incredible experience, unparalleled expertise and deep industry knowledge to AI.Reverie and our clients.” Prakash is renowned in the field of machine learning and recognized as one of the foremost synthetic data researchers in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210413005853/aireverie-appoints-former-nvidia-deep-learning-guru-aayush-prakash-as-head-of-machine-learning",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210413005853/aireverie-appoints-former-nvidia-deep-learning-guru-aayush-prakash-as-head-of-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-deep-learning-model-to-maximize-lifespan-after-liver-transplant.md",
-      "title": "Deep Learning model to maximize lifespan after liver transplant",
-      "excerpt": "Researchers from University Health Network have developed and validated an innovative deep learning model to predict a patient's long-term outcome after receiving a liver transplant.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-liver.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.amp",
-      "publishedDateTime": "2021-04-13T00:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Medical Xpress",

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-09-win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console.md",
+      "title": "Win a digital car and personalize your racer profile on the AWS DeepRacer console",
+      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning, giving developers the chance to learn ML hands-on with a 1/18th scale autonomous car, 3D virtual racing simulator, and the world’s largest global autonomous car racing league. With the 2021 AWS DeepRacer League Virtual Circuit now",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://aws-ml-blog.s3.amazonaws.com/artifacts/Win-digital-car-and-personalize-your-racer-profile-DeepRacer-console/DeepRacer-Van.gif",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T17:03:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-artificial-intelligence-key-to-maintaining-military-economic-advantages-say-leaders.md",
       "title": "Artificial Intelligence Key to Maintaining Military, Economic Advantages, Say Leaders",
       "excerpt": "Officials today discussed the National Security Commission on Artificial Intelligence's recent report and the progress for the adoption and implementation of AI across the Defense Department ...",
@@ -1251,41 +1304,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantagecom-amazon-web-services-inc-samsung.md",
-      "title": "AI in Fintech Market Growth by Global Key Players: IBM Corporation, Intel Corporation, ComplyAdvantage.com, Amazon Web Services, Inc., Samsung Group",
-      "excerpt": "The computational arms race for past years has revolutionized the Fintech companies. AI and machine learning have benefited the banks and fintechs as they can process huge amounts of information about customers.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/24/ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantage-com-amazon-web-services-inc-samsung-group/",
-      "originalUrl": "https://ksusentinel.com/2021/03/24/ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantage-com-amazon-web-services-inc-samsung-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

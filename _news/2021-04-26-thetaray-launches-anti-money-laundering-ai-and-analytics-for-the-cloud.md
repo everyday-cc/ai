@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laun
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "RealNetworks wins facial recognition and AI analytics contract with US Air Force"
+    excerpt: "The goal is to reduce the risk service members face as the Safr-enhanced UGVs will detect unauthorized persons in restricted areas with face biometrics."
+    publishedDateTime: 2021-04-27T20:05:00Z
+    webUrl: "https://www.biometricupdate.com/202104/realnetworks-wins-facial-recognition-and-ai-analytics-contract-with-us-air-force"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 49
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+        isCached: true
   - title: "Adobe extends AI-infused customer analytics platform to offline data"
     excerpt: "Adobe extends its AI-infused platform for analyzing customer journeys to now include data pulled from offline sources."
     publishedDateTime: 2021-04-27T13:00:00Z

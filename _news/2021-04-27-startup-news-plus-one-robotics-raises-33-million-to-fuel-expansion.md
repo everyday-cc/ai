@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Plus One Robotics raises $33 million for logistics vision system"
+    excerpt: "Backing will help firm meet global e-commerce expansion with technology that delivers “hand-eye coordination” for warehouse bots."
+    publishedDateTime: 2021-04-27T18:46:00Z
+    webUrl: "https://www.dcvelocity.com/articles/50490-plus-one-robotics-raises-33-million-for-logistics-vision-system"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 71
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2021/04/27/plusone_our-products-left.jpg?height=635&t=1619549271&width=1200"
+        width: 997
+        height: 546
+        isCached: true
   - title: "Plus One Robotics Raises $33 Million to Fuel Expansion"
     excerpt: "Plus One Robotics, the leading provider of vision software for logistics robots, announces $33 million of Series B funding. McRock Capital and Translink Capital co-led the round, with participation from BMW i Ventures,"
     publishedDateTime: 2021-04-27T10:02:00Z
@@ -37,15 +51,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "Local robotics company raises $33M in funding led by Silicon Valley, Canadian VCs"
-    excerpt: "Local robotics software company Plus One Robotics raised $33 million in a Series B equity fundraising round co-led by venture capital firms in California and Toronto. The money will help Plus One further develop its two offerings: PickOne,"
-    publishedDateTime: 2021-04-27T11:00:00Z
-    webUrl: "https://www.bizjournals.com/sanantonio/news/2021/04/27/plus-one-robotics-raises-33m-in-equity-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
 
 secured: "1SAb0kVtWJHqTaE3Uyv7kBlnJJpPaTgdM7G0YdsbxS00fwI3O18/5XsE0YjB1LzADMxZjCv4S/gxSa6JqiRPMKBECoh11Rk083APvX4h/1Jg5+38ZtlGbqHvnvhhjz/CEjveqyEiZg5GzAqeE5BoZPw/SNxz2OTn9Q1WUJ4Rx3FvPC5l/cVxRe72K75iwP46LA+4E0B9TplJWz4Yi7wUXD9xSn4rma5CBTEmrePxwnguMEUwH+v+YoUg5oqrH+reCN1ER54gk6AFeec76JkAq1plHFndonvbbBw5X4retCqtD1ue8cv4JWLvWoFx2sIDY4Lrar1SecRsB68E9yDv2Kd3FXQRgZ5S4va9mgUQhRQ=;FEF0LqntlIE+CcxgTDg2uQ=="
 ---

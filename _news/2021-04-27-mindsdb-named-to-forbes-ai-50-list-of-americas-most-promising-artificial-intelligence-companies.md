@@ -1,27 +1,24 @@
 ---
 category: news
 title: "MindsDB Named to Forbes AI 50 List of America's Most Promising Artificial Intelligence Companies"
-excerpt: "MindsDB, the open-source startup that brings machine learning to the database, today was named to the Forbes' AI 50; a list of private,"
+excerpt: "Open-source, AutoML server MindsDB listed as one of Forbes' AI 50 top privately-held, U.S.-based companies focused on machine learning. BERKELEY, Calif."
 publishedDateTime: 2021-04-27T15:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindsdb-named-to-forbes-ai-50-list-of-americas-most-promising-artificial-intelligence-companies/article_5104386d-086d-57a3-b875-dda0e7905289.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindsdb-named-to-forbes-ai-50-list-of-americas-most-promising-artificial-intelligence-companies/article_5104386d-086d-57a3-b875-dda0e7905289.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/p20817138/mindsdb-named-to-forbes-ai-50-list-of-americas-most-promising-artificial-intelligence-companies"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/p20817138/mindsdb-named-to-forbes-ai-50-list-of-americas-most-promising-artificial-intelligence-companies"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20817138"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20817138"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - Machine Learning
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "9 healthcare AI companies to watch in 2021, per Forbes"
@@ -76,6 +73,6 @@ related:
         height: 450
         isCached: true
 
-secured: "YwfZ6XGZ5qFsYh+jXxm1mrzK7G66uWRUTAL4JDreOVedcV90W5ljuJCRpIYaL5R8lVooL1AF3z9z+0vNKJ+T6qJfPT/LMKVe+4/tSVGHFLSwbT7Gl+v8i/bVd0dlBpWZSHcmKQl4iEF9IEz5AAZoPSBMMbrYmK2xrg7sW9FTRYrzueQVQAhZjO1VbZBHJZIGB0pJOZ7Q/Dit5irkeOVL8BBMFkigYLKYUYnlV5mxnbl0ikjmRuEs7+DZDbw0Tp49ZXheyAlgdsFTdwxxK22YIYZjRMBFtPLc99JHzF78IWZg/iDuVnV1HmqAflRFGx/R6tbnNRglWEmJqvWdv/zsNMlgxLStNKJioNh3tabwSDA=;WMg4ubjMzWo1Ij56xLs2nw=="
+secured: "5A9pw9BjhgX2Lz+i9nyrdt5Ac5t8IXwuxBwn9ObpjD8pItPEoE6sJUQMGwKIqfUgKWYQv3vM4hHVn/IGCi7/+mDWT1zehFuYOPreh/4rpBRjSrhnsIoxrl30v9YD+KN1/BtWBczKZkfYrqMNnoHX/AD5eCxumT5UonDA+RRVJZgY/VlGmgQAIptbCUgL00VmB59H4WvVdqjK444/jvIgNd/DGhEHyrrcbzlqKtubBVWz6kIfP8upl7Q3y9HUvsyOtEwbe399MyHeO05kGWDyTNmQOQThUxmDjT1fY3r4IObZbe8ufDhKF/nm0j4OD+oWzaUZw7qJPlsA1YytzBLSvwbZuMYjLWPnGrNU5sMQNQk=;zVnaQaR8yALP6UYNYaLB8Q=="
 ---
 

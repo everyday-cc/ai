@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Payments Market Size, by Region & Segment, Historic Growth Forecast to 2025"
+    excerpt: "The Global Artificial Intelligence (AI) in Payments Market Analysis, 2020 market research report depicts a deep dive market analysis of statistics of Global Artificial Intelligence in Payments market which consists of region-wise market size,"
+    publishedDateTime: 2021-04-27T20:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-payments-market-size-by-region-segment-historic-growth-forecast-to-2025-2021-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Telecommunication Market Overview, SWOT Analysis, Applications, Trends and Forecast 2021 – 2026"
     excerpt: "The Artificial Intelligence in Telecommunication Market is estimated to record a significant growth throughout the"
     publishedDateTime: 2021-04-24T15:44:00Z
@@ -132,6 +146,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Research on Voice Recognition for Automotive Market 2021: By Growing Rate, Type, Applications, Geographical Regions, and Forecast to 2026"
+    excerpt: "The recent analysis of Voice Recognition for Automotive market size has been methodically put together to impart an in-depth understanding of the ke"
+    publishedDateTime: 2021-04-27T16:24:00Z
+    webUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399"
+    ampWebUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
+    type: article
+    provider:
+      name: express-journal
+      domain: express-journal.com
+    quality: 11
+    images:
+      - url: "https://www.express-journal.com/img/img-3.png"
+        width: 1044
+        height: 625
         isCached: true
 
 secured: "bbKlEMhBwh9sXGDIlXegMu8spJBwiJhPfwh/MGlBS87PwElsWL5aIDKE1Vi2qG2TFtwII7BWruGGq6Sb4llJGzTBP9VsoU0t4kTM3H7g9cCSafXHKvB8b/RwIwrXxpnfxIHYj7oqjXu3hDqcoQ9scBXxhHc5YG54oOG0qfDOhzL39HqsLbxAbmOk1GU3JOuimW/MbKLZNrWwScuoBDfLhc+y9R+4rguCrh9zsnSsFbZ/KpuMgXhIRoPzrFsAe+XKEUrFlC3Exh5Nqq909Uu6U6e+gJgyodOo/G/P0zdcqcyCGLmM6LxMiyj3Y0HoNny7ZHEhEG4mpBZngE7GUHJ1BsvU20H3A2FW2SOt7Xz25gEZtDoCjy20vthBjbE9qdzDnUwzb1sIUZrsxhAs68RMh3oJS01DjM6Y6vBsP7ma43UHcHtD0vRM/ts72IgvPJC9f1pBU3rgybstpIdAQZ8gLldSX90HDjN6277t27G66Y2bcvWmQvq4oCiQkevNH0u/PkDUlCzA4kOEMQx3tv9tMA==;Mbj+qnwzncexZVwjwwsrJg=="
