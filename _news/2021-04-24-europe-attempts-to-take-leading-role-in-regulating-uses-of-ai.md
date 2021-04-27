@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/360faa3e-4110-4f38-b618-dd695deece90"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/360faa3e-4110-4f38-b618-dd695deece90"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Abbott's New Coronary Imaging Platform Powered By Artificial Intelligence Launches in Europe"
+    excerpt: "Abbott today announced that its new imaging platform powered by Ultreon 1.0 Software, is now CE Marked in Europe. This first-of-its-kind imaging software merges optical coherence tomography (OCT) – an imaging tool that provides physicians a comprehensive view inside an artery or blood vessel"
+    publishedDateTime: 2021-04-27T09:22:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-04-27/abbotts-new-coronary-imaging-platform-powered-by-artificial-intelligence-launches-in-europe"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 8
 
 secured: "BF9roGiY57dgY4lpYJwQ0hDvIP7UM67W3EtagqBtAE1vYUAPuboY/BbggLEsafoGa9rlgtCY+5BCX6ss6gJf5bScgaGzTrglpygJpbs+U5GJV6MbX4X/OP5HRbb6EthUZkuiYj+kEWbkjwQnJNKgOpAW6+11bN1IdBvWvQo//WhodeEBF0VgG4zghSK24MFtQDbOF6GuLPT6+3VIbjsOOVL56O9Uw044vtdudEa9XTnmGSYTEk0H+gpHDfFfj+NKAfBliy35/499hzWvdgx6B+2Q7q04LQvpZyW20NW/fW/H11cKNPq0JmCyU3S3pUPYNO8kBwGtuCmD9mVF1SM+XA0HpvJVJPpb26Eb681Qyj6F4o41uYGVfN7rc6cXOguXQzhdeh0jXw7FSmDx+9lmfBt43oyBT4ESUkm8SO6wb2ObdALcz3c8nBxHso2l+5oIYnGmiiwzZywofEIpU6SS79dvieQlAQQX9BGbBCbGz1eoJzStbDh8bE8V+uEQNo/UAeWugKkHUxods6a0A0ob+g==;d2WsPRuSL/XJZWeEv3jqUQ=="
 ---

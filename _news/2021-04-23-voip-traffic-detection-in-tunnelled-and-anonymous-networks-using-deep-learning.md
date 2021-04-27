@@ -7,7 +7,7 @@ originalUrl: "https://ieeexplore.ieee.org/document/9406580"
 webUrl: "https://ieeexplore.ieee.org/document/9406580"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -17,45 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Build an event-based tracking solution using Amazon Lookout for Vision"
-    excerpt: "Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV). With Amazon Lookout for Vision, manufacturing companies can increase quality and reduce operational costs by quickly identifying differences in images of"
-    publishedDateTime: 2021-04-22T19:32:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-event-based-tracking-solution-using-amazon-lookout-for-vision/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/14/1-Architecture2271.jpg"
-        width: 800
-        height: 574
-        isCached: true
-  - title: "A Deep Learning Method for Denoising Based on a Fast and Flexible Convolutional Neural Network"
-    excerpt: "Seismic data denoising has always been an indispensable step in the seismic exploration workflow. The quality of the results directly affects the results of subsequent inversion and migration imaging."
-    publishedDateTime: 2021-04-27T02:04:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9411907"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 22
-  - title: "Modeling space radiation induced cognitive dysfunction using targeted and non-targeted effects"
-    excerpt: "We compared the performances of 18 dose response model variants based on these concepts, fitted by robust nonlinear regression to a large published data set on novel object recognition testing in rats exposed to multiple space-relevant radiation types (H ..."
-    publishedDateTime: 2021-04-23T14:23:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-88486-z"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 12
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-88486-z/MediaObjects/41598_2021_88486_Fig1_HTML.png"
-        width: 685
-        height: 329
-        isCached: true
 
 secured: "IyNd5YabsaBzY9zE/PsyoGmnlU3DwPHRGkLKg+Vg6z/PS0mAsD5U65Bi4jpKPx2eWCyxwfe7cPr6z2k0VvESfAWVN5oeX6h6gu0MSfuD4e5MOkko6UfkTGapQ6eLrj8ygH6LF0C1rE4Lct4npK1YSdDNVT4ZNyvNrEUZkEuqKJfrbn1QnkrPNLxxdHsBfgfrM1LkM1zQRJk3Da1LEYSgoZwFCNyFmwoBh7eHqWxso/tOVyp2X6Gdibn+b5tqe22kyw7F1iMGUiCYvHt2UWTPaP1W3B6rLhaDEgforSa4P/MKmK/JO3Vr6h78wWtBT6fXlHlLLTc+6fSc9VjMz8lNjrNe+waNvwdty7wKSWeD3P0=;u70lu1sNgCEA5TbbbqmLIw=="
 ---

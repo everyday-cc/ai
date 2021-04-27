@@ -59,17 +59,15 @@ related:
         width: 500
         height: 395
         isCached: true
-  - title: "Machine Learning Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Machine Learning Market size is expected to grow at an annual average of 42 during 2021 2027 Machine learning is defined as the process of applying artificial intelligence AI to provide system capabilities that can automatically learn and improve"
-    publishedDateTime: 2021-04-22T13:52:00Z
-    webUrl: "https://www.openpr.com/news/2274043/machine-learning-market-share-2021-global-trends-key-players"
-    ampWebUrl: "https://www.openpr.com/amp/2274043/machine-learning-market-share-2021-global-trends-key-players"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274043/machine-learning-market-share-2021-global-trends-key-players"
+  - title: "Global Artificial Intelligence in Fashion Industry (2020 to 2027) - Market Trajectory & Analytics - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence (AI) in Fashion - Global Market Trajectory & Analytics” report has been added to ResearchAndMarkets.com’s offering. Amid the COVID-19 crisis, the global market for Artificial Intelligence (AI) in Fashion estimated at US$311."
+    publishedDateTime: 2021-04-27T14:39:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-financial-markets-business-artificial-intelligence-96c5324912a14365a273affd92d5bae0"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 26
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "BhoBwEwO9nGJT5kQYLSKFee6SR9dTbdLZMsakQ2k+Uw5cfbm+ISZYN0DZzHQ/AHcmeZ6zjWrxmTfMax8TfynwZbeq5sDUqpG9NaBXj3E0i9EuW8CwUhNBNHcWRFjUwazTLaT5EVC9V/zfREmQ0AYRMa6hSBiylsU1dvZep3jRBN9bcTPFAylk0WYRVuwkycS3Nnmr9utrQcd0pXsDGLQbrm9lhi5Et7uVMIk7kTCoGWHPqWHcHfRnq3WHPXV0DBJKaNcNo8FHqMhijXv8nvAd2lbYm15s5QBNVf67VPXzZApa6fmf1rDcTJbDVQuEVdygDDhoY0jMDrABV99lUumj0ysT9zvc4c6R8AlB3sk+H4=;LW6d0mOecqu7VnfRl9Q/yg=="
 ---

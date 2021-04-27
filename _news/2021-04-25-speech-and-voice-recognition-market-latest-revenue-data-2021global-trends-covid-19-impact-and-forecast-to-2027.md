@@ -129,6 +129,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition for Smartphones Market Growth, Trends, Forecast and COVID-19 Impacts (2021 - 2026)"
+    excerpt: "The recent analysis of Voice Recognition for Smartphones market size has been methodically put together to impart an in-depth understanding of the k"
+    publishedDateTime: 2021-04-27T16:29:00Z
+    webUrl: "https://www.express-journal.com/voice-recognition-for-smartphones-market-388375"
+    type: article
+    provider:
+      name: express-journal
+      domain: express-journal.com
+    quality: 0
 
 secured: "usLepb28HL5Is6ZQ+flQibf6pGtSOZ0zVQsLQvxOuLZRPyP1Oc9zycMnO1vYFAiep3SGMAoItnqoQKg/lTQzCx8q2s1ac+WrFWy7OK07YMHsivvf+MQP4SpZ2WJ1FDZjDo+5ro3bWmFbmer+6fqOr1ubj7ek9czq3UDMxJBs55ELzBLtDxyznPlVjpgpqQEqFIL76G25Ii3bAvFIAHmrvkM6UX2Yb9KmxFsWM+CGH/jUt58hD9wKZGzSuByud9KYIjxr9RXVLmznpUbM7r37NSqgCP9gnwdlmk82GU9ctJAwW3c8pea4grjc3BNr7AvREjJiI1VKaBxnZj5GEgnqyu96o3yMCWNdfykb2qSbQVw=;IFtOM/IWYEhGxAYnXLdpbw=="
 ---

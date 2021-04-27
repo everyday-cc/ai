@@ -19,42 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Build an event-based tracking solution using Amazon Lookout for Vision"
-    excerpt: "Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV). With Amazon Lookout for Vision, manufacturing companies can increase quality and reduce operational costs by quickly identifying differences in images of"
-    publishedDateTime: 2021-04-22T19:32:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-event-based-tracking-solution-using-amazon-lookout-for-vision/"
+  - title: "Top 8 Books To Learn Convolutional Neural Networks"
+    excerpt: "LeNet, developed by French computer scientist Yann Lecun, was the frontrunner to the convolutional neural network (CNN). His breakthrough came when he conceived a neural network modelled on the human visual cortex."
+    publishedDateTime: 2021-04-25T10:31:00Z
+    webUrl: "https://analyticsindiamag.com/top-8-books-to-learn-convolutional-neural-networks/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/14/1-Architecture2271.jpg"
-        width: 800
-        height: 574
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/Untitled-design-28.jpg"
+        width: 1600
+        height: 1131
         isCached: true
-  - title: "VoIP Traffic Detection in Tunnelled and Anonymous Networks Using Deep Learning"
-    excerpt: "Network management is facing a great challenge to analyze and identify encrypted network traffic with specific applications and protocols. A significant number of network users applying different encryption techniques to network applications and services to hide the true nature of the network communication."
-    publishedDateTime: 2021-04-23T03:36:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9406580"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 15
-  - title: "Modeling space radiation induced cognitive dysfunction using targeted and non-targeted effects"
-    excerpt: "We compared the performances of 18 dose response model variants based on these concepts, fitted by robust nonlinear regression to a large published data set on novel object recognition testing in rats exposed to multiple space-relevant radiation types (H ..."
-    publishedDateTime: 2021-04-23T14:23:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-88486-z"
+  - title: "A novel algorithm to detect non-wear time from raw accelerometer data using deep convolutional neural networks"
+    excerpt: "All models were trained on 2 × Nvidia RTX 2080TI graphics cards and programmed in the Python library TensorFlow (v2.0) 36. At this stage, the trained CNN model can only classify the start and stop windows of a candidate non-wear episode. To fully detect ..."
+    publishedDateTime: 2021-04-23T15:41:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-87757-z"
     type: article
     provider:
       name: Nature
       domain: nature.com
-    quality: 12
+    quality: 21
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-88486-z/MediaObjects/41598_2021_88486_Fig1_HTML.png"
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-87757-z/MediaObjects/41598_2021_87757_Fig1_HTML.png"
         width: 685
-        height: 329
+        height: 375
         isCached: true
 
 secured: "obNhxFdQ0xMjqv4FqRGbKMfZ4X7UtTEOK6SCuz/ugnKTttl/gMvTZ4pB8zjRr63IMEPQpCsK2KbXqkC0KPPiepEbD0pokrDfuLVTbc0wJy6enXpgZTVwOWBP5HUGC5Q1Oxcm0xywdfElAKlwaY2AbUo30R4o9ezMUAx79wgN7mIWVvjmh3enE5UEJveBeXi9wAnQxbpnDOus+8pod26rR2BvTc8jH8i98T6oEWKn2TuUdxNubivT3AautmzvSzPKmuisyelaR3IxFqySMUrK4PXgKA9EtnwoHoXJhs6UwzmQdhNURCd9v/6k5l3uYVIBCU1HCMuCxSA87dyydkhoY7jIhUZ/kqacfn/UgDaxjnA=;fJVykkPrx2elogLN39zryw=="

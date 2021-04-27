@@ -40,6 +40,15 @@ related:
         width: 1600
         height: 1131
         isCached: true
+  - title: "A Deep Learning Method for Denoising Based on a Fast and Flexible Convolutional Neural Network"
+    excerpt: "Seismic data denoising has always been an indispensable step in the seismic exploration workflow. The quality of the results directly affects the results of subsequent inversion and migration imaging."
+    publishedDateTime: 2021-04-27T02:04:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9411907"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 22
 
 secured: "0RqEG4C9Sh9FeLcU549iUnlhU6Z6MW/ek2O/VXcGmU3OjPRUwTZ668YLHHl/KRjBoRA/Axxkz2LrxJ4LA+4V6vztZyOXIhLL86S+d6/LpqMKGVlJYdBIxZHXae9vqgQqI2GE3GN6i8X8kA3K0vlmhw4+60BnmPFRmC0KwXakM/eraYmNs92h6xOJvA+F0EuCUYPQf9WCAWOdwx0jg5IzUnhkzjYn6NtvhJF9CPOnyDydE+5PIZOsg9SGJdXorni3WDVFrncwIVaiHnzp5G/3RaZuBKwiFvyPnlk8/f1deBB9K5QLRYcPyGLvw9G7G90nBNJDtH1WlEKTuX8maV5jsf9NIplGKxjOlu/XLllJytCZ9yQu0+1UzyuadaTl3lKQpQfdwHV/VsGBWKJAf7UIm1Ch9KNUlPSSeS6LvpO48RL2UqSW8+Sl7jI/F5kuddeoPRKpG9lRyrBPoohby5aVUza//4JSSMvWzbMMnaLAfVmGbQsUwoNZMlG4KE+g4eogOf33TYSL/SySvjVk0LSaxA==;uFcVNAIsS9ozgFgBggcgyw=="
 ---

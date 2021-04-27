@@ -40,6 +40,24 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Adobe extends AI-infused customer analytics platform to offline data"
+    excerpt: "Adobe extends its AI-infused platform for analyzing customer journeys to now include data pulled from offline sources."
+    publishedDateTime: 2021-04-27T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/04/27/adobe-extends-ai-infused-customer-analytics-platform-to-offline-data/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Location data analytics startup Placer.ai raises $50M Series B"
+    excerpt: "It’s been a very tough year for Placer.ai’s core customer segments of retail and commercial real estate, to put it mildly. But the foot traffic and location analytics startup saw growth in new categories,"
+    publishedDateTime: 2021-04-27T12:00:00Z
+    webUrl: "https://techcrunch.com/2021/04/27/location-data-analytics-startup-placer-ai-raises-50m-series-b/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Graph Analytics Powers Insights in Financial Services"
     excerpt: "When a new technology emerges, financial services firms often are among the first adopters. Anything that can provide banks, investment houses, or"
     publishedDateTime: 2021-04-26T21:38:00Z
@@ -54,6 +72,24 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AI and analytics together: 3 real-world use cases show how and why"
+    excerpt: "Batman and Robin, apple pie and ice cream, AI and analytics. Did that last combination surprise you? It shouldn’t."
+    publishedDateTime: 2021-04-27T17:21:00Z
+    webUrl: "https://www.cio.com/article/3616679/ai-and-analytics-together-3-real-world-use-cases-show-how-and-why.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 17
+  - title: "Cognitive Analytics Market 2021 Key Business Opportunities, Impressive Growth Rate and Development Analysis to 2026"
+    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
+    publishedDateTime: 2021-04-27T12:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-key-business-opportunities-impressive-growth-rate-and-development-analysis-to-2026-2021-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
 
 secured: "n9uLy23yAqGNNvqA/MYVbJouBDxgR6xXbZVvWUUcjAKivY8/zTQ2ZURM3R64QW5WsA1MXPyVwm+ymL4TabYvi+IlTgXs8uB+WcQnQqPC5hhEHlaVoYgmc/mEp0h56zelFAHtzmJ0m1x00NKYlvkB1MTe8ZdfyOucUqB6j88HCfyi1jiIsZrNU2t8DkDaACZm443bQoT5pyFuPcL/NMwweANYtNaYQHVkBfe1bZi2skzBncSE9Agdb8rf5CJeyfYzhhrpecnqWdjp0ebx49fJ9RNMD3tMl2RIz/5Gumg3zC/GsUk1uzng7gEfZFqBSjg0O0vpKC+Xz2bLdD6w5brROMAm6yShT/9PitnbKZON2jvWQHymY4K9DqcbBhXfH7lHUpv0qFgym/Ge6ValtuUZOth1cp1Wx7KWjvRqTvl1SLMQc9PtGol4nOGvpT4cifNChw5MNh36rq5DUUdeOqQvVjZk2spm1VELDUsFYYgLk94PPLFDf0dyXbn7To0oFri1/VaD7zR28w3YrOcfhTFDcg==;/ixhKSf06noJhafHfeACZA=="
 ---

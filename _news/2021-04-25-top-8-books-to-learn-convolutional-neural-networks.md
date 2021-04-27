@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "A Deep Learning Method for Denoising Based on a Fast and Flexible Convolutional Neural Network"
+    excerpt: "Seismic data denoising has always been an indispensable step in the seismic exploration workflow. The quality of the results directly affects the results of subsequent inversion and migration imaging."
+    publishedDateTime: 2021-04-27T02:04:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9411907"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 22
   - title: "A novel algorithm to detect non-wear time from raw accelerometer data using deep convolutional neural networks"
     excerpt: "All models were trained on 2 × Nvidia RTX 2080TI graphics cards and programmed in the Python library TensorFlow (v2.0) 36. At this stage, the trained CNN model can only classify the start and stop windows of a candidate non-wear episode. To fully detect ..."
     publishedDateTime: 2021-04-23T15:41:00Z

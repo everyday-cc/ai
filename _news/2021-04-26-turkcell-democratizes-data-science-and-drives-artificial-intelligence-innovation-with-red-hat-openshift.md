@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Promethium Recognized for Breakthroughs with Big Innovation, Artificial Intelligence Excellence and CRN Big Data 100 Awards"
+    excerpt: "AI-driven augmented data management provider Promethium (  today announced that its breakthrough technology has been recognized with three prestigious industry awards. Promethium has been named a winner of both the 2021 BIG Innovation Awards and the Artificial Intelligence Excellence Awards,"
+    publishedDateTime: 2021-04-27T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/promethium-recognized-for-breakthroughs-with-big-innovation-artificial-intelligence-excellence-and-crn-big-data-100-awards-1030351112"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
   - title: "AONDevices Edge AI Processor Achieves Best-in-Class Voice and Sound Recognition at Ultra-Low Power"
     excerpt: "AONDevices, Inc., a private company focused on ultra-low power, high performance edge AI processors with integrated, application-specific inference algorithms, announced benchmark performance and power consumption data for its AONVoice™ edge AI technology."
     publishedDateTime: 2021-04-27T00:05:00Z

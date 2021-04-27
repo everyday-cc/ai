@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/23/8-investors-founders-and-execs-pre
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/23/8-investors-founders-and-execs-predict-cybersecurity-fintech-will-take-belfast-by-storm/amp/"
 type: article
 quality: 65
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "Deep Instinct’s neural networks for cybersecurity attract $100M"
-    excerpt: "Deep Instinct announced it has raised $100 million to accelerate deployment of its deep learning cybersecurity models."
-    publishedDateTime: 2021-04-22T18:43:00Z
-    webUrl: "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/"
-    ampWebUrl: "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/Guy-Caspi-Headshot-2-e1619053142805.jpg?w=1200&strip=all"
-        width: 1200
-        height: 814
-        isCached: true
 
 secured: "JavMGy8gpulqyqvcsNgLMIhTvqjN5rphS4FMhz+J/nQ5v4Xzy2VHuaw0Kele/0S71nuMZ2TpQbXKYr2H9b8s2YweaDJVbSaIqMSGuQBOaUv/2GkgA+cb6zdybQHzmXS+q1nJz1JEn5+q51kDiVENrIB4OzOeqwmJv08Zr4jQAK09WzlBsgm614te/RXxFEpw1TrSuYhVmziNKRawaAW38avIJ8hlW5zSdr836sWSRlpPMv4gGk9LngJOLf5CmPFptWKprmFPIFJiIWuaZuI5C10ewl+px0WZJVUDELTqOhPXDTLPrUQqQq+geuWcTywd8dIYvNzzmGuA1+9RaV2QBvfyjpaC0bfJn4hVD9XlLuehmbfAcMH+qW/PWJj7jNSdQ0pDIOFM/YkI/fEI71caQ6IHgCHn3LH5O22hAVNztPwPSgK8rl+DX+M8Kh+/LD0jbJc9VZ6WA3qMtCmdeJhnhPoOkZFe7X/MSQun+S75+sZBtiPDpFfD+XRHK9jQZy945a0Fvjroc8krp4U5h95b3g==;hvj/BnH6ePTnQC3zWQ9IfQ=="
 ---

@@ -26,35 +26,30 @@ images:
     isCached: true
 
 related:
-  - title: "AI supplier Future Anthem secures Microsoft “co-sell” partnership"
-    excerpt: "Machine learning solutions provider Future Anthem has secured a strategic partnership with Microsoft that will allow the tech giant to co-sell Future Anthem products as part of its solutions offering."
-    publishedDateTime: 2021-04-26T15:35:00Z
-    webUrl: "https://igamingbusiness.com/ai-supplier-future-anthem-secures-microsoft-co-sell-partnership/"
+  - title: "Microsoft adds new Azure specializations to Coursera"
+    excerpt: "The three new courses on the online learning platform cover Azure Fundamentals, AI Fundamentals and Data Fundamentals."
+    publishedDateTime: 2021-04-26T10:51:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-adds-new-azure-specializations-to-coursera/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/"
     type: article
     provider:
-      name: igamingbusiness.com
-      domain: igamingbusiness.com
-    quality: 54
-    images:
-      - url: "https://igamingbusiness.com/wp-content/uploads/2020/09/microsoft-4608125_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "GoodTrust launches AI service to reimagine the future of digital afterlife together with D-ID, supported by Microsoft for Startups"
-    excerpt: "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and"
-    publishedDateTime: 2021-04-26T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/n20793985/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supp"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20793985"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20793985"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+  - title: "Microsoft offers new Azure specializations and scholarships through Coursera"
+    excerpt: "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well."
+    publishedDateTime: 2021-04-26T17:28:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: Neowin
+      domain: neowin.net
+    quality: 81
     images:
-      - url: "https://mma.prnewswire.com/media/1495998/GoodTrust_Memories_April_26.jpg"
-        width: 400
-        height: 225
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
 
 secured: "/ZEq+at7g+pBviYapk6aC7smdAWdoMt4K33mqEUNv+Gq1u3bDhUEpDxvqYyWXcMJGIBdKe13P4wceLOA+kaaVP2SYrCwEr+jHR2ERlCxMjMe/UN910SHefIa5cD+JB8cyt733OwZVr9SJdf75QGPCjDv/WcQVlPl+HSTCT4lyvVhSEzrwu+bfgiRKPWo6GnR213kj02OBXKypvcxvgv3bQyUldZndE+fzOZUTUc/cFMCX5Tig6S3L1EneMnYEK39W3Z49JfFCXvE6abN68A8ojf1TeT6fU1fxydGGdt15mvF546ZpusoQE3TVAOq5pAGTHIDQilgGeCkR74FfPwG2RluFIfo+5XolFs1w7aDH4nr1imFTwCkiqRsUmu41Nc5uTgLjFLTgKf2RxfyO/O8S24jOh7aY2RgUNheHCZLX240BMHbCbnFhuwa7cS0jikz+6VPrBnkJ1IOMIw4HkkmTHlOv6K4BuaatUCY5F6erdem3H41pH/vI2agCmezbzmmCuVjeiOidBTO51fpIthsBw==;coMpprPU8jDgTjXzFbJ3ww=="

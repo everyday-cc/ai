@@ -60,17 +60,15 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Machine Learning Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Machine Learning Market size is expected to grow at an annual average of 42 during 2021 2027 Machine learning is defined as the process of applying artificial intelligence AI to provide system capabilities that can automatically learn and improve"
-    publishedDateTime: 2021-04-22T13:52:00Z
-    webUrl: "https://www.openpr.com/news/2274043/machine-learning-market-share-2021-global-trends-key-players"
-    ampWebUrl: "https://www.openpr.com/amp/2274043/machine-learning-market-share-2021-global-trends-key-players"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274043/machine-learning-market-share-2021-global-trends-key-players"
+  - title: "Global Artificial Intelligence in Fashion Industry (2020 to 2027) - Market Trajectory & Analytics - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence (AI) in Fashion - Global Market Trajectory & Analytics” report has been added to ResearchAndMarkets.com’s offering. Amid the COVID-19 crisis, the global market for Artificial Intelligence (AI) in Fashion estimated at US$311."
+    publishedDateTime: 2021-04-27T14:39:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-financial-markets-business-artificial-intelligence-96c5324912a14365a273affd92d5bae0"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 26
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "ejWIB5dep5APjSQL7gE5rW9KWzlIVE9diyNcd0Mow7FfKt5qEOSFe37JYYQSoA/BfS16mxJ8MTF1f5xi8gmYyaytotQHGqxmrmqiT7a+yQ43mFn/4ZK35tzS0ZRHfxQTCp+95fNhDkDc+MVxCUOPlQd2bQipJGlE4MmFztXEPWbItNWT5zaqs5sK7kcdu5Ld58iXMs85PlNKS/cyBUiQLgK+7mvwueTDanUQm0qDKilPoqD6QZFG02WjdcXIOVKEtuewjYnKweYoTFJMxFa2pgvgUDGzBSWY+WZ7WqtAvxT+SYssvon/b+APxX+PDdZV8UW3KUhiLQFJKjQ2i0AIyzTsWcsSVi2s9UYl5/6SW55AuxBGEmMQqN0SkoButjmtJcPsT4TBAsSGme18WLYwKjieBubJ/8XJLWq44TvGuJzfJB31gQcZqADJuyfAurYDDJu8iPIoMizZXH0cnnwPJIflK48qad7CD/cgHPxLK2AwWtDooBN8RF5YB7jN/4qiZs2Ylq86RqYnO3LHCxxiYQ==;sbbZMT/T0rNMgKyuBuvjKg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailydot.com/debug/donotpay-photo-ninja-facial-recogniti
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/donotpay-photo-ninja-facial-recognition/?amp"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: The Daily Dot
@@ -41,7 +41,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Photo Ninja hides your face from online facial recognition"
+    excerpt: "Photo Ninja claims to use AI to slightly alter your images so that they become undetectable to facial recognition software online. The tool was developed by the legal advice app DoNotPay. The self-dubbed “World’s First Robot Lawyer” was initially developed as a chatbot that would help users fight parking tickets."
+    publishedDateTime: 2021-04-27T15:58:00Z
+    webUrl: "https://knowtechie.com/photo-ninja-hides-your-face-from-online-facial-recognition/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 19
 
-secured: "UJsAhskpj/3g4OxjmHZydosfMw4+XNUS6/UMYkRGqv5IJ9Qxf8ygouA+m/cf2Lkt4dl66Z77qIjLzBiAB9dC8e+DH3wN960Y3GBrM80hj1g3CQ8lLhu6LPByX7fkVWUZuvqvZlsWKPuSHz/LG0XWSf47G8uhrVmKa/j7g/juLoG/jlnMMMeHvyEkDadoDOVbBqoL6l+7lILJx8gpmklGht3R1nlkYVyrDVOFuMXg2oYWEhr/74t2fQOphcQKdfBzoVytYeNXwQtZHqq658mYmcVez7QkugJ3MH1xbmk1wR468kCsG/mIACDdkcF9FDVyf3y6+RmWqXk6uLJVujJjTg/rPvnQxYJ3+bqq82MoE6U=;YEIqbYOp/m6hGoJ46A+BSA=="
+secured: "xicFs29w75Ya3RrR3roIUHqxaly4blE5CusL4XJplCt1cTQ0QrNVEaDPMK7ME+EK5dGrJp5+OVNRAJEdtJ4R504jyKnZqztn352pMFg97t/Jgr66K6X5PCHNHr/ysjtUeCkQM3/Mnx70qoGw3aBYWCk9Daon3ovhYx/G8NObYcuj58uBqxNUt5WI9nDu7w3Qo+N6hcMg+dypgzxIFhwkCQ7S0OyHm2xWc5vSViGZDGKDKurdL5zmSNbAKNE/nyedn+G1w9gQpGGAKtatfjF0EJbICDVDpiw2PTN+WY2vpkoZ1toFAHlKhozVdE8H8di0AZ9bXAfVmVJX1TmWMuGN4rcHItq2Yv7HrrHsTq1FmF0pWuTdBDmixjuAMFZsSuD3YWXBrq8IVYd5txyTxnYfjOunqfA+2Wuy32WSargxPveuiULDtEvmjKrpAlsmlx4TNnvGE0qU/rkdmhcrfaakf1dLJ++i4VR7+TkSh6no2k9gm558pZfE8HVTihGegtA7rNpSTAgXiz1vMPg+EsBJZw==;21JgGEUbceWlDqJ4Vi0tSg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-t
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/"
 type: article
 quality: 74
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Motley Fool
@@ -31,6 +31,50 @@ images:
     isCached: true
 
 related:
+  - title: "Ally explores fintech products using quantum computing with Microsoft"
+    excerpt: "Ally Financial and Microsoft are collaborating to explore quantum solutions to challenges in the fintech sector."
+    publishedDateTime: 2021-04-23T01:35:00Z
+    webUrl: "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/"
+    ampWebUrl: "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Microsoft Defender can now use Intel's CPU-based machine learning to detect cryptojacking"
+    excerpt: "Microsoft Defender for Endpoint has been enhanced using advancements in Intel Threat Detection Technology to detect cryptojacking attacks via machine learning heuristics based on CPU telemetry."
+    publishedDateTime: 2021-04-26T11:00:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 77
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619243785_figure_1._windows-defender-tdt_chart_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "Azure AI Cloud Computing Driving Microsoft Tech Stock Giants Profits - Tech Stocks Investing 2021"
+    excerpt: "With Microsoft AI Azure cloud computing division growing by 50% per annum, converts into a Buy rating of 65%. This video is excerpted from my recent in-depth analysis that updates buy ratings, levels and valuations for the top tech stocks in my AI ..."
+    publishedDateTime: 2021-04-23T16:38:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article68794.html"
+    type: article
+    provider:
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 56
+    images:
+      - url: "https://www.marketoracle.co.uk/images/2021/Apr/Azure-AI-Cloud-Computing-Microsoft-Profits.jpg"
+        width: 800
+        height: 466
+        isCached: true
   - title: "How can technology bridge fintech and SMEs to ease the lending process"
     excerpt: "Fintech startups bring convenience and help SMEs get easy access to products like bank accounts, cards, securing working capital, managing cash flow, etc."
     publishedDateTime: 2021-04-25T09:22:00Z
@@ -47,59 +91,24 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Cleareye.ai joins ITFA & the Fintech Committee"
-    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, announced that it is joining the ITFA Fintech Committee. Cleareye.ai, aiming to make a significant impact in the trade finance ecosystem,"
-    publishedDateTime: 2021-04-26T12:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-global-trade-d7b25cd07a9e4393f6a6437c01272b54"
+  - title: "Microsoft and Intel Enable AI-Backed Protection Against CPU Cryptocoin Mining"
+    excerpt: "Commercial machines running Microsoft Windows, and managed through Microsoft Defender for Endpoint, can now be protected against CPU cryptocoin mining through an AI-backed protection mechanism. The security layer requires an Intel processor with Intel’s Hardware Shield (a vPro technology) and Threat Detection Technology enabled,"
+    publishedDateTime: 2021-04-27T11:10:00Z
+    webUrl: "https://www.anandtech.com/show/16642/microsoft-and-intel-enable-aibacked-protection-against-cpu-cryptocoin-mining"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "London’s Fintech Startup Fintern Acquires £32M in Capital to Expand Access to Affordable Loans in UK Markets"
-    excerpt: "UK-based Fintech company Fintern has secured £32 million in funding ... Fintern does all this by using Open Banking and AI to accurately assess their clients’ transaction details, enabling them to provide affordable lending to a signifincantly larger ..."
-    publishedDateTime: 2021-04-23T12:04:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174530-londons-fintech-startup-fintern-acquires-32m-in-capital-to-expand-access-to-affordable-loans-in-uk-markets/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174530-londons-fintech-startup-fintern-acquires-32m-in-capital-to-expand-access-to-affordable-loans-in-uk-markets/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174530-londons-fintech-startup-fintern-acquires-32m-in-capital-to-expand-access-to-affordable-loans-in-uk-markets/amp/"
+      name: AnandTech
+      domain: anandtech.com
+    quality: 33
+  - title: "Fintech in 2021: The Year’s Hottest Trends so Far, According to the Experts"
+    excerpt: "The financial and fintech worlds were turned completely upside down. Companies were forced to adapt to a rapidly-changing set of restrictions and challenges; customers had an ever-evolving set of needs,"
+    publishedDateTime: 2021-04-27T10:53:00Z
+    webUrl: "https://www.financemagnates.com/cryptocurrency/news/fintech-in-2021-the-years-hottest-trends-so-far-according-to-the-experts/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 25
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Victoria-Station-London-UK-300x266.jpeg"
-        width: 300
-        height: 266
-        isCached: true
-  - title: "Datasite® Named SBR Technology Excellence Award Winner for Fintech - Mergers & Acquisitions"
-    excerpt: "Datasite technology and tools make M&A management more efficient and effective by automating tasks. Singapore Business Review (SBR) acknowledges the trailblazing work of firms and companies whose new technological products,"
-    publishedDateTime: 2021-04-27T05:28:00Z
-    webUrl: "https://sbr.com.sg/co-written-partner/more-news/datasite®-named-sbr-technology-excellence-award-winner-fintech-mergers-"
-    type: article
-    provider:
-      name: Singapore Business Review
-      domain: sbr.com.sg
-    quality: 14
-    images:
-      - url: "https://cdn.sbr.com.sg/sites/default/files/imagecache/600x360/news/pr_datasite.jpg"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Socure CEO Johnny Ayers to Speak at LendIt Fintech USA 2021"
-    excerpt: "recognized by Forbes as one of the “Top 25 Machine Learning Startups to Watch,” named to CB Insights: The Fintech 250, and awarded Finovate’s Award for Best Use of AI/ML, to name a few."
-    publishedDateTime: 2021-04-22T19:31:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210422005824/en/Socure-CEO-Johnny-Ayers-to-Speak-at-LendIt-Fintech-USA-2021"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 2
 
 secured: "InAPMpgnk7D5l2NzAItpEuZGRXcujBR+kaAa/jDnYjTf1Tthi0M9lfob1sMDf0QyBjnX2mAIEsIS45rhxTJg5wg/YOp2JsopezBFSSQNwuCYHoypj1qpxrLrUWzBqhaLdsUfFk639dp38JDRkMmeBYFYjwKYzPSn8+U2Qg2ZHON3BZ04V3nRVcmFKqtErjws8IzTt5HxV66+hZtYY/voNNp7OH0tbQGs72M94fp5U+2hZrS0BLtM9YVcI5B48UTGNE26q5SzM4tU7EkG10+qm5/NQ27W/Fn42xrhHHcqZGGg97pZVLDrQuOV6MD4Oi2qWFE//OL+UylosDdjA4LFQ29A6ktxux+mhkg5246fYB4zQNZYWM6v+g4EkcvE4msSYShpAyVUI/Rws/Ft0VpyO3TGDY9FDe4jFWDGOXsQ92UORD6yJ1xJY9oIZeFKPGuhmxyjwhQWYBIAW0WxN21NQnxvydGJ0U9sUg9QwXQ9azLLcb45+sQ/DodGoaCXOlaVhF07F1g4xdKxdKx+ePXWwA==;q85hBL46X/oM6JmZgaSiXg=="
 ---

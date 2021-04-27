@@ -9,8 +9,8 @@ ampWebUrl: "https://www.express-journal.com/automatic-speech-recognition-asr-sof
 cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/automatic-speech-recognition-asr-software-market-386652/amp"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: express-journal
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Automatic generation of object recognition programs"
+    excerpt: "Issues and techniques are discussed to automatically compile object and sensor models into a visual recognition strategy for recognizing and locating an object in three-dimensional space from visual data."
+    publishedDateTime: 2021-04-27T06:03:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/5972"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 19
   - title: "Voice Recognition Market Size, Increasing Trend Diversity, Analysis, Future Scope Analysis Featuring Industry Top Key Players By 2026"
     excerpt: "The latest Voice Recognition Market Report estimates the current market opportunities and scenario, providing information and updates on the corresponding segments i"
     publishedDateTime: 2021-04-25T04:25:00Z

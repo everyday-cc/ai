@@ -7,7 +7,7 @@ originalUrl: "https://gisuser.com/2021/04/top-8-challenges-of-artificial-intelli
 webUrl: "https://gisuser.com/2021/04/top-8-challenges-of-artificial-intelligence-in-2021/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     height: 601
     isCached: true
 
-related:
-  - title: "The challenges of applied machine learning"
-    excerpt: "But using machine learning in real-world applications and business problems—often referred to as “applied machine learning” or “applied AI”—presents challenges that are absent in academic and scientific research settings."
-    publishedDateTime: 2021-04-22T23:40:00Z
-    webUrl: "https://venturebeat.com/2021/04/22/challenges-of-applied-machine-learning/"
-    ampWebUrl: "https://venturebeat.com/2021/04/22/challenges-of-applied-machine-learning/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/challenges-of-applied-machine-learning/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 93
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/real-world-ai-applied-machine-learning.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-
-secured: "J1DaFvubONaYqykUMEk928lx1sF5jhQC07n2wqY+bJ/8dwZy3G+kdIap3sHTn3tz3NuwdRCoL0HWGoU5gHFTSi4ejaC1ZFUpLmemt0kzw4c3CdKSz0Gj/B/JiXRpPDwP0mlgC378IQES0wlTwKOWs8IG4BMCVKwnkMKXs3X5JUSuAOae3u4FOIxZJ/q03Jlld49HEYDMftdwBjGCX9dwmPhY/YQIl1H70x9DPMWePu4KkdqY3NFa8y1kNOY0uaCVxpOtc5iu4gLy4guywIexA1aqltcNWL1Ba+zZqeiMFZdKoWoXvH2lpzObu8n4iT84PpxllqOa2ogbUcafZwZeETH3QqBeoe5C9eZ/TgXBHHE=;CQ6wHjaD5fzvMyimX7g69Q=="
+secured: "3SjcKfvJrEOij2exRaNHVtL/OgQVsgSruAOiw+sHe9DNw1mDgItXKPEpT1ujPs16x2NZq6PbwAP+DE8zsJpSgtIIwJEBgy5PxG/oqnz7tb6IETNu//Bn2tFeQ+qlsp7q3CvLtuL+YE9AUyy+EFyQowVpmENmH2uzUTc4FLBqeAtSbyF3QALplPSvPecMnRkZd7KfsHjA2R5O/9p/eqR0jMCGK2r6S04x4zufFf+AL/Yl25jHFRvNOJSL2iH6eaveE3RVlz3lxOGustQKYqI/ztXvXVE9RfzmKhOaCnL30MSC2pw8jkhs0a2GTsF03uCIP1IEEitfB/a9/X/Y4ut/sjt2MKSN3Od3x3FkdmUIYRPbbEVGMv/pfEW47LkKHMJ88F0ywCniVd9jLYMQmMp6by+VEmI0PKRDMWxQCifqV6czRHGoWKwh/b99yv8amJ3p0lnkKmE0PJzmm7s4rx+jBWbJ2UN7nfAf5SeKA9mvd8V9DN/Wy9A+8ot7BAI+oVdIYJLiGWGT05+aw3a46GKa2g==;nGS+EW9vnDsV45YM4KPH9Q=="
 ---
 

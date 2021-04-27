@@ -25,66 +25,86 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft details the latest developments in machine learning at GTC 21"
-    excerpt: "With the rapid pace of change in AI and machine learning, it’s no surprise Microsoft had its usual strong presence at this year’s Nvidia GTC."
-    publishedDateTime: 2021-04-22T21:50:00Z
-    webUrl: "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/"
-    ampWebUrl: "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/"
+  - title: "Ally explores fintech products using quantum computing with Microsoft"
+    excerpt: "Ally Financial and Microsoft are collaborating to explore quantum solutions to challenges in the fintech sector."
+    publishedDateTime: 2021-04-23T01:35:00Z
+    webUrl: "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/"
+    ampWebUrl: "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 125
+    quality: 91
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
         width: 1200
-        height: 506
+        height: 600
         isCached: true
-  - title: "AWS and Microsoft are not yet market leaders in IoT, but soon will be"
-    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
-    publishedDateTime: 2021-04-26T13:06:00Z
-    webUrl: "https://iotbusinessnews.com/2021/04/26/82010-aws-and-microsoft-are-not-yet-market-leaders-in-iot-but-soon-will-be/"
-    ampWebUrl: "https://iotbusinessnews.com/2021/04/26/82010-aws-and-microsoft-are-not-yet-market-leaders-in-iot-but-soon-will-be/amp/"
-    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/04/26/82010-aws-and-microsoft-are-not-yet-market-leaders-in-iot-but-soon-will-be/amp/"
+  - title: "Microsoft Defender can now use Intel's CPU-based machine learning to detect cryptojacking"
+    excerpt: "Microsoft Defender for Endpoint has been enhanced using advancements in Intel Threat Detection Technology to detect cryptojacking attacks via machine learning heuristics based on CPU telemetry."
+    publishedDateTime: 2021-04-26T11:00:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking/"
     type: article
     provider:
-      name: IOT Business News
-      domain: iotbusinessnews.com
-    quality: 76
+      name: Neowin
+      domain: neowin.net
+    quality: 77
     images:
-      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/big-data-flows.jpg"
-        width: 360
-        height: 230
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619243785_figure_1._windows-defender-tdt_chart_story.jpg"
+        width: 760
+        height: 428
         isCached: true
-  - title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
-    excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."
-    publishedDateTime: 2021-04-22T13:15:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-enterprise-search-gets-boost-with-new-integration"
+  - title: "3 Top Fintech Stocks to Buy Now"
+    excerpt: "Fintech stocks have been white-hot over the past year ... and Upstart tackles both with its AI-enhanced software. Rather than rely on traditional credit scores, which often exclude lots of potential borrowers that have good-but-not-quite-great credit ..."
+    publishedDateTime: 2021-04-23T14:08:00Z
+    webUrl: "https://www.fool.com/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
     images:
-      - url: "https://www.crn.com/resources/0268-11f04f866ca3-361fd3e7c046-1000/microsoft-azure-1.jpg"
-        width: 607
-        height: 456
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F622366%2Fyoung-woman-holding-credit-card-and-smartphone-and-thinking-with-chin-on-fist-online-mobile-shopping-e-commerce.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Microsoft Acquisition of Nuance is a Big Deal in Voice Recognition"
-    excerpt: "With its acquisition of Nuance, Microsoft also gains a number of voice technology patents it can use to extend into healthcare and other strategic markets."
-    publishedDateTime: 2021-04-22T18:52:00Z
-    webUrl: "https://www.aitrends.com/ai-in-business/microsoft-acquisition-of-nuance-is-a-big-deal-in-voice-recognition/"
+  - title: "How can technology bridge fintech and SMEs to ease the lending process"
+    excerpt: "Fintech startups bring convenience and help SMEs get easy access to products like bank accounts, cards, securing working capital, managing cash flow, etc."
+    publishedDateTime: 2021-04-25T09:22:00Z
+    webUrl: "https://yourstory.com/smbstory/technology-bridge-fintech-smes-ease-lending-process"
+    ampWebUrl: "https://yourstory.com/smbstory/technology-bridge-fintech-smes-ease-lending-process/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/smbstory/technology-bridge-fintech-smes-ease-lending-process/amp"
     type: article
     provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 41
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
     images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/04/4-23SpeechRecognition-2.jpeg"
-        width: 550
-        height: 366
+      - url: "https://images.yourstory.com/cs/21/f02aced0d86311e98e0865c1f0fe59a2/lending-1619070105454.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
+  - title: "Microsoft and Intel Enable AI-Backed Protection Against CPU Cryptocoin Mining"
+    excerpt: "Commercial machines running Microsoft Windows, and managed through Microsoft Defender for Endpoint, can now be protected against CPU cryptocoin mining through an AI-backed protection mechanism. The security layer requires an Intel processor with Intel’s Hardware Shield (a vPro technology) and Threat Detection Technology enabled,"
+    publishedDateTime: 2021-04-27T11:10:00Z
+    webUrl: "https://www.anandtech.com/show/16642/microsoft-and-intel-enable-aibacked-protection-against-cpu-cryptocoin-mining"
+    type: article
+    provider:
+      name: AnandTech
+      domain: anandtech.com
+    quality: 33
+  - title: "Fintech in 2021: The Year’s Hottest Trends so Far, According to the Experts"
+    excerpt: "The financial and fintech worlds were turned completely upside down. Companies were forced to adapt to a rapidly-changing set of restrictions and challenges; customers had an ever-evolving set of needs,"
+    publishedDateTime: 2021-04-27T10:53:00Z
+    webUrl: "https://www.financemagnates.com/cryptocurrency/news/fintech-in-2021-the-years-hottest-trends-so-far-according-to-the-experts/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 2
 
 secured: "MpzX5A+jstKn5mAahG+edoOpjnZp6pDOnE+2iTgGBgHdOtwZR8QjAHQGtXn/x7QLnGfCj1MRhHa54/wsJdDI9XQAgHHAT06pbyk5LcifmaxOg9jZTkq/TStO3nSdaknyac6foKfEP1qtIFiwkcmrvfjzAd/sEITwCD4BIx7j78cCUMSFB1MCqxH0NOXZeqiaKpA3U81c6t5du1dmQf8kBg95lDlJISsvqGYc+ft5iJgcOM57qyY46X/eDgcPXV9u8yqI0EZJqPV2QyZoF0gpjcD/etcbveXbNBngyxbM8ziHyvtvoPyq9wrz1bNfM8XWwQ6mrb+FA+5YmQiW9BsBmgpkTEXfiAKGFyZ4BI8bpHcsqLVcCUoYrsCOwzfmsoRtKDIzIT0XP9evY5LtZR75W7bk/TUYQkKi2F1hEyvmptsMgYfCDNxa/T6szOXgWsLfBls1gP3Cp8rZm2Y7eFiSarYIHz38fWZpkgYTh1bXKZWRrrdGBXI+nmSa5zBlyHSHgbmVQtIy/sRsV8OBN/uoAA==;OIn54iFBr2f9MMKwhgASsA=="
 ---

@@ -1,61 +1,27 @@
 ---
 category: news
 title: "GoodTrust launches AI service to reimagine the future of digital afterlife together with D-ID, supported by Microsoft for Startups"
-excerpt: "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and"
-publishedDateTime: 2021-04-26T15:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20793985/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supp"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/n20793985/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supp"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20793985"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20793985"
+excerpt: "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and innovative way"
+publishedDateTime: 2021-04-26T15:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-1030346504"
+webUrl: "https://markets.businessinsider.com/news/stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-1030346504"
 type: article
-quality: 44
-heat: -1
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1495998/GoodTrust_Memories_April_26.jpg"
-    width: 400
-    height: 225
-    isCached: true
-
-related:
-  - title: "AI supplier Future Anthem secures Microsoft “co-sell” partnership"
-    excerpt: "Machine learning solutions provider Future Anthem has secured a strategic partnership with Microsoft that will allow the tech giant to co-sell Future Anthem products as part of its solutions offering."
-    publishedDateTime: 2021-04-26T15:35:00Z
-    webUrl: "https://igamingbusiness.com/ai-supplier-future-anthem-secures-microsoft-co-sell-partnership/"
-    type: article
-    provider:
-      name: igamingbusiness.com
-      domain: igamingbusiness.com
-    quality: 54
-    images:
-      - url: "https://igamingbusiness.com/wp-content/uploads/2020/09/microsoft-4608125_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Feature Store: Are Google And Microsoft Late To The Party?"
-    excerpt: "AWS launched Amazon SageMaker Feature Store — a fully managed and purpose-built repository to store, update, retrieve and share machine learning features for trai"
-    publishedDateTime: 2021-04-26T12:31:00Z
-    webUrl: "https://analyticsindiamag.com/feature-store-are-google-and-microsoft-late-to-the-party/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Cover-Art2.jpg"
-        width: 2240
-        height: 1261
-        isCached: true
-
-secured: "rFhu83kxOwHGKAety67V6fYw5D6oWRQUPXJP3g2b7pAnTayENXQQLop3NRriGj+rEnxWGc9xHsyiCass7SgSLdxS6lXnW37uZZqFGL4/CRuqLFDNYNzgR9FAcSadeNzdMqIC7CX+dvbWYmf7Rj5eb1TqdwmyDXS5Ctd2p7tbLjxWYygoVcIoEsZguCvucBcc/kS+jqSzTS3XRDX4543DQM1veprpMmfhk1uiXje2Y/wg/znhav5UHoCI9x3tbeRzyndOjbFZz/gQB/Uvyj8XQ4D4jo3dBUHT/cT2iqZq8YxnAzowK/fWD8kaAZkSOrysO27kdXrBIYdg/rRJFPzOs7QsnNi4n2nph/Mj98rsAxU=;hohtXPmE+Cc+7k9PPIPsyg=="
+secured: "WAzpB5XET9qxdOBTXceEx1AGWaJ00t+8TodXpdfXPWf2k/7eNjumo6rxBxQGOsvKIlJNCKOMLda6fmQM8NRhDKCGbHySTpQFBKy7Pwl2UAsp0upfMWxxrexDt5Jr0IokE0p+KxasWKu+rWD6nhfPrWd6sPZ5KxTTXBDQ8Nvpm/2aXr+0HWUqN88JuRpZxI3BmvEzoNJeJOwq2WJdF8ZUjw3TOLoHAPC5ERrjvAUT+aEzqOSy3x4WaGtydULzkvJ6PuuyMiACNjRannzjq7/vLWFVlOUWJ6CjrwSpuurQUcl95Tmjdy5ULJ2WJbA6D0XnI7WrRENxN9b+MBTJNT81tSlRbmPPNnmljrqJpeV65lcoWMHgH6CXRk589UyPtM4gsqUL4HdReLd5jvl0/KjcpoX5hQEreszKiTlBAgzRedck2AMw300FVwPHFZtLhtx1+UcuYPNEtg2HxlSThm9YjbvxZvfQ44N2Fomkj9vXbv2XLzeUgEMv3MaUVVU+E5F3NZYTQShhUE8W4GP6NyueSg==;NPv45VTXAypQ5mx1PQPmFw=="
 ---
 

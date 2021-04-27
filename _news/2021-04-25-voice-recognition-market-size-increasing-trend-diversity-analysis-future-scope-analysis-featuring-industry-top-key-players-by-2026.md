@@ -43,6 +43,15 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "Automatic generation of object recognition programs"
+    excerpt: "Issues and techniques are discussed to automatically compile object and sensor models into a visual recognition strategy for recognizing and locating an object in three-dimensional space from visual data."
+    publishedDateTime: 2021-04-27T06:03:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/5972"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 19
 
 secured: "5PuIkB1cPvgrHJP1VgB1p4a9VH8c4O/tjCqpcsDqPKxWMDTRMJk4ZJE5wDQc/wbnjXXej79c8MbvBthl6dHKBeNzgYEc/h96/CVP9hi8B0hhf9L+uicJcIm7vBtRkLboFt1vsn6EQmKiraJBU5HP22GQieLhnf2MKPejXy0UNPL8y+JTTPSXyIkdO38MFuHbviH/wJ1RVn7H4K33Awi+WXFLAPKJsREPxcyKo3oiPhyOC59J+wG1xfVAmyu50WfhPy3bJXvXnWZR4uGzmxdpmD9Iz+weqZvvyOnsfAyGIVr9x/43/62uOICiy8/vfQ2s6wclPPKQjOSJcTYLTp7kYunx9f+B5RttnUzCmg5Ik4DKiF0YuTkvX361sDZrSi11dmUa3ozhlNQKASaK+/RMMpIYS56nsEUdhegLLIgdm1c/y7LfXBzxrLYzFg4XmxA7ZbYNMAWgDrwjPhFMbhX8dbCBsSBvmUD1PAolPI+lsNwErfiWyzml8DGaGRxkZmuxsOqgRFWRa3LkGzZ1+vW5tQ==;DxX0t2AoCTtXNTbRtarPwQ=="
 ---

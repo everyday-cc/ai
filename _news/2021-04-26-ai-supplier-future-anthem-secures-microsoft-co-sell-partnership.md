@@ -7,8 +7,8 @@ originalUrl: "https://igamingbusiness.com/ai-supplier-future-anthem-secures-micr
 webUrl: "https://igamingbusiness.com/ai-supplier-future-anthem-secures-microsoft-co-sell-partnership/"
 type: article
 quality: 54
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: igamingbusiness.com
@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "GoodTrust launches AI service to reimagine the future of digital afterlife together with D-ID, supported by Microsoft for Startups"
-    excerpt: "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and"
-    publishedDateTime: 2021-04-26T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/n20793985/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supp"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20793985"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20793985"
+  - title: "How Nuance May Alter The Healthcare And AI Playing Field Aas Microsoft Reports Q3 Results"
+    excerpt: "In Microsoft’s (NASDAQ: MSFT) last earnings conference call with analysts, CEO Satya Nadella opened with an upbeat and sweeping salvo on cloud platform"
+    publishedDateTime: 2021-04-26T14:52:00Z
+    webUrl: "https://www.benzinga.com/news/earnings/21/04/20793834/how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20793834"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20793834"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 44
+    quality: 82
     images:
-      - url: "https://mma.prnewswire.com/media/1495998/GoodTrust_Memories_April_26.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Feature Store: Are Google And Microsoft Late To The Party?"
-    excerpt: "AWS launched Amazon SageMaker Feature Store — a fully managed and purpose-built repository to store, update, retrieve and share machine learning features for trai"
-    publishedDateTime: 2021-04-26T12:31:00Z
-    webUrl: "https://analyticsindiamag.com/feature-store-are-google-and-microsoft-late-to-the-party/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Cover-Art2.jpg"
-        width: 2240
-        height: 1261
+      - url: "https://tickertapecdn.tdameritrade.com/assets/images/pages/md/2021-04-23-msft-chart.png"
+        width: 1391
+        height: 736
         isCached: true
 
 secured: "FAWLiJAZK5n7Pi5lUsDYZfwXO8V9P0kWc6BaZ0C80bkVO4z6OiutEXh3IoLEAUnCDSqcUq0pVJ4T03wNUM17P2+UNX7HdVK2dC+dT2R9ZRJ0m9TTSIl0KVod9VOaY1453wNWlvBB5THqP0LeK7HvQiA3BaJ2QVlUdH4ESMKVNgIDFAjiCOEQaJRWzqwuBFtoXMWKFcTwSAAUn4cfDDzUn94TntTLNLVXrWdLBco6FAfyQC0t9cLo9dkMLUhhW3i29FloUs5VGJBjPVn2PEc3ELztbDco1vEdqSB3rd/2atikk+uzO9aVuU67ScKLGccRrpD4NbK4I3UMRFyUbiq7GcYa6ePp8WJMzGUykdsaPOc=;gPSmXBd6mYOBgWKwp+SYdA=="

@@ -36,13 +36,13 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 87
+    quality: 91
     images:
       - url: "https://media.wired.com/photos/60830d45ccb11d7f69cb8196/master/pass/business_ai-atlas_630354458.jpg"
         width: 2400
         height: 1602
         isCached: true
 
-secured: "lozEZb3q+Wvve3/piIsS73AiCvrbEZ22JqyyUx5NSnQTkH8IYcUW1H3f6ze0c6HJr2G3gWTxMqkM8pJnp+omjybGqtSIEUrA7qDe84N87Q0P1aDsKhMUNeiOWzqI8izNNBEon/n871OxIBEC8bQ8x9hlqn/xZtTEqx8ZSD/ZUJNZk3913YGabhq1gtVp5xiOY5aKHWu/BJ0/hfpmA+ZqH3H0e96qOnVeQ080rOP1fY4WRolIST9MuXyuzTc5YJwNKggZYOMAaC5eV/ewSRF6UwHVu3FZ7xz7xhJ+5m6+rvfpqmUQtvq9xpoR2o5Hhlt6GY1eNQIXj3FfnVPrlUlTm7rQQQ3jtLOJ4DVpA75Mv0I=;VuyByQsiLwApLkxFhHl92g=="
+secured: "2r/rTLvUfmXBzuZoFN5/LXFrhnnyf0vWWv6LCV/gBqJ6etG7Me5hqQkAf3q8vKUDj2NO+M26tJR1CyFtywLb6wurZRU2AJ6cHVM1Pb+pzv5qGSrmEiuj4+wvds2xL4d6jK4rdEV+k6lP0ItNz1zEhg91wxA95cK23upZsnjjST1BHDWV4bXXMpVYIodirS7GZq7w6I+4OsqBB+44CY43B2q5hGozLMxpScavnMZsT/e0m+lLSi7NZ6i8ABKoCZducGHN88omZkd4jRGh1Ln8mugkX33H8qFDutcz9z1uQ3M2sFM5+o8dMBPBqcvMrSX0ZpJj1Ef7PnVaQPR574q8N6DH9lAU+ZOGAfLwMoRRRqHXtYJCd2aXlBRFUTM/wNyt9E8a1Bj8diAmDvyIrSedHJ8uc3ymihvY1BtxdH1BU9ne5g2yyzg7vNmAxv5R8xFxmYGkbVaU6ucoxezXB6mbfX/VID7reUtRle3UmVQ8Jt3DNXqCgtF7AZSnbckLcLMkEtnW+RQ1Sb6BbZV6b5ITlg==;9HBJ/rJkOZoE9fMTFjZ7PQ=="
 ---
 

@@ -58,6 +58,15 @@ related:
         width: 6361
         height: 3844
         isCached: true
+  - title: "Abbott's New Coronary Imaging Platform Powered By Artificial Intelligence Launches in Europe"
+    excerpt: "Abbott today announced that its new imaging platform powered by Ultreon 1.0 Software, is now CE Marked in Europe. This first-of-its-kind imaging software merges optical coherence tomography (OCT) – an imaging tool that provides physicians a comprehensive view inside an artery or blood vessel"
+    publishedDateTime: 2021-04-27T09:22:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-04-27/abbotts-new-coronary-imaging-platform-powered-by-artificial-intelligence-launches-in-europe"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 8
 
 secured: "eK819ty6Y7Y9qXjLiNeroOo0yliHpKoSSMlOQCtqtRulhrbKs1nAv6cwoBKnqDjPRdzsZC8aEggXvSLFdeXLP3PYPm8fCFKZqAsyzCgidOEIq6Wxj/47eAvov9auD4cR3BnYkFc943l/HMNr41tWm1jnovdraC99mD05OJ/LW5UoKkycJQ9ShRg3/Y4Eyrr2gM0zairOQT/9Htb4iQfS/qi8/36PefdgA580TuwTu4bsVjQFkhKDXd7N/wFa/fJelndbBEnS3lq+xkHlBKVvXoXZM0vpBfIdVdKqG37AdRmsbjsc9ne/MHQGQwvxNQJ5kmz6nwcIKfDovE21LqBcyCcigXkBSSEvyHf13TQSLEM=;xVUDKPDBCWhGCIK58tDCIA=="
 ---

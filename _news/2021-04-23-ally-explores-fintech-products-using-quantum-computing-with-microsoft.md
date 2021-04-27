@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 151
+published: true
 
 provider:
   name: VentureBeat
@@ -32,63 +32,84 @@ images:
     isCached: true
 
 related:
-  - title: "NBA using Microsoft cloud and AI to power ‘CourtOptix’ and bring enhanced stats to fans"
-    excerpt: "The NBA is tapping the power of its partnership with Microsoft to deliver advanced analytics that offer insights into shots, passes, defense, double teams and more. NBA CourtOptix Powered by"
-    publishedDateTime: 2021-04-22T23:50:00Z
-    webUrl: "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/"
-    ampWebUrl: "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 96
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-22-at-9.28.33-AM.png"
-        width: 630
-        height: 352
-        isCached: true
-  - title: "Microsoft adds new Azure specializations to Coursera"
-    excerpt: "The three new courses on the online learning platform cover Azure Fundamentals, AI Fundamentals and Data Fundamentals."
-    publishedDateTime: 2021-04-26T10:51:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-adds-new-azure-specializations-to-coursera/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-  - title: "How Nuance May Alter The Healthcare And AI Playing Field Aas Microsoft Reports Q3 Results"
-    excerpt: "In Microsoft’s (NASDAQ: MSFT) last earnings conference call with analysts, CEO Satya Nadella opened with an upbeat and sweeping salvo on cloud platform"
-    publishedDateTime: 2021-04-26T14:52:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/21/04/20793834/how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20793834"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20793834"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 82
-    images:
-      - url: "https://tickertapecdn.tdameritrade.com/assets/images/pages/md/2021-04-23-msft-chart.png"
-        width: 1391
-        height: 736
-        isCached: true
-  - title: "Microsoft offers new Azure specializations and scholarships through Coursera"
-    excerpt: "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well."
-    publishedDateTime: 2021-04-26T17:28:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/"
+  - title: "Microsoft Defender can now use Intel's CPU-based machine learning to detect cryptojacking"
+    excerpt: "Microsoft Defender for Endpoint has been enhanced using advancements in Intel Threat Detection Technology to detect cryptojacking attacks via machine learning heuristics based on CPU telemetry."
+    publishedDateTime: 2021-04-26T11:00:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking/"
     type: article
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 81
+    quality: 77
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg"
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619243785_figure_1._windows-defender-tdt_chart_story.jpg"
         width: 760
         height: 428
         isCached: true
+  - title: "3 Top Fintech Stocks to Buy Now"
+    excerpt: "Fintech stocks have been white-hot over the past year ... and Upstart tackles both with its AI-enhanced software. Rather than rely on traditional credit scores, which often exclude lots of potential borrowers that have good-but-not-quite-great credit ..."
+    publishedDateTime: 2021-04-23T14:08:00Z
+    webUrl: "https://www.fool.com/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F622366%2Fyoung-woman-holding-credit-card-and-smartphone-and-thinking-with-chin-on-fist-online-mobile-shopping-e-commerce.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Azure AI Cloud Computing Driving Microsoft Tech Stock Giants Profits - Tech Stocks Investing 2021"
+    excerpt: "With Microsoft AI Azure cloud computing division growing by 50% per annum, converts into a Buy rating of 65%. This video is excerpted from my recent in-depth analysis that updates buy ratings, levels and valuations for the top tech stocks in my AI ..."
+    publishedDateTime: 2021-04-23T16:38:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article68794.html"
+    type: article
+    provider:
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 56
+    images:
+      - url: "https://www.marketoracle.co.uk/images/2021/Apr/Azure-AI-Cloud-Computing-Microsoft-Profits.jpg"
+        width: 800
+        height: 466
+        isCached: true
+  - title: "How can technology bridge fintech and SMEs to ease the lending process"
+    excerpt: "Fintech startups bring convenience and help SMEs get easy access to products like bank accounts, cards, securing working capital, managing cash flow, etc."
+    publishedDateTime: 2021-04-25T09:22:00Z
+    webUrl: "https://yourstory.com/smbstory/technology-bridge-fintech-smes-ease-lending-process"
+    ampWebUrl: "https://yourstory.com/smbstory/technology-bridge-fintech-smes-ease-lending-process/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/smbstory/technology-bridge-fintech-smes-ease-lending-process/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: "https://images.yourstory.com/cs/21/f02aced0d86311e98e0865c1f0fe59a2/lending-1619070105454.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Microsoft and Intel Enable AI-Backed Protection Against CPU Cryptocoin Mining"
+    excerpt: "Commercial machines running Microsoft Windows, and managed through Microsoft Defender for Endpoint, can now be protected against CPU cryptocoin mining through an AI-backed protection mechanism. The security layer requires an Intel processor with Intel’s Hardware Shield (a vPro technology) and Threat Detection Technology enabled,"
+    publishedDateTime: 2021-04-27T11:10:00Z
+    webUrl: "https://www.anandtech.com/show/16642/microsoft-and-intel-enable-aibacked-protection-against-cpu-cryptocoin-mining"
+    type: article
+    provider:
+      name: AnandTech
+      domain: anandtech.com
+    quality: 33
+  - title: "Fintech in 2021: The Year’s Hottest Trends so Far, According to the Experts"
+    excerpt: "The financial and fintech worlds were turned completely upside down. Companies were forced to adapt to a rapidly-changing set of restrictions and challenges; customers had an ever-evolving set of needs,"
+    publishedDateTime: 2021-04-27T10:53:00Z
+    webUrl: "https://www.financemagnates.com/cryptocurrency/news/fintech-in-2021-the-years-hottest-trends-so-far-according-to-the-experts/"
+    type: article
+    provider:
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 2
 
 secured: "e5AEZj6zQhuAZdlRu8N94sHK4VmOrzYjEuor81SJ/e1sNtC+oJB6/TE7um4hFAaVeiWd4JV3xJOZU4XK/gvXjry2iLYy1wJGpcGjTUXgJ0O9wuaI1O6mWWYVbSOJek+85ZmoCU7+oUDD0wSGQN6reNduDYaZ5N99mTWcJJo7uyGLlPqvUxK+PFuxM7sW+t5Nue35owZ+Rm7dRGprETfxhz+iKS4yDmgOlI0c9VCW3+sZIh5QfVVuFxRegzk1Wo94X3kN2rKeRscHy5uLfB4dwbuA6XP7aRHdQPFZeKHhjkzh5p0Uk9NUkOPCek825RE3bstgpJlGVwPQcqiP4sk/nN6wgA6i8WpDgONnsIkSON5vRnCIQII4kjbmt8pDFGvU9NdbQ69EZgfftN7rHR3aro5vomGH9oDG9CJ9FykfhYnFi3vI2cCPiAkyHxo8BFIVIEEiancYytD9R4oB48zAud+c1ZVp0VZTBSz+kYndejLBiJbnqgiOZ9061ynNHnDeQTp1pAuoHrSxXKQLgVdWUg==;eJioerUsLHOOEegTAoXdOA=="
 ---

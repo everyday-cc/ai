@@ -25,38 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Build an event-based tracking solution using Amazon Lookout for Vision"
-    excerpt: "Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV). With Amazon Lookout for Vision, manufacturing companies can increase quality and reduce operational costs by quickly identifying differences in images of"
-    publishedDateTime: 2021-04-22T19:32:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-event-based-tracking-solution-using-amazon-lookout-for-vision/"
+  - title: "Cognitive document processing for automated mortgage processing"
+    excerpt: "This post was guest authored by AWS Advanced Consulting Partner Quantiphi. The mortgage industry is highly complex and largely dependent on documents for the information required across different stages in their business value chain. Day-to-day operations for mortgage underwriting, property appraisal,"
+    publishedDateTime: 2021-04-23T17:13:43Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/cognitive-document-processing-for-automated-mortgage-processing/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
     quality: 74
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/14/1-Architecture2271.jpg"
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/23/1-Extracted-Data.jpg"
         width: 800
-        height: 574
+        height: 365
         isCached: true
-  - title: "A Deep Learning Method for Denoising Based on a Fast and Flexible Convolutional Neural Network"
-    excerpt: "Seismic data denoising has always been an indispensable step in the seismic exploration workflow. The quality of the results directly affects the results of subsequent inversion and migration imaging."
-    publishedDateTime: 2021-04-27T02:04:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9411907"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 22
-  - title: "VoIP Traffic Detection in Tunnelled and Anonymous Networks Using Deep Learning"
-    excerpt: "Network management is facing a great challenge to analyze and identify encrypted network traffic with specific applications and protocols. A significant number of network users applying different encryption techniques to network applications and services to hide the true nature of the network communication."
-    publishedDateTime: 2021-04-23T03:36:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9406580"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 15
 
 secured: "B+i6Q+A/xRpTb8zKnQsV79VByHIu42iyZpMkNJGYWwrKug09ZSWg6TIPTP9pKzvhxLi2KCTlgzlPymnk/CuBIoU1Pn6NOxoz8Qk2v4iqTNPQ5dFQhvImk4sd4fs1QNJlIfxSUGxLC5LmhDaRLRM7bxllT458zXGSzejvN9TXcEbsIifUiUgCy3tLhbLQsW9WXLRNvqpASedsEJggJYW+Kfeqbu3kSzjz0UEdPMZSev3wGs4SYVIgmSH3nzzuh1HYwMyvHvsg78vwsD7fCNPQQ5gJe0jyDxOiRT8gABYEHpjiozHyQ05s2y66B7hSWI5plkPKlx6ZofPxUOScGVVh5VVPIKQLehQqn5n7y4PfnpWXEqIBb5jSZz0AiF0fEdolcx0ESZPe3FE/IqnWiPs3udR89AJN5NSsrUQUDUGF48QLC/BYQdRugj8F9fgAAKhJvj4ygfkE2ZLBVtqjzm5pwficQSiPSWjLyyeNzDu6DkyTzJnIrfIjMLCgmsZv3FWDaZ+ni/yCI1J10jZ/4u2CMA==;kj9tWm+14xb2mjxAOnXiJw=="
 ---

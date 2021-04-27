@@ -42,6 +42,15 @@ related:
         width: 1024
         height: 710
         isCached: true
+  - title: "Using artificial intelligence to detect permafrost thawing"
+    excerpt: "A new collaboration will deploy the latest technology to fill critical knowledge gaps on permafrost thaw and soil organic carbon."
+    publishedDateTime: 2021-04-27T17:39:00Z
+    webUrl: "https://www.preventionweb.net/news/view/77122"
+    type: article
+    provider:
+      name: Prevention Web
+      domain: preventionweb.net
+    quality: 17
 
 secured: "E9pyvjSRt03GA/4MZ6wS2+eWlbzwNjmsvQHKr3GB97D1TAsnroSi0Rr7N5yLNLE3f6oRf4xmNQIGeH6x5AjtiN/ZYhLWMp1CYMh7fkZgcspuMbnLXGC8EKyNozFk8h9CI9nwn2eo2TCeKIVb5hp/1C+pnf0WpOnMmKc/YKQYcW1xPsU+MNxV/t/h7J40ZIQeKsvRPP45oN/8AfJj4jzp8pSCyxFYnWS87J1EqAWhFUTOUWiwJV2CKoK0ky46lqOQ/JQ5EYkrhgF+zIvBjAv99pT++bOvxOqS07jqZ0Cai2Pivk14QKZTqN6dinzjhzVSUz/fGBx2kbuV9rUd/EeLVATUx5cv2m2EYBV+SGyLd4A=;5QaW04xs79wi25d+badUKg=="
 ---

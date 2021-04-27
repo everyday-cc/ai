@@ -60,17 +60,15 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Machine Learning Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Machine Learning Market size is expected to grow at an annual average of 42 during 2021 2027 Machine learning is defined as the process of applying artificial intelligence AI to provide system capabilities that can automatically learn and improve"
-    publishedDateTime: 2021-04-22T13:52:00Z
-    webUrl: "https://www.openpr.com/news/2274043/machine-learning-market-share-2021-global-trends-key-players"
-    ampWebUrl: "https://www.openpr.com/amp/2274043/machine-learning-market-share-2021-global-trends-key-players"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274043/machine-learning-market-share-2021-global-trends-key-players"
+  - title: "Global Artificial Intelligence in Fashion Industry (2020 to 2027) - Market Trajectory & Analytics - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence (AI) in Fashion - Global Market Trajectory & Analytics” report has been added to ResearchAndMarkets.com’s offering. Amid the COVID-19 crisis, the global market for Artificial Intelligence (AI) in Fashion estimated at US$311."
+    publishedDateTime: 2021-04-27T14:39:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-financial-markets-business-artificial-intelligence-96c5324912a14365a273affd92d5bae0"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 26
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "bLY43W9ToC24bGaxPL2hqrIfkVb5g09KbLWdAC+pO6uYiZnaGevs5DNigfV69qcTP/vzcN8WovbyaO2V6b1Qoyls5eAHw2u4CXHBUahczUVkM5FHxvNf4fXOovNUevUE3j4q0llhRMxe2AXG3/9nT1NBIoHApSIuc5UaO1zmYsGI8ypsw3wG9ZcBpb8+dWzCQh74s+kqqV2rKB1KtuIuiOIZLun4peD1d36Z88I7Rxl5ZKm4YUc89EmBgU17mJ+DvamS7ZlrP5ifmJ2uzWQLc6i6bLUQ/OGvqRJUNsdqs5bf/un5FDbVflORJA4kzs6UGSFK5G7nIqhd+CKQoy29zSuZgWCZjjc5xuEQkEnxPtI6Qop320zOpMkgjV4eT1mrur9RhB3QeFG/X67++Qc9yyN1+yA6KwusMbtV9eYyOvA+LHfszNTmWiwMjzVgGF7icguw5fEVs12q2Jc69FI6e6UgaPrBUHjhBrNcyU0ps2Ei2ja7SQQT6kiibQdWsoomh6uXK4XkLYCeTEG1qzOhZA==;aJbrDoNV1kOV2yaAUmTfVQ=="
 ---

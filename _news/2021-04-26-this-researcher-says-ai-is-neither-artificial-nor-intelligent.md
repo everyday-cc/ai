@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/researcher-says-ai-not-artificial-intellige
 ampWebUrl: "https://www.wired.com/story/researcher-says-ai-not-artificial-intelligent/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/researcher-says-ai-not-artificial-intelligent/amp"
 type: article
-quality: 87
-heat: 97
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/60830d45ccb11d7f69cb8196/master/pass/business_ai-atlas_630354458.jpg"
@@ -47,6 +49,6 @@ related:
         height: 281
         isCached: true
 
-secured: "EjMEh7bSFurAXekXeTdjUGpvu1Enqk9yWG+m3Dan8gZqQ16rVDLHEGN3HIDKP4dBBIa9E/nhBvIOxEXsdhqaLXtj0WOefu25JQ1Gd+DuYtA7cWDvoustieEZt31FY2EXSQ5kX3eAFtadp4eEbo/59Lx6akIBLQUoe3OyzJDzXpa0KNbaK+4a+KqjsuuF29italkiiZfpTtdZrTqYnrcD3FU0YxTNpo1LFE7DGyV7K0+aQkNr5iQn9k1z+scXMvjZFOb0u9feWu6xZUHVJ0QtAVj65mmj3IwENlo9/JIYzO8pssJA21TOMrtxyDB8+Zw5sA3wdYvrLSnnsSFpaVGb0kaerGoAx+GuhiqjtzdwkDk=;YYZOLUXQmi7dh7c1BDP/wQ=="
+secured: "I0+LJpak8/rNiNBK16srxSpIQSClQHUVHCLP7ON2Us20N+VV8usrcypapKWPE2Co7GZ0RdkyqWLu5+gU9x6Z8+YDBAIbY3LAy3vqEeSn0gY2KqSMXzXt2Wc5nOC/kvOVNdYGi7gy9BOCrCBJDOmGIcmZPPqVLoxU5KL2zPFNI+r+tvoVq5us90/DcNXibktR6L7A6n1ULHRhPaaXKbCr+0wyE0ZSlz51GRx6rjQe02E3VdydGLKURtFMT0AI4gOVKlIc+gDGpSduMactzRI1isTVk1Chwkxp+w4qSANwvExV60L8z14AxOib8K9L903IF5xf+KJxXT3ILc9//doDU5o7/GjWbXUr4xQANQpZCCO9+sMBvocVlrz3vK1Gt4777BZn4aExUI+Nj1mqWK4I7K7aizDRbf2LlhGsrWUAMW9+TqWJG2A/W9DWfhl5kJuh3j24aUH5Cmo6mNuC+Ogo1Ei5VqsqD23DCmsZOeC1BPM0EGvXDyvpeQMA1wahR6aKRb342ApoBI+bNV/C+LjSTQ==;MIgWidG/aujccBVfFPLumw=="
 ---
 

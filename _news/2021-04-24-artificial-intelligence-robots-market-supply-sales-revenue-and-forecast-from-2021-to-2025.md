@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-supply-sales-revenue-and-forecast-from-2021-to-2025-2021-04-23"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -130,6 +130,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition for Smartphones Market Growth, Trends, Forecast and COVID-19 Impacts (2021 - 2026)"
+    excerpt: "The recent analysis of Voice Recognition for Smartphones market size has been methodically put together to impart an in-depth understanding of the k"
+    publishedDateTime: 2021-04-27T16:29:00Z
+    webUrl: "https://www.express-journal.com/voice-recognition-for-smartphones-market-388375"
+    type: article
+    provider:
+      name: express-journal
+      domain: express-journal.com
+    quality: 0
 
 secured: "jUVoMXAT3+WXx4VMwpIVEbaDEjHhCsNmATpqXGHaHsuHnht+7OMTfHlEFxvFqcwr1C3WI8c5B0I5L2/BIfQFzsnvFa9dZxHpYQKja3UfgfA4q3r+slfR40ZfP5V3O6WIr2cXfgUq3seS9d+Nh22Z8oAD4JzMjUitEc4082Gnjo7XbHAKaG2A5UYUTgyPBz9xGkPNaOJ0NXmf1YEcc3litmgStkyRRAoYsfsmwUO46/8zvVR1RnG/aHxFtZ6aXFasJmnVymcomwhTD+WAHbKoK46z3NbeAV0grhRcnsIkvGjkM50iJz8QJY8rBuhUQ2ZMTw+FkVpvNPQuTgdsyW1csh4xDnmx3anaCZWk8AcKtNo=;zdg4ufcX53doMbmcfzRayQ=="
 ---

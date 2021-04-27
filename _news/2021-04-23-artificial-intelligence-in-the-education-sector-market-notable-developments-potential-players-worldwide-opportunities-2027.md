@@ -43,6 +43,15 @@ related:
         width: 800
         height: 564
         isCached: true
+  - title: "Artificial Intelligence Market 2021 Technological Strategies, Business Advancements and Top-Vendor Landscape by 2026"
+    excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, in the developing economies globally have had a positive impact on the global artificial intelligence market."
+    publishedDateTime: 2021-04-27T05:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-technological-strategies-business-advancements-and-top-vendor-landscape-by-2026-2021-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
 
 secured: "LXFT8eKpc8oPYhiX1XrzYElXIfsFMhoSmroaQOUD6JZ59HKKit8uE0CyBCPQui0gW2lW174dTScIuhqaUhm1WrqJlz6K8R0aNqdLj7mEAmxSIsmzBfxXTMLM458kLEMqxWEULryX8MFm1UTHlBSoZQCypLxz+51d2DP3EShQsaa/0yxM2ckJKommuFyOctBMy0gyoHfNQnqFhTjAT17+HI2Ta5vB2yXEfisQ7qNdlLxx6Z0DKeu25N/Bcr+dXRInFGgfEIBbjTEOVrJu4kJJ7EO67rmeSpAp1sRkhYhiIEnyURhcDH1lJQM8KjSATaT2zRrh7X3H6CSMgFja0dQMDG8mNQoPpSHFW+QddhS0Ha4=;tkJZVWpUfUClOYc+KbRPKQ=="
 ---
