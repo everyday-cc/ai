@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-135627371-facial-recognition.jpg?w=1024"
         width: 1024
         height: 684
-        isCached: true
-  - title: "European Union Unveils Regulations Governing Artificial Intelligence"
-    excerpt: "The European Union has unveiled strict regulations to govern the use of artificial intelligence. The draft rules,"
-    publishedDateTime: 2021-04-22T12:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/european-union-unveils-regulations-governing-artificial-intelligence-2021-04-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "vebgFov2dDkwO9N0tIn65XhYFMxJ1h5nj63hi4kiZfIa7h2uTUO73/bBGd1sKPLZE1OAjHOkNwlAFdvsvkGUuUiu+T+9kekxuYThl6Pzx1++LG4sna/2MLhT3zGVUyhzEFvMednVLEmPjrkB83pBo3kXiiiZDbC3VYxypjuXF5qsLOaXQmICiI14RJc5C+NmgFjiClB7nLviFjBNYZS3z0bw6LzPfZNt/KC5rAthOqOHK5OR7IBpYH1avC7t04VLVjTEFmg8vSXFXidVYbH2eqITkmqjAfQtqt5M2wEDviflHfI0wK2Qeq9N8AJaVhp8EfvT/qnPtz61MoqLuuYmHc+LvJ+De3H8N5M4POg1BJHPa0PcWWLAw8jaVI6fSG6Fbbx0TAgcU7VqQuWsdL4ZUd5H3ZatYp0eR5BzDgHfDVQjEr1/YU1YQTAlZ9QVVHjRSTzVffiP87CS+RlZd1aIsH+ehnZAlIlxeoF9NKsCUvKOQgiALCb4QbUtUX4IK1CO6PkfCBun09p0O2MGO4YHTw==;B7BwivTZe1BOrPRsk1wBsQ=="

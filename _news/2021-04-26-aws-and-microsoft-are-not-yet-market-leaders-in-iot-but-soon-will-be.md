@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 506
         isCached: true
-  - title: "UK government turns to Microsoft for digital transformation assistance"
-    excerpt: "The UK government has agreed a new deal with Microsoft, giving public sector organizations discounted access to its cloud productivity tools and services. In a blog post, Microsoft explained the Crown Commercial Service,"
-    publishedDateTime: 2021-04-22T12:00:00Z
-    webUrl: "https://www.itproportal.com/news/uk-government-turns-to-microsoft-for-digital-transformation-assistance/"
-    ampWebUrl: "https://www.itproportal.com/amp/news/uk-government-turns-to-microsoft-for-digital-transformation-assistance/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/uk-government-turns-to-microsoft-for-digital-transformation-assistance/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/UmMgpy7oe757BJ47MjAphk-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Azure AI Cloud Computing Driving Microsoft Tech Stock Giants Profits - Tech Stocks Investing 2021"
     excerpt: "With Microsoft AI Azure cloud computing division growing by 50% per annum, converts into a Buy rating of 65%. This video is excerpted from my recent in-depth analysis that updates buy ratings, levels and valuations for the top tech stocks in my AI ..."
     publishedDateTime: 2021-04-23T16:38:00Z
@@ -103,6 +87,6 @@ related:
         height: 366
         isCached: true
 
-secured: "6YEqW2/OcsOofUW6Sf3K5X6Ihf4nBMUtlhowMWJTrx/mkTJeq016t1l3KB+aW17Kg5sEOAe7pNJWUQQ22Qs1yofG/5ZVFNGdZ+OUJM81d5BcpB8scG3rmtrrAOWk/dPD4K24K9Mk8FeVi5uUPcoMWlKBPLagAU1K/iWTXGwcVCFIpya4W1vgcoTGLo9dkBl0kAZG9/Av9RLs/vHzeXLFn93IeEb/Nh4c+dViRDKIDTjSt2fNjF5b3zkKXFJRxr+bsGDZGlwcI0pEViEboe/a6zFdVOcvajkv5VssSVdmczARpExDVYn2KVhoSie5xkLpjUrIh+cdLKPQpZd9Xu5WlZNl0VPuSlOZuKM8JSA6T+A=;5pFsJ6PNDSiNa9560dLyjw=="
+secured: "MdOb1J5nR0liboAmKwtrYV+eNCJlCCPtFqgZRTqvPowZOndG2QqhfBO8Slh+kvnxdDeir+uvwIQp361KKoIzQiuicLecZ65UVMRUfF6wUCYkjsLlLe5CJFimitufGCI9ZCO7pmO4Q2Cje7CkoxLpF98gGUmdAPVm5CRAvdqpFvaQNtLVfjWJ7dzX1GJ867fKXUFtbzAx+cYuY83qcqROzsz3Dt1WaKzt9NagIY3Zz5CCHJMs8TA+NWhbuYyOcrQIFf/5nnQ2WSKpDYz53EFHaBzp5mTnCJrJRNy3ICid5MrVTsBqTNyDC0+Eu2aDZM2feiyJ0UE1Ktak1LMBsusz6dJLlNuJsDLI3r6xX0+OyksSLVg7FlB//5usS3loBwKk3Ql6+WC5deKtlaTwJCf5mzsf680Mt62RUPZ88felJuiMZ9jSFIqmMmnBY0OmWkVWvMrWfQoXBewFrJz2586QH+WlUcmXFdNdVEYnKZ19Iq1jMb6G2HLzuuX0vO4QJBUG8SLU57hGTwOFOfsnYfgMHg==;12lhgF9X2cC4+cQHHNrekA=="
 ---
 

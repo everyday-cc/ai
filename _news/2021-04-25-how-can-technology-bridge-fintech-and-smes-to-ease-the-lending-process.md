@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chatty bots and AI bank managers: getting inside fintech’s future"
-    excerpt: "Here, we explore four key areas of innovation that are powering today’s fintech insurgency – and explore how they will reshape our financial services of the future. The bank manager as an AI It comes as no surprise that artificial intelligence (AI ..."
-    publishedDateTime: 2021-04-22T07:33:00Z
-    webUrl: "https://www.wired.co.uk/article/bc/inside-fintechs-future"
-    ampWebUrl: "https://www.wired.co.uk/article/bc/inside-fintechs-future/amp"
-    cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/bc/inside-fintechs-future/amp"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 74
-    images:
-      - url: "https://media.wired.co.uk/photos/606da9ca9a15f73a597a2045/master/pass/JP_Hero.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "3 Top Fintech Stocks to Buy Now"
     excerpt: "Fintech stocks have been white-hot over the past year ... and Upstart tackles both with its AI-enhanced software. Rather than rely on traditional credit scores, which often exclude lots of potential borrowers that have good-but-not-quite-great credit ..."
     publishedDateTime: 2021-04-23T14:08:00Z
@@ -59,17 +43,59 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI in Fintech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The AI in Fintech Market size is expected to grow at an annual average of 38 during 2021 2027 The results of artificial intelligence have not been improved beyond the scale of humans but by applying methods derived from the"
-    publishedDateTime: 2021-04-22T12:31:00Z
-    webUrl: "https://www.openpr.com/news/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
-    ampWebUrl: "https://www.openpr.com/amp/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
+  - title: "Cleareye.ai joins ITFA & the Fintech Committee"
+    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, announced that it is joining the ITFA Fintech Committee. Cleareye.ai, aiming to make a significant impact in the trade finance ecosystem,"
+    publishedDateTime: 2021-04-26T12:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-global-trade-d7b25cd07a9e4393f6a6437c01272b54"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "London’s Fintech Startup Fintern Acquires £32M in Capital to Expand Access to Affordable Loans in UK Markets"
+    excerpt: "UK-based Fintech company Fintern has secured £32 million in funding ... Fintern does all this by using Open Banking and AI to accurately assess their clients’ transaction details, enabling them to provide affordable lending to a signifincantly larger ..."
+    publishedDateTime: 2021-04-23T12:04:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174530-londons-fintech-startup-fintern-acquires-32m-in-capital-to-expand-access-to-affordable-loans-in-uk-markets/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174530-londons-fintech-startup-fintern-acquires-32m-in-capital-to-expand-access-to-affordable-loans-in-uk-markets/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174530-londons-fintech-startup-fintern-acquires-32m-in-capital-to-expand-access-to-affordable-loans-in-uk-markets/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 25
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Victoria-Station-London-UK-300x266.jpeg"
+        width: 300
+        height: 266
+        isCached: true
+  - title: "Datasite® Named SBR Technology Excellence Award Winner for Fintech - Mergers & Acquisitions"
+    excerpt: "Datasite technology and tools make M&A management more efficient and effective by automating tasks. Singapore Business Review (SBR) acknowledges the trailblazing work of firms and companies whose new technological products,"
+    publishedDateTime: 2021-04-27T05:28:00Z
+    webUrl: "https://sbr.com.sg/co-written-partner/more-news/datasite®-named-sbr-technology-excellence-award-winner-fintech-mergers-"
+    type: article
+    provider:
+      name: Singapore Business Review
+      domain: sbr.com.sg
+    quality: 14
+    images:
+      - url: "https://cdn.sbr.com.sg/sites/default/files/imagecache/600x360/news/pr_datasite.jpg"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Socure CEO Johnny Ayers to Speak at LendIt Fintech USA 2021"
+    excerpt: "recognized by Forbes as one of the “Top 25 Machine Learning Startups to Watch,” named to CB Insights: The Fintech 250, and awarded Finovate’s Award for Best Use of AI/ML, to name a few."
+    publishedDateTime: 2021-04-22T19:31:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210422005824/en/Socure-CEO-Johnny-Ayers-to-Speak-at-LendIt-Fintech-USA-2021"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
 
 secured: "GjzTMEzEXs724pqkXWk45uaOqTtTJtyG4tIM7XImFA1QmVRYLDVdFW5XU/PheqNYMAW4709V+Bbvxyx/1OYGdF8ynor0Avnlfz68tp1Sl1UfBZV1E5O06rVzkv3tV4BfLg92XCc1tj20IMQDrGoTIzo2pLvU1m0AcMwWGaVd2jEzYHkzqpnRMK0HO3mj/FvG3cABdMIkgAp9EmlP+ci7fzCeA5xm4F/XeZf4an84VM3P+7Ul5D7Pc3beWbuMfGw9EQJ2Fm3qvdXSZrKuAcyYO+76u4q199vyLKbU2J723HJ5uSQSYCs/tsLJu+UajL//d9s9JzDUAfwAe2LU7Z02Bq2lhiO/KS7LSLFRQG2Mk6c=;E7oaMreB5gm5cjDlivoduA=="
 ---

@@ -2,6 +2,739 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-03-10-splice-machine-31-enhances-support-for-real-time-ai-deployments.md",
+      "title": "Splice Machine 3.1 enhances support for real-time AI deployments",
+      "excerpt": "Splice Machine introduced a new version of its platform -- 3.1 -- that introduces tools to support real-time AI system deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/",
+      "originalUrl": "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/amp/",
+      "publishedDateTime": "2021-03-09T16:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-visionnav-at-ltt-2021-driverless-industrial-vehicles-with-latest-vision-technology-renovating-factory-intralogistics.md",
+      "title": "VisionNav at LTT 2021: Driverless Industrial Vehicles with Latest Vision Technology Renovating Factory Intralogistics",
+      "excerpt": "Behind the innovative products and solutions VisionNav showcased at Logis-Tech Tokyo 2021 (LTT 2021) is a driverless story of how the company helps its customers quickly upgrade intralogistics not even to the COVID pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-covid-19-pandemic-lung-disease-5b5a6ca3ec6aa63c4aa5041ce4185522",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-covid-19-pandemic-lung-disease-5b5a6ca3ec6aa63c4aa5041ce4185522",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T16:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.md",
+      "title": "Plus Using Nvidia Orin AI Chip for Self Driving Semi Truck in 2022",
+      "excerpt": "His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nextbigfuture.com/wp-content/uploads/2021/03/plusnvidiaselfdriving.jpg",
+          "width": 903,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html?amp",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html?amp",
+      "publishedDateTime": "2021-03-09T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
+      "title": "DeepMind Is Working on a Solution to Bias in AI",
+      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
+      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
+          "width": 1178,
+          "height": 1070,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-how-ai-will-impact-the-future-of-work-and-life.md",
+      "title": "How AI Will Impact The Future Of Work And Life",
+      "excerpt": "AI, or artificial intelligence, seems to be on the tip of everyone’s tongue these days. While I’ve been aware of this major trend in tech development for a while, I’ve noticed AI appearing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-impact-the-future-of-work-and-life/",
+      "originalUrl": "https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-impact-the-future-of-work-and-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603c0d52695f2a07f37ff642%2F0x0.jpg",
+          "width": 1199,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-impact-the-future-of-work-and-life/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-impact-the-future-of-work-and-life/amp/",
+      "publishedDateTime": "2021-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-how-to-run-ml-applications-on-particle-hardware.md",
+      "title": "How To Run ML Applications On Particle Hardware",
+      "excerpt": "With the release of TensorFlow Lite at Google I/O 2019, the accessible machine learning library is no longer limited to applications with access to GPUs. You can now run machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/11/26/how-to-run-ml-applications-on-particle-hardware/",
+      "originalUrl": "https://hackaday.com/2019/11/26/how-to-run-ml-applications-on-particle-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-simplified-ai-on-microcontrollers.md",
+      "title": "Simplified AI On Microcontrollers",
+      "excerpt": "You can load AI onto some of the smallest microcontrollers as well. Tensorflow Lite is a popular tool for this, but getting it to work on your particular microcontroller can be a pain, unless you ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/11/29/simplified-ai-on-microcontrollers/",
+      "originalUrl": "https://hackaday.com/2019/11/29/simplified-ai-on-microcontrollers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/11/tensorflow-espurino-watch-main.png",
+          "width": 1204,
+          "height": 705,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-tensorflow-googles-artificial-intelligence-system-for-large-scale-machine-learning.md",
+      "title": "Tensorflow – Google’s artificial intelligence system for large scale machine learning",
+      "excerpt": "TensorFlow is an open source system from Google applied for large scale machine learning processes for deep insights. This open source software library is used for numerical computations with the help of data flow graphs. TensorFlow was originally ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/tensorflow-google-s-artificial-intelligence-system-large-scale-machine-learning/",
+      "originalUrl": "https://www.smartdatacollective.com/tensorflow-google-s-artificial-intelligence-system-large-scale-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/tensorflow-google-s-artificial-intelligence-system-large-scale-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/tensorflow-google-s-artificial-intelligence-system-large-scale-machine-learning/amp/",
+      "publishedDateTime": "2021-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-why-artificial-intelligence-is-the-future-of-technology.md",
+      "title": "Why Artificial Intelligence is The Future of Technology",
+      "excerpt": "Different civilizations result from intelligence ... such as driving, facial recognition, playing games, and many more. As a result, AI has been the focus of technology not only at the present but also in the future. Some of the reasons why artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/artificial-intelligence-future-technology/",
+      "originalUrl": "https://www.smartdatacollective.com/artificial-intelligence-future-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2017/11/artificial-intelligence.jpg",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/artificial-intelligence-future-technology/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/artificial-intelligence-future-technology/amp/",
+      "publishedDateTime": "2021-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-and-bengio.md",
+      "title": "Nvidia’s GTC will feature deep learning cabal of LeCun, Hinton, and Bengio",
+      "excerpt": "The deep learning trio helped to popularize the use of Nvidia’s graphics chips for machine learning. Eleven years after Geoffrey Hinton couldn't get a free sample from Nvidia, the Touring Award winner will join his comrades Yoshua Bengio and Yann LeCun at the 2021 GTC conference hosted by Nvidia as a headline speaker,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "publishedDateTime": "2021-03-09T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need.md",
+      "title": "How a Startup Uses AI to Help You Find the Market Research You Need",
+      "excerpt": "IBM’s knowledge management study. Bottom Line: Stravito is an AI startup that’s combining machine learning, Natural Language Processing (NLP) and Search to help organizations find and get more value out of the many market research reports,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/business-innovation/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need-02391291",
+      "originalUrl": "https://www.business2community.com/business-innovation/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need-02391291",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lcolumbus.files.wordpress.com/2021/03/startup-finds-the-market-research-you-need-image.jpg",
+          "width": 4500,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/business-innovation/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need-02391291/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need-02391291/amp",
+      "publishedDateTime": "2021-03-09T13:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020.md",
+      "title": "The 12 most important technology partnerships in Connected & Automated Driving in 2020",
+      "excerpt": "EINPresswire.com/ -- 2020 was a turbulent year for the Auto industry but players pushed even harder to build expertise and gain market share in ADAS through technological and commercial partnerships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
+      "originalUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-neural-network-clip-mirrors-human-brain-neurons-in-image-recognition.md",
+      "title": "Neural network CLIP mirrors human brain neurons in image recognition",
+      "excerpt": "Open AI, the research company founded by Elon Musk, has just discovered that their artificial neural network CLIP shows behavior strikingly similar to a human brain. This find has scientists hopeful for the future of AI networks' ability to identify images in a symbolic,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.html",
+      "originalUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/6047c07b01a40.jpg",
+          "width": 846,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp",
+      "publishedDateTime": "2021-03-09T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises.md",
+      "title": "VMware and Nvidia launch GPU virtualization platform for enterprises",
+      "excerpt": "VMware and Nvidia deliver on promise to enable GPUs to run multiple workloads using VMware vSphere virtual machine software.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
+      "originalUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/vmwarenvidia.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/",
+      "publishedDateTime": "2021-03-09T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-why-self-driving-cars-are-designed-to-look-like-overgrown-toys.md",
+      "title": "Why self-driving cars are designed to look like overgrown toys",
+      "excerpt": "They’re here. Lyft passengers in Las Vegas can already hail a self-driving taxi. It’s one of the first times vehicles with no human behind the wheel are being tested on city streets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/",
+      "originalUrl": "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-ibm-watson-services-market-size-to-accrue-165-billion-by-2027.md",
+      "title": "IBM Watson Services Market Size to accrue $ 16.5 billion by 2027",
+      "excerpt": "Selbyville, Delaware According to the latest research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use; By Regions; Segment Forecast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T10:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-to-reach-human-level-intelligence-ai-systems-must-truly-understand-language.md",
+      "title": "To reach human-level intelligence, AI systems must truly understand language",
+      "excerpt": "The original goal of human-like artificial intelligence was abandoned decades ago in favor of less ambitious approaches, two cognitive scientists argue in a new book. If that initial vision is to be realized,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/rpi-trh030921.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/rpi-trh030921.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-synopsys-arc-ev-processor-enables-kyocera-document-solutions-to-launch-ai-enabled-multifunctional-printer-soc.md",
       "title": "Synopsys ARC EV Processor Enables Kyocera Document Solutions to Launch AI-enabled Multifunctional Printer SoC",
       "excerpt": "The toolkit includes the MetaWare NN Compiler that analyzes neural networks trained using popular frameworks like Tensorflow or Pytorch and automatically generates the executable for the programmable CNN engine. “As new artificial intelligence ...",
@@ -335,766 +1068,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-onesoft-acquires-machine-learning-ip-to-advance-integrity-compliance-functionality.md",
-      "title": "OneSoft Acquires Machine Learning IP to Advance Integrity Compliance Functionality",
-      "excerpt": "EDMONTON, AB / ACCESSWIRE / March 9, 2021 / OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (the “Company” or “OneSoft”) is pleased to announce that its wholly owned subsidiary, OneBridge Solutions Canada Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/business-technology-government-business-and-finance-products-and-services-government-regulations-ca4277d9fc9bccfd880776069f3210cc",
-      "originalUrl": "https://apnews.com/press-release/accesswire/business-technology-government-business-and-finance-products-and-services-government-regulations-ca4277d9fc9bccfd880776069f3210cc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T04:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-review-aws-ai-and-machine-learning-stacks-up-and-up.md",
-      "title": "Review: AWS AI and Machine Learning stacks up, and up",
-      "excerpt": "Amazon SageMaker Clarify is the new add-on to the Amazon SageMaker machine learning ecosystem for Responsible AI. SageMaker Clarify integrates with SageMaker at three points: in the new Data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up-and-up.html",
-      "originalUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up-and-up.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/artificial_intelligence_ai_blockchain_digital_learning_chip-100745932-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up-and-up.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up-and-up.amp.html",
-      "publishedDateTime": "2021-03-09T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-healthcare-artificial-intelligence-market-next-big-thing-major-giants-aicure-apixio-ibm.md",
-      "title": "Healthcare Artificial Intelligence Market Next Big Thing | Major Giants- AiCure, APIXIO, IBM",
-      "excerpt": "A new business intelligence report ... COVID-19 Outbreak-Global Healthcare Artificial IntelligenceMarket: Medical Imaging & Diagnosis, Drug Discovery, Therapy Planning, Hospital Workflow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2253817/healthcare-artificial-intelligence-market-next-big-thing",
-      "originalUrl": "https://www.openpr.com/news/2253817/healthcare-artificial-intelligence-market-next-big-thing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-image-recognition-market-key-drivers-restraints-industry-size-share-opportunities-trends-and-forecasts-up-to-2028-fortune-business-insights.md",
-      "title": "Image Recognition Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2028, Fortune Business Insights",
-      "excerpt": "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-key-drivers-restraints-industry-size-share-opportunities-trends-and-forecasts-up-to-2028-fortune-business-insights-2021-03-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-key-drivers-restraints-industry-size-share-opportunities-trends-and-forecasts-up-to-2028-fortune-business-insights-2021-03-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate.md",
-      "title": "GPU and Machine Learning Identify Spots on DNA That Are Likely to Mutate",
-      "excerpt": "Now, researchers at Harvard University’s Department of Stem Cell and Regenerative Biology working with GPU manufacturer NVIDIA have developed a method of quickly and accurately identifying the wadded up DNA buried in our cells,",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
-      "originalUrl": "https://www.vice.com/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/60479eb693b426009ca958e9/lede/1615306658256-gettyimages-90739363.jpeg?crop=1xw:0.7072120559741658xh;center,center",
-          "width": 3504,
-          "height": 1971,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
-      "publishedDateTime": "2021-03-09T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-new-soundset-for-your-behringer-deepmind.md",
-      "title": "New Soundset For Your Behringer Deepmind",
-      "excerpt": "The Deepmind Sound Engine DCO synths like the Deepmind have particularly great tuning performance, which is excellent for more technical sound design, but lacks much of the character of vintage synths and acoustic ensembles. There are tools like Osc Drift ...",
-      "sourceUrl": null,
-      "webUrl": "https://sonicstate.com/news/2021/03/09/new-soundset-for-your-behringer-deepmind/",
-      "originalUrl": "https://sonicstate.com/news/2021/03/09/new-soundset-for-your-behringer-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/33972_271.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T00:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sonic State",
-        "domain": "sonicstate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-sci-fi-writer-or-prophet-the-hyperreal-life-of-chen-qiufan.md",
-      "title": "Sci-Fi Writer or Prophet? The Hyperreal Life of Chen Qiufan",
-      "excerpt": "As China’s science fiction authors are elevated to the status of oracles, Qiufan’s career—and his genre’s place in society—have gone through the looking glass.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/science-fiction-writer-china-chen-qiufan/",
-      "originalUrl": "https://www.wired.com/story/science-fiction-writer-china-chen-qiufan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60467d5dcca7aa2d1134a636/191:100/w_1280,c_limit/Chen-Qiufan-8S3A6125.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
-      "title": "Alphabet’s Waymo Says Its Tech Would Avoid Fatal Human Crashes",
-      "excerpt": "(Bloomberg) --The autonomous-car artificial intelligence from Alphabet Inc.’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company published Monday. The simulations were based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/business/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes",
-      "originalUrl": "https://www.bloombergquint.com/business/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T17:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes.md",
-      "title": "Waymo says their autonomous-car AI would avoid fatal human crashes",
-      "excerpt": "Alphabet’s self-driving car unit Waymo is claiming that its artificial intelligence could have avoided or mitigated the majority of a set of fatal accidents. In a white paper published Monday ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/542222-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes",
-      "originalUrl": "https://thehill.com/policy/technology/542222-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T16:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-aiict-introduces-new-certified-artificial-intelligence-professional-course-developed-with-aws.md",
-      "title": "AIICT introduces new Certified Artificial Intelligence Professional course developed with AWS",
-      "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new ‘Certified Artificial Intelligence Professional’ course, jointly developed with Amazon Web Services (AWS) for aspiring Artificial Intelligence (AI) developers and Machine Learning (ML) professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_3.png",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T16:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-ai-and-enterprise-search-whos-in-control.md",
-      "title": "AI and Enterprise Search: Who's in Control?",
-      "excerpt": "Linda C. Smith, then a doctoral student at Syracuse University's School of Information Studies, published a landmark paper in 1976 on the role of AI in information retrieval. Forty years later ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/knowledge-findability/ai-and-enterprise-search-whos-in-control/",
-      "originalUrl": "https://www.cmswire.com/knowledge-findability/ai-and-enterprise-search-whos-in-control/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/cf6af054acda4d97a18dbc165db3f926.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/knowledge-findability/ai-and-enterprise-search-whos-in-control/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/knowledge-findability/ai-and-enterprise-search-whos-in-control/amp/",
-      "publishedDateTime": "2021-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support.md",
-      "title": "VMware-Nvidia Alliance Expands With New vSphere GPU Support",
-      "excerpt": "VMware and Nvidia have expanded their alliance to make it easier for enterprises to run GPU-accelerated AI applications in existing data center infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/data-center/vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support",
-      "originalUrl": "https://www.crn.com/news/data-center/vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0267-11c18f8af132-eca68eef49b0-1000/vmware-nvidia-ai-ready-platform.jpg",
-          "width": 610,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-ucf-starts-new-masters-degree-program-in-computer-vision.md",
-      "title": "UCF Starts New Master’s Degree Program in Computer Vision",
-      "excerpt": "A new master’s degree in computer vision at the University of Central Florida to begin this fall will give technology professionals proficiency in a burgeoning field that relies on artificial intelligence to make computers perform complex tasks faster and more accurately than a human.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/",
-      "originalUrl": "https://www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucf.edu/news/files/2021/03/ucf-computer-vision.jpg",
-          "width": 1200,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/?amp",
-      "cdnAmpWebUrl": "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/?amp",
-      "publishedDateTime": "2021-03-08T12:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UCF Today",
-        "domain": "ucf.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-why-baidu-stock-jumped-206-in-february.md",
-      "title": "Why Baidu Stock Jumped 20.6% in February",
-      "excerpt": "Baidu has been one of the most aggressive early players in the autonomous vehicles space, and the potential to integrate its strengths in self-driving vehicles with growth initiatives in the EV ma ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/f550fbfbb329df6fd882bebead2c0e63.png",
-          "width": 720,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
-      "publishedDateTime": "2021-03-08T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-new-method-could-democratize-deep-learning-enhanced-microscopy.md",
-      "title": "New method could democratize deep learning-enhanced microscopy",
-      "excerpt": "Deep learning is a potential tool for scientists to glean more detail from low-resolution images in microscopy, but it's often difficult to gather enough baseline data to train computers in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-method-democratize-deep-learning-enhanced-microscopy.html",
-      "originalUrl": "https://phys.org/news/2021-03-method-democratize-deep-learning-enhanced-microscopy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/newmethodcou.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-method-democratize-deep-learning-enhanced-microscopy.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-method-democratize-deep-learning-enhanced-microscopy.amp",
-      "publishedDateTime": "2021-03-08T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-10-key-microsoft-ignite-takeaways-for-cios.md",
-      "title": "10 key Microsoft Ignite takeaways for CIOs",
-      "excerpt": "Microsoft is also offering enterprises a new connector to enable Azure Cognitive Search to ingest ... for financial services, manufacturing, and nonprofits. If you’re in one of these sectors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.html",
-      "originalUrl": "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/03/satya-nadella-2-100879791-large.jpg",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html",
-      "publishedDateTime": "2021-03-08T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-natural-language-processing-nlp-market-size-industry-trends-outlook-opportunity-till-2027-by-kenneth-research.md",
-      "title": "Natural Language Processing (NLP) Market Size, industry Trends, Outlook, Opportunity Till 2027 | By Kenneth Research",
-      "excerpt": "(MENAFN - America News Hour) The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101715474/Natural-Language-Processing-NLP-Market-Size-industry-Trends-Outlook-Opportunity-Till-2027-By-Kenneth-Research",
-      "originalUrl": "https://menafn.com/1101715474/Natural-Language-Processing-NLP-Market-Size-industry-Trends-Outlook-Opportunity-Till-2027-By-Kenneth-Research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T01:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -57,22 +57,6 @@ related:
         width: 360
         height: 230
         isCached: true
-  - title: "UK government turns to Microsoft for digital transformation assistance"
-    excerpt: "The UK government has agreed a new deal with Microsoft, giving public sector organizations discounted access to its cloud productivity tools and services. In a blog post, Microsoft explained the Crown Commercial Service,"
-    publishedDateTime: 2021-04-22T12:00:00Z
-    webUrl: "https://www.itproportal.com/news/uk-government-turns-to-microsoft-for-digital-transformation-assistance/"
-    ampWebUrl: "https://www.itproportal.com/amp/news/uk-government-turns-to-microsoft-for-digital-transformation-assistance/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/uk-government-turns-to-microsoft-for-digital-transformation-assistance/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/UmMgpy7oe757BJ47MjAphk-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Azure AI Cloud Computing Driving Microsoft Tech Stock Giants Profits - Tech Stocks Investing 2021"
     excerpt: "With Microsoft AI Azure cloud computing division growing by 50% per annum, converts into a Buy rating of 65%. This video is excerpted from my recent in-depth analysis that updates buy ratings, levels and valuations for the top tech stocks in my AI ..."
     publishedDateTime: 2021-04-23T16:38:00Z

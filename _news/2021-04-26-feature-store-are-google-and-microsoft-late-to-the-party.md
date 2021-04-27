@@ -41,20 +41,22 @@ related:
         height: 1280
         isCached: true
   - title: "GoodTrust launches AI service to reimagine the future of digital afterlife together with D-ID, supported by Microsoft for Startups"
-    excerpt: "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and innovative ways to"
+    excerpt: "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and"
     publishedDateTime: 2021-04-26T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-301276396.html"
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/n20793985/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supp"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20793985"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20793985"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://mma.prnewswire.com/media/1495998/GoodTrust_Memories_April_26.jpg?p=facebook"
-        width: 2699
-        height: 1414
+      - url: "https://mma.prnewswire.com/media/1495998/GoodTrust_Memories_April_26.jpg"
+        width: 400
+        height: 225
         isCached: true
 
-secured: "8AtrpXdZnHrHZTuU1RQcJkPWnxya6XviW0/Q04yC3T5YjdnpZLMh+wmetZdwHHYltUuPwPa3/5TgW1fMwG9BZm6KbVImtdLt+FkUU7IGyBLf4eZW3S9tMHo+BMrMYUcAGyf5zr1KdOrfgkWJF1upgO3Gpl1IoyuffdCU6Ttf/qk2jCeWu7dADvzvOUfRdzYUNqY0e+HXh2RNiRcvx+1XC06+3jNh+O6nonAgduO/nCQ0tR6SaZoX1pxrFYY4veF7zGy5ygKnfXPXIcuBKQBQO5MKof6w3id2ZazJcfSQOyxBSAUuImW34L+5B7eUwQtxXd+wQ/EUPi5FOBB0qTTaUCgx/WAzU3rbRn/Xfx10/sE=;7lQfJVE/yjczat17R9o6HQ=="
+secured: "/ZEq+at7g+pBviYapk6aC7smdAWdoMt4K33mqEUNv+Gq1u3bDhUEpDxvqYyWXcMJGIBdKe13P4wceLOA+kaaVP2SYrCwEr+jHR2ERlCxMjMe/UN910SHefIa5cD+JB8cyt733OwZVr9SJdf75QGPCjDv/WcQVlPl+HSTCT4lyvVhSEzrwu+bfgiRKPWo6GnR213kj02OBXKypvcxvgv3bQyUldZndE+fzOZUTUc/cFMCX5Tig6S3L1EneMnYEK39W3Z49JfFCXvE6abN68A8ojf1TeT6fU1fxydGGdt15mvF546ZpusoQE3TVAOq5pAGTHIDQilgGeCkR74FfPwG2RluFIfo+5XolFs1w7aDH4nr1imFTwCkiqRsUmu41Nc5uTgLjFLTgKf2RxfyO/O8S24jOh7aY2RgUNheHCZLX240BMHbCbnFhuwa7cS0jikz+6VPrBnkJ1IOMIw4HkkmTHlOv6K4BuaatUCY5F6erdem3H41pH/vI2agCmezbzmmCuVjeiOidBTO51fpIthsBw==;coMpprPU8jDgTjXzFbJ3ww=="
 ---
 

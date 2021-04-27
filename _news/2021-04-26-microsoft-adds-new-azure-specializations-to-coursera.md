@@ -73,6 +73,20 @@ related:
         width: 1391
         height: 736
         isCached: true
+  - title: "Microsoft offers new Azure specializations and scholarships through Coursera"
+    excerpt: "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well."
+    publishedDateTime: 2021-04-26T17:28:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 81
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
 
 secured: "0J4FJ8Y6m4itmTZF75DBWFgOrcl8umjemeSd97FuCnoNk7EaP9UasHYIL+nVhc0AE7nxF92jgtd6hYo9URbSB/kJha54BEGL3HpwQz3p06N2jh2MEZztBUsEHhZdFtFyj/ORzhKyxMIniN2qGdDxJ20KnfoJ+gEc9VUBRJ9xv76u9Mke0JycKcWqOZf6nLezrNpiwLpkrYoDg+yThdsfZG9t8WViAwDRl5Dg81vQSudc2BoQNZjKx4sA56/rsy8WgO5aRF7p7iT9JHwnunDlrHNlEcLQOIlfkbobtsCwdMuVfYt+tBVe9JOFy2ivFpmo1lB0DbDx5HFoCTu9Dx8XbRaNdVXNPHdwcuyDedKea/O9ELXUTQfvPulkoEo6u/4vra4aWHkk9o1IwK9aSzDFvg/R7rnJ7Fn2BgOo5fKvoAUwLnB3IJbhLZKdbteVC3jlt+wMKi2S44wwjerLws4dVGS9FQQodrfj38YZo+amorDbGt2E7g0VxHbEY9UYFtvVdEITYi1oxCrfHVNDo11rcA==;LmBSW2ZOc+Pfd3U5Tm7zPg=="
 ---

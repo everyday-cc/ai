@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-10-researchers-detail-systemic-issues-and-risk-to-society-in-language-models.md",
+      "title": "Researchers detail systemic issues and risk to society in language models",
+      "excerpt": "Register for a free or VIP pass today. Researchers at Google’s DeepMind have discovered major flaws in the output of large language models like GPT-3 and warn these could have serious ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/",
+      "originalUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/amp/",
+      "publishedDateTime": "2021-04-09T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-nlpcloudio-helps-devs-add-language-processing-smarts-to-their-apps.md",
       "title": "NLPCloud.io helps devs add language processing smarts to their apps",
       "excerpt": "While visual ‘no code‘ tools are helping businesses get more out of computing without the need for armies of in-house techies to configure software on behalf of other staff, access to the most powerful tech tools — at the ‘deep tech’ AI coal face — still",
@@ -1258,43 +1311,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation.md",
-      "title": "Is TensorFlow ‘for Boomers’? PyTorch May Gain More Ground in Machine Translation",
-      "excerpt": "PyTorch, the open source framework used to build machine learning models, including those used for machine translation, released its newest version, 1.8, on March 4, 2021. According to PyTorch’s official announcement,",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/machine-translation/is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation/",
-      "originalUrl": "https://slator.com/machine-translation/is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI",
-        "Facebook AI",
-        "TensorFlow"
       ]
     }
   ],

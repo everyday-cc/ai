@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 646
         isCached: true
+  - title: "The future of ethical AI"
+    excerpt: "Pro Bono News sits down with artificial intelligence researcher Thao Phan to discuss the issues of ethics of race and gender in AI"
+    publishedDateTime: 2021-04-26T22:58:00Z
+    webUrl: "https://probonoaustralia.com.au/news/2021/04/the-future-of-ethical-ai/"
+    type: article
+    provider:
+      name: Pro Bono Australia
+      domain: probonoaustralia.com.au
+    quality: 54
+    images:
+      - url: "https://probonoaustralia.com.au/wp-content/uploads/2021/04/463-fram-template-1.jpg"
+        width: 770
+        height: 463
+        isCached: true
 
 secured: "6Sui2jHkycPQZRLJLFtA91gXiBkBglq4Ub7ldXptJhEaS9tlTAl3BadeCNpr17hKr4URD9ke0qJHdFxXO+MbjBrHDfcGQv+AfYAKSxCLsk7QpcXJbu1oZI0hi70KmpE/Q+xXBza86Jp+aF3cFF42S+5/AlbSG3MxfcXltAwHiWxSpmeyJQKKNNyzEC+/SILEbKJTIZi5gSbSxaxPCQhu5uL/kcsNR3poqJRU/NrUaf60R7PswFAdhScGmVNOrQO7zkMMaefzt1EYqwLBGSSyHxRs+iuDdYfsrFFknen0lPYakRxd42B2J98aQmCGedIJ0+0bK1ev1swi574nqvOT3j9gUoTnSbLkW/ajJI6pAyQPmxqFdFHa6T/QDN8wvlN0m9QveFXUFjBR1+q00UG5xE3cpZUW3fV3RwJgLq1c31oIzqzyTNHzZ4bwRGBs1oW07+TeusEtWnN4FCpNFCtVWDBi+w9IzQSBAyJWtMETqppf7bX8n7YAr4/bkyZS1/86jW6zjHs7aLDU0wplVjYz7g==;5kkTgMzggdMB26TYUsJf1g=="
 ---

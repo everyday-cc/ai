@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theadvocate.com/baton_rouge/news/article_7a98d124-a48d-1
 cdnAmpWebUrl: "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/news/article_7a98d124-a48d-11eb-911e-6fae55a28611.amp.html"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "LA animal shelters to use facial recognition database to help reunite lost pets with owners"
-    excerpt: "People and organizations can upload a photo of the lost pet, and the database will compare it to other photos to determine if the lost animal is at a participating shelter or with someone in the"
-    publishedDateTime: 2021-04-22T04:25:00Z
-    webUrl: "https://www.whittierdailynews.com/2021/04/21/la-animal-shelters-to-use-facial-recognition-database-to-help-reunite-lost-pets-with-owners/"
-    ampWebUrl: "https://www.whittierdailynews.com/2021/04/21/la-animal-shelters-to-use-facial-recognition-database-to-help-reunite-lost-pets-with-owners/amp/"
-    cdnAmpWebUrl: "https://www-whittierdailynews-com.cdn.ampproject.org/c/s/www.whittierdailynews.com/2021/04/21/la-animal-shelters-to-use-facial-recognition-database-to-help-reunite-lost-pets-with-owners/amp/"
-    type: article
-    provider:
-      name: Whittier Daily News
-      domain: whittierdailynews.com
-    quality: 49
-    images:
-      - url: "https://www.whittierdailynews.com/wp-content/uploads/2021/04/LDN-Z-PET-DATABASE-1.jpg?w=1024&h=492"
-        width: 1024
-        height: 492
-        isCached: true
   - title: "Jacksonville Humane Society takes part in launch of national lost pet database using facial recognition"
     excerpt: "The database uses facial recognition to analyze your pet's facial structure and find possible matches in the area."
     publishedDateTime: 2021-04-23T21:56:00Z

@@ -24,6 +24,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "AONDevices Edge AI Processor Achieves Best-in-Class Voice and Sound Recognition at Ultra-Low Power"
+    excerpt: "AONDevices, Inc., a private company focused on ultra-low power, high performance edge AI processors with integrated, application-specific inference algorithms, announced benchmark performance and power consumption data for its AONVoice™ edge AI technology."
+    publishedDateTime: 2021-04-27T00:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210426005834/en/AONDevices-Edge-AI-Processor-Achieves-Best-in-Class-Voice-and-Sound-Recognition-at-Ultra-Low-Power"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
+
 secured: "kivA0o8ouOeBuRjqij91JEDDHmcV42C0gXGvpcVDS/FKEERPkqY7N4gFzHcZ2hlSgWvNxHsDEupD5hRQnFByq16dOquHp+14HlhjJTC1y3enKao0we3+t4Z3RTJ/QFBUNNurDW8dPGeFkX+HukB7lmovNi1ja4+Rz2NKh8+FMma5I9snTozk5anUB+OsKWMNtd2FZFis26Vm1hX1p2SNae0TvsI1aDyz47b0RiysZi1HuvsbK7kA8EcXamAqMmXj3Q9XhI1POw8X3CquQP61k72zFRyPk3HeMLmBqB0m6uMzIi7oUAUN5TKnFNIPHsVOb427Ksux17ehAlK6aKYsxUPXtgs22o2D04P0XtCl5zU=;ZCinDrBAJyHWBmRtzFe9lQ=="
 ---
 

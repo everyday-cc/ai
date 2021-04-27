@@ -20,22 +20,6 @@ topics:
 
 related:
   - title: "Farmers have more mouths to feed. Bring in the robots."
-    excerpt: "Start-ups like Bear Flag Robotics are working to bring computer vision to tried-and-true tractors already on the market. It all contributes to what’s known as precision agriculture, where farmers use less to grow more or adopt new gadgets to increase crop production while cutting down on waste."
-    publishedDateTime: 2021-04-22T09:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/04/22/tech-in-farming-growth/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/22/tech-in-farming-growth/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/22/tech-in-farming-growth/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 59
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MXQEMP7UVVCVVBOVZUJUYKZMIM.jpg&w=1440"
-        width: 1440
-        height: 1080
-        isCached: true
-  - title: "Farmers have more mouths to feed. Bring in the robots."
     excerpt: "Start-ups like Bear Flag Robotics are working to bring computer vision to tried-and-true tractors already on the market. This comes as drones become more commonplace, too, enabling ranchers to monitor plants and livestock from above."
     publishedDateTime: 2021-04-25T11:00:00Z
     webUrl: "https://www.news-journal.com/news/business/farmers-have-more-mouths-to-feed-bring-in-the-robots/article_cf0e9a78-a44b-11eb-8c84-afb9fd43a9ae.html"

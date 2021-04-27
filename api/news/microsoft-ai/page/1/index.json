@@ -10,7 +10,7 @@
       "originalUrl": "https://igamingbusiness.com/ai-supplier-future-anthem-secures-microsoft-co-sell-partnership/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -53,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -137,6 +137,50 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-25-heart-failure-prediction-using-ml-azure.md",
+      "title": "Heart Failure Prediction using ML Azure",
+      "excerpt": "Capstone Project of Udacity's Machine Learning with Azure Nanodegree - abhiojha8/Heart_Failure_Prediction_Azure",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/abhiojha8/Heart_Failure_Prediction_Azure",
+      "originalUrl": "https://github.com/abhiojha8/Heart_Failure_Prediction_Azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/b5330cc1b7151a3fe74d01327dd513761562b7bb1b0918f1f8aa004f7ef68333/abhiojha8/Heart_Failure_Prediction_Azure",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-25T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -266,7 +310,7 @@
       "originalUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -372,7 +416,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1362,49 +1406,6 @@
       "provider": {
         "name": "SiliconANGLE",
         "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-announces-purchase-of-nuance-ai-speech-firm-for-197-billion.md",
-      "title": "Microsoft Announces Purchase Of Nuance AI Speech Firm For $19.7 Billion",
-      "excerpt": "According to Microsoft’s blog post, the transaction has been approved by the Board of Directors of both companies and is expected to close by the end of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/microsoft-announces-purchase-of-nuance-communications-for-19-7-billion",
-      "originalUrl": "https://hothardware.com/news/microsoft-announces-purchase-of-nuance-communications-for-19-7-billion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/54796/content/microsoft-announces-purchase-of-nuance-communications-for-19-7-billion.jpg",
-          "width": 708,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/microsoft-announces-purchase-of-nuance-communications-for-19-7-billion",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-announces-purchase-of-nuance-communications-for-19-7-billion",
-      "publishedDateTime": "2021-04-12T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
         "images": null,
         "publishers": null,
         "authors": null

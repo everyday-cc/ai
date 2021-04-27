@@ -2,6 +2,759 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-05-artificial-intelligence-market-report-by-industry-trends-and-leading-key-players-forecast-to-2026.md",
+      "title": "artificial intelligence market Report By Industry Trends And Leading Key Players Forecast To 2026",
+      "excerpt": "The prominent players in the Global artificial intelligence market are Intel (US), NVIDIA (US), Xilinx (US), Samsung (South Korea), Facebook (US), Micron Technology (US), IBM (US), Google (US), Microsoft (US), and AWS (US). Whipsmart MI provides fact-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2265732/artificial-intelligence-market-report-by-industry-trends",
+      "originalUrl": "https://www.openpr.com/news/2265732/artificial-intelligence-market-report-by-industry-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends",
+      "publishedDateTime": "2021-04-05T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-natural-language-processing-for-healthcare-and-life-sciences-market-achieves-a-new-milestone-microsoft-google-ibm-3m.md",
+      "title": "Natural Language Processing For Healthcare And Life Sciences Market Achieves a New Milestone | Microsoft, Google, IBM, 3M",
+      "excerpt": "Natural Language Processing For Healthcare And Life Sciences market is segmented by company, region (country), by Type, and by Application. Players, stakeholders, and other participants in the global Natural Language Processing For Healthcare And Life ...",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/05/natural-language-processing-for-healthcare-and-life-sciences-market-achieves-a-new-milestone-microsoft-google-ibm-3m/",
+      "originalUrl": "https://ksusentinel.com/2021/04/05/natural-language-processing-for-healthcare-and-life-sciences-market-achieves-a-new-milestone-microsoft-google-ibm-3m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-04T23:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025.md",
+      "title": "Artificial Intelligence In Healthcare Market Analysis Reports Revenue Growth Globally During The Forecast Period 2021-2025",
+      "excerpt": "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research recently added a report on 'Artificial Intelligence In Healthcare Market’ in its database of market research reports which provides its readers an in-depth analysis on the latest trends, growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025-2021-04-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025-2021-04-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-04T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-gpt-neo-the-open-source-cure-for-gpt-3-fomo.md",
+      "title": "GPT-Neo: The Open-Source Cure For GPT-3 FOMO",
+      "excerpt": "GPT-3 was the largest language model when OpenAI released it last year. Now, Google Brain’s 1.6 trillion parameters language model (as opposed to GPT-3’s 175 billion parameters) has replaced GPT-3 as the largest language model.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/gpt-neo-the-open-source-cure-for-gpt-3-fomo/",
+      "originalUrl": "https://analyticsindiamag.com/gpt-neo-the-open-source-cure-for-gpt-3-fomo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Illustrations-7.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-04T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-deepminds-cofounder-partied-with-elon-musk-for-his-raucous-40th-birthday-party-on-the-orient-express-a-new-book-revealed.md",
+      "title": "DeepMind's cofounder partied with Elon Musk for his raucous 40th birthday party on the Orient Express, a new book revealed",
+      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% One of the cofounders of Google's buzzy in-house AI company DeepMind once partied with Elon Musk as the Tesla cofounder celebrated his birthday on board the Orient Express, a new book reveals. The Tesla CEO's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/deepmind-cofounder-elon-musk-tesla-orient-express-2021-4",
+      "originalUrl": "https://www.businessinsider.com/deepmind-cofounder-elon-musk-tesla-orient-express-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6065e812902281001950a93b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year.md",
+      "title": "Self-driving startup Argo AI is said to consider IPO this year",
+      "excerpt": "Argo AI, a self-driving startup that is backed by Ford Motor Co. (F) and Volkswagen (VWAGY), is reportedly considering an initial public offering as soon as this year.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year",
+      "originalUrl": "https://seekingalpha.com/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year",
+      "publishedDateTime": "2021-04-03T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-advanced-baby-lung-simulator-with-real-time-artificial-intelligence.md",
+      "title": "Advanced Baby Lung Simulator with Real-Time Artificial Intelligence",
+      "excerpt": "high end baby lung simulator with real-time artificial intelligence. The input of an operator is needed to react to therapy provided by the trainer or learner with conventional, complex simulators ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "originalUrl": "https://www.news-medical.net/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/4/IMG_20210325_164803.jpg",
+          "width": 673,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "publishedDateTime": "2021-04-03T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-john-krafcik-quits-as-ceo-of-googles-self-driving-car-project.md",
+      "title": "John Krafcik quits as CEO of Googles self-driving car project",
+      "excerpt": "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
+      "originalUrl": "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html",
+      "publishedDateTime": "2021-04-03T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-ai-infrastructure-market-to-witness-astonishing-growth-with-vital-key-players-intel-corporation-cisco-amazon-web-services-facebook-oracle.md",
+      "title": "AI Infrastructure Market to Witness Astonishing Growth With Vital Key Players | Intel Corporation, CISCO, Amazon Web Services, Facebook, Oracle",
+      "excerpt": "The Global Report on AI Infrastructure Market Size, Status, Growth and Forecast 2021-2027. The report provides a unique tool for evaluating the AI Infrastructure Market highlighting opportunities, and supporting strategic and tactical decision-making.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/03/ai-infrastructure-market-to-witness-astonishing-growth-with-vital-key-players-intel-corporation-cisco-amazon-web-services-facebook-oracle/",
+      "originalUrl": "https://ksusentinel.com/2021/04/03/ai-infrastructure-market-to-witness-astonishing-growth-with-vital-key-players-intel-corporation-cisco-amazon-web-services-facebook-oracle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techgenyz.com/wp-content/uploads/2018/08/ai-in-business.jpg",
+          "width": 780,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-03T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-chinese-computer-vision-startup-raises-31m-for-rd.md",
+      "title": "Chinese computer-vision startup raises $31m for R&D",
+      "excerpt": "Clobotics, a startup that provides computer vision technology and services, has raised 200 million yuan ($31 million) in a preseries B-4 funding round. GP Capital and Xiaomiao Longcheng, as well as existing shareholders CDIB Capita and CDIB Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-computer-vision-startup-raises-31m-for-R-D",
+      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-computer-vision-startup-raises-31m-for-R-D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F1%252F8%252F5%252F33105818-3-eng-GB%252FCropped-161612795420210319%252036Kr.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure.md",
+      "title": "How NVIDIA Is Embracing Cloud Native To Scale GPU Infrastructure",
+      "excerpt": "NGC - The Hub for Cloud Native, GPU-Optimized AI Resources The NVIDIA GPU Cloud (NGC) is a one-stop-shop for accessing GPU-optimized containerized software. One of the key elements of NGC is the NVIDIA Container Registry (NVCR), an image registry with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/04/02/how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/04/02/how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6067ccb248a1db6867c0c223%2F0x0.jpg",
+          "width": 1000,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/04/02/how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/04/02/how-nvidia-is-embracing-cloud-native-to-scale-gpu-infrastructure/amp/",
+      "publishedDateTime": "2021-04-02T19:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-ceo-of-googles-self-driving-car-spinoff-steps-down-from-job.md",
+      "title": "CEO of Google's self-driving car spinoff steps down from job",
+      "excerpt": "IT WILL BE A COMFORTABLE EVENING AT 75. COOLING OFF EVEN MORE OV The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kcra.com/article/ceo-google-self-driving-car-steps-down/36017949",
+      "originalUrl": "https://www.kcra.com/article/ceo-google-self-driving-car-steps-down/36017949",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/kcra/35042856-new-google-logo-jpg.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kcra.com/amp/article/ceo-google-self-driving-car-steps-down/36017949",
+      "cdnAmpWebUrl": "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/ceo-google-self-driving-car-steps-down/36017949",
+      "publishedDateTime": "2021-04-02T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KCRA",
+        "domain": "kcra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-google-introduces-tensorflow-hub-for-reusable-machine-learning-models.md",
+      "title": "Google introduces TensorFlow Hub for reusable machine learning models",
+      "excerpt": "Google announced new improvements to the TensorFlow developer experience at its annual TensorFlow Developer Summit last week. The company announced an improved programming model for Python ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/google-introduces-tensorflow-hub-reusable-machine-learning-models/",
+      "originalUrl": "https://sdtimes.com/ai/google-introduces-tensorflow-hub-reusable-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2018/04/tenssorflow.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider.md",
+      "title": "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
+      "sourceUrl": null,
+      "webUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
+      "originalUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:AMZN&p=5&t=52",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ADVFN",
+        "domain": "advfn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-seattle-area-ai-startup-darklight-raises-51m-to-help-companies-automate-cybersecurity-tasks.md",
+      "title": "Seattle-area AI startup Darklight raises $5.1M to help companies automate cybersecurity tasks",
+      "excerpt": "Seattle-area startup Darklight raised a $5.1 million round. Investors listed on an SEC filing include Jay Lee of Agile Defense and Tom Bruderman of MAG Ventures. Total funding to date",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/",
+      "originalUrl": "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/Dan-Wachtler-sm-300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/",
+      "publishedDateTime": "2021-04-02T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-this-premium-aws-training-could-enhance-your-job-prospects.md",
+      "title": "This premium AWS training could enhance your job prospects",
+      "excerpt": "ZDNet reported that AWS was the leader in the cloud provider space. And with more and more businesses going remote (Salesforce rolled out permanent remote work plans) and increasing spend on cloud computing, automation, artificial intelligence and machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/this-premium-aws-training-could-enhance-your-job-prospects/",
+      "originalUrl": "https://www.techrepublic.com/article/this-premium-aws-training-could-enhance-your-job-prospects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/02/83a2478f-e18b-47e1-8ad4-5c893f0459fc/resize/1200x/85b4f359ae9c5961c8abf2e96147cb57/aws-amazon-logo-5g-phone-lg-velvet-5893.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/this-premium-aws-training-could-enhance-your-job-prospects/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/this-premium-aws-training-could-enhance-your-job-prospects/",
+      "publishedDateTime": "2021-04-02T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-how-to-train-a-robot-using-artificial-intelligence-and-supercomputers.md",
+      "title": "How to Train a Robot (Using Artificial Intelligence and Supercomputers)",
+      "excerpt": "UT Arlington computer scientists use TACC systems to generate synthetic objects for robot training. Before he joined the University of Texas at Arlington as an Assistant Professor in the Department of Computer Science and Engineering and founded the Robotic Vision Laboratory there,",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/",
+      "originalUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/AI-Derived-3D-Point-Clouds-for-Robotic-Vision-Training-777x454.jpg",
+          "width": 777,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/amp/",
+      "publishedDateTime": "2021-04-02T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-an-artificial-intelligence-tool-that-can-help-detect-melanoma.md",
       "title": "An artificial intelligence tool that can help detect melanoma",
       "excerpt": "An artificial intelligence system can efficiently detect melanoma, a type of skin cancer. MIT researchers used deep convolutional neural networks (DCNNs) to quickly analyze wide-field photos of patients’ bodies.",
@@ -370,748 +1123,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-fintech-startup-with-local-presence-uses-ai-to-drive-up-homeownership-rate.md",
-      "title": "Fintech startup with local presence uses AI to drive up homeownership rate",
-      "excerpt": "Fintech startup Home Lending Pal is using artificial intelligence to make homeownership a reality for more millennials and minorities. Home Lending Pal, co-founded by Bryan Young and Steven Better, is a mortgage research platform that uses AI to simulate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/charlotte/inno/stories/news/2021/04/02/home-lending-pal-ai-homeownership.html",
-      "originalUrl": "https://www.bizjournals.com/charlotte/inno/stories/news/2021/04/02/home-lending-pal-ai-homeownership.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-lounge-lab-unveils-aris-capsule-based-ice-cream-robot-customizable-with-10-flavors-and-3-shapes.md",
-      "title": "LOUNGE LAB Unveils 'ARIS', Capsule-Based Ice Cream Robot Customizable with 10 Flavors and 3 Shapes",
-      "excerpt": "About LOUNGE LAB INC. LOUNGE LAB is a retail tech start-up founded based on \"We Augment Space with Technology.\" Currently, we are operating a robot-barista collaboration cafe, LOUNGE'X, and an AI-based unmanned store. Dr. Hwang Sungjae is our CEO ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/04/ac20464632/lounge-lab-unveils-aris-capsule-based-ice-cream-robot-customizable-with-10-flavors-and-3-shapes",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/ac20464632/lounge-lab-unveils-aris-capsule-based-ice-cream-robot-customizable-with-10-flavors-and-3-shapes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/638740/image-20210402192307-1.jpeg",
-          "width": 900,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20464632",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20464632",
-      "publishedDateTime": "2021-04-02T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-heres-how-cognitive-computing-is-reshaping-financial-services-industry.md",
-      "title": "Here's How Cognitive Computing is Reshaping Financial Services Industry",
-      "excerpt": "Here's How Cognitive Computing is Reshaping Financial Services Industry By cio review - Businesses can collect knowledge from such sources and make decisions based on highly comprehensive information by",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/news/heres-how-cognitive-computing-is-reshaping-financial-services-industry-nid-33275-cid-166.html",
-      "originalUrl": "https://www.cioreview.com/news/heres-how-cognitive-computing-is-reshaping-financial-services-industry-nid-33275-cid-166.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cioreview.com/Rank_subcat_images/om0k2Master-logo.jpg",
-          "width": 478,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-top-20-valuable-and-innovative-ai-companies-in-the-world.md",
-      "title": "Top 20 Valuable and Innovative AI Companies in the World",
-      "excerpt": "The company is offering a plethora of AI products including Natural language processing (NLP) models, TensorFlow, AI smart home products and AI-based Cloud applications. The company recently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/top-20-valuable-and-innovative-ai-companies-in-the-world-929529/",
-      "originalUrl": "https://www.insidermonkey.com/blog/top-20-valuable-and-innovative-ai-companies-in-the-world-929529/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2016/12/23032054/31-robot-763525_1280.jpg",
-          "width": 1280,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally.md",
-      "title": "Karachi students introduce another version of mind-controlled prosthetic arm, not yet available globally.",
-      "excerpt": "Despite the students’ claim, mind-controlled prosthetics are nothing new, and a group of Pakistani engineers successfully created a similar robotic arm controlled by the brain, also as part of their final year project back in 2019. Some 30 disabled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techjuice.pk/karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally/",
-      "originalUrl": "https://www.techjuice.pk/karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techjuice.pk/wp-content/uploads/2021/04/Untitled.png",
-          "width": 1303,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techjuice.pk",
-        "domain": "techjuice.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-mit-robot-sees-hidden-objects-with-radio-waves.md",
-      "title": "MIT Robot Sees Hidden Objects with Radio Waves",
-      "excerpt": "The robot, known as RF-Grasp, has traditional cameras for object recognition. The camera is mounted to the bot’s mechanical grasper, giving it a good view of anything the hand might be trying to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
-      "originalUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2021/04/rf-grasp.jpg",
-          "width": 672,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-viennese-researchers-develop-super-fast-image-sensor.md",
-      "title": "Viennese researchers develop super-fast image sensor",
-      "excerpt": "The image sensor can simultaneously capture and process images, making object recognition many orders of magnitude faster. The device does not consume any electrical power when it is operating, since the photons themselves provide the energy for the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/business/viennese-researchers-develop-super-fast-image-sensor-2021-04/",
-      "originalUrl": "https://www.electronicsweekly.com/news/business/viennese-researchers-develop-super-fast-image-sensor-2021-04/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2020/09/22162810/EWat60-300-2.jpg",
-          "width": 292,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard.md",
-      "title": "‘Accuracy in AI is a function of availability of quality data … building NLP tools for low-resource Indian languages is hard’",
-      "excerpt": "Accuracy in AI is a function of the availability of ... That’s called addressing a native language translation. But at IBM, that’s not what we’re talking about. We are talking about really ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/04/Gargi_Dasgupta-1.jpg",
-          "width": 630,
-          "height": 584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/the-interviews-blog/accuracy-in-ai-is-a-function-of-availability-of-quality-data-building-nlp-tools-for-low-resource-indian-languages-is-hard/",
-      "publishedDateTime": "2021-04-01T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias.md",
-      "title": "Study finds that even the best speech recognition systems exhibit bias",
-      "excerpt": "Register for free or grab a discounted VIP pass today. Even state-of-the-art automatic speech recognition (ASR) algorithms struggle to recognize the accents of people from certain regions of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/",
-      "originalUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/shutterstock_135445031-magic.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/study-finds-that-even-the-best-speech-recognition-systems-exhibit-bias/amp/",
-      "publishedDateTime": "2021-04-01T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-three-stocks-to-profit-from-the-robot-revolution.md",
-      "title": "Three stocks to profit from the robot revolution",
-      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
-      "sourceUrl": null,
-      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.moneyweek.com/image/private/s--c8ThaiIG--/v1583342977/covers-etc/989-Cover.jpg",
-          "width": 600,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
-      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
-      "publishedDateTime": "2021-04-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyWeek",
-        "domain": "moneyweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-cloud-data-warehousing-understanding-your-options.md",
-      "title": "Cloud Data Warehousing: Understanding Your Options",
-      "excerpt": "Cloud data warehouses have emerged as the go-to repositories for amassing huge amounts of data and running advanced analytics and AI upon it. This is",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/04/01/cloud-data-warehousing-understanding-your-options/",
-      "originalUrl": "https://www.datanami.com/2021/04/01/cloud-data-warehousing-understanding-your-options/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/cloud_database_shutterstock_Blackboard.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-kintent-raises-4m-seed-round-to-simplify-cybersecurity-compliance-with-ai.md",
-      "title": "Kintent raises $4M seed round to simplify cybersecurity compliance with AI",
-      "excerpt": "They included Microsoft Azure Executive Vice President Jason Zander ... we immediately recognized the value of having an AI-enabled platform to unblock sales with a high-quality compliance ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/04/01/kintent-raises-4m-seed-round-simplify-cybersecurity-compliance-ai/",
-      "originalUrl": "https://siliconangle.com/2021/04/01/kintent-raises-4m-seed-round-simplify-cybersecurity-compliance-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/trustcloud.png",
-          "width": 867,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-april-fools-day-president-fuchs-announces-artificial-intelligence-will-replace-faculty-across-campus.md",
-      "title": "April Fools' Day: President Fuchs announces artificial intelligence will replace faculty across campus",
-      "excerpt": "“One of the core themes for this academic hub and artificial intelligence revolves around the concept of trustworthy AI,” Tighe said. AI will not replace certain human medical functions like physical therapy, nursing care and pharmacy care anytime ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.alligator.org/article/2021/04/april-fools-ai",
-      "originalUrl": "https://www.alligator.org/article/2021/04/april-fools-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://snworksceo.imgix.net/ufa/abca8e56-c56d-4f2e-894c-7f02ea9b9586.sized-1000x1000.jpg?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent Florida Alligator",
-        "domain": "alligator.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-fts-international-inc-introduces-machine-health-automation-technology-to-global-manufacturing-leaders.md",
-      "title": "FTS International, Inc. Introduces Machine Health Automation Technology to Global Manufacturing Leaders",
-      "excerpt": "Last month, FTSI initiated its innovative machine ... fracturing service company with operations across multiple basins in the United States. To learn more, visit www.FTSI.com. Located on Wall Street in the heart of New York City’s financial district ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/fts-international-inc-introduces-machine-health-automation-technology-to-global-manufacturing-leaders/",
-      "originalUrl": "https://www.financialbuzz.com/fts-international-inc-introduces-machine-health-automation-technology-to-global-manufacturing-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-idc-analysis-ibm-providing-ai-solutions-to-government.md",
-      "title": "IDC Analysis: IBM Providing AI Solutions to Government",
-      "excerpt": "including a deeper context of AI in health and human services, agency examples and outcomes achieved via IBM Watson, and IBM’s future plans. IBM Watson Health improves health and human services delivery and supports social services organizations with AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://gcn.com/whitepapers/2021/04/ibm-watson-providing-ai-solutions-to-government-040121.aspx?tc=page0",
-      "originalUrl": "https://gcn.com/whitepapers/2021/04/ibm-watson-providing-ai-solutions-to-government-040121.aspx?tc=page0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gcn.com/~/media/GIG/GCN/GCNlogo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GCN",
-        "domain": "gcn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects.md",
-      "title": "Intel and John Deere pilot AI and computer vision program to detect manufacturing defects",
-      "excerpt": "These solutions range from sprawling LED-equipped indoor farming facilities to robotically plucking ripe produce off the vine using computer vision and artificial intelligence (AI). On Thursday, John Deere and Intel announced a pilot program that relies on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
-      "originalUrl": "https://www.techrepublic.com/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/01/24afeb96-0fbc-4eea-a829-45cf404f852e/resize/1200x/cb0cce3d1fdb8f244a749341905133fb/john-deere.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
-      "publishedDateTime": "2021-04-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-ai-fire-detection-computer-vision-guards-the-forest.md",
-      "title": "AI Fire Detection: Computer Vision Guards the Forest",
-      "excerpt": "Find out how the AAEON Intelligent Forest Fire Monitoring System uses AI to detect smoke, activate an alarm, and even predict the direction and speed at which the fire will spread.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
-      "originalUrl": "https://www.infoworld.com/resources/216753/ai-fire-detection-computer-vision-guards-the-forest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

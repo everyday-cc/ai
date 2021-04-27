@@ -1,27 +1,29 @@
 ---
 category: news
 title: "GoodTrust launches AI service to reimagine the future of digital afterlife together with D-ID, supported by Microsoft for Startups"
-excerpt: "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and innovative ways to"
+excerpt: "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and"
 publishedDateTime: 2021-04-26T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-301276396.html"
-webUrl: "https://www.prnewswire.com/news-releases/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-301276396.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20793985/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supp"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/n20793985/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supp"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20793985"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20793985"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1495998/GoodTrust_Memories_April_26.jpg?p=facebook"
-    width: 2699
-    height: 1414
+  - url: "https://mma.prnewswire.com/media/1495998/GoodTrust_Memories_April_26.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -54,6 +56,6 @@ related:
         height: 1261
         isCached: true
 
-secured: "pwTKWw13ybtle8emW8QAyj+ORDsjSs0t2IEfrVxJMzBhD/JF/iJJDNy3Tkzep0/iqp8X59H4pguaUBfle7t71bsayk1q4DwlYtZo+QAVurYTjJUVcyqkwdQ+amyLXFhN6j5q3HUjs3rCWHbeSie0tdSDzSodE4EazR0XhrYjVh1dTC/jb9rUdep8VLXc903VRzMu4g0UiiQ1EwCMXO+LEWH0Tvd9O/6wQi0uz3tcmPyAruLTwnF48LhSNWD4aD31W/N6AJ73OkFK8tuBglQTKO0mJzTobKWr9IPvJ+0VEwpmVkhbKtqpCY1E6tV9vWPtmR8QW+wdOJPoQx493KrN31RPgPhWk2TCKQ5cvJ1hb4c=;c0Yzql0XHaj4U99C9y2vIA=="
+secured: "rFhu83kxOwHGKAety67V6fYw5D6oWRQUPXJP3g2b7pAnTayENXQQLop3NRriGj+rEnxWGc9xHsyiCass7SgSLdxS6lXnW37uZZqFGL4/CRuqLFDNYNzgR9FAcSadeNzdMqIC7CX+dvbWYmf7Rj5eb1TqdwmyDXS5Ctd2p7tbLjxWYygoVcIoEsZguCvucBcc/kS+jqSzTS3XRDX4543DQM1veprpMmfhk1uiXje2Y/wg/znhav5UHoCI9x3tbeRzyndOjbFZz/gQB/Uvyj8XQ4D4jo3dBUHT/cT2iqZq8YxnAzowK/fWD8kaAZkSOrysO27kdXrBIYdg/rRJFPzOs7QsnNi4n2nph/Mj98rsAxU=;hohtXPmE+Cc+7k9PPIPsyg=="
 ---
 

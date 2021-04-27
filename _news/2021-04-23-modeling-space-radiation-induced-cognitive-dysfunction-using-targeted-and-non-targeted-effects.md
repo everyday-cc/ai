@@ -39,6 +39,15 @@ related:
         width: 800
         height: 574
         isCached: true
+  - title: "A Deep Learning Method for Denoising Based on a Fast and Flexible Convolutional Neural Network"
+    excerpt: "Seismic data denoising has always been an indispensable step in the seismic exploration workflow. The quality of the results directly affects the results of subsequent inversion and migration imaging."
+    publishedDateTime: 2021-04-27T02:04:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9411907"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 22
   - title: "VoIP Traffic Detection in Tunnelled and Anonymous Networks Using Deep Learning"
     excerpt: "Network management is facing a great challenge to analyze and identify encrypted network traffic with specific applications and protocols. A significant number of network users applying different encryption techniques to network applications and services to hide the true nature of the network communication."
     publishedDateTime: 2021-04-23T03:36:00Z
@@ -48,15 +57,6 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 15
-  - title: "ClearCaptions® Increases Call Captioning Speed and Accuracy for Hard-of-Hearing with Automatic Speech Recognition (ASR)"
-    excerpt: "ClearCaptions, a leading provider of a call captioning service that enables the hard-of-hearing to communicate, has been certified by the FCC to incorporate"
-    publishedDateTime: 2021-04-22T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/clearcaptions-increases-call-captioning-speed-and-accuracy-for-hard-of-hearing-with-automatic-speech-recognition/article_25c8e9e7-dcc4-5f75-93e7-2166e95f2051.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "B+i6Q+A/xRpTb8zKnQsV79VByHIu42iyZpMkNJGYWwrKug09ZSWg6TIPTP9pKzvhxLi2KCTlgzlPymnk/CuBIoU1Pn6NOxoz8Qk2v4iqTNPQ5dFQhvImk4sd4fs1QNJlIfxSUGxLC5LmhDaRLRM7bxllT458zXGSzejvN9TXcEbsIifUiUgCy3tLhbLQsW9WXLRNvqpASedsEJggJYW+Kfeqbu3kSzjz0UEdPMZSev3wGs4SYVIgmSH3nzzuh1HYwMyvHvsg78vwsD7fCNPQQ5gJe0jyDxOiRT8gABYEHpjiozHyQ05s2y66B7hSWI5plkPKlx6ZofPxUOScGVVh5VVPIKQLehQqn5n7y4PfnpWXEqIBb5jSZz0AiF0fEdolcx0ESZPe3FE/IqnWiPs3udR89AJN5NSsrUQUDUGF48QLC/BYQdRugj8F9fgAAKhJvj4ygfkE2ZLBVtqjzm5pwficQSiPSWjLyyeNzDu6DkyTzJnIrfIjMLCgmsZv3FWDaZ+ni/yCI1J10jZ/4u2CMA==;kj9tWm+14xb2mjxAOnXiJw=="
 ---

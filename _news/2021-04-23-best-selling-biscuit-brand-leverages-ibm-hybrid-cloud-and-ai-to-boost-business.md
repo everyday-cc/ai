@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/best-selling-biscuit
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/"
 type: article
 quality: 85
-heat: 105
+heat: 85
 published: true
 
 provider:
@@ -29,33 +29,6 @@ images:
     width: 1200
     height: 963
     isCached: true
-
-related:
-  - title: "Parle Products to leverage on IBM hybrid cloud and AI to drive growth"
-    excerpt: "With this, Parle hopes to find new ways to get its products to the consumer as the pandemic disrupts supply chain and mandates WFH for some employees"
-    publishedDateTime: 2021-04-22T10:41:00Z
-    webUrl: "https://www.business-standard.com/article/companies/parle-products-to-leverage-on-ibm-hybrid-cloud-and-ai-to-drive-growth-121042200813_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/parle-products-to-leverage-on-ibm-hybrid-cloud-and-ai-to-drive-growth-121042200813_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/parle-products-to-leverage-on-ibm-hybrid-cloud-and-ai-to-drive-growth-121042200813_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/29/full/1593449356-4948.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Biscuit Brand Parle teams with IBM to drive growth through Hybrid Cloud"
-    excerpt: "Read Article IBM is working with Parle Products Pvt Ltd (Parle), the largest selling biscuit brand in India, to help it more quickly and effectively bring its products to market by leveraging IBM Cloud."
-    publishedDateTime: 2021-04-22T05:09:00Z
-    webUrl: "https://www.crn.in/news/biscuit-brand-parle-teams-with-ibm-to-drive-growth-through-hybrid-cloud/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 4
 
 secured: "yTGpuID8yX8vS6PF4lGU3VCjzOtgUeLBz261K8Un+RXCphNZy9vAdww135Kq/zUOlofbfJ5dfrrSHZVCHTNq+Uv3s/xKe5BHf9j5sjorR7Rmv8DGo08tosYAEchfg7aWQlVhQ1bwoIMurcPUCzfltvOf/egARnaMoGsVmGfdiMmoeNDMZLENXoa04vCqiQoGFm+6bA3fcEpxhvlkKTPqHTS0C5jyqYIOIGm9qSMH/SzbF2+fdpJg3wjCVYjtTJnRiyNgzbORj02yN0hYE3i7whXaSF11+Zc/Uuc7nUAQM2slBpNgp0VF1x9UFh2qGB17IFaxurs6NvuqHPO2hjyPVxCkBdqjQUzJcdvVmlhvLSUoxfJHEQyN5o3Vwjom9/piE8ofEbZPir32oWoeAjewyUoquzRviWuQz8M9KYIRHV3DN6ZKAT+GAvBr7/Baoir0E9KA2Zn5NhbzUO9fcLMgZ8rLPR5y92zJJZqg0u+Jp8rQXSxueLgvS7ue8yg8LNIDtC8lRdmMKLKUGH6TODQxwg==;e+yG6k/QR74R+GI9vLH0GA=="
 ---

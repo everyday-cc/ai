@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "A Deep Learning Method for Denoising Based on a Fast and Flexible Convolutional Neural Network"
+    excerpt: "Seismic data denoising has always been an indispensable step in the seismic exploration workflow. The quality of the results directly affects the results of subsequent inversion and migration imaging."
+    publishedDateTime: 2021-04-27T02:04:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9411907"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 22
   - title: "VoIP Traffic Detection in Tunnelled and Anonymous Networks Using Deep Learning"
     excerpt: "Network management is facing a great challenge to analyze and identify encrypted network traffic with specific applications and protocols. A significant number of network users applying different encryption techniques to network applications and services to hide the true nature of the network communication."
     publishedDateTime: 2021-04-23T03:36:00Z
@@ -52,15 +61,6 @@ related:
         width: 685
         height: 329
         isCached: true
-  - title: "ClearCaptions® Increases Call Captioning Speed and Accuracy for Hard-of-Hearing with Automatic Speech Recognition (ASR)"
-    excerpt: "ClearCaptions, a leading provider of a call captioning service that enables the hard-of-hearing to communicate, has been certified by the FCC to incorporate"
-    publishedDateTime: 2021-04-22T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/clearcaptions-increases-call-captioning-speed-and-accuracy-for-hard-of-hearing-with-automatic-speech-recognition/article_25c8e9e7-dcc4-5f75-93e7-2166e95f2051.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "OejFV5XY3CGMj39aq2Q24cQqCOT3YqVjZA7A3+2N1wKt8/PP/c+f4CUMgt6sSmUdo6BEK/B3E98Jzcl9GKR1LfxjZF5/yo+t4GxDOcy8W9+YOvxM2lAmaPOYg6YEDn0VZAf0es55UU/AFZI09gIytj2RpEWLGgbZYjn7FQRa0s4FtKyVyr2amFsCBY1MEQykC8niyNm6klbhrA+5JfUgkgezQWRzIKuyv5w5ZNzibTcSSViwO/A1fKWiLLyllXDhwt8hNGrJd2P48PefF04zc5WT2kIwSXBLDa9WMZQzDpgSPpBUTGZWdjOTrnSNTDoAWGl6c8viUn/wUqjQKhBENfNKbftf6GVN9a6dmccnTUE=;6ZIkGAndLc5J/2L8/uljSg=="
 ---

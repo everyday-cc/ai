@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-13-facebook-details-ai-that-can-understand-videos.md",
+      "title": "Facebook details AI that can understand videos",
+      "excerpt": "Facebook AI research scientist Lorenzo Torresani told VentureBeat that TimeSformer can be trained in 14 hours with 32 GPUs. “Since TimeSformer specifically enables analysis of much longer videos ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/",
+      "originalUrl": "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/amp/",
+      "publishedDateTime": "2021-03-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-natural-language-processing-market-size-share-growth-2021-to-2024-forecast-by-manufacturers-regions-global-type-and-application.md",
       "title": "Natural Language Processing Market Size, Share, Growth 2021 to 2024, Forecast by Manufacturers, Regions, Global Type and Application",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 11, 2021 (The Expresswire) -- Natural Language Processing Market 2021 report tells about the production process, raw materials and equipment suppliers, various production ...",

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-619527766.jpg?w=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Deep Instinct Raises $100M for its Cybersecurity Threat Prevention Platform Built on Deep Learning"
-    excerpt: "Deep Instinct, cofounded by Guy Caspi, is an end-to-end cybersecurity detection platform that leverages deep learning to process threats faster than other solutions."
-    publishedDateTime: 2021-04-22T13:07:00Z
-    webUrl: "https://www.alleywatch.com/2021/04/deep-instinct-deep-learning-cybersecurity-threat-detection-platform-guy-caspi/"
-    ampWebUrl: "https://www.alleywatch.com/2021/04/deep-instinct-deep-learning-cybersecurity-threat-detection-platform-guy-caspi/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/04/deep-instinct-deep-learning-cybersecurity-threat-detection-platform-guy-caspi/amp/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 60
-    images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/04/guy-caspi_deep-instinct-300x300.jpg"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "GZjFlPwKUN/IB1jeiV/deKCFIV3qpEnk1hA5QW5+78Q2wQf7vlO4x5sX9V8UKazdSQrZfpuJsBWe3ZVHP5s4zPtmVVSp94kGNtV6gEOUGlSxdcS2Xxie/F3sKBV/Ru25YrPudmlZBwQN9SKTs5EK9cfLGe5+ejC+wJ3rOyk2d9FsB3Qd7Hb+/7y93111DmjpOuqJRsFh7tVB2hpso8nhrcwwTJNcikdSUEq3yfJ7jzO2Qe0llwbIUS90GUNrr3zo3kSClJhNRB07TAclt/xn1bKwHJQsHyiGrK/6uTxJkF2t/mlaRns0HDZMdnZJ/5XLvJpRq/A5fhdeFjgZuDkSkcZ8KRH5wU7xNabHgCwQ4ZfLzk12szvkZx4AL+DBal3DU4PmEjEDhSAx/i1dugk/4fmKxwQEo/5rsyuaKUAZnczjtx2ms1/6tzIlmuk3AwXpZFL3asVP8XqhGYSle8kUXX8aZY0wc3dlktnw1vQ4KsuesrYIRGTSHWht1KNYKO9yoJl8nUm7c6cKhnbwqfeVeg==;8ZQBMmp+9YfkgwUaSPvz9g=="

@@ -2,6 +2,699 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-20-retail-analytics-market-research-methods-that-will-give-you-proven-results-study-with-oracle-microsoft-manthan-fujitsu-information-builders.md",
+      "title": "Retail Analytics Market Research Methods that Will Give You Proven Results | Study With Oracle, Microsoft, Manthan, Fujitsu, Information Builders",
+      "excerpt": "Retail analytics enables retailers to make improvements according to their customer behavior and preferences The rising number of social media users enables retailers to understand the demographic data such as shopping habits purchase history and preferences to design their promotional",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2272299/retail-analytics-market-research-methods-that-will-give-you",
+      "originalUrl": "https://www.openpr.com/news/2272299/retail-analytics-market-research-methods-that-will-give-you",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U419660259_g.jpg",
+          "width": 800,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2272299/retail-analytics-market-research-methods-that-will-give-you",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272299/retail-analytics-market-research-methods-that-will-give-you",
+      "publishedDateTime": "2021-04-19T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost.md",
+      "title": "DeepMind ‘Podracer’ TPU-Based RL Frameworks Deliver Exceptional Performance at Low Cost",
+      "excerpt": "A new DeepMind paper introduces two architectures designed for the efficient use of Tensor Processing Units (TPUs) in reinforcement learning (RL) research at scale.Deep learning (DL) frameworks such as TensorFlow,",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2021/04/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost/",
+      "originalUrl": "https://syncedreview.com/2021/04/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/04/image-76.png?fit=950%2C622&ssl=1",
+          "width": 950,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2021/04/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/04/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost/amp/",
+      "publishedDateTime": "2021-04-19T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-shanghai-auto-show-chinese-internet-search-giant-baidu-to-supply-its-apollo-self-driving-system-to-1-million-cars-in-3-5-years.md",
+      "title": "Shanghai Auto Show: Chinese internet search giant Baidu to supply its Apollo self-driving system to 1 million cars in 3-5 years",
+      "excerpt": "Baidu expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/19/70a4be44-f092-4f4e-8220-8a890c2b36e3_a4578779.jpg?itok=v2IRb_0i&v=1618819473",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
+      "publishedDateTime": "2021-04-19T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-saudi-aramco-accelerates-employee-expertise-with-conversational-ai-and-enterprise-search.md",
+      "title": "Saudi Aramco accelerates employee expertise with conversational AI and enterprise search",
+      "excerpt": "IBM Watson Discovery reduces research time for scientists by up to 75% Agents using IBM Watson Assistant chatbot handle calls 10% faster In this time of unprecedented change, Saudi Aramco has fully committed to automating the most arduous of their manual processes. By adopting AI-infused workflows and",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-expertise-ai/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-expertise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-58_Tech-M-Blog_Leadspace.png",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T06:00:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-ambow-education-expands-partnership-with-amazon-in-artificial-intelligence-training-for-teachers.md",
+      "title": "Ambow Education Expands Partnership with Amazon in Artificial Intelligence Training for Teachers",
+      "excerpt": "Ambow Education Holding Ltd. (\"Ambow\" or \"the Company\") (NYSE American: AMBO), China's leading provider of educational and career enhancement",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
+      "originalUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/pr-newswire_500_4_966.jpg?itok=n0UX2udW",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp",
+      "publishedDateTime": "2021-04-19T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-one-board-all-platforms-zf-drives-vehicle-intelligence-with-proai-supercomputer.md",
+      "title": "One Board, All Platforms: ZF Drives Vehicle Intelligence with ProAI Supercomputer",
+      "excerpt": "The intelligence of future vehicles will be controlled by a few extremely powerful central computers. They will run the computationally intensive software functions that control critical vehicle domains.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9/gallery/0688ef5568afb07678a025399c868311",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9/gallery/0688ef5568afb07678a025399c868311",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-want-to-get-along-with-robots-pretend-theyre-animals.md",
+      "title": "Want to Get Along With Robots? Pretend They’re Animals",
+      "excerpt": "Robotics ethicist Kate Darling surveys our history with animals—in work, war, and companionship—to show how we might develop similar relationships with robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/",
+      "originalUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/607a36b98b8cd2f789408f30/master/pass/science_robot_876959718.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/amp",
+      "publishedDateTime": "2021-04-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-google-translation-ai-botches-legal-terms-enjoin-garnish-research.md",
+      "title": "Google translation AI botches legal terms ‘enjoin,’ ‘garnish’ -research",
+      "excerpt": "They translate foreign text into English and then back into the foreign language, aiming to teach the ... severe consequences as more businesses use AI to generate or translate legal text.",
+      "sourceUrl": null,
+      "webUrl": "https://www.metro.us/google-translation-ai-botches/",
+      "originalUrl": "https://www.metro.us/google-translation-ai-botches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH3I0MA-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metro.us/google-translation-ai-botches/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/google-translation-ai-botches/amp/",
+      "publishedDateTime": "2021-04-19T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-ecovacs-robotics-introduces-the-deebot-n8-family-in-thailand.md",
+      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Thailand",
+      "excerpt": "ECOVACS ROBOTICS, the world's leading home service robotics maker, today announces the launch of the DEEBOT N8 Family in Thailand, bringing a hands-free and effectively superior cleaning experience for customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswit.com/en/L7BH",
+      "originalUrl": "https://www.newswit.com/en/L7BH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newswit.com/img/f/20210419/5260a0b19f5d8644725b108b03935f64-0.jpg",
+          "width": 1067,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "academy",
+        "domain": "newswit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-asia-pacific-artificial-intelligence-ai-in-healthcare-market.md",
+      "title": "Asia Pacific Artificial Intelligence (AI) in Healthcare Market",
+      "excerpt": "The Business Market Insights provides you regional research analysis on Asia Pacific Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic indicators and",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
+      "originalUrl": "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U419236836_g.jpg",
+          "width": 563,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
+      "publishedDateTime": "2021-04-19T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-baidu-expects-to-supply-self-driving-system-to-one-million-cars-in-three-to-five-years.md",
+      "title": "Baidu expects to supply self-driving system to one million cars in three to five years",
+      "excerpt": "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday.Li Zhenyu, senior corporate vice president at Baidu,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theedgemarkets.com/article/baidu-expects-supply-selfdriving-system-one-million-cars-three-five-years",
+      "originalUrl": "https://www.theedgemarkets.com/article/baidu-expects-supply-selfdriving-system-one-million-cars-three-five-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.theedgemarkets.com/Baidu-headquartes-beijing-2_20210217160554_reuters_2.jpg?hrI3.OWrZA5yf6i_da_4CCo53dXesn15",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Edge",
+        "domain": "theedgemarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years.md",
+      "title": "Baidu expects to supply self-driving system to 1 million cars in 3-5 years",
+      "excerpt": "FILE PHOTO: A logo of Baidu is seen during the World Internet Conference (WIC) in Wuzhen, Zhejiang province, China, November 23, 2020. REUTERS/Aly Song/File Photo (Reuters) - Coinbase Chief ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/baidu-expects-to-supply-self-driving-sys-idUSKBN2C60AN",
+      "originalUrl": "https://www.reuters.com/news/picture/baidu-expects-to-supply-self-driving-sys-idUSKBN2C60AN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559010206&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH3I04N",
+          "width": 810,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-is-boston-dynamics-becoming-a-boring-robotics-company.md",
+      "title": "Is Boston Dynamics becoming a boring robotics company?",
+      "excerpt": "The new Stretch robot from Boston Dynamics doesn't do backflips or dance, but it may become the company's most successful commercial product.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/",
+      "originalUrl": "https://venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/boston-dynamics-robots-spot-handle-atlas-web-summit.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/18/is-boston-dynamics-becoming-boring-robotics-company/amp/",
+      "publishedDateTime": "2021-04-18T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing.md",
+      "title": "The New Zealand scientists trying to make brain-controlled robots a thing",
+      "excerpt": "Brain-controlled devices could give people with disabilities or severe injuries new access to the world. But it could also be used to enhance humans, create super soldiers or even transcend the human body entirely.",
+      "sourceUrl": null,
+      "webUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/",
+      "originalUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thespinoff.co.nz/1/2021/04/Robot-arm.jpg",
+          "width": 850,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp",
+      "cdnAmpWebUrl": "https://thespinoff-co-nz.cdn.ampproject.org/c/s/thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp",
+      "publishedDateTime": "2021-04-18T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Spinoff",
+        "domain": "thespinoff.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-artificial-intelligence-robotics-new-heights-in-healthcare.md",
+      "title": "Artificial Intelligence, robotics new heights in healthcare",
+      "excerpt": "Artificial Intelligence (AI) and robotics are used in transforming the world of the health industry and also offer an awesome strategy with much care. It puts the customers in control of the health and also the well-being.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "originalUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypioneer.com/images/logo.jpg",
+          "width": 325,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pioneer",
+        "domain": "dailypioneer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-why-microsofts-new-ai-acquisition-is-a-big-deal.md",
       "title": "Why Microsoft’s new AI acquisition is a big deal",
       "excerpt": "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI.",
@@ -483,677 +1176,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-relay-therapeutics-acquires-ai-startup-for-85m.md",
-      "title": "Relay Therapeutics acquires AI startup for $85M",
-      "excerpt": "Relay Therapeutics, the Cambridge precision medicine company that raced onto the stock market last summer with one of the largest IPOs in the biotech industry, is looking to build out its data science capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/boston/news/2021/04/16/relay-therapeutics-acquires-ai-startup-for-85m.html",
-      "originalUrl": "https://www.bizjournals.com/boston/news/2021/04/16/relay-therapeutics-acquires-ai-startup-for-85m.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-better-buy-baidu-vs-alibaba.md",
-      "title": "Better Buy: Baidu vs. Alibaba",
-      "excerpt": "Last September, I declared Alibaba ( NYSE:BABA) was a better buy than Baidu ( NASDAQ:BIDU). I claimed that the strength of Alibaba's core commerce business, the narrowing losses at its cloud division,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F621359%2Fgettyimages-970600792-1.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
-      "publishedDateTime": "2021-04-16T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-nvidia-shares-up-11-this-week-on-new-supercomputing-chip.md",
-      "title": "Nvidia Shares Up 11% This Week On New Supercomputing Chip",
-      "excerpt": "Shares of graphics chip maker Nvidia (NASDAQ: NVDA) jumped 11% this week after the company announced its new Grace chip created specifically for artificial intelligence data centers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/369592",
-      "originalUrl": "https://www.entrepreneur.com/article/369592",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-369592.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369592",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369592",
-      "publishedDateTime": "2021-04-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-financial-standards-setter-to-focus-on-use-of-ai.md",
-      "title": "Financial Standards Setter To Focus On Use Of AI",
-      "excerpt": "A global standards-setting body for the prudential regulation of banks said on Friday that one of its main focuses for the year ahead will be on the role of artificial intelligence in the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-ai",
-      "originalUrl": "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1375927",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1375927",
-      "publishedDateTime": "2021-04-16T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-ford-and-teslas-ev-rivalry-heats-up.md",
-      "title": "Ford And Tesla’s EV Rivalry Heats Up",
-      "excerpt": "Ford boss Jim Farley took a jab at Tesla by highlighting how the two companies are nothing alike when it comes to testing driverless tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en-au/opto/ford-and-teslas-ev-rivalry-heats-up",
-      "originalUrl": "https://www.cmcmarkets.com/en-au/opto/ford-and-teslas-ev-rivalry-heats-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/MWS_CTA_2021_small.png",
-          "width": 479,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise.md",
-      "title": "Gurobi Teams Up With Lityx To Accelerate The Adoption Of Mathematical Optimization Across The Enterprise",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210415005086/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210415005086/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-ocado-invests-10-million-in-self-driving-firm-oxbotica.md",
-      "title": "Ocado invests £10 million in self-driving firm Oxbotica",
-      "excerpt": "Ocado has announced it is investing £10 million into the autonomous vehicle company, Oxbotica. The two will work more closely together to build early prototypes within the next two years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/ocado-invests-10-million-in-self-driving-firm-oxbotica/",
-      "originalUrl": "https://www.neowin.net/news/ocado-invests-10-million-in-self-driving-firm-oxbotica/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1618582719_ocado_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market Share Current and Future Industry Trends, 2020-2026",
-      "excerpt": "Selbyville, Delaware, As per the report titled ' Artificial Intelligence (AI) Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-04-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-04-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-driverless-truck-developer-tusimple-debuts-on-nasdaq.md",
-      "title": "Driverless truck developer TuSimple debuts on Nasdaq",
-      "excerpt": "The stock price ended the day unchanged. TuSimple develops driverless trucks powered by artificial intelligence that aim to make long-haul freight transport cheaper and more efficient. It ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq",
-      "originalUrl": "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-deep-learning-market-size-share-growth-trends-and-forecast-2021-2023.md",
-      "title": "Deep Learning Market Size, Share, growth, Trends and Forecast 2021-2023",
-      "excerpt": "Market Synopsis The Deep Learning Market is estimated to record a significant growth throughout the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-growth-trends-and-forecast-2021-2023-2021-04-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-growth-trends-and-forecast-2021-2023-2021-04-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-artificial-intelligence-and-whisky-making-the-perfect-blend.md",
-      "title": "Artificial Intelligence And Whisky Making: The Perfect Blend?",
-      "excerpt": "Find out how Mackmyra, a Swedish whisky distillery, used AI to analyze 70 million possible combinations and create an innovative new whiskey recipe that customers love.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607910368e6e3822f9bc7cc1%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/amp/",
-      "publishedDateTime": "2021-04-15T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-ai-and-the-human.md",
-      "title": "AI and the Human",
-      "excerpt": "But how might we prepare literature scholars to evaluate specialist presentations on AI like the one Dimock discusses? Widely touted as a fourth industrial revolution, AI is notoriously subject to hype,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/pmla/article/ai-and-the-human/3FEBDB0945D8CF022EC949D945C80CEA",
-      "originalUrl": "https://www.cambridge.org/core/journals/pmla/article/ai-and-the-human/3FEBDB0945D8CF022EC949D945C80CEA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
-      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "originalUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
-      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
-      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis.md",
-      "title": "Autonomous trucking company Plus will use AI and billions of miles of data to train self-driving semis",
-      "excerpt": "By this time next year, hundreds of automated trucks powered by PlusDrive will be on the road, hauling commercial cargo.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/",
-      "originalUrl": "https://venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Pluss-Autonomous-Truck-Powered-by-PlusDrive-4.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/amp/",
-      "publishedDateTime": "2021-04-15T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-27-lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m.md",
+      "title": "Lyft sells self-driving unit to Toyota’s Woven Planet for $550M",
+      "excerpt": "Ride-hailing company Lyft has sold off its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million, the latest in a string of acquisitions spurred by the cost and lengthy timelines to commercialize autonomous vehicle technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
+      "originalUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024",
+          "width": 1024,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
+      "publishedDateTime": "2021-04-26T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-25-waymos-leadership-shift-spotlights-self-driving-car-challenges.md",
       "title": "Waymo’s leadership shift spotlights self-driving car challenges",
       "excerpt": "Waymo's recent executive shuffle signals driverless technology has a ways to go before a robust self-driving car industry becomes reality.",
@@ -157,7 +209,7 @@
       "originalUrl": "https://www.scmp.com/business/companies/article/3130852/chinese-tech-titan-baidu-and-carmaking-giant-geely-pour-us77",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -240,6 +292,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-eu-outlines-ambitious-artificial-intelligence-regulations-focused-on-risky-uses.md",
+      "title": "EU outlines ambitious artificial intelligence regulations focused on risky uses",
+      "excerpt": "Risky uses of artificial intelligence that threaten people's safety or rights such as live facial scanning should be banned or tightly controlled, European Union officials said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stripes.com/eu-outlines-ambitious-artificial-intelligence-regulations-focused-on-risky-uses-1.670657",
+      "originalUrl": "https://www.stripes.com/eu-outlines-ambitious-artificial-intelligence-regulations-focused-on-risky-uses-1.670657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.stripes.com/polopoly_fs/1.670658.1619029655!/image/image.jpg_gen/derivatives/landscape_490/image.jpg",
+          "width": 490,
+          "height": 327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stars and Stripes",
+        "domain": "stripes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -614,6 +709,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-one-board-all-platforms-zf-drives-vehicle-intelligence-with-proai-supercomputer.md",
+      "title": "One Board, All Platforms: ZF Drives Vehicle Intelligence with ProAI Supercomputer",
+      "excerpt": "The intelligence of future vehicles will be controlled by a few extremely powerful central computers. They will run the computationally intensive software functions that control critical vehicle domains.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9/gallery/0688ef5568afb07678a025399c868311",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9/gallery/0688ef5568afb07678a025399c868311",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1263,144 +1401,6 @@
       "provider": {
         "name": "Indus Tribune",
         "domain": "industribune.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing.md",
-      "title": "Tesla's Semi makes first deliveries; Waymo, Uber expand driverless truck testing",
-      "excerpt": "Tesla's electric Semi made its first delivery while Waymo and Uber each said they are expanding tests of driverless trucks. Tesla founder and CEO Elon Musk announced late last week the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
-      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2019/06/fleetowner_29612_tesla_shipment_1_0.png?auto=format&fit=max&w=1200",
-          "width": 667,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think.md",
-      "title": "NVIDIA DRIVE Atlan promises driverless cars sooner than you’d think",
-      "excerpt": "NVIDIA has revealed its newest chipset for smart cars and autonomous vehicles, with DRIVE Atlan promising to be “an AI data center on wheels” with an exponential uptick in processing",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think-12667927/",
-      "originalUrl": "https://www.slashgear.com/nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think-12667927/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/04/NEW_NVIDIA-DRIVE-Atlan-SoC.jpg",
-          "width": 1440,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think-12667927/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-drive-atlan-promises-driverless-cars-sooner-than-youd-think-12667927/amp/",
-      "publishedDateTime": "2021-04-12T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-10-best-artificial-intelligence-stocks-to-buy-for-2021.md",
-      "title": "10 Best Artificial Intelligence Stocks to Buy for 2021",
-      "excerpt": "In this article we will take a look at the 10 best artificial intelligence stocks for 2021. You can skip our detailed analysis of the AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/10-best-artificial-intelligence-stocks-to-buy-for-2021-931806/",
-      "originalUrl": "https://www.insidermonkey.com/blog/10-best-artificial-intelligence-stocks-to-buy-for-2021-931806/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/04/12052842/neonbrand-5afenxnLDjs-unsplash.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
         "images": null,
         "publishers": null,
         "authors": null

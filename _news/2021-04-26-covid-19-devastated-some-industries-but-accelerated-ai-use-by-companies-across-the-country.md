@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/26/ai-50-americas
 webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/26/ai-50-americas-most-promising-artificial-intelligence-companies/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -29,19 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based analysis of CT images for rapid triage of COVID-19 patients"
-    excerpt: "The COVID-19 pandemic overwhelms the medical resources in the stressed intensive care unit (ICU) capacity and the shortage of mechanical ventilation (MV). We performed CT-based analysis combined with electronic health records and clinical laboratory results on Cohort 1 ( n = 1662 from 17 hospitals) with prognostic estimation for the rapid stratification of PCR confirmed COVID-19 patients."
-    publishedDateTime: 2021-04-22T12:59:00Z
-    webUrl: "https://www.nature.com/articles/s41746-021-00446-z"
+  - title: "Why Will The Next Successful Startup Out Of The COVID-19 Era Be AI-First?"
+    excerpt: "As world is dealing with the massive impact of COVID-19, entrepreneurs are busy at work, springing up new businesses that can bring back the economy. With Artificial Intelligence becoming ubiquitous today,"
+    publishedDateTime: 2021-04-27T00:21:00Z
+    webUrl: "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/"
+    ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/amp/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00446-z/MediaObjects/41746_2021_446_Fig1_HTML.png"
-        width: 593
-        height: 685
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60875898e93f124f08227ace%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4071%26cropY1%3D164%26cropY2%3D2454"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Artificial Intelligence will help create effective vaccines to treat Covid-19"
+    excerpt: "India is facing a massive surge of Covid-19 cases in the past few days. The country fought the battle against the virus last year, but the second wave of the pandemic has become more devastating and put a big question mark on the nation’s health care system."
+    publishedDateTime: 2021-04-27T02:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/in-depth/how-artificial-intelligence-will-help-create-effective-vaccines-to-treat-covid-19/videoshow/82258714.cms"
+    ampWebUrl: "https://m.timesofindia.com/videos/in-depth/how-artificial-intelligence-will-help-create-effective-vaccines-to-treat-covid-19/amp_videoshow/82258714.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/in-depth/how-artificial-intelligence-will-help-create-effective-vaccines-to-treat-covid-19/amp_videoshow/82258714.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://static.toiimg.com/photo/msid-82258714/videos/in-depth/how-artificial-intelligence-will-help-create-effective-vaccines-to-treat-covid-19.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "g3vRzsmX4Wr/NCn18JrbcyKTrwnjgXJFZWWwKrLjyEg3Cj/ufnkG43yu0JpNv/Rw2QNAYGNVAd0iUqgtKsegAvAgJ7kr6VEwJ1Z35UvFZQWcGots1dIOl8OdDL+uP73CYFKFk0VbTwVkI242BN8inhW8jOb+rMMIbBGNHymZD8YGW82G5PnmC4V0rBgAL76oiqUdNVnlEawsFyH9e+L/zJ2f0nb5CoK2s/U2/EcMPD4uqQyva2kguJnAiSmD1tylpyQVXVvBFCfi1lHI7jdSAEXcmtaN7Ubyf5/r7XBnk6JfRQ5A//AeofPAHn5EK3LYeRoXX7xTEtTcOxonAbjDJKy2n74dL8vEakAIltoFhAY=;9sP1qEyNXNQgxk7XRJ99gA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/amp/"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cerebras details largest chip ever built with 2.6 TRILLION transistors"
-    excerpt: "Cerebras reveals more details about its WSE-2 (Wafer Scale Engine) which packs 40GB of on-chip SRAM, 20PB memory bandwidth."
-    publishedDateTime: 2021-04-22T03:15:00Z
-    webUrl: "https://www.tweaktown.com/news/78895/cerebras-details-largest-chip-ever-built-with-2-6-trillion-transistors/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/78895/cerebras-details-largest-chip-ever-built-with-2-6-trillion-transistors/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78895/cerebras-details-largest-chip-ever-built-with-2-6-trillion-transistors/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 74
-    images:
-      - url: "https://static.tweaktown.com/news/7/8/78895_03_cerebras-details-largest-chip-ever-built-with-2-6-trillion-transistors.png"
-        width: 620
-        height: 345
-        isCached: true
   - title: "Cerebras debuts new 2.6 trillion transistor wafer scale chip for AI"
     excerpt: "Cerebras Systems has unveiled its Wafer Scale Engine 2, its successor chip to the world's largest computer chip, the WSE. The new 7nm chip now boasts 2.6 trillion transistors and 850,000 'AI optimized' cores."
     publishedDateTime: 2021-04-24T07:11:00Z
@@ -59,6 +43,6 @@ related:
         height: 630
         isCached: true
 
-secured: "qWYKk+mvVL7EpckJb8UuGGM8ZCP9mmgoGh2iKdZCmXbuWG278U5z9kZOAYPDaaoO1OTwRXHbMLRwW9URWYB90pTahhN99tn82bNIcVssTaQ5IVztAscDMjqNPkFiUzb6iewenlROWKelSqjg0OUwetMpRhxMB9iICJhnUY+pAyXfljCQXg/ulfW+qgj4OSjKHVomHEGG6IhC6W6dHn++VbdAIB3YTtAuHlvyPSHifu/DGjOdIAeaOi9lBz+LmCr96C/AELRfI2cNMGHmvl2AFex7GMR42PTkL2UzmBtJe+/KevzPOtyoK6u5T7MMzV59YyXQG3KDAoFxZj43ahjAMEmgnByvlmTO+QXiUhTEUmo=;Fg4W3bXJ28UBoHQzukgS7A=="
+secured: "0wdm2SDqMWVju1r5yfXtiZ9HEKdFd1woVIvR29EdlZcVo2xsz/inw/o1WeAO8+F6Cu0Zmk9xKcaFa/R5gyopH9jdEATGpmDbEFCkmX1Pa2KwSYl/Kd1Bd5rdYwkO6WHPuFDVNEQgMMnVf7jL1g66J52XhiqjjYrxkGVk1ef/bmHtGWX+4oLDOSyaGkFVzud9/Z6jlbJL7WnBx1y/3wrcI0WKSiANuaBgoVYwUfc8pwAjV/Zmqbj8287VzC4QZKU0fm2kMxNrkPQ4pGZN1rJjU9esr5yjJHJuqBxP+ND6yT0CjOFCCiDxJbx8SdxvW13MWTFWTMIHy3/kT8ZYHlxHt2V+47hOAdSHKwgIhiOyCy/00V18EabNW3GSGMh43iIHvgpapC4ItFmemlt/LGn3DG9oTvZuDHJkU/xwfAo7R9ox/X2DY0c/vKwapNzqjUtw3pX47aaFmfMAzeMnTubLMFWpXiUpe4R9AeYCab7swXqlAxXYoD9z9GCo3IznKCFU1SQM3NrDj+VhfoLsy5flrg==;5r8t1yBbaEsDryjoHPTlcw=="
 ---
 

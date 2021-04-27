@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "European Union Unveils Regulations Governing Artificial Intelligence"
-    excerpt: "The European Union has unveiled strict regulations to govern the use of artificial intelligence. The draft rules,"
-    publishedDateTime: 2021-04-22T12:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/european-union-unveils-regulations-governing-artificial-intelligence-2021-04-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "tn6tKWnVKNO0GFhw1VIG67eQDScjL8mzgkt2wPgsHBISoxyyfaZw8MaKi7jQqZHILDDaIpHNm/O/Gm60Qo7vwAxHDPBF6p6vHJWa+AOdRqpeK4jPs++Be4GicZJzYdlXxYEW7hHpPfsF9XMaIw9VDb6ljb4hhQKFIoTVffoHJuctdeEGfS0jw4CRm/Xi1J/lp0NzmzHUgl09LNq28C1L/2zUDnvibO7qAGPVJxkJJW27xU4WwKyPC0BOzsVIiCPFBiuC9AjWi34YS4ORQXGPlgJbDsKaro06M7KC6KpntAgQFtftbMjzbx8+aBxYJYuXMXQDTW7CDEWBqNJl4v8yKNyv1fzYcbzgVaATf4ORB4EITcQgThxQ4Z3Uy8KiAd1RHL02tUcZLUB48Xjr/PMgOBNPnyMFpH+xQ+NZrOmQPoXXsGiASRXsf/eH0STCzZxtVRV2UBHSnArp606i6lBt9njcdFB6HKQa+8MnUMkkZWQ0UB0i2Da0so8B8/o67VnizuK+GH0KNA42GXojKkN0tA==;iTkGbMa68TcXFv73bL6z6w=="
 ---

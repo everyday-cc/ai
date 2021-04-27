@@ -43,6 +43,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Big Tech Compliance Tracker: Europe Proposes Artificial Intelligence Rules; Canada’s New Budget Includes Digital Services Tax"
+    excerpt: "Those developments will also bolster AI adoption, innovation and investment throughout the continent. \"By setting the standards, we can pave the way to ethical technology worldwide and ensure that the EU remains competitive along the way,"
+    publishedDateTime: 2021-04-26T18:44:00Z
+    webUrl: "https://www.pymnts.com/news/regulation/2021/europe-proposes-artificial-intelligence-rules-canadas-new-budget-includes-digital-services-tax/"
+    ampWebUrl: "https://www.pymnts.com/news/regulation/2021/europe-proposes-artificial-intelligence-rules-canadas-new-budget-includes-digital-services-tax/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/europe-proposes-artificial-intelligence-rules-canadas-new-budget-includes-digital-services-tax/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 30
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/artificial-intelligence-digital-services-tax-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "uF+Y5cDM3mupM3sQnRdy2/joIFvr43+JdfVl694Jjp23G1FUQsfXTkgiJhkWCLBG4e7iNbA/S0luoeqSGe+vayu1F7csS3Iz7sDVuhK0zaOrcNC2dZOS5a5NPts3jkGzWzoyqWm0La6mCEfd38RVnIhoeJ+JdAdis6RDJm1Kx7ViGZM7bVLV1rgTbPH5CjGfyO56AD9rn7WbPPen42ONZe4j31XjCKrzybBE5Pt07NK1Rv4G/phXy1PG/5eCiVwecX6b3aHINeuuQHfvCXRIsEbyQWMlHdnmIeWLTne4VKa5pm1cQci8Yt8OFkpLGQglQHQl11/zbEIqeDk7HTDTxl8r5pkywfcYCSDEa1PFQivhuJcaAQg71mYTiZhEKwtNl7brvMs/J2B5Tny8QUj3FFBNOLDZMiQiFgUUJRe69BG+GiMJlmxzIZ/LsMEvNAGXb4avF7TjISp47lA0o8qe8owe69LP4/T638dIb2GFnJw/KYQeeYm+SN/B78fT8Sg3dd6jIh3SiUIkMxXbUreimQ==;PMvTb1hTjvgacpoSMCTDfA=="
 ---

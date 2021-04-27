@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-16-cancer-therapy-how-our-cells-are-becoming-resistant-to-medication.md",
+      "title": "Cancer therapy: How our cells are becoming resistant to medication",
+      "excerpt": "Human cells are constantly changing shape. Biologists know that these morphological changes reflect changes in a cell’s function but our ability to understand the meaning behind a cell’s shape has, to date,",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news765031",
+      "originalUrl": "https://idw-online.de/de/news765031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.idw-online.de/corona_idw.png",
+          "width": 615,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-artificial-intelligence-boosts-alzheimers-disease-classification.md",
       "title": "Artificial Intelligence Boosts Alzheimer’s Disease Classification",
       "excerpt": "An artificial intelligence framework could help providers classify Alzheimer's disease with enhanced accuracy, potentially leading to earlier treatment.",

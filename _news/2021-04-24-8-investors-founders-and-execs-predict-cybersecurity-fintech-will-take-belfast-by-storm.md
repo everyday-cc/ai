@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 814
         isCached: true
-  - title: "Deep Instinct Raises $100M for its Cybersecurity Threat Prevention Platform Built on Deep Learning"
-    excerpt: "Deep Instinct, cofounded by Guy Caspi, is an end-to-end cybersecurity detection platform that leverages deep learning to process threats faster than other solutions."
-    publishedDateTime: 2021-04-22T13:07:00Z
-    webUrl: "https://www.alleywatch.com/2021/04/deep-instinct-deep-learning-cybersecurity-threat-detection-platform-guy-caspi/"
-    ampWebUrl: "https://www.alleywatch.com/2021/04/deep-instinct-deep-learning-cybersecurity-threat-detection-platform-guy-caspi/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/04/deep-instinct-deep-learning-cybersecurity-threat-detection-platform-guy-caspi/amp/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 60
-    images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/04/guy-caspi_deep-instinct-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "JavMGy8gpulqyqvcsNgLMIhTvqjN5rphS4FMhz+J/nQ5v4Xzy2VHuaw0Kele/0S71nuMZ2TpQbXKYr2H9b8s2YweaDJVbSaIqMSGuQBOaUv/2GkgA+cb6zdybQHzmXS+q1nJz1JEn5+q51kDiVENrIB4OzOeqwmJv08Zr4jQAK09WzlBsgm614te/RXxFEpw1TrSuYhVmziNKRawaAW38avIJ8hlW5zSdr836sWSRlpPMv4gGk9LngJOLf5CmPFptWKprmFPIFJiIWuaZuI5C10ewl+px0WZJVUDELTqOhPXDTLPrUQqQq+geuWcTywd8dIYvNzzmGuA1+9RaV2QBvfyjpaC0bfJn4hVD9XlLuehmbfAcMH+qW/PWJj7jNSdQ0pDIOFM/YkI/fEI71caQ6IHgCHn3LH5O22hAVNztPwPSgK8rl+DX+M8Kh+/LD0jbJc9VZ6WA3qMtCmdeJhnhPoOkZFe7X/MSQun+S75+sZBtiPDpFfD+XRHK9jQZy945a0Fvjroc8krp4U5h95b3g==;hvj/BnH6ePTnQC3zWQ9IfQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/companies/article/3130852/chinese-tech
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3130852/chinese-tech-titan-baidu-and-carmaking-giant-geely-pour-us77"
 type: article
 quality: 68
-heat: 79
+heat: 78
 published: true
 
 provider:

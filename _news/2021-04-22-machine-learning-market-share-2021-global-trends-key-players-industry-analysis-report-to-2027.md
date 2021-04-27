@@ -37,34 +37,6 @@ related:
         width: 1042
         height: 625
         isCached: true
-  - title: "Global Artificial Intelligence in Indian Manufacturing Market Outlook, Industry Analysis and Prospect 2021"
-    excerpt: "Manufacturing companies in India have been digitizing their plants with advanced process controls, analytics, and"
-    publishedDateTime: 2021-04-22T02:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-indian-manufacturing-market-outlook-industry-analysis-and-prospect-2021-2021-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Big Data & Machine Learning in Telecom Market Outlook, Industry Analysis and Prospect 2021-2026"
-    excerpt: "The Big Data & Machine Learning in Telecom market report provides a detailed analysis of global market size, regional"
-    publishedDateTime: 2021-04-22T11:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence-based Security Market Regional Growth Drivers,Segmental Analysis, Opportunities and Trends 2020-2026"
     excerpt: "The Artificial Intelligence based Security Market report is a compilation of first hand information qualitative and quantitative assessment by industry analysts inputs from industry experts and industry participants across the value chain The report provides in depth analysis of parent"
     publishedDateTime: 2021-04-24T15:21:00Z
@@ -81,19 +53,21 @@ related:
         width: 500
         height: 395
         isCached: true
-  - title: "Computer Vision Market Global Industry Insights, Trends, Size, Share, Outlook, And Opportunity Analysis, 2021-2025"
-    excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
-    publishedDateTime: 2021-04-22T09:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-global-industry-insights-trends-size-share-outlook-and-opportunity-analysis-2021-2025-2021-04-22"
+  - title: "Global Speech and Voice Recognition Market Survey Report, 2021-2026"
+    excerpt: "The Speech and Voice Recognition Market research report includes Market segmentation and overlays shadow upon the leading market players highlighting the favorable c"
+    publishedDateTime: 2021-04-24T01:24:00Z
+    webUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239"
+    ampWebUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: express-journal
+      domain: express-journal.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.express-journal.com/img/img-10.png"
+        width: 500
+        height: 300
         isCached: true
 
 secured: "PtBYv40r+ulH0RFesn/QQX77GEvmXvAmD3HEkqhbE6qjLCZaUMu7vvBSyVgdqh7CJ8nS0zmAIMtZa6497uNYsV5mA6ZvtkSKOQFej4lOAPi3g5taVrsI+U1OmMyRJFBl84KIWNMrMLf/hhBx4J6KhsmBp5tWGMDHiEj8LSqNfevF/S9TGbht/OA4it3HQjDRw1AVtIGTsMh72rLP1FVPtw/X28WEgYN0Zv/DG1Vaua7QyIEjrB9tFgSNL3DTAriz8+6QRGk2JavbKjWT7dSYCDblpnIZkGycJspoQc+lZXGZL7y8b64eNE47d55RnASclWKGV+ac+/J34PqHJKmgaZX7MpAGTl1wwL79YhFjaCk=;9n0PcdMjQDThF1fGFpIcXQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.ft.com/content/360faa3e-4110-4f38-b618-dd695deece90"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/360faa3e-4110-4f38-b618-dd695deece90"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Financial Times
@@ -41,6 +41,22 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2021/04/GettyImages-1131666376.jpg?quality=80&strip"
         width: 6361
         height: 3844
+        isCached: true
+  - title: "Big Tech Compliance Tracker: Europe Proposes Artificial Intelligence Rules; Canada’s New Budget Includes Digital Services Tax"
+    excerpt: "Those developments will also bolster AI adoption, innovation and investment throughout the continent. \"By setting the standards, we can pave the way to ethical technology worldwide and ensure that the EU remains competitive along the way,"
+    publishedDateTime: 2021-04-26T18:44:00Z
+    webUrl: "https://www.pymnts.com/news/regulation/2021/europe-proposes-artificial-intelligence-rules-canadas-new-budget-includes-digital-services-tax/"
+    ampWebUrl: "https://www.pymnts.com/news/regulation/2021/europe-proposes-artificial-intelligence-rules-canadas-new-budget-includes-digital-services-tax/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/europe-proposes-artificial-intelligence-rules-canadas-new-budget-includes-digital-services-tax/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 30
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/artificial-intelligence-digital-services-tax-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
 
 secured: "BF9roGiY57dgY4lpYJwQ0hDvIP7UM67W3EtagqBtAE1vYUAPuboY/BbggLEsafoGa9rlgtCY+5BCX6ss6gJf5bScgaGzTrglpygJpbs+U5GJV6MbX4X/OP5HRbb6EthUZkuiYj+kEWbkjwQnJNKgOpAW6+11bN1IdBvWvQo//WhodeEBF0VgG4zghSK24MFtQDbOF6GuLPT6+3VIbjsOOVL56O9Uw044vtdudEa9XTnmGSYTEk0H+gpHDfFfj+NKAfBliy35/499hzWvdgx6B+2Q7q04LQvpZyW20NW/fW/H11cKNPq0JmCyU3S3pUPYNO8kBwGtuCmD9mVF1SM+XA0HpvJVJPpb26Eb681Qyj6F4o41uYGVfN7rc6cXOguXQzhdeh0jXw7FSmDx+9lmfBt43oyBT4ESUkm8SO6wb2ObdALcz3c8nBxHso2l+5oIYnGmiiwzZywofEIpU6SS79dvieQlAQQX9BGbBCbGz1eoJzStbDh8bE8V+uEQNo/UAeWugKkHUxods6a0A0ob+g==;d2WsPRuSL/XJZWeEv3jqUQ=="

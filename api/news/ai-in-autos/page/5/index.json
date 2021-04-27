@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-10-why-self-driving-cars-are-designed-to-look-like-overgrown-toys.md",
+      "title": "Why self-driving cars are designed to look like overgrown toys",
+      "excerpt": "They’re here. Lyft passengers in Las Vegas can already hail a self-driving taxi. It’s one of the first times vehicles with no human behind the wheel are being tested on city streets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/",
+      "originalUrl": "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-driving-innovation-with-emotional-intelligence.md",
+      "title": "Driving innovation with emotional intelligence",
+      "excerpt": "Even as the world rapidly embraces more and more complex technologies like artificial intelligence (AI), it’s still the human ... breaking it down into five characteristics: Self-awareness: Recognizing and understanding your emotions, and how they ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/03/09/1020470/driving-innovation-with-emotional-intelligence/",
+      "originalUrl": "https://www.technologyreview.com/2021/03/09/1020470/driving-innovation-with-emotional-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/03/128108027_l.jpg?w=2860",
+          "width": 2860,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/03/09/1020470/driving-innovation-with-emotional-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/03/09/1020470/driving-innovation-with-emotional-intelligence/amp/",
+      "publishedDateTime": "2021-03-09T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-sci-fi-writer-or-prophet-the-hyperreal-life-of-chen-qiufan.md",
+      "title": "Sci-Fi Writer or Prophet? The Hyperreal Life of Chen Qiufan",
+      "excerpt": "As China’s science fiction authors are elevated to the status of oracles, Qiufan’s career—and his genre’s place in society—have gone through the looking glass.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/science-fiction-writer-china-chen-qiufan/",
+      "originalUrl": "https://www.wired.com/story/science-fiction-writer-china-chen-qiufan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60467d5dcca7aa2d1134a636/191:100/w_1280,c_limit/Chen-Qiufan-8S3A6125.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
       "title": "Alphabet’s Waymo Says Its Tech Would Avoid Fatal Human Crashes",
       "excerpt": "(Bloomberg) --The autonomous-car artificial intelligence from Alphabet Inc.’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company published Monday. The simulations were based ...",

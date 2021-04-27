@@ -374,6 +374,40 @@
       ]
     },
     {
+      "path": "_news/2021-04-14-cerence-provides-dynamic-voice-recognition-to-hyundai-ioniq-5-the-automakers-first-in-its-new-lineup-of-battery-electric-vehicles.md",
+      "title": "Cerence Provides Dynamic Voice Recognition to Hyundai IONIQ 5, the Automaker’s First in its New Lineup of Battery Electric Vehicles",
+      "excerpt": "Cerence delivers conversational AI-powered access to key in-car functions and information, enhancing driver safety and convenience. BURLINGTON, Mass., April 14, 2021-- Cerence Inc., AI for a world in motion,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/cerence-provides-dynamic-voice-recognition-to-hyundai-ioniq-5-the-automakers-first-in",
+      "originalUrl": "https://www.nasdaq.com/press-release/cerence-provides-dynamic-voice-recognition-to-hyundai-ioniq-5-the-automakers-first-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-systran-brings-epic-translations-in-as-a-value-added-partner.md",
       "title": "SYSTRAN Brings EPIC Translations in as a Value-Added Partner",
       "excerpt": "Whether it is securely in the cloud or on-premise, or in any of our 335 language and domain combinations ... \"We recently field tested our AI + Human translation solution with one of the leading ...",
@@ -1267,59 +1301,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-researchers-detail-systemic-issues-and-risk-to-society-in-language-models.md",
-      "title": "Researchers detail systemic issues and risk to society in language models",
-      "excerpt": "Register for a free or VIP pass today. Researchers at Google’s DeepMind have discovered major flaws in the output of large language models like GPT-3 and warn these could have serious ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/",
-      "originalUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/researchers-detail-systemic-issues-and-risk-to-society-in-language-models/amp/",
-      "publishedDateTime": "2021-04-09T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

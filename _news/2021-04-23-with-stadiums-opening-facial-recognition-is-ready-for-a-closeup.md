@@ -7,7 +7,7 @@ originalUrl: "https://www.paymentssource.com/opinion/with-stadiums-opening-facia
 webUrl: "https://www.paymentssource.com/opinion/with-stadiums-opening-facial-recognition-is-ready-for-a-closeup"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "This tool can make your pics undetectable to facial recognition without ruining them"
+    excerpt: "A new tool is promising to make your pictures undetectable to facial recognition software without significantly changing their appearance."
+    publishedDateTime: 2021-04-27T01:14:00Z
+    webUrl: "https://www.dailydot.com/debug/donotpay-photo-ninja-facial-recognition/"
+    ampWebUrl: "https://www.dailydot.com/debug/donotpay-photo-ninja-facial-recognition/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/donotpay-photo-ninja-facial-recognition/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 52
+    images:
+      - url: "https://uploads.dailydot.com/2021/04/facial_recogition-scaled.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2560
+        height: 1293
+        isCached: true
 
 secured: "5DdKkN1nQuktcrOBMBfp+VO1UG2YXo1C+E4JwwhEaYTG8SN9hKrKA4pb4ye7+mlAd//ccjokf6w+s4OUxv/xT0hciYgAE8ndBXe5nqMrMKYjYWiuTvbYqhaa6VTiiugSDC4h/LhUae3T3GnT8PtyfsJwRlwQw7Khg/Bk4vBHNODpI0q3XNIQIGg22VLGSf0VKh6XdANEZPVcRH7yoiuxUUDjYwfU7ueS8FXB5/K05VaW95g3u1XzdMgIjhgKLZQsZoyEndViRuxBr9hm3nSwe1WX0fCKgY8KZruDQtBgh/8JQ+o3UAb8XeRgME9IlZIbZtsMRsHZIxlbXewm3dB6wNRjwU07VZkCzOdxxThue0wFee6Y8petYDdt+eYfkSf9hAFmJJc9AKW2aGFASc0nRm7wgYtjMUlFC4X+sojoNToIo6webLsUkOiNvVzLybD238qHg5U9uC0GKlVHk/yQE9Y+t0Fa2A3b/iGJoHIR/IB9VZ0sEH8Lh8SfV6+/bfevo9E2CEsPg+rqeTOS2pwkZQ==;PQzd56JH2frrgjSTQ03HjA=="
 ---

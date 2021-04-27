@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laun
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -46,7 +46,21 @@ related:
         width: 1600
         height: 770
         isCached: true
+  - title: "Graph Analytics Powers Insights in Financial Services"
+    excerpt: "When a new technology emerges, financial services firms often are among the first adopters. Anything that can provide banks, investment houses, or"
+    publishedDateTime: 2021-04-26T21:38:00Z
+    webUrl: "https://www.datanami.com/2021/04/26/graph-analytics-powers-insights-in-financial-services/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/fintech_shutterstock_-Jirsak.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
-secured: "M88ifpILTll6xrXpjh0Gk/7SZokX91svKLs7I8Y2tZ4D24wO5pvFMMny6QZKOWZFuyK4aFU/52jSQW6DDlYuMIG2PixfPp3LtelAEyFdQcsB0SNT838RYWriuABR0Og2xK/g5Spi6uRNO5RzSL4UYqSmh3AIYN8X1GvUkLVbPjAvWw/r7z6XcoPWOTsB/mYp4mDZ3idEqc1UGQxIpyAGiaBcgeCJpChnpQLE+pu0gf3mYRgbylFa1eld155rUZLEKtLZQT3GERcBUB0ByqM7VLr+fcOZBQCUv005atV9VzGCEo+ZLlZO0+uIfeGvnSXoz5ZMc2eL8m0keCc3BgjXWF+iVpt5rkZ3JlV+d0v3mx4=;UGDOHfTjtdiBTf5RyL4Dew=="
+secured: "rCQyxb5nTzxl5arz5tyaNQOEMEzW0f4Wign5qv7lQDViJEA9p1EvqZcz3Cu/TJh/TFSMYzfiEy72mhetK0IgJDJ8xuOZVyKh9j4JEyeW81tnOufUxZQvB+7BZXLCzZfbxIPmvceLWsn0tA9zj1V6ccnJifVumkmBCYDJRutAeya18c32J8FZ16Fr7CHR+mrwE6ctBE7KaaPmwsuib3bwBtU3pLXoz8AZ37TlM/KmqAikcvhD6aA+2PBuSsUzFqkgI9k/CqJP/Johq+LEhpSqRDBiQ2NW3Qps18rOQLKHlE0cKrVOheYf8UgRAtOeW3lpVxZh+kVlREOZyY6ZWlobupdkUxXnnGkmxdc/M724EupAgdUormKKRDNa6E/5ulL9okozBjK97T+0da1A+IQ4+G5Sc6dqAN+egvzt5WQEgmcVx3I9X2w1G4gv8TXPlXNo+XmEEfja26PJNdrtTqeWxWmuszXmiCepLW0v1CMv8yjVQoFSH6yeGtpA/Bib2BPyW2gsPsicryyaoEGv+2siTg==;M37Yaj5RIr4cIIHheGV2/w=="
 ---
 

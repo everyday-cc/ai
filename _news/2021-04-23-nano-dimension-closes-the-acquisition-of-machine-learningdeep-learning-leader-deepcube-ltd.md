@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Nano Dimension Closes the Acquisition of Machine Learning/Deep Learning Leader, DeepCube Ltd."
-excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Leading an AI/Deep Learning driven revolution in manufacturing Sunrise, Florida, April 23, 2021 (GLOBE NEWSWIRE ..."
-publishedDateTime: 2021-04-23T12:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nano-dimension-closes-the-acquisition-of-machine-learning-deep-learning-leader-deepcube-ltd-1030338611"
-webUrl: "https://markets.businessinsider.com/news/stocks/nano-dimension-closes-the-acquisition-of-machine-learning-deep-learning-leader-deepcube-ltd-1030338611"
+excerpt: "Nano Dimension Ltd., an industry leading A dditively M anufactured E lectronics/ PE provider, announced today that is has closed the previously announced acquisition of DeepCube Ltd., a world leader in Machine Learning/ Deep Learning technology."
+publishedDateTime: 2021-04-23T12:30:00Z
+originalUrl: "https://www.nasdaq.com/press-release/nano-dimension-closes-the-acquisition-of-machine-learning-deep-learning-leader"
+webUrl: "https://www.nasdaq.com/press-release/nano-dimension-closes-the-acquisition-of-machine-learning-deep-learning-leader"
 type: article
 quality: 53
 heat: 53
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "nQ5mPmfUqlbWw82Yco6xD4M+UzBduNizzmdxQsk8GTo0vZZEcS8vmG1TDVGTDJjVTFfZaVQ71Rq+F/ddN0ZVLjRfvwOmgKwGNgNnYYBMwuQ+jIH22V8xnEnnHYmSmrQ7KG5NzVvZtfNrHuxI1J+MR/tG8f49hnqabFFctpQ9FEVdTwkOYQntRprv24ci5oDDWJ+htLEVXuXqh0DZshELXofAuj3ZPH0EA5YWATQJh+2Q308yoWHPIew80BUbSmxMr6cT/gaqvP9RUvgeGaujLJm1suBHRaM3ATSqRgcB4Tgc3lG6IjwwaGaC03onLd95k+0ElF+WqwquUQxggeZECbUN/aUfjMhAlduEh0Tw4ps=;lZ9d/6SqyXRL2E9NVZMlVQ=="
+secured: "QpVky8Q4tUTUVQLgcTzxnSIhjaQb1MAKXiEMSn85tqBOVDT0z/QL9CHJWM4s3zAW09D2ca69jYDNxyzhbDzD4PIv2toOSdwBYBx45to2lF6yDzXHLc3COKTV+It7XwbTKfcRfnQIH5B/Yc2zzPbugW5HduJ2/KpILpMNbUSwLlhDQN9g/QjnpOWLG+PZesGK7JP8Exl4TDM2VAIyQ5+RIcV7eYRflEnDJ8NkIcoS+J1H6WK3uAzZ8luAKGmw+FRMwmnm8VhfPBRLUhuBPbLY+VrtD4cP9jXVWjcp+ePwIJDDSCiKSJStpX+WOzvo/8GMrqf/1KJUJ5R8gbZGBM089ZV77o3vgI50E1t2C14A4hk=;2bJiKrA/HM1dO06PleqkCQ=="
 ---
 

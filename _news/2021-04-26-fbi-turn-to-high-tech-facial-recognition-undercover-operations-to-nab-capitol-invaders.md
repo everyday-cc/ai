@@ -27,23 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "King County could be first in nation to ban government use of facial recognition technology"
-    excerpt: "King County could become the first in the nation to ban the government’s use of facial recognition technology."
-    publishedDateTime: 2021-04-22T04:38:00Z
-    webUrl: "https://www.kiro7.com/news/local/king-county-could-be-first-nation-ban-government-use-facial-recognition-technology/H6NJWIBWQRHY5CD74NCEDVAA2M/"
-    ampWebUrl: "https://www.kiro7.com/news/local/king-county-could-be-first-nation-ban-government-use-facial-recognition-technology/H6NJWIBWQRHY5CD74NCEDVAA2M/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/local/king-county-could-be-first-nation-ban-government-use-facial-recognition-technology/H6NJWIBWQRHY5CD74NCEDVAA2M/?outputType=amp"
+  - title: "Facial Recognition Tech for Bears Might Just Be the Future of Conservation"
+    excerpt: "Facial recognition technology is used to unlock your phone, find missing persons, detect shoplifters, and even was used by Taylor Swift’s security to ID stalkers (seriously). But now, it’s revolutionizing bear conservation."
+    publishedDateTime: 2021-04-26T21:52:00Z
+    webUrl: "https://www.backpacker.com/survival/bears/facial-recognition-tech-for-bears-might-just-be-the-future-of-conservation/"
     type: article
     provider:
-      name: KIRO-TV
-      domain: kiro7.com
-    quality: 49
+      name: Backpacker
+      domain: backpacker.com
+    quality: 37
     images:
-      - url: "https://d1hfln2sfez66z.cloudfront.net/04-22-2021/t_4f4df85d67ac4f06912fac52d86ea86f_name_ftp_4_21_johnson_515p_KC_Facial_Recongnition.jpg"
-        width: 850
-        height: 480
+      - url: "https://www.backpacker.com/wp-content/uploads/2021/04/bearpacker_facial_web.jpg"
+        width: 2400
+        height: 1350
         isCached: true
 
-secured: "7hatVT40WYDiGdyjceGWpVD2CK68NaBwpSjlVqLk+NC7RsCoXUp+5vYdYSB4HWsdjxbBWs/gOdv+ZSOKs+kJdhuD1fbAJC9eRcfo1I+KfpreJOgiRTs730kMbHSiyA1L31aoHnFLnKZILWbPHIZIi4hVnmEw9Zugfcy3Y4PsJQB3Elko4/7P+jCaRZu1LY+gXVKaBImfiK4DVpNVvbcf5OUAAIVUdsGKuQWNmtCoPcttdJ1+TiV+UrMc3Ks14t7n0swEshGZbDBKIB4mySg9jhNCdAgzltpRgHhb/hUAycNDXOx3iRavfA26Fk2lRmyczhN3ZEz/JrYrGchTCxvTbRvfkUgrlV6Izh3L1dTYomE=;0AURNITFLcimEqpQCN8Mdw=="
+secured: "rePfC2Q6V7JObTfH/vmYyuKg7aFTts1Rcs/XVOzWkrkFKfky9Jz8j5gMziU8iLulIY6xv6s/qynqE3Y8tdTUjNkaZBN8bb5JMmcV322hc4PlT8HD7fAbjL41Akam2aD/JxecswjTvY/OBeOnI18lww7PxDWeaXjvbinXd1fEHEyYe45YpGyIjtsuutvnGc6eL8W9cynZAB0njLV8sg9rPmm1ozHrwnaLsdAmxHRYCUa5aDA/rT2jetcfqDrloLiOnqLsyL8D31LE4lTDHcNmIS4qj/vUWGV2dt7Fw2ihE6SCGdjkAA9rvVrg2bGjSnrZJ6fxXANzVlwl5+lcYix/czlahyBeexLMOsU3uPN6qBUW5RJFRv5Sr27WbEkUWpYHpmmf8hJAd9my5nxX1zKxtX8oirWS3LlGjnoEmE5s/IX7RPIkOA24+Zk/Pq3+/u1gLxqQgTaTSlYAhXhEFZ5K7FAf8hirLrLLslvUZITH0GWeolvUUDdtF/SAJ5q3414opf9nAsivhj+n0yxm8A5JKg==;q16uRZON7zc9GNWVJ/eYMA=="
 ---
 

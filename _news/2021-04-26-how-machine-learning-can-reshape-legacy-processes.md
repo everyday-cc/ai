@@ -7,7 +7,7 @@ originalUrl: "https://www.industryweek.com/technology-and-iiot/article/21162261/
 webUrl: "https://www.industryweek.com/technology-and-iiot/article/21162261/how-machine-learning-can-reshape-legacy-processes"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 627
     isCached: true
 
-secured: "V/ag7iuuZicAgZHN1JB2EvXLZsU/c2CpYOyYUzLHV8a2JNIlH25bnO9aBq6V6yJ8jOm0C3nA9Px674RcD0jlt49bPzBuYu98TbxFCZJHyH7bFcoDpNGBHcYWhGrXnR394/8RjxCX1FTjk7KOijIPKFMBRNpTUobqTUOMOKtRDgdbXa7XVpeUEqQM9D9PxmMuPRWN8xLMu1VzFLCQzwY7WVOGFuvuBnVyjn0VQj3qrwWpCN0QjuMilSPBBBSZxvyPIUjnmkoGKd9aLptMPj8Hnor6Q6ysvuhqHp0sVoilDIKweorFH7NBIen7Ald9uFw6nToJvKiRBSZzTv7/JxVC+69AeQHfadWB8YDsPivLca4=;1IqgTx/MVU3YFTtZgdLULw=="
+related:
+  - title: "Researchers propose new deep learning-based model for cross-lingual voice conversion"
+    excerpt: "Robots today have come a long way from their early inception as insentient beings meant primarily for mechanical assistance to humans. Today, they can assist us intellectually and even emotionally, getting ever better at mimicking conscious humans."
+    publishedDateTime: 2021-04-27T05:34:00Z
+    webUrl: "https://www.news-medical.net/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 52
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+
+secured: "ybErkXI8q3kLKTVc6K4lVsRv7aG2zkA+qecJMcPoi57/CD20wa2AY1v02CGhEy7e3agFKTozjOrSUHFmMH+YhtLOuahLj3JzqM7HmB1hnNxLiCK4KhwSeGqUppioeG2xSwCs6z/XSX9mcE4Sc3XNbpSxRY8h2pUC7UCF5KzBd0iMXGJuuK47z3CMbZLS1+kd0bull+lapVwFmt4m1Ww0DO4oIakZQ4XvSj+FrBiuBE9AlGFdKKaLkklpAL0eFZijLMHABoLN3av7uDTIGV6E5BNlQkDAf9MlsUx+4bs/mIynaNk7espBZZpdk/l6HeJdgUQ4rIrQTAJuj7HcKG84CHDS/CYYnD2pOhqOnk6pucXikt0bbmSUjieKbtS8w2Gn8XOQ9u5gMqwZ+niybg1+p74iqkzI0uz0C98DZQ3jMkw7YiZ9LqL8lX1/68OKD2v7H3bk3h4MFZ0F/MYAs2+nSq6pfBx3jjtRjfCrZdPFRIorzlmSP9hJyhm4j8nhAEOiCsQ9gKYPE5vzybk3+bmeAg==;9nQHb5Cxr+tRaDWJLy5oRg=="
 ---
 

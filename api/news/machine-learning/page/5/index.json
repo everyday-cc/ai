@@ -2,6 +2,118 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-17-cnes-and-clemessy-develop-a-fluidic-systems-simulator-using-artificial-neural-networks.md",
+      "title": "CNES and Clemessy develop a fluidic systems simulator using artificial neural networks",
+      "excerpt": "The Centre national d’études spatiales (CNES) and Clemessy are currently working together to develop a fluidic systems simulator, using artificial neural networks. At the heart of their partnership is an objective: to optimise the filling of rocket tanks using artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.actuia.com/english/cnes-and-clemessy-develop-a-fluidic-systems-simulator-using-artificial-neural-networks/",
+      "originalUrl": "https://www.actuia.com/english/cnes-and-clemessy-develop-a-fluidic-systems-simulator-using-artificial-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Actu IA",
+        "domain": "actuia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-5-reasons-to-make-machine-learning-work-for-your-business.md",
+      "title": "5 Reasons to Make Machine Learning Work for Your Business",
+      "excerpt": "As machine-learning algorithms grow smarter and more organizations come around to the idea of integrating this powerful technology into their processes, it’s high time your enterprise thought about putting machine learning to work, too. One of the best ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/366536",
+      "originalUrl": "https://www.entrepreneur.com/article/366536",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/366536",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366536",
+      "publishedDateTime": "2021-03-16T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-conlan-scientific-named-top-aiml-development-solutions-provider-for-financial-sector-in-washington-dc-in-2021.md",
+      "title": "Conlan Scientific Named Top AI/ML Development Solutions Provider for Financial Sector in Washington DC in 2021",
+      "excerpt": "Conlan Scientific, a fast-growing nationally recognized authority in delivering AI/ML-based Financial Data Science solutions, proudly announced today that Clutch Research had recognized it as a top leader in Artificial Intelligence/Machine Learning Development firms for its expertise in supporting the financial sector in the Washington D.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-e76857d70069e6cf37e48cc12acd6b7a",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-e76857d70069e6cf37e48cc12acd6b7a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
       "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
       "excerpt": "New Delhi: In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021.",
@@ -1132,137 +1244,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-the-structure-dilemma-in-biological-and-artificial-neural-networks.md",
-      "title": "The structure dilemma in biological and artificial neural networks",
-      "excerpt": "Going far beyond the obvious macroscopic structure of the brain, which hardly differs between human individuals, various authors postulated a coupling of structure and function 1, 2, 3. Neurons, hubs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-84813-6",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-84813-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-84813-6/MediaObjects/41598_2021_84813_Fig1_HTML.png",
-          "width": 531,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T07:33:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-raspberry-pi-machine-learning-with-tensorflow-lite.md",
-      "title": "Raspberry Pi machine learning with TensorFlow Lite",
-      "excerpt": "Check out the video below for an introduction into the proof of concept tutorial. “TensorFlow Lite allows you to take the same ML models used with TensorFlow (with some tweaks) and deploy them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/raspberry-pi-machine-learning-with-tensorflow-lite/",
-      "originalUrl": "https://www.geeky-gadgets.com/raspberry-pi-machine-learning-with-tensorflow-lite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/03/Raspberry-Pi-TensorFlow.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-mapping-functional-connectivity-in-3-d-artificial-brain-model-by-analyzing-neural-signals.md",
-      "title": "Mapping functional connectivity in 3-D artificial brain model by analyzing neural signals",
-      "excerpt": "As such, tracking neural signals in a complex, interconnected artificial network remained a challenge. The Korea Institute of Science and Technology (KIST) announced that the research teams of ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-03-functional-d-artificial-brain-neural.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-03-functional-d-artificial-brain-neural.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/mappingfunct.jpg",
-          "width": 937,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-03-functional-d-artificial-brain-neural.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-functional-d-artificial-brain-neural.amp",
-      "publishedDateTime": "2021-03-10T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

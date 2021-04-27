@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-cou
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/"
 type: article
 quality: 96
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://tickertapecdn.tdameritrade.com/assets/images/pages/md/2021-04-23-msft-chart.png"
         width: 1391
         height: 736
+        isCached: true
+  - title: "Microsoft offers new Azure specializations and scholarships through Coursera"
+    excerpt: "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well."
+    publishedDateTime: 2021-04-26T17:28:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 81
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
 
 secured: "IoR8q71jqEBRm+AXu+rJUbPljauNPmDJ66eow1oXzNYcTEJXhzPXV2D/YE/FToikbS7UcVj226uAQ1G2XzpSGZhCUHfhwj6kucEWoZGzJW8VmYz8Gr8LlgXoNzfXs+wTaDawd5zSZvsPYzsuOdFVAMLvPFMlrnSFvUlIpRc9NaPRrH9PTgcXlTPHyugfijG4qsepEXcfMNq4ztf8kNF83Xw2WAo7+qO7zRcfWDuW6p/oMD+Zc7Yb3/9JdkUqeXifa8u6BzrTRgRN8sDxPoIVqMYjOlvKpcT+ZA5Ejl1Giwmo/rZFR8VffRtIaYyMdv06Mxf2BOCcvZKKJyRji50tFNieMIihelLOJXLHnj46oARWODaFALs6g3OVqmtoFHE7FhFSU1/f+1wJs+CRDIc58nhVyyVNdJPv5pStQmSI06RsFFRHVfxVCi5edHAjIgnXiTGKoE+a0XRWWwZUF6fcW8uW5zeLYfi1BcAcPIafWP9U/IhP/Gu/DAx3r2aIztOUakav3SWE1ZGjfZOrTe8TXQ==;ii1b6JJPWHqut78J2iYBwg=="

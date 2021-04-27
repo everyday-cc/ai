@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -48,21 +48,7 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial Intelligence in Construction Market Size, Share Industry, Analysis, Price, Trends, Report 2020-2025"
-    excerpt: "Artificial Intelligence in Construction Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & compound annual growth, in-depth qualitative analysis The Artificial Intelligence in Construction Market size was $408."
-    publishedDateTime: 2021-04-22T05:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-share-industry-analysis-price-trends-report-2020-2025-2021-04-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "IDKZt1b3r0Ep86SWTAS5ZBRY5LcW1z+LkX/EKcqX/3xp8x+NXNFMNJGBFDQyCK4TDiUaKJlrDx0Qk0WvpMmYMUjBggwJ9gx5oGe8fJ+x43LZHOmLvjZQGREI3TKRk1DPbOia8mWhuv+pZPzYqt8tsHwEeCWtU+3Flttzi0MMF165CFfoY6fJcKqbT3QxCALwJ/3hPfdnHo4OheDIa8VOK5ndxK0mhWGmTNii1VmjOJjQWALZwWrgjPN2XgV9jodgarGS75Qwk6CHQVPKWFmM/G2i/uazi92cANu7Xm/7u69rjr6anbQDcdaDOkE4gh7YINieCS/eqh666PCwbRJ2HX3/SmfTAvx/xwa6hN8IoXg=;0sTzFrXHZpZh9+G9FMfyVA=="
+secured: "wnFLlv+t42cIu5JUPrKy6hBTbn1eV+5rFrFTHCG4B9IBHsJuHwVjqyY67taO4daWyzWtNtgqZfAuvtTECr+9TlVBU+jRhvq2uig7ZKwQCYOOE5QVNIySQbbJxmEWIiupNMTMhtiSRj1LL7YEQMPITqmQQFyWkunDNlKEDfi7BHgyGDAVn8PxsXICPckY16k48qU4q7H11zdtPVhZX6XP/BgOII+wvVmXqwcys3pASEcwH+/ETdmS4QgRwh5AZYK9toIMy+5Z7TTdweyostVWHJl0JZd8kPWOs0fJsroU1URSNMoJBfyn2xD4V9s8iDWCxb8TMkXgbXeBApV2PkitWyXmXgSxLfGsScTihBhwBuOHUQ6NKpJIP1Cfr2Ih5s1+2WzBLm8wmNh0asZdStZx8wUeAdyi0Mg6I9A1druS4FGxnkHGyAVmF+1oU2ioNltk8Y945sMD+dY0nxsKH6UDGRLczM8tqJWrGt6E7sp/DMYzuWh4eN1MBDElY1QuVFBMFGQ+xLaI8+pYyBQerW211g==;QdF3+ipelgW/3nByyX5yxA=="
 ---
 
