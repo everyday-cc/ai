@@ -4,316 +4,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_learning/videos/edureka-top-8-deep-learning-frameworks-which-deep-learning-framework-you-should-learn-edureka.md",
-      "title": "Top 8 Deep Learning Frameworks | Which Deep Learning Framework You Should Learn? | Edureka",
-      "excerpt": "( ** AI & Deep Learning with Tensorflow Training: https://www.edureka.co/ai-deep-learning-with-tensorflow ** ) This Edureka video on \"Deep Learning Frameworks\" (https://goo.gl/27nAwR) provides you an  insight into the top 8 Deep Learning frameworks you should consider learning  00:38 Chainer 01:40 CNTK",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-8-deep-learning-frameworks-which-deep-learning-framework-you-should-learn-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-8-deep-learning-frameworks-which-deep-learning-framework-you-should-learn-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=_FBXfarXKuA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_FBXfarXKuA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M44S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-02T06:51:57-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_FBXfarXKuA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-what-are-autoencoders-autoencoders-using-tensorflow-deep-learning-using-tensorflow-edureka.md",
-      "title": "What Are Autoencoders? | Autoencoders Using TensorFlow  | Deep Learning Using TensorFlow | Edureka",
-      "excerpt": "** AI & Deep Learning with Tensorflow Training: https://goo.gl/vDxgi5 ** ) This Edureka tutorial video of \"What are autoencoders\" provides you with a brief introduction about autoencoders and how they compress unsupervised data. You will see the various applications and types of autoencoders used in",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-what-are-autoencoders-autoencoders-using-tensorflow-deep-learning-using-tensorflow-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-what-are-autoencoders-autoencoders-using-tensorflow-deep-learning-using-tensorflow-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=QujriOAtps4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QujriOAtps4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M12S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-01T07:02:57-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QujriOAtps4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-whats-new-in-pandas-100-python-pandas-new-features-python-training-edureka.md",
-      "title": "What's New in Pandas 1.0.0 | Python Pandas New Features | Python Training | Edureka",
-      "excerpt": "🔥Edureka Python Certification Training: https://www.edureka.co/data-science-python-certification-course This Edureka video on 'What's New In Pandas 1.0.0' will guide you through the various new features, changes and performance enhancements in the new pandas 1.0.0 release. Following are the topics discussed:",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-whats-new-in-pandas-100-python-pandas-new-features-python-training-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-whats-new-in-pandas-100-python-pandas-new-features-python-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=m6YjI_nG7VM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m6YjI_nG7VM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M28S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-09T06:51:14-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/m6YjI_nG7VM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/futurology-how-computers-learn-gradient-descent-backpropagation.md",
-      "title": "How Computers Learn (Gradient Descent & Backpropagation)",
-      "excerpt": "This video was made possible by Surfshark. Sign up with this link and enter the promo code 'Futurology' to get 83% off and an extra month free of your VPN plan! https://surfshark.deals/Futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-how-computers-learn-gradient-descent-backpropagation/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-how-computers-learn-gradient-descent-backpropagation/",
-      "originalUrl": "https://youtube.com/watch?v=mb7bG9ABOLU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mb7bG9ABOLU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M35S",
-      "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-10-16T12:41:27-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mb7bG9ABOLU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained.md",
-      "title": "How To Make A Neural Network (Neural Networks Explained)",
-      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained/",
-      "originalUrl": "https://youtube.com/watch?v=wieryfWkOl0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wieryfWkOl0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M37S",
-      "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-07-19T07:14:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wieryfWkOl0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/futurology-supervised-learning-explained-regression-classification-.md",
-      "title": "Supervised Learning Explained (+ Regression, Classification, ...)",
-      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   Artificial",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-supervised-learning-explained-regression-classification-/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-supervised-learning-explained-regression-classification-/",
-      "originalUrl": "https://youtube.com/watch?v=zAPmUlBX-Qg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zAPmUlBX-Qg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M23S",
-      "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-23T08:54:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zAPmUlBX-Qg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/futurology-unsupervised-learning-explained-clustering-manifold-learning-.md",
-      "title": "Unsupervised Learning Explained (+ Clustering, Manifold Learning, ...)",
-      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-unsupervised-learning-explained-clustering-manifold-learning-/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-unsupervised-learning-explained-clustering-manifold-learning-/",
-      "originalUrl": "https://youtube.com/watch?v=-OEgiMH5aok",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-OEgiMH5aok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M19S",
-      "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-23T15:11:51-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-OEgiMH5aok/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/futurology-what-is-deep-learning-why-deep-learning-is-so-popular.md",
-      "title": "What Is Deep Learning (Why Deep Learning Is So Popular)",
-      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   Deep learning",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-what-is-deep-learning-why-deep-learning-is-so-popular/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-what-is-deep-learning-why-deep-learning-is-so-popular/",
-      "originalUrl": "https://youtube.com/watch?v=pK9_ddD56J0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pK9_ddD56J0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M30S",
-      "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-07-15T08:01:44-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pK9_ddD56J0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-deep-learning-frameworks-2019-which-deep-learning-framework-to-use-deep-learning-simplilearn.md",
-      "title": "Deep Learning Frameworks 2019 | Which Deep Learning Framework To Use | Deep Learning | Simplilearn",
-      "excerpt": "This Deep Learning tutorial covers all the essential Deep Learning frameworks that are necessary to build AI models. In this video, you will learn about the development of essential frameworks such as TensorFlow, Keras, PyTorch, Theano, etc. You will also understand the programming languages used to",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-frameworks-2019-which-deep-learning-framework-to-use-deep-learning-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-frameworks-2019-which-deep-learning-framework-to-use-deep-learning-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=6ryPbOfz03U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6ryPbOfz03U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M53S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-06-10T06:03:43-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6ryPbOfz03U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_learning/videos/simplilearn-deep-learning-tutorial-deep-learning-tutorial-for-beginners-what-is-deep-learning-simplilearn.md",
       "title": "Deep Learning Tutorial | Deep Learning Tutorial For Beginners | What Is Deep Learning? | Simplilearn",
       "excerpt": "This Deep Learning tutorial is designed for beginners who want to learn Deep Learning from scratch. We will look at where Deep Learning is applied and what exactly this term means. We'll see how Deep Learning, Machine Learning, and AI are different and why Deep Learning even came into the picture. We",
@@ -430,6 +120,45 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-deep-learning-tutorial-what-is-deep-learning-and-neural-networks-deep-learning-simplilearn.md",
+      "title": "Deep Learning Tutorial | What Is Deep Learning And Neural Networks | Deep Learning | Simplilearn",
+      "excerpt": "Deep Learning is one of the core components of Artificial Intelligence. This video on Deep Learning Tutorial will help you understand Deep Learning basics and look into what a neural network is. You will learn the concept of a perceptron and how neural networks work. You will get an idea about backpropagation,",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-deep-learning-tutorial-what-is-deep-learning-and-neural-networks-deep-learning-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-deep-learning-tutorial-what-is-deep-learning-and-neural-networks-deep-learning-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=MJNkCmoSkbo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MJNkCmoSkbo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46M54S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-12-16T04:55:18-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MJNkCmoSkbo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -589,31 +318,31 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn.md",
-      "title": "Rise Of Robots And Artificial Intelligence | Artificial Intelligence And Robotics Scope |Simplilearn",
-      "excerpt": "In this video, we will be looking at the evolution of Robots from its inception to its future expectation. You will be also get an idea how robots are slowly getting more intelligent day by day and becoming part of our everyday life. Now, without further ado, let's jump right in!  ✅Subscribe to our Channel",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=Io-gm1eFsuY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Io-gm1eFsuY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
+      "path": "_learning/videos/simplilearn-machine-learning-steps-machine-learning-basics-machine-learning-tutorial-simplilearn.md",
+      "title": "Machine Learning Steps | Machine Learning Basics | Machine Learning Tutorial | Simplilearn",
+      "excerpt": "This video will help you understand the different steps in Machine Learning. This video will give you a brief insight into What is Machine Learning and the various types of algorithms to chose from. 🔥Free Machine Learning Course: https://www.simplilearn.com/learn-machine-learning-basics-skillup?utm_campaign=MachineLearning&utm_medium=Description&utm_source=youtube",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-machine-learning-steps-machine-learning-basics-machine-learning-tutorial-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-machine-learning-steps-machine-learning-basics-machine-learning-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=m7eF5dpEI_o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m7eF5dpEI_o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M34S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-10-16T09:26:33-07:00",
+      "publishedDateTime": "2021-03-19T03:12:55-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Io-gm1eFsuY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/m7eF5dpEI_o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -624,7 +353,7 @@
       "price": "Free",
       "topics": [
         "AI",
-        "AI in Robotics"
+        "Machine Learning"
       ]
     },
     {
@@ -706,31 +435,31 @@
       ]
     },
     {
-      "path": "_learning/videos/simplilearn-tensorflow-object-detection-api-tutorial-object-detection-api-tensorflow-tutorial-simplilearn.md",
-      "title": "TensorFlow Object Detection API Tutorial | Object Detection API | TensorFlow Tutorial | Simplilearn",
-      "excerpt": "This TensorFlow tutorial will take you through the TensorFlow code to perform object detection in a video. TensorFlow object detection API which is an open source framework built on top of TensorFlow that makes it easy to construct, train and deploy object detection models and also it provides a collection",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-object-detection-api-tutorial-object-detection-api-tensorflow-tutorial-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-object-detection-api-tutorial-object-detection-api-tensorflow-tutorial-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=hs-9BUAPN3Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hs-9BUAPN3Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M25S",
+      "path": "_learning/videos/simplilearn-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-tensorflow-explained-simplilearn.md",
+      "title": "TensorFlow In 10 Minutes | TensorFlow Tutorial For Beginners | TensorFlow Explained | Simplilearn",
+      "excerpt": "In this video on TensorFlow, you will be introduced to the basic concepts of TensorFlow. We will start off with a brief about TensorFlow and then move on to an intutive understanding of Tensors, followed by some features of TensorFlow which have made it so popular. Then, we'll take a look at some conpanines",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-tensorflow-explained-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-in-10-minutes-tensorflow-tutorial-for-beginners-tensorflow-explained-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=mSsDNGWZ7Ao",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mSsDNGWZ7Ao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M48S",
       "provider": {
         "name": "Simplilearn",
         "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-01-07T01:16:55-08:00",
+      "publishedDateTime": "2020-12-04T09:27:32-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hs-9BUAPN3Y/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mSsDNGWZ7Ao/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -741,9 +470,9 @@
       "price": "Free",
       "topics": [
         "AI",
+        "Machine Learning",
         "Google AI",
-        "TensorFlow",
-        "Machine Learning"
+        "TensorFlow"
       ]
     },
     {
@@ -813,6 +542,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/LWtU2ZXV2eA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-top-10-technologies-to-learn-in-2020-trending-technologies-in-2020-simplilearn.md",
+      "title": "Top 10 Technologies To Learn In 2020 | Trending Technologies In 2020 | Simplilearn",
+      "excerpt": "This \"Top 10 Technologies to learn in 2020\" video will introduce you to all the top 10 popular and trending technologies in the market in 2020. These are the trending technologies that you need to watch out for in order to make a successful career in the year of 2020. Take the first step towards a successful",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-top-10-technologies-to-learn-in-2020-trending-technologies-in-2020-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-top-10-technologies-to-learn-in-2020-trending-technologies-in-2020-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=Vvi0CHLLddk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vvi0CHLLddk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-02T04:31:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Vvi0CHLLddk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1012,6 +779,37 @@
       ]
     },
     {
+      "path": "_learning/videos/siraj-raval-fraud-prevention.md",
+      "title": "Fraud Prevention",
+      "excerpt": "Can AI be used for fraud prevention? Yes! In this video, we'll go over the history of fraud prevention techniques, then talk about some recent AI startups that are helping business reduce credit card fraud. We'll break down what the different AI models that help with fraud prevention look like (decision",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-fraud-prevention/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-fraud-prevention/",
+      "originalUrl": "https://youtube.com/watch?v=UNgdIkuVC6g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UNgdIkuVC6g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M52S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2018-04-29T10:01:53-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UNgdIkuVC6g/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_learning/videos/siraj-raval-generative-adversarial-networks-for-style-transfer-live.md",
       "title": "Generative Adversarial Networks for Style Transfer (LIVE)",
       "excerpt": "Generative Adversarial Nets are such a rich topic for exploration, we're going to build one that was released just 2 months ago called the \"DiscoGAN\" that lets us transfer the style between 2 datasets. And I'll be building this using Tensorflow.  Code for this video: https://github.com/llSourcell/GANS-for-style-transfer",
@@ -1091,6 +889,197 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PDbXPBwOavc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/siraj-raval-how-to-do-mathematics-easily-intro-to-deep-learning-4.md",
+      "title": "How to Do Mathematics Easily - Intro to Deep Learning #4",
+      "excerpt": "Let's learn about some key math concepts behind deep learning shall we? We'll build a 3 layer neural network and dive into some key concepts that makes deep learning give us such incredible results.  Coding challenge for this video: https://github.com/llSourcell/how_to_do_math_for_deep_learning  Jovian's",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-do-mathematics-easily-intro-to-deep-learning-4/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-do-mathematics-easily-intro-to-deep-learning-4/",
+      "originalUrl": "https://youtube.com/watch?v=N4gDikiec8E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N4gDikiec8E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M51S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-02-04T19:15:46-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N4gDikiec8E/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/siraj-raval-how-to-do-style-transfer-with-tensorflow-live.md",
+      "title": "How to Do Style Transfer with Tensorflow (LIVE)",
+      "excerpt": "We're going to learn about all the details of style transfer (especially the math) using just Tensorflow. The goal of this session is for you to understand the details behind how style+content loss is calculated and minimized. We'll also talk about future discoveries.  Code for this video: https://github.com/llSourcell/How_to_do_style_transfer_in_tensorflow",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-do-style-transfer-with-tensorflow-live/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-do-style-transfer-with-tensorflow-live/",
+      "originalUrl": "https://youtube.com/watch?v=YoBEGQD3LCc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YoBEGQD3LCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H6M26S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-03-18T01:02:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YoBEGQD3LCc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/siraj-raval-how-to-generate-images-with-tensorflow-live.md",
+      "title": "How to Generate Images with Tensorflow (LIVE)",
+      "excerpt": "We'll build a Variational Autoencoder using Tensorflow to generate images. We'll go through several examples including digit images and pokemon images. VAE's allow us to generate, compress, denoise, and even fuse images together. They are an incredibly powerful tool and we'll go over the implementation",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-generate-images-with-tensorflow-live/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-generate-images-with-tensorflow-live/",
+      "originalUrl": "https://youtube.com/watch?v=iz-TZOEKXzA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iz-TZOEKXzA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H2M51S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-05-09T20:24:38-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iz-TZOEKXzA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/siraj-raval-how-to-generate-video-intro-to-deep-learning-15.md",
+      "title": "How to Generate Video - Intro to Deep Learning #15",
+      "excerpt": "Generative Adversarial Networks. It's time. We're going to use a Deep Convolutional GAN to generate images of the alien language from the movie arrival that we can then stitch together to animate into video. I'll go over the architecture of a GAN and then we'll implement one ourselves!  Code for this",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-generate-video-intro-to-deep-learning-15/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-generate-video-intro-to-deep-learning-15/",
+      "originalUrl": "https://youtube.com/watch?v=-E2N1kQc8MM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-E2N1kQc8MM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M41S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-05-09T20:24:38-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-E2N1kQc8MM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/siraj-raval-how-to-generate-your-own-wikipedia-articles-live.md",
+      "title": "How to Generate Your Own Wikipedia Articles (LIVE)",
+      "excerpt": "We're going to build an LSTM network in Tensorflow (no Keras) to generate text after training on Wikipedia articles. You'll learn how an LSTM cell works programmatically since we'll build one using TF's math functions and how you can parse a similar dataset  Code: https://github.com/llSourcell/wiki_generator_live",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-generate-your-own-wikipedia-articles-live/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-generate-your-own-wikipedia-articles-live/",
+      "originalUrl": "https://youtube.com/watch?v=ZGU5kIG7b2I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZGU5kIG7b2I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H11M44S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-03-27T22:15:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZGU5kIG7b2I/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/siraj-raval-how-to-learn-from-little-data-intro-to-deep-learning-17.md",
+      "title": "How to Learn from Little Data - Intro to Deep Learning #17",
+      "excerpt": "One-shot learning! In this last weekly video of the course, i'll explain how memory augmented neural networks can help achieve one-shot classification for a small labeled image dataset. We'll also go over the architecture of it's inspiration (the neural turing machine).  Code for this video (with challenge):",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-learn-from-little-data-intro-to-deep-learning-17/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-learn-from-little-data-intro-to-deep-learning-17/",
+      "originalUrl": "https://youtube.com/watch?v=tChcZpBbTTA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tChcZpBbTTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M53S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-05-09T20:24:38-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tChcZpBbTTA/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true

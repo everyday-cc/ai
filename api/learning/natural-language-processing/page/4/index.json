@@ -4,123 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/stanford-university-55-naive-bayes-text-classification-and-sentiment-analysis.md",
-      "title": "5.5 Naive Bayes | Text Classification and Sentiment Analysis",
-      "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-55-naive-bayes-text-classification-and-sentiment-analysis/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-55-naive-bayes-text-classification-and-sentiment-analysis/",
-      "originalUrl": "https://youtube.com/watch?v=iLLJAtf0H5Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iLLJAtf0H5Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M20S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:41:01-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iLLJAtf0H5Q/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-56-multinomial-naive-bayes-a-worked-example-text-classification-and-sentiment-analysis.md",
-      "title": "5.6 Multinomial Naive Bayes  A Worked Example | Text Classification and Sentiment Analysis",
-      "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-56-multinomial-naive-bayes-a-worked-example-text-classification-and-sentiment-analysis/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-56-multinomial-naive-bayes-a-worked-example-text-classification-and-sentiment-analysis/",
-      "originalUrl": "https://youtube.com/watch?v=AVGSAkcmGxU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AVGSAkcmGxU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M59S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:41:01-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AVGSAkcmGxU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-57-precision-recall-and-the-f-measure-text-classification-and-sentiment-analysis.md",
-      "title": "5.7 Precision, Recall, and the F measure | Text Classification and Sentiment Analysis",
-      "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-57-precision-recall-and-the-f-measure-text-classification-and-sentiment-analysis/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-57-precision-recall-and-the-f-measure-text-classification-and-sentiment-analysis/",
-      "originalUrl": "https://youtube.com/watch?v=mjOgb4T7yyo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mjOgb4T7yyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M17S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:41:01-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mjOgb4T7yyo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_learning/videos/stanford-university-58-text-classification-evaluation-text-classification-and-sentiment-analysis.md",
       "title": "5.8 Text Classification  Evaluation | Text Classification and Sentiment Analysis",
       "excerpt": "This is part of the Week 3 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
@@ -419,6 +302,123 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ZrNmCtSrL48/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-84-inverse-document-frequency-weighting-information-retrieval.md",
+      "title": "8.4 Inverse Document Frequency Weighting | Information Retrieval",
+      "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-84-inverse-document-frequency-weighting-information-retrieval/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-84-inverse-document-frequency-weighting-information-retrieval/",
+      "originalUrl": "https://youtube.com/watch?v=7nWlI_TVid0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7nWlI_TVid0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M17S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T10:42:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7nWlI_TVid0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-86-the-vector-space-model-information-retrieval.md",
+      "title": "8.6 The Vector Space Model | Information Retrieval",
+      "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-86-the-vector-space-model-information-retrieval/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-86-the-vector-space-model-information-retrieval/",
+      "originalUrl": "https://youtube.com/watch?v=o5nflzfX5tw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o5nflzfX5tw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M23S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T10:42:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/o5nflzfX5tw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-88-evaluating-search-engines-information-retrieval.md",
+      "title": "8.8 Evaluating Search Engines | Information Retrieval",
+      "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-88-evaluating-search-engines-information-retrieval/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-88-evaluating-search-engines-information-retrieval/",
+      "originalUrl": "https://youtube.com/watch?v=b7pfLpVBN84",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b7pfLpVBN84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M3S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T10:42:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/b7pfLpVBN84/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true

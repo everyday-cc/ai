@@ -4,33 +4,33 @@
   "page": 25,
   "value": [
     {
-      "path": "_learning/videos/stanford-university-95-semi-supervised-and-unsupervised-relation-extraction-relation-extraction-and-question-answering.md",
-      "title": "9.5 Semi Supervised and Unsupervised Relation Extraction | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-95-semi-supervised-and-unsupervised-relation-extraction-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-95-semi-supervised-and-unsupervised-relation-extraction-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=zXaeW9WuhO0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zXaeW9WuhO0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M53S",
+      "path": "_learning/videos/tensorflow-announcing-tensorflow-20-coding-tensorflow.md",
+      "title": "Announcing TensorFlow 2.0 (Coding TensorFlow)",
+      "excerpt": "The TensorFlow team has been on a journey to make the training, deployment, managing, and scaling of machine learning Machine Learning models as easy as possible. To that end we have now released TensorFlow 2.0. TensorFlow 2.0 provides a comprehensive ecosystem of tools for developers, enterprises, and",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-announcing-tensorflow-20-coding-tensorflow/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-announcing-tensorflow-20-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=EqWsPO8DVXk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EqWsPO8DVXk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M10S",
       "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:43:51-08:00",
+      "publishedDateTime": "2019-09-30T11:23:37-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/zXaeW9WuhO0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/EqWsPO8DVXk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -38,8 +38,49 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "AI",
-        "Natural Language Processing"
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-distributed-processing-and-components-tensorflow-extended.md",
+      "title": "Distributed Processing and Components (TensorFlow Extended)",
+      "excerpt": "On today’s episode of TensorFlow Extended hosted by TensorFlow Developer Advocate, Robert Crowe, we’re discussing Distributed Processing and Components. Learn more on Episode 4 of the 5 part series on Real World Machine Learning in Production and a preview for the series finale!  This video is also subtitled",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-distributed-processing-and-components-tensorflow-extended/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-distributed-processing-and-components-tensorflow-extended/",
+      "originalUrl": "https://youtube.com/watch?v=7-VxHnkCJ5Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7-VxHnkCJ5Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M48S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-06T10:22:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7-VxHnkCJ5Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -68,6 +109,46 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/3RQqTTOY0U0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-tensorflow-lite-for-ios-coding-tensorflow.md",
+      "title": "TensorFlow Lite for iOS (Coding TensorFlow)",
+      "excerpt": "In this episode of Coding TensorFlow, Laurence Moroney, Developer Advocate for TensorFlow at Google, talks us through how TensorFlow Lite works on iOS. You'll see how to deploy a trained model to an iOS App, and how you can run inference with it, using C++ called from a Swift App.  Building TensorFlow",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-tensorflow-lite-for-ios-coding-tensorflow/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-tensorflow-lite-for-ios-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=0SBtAjUauOc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0SBtAjUauOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M31S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-28T12:01:43-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0SBtAjUauOc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

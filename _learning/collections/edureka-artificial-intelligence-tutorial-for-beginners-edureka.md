@@ -2,7 +2,7 @@
 title: "Artificial Intelligence Tutorial For Beginners | Edureka"
 excerpt: "This 'Artificial Intelligence Tutorial For Beginners' playlist with help you learn AI from scratch. This playlist also covers concepts of Deep Learning and Tensorflow in detail with examples."
 type: collection
-heat: 97
+heat: 98
 
 provider:
   name: Edureka

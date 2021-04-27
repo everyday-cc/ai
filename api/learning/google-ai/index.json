@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2020-03-03T07:43:43-08:00",
-      "heat": 168,
+      "heat": 173,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tPYj3fFJGjk/maxresdefault.jpg",
@@ -66,7 +66,7 @@
         ]
       },
       "publishedDateTime": "2019-01-30T13:15:01-08:00",
-      "heat": 131,
+      "heat": 133,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/inN8seMm7UI/maxresdefault.jpg",
@@ -82,6 +82,69 @@
         "TensorFlow",
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-data-pipelines-with-tensorflow-data-services.md",
+      "title": "Data Pipelines with TensorFlow Data Services",
+      "excerpt": "Learn Data Pipelines with TensorFlow Data Services from deeplearning.ai. Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment scenarios ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-data-pipelines-with-tensorflow-data-services/index.json",
+      "webUrl": "https://www.coursera.org/learn/data-pipelines-tensorflow",
+      "length": "13 hours",
+      "ratings": {
+        "count": 55,
+        "average": 3.9
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "deeplearning.ai",
+            "domain": "deeplearning.ai",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/16/6f37ad30ea4653bed72ed095189111/TFS2C3CourseraSquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Data Pipelines with TensorFlow Data Services",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
@@ -106,7 +169,7 @@
         ]
       },
       "publishedDateTime": "2020-06-17T11:35:34-07:00",
-      "heat": 120,
+      "heat": 112,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qFJeN9V1ZsI/maxresdefault.jpg",
@@ -147,7 +210,7 @@
         ]
       },
       "publishedDateTime": "2019-08-30T11:22:16-07:00",
-      "heat": 96,
+      "heat": 93,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/KNAWp2S3w94/maxresdefault.jpg",
@@ -229,7 +292,7 @@
         ]
       },
       "publishedDateTime": "2019-04-22T22:32:07-07:00",
-      "heat": 82,
+      "heat": 83,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/s4Lcf9du9L8/maxresdefault.jpg",
@@ -289,7 +352,7 @@
             ]
           },
           "publishedDateTime": "2020-05-14T16:05:17-07:00",
-          "heat": 66,
+          "heat": 63,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/ZMudJXhsUpY/maxresdefault.jpg",
@@ -330,7 +393,7 @@
             ]
           },
           "publishedDateTime": "2020-05-06T14:51:19-07:00",
-          "heat": 56,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/A9QVYOBjZdY/maxresdefault.jpg",
@@ -656,6 +719,47 @@
       ]
     },
     {
+      "path": "_learning/videos/edureka-convolutional-neural-network-cnn-convolutional-neural-networks-with-tensorflow-edureka.md",
+      "title": "Convolutional Neural Network (CNN) | Convolutional Neural Networks With TensorFlow | Edureka",
+      "excerpt": "The code referenced in this video is from https://YouTube.com/Sentdex and https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/ ( TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This Edureka \"Convolutional Neural Network Tutorial\"",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-convolutional-neural-network-cnn-convolutional-neural-networks-with-tensorflow-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-convolutional-neural-network-cnn-convolutional-neural-networks-with-tensorflow-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=umGJ30-15_A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/umGJ30-15_A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M14S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-05-17T07:16:28-07:00",
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/umGJ30-15_A/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_learning/videos/tensorflow-natural-language-processing-tokenization-nlp-zero-to-hero-part-1.md",
       "title": "Natural Language Processing - Tokenization (NLP Zero to Hero - Part 1)",
       "excerpt": "Welcome to Zero to Hero for Natural Language Processing using TensorFlow! If you’re not an expert on AI or ML, don’t worry -- we’re taking the concepts of NLP and teaching them from first principles with our host Laurence Moroney (@lmoroney).  In this first lesson we’ll talk about how to represent words",
@@ -697,33 +801,33 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-convolutional-neural-network-cnn-convolutional-neural-networks-with-tensorflow-edureka.md",
-      "title": "Convolutional Neural Network (CNN) | Convolutional Neural Networks With TensorFlow | Edureka",
-      "excerpt": "The code referenced in this video is from https://YouTube.com/Sentdex and https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/ ( TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This Edureka \"Convolutional Neural Network Tutorial\"",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-convolutional-neural-network-cnn-convolutional-neural-networks-with-tensorflow-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-convolutional-neural-network-cnn-convolutional-neural-networks-with-tensorflow-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=umGJ30-15_A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/umGJ30-15_A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M14S",
+      "path": "_learning/videos/simplilearn-tensorflow-20-tutorial-for-beginners-tensorflow-demo-deep-learning-tensorflow-simplilearn.md",
+      "title": "TensorFlow 2.0 Tutorial For Beginners | TensorFlow Demo | Deep Learning & TensorFlow | Simplilearn",
+      "excerpt": "TensorFlow is one of the most commonly used frameworks for deep learning. This TensorFlow 2.0 Tutorial covers everything from basics to advanced. You will learn what TensorFlow is, and the different applications of TensorFlow. You will understand about tensors and how a computational graph works. You",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-20-tutorial-for-beginners-tensorflow-demo-deep-learning-tensorflow-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-20-tutorial-for-beginners-tensorflow-demo-deep-learning-tensorflow-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=QPDsEtUK_D4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QPDsEtUK_D4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H26M37S",
       "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-05-17T07:16:28-07:00",
+      "publishedDateTime": "2020-07-27T06:23:30-07:00",
       "heat": 74,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/umGJ30-15_A/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/QPDsEtUK_D4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -735,48 +839,6 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-basic-computer-vision-with-ml-ml-zero-to-hero-part-2.md",
-      "title": "Basic Computer Vision with ML (ML Zero to Hero - Part 2)",
-      "excerpt": "In part two of Machine Learning Zero to Hero, AI Advocate Laurence Moroney (lmoroney@) walks through basic computer vision with machine learning by teaching a computer how to see and recognize different objects.  Beyond Hello World, a Computer Vision Example: https://goo.gle/34cHkDk  This video is also",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-basic-computer-vision-with-ml-ml-zero-to-hero-part-2/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-basic-computer-vision-with-ml-ml-zero-to-hero-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=bemDFpNooA8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bemDFpNooA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M24S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-04T09:43:09-07:00",
-      "heat": 74,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bemDFpNooA8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
       ]
     },
     {
@@ -821,6 +883,48 @@
       ]
     },
     {
+      "path": "_learning/videos/tensorflow-basic-computer-vision-with-ml-ml-zero-to-hero-part-2.md",
+      "title": "Basic Computer Vision with ML (ML Zero to Hero - Part 2)",
+      "excerpt": "In part two of Machine Learning Zero to Hero, AI Advocate Laurence Moroney (lmoroney@) walks through basic computer vision with machine learning by teaching a computer how to see and recognize different objects.  Beyond Hello World, a Computer Vision Example: https://goo.gle/34cHkDk  This video is also",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-basic-computer-vision-with-ml-ml-zero-to-hero-part-2/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-basic-computer-vision-with-ml-ml-zero-to-hero-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=bemDFpNooA8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bemDFpNooA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M24S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-04T09:43:09-07:00",
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bemDFpNooA8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_learning/videos/tensorflow-get-started-with-using-tensorflow-to-solve-for-regression-problems-coding-tensorflow.md",
       "title": "Get started with using TensorFlow to solve for regression problems (Coding TensorFlow)",
       "excerpt": "You often have to solve for regression problems when training your machine learning models. In this episode of Coding TensorFlow, Developer Advocate Robert Crowe discusses how to build and train a TensorFlow model using Keras, where you are looking for the model to solve for a single numerical result",
@@ -842,7 +946,7 @@
         ]
       },
       "publishedDateTime": "2019-03-01T15:46:39-08:00",
-      "heat": 72,
+      "heat": 70,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-vHQub0NXI4/maxresdefault.jpg",
@@ -858,47 +962,6 @@
         "TensorFlow",
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-tensorflow-20-tutorial-for-beginners-tensorflow-demo-deep-learning-tensorflow-simplilearn.md",
-      "title": "TensorFlow 2.0 Tutorial For Beginners | TensorFlow Demo | Deep Learning & TensorFlow | Simplilearn",
-      "excerpt": "TensorFlow is one of the most commonly used frameworks for deep learning. This TensorFlow 2.0 Tutorial covers everything from basics to advanced. You will learn what TensorFlow is, and the different applications of TensorFlow. You will understand about tensors and how a computational graph works. You",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-20-tutorial-for-beginners-tensorflow-demo-deep-learning-tensorflow-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-20-tutorial-for-beginners-tensorflow-demo-deep-learning-tensorflow-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=QPDsEtUK_D4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QPDsEtUK_D4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H26M37S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-27T06:23:30-07:00",
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QPDsEtUK_D4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
       ]
     },
     {
@@ -923,7 +986,7 @@
         ]
       },
       "publishedDateTime": "2018-08-06T08:40:30-07:00",
-      "heat": 69,
+      "heat": 67,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wh7_etX91ls/maxresdefault.jpg",
@@ -943,14 +1006,14 @@
       ]
     },
     {
-      "path": "_learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6.md",
-      "title": "Training an AI to create poetry (NLP Zero to Hero - Part 6)",
-      "excerpt": "Through this series so far you’ve been learning the basics of NLP using TensorFlow. You saw how to tokenize and then sequence text, preparing it to train neural networks. You saw how sentiment in text can be represented with embeddings, and how the semantics of text over long stretches might be learned",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6/",
-      "originalUrl": "https://youtube.com/watch?v=ZMudJXhsUpY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZMudJXhsUpY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M5S",
+      "path": "_learning/videos/tensorflow-saving-and-loading-models-coding-tensorflow.md",
+      "title": "Saving and Loading Models (Coding TensorFlow)",
+      "excerpt": "Training models can take a very long time, and you definitely don’t want to have to retrain everything over a single mishap. Make sure you listen to Magnus as he explains the importance of saving and loading models so you won’t end up losing your valuable training time. Follow along in this episode of",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-saving-and-loading-models-coding-tensorflow/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-saving-and-loading-models-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=HxtBIwfy0kM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HxtBIwfy0kM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M53S",
       "provider": {
         "name": "TensorFlow",
         "domain": "tensorflow.org",
@@ -963,11 +1026,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-05-14T16:05:17-07:00",
-      "heat": 66,
+      "publishedDateTime": "2018-10-25T11:21:01-07:00",
+      "heat": 67,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZMudJXhsUpY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HxtBIwfy0kM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -979,90 +1042,7 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka.md",
-      "title": "TensorFlow 2.0 Tutorial for Beginners | Deep Learning with TensorFlow 2.0 | Edureka",
-      "excerpt": "🔥Edureka TensorFlow 2.0 Course: https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka video on \"TensorFlow 2.0 Tutorial For Beginners\" will cover all the fundamentals of TensorFlow and Deep Learning and help you get started with same with a practical implementation. Following pointers",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=OHZqmJwj7n4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OHZqmJwj7n4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M7S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-26T05:27:42-07:00",
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OHZqmJwj7n4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/freecodecamporg-tensorflow-20-crash-course.md",
-      "title": "TensorFlow 2.0 Crash Course",
-      "excerpt": "Learn how to use TensorFlow 2.0 in this crash course for beginners. This course will demonstrate how to create neural networks with Python and TensorFlow 2.0.   If you want a more comprehensive TensorFlow 2.0 course, check out this 7 hour course: https://youtu.be/tPYj3fFJGjk  🎥 Course created by Tech",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/freecodecamporg-tensorflow-20-crash-course/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/freecodecamporg-tensorflow-20-crash-course/",
-      "originalUrl": "https://youtube.com/watch?v=6g4O5UOH304",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6g4O5UOH304\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H13M17S",
-      "provider": {
-        "name": "freeCodeCamp.org",
-        "domain": "freecodecamp.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/freecodecamp.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-02-08T04:29:22-08:00",
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6g4O5UOH304/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
+        "AI"
       ]
     },
     {
@@ -1087,7 +1067,7 @@
         ]
       },
       "publishedDateTime": "2019-02-12T16:19:56-08:00",
-      "heat": 64,
+      "heat": 65,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/_VTtrSDHPwU/maxresdefault.jpg",
@@ -1104,6 +1084,47 @@
         "Google AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/freecodecamporg-learn-tensorflowjs-deep-learning-and-neural-networks-with-javascript.md",
+      "title": "Learn TensorFlow.js - Deep Learning and Neural Networks with JavaScript",
+      "excerpt": "This full course introduces the concept of client-side artificial neural networks. We will learn how to deploy and run models along with full deep learning applications in the browser! To implement this cool capability, we’ll be using TensorFlow.js (TFJS), TensorFlow’s JavaScript library.  By the end",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/freecodecamporg-learn-tensorflowjs-deep-learning-and-neural-networks-with-javascript/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/freecodecamporg-learn-tensorflowjs-deep-learning-and-neural-networks-with-javascript/",
+      "originalUrl": "https://youtube.com/watch?v=EoYfa6mYOG4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EoYfa6mYOG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H19M37S",
+      "provider": {
+        "name": "freeCodeCamp.org",
+        "domain": "freecodecamp.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/freecodecamp.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-07T11:28:45-08:00",
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EoYfa6mYOG4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
@@ -1173,46 +1194,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PitcORQSjNM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-saving-and-loading-models-coding-tensorflow.md",
-      "title": "Saving and Loading Models (Coding TensorFlow)",
-      "excerpt": "Training models can take a very long time, and you definitely don’t want to have to retrain everything over a single mishap. Make sure you listen to Magnus as he explains the importance of saving and loading models so you won’t end up losing your valuable training time. Follow along in this episode of",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-saving-and-loading-models-coding-tensorflow/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-saving-and-loading-models-coding-tensorflow/",
-      "originalUrl": "https://youtube.com/watch?v=HxtBIwfy0kM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HxtBIwfy0kM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M53S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-25T11:21:01-07:00",
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HxtBIwfy0kM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1310,6 +1291,47 @@
       ]
     },
     {
+      "path": "_learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6.md",
+      "title": "Training an AI to create poetry (NLP Zero to Hero - Part 6)",
+      "excerpt": "Through this series so far you’ve been learning the basics of NLP using TensorFlow. You saw how to tokenize and then sequence text, preparing it to train neural networks. You saw how sentiment in text can be represented with embeddings, and how the semantics of text over long stretches might be learned",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-training-an-ai-to-create-poetry-nlp-zero-to-hero-part-6/",
+      "originalUrl": "https://youtube.com/watch?v=ZMudJXhsUpY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZMudJXhsUpY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M5S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-14T16:05:17-07:00",
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZMudJXhsUpY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_learning/videos/edureka-recurrent-neural-networks-rnn-rnn-lstm-deep-learning-tutorial-tensorflow-tutorial-edureka.md",
       "title": "Recurrent Neural Networks (RNN) | RNN LSTM | Deep Learning Tutorial | Tensorflow Tutorial | Edureka",
       "excerpt": "( TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This Edureka Recurrent Neural Networks tutorial video (Blog: https://goo.gl/4zxMfU) will help you in understanding why we need Recurrent Neural Networks (RNN) and what exactly it is. It also explains few issues with training",
@@ -1351,14 +1373,14 @@
       ]
     },
     {
-      "path": "_learning/videos/freecodecamporg-learn-tensorflowjs-deep-learning-and-neural-networks-with-javascript.md",
-      "title": "Learn TensorFlow.js - Deep Learning and Neural Networks with JavaScript",
-      "excerpt": "This full course introduces the concept of client-side artificial neural networks. We will learn how to deploy and run models along with full deep learning applications in the browser! To implement this cool capability, we’ll be using TensorFlow.js (TFJS), TensorFlow’s JavaScript library.  By the end",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/freecodecamporg-learn-tensorflowjs-deep-learning-and-neural-networks-with-javascript/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/freecodecamporg-learn-tensorflowjs-deep-learning-and-neural-networks-with-javascript/",
-      "originalUrl": "https://youtube.com/watch?v=EoYfa6mYOG4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EoYfa6mYOG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H19M37S",
+      "path": "_learning/videos/freecodecamporg-tensorflow-20-crash-course.md",
+      "title": "TensorFlow 2.0 Crash Course",
+      "excerpt": "Learn how to use TensorFlow 2.0 in this crash course for beginners. This course will demonstrate how to create neural networks with Python and TensorFlow 2.0.   If you want a more comprehensive TensorFlow 2.0 course, check out this 7 hour course: https://youtu.be/tPYj3fFJGjk  🎥 Course created by Tech",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/freecodecamporg-tensorflow-20-crash-course/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/freecodecamporg-tensorflow-20-crash-course/",
+      "originalUrl": "https://youtube.com/watch?v=6g4O5UOH304",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6g4O5UOH304\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H13M17S",
       "provider": {
         "name": "freeCodeCamp.org",
         "domain": "freecodecamp.org",
@@ -1371,11 +1393,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-02-07T11:28:45-08:00",
+      "publishedDateTime": "2020-02-08T04:29:22-08:00",
       "heat": 62,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/EoYfa6mYOG4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6g4O5UOH304/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1807,7 +1829,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "tags": [
             "TensorFlow"
           ],

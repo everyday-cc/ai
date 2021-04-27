@@ -2,7 +2,7 @@
 title: "Artificial Intelligence Explained by Futurology"
 excerpt: "This playlist is a composition of all videos related to artificial intelligence, from the history of AI to modern machine learning algorithms, artificial super intelligence and more!"
 type: collection
-heat: 64
+heat: 62
 
 provider:
   name: Futurology

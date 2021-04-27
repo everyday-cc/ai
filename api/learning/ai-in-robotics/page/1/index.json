@@ -4,56 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/coursera-modern-robotics-course-1-foundations-of-robot-motion.md",
-      "title": "Modern Robotics, Course 1:  Foundations of Robot Motion",
-      "excerpt": "Learn Modern Robotics, Course 1:  Foundations of Robot Motion from Northwestern University. Do you want to know how robots work?  Are you interested in robotics as a career?  Are you willing to invest the effort to learn fundamental mathematical ...",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-modern-robotics-course-1-foundations-of-robot-motion/index.json",
-      "webUrl": "https://www.coursera.org/learn/modernrobotics-course1",
-      "length": "21 hours",
-      "ratings": {
-        "count": 252,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Northwestern University"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/af/d18910e5ac11e7924259ba0bb600df/Coursera_Logo2.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Modern Robotics, Course 1:  Foundations of Robot Motion",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_learning/videos/simplilearn-most-advanced-humanoid-robots-future-of-robotics-and-artificial-intelligence-simplilearn.md",
       "title": "Most Advanced Humanoid Robots | Future Of Robotics And Artificial Intelligence | Simplilearn",
       "excerpt": "With the rapid advancement of humanoid robots in the market today, we're able to see how our lives have become simpler and easier. In this video let's look at some of the most advanced humanoid robots that are being developed by various companies and organisations.  ✅Subscribe to our Channel to learn",
@@ -75,10 +25,49 @@
         ]
       },
       "publishedDateTime": "2020-11-02T06:30:21-08:00",
-      "heat": 65,
+      "heat": 63,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/zFikq_cJ4mQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn.md",
+      "title": "Rise Of Robots And Artificial Intelligence | Artificial Intelligence And Robotics Scope |Simplilearn",
+      "excerpt": "In this video, we will be looking at the evolution of Robots from its inception to its future expectation. You will be also get an idea how robots are slowly getting more intelligent day by day and becoming part of our everyday life. Now, without further ado, let's jump right in!  ✅Subscribe to our Channel",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=Io-gm1eFsuY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Io-gm1eFsuY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M55S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-16T09:26:33-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Io-gm1eFsuY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -132,6 +121,56 @@
           "width": 400,
           "height": 400,
           "title": "Control of Mobile Robots",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-modern-robotics-course-1-foundations-of-robot-motion.md",
+      "title": "Modern Robotics, Course 1:  Foundations of Robot Motion",
+      "excerpt": "Learn Modern Robotics, Course 1:  Foundations of Robot Motion from Northwestern University. Do you want to know how robots work?  Are you interested in robotics as a career?  Are you willing to invest the effort to learn fundamental mathematical ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-modern-robotics-course-1-foundations-of-robot-motion/index.json",
+      "webUrl": "https://www.coursera.org/learn/modernrobotics-course1",
+      "length": "21 hours",
+      "ratings": {
+        "count": 252,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Northwestern University"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/af/d18910e5ac11e7924259ba0bb600df/Coursera_Logo2.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Modern Robotics, Course 1:  Foundations of Robot Motion",
           "isCached": false
         }
       ],
@@ -392,45 +431,6 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn.md",
-      "title": "Rise Of Robots And Artificial Intelligence | Artificial Intelligence And Robotics Scope |Simplilearn",
-      "excerpt": "In this video, we will be looking at the evolution of Robots from its inception to its future expectation. You will be also get an idea how robots are slowly getting more intelligent day by day and becoming part of our everyday life. Now, without further ado, let's jump right in!  ✅Subscribe to our Channel",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-rise-of-robots-and-artificial-intelligence-artificial-intelligence-and-robotics-scope-simplilearn/",
-      "originalUrl": "https://youtube.com/watch?v=Io-gm1eFsuY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Io-gm1eFsuY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
-      "provider": {
-        "name": "Simplilearn",
-        "domain": "simplilearn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-16T09:26:33-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Io-gm1eFsuY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ]

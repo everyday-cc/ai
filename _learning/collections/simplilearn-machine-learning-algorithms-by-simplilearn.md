@@ -2,7 +2,7 @@
 title: "Machine Learning Algorithms by Simplilearn"
 excerpt: "This Machine Learning Algorithms playlist covers all the different types of supervised and unsupervised learning algorithms in Machine Learning. You will learn about various algorithms like Linear Regression, Logistic Regression, Decision Tree, Random Forest, Naive Bayes Classifier, and Clustering in Python. You will understand about Convolutional Neural Networks and Recurrent Neural Networks and look at a full course video on Machine Learning full course. Now, let's get into exploring the various Machine Learning algorithms."
 type: collection
-heat: 84
+heat: 85
 
 provider:
   name: Simplilearn

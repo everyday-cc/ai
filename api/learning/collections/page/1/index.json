@@ -44,7 +44,7 @@
             ]
           },
           "publishedDateTime": "2019-09-08T01:10:29-07:00",
-          "heat": 87,
+          "heat": 94,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/DooxDIRAkPA/maxresdefault.jpg",
@@ -83,7 +83,7 @@
             ]
           },
           "publishedDateTime": "2021-03-26T05:27:42-07:00",
-          "heat": 64,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/OHZqmJwj7n4/maxresdefault.jpg",
@@ -184,7 +184,7 @@
         }
       ],
       "size": 50,
-      "heat": 104,
+      "heat": 109,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DooxDIRAkPA/maxresdefault.jpg",
@@ -241,7 +241,7 @@
             ]
           },
           "publishedDateTime": "2018-01-14T22:24:48-08:00",
-          "heat": 68,
+          "heat": 67,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/4jmsHaJ7xEA/hqdefault.jpg",
@@ -280,7 +280,7 @@
             ]
           },
           "publishedDateTime": "2019-06-02T01:22:52-07:00",
-          "heat": 164,
+          "heat": 167,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/JMUxmLyrhSk/maxresdefault.jpg",
@@ -319,7 +319,7 @@
             ]
           },
           "publishedDateTime": "2020-03-12T07:35:26-07:00",
-          "heat": 81,
+          "heat": 82,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/UFDOY1wOOz0/maxresdefault.jpg",
@@ -357,7 +357,7 @@
             ]
           },
           "publishedDateTime": "2018-01-14T22:24:48-08:00",
-          "heat": 57,
+          "heat": 56,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/5hNK7-N23eU/hqdefault.jpg",
@@ -376,7 +376,7 @@
         }
       ],
       "size": 35,
-      "heat": 97,
+      "heat": 98,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/4jmsHaJ7xEA/hqdefault.jpg",
@@ -432,7 +432,7 @@
             ]
           },
           "publishedDateTime": "2019-01-07T01:11:52-08:00",
-          "heat": 70,
+          "heat": 77,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/NUXdtN1W1FE/maxresdefault.jpg",
@@ -471,7 +471,7 @@
             ]
           },
           "publishedDateTime": "2019-01-07T01:12:12-08:00",
-          "heat": 57,
+          "heat": 59,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/XnOAdxOWXWg/maxresdefault.jpg",
@@ -510,7 +510,7 @@
             ]
           },
           "publishedDateTime": "2019-01-07T01:12:35-08:00",
-          "heat": 73,
+          "heat": 67,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/RmajweUFKvM/maxresdefault.jpg",
@@ -549,7 +549,7 @@
             ]
           },
           "publishedDateTime": "2019-01-07T01:12:59-08:00",
-          "heat": 68,
+          "heat": 71,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/eM4uJ6XGnSM/maxresdefault.jpg",
@@ -568,203 +568,10 @@
         }
       ],
       "size": 19,
-      "heat": 84,
+      "heat": 85,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/NUXdtN1W1FE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/collections/edureka-machine-learning-tutorial-in-python-edureka.md",
-      "title": "Machine Learning Tutorial in Python | Edureka",
-      "excerpt": "This Edureka playlist on 'Machine Learning Tutorial in Python' helps you gain expertise in various types of machine learning algorithms like supervised, unsupervised and reinforcement algorithms. Through this playlist you will be learning the important Machine Learning concepts and its implementation in python programming language.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/edureka-machine-learning-tutorial-in-python-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/collections/edureka-machine-learning-tutorial-in-python-edureka/",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka.md",
-          "title": "Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka",
-          "excerpt": "🔥 Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka Machine Learning Full Course video will help you understand and learn Machine Learning Algorithms in detail. This Machine Learning Tutorial is ideal for both beginners",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka/",
-          "originalUrl": "https://youtube.com/watch?v=GwIo3gDZCVQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GwIo3gDZCVQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT9H38M32S",
-          "provider": {
-            "name": "Edureka",
-            "domain": "edureka.co",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2019-09-21T12:13:28-07:00",
-          "heat": 163,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        },
-        {
-          "path": "_learning/videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka.md",
-          "title": "What is Machine Learning? | Machine Learning Basics | Machine Learning Tutorial | Edureka",
-          "excerpt": "(Data Science Certification: https://www.edureka.co/data-science-r-programming-certification-course ) This Edureka video on \"What is Machine Learning\" (Machine Learning Blog:  https://goo.gl/fe7ykh  ) gives an introduction to Machine Learning and its various types. Below are the topics covered in this",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka/",
-          "originalUrl": "https://youtube.com/watch?v=Pj0neYUp9Tc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Pj0neYUp9Tc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT17M21S",
-          "provider": {
-            "name": "Edureka",
-            "domain": "edureka.co",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-03-16T07:31:01-07:00",
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/Pj0neYUp9Tc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        },
-        {
-          "path": "_learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka.md",
-          "title": "Top 10 Books for Machine Learning in 2021 | Best ML Books for Beginners And Advanced | Edureka",
-          "excerpt": "** Machine Learning Training:  https://www.edureka.co/data-science-python-certification-course ** This Edureka video on 'Top 10 Best Books for Machine Learning in 2021' will help you out if you are someone who loves to study from books. We have suggestions for the best books for beginners to advanced",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka/",
-          "originalUrl": "https://youtube.com/watch?v=AdBKfuYbqu4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AdBKfuYbqu4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT9M6S",
-          "provider": {
-            "name": "Edureka",
-            "domain": "edureka.co",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2019-11-14T06:32:18-08:00",
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/AdBKfuYbqu4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        },
-        {
-          "path": "_learning/videos/edureka-top-10-applications-of-machine-learning-in-2021-machine-learning-application-examples-edureka.md",
-          "title": "Top 10 Applications of Machine Learning in 2021 | Machine Learning Application Examples | Edureka",
-          "excerpt": "** Machine Learning Training with Python: https://www.edureka.co/data-science-python-certification-course ** This \"Top 10 Applications of Machine Learning in 2021\" video will give you an idea of how vast the machine learning is and how commonly you are using it in your day to day life.   Check out our",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-applications-of-machine-learning-in-2021-machine-learning-application-examples-edureka/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-applications-of-machine-learning-in-2021-machine-learning-application-examples-edureka/",
-          "originalUrl": "https://youtube.com/watch?v=ahRcGObyEZo",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ahRcGObyEZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT13M59S",
-          "provider": {
-            "name": "Edureka",
-            "domain": "edureka.co",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-07-25T06:36:02-07:00",
-          "heat": 67,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ahRcGObyEZo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        }
-      ],
-      "size": 83,
-      "heat": 80,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -818,7 +625,7 @@
             ]
           },
           "publishedDateTime": "2020-05-14T16:05:17-07:00",
-          "heat": 66,
+          "heat": 63,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/ZMudJXhsUpY/maxresdefault.jpg",
@@ -859,7 +666,7 @@
             ]
           },
           "publishedDateTime": "2020-05-06T14:51:19-07:00",
-          "heat": 56,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/A9QVYOBjZdY/maxresdefault.jpg",
@@ -1185,6 +992,199 @@
       ]
     },
     {
+      "path": "_learning/collections/edureka-machine-learning-tutorial-in-python-edureka.md",
+      "title": "Machine Learning Tutorial in Python | Edureka",
+      "excerpt": "This Edureka playlist on 'Machine Learning Tutorial in Python' helps you gain expertise in various types of machine learning algorithms like supervised, unsupervised and reinforcement algorithms. Through this playlist you will be learning the important Machine Learning concepts and its implementation in python programming language.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/edureka-machine-learning-tutorial-in-python-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/edureka-machine-learning-tutorial-in-python-edureka/",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka.md",
+          "title": "Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka",
+          "excerpt": "🔥 Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka Machine Learning Full Course video will help you understand and learn Machine Learning Algorithms in detail. This Machine Learning Tutorial is ideal for both beginners",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-machine-learning-full-course-learn-machine-learning-10-hours-machine-learning-tutorial-edureka/",
+          "originalUrl": "https://youtube.com/watch?v=GwIo3gDZCVQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GwIo3gDZCVQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT9H38M32S",
+          "provider": {
+            "name": "Edureka",
+            "domain": "edureka.co",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2019-09-21T12:13:28-07:00",
+          "heat": 174,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka.md",
+          "title": "What is Machine Learning? | Machine Learning Basics | Machine Learning Tutorial | Edureka",
+          "excerpt": "(Data Science Certification: https://www.edureka.co/data-science-r-programming-certification-course ) This Edureka video on \"What is Machine Learning\" (Machine Learning Blog:  https://goo.gl/fe7ykh  ) gives an introduction to Machine Learning and its various types. Below are the topics covered in this",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-what-is-machine-learning-machine-learning-basics-machine-learning-tutorial-edureka/",
+          "originalUrl": "https://youtube.com/watch?v=Pj0neYUp9Tc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Pj0neYUp9Tc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT17M21S",
+          "provider": {
+            "name": "Edureka",
+            "domain": "edureka.co",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-03-16T07:31:01-07:00",
+          "heat": 62,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/Pj0neYUp9Tc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka.md",
+          "title": "Top 10 Books for Machine Learning in 2021 | Best ML Books for Beginners And Advanced | Edureka",
+          "excerpt": "** Machine Learning Training:  https://www.edureka.co/data-science-python-certification-course ** This Edureka video on 'Top 10 Best Books for Machine Learning in 2021' will help you out if you are someone who loves to study from books. We have suggestions for the best books for beginners to advanced",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-books-for-machine-learning-in-2021-best-ml-books-for-beginners-and-advanced-edureka/",
+          "originalUrl": "https://youtube.com/watch?v=AdBKfuYbqu4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AdBKfuYbqu4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT9M6S",
+          "provider": {
+            "name": "Edureka",
+            "domain": "edureka.co",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2019-11-14T06:32:18-08:00",
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/AdBKfuYbqu4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/videos/edureka-top-10-applications-of-machine-learning-in-2021-machine-learning-application-examples-edureka.md",
+          "title": "Top 10 Applications of Machine Learning in 2021 | Machine Learning Application Examples | Edureka",
+          "excerpt": "** Machine Learning Training with Python: https://www.edureka.co/data-science-python-certification-course ** This \"Top 10 Applications of Machine Learning in 2021\" video will give you an idea of how vast the machine learning is and how commonly you are using it in your day to day life.   Check out our",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-applications-of-machine-learning-in-2021-machine-learning-application-examples-edureka/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-applications-of-machine-learning-in-2021-machine-learning-application-examples-edureka/",
+          "originalUrl": "https://youtube.com/watch?v=ahRcGObyEZo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ahRcGObyEZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT13M59S",
+          "provider": {
+            "name": "Edureka",
+            "domain": "edureka.co",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-07-25T06:36:02-07:00",
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ahRcGObyEZo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        }
+      ],
+      "size": 85,
+      "heat": 74,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/collections/stanford-university-from-languages-to-information.md",
       "title": "From Languages to Information | Stanford University",
       "excerpt": "The online world has a vast array of unstructured information in the form of language and social networks. Learn how to make sense of it and how to interact with humans via language, from answering questions to giving advice!",
@@ -1244,7 +1244,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T10:34:51-08:00",
-              "heat": 51,
+              "heat": 50,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
@@ -1862,7 +1862,7 @@
                 ]
               },
               "publishedDateTime": "2018-01-25T10:42:38-08:00",
-              "heat": 51,
+              "heat": 52,
               "images": [
                 {
                   "url": "https://i.ytimg.com/vi/e81nC0LO0A8/hqdefault.jpg",
@@ -1994,155 +1994,6 @@
       ]
     },
     {
-      "path": "_learning/collections/futurology-artificial-intelligence-explained-by-futurology.md",
-      "title": "Artificial Intelligence Explained by Futurology",
-      "excerpt": "This playlist is a composition of all videos related to artificial intelligence, from the history of AI to modern machine learning algorithms, artificial super intelligence and more!",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/futurology-artificial-intelligence-explained-by-futurology/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/collections/futurology-artificial-intelligence-explained-by-futurology/",
-      "provider": {
-        "name": "Futurology",
-        "domain": "youtube.com"
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/futurology-the-history-of-artificial-intelligence-documentary.md",
-          "title": "The History of Artificial Intelligence [Documentary]",
-          "excerpt": "Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   This video is the culmination of documentaries that cover the history and origins of computing-based artificial intelligence.   [0:44-52:22] - The Thinking Machine  [52:22-59:26] - In Their Own Worlds (Claude",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-the-history-of-artificial-intelligence-documentary/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-the-history-of-artificial-intelligence-documentary/",
-          "originalUrl": "https://youtube.com/watch?v=R3YFxF0n8n8",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R3YFxF0n8n8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT2H34M37S",
-          "provider": {
-            "name": "Futurology",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2020-03-21T17:13:43-07:00",
-          "heat": 155,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/R3YFxF0n8n8/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/videos/futurology-artificial-intelligence-a-history.md",
-          "title": "Artificial Intelligence: A History",
-          "excerpt": "This video was made possible by Surfshark. Sign up with this link and enter the promo code 'Futurology' to get 83% off and an extra month free of your VPN plan! https://surfshark.deals/Futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://offset.earthone.io/   Artificial",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-artificial-intelligence-a-history/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-artificial-intelligence-a-history/",
-          "originalUrl": "https://youtube.com/watch?v=-qnMLjxJZm0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-qnMLjxJZm0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT14M16S",
-          "provider": {
-            "name": "Futurology",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2020-03-22T19:25:02-07:00",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/-qnMLjxJZm0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/videos/futurology-the-birth-of-artificial-intelligence.md",
-          "title": "The Birth of Artificial Intelligence",
-          "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-the-birth-of-artificial-intelligence/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-the-birth-of-artificial-intelligence/",
-          "originalUrl": "https://youtube.com/watch?v=eYmKC0oQtDE",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eYmKC0oQtDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT17M50S",
-          "provider": {
-            "name": "Futurology",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2020-03-23T04:15:37-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/eYmKC0oQtDE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/videos/futurology-machine-learning-everything-you-need-to-know.md",
-          "title": "Machine Learning: Everything You Need To Know",
-          "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://offset.earthone.io/   In the",
-          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-machine-learning-everything-you-need-to-know/index.json",
-          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-machine-learning-everything-you-need-to-know/",
-          "originalUrl": "https://youtube.com/watch?v=E2IAhfD1WYM",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E2IAhfD1WYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT14M50S",
-          "provider": {
-            "name": "Futurology",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2020-03-23T18:59:04-07:00",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/E2IAhfD1WYM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/R3YFxF0n8n8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/collections/dotnet-machine-learning-with-mlnet.md",
       "title": "Machine Learning with ML.NET",
       "excerpt": "Welcome to Machine Learning with ML.NET! In this introductory video series we will introduce the concept of Machine Learning, what you can do with various tooling, and how to get started with ML.NET!",
@@ -2183,7 +2034,7 @@
             ]
           },
           "publishedDateTime": "2019-09-19T17:48:24-07:00",
-          "heat": 55,
+          "heat": 53,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/X0DQjfW09kA/maxresdefault.jpg",
@@ -2263,7 +2114,7 @@
             ]
           },
           "publishedDateTime": "2019-09-19T18:05:43-07:00",
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7U14iupLMdk/maxresdefault.jpg",
@@ -2395,7 +2246,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2017-04-10T16:17:20-07:00",
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/XdM6ER7zTLk/hqdefault.jpg",
@@ -2426,7 +2277,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2017-01-24T10:31:39-08:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/p69khggr1Jo/hqdefault.jpg",
@@ -2478,7 +2329,7 @@
         }
       ],
       "size": 34,
-      "heat": 62,
+      "heat": 63,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/vOppzHpvTiQ/hqdefault.jpg",
@@ -2492,6 +2343,155 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/collections/futurology-artificial-intelligence-explained-by-futurology.md",
+      "title": "Artificial Intelligence Explained by Futurology",
+      "excerpt": "This playlist is a composition of all videos related to artificial intelligence, from the history of AI to modern machine learning algorithms, artificial super intelligence and more!",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/collections/futurology-artificial-intelligence-explained-by-futurology/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/collections/futurology-artificial-intelligence-explained-by-futurology/",
+      "provider": {
+        "name": "Futurology",
+        "domain": "youtube.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/futurology-the-history-of-artificial-intelligence-documentary.md",
+          "title": "The History of Artificial Intelligence [Documentary]",
+          "excerpt": "Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   This video is the culmination of documentaries that cover the history and origins of computing-based artificial intelligence.   [0:44-52:22] - The Thinking Machine  [52:22-59:26] - In Their Own Worlds (Claude",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-the-history-of-artificial-intelligence-documentary/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-the-history-of-artificial-intelligence-documentary/",
+          "originalUrl": "https://youtube.com/watch?v=R3YFxF0n8n8",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R3YFxF0n8n8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2H34M37S",
+          "provider": {
+            "name": "Futurology",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-03-21T17:13:43-07:00",
+          "heat": 74,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/R3YFxF0n8n8/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/futurology-artificial-intelligence-a-history.md",
+          "title": "Artificial Intelligence: A History",
+          "excerpt": "This video was made possible by Surfshark. Sign up with this link and enter the promo code 'Futurology' to get 83% off and an extra month free of your VPN plan! https://surfshark.deals/Futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://offset.earthone.io/   Artificial",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-artificial-intelligence-a-history/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-artificial-intelligence-a-history/",
+          "originalUrl": "https://youtube.com/watch?v=-qnMLjxJZm0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-qnMLjxJZm0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M16S",
+          "provider": {
+            "name": "Futurology",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-03-22T19:25:02-07:00",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/-qnMLjxJZm0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/futurology-the-birth-of-artificial-intelligence.md",
+          "title": "The Birth of Artificial Intelligence",
+          "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-the-birth-of-artificial-intelligence/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-the-birth-of-artificial-intelligence/",
+          "originalUrl": "https://youtube.com/watch?v=eYmKC0oQtDE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eYmKC0oQtDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT17M50S",
+          "provider": {
+            "name": "Futurology",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-03-23T04:15:37-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/eYmKC0oQtDE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/videos/futurology-machine-learning-everything-you-need-to-know.md",
+          "title": "Machine Learning: Everything You Need To Know",
+          "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://offset.earthone.io/   In the",
+          "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-machine-learning-everything-you-need-to-know/index.json",
+          "webUrl": "https://everyday.cc/ai/learning/videos/futurology-machine-learning-everything-you-need-to-know/",
+          "originalUrl": "https://youtube.com/watch?v=E2IAhfD1WYM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E2IAhfD1WYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M50S",
+          "provider": {
+            "name": "Futurology",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2020-03-23T18:59:04-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/E2IAhfD1WYM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R3YFxF0n8n8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -2574,7 +2574,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T10:42:38-08:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/e81nC0LO0A8/hqdefault.jpg",
@@ -2671,7 +2671,7 @@
         }
       ],
       "size": 14,
-      "heat": 61,
+      "heat": 62,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kNkCfaH2rxc/hqdefault.jpg",
@@ -3566,7 +3566,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "tags": [
             "TensorFlow"
           ],
@@ -4126,7 +4126,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T10:34:51-08:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
@@ -5639,7 +5639,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T10:45:08-08:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/swDoFpuHpzQ/hqdefault.jpg",
@@ -5697,7 +5697,7 @@
         }
       ],
       "size": 2,
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/swDoFpuHpzQ/hqdefault.jpg",
@@ -5793,7 +5793,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T10:46:05-08:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/29Tx-s0ybiQ/hqdefault.jpg",

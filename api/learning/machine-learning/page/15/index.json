@@ -4,520 +4,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_learning/courses/pluralsight-machine-learning-with-xgboost-using-scikit-learn-in-python.md",
-      "title": "Machine Learning with XGBoost Using scikit-learn in Python",
-      "excerpt": "XGBoost is the most winning supervised machine learning approach in competitive modeling on structured datasets. This course will teach you the basics of XGBoost, including basic syntax, functions, and implementing the model in the real world. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-machine-learning-with-xgboost-using-scikit-learn-in-python/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/xgboost-python-scikit-learn-machine-learning",
-      "length": "1h 33m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Mike West",
-            "type": "profile",
-            "name": "Mike West"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/xgboost-python-scikit-learn-machine-learning-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Machine Learning with XGBoost Using scikit-learn in Python",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-model-evaluation-and-selection-using-scikit-learn.md",
-      "title": "Model Evaluation and Selection Using scikit-learn",
-      "excerpt": "Review the techniques and metrics used to evaluate how well your machine learning model performs. You will also learn methods to select the best machine learning model from a set of models that you've built.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-model-evaluation-and-selection-using-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/model-evaluation-selection-scikit-learn",
-      "length": "1h 17m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Pluralsight",
-            "type": "profile",
-            "name": "Pluralsight"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/model-evaluation-selection-scikit-learn-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Model Evaluation and Selection Using scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-preparing-data-for-modeling-with-scikit-learn.md",
-      "title": "Preparing Data for Modeling with scikit-learn",
-      "excerpt": "This course covers important steps in the pre-processing of data, including standardization, normalization, novelty and outlier detection, pre-processing image and text data, as well as explicit kernel approximations such as the RBF and Nystroem methods. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-preparing-data-for-modeling-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/preparing-data-modeling-scikit-learn",
-      "length": "3h 40m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/preparing-data-modeling-scikit-learn-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Preparing Data for Modeling with scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-reducing-dimensions-in-data-with-scikit-learn.md",
-      "title": "Reducing Dimensions in Data with scikit-learn",
-      "excerpt": "This course covers a wide range of the important techniques of dimensionality reduction and feature selection available in scikit-learn, allowing model builders to optimize model performance by reducing overfitting, save on model training time and cost, and better visualize the results of machine learning models.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-reducing-dimensions-in-data-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/reducing-dimensions-data-scikit-learn",
-      "length": "2h 29m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/reducing-dimensions-data-scikit-learn-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Reducing Dimensions in Data with scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-scaling-scikit-learn-solutions.md",
-      "title": "Scaling scikit-learn Solutions",
-      "excerpt": "This course covers the important considerations for scikit-learn models in improving prediction latency and throughput; specific feature representation and partial learning techniques, as well as implementations of incremental learning, out-of-core learning, and multicore parallelism.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-scaling-scikit-learn-solutions/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/scaling-scikit-learn-solutions",
-      "length": "2h 53m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/scaling-scikit-learn-solutions-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Scaling scikit-learn Solutions",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-style-transfer-with-pytorch.md",
-      "title": "Style Transfer with PyTorch",
-      "excerpt": "This course covers the important aspects of neural style transfer, a technique for transforming images, and discusses Generative Adversarial Networks in order to efficiently create realistic images and videos.\n",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-style-transfer-with-pytorch/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/style-transfer-pytorch",
-      "length": "1h 49m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/style-transfer-pytorch-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Style Transfer with PyTorch",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-summarizing-data-and-deducing-probabilities.md",
-      "title": "Summarizing Data and Deducing Probabilities",
-      "excerpt": "This course covers the most important aspects of exploratory data analysis using different univariate, bivariate, and multivariate statistics from Excel and Python, including the use of Naive Bayes' classifiers and Seaborn to visualize relationships.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-summarizing-data-and-deducing-probabilities/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/summarizing-data-deducing-probabilities",
-      "length": "2h 48m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/summarizing-data-deducing-probabilities-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Summarizing Data and Deducing Probabilities",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-understanding-machine-learning-with-python.md",
-      "title": "Understanding Machine Learning with Python",
-      "excerpt": "Use your data to predict future events with the help of machine learning. This course will walk you through creating a machine learning prediction solution and will introduce Python, the scikit-learn library, and the Jupyter Notebook environment.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-understanding-machine-learning-with-python/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/python-understanding-machine-learning",
-      "length": "1h 53m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Jerry Kurata",
-            "type": "profile",
-            "name": "Jerry Kurata"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/python-understanding-machine-learning-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Understanding Machine Learning with Python",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-using-pytorch-in-the-cloud-pytorch-playbook.md",
-      "title": "Using PyTorch in the Cloud: PyTorch Playbook",
-      "excerpt": "This course covers the important aspects of using PyTorch on Amazon Web Services (AWS), Microsoft Azure, and the Google Cloud Platform (GCP), including the use of cloud-hosted notebooks, deep learning VM instances with GPU support, and PyTorch estimators. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/pluralsight-using-pytorch-in-the-cloud-pytorch-playbook/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/using-pytorch-in-the-cloud-playbook",
-      "length": "2h 21m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/using-pytorch-in-the-cloud-playbook-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Using PyTorch in the Cloud: PyTorch Playbook",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/udacity-intro-to-machine-learning.md",
-      "title": "Intro to Machine Learning",
-      "excerpt": "This class will teach you the end-to-end process of investigating data through a machine learning lens, and you'll apply what you've learned to a real-world data set.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/udacity-intro-to-machine-learning/index.json",
-      "webUrl": "https://classroom.udacity.com/courses/cs271",
-      "length": "10 Weeks",
-      "provider": {
-        "name": "Udacity",
-        "domain": "udacity.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/udacity.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Katie Malone",
-            "type": "profile",
-            "name": "Katie Malone"
-          },
-          {
-            "path": "",
-            "title": "Sebastian Thrun",
-            "type": "profile",
-            "name": "Sebastian Thrun"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud120_thumbnail.jpg",
-          "width": 300,
-          "height": 184,
-          "title": "Intro to Machine Learning",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_learning/videos/edureka-classifying-hand-written-digits-using-tensorflow-deep-learning-tutorial-part-3-edureka.md",
       "title": "Classifying Hand Written Digits Using TensorFlow |  Deep Learning Tutorial: Part -3  | Edureka",
       "excerpt": "(TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow) Part - 1 Introduction to Neural Networks: https://www.youtube.com/watch?v=WLxI4D01nj8 Part - 2 Backpropagation and Stochastic Gradient Descent: https://www.youtube.com/watch?v=Dws9Zveu9ug This video is the final part of the",
@@ -879,6 +365,86 @@
       ]
     },
     {
+      "path": "_learning/videos/edureka-keras-tutorial-tensorflow-deep-learning-with-keras-building-models-with-keras-edureka.md",
+      "title": "Keras Tutorial TensorFlow | Deep Learning with Keras | Building Models with Keras | Edureka",
+      "excerpt": "** TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka Keras Tutorial TensorFlow video (Blog: https://goo.gl/4zxMfU) will help you in understanding basics of Keras Api with examples.  Below are the topics covered in this tutorial:  1. What is Keras? 2. Building",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-keras-tutorial-tensorflow-deep-learning-with-keras-building-models-with-keras-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-keras-tutorial-tensorflow-deep-learning-with-keras-building-models-with-keras-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=Y1-hQdgftMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y1-hQdgftMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT52M23S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-06-10T22:51:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Y1-hQdgftMQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-machine-learning-engineer-career-path-in-2021-machine-learning-tutorial-edureka.md",
+      "title": "Machine Learning Engineer Career Path in 2021 | Machine Learning Tutorial | Edureka",
+      "excerpt": "🔥Edureka Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka session on \"Machine Learning Engineer Career Path 2021\" is part of the Machine Learning Tutorial which covers all the basic aspects of becoming a certified Machine",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-machine-learning-engineer-career-path-in-2021-machine-learning-tutorial-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-machine-learning-engineer-career-path-in-2021-machine-learning-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=cA_94ewJloI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cA_94ewJloI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M59S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-12-04T03:45:55-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cA_94ewJloI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/videos/edureka-machine-learning-in-python-python-machine-learning-tutorial-deep-learning-python-edureka.md",
       "title": "Machine Learning In Python | Python Machine Learning Tutorial | Deep Learning Python | Edureka",
       "excerpt": "** Data Science Master's Program: https://www.edureka.co/masters-program/data-scientist-certification ** In this Edureka tutorial on \"Machine Learning In Python\", we will be covering all the fundamentals of Machine Learning. This is the second video in the \"Python for Deep Learning\" series, below are",
@@ -943,6 +509,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fplSLR6dSiE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-neural-network-tutorial-introduction-to-neural-network-deep-learning-tutorial-part-1-edureka.md",
+      "title": "Neural Network Tutorial | Introduction to Neural Network | Deep Learning Tutorial - Part 1 | Edureka",
+      "excerpt": "( TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow )   This video will provide you with a brief and crisp knowledge of Neural Networks, how they work, the various parameters involved in the whole Deep Learning Process.  Subscribe to our channel to get video updates. Hit the",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-neural-network-tutorial-introduction-to-neural-network-deep-learning-tutorial-part-1-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-neural-network-tutorial-introduction-to-neural-network-deep-learning-tutorial-part-1-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=WLxI4D01nj8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WLxI4D01nj8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M17S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-13T22:23:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WLxI4D01nj8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1035,6 +640,45 @@
       ]
     },
     {
+      "path": "_learning/videos/edureka-python-certification-data-science-with-python-certification-python-tutorial-edureka.md",
+      "title": "Python Certification | Data Science with Python Certification | Python Tutorial | Edureka",
+      "excerpt": "🔥Edureka Python Certification Training: https://www.edureka.co/python-programming-certification-training This Edureka video on Python Certification is a part of the Python Tutorial Series which will give you a complete insight into Python Certification, how to crack it, and hands-on knowledge on various",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-python-certification-data-science-with-python-certification-python-tutorial-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-python-certification-data-science-with-python-certification-python-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=rwuXmw5hxOU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwuXmw5hxOU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M6S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-12-25T09:20:07-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rwuXmw5hxOU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/videos/edureka-python-for-data-science-how-to-use-data-science-with-python-data-science-using-python-edureka.md",
       "title": "Python for Data Science | How to use Data Science with Python | Data Science using Python | Edureka",
       "excerpt": "🔥Edureka Python Data Science Training: https://www.edureka.co/data-science-python-certification-course This Edureka video on 'Python for Data Science' will help you understand how we can use python for data science along with various use cases. Following are the topics discussed this Python Data Science",
@@ -1101,6 +745,47 @@
           "url": "https://i.ytimg.com/vi/uh2Fh6df7Lg/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-tensorflow-in-5-minutes-introduction-to-tensorflow-deep-learning-using-tensorflow-edureka.md",
+      "title": "TensorFlow in 5 Minutes | Introduction To TensorFlow | Deep Learning Using TensorFlow | Edureka",
+      "excerpt": "** AI & Deep Learning with Tensorflow Training: https://goo.gl/vDxgi5 **  This Edureka video of \"TensorFlow in 5 minutes\" provides you a quick insight on the TensorFlow Framework along with TensorBoard and an example.  Do subscribe to our channel and hit the bell icon to never miss an update from us",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorflow-in-5-minutes-introduction-to-tensorflow-deep-learning-using-tensorflow-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorflow-in-5-minutes-introduction-to-tensorflow-deep-learning-using-tensorflow-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=eGjDYm86H_E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eGjDYm86H_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M7S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-10-10T22:35:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eGjDYm86H_E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -1197,45 +882,6 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-top-10-technologies-to-learn-in-2018-trending-technologies-2018-edureka.md",
-      "title": "Top 10 Technologies To Learn In 2018 | Trending Technologies 2018 | @edureka!",
-      "excerpt": "** Flat 20% Off ( Use Code: YOUTUBE ) Edureka Online Courses: https://www.edureka.co ** UPDATED 2019 Trending Technologies video: http://bit.ly/2S41ubS Subscribe to our Edureka YouTube channel to get video updates : https://goo.gl/6ohpTV This Edureka \"Top 10 Technologies in 2018\" video will introduce",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-top-10-technologies-to-learn-in-2018-trending-technologies-2018-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-top-10-technologies-to-learn-in-2018-trending-technologies-2018-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=evU3TzbraQM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/evU3TzbraQM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M26S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-12-11T07:49:07-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/evU3TzbraQM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_learning/videos/edureka-top-8-deep-learning-frameworks-which-deep-learning-framework-you-should-learn-edureka.md",
       "title": "Top 8 Deep Learning Frameworks | Which Deep Learning Framework You Should Learn? | Edureka",
       "excerpt": "( ** AI & Deep Learning with Tensorflow Training: https://www.edureka.co/ai-deep-learning-with-tensorflow ** ) This Edureka video on \"Deep Learning Frameworks\" (https://goo.gl/27nAwR) provides you an  insight into the top 8 Deep Learning frameworks you should consider learning  00:38 Chainer 01:40 CNTK",
@@ -1313,6 +959,208 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-what-is-artificial-intelligence-artificial-intelligence-tutorial-for-beginners-edureka.md",
+      "title": "What is Artificial Intelligence | Artificial Intelligence Tutorial For Beginners | Edureka",
+      "excerpt": "( TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This video on Artificial Intelligence gives you a brief introduction to AI discussing how it can be a threat as well as useful.  The video covers the following topics:  1. AI as a threat 2. What is AI? 3. History of AI",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-what-is-artificial-intelligence-artificial-intelligence-tutorial-for-beginners-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-what-is-artificial-intelligence-artificial-intelligence-tutorial-for-beginners-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=0vfZFL-ftz0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0vfZFL-ftz0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M37S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-14T22:24:48-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0vfZFL-ftz0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-whats-new-in-pandas-100-python-pandas-new-features-python-training-edureka.md",
+      "title": "What's New in Pandas 1.0.0 | Python Pandas New Features | Python Training | Edureka",
+      "excerpt": "🔥Edureka Python Certification Training: https://www.edureka.co/data-science-python-certification-course This Edureka video on 'What's New In Pandas 1.0.0' will guide you through the various new features, changes and performance enhancements in the new pandas 1.0.0 release. Following are the topics discussed:",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-whats-new-in-pandas-100-python-pandas-new-features-python-training-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-whats-new-in-pandas-100-python-pandas-new-features-python-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=m6YjI_nG7VM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m6YjI_nG7VM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M28S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-09T06:51:14-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m6YjI_nG7VM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/futurology-deep-learning-explained-how-neural-networks-work.md",
+      "title": "Deep Learning Explained (How Neural Networks Work)",
+      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In videos past",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-deep-learning-explained-how-neural-networks-work/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-deep-learning-explained-how-neural-networks-work/",
+      "originalUrl": "https://youtube.com/watch?v=rJmBhnLzjOM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rJmBhnLzjOM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M18S",
+      "provider": {
+        "name": "Futurology",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-11-09T07:41:39-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rJmBhnLzjOM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained.md",
+      "title": "How To Make A Neural Network (Neural Networks Explained)",
+      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained/",
+      "originalUrl": "https://youtube.com/watch?v=wieryfWkOl0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wieryfWkOl0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M37S",
+      "provider": {
+        "name": "Futurology",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-07-19T07:14:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wieryfWkOl0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/futurology-machine-learning-everything-you-need-to-know.md",
+      "title": "Machine Learning: Everything You Need To Know",
+      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://offset.earthone.io/   In the",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-machine-learning-everything-you-need-to-know/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-machine-learning-everything-you-need-to-know/",
+      "originalUrl": "https://youtube.com/watch?v=E2IAhfD1WYM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E2IAhfD1WYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M50S",
+      "provider": {
+        "name": "Futurology",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-23T18:59:04-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/E2IAhfD1WYM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/futurology-what-is-deep-learning-why-deep-learning-is-so-popular.md",
+      "title": "What Is Deep Learning (Why Deep Learning Is So Popular)",
+      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   Deep learning",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/futurology-what-is-deep-learning-why-deep-learning-is-so-popular/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/futurology-what-is-deep-learning-why-deep-learning-is-so-popular/",
+      "originalUrl": "https://youtube.com/watch?v=pK9_ddD56J0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pK9_ddD56J0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M30S",
+      "provider": {
+        "name": "Futurology",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-07-15T08:01:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pK9_ddD56J0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

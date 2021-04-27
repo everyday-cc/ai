@@ -2,7 +2,7 @@
 title: "Machine Learning Tutorial in Python | Edureka"
 excerpt: "This Edureka playlist on 'Machine Learning Tutorial in Python' helps you gain expertise in various types of machine learning algorithms like supervised, unsupervised and reinforcement algorithms. Through this playlist you will be learning the important Machine Learning concepts and its implementation in python programming language."
 type: collection
-heat: 80
+heat: 74
 
 provider:
   name: Edureka
@@ -96,6 +96,8 @@ items:
   - videos/edureka-ai-roadmap-for-2021-learn-ai-artificial-intelligence-careers-data-science-training-edureka
   - videos/edureka-ml-model-deployment-with-flask-on-heroku-how-to-deploy-machine-learning-model-with-flask-edureka
   - videos/edureka-machine-learning-road-map-machine-learning-careers-machine-learning-training-edureka
+  - videos/edureka-analyzing-recent-covid-19-trends-using-python-covid-19-data-analysis-python-training-edureka
+  - videos/edureka-machine-learning-steps-what-is-machine-learning-machine-learning-training-edureka
 
 topics:
   - AI

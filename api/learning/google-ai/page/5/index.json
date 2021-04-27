@@ -4,105 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/videos/siraj-raval-how-to-generate-images-with-tensorflow-live.md",
-      "title": "How to Generate Images with Tensorflow (LIVE)",
-      "excerpt": "We'll build a Variational Autoencoder using Tensorflow to generate images. We'll go through several examples including digit images and pokemon images. VAE's allow us to generate, compress, denoise, and even fuse images together. They are an incredibly powerful tool and we'll go over the implementation",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-generate-images-with-tensorflow-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-generate-images-with-tensorflow-live/",
-      "originalUrl": "https://youtube.com/watch?v=iz-TZOEKXzA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iz-TZOEKXzA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M51S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-09T20:24:38-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iz-TZOEKXzA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-make-a-tensorflow-image-classifier-live.md",
-      "title": "How to Make a Tensorflow Image Classifier (LIVE)",
-      "excerpt": "We're going to build an image classifier using just Tensorflow (no Keras). This will be in depth, the goal for this video is for you to fully understand how a Convolutional Neural Network works. We'll visualize the filters we create along the way as well.  Code for this video: https://github.com/llSourcell/How_to_make_a_tensorflow_image_classifier_LIVE/blob/master/demonotes.ipynb",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-make-a-tensorflow-image-classifier-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-make-a-tensorflow-image-classifier-live/",
-      "originalUrl": "https://youtube.com/watch?v=APmF6qE3Vjc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/APmF6qE3Vjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M15S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-02-26T19:02:50-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/APmF6qE3Vjc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live.md",
-      "title": "How to Use Tensorflow for Classification (LIVE)",
-      "excerpt": "In this live session I'll introduce & give an overview of Google's Deep Learning library, Tensorflow. Then we'll use it to build a neural network capable of predicting housing prices, with me explaining every step along the way.  Code for this video: https://github.com/llSourcell/How_to_use_Tensorflow_for_classification-LIVE",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live/",
-      "originalUrl": "https://youtube.com/watch?v=4urPuRoT1sE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4urPuRoT1sE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M16S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-02-04T19:16:01-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4urPuRoT1sE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
       "path": "_learning/videos/siraj-raval-how-to-use-tensorflow-for-time-series-live.md",
       "title": "How to Use Tensorflow for Time Series (Live)",
       "excerpt": "We're going to use Tensorflow to predict the next event in a time series dataset. This can be applied to any kind of sequential data.   Code for this video: https://github.com/llSourcell/rnn_tutorial  Please Subscribe! And Like. And comment. That's what keeps me going.   More learning resources: https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series",
@@ -136,6 +37,86 @@
       ]
     },
     {
+      "path": "_learning/videos/tensorflow-announcing-tensorflow-20-coding-tensorflow.md",
+      "title": "Announcing TensorFlow 2.0 (Coding TensorFlow)",
+      "excerpt": "The TensorFlow team has been on a journey to make the training, deployment, managing, and scaling of machine learning Machine Learning models as easy as possible. To that end we have now released TensorFlow 2.0. TensorFlow 2.0 provides a comprehensive ecosystem of tools for developers, enterprises, and",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-announcing-tensorflow-20-coding-tensorflow/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-announcing-tensorflow-20-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=EqWsPO8DVXk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EqWsPO8DVXk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M10S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-30T11:23:37-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EqWsPO8DVXk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-distributed-processing-and-components-tensorflow-extended.md",
+      "title": "Distributed Processing and Components (TensorFlow Extended)",
+      "excerpt": "On today’s episode of TensorFlow Extended hosted by TensorFlow Developer Advocate, Robert Crowe, we’re discussing Distributed Processing and Components. Learn more on Episode 4 of the 5 part series on Real World Machine Learning in Production and a preview for the series finale!  This video is also subtitled",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-distributed-processing-and-components-tensorflow-extended/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-distributed-processing-and-components-tensorflow-extended/",
+      "originalUrl": "https://youtube.com/watch?v=7-VxHnkCJ5Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7-VxHnkCJ5Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M48S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-06T10:22:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7-VxHnkCJ5Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/videos/tensorflow-neural-structured-learning-part-3-training-with-synthesized-graphs.md",
       "title": "Neural Structured Learning - Part 3: Training with synthesized graphs",
       "excerpt": "Welcome to episode 3 of our short series on Neural Structured Learning! In this episode, Software Engineer Arjun Gopalan discusses how graphs can be constructed from raw input data and then be used to train neural networks.  Input data cannot always be represented as a natural graph. In this video, you’ll",
@@ -161,6 +142,46 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/3RQqTTOY0U0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-tensorflow-lite-for-ios-coding-tensorflow.md",
+      "title": "TensorFlow Lite for iOS (Coding TensorFlow)",
+      "excerpt": "In this episode of Coding TensorFlow, Laurence Moroney, Developer Advocate for TensorFlow at Google, talks us through how TensorFlow Lite works on iOS. You'll see how to deploy a trained model to an iOS App, and how you can run inference with it, using C++ called from a Swift App.  Building TensorFlow",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-tensorflow-lite-for-ios-coding-tensorflow/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-tensorflow-lite-for-ios-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=0SBtAjUauOc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0SBtAjUauOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M31S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-28T12:01:43-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0SBtAjUauOc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

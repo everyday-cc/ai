@@ -4,6 +4,211 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka.md",
+      "title": "TensorFlow 2.0 Tutorial for Beginners | Deep Learning with TensorFlow 2.0 | Edureka",
+      "excerpt": "🔥Edureka TensorFlow 2.0 Course: https://www.edureka.co/ai-deep-learning-with-tensorflow This Edureka video on \"TensorFlow 2.0 Tutorial For Beginners\" will cover all the fundamentals of TensorFlow and Deep Learning and help you get started with same with a practical implementation. Following pointers",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorflow-20-tutorial-for-beginners-deep-learning-with-tensorflow-20-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=OHZqmJwj7n4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OHZqmJwj7n4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M7S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-26T05:27:42-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OHZqmJwj7n4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-tensorflow-20-full-course-in-5-hours-tensorflow-tutorial-for-beginners-tensorflow-simplilearn.md",
+      "title": "TensorFlow 2.0 Full Course In 5 Hours | TensorFlow Tutorial For Beginners | TensorFlow | Simplilearn",
+      "excerpt": "This video on TensorFlow Full Couse will help you learn the basics of TensorFlow library and understand the features of TensorFlow. You get an idea about tensors and how TensorFlow performs graphical computations. You will see how to install TensorFlow on Ubuntu and implement machine learning and deep",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-20-full-course-in-5-hours-tensorflow-tutorial-for-beginners-tensorflow-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-20-full-course-in-5-hours-tensorflow-tutorial-for-beginners-tensorflow-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=d9N0IGb5QP0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d9N0IGb5QP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H18M53S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-12-17T12:09:04-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d9N0IGb5QP0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-tensorflow-and-keras-tutorial-deep-learning-with-tensorflow-keras-deep-learning-simplilearn.md",
+      "title": "TensorFlow And Keras Tutorial | Deep Learning With TensorFlow & Keras  | Deep Learning | Simplilearn",
+      "excerpt": "This video on TensorFlow and Keras tutorial will help you understand Deep Learning frameworks, what is TensorFlow, TensorFlow features and applications, how TensorFlow works, TensorFlow 1.0 vs TensorFlow 2.0, TensorFlow architecture with a demo. Then we will move into understanding what is Keras, models",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-and-keras-tutorial-deep-learning-with-tensorflow-keras-deep-learning-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-and-keras-tutorial-deep-learning-with-tensorflow-keras-deep-learning-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=eK0tvVRMDgw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eK0tvVRMDgw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H38M51S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-04T03:53:13-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eK0tvVRMDgw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-tensorflow-full-course-tensorflow-tutorial-for-beginners-learn-tensorflow-in-5-hours-simplilearn.md",
+      "title": "TensorFlow Full Course | TensorFlow Tutorial For Beginners| Learn TensorFlow In 5 Hours |Simplilearn",
+      "excerpt": "This video on TensorFlow will help you learn about Deep Learning with TensorFlow in detail. You will understand the basics of Deep Learning and learn the various applications in Deep Learning. You will get an idea about how to install TensorFlow on Ubuntu, followed by what is TensorFlow, and TensorFlow",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-full-course-tensorflow-tutorial-for-beginners-learn-tensorflow-in-5-hours-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-full-course-tensorflow-tutorial-for-beginners-learn-tensorflow-in-5-hours-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=wMJQ04-AwNo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wMJQ04-AwNo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H37M36S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-11-28T05:30:32-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wMJQ04-AwNo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-tensorflow-object-detection-api-tutorial-object-detection-api-tensorflow-tutorial-simplilearn.md",
+      "title": "TensorFlow Object Detection API Tutorial | Object Detection API | TensorFlow Tutorial | Simplilearn",
+      "excerpt": "This TensorFlow tutorial will take you through the TensorFlow code to perform object detection in a video. TensorFlow object detection API which is an open source framework built on top of TensorFlow that makes it easy to construct, train and deploy object detection models and also it provides a collection",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/simplilearn-tensorflow-object-detection-api-tutorial-object-detection-api-tensorflow-tutorial-simplilearn/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/simplilearn-tensorflow-object-detection-api-tutorial-object-detection-api-tensorflow-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=hs-9BUAPN3Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hs-9BUAPN3Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M25S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-07T01:16:55-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hs-9BUAPN3Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/videos/simplilearn-tensorflow-tutorial-for-beginners-tensorflow-explained-deep-learning-tensorflow-simplilearn.md",
       "title": "TensorFlow Tutorial For Beginners | TensorFlow Explained | Deep Learning &Tensorflow | Simplilearn",
       "excerpt": "TensorFlow is a deep learning framework developed by Google to solve intelligent problems. This video on the TensorFlow tutorial will help you understand what TensorFlow is and its various features. You will learn the applications of TensorFlow and how it works. You will get an idea about the architecture",
@@ -25,253 +230,10 @@
         ]
       },
       "publishedDateTime": "2020-10-30T04:52:49-07:00",
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/LP59LkH6tzs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-neural-structured-learning-part-1-framework-overview.md",
-      "title": "Neural Structured Learning - Part 1: Framework overview",
-      "excerpt": "In this video series, we’re going to introduce a new learning framework to our developers called Neural Structured Learning. TensorFlow Senior Software Engineer Da-Cheng Juan kicks off this series with the framework overview.  Links: Get started with Neural Structured Learning → https://goo.gle/2sOz6DE",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-neural-structured-learning-part-1-framework-overview/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-neural-structured-learning-part-1-framework-overview/",
-      "originalUrl": "https://youtube.com/watch?v=N_IS3x5wFNI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N_IS3x5wFNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M13S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-01-23T18:26:58-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/N_IS3x5wFNI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-solve-your-models-overfitting-and-underfitting-problems-pt2-coding-tensorflow.md",
-      "title": "Solve your model’s overfitting and underfitting problems - Pt.2 (Coding TensorFlow)",
-      "excerpt": "Magnus is back with another episode of Coding TensorFlow! If you followed along with us in Part 1 (→ http://bit.ly/2pXDQ4R) you learned about the difference between model overfitting and underfitting, and how to get the input data ready. In Pt.2, we’ll show you some different models that demonstrate",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-solve-your-models-overfitting-and-underfitting-problems-pt2-coding-tensorflow/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-solve-your-models-overfitting-and-underfitting-problems-pt2-coding-tensorflow/",
-      "originalUrl": "https://youtube.com/watch?v=yxUVu0iN26Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yxUVu0iN26Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M52S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-18T10:57:24-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yxUVu0iN26Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-what-exactly-is-this-tfx-thing-tensorflow-extended.md",
-      "title": "What exactly is this TFX thing? (TensorFlow Extended)",
-      "excerpt": "Introducing the first episode of the five part series on Real World Machine Learning in Production which will help you get to speed on using TFX to create your own production machine learning pipelines. On today’s episode hosted by TensorFlow Developer Advocate, Robert Crowe, we’re asking the question,",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-what-exactly-is-this-tfx-thing-tensorflow-extended/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-what-exactly-is-this-tfx-thing-tensorflow-extended/",
-      "originalUrl": "https://youtube.com/watch?v=Mxk4qmO_1B4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mxk4qmO_1B4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M46S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-11T10:38:35-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Mxk4qmO_1B4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-keras-tutorial-tensorflow-deep-learning-with-keras-building-models-with-keras-edureka.md",
-      "title": "Keras Tutorial TensorFlow | Deep Learning with Keras | Building Models with Keras | Edureka",
-      "excerpt": "** TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka Keras Tutorial TensorFlow video (Blog: https://goo.gl/4zxMfU) will help you in understanding basics of Keras Api with examples.  Below are the topics covered in this tutorial:  1. What is Keras? 2. Building",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-keras-tutorial-tensorflow-deep-learning-with-keras-building-models-with-keras-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-keras-tutorial-tensorflow-deep-learning-with-keras-building-models-with-keras-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=Y1-hQdgftMQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y1-hQdgftMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M23S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-06-10T22:51:17-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y1-hQdgftMQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-tensorboard-tutorial-graph-visualization-using-tensorboard-tensorflow-tutorial-edureka.md",
-      "title": "TensorBoard Tutorial | Graph Visualization Using TensorBoard | TensorFlow Tutorial | Edureka",
-      "excerpt": "( ** AI & Deep Learning with Tensorflow Training: https://www.edureka.co/ai-deep-learning-with-tensorflow ** ) This Edureka video on \"TensorBoard Tutorial\" will provide you with a comprehensive knowledge about the TensorFlow utility and how it is used. It will also provide a hands-on knowledge about",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorboard-tutorial-graph-visualization-using-tensorboard-tensorflow-tutorial-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorboard-tutorial-graph-visualization-using-tensorboard-tensorflow-tutorial-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=95Mc4Sdz9oA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/95Mc4Sdz9oA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M1S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-12-09T21:34:36-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/95Mc4Sdz9oA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-tensorflow-in-5-minutes-introduction-to-tensorflow-deep-learning-using-tensorflow-edureka.md",
-      "title": "TensorFlow in 5 Minutes | Introduction To TensorFlow | Deep Learning Using TensorFlow | Edureka",
-      "excerpt": "** AI & Deep Learning with Tensorflow Training: https://goo.gl/vDxgi5 **  This Edureka video of \"TensorFlow in 5 minutes\" provides you a quick insight on the TensorFlow Framework along with TensorBoard and an example.  Do subscribe to our channel and hit the bell icon to never miss an update from us",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/edureka-tensorflow-in-5-minutes-introduction-to-tensorflow-deep-learning-using-tensorflow-edureka/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/edureka-tensorflow-in-5-minutes-introduction-to-tensorflow-deep-learning-using-tensorflow-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=eGjDYm86H_E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eGjDYm86H_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M7S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-10T22:35:26-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eGjDYm86H_E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -361,46 +323,6 @@
       ]
     },
     {
-      "path": "_learning/videos/tensorflow-announcing-tensorflow-20-coding-tensorflow.md",
-      "title": "Announcing TensorFlow 2.0 (Coding TensorFlow)",
-      "excerpt": "The TensorFlow team has been on a journey to make the training, deployment, managing, and scaling of machine learning Machine Learning models as easy as possible. To that end we have now released TensorFlow 2.0. TensorFlow 2.0 provides a comprehensive ecosystem of tools for developers, enterprises, and",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-announcing-tensorflow-20-coding-tensorflow/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-announcing-tensorflow-20-coding-tensorflow/",
-      "originalUrl": "https://youtube.com/watch?v=EqWsPO8DVXk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EqWsPO8DVXk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M10S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-30T11:23:37-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EqWsPO8DVXk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow.md",
       "title": "Build a neural network to perform classification | TensorFlow.js (Coding TensorFlow)",
       "excerpt": "In part 3 of this series on TensorFlow.js, Laurence Moroney (@lmoroney) looks at taking the processed data from part 2, and building a neural network to perform classification with it. You’ll see how to create and stack multiple layers, use these to create a classifier, and then test that classifier",
@@ -442,46 +364,6 @@
       ]
     },
     {
-      "path": "_learning/videos/tensorflow-distributed-processing-and-components-tensorflow-extended.md",
-      "title": "Distributed Processing and Components (TensorFlow Extended)",
-      "excerpt": "On today’s episode of TensorFlow Extended hosted by TensorFlow Developer Advocate, Robert Crowe, we’re discussing Distributed Processing and Components. Learn more on Episode 4 of the 5 part series on Real World Machine Learning in Production and a preview for the series finale!  This video is also subtitled",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-distributed-processing-and-components-tensorflow-extended/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-distributed-processing-and-components-tensorflow-extended/",
-      "originalUrl": "https://youtube.com/watch?v=7-VxHnkCJ5Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7-VxHnkCJ5Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M48S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-06T10:22:26-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7-VxHnkCJ5Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/videos/tensorflow-how-do-tfx-pipelines-work-tensorflow-extended.md",
       "title": "How do TFX pipelines work? (TensorFlow Extended)",
       "excerpt": "On today’s episode of TensorFlow Extended hosted by TensorFlow Developer Advocate, Robert Crowe, we’re asking the question, “How do TFX pipelines work?” Learn more on Episode 2 of the 5 part series on Real World Machine Learning in Production.   This video is also subtitled in Chinese, Indonesian, Italian,",
@@ -507,6 +389,46 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/iVKa8SZQdPI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-neural-structured-learning-part-1-framework-overview.md",
+      "title": "Neural Structured Learning - Part 1: Framework overview",
+      "excerpt": "In this video series, we’re going to introduce a new learning framework to our developers called Neural Structured Learning. TensorFlow Senior Software Engineer Da-Cheng Juan kicks off this series with the framework overview.  Links: Get started with Neural Structured Learning → https://goo.gle/2sOz6DE",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-neural-structured-learning-part-1-framework-overview/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-neural-structured-learning-part-1-framework-overview/",
+      "originalUrl": "https://youtube.com/watch?v=N_IS3x5wFNI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N_IS3x5wFNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M13S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-01-23T18:26:58-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N_IS3x5wFNI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -667,87 +589,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ChidCgtd1Lw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-tensorflow-lite-experimental-gpu-delegate-coding-tensorflow.md",
-      "title": "TensorFlow Lite, Experimental GPU Delegate (Coding TensorFlow)",
-      "excerpt": "In this episode of Coding TensorFlow, Laurence introduces you to the new experimental GPU delegate for TensorFlow Lite. We’d love to hear you feedback - let us know your thoughts in the comments!  TensorFlow Lite Now Faster with Mobile GPUs → https://bit.ly/2T9OMcA TensorFlow Lite GPU documentation →",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-tensorflow-lite-experimental-gpu-delegate-coding-tensorflow/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-tensorflow-lite-experimental-gpu-delegate-coding-tensorflow/",
-      "originalUrl": "https://youtube.com/watch?v=QSbAUxWfxQw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QSbAUxWfxQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M46S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-24T11:34:05-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QSbAUxWfxQw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-tensorflow-lite-for-ios-coding-tensorflow.md",
-      "title": "TensorFlow Lite for iOS (Coding TensorFlow)",
-      "excerpt": "In this episode of Coding TensorFlow, Laurence Moroney, Developer Advocate for TensorFlow at Google, talks us through how TensorFlow Lite works on iOS. You'll see how to deploy a trained model to an iOS App, and how you can run inference with it, using C++ called from a Swift App.  Building TensorFlow",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/tensorflow-tensorflow-lite-for-ios-coding-tensorflow/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/tensorflow-tensorflow-lite-for-ios-coding-tensorflow/",
-      "originalUrl": "https://youtube.com/watch?v=0SBtAjUauOc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0SBtAjUauOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M31S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-03-28T12:01:43-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0SBtAjUauOc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1371,6 +1212,241 @@
           "width": 400,
           "height": 400,
           "title": "Convolutional Neural Networks",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-device-based-models-with-tensorflow-lite.md",
+      "title": "Device-based Models with TensorFlow Lite",
+      "excerpt": "Learn Device-based Models with TensorFlow Lite from deeplearning.ai. Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment scenarios and ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-device-based-models-with-tensorflow-lite/index.json",
+      "webUrl": "https://www.coursera.org/learn/device-based-models-tensorflow",
+      "length": "11 hours",
+      "ratings": {
+        "count": 99,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "deeplearning.ai",
+            "domain": "deeplearning.ai",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a2/59d204ec3e40b78a9692b3b33a688f/TFS2C2CourseraSquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Device-based Models with TensorFlow Lite",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-end-to-end-machine-learning-with-tensorflow-on-gcp.md",
+      "title": "End-to-End Machine Learning with TensorFlow on GCP",
+      "excerpt": "Learn End-to-End Machine Learning with TensorFlow on GCP from Google Cloud. In the first course of this specialization, we will recap what was covered in the  Machine Learning with TensorFlow on Google Cloud Platform Specialization ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-end-to-end-machine-learning-with-tensorflow-on-gcp/index.json",
+      "webUrl": "https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp",
+      "length": "11 hours",
+      "ratings": {
+        "count": 1023,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/85/1f9930bd3f11e8a00b63e9f285be45/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "End-to-End Machine Learning with TensorFlow on GCP",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-image-understanding-with-tensorflow-on-gcp.md",
+      "title": "Image Understanding with TensorFlow on GCP",
+      "excerpt": "Learn Image Understanding with TensorFlow on GCP from Google Cloud. This is the third course of the Advanced Machine Learning on GCP specialization. In this course, We will take a look at different strategies for building an image classifier ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-image-understanding-with-tensorflow-on-gcp/index.json",
+      "webUrl": "https://www.coursera.org/learn/image-understanding-tensorflow-gcp",
+      "length": "12 hours",
+      "ratings": {
+        "count": 341,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a4/99eae0bd3f11e88d1bdf247fdfe9da/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Image Understanding with TensorFlow on GCP",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization.md",
+      "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+      "excerpt": "Learn Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization from deeplearning.ai. This course will teach you the \"magic\" of getting deep learning to work well. Rather than the deep learning process being a black ...",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/courses/coursera-improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization/index.json",
+      "webUrl": "https://www.coursera.org/learn/deep-neural-network",
+      "length": "15 hours",
+      "ratings": {
+        "count": 43991,
+        "average": 4.9
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "deeplearning.ai",
+            "domain": "deeplearning.ai",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/13/668720104e11e8a36507b34cf4fa75/CarouselAds_DL_Tuning.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
           "isCached": false
         }
       ],

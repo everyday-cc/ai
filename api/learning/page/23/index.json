@@ -4,183 +4,23 @@
   "page": 23,
   "value": [
     {
-      "path": "_learning/videos/siraj-raval-how-to-do-mathematics-easily-intro-to-deep-learning-4.md",
-      "title": "How to Do Mathematics Easily - Intro to Deep Learning #4",
-      "excerpt": "Let's learn about some key math concepts behind deep learning shall we? We'll build a 3 layer neural network and dive into some key concepts that makes deep learning give us such incredible results.  Coding challenge for this video: https://github.com/llSourcell/how_to_do_math_for_deep_learning  Jovian's",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-do-mathematics-easily-intro-to-deep-learning-4/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-do-mathematics-easily-intro-to-deep-learning-4/",
-      "originalUrl": "https://youtube.com/watch?v=N4gDikiec8E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N4gDikiec8E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M51S",
+      "path": "_learning/videos/siraj-raval-how-to-make-a-neural-network-intro-to-deep-learning-2.md",
+      "title": "How to Make a Neural Network - Intro to Deep Learning #2",
+      "excerpt": "How do we learn? In this video, I'll discuss our brain's biological neural network, then we'll talk about how an artificial neural network works. We'll create our own single layer feedforward network in Python, demo it, and analyze the implications of our results. This is the 2nd weekly video in my intro",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-make-a-neural-network-intro-to-deep-learning-2/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-make-a-neural-network-intro-to-deep-learning-2/",
+      "originalUrl": "https://youtube.com/watch?v=p69khggr1Jo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p69khggr1Jo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M20S",
       "provider": {
         "name": "Siraj Raval",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-02-04T19:15:46-08:00",
+      "publishedDateTime": "2017-01-24T10:31:39-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/N4gDikiec8E/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-do-style-transfer-with-tensorflow-live.md",
-      "title": "How to Do Style Transfer with Tensorflow (LIVE)",
-      "excerpt": "We're going to learn about all the details of style transfer (especially the math) using just Tensorflow. The goal of this session is for you to understand the details behind how style+content loss is calculated and minimized. We'll also talk about future discoveries.  Code for this video: https://github.com/llSourcell/How_to_do_style_transfer_in_tensorflow",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-do-style-transfer-with-tensorflow-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-do-style-transfer-with-tensorflow-live/",
-      "originalUrl": "https://youtube.com/watch?v=YoBEGQD3LCc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YoBEGQD3LCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H6M26S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-03-18T01:02:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YoBEGQD3LCc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-generate-images-with-tensorflow-live.md",
-      "title": "How to Generate Images with Tensorflow (LIVE)",
-      "excerpt": "We'll build a Variational Autoencoder using Tensorflow to generate images. We'll go through several examples including digit images and pokemon images. VAE's allow us to generate, compress, denoise, and even fuse images together. They are an incredibly powerful tool and we'll go over the implementation",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-generate-images-with-tensorflow-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-generate-images-with-tensorflow-live/",
-      "originalUrl": "https://youtube.com/watch?v=iz-TZOEKXzA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iz-TZOEKXzA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M51S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-09T20:24:38-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iz-TZOEKXzA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-generate-video-intro-to-deep-learning-15.md",
-      "title": "How to Generate Video - Intro to Deep Learning #15",
-      "excerpt": "Generative Adversarial Networks. It's time. We're going to use a Deep Convolutional GAN to generate images of the alien language from the movie arrival that we can then stitch together to animate into video. I'll go over the architecture of a GAN and then we'll implement one ourselves!  Code for this",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-generate-video-intro-to-deep-learning-15/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-generate-video-intro-to-deep-learning-15/",
-      "originalUrl": "https://youtube.com/watch?v=-E2N1kQc8MM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-E2N1kQc8MM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M41S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-09T20:24:38-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-E2N1kQc8MM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-generate-your-own-wikipedia-articles-live.md",
-      "title": "How to Generate Your Own Wikipedia Articles (LIVE)",
-      "excerpt": "We're going to build an LSTM network in Tensorflow (no Keras) to generate text after training on Wikipedia articles. You'll learn how an LSTM cell works programmatically since we'll build one using TF's math functions and how you can parse a similar dataset  Code: https://github.com/llSourcell/wiki_generator_live",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-generate-your-own-wikipedia-articles-live/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-generate-your-own-wikipedia-articles-live/",
-      "originalUrl": "https://youtube.com/watch?v=ZGU5kIG7b2I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZGU5kIG7b2I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H11M44S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-03-27T22:15:26-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZGU5kIG7b2I/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-learn-from-little-data-intro-to-deep-learning-17.md",
-      "title": "How to Learn from Little Data - Intro to Deep Learning #17",
-      "excerpt": "One-shot learning! In this last weekly video of the course, i'll explain how memory augmented neural networks can help achieve one-shot classification for a small labeled image dataset. We'll also go over the architecture of it's inspiration (the neural turing machine).  Code for this video (with challenge):",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/siraj-raval-how-to-learn-from-little-data-intro-to-deep-learning-17/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/siraj-raval-how-to-learn-from-little-data-intro-to-deep-learning-17/",
-      "originalUrl": "https://youtube.com/watch?v=tChcZpBbTTA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tChcZpBbTTA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M53S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-09T20:24:38-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tChcZpBbTTA/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/p69khggr1Jo/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -644,6 +484,45 @@
       ]
     },
     {
+      "path": "_learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance.md",
+      "title": "1.1 Regular Expressions | Basic Text Processing and Edit Distance",
+      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance/",
+      "originalUrl": "https://youtube.com/watch?v=808M7q8QX0E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/808M7q8QX0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M26S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T10:34:51-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_learning/videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance.md",
       "title": "1.2 Sentence Segmentation | Basic Text Processing and Edit Distance",
       "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
@@ -761,6 +640,45 @@
       ]
     },
     {
+      "path": "_learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics.md",
+      "title": "13.8 Word Similarity  Distributional Similarity I | Recommendation Systems and Vector Semantics",
+      "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics/",
+      "originalUrl": "https://youtube.com/watch?v=swDoFpuHpzQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/swDoFpuHpzQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M15S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T10:45:08-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/swDoFpuHpzQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering.md",
       "title": "14   1   Anchor Text | Relation Extraction and Question Answering",
       "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
@@ -786,45 +704,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-rfVrRAgzHM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering.md",
-      "title": "14   2   PageRank Overview and Markov Chains | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=29Tx-s0ybiQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/29Tx-s0ybiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M11S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:46:05-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/29Tx-s0ybiQ/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -1059,6 +938,162 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/gx7Fkf1n_5w/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-25-minimum-edit-distance-in-computational-biology-basic-text-processing-and-edit-distance.md",
+      "title": "2.5 Minimum Edit Distance in Computational Biology | Basic Text Processing and Edit Distance",
+      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-25-minimum-edit-distance-in-computational-biology-basic-text-processing-and-edit-distance/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-25-minimum-edit-distance-in-computational-biology-basic-text-processing-and-edit-distance/",
+      "originalUrl": "https://youtube.com/watch?v=gVe8SAE-O1s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gVe8SAE-O1s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M31S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T10:34:51-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gVe8SAE-O1s/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction.md",
+      "title": "3.1 Introduction to N grams | Language Modeling and Spelling Correction",
+      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction/",
+      "originalUrl": "https://youtube.com/watch?v=hM49MPmakNI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hM49MPmakNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M42S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T10:39:27-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction.md",
+      "title": "3.2 Estimating N gram Probabilities | Language Modeling and Spelling Correction",
+      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction/",
+      "originalUrl": "https://youtube.com/watch?v=UyC0bBiZY-A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UyC0bBiZY-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M39S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T10:39:27-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UyC0bBiZY-A/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-33-evaluation-and-perplexity-language-modeling-and-spelling-correction.md",
+      "title": "3.3 Evaluation and Perplexity | Language Modeling and Spelling Correction",
+      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/learning/videos/stanford-university-33-evaluation-and-perplexity-language-modeling-and-spelling-correction/index.json",
+      "webUrl": "https://everyday.cc/ai/learning/videos/stanford-university-33-evaluation-and-perplexity-language-modeling-and-spelling-correction/",
+      "originalUrl": "https://youtube.com/watch?v=gTxlO_pCFaI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gTxlO_pCFaI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M10S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T10:39:27-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gTxlO_pCFaI/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
