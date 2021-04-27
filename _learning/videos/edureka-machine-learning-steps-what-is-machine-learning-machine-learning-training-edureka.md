@@ -2,6 +2,7 @@
 title: "Machine Learning Steps | What Is Machine Learning | Machine Learning Training | Edureka"
 excerpt: "🔥Machine Learning Training with Python: https://www.edureka.co/machine-learning-certification-training This Edureka video on  Machine Learning Steps will help you understand, what are the various steps involved in while developing a Machine Learning Model. By the end of this video you will be able to"
 originalUrl: https://youtube.com/watch?v=B9bDNp2Zv5k
+webUrl: https://everyday.cc/ai/learning/videos/edureka-machine-learning-steps-what-is-machine-learning-machine-learning-training-edureka/
 type: video
 price: Free
 length: PT27M40S
@@ -28,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "bCa8pSTpkBA+YPeIr9Q8o0zYG03uBk8uHHCYWRfUuXorw//5u65ILKkyouCcUDImOiraiwYVOCwPgXSBqNfuU1mYWmljc+dxsKLUhgDCwBDS25KnE42p+1YTOQtPoRywsagi5fvTNfOKEpzXPbX8olAmKyazPP44+isOuRwGUl9+o1zV5G1uMphr3EGD8zZYIsQf4cmCEfTYfUIzsrbgkh65ADFoQeBAnLf45FlaLHsJeyTPbcPtLHnsUzDe52oKL+lclhtFdMq2t0Y6fLzOfwYJ8I0aAbZZ3r8yTU3cjCvdKog5/vj7o/oIqzdaJ1awxwBLRN19+mj+KI/RmCBrn9U0p+4krcGzZrKTRlC5t4JZ+WrqAoz7qzSJycCCBYBMN92rMHlfLQa+BXFXdPw7fA==;MdmpB5d5C+ksh77jutOjDA=="
+secured: "Vd6hioDyIqN4XXs7FvRYbW7TPXfyVCxnMWcz0J8VoDgnKMOX1N2K5Szqw6HcK8jCwWp/68obhka0Lt02pOeB3by0dL1YayXKha0F2AoBRzQELiPgBxTN6RUi635YBoaszSeV+sBx4vILh4jR33IEonHHY8o/gp44CHEALXc/YFeb5lpx4WcSTD+tJPzAefDSowBYMcX1Fa9zJuQi6m8CFYXwHa6XWKxPsAC3/A2tClZHjnXwoL3sjCXDsnFwL4FUCnD9xWrlcbBHCvUkCBrCmpA7fHp/gsWSY4ATpYShinXuZULaAQJNUE1McZh3puvMbzN7AVebEnJDOj3ARJ1BwQBCDCSTKQxAn/B729IBEK3MNpxqLYO32A1GthYoNV4ufWH5LAHkKj8/LngrIEAg3A==;fYSg6Q/so00joKTxQWKg3g=="
 ---
 
