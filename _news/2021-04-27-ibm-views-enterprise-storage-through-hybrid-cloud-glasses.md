@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "IBM Launches Storage for Data Management across Hybrid Clouds"
+    excerpt: "IBM has announced innovations across its storage product line designed to improve management of data across complex hybrid cloud environments with the goal of improving data availability and resilience."
+    publishedDateTime: 2021-04-27T13:20:00Z
+    webUrl: "https://insidehpc.com/2021/04/ibm-launches-storage-for-data-management-across-hybrid-clouds/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 24
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/04/Guardant-Health-logo.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "IBM Launches SDS Storage for Data Management across Hybrid Clouds"
     excerpt: "IBM has announced innovations across its storage product line designed to improve management of data across complex hybrid cloud environments with the goal of improving data availability and resilience."
     publishedDateTime: 2021-04-27T13:01:00Z

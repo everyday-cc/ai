@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2021/04/ibm-launches-sds-storage-for-data-ma
 webUrl: "https://insidehpc.com/2021/04/ibm-launches-sds-storage-for-data-management-across-hybrid-clouds/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "IBM Launches Storage for Data Management across Hybrid Clouds"
+    excerpt: "IBM has announced innovations across its storage product line designed to improve management of data across complex hybrid cloud environments with the goal of improving data availability and resilience."
+    publishedDateTime: 2021-04-27T13:20:00Z
+    webUrl: "https://insidehpc.com/2021/04/ibm-launches-storage-for-data-management-across-hybrid-clouds/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 24
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/04/Guardant-Health-logo.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "IBM Views Enterprise Storage Through Hybrid Cloud Glasses"
     excerpt: "IBM’s Spectrum Scale – formerly known as General Parallel File System –has had a solid standing as one of the two go-to"
     publishedDateTime: 2021-04-27T15:54:00Z

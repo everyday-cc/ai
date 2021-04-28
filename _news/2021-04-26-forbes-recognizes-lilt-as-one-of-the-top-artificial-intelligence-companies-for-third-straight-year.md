@@ -1,25 +1,28 @@
 ---
 category: news
 title: "Forbes Recognizes Lilt As One of the Top Artificial Intelligence Companies For Third Straight Year"
-excerpt: "Lilt, the modern language service and technology provider, today announced that it has been named to the 2021 Forbes AI 50 for the th"
-publishedDateTime: 2021-04-26T15:22:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/forbes-recognizes-lilt-as-one-of-the-top-artificial-intelligence-companies-for-third-straight-year-1030346564"
-webUrl: "https://markets.businessinsider.com/news/stocks/forbes-recognizes-lilt-as-one-of-the-top-artificial-intelligence-companies-for-third-straight-year-1030346564"
+excerpt: "SAN FRANCISCO, April 26, 2021 /PRNewswire/ -- Lilt, the modern language service and ... other leading companies developing AI-powered solutions.\" Lilt's translation services are powered by ..."
+publishedDateTime: 2021-04-26T15:15:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/forbes-recognizes-lilt-as-one-of-the-top-artificial-intelligence-companies-for-third-straight-year-301276873.html"
+webUrl: "https://www.prnewswire.com/news-releases/forbes-recognizes-lilt-as-one-of-the-top-artificial-intelligence-companies-for-third-straight-year-301276873.html"
 type: article
-quality: 48
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1276009/Lilt_Logo_Large_Logo.jpg?p=facebook"
+    width: 797
+    height: 419
+    isCached: true
 
 related:
   - title: "9 healthcare AI companies to watch in 2021, per Forbes"
@@ -76,6 +79,6 @@ related:
       domain: benzinga.com
     quality: 41
 
-secured: "omToS7T01YxUk7A3er4R0i5u8XUNtr1ZXaiNcACuoy8XY7aG/KOVQPSO9WB5D24mdUogpoosdgZSajP0pHrfwTrH5BlptXZP5TKIdlQeg5vzpHxXAqM0P+h1inrQU2RnuyBnX7dIkakZM4iVDT5Z8waqHOxXQ/3RWvuSpMWMwGEDcywUIGn6FWmjo1C/2Wpx5GgulQKZS+Q8Is/247jI5Yq0i0V/QTgv2uZxp7zoWBSLrMaIV+tJ+BUwTkCO5MHNwO0jpguyseqrEmXIHZ7/QqZEJGQHY+N6gRGbbsApBvhzlYMqumZWEXK8SYVcURzPrP1NNzgavwvYBfFCu2MSPxLd+imP1l3KppIKPYORl0dtv+F5eZTc3oXDLFTIz0iNyxXs/QLoW9SCow+TWeiGg6p7tHkTUAgvrsRYRYPp9Uk5IcTFnd47YHQ0FaPo6JjeuQ8HJ67LnbvX6sHm5xXSvtzkBzHVMhE/H29i2GUvNHdYKh7hTakAT+nw/bK1y50+7/xTUb3AHlcTdjzyesdSNA==;OOsvMt2FqgjCnJQCWTQRVg=="
+secured: "ZzRdOy84U5mgYsBQdBzIb/F0+jm9p2JZsMAwh+ELJJrUxOQVpbkhBHeLxSaq1zZxGIKjXJhRJ4IT3jas3mb7LJTA/u802VEEhwLHKc/M3MI4z/hGdMyUPqi9fb3w5xEC6r88Assi2kGtZL2qK2h3vRDaIvOcPXDMfENVp5vhbyevYK+/6E3v0Zjms2Mkh+gLNCCUObMllaUQmUMdvZNeZ7Qkuogd2jmq52B+jlFTSYRd0v8Jpy0zXfdZqNpUO/AwVL4ztkbUAKcueEZ+htqp5CQ1NuPi2hETYwyCMbn/Oa5bKUyG+hWQErRTeSM3b+l8mAGWk31mHhq9zUXhulJ1GiiTrIAhBBc12CpWaAy2WOg=;6iPa81VgTO8LHRyxs5aJIw=="
 ---
 

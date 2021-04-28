@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express-journal.com/automatic-speech-recognition-asr-sof
 cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/automatic-speech-recognition-asr-software-market-386652/amp"
 type: article
 quality: 53
-heat: 73
+heat: 93
 published: true
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "AI for Speech Recognition Market Size, Increasing Trend Diversity, Analysis, Future Scope Analysis Featuring Industry Top Key Players By 2026"
+    excerpt: "The AI for Speech Recognition Market Research Report aims to provide insights that strongly demonstrate the market structure, scope, history, potential, and developm"
+    publishedDateTime: 2021-04-28T04:29:00Z
+    webUrl: "https://www.express-journal.com/ai-for-speech-recognition-market-388703/"
+    ampWebUrl: "https://www.express-journal.com/ai-for-speech-recognition-market-388703/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/ai-for-speech-recognition-market-388703/amp"
+    type: article
+    provider:
+      name: express-journal
+      domain: express-journal.com
+    quality: 39
+    images:
+      - url: "https://www.express-journal.com/img/img-5.png"
+        width: 1042
+        height: 625
+        isCached: true
+  - title: "New Opportunities in Voice Recognition Biometrics Market 2021 Growth, Segmentation"
+    excerpt: "The recent analysis of Voice Recognition Biometrics market size has been methodically put together to impart an in-depth understanding of the key as"
+    publishedDateTime: 2021-04-27T16:26:00Z
+    webUrl: "https://www.express-journal.com/voice-recognition-biometrics-market-388373/"
+    ampWebUrl: "https://www.express-journal.com/voice-recognition-biometrics-market-388373/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-biometrics-market-388373/amp"
+    type: article
+    provider:
+      name: express-journal
+      domain: express-journal.com
+    quality: 38
+    images:
+      - url: "https://www.express-journal.com/img/img-6.png"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Automatic generation of object recognition programs"
     excerpt: "Issues and techniques are discussed to automatically compile object and sensor models into a visual recognition strategy for recognizing and locating an object in three-dimensional space from visual data."
     publishedDateTime: 2021-04-27T06:03:00Z

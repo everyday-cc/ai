@@ -18,6 +18,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "COMPUTEX 2021 Hybrid Embarks on an Intelligent Journey with AI Tech Giants"
+    excerpt: "Asia’s largest ICT show, COMPUTEX Taipei, is rolling out its first in Online-Merge-Offline ... COMPUTEX organizer, the Taiwan External Trade Development Council (TAITRA), states that AI is one of the hottest topics at COMPUTEX 2021 Hybrid this year,"
+    publishedDateTime: 2021-04-28T07:30:00Z
+    webUrl: "https://www.businesswireindia.com/computex-2021-hybrid-embarks-on-an-intelligent-journey-with-ai-tech-giants-72702.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 17
+
 secured: "x0wsPUS8IPa/gzkotJFikVMt+0BFonM6g4sP/S6Fp97mSAI1h/FToTVB9mEohecVANWjRXmEshw6XK3ZifP4/DqG6BnkCZTLUgNxpPvhi3TRpABUToxfdCpc0gO1+5PxbAeWR2AMEI7mF7L+cAmnXwetZONhw2Aavl7Ttf1LQFoMeSVmiBDiv+UlKMdN0R0RF+iRCEpgTXdowfsxv87giXHbAMTfxzv1SVy53QFqah+20kxyHhK010EDqVikHvDs2OmhE0S5hsNEoKl84z0qgeUiZaMk6VbYbGnmXnJ9H9deNWT4u4oYzF8d6733IVLv4kC1GjXigdB3MXnxEY58mh8rUE3rYAdvZm+KE1Eak5w=;x+5lJDXLk8ZrKGFrxMJsKw=="
 ---
 

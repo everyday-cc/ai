@@ -67,6 +67,52 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Lyft's sale of its self-driving tech unit to Toyota for $550 million moves its profit timeline up"
+    excerpt: "The deal with Toyota's Woven Planet division will allow Lyft to hit its profitability target one quarter earlier, the company said."
+    publishedDateTime: 2021-04-28T13:08:00Z
+    webUrl: "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/608731be3f0560001881c2a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Making Safe Self-Driving Cars Is Really, Really Difficult, So Lyft Just Sold Its Self-Driving Tech"
+    excerpt: "Lyft just sold their self-driving tech to a Toyota subsidiary. Uber bailed out of their effort in 2020. Tesla drivers over-rely on self-driving tech with disastrous results. Meanwhile, companies continue to wrestle with autonomous driving tech."
+    publishedDateTime: 2021-04-28T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/"
+    ampWebUrl: "https://www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6088f359ae5e001f1312768e%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Lyft is getting out of the self-driving business"
+    excerpt: "Lyft announced its self-driving project back in 2017, a time of extreme optimism about self-driving technology. A few months earlier, in late 2016, Lyft President John Zimmer predicted that a majority of Lyft rides would be handled by self-driving vehicles by 2021."
+    publishedDateTime: 2021-04-27T22:26:00Z
+    webUrl: "https://arstechnica.com/cars/2021/04/lyft-is-getting-out-of-the-self-driving-business/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-1154866584-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Lyft To Sell Self-Driving Division To Woven Planet"
     excerpt: "Lyft is selling its self-driving division, Level 5, to Woven Planet, a subsidiary of Toyota. Lyft will see around $550 million in cash from the transaction."
     publishedDateTime: 2021-04-26T23:42:00Z
@@ -114,6 +160,38 @@ related:
       - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH3P1A6-BASEIMAGE.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Toyota pays $550 million for self-driving unit of Lyft"
+    excerpt: "Toyota Motor Corp. has bought the self-driving division of ride-hailing company Lyft for $550 million in a move that reflects the ambitions of Toyota to expand into mobility technology."
+    publishedDateTime: 2021-04-28T14:09:00Z
+    webUrl: "https://www.industryleadersmagazine.com/?p=11188"
+    ampWebUrl: "https://www.industryleadersmagazine.com/toyota-pays-550-million-for-self-driving-unit-of-lyft/amp/?p=11188"
+    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/toyota-pays-550-million-for-self-driving-unit-of-lyft/amp/?p=11188"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 44
+    images:
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/09/Lyft-1.jpg"
+        width: 590
+        height: 441
+        isCached: true
+  - title: "Lyft sells its self-driving division as it moves away from autonomous vehicles"
+    excerpt: "Lyft has decided it’s going to play things safe going forward. The rideshare company is getting out of the self-driving business altogether and is selling"
+    publishedDateTime: 2021-04-28T14:58:00Z
+    webUrl: "https://www.consumeraffairs.com/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
+    ampWebUrl: "https://www.consumeraffairs.com/amp/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
+    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
+    type: article
+    provider:
+      name: ConsumerAffairs
+      domain: consumeraffairs.com
+    quality: 40
+    images:
+      - url: "https://media.consumeraffairs.com/files/cache/news/Lyft_logo_concept_with_car_in_background_jetcityimage_Getty_Images_large.jpg"
+        width: 700
+        height: 467
         isCached: true
   - title: "Toyota buys Lyft self-driving car division for $550 million"
     excerpt: "Lyft and Toyota subsidiary Woven Planet announced a deal where the latter will take over the self-driving car division of the former for $550 million in"
@@ -193,6 +271,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Toyota acquires Lyft's self-driving division"
+    excerpt: "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlig"
+    publishedDateTime: 2021-04-28T04:00:00Z
+    webUrl: "https://journalgazette.net/business/20210428/toyota-acquires-lyfts-self-driving-division"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 24
+    images:
+      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210428/ARTICLE/304289980/AR/0/AR-304289980.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Lyft is selling its self-driving car unit for $550 million to Toyota’s Woven Planet"
     excerpt: "Lyft Inc. announced today that it’s selling its self-driving car unit Level 5 for $550 million to Woven Planet, a subsidiary of Toyota Motor Co. Some $200 million will be paid upfront, while the rest of the cash will be paid over a period of five years."
     publishedDateTime: 2021-04-27T03:29:00Z
@@ -251,6 +343,15 @@ related:
     provider:
       name: Manufacturing
       domain: manufacturing.net
+    quality: 4
+  - title: "Toyota to buy Lyft's self-driving car unit for $550M"
+    excerpt: "As part of the deal, Lyft and Woven Planet will work together on enhancing automated driving technology safety, according to a release."
+    publishedDateTime: 2021-04-28T16:40:00Z
+    webUrl: "https://www.plantservices.com/industrynews/2021/toyota-to-buy-lyfts-self-driving-car-unit-for-550m/"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
     quality: 4
   - title: "Lyft is selling off its self-driving car division to a Toyota subsidiary"
     excerpt: "Lyft, Inc. (Nasdaq: LYFT) announced Monday that it has finalized an agreement with Woven Planet Holdings, Inc., a subsidiary of Toyota Motor Corporation, for the acquisition of Lyft’s self-driving vehicle division, Level 5, which includes multi-year ..."

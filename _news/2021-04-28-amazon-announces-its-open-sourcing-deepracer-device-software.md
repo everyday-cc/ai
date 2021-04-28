@@ -52,6 +52,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AWS DeepRacer Follow the Leader (FTL) sample project"
+    excerpt: "Learn to deploy an object detection model that enables the AWS DeepRacer device to identify and follow an object. - aws-deepracer/aws-deepracer-follow-the-leader-sample-project"
+    publishedDateTime: 2021-04-28T01:31:26Z
+    webUrl: "https://github.com/aws-deepracer/aws-deepracer-follow-the-leader-sample-project"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 71
+    images:
+      - url: "https://opengraph.githubassets.com/e7140ff7471f6a805315ad5fc43967a430dedc669bb4f709b5d77bf7972c5b36/aws-deepracer/aws-deepracer-follow-the-leader-sample-project"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Amazon releases DeepRacer software in open source"
     excerpt: "Amazon made its DeepRacer available in open source, enabling developers to custom-program remote-controlled cars."
     publishedDateTime: 2021-04-27T17:00:00Z

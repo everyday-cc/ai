@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/why-applied-ai-requires-skills-and-kno
 webUrl: "https://thenextweb.com/news/why-applied-ai-requires-skills-and-knowledge-beyond-data-science-syndication"
 type: article
 quality: 75
-heat: 76
+heat: 75
 published: true
 
 provider:

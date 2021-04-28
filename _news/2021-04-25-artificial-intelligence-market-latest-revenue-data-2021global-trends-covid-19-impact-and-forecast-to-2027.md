@@ -28,82 +28,40 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Robots Market Supply, Sales, Revenue and Forecast from 2021 to 2025"
-    excerpt: "The Artificial Intelligence Robots Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ..."
-    publishedDateTime: 2021-04-23T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-supply-sales-revenue-and-forecast-from-2021-to-2025-2021-04-23"
+  - title: "Artificial Intelligence in Security Market: Trends 2021: Share and Competitive Landscape Forecast to 2024 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Security Market, which has been"
+    publishedDateTime: 2021-04-28T07:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-04-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 91
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Computer Vision Market Size, Share, Growth, Trends and Forecast 2021-2025"
-    excerpt: "The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ..."
-    publishedDateTime: 2021-04-23T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-growth-trends-and-forecast-2021-2025-2021-04-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Payments Market Size, by Region & Segment, Historic Growth Forecast to 2025"
-    excerpt: "The Global Artificial Intelligence (AI) in Payments Market Analysis, 2020 market research report depicts a deep dive market analysis of statistics of Global Artificial Intelligence in Payments market which consists of region-wise market size,"
-    publishedDateTime: 2021-04-27T20:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-payments-market-size-by-region-segment-historic-growth-forecast-to-2025-2021-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Telecommunication Market Overview, SWOT Analysis, Applications, Trends and Forecast 2021 – 2026"
-    excerpt: "The Artificial Intelligence in Telecommunication Market is estimated to record a significant growth throughout the"
-    publishedDateTime: 2021-04-24T15:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-telecommunication-market-overview-swot-analysis-applications-trends-and-forecast-2021-2026-2021-04-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market 2021, by Services, Company Profiling, Business Revenue, and Growth Opportunities to 2027"
-    excerpt: "ResearchMoz published the latest research on Machine Learning Market Research Report 2020 study major consideration after performing various different reasonable and immense analyses on the Contact Center Systems industry. Top to bottom examination of ..."
-    publishedDateTime: 2021-04-23T12:57:00Z
-    webUrl: "https://www.openpr.com/news/2274644/machine-learning-market-2021-by-services-company-profiling"
-    ampWebUrl: "https://www.openpr.com/amp/2274644/machine-learning-market-2021-by-services-company-profiling"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274644/machine-learning-market-2021-by-services-company-profiling"
+  - title: "Artificial Intelligence-based Security Market Landscape Assessment By Type, Opportunities And Higher Mortality Rates By 2027"
+    excerpt: "The report titled Global Artificial Intelligence based Security Market Size Status and Forecast 2019 2027 has been recently published by Researchmoz us The Artificial Intelligence based Security market has been garnering remarkable momentum in recent years Demand continues to rise"
+    publishedDateTime: 2021-04-26T16:06:00Z
+    webUrl: "https://www.openpr.com/news/2275678/artificial-intelligence-based-security-market-landscape"
+    ampWebUrl: "https://www.openpr.com/amp/2275678/artificial-intelligence-based-security-market-landscape"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2275678/artificial-intelligence-based-security-market-landscape"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 40
+    quality: 47
     images:
-      - url: "https://cdn.openpr.com/U/4/U423349473_g.jpg"
+      - url: "https://cdn.openpr.com/U/4/U426217659_g.jpg"
         width: 800
-        height: 467
+        height: 564
         isCached: true
-  - title: "Mobile AI Market Analysis by Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook – Global Forecast 2021 to 2026"
-    excerpt: "Market Synopsis The Mobile AI Market is estimated to record a significant growth throughout the forecast period. The"
-    publishedDateTime: 2021-04-24T15:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-analysis-by-size-share-trends-future-growth-emerging-trends-qualitative-outlook-global-forecast-2021-to-2026-2021-04-24"
+  - title: "Chatbot Market Industry Demand, Current and Future Plans by Forecast to 2025 | Says Kenneth Research"
+    excerpt: "Global Chatbot Market AnalysisAccording to Market Research, The Global Chatbot Market was valued at USD 858.1 Million"
+    publishedDateTime: 2021-04-26T05:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-industry-demand-current-and-future-plans-by-forecast-to-2025-says-kenneth-research-2021-04-26"
     type: article
     provider:
       name: MarketWatch
@@ -141,22 +99,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Research on Voice Recognition for Automotive Market 2021: By Growing Rate, Type, Applications, Geographical Regions, and Forecast to 2026"
-    excerpt: "The recent analysis of Voice Recognition for Automotive market size has been methodically put together to impart an in-depth understanding of the ke"
-    publishedDateTime: 2021-04-27T16:24:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 11
-    images:
-      - url: "https://www.express-journal.com/img/img-3.png"
-        width: 1044
-        height: 625
         isCached: true
   - title: "Voice Recognition for Smartphones Market Growth, Trends, Forecast and COVID-19 Impacts (2021 - 2026)"
     excerpt: "The recent analysis of Voice Recognition for Smartphones market size has been methodically put together to impart an in-depth understanding of the k"

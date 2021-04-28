@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 646
         isCached: true
-  - title: "Kontron Delivers AI Functionality with the KBox A-203-AI-GC"
-    excerpt: "This includes, for example, image and video data processing for visual inspection, quality assurance, predictive maintenance, sorting or object recognition; as a stand-alone device or gateway. With the integrated Google Coral Edge TPU (Tensor Processing ..."
-    publishedDateTime: 2021-04-23T05:13:00Z
-    webUrl: "https://www.newswiretoday.com/news/175267/Kontron-Delivers-AI-Functionality-with-the-KBox-A-203-AI-GC/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 21
 
 secured: "Zkp6vkcoh1TN8VrX4EC30aznEhI5rNZKA4F6Bpv+rBsKrPIhx9u5BeBD0Dp4bYYutA4g6lGXLLawJdVXZWTJ3f+kX4aqHy6E2D6D5MXKRWEe44ocgVkZthjMQ8OXMpJcB+uZtfwTd+qG/IlCRmZf22m3H8kXYZ9Fh8SI8nknSotYVAVs/6idcJT5kP1u9Tk8YcdWtTPSAvg4bmrAUH5DQ7Hn2IZnei9PbTJ2gmbD0y3L/rtfXK/JpgnXds5bf1xOmzezablsHK8XAFZGqP9inqr0+5MqLRBbgVEydhV7auA9fYLYLOA1M3KrrNeSPTKba+XHRw+CVm+bdXf0JLFUxmevkp0IJbv3y8WHFbA8huA=;TnVITXD7M4/u4j7WmW1chQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/researcher-says-ai-not-artificial-intell
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/researcher-says-ai-not-artificial-intelligent/amp"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Building the intelligent future of payments with AI"
+    excerpt: "The sooner a FI builds a strong data foundation, the sooner they can execute advanced AI and ML models. With each iteration, they will put more distance between themselves and the competition."
+    publishedDateTime: 2021-04-28T13:29:00Z
+    webUrl: "https://www.dqindia.com/building-intelligent-future-payments-ai/"
+    ampWebUrl: "https://www.dqindia.com/building-intelligent-future-payments-ai/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/building-intelligent-future-payments-ai/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2015/12/MobilePayments-DigitalWallet.jpg"
+        width: 330
+        height: 211
+        isCached: true
   - title: "AI at work isn’t always intelligent"
     excerpt: "With AI spreading quickly but quietly into people’s homes, it is timely that the EU published draft rules last week on how it should be used in a range of different settings. The proposed rules say that AI used for “the recruitment and selection of persons,"
     publishedDateTime: 2021-04-27T04:00:00Z

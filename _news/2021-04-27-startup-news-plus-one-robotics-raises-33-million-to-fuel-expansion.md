@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Plus One Robotics Raises $33M For Human-Robot Collaboration Software"
+    excerpt: "Plus One Robotics, a human-robot collaboration software company headquartered in San Antonio, has announced this week $33 million in Series B funding led by McRock Capital"
+    publishedDateTime: 2021-04-28T14:41:00Z
+    webUrl: "https://www.benzinga.com/news/21/04/20838845/plus-one-robotics-raises-33m-for-human-robot-collaboration-software"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20838845"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20838845"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 89
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/archive-1850170_1920_1.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Plus One Robotics raises $33 million for logistics vision system"
     excerpt: "Backing will help firm meet global e-commerce expansion with technology that delivers “hand-eye coordination” for warehouse bots."
     publishedDateTime: 2021-04-27T18:46:00Z
@@ -51,6 +67,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
+  - title: "Local robotics company raises $33M in funding led by Silicon Valley, Canadian VCs"
+    excerpt: "Local robotics software company Plus One Robotics raised $33 million in a Series B equity fundraising round co-led by venture capital firms in California and Toronto. The money will help Plus One further develop its two offerings: PickOne,"
+    publishedDateTime: 2021-04-27T11:00:00Z
+    webUrl: "https://www.bizjournals.com/sanantonio/news/2021/04/27/plus-one-robotics-raises-33m-in-equity-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
 
 secured: "1SAb0kVtWJHqTaE3Uyv7kBlnJJpPaTgdM7G0YdsbxS00fwI3O18/5XsE0YjB1LzADMxZjCv4S/gxSa6JqiRPMKBECoh11Rk083APvX4h/1Jg5+38ZtlGbqHvnvhhjz/CEjveqyEiZg5GzAqeE5BoZPw/SNxz2OTn9Q1WUJ4Rx3FvPC5l/cVxRe72K75iwP46LA+4E0B9TplJWz4Yi7wUXD9xSn4rma5CBTEmrePxwnguMEUwH+v+YoUg5oqrH+reCN1ER54gk6AFeec76JkAq1plHFndonvbbBw5X4retCqtD1ue8cv4JWLvWoFx2sIDY4Lrar1SecRsB68E9yDv2Kd3FXQRgZ5S4va9mgUQhRQ=;FEF0LqntlIE+CcxgTDg2uQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-explori
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/amp/"
 type: article
 quality: 87
-heat: 93
+heat: 94
 published: true
 
 provider:

@@ -2,33 +2,25 @@
 category: news
 title: "BrainChip Simplifies Deep Learning with Launch of MetaTF"
 excerpt: "The MetaTF development environment is an easy-to-use, complete machine learning framework for the creation, training and testing of neural networks, supporting the development of systems for Edge AI on BrainChip’s Akida event domain neural processor."
-publishedDateTime: 2021-04-22T09:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210422005415/brainchip-simplifies-deep-learning-with-launch-of-metatf"
-webUrl: "https://www.morningstar.com/news/business-wire/20210422005415/brainchip-simplifies-deep-learning-with-launch-of-metatf"
+publishedDateTime: 2021-04-22T14:01:00Z
+originalUrl: "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html"
+webUrl: "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "BrainChip Simplifies Deep Learning with Launch of MetaTF"
-    excerpt: "Deep-learning professionals do not need to learn a new framework to start using MetaTF immediately. In three steps, MetaTF users can go from designing and training CNNs to converting them for deployment on the Akida neural processor to fully leverage ..."
-    publishedDateTime: 2021-04-23T01:20:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210422005415/en/BrainChip-Simplifies-Deep-Learning-with-Launch-of-MetaTF"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/34/53471e9b-4634-5c50-b107-4ed265e2a7e7/60818531e5d3c.image.jpg?resize=1140%2C630"
+    width: 1140
+    height: 630
+    isCached: true
 
-secured: "7TsCBo0EytO4MaST1aPnVQ5CMsRJMz7/jVHUBvTbd6atVxTbq3l9tqinKIpxK9YI+t4ngEARveMYf++by23Rr5Cv+WerPGHzgfsX+/n5GHfNGSicuzw9OQkYh6b7/e9AXL2lTjVrbXpel1G90oVNs1DgxgdZkr9zQlQAgYGUZeOQ1G9bQaPTLUfNtKZsur1+bb+p7Hwt12XFpRixVg9mDyQWexFsgZFgsHuLnxnYt9HnOrrdcWLATR5/wJqC3wNGt4U29q9318zNKauxZHNu08LBpugTioLgXg5Fc4kJEQivDZJCT4b3i3ZXwrJNY0VKT/v56yITqUUl0kOhh09iXlAkFzbyx19NrO8O3dnIwfc=;NyTEMB4REo4b7u24fFOkyQ=="
+secured: "b2aeH9Vp0R/Gs8UUMviNVyPuqrdSJHlZCijvpl+CLfc/4GGxaojI2r/dGPh+rTN/JkvmLXpwZbejkrSwEkJZXDA92ZJtUPs/JhuLVVLYEIjjKEUmskUB+hysmpztIufIX+wLhEM5baZ9DsD30yuGMjtSrjL0MvQBQPi1HpdA32Pgmac4MTAy8q1HaxmCLdyEM/qIswuzWdv4GH4hiT3XiAIN63cO5Fq8Pd9WCbKF+0PqyoWrv92uJKnX50+EhH6cYZQaYNioVeOu1o49pTSPSVsO440JBaMqYzRAgpebFPFBi/uaTBmPbgTdEKgNiQDK+WveChj2g6XpamN1noKmrTlGZc58uPdWQZTMVo7DNfA=;1qC1Re+ckpiFORf2BKOx5A=="
 ---
 

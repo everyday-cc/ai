@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-28-ai-can-help-guide-our-return-to-the-workplace.md",
+      "title": "AI can help guide our return to the workplace",
+      "excerpt": "As companies around the world begin reopening offices, for example, AI can take on a pivotal new role in the workplace: supporting continuous management and maintenance of facilities. This means that intelligent systems could impact millions of workers who may never have imagined AI playing a role in managing their working environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/ai-can-help-guide-our-return-to-the-workplace",
+      "originalUrl": "https://www.techradar.com/news/ai-can-help-guide-our-return-to-the-workplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/ai-can-help-guide-our-return-to-the-workplace",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-can-help-guide-our-return-to-the-workplace",
+      "publishedDateTime": "2021-04-28T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-making-ai-great-again-how-do-we-design-ethical-ai-systems.md",
       "title": "Making AI great again: how do we design ethical AI systems?",
       "excerpt": "The debate around how AI will shape our future is ongoing, and it is already affecting our present. Accenture investigates how issues around ethics and regulation are becoming increasingly urgent. Artificial intelligence is a powerful agent of change in our society.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-design-ethical-ai-systems",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.wired.com/story/researcher-says-ai-not-artificial-intelligent/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -98,50 +150,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-26-from-admissions-to-teaching-to-grading-ai-is-infiltrating-higher-education.md",
-      "title": "From admissions to teaching to grading, AI is infiltrating higher education",
-      "excerpt": "Artificial intelligence is being used on campuses to answer academic questions, grade assignments, teach lesson.",
-      "sourceUrl": null,
-      "webUrl": "https://hechingerreport.org/from-admissions-to-teaching-to-grading-ai-is-infiltrating-higher-education/",
-      "originalUrl": "https://hechingerreport.org/from-admissions-to-teaching-to-grading-ai-is-infiltrating-higher-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/hechingerreport.org/wp-content/uploads/2021/04/Newton-robot-college-2.jpg?fit=1024%2C710&ssl=1",
-          "width": 1024,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hechingerreport.org/from-admissions-to-teaching-to-grading-ai-is-infiltrating-higher-education/",
-      "cdnAmpWebUrl": "https://hechingerreport-org.cdn.ampproject.org/c/s/hechingerreport.org/from-admissions-to-teaching-to-grading-ai-is-infiltrating-higher-education/",
-      "publishedDateTime": "2021-04-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hechinger Report",
-        "domain": "hechingerreport.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2021-04-25-why-applied-ai-requires-skills-and-knowledge-beyond-data-science.md",
       "title": "Why applied AI requires skills and knowledge beyond data science",
       "excerpt": "Using machine learning in real-world applications and business problems presents challenges that are absent in academic and scientific research settings.",
@@ -150,7 +158,7 @@
       "originalUrl": "https://thenextweb.com/news/why-applied-ai-requires-skills-and-knowledge-beyond-data-science-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 75,
       "tags": null,
       "images": [
         {

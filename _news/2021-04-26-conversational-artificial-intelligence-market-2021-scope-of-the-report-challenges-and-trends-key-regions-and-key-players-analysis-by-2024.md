@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Neural Network Software Market Key Trends, Growth Demand and Leading Players Anlysis"
-    excerpt: "This report on the Global Artificial Neural Network Software Market assures a treasure of information on a plethora of growth opportunities. The study includes expansive research by expert analysts. All the growth factors revolving around the Artificial ..."
-    publishedDateTime: 2021-04-23T19:33:00Z
-    webUrl: "https://www.openpr.com/news/2274824/artificial-neural-network-software-market-key-trends-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2274824/artificial-neural-network-software-market-key-trends-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274824/artificial-neural-network-software-market-key-trends-growth"
+  - title: "Artificial Intelligence (AI) in Retail Market - Top Vendors Analysis, Market Challenges and Geographical Analysis"
+    excerpt: "How will North America Artificial intelligence AI in retail market perform over 2018 2024 The growth map of artificial intelligence AI in retail market is estimated to depict quite an ascent by 2024 driven by the increasing implementation of AI"
+    publishedDateTime: 2021-04-28T12:06:00Z
+    webUrl: "https://www.openpr.com/news/2276788/artificial-intelligence-ai-in-retail-market-top-vendors"
+    ampWebUrl: "https://www.openpr.com/amp/2276788/artificial-intelligence-ai-in-retail-market-top-vendors"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2276788/artificial-intelligence-ai-in-retail-market-top-vendors"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 47
+    quality: 51
     images:
-      - url: "https://cdn.openpr.com/U/4/U423717797_g.jpg"
-        width: 800
-        height: 507
+      - url: "https://cdn.openpr.com/U/4/U428426704_g.jpg"
+        width: 640
+        height: 300
         isCached: true
 
 secured: "73Z0rT0ycb0eFTFan5Zj8hkiShwNv+ACstBAMDlvEqzA1L577qePeL4afc/b5uutHH9I5Eo3InP46zwGyWme1u3T10f3YBTDWG6luAW84KtHFzWcSLMCySLoUMt+KXIC8YyDM3YFbhVIiP0ZZvognujTUtVdSJqNnplkEA/CT5vcn8Qmx2ZGR7H14SAvAg+oXPfccu0w9UPGyK6O2RS9YxBOT+dhDdhjYvgoE7IEoDiAE7tKdLmiv+ULq89pWd4Rqv1LtIyF3gP6M6+ITBX0Q26RYmR+ciTVkC41lwy+AY6m0hsxpZr+T1gKilyZhCbM6K0EyTHNhdmGvgUTVU0429sY09lebYRI1ou79rsXr5A=;GPmoSZaev1ruP/TdIJDA1A=="

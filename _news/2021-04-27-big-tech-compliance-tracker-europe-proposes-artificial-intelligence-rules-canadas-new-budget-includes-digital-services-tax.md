@@ -58,6 +58,15 @@ related:
         width: 6361
         height: 3844
         isCached: true
+  - title: "Europe Artificial Intelligence (AI) Chip Market 2021"
+    excerpt: "Chip Market in Europe is expected to grow from US$ 1.25 Billion in 2018 and is projected to reach US$ 16.04 Billion by 2027; it is expected to grow at a CAGR of 33.0% from 2019 to 2027. Europe Artificial Intelligence (AI) Chip Market study by “The Business Market Insights” provides details about the market dynamics affecting the market,"
+    publishedDateTime: 2021-04-27T09:44:00Z
+    webUrl: "https://ksusentinel.com/2021/04/27/europe-artificial-intelligence-ai-chip-market-overview-on-research-methodology-primary-research-secondary-research-and-company-share-analysis-model-etc-2021-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 49
   - title: "Abbott's New Coronary Imaging Platform Powered By Artificial Intelligence Launches in Europe"
     excerpt: "Abbott today announced that its new imaging platform powered by Ultreon 1.0 Software, is now CE Marked in Europe. This first-of-its-kind imaging software merges optical coherence tomography (OCT) – an imaging tool that provides physicians a comprehensive view inside an artery or blood vessel"
     publishedDateTime: 2021-04-27T09:22:00Z

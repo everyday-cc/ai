@@ -1,17 +1,17 @@
 ---
 category: news
-title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
-excerpt: "FILE PHOTO: A logo of Baidu is seen during the World Internet Conference (WIC) in Wuzhen, Zhejiang province, China, November 23, 2020. REUTERS/Aly Song/File Photo (Reuters) - Coinbase Chief ..."
+title: "Baidu Expects to Supply Self-Driving System to 1 Million Cars in 3-5 Years"
+excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice president at Baidu,"
 publishedDateTime: 2021-04-19T04:06:00Z
-originalUrl: "https://www.reuters.com/news/picture/baidu-expects-to-supply-self-driving-sys-idUSKBN2C60AN"
-webUrl: "https://www.reuters.com/news/picture/baidu-expects-to-supply-self-driving-sys-idUSKBN2C60AN"
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,12 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559010206&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH3I04N"
-    width: 810
-    height: 540
-    isCached: true
-
-secured: "3KITSmCxmG3mCt4N6tcsu1QjSmofqpVyf3DTeRuovVumauhAhYpn3l+BGgdrYs3/ZpWYWVnoBBo5wq/9HEH+YLKMO38uSMUXVJhrxNY9N/QNutilde15mfx9gEUO2UnydHu8aKDbyybIhFHYEHBtOl/HnWOpHfosXpmbBvYswfct7awwqZlZw0abtr/50xwnbiAgr4m2Q9BsZ5OoQK8DkUgvEk7mzh1R8gctrdH3XGXSCHr0WbungiGCbwaEA7u/wbLRKe2E3Uc/Xx3mgC/G6OzH+x47XQEj3Al78M2ehx3u+fytT56Onaq6EWnGi4xUFYfNDDvWu4f3C9EftsyVC/eQnM23ZIrSoQlSoe1pJQY=;zruGAAWBWiEwnx1SZogd3w=="
+secured: "V1YzbKdEKXt2rWhRX/1EWmOxFF8UgysTyTEZv4v/6YSj2s++Pzp1Z4L8CZx6tsILtzvpRGFlznw39ff/rr8cOi1SatikEU/asW2czB9Rl2ULXccGwMJGbQ0NEYo2VTbJC726fEKGTtDV2Wp6lnfP1D7tmZGZ6/VLISJ+5N4z7lwoWS6lgt1du2NKzoMxxDxeiSPk2xg+2TCabowMzNXvOlFDUWrWxA2W3KnThBWBeMrQgiv0pTxbby0U4YXyrWQmf2yxT3Kr92jSC4qTisQfT01r54qNhTtp+dH8j0utqEUKQWNv/oHO4UjsGcvEo+O8RWMqXL/C2RnSd+6scp1juLSEIdYhqZOm6ntkFjvxH+X1f8vxpyTpGXlPLnw34xS0NKfXTfYkiB5r4FYHGGGPJu9AxfTXXMrY8Z+8FrdGSLq9Q675EdUUpi4L20fiP3aVjYdxqlLuLNZRHtleog958OeHNa8LB/C8bL1Jivoz5FO3mL/WCNdjAyMkXEB4+bj8373xK5kkIyqsFbInMT+t9g==;GXbkUfUTd889fOE6PE6sWg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-d
 cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-design-ethical-ai-systems/amp"
 type: article
 quality: 74
-heat: 75
+heat: 77
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learn
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 640
     height: 427
     isCached: true
+
+related:
+  - title: "Using artificial intelligence to detect permafrost thawing"
+    excerpt: "A new collaboration will deploy the latest technology to fill critical knowledge gaps on permafrost thaw and soil organic carbon."
+    publishedDateTime: 2021-04-27T17:39:00Z
+    webUrl: "https://www.preventionweb.net/news/view/77122"
+    type: article
+    provider:
+      name: Prevention Web
+      domain: preventionweb.net
+    quality: 17
 
 secured: "Bi5caRsgVL+mRVwnDtnBB2pxRgzmE6ULyhgPwez8ebS7iyKj16/AWzJdhaf5IreujGaNh4QIY7mI5sucNou9P3+gLXufZutSgyzw2WUEuTljDxHz0HP6Eo77tvP/ZnYcs3Gmo+KITg6hVPx733VSra5iXECPfEdwWCfbvl97umib1IJvBPhAzPbQSs6hsgznpn0Rysdqeb+g7CuyloQsYYlGHKHTwe8TGy9hwo23dq14icP+kpKPg+TGWD0S8kFAXZRXGFAX4A/NKCygZjMq/d27dznrwE3sOhw1IaasGWhGAZ0uHmaxtfQEcS62viYxgue0FkqWQFTBfaMIZhelKpY+LjBY2HtPy+xpA4ZnCes=;NFVxKrJW5nQERHZ5Ja50QA=="
 ---

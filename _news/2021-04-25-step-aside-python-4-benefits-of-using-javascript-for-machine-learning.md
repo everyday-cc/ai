@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/4-benefits-using-javascript-for-machin
 webUrl: "https://thenextweb.com/news/4-benefits-using-javascript-for-machine-learning-syndication"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: The Next Web
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "4 reasons to learn machine learning with JavaScript"
-    excerpt: "There are already several JavaScript machine learning libraries. An example is TensorFlow.js, the JavaScript version of Google’s famous TensorFlow machine learning and deep learning library."
-    publishedDateTime: 2021-04-23T23:43:00Z
-    webUrl: "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/"
-    ampWebUrl: "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/01/javascript.jpg?w=1200&strip=all"
-        width: 1200
-        height: 744
-        isCached: true
 
 secured: "DBAOZR91TMwbUh2+cYOGkmBIQqRTMRYeGipQ8s0L/BVGKwccMPeJ32Z/HeBa+Aa8ExcRoDyZfFq13TfZqvhQk7pFLDkyeLkaz091oI7VY85Gm7+QTwFCfgltRml5jHVB/VbkKgem2YYgrPm0nOmBY9cemCyz89LOkqD+I5izsiXxkOzFUSHYRU3EE+CIForPb3DUpL2neLfcio9A+IGUXWJkXeOsx3Ge0tyNxYGE/BQeuENcChYUGWrt15ptqARaCV+dKU7oONWxBBQbe8DT/5SxteyMcqv3XBisXGyRtA+IbSWXJt6rBDpgazR0wpHFBOlDe8pS8mNPNBp3GkzI+i7AAwHuz772x2LZXO+FGIep2CU21Uv1YL4oeUR7Mz0Jq3pg3Yj0eiw/qU9d4EolOMET7bjPKtcLfAMlicjiPjBlI1UeFv4OrtHlQ29TPnco50OFqbG3ax+tznRxK86fDyIMSAQUvyzfO1gxTsZdZ63MvLtHeldATtDqcx9gHBisa98YLSZCxW2rdTMFh1QvSg==;SCFa+tVtGrw28BrZB32Qpw=="
 ---

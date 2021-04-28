@@ -21,35 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Tesla owners warned of 'full self-driving' risks even before fatal crash"
-    excerpt: "Tesla's \"full self-driving\" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns, clipped at least one curb ..."
-    publishedDateTime: 2021-04-23T16:43:00Z
-    webUrl: "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.html"
-    ampWebUrl: "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html"
-    cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html"
+  - title: "Tesla admits it may never achieve full-self-driving cars"
+    excerpt: "The disclosure comes after a fatal crash in Texas earlier this month, when a driverless Tesla ran off the road."
+    publishedDateTime: 2021-04-28T16:18:00Z
+    webUrl: "https://www.fastcompany.com/90630440/tesla-admits-it-may-never-achieve-full-self-driving-cars"
     type: article
     provider:
-      name: CBS Atlanta
-      domain: cbs46.com
-    quality: 58
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/5/39/5391c1d9-c758-5594-a62e-1b650d5d0199/6082f09709609.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Tesla crash in Texas shouldn't diminish hopes for self-driving trucks"
-    excerpt: "Deadly Tesla crash raises concerns about the future of self-driving trucks. Will computer-assisted driving emerge a winner? Read CCJ to find out."
-    publishedDateTime: 2021-04-23T12:49:00Z
-    webUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-despite-fatal-tesla-crash-in-tx"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
+      name: Fast Company
+      domain: fastcompany.com
     quality: 39
     images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/04/Screen_Shot_2021_04_22_at_4.28.57_PM.6081e6d47640f.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 608
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/04/p-4-tesla-admits-it-may-never-achieve-full-self-driving-cars.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tesla says self-driving system not to blame for deadly Texas crash"
     excerpt: "Executives for Tesla Motors are contradicting Texas authorities who said a fiery crash involving a self-driving vehicle that killed two people this month had no one in the driver's seat."

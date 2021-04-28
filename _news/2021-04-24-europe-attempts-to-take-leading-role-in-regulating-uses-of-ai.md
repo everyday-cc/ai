@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/360faa3e-4110-4f38-b618-dd695deece90"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/360faa3e-4110-4f38-b618-dd695deece90"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 6361
         height: 3844
         isCached: true
+  - title: "Europe Artificial Intelligence (AI) Chip Market 2021"
+    excerpt: "Chip Market in Europe is expected to grow from US$ 1.25 Billion in 2018 and is projected to reach US$ 16.04 Billion by 2027; it is expected to grow at a CAGR of 33.0% from 2019 to 2027. Europe Artificial Intelligence (AI) Chip Market study by “The Business Market Insights” provides details about the market dynamics affecting the market,"
+    publishedDateTime: 2021-04-27T09:44:00Z
+    webUrl: "https://ksusentinel.com/2021/04/27/europe-artificial-intelligence-ai-chip-market-overview-on-research-methodology-primary-research-secondary-research-and-company-share-analysis-model-etc-2021-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 49
   - title: "Big Tech Compliance Tracker: Europe Proposes Artificial Intelligence Rules; Canada’s New Budget Includes Digital Services Tax"
     excerpt: "Those developments will also bolster AI adoption, innovation and investment throughout the continent. \"By setting the standards, we can pave the way to ethical technology worldwide and ensure that the EU remains competitive along the way,"
     publishedDateTime: 2021-04-26T18:44:00Z

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "3 Top Fintech Stocks to Buy Now"
-    excerpt: "Fintech stocks have been white-hot over the past year ... and Upstart tackles both with its AI-enhanced software. Rather than rely on traditional credit scores, which often exclude lots of potential borrowers that have good-but-not-quite-great credit ..."
-    publishedDateTime: 2021-04-23T14:08:00Z
-    webUrl: "https://www.fool.com/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F622366%2Fyoung-woman-holding-credit-card-and-smartphone-and-thinking-with-chin-on-fist-online-mobile-shopping-e-commerce.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How can technology bridge fintech and SMEs to ease the lending process"
     excerpt: "Fintech startups bring convenience and help SMEs get easy access to products like bank accounts, cards, securing working capital, managing cash flow, etc."
     publishedDateTime: 2021-04-25T09:22:00Z
@@ -51,36 +35,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Cleareye.ai joins ITFA & the Fintech Committee"
-    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, announced that it is joining the ITFA Fintech Committee. Cleareye.ai, aiming to make a significant impact in the trade finance ecosystem,"
-    publishedDateTime: 2021-04-26T12:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-global-trade-d7b25cd07a9e4393f6a6437c01272b54"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "London’s Fintech Startup Fintern Acquires £32M in Capital to Expand Access to Affordable Loans in UK Markets"
-    excerpt: "UK-based Fintech company Fintern has secured £32 million in funding ... Fintern does all this by using Open Banking and AI to accurately assess their clients’ transaction details, enabling them to provide affordable lending to a signifincantly larger ..."
-    publishedDateTime: 2021-04-23T12:04:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174530-londons-fintech-startup-fintern-acquires-32m-in-capital-to-expand-access-to-affordable-loans-in-uk-markets/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174530-londons-fintech-startup-fintern-acquires-32m-in-capital-to-expand-access-to-affordable-loans-in-uk-markets/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174530-londons-fintech-startup-fintern-acquires-32m-in-capital-to-expand-access-to-affordable-loans-in-uk-markets/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 25
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Victoria-Station-London-UK-300x266.jpeg"
-        width: 300
-        height: 266
-        isCached: true
   - title: "SECP Chairman Commits A Coherent Industry Policy to Promote FinTech"
     excerpt: "SECP Chairman Aamir Khan said that the Commission has instituted various reforms to develop a comprehensive and coherent industry policy"
     publishedDateTime: 2021-04-27T11:39:00Z
@@ -90,29 +44,6 @@ related:
       name: ProPakistani
       domain: propakistani.pk
     quality: 19
-  - title: "Datasite® Named SBR Technology Excellence Award Winner for Fintech - Mergers & Acquisitions"
-    excerpt: "Datasite technology and tools make M&A management more efficient and effective by automating tasks. Singapore Business Review (SBR) acknowledges the trailblazing work of firms and companies whose new technological products,"
-    publishedDateTime: 2021-04-27T05:28:00Z
-    webUrl: "https://sbr.com.sg/co-written-partner/more-news/datasite®-named-sbr-technology-excellence-award-winner-fintech-mergers-"
-    type: article
-    provider:
-      name: Singapore Business Review
-      domain: sbr.com.sg
-    quality: 14
-    images:
-      - url: "https://cdn.sbr.com.sg/sites/default/files/imagecache/600x360/news/pr_datasite.jpg"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Futu Holdings Limited wins Fintech Award at the SBR TEA Awards"
-    excerpt: "With the Covid-19 pandemic accelerating the use of fintech apps, this has caused an enormous increase in new customers for online brokerage and wealth management platforms. Singapore Business Review (SBR) recognises the significant role of innovative technology on these platforms,"
-    publishedDateTime: 2021-04-27T08:54:00Z
-    webUrl: "https://sbr.com.sg/co-written-partner/more-news/futu-holdings-limited-wins-fintech-award-sbr-tea-awards"
-    type: article
-    provider:
-      name: Singapore Business Review
-      domain: sbr.com.sg
-    quality: 4
 
 secured: "41tOpI/7WdsyBVacX595v+tI7Uo9tAlCIEUWsxMlhoar4Z/xqaWdx+0SeObU4Onou3Girh/AaHiNg82scPk9jab2OtVEtNA8Ut5w3iB3Vss+XoNmBtagxPzir38Ytxf2PaB++JJ+1IcWaS1u23ybIywvu4ojXpZibaVv1YAOWogYi1J3vaDALspfH5VazrhSDFLVjso6r+NxBW3Hjhkh9EqqszKtGLXEcOO4Bho/7uT1q8rzTf+/1JJqHIOfzL5u8fAw33khHs0jNmSjI+sfXygMLH4GXKjcK3Aue+FFjqFbOIfS8M5eArVlf5O39V3V0EKuWLDxQ/TZozexvXdX4i2y2XB7BhEW1WJi3jahQBCezS4E04GQbLUKwJxzfsALT+GmgI2cuYGzXSsm4+q9E1T0fqM8SYRnhpesiCAJ2k3jTgMykQ6X+Fl1joF/65IpWmVejGXW+ZFQUQJy4JFkf1fOBMbxFcXrXzGuJm4eKPcGFY6UQk6OVc51IZ5EMS8I9qQ5rZrvEooI0n+2p/6mxg==;Tt55M1YWdwUmMtCzjJHOjg=="
 ---

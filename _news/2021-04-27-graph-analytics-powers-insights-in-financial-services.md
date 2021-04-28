@@ -73,20 +73,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Unsupervised, a startup that uses AI to automate data analytics, raises $35M"
-    excerpt: "Self-described automated analytics startup Unsupervised Inc. said today it has raised $35 million in a new round of funding led by Cathay Innovation and SignalFire. Previous investors Coatue, Eniac Ventures,"
-    publishedDateTime: 2021-04-23T12:00:00Z
-    webUrl: "https://siliconangle.com/2021/04/23/unsupervised-startup-uses-ai-automate-data-analytics-raises-35m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/5eae17e2a0d3e469a4642a81_Mask-Group-18-p-1600.png"
-        width: 1600
-        height: 770
-        isCached: true
   - title: "AI and analytics together: 3 real-world use cases show how and why"
     excerpt: "Batman and Robin, apple pie and ice cream, AI and analytics. Did that last combination surprise you? It shouldn’t."
     publishedDateTime: 2021-04-27T17:21:00Z

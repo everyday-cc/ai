@@ -23,6 +23,22 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "Artificial intelligence center for engineered systems launched"
+    excerpt: "Control Engineering - An interdisciplinary research center established to further foundational and applied artificial intelligence (AI) in engineered systems will bring"
+    publishedDateTime: 2021-04-28T05:03:00Z
+    webUrl: "https://www.controleng.com/articles/artificial-intelligence-center-for-engineered-systems-launched/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 37
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/04/CTL2104_WEB_IMG_PSU_CAFE_ArtificialIntelligence-Slider.jpeg"
+        width: 645
+        height: 350
+        isCached: true
+
 secured: "w63DNEwTrznvPyxfc5NQHoCHMRYRsGgMq+MpKQ9K50u1PCeBNXAQAbSZaabDODTOdXOAVzxG4PQbQSPibDm0AHeoNwVCuLMC1U5Va5pPGBYn9JO5cx10OXxGyZMUFLEzbt0TrRnUT1xed8zbj8nJVn+Mn8cnJC4Gd5rff/+io4LdPfxNj+3j9Vl2ARPjNeEz/pJABkKrO0nkUoJ1VQBwUlNd6RO6oh24mlLH3rXyIQ00KIiNhLGLR/Zl/3hIa6hLPHN7YJ9iQ32oNy/i5QKcKRuQl7brRX3c2dP2ZwOa3/rBIZCurkevrJs8iK8rmgQp5Z4uLSor0zQsswILN9I0H9BXBFDUQa8pbIhJ8lFvzy6tjKYCrq8RhfAUolWJ9clQQwxidNt1ioc3/TSeL6d3dJhmpSGGFTxU1q8L544FRNZp5m3gyZmN+0ZgmkgB4GceGAUpauM0QjU40xyQDWMswaExGFBuRYWwnBOtK3Y6+EJguZ65oDff2LQ0s3k1xvEQw7gD0DOK2GaoniUufmCtCg==;syjzs2w5MfakRe6GW7ZK+A=="
 ---
 

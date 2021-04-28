@@ -39,15 +39,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Forbes Recognizes Lilt As One of the Top Artificial Intelligence Companies For Third Straight Year"
-    excerpt: "Lilt, the modern language service and technology provider, today announced that it has been named to the 2021 Forbes AI 50 for the th"
-    publishedDateTime: 2021-04-26T15:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/forbes-recognizes-lilt-as-one-of-the-top-artificial-intelligence-companies-for-third-straight-year-1030346564"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021"
     excerpt: "DeepMap, Inc., a global leader in autonomous driving technology, today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to transform industries."
     publishedDateTime: 2021-04-26T21:34:00Z
@@ -73,6 +64,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
+  - title: "Forbes Recognizes Lilt As One of the Top Artificial Intelligence Companies For Third Straight Year"
+    excerpt: "SAN FRANCISCO, April 26, 2021 /PRNewswire/ -- Lilt, the modern language service and ... other leading companies developing AI-powered solutions.\" Lilt's translation services are powered by ..."
+    publishedDateTime: 2021-04-26T15:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/forbes-recognizes-lilt-as-one-of-the-top-artificial-intelligence-companies-for-third-straight-year-301276873.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/1276009/Lilt_Logo_Large_Logo.jpg?p=facebook"
+        width: 797
+        height: 419
+        isCached: true
 
 secured: "a8V5qWFgRAe9CSkJ3O4XK/Cd9A783XxzmrxqBvivzEJJ64W886szcIOUOYyi7TEt4vy3RaPBdH4KCtexTbP1f5Wb1xS9gqHIfypd81EtmVjqnQXUo3z3QL1Ez6xDlkuM51vOYWU2LYzb5lqfob76xHwaCrlffylusJr0FVMIvodZazNhODlU+7mVPE9f2MrWIHUlG8wlhHVrGRzCNVpBf8mIJq1st0hEBAZJAYrcYQuMgx0RDPzEJNYUMjnzE8L+Lf4TdZQ6yoPIxvjFIsp1/qsHDaY7R5BbiSWgNpSus8Fuow1Avbpws54M3c8BW2MK8vCE7ndZ1QTM9Pp8SXjT2pfGZlQCsq0ewyZ0kdDuN98=;6oorF8khWPZsfi+BidVf8w=="
 ---

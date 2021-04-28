@@ -51,6 +51,34 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "ASUS announces Azure Percept Collaboration with Microsoft"
+    excerpt: "Azure Percept DK provides an end-to-end platform for prototyping edge AIoT solutions Easing edge AI difficulties: ASUS and Microsoft collaborating to enable quick and easy prototyping of scenario-based edge AI solutions Azure Percept DK: Pilot-ready development kit integrates deeply with Azure AI,"
+    publishedDateTime: 2021-04-28T07:30:00Z
+    webUrl: "https://technosports.co.in/2021/04/28/asus-announces-azure-percept-collaboration-with-microsoft/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 54
+    images:
+      - url: "https://technosports.co.in/wp-content/uploads/2021/04/AZURE-Percept-DK-wthBox-696x464.png"
+        width: 696
+        height: 464
+        isCached: true
+  - title: "Microsoft sees revenue boost from growth in cloud services"
+    excerpt: "Cloud services are becoming more and more important to Microsoft's business. Its Intelligent Cloud services revenue was up 23% year over year."
+    publishedDateTime: 2021-04-28T01:08:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/27/microsoft-sees-revenue-boost-from-cloud-services.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
+    images:
+      - url: "https://media.bizj.us/view/img/12001532/microsoft-in-redmond-april-2021-02*1200xx3356-1893-0-218.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "/ZEq+at7g+pBviYapk6aC7smdAWdoMt4K33mqEUNv+Gq1u3bDhUEpDxvqYyWXcMJGIBdKe13P4wceLOA+kaaVP2SYrCwEr+jHR2ERlCxMjMe/UN910SHefIa5cD+JB8cyt733OwZVr9SJdf75QGPCjDv/WcQVlPl+HSTCT4lyvVhSEzrwu+bfgiRKPWo6GnR213kj02OBXKypvcxvgv3bQyUldZndE+fzOZUTUc/cFMCX5Tig6S3L1EneMnYEK39W3Z49JfFCXvE6abN68A8ojf1TeT6fU1fxydGGdt15mvF546ZpusoQE3TVAOq5pAGTHIDQilgGeCkR74FfPwG2RluFIfo+5XolFs1w7aDH4nr1imFTwCkiqRsUmu41Nc5uTgLjFLTgKf2RxfyO/O8S24jOh7aY2RgUNheHCZLX240BMHbCbnFhuwa7cS0jikz+6VPrBnkJ1IOMIw4HkkmTHlOv6K4BuaatUCY5F6erdem3H41pH/vI2agCmezbzmmCuVjeiOidBTO51fpIthsBw==;coMpprPU8jDgTjXzFbJ3ww=="
 ---

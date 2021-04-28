@@ -66,6 +66,52 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "Mobile AI Market Analysis by Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook – Global Forecast 2021 to 2026"
+    excerpt: "Market Synopsis The Mobile AI Market is estimated to record a significant growth throughout the forecast period. The"
+    publishedDateTime: 2021-04-24T15:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-analysis-by-size-share-trends-future-growth-emerging-trends-qualitative-outlook-global-forecast-2021-to-2026-2021-04-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast – 2021 to 2027"
+    excerpt: "Artificial intelligence has been one of the fastest growing technologies in recent years AI is associated with human intelligence with similar characteristics such as language comprehension reasoning learning problem solving and more Manufacturers in the market witness tremendous fundamental intellectual"
+    publishedDateTime: 2021-04-28T06:46:00Z
+    webUrl: "https://www.openpr.com/news/2276518/artificial-intelligence-market-global-trends-market-share"
+    ampWebUrl: "https://www.openpr.com/amp/2276518/artificial-intelligence-market-global-trends-market-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2276518/artificial-intelligence-market-global-trends-market-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
+    images:
+      - url: "https://cdn.openpr.com/U/4/U428953092_g.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Research on Voice Recognition for Automotive Market 2021: By Growing Rate, Type, Applications, Geographical Regions, and Forecast to 2026"
+    excerpt: "The recent analysis of Voice Recognition for Automotive market size has been methodically put together to impart an in-depth understanding of the ke"
+    publishedDateTime: 2021-04-27T16:24:00Z
+    webUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399"
+    ampWebUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
+    type: article
+    provider:
+      name: express-journal
+      domain: express-journal.com
+    quality: 11
+    images:
+      - url: "https://www.express-journal.com/img/img-3.png"
+        width: 1044
+        height: 625
+        isCached: true
 
 secured: "W/OqUcHYublHEEepkgSJ50cxkNgN7IFw2xqr2PRof7DFvSOrAU0wCHfY727sxUIOXhz9IiayHNxHZuz6XKt3S5wPhiCgmJqw07F1f+DXgLIhhtw9UUulIPUdvL9wLY5lqW7NHcAYKW2yTZbz6nwlrzg38Lh6QuAyyxGK1dLXfeMVZEDA3U0zQ6zYO23jQgcgFWOfoJoxAITzPUyXk3pC84ijrQdJoJ/EZeySzjEeAzU/o65jTb995q6ekzlV/G1JoB5bvA7mZelrw5efkC+00x9eei5gHs4mQ7BYsLRQlN9VR5YsBXWO7GSfKT4vRSHyMLvQzpMmPZ7zRR9MPHp5+rEH2PfhlXrhJZ7MmjqhbLM=;eLuV6wZnVckJ6pZPVXipjQ=="
 ---

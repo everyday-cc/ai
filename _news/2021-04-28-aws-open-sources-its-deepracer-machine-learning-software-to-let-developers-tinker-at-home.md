@@ -42,6 +42,20 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "AWS DeepRacer Follow the Leader (FTL) sample project"
+    excerpt: "Learn to deploy an object detection model that enables the AWS DeepRacer device to identify and follow an object. - aws-deepracer/aws-deepracer-follow-the-leader-sample-project"
+    publishedDateTime: 2021-04-28T01:31:26Z
+    webUrl: "https://github.com/aws-deepracer/aws-deepracer-follow-the-leader-sample-project"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 71
+    images:
+      - url: "https://opengraph.githubassets.com/e7140ff7471f6a805315ad5fc43967a430dedc669bb4f709b5d77bf7972c5b36/aws-deepracer/aws-deepracer-follow-the-leader-sample-project"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Amazon announces it’s open sourcing DeepRacer device software"
     excerpt: "When Amazon debuted AWS DeepRacer in 2018, it was meant as a fun way to help developers learn machine learning. While it has evolved since and incorporated DeepRacer competitions, today the company announced it was adding a new wrinkle."
     publishedDateTime: 2021-04-27T17:00:00Z
@@ -61,6 +75,6 @@ related:
       domain: venturebeat.com
     quality: 66
 
-secured: "+nmU9g6hhHHuFIilLAHQEJYOXOovsTd6cigKDDharLA2cYL/ehtFUzVYoZvxgOhOvGaeOibKQ0QhM0msqYg8MdLsIwLij04D/j7t9ZGv51vOIObShf4uxpXPNtyIvKqOQd009I9B+RlcA5yc5Fua0+N0jZJcYcBPBBLJC7/PYlYL6SPnHmwhnFj65JhdrjXRC+8VtT9T/JzaFjQZLceo0qIdwH19fHwV0GM+Cs0MXuiL3+IM1xeO5RFvaFtV+Zei2cp3vNOWXnERLSRdX4l5CdWy1xMDSirmJA0ZUvu/UL6B/GGzSpmbATKAnlVFAYSAtBsovUVsXP0kE2MFQcBzI7CqfBbgSHHmtdrZCUt1uVc=;uyhvi5n+zcAzhx3Nbc2BWQ=="
+secured: "nVDytj3WxlNS3r4D4fMKIfxrlvxdtsJ/y3hT735KNaxOJAXjODPZrQWDWA6nEKvGetrntuvmOSzR+QyeDQ9i3G1jHX8OQe+IZGbUWUs7YtXob+3oAh4VAKogw91dYfSGMCvJJxVx49drVDQWGaxEnkLRKlNOSkaZkYMkQuRFnncOM2Qo0h3YUZ9PHw5qFGUv0UZ0mRN0zMpO2ecAnnsenefJda8xnLcl6V1clWLsOGV8NlzrQmzxiC3w7IMV85SVW3bAg9FKY+wKU8+S67ij9W3CRdBTeXkbi3VSGkLFRUmUsMI6xTGHWM6myWeJdzSkS3iACH7Zn4//lq4N/HvkvJh1oOQ/WTQYX816r+eQNNXCjjafDqzZbifDrDNOfrdyGbDEFeWghPX5P7N1plnjdCzsPJoqkFARpynu8rbwIZ0uwki4C8YTxaOWcAitlaFE+2oiBFwb5qRJNXkLJLUQhvuRGjOaXowQ4ydJDKbhV18BhVE5LRlt0AphNrgh3RvZ5i4xFeMTdg4fFxnh0ExOQg==;uTel78v+geHR9lrCFgVbgg=="
 ---
 

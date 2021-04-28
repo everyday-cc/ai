@@ -9,8 +9,8 @@ ampWebUrl: "https://hechingerreport.org/from-admissions-to-teaching-to-grading-a
 cdnAmpWebUrl: "https://hechingerreport-org.cdn.ampproject.org/c/s/hechingerreport.org/from-admissions-to-teaching-to-grading-ai-is-infiltrating-higher-education/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hechinger Report
@@ -28,29 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "3 Applications of Machine Learning and AI in Finance"
-    excerpt: "Thanks to advanced technology, consumers can now access, spend, and invest their money in safer ways. Lenders looking to win new business should apply technology to make processes faster and"
-    publishedDateTime: 2021-04-24T23:43:00Z
-    webUrl: "https://www.tapinto.net/towns/elizabeth/articles/3-applications-of-machine-learning-and-ai-in-finance-2d5c4825-e0ad-4dda-bec6-22e91842eaa7"
+  - title: "Artificial Intelligence Is Misreading Human Emotion"
+    excerpt: "There is no good evidence that facial expressions reveal a person’s feelings. But big tech companies want you to believe otherwise."
+    publishedDateTime: 2021-04-27T22:28:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2021/04/artificial-intelligence-misreading-human-emotion/618696/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/618696/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618696/"
     type: article
     provider:
-      name: TAPinto
-      domain: tapinto.net
-    quality: 71
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 87
     images:
-      - url: "https://uploads.thealternativepress.com/uploads/photos/6387974ef99ffd0b3ec5_TAP_Video_Ad_Thumb__1_.jpg"
-        width: 300
-        height: 250
+      - url: "https://cdn.theatlantic.com/thumbor/wrG9Mzuhijw5-pB4uy5KILnDq40=/570x321/media/img/mt/2021/04/1_The_Atlantic_illustration_AI_MASK_Irene_SuosaloStill-1/original.jpg"
+        width: 570
+        height: 321
         isCached: true
-  - title: "Using artificial intelligence to detect permafrost thawing"
-    excerpt: "A new collaboration will deploy the latest technology to fill critical knowledge gaps on permafrost thaw and soil organic carbon."
-    publishedDateTime: 2021-04-27T17:39:00Z
-    webUrl: "https://www.preventionweb.net/news/view/77122"
-    type: article
-    provider:
-      name: Prevention Web
-      domain: preventionweb.net
-    quality: 17
 
 secured: "4fa81F5Sf/n6gkYJK326wGvxfknCiPqPDhIWnn5vcJEZCr0JD54arYMqK2MoxbWCnorIsxmeZFZ2dbWE3AMkPDxacFemPoWC3ALQTZ2yb2xm0jh4hxzyOqgwYVaidkZG34jvVMKMrxPWrkZiyCxXPGeihowbfw1M8RvJDXSM3tz5CLv5CS8fs+qkc3CUuTHqYUnxTLHEeFJunGLgJxdxvsw8YpamdGyYAnYGAi3choXPhGdPNCOh9ARPWhcU2zy+qhFswrL2n0Z8mJuFAsiMKePiV7VZe3kpqzRStiv44fIX0mxz6TZwI7mDnZZWVk0lyZbfxAxGHHRIT0seOFFded5O7hYTRoDe6vbqpgvLwD0=;VuxXYbZkySMPrvvUc5h2eQ=="
 ---

@@ -3,18 +3,15 @@ category: news
 title: "Rossen Reports: Tricks to land a job in the age of artificial intelligence"
 excerpt: "I'm getting you the inside tips, millions of resumes and cover letters uploaded to job postings on sites like CareerBuilder linked in and zip recruiter. Now employers are trying to stop a bottleneck of applications getting you into a job faster with artificial intelligence."
 publishedDateTime: 2021-04-22T19:01:00Z
-originalUrl: "https://www.wdsu.com/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
-webUrl: "https://www.wdsu.com/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
-ampWebUrl: "https://www.wdsu.com/amp/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
-cdnAmpWebUrl: "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
+originalUrl: "https://www.wtae.com/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
+webUrl: "https://www.wtae.com/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
+ampWebUrl: "https://www.wtae.com/amp/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
+cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
-  name: WDSU
-  domain: wdsu.com
+  name: WTAE-TV
+  domain: wtae.com
 
 topics:
   - AI in Robotics
@@ -26,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "/xKLQoPqBa8xiNnhmaQdOISYrt8uxCHTSEJ9dbARjDdUNDqOGUbMPvnTl9NnjSb3vMN/y+ptuAGlcKCT2HbTtUGU+awe/uPZFZHzebe9uyyk3Zz4K5rjYnbpP6iL3xs6oaFPRZA2+Pmy8YioapYzIswRrGUFj+WMa0GwBR2B6gVmEJ6zMPTnY1aNPC9MnEvYF+XjmDNgJnaDQtQhKVi7wDuSJO+9XSmvNlu+jlD36bmMdEfRg8b5wdWM3DKvTlseOXNScnQDVUhPmnt1Jimm4ic/h7YrGRVv9AZIc+JM4KFxjObr6Dch11M4lfSlas/wKSEsBVZvXGgrR/wc8cet+rJl5NOq9Zu7V4CWJgxxEWXqiXFpBdU1LdFIj+ptdYG/LbNsMjCrUe9vAHDzsHcFVnOKr6wE1RW17D2kkmSFWNUWr7C5ZsPZ9VfJzoh3CWkeogrdlgO7eSKs25b8i5c6KuvCHFx5MDR3d4wouGZEkWam4HHGnXUSNSKWgjD/5huMwSSuUafKk8gWtxBdwOFbFw==;buoqBzvCP3o+1hcg/ozA/Q=="
+secured: "0JJWkp4JdJ5f5kR4eoHFLHh9rzlxI2ix/bavuTbu4R94Oo5Q1InVN/OdMoZAPxJ7PIl5VgnRU9K9H182lDt7G3t/sgygcgziqHF0UO8TnZ5lX+whpzEir66NiYruwp6W3iCk9ZwkCfhUOtNJvlnSXyUAZtsbDEpWq8Vk4kf9eQC5EZZj5y5TBSoeRNALAXHqFyrCDG13MivwdammIPRi+4LeYoUC/kgymv4gaPJK/yk2Z24jq4n4f/QNhygX2rIWIqxQ18iuOSpcCa9eYIiaXE4kf/cZQMEi5GgWX6KOn6xaWnXuWQvbh5OniXaI0FgWBY7CCXM7NXp4mJ7q8O1V9XECfyI/wjbvCCUW436h4qM=;Ijr795TeHEv3UshfWeAa0Q=="
 ---
 

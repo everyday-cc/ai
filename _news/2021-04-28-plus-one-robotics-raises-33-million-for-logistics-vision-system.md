@@ -7,8 +7,8 @@ originalUrl: "https://www.dcvelocity.com/articles/50490-plus-one-robotics-raises
 webUrl: "https://www.dcvelocity.com/articles/50490-plus-one-robotics-raises-33-million-for-logistics-vision-system"
 type: article
 quality: 71
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: DC Velocity
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Plus One Robotics Raises $33M For Human-Robot Collaboration Software"
+    excerpt: "Plus One Robotics, a human-robot collaboration software company headquartered in San Antonio, has announced this week $33 million in Series B funding led by McRock Capital"
+    publishedDateTime: 2021-04-28T14:41:00Z
+    webUrl: "https://www.benzinga.com/news/21/04/20838845/plus-one-robotics-raises-33m-for-human-robot-collaboration-software"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20838845"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20838845"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 89
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/archive-1850170_1920_1.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Plus One Robotics Raises $33 Million to Fuel Expansion"
     excerpt: "Plus One Robotics, the leading provider of vision software for logistics robots, announces $33 million of Series B funding. McRock Capital and Translink Capital co-led the round, with participation from BMW i Ventures,"
     publishedDateTime: 2021-04-27T10:02:00Z
@@ -53,7 +69,16 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
+  - title: "Local robotics company raises $33M in funding led by Silicon Valley, Canadian VCs"
+    excerpt: "Local robotics software company Plus One Robotics raised $33 million in a Series B equity fundraising round co-led by venture capital firms in California and Toronto. The money will help Plus One further develop its two offerings: PickOne,"
+    publishedDateTime: 2021-04-27T11:00:00Z
+    webUrl: "https://www.bizjournals.com/sanantonio/news/2021/04/27/plus-one-robotics-raises-33m-in-equity-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
 
-secured: "e7jbg77Y5ALLyYz1f4OayfzGn7BQIZaIbnammJV79532R9CqOhbL1/w7OebiI6jVI0eXLBhhCpS+mYLuQx9YDS+L6/u9luklIjQwyhWfGAhDQakMdMKrqRGxBMYJa/igZG0OFtv78oqBaKnhaGzv8Wau6RXta+GC18ik5e0dBJSijMmG6cLi1TABbflhBEjsiebhECm8kuWV3F1ih8aK+7xY7Fnlp5hpIrpM8cfJTpO0cIcIA5iGjsyZZpLnpFWc9mP0adqj1hLw3TmCzLpVkhwUKrBj9dUMqFyFmwffTuS3hpvaXu9EiCd0VzAIVOts0AJ0Z5XkZQALFxWnTZtkXGuju+kWNq90WArqSX3a9dA=;LLz07DSGhGifdqZiuv7DyQ=="
+secured: "RQ6ueSZeywt+gnAbKf9Lm6hk9gFiTGIRMhp65K+68XX0wSVSNuh2VLKrIGT1lAFgtrb7Wkaaui0zPkB+osDr0TG3071Bq1999FBCi0vpZFESbXInfrk2atZd+lgtWAqcehPlFnnHpQwbEJxDAhbK4SX2PqML6HMlgv6YL7yfX0CbCEoMr7MO6dx8fhncQYixJFZC4iMddltJvDClayvYFB+68NkIByuqhWaIAvacfACr9fdp9WWy+3cw1EVme3iUKZX4WjlcpHhQ+iW5XiI4b6zteOCAFZSct0hG5Af9NC30bFgLUO9lPm1PCaGASPLzfSmI6x9UkvlbVQwMu6G/kKPF0n1D73gxxXgMrWYC92t4xGfCUVVuLEF2rQnikJ8+h+oGyxbb6SqIpyF4BPjOQkDLHgTZQmjGgFDPhujeZkBbV9kplJK5lEoIz2Imh2GC+Q89IeNo9wWrWfVvVWqT5SpJ9DEWg7/peq0ALW2WKHzGSOULmJs01KhYoN8WOA+H7U/3VY9oT5x/GR16vr0xvw==;dm0lEie9LF9F5vVq0HV7Lw=="
 ---
 

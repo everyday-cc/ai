@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Forbes Recognizes Lilt As One of the Top Artificial Intelligence Companies For Third Straight Year"
-    excerpt: "Lilt, the modern language service and technology provider, today announced that it has been named to the 2021 Forbes AI 50 for the th"
-    publishedDateTime: 2021-04-26T15:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/forbes-recognizes-lilt-as-one-of-the-top-artificial-intelligence-companies-for-third-straight-year-1030346564"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Gatik Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021"
     excerpt: "Gatik, the market leader in automating on-road transportation networks for B2B middle-mile logistics, announced today that it has been named to the Forbes AI 50 list which highlights private companies using artificial intelligence in meaningful,"
     publishedDateTime: 2021-04-26T11:22:00Z
@@ -73,6 +64,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
+  - title: "Forbes Recognizes Lilt As One of the Top Artificial Intelligence Companies For Third Straight Year"
+    excerpt: "SAN FRANCISCO, April 26, 2021 /PRNewswire/ -- Lilt, the modern language service and ... other leading companies developing AI-powered solutions.\" Lilt's translation services are powered by ..."
+    publishedDateTime: 2021-04-26T15:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/forbes-recognizes-lilt-as-one-of-the-top-artificial-intelligence-companies-for-third-straight-year-301276873.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/1276009/Lilt_Logo_Large_Logo.jpg?p=facebook"
+        width: 797
+        height: 419
+        isCached: true
 
 secured: "rGzUVA+NeL51Os7RQd8kUFTFqConGqHJ8qbuSsKockxV+QqqChM2JUuNsCZvD2tR7/4LISA8Z56cZNrqjsHKYkE1SoxS66GCnYTzDvFyqjhvACg4t2Lqq/K4embCO4+d7AK4hIZS7XuS27MicDzrkKWfXiR0iAbnW87j7Y6S01FsfgWD0n1vLhSTMlw5qRTUld+qil0p1ss7xgWnooT5kJcGVK5AeBlNsQaTwNyxKuDD8fF2C6v/Bn1jkErZ3hZKMiQgyopJBV7skn401rLzuYIEdBrAw6j/CqGhf3mF0qufuwxhsI2lqGDpBkQH4dN3/TZCxN06wuhxhw+58EmTHgnWdEHWp6v0/IIxOpSTSCk=;E1RIlq0Ka96BYskSWKB+GQ=="
 ---
