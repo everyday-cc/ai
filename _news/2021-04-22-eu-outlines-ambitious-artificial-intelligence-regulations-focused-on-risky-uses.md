@@ -3,8 +3,8 @@ category: news
 title: "EU outlines ambitious artificial intelligence regulations focused on risky uses"
 excerpt: "Risky uses of artificial intelligence that threaten people's safety or rights such as live facial scanning should be banned or tightly controlled, European Union officials said Wednesday."
 publishedDateTime: 2021-04-21T18:34:00Z
-originalUrl: "https://www.stripes.com/eu-outlines-ambitious-artificial-intelligence-regulations-focused-on-risky-uses-1.670657"
-webUrl: "https://www.stripes.com/eu-outlines-ambitious-artificial-intelligence-regulations-focused-on-risky-uses-1.670657"
+originalUrl: "https://www.stripes.com/news/europe/eu-outlines-ambitious-artificial-intelligence-regulations-focused-on-risky-uses-1.670657"
+webUrl: "https://www.stripes.com/news/europe/eu-outlines-ambitious-artificial-intelligence-regulations-focused-on-risky-uses-1.670657"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 327
     isCached: true
 
-secured: "yjsKvOSELhIB7AbGveB9IZg8H+OR4Vqo9240S81iXTQTf5RiEhF0xMl6gvwb517X/YuyAOoLHHIJbSJ0yX6YdrpkZxbHB+dG0+p/VoBQwh6B5LqNjpbVShln9dZ9hgVr1cX1ecsUFUqPRRsXAMT5xQccew8vfx4DP7QfYr7Jg45linhsdsRvFIdr7nhEeJ7Rd6cjMpOWcnk82TrxnBOfXxgj9rjmZa+YysQ8TcmtgzSREbylEB/pD/S2UajlWXCXLXqOfLSLROvbuws8SilvnzMGJOzJwrr667YN4p9n8g2dGKrGO1p3veF974vXUAZiUMJS/S71ogDsC0IqLnRWsL7MDmKQTfmWA4jDwxzzx1R29F7cTaPf4HysotRURJ13jYnNenshRuf+1bPAx+lH8DQkwlL2R4ygQgZhLt/zQRA91Xf5mjEmXp7g6r1sD+2rIciDmsluB7nvs+ooPwGOWT8rC2l/63hUU6eUeZra+oXJOLGs1MV9+vXmHEgKZJvatzuc9hMRSxRotoTCNILX8A==;HDYuyYDAeCuAkAsA0EcFNg=="
+secured: "4Iu78z0i4+ZsWCw8Mg/U2GGWeaXfohI+s2tDU5cY1y6bXeu4/RUAKsJVr1rc6+8odY2xpARHjxaFFVd99Wc4XNlFSbOLLqTZte99k6ex6Up/ek4EhlywJSQr+zFAnqRTH8r0vG0ppfLumWxqa4C/a3hIofNsv7LYBhfFfS8SL3zJSZ+ldy7FBhriMi/UcNdi73Y1Px6b4HZPmbBrEtTYwXevJiDgDzSTAcRA0yrVfUJcLvNOgFAmvBTciMKd/UmVjEpwUrxF4wD2QQdqIj+n9Sj7F9hy16l3Lxf+mwfyv0s6wDJtuJbITyKLLusIIJD/8FnbGkYqp5WasvFqC3LPhHuuar3LcqcmT3Bx4u73fsA=;biJPqPefFX+1ERwNYPi9RQ=="
 ---
 

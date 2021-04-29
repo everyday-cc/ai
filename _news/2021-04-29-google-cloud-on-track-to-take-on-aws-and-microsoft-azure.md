@@ -1,30 +1,42 @@
 ---
 category: news
-title: "Microsoft adds new Azure specializations to Coursera"
-excerpt: "The three new courses on the online learning platform cover Azure Fundamentals, AI Fundamentals and Data Fundamentals."
-publishedDateTime: 2021-04-26T10:51:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-adds-new-azure-specializations-to-coursera/"
-webUrl: "https://www.zdnet.com/article/microsoft-adds-new-azure-specializations-to-coursera/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/"
+title: "Google Cloud on track to take on AWS and Microsoft Azure"
+excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
+publishedDateTime: 2021-04-29T05:51:00Z
+originalUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
+webUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
 type: article
-quality: 84
-heat: 164
-published: true
+quality: 71
+heat: -1
+published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MediaNama
+  domain: medianama.com
 
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
+
+images:
+  - url: "https://www.medianama.com/wp-content/uploads/2021/04/rajeshwar-bachu-K4txLik7pnY-unsplash-scaled.jpg"
+    width: 2560
+    height: 1840
+    isCached: true
 
 related:
+  - title: "Microsoft adds new Azure specializations to Coursera"
+    excerpt: "The three new courses on the online learning platform cover Azure Fundamentals, AI Fundamentals and Data Fundamentals."
+    publishedDateTime: 2021-04-26T10:51:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-adds-new-azure-specializations-to-coursera/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "Microsoft offers new Azure specializations and scholarships through Coursera"
     excerpt: "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well."
     publishedDateTime: 2021-04-26T17:28:00Z
@@ -38,20 +50,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "Google Cloud on track to take on AWS and Microsoft Azure"
-    excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
-    publishedDateTime: 2021-04-29T05:51:00Z
-    webUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 71
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/04/rajeshwar-bachu-K4txLik7pnY-unsplash-scaled.jpg"
-        width: 2560
-        height: 1840
         isCached: true
   - title: "Computer Vision Software Market Investment Analysis | Microsoft, AWS, OpenCV"
     excerpt: "Global Computer Vision Software Market Report is an objective and in-depth study of the current state aimed at the major drivers, market strategies, and key players growth. The study also involves the important Achievements of the market,"
@@ -133,6 +131,6 @@ related:
       domain: realwire.com
     quality: 34
 
-secured: "0J4FJ8Y6m4itmTZF75DBWFgOrcl8umjemeSd97FuCnoNk7EaP9UasHYIL+nVhc0AE7nxF92jgtd6hYo9URbSB/kJha54BEGL3HpwQz3p06N2jh2MEZztBUsEHhZdFtFyj/ORzhKyxMIniN2qGdDxJ20KnfoJ+gEc9VUBRJ9xv76u9Mke0JycKcWqOZf6nLezrNpiwLpkrYoDg+yThdsfZG9t8WViAwDRl5Dg81vQSudc2BoQNZjKx4sA56/rsy8WgO5aRF7p7iT9JHwnunDlrHNlEcLQOIlfkbobtsCwdMuVfYt+tBVe9JOFy2ivFpmo1lB0DbDx5HFoCTu9Dx8XbRaNdVXNPHdwcuyDedKea/O9ELXUTQfvPulkoEo6u/4vra4aWHkk9o1IwK9aSzDFvg/R7rnJ7Fn2BgOo5fKvoAUwLnB3IJbhLZKdbteVC3jlt+wMKi2S44wwjerLws4dVGS9FQQodrfj38YZo+amorDbGt2E7g0VxHbEY9UYFtvVdEITYi1oxCrfHVNDo11rcA==;LmBSW2ZOc+Pfd3U5Tm7zPg=="
+secured: "t4fFR0BreMF5jqy6pfDhAOI9nxmoGz9lKgggng6oZRJFgF7v44f1pbVo1FSo9pi0uDIaqQTGqjoncPqPdc8sxOaPF3vJZEp1Q4Mnvel3Q6v0//FqDFgqZvbsXfk9bk1PKCAk4C3hyihrTzHgZtq0uG3noCb30fzwc8FnJt3ntX2LIU9GRk2jJAwZGSBC8vySEptvh6zcrk7i9MebSoS3rc8NwLc8ORFrkzc9FN6qVOiXDSjs72OV69tziylyoPGlf+I7N8ara4rWqIwFcV+TgfPlYIReivF9UkhSsjbC5tZpMEkcn3cRKR62n8YQO2GPa5AzS6rgixqRQruQ34muD3tfwvc9l9OHbcybT2k9Mxk=;2CD+dAqFVP/Bq7zO7jGdpg=="
 ---
 

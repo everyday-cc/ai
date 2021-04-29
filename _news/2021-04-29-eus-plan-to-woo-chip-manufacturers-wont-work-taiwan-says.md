@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturer
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "cRS6x6M9avpTdlQNXnBIwrm61XsKvTi3/+f4ZwxbO9cEgSd3brNeLmxSL56JSDt45UMRwNPK0gy8pDaMhMxWTuMFvRF8Z6ZntFKzaNfgzD/EnqYWGSDMtiLKUXthWKyedSN76sSyOfwstzzZrsgll2Zxh2wN8dqFH/QLFZwSgjre6rQMFuqk0ET8Ypl93L6iKyDJoUEsJPYL+FJ9kz6eFCA25kNKWmycFvnJaea3SBlue/jw63B3fnOtADAdfWiMH1gcCx0CtLZK7UZprpwkq3vNkTnoYc2xhZyUjXi2+g2Agj6dA8TzfnHx6+sG4uXh3CR9+QF4IA0xKAGYZEK1KGh4VWJHxOMtLOpVWAstVuk=;+p9HWuUYpiVJpnBsRESfYg=="
+secured: "IpLY6XBw7ssY3tnipBfBGlAegKH85r1eChA7QfwqR3IHIo8MGVEmkajCRH4JC7wB8iPcsC2WDCnV6YSU1lf+i/8ymPmwr2d6HX3DvWJPXvYiClv+lD3bCrNDoeHpVozuZHTbHur0pA7inUZupm9XuY1xtOc+1U32Wd8aZzVuqwbESWNm8bH09qTpHrQqenGB9vxU+hJrGIP3VwmJypER9zdhi32b+ap8NQrilKaVHxEfvNj2TxjOJ9O+oBDv7gHXO0FPqIpD5NujDChpo0nlrAKaEaKSGPJVNKOMpyCXXVFN4KvZFPt6TxqS1J9ctlEjUSeH5TLyb4raVvwnWFm/0cQcGa7JXTuk7kMimRnfVj6L+lLnYaofAl7dJWmVUR+ysF9Vgn3dn0j2iNGKfxZ8ubs/sFiHXtgGJAAVPf5huP5gIOoA8gN/I7JLq4+HKTL0snXFVHrCGSM3qvkuPwKF0bUj1zJoi2SwCRGAIR8kMpn0NG3I6GFvfnpBsShGGBejMZyYhPYumlpDdis6CoDZ2g==;fopaZynoCRUSJohhXp/xKQ=="
 ---
 

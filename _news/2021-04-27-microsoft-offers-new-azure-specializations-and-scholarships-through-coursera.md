@@ -40,6 +40,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "Google Cloud on track to take on AWS and Microsoft Azure"
+    excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
+    publishedDateTime: 2021-04-29T05:51:00Z
+    webUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 71
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/04/rajeshwar-bachu-K4txLik7pnY-unsplash-scaled.jpg"
+        width: 2560
+        height: 1840
+        isCached: true
   - title: "Computer Vision Software Market Investment Analysis | Microsoft, AWS, OpenCV"
     excerpt: "Global Computer Vision Software Market Report is an objective and in-depth study of the current state aimed at the major drivers, market strategies, and key players growth. The study also involves the important Achievements of the market,"
     publishedDateTime: 2021-04-26T12:57:00Z
