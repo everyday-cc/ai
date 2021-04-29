@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "benevolent_ai"
   url: "https://twitter.com/benevolent_ai"
-  followers: 6822
+  followers: 6823
 
 size: 51-200 employees
 yearFounded: 2013
