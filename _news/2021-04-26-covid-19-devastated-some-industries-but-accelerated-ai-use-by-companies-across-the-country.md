@@ -30,37 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Why Will The Next Successful Startup Out Of The COVID-19 Era Be AI-First?"
-    excerpt: "As world is dealing with the massive impact of COVID-19, entrepreneurs are busy at work, springing up new businesses that can bring back the economy. With Artificial Intelligence becoming ubiquitous today,"
-    publishedDateTime: 2021-04-27T00:21:00Z
-    webUrl: "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/"
-    ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/amp/"
+  - title: "InnovationRx: Artificial Intelligence 50; Plus Covid Treatments In India"
+    excerpt: "W hile some industries were devastated by the Covid-19 pandemic, funding kept flowing to startups using artificial intelligence to solve business challenges. Several healthcare companies made the annual Forbes AI 50 list,"
+    publishedDateTime: 2021-04-29T01:02:00Z
+    webUrl: "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/"
+    ampWebUrl: "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 88
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60875898e93f124f08227ace%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4071%26cropY1%3D164%26cropY2%3D2454"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608a05213e5ebbca00f583aa%2F0x0.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "How Artificial Intelligence will help create effective vaccines to treat Covid-19"
-    excerpt: "India is facing a massive surge of Covid-19 cases in the past few days. The country fought the battle against the virus last year, but the second wave of the pandemic has become more devastating and put a big question mark on the nation’s health care system."
-    publishedDateTime: 2021-04-27T02:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/in-depth/how-artificial-intelligence-will-help-create-effective-vaccines-to-treat-covid-19/videoshow/82258714.cms"
-    ampWebUrl: "https://m.timesofindia.com/videos/in-depth/how-artificial-intelligence-will-help-create-effective-vaccines-to-treat-covid-19/amp_videoshow/82258714.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/in-depth/how-artificial-intelligence-will-help-create-effective-vaccines-to-treat-covid-19/amp_videoshow/82258714.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/photo/msid-82258714/videos/in-depth/how-artificial-intelligence-will-help-create-effective-vaccines-to-treat-covid-19.jpg"
-        width: 1600
-        height: 900
+        height: 815
         isCached: true
 
 secured: "oBx9q6ndIygOF0HI4pvESnlUrmvnk9eTk9XQDA2U/SWTQ8NyF8tNWaMPm3rFrbj1HDZ9ah6bhyBHrBgzNxRccQXpaCMzqUIgD+CnRKPF5PEXvlVZywxahoxLvdxTMVkuW+3jZJ0hZwcdWWAn6AzHoX88M41HJWbNP2tLfXI7YsSzvJnZNxWIyGlmWp6InUEOMlt84oT54eB367P2kwgqy1knJcrVIYY305OelM+TPO7oG1tTUSvS6YEBwgXsZMyylbE85A8GEWIpjo9oV0+hosCXTMkUVcobug8ilAdPJ1yE2tiKuascGF93Q01HKnUbNzr42UzTtsRA6tBcAiKw/hM25FIr6hQ4hFfvgsXLXs18flexT91sIm4Otsd/nZSItx1lR8ZOVv6iUyRVXxpAmqDArddrjGfQc/z2Yp0ABmDMAxE2+AO7RZlkBNL7gzRhSMJXl9WmhIcoPH+mSNkRCuME71OuBbjc5qSmzFRzWYD55Tbuz59JWi6+AdXXB6rrfD+71CsUWykbGberCtrERQ==;m95RkMHi4rDLKXWsd3oiag=="

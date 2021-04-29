@@ -2,6 +2,825 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-03-12-self-driving-cars-to-be-especially-welcomed-in-zoom-towns.md",
+      "title": "Self-Driving Cars To Be Especially Welcomed In “Zoom Towns”",
+      "excerpt": "I’m referring to the advent of AI-based true self-driving cars. These are cars that encompass an AI driving system that does all the driving. Humans aren’t at the wheel. That brings us to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports.md",
+      "title": "IBM Positioned as a Leader in Two Newly Released Gartner Magic Quadrant Reports",
+      "excerpt": "\"IBM is focused on AI for business and helping customers reclaim ... our strong innovation pipeline between IBM Research and IBM Watson.\" Businesses across industries continue to turn to IBM ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports-301245197.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports-301245197.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T13:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-image-recognition-market-outlook-regional-growth-analysis-by-2025-with-predominant-players-honeywell-ltu-technologies-catchoom-panasonic.md",
+      "title": "Image Recognition Market Outlook, Regional Growth Analysis By 2025 With Predominant Players: Honeywell, LTU Technologies, Catchoom, Panasonic, Toshiba",
+      "excerpt": "QR/Barcode Recognition, Object Recognition, Optical Character Recognition, and Pattern Recognition. The 'object recognition segment dominated the market in 2016 and it is anticipated to lead the ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101739023/Image-Recognition-Market-Outlook-Regional-Growth-Analysis-By-2025-With-Predominant-Players-Honeywell-LTU-Technologies-Catchoom-Panasonic-Toshiba",
+      "originalUrl": "https://menafn.com/1101739023/Image-Recognition-Market-Outlook-Regional-Growth-Analysis-By-2025-With-Predominant-Players-Honeywell-LTU-Technologies-Catchoom-Panasonic-Toshiba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?608065",
+          "width": 436,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.md",
+      "title": "Self-driving robot delivery startup raises $4.2 million to expand in Ann Arbor",
+      "excerpt": "Ann Arbor-based delivery robot developer Refraction AI has raised $4.2 million in seed funding. The company in 2019 created the REV-1 robot, a lightweight, self-driving robot that delivers food and groceries to Ann Arbor residents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html",
+      "originalUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZNWLS3BI7ZEDVFLTNKGYKWCJLQ.JPG",
+          "width": 6192,
+          "height": 4128,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html?outputType=amp",
+      "publishedDateTime": "2021-03-11T11:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-apple-plans-to-build-its-own-self-driving-car.md",
+      "title": "Apple plans to build its own self-driving car",
+      "excerpt": "Apple’s talks with car manufacturers have fizzled out, reportedly leaving the company to take on the task of building its planned self-driving car itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parler-returning-app-store-live-updates/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parler-returning-app-store-live-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2021/03/07/A-computer-screen-with-tech-lines-and-the-UK-flag_trans_NvBQzQNjv4BqotF-629DQjsj47NlFMVMtlWXJ6Hc5DtS2Yh2F81Xx0M.jpg",
+          "width": 726,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parler-returning-app-store-live-updates/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parler-returning-app-store-live-updates/amp/",
+      "publishedDateTime": "2021-03-11T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-nvidia-launches-ai-enterprise-suite-for-vmware-vsphere.md",
+      "title": "Nvidia Launches AI Enterprise Suite for VMware vSphere",
+      "excerpt": "Nvidia and VMware are bringing together the new Nvidia AI Enterprise software tool suite with VMware’s latest vSphere 7 Update 2 virtualization platform to make it easier for enterprises to virtualize their expanding AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hpcwire.com/2021/03/09/nvidia-launches-ai-enterprise-suite-for-vmware-vsphere/",
+      "originalUrl": "https://www.hpcwire.com/2021/03/09/nvidia-launches-ai-enterprise-suite-for-vmware-vsphere/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/blue-green-abstract-tech_shutterstock-1471991357_700x.jpg",
+          "width": 700,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-machine-learning-based-real-time-threat-detection-for-banks.md",
+      "title": "Machine Learning-Based Real-Time Threat Detection for Banks",
+      "excerpt": "The business impact of the COVID-19 pandemic continues to unfold worldwide for the financial services industry. The “new normal” has not only given rise",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2021/03/11/machine-learning-based-real-time-threat-detection-for-banks/",
+      "originalUrl": "https://www.datanami.com/2021/03/11/machine-learning-based-real-time-threat-detection-for-banks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/ML_robot_shutterstock_sdecoret.jpg",
+          "width": 600,
+          "height": 322,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-its-time-to-start-paying-attention-to-vector-databases.md",
+      "title": "It’s Time to Start Paying Attention to Vector Databases",
+      "excerpt": "He carried some of this over to AWS, where he ran Amazon AI labs and helped cobble together standards like AWS Sagemaker, all the while learning how vector databases could integrate with other platforms and connect with the cloud. “Vector databases are a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/",
+      "originalUrl": "https://www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/ab_networks_sdkfskn.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases/amp/",
+      "publishedDateTime": "2021-03-11T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-softbank-backed-coupang-valued-at-109-billion-in-blockbuster-debut.md",
+      "title": "SoftBank-backed Coupang valued at $109 billion in blockbuster debut",
+      "excerpt": "Swedish telecoms operator Tele2 and Delivery Hero's foodora have joined forces on a pilot scheme for self-driving home deliveries by robot in... (Reuters) - Shares of Roblox Corp jumped on Thursday, building on the gaming platform's almost 55% rise on its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/softbank-backed-coupang-valued-at-109-bi-idUSKBN2B32LU",
+      "originalUrl": "https://www.reuters.com/news/picture/softbank-backed-coupang-valued-at-109-bi-idUSKBN2B32LU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554568930&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH2A1KE",
+          "width": 810,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-deepmind-is-building-a-team-of-ai-researchers-in-new-york.md",
+      "title": "DeepMind is building a team of A.I. researchers in New York",
+      "excerpt": "DeepMind has already hired several intellectual heavyweights in New York. Rob Fergus, the co-founder of Facebook AI Research, is now helping rival DeepMind to build a team in New York. DeepMind ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
+      "originalUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1532564035",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
+      "publishedDateTime": "2021-03-11T08:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-ai-in-the-arms-race-china-expected-to-surpass-us-military-capabilities-in-the-coming-decade.md",
+      "title": "AI in the Arms Race: China Expected to Surpass US Military Capabilities in the Coming Decade",
+      "excerpt": "The Chinese government’s growing demand for Artificial Intelligence (AI) has triggered a swell in tech companies moving to corner the market. Its surveillance – or more bluntly, spying – capabilities are not only on track to surpass American technology in the next five to ten years,",
+      "sourceUrl": null,
+      "webUrl": "https://cnsnews.com/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities",
+      "originalUrl": "https://cnsnews.com/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNSNews.com",
+        "domain": "cnsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-how-one-employees-exit-shook-google-and-the-ai-industry.md",
+      "title": "How one employee's exit shook Google and the AI industry",
+      "excerpt": "Timnit Gebru, then co-leader of the ethical AI team at Google, sent a private message on Twitter to Emily Bender, a computational linguistics professor at the University of Washington.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/03/11/tech/google-ai-ethics-future/index.html",
+      "originalUrl": "https://www.cnn.com/2021/03/11/tech/google-ai-ethics-future/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210311052956-google-headquarters-mountain-view-ca-2020-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/11/tech/google-ai-ethics-future/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/tech/google-ai-ethics-future/index.html",
+      "publishedDateTime": "2021-03-11T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-hugging-face-raises-40-million-for-its-natural-language-processing-library.md",
+      "title": "Hugging Face raises $40 million for its natural language processing library",
+      "excerpt": "Hugging Face has raised a $40 million Series B funding round — Addition is leading the round. The company has been building an open source library for natural language processing (NLP) technologies. You can find the Transformers library on GitHub — it has 42,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/",
+      "originalUrl": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-azure-gm-joins-ocp-board.md",
+      "title": "Azure GM Joins OCP Board",
+      "excerpt": "The Open Compute Project Foundation (OCP) announced that Microsoft Azure GM Zaid Kahn will hold a seat on its board. Kahn replaces Kushagra Vaid, who has served over the past year. Vaid had been engaged with OCP since 2014 and previously served on the OCP Incubation Committee for several years.",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/03/azure-gm-joins-ocp-board/",
+      "originalUrl": "https://insidehpc.com/2021/03/azure-gm-joins-ocp-board/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-ai-moves-to-the-edge.md",
+      "title": "AI Moves to the Edge",
+      "excerpt": "In general, for IP video cameras, common video analytic features like object recognition, zone detection, number plate recognition are now available as AI algorithms embedded within the camera itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21211053/ai-moves-to-the-edge",
+      "originalUrl": "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21211053/ai-moves-to-the-edge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/03/GettyImages_1170174496.603d38e9b9b20.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-using-the-power-of-artificial-intelligence-to-detect-disease.md",
+      "title": "Using the power of artificial intelligence to detect disease",
+      "excerpt": "A large international collaboration, led by A/Prof Xiu Ying Wang and Prof Manuel Graeber of the University of Sydney, has developed an innovative, advanced artificial intelligence (AI) application, PathoFusion,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg",
+          "width": 1920,
+          "height": 1897,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.amp",
+      "publishedDateTime": "2021-03-11T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-deci-and-intel-collaborate-to-optimize-deep-learning-inference-on-intels-cpus.md",
+      "title": "Deci and Intel Collaborate to Optimize Deep Learning Inference on Intel's CPUs.",
+      "excerpt": "The collaboration between Deci and Intel takes a significant step towards enabling deep learning inference at scale on Intel CPUs, reducing costs and latency, and enabling new applications of deep learning inference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210311ln06630/deci-and-intel-collaborate-to-optimize-deep-learning-inference-on-intels-cpus",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210311ln06630/deci-and-intel-collaborate-to-optimize-deep-learning-inference-on-intels-cpus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions.md",
+      "title": "Aetina Provide Chained Hardware & Software Pro-AI Service for Edge AI Solutions",
+      "excerpt": "Extraordinary Coordination for your AI Project DevelopmentTAIPEI, March 11, 2021 /PRNewswire/ -- Aetina Corporation dedicated to AI solutions",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-scientific-machine-learning-and-hpc-ai-technology-convergence.md",
+      "title": "Scientific Machine Learning and HPC-AI Technology Convergence",
+      "excerpt": "Some of the most well-known examples of the use of machine learning technics in science applications are the detection and classification of gravitational-waves signals from LIGO and Virgo in astrophysics [1], the recent DeepMind Alpha-Fold2 capabilities ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/03/scientific-machine-learning-and-hpc-ai-technology-convergence/",
+      "originalUrl": "https://insidehpc.com/2021/03/scientific-machine-learning-and-hpc-ai-technology-convergence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2021/03/Illustration-2-HPC-AI.png",
+          "width": 300,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-canadian-tire-and-nuport-robotics-to-commercialize-canadas-first-automated-heavy-duty-trucking-technology.md",
       "title": "Canadian Tire and NuPort Robotics to Commercialize Canada’s First Automated Heavy Duty Trucking Technology",
       "excerpt": "First-of-its-kind technology to enable safer, greener and more efficient transport of goods by semi-tractor trailers TORONTO, ON / ACCESSWIRE / March 11, 2021 / Canadian National retailer Canadian Tire Corporation (TSX:CTC.",
@@ -248,803 +1067,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-global-computer-vision-development-market-size-share-value-and-competitive-landscape-2026.md",
-      "title": "Global Computer Vision Development market Size, Share, Value, and Competitive Landscape 2026",
-      "excerpt": "Mar 11, 2021 (Heraldkeepers) -- According to this latest study, the 2021 growth of Computer Vision Development will have significant change from previous year. By the most conservative estimates of global Computer Vision Development market size (most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-development-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-development-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T00:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-self-driving-car-market-revenue-growth-predicted-by-2021-2024-by-kenneth-research.md",
-      "title": "Self-Driving Car Market Revenue Growth Predicted by 2021 – 2024 | By Kenneth Research",
-      "excerpt": "Self-driving cars have pre-installed control systems in them which ... Nissan Motor Company, BMW AG, Baidu Inc., Daimler AG, Dutch Automated Vehicle Initiative (DAVI), Apple Inc., and Volkswagen among others. Kenneth Research is a reselling agency ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-revenue-growth-predicted-by-2021-2024-by-kenneth-research-2021-03-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-revenue-growth-predicted-by-2021-2024-by-kenneth-research-2021-03-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T23:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-microsoft-edge-ai-kit-runs-linux-on-imx8m-and-adds-myriad-x-and-8mp-cam.md",
-      "title": "Microsoft edge AI kit runs Linux on i.MX8M and adds Myriad X and 8MP cam",
-      "excerpt": "Microsoft’s $349 “Azure Percept DK” edge AI kit runs Linux on an i.MX8M and works with Azure IoT services. The kit has a “Vision” module with a 0.7 TOPS Myriad X and an 8MP camera plus an an optional “Audio” module with a 4-mic array.",
-      "sourceUrl": null,
-      "webUrl": "https://linuxgizmos.com/microsoft-edge-ai-kit-runs-linux-on-i-mx8m-and-adds-myriad-x-and-8mp-cam/",
-      "originalUrl": "https://linuxgizmos.com/microsoft-edge-ai-kit-runs-linux-on-i-mx8m-and-adds-myriad-x-and-8mp-cam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T21:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "run Linux-based Opera TV",
-        "domain": "linuxgizmos.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-backplane-systems-technology-presents-neousyss-nuvo-8108gc-xl-edge-ai-gpu-computing-platform-with-nvidia-rtx-30-series.md",
-      "title": "Backplane Systems Technology Presents Neousys’s Nuvo-8108GC-XL Edge AI GPU Computing Platform with NVIDIA® RTX 30 Series",
-      "excerpt": "Backplane Systems Technology is proud to present Neousys’s Nuvo-8108GC-XL, an edge AI GPU computing platform supporting NVIDIA® RTX 30 Series GPU cards up to RTX 3080 and Intel® Xeon® E, 9th/ 8th-Gen Core™ processors. Featuring patented thermal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-neousyss-nuvo-8108gc-xl-edge-ai-gpu-computing-platform-with-nvidia-rtx-30-series/",
-      "originalUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-neousyss-nuvo-8108gc-xl-edge-ai-gpu-computing-platform-with-nvidia-rtx-30-series/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ferret.com.au/wp-content/uploads/2021/03/PR-Image-Neuosys-Nuvo-8108GC-XL.jpg",
-          "width": 1500,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T19:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ferret Australia's Manufacturing Industrial and Mining Directory",
-        "domain": "ferret.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-how-nvidia-ai-enterprise-suite-simplifies-ai-deployment.md",
-      "title": "How NVIDIA AI Enterprise Suite Simplifies AI Deployment",
-      "excerpt": "eWEEK NETWORKING PRODUCT ANALYSIS: Joint NVIDIA-VMware solution promises to unlock the power of AI. This week GPU market leader and AI thought leader NVIDIA revealed its NVIDIA AI Enterprise, a comprehensive suite of enterprise-grade AI tools and frameworks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/networking/how-nvidia-ai-enterprise-suite-simplifies-ai-deployment/",
-      "originalUrl": "https://www.eweek.com/networking/how-nvidia-ai-enterprise-suite-simplifies-ai-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/01/NVIDIA.logo_.black_.green_.jpg",
-          "width": 1901,
-          "height": 1353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T16:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations.md",
-      "title": "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations",
-      "excerpt": "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS",
-      "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations",
-      "originalUrl": "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T16:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
-      "title": "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI",
-      "excerpt": "Amazon SageMaker brings AI/ML capabilities that fit seamlessly into any AWS environment. ElectrifAi is designed to enhance Amazon SageMaker's capabilities by accelerating a client's time-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html",
-      "originalUrl": "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-generate-positivity-with-machine-learning.md",
-      "title": "Generate Positivity With Machine Learning",
-      "excerpt": "If you’re new to Tensorflow, though, we have featured some projects that can do reliable object recognition using little more than a Raspberry Pi and a camera.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
-      "originalUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/08/atltvhead-main.png",
-          "width": 1185,
-          "height": 790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu.md",
-      "title": "Artificial Intelligence becoming the new way for healthcare students at OSU",
-      "excerpt": "One OSU professor and his business partner developed an artificial intelligence about 4 years ago to ... The goal was to help healthcare providers learn the unique aspects of gathering information from someone who doesn’t speak English as their first ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/",
-      "originalUrl": "https://www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nbc4i.com/wp-content/uploads/sites/18/2021/03/vlcsnap-2021-03-10-18h02m11s651.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/amp/",
-      "cdnAmpWebUrl": "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/amp/",
-      "publishedDateTime": "2021-03-10T15:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC4i",
-        "domain": "nbc4i.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-eta-computes-low-power-ai-vision-board-accelerates-design-test-and-deployment-of-transformative-embedded-vision-solutions.md",
-      "title": "Eta Compute’s Low Power AI Vision Board Accelerates Design, Test, and Deployment of Transformative Embedded Vision Solutions",
-      "excerpt": "The development community is invited to see the AI Vision Board in action at our free webinar with Edge Impulse on March 31. “With computer vision, devices can understand the world around them, enabling them to be more capable, safer, easier to use and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210310005080/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210310005080/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-dynatrace-recognized-by-aws-for-experience-and-expertise-in-applied-ai.md",
-      "title": "Dynatrace Recognized by AWS for Experience and Expertise in Applied AI",
-      "excerpt": "Software intelligence company Dynatrace (NYSE: DT) announced today it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-19e7126ed40e44e4b14572b402c260d7",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-19e7126ed40e44e4b14572b402c260d7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-vonage-receives-aws-machine-learning-competency-status-in-applied-ai.md",
-      "title": "Vonage Receives AWS Machine Learning Competency Status in Applied AI",
-      "excerpt": "Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied Artificial Intelligence (Applied AI) category.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-using-artificial-intelligence-to-generate-3d-holograms-in-real-time.md",
-      "title": "Using artificial intelligence to generate 3D holograms in real-time",
-      "excerpt": "Researchers have developed a way to produce holograms almost instantly. The deep learning-based method is so efficient, it could run on a smartphone, they say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/03/210310121953.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/03/210310121953.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-xapp-ai-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
-      "title": "XAPP AI Achieves AWS Machine Learning Competency Status in Applied AI",
-      "excerpt": "XAPP AI announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/xapp-ai-achieves-aws-machine-learning-competency-status-in-applied-ai/article_463bd8f0-4c2e-5742-aa28-78d6daa3c973.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/xapp-ai-achieves-aws-machine-learning-competency-status-in-applied-ai/article_463bd8f0-4c2e-5742-aa28-78d6daa3c973.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-microsoft-azure-msp-acquires-software-development-company.md",
-      "title": "Microsoft Azure MSP Acquires Software Development Company",
-      "excerpt": "Microsoft Azure cloud partner and MSP Atmosera acquires Wintellect, a software development, Azure and IT training company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-development-company/",
-      "originalUrl": "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-development-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T12:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ChannelE2E",
-        "domain": "channele2e.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-this-ai-robot-will-paint-a-canvas-at-sxsw-2021.md",
-      "title": "This AI Robot Will Paint A Canvas At SXSW 2021",
-      "excerpt": "At the upcoming all digital SXSW March 16-20, 2021 in Austin, Texas, a group from Tokyo, Japan will show an artificial intelligence-based (AI) robot that creates art.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/10/this-ai-robot-will-paint-a-canvas-at-sxsw-2021/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/10/this-ai-robot-will-paint-a-canvas-at-sxsw-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604920bd6de4926cfe37ae0c%2F0x0.png%3FcropX1%3D0%26cropX2%3D800%26cropY1%3D0%26cropY2%3D450",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/10/this-ai-robot-will-paint-a-canvas-at-sxsw-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/03/10/this-ai-robot-will-paint-a-canvas-at-sxsw-2021/amp/",
-      "publishedDateTime": "2021-03-10T11:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-supercom-announces-partnership-with-mars-vision-to-make-gaming-accessible-to-the-visually-impaired.md",
-      "title": "Super.com Announces Partnership with Mars Vision to Make Gaming Accessible to the Visually Impaired",
-      "excerpt": "Innovative New Software Opens Up Video Games to the Visually Impaired NICOSIA, CYPRUS / ACCESSWIRE / March 10, 2021 / Today, Super.com is proud to announce its partnership with Mars Vision in order to launch an innovative new application that will allow the visually impaired to play games without the need for modding.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-business-lifestyle-software-industry-recreation-and-leisure-93c92358a2f5416cb1c800597cf08488",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-business-lifestyle-software-industry-recreation-and-leisure-93c92358a2f5416cb1c800597cf08488",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-the-structure-dilemma-in-biological-and-artificial-neural-networks.md",
-      "title": "The structure dilemma in biological and artificial neural networks",
-      "excerpt": "Going far beyond the obvious macroscopic structure of the brain, which hardly differs between human individuals, various authors postulated a coupling of structure and function 1, 2, 3. Neurons, hubs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-84813-6",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-84813-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-84813-6/MediaObjects/41598_2021_84813_Fig1_HTML.png",
-          "width": 531,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T07:33:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-raspberry-pi-machine-learning-with-tensorflow-lite.md",
-      "title": "Raspberry Pi machine learning with TensorFlow Lite",
-      "excerpt": "Check out the video below for an introduction into the proof of concept tutorial. “TensorFlow Lite allows you to take the same ML models used with TensorFlow (with some tweaks) and deploy them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/raspberry-pi-machine-learning-with-tensorflow-lite/",
-      "originalUrl": "https://www.geeky-gadgets.com/raspberry-pi-machine-learning-with-tensorflow-lite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/03/Raspberry-Pi-TensorFlow.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

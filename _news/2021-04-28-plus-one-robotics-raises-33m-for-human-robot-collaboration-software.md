@@ -41,6 +41,20 @@ related:
         width: 997
         height: 546
         isCached: true
+  - title: "Startup News: Plus One Robotics raises $33 million to fuel expansion"
+    excerpt: "Plus One Robotics, the leading provider of vision software for logistics robots, today announced $33 million of Series B funding. McRock Capital and TransLink Ventures co-led the round, with participation from BMWi Ventures,"
+    publishedDateTime: 2021-04-27T11:12:00Z
+    webUrl: "https://www.logisticsmgmt.com/article/startup_news_plus_one_robotics_raises_33_million_to_fuel_expansion"
+    type: article
+    provider:
+      name: Logistics Management
+      domain: logisticsmgmt.com
+    quality: 69
+    images:
+      - url: "https://www.mmh.com/images/2021_article/SCMR1903_SUP_Finance_FOUR-Main600.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Plus One Robotics Raises $33 Million to Fuel Expansion"
     excerpt: "Plus One Robotics, the leading provider of vision software for logistics robots, announces $33 million of Series B funding. McRock Capital and Translink Capital co-led the round, with participation from BMW i Ventures,"
     publishedDateTime: 2021-04-27T10:02:00Z
@@ -49,15 +63,6 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 49
-  - title: "Startup News: Plus One Robotics raises $33 million to fuel expansion"
-    excerpt: "Plus One Robotics, the leading provider of vision software for logistics robots, today announced $33 million of Series B funding. McRock Capital and TransLink Ventures co-led the round, with participation from BMWi Ventures,"
-    publishedDateTime: 2021-04-27T12:13:00Z
-    webUrl: "https://www.scmr.com/article/startup_news_plus_one_robotics_raises_33_million_to_fuel_expansion"
-    type: article
-    provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
     quality: 49
   - title: "Robotic vision startup Plus One raises $33M"
     excerpt: "San Antonio-based Plus One Robotics today announced a $33 million Series B. The round follows an $8.3 million Series A announced in 2018 and brings the company’s total funding to north of $40 million."
@@ -78,6 +83,6 @@ related:
       domain: bizjournals.com
     quality: 44
 
-secured: "eZ0dNS2qiCSpiYyLP94k+4IrGqDQSQYOIRqkcOMMciktoAkdH0aBURXxHhU32fmbZBWapaLVQm3RotMN9wVQyxZYR4FDXpBHIhUruMn61GACSfLIkVV7hkvNt0eWiVTV2oi3Qb4e4OwTQ1XJheFGPBvYfVvJu40oknOOoGicO8YcBoG9tXcyIR+imBOGbjgDpl4euoSd1npOxkIKlpn693fOuufnEWIiYx2/AkVTd8f4Us+vn/P2gZKEHbz7YWrCYiLoCQFX1aBjsRaUMTZL7pL/jML5GymOxpPkPgql6NA67Rrr69BslVG0cZjzyRcPqDqZ/NbRnTiYfW/v0Yib7Byah/BaUKtW6i9j0lyqhYA=;VbVYGdsINMYm1TPez9kzVw=="
+secured: "QSnbWXvY928iuMRNrSOc3Zr4gIZSBJqos4iq7wpz7/JOJ/SGyyePI3Trphqfd70iTkkjVRWo+F8TK1dBvPEtkCXDtIbgYdtccPD3AWIQULtdbPIs40VcEMODY8Y77tE1awwmPOoKuYRkLeizey5S/WsevwAVhGSKGavWfG/daNJa7TDG2EWDVP/w8S6sYwfGCvGheIwVJi1NJNmUqIrKnWEdbSlYfjgVSArOnTKVs3QweIj8tF1Hm7/ZobljoIUb6FbcQKi3M3mJNIS7qSECEthis5E8bUEYWspibfBVqNdUCv3UIt1wnzK6RsN10hF1b4X7xHjzg3gBHlkvaK3k/Co8XyMAbrRFos/K2VPZdUlqPfM8DKuEOKruIwYOzryHfgM7kQZOEaEN/43aZYgj4+dPEKKxBW4ApAGgNDW0bwagNMb6ZX5AiAG84qkiz2LKEI+lB7KClaZxHbR/GporC9103TKukFntaHuufBf29LP8feKEqSDTJCTxQYJMuxBf0n8tSD1nUbf0ete9L46vdw==;+phVZYXck12GhyvkOE/WTw=="
 ---
 

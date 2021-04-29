@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-29-membership-inference-attacks-detect-data-used-to-train-machine-learning-models.md",
+      "title": "Membership inference attacks detect data used to train machine learning models",
+      "excerpt": "In membership inference attacks, the adversary can work back from the machine learning algorithm to discover the training data used.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/",
+      "originalUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/deepfakes-e1619655593693.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/amp/",
+      "publishedDateTime": "2021-04-28T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending.md",
       "title": "How Shopify aims to level the playing field with its machine learning-driven model of lending",
       "excerpt": "Shopify is widely known for giving independent merchants a platform to start, run, market and manage their businesses. But over the past 5 years, the company has been steadily growing another part of its own business: Shopify Capital.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -50,7 +103,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -127,6 +181,49 @@
       "provider": {
         "name": "Dataquest",
         "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.md",
+      "title": "Researchers propose new deep learning-based model for cross-lingual voice conversion",
+      "excerpt": "Robots today have come a long way from their early inception as insentient beings meant primarily for mechanical assistance to humans. Today, they can assist us intellectually and even emotionally, getting ever better at mimicking conscious humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx",
+      "publishedDateTime": "2021-04-26T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1319,84 +1416,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-global-machine-learning-artificial-intelligence-market-2021-to-witness-huge-growth-by-2026-aibrain-amazon-anki-cloudminds-deepmind.md",
-      "title": "Global Machine Learning Artificial intelligence Market (2021) to Witness Huge Growth by 2026 | AIBrain, Amazon, Anki, CloudMinds, Deepmind",
-      "excerpt": "A recent research study on the global Machine Learning Artificial intelligence market presented by Zeal Insider offers a detailed analysis of key market players, market revenue, market segments, share, and geographic regions. It also offers several ...",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/19/global-machine-learning-artificial-intelligence-market-2021-to-witness-huge-growth-by-2026-aibrain-amazon-anki-cloudminds-deepmind/",
-      "originalUrl": "https://ksusentinel.com/2021/04/19/global-machine-learning-artificial-intelligence-market-2021-to-witness-huge-growth-by-2026-aibrain-amazon-anki-cloudminds-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/01/research-reports-market-12-1-780x400.jpeg",
-          "width": 780,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise.md",
-      "title": "Gurobi Teams Up With Lityx To Accelerate The Adoption Of Mathematical Optimization Across The Enterprise",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210415005086/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210415005086/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

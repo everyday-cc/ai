@@ -40,6 +40,20 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "AWS open-sources DeepRacer machine learning software to let developers tinker at home"
+    excerpt: "AWS DeepRacer provides a fast way to learn about machine learning programming by putting it into practical terms using autonomous vehicles as a real-world example of its use. In DeepRacer’s case, it is an Ubuntu Linux-based computer on wheels powered by the Robot Operating System."
+    publishedDateTime: 2021-04-27T18:08:00Z
+    webUrl: "https://siliconangle.com/2021/04/27/aws-open-sources-deepracer-machine-learning-software-let-developers-tinker-home/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 81
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/aws-deepracer-robot.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "AWS open sources its DeepRacer machine learning software to let developers tinker at home"
     excerpt: "AWS DeepRacer provides a fast way to learn about machine learning programming by putting it into practical terms using autonomous vehicles as a real-world example of its use. In DeepRacer’s case, it is an Ubuntu Linux-based computer on wheels powered by the Robot Operating System."
     publishedDateTime: 2021-04-27T18:00:00Z
@@ -73,6 +87,6 @@ related:
       domain: venturebeat.com
     quality: 66
 
-secured: "TYBAOYkv0c+9fEjELmmX7oryRUSkck4gn12fxsVcYkjzFL/sX1oVj3MXfz1xZJl30G1FgyJmKGRvXFzrzB+4StEDuunTfea+YGcbJa6NLajOXuva2s2tzzK0NxYWymlFoomlj1oZ3w22O69mLu88er/0qujdLK9iFV2ILDHpgksaTvYwEEqr1+YbTgr34uWH/udbrW9I9EthCvzXns+Mn5ACmdPJBFVXURfnhZwsJz1OoDWAgk+PhDIM4YWIIy0Q/rIWkW+YuK1jhKYpMs9ZXEaJ74pXplm5A42XOlDjZrozyqQi6UfFSRhtqBakbmZJy4pZ4LoZg8UqqLim8OShMwZ4MKuyNvQGPG/snHKW5Z0=;CyuLIN04QZ/6Rwlixa0FxQ=="
+secured: "/kCH5Riouu1gCA790uMBIPuw3KZ7C3kNrcQpCKWX7Dn7xiESXpNA6m6H/hl3I1x7i+qT768dHAhE5+e/fTRvkxtvLz7XHvQ8fy8e7SuzNMzxl8g4NWI9M3Lp2VaUIqfQgwWRPQJs8bg6dYIF1skqmcp20I4FStpWMt70KP3WqNItEWPqdxelK1dh7GkF5GvMccYzkYHSLE2i35tR85vttpkqR41uwh1aKxH+GuO6cTOqn5BVuBO0gaJsJ+3xVvd2vlKprcMRd5Kt8AwSDTQRxrxkVQ7APyA4UMCpCbMwM+Wn92nt8jIqQ4c5Sxf9hfXi9C4k2lS/k1Q9IZ4AEAdq9j3Dyq6Flr/e2ELe146hHkN9n0kJ82wj9lFlEJwlrPI/Y5CNKAtNidaz7OgA67YA0yhd/l2+2R2KXmVAyD9y0xtJUhyUrxioGQ1ijbvDF9F6i/TkjMihLuipEHqQ7fiPxftmnfV+d2Bz/rlS08Tlx/UjXxczS7ZyPbRNaBeDgMbLTV8//sjSlgETLFVmE+ZT3w==;/fprrORUg2P+IjUQ+Yt4lA=="
 ---
 

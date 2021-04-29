@@ -2,21 +2,27 @@
 category: news
 title: "Startup News: Plus One Robotics raises $33 million to fuel expansion"
 excerpt: "Plus One Robotics, the leading provider of vision software for logistics robots, today announced $33 million of Series B funding. McRock Capital and TransLink Ventures co-led the round, with participation from BMWi Ventures,"
-publishedDateTime: 2021-04-27T12:13:00Z
-originalUrl: "https://www.scmr.com/article/startup_news_plus_one_robotics_raises_33_million_to_fuel_expansion"
-webUrl: "https://www.scmr.com/article/startup_news_plus_one_robotics_raises_33_million_to_fuel_expansion"
+publishedDateTime: 2021-04-27T11:12:00Z
+originalUrl: "https://www.logisticsmgmt.com/article/startup_news_plus_one_robotics_raises_33_million_to_fuel_expansion"
+webUrl: "https://www.logisticsmgmt.com/article/startup_news_plus_one_robotics_raises_33_million_to_fuel_expansion"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Supply Chain Management Review
-  domain: scmr.com
+  name: Logistics Management
+  domain: logisticsmgmt.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.mmh.com/images/2021_article/SCMR1903_SUP_Finance_FOUR-Main600.jpg"
+    width: 600
+    height: 400
+    isCached: true
 
 related:
   - title: "Plus One Robotics Raises $33M For Human-Robot Collaboration Software"
@@ -77,6 +83,6 @@ related:
       domain: bizjournals.com
     quality: 44
 
-secured: "1SAb0kVtWJHqTaE3Uyv7kBlnJJpPaTgdM7G0YdsbxS00fwI3O18/5XsE0YjB1LzADMxZjCv4S/gxSa6JqiRPMKBECoh11Rk083APvX4h/1Jg5+38ZtlGbqHvnvhhjz/CEjveqyEiZg5GzAqeE5BoZPw/SNxz2OTn9Q1WUJ4Rx3FvPC5l/cVxRe72K75iwP46LA+4E0B9TplJWz4Yi7wUXD9xSn4rma5CBTEmrePxwnguMEUwH+v+YoUg5oqrH+reCN1ER54gk6AFeec76JkAq1plHFndonvbbBw5X4retCqtD1ue8cv4JWLvWoFx2sIDY4Lrar1SecRsB68E9yDv2Kd3FXQRgZ5S4va9mgUQhRQ=;FEF0LqntlIE+CcxgTDg2uQ=="
+secured: "CWIk6rzlQvzqbTI2CZq8CmJZpLcF176NtbrfS37zu3l2bE/3h1Um+VfWCiqLTDUqDSOSQdqA4AdvIKVYqNWIcnL2ucBMJbUW0i2JUVL7a8TSRqtpr0eoamwV8ZKTmNYjQoPYVjQ5FKBNQfKRHHGGfi1qoexlG6NNkH09LEwFsrkb5Z+r3OdTpaVw+EIFnb+4d8OaLLMTlbFL0OHufpi/El1XBlQxaKQVnMZ/cgZq1XLzJjUdRp+dgr0lk+5bamtoquG5VxNITOeY3i5+Wa58NxSIiKQmlC/d+CSHs5+cOB5RoNtNE8HwnGE7jcc1tTTew/+zL0Sf5UwHnmHd3h6YHptzBeIyr2pv3+FKY8GagXc=;0gpmx/9yIbdGqlix80Om9Q=="
 ---
 

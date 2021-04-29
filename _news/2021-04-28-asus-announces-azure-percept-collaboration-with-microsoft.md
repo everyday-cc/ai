@@ -50,6 +50,34 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Computer Vision Software Market Investment Analysis | Microsoft, AWS, OpenCV"
+    excerpt: "Global Computer Vision Software Market Report is an objective and in-depth study of the current state aimed at the major drivers, market strategies, and key players growth. The study also involves the important Achievements of the market,"
+    publishedDateTime: 2021-04-26T12:57:00Z
+    webUrl: "https://ksusentinel.com/2021/04/26/computer-vision-software-market-investment-analysis-microsoft-aws-opencv/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 70
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Global-Computer-Vision-Software-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Artificial Intelligence Software Market Impact Analysis for the New Normal| Ipsoft, H2O.ai, Brighterion, Ada Support, Microsoft"
+    excerpt: "Artificial Intelligence Software Market is growing at a 33.10% CAGR during the forecast period 2020-2026. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
+    publishedDateTime: 2021-04-27T12:12:00Z
+    webUrl: "https://ksusentinel.com/2021/04/27/artificial-intelligence-software-market-impact-analysis-for-the-new-normal-ipsoft-h2o-ai-brighterion-ada-support-microsoft/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 43
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/A2Z-Market-Research-16-P-199.png"
+        width: 552
+        height: 308
+        isCached: true
   - title: "Feature Store: Are Google And Microsoft Late To The Party?"
     excerpt: "AWS launched Amazon SageMaker Feature Store — a fully managed and purpose-built repository to store, update, retrieve and share machine learning features for trai"
     publishedDateTime: 2021-04-26T12:31:00Z
@@ -78,7 +106,16 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+    excerpt: "Provides assurance and observability support for telco-clouds running on Azure LONDON, UK – MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs),"
+    publishedDateTime: 2021-04-28T13:09:00Z
+    webUrl: "https://realwire.com/releases/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: realwire.com
+      domain: realwire.com
+    quality: 34
 
-secured: "ku4XngF9bwC2Z7iOs8g3VuttalfrSgqmY/HMhCMOhmGKZKE6HkjxNCdFwANP+mIrdtQFlOPaJdPIZymfGBLpTYB3Vt7cYqF1ZCZb5k9YaB3NOPuVPADQzhRpyKAO7b84MChLKKEyFr8agIcH8hkb1dnvkFtJark6HPzLLh4c3lHf2uVzDmOQ2d36UHxrH/N/LYteBdEfe4PrwqTtlmtoG65pv9rCG39oUPVOWIrCbrne96Mw0e2YNJhWfMBqvJE+AQnOQG15cq6tkKkk/SEyvo3jLyuhPAOSObLJm/A+k6nzSTNZbkgkIghP0ok2N1iJ8K4p7pMww0GTALKJk8Yru09tX06AyR2/L2JCUYoZEI8=;Bzoom9KsZ0BkQpeGcL+nPw=="
+secured: "1EmJ5ZT1EyGNdzlwmGz7h3d4V4TgMVnW6u2Je4CYGUMNA104PkKqy4uVDgU6PW0/ACt2DsRdCRNxiRXNP98KJVQVOOhVUvx3B6lIfYOTdzHRDklnlY+rVLdtbDhxQpjfZKSdjf09RJ2NFQy5hvfS+olKo5gesYcsH59khAamtimPHh9E7HU6LCxww7yWXWfyC8dsQ09q5S/p8tMyNioVj3mVTdr7CqCizM2N7pifAQLW2fv1U/f3IHiSh8HImtiNL53BoZXp2wsbFYQjSSW4CYhmjh7gsSLaeixK5bpte4Pn0NblQAhkrvy96EIfEChiJe0r/PDpmn5DRTX0JHbUbmgHWwFLyC/eBQwmb7KjuaxcAfZs+PJPgVg+Hx94y9CrSTia1xJvjTmwv86fiKUUnhGGiyGX89aTP8SNmScCG+UV0BlfbF4bQx4LTR8qFT1Xawsn9Qgh3HIcAWI5O0wSz8vLEufVk1whdPWSItAOVGem3HmrBAaYbT2r0yYAxfTQzeUIvWeVQtMr1IuhZhW17Q==;9Oac0TzcF3P6Amr4TaBcpQ=="
 ---
 

@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "UK signals self-driving cars could hit road this year"
+    excerpt: "Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel."
+    publishedDateTime: 2021-04-28T18:24:00Z
+    webUrl: "https://techxplore.com/news/2021-04-uk-self-driving-cars-road-year.html"
+    ampWebUrl: "https://techxplore.com/news/2021-04-uk-self-driving-cars-road-year.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-uk-self-driving-cars-road-year.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/vehicles.jpg"
+        width: 1920
+        height: 1368
+        isCached: true
   - title: "Self-driving vehicles to become legal in the UK this year"
     excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."
     publishedDateTime: 2021-04-28T13:53:00Z
@@ -49,6 +65,6 @@ related:
       domain: iottechnews.com
     quality: 4
 
-secured: "bF1Zgfh1ve0M4p3xbSVDOflpiISKtTvcr4pfV86qAOY2vsgfzb7LJhiDIqNpYFqmls/Vw1M1uGtdmS82T29E3SwolwF+dfMPJqxC0NJQKitvwbw4jrRMddb3WIECLWLDXMZtjvlWwzsltqFIRxFwJsCTLnQuYCfIfbEpram0ZSbu4l07I9PWZYfdQPnO7kQCa8/LF0IMRUE66oa6UeCXkK17OUK9y2T+u+8IJ0jGZsRO+yZhTioHauPwjJku2uLz3KfbmmiHRpoYUuk8yL//KKuRqX9+yQGfhmCjXpQXU9bzjLOTotk11ZBkPPQ+SiY+XXbiMbKN4CAyrPyuQMuqBQlAB9MPgfjX6PN9aOucolI=;NlDznGyB2AmJLeOx2Wvvjw=="
+secured: "Si0WYAuNIysaeDCuuQXqrvjCHZY7YSEbGVI3yglDo6oN1Ud4PzQub+fetF9FDWVuGEmYOJe99UhayHQeJ2IE/55hRlyczzHXJCnhW+NY6I24d0wVq0gq4B4EOg8Tug6PWFJor4RDQvwWAnDGmbK5urbIEAyMCQZrLY6loukbUsAAjAh2iRQy0aJXJ1Paxc9f5I6PXCC8NIDZ5G782YCBGDq9S3GzpIzHf3UnhpMLye9Hud9DD87EIakHdY0OAv0f6fwXuCSyq7mtElBrmgZqRt9wcFSlQdMFeafyIKdstcjNqbGDBlBbu0V9Y25xiMqL7VK1T2IuxpR+Qtj+/QXynemY9E8qEPaP93QAyvEWCEN4dG+Y9zR7UewdRhISKgO3WK7bHn/qZGqcuVCo+yRVcsCLzYGOAmRX8hfjGxBC6/s0U7BIW+iUiSENVS+reFPmSGyjiPuaOSkmkcbrTbtroRu2aOyCM2U5G9EFpU8GOLLQQCvQN2i2X1sDjRDZF/J/O7nwgF/8Uy7czK1EXQzFsQ==;zEAHrwqic4BDCu7AfVGnBw=="
 ---
 

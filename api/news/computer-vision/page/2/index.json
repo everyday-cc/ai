@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-06-facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners.md",
+      "title": "Facial recognition tech is supporting mass surveillance. It's time for a ban, say privacy campaigners",
+      "excerpt": "A group of 51 organizations has written an open letter to European commissioners calling for the ban of all deployments of facial recognition tools that can snoop on citizens.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/",
+      "originalUrl": "https://www.zdnet.com/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2015/06/24/6e25c7c0-3573-4c02-b123-9438a67474f7/camerasurveillance.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-tech-is-supporting-mass-surveillance-its-time-for-a-ban-say-privacy-campaigners/",
+      "publishedDateTime": "2021-04-06T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-algolux-collaborates-with-renesas-on-r-car-camera-optimization-for-computer-vision.md",
       "title": "Algolux Collaborates with Renesas on R-Car Camera Optimization for Computer Vision",
       "excerpt": "Atlas automates today's months-long manual ISP tuning process to maximize computer vision accuracy and image quality in only days, an improvement of up to 100x in scalability and resource leverage. The workflow permits rapid evaluation of different camera ...",
@@ -1245,40 +1297,6 @@
       "provider": {
         "name": "Nature",
         "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid.md",
-      "title": "Pangiam Bets on Facial Recognition to Speed Travelers Through Airports Post-Covid",
-      "excerpt": "Travel tech firm Pangiam has purchased the biometric facial recognition system VeriScan from the Washington, D.C., airports operator.",
-      "sourceUrl": null,
-      "webUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/",
-      "originalUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/",
-      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/",
-      "publishedDateTime": "2021-03-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Skift",
-        "domain": "skift.com",
         "images": null,
         "publishers": null,
         "authors": null

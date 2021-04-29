@@ -2,6 +2,76 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-31-legal-software-focus-on-machine-learning-market-size-share-trends-analysis-report-2021-2025.md",
+      "title": "Legal Software (Focus On Machine Learning) Market Size, Share Trends Analysis Report 2021-2025",
+      "excerpt": "New year new updates Our reports have been revised for market size forecasts and strategies to take on 2021 after the COVID 19 impact https www thebusinessresearchcompany com global market reports The global legal software focus on machine learning market",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2263911/legal-software-focus-on-machine-learning-market-size-share",
+      "originalUrl": "https://www.openpr.com/news/2263911/legal-software-focus-on-machine-learning-market-size-share",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2263911/legal-software-focus-on-machine-learning-market-size-share",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2263911/legal-software-focus-on-machine-learning-market-size-share",
+      "publishedDateTime": "2021-03-30T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy.md",
+      "title": "inSearchX Partners with Strategic Visions Using Machine Learning to Help Customers Find their Ideal Car With Uncanny Accuracy",
+      "excerpt": "Startup inSearchX and advisory services firm Strategic Vision announce they have partnered to deliver an exciting vehicle-matching technology that pairs new vehicle shoppers with their ideal vehicle match.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy/",
+      "originalUrl": "https://www.financialbuzz.com/insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning.md",
       "title": "Cambridge Quantum Computing Pioneers Quantum Machine Learning Methods for Reasoning",
       "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... and is part of the Quantum Machine Learning division of CQC, headed by Dr. Mattia Fiorentini.",
@@ -1151,103 +1221,7 @@
         "Machine Learning",
         "AWS AI"
       ]
-    },
-    {
-      "path": "_news/2021-03-02-ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players-research-forecasts-to-2027.md",
-      "title": "AI in Fintech Market 2021 Growth Analysis, Share, Demand by Regions, Types and Analysis of Key Players- Research Forecasts To 2027",
-      "excerpt": "Mar 02, 2021 (The Expresswire) -- Global “AI in Fintech Market” forecast 2027; research report analyzed the existing state of the market by definitions, classifications, applications and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-home-lending-pal-leverages-ai-and-machine-learning-to-efficiently-solve-lenders-and-borrowers-problems.md",
-      "title": "Home Lending Pal leverages AI and machine learning to efficiently solve lenders’ and borrowers’ problems",
-      "excerpt": "Home Lending Pal (HLP) has an anonymous marketplace that uses conversational intelligence, machine learning and blockchain ... like to work with based on service quality and approval likelihood ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.housingwire.com/articles/home-lending-pal-leverages-ai-and-machine-learning-to-efficiently-solve-lenders-and-borrowers-problems/",
-      "originalUrl": "https://www.housingwire.com/articles/home-lending-pal-leverages-ai-and-machine-learning-to-efficiently-solve-lenders-and-borrowers-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.housingwire.com/wp-content/uploads/2021/02/AdobeStock_290218047.jpeg",
-          "width": 5477,
-          "height": 2739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HousingWire",
-        "domain": "housingwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 3
 }

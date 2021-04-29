@@ -2,6 +2,74 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-18-artificial-neuron-device-could-shrink-energy-use-and-size-of-neural-network-hardware.md",
+      "title": "Artificial neuron device could shrink energy use and size of neural network hardware",
+      "excerpt": "Training neural networks to perform tasks, such as recognizing images or navigating self-driving cars, could one day require less computing power and hardware thanks to a new artificial neuron ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-03-artificial-neuron-device-energy-size.html",
+      "originalUrl": "https://phys.org/news/2021-03-artificial-neuron-device-energy-size.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-03-artificial-neuron-device-energy-size.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-artificial-neuron-device-energy-size.amp",
+      "publishedDateTime": "2021-03-18T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-neural-network-based-on-autocatalytic-reaction-performs-image-classification.md",
+      "title": "Neural network based on autocatalytic reaction performs image classification",
+      "excerpt": "Researchers in the US have combined an autocatalytic click reaction with automated liquid handling and UV-Vis spectroscopy to create a simple neural network that can classify binary images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chemistryworld.com/news/neural-network-based-on-autocatalytic-reaction-performs-image-classification/4013413.article",
+      "originalUrl": "https://www.chemistryworld.com/news/neural-network-based-on-autocatalytic-reaction-performs-image-classification/4013413.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chemistry World",
+        "domain": "chemistryworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-domo-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
       "title": "Domo Achieves AWS Machine Learning Competency Status in Applied AI",
       "excerpt": "Domo (Nasdaq: DOMO) today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category. This designation recognizes that Domo has demonstrated deep experience and expertise in building or integrating ML solutions on AWS.",
@@ -1097,93 +1165,6 @@
         "name": "The National Interest",
         "domain": "nationalinterest.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-google-acquires-neural-network-startup-to-improve-speech-and-image-recognition-software.md",
-      "title": "Google acquires neural network startup to improve speech and image recognition software",
-      "excerpt": "Recently, Krizhevsky and Sutskever, who will both be moving to Google, developed a system that dramatically improved the state of the art in object recognition. “This is a wonderful opportunity ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/2013/03/13/google-speech-recognition-dnnresearch-373125/",
-      "originalUrl": "https://bgr.com/2013/03/13/google-speech-recognition-dnnresearch-373125/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-deep-learning-in-machine-vision-market-swot-analysis-by-key-players-iflytek-navinfo-nvidia.md",
-      "title": "Deep Learning in Machine Vision Market Swot Analysis By Key Players: IFLYTEK, NavInfo, NVIDIA",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 12, 2021 (Market Insight Reports) -- The Global Deep Learning in Machine Vision Market Report provides a holistic evaluation of the market for the forecast period (2020 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-swot-analysis-by-key-players-iflytek-navinfo-nvidia-2021-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-swot-analysis-by-key-players-iflytek-navinfo-nvidia-2021-03-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

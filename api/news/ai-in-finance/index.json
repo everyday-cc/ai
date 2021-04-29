@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-29-membership-inference-attacks-detect-data-used-to-train-machine-learning-models.md",
+      "title": "Membership inference attacks detect data used to train machine learning models",
+      "excerpt": "In membership inference attacks, the adversary can work back from the machine learning algorithm to discover the training data used.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/",
+      "originalUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/deepfakes-e1619655593693.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/amp/",
+      "publishedDateTime": "2021-04-28T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending.md",
+      "title": "How Shopify aims to level the playing field with its machine learning-driven model of lending",
+      "excerpt": "Shopify is widely known for giving independent merchants a platform to start, run, market and manage their businesses. But over the past 5 years, the company has been steadily growing another part of its own business: Shopify Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/",
+      "originalUrl": "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1169040174.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/amp/",
+      "publishedDateTime": "2021-04-28T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-icici-bank-is-betting-big-on-artificial-intelligence-machine-learning.md",
       "title": "ICICI Bank is betting big on Artificial Intelligence, Machine Learning",
       "excerpt": "AI and MLhave reduced internal costs for ICICI Bank and has driven its deposit business and new customer acquisition",
@@ -1261,76 +1367,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-legal-software-focus-on-machine-learning-market-size-share-trends-analysis-report-2021-2025.md",
-      "title": "Legal Software (Focus On Machine Learning) Market Size, Share Trends Analysis Report 2021-2025",
-      "excerpt": "New year new updates Our reports have been revised for market size forecasts and strategies to take on 2021 after the COVID 19 impact https www thebusinessresearchcompany com global market reports The global legal software focus on machine learning market",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2263911/legal-software-focus-on-machine-learning-market-size-share",
-      "originalUrl": "https://www.openpr.com/news/2263911/legal-software-focus-on-machine-learning-market-size-share",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2263911/legal-software-focus-on-machine-learning-market-size-share",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2263911/legal-software-focus-on-machine-learning-market-size-share",
-      "publishedDateTime": "2021-03-30T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy.md",
-      "title": "inSearchX Partners with Strategic Visions Using Machine Learning to Help Customers Find their Ideal Car With Uncanny Accuracy",
-      "excerpt": "Startup inSearchX and advisory services firm Strategic Vision announce they have partnered to deliver an exciting vehicle-matching technology that pairs new vehicle shoppers with their ideal vehicle match.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy/",
-      "originalUrl": "https://www.financialbuzz.com/insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -78,6 +78,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
+  - title: "Samsara Listed as One of America’s Most Promising Artificial Intelligence Companies by Forbes AI 50"
+    excerpt: "Samsara, the pioneer of the Connected Operations Cloud, has been named one of America’s top artificial intelligence companies according to Forbes. The Forbes AI 50 list, in its third year, includes a list of private North American companies using artificial intelligence in ways that are fundamental to their operations,"
+    publishedDateTime: 2021-04-28T18:06:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/health-coronavirus-business-technology-artificial-intelligence-362e0bd05bb3854257f0f1d73215d80a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 40
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ZzRdOy84U5mgYsBQdBzIb/F0+jm9p2JZsMAwh+ELJJrUxOQVpbkhBHeLxSaq1zZxGIKjXJhRJ4IT3jas3mb7LJTA/u802VEEhwLHKc/M3MI4z/hGdMyUPqi9fb3w5xEC6r88Assi2kGtZL2qK2h3vRDaIvOcPXDMfENVp5vhbyevYK+/6E3v0Zjms2Mkh+gLNCCUObMllaUQmUMdvZNeZ7Qkuogd2jmq52B+jlFTSYRd0v8Jpy0zXfdZqNpUO/AwVL4ztkbUAKcueEZ+htqp5CQ1NuPi2hETYwyCMbn/Oa5bKUyG+hWQErRTeSM3b+l8mAGWk31mHhq9zUXhulJ1GiiTrIAhBBc12CpWaAy2WOg=;6iPa81VgTO8LHRyxs5aJIw=="
 ---

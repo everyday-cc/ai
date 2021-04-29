@@ -2,6 +2,84 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-10-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
+      "title": "DeepMind Is Working on a Solution to Bias in AI",
+      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
+      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
+          "width": 1178,
+          "height": 1070,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-how-to-run-ml-applications-on-particle-hardware.md",
+      "title": "How To Run ML Applications On Particle Hardware",
+      "excerpt": "With the release of TensorFlow Lite at Google I/O 2019, the accessible machine learning library is no longer limited to applications with access to GPUs. You can now run machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/11/26/how-to-run-ml-applications-on-particle-hardware/",
+      "originalUrl": "https://hackaday.com/2019/11/26/how-to-run-ml-applications-on-particle-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-simplified-ai-on-microcontrollers.md",
       "title": "Simplified AI On Microcontrollers",
       "excerpt": "You can load AI onto some of the smallest microcontrollers as well. Tensorflow Lite is a popular tool for this, but getting it to work on your particular microcontroller can be a pain, unless you ...",

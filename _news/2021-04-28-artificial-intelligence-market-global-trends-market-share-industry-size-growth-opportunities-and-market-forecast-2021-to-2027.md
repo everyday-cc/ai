@@ -58,22 +58,6 @@ related:
         width: 500
         height: 395
         isCached: true
-  - title: "Global Speech and Voice Recognition Market Survey Report, 2021-2026"
-    excerpt: "The Speech and Voice Recognition Market research report includes Market segmentation and overlays shadow upon the leading market players highlighting the favorable c"
-    publishedDateTime: 2021-04-24T01:24:00Z
-    webUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239"
-    ampWebUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 44
-    images:
-      - url: "https://www.express-journal.com/img/img-10.png"
-        width: 500
-        height: 300
-        isCached: true
   - title: "Mobile AI Market Analysis by Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook – Global Forecast 2021 to 2026"
     excerpt: "Market Synopsis The Mobile AI Market is estimated to record a significant growth throughout the forecast period. The"
     publishedDateTime: 2021-04-24T15:44:00Z
@@ -88,6 +72,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
+    excerpt: "Global Artificial Intelligence market is estimated to reach 196 7 billion in 2027 by growing at a CAGR of 25 2 during the forecast period 2021 2027 This growth is attributed to increasing research and development R D owing to"
+    publishedDateTime: 2021-04-28T17:20:00Z
+    webUrl: "https://www.openpr.com/news/2277017/artificial-intelligence-market-to-2027-future-outlook"
+    ampWebUrl: "https://www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
   - title: "Research on Voice Recognition for Automotive Market 2021: By Growing Rate, Type, Applications, Geographical Regions, and Forecast to 2026"
     excerpt: "The recent analysis of Voice Recognition for Automotive market size has been methodically put together to impart an in-depth understanding of the ke"
     publishedDateTime: 2021-04-27T16:24:00Z
@@ -114,6 +109,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "Q71JpvNpiRQAs4ju8bpk85h9mmx6DRKg3fGKf/ORsuClOHJ50EqJvyZubGzBqDNyFYzSlXOUeJ+FJKowjz9xe5zDPXP1HY9xxffP+8XT+S061hTAZ0S1jVph2LnEi7UVYrmV7FgPaEyGwuOZs2IrhtsrpU67664oWcFu97r8SCyDsDQVWKRl48K6pCuV8uT+fGDWn5P2eTxDsewH44EaT0POYLdRNrWkxsBfR9tl1lfLeb4/uljkwxn4aj4czSFUERN8GspSHu/QqqBHrqEm+6VNLuZAVuXVtnNgT9NSYBauak+q0R4G+NFuhmVZ2IANBi3Sak5cm/m+JSrh26lk+tVS5+nBoYCwMOO29wBqLUM=;1FpQQESRDl+s3JDyE8sgTw=="
+secured: "Hco16piuwIf9vqHdQID3sYQgLIXTxt3U0iuwLn+S8ivRgndSZiAbg5uaYutpNkSYRoHV7Et6MxZRuZI4fSLzwtW32DUHfsquE8IuL4xzprv3Hadfdp41LtzuXCYTtSoUN4lIgqItDGwSDsVtKTsLRpYiSv6oV097GHG5f9T4fopTzJ/KgV1YJKlMdmmAnYireJCxaAIF+Hx7p+00s888HPiGdpm8OU95ZjeodWoY2yhJsJ8Dno0cT+pnRY4Tbhtq2yQb6l7wTZPh5oo464WkhMZO4L4H5Wm1r2hLoBaUFYeS3ZbIwLAWUvuv1aNo/c6M25JOFD7R22wnzx1x4viwRQbatimSEmv91q/f6vHMHR/L3mChj77OUWE6TpKVmLJ3bHpy2iEKdophvuL3vu0qQb5N/Sxq6J8j9YgP20Dfm2M6G3aROx9WZEiOKbXYNwBEeaHt27Pde2i4fuCCLHxb3bfU0NAPoXdJBYQJBPwUHB5jlTQWIIR+D0K6+0gts+ATdCWJ7KilqLVL2sCsQ7vM3g==;BC7EHgBTg+vJb+KwDRlMtA=="
 ---
 

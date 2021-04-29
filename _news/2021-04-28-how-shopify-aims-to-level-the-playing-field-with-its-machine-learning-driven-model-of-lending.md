@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing
 ampWebUrl: "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/amp/"
 type: article
-quality: 93
-heat: 93
+quality: 95
+heat: 95
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1169040174.jpg?w=1024"
@@ -30,6 +31,6 @@ images:
     height: 683
     isCached: true
 
-secured: "L261IN0ORhISwk1Gzu60qCQMhMsPcvtTJpXO8SGMNfDOIwl3UA/PG2CcFbyKmRhAm0gzV9beJoh0MHMUbN0WAEbb3JUbTlb2tzsVthhRDr3SiH86SinhQ5EshHWT96el1vtoT+tE3/dsbwQqmIzHMBonIQedfJDyd+9IzWLgX/5iAaqotm7XA9+vskOmwSBSG8OYryJJO6raMb/vEgWZYrn/6VhkN75+k/NIkRHIy8ATqGL+wrP1oOlVl1jjIWoDQ/zv9i/I7kyRujvjF06xv7DsfFhRdr8/vVIqgH9hq1ZlISYHjuGO8c8etGnnzOXEtbZHfaTwP31ULslI9cGOJSxnop5fmUKtplT+iWXUdMc=;LPth00a7rxbonkbwvSOQLw=="
+secured: "3zBZj8IXNW8rZajo9WRCn5SqxFuxN86OytHKQKC7SloJQPSviil/XtY2kJBPQqg93OvRKnv3FVeEioOhS7ft/SRsFCsjjMmM4r2OyUu5IBF1cr1DS0JP+9uf3NDWxqkGbng4OmfCKSP52wPKNr0RbOJApd1OINzxeLCd4z6R2TtfqWaWH4s8Vldg4yq19WMq9xh8WF6nXtzxsS/nTr+yv9L437fzGclCo1JO3YO7tyI8N3nqwgDrrmM541ra+v6to5hLa+sZtn2Cri6QJMLgfSU8thJ0Nvmr8ageXpB1eONyRpa101mkORQkvQfAmAMdaOQRiQlIfS3j+BJHxkYjeKp55gzmCCAc+gERRr4/WMkfYZ90HNA1jfqEyJ5s24f2uSe6Vi3WQBFeU3yrTdzqbFlkmrib5veAtWNYyfMbG5CAiqTKVBWt+ibhhJtLS1A0u4PenNa9bDPMBRh2wOp1JEDQ3gsjRK7CD71qyaV1hISlnLEsSNXKhMHHhdvesnUrUh/bhy6a/94L6GJt5bIxlQ==;2l4jI7St+o9ZV7OKiUgDLg=="
 ---
 

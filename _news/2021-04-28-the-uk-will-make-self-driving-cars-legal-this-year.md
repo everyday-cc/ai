@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-leg
 webUrl: "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-legal-this-year"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK signals self-driving cars could hit road this year"
+    excerpt: "Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel."
+    publishedDateTime: 2021-04-28T18:24:00Z
+    webUrl: "https://techxplore.com/news/2021-04-uk-self-driving-cars-road-year.html"
+    ampWebUrl: "https://techxplore.com/news/2021-04-uk-self-driving-cars-road-year.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-uk-self-driving-cars-road-year.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/vehicles.jpg"
+        width: 1920
+        height: 1368
+        isCached: true
   - title: "Could we see self-driving cars on UK roads this year?"
     excerpt: "Automated Lane Keeping System technology cold be given the green light by the DfT later this year, paving the way for self-driving cars."
     publishedDateTime: 2021-04-28T10:21:00Z
@@ -53,6 +69,6 @@ related:
       domain: iottechnews.com
     quality: 4
 
-secured: "tAc/igaz59ghud3P0wDOb4BD3ObsgWnzoK/mDW3y8wNzp/fsp/hdmxmy/PeqvJu59/5guEJFdukEIwWkCTvkp0xvvFzB9k2E4EeknJuKiI7FNKSn96HpUmcYTqIDSqe816H42J5D+lgU8LzFyiQ0Pp/ewZQvpFchE0+P4/qV8SbrWze95Gb1pqTxNf39ca0PGKaJFnPE2BfqqOib0taYCbLnvFsStj7r0aqToicId2hFZfkYi07HLNDiE6jOqqfC19j3WAmAdj0jejjSPHgqM9VspGLJmU2nzcRCiGcpdXLDCDpZew9z8gMoiHH0spltmqyKePVl+rK1gUzFsLf921Cs6sHZzVmN1SujEVkjDN4=;yJpQEL3XlzeWTyMfDtwLKw=="
+secured: "sx/cRE+w3ml4/rtY8cGgU73Bez1+Eh6R8uOvq25YO2u2RpzPtdGbPP8O3fjWkwI3/puZEkodiioHNdotELd5GGmfOU5ijO6ITAf7JzAAnpa19U3PRH3tRWUB/e3RUfuQW/IyKxU3P8IDryPfNPn/cLEFXEyZWh2f42jJ7o5e0dCrbAT78jypNlQOKoVehJyon8zIhF1/OTjX5Zv9vylxBfyWbrrRwIiJ81qYrBSZLXi12FbJOYfmHdfc3aXkqP5fDkEgGr9pG+k8OvvAwDWJyuhQXyxdYfMe1Kg8zWnLn63eUG7rt+uRzxDq8Q/lmgdbkaxZ/JNcNXUSSRLfjPxyCX/aboaThbnS8hJyCUEWho4FpqyRLInpKrn5dW7xMLqdFw8h1zOwTnOtk4G7ue77YUAjpJlLgsMjiEqQ+VhlTToSnNwKe+RaNQJuzklgUp3QMxdMDDHscyLxZ5ZCiCtWeE1KNDjXTEp2wtYod74/czyMHhbaLmrIFY6WgxE/1nwb+A4YF9i4kcIAt7iVpwcZfw==;5q8eIguJfa1yF1lOPBDL8w=="
 ---
 

@@ -1,29 +1,22 @@
 ---
 category: news
 title: "Blue Hexagon Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "CB Insights today named Blue Hexagon to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. Blue Hexagon, a leading agentless cloud-native AI platform,"
-publishedDateTime: 2021-04-28T09:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-a73006e60945424c9a1a35dbcd8caa02"
-webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-a73006e60945424c9a1a35dbcd8caa02"
+excerpt: "Blue Hexagon Named to 2021 CB Insights AI 100 List of Most Innovative AI Startups; honored for Agentless Cloud-Native AI Security"
+publishedDateTime: 2021-04-28T13:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210428005295/en/Blue-Hexagon-Named-to-the-2021-CB-Insights-AI-100-List-of-Most-Innovative-Artificial-Intelligence-Startups"
+webUrl: "https://www.businesswire.com/news/home/20210428005295/en/Blue-Hexagon-Named-to-the-2021-CB-Insights-AI-100-List-of-Most-Innovative-Artificial-Intelligence-Startups"
 type: article
-quality: 36
-heat: 36
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "rUoYN9aLe0ASPkVpGl4ye/nAD/No7uuM2Mi3XMYRCiqag9zyxDeIbPjn59MKVaSKl0Mm3E8iD/Htu1E0gPLOiGUDd8evtji4dOJhqDve7JZQR0LhDM0SSTaMRQslhc6BzTZs/9x8X4I3Sy1sC7WzVIu2Jrcu6Tb2dEEJk1f6F+FL7JjuzDQ4KpuirLe0O+6yFXWOZ3uYus9cwtitVjCYViLk85RafNhTYo7sYmVPtzkCkWbOXDBorQg2A4VqtxM0YpKcqlucXPr5bKT2jtI+nvM9xoRIoIFXTp0XBarajfNVLJZu2xyv8iqU0tM0STRqpyH0PblmPcnjID0rJNiIkINEk0DcZbvOigpj7qAODNs=;6GINBmDkL/drX1DW0GQHnA=="
+secured: "X0KQCIrYPj0i06v0sSUlqzDnufAlzCBX7+2ip/0Y6D8bKS41ssZ1nSeqwzUa+PSww+UiXoNoK63xmUyhIOnaZcRtlm6GKg8C6F0RavfPBXPga0e3ohOjao4YfhhfeBBYkALnZ/V/9Xjldde4sgh+SsPIzFIhNfD7aa0nyMwqFW2cVnEAvJbpNQp+NuYRMdRKaTUvPQIBZCjD8WH9xuiiRkaog1GtCcg+mFlmD9YTkv/A0Oy0ctjiPwq7AkZwwDaQyaX/4RSD4S0iOk5sStVNelDTuRZHxezrARlNNDdFpiPyqhpfoPZgRqv1NmU4wkIPk7qjwYv1b/YYEB5JpteD10v5GRuBIdeDdG5LUhKr4LQ=;o8lWyiG0rGFz11aEQgtp2A=="
 ---
 

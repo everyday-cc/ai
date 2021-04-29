@@ -50,8 +50,8 @@ related:
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 41
+    quality: 43
 
-secured: "v6I5nbcyPxl5kHBZsj5F0qGNt7IvuZnt0iocgijsVSOQkOkFmbwDr80WHtiBlSKBHZAAivbGkjRT97mrHGGQv04PsXpQ+/98DzM+OSyc5wAyqr4K09CtZwKmwVeKyCuTZnK8Wquh2JpM4CgkF7Bx0ZrRU1TYZUBJURh1i5gRB3Bx4bocvU6kal9C73N7mWRdpF/tABaWymHtr9a0wq6T8vPDrPqr6duUT1VvsNedlLHYoPgWH7p5cxDmBN2r0XRdVkjTnakqChg7YgI0LnJFkQWYaPlo/bokw6TPVN3JIe0ACEy4s/zAyC5ZppuLL+uyxs7N5Huyuz7lQ+LflDwGpCGxMdLjWkUATLKNe6rQnNo=;/HbfRyOixDT/QXrqvoTpdw=="
+secured: "6igyKutP+ea2Q1yW30Gt09pyu5q8Jih9girshOrkQa9LEbG6FBuLfqqmhzobWXpwiIvpQhiehlqkYO4mQ3GfTMElcRRbG3fLnLg43tIDPErrl4YZqwq6s3ibfCelzSJjUUlLSao/Lz66nIKeehnd8CGUIfX0cxVP/2ZDm//V5p3hCB00ro2r4+XgeeARhZHmKiipOpBl7uzxjZPBZp2lVxgdPJwwGVC9A77iLYB+U3fTo7f5jHoIaEqqz+wyyJ7gGmHCtcEZ5mPiBws/l6b3mHS4jEkwgYzuiKt+HCOHjTKEAdY4r6giXGBj2VJcN54xS5hVO1JT2YzYx0x3Bnb5AyLpo3jPRbMmr1XGCiLYq/C9mhk1bbWcROd6U8Y/IMsqV+O2zXB+N8FokT5DFq0S/4LkSERv0D+K8HH7qhSB6wgysxWhAKSAHj+83A539fXcmH6vlYPufGVcM5K+So1xJTvqHzSqN/PdHnt9YxcPCHfehKXnVOKFryypAED/MsE3mNMXpvybeJNNUid4liFnHw==;U6Lq99oKbvIUAt6YZTzpwA=="
 ---
 

@@ -2,6 +2,455 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-28-avalon-steritech-attains-robotics-award-for-health-products-services-at-singapore-business-review-technology-excellence-awards.md",
+      "title": "Avalon SteriTech attains Robotics Award for Health Products & Services at Singapore Business Review Technology Excellence Awards",
+      "excerpt": "Avalon SteriTech (\"Avalon\") today announced that it has been named the winner of the Robotics Award in the health products and services category at Singapore Business Review 's Technology Excellence Awards 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/avalon-steritech-attains-robotics-award-for-health-products-services-at-singapore-business-review-technology-excellence-awards-1030354584",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/avalon-steritech-attains-robotics-award-for-health-products-services-at-singapore-business-review-technology-excellence-awards-1030354584",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-artificial-intelligence-is-misreading-human-emotion.md",
+      "title": "Artificial Intelligence Is Misreading Human Emotion",
+      "excerpt": "There is no good evidence that facial expressions reveal a person’s feelings. But big tech companies want you to believe otherwise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/technology/archive/2021/04/artificial-intelligence-misreading-human-emotion/618696/",
+      "originalUrl": "https://www.theatlantic.com/technology/archive/2021/04/artificial-intelligence-misreading-human-emotion/618696/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/wrG9Mzuhijw5-pB4uy5KILnDq40=/570x321/media/img/mt/2021/04/1_The_Atlantic_illustration_AI_MASK_Irene_SuosaloStill-1/original.jpg",
+          "width": 570,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/618696/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618696/",
+      "publishedDateTime": "2021-04-27T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch.md",
+      "title": "Announcing the AWS DeepComposer Chartbusters challenges 2021 season launch",
+      "excerpt": "We’re back with two new challenges for the AWS DeepComposer Chartbusters 2021 season! Chartbusters is a global challenge in which developers use AWS DeepComposer to create original compositions and compete in monthly challenges to showcase their machine learning (ML) and generative artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/27/2-Track1.jpg",
+          "width": 800,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T14:22:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-formation-launches-ai-driven-sales-offer-optimization-platform.md",
+      "title": "Formation launches AI-driven sales offer optimization platform",
+      "excerpt": "Marketing tech company Formation released a tool that helps companies to send out millions of product offers to consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/",
+      "originalUrl": "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/amp/",
+      "publishedDateTime": "2021-04-27T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-legal-management-startup-clio-nabs-110m-to-expand-its-platform.md",
+      "title": "Legal management startup Clio nabs $110M to expand its platform",
+      "excerpt": "Clio, a legal management startup founded in 2007, has raised $110 million, valuing the company at $1.6 billion post-money.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/27/legal-management-startup-clio-nabs-110m-to-expand-its-platform/",
+      "originalUrl": "https://venturebeat.com/2021/04/27/legal-management-startup-clio-nabs-110m-to-expand-its-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/ba9f7ef0-e3bb-44dd-b5e3-683b58150177-e1619131884575.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/27/legal-management-startup-clio-nabs-110m-to-expand-its-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/legal-management-startup-clio-nabs-110m-to-expand-its-platform/amp/",
+      "publishedDateTime": "2021-04-27T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-red-hat-open-sources-trustyai-an-auditing-tool-for-ai-decision-systems.md",
+      "title": "Red Hat open-sources TrustyAI, an auditing tool for AI decision systems",
+      "excerpt": "Red Hat open-sourced TrustyAI, a toolkit for auditing AI decision-making systems, particularly in enterprise environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/27/red-hat-open-sources-trustyai-an-auditing-tool-for-ai-decision-systems/",
+      "originalUrl": "https://venturebeat.com/2021/04/27/red-hat-open-sources-trustyai-an-auditing-tool-for-ai-decision-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/27/red-hat-open-sources-trustyai-an-auditing-tool-for-ai-decision-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/red-hat-open-sources-trustyai-an-auditing-tool-for-ai-decision-systems/amp/",
+      "publishedDateTime": "2021-04-27T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-meet-amy-the-ai-meme-generators-using-deep-learning.md",
+      "title": "Meet AMY: The AI meme generators using deep learning",
+      "excerpt": "It has been architectured to analyze information and produce humor. It solves problems that would be impossible or difficult by human or statistical standards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/",
+      "originalUrl": "https://www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/web-4861609_640.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/amp/",
+      "publishedDateTime": "2021-04-27T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-aws-deepracer-device-software-now-open-source.md",
+      "title": "AWS DeepRacer device software now open source",
+      "excerpt": "AWS DeepRacer is the fastest way to get started with machine learning (ML). You can train reinforcement learning (RL) models by using a 1/18th scale autonomous vehicle in a cloud-based virtual simulator and compete for prizes and glory in the global AWS DeepRacer League. Today, we’re expanding AWS DeepRacer’s",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-device-software-now-open-source/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-device-software-now-open-source/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T09:39:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-tesla-is-becoming-more-of-an-artificial-intelligence-and-robotic-company-says-elon-musk.md",
+      "title": "Tesla is becoming more of an artificial intelligence and robotic company, says Elon Musk",
+      "excerpt": "Elon Musk made the argument that Tesla is going to be known more as an artificial intelligence and robotic company. For a while now, Musk has been pushing this idea that investors shouldn’t just see Tesla as an automaker and energy company,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/",
+      "originalUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/02/tesla-xray-2-e1455320423724.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/",
+      "publishedDateTime": "2021-04-27T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-making-ai-great-again-how-do-we-design-ethical-ai-systems.md",
       "title": "Making AI great again: how do we design ethical AI systems?",
       "excerpt": "The debate around how AI will shape our future is ongoing, and it is already affecting our present. Accenture investigates how issues around ethics and regulation are becoming increasingly urgent. Artificial intelligence is a powerful agent of change in our society.",
@@ -41,6 +490,49 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.md",
+      "title": "Researchers propose new deep learning-based model for cross-lingual voice conversion",
+      "excerpt": "Robots today have come a long way from their early inception as insentient beings meant primarily for mechanical assistance to humans. Today, they can assist us intellectually and even emotionally, getting ever better at mimicking conscious humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx",
+      "publishedDateTime": "2021-04-26T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -105,7 +597,7 @@
       "originalUrl": "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -208,7 +700,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/9-healthcare-ai-companies-to-watch-in-2021-per-forbes.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -251,7 +743,7 @@
       "originalUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 374,
       "tags": null,
       "images": [
         {
@@ -744,494 +1236,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-nhs-adopts-predictive-ai-tech-from-controversial-startup.md",
-      "title": "NHS adopts predictive AI tech from controversial startup",
-      "excerpt": "The technology warns hospitals about a potential spike in patient numbers so they can allocate the right resources when needed",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570816586/itpro/2019/05/nhs_shutterstock_642071587.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup?amp",
-      "publishedDateTime": "2021-04-26T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud.md",
-      "title": "ThetaRay launches anti-money laundering AI and analytics for the cloud",
-      "excerpt": "Cybersecurity analytics company ThetaRay announced that its AI-based Anti-Money Laundering (AML) analytics will be available in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/",
-      "originalUrl": "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1279322260-e1619416404946.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/",
-      "publishedDateTime": "2021-04-26T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking.md",
-      "title": "Microsoft Defender can now use Intel's CPU-based machine learning to detect cryptojacking",
-      "excerpt": "Microsoft Defender for Endpoint has been enhanced using advancements in Intel Threat Detection Technology to detect cryptojacking attacks via machine learning heuristics based on CPU telemetry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1619243785_figure_1._windows-defender-tdt_chart_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-microsoft-adds-new-azure-specializations-to-coursera.md",
-      "title": "Microsoft adds new Azure specializations to Coursera",
-      "excerpt": "The three new courses on the online learning platform cover Azure Fundamentals, AI Fundamentals and Data Fundamentals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-adds-new-azure-specializations-to-coursera/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-adds-new-azure-specializations-to-coursera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/",
-      "publishedDateTime": "2021-04-26T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-the-worlds-biggest-ai-chip-now-comes-stock-with-26-trillion-transistors.md",
-      "title": "The World’s Biggest AI Chip Now Comes Stock With 2.6 Trillion Transistors",
-      "excerpt": "The world’s biggest AI chip just doubled its specs—without adding an inch. The Cerebras Systems Wafer Scale Engine is about the size of a big dinner plate. All that surface area enables a lot more of everything,",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/",
-      "originalUrl": "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/04/WSE2-Dinner-Plate.jpg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/amp/",
-      "publishedDateTime": "2021-04-25T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-the-eu-is-proposing-regulations-on-aiand-the-impact-on-healthcare-could-be-significant.md",
-      "title": "The EU Is Proposing Regulations On AI—And The Impact On Healthcare Could Be Significant",
-      "excerpt": "Regulatory frameworks regarding AI and healthcare generally will undoubtedly only continue to grow, especially as innovators attempt to solve increasingly difficult problems with technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2021/04/25/the-eu-is-proposing-regulations-on-ai-and-the-impact-on-healthcare-could-be-significant/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2021/04/25/the-eu-is-proposing-regulations-on-ai-and-the-impact-on-healthcare-could-be-significant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6085b608a78cd2efaae3d58f%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/04/25/the-eu-is-proposing-regulations-on-ai-and-the-impact-on-healthcare-could-be-significant/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/04/25/the-eu-is-proposing-regulations-on-ai-and-the-impact-on-healthcare-could-be-significant/amp/",
-      "publishedDateTime": "2021-04-25T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-heart-failure-prediction-using-ml-azure.md",
-      "title": "Heart Failure Prediction using ML Azure",
-      "excerpt": "Capstone Project of Udacity's Machine Learning with Azure Nanodegree - abhiojha8/Heart_Failure_Prediction_Azure",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/abhiojha8/Heart_Failure_Prediction_Azure",
-      "originalUrl": "https://github.com/abhiojha8/Heart_Failure_Prediction_Azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/b5330cc1b7151a3fe74d01327dd513761562b7bb1b0918f1f8aa004f7ef68333/abhiojha8/Heart_Failure_Prediction_Azure",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-25T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline.md",
-      "title": "You need to be constantly exploring the data in your AI pipeline",
-      "excerpt": "AI algorithms will do most of the heavy lifting, but if humans aren't doing critical upfront work on the data, your models will fall short.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/",
-      "originalUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/data.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/amp/",
-      "publishedDateTime": "2021-04-25T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-computer-vision-in-healthcare-market-analysis-status-and-global-outlook-2021-to-2026.md",
-      "title": "Computer Vision in Healthcare Market Analysis, Status and Global Outlook 2021 to 2026",
-      "excerpt": "Latest Research Report on “ Computer Vision in Healthcare Market size | Industry Segment by Applications (Medical Imaging , Surgery and Othe",
-      "sourceUrl": null,
-      "webUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853",
-      "originalUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.express-journal.com/img/img-14.png",
-          "width": 1042,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853/amp",
-      "cdnAmpWebUrl": "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/computer-vision-in-healthcare-market-386853/amp",
-      "publishedDateTime": "2021-04-25T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "express-journal",
-        "domain": "express-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-step-aside-python-4-benefits-of-using-javascript-for-machine-learning.md",
-      "title": "Step aside, Python — 4 benefits of using JavaScript for machine learning",
-      "excerpt": "Python isn't the only option for programming machine learning applications: there’s a growing group of developers who use JavaScript to run machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/4-benefits-using-javascript-for-machine-learning-syndication",
-      "originalUrl": "https://thenextweb.com/news/4-benefits-using-javascript-for-machine-learning-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FJavaScript-machine-learning-deep-learning.jpeg&signature=cc02d26357590de1ead2f924ecd2ecc4",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-25T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

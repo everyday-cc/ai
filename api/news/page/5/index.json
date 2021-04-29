@@ -2,6 +2,480 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-22-build-an-event-based-tracking-solution-using-amazon-lookout-for-vision.md",
+      "title": "Build an event-based tracking solution using Amazon Lookout for Vision",
+      "excerpt": "Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV). With Amazon Lookout for Vision, manufacturing companies can increase quality and reduce operational costs by quickly identifying differences in images of",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-event-based-tracking-solution-using-amazon-lookout-for-vision/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-event-based-tracking-solution-using-amazon-lookout-for-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/14/1-Architecture2271.jpg",
+          "width": 800,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T12:32:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-zombies-robots-and-big-unknowns-lurk-as-the-us-economy-recovers-from-pandemic.md",
+      "title": "Zombies, robots and big unknowns lurk as the U.S. economy recovers from pandemic",
+      "excerpt": "Some unanswered questions about the U.S. economy post-pandemic could set off a chain of consequences like dominos and impact career and investment goals",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504",
+      "originalUrl": "https://www.marketwatch.com/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-328162/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504",
+      "publishedDateTime": "2021-04-22T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-rossen-reports-tricks-to-land-a-job-in-the-age-of-artificial-intelligence.md",
+      "title": "Rossen Reports: Tricks to land a job in the age of artificial intelligence",
+      "excerpt": "I'm getting you the inside tips, millions of resumes and cover letters uploaded to job postings on sites like CareerBuilder linked in and zip recruiter. Now employers are trying to stop a bottleneck of applications getting you into a job faster with artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wdsu.com/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129",
+      "originalUrl": "https://www.wdsu.com/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/jobapplications-htv-1619121674.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wdsu.com/amp/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129",
+      "cdnAmpWebUrl": "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129",
+      "publishedDateTime": "2021-04-22T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WDSU",
+        "domain": "wdsu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-deep-instincts-neural-networks-for-cybersecurity-attract-100m.md",
+      "title": "Deep Instinct’s neural networks for cybersecurity attract $100M",
+      "excerpt": "Deep Instinct announced it has raised $100 million to accelerate deployment of its deep learning cybersecurity models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/",
+      "originalUrl": "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Guy-Caspi-Headshot-2-e1619053142805.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/",
+      "publishedDateTime": "2021-04-22T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-how-to-contextualize-double-click-understanding-palantirs-and-ibms-ai-ambitions.md",
+      "title": "How To Contextualize Double Click - Understanding Palantir's And IBM's AI Ambitions",
+      "excerpt": "The market currently underestimates the synergetic potential that Palantir's (PLTR) Foundry and IBM's Watson will likely unlock within Artificial Intelligence over the next decade.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4420621-how-to-contextualize-double-click-understanding-palantir-and-ibm-ai-ambitions",
+      "originalUrl": "https://seekingalpha.com/article/4420621-how-to-contextualize-double-click-understanding-palantir-and-ibm-ai-ambitions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-leader-in-ai-research-introduces-object-manipulation-in-robotics-testing-scenario.md",
+      "title": "Leader in AI Research Introduces Object Manipulation in Robotics Testing Scenario",
+      "excerpt": "The Allen Institute for AI (AI2) announced the 3.0 release of its embodied artificial intelligence framework AI2-THOR, which adds active object manipulation to its already impressive testing framework.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af",
+      "originalUrl": "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars.md",
+      "title": "Not Many Realize That There Is Crossover Tech That Crisscrosses Self-Driving Cars And Human-Driven Cars",
+      "excerpt": "Crossover tech from self-driving cars to human-driven cars is a thing, though this must be done with sensibility else the result could be disastrous.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60809f29e3ebdeeea10bb05d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5871%26cropY1%3D217%26cropY2%3D2969",
+          "width": 1199,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/amp/",
+      "publishedDateTime": "2021-04-22T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-a-whale-of-a-tale-about-responsibility-and-ai.md",
+      "title": "A whale of a tale about responsibility and AI",
+      "excerpt": "A couple of years ago, Google AI for Social Good’s Bioacoustics team created a ML model that helps the scientific community detect the presence of humpback whale sounds using acoustic recordings. This tool, developed in partnership with the National Oceanic and Atmospheric Association, helps biologists",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/",
+      "originalUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/keyframe_whale_ai.max-1300x1300.png",
+          "width": 1300,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/whale-tale-about-responsibility-and-ai/amp/",
+      "publishedDateTime": "2021-04-22T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water.md",
+      "title": "AI for good: Tech company and nonprofits protect forests, track river pollution and deliver clean water",
+      "excerpt": "DataRobot offers training and support to help organizations build sustainable solutions for environmental problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/22/7797a070-8d12-4d4f-ba59-94f49b431bcc/resize/1200x/ebd4809db499445bc5bf0080b51815dc/gettyimages-482130569.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
+      "publishedDateTime": "2021-04-22T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-brainchip-simplifies-deep-learning-with-launch-of-metatf.md",
+      "title": "BrainChip Simplifies Deep Learning with Launch of MetaTF",
+      "excerpt": "The MetaTF development environment is an easy-to-use, complete machine learning framework for the creation, training and testing of neural networks, supporting the development of systems for Edge AI on BrainChip’s Akida event domain neural processor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html",
+      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/34/53471e9b-4634-5c50-b107-4ed265e2a7e7/60818531e5d3c.image.jpg?resize=1140%2C630",
+          "width": 1140,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings.md",
       "title": "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings",
       "excerpt": "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption.",
@@ -714,472 +1188,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028.md",
-      "title": "Artificial Intelligence (AI) & advanced Machine Learning (ML) Market Size, Share, Development Analysis, Progression Status by 2028",
-      "excerpt": "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2% in 2028, according to latest analysis by Emergen Research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028-2021-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028-2021-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-birmingham-artificial-intelligence-tech-firm-secures-10-million-in-funding.md",
-      "title": "Birmingham artificial intelligence tech firm secures $10 million in funding",
-      "excerpt": "A Birmingham startup has secured $10 million in funding for its content generation business. Copysmith announced the investment through a partnership with Harmony Ventures Labs, and funds advised by PSG Equity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.al.com/business/2021/04/birmingham-artificial-intelligence-tech-firm-secures-10-million-in-funding.html",
-      "originalUrl": "https://www.al.com/business/2021/04/birmingham-artificial-intelligence-tech-firm-secures-10-million-in-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-global-cognitive-computing-market-2020-covid-19-impact-analysis-size-share-growth-trends-and-forecast-opportunities-to-2026.md",
-      "title": "Global Cognitive Computing Market 2020 COVID-19 Impact Analysis, Size, Share, Growth, Trends And Forecast Opportunities To 2026",
-      "excerpt": "Understand the influence of COVID-19 on the Cognitive Computing Market with our analysts monitoring the situation across the globe. Cognitive Computing Market analysis covering the period 2021 to 2026.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/21/global-cognitive-computing-market-2020-covid-19-impact-analysis-size-share-growth-trends-and-forecast-opportunities-to-2026/",
-      "originalUrl": "https://ksusentinel.com/2021/04/21/global-cognitive-computing-market-2020-covid-19-impact-analysis-size-share-growth-trends-and-forecast-opportunities-to-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mccourier.com/wp-content/uploads/2021/03/Market-Trends.jpg",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-hives-cloud-hosted-machine-learning-models-draw-85m.md",
-      "title": "Hive’s cloud-hosted machine learning models draw $85M",
-      "excerpt": "Hive wants to encourage machine learning in the cloud by allowing enterprises to access hosted ML models via APIs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/21/hives-cloud-hosted-machine-learning-models-draw-85m/",
-      "originalUrl": "https://venturebeat.com/2021/04/21/hives-cloud-hosted-machine-learning-models-draw-85m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Hive-Content-Moderation-Landscape.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/21/hives-cloud-hosted-machine-learning-models-draw-85m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/hives-cloud-hosted-machine-learning-models-draw-85m/amp/",
-      "publishedDateTime": "2021-04-21T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-eu-outlines-ambitious-artificial-intelligence-regulations-focused-on-risky-uses.md",
-      "title": "EU outlines ambitious artificial intelligence regulations focused on risky uses",
-      "excerpt": "Risky uses of artificial intelligence that threaten people's safety or rights such as live facial scanning should be banned or tightly controlled, European Union officials said Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stripes.com/eu-outlines-ambitious-artificial-intelligence-regulations-focused-on-risky-uses-1.670657",
-      "originalUrl": "https://www.stripes.com/eu-outlines-ambitious-artificial-intelligence-regulations-focused-on-risky-uses-1.670657",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.stripes.com/polopoly_fs/1.670658.1619029655!/image/image.jpg_gen/derivatives/landscape_490/image.jpg",
-          "width": 490,
-          "height": 327,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stars and Stripes",
-        "domain": "stripes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-google-ethical-ai-groups-turmoil-began-long-before-public-unraveling.md",
-      "title": "Google Ethical AI Group’s Turmoil Began Long Before Public Unraveling",
-      "excerpt": "The ouster of lead researchers Gebru, Mitchell followed years of friction over how Google handled allegations of harassment and bias",
-      "sourceUrl": null,
-      "webUrl": "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362",
-      "originalUrl": "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1593363!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/margaret-mitchell-photographer-chona-kasinger-bloomberg.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362.amp.html",
-      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362.amp.html",
-      "publishedDateTime": "2021-04-21T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bnnbloomberg",
-        "domain": "bnnbloomberg.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-google-turmoil-exposes-cracks-long-in-making-for-top-ai-watchdog.md",
-      "title": "Google Turmoil Exposes Cracks Long in Making for Top AI Watchdog",
-      "excerpt": "Gebru had emerged as one of a handful of artificial intelligence researchers who was ... Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSRM08lQd4Tc/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai.md",
-      "title": "IBM Launches New Watson Capabilities to Help Businesses Build Trustworthy AI",
-      "excerpt": "today announced new capabilities for IBM Watson designed to help businesses build trustworthy AI. These capabilities further expand Watson tools designed to help businesses govern and explain AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/04/n20727354/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/n20727354/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20727354",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20727354",
-      "publishedDateTime": "2021-04-21T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-5-things-to-know-about-ibms-earnings-report.md",
-      "title": "5 Things to Know About IBM's Earnings Report",
-      "excerpt": "Here are five key things to know about IBM's results. IBM offers a public cloud platform similar to market leaders Amazon Web Services and Microsoft Azure, but the company's main focus is on hybrid cloud computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F622197%2Fibmz_01_ships-3.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
-      "publishedDateTime": "2021-04-21T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-how-ibm-watson-is-helping-clients-build-trust-in-data-models-and-processes.md",
-      "title": "How IBM Watson is helping clients build trust in data, models and processes",
-      "excerpt": "Through my role as Chief AI Officer at IBM, I have the privilege of working with organizations to ensure they have a holistic approach to AI. We do that by helping businesses design AI strategies, set guiding principles, and infuse responsible AI products with intent and purpose throughout their business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/ibm-watson-trust-data-models-processes/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/ibm-watson-trust-data-models-processes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/1153_AI_Innovation_RC_Blog_Leadspace_990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T07:30:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

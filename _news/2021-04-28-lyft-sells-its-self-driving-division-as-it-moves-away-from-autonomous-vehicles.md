@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 636
         isCached: true
+  - title: "CityLab Daily: Toyota Is Building a City for Self-Driving Cars"
+    excerpt: "Also today: a look at southern California’s battle with drought, and could Pittsburgh to be a hub for Black venture capital?"
+    publishedDateTime: 2021-04-28T17:11:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-daily-toyota-is-building-a-city-for-self-driving-cars"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iScKzdV._Y9A/v0/1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Toyota's acquisition of Lyft's self-driving unit bolsters its automation ambitions"
     excerpt: "Toyota Motor Corp will acquire Lyft Inc's self-driving technology unit for $550 million, the companies said, as the Japanese firm steps up its automation ambitions with the newly created Woven Planet division."
     publishedDateTime: 2021-04-27T02:43:00Z
@@ -184,6 +198,22 @@ related:
       - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/09/Lyft-1.jpg"
         width: 590
         height: 441
+        isCached: true
+  - title: "Toyota creates “dream team” self-driving unit after buying Lyft’s Level 5 technology"
+    excerpt: "Toyota's Woven Planet division creates self driving \"dream team\" after buying the Level 5 business of ride-hailing company Lyft."
+    publishedDateTime: 2021-04-29T02:06:00Z
+    webUrl: "https://thedriven.io/2021/04/29/toyota-creates-dream-team-self-driving-unit-after-buying-lyfts-level-5-technology/"
+    ampWebUrl: "https://thedriven.io/2021/04/29/toyota-creates-dream-team-self-driving-unit-after-buying-lyfts-level-5-technology/amp/"
+    cdnAmpWebUrl: "https://thedriven-io.cdn.ampproject.org/c/s/thedriven.io/2021/04/29/toyota-creates-dream-team-self-driving-unit-after-buying-lyfts-level-5-technology/amp/"
+    type: article
+    provider:
+      name: thedriven
+      domain: thedriven.io
+    quality: 37
+    images:
+      - url: "https://thedriven.io/wp-content/uploads/2020/08/2021-toyota-hilux.jpg"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Toyota buys Lyft self-driving car division for $550 million"
     excerpt: "Lyft and Toyota subsidiary Woven Planet announced a deal where the latter will take over the self-driving car division of the former for $550 million in"
@@ -373,6 +403,6 @@ related:
       domain: techbooky.com
     quality: 2
 
-secured: "T3h9w4TYqfy9ok61vQy9EmK3I1TCLJ1i8psUlPhfLdivgJIQgw8NFCN3AVPdNfGz50uV2b9V+KACbSNJ+ifgk+SozJi6wn73svnMxdXXxaYfk4kRl6/SbBdHkV5MJbFabZmZWRteS5ht0jvnEBvtifmDaQ72WesqCIzzu9FTJfhZ2ILtTdBROCPCaHcFQXS+06AbzsBHNfZ26W1odIDNSyW7SiJgvfcjKLwe4icqd/KaF0J2wDxRQlAr6Ie/rTkzXiOkJFkeZrbgN/IvCh83zTwMLRjMSCUWTIHt5unGAlsYhDlaA6yNUkv35yjRCk/J+N5jyjWtAFS0A+0i5r56zYjUcg55aKVa3TFs/TDgGtc=;8rRfuKTqBPhS8ZDlcTwcXw=="
+secured: "h+FhwMjEjJdnPagTxdrksREql9i9P2ZiMfwEDrxjGROL9AZD535C/KjBHp5rULE3WTBPNpjhSu9HkAAcg8HaF3RdLd2UWbINPfurOhNnJrQnGaWLQu480/NJJUAdao+7OGyseAj3RwshkjSYzmxGah0YFkoAZMOfdArgqTWIfwKjGIN3+5YRZvZXnydkCZ4f6y2a3Gu2JoM14TYYnPB4oQBKINL3dwk2Ur+X5DLKoo4hXmp+TBwxPckW9EYoteP3v3Mds7o5yrOB/R7Q41QG20JyJAqd0VmE9ybOp5v4zvuf6oJ9OlcUJ0my9Apur62vazxaHJ5SA6F8+9ZvOlCoe4eWCsblMe8KmsnyaRKmmhxLkft5yDvjKFgk2LB+aXilAVP6cCJUAzKwz8G7zHI31wQFJQzDJ5+3UxSQ+ZI5vvrn2Z9puv7ApaoOZk0sR5kMRfDafYqZjPqEsyaNJWqMxBJNQIhpwrJeO8mUg84PTo+jDHf5OfQVx1dTu1iyRmRukWA5fPoBAYT8sXlGsg1cMA==;C+atQNDcHmMbJOe6ezo+Xg=="
 ---
 

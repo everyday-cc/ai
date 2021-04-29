@@ -2,6 +2,775 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-13-nvidia-announces-new-gpu-collaborations-latest-dpu-for-ai-computing-at-data-centres.md",
+      "title": "Nvidia announces new GPU collaborations, latest DPU for AI computing at data centres",
+      "excerpt": "Nvidia announced a series of collaborations that will combine Nvidia GPUs and software with Arm-based GPUs, extending Arm's flexible, energy-efficient architecture to computing workloads from the cloud to the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecompaper.com/news/nvidia-announces-new-gpu-collaborations-latest-dpu-for-ai-computing-at-data-centres--1379238",
+      "originalUrl": "https://www.telecompaper.com/news/nvidia-announces-new-gpu-collaborations-latest-dpu-for-ai-computing-at-data-centres--1379238",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecompaper",
+        "domain": "telecompaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-big-shake-up-due-to-covid-19-on-natural-language-processing-nlp-in-healthcare-and-life-sciences-market.md",
+      "title": "Big Shake up due to COVID-19 on Natural Language Processing (NLP) in Healthcare and Life Sciences Market",
+      "excerpt": "In addition many governments are taking several initiatives to support the organizations during the COVID 19 pandemic period For instance the UK government has launched future fund for UK based companies and they can apply for a loan amount of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp",
+      "originalUrl": "https://www.openpr.com/news/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U413109506_g.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp",
+      "publishedDateTime": "2021-04-13T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-aireverie-appoints-former-nvidia-deep-learning-guru-aayush-prakash-as-head-of-machine-learning.md",
+      "title": "AI.Reverie Appoints Former NVIDIA Deep Learning Guru Aayush Prakash as Head of Machine Learning",
+      "excerpt": "\"He brings incredible experience, unparalleled expertise and deep industry knowledge to AI.Reverie and our clients.” Prakash is renowned in the field of machine learning and recognized as one of the foremost synthetic data researchers in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210413005853/aireverie-appoints-former-nvidia-deep-learning-guru-aayush-prakash-as-head-of-machine-learning",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210413005853/aireverie-appoints-former-nvidia-deep-learning-guru-aayush-prakash-as-head-of-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai.md",
+      "title": "Fractal offers AI software on AWS, accelerating digital transformation with cloud AI",
+      "excerpt": "Additionally, AWS offers connectivity with high- performance cloud data warehouses like Amazon Redshift. About Fractal Fractal is one of the most prominent players in the Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-1030297527",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-1030297527",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-pragma-hires-former-aws-executive-as-new-cto.md",
+      "title": "Pragma hires former AWS executive as new CTO",
+      "excerpt": "Pragma, the independent algorithmic trading technology provider that leverages artificial intelligence for equities and foreign exchange trading, has appointed Steve Cooper as its new Chief Technology Officer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/87061/pragma-hires-former-aws-executive-as-new-cto",
+      "originalUrl": "https://www.finextra.com/pressarticle/87061/pragma-hires-former-aws-executive-as-new-cto",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-innovative-solar-energy-forecasting-project-awarded-googleorg-funding.md",
+      "title": "Innovative solar energy forecasting project awarded Google.org funding",
+      "excerpt": "Open Climate Fix, a nonprofit green tech software development lab, has been awarded more than half-a-million pounds in funding from Google.org to revolutionise cloud forecasting for solar energy generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pv-magazine.com/press-releases/innovative-solar-energy-forecasting-project-awarded-google-org-funding/",
+      "originalUrl": "https://www.pv-magazine.com/press-releases/innovative-solar-energy-forecasting-project-awarded-google-org-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pv magazine International",
+        "domain": "pv-magazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-big-techs-guide-to-talking-about-ai-ethics.md",
+      "title": "Big Tech’s guide to talking about AI ethics",
+      "excerpt": "AI researchers often say good machine learning is really more art than science. The same could be said for effective public relations. Selecting the right words to strike a positive tone or reframe the conversation about AI is a delicate task: done well,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/",
+      "originalUrl": "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/MIT_Words_Final.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/amp/",
+      "publishedDateTime": "2021-04-13T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-theres-nothing-nuanced-about-microsofts-plans-for-voice-recognition-technology.md",
+      "title": "There’s Nothing Nuanced About Microsoft’s Plans For Voice Recognition Technology",
+      "excerpt": "Microsoft's acquisition of Nuance, announced on Monday, has ended up closing at $19.7 billion, up 23% from the company’s share price on Friday, which makes it Microsoft’s second-largest acquisition after LinkedIn in June 2016 for $26.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/enriquedans/2021/04/13/theres-nothing-nuanced-about-microsofts-plans-for-voice-recognition-technology/",
+      "originalUrl": "https://www.forbes.com/sites/enriquedans/2021/04/13/theres-nothing-nuanced-about-microsofts-plans-for-voice-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607553e0a328a435c3742dce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1942%26cropY1%3D225%26cropY2%3D1135",
+          "width": 1199,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/enriquedans/2021/04/13/theres-nothing-nuanced-about-microsofts-plans-for-voice-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2021/04/13/theres-nothing-nuanced-about-microsofts-plans-for-voice-recognition-technology/amp/",
+      "publishedDateTime": "2021-04-13T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-supermicro-expands-nvidia-ampere-architecture-based-gpu-product-line-for-enterprise-ai.md",
+      "title": "Supermicro Expands NVIDIA Ampere Architecture-based GPU Product Line for Enterprise AI",
+      "excerpt": "Featured at NVIDIA GTC21, the New Generation of Supermicro NVIDIA-Certified Systems Deliver up to 4.8 TB/sec GPU Interconnect, a 1:1 GPU to Network Card Ratio, and Support for Air or Liquid Cooling So",
+      "sourceUrl": null,
+      "webUrl": "https://tass.com/press-releases/1277131",
+      "originalUrl": "https://tass.com/press-releases/1277131",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tass.com/press-releases/1277131/amp",
+      "cdnAmpWebUrl": "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1277131/amp",
+      "publishedDateTime": "2021-04-13T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TASS",
+        "domain": "tass.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-deep-learning-model-to-maximize-lifespan-after-liver-transplant.md",
+      "title": "Deep Learning model to maximize lifespan after liver transplant",
+      "excerpt": "Researchers from University Health Network have developed and validated an innovative deep learning model to predict a patient's long-term outcome after receiving a liver transplant.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-liver.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-deep-maximize-lifespan-liver-transplant.amp",
+      "publishedDateTime": "2021-04-13T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-artificial-intelligence-in-transportation-market-to-see-explosive-growth-by-2026-magna-continental-alphabet.md",
+      "title": "Artificial Intelligence in Transportation Market to See Explosive Growth by 2026 | Magna, Continental, Alphabet",
+      "excerpt": "Latest added Global Artificial Intelligence in Transportation Market research study by AMA Research offers detailed outlook and elaborates market review till 2026. The market Study is segmented by key regions that are accelerating the marketization.",
+      "sourceUrl": null,
+      "webUrl": "https://industribune.net/news/48789/artificial-intelligence-in-transportation-market-to-see-explosive-growth-by-2026-magna-continental-alphabet/",
+      "originalUrl": "https://industribune.net/news/48789/artificial-intelligence-in-transportation-market-to-see-explosive-growth-by-2026-magna-continental-alphabet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indus Tribune",
+        "domain": "industribune.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-microsoft-buying-speech-recognition-firm-in-16b-deal.md",
+      "title": "Microsoft buying speech recognition firm in $16B deal",
+      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health care industry through Nuance’s widely used medical dictation and transcription tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesrepublican.com/news/money-markets/2021/04/microsoft-buying-speech-recognition-firm-in-16b-deal/",
+      "originalUrl": "https://www.timesrepublican.com/news/money-markets/2021/04/microsoft-buying-speech-recognition-firm-in-16b-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ogden_images.s3.amazonaws.com/www.timesrepublican.com/images/2021/04/13010153/AP21102458179095-1100x817.jpg",
+          "width": 1100,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T23:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Republican",
+        "domain": "timesrepublican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-aws-summit-online-india-decode-the-power-of-the-cloud-and-build-for-the-future.md",
+      "title": "AWS Summit Online India: Decode the power of the Cloud and build for the future",
+      "excerpt": "Get them answered by AWS experts during live chats. AWS DeepRacer League: During the online summit, participants will get to watch the world's first autonomous racing league that is powered by ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/04/aws-summit-online-decode-cloud-build-future",
+      "originalUrl": "https://yourstory.com/2021/04/aws-summit-online-decode-cloud-build-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/aws-summit-3-800x400-1618291440664.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/04/aws-summit-online-decode-cloud-build-future/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/aws-summit-online-decode-cloud-build-future/amp",
+      "publishedDateTime": "2021-04-12T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-ecovacs-robotics-introduces-the-deebot-n8-family-in-indonesia.md",
+      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Indonesia",
+      "excerpt": "The DEEBOT N8 Family dToF laser detection has doubled the distance recognition capabilities with a four-fold improvement in object recognition. Detection distance is enhanced to 10 meters ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia",
+      "originalUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-logitech-and-baidu-brian-partner-to-transform-the-way-we-work-using-ai-and-voice.md",
+      "title": "Logitech and Baidu Brian Partner to Transform the Way We Work Using AI and Voice",
+      "excerpt": "“We saw an opportunity to leverage the power of Baidu AI to bring fast ... and enable smooth communication for people with language barriers.” Compatible with both Windows and Mac computers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210412006053/en/Logitech-and-Baidu-Brian-Partner-to-Transform-the-Way-We-Work-Using-AI-and-Voice",
+      "originalUrl": "https://www.businesswire.com/news/home/20210412006053/en/Logitech-and-Baidu-Brian-Partner-to-Transform-the-Way-We-Work-Using-AI-and-Voice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-microsoft-adds-speech-recognition.md",
+      "title": "Microsoft adds speech recognition",
+      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health ...",
+      "sourceUrl": null,
+      "webUrl": "https://journalgazette.net/business/20210413/microsoft-adds-speech-recognition",
+      "originalUrl": "https://journalgazette.net/business/20210413/microsoft-adds-speech-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Journal Gazette",
+        "domain": "journalgazette.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-neuralink-and-beyond-how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks.md",
+      "title": "Neuralink And Beyond- How Machine Learning Will Enable Technologies That Anticipate What The Brain Thinks",
+      "excerpt": "Brain-machine interfaces - or brain-computer interfaces, the terms are used interchangeably - are technologies designed to directly ‘‘plug’ into the nervous system: the brain, retinas in the eyes (which are actually a part of the brain itself),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/",
+      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606f78e1c80df8df6e0b0c6d%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/amp/",
+      "publishedDateTime": "2021-04-12T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-new-algorithm-can-predict-which-genes-cause-cancer.md",
+      "title": "New algorithm can predict which genes cause cancer",
+      "excerpt": "A team of researchers in Berlin combined a wide variety of data, analyzed it with \"Artificial Intelligence\" and identified numerous cancer genes. This opens up new perspectives for targeted cancer therapy in personalized medicine and for the development of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210413/New-algorithm-can-predict-which-genes-cause-cancer.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210413/New-algorithm-can-predict-which-genes-cause-cancer.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210413/New-algorithm-can-predict-which-genes-cause-cancer.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210413/New-algorithm-can-predict-which-genes-cause-cancer.aspx",
+      "publishedDateTime": "2021-04-12T21:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-nvidia-unveils-quantum-computing-simulation-tools-strengthens-grip-on-gpu-accelerated-ai.md",
+      "title": "Nvidia unveils quantum computing simulation tools, strengthens grip on GPU accelerated-AI",
+      "excerpt": "Nvidia has unveiled a software library called cuQuantum that can help scientists better understand the behaviour of quantum computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/",
+      "originalUrl": "https://www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techgoondu.com/wp-content/uploads/2021/04/Image-Grace-255543607271cab6bb18.97771987.jpg",
+          "width": 2000,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/?amp",
+      "cdnAmpWebUrl": "https://www-techgoondu-com.cdn.ampproject.org/c/s/www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/?amp",
+      "publishedDateTime": "2021-04-12T21:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Goondu",
+        "domain": "techgoondu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-microsoft-acquires-voice-recognition-company-for-20b.md",
       "title": "Microsoft acquires voice recognition company for $20b",
       "excerpt": "Microsoft has bought artificial intelligence-powered speech recognition firm Nuance for $20 billion, the tech giant’s second largest acquisition ever. It was revealed on Monday that Microsoft would be purchasing Nuance,",
@@ -266,853 +1035,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps.md",
-      "title": "Nvidia unveils Grace ARM-based CPU for giant-scale AI and HPC apps",
-      "excerpt": "Nvidia today unveiled its Grace ARM-based processor for giant-scale artificial intelligence and high-performance computing applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/grace.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/amp/",
-      "publishedDateTime": "2021-04-12T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-microsoft-boosts-conversational-ai-with-197-billion-nuance-deal.md",
-      "title": "Microsoft Boosts Conversational AI with $19.7 Billion Nuance Deal",
-      "excerpt": "said Nuance’s technology will enable Microsoft to augment the conversational AI capabilities of its Azure cloud, Dynamics 365 and Teams. “We believe we’ll be able to deliver AI-driven digital engagement solutions for any industry scenario,” Guthrie ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelfutures.com/mergers-and-acquisitions/microsoft-boosts-conversational-ai-with-19-7-billion-nuance-deal",
-      "originalUrl": "https://www.channelfutures.com/mergers-and-acquisitions/microsoft-boosts-conversational-ai-with-19-7-billion-nuance-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.channelfutures.com/files/2021/04/Microsoft-Voice-Tech-in-Action.jpg",
-          "width": 1054,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "channelfutures",
-        "domain": "channelfutures.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-microsoft-buying-speech-recognition-firm-nuance-in-16b-deal.md",
-      "title": "Microsoft Buying Speech Recognition Firm Nuance in $16B Deal",
-      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/business/articles/2021-04-12/microsoft-buying-nuance-in-deal-worth-197b",
-      "originalUrl": "https://www.usnews.com/news/business/articles/2021-04-12/microsoft-buying-nuance-in-deal-worth-197b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-nvidias-jarvis-offers-real-time-machine-translation.md",
-      "title": "Nvidia’s Jarvis Offers Real-Time Machine Translation",
-      "excerpt": "The Jarvis translation platform announced during this ... Nvidia (NASDAQ: NVDA) promotes Jarvis as a GPU-accelerated deep learning AI platform for speech recognition and generation, language understanding and translations. “Jarvis interacts in about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/04/12/nvidias-jarvis-offers-real-time-machine-translation/",
-      "originalUrl": "https://www.datanami.com/2021/04/12/nvidias-jarvis-offers-real-time-machine-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2014/09/speech_recognition_1.png",
-          "width": 492,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition.md",
-      "title": "Billions of smartphone owners will soon be authorising payments using facial recognition",
-      "excerpt": "New analysis shows that facial recognition and other biometric authentication technologies will increasingly help to keep mobile payments safe from fraudsters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/",
-      "originalUrl": "https://www.zdnet.com/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2017/08/22/82e3afc0-54a8-4948-8a37-e1dc3bfac28d/nfcpayment.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/",
-      "publishedDateTime": "2021-04-12T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-aja-adopts-nvidia-solutions-for-ai-driven-systems.md",
-      "title": "AJA Adopts NVIDIA Solutions for AI-Driven Systems",
-      "excerpt": "NVIDIA Jetson is an AI computing platform for GPU-accelerated parallel processing in embedded solutions, while NVIDIA Clara AGX, which is built on NVIDIA Jetson AGX",
-      "sourceUrl": null,
-      "webUrl": "https://www.avnetwork.com/news/aja-adopts-nvidia-solutions-for-ai-driven-systems",
-      "originalUrl": "https://www.avnetwork.com/news/aja-adopts-nvidia-solutions-for-ai-driven-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/JQoFKnNZWb5q4VBHvgktha-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AV Network",
-        "domain": "avnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-inspur-information-introduces-three-ai-servers-among-first-to-support-nvidia-a30-and-nvidia-a10-gpus.md",
-      "title": "Inspur Information Introduces Three AI Servers, Among First to Support NVIDIA A30 and NVIDIA A10 GPUs",
-      "excerpt": "At NVIDIA GTC 2021, Inspur Information, a leading IT infrastructure solutions provider, introduced three new GPU servers (NF5468M6, NF5468A5 and NF5280M6), which fully support the latest NVIDIA ® A30,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210412005383/en/Inspur-Information-Introduces-Three-AI-Servers-Among-First-to-Support-NVIDIA-A30-and-NVIDIA-A10-GPUs",
-      "originalUrl": "https://www.businesswire.com/news/home/20210412005383/en/Inspur-Information-Introduces-Three-AI-Servers-Among-First-to-Support-NVIDIA-A30-and-NVIDIA-A10-GPUs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-microsoft-finds-winning-combination-of-ai-and-medtech-with-new-acquisition.md",
-      "title": "Microsoft Finds Winning Combination of AI and Medtech with New Acquisition",
-      "excerpt": "Microsoft is set to acquire Nuance, a cloud and AI software specialist with a focus on healthcare, for $19.7 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/microsoft-finds-winning-combination-ai-and-medtech-new-acquisition",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/microsoft-finds-winning-combination-ai-and-medtech-new-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Apr122021at34915PM.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-artificial-intelligence-research-at-duke.md",
-      "title": "Artificial Intelligence Research at Duke",
-      "excerpt": "Artificial Intelligence research at Duke covers everything from health to enhancing photos to machine learning. See what some Duke researchers are doing in the field. AI for Everyone Was An Academic G",
-      "sourceUrl": null,
-      "webUrl": "https://today.duke.edu/2021/04/artificial-intelligence-research-duke",
-      "originalUrl": "https://today.duke.edu/2021/04/artificial-intelligence-research-duke",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://today.duke.edu/sites/default/files/styles/story_body/public/art_artificial_intelligence.jpg?itok=wWjAKVBO",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chronicle",
-        "domain": "duke.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-supermicro-expands-its-nvidia-ampere-architecture-gpu-product-line-includes-5pf-in-a-4u-tier-1-ai-platform.md",
-      "title": "Supermicro Expands Its Nvidia Ampere Architecture GPU Product Line, Includes 5PF in a 4U Tier 1 AI Platform",
-      "excerpt": "Server maker Supermicro today announced expansion of its Nvidia Ampere Architecture-based GPU-product line, including achieving 5 petaFLOPS of AI performance in a 4U form factor with the latest NVIDIA A100,",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/04/supermicro-expands-its-nvidia-ampere-architecture-gpu-product-line-includes-5pf-in-a-4u-tier-1-ai-platform/",
-      "originalUrl": "https://insidehpc.com/2021/04/supermicro-expands-its-nvidia-ampere-architecture-gpu-product-line-includes-5pf-in-a-4u-tier-1-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-coinbase-expected-to-become-worth-more-than-bp.md",
-      "title": "Coinbase expected to become worth more than BP",
-      "excerpt": "Cambridge Quantum Computing, a company that makes software for quantum computers, announced that it has hired DeepMind’s former Senior Staff Research Scientist, Professor Stephen Clark ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/",
-      "originalUrl": "https://www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2021/03/24/TELEMMGLPICT000254079929_trans_NvBQzQNjv4BqOTom2IDArMR5JububTrAx-tnFTrpsYaAoL1DebmRBSo.jpeg",
-          "width": 2501,
-          "height": 1563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/amp/",
-      "publishedDateTime": "2021-04-12T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-ai-stock-picking-mutual-fund-from-ibm-watson.md",
-      "title": "AI Stock Picking Mutual Fund from IBM Watson",
-      "excerpt": "He holds an MBA, B.S. and B.A. from UC Berkeley. In this 3,367 word interview, Mr. Natividad describes the AI based mutual fund powered by IBM’s Watson that he and his colleagues have created. “AIEQ is the ticker, and it is the first AI-powered equity ETF.",
-      "sourceUrl": null,
-      "webUrl": "https://www.twst.com/news/ai-stock-picking-mutual-fund-from-ibm-watson/",
-      "originalUrl": "https://www.twst.com/news/ai-stock-picking-mutual-fund-from-ibm-watson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.twst.com/wp-content/uploads/2021/04/ChrisNatividad-1.jpg",
-          "width": 1200,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Wall Street Transcript",
-        "domain": "twst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-legaltech-artificial-intelligence-market-outlook-on-emerging-application-revolutionary-trends-potential-growth-strategies-2027.md",
-      "title": "LegalTech Artificial Intelligence Market - Outlook On Emerging Application, Revolutionary Trends & Potential Growth Strategies 2027",
-      "excerpt": "The business intelligence study on global LegalTech Artificial Intelligence market presents an aerial snapshot of the growth dynamics With the help of data backed primary and secondary research the report presents crucial information regarding various drivers and restraints in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging",
-      "originalUrl": "https://www.openpr.com/news/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U412411471_g.jpg",
-          "width": 626,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269185/legaltech-artificial-intelligence-market-outlook-on-emerging",
-      "publishedDateTime": "2021-04-12T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-what-microsofts-197-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech.md",
-      "title": "What Microsoft's $19.7 billion purchase of Nuance could mean for AI and speech tech",
-      "excerpt": "Carlsson said of Monday's news, \"This has been proceeded by a major shakeup internally in Microsoft when it comes to AI—both organizationally (key Azure Cognitive Services individuals are now at Oracle) and technically (the services are being ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/what-microsofts-19-7-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech/",
-      "originalUrl": "https://www.techrepublic.com/article/what-microsofts-19-7-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/12/3518d643-217e-4ace-aa3f-eaf2e9360af5/resize/1200x/e684b41809444853af05cb5db997b971/microsoft-nuance-logos.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/what-microsofts-19-7-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-microsofts-19-7-billion-purchase-of-nuance-could-mean-for-ai-and-speech-tech/",
-      "publishedDateTime": "2021-04-12T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-more-than-the-sum-of-mutations-165-new-cancer-genes-identified-with-the-help-of-machine-learning.md",
-      "title": "More than the sum of mutations: 165 new cancer genes identified with the help of machine learning",
-      "excerpt": "A new algorithm can predict which genes cause cancer, even if their DNA sequence is not changed. A team of researchers in Berlin combined a wide variety of data, analyzed it with \"Artificial Intelligence\" and identified numerous cancer genes.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/morethanthes.jpg",
-          "width": 1000,
-          "height": 1300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.amp",
-      "publishedDateTime": "2021-04-12T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-doubling-down-on-ai-microsoft-to-acquire-nuance-for-197b.md",
-      "title": "Doubling down on AI, Microsoft to acquire Nuance for $19.7B",
-      "excerpt": "Microsoft Corp. will pay $19.7 billion to acquire Nuance Communications Inc., a company that uses artificial intelligence to help physicians create medical notes faster. The hefty price tag of the transaction,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/04/12/doubling-ai-microsoft-acquire-nuance-19-7b/",
-      "originalUrl": "https://siliconangle.com/2021/04/12/doubling-ai-microsoft-acquire-nuance-19-7b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/microsoft.png",
-          "width": 768,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-nvidias-grace-ai-chip-leaves-intel-processors-behind.md",
-      "title": "Nvidia's Grace AI chip leaves Intel processors behind",
-      "excerpt": "Subscribe to CNET Now for the day's most interesting reviews, news stories and videos. The new chip should let AI customers run computing tasks that are vastly more complex than is possible with today's chip designs, a step toward the general artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
-      "originalUrl": "https://www.cnet.com/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/0xKtTu7axsZ2jSmw7JvDg6sWLIY=/1200x630/2021/04/12/80c1b4b1-4ff2-4ee2-bb6a-8b6b81c5b60f/nvidia-grace-processor.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
-      "publishedDateTime": "2021-04-12T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-nvidia-completely-re-imagines-the-data-center-for-ai.md",
-      "title": "NVIDIA Completely Re-Imagines The Data Center For AI",
-      "excerpt": "NVIDIA has used its wildly popular GPU Technology Conference (GTC) to announce new products for AI applications. However, this year the big reveal a new NVIDIA Arm CPU tightly coupled with a GPU to enable massive Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607475a5a82d88e6bcfe3ed8%2F0x0.jpg",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/amp/",
-      "publishedDateTime": "2021-04-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-nvidia-unveils-grace-deep-learning-cpu-for-supercomputing-applications.md",
-      "title": "Nvidia Unveils ‘Grace’ Deep-Learning CPU for Supercomputing Applications",
-      "excerpt": "Nvidia is already capitalizing on its ARM acquisition with a massively powerful new CPU-plus-GPU combination that it claims will speed up the training of large machine-learning models by a factor of 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/computing/321738-nvidia-grace-cpu",
-      "originalUrl": "https://www.extremetech.com/computing/321738-nvidia-grace-cpu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2021/04/Nvidia-Grace-CPU.jpg",
-          "width": 1344,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

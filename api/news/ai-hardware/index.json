@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-29-qa-vivienne-sze-on-crossing-the-hardwire-software-divide-for-efficient-ai.md",
+      "title": "Q&A: Vivienne Sze on crossing the hardwire-software divide for efficient AI",
+      "excerpt": "Vivienne Sze is an MIT researcher who is co-designing artificial intelligence hardware and software to be more energy efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/vivienne-sze-crossing-hardwire-software-divide-efficient-ai-0428",
+      "originalUrl": "https://news.mit.edu/2021/vivienne-sze-crossing-hardwire-software-divide-efficient-ai-0428",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202104/vivienne-sze-mit-00.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-amd-bets-on-strong-demand-for-chips-as-revenue-soars-93.md",
       "title": "AMD bets on strong demand for chips as revenue soars 93%",
       "excerpt": "AMD raised its annual revenue forecast on Tuesday, betting on strong demand for its chips used in data centers and personal computers.",
@@ -114,7 +166,7 @@
       "originalUrl": "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -242,6 +294,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-nvidia-geforce-rtx-3050-ti-rtx-3050-gpu-clocks-tgp-other-specs-leaked-by-lenovo.md",
+      "title": "Nvidia GeForce RTX 3050 Ti, RTX 3050 GPU Clocks, TGP, Other Specs Leaked By Lenovo",
+      "excerpt": "The specs of the unannounced Nvidia GeForce RTX 3050 Ti and RTX 3050 have been leaked by the Chinese multinational tech company Lenovo. A recent report from Videocardz revealed that Lenovo accidentally listed its new Legion gaming notebooks housing the unannounced Nvidia GeForce RTX 3050 Ti and GeForce RTX 3050 GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/nvidia-geforce-rtx-3050-ti-rtx-3050-gpu-clocks-tgp-other-specs-leaked-lenovo-3185062",
+      "originalUrl": "https://www.ibtimes.com/nvidia-geforce-rtx-3050-ti-rtx-3050-gpu-clocks-tgp-other-specs-leaked-lenovo-3185062",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/14/geforce-rtx-30-series-laptops-ultimate-play.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1273,110 +1368,6 @@
         "name": "insideHPC",
         "domain": "insidehpc.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-nvidias-grace-ai-chip-leaves-intel-processors-behind.md",
-      "title": "Nvidia's Grace AI chip leaves Intel processors behind",
-      "excerpt": "Subscribe to CNET Now for the day's most interesting reviews, news stories and videos. The new chip should let AI customers run computing tasks that are vastly more complex than is possible with today's chip designs, a step toward the general artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
-      "originalUrl": "https://www.cnet.com/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/0xKtTu7axsZ2jSmw7JvDg6sWLIY=/1200x630/2021/04/12/80c1b4b1-4ff2-4ee2-bb6a-8b6b81c5b60f/nvidia-grace-processor.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-grace-ai-chip-leaves-intel-processors-behind/",
-      "publishedDateTime": "2021-04-12T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-nvidia-completely-re-imagines-the-data-center-for-ai.md",
-      "title": "NVIDIA Completely Re-Imagines The Data Center For AI",
-      "excerpt": "NVIDIA has used its wildly popular GPU Technology Conference (GTC) to announce new products for AI applications. However, this year the big reveal a new NVIDIA Arm CPU tightly coupled with a GPU to enable massive Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607475a5a82d88e6bcfe3ed8%2F0x0.jpg",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/04/12/nvidia-completely-re-imagines-the-data-center-for-ai/amp/",
-      "publishedDateTime": "2021-04-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

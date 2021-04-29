@@ -51,6 +51,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Computer Vision Software Market Investment Analysis | Microsoft, AWS, OpenCV"
+    excerpt: "Global Computer Vision Software Market Report is an objective and in-depth study of the current state aimed at the major drivers, market strategies, and key players growth. The study also involves the important Achievements of the market,"
+    publishedDateTime: 2021-04-26T12:57:00Z
+    webUrl: "https://ksusentinel.com/2021/04/26/computer-vision-software-market-investment-analysis-microsoft-aws-opencv/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 70
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Global-Computer-Vision-Software-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
   - title: "ASUS announces Azure Percept Collaboration with Microsoft"
     excerpt: "Azure Percept DK provides an end-to-end platform for prototyping edge AIoT solutions Easing edge AI difficulties: ASUS and Microsoft collaborating to enable quick and easy prototyping of scenario-based edge AI solutions Azure Percept DK: Pilot-ready development kit integrates deeply with Azure AI,"
     publishedDateTime: 2021-04-28T07:30:00Z
@@ -64,6 +78,20 @@ related:
       - url: "https://technosports.co.in/wp-content/uploads/2021/04/AZURE-Percept-DK-wthBox-696x464.png"
         width: 696
         height: 464
+        isCached: true
+  - title: "Artificial Intelligence Software Market Impact Analysis for the New Normal| Ipsoft, H2O.ai, Brighterion, Ada Support, Microsoft"
+    excerpt: "Artificial Intelligence Software Market is growing at a 33.10% CAGR during the forecast period 2020-2026. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
+    publishedDateTime: 2021-04-27T12:12:00Z
+    webUrl: "https://ksusentinel.com/2021/04/27/artificial-intelligence-software-market-impact-analysis-for-the-new-normal-ipsoft-h2o-ai-brighterion-ada-support-microsoft/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 43
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/A2Z-Market-Research-16-P-199.png"
+        width: 552
+        height: 308
         isCached: true
   - title: "Microsoft sees revenue boost from growth in cloud services"
     excerpt: "Cloud services are becoming more and more important to Microsoft's business. Its Intelligent Cloud services revenue was up 23% year over year."
@@ -79,6 +107,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+    excerpt: "Provides assurance and observability support for telco-clouds running on Azure LONDON, UK – MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs),"
+    publishedDateTime: 2021-04-28T13:09:00Z
+    webUrl: "https://realwire.com/releases/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: realwire.com
+      domain: realwire.com
+    quality: 34
 
 secured: "/ZEq+at7g+pBviYapk6aC7smdAWdoMt4K33mqEUNv+Gq1u3bDhUEpDxvqYyWXcMJGIBdKe13P4wceLOA+kaaVP2SYrCwEr+jHR2ERlCxMjMe/UN910SHefIa5cD+JB8cyt733OwZVr9SJdf75QGPCjDv/WcQVlPl+HSTCT4lyvVhSEzrwu+bfgiRKPWo6GnR213kj02OBXKypvcxvgv3bQyUldZndE+fzOZUTUc/cFMCX5Tig6S3L1EneMnYEK39W3Z49JfFCXvE6abN68A8ojf1TeT6fU1fxydGGdt15mvF546ZpusoQE3TVAOq5pAGTHIDQilgGeCkR74FfPwG2RluFIfo+5XolFs1w7aDH4nr1imFTwCkiqRsUmu41Nc5uTgLjFLTgKf2RxfyO/O8S24jOh7aY2RgUNheHCZLX240BMHbCbnFhuwa7cS0jikz+6VPrBnkJ1IOMIw4HkkmTHlOv6K4BuaatUCY5F6erdem3H41pH/vI2agCmezbzmmCuVjeiOidBTO51fpIthsBw==;coMpprPU8jDgTjXzFbJ3ww=="
 ---

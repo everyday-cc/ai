@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-20-40-women-leading-the-way-in-ai-innovation.md",
+      "title": "40 women leading the way in AI innovation",
+      "excerpt": "IBM's annual list of Women Leaders in artificial intelligence includes women from 18 countries who serve in a variety of roles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/40-women-leading-the-way-in-ai-innovation/",
+      "originalUrl": "https://www.techrepublic.com/article/40-women-leading-the-way-in-ai-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-ibms-project-debater-showcases-next-gen-ai-driven-productivity.md",
       "title": "IBM’s Project Debater showcases next-gen AI-driven productivity",
       "excerpt": "I’ve been following IBM’s Watson effort since the beginning — and its initial focus on winning the game Jeopardy. This early effort was just a taste of what this platform could do. Years later, I attended the introduction of Project Debater,",

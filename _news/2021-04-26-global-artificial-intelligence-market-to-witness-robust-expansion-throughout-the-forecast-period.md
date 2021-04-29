@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "In-Car Speech Recognition Market 2021 Recent Trends and Growth Forecast by 2026 |Nuance, VoiceBox, Fuetrek, Iflytek, AMI Technologies, etc"
+    excerpt: "Latest research on Global In-Car Speech Recognition Market report covers forecast and analysis on a worldwide, regional and country level. The study provides historical information of 2016-2021 together with a forecast from 2021 to 2026 supported by both volume and revenue (USD million)."
+    publishedDateTime: 2021-04-27T10:48:00Z
+    webUrl: "https://ksusentinel.com/2021/04/27/in-car-speech-recognition-market-2021-recent-trends-and-growth-forecast-by-2026-nuance-voicebox-fuetrek-iflytek-ami-technologies-etc/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 5
+    images:
+      - url: "https://marketsresearchreport.com/wp-content/uploads/2021/01/11-1.jpg"
+        width: 576
+        height: 324
+        isCached: true
 
 secured: "z2PGCcZHr9OdLc+NEQr2GLdfpejVJP4lTVJhAFVQgfYY8tWcQB33UeYAstdUwNCiAIN9p+GjTEGdn3wuVgJ/vBc7HMgmclqp2rzyjhwUcSmuywRa23+gxPp0/jfJJ1mnGhtdLpemmnqSKjj98igPpn8PY8CQt5iKu5U50wkxguvkcWY64uMxgyB/GK7YNmEf9roC/g5t8jOA+Jvjk/UDFGVLoMCI7Ls3rjKQfU1J3L6mNZyl6iBjBH4e+tgQWBnP7A96ICaEppQeMw0/GwwsKu/pLjXvc18A9YiPeKPXntjDMFSFlsohtDcLUECP58yyDilfusUCv1rYcvaoUtD1DvLpJgX754nQo2ZO4WINCKE=;OEjM6PpqsOsF2Fg+o9yp3g=="
 ---

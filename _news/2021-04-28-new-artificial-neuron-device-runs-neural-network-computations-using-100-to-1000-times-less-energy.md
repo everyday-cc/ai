@@ -8,8 +8,8 @@ webUrl: "https://scitechdaily.com/new-artificial-neuron-device-runs-neural-netwo
 ampWebUrl: "https://scitechdaily.com/new-artificial-neuron-device-runs-neural-network-computations-using-100-to-1000-times-less-energy/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-neuron-device-runs-neural-network-computations-using-100-to-1000-times-less-energy/amp/"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://scitechdaily.com/images/Activation-Device-Array-777x567.jpg"
@@ -26,6 +27,6 @@ images:
     height: 567
     isCached: true
 
-secured: "aAfus77BPph7Kgsjc61sgbGWm3Fd/hmzuAyq1swj41z5DAabnOP9tgE7kODrqXRhjX57de4pK3oT1OS9olYxDZDPQ60n9iurPit0O8YW0G2e5CDmN++UVGM4rNcf4PEPD+YM03mZI2XphjP0S22SCE6osimYgMa9FDbEM6jb821paq3jZHqL6nDyWrex1kt7KHcfOb9i1T7eAiOgREYRrULLBftO4ctvyfl7x7l598Rjg+KH391vF1LH7JQF4KUh6krbUbv2+38NMXNlY5hznHM5Dbxeh+c9h9wGv0s0gj8Xn37UyT781j4afPF7prsQktGhba4Gga9ocVwRKWPNjxfD0EwSSnPghBGqKkr/GRI=;izXtweEa+d/ZAtZNdbaZ8A=="
+secured: "M4163rnk65IjvoKXyVBq3IL0Dnszw/D72MXWLBfXL1fCjbt19fJRg4o8EbS6C/E/aCW1PffMRKIjOlfmVbD5un2vUcVSFL1iwdBcDrNno3FEcm+ZPUTqmJESFESOjRs/RPGrkyv6/YzCt/hq/JJqPpkIlTV1B67a1jdeUIsZOSjLUHMAWlM52b2lvQz6TyXm/wlo/Epmb1M8Pfr36WSxRABimx7UV1ALWaGCYF1kopIC3myEASETDp+lRe+BTHwoIHixraWl6q/QTZ01DJsdTRsbdC+3BZq3iJ9ELBZX53E8aWCu2uNN4uK+CRIkuzUIfa470FZVknvobXtHt9oay7Y1kA6lpPkYjp38ipp3xo8JQDUGUkvWO2VUuzY7iqmbCNoS30Nk7/tRuVjRGnZfhPcvtnkLJD0kpIHBQirUeYzeY15mbhdiV+sNZgEO6B6IYHiXIEsaMyHQTAsqAs+ythBPSK6GmBPDcZH+RXBEgVLDqX0H8hRejPhubHO573MdMwYr58pWkdUh8OGPuYJScA==;HhK+RavLdkS/N6gF2opnqg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/9-he
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/9-healthcare-ai-companies-to-watch-in-2021-per-forbes.html"
 type: article
 quality: 54
-heat: 95
+heat: 104
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1276009/Lilt_Logo_Large_Logo.jpg?p=facebook"
         width: 797
         height: 419
+        isCached: true
+  - title: "Samsara Listed as One of America’s Most Promising Artificial Intelligence Companies by Forbes AI 50"
+    excerpt: "Samsara, the pioneer of the Connected Operations Cloud, has been named one of America’s top artificial intelligence companies according to Forbes. The Forbes AI 50 list, in its third year, includes a list of private North American companies using artificial intelligence in ways that are fundamental to their operations,"
+    publishedDateTime: 2021-04-28T18:06:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/health-coronavirus-business-technology-artificial-intelligence-362e0bd05bb3854257f0f1d73215d80a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 40
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "rGzUVA+NeL51Os7RQd8kUFTFqConGqHJ8qbuSsKockxV+QqqChM2JUuNsCZvD2tR7/4LISA8Z56cZNrqjsHKYkE1SoxS66GCnYTzDvFyqjhvACg4t2Lqq/K4embCO4+d7AK4hIZS7XuS27MicDzrkKWfXiR0iAbnW87j7Y6S01FsfgWD0n1vLhSTMlw5qRTUld+qil0p1ss7xgWnooT5kJcGVK5AeBlNsQaTwNyxKuDD8fF2C6v/Bn1jkErZ3hZKMiQgyopJBV7skn401rLzuYIEdBrAw6j/CqGhf3mF0qufuwxhsI2lqGDpBkQH4dN3/TZCxN06wuhxhw+58EmTHgnWdEHWp6v0/IIxOpSTSCk=;E1RIlq0Ka96BYskSWKB+GQ=="

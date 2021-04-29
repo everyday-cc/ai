@@ -41,6 +41,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Researchers develop new protocols to validate integrity of machine-learning models"
+    excerpt: "Machine learning is widely used in various applications such as image recognition, autonomous vehicles and email filtering. Despite its success, concerns about the integrity and security of a model's predictions and accuracy are on the rise."
+    publishedDateTime: 2021-04-28T20:32:00Z
+    webUrl: "https://techxplore.com/news/2021-04-protocols-validate-machine-learning.html"
+    ampWebUrl: "https://techxplore.com/news/2021-04-protocols-validate-machine-learning.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-protocols-validate-machine-learning.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 38
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/3-ai.jpg"
+        width: 1800
+        height: 1920
+        isCached: true
 
 secured: "ybErkXI8q3kLKTVc6K4lVsRv7aG2zkA+qecJMcPoi57/CD20wa2AY1v02CGhEy7e3agFKTozjOrSUHFmMH+YhtLOuahLj3JzqM7HmB1hnNxLiCK4KhwSeGqUppioeG2xSwCs6z/XSX9mcE4Sc3XNbpSxRY8h2pUC7UCF5KzBd0iMXGJuuK47z3CMbZLS1+kd0bull+lapVwFmt4m1Ww0DO4oIakZQ4XvSj+FrBiuBE9AlGFdKKaLkklpAL0eFZijLMHABoLN3av7uDTIGV6E5BNlQkDAf9MlsUx+4bs/mIynaNk7espBZZpdk/l6HeJdgUQ4rIrQTAJuj7HcKG84CHDS/CYYnD2pOhqOnk6pucXikt0bbmSUjieKbtS8w2Gn8XOQ9u5gMqwZ+niybg1+p74iqkzI0uz0C98DZQ3jMkw7YiZ9LqL8lX1/68OKD2v7H3bk3h4MFZ0F/MYAs2+nSq6pfBx3jjtRjfCrZdPFRIorzlmSP9hJyhm4j8nhAEOiCsQ9gKYPE5vzybk3+bmeAg==;9nQHb5Cxr+tRaDWJLy5oRg=="
 ---

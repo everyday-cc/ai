@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-29-when-artists-and-machine-intelligence-come-together.md",
+      "title": "When artists and machine intelligence come together",
+      "excerpt": "Throughout history, from photography to video to hypertext, artists have pushed the expressive limits of new technologies, and artificial intelligence is no exception. At I/O 2019, Google Research and Google Arts &amp; Culture launched the Artists + Machine Intelligence Grants, providing a range of support",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/",
+      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMI_Grants__Six_Artists.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/amp/",
+      "publishedDateTime": "2021-04-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-the-scout-moorebot-is-a-roving-security-camera-robot-thatll-patrol-your-home.md",
       "title": "The Scout Moorebot is a roving security camera robot that’ll patrol your home",
       "excerpt": "The Scout is a tiny, smart A.I.-powered security drone with four wheels and a camera that automatically patrols your home and yard.",
@@ -110,7 +162,7 @@
       "originalUrl": "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -823,6 +875,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-15-nvidia-and-cloudflare-offer-ai-to-all-developers.md",
+      "title": "NVIDIA and Cloudflare offer AI to all developers",
+      "excerpt": "Cloudflare also announced it will support TensorFlow, the open source tool for testing machine learning models, so developers will have access to familiar tools to help build applications before ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/nvidia-and-cloudflare-offer-ai-to-all-developers/",
+      "originalUrl": "https://www.techrepublic.com/article/nvidia-and-cloudflare-offer-ai-to-all-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/17/ef2d24f5-d94d-4419-b3a6-d0409ade6e70/resize/1200x/b1f36729c5a29c4533e53d420729de85/istock-1245973664.jpg",
+          "width": 1200,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/nvidia-and-cloudflare-offer-ai-to-all-developers/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nvidia-and-cloudflare-offer-ai-to-all-developers/",
+      "publishedDateTime": "2021-04-14T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-machine-learning-artificial-intelligence-market-2020-is-anticipated-to-witness-high-growth-by-2027-aibrainamazonankicloudmindsdeepmindgoogle.md",
       "title": "Machine Learning Artificial intelligence Market 2020 is anticipated to Witness High Growth by 2027 | AIBrain,Amazon,Anki,CloudMinds,Deepmind,Google",
       "excerpt": "The latest Machine Learning Artificial intelligence Market Report estimates the current market opportunities and scenario, providing information and updates on the corresponding segments involved in the global Machine Learning Artificial intelligence market for the forecast period 2021-2027.",
@@ -1288,92 +1392,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-edmonton-alberta-on-the-short-list-for-global-players.md",
-      "title": "Edmonton, Alberta: On The Short List For Global Players",
-      "excerpt": "This is why Google’s DeepMind chose the Edmonton region for its first international lab. “We’re going to solve AI,” says Adam White, senior researcher at DeepMind, “and we’re going to ...",
-      "sourceUrl": null,
-      "webUrl": "https://businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/",
-      "originalUrl": "https://businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.businessfacilities.com/wp-content/uploads/2021/04/BF-JanFeb21_Edmonton_1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/amp/",
-      "cdnAmpWebUrl": "https://businessfacilities-com.cdn.ampproject.org/c/s/businessfacilities.com/2021/04/edmonton-alberta-on-the-short-list-for-global-players/amp/",
-      "publishedDateTime": "2021-04-05T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Facilities",
-        "domain": "businessfacilities.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-gpt-neo-the-open-source-cure-for-gpt-3-fomo.md",
-      "title": "GPT-Neo: The Open-Source Cure For GPT-3 FOMO",
-      "excerpt": "GPT-3 was the largest language model when OpenAI released it last year. Now, Google Brain’s 1.6 trillion parameters language model (as opposed to GPT-3’s 175 billion parameters) has replaced GPT-3 as the largest language model.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/gpt-neo-the-open-source-cure-for-gpt-3-fomo/",
-      "originalUrl": "https://analyticsindiamag.com/gpt-neo-the-open-source-cure-for-gpt-3-fomo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Illustrations-7.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-04T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

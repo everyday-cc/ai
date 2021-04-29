@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-29-innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india.md",
+      "title": "InnovationRx: Artificial Intelligence 50; Plus Covid Treatments In India",
+      "excerpt": "W hile some industries were devastated by the Covid-19 pandemic, funding kept flowing to startups using artificial intelligence to solve business challenges. Several healthcare companies made the annual Forbes AI 50 list,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/",
+      "originalUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608a05213e5ebbca00f583aa%2F0x0.jpg",
+          "width": 1200,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/amp/",
+      "publishedDateTime": "2021-04-28T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-ai-system-can-effectively-detect-common-wrist-fractures.md",
+      "title": "AI system can effectively detect common wrist fractures",
+      "excerpt": "An automated system that uses artificial intelligence (AI) is effective at detecting a common type of wrist fracture on X-rays, according to a study published in the journal Radiology: Artificial Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210428/AI-system-can-effectively-detect-common-wrist-fractures.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210428/AI-system-can-effectively-detect-common-wrist-fractures.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210428/AI-system-can-effectively-detect-common-wrist-fractures.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210428/AI-system-can-effectively-detect-common-wrist-fractures.aspx",
+      "publishedDateTime": "2021-04-28T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-artificial-intelligence-in-security-market-trends-2021-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research.md",
       "title": "Artificial Intelligence in Security Market: Trends 2021: Share and Competitive Landscape Forecast to 2024 | Says Kenneth Research",
       "excerpt": "Kenneth Research has published a detailed report on Artificial Intelligence in Security Market, which has been",
@@ -117,7 +212,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/9-healthcare-ai-companies-to-watch-in-2021-per-forbes.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -561,6 +656,41 @@
       ]
     },
     {
+      "path": "_news/2021-04-21-ai-based-medical-image-analysis-market-outlook-2021-ge-healthcare-ibm-watson-health-philips-healthcare-samsung-medtronic.md",
+      "title": "AI-based Medical Image Analysis Market Outlook 2021 – GE Healthcare, IBM Watson Health, Philips Healthcare, Samsung, Medtronic",
+      "excerpt": "The Global AI-based Medical Image Analysis Market is expected to reach approximate CAGR of 5.3% by 2025. Click Here to Get Free Sample PDF Copy of Latest Research on AI-based Medical Image Analysis Market 2021 Before Purchase:  The prominent players in the Global AI-based Medical Image Analysis Market: GE Healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/21/ai-based-medical-image-analysis-market-outlook-2021-ge-healthcare-ibm-watson-health-philips-healthcare-samsung-medtronic/",
+      "originalUrl": "https://ksusentinel.com/2021/04/21/ai-based-medical-image-analysis-market-outlook-2021-ge-healthcare-ibm-watson-health-philips-healthcare-samsung-medtronic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-jpmorgan-chase-vows-again-to-address-banker-burnout-live-updates.md",
       "title": "JPMorgan Chase Vows, Again, to Address Banker Burnout: Live Updates",
       "excerpt": "JPMorgan Chase’s co-heads of investment banking, Jim Casey and Viswas Raghavan, announced policies aimed at improving working conditions amid record deal volume and",
@@ -721,6 +851,41 @@
       ]
     },
     {
+      "path": "_news/2021-04-20-computer-vision-in-healthcare-market-insights-status-latest-amendments-and-outlook-2020-2026.md",
+      "title": "Computer Vision in Healthcare Market Insights, Status, Latest Amendments And Outlook 2020-2026",
+      "excerpt": "Latest COVID-19 updated report published by FNF Research (fnfresearch.com) titled “ global Computer Vision in Healthcare market analysis and forecast 2020-2026 ” includes information on the industry’s growth prospects,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/20/computer-vision-in-healthcare-market-insights-status-latest-amendments-and-outlook-2020-2026/",
+      "originalUrl": "https://ksusentinel.com/2021/04/20/computer-vision-in-healthcare-market-insights-status-latest-amendments-and-outlook-2020-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-carnegie-learning-acquires-zorbits-math-to-strengthen-its-supplemental-software-offerings.md",
       "title": "Carnegie Learning Acquires Zorbit's Math to Strengthen Its Supplemental Software Offerings",
       "excerpt": "Carnegie Learning, a leader in artificial intelligence for education and formative assessment, announced today the acquisition of Zorbit's Math, a supplemental math software solution and curriculum that uses game-based adaptive learning to",
@@ -762,6 +927,40 @@
         "AI in Healthcare",
         "AI",
         "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-artificial-intelligence-in-healthcare-market.md",
+      "title": "Artificial Intelligence in Healthcare Market",
+      "excerpt": "This report studies the Artificial Intelligence in Healthcare Market size, industry status and forecast, competition landscape and growth opportunity. This research report categorizes the Artificial Intelligence in Healthcare Market by companies,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/19/artificial-intelligence-in-healthcare-market-2021-global-insights-on-trends-covid-19-impact-analysis-regulatory-landscape-growth-opportunities-mergers-acquisitions-and-future-outlook-intel/",
+      "originalUrl": "https://ksusentinel.com/2021/04/19/artificial-intelligence-in-healthcare-market-2021-global-insights-on-trends-covid-19-impact-analysis-regulatory-landscape-growth-opportunities-mergers-acquisitions-and-future-outlook-intel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -890,6 +1089,41 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-18-global-natural-language-processing-nlp-in-healthcare-market-evolving-trends-and-opportunities-in-covid-19-pandamic-end-by-2027.md",
+      "title": "Global Natural Language Processing (NLP) in Healthcare Market Evolving Trends and Opportunities in COVID-19 pandamic end by 2027",
+      "excerpt": "Syndicate Market Research’s Latest Report ‘ Global Natural Language Processing (NLP) in Healthcare Market 2021 ‘ Analyses Research Methodology overview including Primary Research, Secondary Research,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/18/global-natural-language-processing-nlp-in-healthcare-market-evolving-trends-and-opportunities-in-covid-19-pandamic-end-by-2027/",
+      "originalUrl": "https://ksusentinel.com/2021/04/18/global-natural-language-processing-nlp-in-healthcare-market-evolving-trends-and-opportunities-in-covid-19-pandamic-end-by-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-17T23:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI",
         "AI in Healthcare"
       ]
@@ -1100,286 +1334,6 @@
         "name": "News Medical",
         "domain": "news-medical.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-artificial-intelligence-research-at-duke.md",
-      "title": "Artificial Intelligence Research at Duke",
-      "excerpt": "Artificial Intelligence research at Duke covers everything from health to enhancing photos to machine learning. See what some Duke researchers are doing in the field. AI for Everyone Was An Academic G",
-      "sourceUrl": null,
-      "webUrl": "https://today.duke.edu/2021/04/artificial-intelligence-research-duke",
-      "originalUrl": "https://today.duke.edu/2021/04/artificial-intelligence-research-duke",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://today.duke.edu/sites/default/files/styles/story_body/public/art_artificial_intelligence.jpg?itok=wWjAKVBO",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chronicle",
-        "domain": "duke.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-more-than-the-sum-of-mutations-165-new-cancer-genes-identified-with-the-help-of-machine-learning.md",
-      "title": "More than the sum of mutations: 165 new cancer genes identified with the help of machine learning",
-      "excerpt": "A new algorithm can predict which genes cause cancer, even if their DNA sequence is not changed. A team of researchers in Berlin combined a wide variety of data, analyzed it with \"Artificial Intelligence\" and identified numerous cancer genes.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/morethanthes.jpg",
-          "width": 1000,
-          "height": 1300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.amp",
-      "publishedDateTime": "2021-04-12T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-ramps-up-focus-on-healthcare-ai-with-197b-nuance-acquisition.md",
-      "title": "Microsoft ramps up focus on healthcare AI with $19.7B Nuance acquisition",
-      "excerpt": "They formed a partnership in October 2019 that began by adding Nuance’s note-taking ambient AI to Microsoft’s Azure cloud computing service so it could be more easily integrated into healthcare providers’ electronic health record platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercebiotech.com/medtech/microsoft-ramps-up-focus-healthcare-ai-19-7b-acquisition-nuance",
-      "originalUrl": "https://www.fiercebiotech.com/medtech/microsoft-ramps-up-focus-healthcare-ai-19-7b-acquisition-nuance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1618239120/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png/Screen%20Shot%202020-04-01%20at%202.53.09%20PM.png?qudK_nywquIfw3O_HYthho9tDPC8zEQ5",
-          "width": 884,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-to-buy-nuance-in-a-197b-deal-to-expand-healthcare-ai-cloud-capabilities.md",
-      "title": "Microsoft to buy Nuance in a $19.7B deal to expand healthcare AI, cloud capabilities",
-      "excerpt": "Nuance provides AI expertise and customer engagement solutions across interactive voice response (IVR), virtual assistants, and digital and biometric solutions. Microsoft plans to combine these capabilities with its cloud, including Azure, Teams ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercehealthcare.com/tech/microsoft-to-buy-nuance-for-nearly-20b-to-expand-healthcare-ai-cloud-capabilities",
-      "originalUrl": "https://www.fiercehealthcare.com/tech/microsoft-to-buy-nuance-for-nearly-20b-to-expand-healthcare-ai-cloud-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercehealthcare/1618238863/452292684-5a3b047ae73a1.jpg/452292684-5a3b047ae73a1.jpg?aH.519AnpRSf0BhCSyFD1DPvjxYYII3f",
-          "width": 5237,
-          "height": 3054,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fierce Healthcare",
-        "domain": "fiercehealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-artificial-intelligence-ai-market-research-report-growth-forecast-2025.md",
-      "title": "Artificial Intelligence (AI) Market Research Report Growth Forecast 2025",
-      "excerpt": "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-research-report-growth-forecast-2025-2021-04-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19.md",
-      "title": "30 Under 30 Europe 2021: Changing The World From Artificial Intelligence To Covid-19",
-      "excerpt": "Healthcare and Science list. These researchers, innovators and business leaders are changing the world with everything from new cancer treatments to artificial intelligence. The list includes talented people working within Europe, as well as Europeans who ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/",
-      "originalUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b91b7ac889ee96a51d99b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3240%26cropY1%3D0%26cropY2%3D1823",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/amp/",
-      "publishedDateTime": "2021-04-07T20:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

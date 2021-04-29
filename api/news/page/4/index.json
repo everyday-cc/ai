@@ -2,6 +2,481 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-23-best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business.md",
+      "title": "Best-selling biscuit brand leverages IBM hybrid cloud and AI to boost business",
+      "excerpt": "HR and procurement AI: IBM will use IBM Watson Studio to design a performance management framework, monitoring business processes and advocate for an appropriate product mix, faster planning and scheduling, and optimization of supply chain costs Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
+      "originalUrl": "https://www.techrepublic.com/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/23/cf57977a-339f-47ca-a9c3-232b140459b5/resize/1200x/6307c769b08bc1bb15ba9b3346faf9ff/parle.jpg",
+          "width": 1200,
+          "height": 963,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
+      "publishedDateTime": "2021-04-23T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-3-top-fintech-stocks-to-buy-now.md",
+      "title": "3 Top Fintech Stocks to Buy Now",
+      "excerpt": "Fintech stocks have been white-hot over the past year ... and Upstart tackles both with its AI-enhanced software. Rather than rely on traditional credit scores, which often exclude lots of potential borrowers that have good-but-not-quite-great credit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/",
+      "originalUrl": "https://www.fool.com/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F622366%2Fyoung-woman-holding-credit-card-and-smartphone-and-thinking-with-chin-on-fist-online-mobile-shopping-e-commerce.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/",
+      "publishedDateTime": "2021-04-23T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-machine-learning-chips-market-size-and-latest-trends-advancement-from-2021-2027-wave-computing-graphcore-google-intel.md",
+      "title": "Machine Learning Chips Market Size and Latest Trends & Advancement From 2021-2027 | Wave Computing, Graphcore, Google, Intel",
+      "excerpt": "Machine Learning Chips Market report provides results and potential opportunities and challenges to future industry growth. Market Report acts as a valued source of information with which businesses can achieve a telescopic view of the current market trends,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/23/machine-learning-chips-market-size-and-latest-trends-advancement-from-2021-2027-wave-computing-graphcore-google-intel/",
+      "originalUrl": "https://ksusentinel.com/2021/04/23/machine-learning-chips-market-size-and-latest-trends-advancement-from-2021-2027-wave-computing-graphcore-google-intel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://breakout.live/wp-content/uploads/2021/03/report-1.gif",
+          "width": 540,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-exclusive-legion-capital-cto-j-bradley-hilton-on-ai-golegion-cryptocurrencies.md",
+      "title": "Exclusive: Legion Capital CTO J. Bradley Hilton On AI, GoLegion, Cryptocurrencies",
+      "excerpt": "leading the company's continued innovations in FinTech powered specialized business lending and direct investing platforms,” according to a company press release. Legion Capital wants to use AI to help find qualified customers that might otherwise be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/cryptocurrency/21/04/20624407/exclusive-legion-capital-cto-j-bradley-hilton-on-ai-golegion-cryptocurrencies",
+      "originalUrl": "https://www.benzinga.com/markets/cryptocurrency/21/04/20624407/exclusive-legion-capital-cto-j-bradley-hilton-on-ai-golegion-cryptocurrencies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/screenshot_2021-04-23_8.25.20_am.png",
+          "width": 569,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20624407",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20624407",
+      "publishedDateTime": "2021-04-23T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-video-see-how-a-self-driving-car-perceives-the-world.md",
+      "title": "Video: See how a self-driving car perceives the world",
+      "excerpt": "Motional has partnered with Derq to test how driverless technology reacts to a broader view of the world from a bird’s eye view. Derq, an artificial intelligence and vehicle-to-everything (V2X) vendor,",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/16635/video-see-how-a-self-driving-car-perceives-the-world",
+      "originalUrl": "https://electronics360.globalspec.com/article/16635/video-see-how-a-self-driving-car-perceives-the-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031.md",
+      "title": "Machine Learning as a Service (MLaaS) Market 2021 Rising Latest Advancements, Growing Demands and Business Opportunities by 2031",
+      "excerpt": "Market.us adopted a multidisciplinary detain during the pandemic era to focus on the revolutionary trends, growth and industry statistics along with the development of the Global Machine Learning as a Service (MLaaS) Market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031-2021-04-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031-2021-04-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-chinese-tech-titan-baidu-and-carmaking-giant-geely-to-pour-us77-billion-into-making-next-generation-smart-cars.md",
+      "title": "Chinese tech titan Baidu and carmaking giant Geely to pour US$7.7 billion into making next-generation smart cars",
+      "excerpt": "South Korean professor’s self-driving car was decades ahead of the curve Baidu, which runs one of the world’s largest open autonomous-driving platforms, and Geely have been pushing to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3130852/chinese-tech-titan-baidu-and-carmaking-giant-geely-pour-us77",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3130852/chinese-tech-titan-baidu-and-carmaking-giant-geely-pour-us77",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/23/091460d6-2c01-427f-ae03-c2339a9a1171_469c97e4.jpg?itok=9yQyWpKf&v=1619175683",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3130852/chinese-tech-titan-baidu-and-carmaking-giant-geely-pour-us77",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3130852/chinese-tech-titan-baidu-and-carmaking-giant-geely-pour-us77",
+      "publishedDateTime": "2021-04-23T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-canaan-announces-partnership-with-cathay-to-launch-ai-facial-recognition-module-and-ai-chip-in-japan.md",
+      "title": "Canaan Announces Partnership with Cathay to Launch AI Facial Recognition Module and AI Chip in Japan",
+      "excerpt": "BEIJING, April 23, 2021 (GLOBE NEWSWIRE) -- Canaan Inc. (NASDAQ: CAN) (\"Canaan\" or the \"Company\"), a leading high-performance computing solutions provider, today announced that it has entered into a partnership (the \"Partnership\") with Cathay Tri-Tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/canaan-announces-partnership-with-cathay-to-launch-ai-facial-recognition-module-and-ai-chip-in-japan-2021-04-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/canaan-announces-partnership-with-cathay-to-launch-ai-facial-recognition-module-and-ai-chip-in-japan-2021-04-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-now-for-ais-latest-trick-writing-computer-code.md",
+      "title": "Now for AI’s Latest Trick: Writing Computer Code",
+      "excerpt": "Programs such as GPT-3 can compose convincing text. Some people are using the tool to automate software development and hunt for bugs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-latest-trick-writing-computer-code/",
+      "originalUrl": "https://www.wired.com/story/ai-latest-trick-writing-computer-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/607ddafbccb11d7f69cb8148/master/pass/biz-ai-text.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-latest-trick-writing-computer-code/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-latest-trick-writing-computer-code/amp",
+      "publishedDateTime": "2021-04-23T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-artificial-intelligence-ai-in-insurance-market.md",
+      "title": "Artificial Intelligence (AI) in Insurance Market",
+      "excerpt": "The research is derived through primary and ... https://www.htfmarketreport.com/enquiry-before-buy/3183989-artificial-intelligence-23 Top Players in the Market are: - Google, IBM, Amazon, Facebook, Baidu, Apple, Nvidia, Intel, AMD, Qualcomm, iRobot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2274483/artificial-intelligence-ai-in-insurance-market-worth",
+      "originalUrl": "https://www.openpr.com/news/2274483/artificial-intelligence-ai-in-insurance-market-worth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U423807235_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2274483/artificial-intelligence-ai-in-insurance-market-worth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274483/artificial-intelligence-ai-in-insurance-market-worth",
+      "publishedDateTime": "2021-04-23T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-stop-talking-about-ai-ethics-its-time-to-talk-about-power.md",
       "title": "Stop talking about AI ethics. It’s time to talk about power.",
       "excerpt": "Now the conversation has evolved, and AI ethics has blossomed into its own field. She hopes her book will help it mature even further. I sat down with Crawford to talk about her book. Crawford: So many of the books that have been written about artificial ...",
@@ -724,480 +1199,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-build-an-event-based-tracking-solution-using-amazon-lookout-for-vision.md",
-      "title": "Build an event-based tracking solution using Amazon Lookout for Vision",
-      "excerpt": "Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV). With Amazon Lookout for Vision, manufacturing companies can increase quality and reduce operational costs by quickly identifying differences in images of",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-event-based-tracking-solution-using-amazon-lookout-for-vision/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-event-based-tracking-solution-using-amazon-lookout-for-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/14/1-Architecture2271.jpg",
-          "width": 800,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T12:32:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-zombies-robots-and-big-unknowns-lurk-as-the-us-economy-recovers-from-pandemic.md",
-      "title": "Zombies, robots and big unknowns lurk as the U.S. economy recovers from pandemic",
-      "excerpt": "Some unanswered questions about the U.S. economy post-pandemic could set off a chain of consequences like dominos and impact career and investment goals",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504",
-      "originalUrl": "https://www.marketwatch.com/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-328162/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504",
-      "publishedDateTime": "2021-04-22T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-rossen-reports-tricks-to-land-a-job-in-the-age-of-artificial-intelligence.md",
-      "title": "Rossen Reports: Tricks to land a job in the age of artificial intelligence",
-      "excerpt": "I'm getting you the inside tips, millions of resumes and cover letters uploaded to job postings on sites like CareerBuilder linked in and zip recruiter. Now employers are trying to stop a bottleneck of applications getting you into a job faster with artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtae.com/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129",
-      "originalUrl": "https://www.wtae.com/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/jobapplications-htv-1619121674.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtae.com/amp/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129",
-      "cdnAmpWebUrl": "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129",
-      "publishedDateTime": "2021-04-22T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTAE-TV",
-        "domain": "wtae.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-deep-instincts-neural-networks-for-cybersecurity-attract-100m.md",
-      "title": "Deep Instinct’s neural networks for cybersecurity attract $100M",
-      "excerpt": "Deep Instinct announced it has raised $100 million to accelerate deployment of its deep learning cybersecurity models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/",
-      "originalUrl": "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Guy-Caspi-Headshot-2-e1619053142805.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/",
-      "publishedDateTime": "2021-04-22T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-how-to-contextualize-double-click-understanding-palantirs-and-ibms-ai-ambitions.md",
-      "title": "How To Contextualize Double Click - Understanding Palantir's And IBM's AI Ambitions",
-      "excerpt": "The market currently underestimates the synergetic potential that Palantir's (PLTR) Foundry and IBM's Watson will likely unlock within Artificial Intelligence over the next decade.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4420621-how-to-contextualize-double-click-understanding-palantir-and-ibm-ai-ambitions",
-      "originalUrl": "https://seekingalpha.com/article/4420621-how-to-contextualize-double-click-understanding-palantir-and-ibm-ai-ambitions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-leader-in-ai-research-introduces-object-manipulation-in-robotics-testing-scenario.md",
-      "title": "Leader in AI Research Introduces Object Manipulation in Robotics Testing Scenario",
-      "excerpt": "The Allen Institute for AI (AI2) announced the 3.0 release of its embodied artificial intelligence framework AI2-THOR, which adds active object manipulation to its already impressive testing framework.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af",
-      "originalUrl": "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars.md",
-      "title": "Not Many Realize That There Is Crossover Tech That Crisscrosses Self-Driving Cars And Human-Driven Cars",
-      "excerpt": "Crossover tech from self-driving cars to human-driven cars is a thing, though this must be done with sensibility else the result could be disastrous.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60809f29e3ebdeeea10bb05d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5871%26cropY1%3D217%26cropY2%3D2969",
-          "width": 1199,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/amp/",
-      "publishedDateTime": "2021-04-22T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-a-whale-of-a-tale-about-responsibility-and-ai.md",
-      "title": "A whale of a tale about responsibility and AI",
-      "excerpt": "A couple of years ago, Google AI for Social Good’s Bioacoustics team created a ML model that helps the scientific community detect the presence of humpback whale sounds using acoustic recordings. This tool, developed in partnership with the National Oceanic and Atmospheric Association, helps biologists",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/",
-      "originalUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/keyframe_whale_ai.max-1300x1300.png",
-          "width": 1300,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/whale-tale-about-responsibility-and-ai/amp/",
-      "publishedDateTime": "2021-04-22T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water.md",
-      "title": "AI for good: Tech company and nonprofits protect forests, track river pollution and deliver clean water",
-      "excerpt": "DataRobot offers training and support to help organizations build sustainable solutions for environmental problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/22/7797a070-8d12-4d4f-ba59-94f49b431bcc/resize/1200x/ebd4809db499445bc5bf0080b51815dc/gettyimages-482130569.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
-      "publishedDateTime": "2021-04-22T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-brainchip-simplifies-deep-learning-with-launch-of-metatf.md",
-      "title": "BrainChip Simplifies Deep Learning with Launch of MetaTF",
-      "excerpt": "The MetaTF development environment is an easy-to-use, complete machine learning framework for the creation, training and testing of neural networks, supporting the development of systems for Edge AI on BrainChip’s Akida event domain neural processor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html",
-      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/34/53471e9b-4634-5c50-b107-4ed265e2a7e7/60818531e5d3c.image.jpg?resize=1140%2C630",
-          "width": 1140,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

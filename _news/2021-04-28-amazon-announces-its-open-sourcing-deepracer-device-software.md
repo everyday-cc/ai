@@ -38,6 +38,20 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "AWS open-sources DeepRacer machine learning software to let developers tinker at home"
+    excerpt: "AWS DeepRacer provides a fast way to learn about machine learning programming by putting it into practical terms using autonomous vehicles as a real-world example of its use. In DeepRacer’s case, it is an Ubuntu Linux-based computer on wheels powered by the Robot Operating System."
+    publishedDateTime: 2021-04-27T18:08:00Z
+    webUrl: "https://siliconangle.com/2021/04/27/aws-open-sources-deepracer-machine-learning-software-let-developers-tinker-home/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 81
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/aws-deepracer-robot.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "AWS open sources its DeepRacer machine learning software to let developers tinker at home"
     excerpt: "AWS DeepRacer provides a fast way to learn about machine learning programming by putting it into practical terms using autonomous vehicles as a real-world example of its use. In DeepRacer’s case, it is an Ubuntu Linux-based computer on wheels powered by the Robot Operating System."
     publishedDateTime: 2021-04-27T18:00:00Z

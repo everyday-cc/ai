@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-28T09:32:00Z
 originalUrl: "https://ksusentinel.com/2021/04/28/ai-in-social-media-market-2021-precise-outlook-google-facebook-microsoft-aws-ibm-twitter/"
 webUrl: "https://ksusentinel.com/2021/04/28/ai-in-social-media-market-2021-precise-outlook-google-facebook-microsoft-aws-ibm-twitter/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - AI
   - AWS AI
   - Microsoft AI
+  - Facebook AI
 
 related:
   - title: "AWS and Microsoft are not yet market leaders in IoT, but soon will be"

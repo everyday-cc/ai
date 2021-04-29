@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Covid-19 Devastated Some Industries But Accelerated AI Use By Companies Across The Country"
-    excerpt: "The Covid-19 pandemic was devastating for many industries, but it only accelerated the use of artificial intelligence across the U.S. economy. Amid the crisis, companies scrambled to create new services for remote workers and students,"
-    publishedDateTime: 2021-04-26T10:32:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/26/ai-50-americas-most-promising-artificial-intelligence-companies/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608360b00a7f489ff308c3f2%2F0x0.png%3FcropX1%3D58%26cropX2%3D1928%26cropY1%3D40%26cropY2%3D1092"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "QODKlzCMXl7HJ7lFRm/HHEPkvZ6yHTaSndzmhIBtvwKS6nZ17mI1iYOv3Rxr6o9Nfqrg1v25UErOXe4aFCPIhe+YbT/zHGovOT8c2sqSHMaJYlKnXENOknPmEuIExw8qyVrm1pz9tmeQHHLHHP8aSCXnwoOtPfDJwA/QDmXQ781xT3JnFNllTJECmwPbggrKVv/DmADx7iySwRd2iLrTa2X/pv7kRdLKXu8yTOc38Me5N/0qbLsJrbc9AHWDeGx9jUjuEithagTvaksxg3N1CCen7jJ1/ayIf3ntBXYCzQxDRo25wL5o419uwr1RJohal94lGVKvBndJTGnIHvX5iEsHqh4+GKp7w88sItbE0lg=;RpJJQzd2EUQO1MpDyjSHvg=="
 ---
