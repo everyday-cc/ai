@@ -2,7 +2,7 @@
 name: "Grok"
 overview: "The Leading AIOPS Platform For Intelligent Incident Prediction And Self-Healing Operations In IT Service Assurance"
 type: "profile"
-heat: 50
+heat: 48
 
 website: https://grokstream.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "grokstream"
   url: "https://twitter.com/grokstream"
-  followers: 553
+  followers: 552
 
 size: 11-50 employees
 yearFounded: 2015
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Grok"
 
-secured: "8rjMpNY+e3F+z8utglMeGUrbBn0nyj8b0YaxzbTGt+oHyVXce70mZFLSPO5CTtMG8wZl5KEC2KQY/9u+wkFgVX00E+psyX8kdClblcXUzpeUqq1A4DeHwTArE+orggzLtNruGYIPEajpAR+MurGspM2vaUNWpRFwvHRcsI8Z37NYPwJc6Jbe0Jz7xx60T1Bl4+TXCpjiGc6jCeIWmR1VIZYgBL8E5++4kefckVg/fZKcfli6eESM40oG0EEg9U5uodkwILkJz5QMEuihmwo+4wd3eZc86WFxEgtxUs1K6ridf1pO6yQLn6aVEzop/QzQZ1AclKNg5Vf19gBsHmF48Q3a3Hcn4ubS9l0hOg9RsgAWOS5kgi5Kz5tyOG8p8GUp2LLzwBOCVxuJtm1hZUwA4w==;uyZ7TTN6exWljfiw/QccnA=="
+secured: "ABHmY4Evyu6l1TY96yzZtzSAkBpsw4rMGirsC/nNwqEIGn9g3Xq3Thghza5D9PnVVNgcXdWXvXRWGgLjv62DSiMjJfybsQ36n6aI3vILVhMyY5nPW5TfPRfmrPZUdCTMXuwCfw04S0MpoSc8Ct8z/VsPDNokVre7OcQ/DX7ptGCBVrFm3TWMqbMa5FAfRG14iz3l3bdHXt6HeMgppU3OK6xocefPHKbqi4CHRAz1Hc9YXaqc+Wcz/8ABzS8bAurFu3SnsGd9j/YsweBhxmgshAJJqrJnXxsJc4OIPkG1gn2xdMYhlrksvoovjKFfr+gu+hbfUy+MjKS6HRh8JdM+Ul1EjJzSCdiqO8We1FgJoLJeyuXfy4vy+HceKjCXzu6LpLDgyLV9pTb6z84tikwWog==;EoYacfPEu+9+mNpw3APW3w=="
 ---
 

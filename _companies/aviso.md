@@ -2,7 +2,7 @@
 name: "Aviso"
 overview: "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North"
 type: "profile"
-heat: 51
+heat: 52
 
 website: https://www.aviso.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "AvisoInc"
   url: "https://twitter.com/AvisoInc"
-  followers: 865
+  followers: 866
 
 locations:
   - Redwood City, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Aviso"
 
-secured: "egzEfRfWGA4NbV6dUSWmex7qsEyDpGuAxB96E7seJAbGlkvXG4fNzxOGnsMguCKJB0kYWXcVY95qAsAbgy4wBKpdLLITMLqqhn+SbY6b88sfQ245mdQT8/aPNmG6UPKQYXOKe/xOQRgiUhCvld/bKcebr5bWPCSQzmuf6jCKbpVXB7yiiG1wYP40fBcq73nBq2QGC4Lakae1ODHbMm816GOKRvObzNaW7ZXKmo38iiTAjSWwhttgcddtIM2IORzI+bixJIcVePbQaP9P3XVIZ5TeyOHADBfAofB3Dmto41gH7MatLllSqSt7XhdPsdnnH6CQZty+1eLbyt/RK053VJk0EDSVD3L1yGciizkzk0Ao6jOf5yBzg8yBmlOxTTA6VWv4f6wsLeaY8Ck2VTmOZg==;vA01WkHHJs5GIgTnpjzNdQ=="
+secured: "D/mpgtDnB+T59Mr2A0ofNk7HXdhnZXXfDcrvRaKhnCpAw8S1QnHVVjjr/hhZ7NEsm5zn8DCnFB7OHHa1xj23tqZWnESqUsNVRs1WVjw1MOm1/3Kp186ZjKGkReMtDxLiPAZ4WvuzVQhqr0hG62ZlqAAtVo8f/IXN5QhZ+y1xvgMZKubTn5v97GeNlYSemgqBD1Vx8gRtEa/MS3udtD/7epyi3FaVLcZSo5coQrhSxz95YmTyRnYKpxTCGG7wUkG8OAZY8stvspzxbbIlLqO32+53FjJFYnqn+YblkSfRILlXN9XmvQ3x6s/Blymv61qzdx3K6rkA92zw2quYdjqs2+1bN7FiPJGjYfYGU8ked3xh8kFgr9OBK6EhVsrOAUSB5DNc4sExL/YEyQTBYemL1A==;cpwRLCSZwmiIlf3IMrOeUQ=="
 ---
 

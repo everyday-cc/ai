@@ -2,7 +2,7 @@
 name: "Female Founded AI Companies"
 overview: "A list of AI companies with at least one woman founder."
 type: "collection"
-heat: 63
+heat: 68
 
 
 items:

@@ -2,7 +2,7 @@
 name: "Insitro"
 overview: "A data-driven biotech advancing better medicines with predictive models, created by machine learning & biology at scale"
 type: "profile"
-heat: 108
+heat: 96
 
 website: http://www.insitro.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "insitro"
   url: "https://twitter.com/insitro"
-  followers: 2838
+  followers: 2864
 
 size: 11-50 employees
 yearFounded: 2018
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Insitro"
 
-secured: "lVxkisghz+7WMZVrk1YmuGlzvY54Cj67kOkhrMz5DzLbMVuYeEjnceGGCNyu0/4qYVA0Vd5jQgHIRhAgngfuGqRlz9cXUbEnMo+eqtWdAOrrIHwrhdRQL3KH0wAP1FK97waZQVpXryRNOvn+i/lUTfxMr6Zo/7yORlQ3TmtLzHLvWs84rq7n8rKOxBwPvz30+2strKFK3BUCooSn+Cdrb9zFZnc0xTAb101xamyEumj9ssALcnQM/oIk/o70Ne04hCVqnOFHlwMq6X4q5DmE/PU6h69enqvIJalS88yKmIHq3O8rwf+6p8U/HA0JVV7VneBFxTdP1p68fyP58JnUPUx0WcE9jtNv779KN76eAspJL/52q5fud51Cwi+EqPmGa6qdcqArC4N33hIPGIq3gOfeMy+wZLHAOeyK995bli0=;IbLDvQG/gWiD2DbGdJGX9g=="
+secured: "/SW5jkh1c0Ck0AiTo1tKDAjmTsgrERd/36IsZ3tcg6q+h3N8EnUnvUgN467GKeM21icd4bt54JyC1PZeFq7cCq2bJquy0FeD5nDFZI0swSxD1RWYajIil4Hw+oElu/JbYlgXehGmfK7+lzS97fErk0PiCqdxk5rzsdFZ5q2IWo07Cu/E5XicExdXnOUkUNyaI5xYoGPTANTBSfOHQDw3oS9rXZnTRSr0lp+PhqxaJEPTWAz+C6pu6MSZrNnkYUKyRiWFnWZZzqkQzHZBLmB4LbPy9hlH2PvipXJq8PVn5gbS67lmfKLg0Tk7sS+LvFVvKCTigKrwFztK2NlUF4erIroKR7QiSZTTzaalXjBa67izEE7+lua2O/Q6FCx3nfINWjvofgIT7XYO22M77TGVpzinoSXWVWIBJD9Lzzfnak0=;JleKtECfTEGIahlRr+dnAA=="
 ---
 

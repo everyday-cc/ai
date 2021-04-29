@@ -2,7 +2,7 @@
 name: "Ava"
 overview: "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep."
 type: "profile"
-heat: 56
+heat: 45
 
 website: https://www.avawomen.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "avawomen"
   url: "https://twitter.com/avawomen"
-  followers: 1616
+  followers: 1614
 
 size: 51-200 employees
 yearFounded: 2014
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Ok_A0kTEGpw"
 
-secured: "2bLN6NWHnyv4Nm4rPdQoKeE+UXI/oXSiccqGTIYN9lYyqbYzYAW6TFLXhrDY6AgOveRAIvj38ti4a0USxx7XbKofcKyJfNGE3hDRbxyKgm8S23F+vMPC6qATJrniBvgX6/X+SfpTW8Va61Qlj4ULXUwzdHZFuvIi7bPgyK/R+o+EnRm3USOhgDPAyNHVgq27Ss0M6Oh6PstPZlsRTom3awnkYtr+kBTNZqo9ZQCnImVlfcp8SVwv+x/wvXIY/Dw3syFCYXhOgc6j+PLkgkpxEqHYIknV0iu9u7HFmRJRKxkS3ft3q7E8hOIrYdtrbHoCiYnUY7CKM4RtoDfNSdkuXj2EwMiG/U2AfhZx6PqL0xJycY7xUzCxCQH/CM52jLXriBeedB8fy54TWD2J+3n+COrXtSce3wTt7aund2XxlU8=;XL80h5txzypyZuYWjOKzBQ=="
+secured: "2czcNTtEyhKGHwrQfuWmfgqUPGXPEoxBCzx/o0IT95vSAhtYL4PPnjdanAXUoFbsWwz08eNfsQ5Ih3ihT+pHrkA2X34wout9SedlIOYGRYd2A0DaEZrl06Z/ZzB3NfERQPBgHz+gCEXTm9sP+Rpw2u7Xno+X+lldbq0VzUcV/8gwu7zn3o7jE/C22ZAXsGSw5WcHXmuPnAQLhiWi8hgLIeYIeXREt3rF1Udw7VkJ77/EjPU0nvaFhqJMLBXnHKQ5O94sfXT3kwGJOuyg81q/puJn73CT2y8bVIgDH82JBx+oDXgdevsZD0VElHmRIZLt/LGZCHsxSq9PfoN8upXRS5SEw6X+DyfzqWJLXTA7AtgmFpprWy4165DEpfejpIzHs4U8QbmavZfdl0qjT8OQFG1KyCMHwx0OUV0c+MEsDtY=;7GWUNDUaYon4U7D+zKvO7g=="
 ---
 
