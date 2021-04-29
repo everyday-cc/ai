@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210426005131/en/Dyno-Ther
 webUrl: "https://www.businesswire.com/news/home/20210426005131/en/Dyno-Therapeutics-Names-Dr.-Debora-Marks-and-Dr.-Nicole-Paulk-to-Scientific-Advisory-Board"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,31 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Dyno Therapeutics Announces Presentations at 2021 American Society of Gene and Cell Therapy Annual Meeting"
+    excerpt: "Dyno Therapeutics, a biotech company applying artificial intelligence (AI) to gene therapy, today announced that it will deliver three oral presentations and an Industry Symposium at the 24th annual meeting of the American Society of Gene and"
+    publishedDateTime: 2021-04-27T12:25:00Z
+    webUrl: "https://www.lelezard.com/en/news-19769832.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 21
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "BioXcel Therapeutics Announces Presentations on SERENITY I & II at the 2021 American Psychiatric Association Annual Meeting"
+    excerpt: "BioXcel Therapeutics, Inc. (\"BioXcel\" or the \"Company\") (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing a"
+    publishedDateTime: 2021-04-26T11:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bioxcel-therapeutics-announces-presentations-on-serenity-i-ii-at-the-2021-american-psychiatric-association-annual-meeting-1030344726"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 8
 
 secured: "9tlR9kpTfglc8Ktwp1dBOadNm57jmflrZPeqvlgHsi3kq153aVs+n8BeDhlbhY4cU4O8DW38egQG7H+af322W/0rbPCvE6GUrHMEsoXYEhYB8jWyIA9xVi4uyLzwBDdcdE9jfGKOfd/Q62FR5UXtQMM4iNkqViFQqT2x0WgxUnA122dzkt56P7ayTPCjr0tCvpPErrG2n7nsD6bhLTWfqxSqkiWhSHxiT4PFVyqvIiz/ljYXL1+o2/bJfKYJJ/R6xJnTCfHFoha0+zZjaiffGAgLGDETj6q/JNflXojCfWrWj5tyNiSrLB4VBPwH8nO/0XHJzGFafUHv4twvgYku7SSsnX4Fq9VzfdpklcsfAAE=;O57RtcqwyvI3Lwy9H3eXGQ=="
 ---

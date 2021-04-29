@@ -41,6 +41,22 @@ related:
         width: 550
         height: 400
         isCached: true
+  - title: "IBM buys Turbonomic for AIOps, hybrid-cloud management support"
+    excerpt: "By acquiring Turbonomic, IBM gains tools that manage performance of everything from applications and containers to virtualization, cloud, and on-prem compute, storage, and network resources."
+    publishedDateTime: 2021-04-29T20:14:00Z
+    webUrl: "https://www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.html"
+    ampWebUrl: "https://www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.techhive.com/images/article/2016/11/20151027-ibm-sign-100625227-orig-100696117-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud"
     excerpt: "IBM (NYSE:IBM) today announced a definitive agreement to acquire Turbonomic, an Application Resource Management (ARM) and Network"
     publishedDateTime: 2021-04-29T15:00:00Z

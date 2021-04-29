@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/04/29/google-led-paper-pushes-back-against
 ampWebUrl: "https://venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
@@ -29,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "761M5d/+av8Neg5PnPSLm4UkR0ueTdvICJ7WxlbX8koCOjKLUDiMjtc+BPG/+/RUnk6fDjesMxNhAbV+Z4YBbsx5McvaoMHLeAsbMwkErLH0LLVMX8x+UvOe58gBK1Dr2tiXcJAxNRr2upBCSjchoRVZg1WCSE6iPZT5Jap9UofdDAH+H38f9KNYZAzNGSzOvVGzH0ikA2wE68kio5CEtmaKdZtYqkR4+n9ykcQKBoBG2lUk9rYJYDTdtzYlqb4cevAIy1yLAl9tVsrl72St0cb6MgKagK4V1EZAKNSFWfnwo66IOK03UaJA5vEd+3DL9yX27ZR+zCt5QxSEEc2vsXkdToMlFnt+PfkKBW77Vfo=;BT9f0cq/tzvgGabfW7P40Q=="
+secured: "i/KGT5T8Rh9DJ7UpEzEY5lejMn4MBkdfI2IucMMZUJw3Ah75bdNeD8BpksbtL5siH/F5a8TSHJSioYyho7JnKifUrXEs9PpKh74VTaqqw5CkNk83Ab/dBW3gtZZqUXtQ5qRO4RYMWxjry4wIaOSOZkVs7jjRn82mbXa3OLS+QSLbhtzD8iXYlXho1DNN234LrWNEfU+9yN9+wkJRRBg4Plt9uZIYps6TaEaxTnTQMalUocM0nRLA7tdEifDwE8JUr+v/B2VHYwpfzZX8g+nRYf4swi0/EfPP9TFGiraWu/hfjb2arUcXhyUYTCniDowqEUgQ95bIO/A8OnSeuyhDVDQ5a0ygAk36tPmK9qJJfZrgOQsER21n6Z5FNSUNbdq6Lh6qoM09xYTUu7l0UkN31ACWlGeXdlf/XSH6OqvpZ21iAZBd2hKVK8Qk5EHGqQhyiuQf50CvZz8EVF9bUNg4zFXLJjXYCjN6QDf73fF9h17U41bWPPqCLKv/frfwm5YrZz6+m5Mw5b2ujrJ5o8lcRA==;uFE9sJO7RdLVRClNoS1fxw=="
 ---
 

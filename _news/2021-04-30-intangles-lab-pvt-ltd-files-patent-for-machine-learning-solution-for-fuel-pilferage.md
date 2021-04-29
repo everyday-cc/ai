@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Intangles Lab Pvt. Ltd. Files Patent for Machine Learning Solution for Fuel Pilferage"
-excerpt: "Intangles Lab, a leading digital twin solutions provider, announced today that it has filed a patent with the Indian Patent Office for"
-publishedDateTime: 2021-04-29T17:33:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-829318591.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-829318591.html"
+title: "Intangles Lab Pvt. Ltd. files Patent for machine learning solution for fuel pilferage"
+excerpt: "Intangles Lab, a leading digital twin solutions provider, announced today that it has filed a patent with the Indian Patent Office for Methods and Systems for Sub-Resolution Measurements in Fuel Tanks,"
+publishedDateTime: 2021-04-29T21:44:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Business/20210429/3748195.html"
+webUrl: "https://news.webindia123.com/news/Articles/Business/20210429/3748195.html"
 type: article
-quality: 32
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1499755/Patent_fuel_pilferage.jpg?p=facebook"
-    width: 960
-    height: 503
-    isCached: true
 
 related:
   - title: "Intangles Lab Pvt. Ltd. files Patent for machine learning solution for fuel pilferage"
@@ -56,6 +50,6 @@ related:
         height: 420
         isCached: true
 
-secured: "TL3ssasbV2tZmk5NrX0/6KWWwXeQADAq3wzDPxKlYDowYjpbTopy+nixrATrDTEEvJr0mqxj0xr/Hzdeu01WCL5bgreswUe3PQFKzvTP7xyqdEKQ5Jjhu3g02S9Wc47AzQkO/TNgD6iy3HY18776+b+aAEKg/tVYy+8Wy+Yo2Lke5WO5T0YMxssze4yvm1SlCSsDQdJDN05ytgF1Dk+iKfpUbE0GB9FVYk0rZrZb2Cy3ZN/wqi8NNaqrF6lCb80AdW8e4pSxtiumsYwxAtmchFaSqpnYPf3XoXVSvTbmcQwkmVjRZ+Y1dEOgDH8dV7kwQa0k0z2w1V+84610Wvyz71RTm0yw/EStVtHwJZijt+e+oKyI/ZRiuLh6Z9aSqEpUo5QvligKJUxtOR/Zud5b2bzvnXPQnfQiQJ9to9n9ZfqXHzn6GYsXbxSzNvV/XoKFHdw71PMmUyuOjxQOJLPcLxtWKP8KtbN+2TAOlRL7Iz504fCHoGJtjcNf4EZ/TXJ2Xh4hFdA1sDTeQ2fDFsnlmA==;h8YYkza7MZ4/trv/y2Lmyw=="
+secured: "GxluZivIRu5J9Fpnd7yfJnZfFA3SY8iNRlyXcA3Ey7U1+FrQ9p0mnqy10U4JxIjHn/0/A7tMtWeb+4E4IWf0R9nrSsh6rE1WtjXe4trv2YUFKMDv0HIxB3RDEK7apwmn0Zrlt0RjTtHE7CuHSsUSb2J5zKSfQ5NPwhuNCdtGZUVQJzuVZHnOZw+QfQSnI+zUtm0PtoyKCLrHkuQ8qSPhaOMS6dlypmE5ab7UrGXlMXcV28X4W/Ye1yrYGzHiaKvnmrZ16wkPqAZAgJL/61s9ok7+soADTtXGIgg0qjvqBBng6eywH7SDKs/MoUPi6avLKLHjde0/aKMILc65VheoNJNSCjMuXCHt7gS3szpU07k=;kjnnYSaWkuOiYt3YL45Gzw=="
 ---
 

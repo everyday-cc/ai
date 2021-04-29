@@ -57,20 +57,6 @@ related:
         width: 1800
         height: 1920
         isCached: true
-  - title: "Vision for ultra-precision agriculture includes machine-learning enabled sensing, modeling, robots tending crops"
-    excerpt: "Researchers at the University of Illinois Urbana-Champaign have developed small-scale robots that can fertilize, weed and cull single plants in a"
-    publishedDateTime: 2021-04-29T18:06:00Z
-    webUrl: "https://www.miragenews.com/vision-for-ultra-precision-agriculture-includes-552006/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 18
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
-        width: 700
-        height: 417
-        isCached: true
 
 secured: "ybErkXI8q3kLKTVc6K4lVsRv7aG2zkA+qecJMcPoi57/CD20wa2AY1v02CGhEy7e3agFKTozjOrSUHFmMH+YhtLOuahLj3JzqM7HmB1hnNxLiCK4KhwSeGqUppioeG2xSwCs6z/XSX9mcE4Sc3XNbpSxRY8h2pUC7UCF5KzBd0iMXGJuuK47z3CMbZLS1+kd0bull+lapVwFmt4m1Ww0DO4oIakZQ4XvSj+FrBiuBE9AlGFdKKaLkklpAL0eFZijLMHABoLN3av7uDTIGV6E5BNlQkDAf9MlsUx+4bs/mIynaNk7espBZZpdk/l6HeJdgUQ4rIrQTAJuj7HcKG84CHDS/CYYnD2pOhqOnk6pucXikt0bbmSUjieKbtS8w2Gn8XOQ9u5gMqwZ+niybg1+p74iqkzI0uz0C98DZQ3jMkw7YiZ9LqL8lX1/68OKD2v7H3bk3h4MFZ0F/MYAs2+nSq6pfBx3jjtRjfCrZdPFRIorzlmSP9hJyhm4j8nhAEOiCsQ9gKYPE5vzybk3+bmeAg==;9nQHb5Cxr+tRaDWJLy5oRg=="
 ---

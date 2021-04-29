@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Plus One Robotics Raises $33M For Human-Robot Collaboration Software"
-excerpt: "Plus One Robotics, a human-robot collaboration software company headquartered in San Antonio, has announced this week $33 million in Series B funding led by McRock Capital"
-publishedDateTime: 2021-04-28T14:41:00Z
-originalUrl: "https://www.benzinga.com/news/21/04/20838845/plus-one-robotics-raises-33m-for-human-robot-collaboration-software"
-webUrl: "https://www.benzinga.com/news/21/04/20838845/plus-one-robotics-raises-33m-for-human-robot-collaboration-software"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20838845"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20838845"
+title: "Plus One Robotics raises $33M for human-robot collaboration software"
+excerpt: "Plus One Robotics, a human-robot collaboration software company headquartered in San Antonio, has announced this week $33 million in Series B funding led by McRock Capital and Translink Capital, with participation from BMW i Ventures,"
+publishedDateTime: 2021-04-28T13:48:00Z
+originalUrl: "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software"
+webUrl: "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software"
+ampWebUrl: "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software/amp"
+cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software/amp"
 type: article
 quality: 89
 heat: 149
 published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: freightwaves.com
+  domain: freightwaves.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.benzinga.com/files/images/story/2012/archive-1850170_1920_1.jpg"
-    width: 1920
-    height: 1280
+  - url: "https://s29755.pcdn.co/wp-content/uploads/2021/04/8096899965_13b19b62d1_k.jpg"
+    width: 2048
+    height: 1318
     isCached: true
 
 related:
@@ -99,6 +99,6 @@ related:
       domain: bizjournals.com
     quality: 44
 
-secured: "QSnbWXvY928iuMRNrSOc3Zr4gIZSBJqos4iq7wpz7/JOJ/SGyyePI3Trphqfd70iTkkjVRWo+F8TK1dBvPEtkCXDtIbgYdtccPD3AWIQULtdbPIs40VcEMODY8Y77tE1awwmPOoKuYRkLeizey5S/WsevwAVhGSKGavWfG/daNJa7TDG2EWDVP/w8S6sYwfGCvGheIwVJi1NJNmUqIrKnWEdbSlYfjgVSArOnTKVs3QweIj8tF1Hm7/ZobljoIUb6FbcQKi3M3mJNIS7qSECEthis5E8bUEYWspibfBVqNdUCv3UIt1wnzK6RsN10hF1b4X7xHjzg3gBHlkvaK3k/Co8XyMAbrRFos/K2VPZdUlqPfM8DKuEOKruIwYOzryHfgM7kQZOEaEN/43aZYgj4+dPEKKxBW4ApAGgNDW0bwagNMb6ZX5AiAG84qkiz2LKEI+lB7KClaZxHbR/GporC9103TKukFntaHuufBf29LP8feKEqSDTJCTxQYJMuxBf0n8tSD1nUbf0ete9L46vdw==;+phVZYXck12GhyvkOE/WTw=="
+secured: "OdB/03EaI3r/5ZGcJydV85yo5zjqLwidc08vnqdhvnVn7YfAnVyj2g9APfax4piS0OHXLnG1oHdhyc4itn8Ro2aryB234EsfTPtk+2pxXYPK8VPsPj4amfgTwNYB0sv0vkIRKtuSIamqS9mYEoc86ZpZkcYRNjrhocxMP3m2O0BKIgmxzoUmClRcj6zAB5A3vS/Hcz09AECLrQLHQ7eYKlbbG5VqDg2llLoBlgA3UaJIikjPDHWGcIgYH29GRM0hG67NzlDb5Gth3kk59XtpAs1CBnmQp4BNcUOx1l4p6VbT5n3KzgtdcOIMcc4xY3GDttzOc6m7ogzrXYdjTWUqyIra/lOq0YtZC4zJeFKLE2Q=;b70tFOlrBkAHlrEEkg7SUg=="
 ---
 

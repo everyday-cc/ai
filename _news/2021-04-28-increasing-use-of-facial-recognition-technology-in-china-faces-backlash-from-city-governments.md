@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3131442/increasing-use
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash"
 type: article
 quality: 78
-heat: 148
+heat: 168
 published: true
 
 provider:
@@ -94,6 +94,34 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N4SLC7FHNAI6XDJFPMYOOSJD5I.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "HSPPR gets new facial recognition technology to find lost pets"
+    excerpt: "The Humane Society of Pikes Peak Region has teamed up with Petco Love to help find lost pets and reunite them with their families by taking advantage of new technology. According to industry statistics,"
+    publishedDateTime: 2021-04-29T19:01:00Z
+    webUrl: "https://krdo.com/news/2021/04/29/hsppr-gets-new-facial-recognition-technology-to-find-lost-pets/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 39
+    images:
+      - url: "https://krdo.b-cdn.net/2019/12/USAFA-DOGS.00_00_08_20.Still002.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "What cities must do to responsibly deploy facial recognition solutions"
+    excerpt: "The National League of Cities has published recommendations for guiding conversations around how facial recognition technology is being implemented."
+    publishedDateTime: 2021-04-29T20:46:00Z
+    webUrl: "https://gcn.com/articles/2021/04/29/nlc-facial-recognition.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognition2.png"
+        width: 760
+        height: 368
         isCached: true
   - title: "Facial Recognition Tech for Bears Might Just Be the Future of Conservation"
     excerpt: "Facial recognition technology is used to unlock your phone, find missing persons, detect shoplifters, and even was used by Taylor Swift’s security to ID stalkers (seriously). But now, it’s revolutionizing bear conservation."

@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Hepion Pharmaceuticals Presents Machine Learning “Learn and Confirm” Modeling Strategy at 4th Global NASH Congress"
-    excerpt: "Hepion Pharmaceuticals, Inc. (NASDAQ:HEPA, “Hepion”), a clinical stage biopharmaceutical company focused on Artificial Intelligence (“AI”) - driven therapeutic drug development for the treatment of non-alcoholic steatohepatitis (“NASH”) and liver disease,"
-    publishedDateTime: 2021-04-29T14:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hepion-pharmaceuticals-presents-machine-learning-learn-and-confirm-modeling-strategy-at-4th-global-nash-congress-1030365403"
+    excerpt: "Hepion Pharmaceuticals, Inc., a clinical stage biopharmaceutical company focused on Artificial Intelligence- driven therapeutic drug development for the treatment of non-alcoholic steatohepatitis and liver disease,"
+    publishedDateTime: 2021-04-29T13:50:00Z
+    webUrl: "https://www.nasdaq.com/press-release/hepion-pharmaceuticals-presents-machine-learning-learn-and-confirm-modeling-strategy"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 27
 
 secured: "RTDQDQt111Wg5YtTuchcPKHFAOoqAM61YVoYZztLxQNlEMw3ccStBiCVPuHD+HbWWQSNT107RLC/lGUYC9u7QOUVXpQBjTTW8/DJZhsHCt/ktoiiUtUElODX7XPOoHyMfgTRf2CI1xsiwa+rWB+2rz+BLa1Q27ncIS+Ik3ec04kFSz4se5S9e8Uq31X8xobs5/q7udpUL54j4TRaicbFpozLqwcxFwRGRvGX8HFuah+NsZaDv85IUzlOhMb+D4G5FRglEtAzIiIu4EkuCn2n4xFk6U++T6o92/XK8SKlwfGuDdjm8wbTRdggQ26iSLRn1+JFI0NSagFEmm3z6R4N3+4SGdsYM6heEcDZzYxbAng=;PCXM9meRW2XtnijQBlOBZQ=="

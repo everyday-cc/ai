@@ -41,6 +41,22 @@ related:
         width: 550
         height: 400
         isCached: true
+  - title: "IBM buys Turbonomic for AIOps, hybrid-cloud management support"
+    excerpt: "By acquiring Turbonomic, IBM gains tools that manage performance of everything from applications and containers to virtualization, cloud, and on-prem compute, storage, and network resources."
+    publishedDateTime: 2021-04-29T20:14:00Z
+    webUrl: "https://www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.html"
+    ampWebUrl: "https://www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.techhive.com/images/article/2016/11/20151027-ibm-sign-100625227-orig-100696117-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM Spends Up To $2B To Buy Turbonomic In AI Push"
     excerpt: "IBM will integrate Turbonomic’s ARM software with Instana’s APM and observability capabilities plus the ITOps capabilities of IBM Cloud Pak for Watson AIOps. By Wade Tyler Millward April 29, 2021, 01:12 PM EDT IBM hopes to boost its enterprise automation offerings with the planned purchase of Turbonomic in a deal reportedly valued at up to $2 billion."
     publishedDateTime: 2021-04-29T17:12:00Z
@@ -93,6 +109,6 @@ related:
       domain: insidehpc.com
     quality: 19
 
-secured: "U9T3oNfEENzMH6zR7nxAmsu167dgDg69FzTZtATL73V52haclDXx8FtjPjjw1t+WMx+Dvmzpom+gmbAweCFbdddZiNyAnCHjWkTSO8n27F1YBMLiyzCk8TLC0NZjxLMeXT3jToZIwSyQ4Wk0SqS8MwZHwem9El/erVQ4CJKT9Y6TVq5tvLs412ZKmnJRMqLbn9nx8lnHHE0XrCHvx517nko0/YuJ3mAUXcTBqcZxDd9RUSMdDQTEtnu7q01GBiQQxNv7RLT05dm+fd7R6VC4X9dYiB1fU5fk+7Sj654bSVbq9xIamrGSV/dyxGfxApJ0kEY6RWe6+msjn1tqMt2ZBmodtH84ENz7WI4XvjJly+U=;bY3SMzTjvbkBjvlR5uFhKQ=="
+secured: "5c7oM2S88oOyeIv+eAt5VgitgbEjWrv6hlV6gvx1vHFmRpE1QHaEKDLlQoXcl9yddBibfE51jyvL+fwosMqfMNXuIqiJzoSjmB4FTUu+BY3GEuPovxMnTpg/H7tCSpluYsr7IlLYP9lSJ48n6QV9uwrDb1R5UMPBWDKqF3HzE2hnOo/7GpXVh8wC4XwNvQ6lFpXr1W7S6y5ePhV93s0ttY+fgqnBtasnyvnvW839MWei4QjRVb96XgLvOUzKdbRhO+EaKaFotUd/4zjQS3DTyIZPyQaLC9YNbbkN27mQyCI1UzdyTVbs2YO7FCIxD6zvXNrESQeI78qCZHkMQ6F4VsXyA5qT86EAImQ7RTFbWtRFMeWxoQT4bax7tqH1YaWLbLyMjbzMOm/yXER7mP47wQ5WT867EDKA5I4th0uxhfXFISX10f0bhdA6QYH4gpZ8uxzrS/agsm+//0pR20LLTNHwKuE2JLpT/HkvLKm9rXEOJX0jI1vksbuSHqC+c+HRk5BnduVeqH15oD8GiORtWg==;htrYoj00q0To6U+uAT+APQ=="
 ---
 

@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Hepion Pharmaceuticals Presents Machine Learning “Learn and Confirm” Modeling Strategy at 4th Global NASH Congress"
-excerpt: "Hepion Pharmaceuticals, Inc. (NASDAQ:HEPA, “Hepion”), a clinical stage biopharmaceutical company focused on Artificial Intelligence (“AI”) - driven therapeutic drug development for the treatment of non-alcoholic steatohepatitis (“NASH”) and liver disease,"
-publishedDateTime: 2021-04-29T14:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/hepion-pharmaceuticals-presents-machine-learning-learn-and-confirm-modeling-strategy-at-4th-global-nash-congress-1030365403"
-webUrl: "https://markets.businessinsider.com/news/stocks/hepion-pharmaceuticals-presents-machine-learning-learn-and-confirm-modeling-strategy-at-4th-global-nash-congress-1030365403"
+excerpt: "Hepion Pharmaceuticals, Inc., a clinical stage biopharmaceutical company focused on Artificial Intelligence- driven therapeutic drug development for the treatment of non-alcoholic steatohepatitis and liver disease,"
+publishedDateTime: 2021-04-29T13:50:00Z
+originalUrl: "https://www.nasdaq.com/press-release/hepion-pharmaceuticals-presents-machine-learning-learn-and-confirm-modeling-strategy"
+webUrl: "https://www.nasdaq.com/press-release/hepion-pharmaceuticals-presents-machine-learning-learn-and-confirm-modeling-strategy"
 type: article
 quality: 27
 heat: 27
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Machine Learning
@@ -38,6 +34,6 @@ related:
         height: 450
         isCached: true
 
-secured: "8qpJzhKsvaD3AY9HfsY3twAsUPUJ0J+jQIJ5HVTMB3ihgKoHdm3pk9kzj4Wwebwb7mBsJe6PdX97P0Ehh60qVkJg9Fg2DBdgfYCbKW1p1TTOfyRpxNJlhcW3aEA6Y8Ladl2gPx76V1NLcMrIGNtEgTHwalhgQoOqIoyRQP6lyn2GltG9uxtE6baJtEJWOKfkkzeg2StvKDoQfZNZizZKmjXT8vxiDOZ2nJkQC2M3CcO9qJ+6oDKXTC6tuhTLFfybvmFSaPJuK7lGn0MupsKsjGlTKcQsyvGvwN1/E31yVjhWwni7QSldwvB0zKHy5tpBGlHFrPxeUwUgUaySc8g4FhxDz7DUE2NELMQ/5EjsAWI=;mGvbOgymESrII1hiEt4VcQ=="
+secured: "Ed6TUH8gZjIsF2A5PYQsKKyV9zvPlpFiIhfJynCoOm8L9YtyzLfA12InWEgIY8uFVUEmmOkbLe/oZxMfIgEAkFEQ0B9LYwX4+I17gMXXeqOM81adKwXxMkM1Vo63O1kNEsNEgtzB/ckEoAuiyMCZjn3SuQzDI4SZxOZF2bi/Tme3XEW4bSZH8k33s3jdd1WmC8N/Olhtgbi/Jqu/BnCUkFmV01oT110f6TBAfSeUzfrXEIP7P8KoB1a52FZiom/W+klK4hRyWprHAobONoIwN93CnbQcdR7fYKinIIZ5A3AFZDJUwgIp/c/T/cb9nO1+qqNdpXBTWbmM2ox9i888W6CBP1KCBsoJVSoP3eYnkG4=;WTDG15MBwHjQQH284Z++zg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "The Future Of AI In Healthcare"
+    excerpt: "Two AI luminaries, Fei-Fei Li and Andrew Ng got together today on YouTube, to discuss the state of AI in healthcare."
+    publishedDateTime: 2021-04-29T21:02:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b1e5a5ca86d56b9a674dc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3490%26cropY1%3D0%26cropY2%3D1962"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Healthreveal and ACC team up to transform heart care with AI"
     excerpt: "The American College of Cardiology (ACC) hopes artificial intelligence (AI) can dramatically increase adoption of its frequently ignored guidelines for cardiovascular care. In three new studies, the ACC will implement Healthreveal's AI to recommend personalized interventions with the goal of preempting adverse cardiovascular events and improving patient outcomes,"

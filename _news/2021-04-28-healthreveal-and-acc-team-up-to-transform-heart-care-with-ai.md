@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "The Future Of AI In Healthcare"
+    excerpt: "Two AI luminaries, Fei-Fei Li and Andrew Ng got together today on YouTube, to discuss the state of AI in healthcare."
+    publishedDateTime: 2021-04-29T21:02:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b1e5a5ca86d56b9a674dc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3490%26cropY1%3D0%26cropY2%3D1962"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "APruXVc9v+ARsgw4/wE2v/0QuU5H2OhLRzJQVCt9tyhz8wH/xatsR1YVPr8/AWWo3e0RvYsvKUCEcvKjTKe/y/8eJFu0rb6X7gmYLdimc8Grj9LXAeE5YqLXqEIfgBSVcbXFQTy+MRJK3MhoFifzt6o/hg0PNeErkMwmJF8dOMgeF6tDB0OP0RmLfugxgPG0oBuU/PzgpRGc9cp80n9JEOUm9FjN6VJmEzwnzjeRhILU82ACwx1TRtNZOm9Lx4CU+55V5VRMu4DlYPkFCCcl0c3oMmNAk7UA/+nZIpQOeL036GRkld4sYU28LGMa9cltAaBevPQQt/MGgWTWHZD6tbhrEg5RaF7gYERX4TaIf3WCZnb+DZXJusIGC8LOxKo/0znozbwsOT0aOYHaNifPGEk5wKm0Oej+UoSMj0lsKK6tlJUYuisNlu7ylUO0jUT73HsEE/njpxUETHnlddC5Wa4k7SzKhcgBUxFpY7O8kQ8JP1464vNqeJJyfLFyVSWE80sFQpN3fUDIQv+v0ueS5g==;OgzR7qoTXNLI8VOzs5VK7Q=="
 ---

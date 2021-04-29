@@ -5,6 +5,8 @@ excerpt: "Stephen Clark as Head of Artificial Intelligence. Prof. Clark joins CQ
 publishedDateTime: 2021-04-12T08:02:00Z
 originalUrl: "https://www.asiaone.com/business/cambridge-quantum-appoints-professor-stephen-clark-head-artificial-intelligence"
 webUrl: "https://www.asiaone.com/business/cambridge-quantum-appoints-professor-stephen-clark-head-artificial-intelligence"
+ampWebUrl: "https://www.asiaone.com/business/cambridge-quantum-appoints-professor-stephen-clark-head-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/cambridge-quantum-appoints-professor-stephen-clark-head-artificial-intelligence?amp"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Google AI
   - AI
 
-secured: "J4Xxt+JBs+zssf9K4uhl+2xHm0h8Ib5ip3kUoerJE/ncctjAEqBR9lS5gl1KhR1YZ6D0l0Agu2/I1YPygYbMZ3moa/kX9kTwHJZgnn18iE8FpsoE4ackGfavKIUz1lipYkmxN1ZE1xe6GWRu7BcfEow5ul9MY8B4QUF/9o5KzBdex3sCPFjfd+NjEdtoyiPNWK7QkGk69uhHot6napQgSbtFNLz2XsvAdtzeeOnyT73mE5XKW/i4I9zIr/SQx1CJanOjih7e8+SVG7SYWua8Xrqm1hJjJh1Og+YWep933ZQArLfhbb9g/nmif6OcylWdoNpd1tXwUGiPbWWrYIZH7Oeaov5/wQqaM1TUbvtHJoc=;x0aE3eAPNGFjFAL7pbveew=="
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/pr-newswire_500_4_517.jpg?itok=X2Zz5wd6"
+    width: 763
+    height: 509
+    isCached: true
+
+secured: "6gQd+hSkuoT5hVeN0zFv+i015k8OZjZosRoucRXY5wsfe3VZZG58722N61/um5Wgz/E/MdTzPv2Jmdlnwi9dWPc2J3IgcrayGwWYk7Gvpx/IUshKNVa1w+badwqc9blOr/Pz+RtE3n77+2TtDOGPuTE6fnojUtIJvSauEFcL6vYCR3MduW8wtHeRV8kqM2sCUyuuvnfuwy8NlBxq35g4qdrlC5Z8o1Y91iT82gbxchO2tFFyNM7+zisPyab7sgUuyIkWuqFtwKBNKUmabU15L8uwmtuagHiZAT4waZWsBIufyITUARrA1DCSC7bzVc7axf0yWdlm5u6FG0vNySJDyqEN/0pZYerx70FruDjUu34=;lW2V3i/zUrxXCvmvyunQeQ=="
 ---
 

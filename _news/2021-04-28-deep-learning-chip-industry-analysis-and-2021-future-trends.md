@@ -36,22 +36,6 @@ related:
         width: 1042
         height: 625
         isCached: true
-  - title: "Voice Recognition Market Size, Increasing Trend Diversity, Analysis, Future Scope Analysis Featuring Industry Top Key Players By 2026"
-    excerpt: "The latest Voice Recognition Market Report estimates the current market opportunities and scenario, providing information and updates on the corresponding segments i"
-    publishedDateTime: 2021-04-25T04:25:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-market-386743/"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-market-386743/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-market-386743/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 13
-    images:
-      - url: "https://www.express-journal.com/img/img-7.png"
-        width: 1047
-        height: 627
-        isCached: true
   - title: "Global Speech Recognition Market – Top 10 Key players in 2021 |Google Inc, Naunce Communication, IBM, Baidu, Amazon"
     excerpt: "Speech Recognition Market Segmentation, History, Sales, Demand, Consumption, strategies, Investment Opportunity and Global Forecast 2021-2027. Infinity Business Insights proclaims"
     publishedDateTime: 2021-04-28T13:15:00Z

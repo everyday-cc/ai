@@ -35,6 +35,22 @@ related:
         width: 550
         height: 400
         isCached: true
+  - title: "IBM buys Turbonomic for AIOps, hybrid-cloud management support"
+    excerpt: "By acquiring Turbonomic, IBM gains tools that manage performance of everything from applications and containers to virtualization, cloud, and on-prem compute, storage, and network resources."
+    publishedDateTime: 2021-04-29T20:14:00Z
+    webUrl: "https://www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.html"
+    ampWebUrl: "https://www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.techhive.com/images/article/2016/11/20151027-ibm-sign-100625227-orig-100696117-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM Spends Up To $2B To Buy Turbonomic In AI Push"
     excerpt: "IBM will integrate Turbonomic’s ARM software with Instana’s APM and observability capabilities plus the ITOps capabilities of IBM Cloud Pak for Watson AIOps. By Wade Tyler Millward April 29, 2021, 01:12 PM EDT IBM hopes to boost its enterprise automation offerings with the planned purchase of Turbonomic in a deal reportedly valued at up to $2 billion."
     publishedDateTime: 2021-04-29T17:12:00Z

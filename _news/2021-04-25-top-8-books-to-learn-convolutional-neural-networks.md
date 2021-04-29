@@ -34,15 +34,6 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 22
-  - title: "A High Accuracy Multiple-Command Speech Recognition ASIC Based on Configurable One-Dimension Convolutional Neural Network"
-    excerpt: "Speech command interaction has drawn much attention in smart application market. Many of previous chips achieve an ultra-low power consumption at the cost of a certain accuracy loss, and they are designed only for the fixed speech command recognition tasks,"
-    publishedDateTime: 2021-04-29T14:26:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9401401"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 11
 
 secured: "+1HtSVi2H/Ig+I7p+KSf0STNH6kFZglr1HH/LDnnOJbBNvRctKg8MNAarRAUwxZSOFAFCguxp8DMD/JS/VNDvyjX7Bh7zVNSzrV+qHuU2IyquuhoYYtrqjmFMdT61cIYuxSBOf7zuu+E1nZMQ2/o6N21+9oWm8W6C205iWZin4H/LdK626FQP2g5GLQeXBYjl75Y0fF64cWVbRB19xVuEdkUcwBZDIv/6pil/9eKJz5CW0t1VPMDYZEYa6dOosAGQ8jWBIVi93b/Uc5yM6WYubZ0TY/2I82MGk/bWZMWZHzRw7iqj7Ys8s4sGvVybzyrSJGnDBlsJXdgOxZWc7e1EBzt/aMr+wPPgwNnivmMb3BxBfoByBGUhTu+i2Vy6liqnJ4Bo7YJJYaZj9YtFNkrUNvu8sCbSdHPYf9rKR+iWi9Pu28yOY1sJKwr4Mg/B71QgwVVwuTrv9ds8RYVYEZMjGnaOIkn9yLay9nrZcvCwtiPkVw7sSrw8zCDNTFeqK1xLuVgrE9JimvCi6v7FA6v8g==;4hWY9AnJASz1bPsDRXx1kQ=="
 ---
