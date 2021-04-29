@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK prepares to conditionally legalize self-driving cars"
+    excerpt: "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,"
+    publishedDateTime: 2021-04-29T05:52:00Z
+    webUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/"
+    ampWebUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 74
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/5288f9f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2Fc6%2F228c4d91471c869f92b16e65a83c%2Fdepositphotos-181168354-l-2015.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The UK will make ‘self-driving’ cars legal this year"
     excerpt: "The UK is making self-driving partially legal in the spring, so you should have an easier time in the cockpit. But you shouldn’t think of watching a movie or playing games on your phones while driving just yet."
     publishedDateTime: 2021-04-28T07:02:00Z
@@ -54,6 +70,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/vehicles.jpg"
         width: 1920
         height: 1368
+        isCached: true
+  - title: "The UK will allow self-driving cars on its roads in 2021, and some hope they will put an end to traffic"
+    excerpt: "The UK government will allow vehicles fitted with lane-keeping systems to drive on motorways later this year."
+    publishedDateTime: 2021-04-29T07:31:00Z
+    webUrl: "https://www.businessinsider.com/uk-allows-self-driving-cars-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/5fc97006037cbd0018613bf9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Self-driving vehicles to become legal in the UK this year"
     excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."

@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "Dynamic Yield's Deep Learning Product Recommendations Generate Exponential Revenue Returns"
-    excerpt: "Dynamic Yield, the Experience Optimization platform, today announced the gradual release of its state-of-the-art, self-training Deep"
-    publishedDateTime: 2021-04-28T15:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/dynamic-yield-s-deep-learning-product-recommendations-generate-exponential-revenue-returns-807654289.html"
+    excerpt: "Customers implementing the self-training algorithm have witnessed double-digit uplifts in purchases and incremental revenue, compared to other"
+    publishedDateTime: 2021-04-28T08:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dynamic-yield-s-deep-learning-product-recommendations-generate-exponential-revenue-returns-1030356558"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
 
 secured: "iVjz8zPffiiqoUvzSZ0hZfvywcin7BZtfCpfanns0gWvAXyVJqcUdHFJH9Np7Whwkc5Mba59t6r0T9gDzdKJuA91jy4dpmveSqkqykHzlkaUF7Sq83Ambn+XtR9qMjzErCRGbfYvanU0oJWa17MwRVnXkqUOlv//iXell8MXfyLziAsCP4zc8Ge8xyAKBoJZwpUwHoySqLkAOqo2Ym0f1r0RMmbMKNBt9nqiYSR2bQSxpqA6H4sOg8XOiSgtfZFz5VaOlmvemHWdAKfwnvYGeaytuUBRdImG3nIFvXp626GwhlBR97lygBA3CXORacG00xEYeI7ixZz/igwngN2l3MCOGlF7Y+TqCIKJVRtZTo0=;8mrcuEj1lvTzahtvsPh5rQ=="
 ---

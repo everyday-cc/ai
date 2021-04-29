@@ -1,22 +1,32 @@
 ---
 category: news
-title: "Self-driving vehicles to become legal in the UK this year"
-excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."
-publishedDateTime: 2021-04-28T13:53:00Z
-originalUrl: "https://iottechnews.com/news/2021/apr/28/self-driving-vehicles-legal-uk-this-year/"
-webUrl: "https://iottechnews.com/news/2021/apr/28/self-driving-vehicles-legal-uk-this-year/"
+title: "The UK will allow self-driving cars on its roads in 2021, and some hope they will put an end to traffic"
+excerpt: "The UK government will allow vehicles fitted with lane-keeping systems to drive on motorways later this year."
+publishedDateTime: 2021-04-29T07:31:00Z
+originalUrl: "https://www.businessinsider.com/uk-allows-self-driving-cars-2021-4"
+webUrl: "https://www.businessinsider.com/uk-allows-self-driving-cars-2021-4"
 type: article
-quality: 4
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: iottechnews.com
-  domain: iottechnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://i.insider.com/5fc97006037cbd0018613bf9?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "UK prepares to conditionally legalize self-driving cars"
@@ -65,20 +75,6 @@ related:
         width: 1920
         height: 1368
         isCached: true
-  - title: "The UK will allow self-driving cars on its roads in 2021, and some hope they will put an end to traffic"
-    excerpt: "The UK government will allow vehicles fitted with lane-keeping systems to drive on motorways later this year."
-    publishedDateTime: 2021-04-29T07:31:00Z
-    webUrl: "https://www.businessinsider.com/uk-allows-self-driving-cars-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5fc97006037cbd0018613bf9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Could we see self-driving cars on UK roads this year?"
     excerpt: "Automated Lane Keeping System technology cold be given the green light by the DfT later this year, paving the way for self-driving cars."
     publishedDateTime: 2021-04-28T10:21:00Z
@@ -93,7 +89,16 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Self-driving vehicles to become legal in the UK this year"
+    excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."
+    publishedDateTime: 2021-04-28T13:53:00Z
+    webUrl: "https://iottechnews.com/news/2021/apr/28/self-driving-vehicles-legal-uk-this-year/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 4
 
-secured: "Ohg2F8YfixSFB25X39cLaTxJ4Ixjp3bdCUDfHF0woSyVDMCJvEZVyCE1F4SePPgCqDzU+q9BuVGTsXjtmGr81RuQsFs7+62pZrFGOCdVTmWk/Cquvaz7LJ9LtZVSyNpefLZ70ANrp3T2SP8p6QLYvK7jxTkyCW/ZqjgDTs/5+sXE457KC7WtxE+8wwKzC0sNNW1tmGaFyi2N0unQRsSfd5PMK1m9PmM2bTkrRUo0xKudJWO5pLI9C1/TOI1wvOyDSEZdxjUh/Hm25dc9W7D1xQajX3/CxxzYXgLKVf4bDL6/+uYg6QtbOJPGAk/kh4C3SZKIzIX496iBdzmaAsddDmAfX0ZcVE/gYMtn0Sc58a0n3gMfgbcmhz4hAzDKAV+hyICRaERNOd5u/oWjZD0LoL4r5tlTLNhiLqQZ8raoLGFcsfUQx0GRsYE9dZwjk72mtpjL7j4yoHA3DHt2TQ0QT/ViuRBVA5FXGOIgspY5XYE2DpSA5IIDTMPFrBhH6z6IYhD1WXNb9+rMbzbQavJeMg==;xcYRub6o9xFSXptLTJD3Mg=="
+secured: "0FEz3M9jUf6A6DEaDDaKhlDlhcybwfi7mAJE4u13Z0PBSMXtkA76wpfk6FOCrh4na5TJ4rwkiL2p6xaTk2gnLL+/T/wAMcLTbyvHMDKTV++kY4KuMi1bSlAnR3xCZtxKFG8OlaWnlcQKeXt/yfl2bBMAQvLANkcw6THgMPOFPGbd8bf2wT+5WQhmB8edS3FNs4VMlP80lhPOVpBE2LTMWxWNuph+6X2Tr3HrfGtRItrJWqX+7r+vhaPYfKLIm/AtofLSHc2GxZ1fUE/YqkaKAFWft6KuGhDx9aNtmZYg5V5bW/RW09F7fmd6DUCRfndGaQc/YZbdH4vdSEbNcD+4jwJjff29SerII8dx46GGB0k=;vauvVgNV2GdOXi71MuZL0g=="
 ---
 

@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla crash becomes subject of multiple investigations as it revives questions about self-driving cars"
-    excerpt: "After a fatal crash in Texas last week involving a Tesla with no one behind the wheel raised interest in self-driving cars, multiple federal agencies are investigating the electric car company."
-    publishedDateTime: 2021-04-24T14:30:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 23
   - title: "Tesla says self-driving system not to blame for deadly Texas crash"
     excerpt: "Executives for Tesla Motors are contradicting Texas authorities who said a fiery crash involving a self-driving vehicle that killed two people this month had no one in the driver's seat."
     publishedDateTime: 2021-04-27T15:23:00Z

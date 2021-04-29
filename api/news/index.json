@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-29-uk-prepares-to-conditionally-legalize-self-driving-cars.md",
+      "title": "UK prepares to conditionally legalize self-driving cars",
+      "excerpt": "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
+      "originalUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/5288f9f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2Fc6%2F228c4d91471c869f92b16e65a83c%2Fdepositphotos-181168354-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true",
+      "publishedDateTime": "2021-04-28T22:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says.md",
       "title": "EU’s plan to woo chip manufacturers won’t work, Taiwan says",
       "excerpt": "The EU may be interested in convincing Taiwan's chipmakers to build chips in Europe, but most chip production is expected to stay in Taiwan.",
@@ -1203,58 +1255,6 @@
         "AI in Healthcare",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-the-uk-will-make-self-driving-cars-legal-this-year.md",
-      "title": "The UK will make ‘self-driving’ cars legal this year",
-      "excerpt": "The UK is making self-driving partially legal in the spring, so you should have an easier time in the cockpit. But you shouldn’t think of watching a movie or playing games on your phones while driving just yet.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-legal-this-year",
-      "originalUrl": "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-legal-this-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F08%2Falks-lane-keeping-motorway-autopilot-autonomous-vehicles-car-ev-government-uk.png&signature=6a91d3ce2373b7deb8b2941ecca9fea1",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

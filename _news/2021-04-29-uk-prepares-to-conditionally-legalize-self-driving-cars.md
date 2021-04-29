@@ -1,40 +1,36 @@
 ---
 category: news
-title: "Self-driving vehicles to become legal in the UK this year"
-excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."
-publishedDateTime: 2021-04-28T13:53:00Z
-originalUrl: "https://iottechnews.com/news/2021/apr/28/self-driving-vehicles-legal-uk-this-year/"
-webUrl: "https://iottechnews.com/news/2021/apr/28/self-driving-vehicles-legal-uk-this-year/"
+title: "UK prepares to conditionally legalize self-driving cars"
+excerpt: "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,"
+publishedDateTime: 2021-04-29T05:52:00Z
+originalUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/"
+webUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/"
+ampWebUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
+cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
 type: article
-quality: 4
-heat: -1
-published: false
+quality: 74
+heat: 124
+published: true
 
 provider:
-  name: iottechnews.com
-  domain: iottechnews.com
+  name: New Atlas
+  domain: newatlas.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://assets.newatlas.com/dims4/default/5288f9f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2Fc6%2F228c4d91471c869f92b16e65a83c%2Fdepositphotos-181168354-l-2015.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
 related:
-  - title: "UK prepares to conditionally legalize self-driving cars"
-    excerpt: "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,"
-    publishedDateTime: 2021-04-29T05:52:00Z
-    webUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/"
-    ampWebUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 74
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/5288f9f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2Fc6%2F228c4d91471c869f92b16e65a83c%2Fdepositphotos-181168354-l-2015.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The UK will make ‘self-driving’ cars legal this year"
     excerpt: "The UK is making self-driving partially legal in the spring, so you should have an easier time in the cockpit. But you shouldn’t think of watching a movie or playing games on your phones while driving just yet."
     publishedDateTime: 2021-04-28T07:02:00Z
@@ -93,7 +89,16 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Self-driving vehicles to become legal in the UK this year"
+    excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."
+    publishedDateTime: 2021-04-28T13:53:00Z
+    webUrl: "https://iottechnews.com/news/2021/apr/28/self-driving-vehicles-legal-uk-this-year/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 4
 
-secured: "Ohg2F8YfixSFB25X39cLaTxJ4Ixjp3bdCUDfHF0woSyVDMCJvEZVyCE1F4SePPgCqDzU+q9BuVGTsXjtmGr81RuQsFs7+62pZrFGOCdVTmWk/Cquvaz7LJ9LtZVSyNpefLZ70ANrp3T2SP8p6QLYvK7jxTkyCW/ZqjgDTs/5+sXE457KC7WtxE+8wwKzC0sNNW1tmGaFyi2N0unQRsSfd5PMK1m9PmM2bTkrRUo0xKudJWO5pLI9C1/TOI1wvOyDSEZdxjUh/Hm25dc9W7D1xQajX3/CxxzYXgLKVf4bDL6/+uYg6QtbOJPGAk/kh4C3SZKIzIX496iBdzmaAsddDmAfX0ZcVE/gYMtn0Sc58a0n3gMfgbcmhz4hAzDKAV+hyICRaERNOd5u/oWjZD0LoL4r5tlTLNhiLqQZ8raoLGFcsfUQx0GRsYE9dZwjk72mtpjL7j4yoHA3DHt2TQ0QT/ViuRBVA5FXGOIgspY5XYE2DpSA5IIDTMPFrBhH6z6IYhD1WXNb9+rMbzbQavJeMg==;xcYRub6o9xFSXptLTJD3Mg=="
+secured: "ZI05R5Jz8sDUiLHOvFBWB4BlqaI+suBmZWnRcdz0W/j9rhPBFVf6oUXnIdQY5Os5Ardy+i8fjYS2RDB6uPQF7aMQ67V42xnTBGr7gfc5nwJy4ryKxvFowYNlnK7oGDWkVD3JDWQaHkD8HrMZQ1dhXy4rxiJdidiq3DrZOlWVr8mv83o+mJ09byfVq9ZGLgTTHqk9Eh/MRo2KFIaJy5LU0B6/j7Ni4Nc4cL2a+iXGK/f9wCJnx+7EcRY/PFRD5G4TL0cIHn5QmvXu6jlZRyfYs3Q7+Gd8/ijfk2LYmoCTMvBADE/WvW9ghW2QcNl6hwRazJV+mn3ookaaMVJ54+qy5GCSpqpLk9ytTHfq7bW3PN0=;w6QJS3e/KO5jH8/gKaeXQQ=="
 ---
 

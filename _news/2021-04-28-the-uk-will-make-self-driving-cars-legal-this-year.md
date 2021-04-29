@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-leg
 webUrl: "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-legal-this-year"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK prepares to conditionally legalize self-driving cars"
+    excerpt: "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,"
+    publishedDateTime: 2021-04-29T05:52:00Z
+    webUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/"
+    ampWebUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 74
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/5288f9f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2Fc6%2F228c4d91471c869f92b16e65a83c%2Fdepositphotos-181168354-l-2015.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "UK signals self-driving cars could hit road this year"
     excerpt: "Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel."
     publishedDateTime: 2021-04-28T18:24:00Z
@@ -44,6 +60,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/vehicles.jpg"
         width: 1920
         height: 1368
+        isCached: true
+  - title: "The UK will allow self-driving cars on its roads in 2021, and some hope they will put an end to traffic"
+    excerpt: "The UK government will allow vehicles fitted with lane-keeping systems to drive on motorways later this year."
+    publishedDateTime: 2021-04-29T07:31:00Z
+    webUrl: "https://www.businessinsider.com/uk-allows-self-driving-cars-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/5fc97006037cbd0018613bf9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Could we see self-driving cars on UK roads this year?"
     excerpt: "Automated Lane Keeping System technology cold be given the green light by the DfT later this year, paving the way for self-driving cars."
