@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Baidu in the driver’s seat"
+    excerpt: "Despite regulatory concerns, the Chinese tech company is a leader in AI and commercialising technology in cars and public transport."
+    publishedDateTime: 2021-04-29T14:00:00Z
+    webUrl: "https://www.afr.com/wealth/personal-finance/baidu-in-the-driver-s-seat-20210429-p57njy"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.5468%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_18%2C$y_70/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_jpg/t_afr_opinion_no_age_social_wm/ec03012bdbbd24f82ee40f28e644ccf1a9838d23"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "FQVPA7YoxkLN+VzSzLWqHR+UNzWNNi8FshKlBWVfom5Sh1amdI8T5dKr1duALrFiLi6cGPcZlQCGJvx0tYtA4gNINQUYMSPtJl47tSAZFuFQGfjc2AUJsCbVLCLcPXtTO0oCqxhoQAdtJipXm3lwt2Qv4OCcqi8dl8JU4+hN1QTZKelYKdoTB5YwnAOAGqnqKTIi1p52FmXQcYdMsmFaB3puKST3JLdr183IMKsy+qL03YpBlNJwLNUvjpl/kiqAQGLPAHg75UumCPfiU9A/DQnH0xPGUsRJrb4pBg3mmsFUxp7x1O7wufUMvE3fxjtfBsE3AtbgTgAM4UuSPjAomQczpkiXtobNffRtaLD8KYQ593ZVh53t7MiD+r5sxfzhLiOXYsiJy4IUPlabjyBwr2KCPh2KdWHE8ShoeCvd9fRQb5UnzfhNVqIs0Vs4Sbz0Ibm++qIbo0wPRQgU+6swIMlssLYlJUksLlUYXoj1jAsqPls2D0r20v4gBvyNeO7PqlnPS/kB5i6v3ZGflelCgQ==;T+hhA6HiUzQysSZnKT0IlA=="
 ---

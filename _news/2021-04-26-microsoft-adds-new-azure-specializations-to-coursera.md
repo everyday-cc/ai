@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-new-azure-sp
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/"
 type: article
 quality: 84
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       - url: "https://technosports.co.in/wp-content/uploads/2021/04/AZURE-Percept-DK-wthBox-696x464.png"
         width: 696
         height: 464
+        isCached: true
+  - title: "IO, IO, off to Microsoft’s cloud we go: Excelero hits Azure"
+    excerpt: "Excelero has made its scale-out NVMe-oF array software available on Azure. NVMe-oF (NVMe-over-Fabric) extends a server’s PCIe/NVMe protocol across network links. This means a server application can access remote flash drives for block data at  RDMA speeds."
+    publishedDateTime: 2021-04-29T14:48:00Z
+    webUrl: "https://blocksandfiles.com/2021/04/29/excelero-says-hi-to-azure-and-jumps-aboard/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 54
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2018/10/Excelero-splash.jpg"
+        width: 803
+        height: 534
         isCached: true
   - title: "Artificial Intelligence Software Market Impact Analysis for the New Normal| Ipsoft, H2O.ai, Brighterion, Ada Support, Microsoft"
     excerpt: "Artificial Intelligence Software Market is growing at a 33.10% CAGR during the forecast period 2020-2026. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."

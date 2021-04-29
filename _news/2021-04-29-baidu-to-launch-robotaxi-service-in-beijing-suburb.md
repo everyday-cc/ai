@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Baidu in the driver’s seat"
+    excerpt: "Despite regulatory concerns, the Chinese tech company is a leader in AI and commercialising technology in cars and public transport."
+    publishedDateTime: 2021-04-29T14:00:00Z
+    webUrl: "https://www.afr.com/wealth/personal-finance/baidu-in-the-driver-s-seat-20210429-p57njy"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.5468%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_18%2C$y_70/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_jpg/t_afr_opinion_no_age_social_wm/ec03012bdbbd24f82ee40f28e644ccf1a9838d23"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
     excerpt: "Baidu, Inc. (NASDAQ: BIDU and HKEX: 9888) will open fully driverless robotaxi services to the public in Beijing starting from May 2,"
     publishedDateTime: 2021-04-29T07:01:00Z

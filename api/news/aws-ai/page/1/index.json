@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-29-emam-announces-support-for-the-aws-media-entertainment-initiative.md",
+      "title": "EMAM announces support for the AWS Media & Entertainment Initiative.",
+      "excerpt": "EMAM announces support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to accelerate the adoption of cloud media",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-announces-support-for-the-aws-media-entertainment-initiative/article_88c17de6-c6d1-5956-a827-8a11f9f24106.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-announces-support-for-the-aws-media-entertainment-initiative/article_88c17de6-c6d1-5956-a827-8a11f9f24106.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch.md",
       "title": "Announcing the AWS DeepComposer Chartbusters challenges 2021 season launch",
       "excerpt": "We’re back with two new challenges for the AWS DeepComposer Chartbusters 2021 season! Chartbusters is a global challenge in which developers use AWS DeepComposer to create original compositions and compete in monthly challenges to showcase their machine learning (ML) and generative artificial intelligence",
@@ -1362,49 +1405,6 @@
       "provider": {
         "name": "Your Story",
         "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-aws-launches-next-phase-of-covid-19-diagnostic-tools-with-20m-expanded-scope.md",
-      "title": "AWS launches next phase of COVID-19 diagnostic tools with $20M, expanded scope",
-      "excerpt": "wearables and data analytics tools that use artificial intelligence and machine learning to detect the virus. Starting today, AWS is expanding the scope into three new areas: early disease ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/04/12/aws-launches-next-phase-covid-19-diagnostic-tools-20m-expanded-scope/",
-      "originalUrl": "https://siliconangle.com/2021/04/12/aws-launches-next-phase-covid-19-diagnostic-tools-20m-expanded-scope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/analysis-2030265_1280.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null

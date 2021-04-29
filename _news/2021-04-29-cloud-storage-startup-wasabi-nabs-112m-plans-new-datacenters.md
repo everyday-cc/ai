@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/29/cloud-storage-startup-wasabi-nabs
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/cloud-storage-startup-wasabi-nabs-112m-plans-new-datacenters/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 676
     isCached: true
+
+related:
+  - title: "Inspur Rises On The Wave of AI Servers In The Datacenter"
+    excerpt: "Machine learning techniques based on massive amounts of data and GPU accelerators to chew through it are now almost a decade old. They were originally"
+    publishedDateTime: 2021-04-29T15:10:00Z
+    webUrl: "https://www.nextplatform.com/2021/04/29/inspur-rises-on-the-wave-of-ai-servers-in-the-datacenter/"
+    ampWebUrl: "https://www.nextplatform.com/2021/04/29/inspur-rises-on-the-wave-of-ai-servers-in-the-datacenter/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/04/29/inspur-rises-on-the-wave-of-ai-servers-in-the-datacenter/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/commissioned_by_inspur_v2.jpg"
+        width: 678
+        height: 381
+        isCached: true
 
 secured: "l9iCUi4UpN3VPyZ3Y9OVDD5k+Wulk70gDw22QFwaLiiWu34AVj1UKBSaFcwwCNSlKKlbbvlDB/Ph50Fo/RPZiRO0g5CT3dTNutPNqFrmzrCPoLSVGAbBlvoe0Vlfes9e8+3WxIGklft5wmx6OZlxgbh9pl/iflNqKomSeprjc3jXcJ9ED5utx8u2Tf6HApHqBXTAasmFtaGBBX73usRBi2mV3fKlO/lUKAudqir67v+FU51oOhMLysEESj6WDcstuzHcYELqK/JhrkptpY4mYTv3ze74dacUV3T90vqTehm5IDZjw+UBbaWMMqsEMLEagb4DwYhVEnCXUSAh6EUq6IyStc46WvotgDdBoyz7++LL5C9epZII1Xmse4yAAss5/j7iuFKrO7tLmAfFWmDt1iBwvhWImsNsApndp0XN9iRDGbE0MK2rHV9qnF541t/sd+xYmYSGabqI/utljLN67U7hSBz1RIvi44nG6EU/ffbaPTZJ8ObIYsobQdRkI0/Rlo4/g5Y1HuNVQiybMG2fWw==;vO3eJshzCzFMmbibQj6KsQ=="
 ---

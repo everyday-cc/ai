@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "IBM Watson Advertising Accelerator Expands to Bring AI to Fast-Growing OTT Media and Streaming Landscape"
-    excerpt: "IBM (NYSE: IBM) today announced the expansion of IBM Watson Advertising Accelerator for OTT and video, designed to help marketers move"
+    excerpt: "IBM (NYSE: IBM) today announced the expansion of IBM Watson Advertising Accelerator for OTT and video, designed to help marketers move beyond contextual"
     publishedDateTime: 2021-04-29T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming-landscape-301279695.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming/article_2dac9f77-b630-55fe-be94-f82d24f296a7.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/6087941a092a1.image.jpg?resize=1200%2C627"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "obn2Iz1QpmeCgZrFsuETUrP6/Dv4br7gu69AuZ7+tmfHAPncHsc2zTUWfOxWeiru2zr2+BEM4tYtHnp08Lwk/tgG5MAmUb5Pq+6P7SRT7kN0rcqCsihd31CC9uoxhfwM/n9IDRriYEuqA8IRZ+YyidexaIsRTQzvK5I0UJD2weYF4OhLyl4Jojbgn73abDuCwdgyPHo0Y9H1r8nr7eCmxQPBXO4qOlV/AwaEXoVeRaw9dJiOPrnuiMNpYQuecqaGScYlxzXDGkXEBGUcN3iMPX2NvgGcFC7WNRxjKuaBV2eE1CQQ1C/Rb3FqldVoVHWyElFPSRvUkYcxulH83qlEdVnTF2rinJLp6nwGH+RM4no=;W047jqZotsNRaYeCz+Zgxw=="

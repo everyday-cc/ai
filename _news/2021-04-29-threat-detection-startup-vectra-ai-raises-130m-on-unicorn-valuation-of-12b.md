@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-29T12:00:00Z
 originalUrl: "https://siliconangle.com/2021/04/29/threat-detection-startup-vectra-ai-raises-130m-unicorn-valuation-1-2b/"
 webUrl: "https://siliconangle.com/2021/04/29/threat-detection-startup-vectra-ai-raises-130m-unicorn-valuation-1-2b/"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/06/vectra.png"
@@ -34,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1171615768-1-e1619463823181.jpg?w=1200&strip=all"
         width: 1200
@@ -117,6 +118,6 @@ related:
         height: 480
         isCached: true
 
-secured: "mdnLPfw1s9RxfE1UZbr3+HBxxi8sBZSH/7nfYyhmE6mAO7g/r0jXofKD79NaEoSJo6J2RWAuT6I7Ou5Arw4PMNL7e84YEp7xfLZJNG428tu9N3qRUQNKEZFVcr+XEkzMFPNlizOL2ZncidLrl5pzCOfSxbLg7m4MCKJSe91OW6JBBMF4K4nOAvUPZqmJdbNrhpqtSND4/XA5zgE8+vvLzYpQUrS49hB/DxXYz9n+ZtOlVLinAeSLmTn7Ta4PJPwV45AHfz05FfyUe4FNEpS6WFWT1Z4MPYrJdl4oG+lUPGBRT3mGXfZEwQDMWXJ7NOS5NgeM0g8BQe2w/LG0skFyIsq4NxNcygc5Y50OshJScmU=;ynT8u7Ypi+DMerq3RFtnJw=="
+secured: "ogkbJsnjAfUvAlWkHSwKi0MuFZiJiRKeAhPlAAPDvw/KkadpbcY9g3VNJVE3PRbuUcTFrIvfHVLfo6T/I2N9wtcFLfpQ7Euj3qYw5YPKZvCPOVqc9Pb9D6uVBuipqftTXSCoquby7lU6gkdj1xSMKmnJwoGBsrNz1AlZVxZLPCQH+s6LMcFC/mMYidh6Clz+HyLwmgZUr9BW6aDeS+gSHpBSkcFb0Gou8oiaXCtCoFuuMxyW6OAJLs4UF0Aa+Zqkha8ExIAkcwKFcemxFZypCcN/+08UUS2w2W1UXsf8HNRV62RG45mBmWw01bLTKUDFtrc8kGH/PR0HQG1vNBmyvkWP6Y9iPjmDPpXHT58A+aQxpSBFG5jL+vl6G9LtmfCJOYd1fZBgXdG/Tx5yERpfw/Y5hBRzf0mSK8CDEPVsK+nBu7sARBAowOh1+LzZNo7azUuZhgdY4uZ8QwFjmRmCIVzDhRvDKnfplzhFwSorr4oTAKgRMfOvWa49G90S8nkykEx88Nm18DMrpCH5Q5pzBA==;Rfy0Ko20US8RdjnWBbuCEA=="
 ---
 

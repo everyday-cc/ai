@@ -2,6 +2,352 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-27-researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.md",
+      "title": "Researchers propose new deep learning-based model for cross-lingual voice conversion",
+      "excerpt": "Robots today have come a long way from their early inception as insentient beings meant primarily for mechanical assistance to humans. Today, they can assist us intellectually and even emotionally, getting ever better at mimicking conscious humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx",
+      "publishedDateTime": "2021-04-26T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus.md",
+      "title": "Apple will focus on machine learning, AI jobs in new NC campus",
+      "excerpt": "Apple's new campus and engineering hub in North Carolina will focus on machine learning, artificial intelligence, and software engineering.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/",
+      "originalUrl": "https://venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/amp/",
+      "publishedDateTime": "2021-04-26T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first.md",
+      "title": "Why Will The Next Successful Startup Out Of The COVID-19 Era Be AI-First?",
+      "excerpt": "As world is dealing with the massive impact of COVID-19, entrepreneurs are busy at work, springing up new businesses that can bring back the economy. With Artificial Intelligence becoming ubiquitous today,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/",
+      "originalUrl": "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60875898e93f124f08227ace%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4071%26cropY1%3D164%26cropY2%3D2454",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/amp/",
+      "publishedDateTime": "2021-04-26T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-aws-augmented-artificial-intelligence-adds-human-review-to-machine-learning-predictions.md",
+      "title": "AWS Augmented Artificial Intelligence adds human review to machine learning predictions",
+      "excerpt": "Amazon’s Augmented Artificial Intelligence ... for common machine learning to improve the symbiotic work with Amazon Rekognition and Amazon Textract, the company stated. Additionally, users ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/aws-augmented-artificial-intelligence-adds-human-review-to-machine-learning-predictions/",
+      "originalUrl": "https://sdtimes.com/ai/aws-augmented-artificial-intelligence-adds-human-review-to-machine-learning-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/04/Product-Page-Diagram_A2I@2x.2fe2e8e5eed05fa5045835c3f3f04e23a9245e9c.png",
+          "width": 2208,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-robot-vacuum-with-triple-lidar-system-has-eyes-to-help-it-avoid-poop.md",
+      "title": "Robot vacuum with triple lidar system has eyes to help it avoid poop",
+      "excerpt": "With three lidar sensors–a wall sensor, a main sensor, and a front sensor — the 360 Smart Life Robot Vacuum can gauge the size of objects. The built-in artificial intelligence (A.I.) allows it to decide in real time whether to continue over an object ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/robot-vacuum-uses-triple-lidar-avoid-dog-poop/",
+      "originalUrl": "https://www.digitaltrends.com/home/robot-vacuum-uses-triple-lidar-avoid-dog-poop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.dtcn.com/image/digitaltrends/360-s10-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/robot-vacuum-uses-triple-lidar-avoid-dog-poop/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/robot-vacuum-uses-triple-lidar-avoid-dog-poop/?amp",
+      "publishedDateTime": "2021-04-26T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-9-healthcare-ai-companies-to-watch-in-2021-per-forbes.md",
+      "title": "9 healthcare AI companies to watch in 2021, per Forbes",
+      "excerpt": "Pharmaceutical startup Verge Genomics and clinical trial matchmaker Komodo Health are among nine healthcare companies recognized by Forbes for their artificial intelligence capabilities. For its AI 50: Top AI Companies to Watch in 2021 list,",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/9-healthcare-ai-companies-to-watch-in-2021-per-forbes.html",
+      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/9-healthcare-ai-companies-to-watch-in-2021-per-forbes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m.md",
+      "title": "Lyft sells self-driving unit to Toyota’s Woven Planet for $550M",
+      "excerpt": "Ride-hailing company Lyft has sold off its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million, the latest in a string of acquisitions spurred by the cost and lengthy timelines to commercialize autonomous vehicle technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
+      "originalUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 384,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024",
+          "width": 1024,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
+      "publishedDateTime": "2021-04-26T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-monitor-and-manage-anomaly-detection-models-on-a-fleet-of-wind-turbines-with-amazon-sagemaker-edge-manager.md",
       "title": "Monitor and Manage Anomaly Detection Models on a fleet of Wind Turbines with Amazon SageMaker Edge Manager",
       "excerpt": "In industrial IoT, running machine learning (ML) models on edge devices is necessary for many use cases, such as predictive maintenance, quality improvement, real-time monitoring, process optimization, and security. The energy industry, for instance, invests heavily in ML to automate power delivery,",
@@ -619,7 +965,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-adds-new-azure-specializations-to-coursera/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -853,7 +1199,7 @@
       "originalUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -886,365 +1232,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-step-aside-python-4-benefits-of-using-javascript-for-machine-learning.md",
-      "title": "Step aside, Python — 4 benefits of using JavaScript for machine learning",
-      "excerpt": "Python isn't the only option for programming machine learning applications: there’s a growing group of developers who use JavaScript to run machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/4-benefits-using-javascript-for-machine-learning-syndication",
-      "originalUrl": "https://thenextweb.com/news/4-benefits-using-javascript-for-machine-learning-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FJavaScript-machine-learning-deep-learning.jpeg&signature=cc02d26357590de1ead2f924ecd2ecc4",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-25T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-ban-facial-recognition-in-europe-says-eu-privacy-watchdog.md",
-      "title": "Ban facial recognition in Europe, says EU privacy watchdog",
-      "excerpt": "Two days after the European Union unveiled draft rules on how to use AI in Europe, a privacy watchdog urged the EU to ban facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/",
-      "originalUrl": "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/4768764591_bac4a6d442_o.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/amp/",
-      "publishedDateTime": "2021-04-24T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-waymos-leadership-shift-spotlights-self-driving-car-challenges.md",
-      "title": "Waymo’s leadership shift spotlights self-driving car challenges",
-      "excerpt": "Waymo's recent executive shuffle signals driverless technology has a ways to go before a robust self-driving car industry becomes reality.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/24/waymos-leadership-shift-spotlights-self-driving-car-challenges/",
-      "originalUrl": "https://venturebeat.com/2021/04/24/waymos-leadership-shift-spotlights-self-driving-car-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/24/waymos-leadership-shift-spotlights-self-driving-car-challenges/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/24/waymos-leadership-shift-spotlights-self-driving-car-challenges/amp/",
-      "publishedDateTime": "2021-04-24T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-analyzing-automatic-speech-recognitionasr-software-market-dynamics-over-2021-2026.md",
-      "title": "Analyzing Automatic Speech Recognition(ASR) Software market dynamics over 2021-2026",
-      "excerpt": "Software Market research report includes Market segmentation and overlays shadow upon the leading market players highlighting t",
-      "sourceUrl": null,
-      "webUrl": "https://www.express-journal.com/automatic-speech-recognition-asr-software-market-386652/",
-      "originalUrl": "https://www.express-journal.com/automatic-speech-recognition-asr-software-market-386652/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.express-journal.com/img/img-10.png",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express-journal.com/automatic-speech-recognition-asr-software-market-386652/amp",
-      "cdnAmpWebUrl": "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/automatic-speech-recognition-asr-software-market-386652/amp",
-      "publishedDateTime": "2021-04-24T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "express-journal",
-        "domain": "express-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-why-applied-ai-requires-skills-and-knowledge-beyond-data-science.md",
-      "title": "Why applied AI requires skills and knowledge beyond data science",
-      "excerpt": "Using machine learning in real-world applications and business problems presents challenges that are absent in academic and scientific research settings.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/why-applied-ai-requires-skills-and-knowledge-beyond-data-science-syndication",
-      "originalUrl": "https://thenextweb.com/news/why-applied-ai-requires-skills-and-knowledge-beyond-data-science-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Frobot.jpg&signature=91ce227571d5e03e58b5f583cc661040",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-24T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Ethics",
-        "IBM AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-explaining-why-explainable-ai-xai-is-needed-for-autonomous-vehicles-and-especially-self-driving-cars.md",
-      "title": "Explaining Why Explainable AI (XAI) Is Needed For Autonomous Vehicles And Especially Self-Driving Cars",
-      "excerpt": "Explainable AI (XAI) is going to be vital for Autonomous Vehicles (AVs) and will be first expected in self-driving cars, providing explanations about the driving journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/24/explaining-why-explainable-ai-xai-is-needed-for-autonomous-vehicles-and-especially-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/24/explaining-why-explainable-ai-xai-is-needed-for-autonomous-vehicles-and-especially-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6082010f8bc7d9fdc01c1409%2F0x0.jpg%3FcropX1%3D47%26cropX2%3D1677%26cropY1%3D43%26cropY2%3D960",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/24/explaining-why-explainable-ai-xai-is-needed-for-autonomous-vehicles-and-especially-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/24/explaining-why-explainable-ai-xai-is-needed-for-autonomous-vehicles-and-especially-self-driving-cars/amp/",
-      "publishedDateTime": "2021-04-24T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-scaling-ai-workloads-with-hpc-environment.md",
-      "title": "Scaling AI Workloads With HPC Environment",
-      "excerpt": "HPC uses clusters of machines connected together to enable workloads to be processed in parallel. One of the best-known types of HPC solutions is the supercomputer. A supercomputer contains thousands of compute nodes that work together to complete multiple tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/04/24/scaling-ai-workloads-with-hpc-environment/",
-      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/04/24/scaling-ai-workloads-with-hpc-environment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6083d12e41b6d342e108c3f0%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/04/24/scaling-ai-workloads-with-hpc-environment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/04/24/scaling-ai-workloads-with-hpc-environment/amp/",
-      "publishedDateTime": "2021-04-24T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

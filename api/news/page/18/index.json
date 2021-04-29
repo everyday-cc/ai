@@ -2,6 +2,344 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-09-can-ai-apps-help-your-golf-swing.md",
+      "title": "Can AI Apps Help Your Golf Swing?",
+      "excerpt": "I don’t think they are as good as a human instructor. But they can be helpful. And they are a lot cheaper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386?mod=newsviewer_click",
+      "originalUrl": "https://www.wsj.com/articles/can-ai-apps-help-your-golf-swing-11617923386?mod=newsviewer_click",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-322439/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-ai-apps-help-your-golf-swing-11617923386",
+      "publishedDateTime": "2021-04-09T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind.md",
+      "title": "Watch: Elon Musk’s Neuralink monkey appears to play Pong with its mind",
+      "excerpt": "Brain implants could help paralyzed people ‘use a smartphone with their mind faster than someone using thumbs,’ Musk tweeted",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913",
+      "originalUrl": "https://www.marketwatch.com/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-322928/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913",
+      "publishedDateTime": "2021-04-09T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-nlpcloudio-helps-devs-add-language-processing-smarts-to-their-apps.md",
+      "title": "NLPCloud.io helps devs add language processing smarts to their apps",
+      "excerpt": "While visual ‘no code‘ tools are helping businesses get more out of computing without the need for armies of in-house techies to configure software on behalf of other staff, access to the most powerful tech tools — at the ‘deep tech’ AI coal face — still",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/09/nlpcloud-io-helps-devs-add-language-processing-smarts-to-their-apps/",
+      "originalUrl": "https://techcrunch.com/2021/04/09/nlpcloud-io-helps-devs-add-language-processing-smarts-to-their-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1193264709.jpg?w=1024",
+          "width": 1024,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/09/nlpcloud-io-helps-devs-add-language-processing-smarts-to-their-apps/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/09/nlpcloud-io-helps-devs-add-language-processing-smarts-to-their-apps/amp/",
+      "publishedDateTime": "2021-04-09T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-upstart-fintech-started-too-hot.md",
+      "title": "Upstart: Fintech Started Too Hot",
+      "excerpt": "Upstart is far too expensive and follows a trend of other hot fintechs that haven't performed well in the public markets.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4418305-upstart-fintech-started-too-hot",
+      "originalUrl": "https://seekingalpha.com/article/4418305-upstart-fintech-started-too-hot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.seekingalpha.com/uploads/2021/4/7/234751-16178301213001626_origin.png",
+          "width": 1358,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4418305-upstart-fintech-started-too-hot",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4418305-upstart-fintech-started-too-hot",
+      "publishedDateTime": "2021-04-09T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console.md",
+      "title": "Win a digital car and personalize your racer profile on the AWS DeepRacer console",
+      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning, giving developers the chance to learn ML hands-on with a 1/18th scale autonomous car, 3D virtual racing simulator, and the world’s largest global autonomous car racing league. With the 2021 AWS DeepRacer League Virtual Circuit now",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://aws-ml-blog.s3.amazonaws.com/artifacts/Win-digital-car-and-personalize-your-racer-profile-DeepRacer-console/DeepRacer-Van.gif",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T17:03:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-artificial-intelligence-key-to-maintaining-military-economic-advantages-say-leaders.md",
+      "title": "Artificial Intelligence Key to Maintaining Military, Economic Advantages, Say Leaders",
+      "excerpt": "Officials today discussed the National Security Commission on Artificial Intelligence's recent report and the progress for the adoption and implementation of AI across the Defense Department ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.defense.gov/Explore/News/Article/Article/2567486/artificial-intelligence-key-to-maintaining-military-economic-advantages-say-lea/",
+      "originalUrl": "https://www.defense.gov/Explore/News/Article/Article/2567486/artificial-intelligence-key-to-maintaining-military-economic-advantages-say-lea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.defense.gov/2021/Apr/09/2002617893/1280/1280/0/210325-M-KE294-073.JPG",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "US Department of Defense",
+        "domain": "defense.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore.md",
+      "title": "Body temperature-scanning facial recognition device sales boom in Singapore",
+      "excerpt": "The need to reopen from shutdowns due to the pandemic is driving demand for facial recognition devices that scan for body temperatures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore",
+      "originalUrl": "https://www.biometricupdate.com/202104/body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/23142108/biometrics-based-fever-screening-to-increase-public-safety-small.png",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-computer-vision-development-platform-crowdai-raises-625m.md",
       "title": "Computer vision development platform CrowdAI raises $6.25M",
       "excerpt": "CrowdAI, a computer vision development platform, today announced that it closed a $6.25 million series A financing round led by Threshold Ventures. The fundraising coincides with the launch of the startup’s new solution that allows customers to create AI that analyzes images and videos.",
@@ -852,343 +1190,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-fintech-avant-snaps-up-zero-financial-and-digital-banking-app-level.md",
-      "title": "FinTech Avant Snaps Up Zero Financial And Digital Banking App Level",
-      "excerpt": "FinTech Avant, which works to give underserved consumers access to credit, has acquired Zero Financial along with its neobank, Level. Terms were not disclosed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
-      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/shutterstock_628843823-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
-      "publishedDateTime": "2021-04-07T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-ai-powered-virtual-assistants-and-the-future-of-work.md",
-      "title": "AI-powered virtual assistants and the future of work",
-      "excerpt": "With businesses across all verticals, 2020 kicked off a decade of innovation with Conversational AI and the use of cloud computing with advanced platforms being offered by Amazon Web Services, Google Cloud, and Microsoft Azure. But now, it's less about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-powered-virtual-assistants-and-future-of-work/",
-      "originalUrl": "https://www.zdnet.com/article/ai-powered-virtual-assistants-and-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/04/07/9f87f6fa-b6b8-48b5-8f64-6d646c0f5e99/delacolcreative-artificial-intelligence2.jpg",
-          "width": 1280,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/",
-      "publishedDateTime": "2021-04-07T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-self-driving-cars-may-be-too-speculative-even-for-this-market.md",
-      "title": "Self-Driving Cars May Be Too Speculative Even for This Market",
-      "excerpt": "Autonomous driving remains an unproven technology, but trucks have a better commercial case than robotaxis as startups sound out stock investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-321568/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "publishedDateTime": "2021-04-07T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-streamlit-nabs-35m-series-b-to-expand-machine-learning-platform.md",
-      "title": "Streamlit nabs $35M Series B to expand machine learning platform",
-      "excerpt": "As a company founded by data scientists, Streamlit may be in a unique position to develop tooling to help companies build machine learning applications. For starters, it developed an open-source project,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/",
-      "originalUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1299608320.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/amp/",
-      "publishedDateTime": "2021-04-07T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning.md",
-      "title": "Regulatory Compliance Must Be Addressed With Multiple Techniques Including Machine Learning",
-      "excerpt": "Just as we’ve discussed how network security can be aided by machine learning (ML), so too can the higher level issues of compliance management. Security involves more than using software to detect and stop internet attacks. While the software is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d25ef29c22d94b278e840%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/07/regulatory-compliance-must-be-addressed-with-multiple-techniques-including-machine-learning/amp/",
-      "publishedDateTime": "2021-04-07T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-op-ed-using-ai-to-help-solve-todays-semiconductor-problems.md",
-      "title": "Op-ed: Using AI to help solve today's semiconductor problems",
-      "excerpt": "The chip technologies that exist today make it possible for cars ... more efficiently through the utilization of intelligent control that is possible with AI. This will allow for older machines to make chips in ways they were not originally designed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106862811-16172891392021-04-01t014455z_1800782907_rc2pmm9drooi_rtrmadp_0_usa-semiconductors.jpeg?v=1617289180",
-          "width": 3500,
-          "height": 2505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "publishedDateTime": "2021-04-07T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-nhs-digital-selects-scandits-clinical-quality-computer-vision-technology-to-digitise-the-covid-testing-process.md",
-      "title": "NHS Digital Selects Scandit’s Clinical Quality Computer Vision Technology to Digitise the Covid Testing Process",
-      "excerpt": "Scandit’s technology will now also be made available free to any hospital or NHS organisation for Covid-related services, such as test tracking, PPE tracking and patient care Zurich, April 8, … Contin",
-      "sourceUrl": null,
-      "webUrl": "https://multichannelmerchant.com/press-releases/nhs-digital-selects-scandits-clinical-quality-computer-vision-technology-to-digitise-the-covid-testing-process/",
-      "originalUrl": "https://multichannelmerchant.com/press-releases/nhs-digital-selects-scandits-clinical-quality-computer-vision-technology-to-digitise-the-covid-testing-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Multichannel Merchant",
-        "domain": "multichannelmerchant.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

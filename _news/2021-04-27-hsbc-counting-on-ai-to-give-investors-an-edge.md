@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Promoting Artificial Intelligence in Accounting Profession"
-    excerpt: "By Ugo Aliogo In a world driven by ground-breaking scientific innovations, research findings have shown that the advent of technological inventions has influenced the lives of human beings across"
-    publishedDateTime: 2021-04-28T23:00:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/amp/"
+  - title: "As An Investor, How Do You Know What AI Products To Invest In?"
+    excerpt: "As An Investor, How Do You Know What AI Products To Invest In? Answer by Haomiao Huang, Investor at Kleiner Perkins."
+    publishedDateTime: 2021-04-29T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/"
+    ampWebUrl: "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/amp/"
     type: article
     provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/05/c701d120-technology-innovation.jpg"
-        width: 800
-        height: 600
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60874940e6628fc24d0cf72e%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "Wf/LhcbJ2uziid9/7jP//X+vwLHRMPUMTcaLk/XyhA3tYcw/67dZgF3KiahIGqavtdA+cGOCLpR6DhYip/1IXJlVc7A8l3NTuYCgDjWH4vE+yZYW7uUdc3Zq6XD1gSdAEouxzvjA1KhFvd8KjNKdFPXljwM4nv58TC8M/SOS4RPiXuBsY5emlincGhWHvcjStqmJ6uD358RebcE1RUXdQo0khEJ/+xabUse51pVYwwfO+5NaQzQYitIikCn4xdDt82JA6zuZlPXxjRe4yToOYUYAZtRkVwgMDaDUMdNJsGp+OEURc7wdtE+SD6zDNr36+8hL2wmNff9el1L6waKGDoLjRKhOjBTEwnU9+P/vK/M=;3v+ZfqqouGyiqOrkRu4Ttg=="

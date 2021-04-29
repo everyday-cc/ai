@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Shhhh, they’re listening – inside the coming voice-profiling revolution"
-excerpt: "Companies could soon tailor what they try to sell you based on the mood conveyed by the sound of your voice. Here's how that might play out."
-publishedDateTime: 2021-04-29T09:50:00Z
-originalUrl: "https://thenextweb.com/news/shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution-syndication"
-webUrl: "https://thenextweb.com/news/shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution-syndication"
+excerpt: "You decide to call a store that sells some hiking boots you’re thinking of buying. As you dial in, the computer of an artificial intelligence company hired by the store is activated. It retrieves its analysis of the speaking style you used when you phoned other companies the software firm services."
+publishedDateTime: 2021-04-29T11:48:00Z
+originalUrl: "https://www.stgeorgeutah.com/news/archive/2021/04/29/prc-the-conversation-shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution/"
+webUrl: "https://www.stgeorgeutah.com/news/archive/2021/04/29/prc-the-conversation-shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution/"
 type: article
-quality: 54
-heat: 64
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: The Next Web
-  domain: thenextweb.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: St. George News
+  domain: stgeorgeutah.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FTalking-on-the-phone-voice-analysis-hed-2.jpg&signature=cb4d7164a7d3b4ab7f1ec9abe452bb20"
-    width: 1280
-    height: 640
+  - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/04/voiceprofiling-1290x726.jpg"
+    width: 1290
+    height: 726
     isCached: true
 
 related:
@@ -41,6 +37,6 @@ related:
       domain: houstonchronicle.com
     quality: 24
 
-secured: "gzmqfX9a+9sewtIGq9CjDFErPvAI7GFLuAZVRan35QHeBD8CMat8RtuQWo5HRbXjWFfYRoKlLBOW7hhX4Jg9DPwYLpt82ho3gA6H55jiPXFc9uJwki43RoDSq/MYdHVTf9R3rPIs+TYnaOwpe01Nc8rid6j60dhlavro8BTRelJxINpe3jgTSO8FIjOz+gHhRrxGLTHhRPdeAHpV9qtke33oNa8jJgDMWTEbTVj88oaPC2XEjeB1TOHDyI4vwKEnsGyoOTVaiSc8xLX1wb0H/NOiVPcRxLs809mRnu0bVqsvlxRcBrk+oDZFzrMffEmxcqBhiy8AZ7UHwjakbj/cwnBBA9rbW3C9pMps4aeiEO7F7Bnw8IKPUMACSlbhK8ZdKDxpx6wFTIg4EIC1CchEHo586o9kHCw9He1pap9uikIQXNRosv4D8MHOjnQ2kdWrSbdn5hW5sbNSabcYE63Xg9Rx+t1QOZlJGLz1lU0rP9wSi7k9cZjuBKwQixtsbgcv3DhFsF5VviAauRs+dfVlFQ==;vcAr8IxEEp316HazrtWFzg=="
+secured: "+xrHzMkGwhE0y+WqLlvWuXbVPIDgmN5DfoPys+ii6U7J9UV4t3tS+WjcRaQJtzyB7SsBMcEVh2bOj+6nBvU4IauKAfrmjzEB4kQ/NMf55Ol8aOOCBH2huqfWWUN4rvXqqb1LDDzve/9z92m2SWKSuccYq+0OeKNtZesSZyUIa9n1DVrMJ9llBrYw4TuvLeTQPy7ZZapduCXA15Mcu/IkgQ2O4yALGRYQVTOqNboUWyMYVJiesYl5+W8i8/6r3BO9hY4ddAH4Ki0qphuS2+rOW1dCCAvCng3BnXmc/qdSQQV+SJIAYjnxkQueZRiQFqHK5rC6e2x66OTMh8HStcZhlz2zeMwkQ9HJ4tkxG10FSf8=;iWG0yIqG5rRBvCgtgs6ibg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-27T18:08:00Z
 originalUrl: "https://siliconangle.com/2021/04/27/aws-open-sources-deepracer-machine-learning-software-let-developers-tinker-home/"
 webUrl: "https://siliconangle.com/2021/04/27/aws-open-sources-deepracer-machine-learning-software-let-developers-tinker-home/"
 type: article
-quality: 81
+quality: 83
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Autos
+  - AI in Finance
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/aws-deepracer-robot.jpg"

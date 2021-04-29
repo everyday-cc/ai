@@ -46,7 +46,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 81
+    quality: 83
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/aws-deepracer-robot.jpg"
         width: 800

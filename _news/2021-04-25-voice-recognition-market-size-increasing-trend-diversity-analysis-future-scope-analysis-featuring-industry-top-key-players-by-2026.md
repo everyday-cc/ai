@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Analyzing Automatic Speech Recognition(ASR) Software market dynamics over 2021-2026"
-    excerpt: "Software Market research report includes Market segmentation and overlays shadow upon the leading market players highlighting t"
-    publishedDateTime: 2021-04-24T22:24:00Z
-    webUrl: "https://www.express-journal.com/automatic-speech-recognition-asr-software-market-386652/"
-    ampWebUrl: "https://www.express-journal.com/automatic-speech-recognition-asr-software-market-386652/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/automatic-speech-recognition-asr-software-market-386652/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 53
-    images:
-      - url: "https://www.express-journal.com/img/img-10.png"
-        width: 500
-        height: 300
-        isCached: true
   - title: "AI for Speech Recognition Market Size, Increasing Trend Diversity, Analysis, Future Scope Analysis Featuring Industry Top Key Players By 2026"
     excerpt: "The AI for Speech Recognition Market Research Report aims to provide insights that strongly demonstrate the market structure, scope, history, potential, and developm"
     publishedDateTime: 2021-04-28T04:29:00Z
@@ -59,31 +43,24 @@ related:
         width: 1042
         height: 625
         isCached: true
-  - title: "New Opportunities in Voice Recognition Biometrics Market 2021 Growth, Segmentation"
-    excerpt: "The recent analysis of Voice Recognition Biometrics market size has been methodically put together to impart an in-depth understanding of the key as"
-    publishedDateTime: 2021-04-27T16:26:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-biometrics-market-388373/"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-biometrics-market-388373/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-biometrics-market-388373/amp"
+  - title: "Deep Learning Chip Industry Analysis and 2021 Future Trends"
+    excerpt: "Infinity Business Insights has announced the addition of new research analysis on the global Deep Learning Chip Market to its vast library, Offering Insights for Deep Learning Chip Industry Over the Project Time Frame of 2021-2027."
+    publishedDateTime: 2021-04-28T13:54:00Z
+    webUrl: "https://ksusentinel.com/2021/04/28/global-deep-learning-chip-market-top-10-key-players-in-2021-amd-advanced-micro-devices-google-inc-intel-corporation-nvidia-baidu/"
     type: article
     provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 38
-    images:
-      - url: "https://www.express-journal.com/img/img-6.png"
-        width: 500
-        height: 300
-        isCached: true
-  - title: "Automatic generation of object recognition programs"
-    excerpt: "Issues and techniques are discussed to automatically compile object and sensor models into a visual recognition strategy for recognizing and locating an object in three-dimensional space from visual data."
-    publishedDateTime: 2021-04-27T06:03:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/5972"
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 36
+  - title: "Global Speech Recognition Market – Top 10 Key players in 2021 |Google Inc, Naunce Communication, IBM, Baidu, Amazon"
+    excerpt: "Speech Recognition Market Segmentation, History, Sales, Demand, Consumption, strategies, Investment Opportunity and Global Forecast 2021-2027. Infinity Business Insights proclaims"
+    publishedDateTime: 2021-04-28T13:15:00Z
+    webUrl: "https://ksusentinel.com/2021/04/28/global-speech-recognition-market-top-10-key-players-in-2021-google-inc-naunce-communication-ibm-baidu-amazon/"
     type: article
     provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 19
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 12
 
 secured: "5PuIkB1cPvgrHJP1VgB1p4a9VH8c4O/tjCqpcsDqPKxWMDTRMJk4ZJE5wDQc/wbnjXXej79c8MbvBthl6dHKBeNzgYEc/h96/CVP9hi8B0hhf9L+uicJcIm7vBtRkLboFt1vsn6EQmKiraJBU5HP22GQieLhnf2MKPejXy0UNPL8y+JTTPSXyIkdO38MFuHbviH/wJ1RVn7H4K33Awi+WXFLAPKJsREPxcyKo3oiPhyOC59J+wG1xfVAmyu50WfhPy3bJXvXnWZR4uGzmxdpmD9Iz+weqZvvyOnsfAyGIVr9x/43/62uOICiy8/vfQ2s6wclPPKQjOSJcTYLTp7kYunx9f+B5RttnUzCmg5Ik4DKiF0YuTkvX361sDZrSi11dmUa3ozhlNQKASaK+/RMMpIYS56nsEUdhegLLIgdm1c/y7LfXBzxrLYzFg4XmxA7ZbYNMAWgDrwjPhFMbhX8dbCBsSBvmUD1PAolPI+lsNwErfiWyzml8DGaGRxkZmuxsOqgRFWRa3LkGzZ1+vW5tQ==;DxX0t2AoCTtXNTbRtarPwQ=="
 ---

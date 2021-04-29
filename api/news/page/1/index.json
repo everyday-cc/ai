@@ -2,6 +2,282 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-29-as-an-investor-how-do-you-know-what-ai-products-to-invest-in.md",
+      "title": "As An Investor, How Do You Know What AI Products To Invest In?",
+      "excerpt": "As An Investor, How Do You Know What AI Products To Invest In? Answer by Haomiao Huang, Investor at Kleiner Perkins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/",
+      "originalUrl": "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60874940e6628fc24d0cf72e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/amp/",
+      "publishedDateTime": "2021-04-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-healthcare-robotics-startup-comofi-medtech-backed-by-iim-a-incubator.md",
+      "title": "Healthcare robotics startup Comofi Medtech backed by IIM-A incubator",
+      "excerpt": "It is building a patented deep tech surgery intervention platform nGuide that helps surgeons to visualize the target area in great detail and increase surgical efficiency, outcome and safety of healthcare practitioners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/healthcare-robotics-startup-comofi-medtech-backed-iim-incubator/",
+      "originalUrl": "https://www.dqindia.com/healthcare-robotics-startup-comofi-medtech-backed-iim-incubator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2015/02/robotics.jpg",
+          "width": 498,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/healthcare-robotics-startup-comofi-medtech-backed-iim-incubator/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/healthcare-robotics-startup-comofi-medtech-backed-iim-incubator/amp/",
+      "publishedDateTime": "2021-04-29T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-artificial-intelligence-what-about-its-ethical-deployment.md",
+      "title": "Artificial Intelligence – what about its ethical deployment?",
+      "excerpt": "While companies are making progress deploying artificial intelligence and machine learning, more than half of enterprises overestimate their levels of maturity in deploying responsible AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.philstar.com/the-freeman/cebu-business/2021/04/29/2094815/artificial-intelligence-what-about-its-ethical-deployment",
+      "originalUrl": "https://www.philstar.com/the-freeman/cebu-business/2021/04/29/2094815/artificial-intelligence-what-about-its-ethical-deployment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.philstar.com/photos/2021/04/29/meralco-pasay-substation_2021-04-29_16-50-43755_thumbnail.jpg",
+          "width": 686,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.philstar.com/the-freeman/cebu-business/2021/04/29/2094815/artificial-intelligence-what-about-its-ethical-deployment/amp/",
+      "cdnAmpWebUrl": "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/the-freeman/cebu-business/2021/04/29/2094815/artificial-intelligence-what-about-its-ethical-deployment/amp/",
+      "publishedDateTime": "2021-04-29T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "philstar.com",
+        "domain": "philstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-he-was-innocent-but-a-facial-recognition-match-got-this-black-man-arrested.md",
+      "title": "He was innocent. But a facial recognition 'match' got this Black man arrested",
+      "excerpt": "Nijeer Parks couldn't have committed the crime. That didn't stop police from arresting him based off of a false facial recognition match. Here's why the technology can often misidentify Black people,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210414200721-restricted-02-false-facial-recognition-match-nijeer-parks-story-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "publishedDateTime": "2021-04-29T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-computer-vision-in-ai-the-data-needed-to-succeed.md",
+      "title": "Computer vision in AI: The data needed to succeed",
+      "excerpt": "Developing the capacity to annotate massive volumes of data while maintaining quality is a function of the model development lifecycle that enterprises often underestimate. It’s resource intensive and requires specialized expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
+      "originalUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/VA5_Laptop_1200.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
+      "publishedDateTime": "2021-04-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-emam-announces-support-for-the-aws-media-entertainment-initiative.md",
+      "title": "EMAM announces support for the AWS Media & Entertainment Initiative.",
+      "excerpt": "EMAM announces support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to accelerate the adoption of cloud media",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-announces-support-for-the-aws-media-entertainment-initiative/article_88c17de6-c6d1-5956-a827-8a11f9f24106.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-announces-support-for-the-aws-media-entertainment-initiative/article_88c17de6-c6d1-5956-a827-8a11f9f24106.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-nypds-robot-dog-will-be-returned-after-outrage.md",
       "title": "NYPD’s robot dog will be returned after outrage",
       "excerpt": "The NYPD will part ways with “Digidog,” the robotic police dog that became the subject of a City Council subpoena after images of it went viral.",
@@ -106,6 +382,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-29-artificial-intelligence-can-significantly-improve-healthcare-delivery.md",
+      "title": "Artificial Intelligence can significantly improve Healthcare delivery",
+      "excerpt": "Artificial Intelligence has brought a significant change in all the fields and its about time that medical prospects also inculcate AI to the best of its potential, says Suparna Systems, CEO, Satish Kumar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/specials/artificial-intelligence-can-significantly-improve-healthcare-delivery-121042901089_1.html",
+      "originalUrl": "https://www.business-standard.com/content/specials/artificial-intelligence-can-significantly-improve-healthcare-delivery-121042901089_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/29/full/1619698966-122.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/specials/artificial-intelligence-can-significantly-improve-healthcare-delivery-121042901089_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/specials/artificial-intelligence-can-significantly-improve-healthcare-delivery-121042901089_1.html",
+      "publishedDateTime": "2021-04-29T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-ai-powered-cybersecurity-platform-vectra-ai-raises-130m.md",
       "title": "AI-powered cybersecurity platform Vectra AI raises $130M",
       "excerpt": "Vectra AI, an AI-powered cybersecurity platform, raised $130 million in a funding round that values the company at $1.2 billion post-money.",
@@ -114,7 +433,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -153,59 +472,8 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-he-was-innocent-but-a-facial-recognition-match-got-this-black-man-arrested.md",
-      "title": "He was innocent. But a facial recognition 'match' got this Black man arrested",
-      "excerpt": "Nijeer Parks couldn't have committed the crime. That didn't stop police from arresting him based off of a false facial recognition match. Here's why the technology can often misidentify Black people,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2021/04/23/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
-      "originalUrl": "https://www.cnn.com/videos/business/2021/04/23/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210414200721-restricted-02-false-facial-recognition-match-nijeer-parks-story-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/04/23/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/04/23/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
-      "publishedDateTime": "2021-04-29T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -217,7 +485,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/29/cloud-storage-startup-wasabi-nabs-112m-plans-new-datacenters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -320,7 +588,7 @@
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-first-paid-robotaxi-service-china-next-month-letting",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -364,6 +632,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-29-ibm-buys-turbonomic-to-build-out-aiops-tools.md",
+      "title": "IBM buys Turbonomic to build out AIOps tools",
+      "excerpt": "IBM has been acquiring companies at a rapid clip to help roll out hybrid cloud and AI automation tools. By Larry Dignan for Between the Lines | April 29, 2021 -- 15:00 GMT (08:00 PDT) | Topic: Cloud IBM said it will acquire Turbonomic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-buys-turbonomic-to-build-out-aiops-tools/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-buys-turbonomic-to-build-out-aiops-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/29/e0913226-8f33-41bc-ae6b-b5627bd38cfe/app-prioritization.gif",
+          "width": 550,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-build-out-aiops-tools/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-build-out-aiops-tools/",
+      "publishedDateTime": "2021-04-29T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-uk-prepares-to-conditionally-legalize-self-driving-cars.md",
       "title": "UK prepares to conditionally legalize self-driving cars",
       "excerpt": "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,",
@@ -372,7 +692,7 @@
       "originalUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -476,7 +796,7 @@
       "originalUrl": "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713?mod=world_major_1_pos4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -769,7 +1089,7 @@
       "originalUrl": "https://news.mit.edu/2021/vivienne-sze-crossing-hardwire-software-divide-efficient-ai-0428",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -911,352 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-increasing-use-of-facial-recognition-technology-in-china-faces-backlash-from-city-governments.md",
-      "title": "Increasing use of facial recognition technology in China faces backlash from city governments",
-      "excerpt": "After being highlighted for misuse on China’s annual Consumer Protection Gala in March, several cities in China are tightening the enforcement of regulations on facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/28/7e577dd1-4bbb-488c-b35c-f30b45c82b4e_fec3a579.jpg?itok=Ep94EP2D&v=1619603119",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
-      "publishedDateTime": "2021-04-28T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation.md",
-      "title": "Gartner says low-code, RPA, and AI driving growth in ‘hyperautomation’",
-      "excerpt": "Low-code, RPA, and AI are the key drivers for hyperautomation as enterprises try to automate and streamline data operations, Gartner said.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/rpa.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/amp/",
-      "publishedDateTime": "2021-04-28T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-amd-bets-on-strong-demand-for-chips-as-revenue-soars-93.md",
-      "title": "AMD bets on strong demand for chips as revenue soars 93%",
-      "excerpt": "AMD raised its annual revenue forecast on Tuesday, betting on strong demand for its chips used in data centers and personal computers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1231211568.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/amp/",
-      "publishedDateTime": "2021-04-28T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-podcast-ai-finds-its-voice.md",
-      "title": "Podcast: AI finds its voice",
-      "excerpt": "Today’s voice assistants are still a far cry from the hyper-intelligent thinking machines we’ve been musing about for decades. And it’s because that technology is actually the combination of three different skills: speech recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/04/28/1024099/podcast-ai-finds-speech-voice/",
-      "originalUrl": "https://www.technologyreview.com/2021/04/28/1024099/podcast-ai-finds-speech-voice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/IMWT-S2E3-Topper.jpg?w=1920",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/04/28/1024099/podcast-ai-finds-speech-voice/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/28/1024099/podcast-ai-finds-speech-voice/amp/",
-      "publishedDateTime": "2021-04-28T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending.md",
-      "title": "How Shopify aims to level the playing field with its machine learning-driven model of lending",
-      "excerpt": "Shopify is widely known for giving independent merchants a platform to start, run, market and manage their businesses. But over the past 5 years, the company has been steadily growing another part of its own business: Shopify Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/",
-      "originalUrl": "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1169040174.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/amp/",
-      "publishedDateTime": "2021-04-28T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-saas-provider-boostupai-nabs-6m-to-support-revenue-operations.md",
-      "title": "Saas provider BoostUp.ai nabs $6M to support revenue operations",
-      "excerpt": "BoostUp.ai picks up $6 million to further adoption of its revenue operations platform that unifies sales, marketing, and customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/BoostUp.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/amp/",
-      "publishedDateTime": "2021-04-28T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-plus-one-robotics-raises-33m-for-human-robot-collaboration-software.md",
-      "title": "Plus One Robotics Raises $33M For Human-Robot Collaboration Software",
-      "excerpt": "Plus One Robotics, a human-robot collaboration software company headquartered in San Antonio, has announced this week $33 million in Series B funding led by McRock Capital",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/04/20838845/plus-one-robotics-raises-33m-for-human-robot-collaboration-software",
-      "originalUrl": "https://www.benzinga.com/news/21/04/20838845/plus-one-robotics-raises-33m-for-human-robot-collaboration-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/archive-1850170_1920_1.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20838845",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20838845",
-      "publishedDateTime": "2021-04-28T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

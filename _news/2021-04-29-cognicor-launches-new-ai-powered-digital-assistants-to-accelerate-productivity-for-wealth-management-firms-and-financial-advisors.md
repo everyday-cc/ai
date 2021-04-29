@@ -1,29 +1,23 @@
 ---
 category: news
 title: "CogniCor Launches New AI-Powered Digital Assistants To Accelerate Productivity For Wealth Management Firms And Financial Advisors"
-excerpt: "CogniCor, the leading provider of artificial intelligence-powered digital assistants for the wealth management industry, today announced"
-publishedDateTime: 2021-04-29T10:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cognicor-launches-new-ai-powered-digital-assistants-to-accelerate-productivity-for-wealth-management-firms-and-financial-advisors-301279906.html"
-webUrl: "https://www.prnewswire.com/news-releases/cognicor-launches-new-ai-powered-digital-assistants-to-accelerate-productivity-for-wealth-management-firms-and-financial-advisors-301279906.html"
+excerpt: "CogniCor, the leading provider of artificial intelligence-powered digital assistants for the wealth management industry, today announced the launch of three new digital assistant modules to help wealth management firms support their employees and advisors with scalable solutions to their most labor-intensive and time-consuming operational issues and raise the efficiency and productivity of firms' internal support functions."
+publishedDateTime: 2021-04-29T05:00:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210429sf59737/cognicor-launches-new-ai-powered-digital-assistants-to-accelerate-productivity-for-wealth-management-firms-and-financial-advisors"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210429sf59737/cognicor-launches-new-ai-powered-digital-assistants-to-accelerate-productivity-for-wealth-management-firms-and-financial-advisors"
 type: article
-quality: 10
-heat: 10
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "PnktQvZ+U3xiZmZ13zmVigwNar74aNrNoWrLgtntxWR6ZodLVCUWC2BWHB/yMSTfRzOVIYzCt5jrGnPv4rqpJk1j33EQDxzM86CmA/YPtLCFuCswjWfsEE653eDdXhG8ixx9WDrd80q9ps+lXwMPc3DNWYd3mEWgLgZN2A6zovvzocHA5v1HksXBh2PA7HCRdpJHXAOHFY3gCHI6aappS9TyxsICAZ+pFAlNxI74S+McVjeKViz3yD4haUaSxkVy3f7bcMmZBh5pj/TUCCe3QHTLH3rejLEsTYVcRFFXWnzEFNPfRLMyGshTZVOZ9dKOGxFEiiYj9NA6e4QLr++v7pRNcrMU0f3SOaZbKIwTGg0=;tJIi0UFjkOarB81XBW/tAw=="
+secured: "xrVtc1aDEZGoxW6qryZkMdFLvIdtv192PIbKL6+JQTD+RlJUjLEoFmw3zKdxYm1Kn6CpLGlKscLQzlKf1HQRO+d2BhmNU4aP0p/gfExLw1XM/VpTAxVoyLLrGE7bYK+Ei/u/A5P4tKSl+D08KpRFL/FXcUB5H2zjjriQqu3Seohr70FA2+s8rDF+URWuskW5k/Pa1R8jy14IXWS0Ok2zENOQjZ4bP1SajV+N50C1+NvbonaiHeo9pAfWjy7QWVy/oUjg+iR3Q99B+5qCZ1Yr4+7BzYVCnu6NYkLWPBCIX9ViTjYnDsO2MoYUfXdylDhkpvqtAuzqyaRt4b2IE97HWl7gSIdEIzZa0fOn1GGo9SU=;AyOLfV04Zjjz+BLbXSGV0g=="
 ---
 

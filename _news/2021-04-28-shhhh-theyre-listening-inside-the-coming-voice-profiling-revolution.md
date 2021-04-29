@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Shhhh-they-re-listening-in
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Shhhh-they-re-listening-inside-the-coming-16135056.php"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,18 +22,18 @@ topics:
 
 related:
   - title: "Shhhh, they’re listening – inside the coming voice-profiling revolution"
-    excerpt: "Companies could soon tailor what they try to sell you based on the mood conveyed by the sound of your voice. Here's how that might play out."
-    publishedDateTime: 2021-04-29T09:50:00Z
-    webUrl: "https://thenextweb.com/news/shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution-syndication"
+    excerpt: "You decide to call a store that sells some hiking boots you’re thinking of buying. As you dial in, the computer of an artificial intelligence company hired by the store is activated. It retrieves its analysis of the speaking style you used when you phoned other companies the software firm services."
+    publishedDateTime: 2021-04-29T11:48:00Z
+    webUrl: "https://www.stgeorgeutah.com/news/archive/2021/04/29/prc-the-conversation-shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
+      name: St. George News
+      domain: stgeorgeutah.com
+    quality: 24
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FTalking-on-the-phone-voice-analysis-hed-2.jpg&signature=cb4d7164a7d3b4ab7f1ec9abe452bb20"
-        width: 1280
-        height: 640
+      - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/04/voiceprofiling-1290x726.jpg"
+        width: 1290
+        height: 726
         isCached: true
 
 secured: "jvqioUMrBed6GFYObzFsArck94Cx5nvhiph5vUUhy2X6RbX1hFWv1INHJ8xy7H52fF32iNXgGl3WDmmnwgnMewp+asaBlNLr4YYA+QiR0y57XPMNZigBVUQ2ZLdMHw7co+6aSvkk3KtgPdb2M3VelkKkDc8KjCXvQ0emOXQmKi2NKCz4a+2Tq1tvAulIRhQsiby/0WgLDC74ek8MACqtP/EAgz5RKT9f7JAa0PhabbF0LbCrFRb7zE9fgG/tBfrptUXQgnyINwd//O3rd/3rm4MeGIlCBqLQJ9iFXqriCEcNqVnhkAKt7QTkEC5kd9XQJDiNbDETLkvsS2P/LXr095qk3/a6RXZYorIghJgAykQ=;CSbT515cr5tbRrZpBjUd/w=="

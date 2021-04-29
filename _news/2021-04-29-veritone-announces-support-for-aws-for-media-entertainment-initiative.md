@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/veritone-anno
 webUrl: "https://www.joplinglobe.com/region/national_business/veritone-announces-support-for-aws-for-media-entertainment-initiative/article_dd4d82fa-14e0-5319-82d2-4e1fbecc3174.html"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "EMAM announces support for the AWS Media & Entertainment Initiative."
+    excerpt: "EMAM announces support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to accelerate the adoption of cloud media"
+    publishedDateTime: 2021-04-29T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-announces-support-for-the-aws-media-entertainment-initiative/article_88c17de6-c6d1-5956-a827-8a11f9f24106.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "ThinkAnalytics supports AWS for Media & Entertainment initiative"
     excerpt: "ThinkAnalytics is supporting the AWS for Media & Entertainment initiative. ThinkAnalytics' API integration with Amazon Personalize enables the creation of real-time personalized user experiences faster at scale."
     publishedDateTime: 2021-04-29T07:38:00Z
@@ -35,6 +49,6 @@ related:
       domain: digitaltvnews.net
     quality: 34
 
-secured: "POT9pqIh6fJmQdm4jb44H9ZE8spXIRUAYMu1Mes6iFiWOFUtxyO3nJc1xxeg5C7kwPWBt9KfAr5Exw2K9FzM11o7DW0N2nzBoMn7GUNs7828b6t5ZsYYRibgoRCr9I5SNozyX3zm6sU62xuGX+tnlvmVu4d9ZKwCj0ZcKUsVt7lFtR4YtlJUL9Cwqqk0JT5Byw70VHaleaTE8HJfDWhOII+lyNCzoX67qKQVai+11FTtxxM2+MTK7SSDd4pDgSMT32nmsUv01cN7TfhbRRyr84ylEBoSiK6MANAHFmwSbU9TKol1tR3EYaNtw18EUddK6tBgBmV1LBtqGqxPhoojSLaiCWK+kYCSkcFRXivkDwY=;00Cvf+DUE/mcRRb8AK2ptA=="
+secured: "I20pfaFYsFyvXOtIiM8Yd5dvthZZZzpWe8mLr5pqxPTo+/OYcvkHc18P03/0+AQiZHx0p+SJ0nvrToPsTHki4Nyj4LCzyhAXqHIFEkEfbHqlDUnULNGkLU+fzvpbDS7cD3nBPZEimXideoclTQh7f+p2IJHRAlQK8MHTXDYGWYiAIjZerhN8k4+W/Jo3AkppKz/DGBHt7xUtftu9N3Lx8uoONZM+OnitNlHKl2D2IGt1J26qQ1dPDTaAlCRcufWgv0Va5wyyqgEQnAxw4tMlvrQhgk2nb8XmiKr4GtuY1C52rTaMMHlEvtDGGjzg/2QmnfQ+wucuiD2s5HoLubpgJXCqT/bo1g/FZItCjs+aMxy00k3fxqDtcmRG0RTzOqxP/1EOR/+duYUfxzJnlqq6ypjpmnohjvwMrsolaaEzXALpztGVO1ZqwhVGd9l+AttefUkC134usel2yVucGJjLGOVWYHXSzXqto1EtRv/7lbQuAACJksKXjsuILQ6oqgaaTWXMhnnYlzG9jsiL3KXyQA==;xDYxIi7AbU08jpB71QgNPw=="
 ---
 

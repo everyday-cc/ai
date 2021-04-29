@@ -93,6 +93,20 @@ related:
         width: 696
         height: 464
         isCached: true
+  - title: "IO, IO, off to Microsoft’s cloud we go: Excelero hits Azure"
+    excerpt: "Excelero has made its scale-out NVMe-oF array software available on Azure. NVMe-oF (NVMe-over-Fabric) extends a server’s PCIe/NVMe protocol across network links. This means a server application can access remote flash drives for block data at  RDMA speeds."
+    publishedDateTime: 2021-04-29T14:48:00Z
+    webUrl: "https://blocksandfiles.com/2021/04/29/excelero-says-hi-to-azure-and-jumps-aboard/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 54
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2018/10/Excelero-splash.jpg"
+        width: 803
+        height: 534
+        isCached: true
   - title: "Feature Store: Are Google And Microsoft Late To The Party?"
     excerpt: "AWS launched Amazon SageMaker Feature Store — a fully managed and purpose-built repository to store, update, retrieve and share machine learning features for trai"
     publishedDateTime: 2021-04-26T12:31:00Z

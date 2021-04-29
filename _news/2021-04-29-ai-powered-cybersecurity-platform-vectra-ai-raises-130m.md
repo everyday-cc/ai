@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-ve
 ampWebUrl: "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/amp/"
 type: article
-quality: 87
-heat: 147
+quality: 89
+heat: 149
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1171615768-1-e1619463823181.jpg?w=1200&strip=all"
@@ -114,13 +115,13 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 34
+    quality: 36
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/06/vectra.png"
         width: 851
         height: 478
         isCached: true
 
-secured: "YECW8RLNupeLdKFxf9RrnpztZnh5xvH+BCIGZeGC6nc4UGQb9H32p5qdE76NLuGe1mykEInGaDI3G6VgdXbjLZTH8VzWominc33ZBfzuKND7aT1MY1YDBcsVEaeLNNtC5ACvbtoFb/kESub07voeWgcqcFDH+5h9xL+NR8G4bcdW4zSkJrmcNmonk9owZBLFBZGFPw8ObfTlRZERuQPEZ6t6T8ZKUNsOGHwffcrjZ/I7KjQ01X6zygvpnHfdAvwv71iIbu9yIEGrpPY6BqOic74lgnVk6eHfkxeeK/KfvLunJZj9OYEAmQH/xrODWTOfxWiKXSCikJiqVE2SxeK8iRtYULhb0Pqp2ZMv6GZFG/8=;o86+wx5U/ZhOA307qmkwWw=="
+secured: "65WN4qIkioNzk2aH2VgSM+J9rxtseQprBUEy/P7zH6tTddOjj+SYRriAFeqf1+MGDQJehwnFLbagzeJng1PApFoV0bDghKUsHqHpU8Qbh4H60H8Jl7ZuylIvX5osF2FdCTjrYwYHjvoRqxyVdKU7UMiyGIWrjmBNYDz5TM5dvaWOAgWp7BmQTWI/K4loId4VUd2U2HCm9FtV8KlUvRNSMZ4b9FvB8x4VkBRCMyl8Auyu3uUUIfudAS7xjzdv7N6RYhYeC/Z5GJGAhEoAI25sPTRv0h0hTzCiAP8fdQXEZPRGPfWwVnRl/pYWxfKQQKfCeVoPXG64D9C+huZNr+ACrv5ifKmd+QeG230doTLMR21rbzo/CtnzwxdvQM073tRQDhDL38rfdTN1b3z1nZyOxkM33PruaBQn8zV/9jp6zGSocA6VGaeeTa+1TalIiISx8MHku39FgpoT80Qh0aA3xJ0q+Xz6eD+emR+XyK6mXr1DAq3bVyxkzenOUAYtwQSUCs7V0rZ+ysYvas1y6nhSEg==;2EIbnqDCHy2wP8Jqd2xwNg=="
 ---
 

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "EMAM announces support for the AWS Media & Entertainment Initiative."
+    excerpt: "EMAM announces support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to accelerate the adoption of cloud media"
+    publishedDateTime: 2021-04-29T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-announces-support-for-the-aws-media-entertainment-initiative/article_88c17de6-c6d1-5956-a827-8a11f9f24106.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Veritone Announces Support for AWS for Media & Entertainment Initiative"
     excerpt: "(Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, announced support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to simplify how content owners organize,"
     publishedDateTime: 2021-04-29T11:31:00Z

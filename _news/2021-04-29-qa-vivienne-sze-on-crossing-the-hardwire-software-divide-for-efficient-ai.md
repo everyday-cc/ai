@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/vivienne-sze-crossing-hardwire-software-
 webUrl: "https://news.mit.edu/2021/vivienne-sze-crossing-hardwire-software-divide-efficient-ai-0428"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Q&A: Vivienne Sze on crossing the hardware-software divide for efficient artificial intelligence"
+    excerpt: "Vivienne Sze is an MIT researcher who is co-designing artificial intelligence hardware and software to be more energy efficient."
+    publishedDateTime: 2021-04-28T20:10:00Z
+    webUrl: "https://news.mit.edu/2021/vivienne-sze-crossing-hardware-software-divide-efficient-ai-0428"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 56
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202104/vivienne-sze-mit-00.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Decoupling Software-Hardware Dependency In Deep Learning"
     excerpt: "The deep learning community has realised that the time is ripe to decouple software-hardware dependencies for progress."
     publishedDateTime: 2021-04-28T10:30:00Z
