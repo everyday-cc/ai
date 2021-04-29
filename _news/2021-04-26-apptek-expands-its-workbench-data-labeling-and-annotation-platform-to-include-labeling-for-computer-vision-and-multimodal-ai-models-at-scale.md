@@ -1,20 +1,18 @@
 ---
 category: news
 title: "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale"
-excerpt: "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), natural language ..."
-publishedDateTime: 2021-04-26T16:54:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20796180"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20796180"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
+publishedDateTime: 2021-04-26T16:40:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
 type: article
-quality: 41
-heat: 41
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
@@ -22,9 +20,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://mma.prnewswire.com/media/1496629/AppTek.jpg"
-    width: 400
-    height: 286
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630"
+    width: 880
+    height: 630
     isCached: true
 
 related:
@@ -38,6 +36,6 @@ related:
       domain: ieee.org
     quality: 0
 
-secured: "zR9CBTzUx4zU+1uO6MG3CPNa83J1/aNa2nLCXeQdAnXU0IKARoQxSSVudU2VLRIRfZQvi6AiVzDXM0p0nubhCIeX175GkvsduyfZCYU53cCtWh2uV4PvuiKzudmYrXryz8bl44tvGOhBv6WsJEkVgZDlhVSb+JC6rHW7IPvy5FCWDO1Wh9J758492LqsFTjS8C8rEFvCj11pfd71gN2nRATyJqAdAhe1OqYe5AmswzACcPRi1CYeJhTl6a4aME0yVN7eG/RbsFUm32oTay9c7qSzLKB3rV1j6S8iZgj3r6KFqF92xeQJ0LDY+Sl4rRH/fTVh0/NFCb54m+MAqdmXvDBirR8WtkgW3nfGPKn9R2U=;e2qIH3AX4FjMtSM1zxbFxQ=="
+secured: "0Nd9NGKW08QalEUDU7h/zL0jlzs+5fQU2JGEQTB2LRcDU9OcJvJUpVMBP2xLEJ6cBcGuEkqNtaewklf7uhutX3QFmwjGBq88iXrUtjOVMcgvdiJ5QLxqAcQdHx5O9aCbE/dMTwfmZfBPKJO/jjmfxvQ7PbYAzvhogjHkAuwcZECzjFhqaD4hHweHaGe8YmS29u6Thq3nAeYhZoiQd7A3TlLCgh0bEVD1xzqO5RO7BVq0yFwcC0sVybdYT83xbtSABKriuLryLDJzjob3rjEZpDZGC8kKhhAAYyTe4MmSWwAs6r+ZHqvjkAA6cYEPcOsbwPm+yRdvUvaJTfrsg9B28LVlpOB55FPdNIHGtDFDl1w=;GrpcyMIwMHxX7v8O9PZXmA=="
 ---
 

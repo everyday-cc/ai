@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Dynamic Yield's Deep Learning Product Recommendations Generate Exponential Revenue Returns"
-excerpt: "Dynamic Yield, the Experience Optimization platform, today announced the gradual release of its state-of-the-art, self-training Deep Learning Recommendations Algorithm, enabling brands to predict"
-publishedDateTime: 2021-04-28T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dynamic-yields-deep-learning-product-recommendations-generate-exponential-revenue-returns/article_764ef7af-d05e-5206-b920-a9c6d6157022.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dynamic-yields-deep-learning-product-recommendations-generate-exponential-revenue-returns/article_764ef7af-d05e-5206-b920-a9c6d6157022.html"
+excerpt: "Customers implementing the self-training algorithm have witnessed double-digit uplifts in purchases and incremental revenue, compared to other"
+publishedDateTime: 2021-04-28T08:33:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/dynamic-yield-s-deep-learning-product-recommendations-generate-exponential-revenue-returns-1030356558"
+webUrl: "https://markets.businessinsider.com/news/stocks/dynamic-yield-s-deep-learning-product-recommendations-generate-exponential-revenue-returns-1030356558"
 type: article
-quality: 29
-heat: 29
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Dynamic Yield's Deep Learning Product Recommendations Generate Exponential Revenue Returns"
@@ -40,6 +38,6 @@ related:
         height: 315
         isCached: true
 
-secured: "tSXccUaEJI11f6Tydj8+HkzB1m4QAYmd6yweuzjJsX6ss0W1CfZ7k4WAwuZe1oB1VtYh2Y9n5VK0Gj3vFrios6Ek3YD3Yyl+Fvl1pRqXSiDMD9x0Gl0JoLePNtCoDOAf6unKsG9dWNx8oangFw4CGr1ZhIdQJCUmfVQlfjNMY0ZjhoMdDifNBdeSXcwPdUKLv8VGWclED3msl+ZT42sutaNZcJP2tzZ++/a3Knr4IC9G/9rvVyK5dLRosl0rOwdI9/LZ2lUuoIWtFyi/6UUFGNJUcvxPaWWIMQHpBR3fsiWHsIILP6fJAEwakve+qVgZaBuQlgK65pX4GlfhhpZ19lupLZnvD16bpWVbhTj8kWg=;7fDf7Ul1TqlwWuv5tJfL6w=="
+secured: "DgOK7zyWs4gS+DeXRfnwTDJ632uj7d0hmtMGoTpb1aPrGhUidP6cnI61nJKebXd+4lHlxnU4EisuBa0v3qQuoExF2lwa/PbmSLjbyEX0I0KTvT1YSTfEZyW/cK88ONfms0w9P9VCdwsKOfgy4h/1iQ4E01QyZa0BuzrQ5trZf6d+nXa55euBBn4vuLbT+x6azuNntxUNfE1FyQp4uQx2keKmeZVqYTToWJ32M8fbgPaV3j4mraHZhUGoQJ6deMi4nLD8ZYs8F1fl6MoQQen2WnuICV3v7vWULOHIn1kxI+WbbvZPAOiUAvTAGd9Bzcxr71397Iy1rk+qR+F15UezFjd3AgGeRnwaaYsvqyl++Fc=;ZflnoY7ZBSW6iHuV2pfPhw=="
 ---
 

@@ -101,6 +101,20 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Self-Driving Cars Approved In UK"
+    excerpt: "The government said the use of Automated Lane Keeping Systems would be restricted to motorways at speeds under 37 miles (60 km) per hour."
+    publishedDateTime: 2021-04-29T13:04:00Z
+    webUrl: "https://www.fenderbender.com/articles/16454-self-driving-cars-approved-in-uk"
+    type: article
+    provider:
+      name: FenderBender
+      domain: fenderbender.com
+    quality: 24
+    images:
+      - url: "https://www.fenderbender.com/ext/resources/Ford_Fusion_AV_01_HR1.jpg?height=635&t=1489423231&width=1200"
+        width: 1200
+        height: 589
+        isCached: true
   - title: "Self-driving vehicles to become legal in the UK this year"
     excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."
     publishedDateTime: 2021-04-28T13:53:00Z
@@ -111,6 +125,6 @@ related:
       domain: iottechnews.com
     quality: 4
 
-secured: "rvTSaE03z59SfpNejfaYsCjxcU7OFBUac2Teq37TNpLMoAMX+frawXxwx98SYtkgTrrgBgmgobWIClmhQO8B2HnbMosjX4oNEdSEgZUPDasOBUvgfrjOMZO9e5zfIOkWzhqYWvhAwX+x9LxDgY6LDIXpGKrJLcqtirNcUEXDFvak5/R7MvaSMNf4s1KLuD4MG6HI8DdgZtv7M9UDZ/wXhSOY3r1LdT+/vudU66pE3ka3KmLx1xr4KK0Aj5Im+S1ozQQs5/rZUOGB2JYYO26HSPxX1H9N1pJiC2WdQMqUgdXdw+zED5tP9p+w/QsQ5xoAH5L9OFYRpj4lxiETaQfZlzu7l3cc22Y9edo9rbJSpQs=;Ur3WiEPt5HOeH4pIq79RHw=="
+secured: "6linz7BHhipDsaXc13YYnZjAQZehTmWOIyaaFiuV7wRHLLatvwDKrKgIXRP5Q9BXDBhcUrLWo8oRbY8R6IBO2MwSsyTjrbJoR5kYpHFWuJJw33aY62S2asG3U9NhfWWzwRRsimTvEjrnVf4bwLV3s+Tk663OaTuyQcrGojoe8uwA9s8nn9Qi5T4U3G69ZY1ari1KtIfk2idKPKmLV7qKvBmegFRhIa2nSRzFv6JsDI+v2Bp/OzCvIIPUqg4mm2CSmWn5HAc/9pcNg05T8tshGlmELSMJEdrdWFwv+hLs1RybfKvr8uBHrf+qCU2LiHp4YQmiqUS6nC7UNlJSK3IB3l13frHZqqQDkt5wPfwdvupfF6fYBTJw/dNJkQc3pbCDpeIT2gV0lE0i/0YKkbiYPQimBAmz+PjwOpJEIWhwx/sq/faiAN5P926lUHN2iJZ8uruFmfzMZzP9qv1WWOMmdi0NQXezulbN1n9Jl0e3wN1QlT+Wv+yUXbXQ7ld1KDKraVfZ2b+mg4Zf6u4O/LN8SQ==;yfj4kEA0BqAxypBA6YUuMg=="
 ---
 

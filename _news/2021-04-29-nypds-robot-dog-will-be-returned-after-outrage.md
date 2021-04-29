@@ -1,31 +1,53 @@
 ---
 category: news
 title: "NYPD’s robot dog will be returned after outrage"
-excerpt: "The NYPD will return “Digidog” — the robotic police dog that sent tongues wagging and local politicians howling, The Post confirmed on Wednesday."
-publishedDateTime: 2021-04-29T03:05:00Z
-originalUrl: "https://nypost.com/2021/04/28/nypds-robot-dog-will-be-returned-after-outrage/"
-webUrl: "https://nypost.com/2021/04/28/nypds-robot-dog-will-be-returned-after-outrage/"
-ampWebUrl: "https://nypost.com/2021/04/28/nypds-robot-dog-will-be-returned-after-outrage/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/28/nypds-robot-dog-will-be-returned-after-outrage/amp/"
+excerpt: "The NYPD will part ways with “Digidog,” the robotic police dog that became the subject of a City Council subpoena after images of it went viral."
+publishedDateTime: 2021-04-29T12:45:00Z
+originalUrl: "https://www.foxnews.com/us/nypd-robot-dog-returned-after-outrage"
+webUrl: "https://www.foxnews.com/us/nypd-robot-dog-returned-after-outrage"
+ampWebUrl: "https://www.foxnews.com/us/nypd-robot-dog-returned-after-outrage.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/nypd-robot-dog-returned-after-outrage.amp"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/nypd-returns-robot-dog-071.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/720/405/nypd.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
-secured: "yRteKXhNHzgOM3M6ynj6FAjZoiMNK1Q3zkB8KvdjVE1XgsgnUp9jBgrwmM49dYrdI6cmCpVS7WJJvkdk2QKlaMezig8smqfEeM4QG9bVg6JyONXrxLlCVgZpA9+Ooxr8/m83MqN0fEUN2JAdfaZorq2WFHrDe58SQ7NimxMJ1493jFk+WglfNWtkMscS+zKsW/B5KCOORwZV4JeM4d/ammqXkl3ip1U+BtQohUvqvKkhi9xY3gnCO8ID7RxFL5IzLltfe+fgxU3tF/OahxZhjDMkswIMLSqlChlVPcFo6Xkp5jL0kdPBrfvSzF5uHW9J+TWAcarRboa16tWpZvJQksW/wp6p75wveBD5eVmP/HT2f/LYF4r1jRJ2NNMyt2GxkXffD89935SK1RYwFLRxN7/f/qUbqglud3At1L7D531g9WD2U9LG6IaXwgu6QqGYVmvCH1q85N7a+vX4SxtFBU5eCDEjkU85NjYX8VSAe590Nqnje3n9ckVGo1CL+jFxCw+Wd27/R+tMy/YfNNIyiQ==;jxcJ475WJeONZ0nuwBr5QQ=="
+related:
+  - title: "NYPD's robot dog is axed after AOC said it targeted low income communities of color"
+    excerpt: "The NYPD will return its Digidog after it faced pressure from politicians including Mayor Bill de Blasio who urged the department to rethink its 'Black Mirror' pooch, it has been revealed."
+    publishedDateTime: 2021-04-29T13:48:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9523845/NYPDs-robot-dog-canceled-pressure-Blasio-rethink-black-mirror-pooch.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9523845/amp/NYPDs-robot-dog-canceled-pressure-Blasio-rethink-black-mirror-pooch.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9523845/amp/NYPDs-robot-dog-canceled-pressure-Blasio-rethink-black-mirror-pooch.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 68
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/04/29/06/42352892-0-image-a-4_1619673421239.jpg"
+        width: 636
+        height: 382
+        isCached: true
+
+secured: "USqt60AFVxoT1WXzDeZ4A+JOUOhkQQSXKI/wVXQTaMBlqkNCvto0L2K4vhiKzPSmqT+g04gGDVWNptRnnmJ5lZsKM+FWML+lUtXVb7SyfQjftjgBeWurpeovgqnRDgkRhX74qNgjGlxV61nHwE+y23xf9VN6KCg+CYbqTCwBGV9WxkmZQLZPq7s/w9nyEJfzxg8y6Qpn+LqaR4A9QQO6+cIg9/It9oThIl8o7t7sqX+ZboyYgU/LRHmS7YfA7B7spImwowglmV0H5FyTHZuwOeEXGjaNqlimYTKdGYSAoxXwIPGk7xrT+9RZC131aZTTsiisYO51CGUeBAgwDrKGavJR3bpmMaBx1fh4nxFImJk=;dU2BfKWpL5dUh0cMczG3ag=="
 ---
 

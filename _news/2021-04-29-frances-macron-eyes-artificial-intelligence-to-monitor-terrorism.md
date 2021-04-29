@@ -2,9 +2,9 @@
 category: news
 title: "France’s Macron Eyes Artificial Intelligence to Monitor Terrorism"
 excerpt: "The French president is under intense pressure to crack down on terrorism as well as Islamist separatism, an ideology his government says fuels attacks by radicalizing segments of the country’s Muslim minority."
-publishedDateTime: 2021-04-28T20:55:00Z
-originalUrl: "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713"
-webUrl: "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713"
+publishedDateTime: 2021-04-29T01:55:00Z
+originalUrl: "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713?mod=world_major_1_pos4"
+webUrl: "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713?mod=world_major_1_pos4"
 ampWebUrl: "https://www.wsj.com/amp/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "IodPfQpZvg2IMuvVlfKE+lFEeWHYctEN8AVNYP9eoe6UONLpOpFAIboGBm7RnaENs9ssjlMElVfMg2y3KFEfgCyjwq9fSvkPMJSLEVy2aWi0H7R9hEATNJnJsoaUSjpfMuqtdW5kfYkNAS9FLqhXN66Rg4g/a3iSkAQXQUGbTVDai236Crq5+AUp7mMjXzbcJrsugEjieabC9vFoHb5R22d0YAcPo/EvIvm7/x6ld840Fk9/hNnwV/GrKvEFDzKLMOpn+08EylIWfKvm3vCnnGJsaqct5vOAqQfMtAq5JJvXx2JMqPzk+e7jXL9bdU4DUPxSlCFBmUgLYoEQrKqH7mbQ7IxDkLAyTmJxndfkn1335nPrU4AfJwCEMxivHLS4nD3ez7h96ggSZATLHN4CzTC6WxCclK/kEdS+bTJYd8biHeLosXyM6xylwg3tSsEkn9fKTLLyFtLNtofVOhceicEjcSVvb97QmBYse/wGRJ9vAUN9T8iayhrEM8SdwPBf7yMCamqrVdyr576K2DjV1g==;8hky/pGjVLH1vYPig5JtUg=="
+secured: "B+SRNM8l4I7EBIq1gMNqC9krGvxKjb25dhh7mvzkZyzimxFEAab718ehQxQjvGCEnyHg3L2EnJrj+c3pNYcUDNM/Ceq/mJu9xguSmHhbjaPyCY3ztbuhXpddlRIzF/1bk7da6bhlWGQF8K54nv/HIkRWYhO1z552ddMek2WCMEKx4Z/gGoz1kCGhMpfoGOuqkVZ6K8rP4u24DYUR6HkfCtyTPUm7DiAasvbRRcMFVYW0iyB4bPV53ybDpFP8omRTDEGphLeTqCmhdeVuWNNhHwYdC+qjOO7BfIDTeJ0HXccnezgiZj0Ug1xqhkdTwcfj/BsPAh3aXg3zb3WlKE/vJrEv/rX+HaUTTva9Rv7r/Go=;f/8Nb2nhGH+d4C6jJqZzfw=="
 ---
 

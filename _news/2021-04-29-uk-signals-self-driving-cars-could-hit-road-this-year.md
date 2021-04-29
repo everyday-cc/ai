@@ -101,6 +101,20 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Self-Driving Cars Approved In UK"
+    excerpt: "The government said the use of Automated Lane Keeping Systems would be restricted to motorways at speeds under 37 miles (60 km) per hour."
+    publishedDateTime: 2021-04-29T13:04:00Z
+    webUrl: "https://www.fenderbender.com/articles/16454-self-driving-cars-approved-in-uk"
+    type: article
+    provider:
+      name: FenderBender
+      domain: fenderbender.com
+    quality: 24
+    images:
+      - url: "https://www.fenderbender.com/ext/resources/Ford_Fusion_AV_01_HR1.jpg?height=635&t=1489423231&width=1200"
+        width: 1200
+        height: 589
+        isCached: true
   - title: "Self-driving vehicles to become legal in the UK this year"
     excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."
     publishedDateTime: 2021-04-28T13:53:00Z

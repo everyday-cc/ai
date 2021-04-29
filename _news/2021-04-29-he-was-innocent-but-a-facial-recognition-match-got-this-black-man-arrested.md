@@ -1,29 +1,35 @@
 ---
 category: news
 title: "He was innocent. But a facial recognition 'match' got this Black man arrested"
-excerpt: "Nijeer Parks couldn't have committed the crime. That didn't stop police from arresting him based off of a false facial recognition match. Here's why the technology can often misidentify Black"
-publishedDateTime: 2021-04-29T10:53:00Z
-originalUrl: "https://www.djournal.com/news/national/he-was-innocent-but-a-facial-recognition-match-got-this-black-man-arrested/video_4b0ece99-a549-5c25-8045-81f1c0f27039.html"
-webUrl: "https://www.djournal.com/news/national/he-was-innocent-but-a-facial-recognition-match-got-this-black-man-arrested/video_4b0ece99-a549-5c25-8045-81f1c0f27039.html"
+excerpt: "Nijeer Parks couldn't have committed the crime. That didn't stop police from arresting him based off of a false facial recognition match. Here's why the technology can often misidentify Black people,"
+publishedDateTime: 2021-04-29T11:42:00Z
+originalUrl: "https://www.cnn.com/videos/business/2021/04/23/nijeer-parks-facial-recognition-arrest-orig.cnn-business"
+webUrl: "https://www.cnn.com/videos/business/2021/04/23/nijeer-parks-facial-recognition-arrest-orig.cnn-business"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/04/23/nijeer-parks-facial-recognition-arrest-orig.cnn-business"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/04/23/nijeer-parks-facial-recognition-arrest-orig.cnn-business"
 type: article
-quality: 36
-heat: 36
-published: false
+quality: 86
+heat: 86
+published: true
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/4/b0/4b0ece99-a549-5c25-8045-81f1c0f27039/608a9fc37844b.image.jpg?resize=576%2C324"
-    width: 576
-    height: 324
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414200721-restricted-02-false-facial-recognition-match-nijeer-parks-story-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
-secured: "kJcKktbh8X5mN16d6bOSofhLIbXGnk+5M2xW1Ar7e63/7zSrgZmniK2JLQcJ6VdEeRyP6awfFMPPJYGs8h6K/t1i4rcpm2Axkuen/A78WLYkxzPhF9uTlO0XRgoU1AL3uawAxvuR2UTelv1FCOIXJgNWapKuKSOD/EeKLNTnwchDNey2TF2xZD3Q61tkp9EtcwI7xLswW38lFq8jsK6G2vXTqKcBdQpE4OVtPhR+Hmu4ExFWUdNqC9uE1G3Y+uLU0qdCJr85Rygct9Qqnf5viAG/6p2iwmyeFtajTjY6AqfJnJ3uX2udXX1p7OuFKaMQIvKITuQJ+TTHR3IITODTtzPNKSU7myyfMUssh5ycdlQ=;u4+gGb+lliQWNOohtGwbPA=="
+secured: "46rRpaxX2XmabBK+6SZBBTWPG+dFeV6WOD+6h6o91xJniTA7TrliV9ZntdmBcYGePaTk1kXZIMoeiYE8S+x7vup0iYiha4NPjlutgQt63q0DMp8kMTvs8RvzQSbgjtN0ZiFb/KV6yAQXwbfpgxLDBrVQSat/txZuYk1HAHrgehzRsNkXrZOt5Ucrnv4imruIAF0kf6bKovBh/Qgdj1SwWnhGnS5f2iQyJZJkPDySe9fwxUz1hqkJD+Rv5EyQhtJrAs2pzAO1D/aKh6egfsboGu3HDOBnqW83OAPrM+t1JEYoqvc1DfeWV4Jw4Ek64vRzHTz6cFET00zW6XsoPMzX+cU3oy0iADWkwD8+MtAhTTs=;8D496XASjIIZEb/+1N7WFw=="
 ---
 

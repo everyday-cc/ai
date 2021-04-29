@@ -109,6 +109,20 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Self-Driving Cars Approved In UK"
+    excerpt: "The government said the use of Automated Lane Keeping Systems would be restricted to motorways at speeds under 37 miles (60 km) per hour."
+    publishedDateTime: 2021-04-29T13:04:00Z
+    webUrl: "https://www.fenderbender.com/articles/16454-self-driving-cars-approved-in-uk"
+    type: article
+    provider:
+      name: FenderBender
+      domain: fenderbender.com
+    quality: 24
+    images:
+      - url: "https://www.fenderbender.com/ext/resources/Ford_Fusion_AV_01_HR1.jpg?height=635&t=1489423231&width=1200"
+        width: 1200
+        height: 589
+        isCached: true
 
 secured: "Ohg2F8YfixSFB25X39cLaTxJ4Ixjp3bdCUDfHF0woSyVDMCJvEZVyCE1F4SePPgCqDzU+q9BuVGTsXjtmGr81RuQsFs7+62pZrFGOCdVTmWk/Cquvaz7LJ9LtZVSyNpefLZ70ANrp3T2SP8p6QLYvK7jxTkyCW/ZqjgDTs/5+sXE457KC7WtxE+8wwKzC0sNNW1tmGaFyi2N0unQRsSfd5PMK1m9PmM2bTkrRUo0xKudJWO5pLI9C1/TOI1wvOyDSEZdxjUh/Hm25dc9W7D1xQajX3/CxxzYXgLKVf4bDL6/+uYg6QtbOJPGAk/kh4C3SZKIzIX496iBdzmaAsddDmAfX0ZcVE/gYMtn0Sc58a0n3gMfgbcmhz4hAzDKAV+hyICRaERNOd5u/oWjZD0LoL4r5tlTLNhiLqQZ8raoLGFcsfUQx0GRsYE9dZwjk72mtpjL7j4yoHA3DHt2TQ0QT/ViuRBVA5FXGOIgspY5XYE2DpSA5IIDTMPFrBhH6z6IYhD1WXNb9+rMbzbQavJeMg==;xcYRub6o9xFSXptLTJD3Mg=="
 ---
