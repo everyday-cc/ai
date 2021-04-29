@@ -255,7 +255,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -477,6 +477,40 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-5-robotics-stocks-that-will-make-your-life-easier.md",
+      "title": "5 Robotics Stocks That Will Make Your Life Easier",
+      "excerpt": "Robotics stocks are also part of this trend, which will transform the way we live for the better. According to one report, the robotics market will increase to $176.8 billion by 2025 from $76.6 billion in 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-robotics-stocks-that-will-make-your-life-easier-2021-04-22",
+      "originalUrl": "https://www.nasdaq.com/articles/5-robotics-stocks-that-will-make-your-life-easier-2021-04-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1031,10 +1065,10 @@
     {
       "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
       "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
-      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 99.4% from its 52-week low price of $18.",
+      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1044,12 +1078,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T15:00:00-07:00",
+      "publishedDateTime": "2021-04-15T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1337,49 +1380,6 @@
       "provider": {
         "name": "hrexecutive",
         "domain": "hrexecutive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-robots-will-not-take-jobs-if-cios-start-preparing-the-workforce-now.md",
-      "title": "Robots will not take jobs — if CIOs start preparing the workforce now",
-      "excerpt": "On the whole, emerging technologies are \"unfolding gradually\" with time for companies and workers to adapt, MIT Sloan affiliates said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciodive.com/news/MIT-Sloan-CIO-symposium-future-work-automation/598329/",
-      "originalUrl": "https://www.ciodive.com/news/MIT-Sloan-CIO-symposium-future-work-automation/598329/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ciodive.com/user_media/cache/ab/f8/abf891e27d1a07668c053b648db45cc8.jpg",
-          "width": 770,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Dive",
-        "domain": "ciodive.com",
         "images": null,
         "publishers": null,
         "authors": null

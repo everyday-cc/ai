@@ -1,45 +1,26 @@
 ---
 category: news
 title: "Everest Group Names Automation Anywhere a Leader in the Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment 2021"
-excerpt: "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and"
+excerpt: "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has"
 publishedDateTime: 2021-04-20T18:21:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak-matrix-assessment-2021-301273025.html"
-webUrl: "https://www.prnewswire.com/news-releases/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak-matrix-assessment-2021-301273025.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/541440/Automation_Anywhere_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/13/e1315a66-88de-5c0c-ae7d-2d6c5ab1d280/60880f21240e9.image.jpg?resize=1200%2C442"
+    width: 1200
+    height: 442
     isCached: true
 
-related:
-  - title: "Cognitive document processing for automated mortgage processing"
-    excerpt: "This post was guest authored by AWS Advanced Consulting Partner Quantiphi. The mortgage industry is highly complex and largely dependent on documents for the information required across different stages in their business value chain. Day-to-day operations for mortgage underwriting, property appraisal,"
-    publishedDateTime: 2021-04-23T17:13:43Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/cognitive-document-processing-for-automated-mortgage-processing/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/23/1-Extracted-Data.jpg"
-        width: 800
-        height: 365
-        isCached: true
-
-secured: "slJMezTePCWpImsL7N++bvC6tBW96PJOYE8rEzotlccXzTipziqLmsPAiOjquU+YeOwjF/cfBJWWJN0T0eDHc7W5xCgE6wHCnoUNOdocY+FIWnKxgOg+pCEwi9krr6DIgR9paEuFNJbp+pIbUA1vo+UnA4phR8mvWJKr2xYr5f9JNHsMoxhtzJyxohhe5+xO0c2it3WksZX73OnDWP511J5IlJQnnnE3Fuql2kNH/hZO3e9yFNzwv/Xi5rm8afME+nqSrmXGmOJJBTcYHYTwn1P/PJEI51TXNEv0fIl6PvBqBqXwqf4FRIYdUKBJ9w6mRX7TsmE9G56osnfFtBOi0q+B3/o4n+us1BfBHScNNhU=;0BAZoPAk6+dhonLecUCROQ=="
+secured: "H3NbXehepuPummqM6fgcyp+FI8aN3WnCwwO5hIUg6RsAnSRsroieWdR3wpChKkBWN4/NZ1s8PmjfVpeAAYhUsCuNj+NqsCgPZTJlWLcZDtfjuUKYj1bNsRo6Y2Qx6/J2OojzaMu3CPle6cremI0BdSLqMLRBcRN9EM7CBFy4MQYONLRhqTeuuj5H014CroTHRwYAlSDyFsSr0gBzvmiNutIeUOrlfY+ocmu7pewrTJnUBEELWQwHXFXHR2mPGA09jeMS3CHTodaevd0a8auKsm+UlWXPTLa5ujw7Ndq1Qw+CeW/KO7rZs6kv4PqthdlvTulSIp5Mosr2VP8xsPLyQaVYNDyA8F6ZhlhLyfgzNHc=;7zCO7u4oMs3Pso9hQM54xg=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-29-baidu-will-offer-first-paid-robotaxi-service-in-china-next-month-letting-people-hail-rides-without-drivers.md",
+      "title": "Baidu will offer first paid robotaxi service in China next month, letting people hail rides without drivers",
+      "excerpt": "Baidu will allow people to order autonomous taxis on May 2 in an industrial park in western Beijing as competition heats up in the race to develop autonomous driving tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-first-paid-robotaxi-service-china-next-month-letting",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-first-paid-robotaxi-service-china-next-month-letting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/29/e667bbee-ecd2-4a7c-a101-ddde93ac7f8f_4d959e81.jpg?itok=FLVGhIjz&v=1619687067",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-first-paid-robotaxi-service-china-next-month-letting",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-first-paid-robotaxi-service-china-next-month-letting",
+      "publishedDateTime": "2021-04-29T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-uk-prepares-to-conditionally-legalize-self-driving-cars.md",
       "title": "UK prepares to conditionally legalize self-driving cars",
       "excerpt": "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,",
@@ -1201,59 +1253,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Security",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health.md",
-      "title": "Healthcare Artificial Intelligence Market May See Big Move | AiCure, APIXIO, Welltok, Cyrcadia Health",
-      "excerpt": "Latest Study on Industrial Growth of COVID-19 Outbreak-Global Healthcare Artificial Intelligence Market 2019-2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health-2021-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health-2021-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
         "IBM AI"
       ]
     }

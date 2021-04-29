@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing Market Top Manufacturers, Industry Size, Share and COVID 19 Impact on Revenue Growth"
+    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
+    publishedDateTime: 2021-04-29T06:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-top-manufacturers-industry-size-share-and-covid-19-impact-on-revenue-growth-2021-04-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "Machine Learning market size was valued at USD 6 9 billion in 2018 and is anticipated to register a CAGR of 43 from 2021 to 2027 New technologies such as artificial intelligence is changing the way industries and humans work"
     publishedDateTime: 2021-04-28T11:15:00Z

@@ -34,31 +34,31 @@ related:
         width: 1042
         height: 625
         isCached: true
-  - title: "Artificial Intelligence-based Security Market Regional Growth Drivers,Segmental Analysis, Opportunities and Trends 2020-2026"
-    excerpt: "The Artificial Intelligence based Security Market report is a compilation of first hand information qualitative and quantitative assessment by industry analysts inputs from industry experts and industry participants across the value chain The report provides in depth analysis of parent"
-    publishedDateTime: 2021-04-24T15:21:00Z
-    webUrl: "https://www.openpr.com/news/2275049/artificial-intelligence-based-security-market-regional"
-    ampWebUrl: "https://www.openpr.com/amp/2275049/artificial-intelligence-based-security-market-regional"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2275049/artificial-intelligence-based-security-market-regional"
+  - title: "AI in Fashion Market Report 2021 (COVID-19 Analysis) Worldwide Market Trends, Opportunities and Forecast to 2026"
+    excerpt: "The AI in Fashion report actively includes insightful aspects relating to product innovations acquisitions and trends intended to assist market players shareholders and investors in making strategic decisions The report further breaks down the analysis for the major countries in"
+    publishedDateTime: 2021-04-29T09:27:00Z
+    webUrl: "https://www.openpr.com/news/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
+    ampWebUrl: "https://www.openpr.com/amp/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 49
+    quality: 38
     images:
-      - url: "https://cdn.openpr.com/U/4/U424454562_g.jpg"
-        width: 500
-        height: 395
+      - url: "https://cdn.openpr.com/U/4/U429742956_g.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Mobile AI Market Analysis by Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook – Global Forecast 2021 to 2026"
-    excerpt: "Market Synopsis The Mobile AI Market is estimated to record a significant growth throughout the forecast period. The"
-    publishedDateTime: 2021-04-24T15:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-analysis-by-size-share-trends-future-growth-emerging-trends-qualitative-outlook-global-forecast-2021-to-2026-2021-04-24"
+  - title: "Artificial Intelligence in Accounting Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis From 2020-2025"
+    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The market for Artificial Intelligence in Accounting Market is expected to register a CAGR of 30% over the forecast period (2020 - 2025) - Over the years,"
+    publishedDateTime: 2021-04-29T06:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025-2021-04-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

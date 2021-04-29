@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-15-new-study-confirms-predictive-power-of-ai-for-foods-beverages.md",
+      "title": "New Study Confirms Predictive Power of AI for Foods & Beverages",
+      "excerpt": "The right taste and texture are critical to brand success while speed and accuracy are key in getting the right product to the right consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foodnavigator-usa.com/News/Promotional-Features/New-Study-Confirms-Predictive-Power-of-AI-for-Foods-Beverages",
+      "originalUrl": "https://www.foodnavigator-usa.com/News/Promotional-Features/New-Study-Confirms-Predictive-Power-of-AI-for-Foods-Beverages",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-usa.com/news/promotional-features/new-study-confirms-predictive-power-of-ai-for-foods-beverages/12241836-1-eng-GB/New-Study-Confirms-Predictive-Power-of-AI-for-Foods-Beverages.jpg",
+          "width": 980,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Food",
+        "domain": "foodnavigator-usa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-expertai-launches-a-new-natural-language-user-community-at-httpscommunityexpertai.md",
       "title": "Expert.ai Launches a new Natural Language User Community at https://community.expert.ai",
       "excerpt": "Expert.ai today launched a new user Community designed to serve the AI natural language understanding (NLU) and natural language",

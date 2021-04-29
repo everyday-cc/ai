@@ -1,34 +1,46 @@
 ---
 category: news
 title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
-excerpt: "Passengers can experience a real driverless autonomous driving service at Beijing's Shougang Park Visitors at the upcoming 2022 Beijing Winter"
-publishedDateTime: 2021-04-29T07:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-1030362987"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-1030362987"
+excerpt: "Baidu, Inc. (NASDAQ: BIDU and HKEX: 9888) will open fully driverless robotaxi services to the public in Beijing starting from May 2,"
+publishedDateTime: 2021-04-29T07:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-301279856.html"
+webUrl: "https://www.prnewswire.com/news-releases/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-301279856.html"
 type: article
-quality: 49
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg"
-    width: 400
-    height: 267
+  - url: "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg?p=facebook"
+    width: 1385
+    height: 724
     isCached: true
 
 related:
+  - title: "Baidu will offer first paid robotaxi service in China next month, letting people hail rides without drivers"
+    excerpt: "Baidu will allow people to order autonomous taxis on May 2 in an industrial park in western Beijing as competition heats up in the race to develop autonomous driving tech."
+    publishedDateTime: 2021-04-29T09:08:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-first-paid-robotaxi-service-china-next-month-letting"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-first-paid-robotaxi-service-china-next-month-letting"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-first-paid-robotaxi-service-china-next-month-letting"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 71
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/29/e667bbee-ecd2-4a7c-a101-ddde93ac7f8f_4d959e81.jpg?itok=FLVGhIjz&v=1619687067"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Baidu to launch robotaxi service in Beijing suburb"
     excerpt: "Baidu in March became the first Chinese company permitted to offer robotaxi rides to paying customers by a local government."
     publishedDateTime: 2021-04-29T06:44:00Z
@@ -46,6 +58,6 @@ related:
         height: 626
         isCached: true
 
-secured: "QO3J8zdnwAG58NkqOiP1FrDR3meUhne8lRrirQCnQ5O8tEQ/AyXlfeflBUv3YmeriUlYNtfUF/snEByHSGeRK4MVbyWiLxdVHcNxgnzRxUZP2FtNuE0prHOVxX3BUB5SWaLOmE7uuegklqFibMzpG5SFwgvRUUR7ZT/n5usV3pz74jAz8cTYBeu2ApkQmhYDiUto3xuSsQ06lyWR4jkDxtbRI0J2Ip6M3LTsF1SSF32VeAEs/aH9IaOUGiBAv+uUeQ14DQEHYTm4ogtm9g4mn/6p4+O3qCtXSQlCgq14Q/MCOTLS1rneODv3Bpsj2kKlg/eiWnZlWRRzJVJrH3hk+bWle4GsS5EShlWB7vK8fQI=;A1mt3HfGKdSj2wdCu3IP2Q=="
+secured: "Dm1TfPiK8DMVFN7e9rWXMGyesfHyeXMVjanOEbW+LVK48TVDKIbMy40fnYWkJOWLugRGM7GQvyV3/Hz1y505Om7j/av2CeVafL2drOT7sUxTs0VIWV+ZucCBSWmvvjylw0+ghpXFVImkP3EWaXYPDvRcJ8KjtEAFkMXPaR115RYXSLOFVOzpM4sRZofeAlz4iD+r4wp2CEeplfgj8XHLyyzMIIg74Rmlb/FgzxympYmPKsg4chzuhdFf8YkKaVoWjKQgwEljrNSrgBRluwFkabhsZwW4YDVI4VHRyBruT5J4YncZF8IXaa1ecDULDSSqIgL7rjW0Um+X+ulZrvYw350IPDTyoM7Dyni5Wk8mPgU=;HxswTWQ7eTW9SFuYgg/KjQ=="
 ---
 

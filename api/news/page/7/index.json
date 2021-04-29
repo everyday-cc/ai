@@ -2,6 +2,147 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-21-orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding.md",
+      "title": "Orca AI, which puts computer vision onto cargo ships, raises $13M Series A funding",
+      "excerpt": "Tel Aviv’s Orca AI, a computer vision startup that can be retrofitted to cargo ships and improve navigation and collision avoidance, has raised $13 million in a Series A funding, taking its total raised to over $15.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/",
+      "originalUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/yarden-7089.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/",
+      "publishedDateTime": "2021-04-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-global-machine-learning-software-market-research-report-2021-microsoft-google-tensorflow-kount-warwick-analytics.md",
+      "title": "Global Machine Learning Software Market Research Report 2021 | Microsoft, Google, TensorFlow, Kount, Warwick Analytics",
+      "excerpt": "A recent research study on the global Machine Learning Software market presented by Zeal Insider offers a detailed analysis of key market players, market revenue, market segments, share, and geographic regions.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/21/global-machine-learning-software-market-research-report-2021-microsoft-google-tensorflow-kount-warwick-analytics/",
+      "originalUrl": "https://ksusentinel.com/2021/04/21/global-machine-learning-software-market-research-report-2021-microsoft-google-tensorflow-kount-warwick-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/01/research-reports-market-26-1-780x400.jpeg",
+          "width": 780,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-huawei-technologies-unveils-range-of-ai-chips.md",
+      "title": "Huawei Technologies unveils range of AI chips",
+      "excerpt": "China’s largest telecom equipment maker and smartphone vendor Huawei Technologies Co Ltd has unveiled a range of artificial intelligence chips, in what is arguably its biggest-ever push to expand its presence in the semiconductor sector and to compete with US companies such as Nvidia Corp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationthailand.com/international/30356476",
+      "originalUrl": "https://www.nationthailand.com/international/30356476",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nationthailand.com/images/default800x.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nationthailand",
+        "domain": "nationthailand.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-meituan-raises-10-bln-for-self-driving-cars-drone-delivery.md",
       "title": "Meituan raises $10 bln for self-driving cars, drone delivery",
       "excerpt": "Chinese food delivery giant Meituan says it has raised nearly $10 billion in a sale of convertible bonds and additional shares, with plans to invest in and develop delivery technologies",
@@ -816,6 +957,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-21-everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak-matrix-assessment-2021.md",
+      "title": "Everest Group Names Automation Anywhere a Leader in the Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment 2021",
+      "excerpt": "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/13/e1315a66-88de-5c0c-ae7d-2d6c5ab1d280/60880f21240e9.image.jpg?resize=1200%2C442",
+          "width": 1200,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories.md",
       "title": "Rackspace Technology Achieved AWS Machine Learning Competency in New Applied AI and ML Ops Categories",
       "excerpt": "The solution uses Amazon Athena, AWS Glue, Amazon Simple Storage Services (Amazon S3), Amazon SageMaker, and Amazon Translate and the automated ML natural language processing solution enables the ...",
@@ -969,179 +1153,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-nano-dimension-acquires-machine-learningdeep-learning-leader-deepcube-ltd.md",
-      "title": "Nano Dimension Acquires Machine Learning/Deep Learning Leader, DeepCube Ltd.",
-      "excerpt": "Nano Dimension Ltd., an industry leading A dditively M anufactured E lectronics/ PE provider, announced today that is has signed a definitive agreement to acquire DeepCube Ltd., a world leader in Machine Learning/ Deep Learning technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd.-2021-04",
-      "originalUrl": "https://www.nasdaq.com/press-release/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd.-2021-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates.md",
-      "title": "Startup taps radio frequency data, AWS tools to search the seas for pirates",
-      "excerpt": "The company developed these capabilities using Amazon Web Services' SageMaker Autopilot, a fully-managed service for building, training and deploying machine learning models. Using Autopilot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
-      "originalUrl": "https://www.zdnet.com/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
-      "publishedDateTime": "2021-04-20T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-ishares-robotics-and-artificial-intelligence-etf-built-for-the-future.md",
-      "title": "iShares Robotics and Artificial Intelligence ETF: Built For The Future",
-      "excerpt": "Shares Robotics And Artificial Intelligence ETF - While the potential for growth is phenomenal, risks like significant foreign exposure and regulatory action are something to keep an eye on",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "originalUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1204583853/medium_image_1204583853.jpg",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "publishedDateTime": "2021-04-20T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-how-face-recognition-can-destroy-anonymity.md",
-      "title": "How Face Recognition Can Destroy Anonymity",
-      "excerpt": "Cameras are everywhere, and increasingly powerful software can pick an individual out of a crowd. Except sometimes algorithms get it wrong.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/",
-      "originalUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/607e24ad084a1594b46b28c1/master/pass/face_recognition_jpeg0.jpg",
-          "width": 2000,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-face-recognition-destroy-anonymity/amp",
-      "publishedDateTime": "2021-04-20T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

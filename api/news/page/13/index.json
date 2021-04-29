@@ -2,6 +2,213 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-13-microsoft-releases-ai-training-library-zero-3-offload.md",
+      "title": "Microsoft Releases AI Training Library ZeRO-3 Offload",
+      "excerpt": "Microsoft recently open-sourced ZeRO-3 Offload, an extension of their DeepSpeed AI training library that improves memory efficiency while training very large deep-learning models. ZeRO-3 Offload allows users to train models with up to 40 billion parameters on a single GPU and over 2 trillion parameters on 512 GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/04/microsoft-zero3-offload/",
+      "originalUrl": "https://www.infoq.com/news/2021/04/microsoft-zero3-offload/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/04/microsoft-zero3-offload/en/headerimage/microsoft-zero3-offload-header-1617471413275.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-nvidia-unveils-new-ai-processor-for-self-driving-cars.md",
+      "title": "Nvidia unveils new AI processor for self-driving cars",
+      "excerpt": "Nvidia has introduced the next-generation of artificial intelligence (AI)-enabled processors for autonomous vehicles called Nvidia Drive Atlan. According to Nvidia, Atlan is capable of delivering more than 1,",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/16583/nvidia-unveils-new-ai-processor-for-self-driving-cars",
+      "originalUrl": "https://electronics360.globalspec.com/article/16583/nvidia-unveils-new-ai-processor-for-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding.md",
+      "title": "Female Co-Founders advance AI translation technology with $5m in VC funding",
+      "excerpt": "Years after being told that she couldn’t be a fighter pilot for the US Airforce because she was female, Language I/O (LIO) Co-Founder and CEO Heather Morgan Shoemaker asked her co-founder, Kaarina Kvaavik,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/language-i-o/female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding/",
+      "originalUrl": "https://techcrunch.com/sponsor/language-i-o/female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Heather-and-Kaarina.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-appharvest-acquires-robotics-and-ai-company-root-ai.md",
+      "title": "AppHarvest acquires robotics and AI company Root AI",
+      "excerpt": "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting support ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurefarming.com/Machinery/Articles/2021/4/AppHarvest-acquires-robotics-and-AI-company-Root-AI-733734E/?intcmp=related-content",
+      "originalUrl": "https://www.futurefarming.com/Machinery/Articles/2021/4/AppHarvest-acquires-robotics-and-AI-company-Root-AI-733734E/?intcmp=related-content",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurefarming",
+        "domain": "futurefarming.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-avaya-enabling-the-composable-enterprise-with-new-ai-capabilities-in-collaboration-with-nvidia.md",
+      "title": "Avaya Enabling the Composable Enterprise with New AI Capabilities in Collaboration with NVIDIA",
+      "excerpt": "Avaya (NYSE:AVYA), a global leader in solutions to enhance and simplify communications and collaboration, is providing attendees at the NVIDIA GPU Technology Conference with new insights into how AI capabilities integrated into its Avaya OneCloud immersive collaboration and communications portfolio will enable today’s composable enterprise to effortlessly deliver memorable experiences for customers and staff.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-north-america-north-carolina-durham-united-states-ab9f49e632d64a52a615008950867eae",
+      "originalUrl": "https://apnews.com/article/technology-north-america-north-carolina-durham-united-states-ab9f49e632d64a52a615008950867eae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-isilon-founder-lifts-the-hood-on-farming-startup-carbon-robotics-and-its-weed-zapping-machine.md",
       "title": "Isilon founder lifts the hood on farming startup Carbon Robotics and its weed zapping machine",
       "excerpt": "is unveiling its self-driving robot that uses artificial intelligence to identify weeds growing in fields of vegetables, then zaps them with precision thermal bursts from lasers. The startup, previously known as Maka Autonomous Robots, was in stealth mode ...",
@@ -211,34 +418,34 @@
     {
       "path": "_news/2021-04-13-fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai.md",
       "title": "Fractal offers AI software on AWS, accelerating digital transformation with cloud AI",
-      "excerpt": "Additionally, AWS offers connectivity with high- performance cloud data warehouses like Amazon Redshift. About Fractal Fractal is one of the most prominent players in the Artificial Intelligence ...",
+      "excerpt": "today announced general availability of Fractal's artificial intelligence (AI) solutions – Cuddle.ai, Concordia and Foresient - on Amazon Web Services (AWS). With this announcement, Fractal ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-1030297527",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-1030297527",
+      "webUrl": "https://www.prnewswire.com/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-301267443.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-301267443.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T03:09:00-07:00",
+      "publishedDateTime": "2021-04-13T03:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -819,231 +1026,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-nvidia-unveils-quantum-computing-simulation-tools-strengthens-grip-on-gpu-accelerated-ai.md",
-      "title": "Nvidia unveils quantum computing simulation tools, strengthens grip on GPU accelerated-AI",
-      "excerpt": "Nvidia has unveiled a software library called cuQuantum that can help scientists better understand the behaviour of quantum computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/",
-      "originalUrl": "https://www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techgoondu.com/wp-content/uploads/2021/04/Image-Grace-255543607271cab6bb18.97771987.jpg",
-          "width": 2000,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/?amp",
-      "cdnAmpWebUrl": "https://www-techgoondu-com.cdn.ampproject.org/c/s/www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/?amp",
-      "publishedDateTime": "2021-04-12T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Goondu",
-        "domain": "techgoondu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-microsoft-acquires-voice-recognition-company-for-20b.md",
-      "title": "Microsoft acquires voice recognition company for $20b",
-      "excerpt": "Microsoft has bought artificial intelligence-powered speech recognition firm Nuance for $20 billion, the tech giant’s second largest acquisition ever. It was revealed on Monday that Microsoft would be purchasing Nuance,",
-      "sourceUrl": null,
-      "webUrl": "https://ia.acs.org.au/article/2021/microsoft-acquires-voice-recognition-company-for--20b.html",
-      "originalUrl": "https://ia.acs.org.au/article/2021/microsoft-acquires-voice-recognition-company-for--20b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ia.acs.org.au/content/dam/ia/article/images/2021/voice%20recognition.jpg",
-          "width": 821,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acs.org.au",
-        "domain": "acs.org.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-cloudera-partners-with-nvidia-to-expand-gpu-usage-across-ai-applications.md",
-      "title": "Cloudera partners with Nvidia to expand GPU usage across AI applications",
-      "excerpt": "Integrating Cloudera Data Platform and Nvidia's Apache Spark 3.0 libraries will simplify adding machine learning workflows to processes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GPUWorkloads.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/cloudera-partners-with-nvidia-expand-gpu-usage-across-ai-applications/amp/",
-      "publishedDateTime": "2021-04-12T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-6-big-things-to-know-about-microsofts-azure-cloud-strategy.md",
-      "title": "6 Big Things To Know About Microsoft’s Azure Cloud Strategy",
-      "excerpt": "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0268-12082f505be3-471dce422408-1000/john-jg-chirapurath-microsoft.jpg",
-          "width": 610,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-building-ai-powered-virtual-collaboration-and-content-creation-solutions-with-nvidia-maxine.md",
-      "title": "Building AI-Powered Virtual Collaboration and Content Creation Solutions with NVIDIA Maxine",
-      "excerpt": "The SDK supports application features such as AI face codec ... be combines with NVIDIA Jarvis add language-based capabilities such as transcription, translation and virtual assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/video/video/21161064/nvidia-building-aipowered-virtual-collaboration-and-content-creation-solutions-with-nvidia-maxine",
-      "originalUrl": "https://www.electronicdesign.com/video/video/21161064/nvidia-building-aipowered-virtual-collaboration-and-content-creation-solutions-with-nvidia-maxine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/04/maxresdefault.6074ebc565e9d.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

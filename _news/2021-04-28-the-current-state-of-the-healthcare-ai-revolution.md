@@ -47,6 +47,20 @@ related:
         width: 1183
         height: 801
         isCached: true
+  - title: "Healthreveal and ACC team up to transform heart care with AI"
+    excerpt: "The American College of Cardiology (ACC) hopes artificial intelligence (AI) can dramatically increase adoption of its frequently ignored guidelines for cardiovascular care. In three new studies, the ACC will implement Healthreveal's AI to recommend personalized interventions with the goal of preempting adverse cardiovascular events and improving patient outcomes,"
+    publishedDateTime: 2021-04-28T00:00:00Z
+    webUrl: "https://www.bioworld.com/articles/506480-healthreveal-and-acc-team-up-to-transform-heart-care-with-ai"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 39
+    images:
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Cardiovascular/heart-AI.png?height=635&t=1589928752&width=1200"
+        width: 847
+        height: 635
+        isCached: true
 
 secured: "KXkr8H8v6MWwXcWqfSLphI07vxwdAD/slUA754CdffHrubbzhzt6xj2Gi2slATnGnxWQzlqmHt5DFMVUaTnYk+vh8dvaHyY+O2FYCZZ2KkzecIjl/s8loAO2Cd8/i5eEeS/SjYa22bj7bAHkhoXfy4DztoudrFVgU3rr5KoLAYPaELgQsCRdj1fwmDbhqG+86ZFWmpF4k2PyuD3ACVjXI4eTPOHayfxjwuISpv6wzulYFJVGDIQAu0uw219RB3sNK0IqKKaGOOQwzWN7sP+KXSG3k7ndUyCYnhU3YTSmeG0n1t8GgepTiU4cSKKvEvmihLyxedDK+dNHCS3ZZfIdHBWazMe75+iMet7d3sZggs55p3iSBC/NkoDK/m2E6RZOnemqKFU+nbD98BxFD8L5SxYrw1B6pUMcrpSau2dKb0rg/OlBVF9sbFMQaNMN+AP/ozvCa8LAGajtX4Qun7lYBOFYYpA6G+FerD+FqMzT3JdFoBgNAcSPWcimCARoZQfGDHiBHNp+KFkMHeml66cSNA==;KU9wZl3ZbdjfcXRYqIaN5Q=="
 ---

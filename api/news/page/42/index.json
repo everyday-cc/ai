@@ -2,6 +2,213 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-03-11-scientific-machine-learning-and-hpc-ai-technology-convergence.md",
+      "title": "Scientific Machine Learning and HPC-AI Technology Convergence",
+      "excerpt": "Some of the most well-known examples of the use of machine learning technics in science applications are the detection and classification of gravitational-waves signals from LIGO and Virgo in astrophysics [1], the recent DeepMind Alpha-Fold2 capabilities ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/03/scientific-machine-learning-and-hpc-ai-technology-convergence/",
+      "originalUrl": "https://insidehpc.com/2021/03/scientific-machine-learning-and-hpc-ai-technology-convergence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2021/03/Illustration-2-HPC-AI.png",
+          "width": 300,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-canadian-tire-and-nuport-robotics-to-commercialize-canadas-first-automated-heavy-duty-trucking-technology.md",
+      "title": "Canadian Tire and NuPort Robotics to Commercialize Canada’s First Automated Heavy Duty Trucking Technology",
+      "excerpt": "First-of-its-kind technology to enable safer, greener and more efficient transport of goods by semi-tractor trailers TORONTO, ON / ACCESSWIRE / March 11, 2021 / Canadian National retailer Canadian Tire Corporation (TSX:CTC.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/business-technology-sports-driverless-cars-ontario-72816e4bae4ebf6a8045eeeca255b8a5",
+      "originalUrl": "https://apnews.com/press-release/accesswire/business-technology-sports-driverless-cars-ontario-72816e4bae4ebf6a8045eeeca255b8a5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-cisco-adds-real-time-translation-to-webex-video-meetings.md",
+      "title": "Cisco Adds Real-Time Translation to Webex Video Meetings",
+      "excerpt": "Audio is automatically translated into text for each participant using a choice of over 100 different languages.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/video-conferencing-software/132192/cisco-adds-real-time-translation-to-webex-video-meetings",
+      "originalUrl": "https://uk.pcmag.com/video-conferencing-software/132192/cisco-adds-real-time-translation-to-webex-video-meetings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/c/cisco-adds/cisco-adds-real-time-translation-to-webex-video-meetings_b818.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-worldwide-ai-in-computer-vision-industry-to-2027-rise-in-demand-for-automating-processes-across-industries-presents-opportunities-researchandmarke.md",
+      "title": "Worldwide AI in Computer Vision Industry to 2027 - Rise in Demand for Automating Processes Across Industries Presents Opportunities - ResearchAndMarke",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component and End-User\" report has been added to ResearchAndMarkets.com's offering. According to this report the global AI in computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=435674",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=435674",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-a-temporal-hierarchical-feedforward-model-explains-both-the-time-and-the-accuracy-of-object-recognition.md",
+      "title": "A temporal hierarchical feedforward model explains both the time and the accuracy of object recognition",
+      "excerpt": "The recognition accuracy and its processing time depend on different stimulus properties such as the viewing conditions, the noise levels, etc. Recognition accuracy can be explained well by different models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-021-85198-2",
+      "originalUrl": "https://www.nature.com/articles/s41598-021-85198-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-85198-2/MediaObjects/41598_2021_85198_Fig1_HTML.png",
+          "width": 685,
+          "height": 294,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T02:44:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-changing-script-ai-not-humans-to-write-subtitles-for-movies-soaps.md",
       "title": "Changing script: AI, not humans, to write subtitles for movies, soaps",
       "excerpt": "Eros Now has joined hands with Google Cloud to use its artificial intelligence technology for streaming the entire range of its movies and originals with automated subtitles.",
@@ -836,231 +1043,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-raspberry-pi-machine-learning-with-tensorflow-lite.md",
-      "title": "Raspberry Pi machine learning with TensorFlow Lite",
-      "excerpt": "Check out the video below for an introduction into the proof of concept tutorial. “TensorFlow Lite allows you to take the same ML models used with TensorFlow (with some tweaks) and deploy them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/raspberry-pi-machine-learning-with-tensorflow-lite/",
-      "originalUrl": "https://www.geeky-gadgets.com/raspberry-pi-machine-learning-with-tensorflow-lite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/03/Raspberry-Pi-TensorFlow.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-artificial-intelligence-in-transportation-market-top-key-players-global-trend-opportunities-forecast-2020-2027.md",
-      "title": "Artificial Intelligence in Transportation Market Top Key Players, Global Trend, Opportunities & Forecast 2020 - 2027",
-      "excerpt": "The North America Artificial Intelligence in Transportation accounted ... Daimler Trucks entered into a partnership agreement with Waymo for deployment of autonomous SAE L4 technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-top-key-players-global-trend-opportunities-forecast-2020---2027-2021-03-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-top-key-players-global-trend-opportunities-forecast-2020---2027-2021-03-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-nvidia-ai-enterprise-software-suite-introduced.md",
-      "title": "NVIDIA AI Enterprise Software Suite introduced",
-      "excerpt": "NVIDIA has introduced a new software suite of enterprise-grade AI tools and frameworks in the form of the AI Enterprise Software Suite. NVIDIA",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/nvidia-ai-enterprise-software-suite-10-03-2021/",
-      "originalUrl": "https://www.geeky-gadgets.com/nvidia-ai-enterprise-software-suite-10-03-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-self-driving-electric-buses-are-here-and-theyre-cruising-round-malaga.md",
-      "title": "Self-driving electric buses are here, and they’re cruising round Málaga",
-      "excerpt": "This article was originally published by Christopher Carey on Cities Today, the leading news platform on urban mobility and innovation, reaching an international audience of city leaders. For the latest updates follow Cities Today on Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2021/03/10/self-driving-electric-buses-malaga-syndication/",
-      "originalUrl": "https://thenextweb.com/shift/2021/03/10/self-driving-electric-buses-malaga-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/1-copy-15-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2021/03/10/self-driving-electric-buses-malaga-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/03/10/self-driving-electric-buses-malaga-syndication/amp/",
-      "publishedDateTime": "2021-03-10T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-why-biased-ai-can-be-damaging-to-your-health.md",
-      "title": "Why biased AI can be damaging to your health",
-      "excerpt": "Also, AI discrimination can be rooted in erroneous assumptions, as in the case of the high-risk care program algorithm. In another instance, electronic health records software company Epic built ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90613404/ai-bias-healthcare",
-      "originalUrl": "https://www.fastcompany.com/90613404/ai-bias-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/03/p-1-ai-bias-healthcare.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

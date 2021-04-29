@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/04/29/baidu-to-launch-robotaxi-service-in-
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/04/29/baidu-to-launch-robotaxi-service-in-beijing-suburb/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
-    excerpt: "Passengers can experience a real driverless autonomous driving service at Beijing's Shougang Park Visitors at the upcoming 2022 Beijing Winter"
-    publishedDateTime: 2021-04-29T07:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-1030362987"
+  - title: "Baidu will offer first paid robotaxi service in China next month, letting people hail rides without drivers"
+    excerpt: "Baidu will allow people to order autonomous taxis on May 2 in an industrial park in western Beijing as competition heats up in the race to develop autonomous driving tech."
+    publishedDateTime: 2021-04-29T09:08:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-first-paid-robotaxi-service-china-next-month-letting"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-first-paid-robotaxi-service-china-next-month-letting"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-first-paid-robotaxi-service-china-next-month-letting"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 71
     images:
-      - url: "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg"
-        width: 400
-        height: 267
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/29/e667bbee-ecd2-4a7c-a101-ddde93ac7f8f_4d959e81.jpg?itok=FLVGhIjz&v=1619687067"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
+    excerpt: "Baidu, Inc. (NASDAQ: BIDU and HKEX: 9888) will open fully driverless robotaxi services to the public in Beijing starting from May 2,"
+    publishedDateTime: 2021-04-29T07:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-301279856.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg?p=facebook"
+        width: 1385
+        height: 724
         isCached: true
 
-secured: "NxoevSfpTIw931851aZRXgPhw2RR3cez0EYulySJ65EYQtuF0zq/RotIQ4dKsw1cdMOGYwgyvTUn5EEISzEua6+SNWZ4bIzWW09rWgIh+/LaWSAl5vrHApXVMC/iV/WiFAS4mCEVeBLBN8fibZCHayJQvEmsdLcgwrrFBkx0qm7zRtlqWVLKZ9jd2Xs+DdigLHkzCooBYeB7Sn0U99jWAYEctsatx6Iz2QZxaDeni7hSclIikgsPY4739dVILW4qir6ylCUl3Il+asJwPi16mxGjCZ5+4d29lvcF59uTtkd/UPgpUpA81yPCnPl5Zn89ac0WgfgOK0NLOYhfDUL5rD2de94eWAVXeXNgJg+PYYM=;9IQXrFOyZY7XafopR2Wc1g=="
+secured: "HmjTEC2VkRBI5VGctL99OrMlh8TFmNeJ49AuvUfXb16UTlJhlhXLDFyQ0W4GTuKnGMP3AvSjrqgxlCE2upuw4u7Uca1WyglIPdoHgNmpXCvxQZpJ4l0EDaRrnQLHcndcrqDGZhL1AnIxhp4qQHU7wT5cBr5kOSJH8rMhIzlYSYnEdk2ML1y1MOIodDWMo/cjNWfcu2NN+hUMyjL4jDCtLp0XrRpUyrJS+oTogmkIgggRxIP8EeXByTraWpbWWJwLUJYoEAr1DgwCpWKlTYXXcX7WiHrj4ZqGUaGaF57cs8uJRYVX7mOfUfX7wzeBkTwBBUK/X2D+SrMVj0f7IZTqXfPJ3Uu4RnmPcXmEAkdOC22CL14Panr9nnsVhJl2XPeac525M4UOZNP2wR63K2ZzYwQZMU4/+eUifrddv42OTzPemsWB8jSYPz5GVB4fX0ccjBLyInqmalRS0SY3McZ+/+CJY6naW42Zhj+j2Hd9piwaGbG47gaGPrGMQro+shmThylv5xO2LdXPeF0JGGc1bA==;XZSQdHIc/smHPCdvFLsdHQ=="
 ---
 

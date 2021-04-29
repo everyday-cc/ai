@@ -27,6 +27,17 @@ images:
     height: 286
     isCached: true
 
-secured: "RV3a5p0zoUFF10M1EBfGuEPYFavZn/pnhjZ/OcuxEPAPpi/vLy1nZ3+f4a9Col8tUmUfxnD/OKbItD86w2VWI6w871CkpBUTHGTKG1J7dJEvtqUHwUYwpmDGg3VOu0+rVFSr1F8yPnJC+8F5ziPLmWKPdcCZFZqB3KlJ/ntqKfJjdAgJbx4p9gWuYH4DI3tANlluUw7CoVGo5toT4R9K2CwWIZSpOMJOk3GNfcwL5fLPCzpzs3iRfrn7qsvKmQs/YCBqafPt2dJIpQWn/tlHZJ/LiqKa2QyvPqIa7fZ08GdOTgplu/77XE6vZ26ac1kZsOmudqBDe+lCNBu6YPUOrpC3xYfeqwu0bydcuUVdvdU=;Teze3icjnTXRfLDGoi2fvw=="
+related:
+  - title: "Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition"
+    excerpt: "Multimodal signals are powerful for emotion recognition since they can represent emotions comprehensively. In this paper, we compare the recognition performance and robustness of two multimodal emotion recognition models: deep canonical correlation analysis (DCCA) and bimodal deep autoencoder (BDAE)."
+    publishedDateTime: 2021-04-29T08:12:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9395500"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
+
+secured: "/PVDJxvzLbiJ0bNTHBCNmb2wDHRoOLUun+EXHao99EwAIRxnEdfo5hUoYwBP7eT40VrYmdX2lRz4aiSAlgZARAQSeCd/IX3bh5vDfz3Te4oKct8q2yFUN9LE57ahqe8xH9WHxpLsxaDVMscOOQif0ruh/oErzobWB30nsj2h89LSiZdkIFpTs4z82AOdZj0TRnrdax1v6OOFBxowCnZsUaFc8KTZcemveK4ixJypRW9Yvy/6HLyp7p+f3torA4F/4GtA2EaskbQCFdI888j3d67QsuKPvq+zOFk/cWlwfv2It1p+5Hfqjhm2hloFeOhfkpQEzceS7YjR8tqANHZvCGZj1z8KcF/CbJT7Lc3Bf/4=;cdvkfdFp1doCLf416zTN0Q=="
 ---
 

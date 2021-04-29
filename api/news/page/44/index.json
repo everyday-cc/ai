@@ -2,6 +2,221 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-03-10-the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020.md",
+      "title": "The 12 most important technology partnerships in Connected & Automated Driving in 2020",
+      "excerpt": "EINPresswire.com/ -- 2020 was a turbulent year for the Auto industry but players pushed even harder to build expertise and gain market share in ADAS through technological and commercial partnerships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
+      "originalUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-neural-network-clip-mirrors-human-brain-neurons-in-image-recognition.md",
+      "title": "Neural network CLIP mirrors human brain neurons in image recognition",
+      "excerpt": "Open AI, the research company founded by Elon Musk, has just discovered that their artificial neural network CLIP shows behavior strikingly similar to a human brain. This find has scientists hopeful for the future of AI networks' ability to identify images in a symbolic,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.html",
+      "originalUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/6047c07b01a40.jpg",
+          "width": 846,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp",
+      "publishedDateTime": "2021-03-09T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises.md",
+      "title": "VMware and Nvidia launch GPU virtualization platform for enterprises",
+      "excerpt": "VMware and Nvidia deliver on promise to enable GPUs to run multiple workloads using VMware vSphere virtual machine software.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
+      "originalUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/vmwarenvidia.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/",
+      "publishedDateTime": "2021-03-09T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-why-self-driving-cars-are-designed-to-look-like-overgrown-toys.md",
+      "title": "Why self-driving cars are designed to look like overgrown toys",
+      "excerpt": "They’re here. Lyft passengers in Las Vegas can already hail a self-driving taxi. It’s one of the first times vehicles with no human behind the wheel are being tested on city streets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/",
+      "originalUrl": "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-ibm-watson-services-market-size-to-accrue-165-billion-by-2027.md",
+      "title": "IBM Watson Services Market Size to accrue $ 16.5 billion by 2027",
+      "excerpt": "Selbyville, Delaware According to the latest research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use; By Regions; Segment Forecast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T10:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-to-reach-human-level-intelligence-ai-systems-must-truly-understand-language.md",
       "title": "To reach human-level intelligence, AI systems must truly understand language",
       "excerpt": "The original goal of human-like artificial intelligence was abandoned decades ago in favor of less ambitious approaches, two cognitive scientists argue in a new book. If that initial vision is to be realized,",
@@ -870,230 +1085,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support.md",
-      "title": "VMware-Nvidia Alliance Expands With New vSphere GPU Support",
-      "excerpt": "VMware and Nvidia have expanded their alliance to make it easier for enterprises to run GPU-accelerated AI applications in existing data center infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/data-center/vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support",
-      "originalUrl": "https://www.crn.com/news/data-center/vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0267-11c18f8af132-eca68eef49b0-1000/vmware-nvidia-ai-ready-platform.jpg",
-          "width": 610,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-ucf-starts-new-masters-degree-program-in-computer-vision.md",
-      "title": "UCF Starts New Master’s Degree Program in Computer Vision",
-      "excerpt": "A new master’s degree in computer vision at the University of Central Florida to begin this fall will give technology professionals proficiency in a burgeoning field that relies on artificial intelligence to make computers perform complex tasks faster and more accurately than a human.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/",
-      "originalUrl": "https://www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucf.edu/news/files/2021/03/ucf-computer-vision.jpg",
-          "width": 1200,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/?amp",
-      "cdnAmpWebUrl": "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/?amp",
-      "publishedDateTime": "2021-03-08T12:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UCF Today",
-        "domain": "ucf.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-why-baidu-stock-jumped-206-in-february.md",
-      "title": "Why Baidu Stock Jumped 20.6% in February",
-      "excerpt": "Baidu has been one of the most aggressive early players in the autonomous vehicles space, and the potential to integrate its strengths in self-driving vehicles with growth initiatives in the EV ma ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/f550fbfbb329df6fd882bebead2c0e63.png",
-          "width": 720,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
-      "publishedDateTime": "2021-03-08T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-new-method-could-democratize-deep-learning-enhanced-microscopy.md",
-      "title": "New method could democratize deep learning-enhanced microscopy",
-      "excerpt": "Deep learning is a potential tool for scientists to glean more detail from low-resolution images in microscopy, but it's often difficult to gather enough baseline data to train computers in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-method-democratize-deep-learning-enhanced-microscopy.html",
-      "originalUrl": "https://phys.org/news/2021-03-method-democratize-deep-learning-enhanced-microscopy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/newmethodcou.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-method-democratize-deep-learning-enhanced-microscopy.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-method-democratize-deep-learning-enhanced-microscopy.amp",
-      "publishedDateTime": "2021-03-08T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-10-key-microsoft-ignite-takeaways-for-cios.md",
-      "title": "10 key Microsoft Ignite takeaways for CIOs",
-      "excerpt": "Microsoft is also offering enterprises a new connector to enable Azure Cognitive Search to ingest ... for financial services, manufacturing, and nonprofits. If you’re in one of these sectors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.html",
-      "originalUrl": "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/03/satya-nadella-2-100879791-large.jpg",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html",
-      "publishedDateTime": "2021-03-08T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

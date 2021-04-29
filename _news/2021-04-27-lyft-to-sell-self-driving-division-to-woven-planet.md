@@ -135,6 +135,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Lyft gives up on developing its own self-driving tech, sells division"
+    excerpt: "Matthew is the editor of SHIFT. He likes electric cars, and other things with wheels, wings, or hulls. Matthew is the editor of SHIFT. He likes electric cars, and other things with wheels, wings ..."
+    publishedDateTime: 2021-04-29T09:30:00Z
+    webUrl: "https://thenextweb.com/news/lyft-self-driving-sells-division-toyota-profit"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F12%2Fride-hail-uber-lyft-taxi-new-york-car-pickup-dropoff-crash-danger-car-e1619685342550.png&signature=28e69f324a455fa205a0d0d877b15ed4"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Toyota subsidiary buys Lyft’s self-driving unit for $550 million"
     excerpt: "A Toyota Motor Corp. subsidiary has agreed to buy Lyft Inc.’s self-driving division, as Lyft joins Uber Technologies Inc. in stepping back from the"
     publishedDateTime: 2021-04-26T20:38:00Z
