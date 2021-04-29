@@ -97,6 +97,20 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Chinese firms fined for facial recognition overuse, more city govts mull restrictions"
+    excerpt: "More provinces and cities in the country plan to put in place policies that restrict the overuse of facial recognition technology in certain public places."
+    publishedDateTime: 2021-04-29T17:02:00Z
+    webUrl: "https://www.biometricupdate.com/202104/chinese-firms-fined-for-facial-recognition-overuse-more-city-govts-mull-restrictions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+        isCached: true
 
 secured: "c00fhglg59PYLUoS5R61/YJ6VyMfYwxnhw2Dd2Mr89zfeUE9TIAkJRh4h0VZIHx7glYTKvyNuVVFvR+OA1dIqZafdituIdTI/3pmVB9jwA0rmTs49LX1CQ3Tks2waxmTEdD7Fu1cjdCmDHBrXaY+9qyKdoEFHAb8B+D5ggZ24Tt+HJJwqMLxDific7FaA9FqCMeWbl7nsOSVCLY0qDZO9YKpebCUOJEQAatztcq87Jf/yhjE5lF/UJLqbxAUVEI1wP9/3U6n3eONOicBwQxxduVfZDKvmtNFMghg8YvtdiMc2ZA3VgI2txOk7lT7rulz+27itohXdguxxHB7wZzUSUzduKJONnFNZPb/iLaSHkpV2pUa97S+32nmICmIX+R7oKpG8MdWvKMP+z5I/Tjc1D67L1UKXMFBJIV/WFE+7tz4dZc6rvG11d3xi+ncMYde69gaur2GdsheKlYTH9/a4S3c0gGQ7N+brkNZNdgoYpZ3zJ+BVzBcrt7E7zAzGhA5vYQJ/qj6IZb9TbPsWYZXBA==;qvpOOmE/h9d2dRi9ls2LaQ=="
 ---

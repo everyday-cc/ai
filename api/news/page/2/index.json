@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-28-leaked-ai-report-could-hint-at-future-for-us-regulation.md",
+      "title": "Leaked AI report could hint at future for US regulation",
+      "excerpt": "Greg Nichols tells Karen Roby that the EU takes lead on AI regulation, trying to stay ahead of evolving tech. Read more:",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/leaked-ai-report-could-hint-at-future-for-us-regulation/",
+      "originalUrl": "https://www.zdnet.com/video/leaked-ai-report-could-hint-at-future-for-us-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/04/28/22576f2a-6f91-4323-9769-d49b34e7519f/thumbnail/770x578/532ac0654882d8c6e3da1eecfd091578/20210428-greg-karen-leaked.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-increasing-use-of-facial-recognition-technology-in-china-faces-backlash-from-city-governments.md",
       "title": "Increasing use of facial recognition technology in China faces backlash from city governments",
       "excerpt": "After being highlighted for misuse on China’s annual Consumer Protection Gala in March, several cities in China are tightening the enforcement of regulations on facial recognition.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -313,7 +364,7 @@
       "originalUrl": "https://www.benzinga.com/news/21/04/20838845/plus-one-robotics-raises-33m-for-human-robot-collaboration-software",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -707,7 +758,7 @@
       "originalUrl": "https://github.com/Shaowen310/transformers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -899,7 +950,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1191,49 +1242,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-making-ai-great-again-how-do-we-design-ethical-ai-systems.md",
-      "title": "Making AI great again: how do we design ethical AI systems?",
-      "excerpt": "The debate around how AI will shape our future is ongoing, and it is already affecting our present. Accenture investigates how issues around ethics and regulation are becoming increasingly urgent. Artificial intelligence is a powerful agent of change in our society.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-design-ethical-ai-systems",
-      "originalUrl": "https://www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-design-ethical-ai-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/606daada938ecee6e930ed97/master/pass/AccentureAI_Lead.jpg",
-          "width": 3085,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-design-ethical-ai-systems/amp",
-      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-design-ethical-ai-systems/amp",
-      "publishedDateTime": "2021-04-26T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

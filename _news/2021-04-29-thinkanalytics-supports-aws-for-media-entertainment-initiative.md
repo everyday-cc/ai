@@ -47,6 +47,15 @@ related:
         width: 1181
         height: 630
         isCached: true
+  - title: "Codemill announces support for AWS for Media & Entertainment Initiative"
+    excerpt: "Codemill has announced support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to simplify the management of media productio"
+    publishedDateTime: 2021-04-29T16:28:00Z
+    webUrl: "https://advanced-television.com/2021/04/29/codemill-announces-support-for-aws-for-media-entertainment-initiative/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 34
 
 secured: "B7+94HNQoHxDyp5XApaNq9EhH7Ys4Obw/oDvWJsyCGiMkVJTzVOjvnnLKThs0Zs0Nw4h7SFto9vPeXxkemWffsjUyLPGANvYqj8A4DtqKnKwSQRM8JC+J45+utQFm9e5Lkbt6UH3tItcNmgRqg9TcTo6SjoYaUal/AU7a/GfmOkeB7r85A5g0b2EtKsm/ffzJYYlFnd2LGiHhLvxgVRrmzcH4oigr98m+kkPNE6ozI9HwmS27KTaper6SDz+vyCv/BXSJz1Ahlk6lQGgAkIesjxU4iEPdB/qY7ppXNUpbUKjq48gZWOa5I3zEY5PXkrcXOFBfZqmq8XAQ938SNqHmxTSD8EoKgglhzsiGZSDcXE=;517jB4OsTtG7zP2Ty7oOgw=="
 ---

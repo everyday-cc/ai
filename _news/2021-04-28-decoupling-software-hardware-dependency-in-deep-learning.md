@@ -48,7 +48,7 @@ related:
     provider:
       name: Massachusetts Institute of Technology
       domain: mit.edu
-    quality: 56
+    quality: 60
     images:
       - url: "https://news.mit.edu/sites/default/files/images/202104/vivienne-sze-mit-00.jpg"
         width: 1000

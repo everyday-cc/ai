@@ -39,6 +39,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Codemill announces support for AWS for Media & Entertainment Initiative"
+    excerpt: "Codemill has announced support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to simplify the management of media productio"
+    publishedDateTime: 2021-04-29T16:28:00Z
+    webUrl: "https://advanced-television.com/2021/04/29/codemill-announces-support-for-aws-for-media-entertainment-initiative/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 34
   - title: "ThinkAnalytics supports AWS for Media & Entertainment initiative"
     excerpt: "ThinkAnalytics is supporting the AWS for Media & Entertainment initiative. ThinkAnalytics' API integration with Amazon Personalize enables the creation of real-time personalized user experiences faster at scale."
     publishedDateTime: 2021-04-29T07:38:00Z

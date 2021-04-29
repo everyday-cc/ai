@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Digital Opportunities in Healthcare Can Save the Global Economy Trillions of Dollars"
-excerpt: "Today's healthcare system of only treating disease as it arises unsustainably costs the global economy trillions of dollars each year. However, two significant paradigm"
-publishedDateTime: 2021-04-29T11:43:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/digital-opportunities-in-healthcare-can-save-the-global-economy-trillions-of-dollars/article_aa1afc42-177b-5f49-8e4e-f2111da3ad0a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/digital-opportunities-in-healthcare-can-save-the-global-economy-trillions-of-dollars/article_aa1afc42-177b-5f49-8e4e-f2111da3ad0a.html"
+excerpt: "Today's healthcare system of only treating disease as it arises unsustainably costs the global economy trillions of dollars each year. However, two significant paradigm shifts are enabling change. First,"
+publishedDateTime: 2021-04-29T12:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/digital-opportunities-in-healthcare-can-save-the-global-economy-trillions-of-dollars-1030364339"
+webUrl: "https://markets.businessinsider.com/news/stocks/digital-opportunities-in-healthcare-can-save-the-global-economy-trillions-of-dollars-1030364339"
 type: article
-quality: 12
-heat: 12
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "EMVoY+XqJMXzVXhP2yGRE5Nh3IunEvH8I0YgFGnV0FIuEo4MUUugmfUD/OFPVv+wM5unD4JNu+iMDKHDw2Fw7Exv+NJCpzqy8XWbmn1MDnazOblMqgsCsrm+6CJpgfKre4H+mJ7kp0AG1TTZaQ7vofU2LzJ6rZrx2g2iNyJiLOQMPpWzLmlkGTK0gEPvb7HxfpyxiMNyf6ZEX1e0Vkdc4aSgWtfI48xHWedpuF5hV7v6VGNwLeKuig5wCsPEzTGDDfmY+35obSD8fzJkUhkjbmRgSDllib6hmcCPkRZ3KkrubZPYPXfGNmjKvJJ+38xMZvAL5v7vaDvHuFZ/gAmsY66pZf85/7fsdV9IysJKEC9Sa+jAPRMc4FsOrIVIT+Eh6P13uN7jfMzSptYWayQFUQVIkMiMA4IWDgivtTKsoLBx6vPNAi2rUtiQYxG12d1yVqRK160/+1gOxBB25hjRj6K13/3rm2V7iglc7V9VKjtkcGZOpaGEvi89SDbxKmav+Sg9cga3V/z3elBF+wFdrw==;e4iGnmBa6AUSl0BTH+2GpA=="
+secured: "cs+sevPrnUk6PXzhkotNwQZXLBBE+68X9thZUCCiHxrDS7QChgc9ZGMCFek1IsIAfJhvAnZUYRS3wR93yS5oQzaZNzU+4TKtPW96+jNUuJ7wYYK04Me+tPbyhfqRl/8GZHamEr6rIEndEafcUDDaKqaFmMJGU8p8mtVqYgafljGcCx3oJD1iKPe2/7SCcl0O6hEVzZJGvPopvf3FNbBlNLjulY8Zn/ekTcQ+Agh2si67sOl0J1vVwOecLnWJwvsDaNPmkUvu1bvAQoN8XiIxdz5DGdeus5njiMKs1vd6Pm7M+d0M2lqMDRrmBeMwHuYK8hdAIfYP+LFDcxgb6y2QCcURz2X7M+ptevSihiiGtlGWNQVzNpDf82ol2bGVg3MYEHDi4Iuk8gKed2xitgAA3KgKC4YbL0/xni+wRjPpIoGUFLlIa6iNHaW8Kn1NT4Wr3XO0mPKBIrrSnO8PL2c+2wnGz4XS7nqDfOuPJCYWqX0FpUQdfy6vRvyV9AQP5rOgXvLMSNJ7362+7Qmemd4X4w==;irFnjMSGTXjK2ZNHsxoDiA=="
 ---
 

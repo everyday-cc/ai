@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       - url: "https://www.fenderbender.com/ext/resources/Ford_Fusion_AV_01_HR1.jpg?height=635&t=1489423231&width=1200"
         width: 1200
         height: 589
+        isCached: true
+  - title: "Self-driving cars could be on UK roads by the end of 2021, but not as you might expect"
+    excerpt: "The Department for Transport has laid out plans for vehicles equipped with Automated Lane Keeping Systems to be legally defined as ‘self-driving’."
+    publishedDateTime: 2021-04-29T17:10:00Z
+    webUrl: "https://www.honestjohn.co.uk/news/driving-1/2021-04/self-driving-cars-could-be-here-by-the-end-of-2021-but-not-as-you-might-expect/"
+    type: article
+    provider:
+      name: HonestJohn.co.uk
+      domain: honestjohn.co.uk
+    quality: 16
+    images:
+      - url: "https://images.honestjohn.co.uk/imagecache/file/crop/1200x800/media/17173469/tesla-model-3-1.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Self-driving vehicles to become legal in the UK this year"
     excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."

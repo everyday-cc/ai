@@ -24,6 +24,22 @@ images:
     height: 828
     isCached: true
 
-secured: "XjtDwT9YzLlM37G76uQtHpVBhQ5fzWUgc5nTEC6d5ORh3uVn0V73GkJPOU+GwVayXsf96Y8yAehkB5dKHVpgW/g7U9kiFRQ2b5Lbv8Zj6uunL8t+FwDG7gxIgPqe++2spvnq2m6BKzHeqa6bWDN5EKslf83R5d1HBOebsJQc03POARvzBiXGc5ghLRilWFDd073e88M1/H8rseyr4/ZG8ozzxgvzwnLVs8YccgeOTJrnzfJaUxAO0EZ11uYY2FPaN8fDEDM82vV9tr+lf0pq3gN7ARn6I1X7KiCGV1gi/ztDw7o+Zo4re7rZlce0K/S9hjVtLhLs/2w7FHi6DSd594lNlMSFgjm3WFVuSUp/RHg=;lqwrFqtl1HRLjFUMApz5VA=="
+related:
+  - title: "Colorado Democrats Liked Biden’s Speech To Congress. Republicans, Not So Much."
+    excerpt: "Democratic Rep. Joe Neguse said every time the President of the United States delivers a national address before a joint session of Congress is an historic moment. He’s attended three State of the Union speeches,"
+    publishedDateTime: 2021-04-29T17:21:00Z
+    webUrl: "https://www.cpr.org/2021/04/29/colorado-democrats-liked-bidens-speech-to-congress-republicans-not-so-much/"
+    type: article
+    provider:
+      name: Colorado Public Radio
+      domain: cpr.org
+    quality: 20
+    images:
+      - url: "https://i1.wp.com/wp-cpr.s3.amazonaws.com/uploads/2021/04/AP21119072439283-scaled.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "GcLY7pOZWbgX2pzc7BBJpGujqwYlTR+vDHpoJcyPbg5Y76eUP36VqKyz9EteyD/ZJOUxV9O9fxKICu9p5gHI2XAUFokXpdqppb7ewBZFKCQSqm5xrUrSu8nca3D6A8XNyUnyQuzSoQhu4S10X6YsYjNMXpiLL8snsK+kTC2Xhf5uybNH5zovFb+LwuKCqZ6inooC9x5pe00mfDKay5D6CxqiiokKsnxAMWUwfMN85mEV7hMYxY/QHjDZ475pn0eE82VUQ4HIflg9J2hwSD/MfPgLu4HQAPK1dFvOZsaaBhmP6TO4mFq65eUh24V4fKPz/OVw+LI1FsZk8uUpNI/MI83Is7OQxECdorNYq72xhyrWLqQj9/l6rtnwM6F8EJQ11yVmS84LUCY2Ovcl6PCHLfXVDEHoUeAhYz6dYGMKE53k4Og5aIvKa6/Fc8/HLO4yUcHVnenPFHfpJh35LulsLzN9GNyNeYjvHXAGd+Wx0cpiF9/6xpRsWXH/gNPH9Qkm4U7zriISrtDbE8tVBYsv3w==;FJgBGEaVt7B3LHkBRUstdw=="
 ---
 

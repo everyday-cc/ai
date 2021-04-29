@@ -1,29 +1,25 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Nimble Studio"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Nimble Studio, a new service that enables customers to set up a content production studio in hours instead of weeks,"
+excerpt: "Amazon Nimble Studio makes it easy to set up a content production studio in hours, scale capacity based on demand, and render content faster and more cost-effectively"
 publishedDateTime: 2021-04-28T22:04:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-business-entertainment-technology-b6aeafa6850347e583d2ba5a7876d777"
-webUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-business-entertainment-technology-b6aeafa6850347e583d2ba5a7876d777"
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/b20852076/aws-announces-general-availability-of-amazon-nimble-studio"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/b20852076/aws-announces-general-availability-of-amazon-nimble-studio"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20852076"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20852076"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "m06GtHowyig+amudftXCkQhWgwiA9CgDARc6GCtacyUfGOLL4idGfPjf/52ArvJOCNM7Vt0MDiGvfKA9oB4DPE2KaOFofLd7kykN0epcA9TQrYFuoIqxICw9ymZHp193wBQ3I90075uhOlhTt59rvdcJgrrnGD/FPk1pZ2/8KTKtM7eUqmlrXOKfB4q2VGe0w+qZ/BXZxiLUZyiYe/A3Tq9dC4EYUvSBRVOn+w40jnIl+qvhN3lfB08Dh7QBoSbTtL7GfWBhre9xvZAOQ8NrBAy/yQjIP6/VTixsFSWLv4XOBS5pwHzXrKjVG2e9HNu+rJVKMAbQI9rGL5jONtF1oyVbnRfedwT7bITA+RZArPA=;EXdbL9a0qSu6VNZ+jjs+Kg=="
+secured: "3o+wlzfAQOOewrnRGdYx++lXZzaRcaGPKaJfAEno0LQKeeQD4ohe82BuWVxyVdTmoWXf2tiWQ1MVoBlhewQpGAIX13/H3MG2z4bJTlI7F+IjTCYFQCR1N++Tc6avz+Vh7rqgWWGowVZEZg3Giin3Us59XSPQC5D0yYBIKYp6NSZHT4Vt/rqNWqqXWxb/QV/kwpGCoJJmcexCHVWFBBjLMYD0jpTTFIGsUI+TmYl+hHyb/4vxTvD4wWla8ASUOVO6GarIZTUNF6HazCTVIA6noVY7SKL2etD/ORnT7O2VAz08zxaedYcbZlQCnUxcL+JC0tCm3VTJGVV2KqV0IWu7dylX+HkpYqhkoJZoF9DCdXA=;IGgeSpK/YgdP5LKTy/VcIQ=="
 ---
 

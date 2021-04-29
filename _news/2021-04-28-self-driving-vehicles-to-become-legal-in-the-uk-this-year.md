@@ -139,6 +139,20 @@ related:
         width: 1200
         height: 589
         isCached: true
+  - title: "Self-driving cars could be on UK roads by the end of 2021, but not as you might expect"
+    excerpt: "The Department for Transport has laid out plans for vehicles equipped with Automated Lane Keeping Systems to be legally defined as ‘self-driving’."
+    publishedDateTime: 2021-04-29T17:10:00Z
+    webUrl: "https://www.honestjohn.co.uk/news/driving-1/2021-04/self-driving-cars-could-be-here-by-the-end-of-2021-but-not-as-you-might-expect/"
+    type: article
+    provider:
+      name: HonestJohn.co.uk
+      domain: honestjohn.co.uk
+    quality: 16
+    images:
+      - url: "https://images.honestjohn.co.uk/imagecache/file/crop/1200x800/media/17173469/tesla-model-3-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Ohg2F8YfixSFB25X39cLaTxJ4Ixjp3bdCUDfHF0woSyVDMCJvEZVyCE1F4SePPgCqDzU+q9BuVGTsXjtmGr81RuQsFs7+62pZrFGOCdVTmWk/Cquvaz7LJ9LtZVSyNpefLZ70ANrp3T2SP8p6QLYvK7jxTkyCW/ZqjgDTs/5+sXE457KC7WtxE+8wwKzC0sNNW1tmGaFyi2N0unQRsSfd5PMK1m9PmM2bTkrRUo0xKudJWO5pLI9C1/TOI1wvOyDSEZdxjUh/Hm25dc9W7D1xQajX3/CxxzYXgLKVf4bDL6/+uYg6QtbOJPGAk/kh4C3SZKIzIX496iBdzmaAsddDmAfX0ZcVE/gYMtn0Sc58a0n3gMfgbcmhz4hAzDKAV+hyICRaERNOd5u/oWjZD0LoL4r5tlTLNhiLqQZ8raoLGFcsfUQx0GRsYE9dZwjk72mtpjL7j4yoHA3DHt2TQ0QT/ViuRBVA5FXGOIgspY5XYE2DpSA5IIDTMPFrBhH6z6IYhD1WXNb9+rMbzbQavJeMg==;xcYRub6o9xFSXptLTJD3Mg=="
 ---

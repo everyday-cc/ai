@@ -39,6 +39,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Plus One Robotics raised $33M from investors"
+    excerpt: "The funding round is the latest win for Plus One Robotics after strong growth throughout 2020. This year, it doubled the size of its Port San Antonio facilities. The funding will help the 44-employee company expand its operations in the United States and Europe."
+    publishedDateTime: 2021-04-29T17:39:00Z
+    webUrl: "https://www.expressnews.com/business/article/San-Antonio-robotics-company-expanding-16132998.php"
+    ampWebUrl: "https://www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 89
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/63/26/20919720/5/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Plus One Robotics raises $33 million for logistics vision system"
     excerpt: "Backing will help firm meet global e-commerce expansion with technology that delivers “hand-eye coordination” for warehouse bots."
     publishedDateTime: 2021-04-27T18:46:00Z

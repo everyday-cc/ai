@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-15-insitro-raises-400m-for-machine-learning-drug-discovery-push.md",
+      "title": "Insitro raises $400m for machine learning drug discovery push",
+      "excerpt": "Start-up run by former Stanford professor uses AI to analyse human genetics and work out where to target drugsRead more on 'Financial Times Companies'",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
+      "publishedDateTime": "2021-03-14T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-why-artificial-intelligence-might-not-win-a-war.md",
       "title": "Why Artificial Intelligence Might Not Win a War",
       "excerpt": "If neural networks and machine learning remain the dominant AI guiding technologies, the operational usefulness of AI in battle will be rather limited.",
@@ -1228,58 +1272,6 @@
         "name": "Phys.org",
         "domain": "phys.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-retrofitting-mits-deep-learning-boot-camp-for-the-virtual-world.md",
-      "title": "Retrofitting MIT’s deep learning “boot camp” for the virtual world",
-      "excerpt": "With technology new and old, instructors try to recreate the interactivity of their pre-Covid classroom. Deep learning is advancing at lightning speed, and Alexander Amini ’17 and Ava Soleimany ’16 want to make sure they have your attention as they ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/retrofitting-mit-deep-learning-boot-camp-virtual-world-0304",
-      "originalUrl": "https://news.mit.edu/2021/retrofitting-mit-deep-learning-boot-camp-virtual-world-0304",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202102/stata-amini-soleimany.png",
-          "width": 4032,
-          "height": 2688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-07T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

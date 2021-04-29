@@ -39,7 +39,21 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "IBM Watson Advertising expands into OTT video"
+    excerpt: "IBM Watson Advertising Accelerator is expanding beyond display ads and jumping into the OTT video space with an eye toward using AI to optimize OTT ad creative. IBM said it’s compatible with most streaming platforms but that it’s partnering closely with Xandr to drive faster adoption of Accelerator."
+    publishedDateTime: 2021-04-29T15:44:00Z
+    webUrl: "https://www.fiercevideo.com/tech/ibm-watson-advertising-expands-into-ott-video"
+    type: article
+    provider:
+      name: fiercevideo
+      domain: fiercevideo.com
+    quality: 39
+    images:
+      - url: "https://qtxasset.com/fiercevideo/1619711188/ibm.jpeg?UJvDnZgy.xxPSkAbM6vNEanDgbnHm3qU"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "Vo6v81YyOv890Y1EbldNJJ5NOEbupoinEtyHI9ZxOcwe9oDzAPdlS7CEhSorcMQwExs2aV7tZLhy5h3glllCw9Dre44Lv64P1c6+0Y59e007cr8C/CAIgDPa6/XlNBEukXmC1oRV4Vd25FEl4nVChNoV93QzAwnqPl0DdkB/a1hinPt8BLmbsSgSSYJbzYpxLWinOt2Z5j7AD5nfrMXD8QNcWDu2X7Oygi7trBJ+n9K9iWg2AukTMJWcMH8Wn1PjubFgdolKgg4fGeK7WJTRmTt3ToSJkx2vo7Y51u2jBCmeHstpTAcy2MDuTnFDnL2sw2bONd0zbb2vVKYEZ05gArKHE10IQm87KJ305CWHzzI=;hSl1QVt4mZX+GpEdGhcjLQ=="
+secured: "y3WfcOvCVCSd39ULNLKzTXpj6rpIqi1cl5ZKsVMclXIFT768RsPV2i6ZNgYHf586wrW3bUaeeYy744AHzvwRgWQdCjNHjx+VDIy11d6FAFfFxgyusbvIkArKjtiCxKnZHv/uHUY4Br7G0evZ35fKP8c9b/4IdmnHUMwocz+Sp7wJAp4rPbKNSddCrr6gQ7K3AVA3tMpPb2S1dJNkMV9sOnlWuG14vveuSq8P5+zPbMj8RNK3zGb5gEOsB10p3OOT9aOEzXIClQ2UiTNhBJnGjiNm2ONYmksN8DuQ1AXCiSciwYaWwdTLkQN4mKufFG0I+MXdcDFd+A1WsA8fIN8oygaDJODzIFOOi/p31qSKQsfuGa4m7XIo/+bxBoyi4aSeKV4ThjECNot/u7mqd1uGlZZJLi1wgBDvmr8LBGljiju1NbjUene2tIQymBDxlHDKlpxniXyx2g5ZkaW0uL+tR+TSM6tBNeFnga35DTPJlXdhZp9cPbhZT9yiU009RcRSR3tv+3mbVS36b7l8W5taUQ==;72tm8FgiMKxHt52d0Fxv7g=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-announces-support-for-the-aws-media-entertainment-initiative/article_88c17de6-c6d1-5956-a827-8a11f9f24106.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
         width: 1181
         height: 630
         isCached: true
+  - title: "Codemill announces support for AWS for Media & Entertainment Initiative"
+    excerpt: "Codemill has announced support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to simplify the management of media productio"
+    publishedDateTime: 2021-04-29T16:28:00Z
+    webUrl: "https://advanced-television.com/2021/04/29/codemill-announces-support-for-aws-for-media-entertainment-initiative/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 34
   - title: "ThinkAnalytics supports AWS for Media & Entertainment initiative"
     excerpt: "ThinkAnalytics is supporting the AWS for Media & Entertainment initiative. ThinkAnalytics' API integration with Amazon Personalize enables the creation of real-time personalized user experiences faster at scale."
     publishedDateTime: 2021-04-29T07:38:00Z

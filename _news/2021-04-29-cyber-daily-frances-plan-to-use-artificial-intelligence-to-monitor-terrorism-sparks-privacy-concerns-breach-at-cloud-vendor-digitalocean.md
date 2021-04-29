@@ -31,8 +31,8 @@ images:
 related:
   - title: "France’s Macron Eyes Artificial Intelligence to Monitor Terrorism"
     excerpt: "The French president is under intense pressure to crack down on terrorism as well as Islamist separatism, an ideology his government says fuels attacks by radicalizing segments of the country’s Muslim minority."
-    publishedDateTime: 2021-04-29T01:55:00Z
-    webUrl: "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713?mod=world_major_1_pos4"
+    publishedDateTime: 2021-04-28T20:55:00Z
+    webUrl: "https://www.wsj.com/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713"
     ampWebUrl: "https://www.wsj.com/amp/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713"
     type: article

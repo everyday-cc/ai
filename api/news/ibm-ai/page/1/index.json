@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/ibm-buys-turbonomic-to-build-out-aiops-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -209,6 +209,49 @@
         "AI in Healthcare",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-new-watson-capabilities-from-ibm-afford-trustworthy-ai-to-businesses.md",
+      "title": "New Watson Capabilities From IBM Afford Trustworthy AI to Businesses",
+      "excerpt": "Announcing new capabilities for its Watson business artificial-intelligence technology, Armonk, N.Y.-headquartered IBM revealed fresh approaches that it hopes will build trust in data and AI. According to its October 2020 survey,",
+      "sourceUrl": null,
+      "webUrl": "https://www.apparelnews.net/news/2021/apr/26/new-watson-capabilities-ibm-afford-trustworthy-ai-/",
+      "originalUrl": "https://www.apparelnews.net/news/2021/apr/26/new-watson-capabilities-ibm-afford-trustworthy-ai-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apparelnews.media.clients.ellingtoncms.com/img/photos/2021/04/22/IBM_Logo_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "California Apparel News",
+        "domain": "apparelnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1332,48 +1375,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-gartner-names-ibm-a-leader-in-2021-magic-quadrant-for-insight-engines.md",
-      "title": "Gartner Names IBM a Leader in 2021 Magic Quadrant for Insight Engines",
-      "excerpt": "Gartner has once again recognized IBM as a “Leader” in its Magic Quadrant for Insight Engines. Gartner defines the Insight Engine category as “an evolution of search technologies that provide on-demand and proactive knowledge discovery and exploration augmented by semantic and machine learning technologies.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/ibm-gartner-leader-2021-magic-quadrant-insight-engines/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/ibm-gartner-leader-2021-magic-quadrant-insight-engines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T08:36:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

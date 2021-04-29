@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-28T20:10:00Z
 originalUrl: "https://news.mit.edu/2021/vivienne-sze-crossing-hardware-software-divide-efficient-ai-0428"
 webUrl: "https://news.mit.edu/2021/vivienne-sze-crossing-hardware-software-divide-efficient-ai-0428"
 type: article
-quality: 56
+quality: 60
 heat: -1
 published: false
 
@@ -21,6 +21,8 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://news.mit.edu/sites/default/files/images/202104/vivienne-sze-mit-00.jpg"
@@ -58,6 +60,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "DKnVHucZg3nO/kW47V+1LqYfQNB8AV7GxvvMKycpaLD0cruz6VJyDUIaOQtVsBPetnI4zcEQJSqLzGOi4l/3lJPcnbdt0ZvgP3FTW7USjzDiL6gmOgDK0cdxMkv92dIejZyO6kRruj5kuzzvQcGE1V05XWP61KsMhiDOOD1rvzwtDgwrf9PA9NG3rKVrm4Fx+jF/ZhlmHkqfrLT5vXz8LZnejUzbggCdiV7pagfVWnyaXuJmmKsbd20nanrSdf7V0mvl0uZPdPRYB0Mwvk1hUedWk8LFegKUUvwfix8E1wlPM0yijA2rn5Wg4PUBhwavn8VHawHB9EMpG2/6YCLFOc401MuoPX+OVEbbg653rBw=;sDWxH7/5HYUOR32SMCz4NQ=="
+secured: "e5w9VGl8GApL3UcLX/ooxdl+5XpOkhy8tLoU8Uew0o6yM6aRhY1ygnGApMMKJwb7IAxlVkFszuGidOk/GRRAcPr5YV1P0D1ti8MoKyIqbTBiFyGD1FLqoMTn1bo/jM+3Vgi5AXts/4yUERAHD6HLSE+KYmgjRFjFVMAm+0EP+uTa9xyi+MDvH9R0c6zFtrOg/KzLRjVrJ58Szc7IP03H712Omjz2H1RotVIT/I4D8fpMDTFG7Ylyg7TEjxiPiOQBsj5FgR+9fbT2UgXfl2hiDm5ovRK1Am5SZXp36yHUMF6XTv/+P/tqljg6GE0dSRHDPj1fiLH34BbkZDV3/H/ZWDt8833hQASqex4mOCoLAMDODkh9cqhQcWi+BoCmqURkeuAiml/LV5rWKAUi/3JnnFVfdcY1jzSgirBUPJhdWrrM+9oeVW6LfiAGcBOtcZYa6Wl5bjMh8LFi4jZbuphXLHRLgB6uCHG7KySySYoTV/Oro/jSvUSpGsi8wnWHCLAA+fOHBw7EF1xhEmTofeMiZw==;HyF07l3B7qEPNeGOGTh6yw=="
 ---
 

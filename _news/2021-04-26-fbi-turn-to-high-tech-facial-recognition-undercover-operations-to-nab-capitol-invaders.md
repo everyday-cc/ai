@@ -89,6 +89,20 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Chinese firms fined for facial recognition overuse, more city govts mull restrictions"
+    excerpt: "More provinces and cities in the country plan to put in place policies that restrict the overuse of facial recognition technology in certain public places."
+    publishedDateTime: 2021-04-29T17:02:00Z
+    webUrl: "https://www.biometricupdate.com/202104/chinese-firms-fined-for-facial-recognition-overuse-more-city-govts-mull-restrictions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+        isCached: true
   - title: "Photo Ninja hides your face from online facial recognition"
     excerpt: "Photo Ninja claims to use AI to slightly alter your images so that they become undetectable to facial recognition software online. The tool was developed by the legal advice app DoNotPay. The self-dubbed “World’s First Robot Lawyer” was initially developed as a chatbot that would help users fight parking tickets."
     publishedDateTime: 2021-04-27T15:58:00Z

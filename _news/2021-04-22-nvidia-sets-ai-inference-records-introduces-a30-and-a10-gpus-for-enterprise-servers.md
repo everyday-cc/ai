@@ -1,20 +1,17 @@
 ---
 category: news
 title: "NVIDIA Sets AI Inference Records, Introduces A30 and A10 GPUs for Enterprise Servers"
-excerpt: "NVIDIA today announced that its AI inference platform, newly expanded with NVIDIA ® A30 and A10 GPUs for mainstream servers, has achieved record-setting performance across every category on the latest release of MLPerf."
-publishedDateTime: 2021-04-21T19:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-1030329802"
-webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-1030329802"
+excerpt: "SANTA CLARA, Calif., (GLOBE NEWSWIRE) -- NVIDIA today announced that its AI inference platform, newly expanded with NVIDIA (R) A30 and A10 GPUs for mainstream servers, has achieved record-setting performance across every category on the latest release of MLPerf."
+publishedDateTime: 2021-04-21T17:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-2021-04-21"
+webUrl: "https://www.marketwatch.com/press-release/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-2021-04-21"
 type: article
-quality: 57
-heat: 67
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,17 +19,12 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Qumu Introduces AI-Powered Live Captioning for Enterprise Video"
-    excerpt: "Qumu Corporation, a leading provider of cloud-based enterprise video technology, today announced the development and release of its live captioning capabilities. Developed by Qumu’ s cloud engineering team,"
-    publishedDateTime: 2021-04-21T13:15:00Z
-    webUrl: "https://www.nasdaq.com/press-release/qumu-introduces-ai-powered-live-captioning-for-enterprise-video-2021-04-21"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
-secured: "h4clzAd1YUnhsxPOEwGBPzXxJUewiQCw156clfDKwzncyLk6WW4KdCr9Qb7VaBSEmoNqEIZvmd9ZmlpqjD8rPu0DuS10lz7ej1OEmzZ4+9EsMTeMcg+jIXLMufFSgxwvThJaJMJd0FwdWIU4zeG8D9gwrQ6JHXdlTnsg+XNPe83vdy7OeCGj5DF4ZHGqkSWnBTee6Xxu1J5j42D0gXUdfzr2AEq1FOtNGsudyFt6kLYHICleLbYad+Z1Gt4Q+XCuSnmDz9+aXbh+1aom5xFE0aEqxDELo+xabwVMP4DUqhuaOxBkzS0Bf43L1ID5vMC6mtCDyRx7gcox9pYV1bGWJ6yloEv0+EEmsYHyps4EsEU=;zTbIdUnTb0u0L4opF3r6KA=="
+secured: "G3EholhLaOfi9Sjy1oKUAb0LVk8rLfpf4EXCC6sUAvw6Kkv9vG9/vPAkMbMDC1eoA6XPftnmi3xDq4DJPBOEoXzmQtONtcZlzyzcdWlN9El9srwpCRGcv6GGWXgDZOBSQA12st5wwqAXRWcSxvNn3nJdEAsQ/MF/5uU+FsZWrrLx84NSYzZT2Nk4OZE9PlwQL/scWEpK0GSvhQGgh6AjYK1D5tWZfFHvEenjQDsZh/UzmlcByWXrjjpuJN8B7mQeZIIdvfLgHcIlRiFaJ0SLYibyUy1OOb+AonezXGvImcpzkOw0DaS/v4iSxK3qEh/sv6vZTz1mbaTi2c7Lpl8WlhWpW/yD2FEnXAnVR3I9cBE=;wlXPqcwb4aD5QD6GrhUO1g=="
 ---
 

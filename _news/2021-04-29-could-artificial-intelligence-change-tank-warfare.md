@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-29T13:43:00Z
 originalUrl: "https://nationalinterest.org/blog/reboot/could-artificial-intelligence-change-tank-warfare-183960"
 webUrl: "https://nationalinterest.org/blog/reboot/could-artificial-intelligence-change-tank-warfare-183960"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://nationalinterest.org/sites/default/files/main_images/Abrams_2.jpg"

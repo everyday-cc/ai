@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-27-making-ai-great-again-how-do-we-design-ethical-ai-systems.md",
+      "title": "Making AI great again: how do we design ethical AI systems?",
+      "excerpt": "The debate around how AI will shape our future is ongoing, and it is already affecting our present. Accenture investigates how issues around ethics and regulation are becoming increasingly urgent. Artificial intelligence is a powerful agent of change in our society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-design-ethical-ai-systems",
+      "originalUrl": "https://www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-design-ethical-ai-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/606daada938ecee6e930ed97/master/pass/AccentureAI_Lead.jpg",
+          "width": 3085,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-design-ethical-ai-systems/amp",
+      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/bc/making-ai-great-again-how-do-we-design-ethical-ai-systems/amp",
+      "publishedDateTime": "2021-04-26T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.md",
       "title": "Researchers propose new deep learning-based model for cross-lingual voice conversion",
       "excerpt": "Robots today have come a long way from their early inception as insentient beings meant primarily for mechanical assistance to humans. Today, they can assist us intellectually and even emotionally, getting ever better at mimicking conscious humans.",
@@ -492,6 +535,49 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-new-watson-capabilities-from-ibm-afford-trustworthy-ai-to-businesses.md",
+      "title": "New Watson Capabilities From IBM Afford Trustworthy AI to Businesses",
+      "excerpt": "Announcing new capabilities for its Watson business artificial-intelligence technology, Armonk, N.Y.-headquartered IBM revealed fresh approaches that it hopes will build trust in data and AI. According to its October 2020 survey,",
+      "sourceUrl": null,
+      "webUrl": "https://www.apparelnews.net/news/2021/apr/26/new-watson-capabilities-ibm-afford-trustworthy-ai-/",
+      "originalUrl": "https://www.apparelnews.net/news/2021/apr/26/new-watson-capabilities-ibm-afford-trustworthy-ai-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apparelnews.media.clients.ellingtoncms.com/img/photos/2021/04/22/IBM_Logo_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "California Apparel News",
+        "domain": "apparelnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -1137,101 +1223,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline.md",
-      "title": "You need to be constantly exploring the data in your AI pipeline",
-      "excerpt": "AI algorithms will do most of the heavy lifting, but if humans aren't doing critical upfront work on the data, your models will fall short.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/",
-      "originalUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/data.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/amp/",
-      "publishedDateTime": "2021-04-25T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-computer-vision-in-healthcare-market-analysis-status-and-global-outlook-2021-to-2026.md",
-      "title": "Computer Vision in Healthcare Market Analysis, Status and Global Outlook 2021 to 2026",
-      "excerpt": "Latest Research Report on “ Computer Vision in Healthcare Market size | Industry Segment by Applications (Medical Imaging , Surgery and Othe",
-      "sourceUrl": null,
-      "webUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853",
-      "originalUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.express-journal.com/img/img-14.png",
-          "width": 1042,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853/amp",
-      "cdnAmpWebUrl": "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/computer-vision-in-healthcare-market-386853/amp",
-      "publishedDateTime": "2021-04-25T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "express-journal",
-        "domain": "express-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

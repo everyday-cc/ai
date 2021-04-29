@@ -2,6 +2,194 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-03-08-ai-here-there-everywhere-but-its-just-the-beginning.md",
+      "title": "AI here, there, everywhere — but it’s just the beginning",
+      "excerpt": "Many of us already live with AI, an array of unseen algorithms that control our Internet-connected devices, from smartphones to security cameras and cars that heat the seats before you’ve even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.denverpost.com/2021/03/06/ai-technology-interactions/",
+      "originalUrl": "https://www.denverpost.com/2021/03/06/ai-technology-interactions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.denverpost.com/wp-content/uploads/2021/03/PERSONALIZED-AI-0.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.denverpost.com/2021/03/06/ai-technology-interactions/amp/",
+      "cdnAmpWebUrl": "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/06/ai-technology-interactions/amp/",
+      "publishedDateTime": "2021-03-07T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Denver Post",
+        "domain": "denverpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-07-building-ai-for-the-global-south.md",
+      "title": "Building AI for the Global South",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Harm wrought by AI tends to fall most heavily on marginalized communities. In the United States, algorithmic ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/07/building-ai-for-the-global-south/",
+      "originalUrl": "https://venturebeat.com/2021/03/07/building-ai-for-the-global-south/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/david-watkis-UKjPDfyJI4w-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/07/building-ai-for-the-global-south/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/07/building-ai-for-the-global-south/amp/",
+      "publishedDateTime": "2021-03-07T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-07-retrofitting-mits-deep-learning-boot-camp-for-the-virtual-world.md",
+      "title": "Retrofitting MIT’s deep learning “boot camp” for the virtual world",
+      "excerpt": "With technology new and old, instructors try to recreate the interactivity of their pre-Covid classroom. Deep learning is advancing at lightning speed, and Alexander Amini ’17 and Ava Soleimany ’16 want to make sure they have your attention as they ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/retrofitting-mit-deep-learning-boot-camp-virtual-world-0304",
+      "originalUrl": "https://news.mit.edu/2021/retrofitting-mit-deep-learning-boot-camp-virtual-world-0304",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202102/stata-amini-soleimany.png",
+          "width": 4032,
+          "height": 2688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-07T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-07-deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade.md",
+      "title": "Deep learning: The way forward with significant value unlocking during the next decade",
+      "excerpt": "The global deep learning market, currently priced at $4.4 billion in 2020, has been projected to expand at a staggering 39.2 per cent CAGR between 2020 and 2027, to reach $44.3 billion by 2027 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
+      "originalUrl": "https://www.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210307/ARTICLE/210309353/AR/0/AR-210309353.jpg&NCS_modified=20210319110230&MaxH=225&imageVersion=16by9",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
+      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
+      "publishedDateTime": "2021-03-07T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-ceva-moves-to-standardize-dsp-enabled-bluetooth-audio-ip-with-new-bluebud-wireless-audio-platform-for-tws-earbuds-smartwatches-and-wearables.md",
       "title": "CEVA Moves to Standardize DSP-enabled Bluetooth® Audio IP with New Bluebud™ Wireless Audio Platform for TWS Earbuds, Smartwatches and Wearables",
       "excerpt": "activity classification and full support for Tensorflow Lite Micro machine learning models Bluebud addresses the technology complexities and scarcity of expertise that semiconductor and system ...",
@@ -926,181 +1114,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-aws-launches-webinar-for-marketers-looking-to-maximise-their-machine-learning-strategy.md",
-      "title": "AWS launches webinar for marketers looking to maximise their machine learning strategy",
-      "excerpt": "Machine Learning for CMOs: How to personalise the customer experience and drive innovation in marketing will see Mumbrella, Amazon Web Services ... at the Australian Financial Review, has worked ...",
-      "sourceUrl": null,
-      "webUrl": "https://mumbrella.com.au/aws-launches-webinar-for-marketers-looking-to-maximise-their-machine-learning-strategy-671729",
-      "originalUrl": "https://mumbrella.com.au/aws-launches-webinar-for-marketers-looking-to-maximise-their-machine-learning-strategy-671729",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mumbrella.com.au/wp-content/uploads/2021/03/Untitled-design-1.png",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T19:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mumbrella",
-        "domain": "mumbrella.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-7-ways-to-ease-computer-vision-syndrome.md",
-      "title": "7 Ways to Ease Computer Vision Syndrome",
-      "excerpt": "Experiencing computer vision syndrome doesn’t mean you need to completely give up your screen time, though. The way you view a digital screen can make a big difference. To learn more about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health/eye-health/computer-vision-syndrome",
-      "originalUrl": "https://www.healthline.com/health/eye-health/computer-vision-syndrome",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2021/02/Male-Laptop-Indoor-Serious-1200x628-Facebook-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-artificial-intelligence-reveals-current-drugs-that-may-help-combat-alzheimers-disease.md",
-      "title": "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease",
-      "excerpt": "Importantly, it could also help reveal new, unexplored targets for therapy by pointing to ... relies on machine learning—a branch of artificial intelligence in which systems are \"trained ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-03-artificial-intelligence-reveals-current-drugs.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-03-artificial-intelligence-reveals-current-drugs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/alzheimersdi.jpg",
-          "width": 775,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-03-artificial-intelligence-reveals-current-drugs.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-artificial-intelligence-reveals-current-drugs.amp",
-      "publishedDateTime": "2021-03-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-defending-smart-systems-on-the-machine-learning-framework-level.md",
-      "title": "Defending smart systems on the machine learning framework level",
-      "excerpt": "SMU Office of Research & Tech Transfer - While smart cities and smart homes have become mainstream buzzwords, few people outside the IT and machine learning communities know about TensorFlow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/smu-dss030421.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/smu-dss030421.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/258248_web.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

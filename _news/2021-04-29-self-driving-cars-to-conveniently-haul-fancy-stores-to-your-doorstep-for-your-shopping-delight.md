@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 589
         isCached: true
+  - title: "Self-driving cars could be on UK roads by the end of 2021, but not as you might expect"
+    excerpt: "The Department for Transport has laid out plans for vehicles equipped with Automated Lane Keeping Systems to be legally defined as ‘self-driving’."
+    publishedDateTime: 2021-04-29T17:10:00Z
+    webUrl: "https://www.honestjohn.co.uk/news/driving-1/2021-04/self-driving-cars-could-be-here-by-the-end-of-2021-but-not-as-you-might-expect/"
+    type: article
+    provider:
+      name: HonestJohn.co.uk
+      domain: honestjohn.co.uk
+    quality: 16
+    images:
+      - url: "https://images.honestjohn.co.uk/imagecache/file/crop/1200x800/media/17173469/tesla-model-3-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Self-driving vehicles to become legal in the UK this year"
     excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."
     publishedDateTime: 2021-04-28T13:53:00Z
@@ -145,6 +159,6 @@ related:
       domain: iottechnews.com
     quality: 4
 
-secured: "KqWATiKFQdzaNdqQO9hCXI9dVw5NPI98FadWwA9CHLVxOV7jfg0p0mBUataxHs3CZhYC6wNNUKKfVW3nSu0hKXZQMX+a50flGoLAkgJm3QPSv4CTsKSVUcS6/t4h+c9/bHKdol0ihcLtagVuxNY764CVLuaZ0j1Vr+kwSgGoZCjicLeLjiRafYANxC4x58MvXB+5Xhdlv6Sn8ztP7XQxhq6O2m/VrB+Jwcc6RBrc4KjoLgduBOhKqhUnUEjYMG5MVAa5t5aSk7ERe8NhO5eiWZtQy60OKwCjwwCeGmeH50xtvKhfTrz03hQy2+s286Twul6ee+rDVoipy4Qp3BAwnimCNN86/ypEld+LwOOaiUk=;tDiQLOxymeXO0Z+XNg8W2g=="
+secured: "9x7qsQ8vmO0JR1DIDPmPjEnN16ghbY3eNjAg6hRyWURxmoUkCUGz6tiy3qkFB+EEofDLO5OO+7PaMuBfyvEvlrr+IhcRSXmHCfhge44chv/54t65+Nlimi9/nXn/u5osQ6eFIlBJtovUuPESybHPM6+50vpvrzHLhZZDCjtqoukuvSLjVYbPhkKDQqyEj9ul91/vi+jsYaMDH/YRdaiqRhhNF1SlvGsxJ0M+3JBU2QmNrisd5Adi2SE6S/k653evxL7GNUe45skvkJ2XZxhB4WcdsNbhByyXiqRJty+hQOHYC90BQTVlm5fiCZGMdofUIM8vjFtjpGKbaZE4Se+/SZe8zcBYAiR2qs/BGxAZ/RKr52YJ/M04dzyGeY+iKB4N/K0CthIJ8o9eJugUN15CC93oiz/x3rIxShTwdyVaRyWY1cOjmTs8opO7xEJSlyQCyYw0kNMbXuDgDXMvKv/2Z70Owgd8QZUqg1yzMTK40g+kjP7tRRE1ivTRWAOpqhYEGlqL63JYuxKwCilAtNSDrw==;dem6ui0ga3ILFAnrnlNTBw=="
 ---
 
