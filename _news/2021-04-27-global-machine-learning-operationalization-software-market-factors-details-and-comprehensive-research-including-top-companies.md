@@ -65,20 +65,6 @@ related:
         width: 700
         height: 517
         isCached: true
-  - title: "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale"
-    excerpt: "AppTek is trusted by some of the world's leading cloud and technology companies to power their conversational speech, text and image-based AI models through its managed data services program. To create the robust data sets required for these high-performing AI models,"
-    publishedDateTime: 2021-04-26T16:40:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1496629/AppTek.jpg?p=facebook"
-        width: 1614
-        height: 845
-        isCached: true
 
 secured: "0UvsOjmkJ/bZQ8ZtuQr3PBF57w/RJSQGjqyh9Nzt9osW0NiPa14IoJXQAZctzI3VRFJ4LpEbkOXLRJ4dMbAo1EL93uAoWKiBbo0UvYDY/k9Eif/p4G/Ry9+xM0rPbuJwoQrql5LgZQMTi4lpTRCwnuFTk8WBKneFE8PB5EbDsM7S3hYWWQNxyW39oqKwrDW3rAmrkosaxsl+t7723I/X7HIhuTryBYl7WuY9KKa4T36sajkcLPG/qW1NLBsPKV2LLhlDUSgCc5KIwLWrMxchJM4u166+8T/5x0NkHpLk6NO2A8RNe7bV3dLICsM9UdIV+gjPPmwOFVogdJoCXO2FIBz5DSjBVCeXL8ACuatQPxI=;btR1V+f/IKzo1RZSOe8ESQ=="
 ---

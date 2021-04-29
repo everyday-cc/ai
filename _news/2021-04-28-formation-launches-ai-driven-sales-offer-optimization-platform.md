@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sale
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
         width: 700
         height: 517
         isCached: true
-  - title: "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale"
-    excerpt: "AppTek is trusted by some of the world's leading cloud and technology companies to power their conversational speech, text and image-based AI models through its managed data services program. To create the robust data sets required for these high-performing AI models,"
-    publishedDateTime: 2021-04-26T16:40:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1496629/AppTek.jpg?p=facebook"
-        width: 1614
-        height: 845
-        isCached: true
   - title: "Global Machine Learning Operationalization Software Market Factors Details and Comprehensive Research Including Top Companies"
     excerpt: "This report can be used by market players to learn about the competitive landscape and the level of competition in the global market. This market report includes a comprehensive evaluation of the market’s growth prospects and restrictions."
     publishedDateTime: 2021-04-27T12:59:00Z
@@ -85,6 +71,6 @@ related:
       domain: ksusentinel.com
     quality: 7
 
-secured: "+Vxcr4pZkKzKxCUrOSqOBxo4/tcwZWuf4aMbqkrhSgGHPVNFCyt/qRVz16Du7fTl8VXC49VO21DEzJnTgNjKXmDR0k87XiOBfkk2Ohhyh5KAPyLNHmY914BC15tST0Sn01WiQlC2218Ursn0d/7U2xWryB0QS1+RcdlgLZpEsenle+HxzlytOlYhpVnB+zkdE0e4xGDvq52igxGOkSxKw97m0yYxY+4W1y4rHtW8kTeVlyyFj3zrdZ7fyQo42hlPw/p3j3eMOcjoLhhityuuCj15iJn14ZVs00yeD7vRocKvyh/s1Xccqu28FcTxlie2Uif+SYCN0RYPO889XDvCFzsihhuhVSfAu3+8o9W3Unc=;IrZFe2F6rvcixl+CwvHBQA=="
+secured: "pEFVp64d3wZ1a/mA45e/WjsE3odqaI3k8RkdbpkjfaW0Ly5QdOEXJMkb70gwQJ4dMP4NPtedWeSbWSw1ahzQCygi1HsLcHhdHzCFfp/Kxr9QxqthO38GlWLfSlDl1ATbIszXFM9lTQpbCL/tj0sD0FmLzKU5J+J5nCK0IqDRsSVknJ4C5oYqIEufYGMESuyQ1a6rE79l10n8j06Q0LWidhQ2l/Kk5NCoycz3wyO7z0xq9cCJ1bdpdAqK2tQVDwZ25x0qMgYc2HJwjE8JUKH7gNpMErxDR7ZZOA8MF0ji0TH11t8H3T68bd1SyZwCgExZ8K/C8Gp0VePJdyFdwGF2jnFlgYjlVCb3eQiky2CcF0WBskhU0AXh8S03HvFIA/ENKtuBkUkOFg639SbxNReEmAe3s5XsZbF+ztYnV+la8cDUYbAFwIvO+X8quTZi/2VigRAM+2iJFx3dKEkvivgiL4hTs49E/SVeUGe6zZchiq6KdSMnNJSPOThFuEsyj5Q6HnBeLDO/3Ks1Pnb+lcpNtQ==;wMLfN0H0sFlRxLjyTNmsiw=="
 ---
 

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "GoodTrust launches AI service to reimagine the future of digital afterlife together with D-ID, supported by Microsoft for Startups"
-excerpt: "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and innovative way"
-publishedDateTime: 2021-04-26T15:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-1030346504"
-webUrl: "https://markets.businessinsider.com/news/stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-1030346504"
+excerpt: "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and innovative ways to preserve digital stories and"
+publishedDateTime: 2021-04-26T15:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id/article_7c8eb10b-f2c7-5ee1-b187-eb406ef4d757.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id/article_7c8eb10b-f2c7-5ee1-b187-eb406ef4d757.html"
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "WAzpB5XET9qxdOBTXceEx1AGWaJ00t+8TodXpdfXPWf2k/7eNjumo6rxBxQGOsvKIlJNCKOMLda6fmQM8NRhDKCGbHySTpQFBKy7Pwl2UAsp0upfMWxxrexDt5Jr0IokE0p+KxasWKu+rWD6nhfPrWd6sPZ5KxTTXBDQ8Nvpm/2aXr+0HWUqN88JuRpZxI3BmvEzoNJeJOwq2WJdF8ZUjw3TOLoHAPC5ERrjvAUT+aEzqOSy3x4WaGtydULzkvJ6PuuyMiACNjRannzjq7/vLWFVlOUWJ6CjrwSpuurQUcl95Tmjdy5ULJ2WJbA6D0XnI7WrRENxN9b+MBTJNT81tSlRbmPPNnmljrqJpeV65lcoWMHgH6CXRk589UyPtM4gsqUL4HdReLd5jvl0/KjcpoX5hQEreszKiTlBAgzRedck2AMw300FVwPHFZtLhtx1+UcuYPNEtg2HxlSThm9YjbvxZvfQ44N2Fomkj9vXbv2XLzeUgEMv3MaUVVU+E5F3NZYTQShhUE8W4GP6NyueSg==;NPv45VTXAypQ5mx1PQPmFw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/d1/cd135112-3bc6-5c29-8306-b1c8139d53c6/6086d5a2c221e.image.jpg?resize=1119%2C630"
+    width: 1119
+    height: 630
+    isCached: true
+
+secured: "LBNKVbJuQP1wcMavXJ3oJoicJo2nrv1O2cxV3onQidtRu9oJfcsc/gz2buI4cNHs3UdQuT6TJPFVeBzrTA6jkq7Rz8pzq+DF157Szlkp4L3LllxtKNp3Tjuo/DQ5QNjhzJ06Aifp9hnkUqyF5ZphswYlEv7LJ9OooFq27I+2n/5Q/rcNsLV8receMFPsHpeT7jjQfG7ypo34xxNDybcq92Sie95/d5nkdm+fGqfpXEgGV5Akm6oCkoropds9P9g3TZY3MydGopnUTp+zutSbSYad6F7go4FsotMvgHzPzO//6kUFOC+tsYO19JyuJcZvPpk7SMzXuC83OZEAoEnEvut1aBHdmzb4UY0/fw6kiBc=;gPFUBexTuvRcny3eC8tByg=="
 ---
 
