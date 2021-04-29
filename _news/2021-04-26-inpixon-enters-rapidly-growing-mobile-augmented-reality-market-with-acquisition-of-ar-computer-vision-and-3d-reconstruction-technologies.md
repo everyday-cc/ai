@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Inpixon Enters Rapidly Growing Mobile Augmented Reality Market with Acquisition of AR, Computer Vision and 3D Reconstruction Technologies"
-excerpt: "Inpixon (Nasdaq: INPX), the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality (AR),"
-publishedDateTime: 2021-04-26T13:40:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies-1030346080"
-webUrl: "https://markets.businessinsider.com/news/stocks/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies-1030346080"
+excerpt: "Inpixon (Nasdaq: INPX), the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality (AR), computer vision, localization, navigation,"
+publishedDateTime: 2021-04-26T13:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and/article_e539a97e-610b-56d5-a445-250c4715d9aa.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and/article_e539a97e-610b-56d5-a445-250c4715d9aa.html"
 type: article
-quality: 36
-heat: 36
+quality: 6
+heat: 6
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1496098/Inpixon_AR_warehouse1.jpg"
-    width: 400
-    height: 216
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/14/814cb6da-7b5a-58cd-b155-8088ec494826/6086c0903284d.image.jpg?resize=887%2C478"
+    width: 887
+    height: 478
     isCached: true
 
-secured: "fi6WLr3Tr51qOF7kQj0mbebpaWOCsc15S0U4dLfX3+r1Htf4E6HbLHhFXwlnQTObsqeY7wmA0gum/1+5i2JMAuoghKDJRjFfR25qPQxLpdu8EOhoPA7NVMXunE81coaZuwtR9zD2ENZsqp6cYEGN5NwPlhHC8DPHI4U4acQHGO8QN3boENn+iZcIU0RVQHVzWVWgL/SOsdD6SRAX3InPwM9n9RJRXeuyVVQI/J4DLu+X6uhAKOd0figjmT57bFATrRekxCBl3x+Z/4a7CYdWfpW8b8NRkKfltGx1kumWizkPKZVkveq74tn/OYev8b8Iw9R5RmT+MLAj09SCpvZkbg1oK/0bu1URZ11AUnjZYiY=;V3P/jrHM3GsJ1jOpGF879g=="
+secured: "9ZDW5ow3opWeBGikY6FYxOR01W9EUY4wXH1Ul2krcA085NLpgfI/rKfUl80gbmknywWdKpwA1Y759Y+jVW7Nu2EUew4uCrP1WapnbMWrJiRkFFirzX6gLFZDlOkm1xPfBSKvva0EBYvc6Px2vYXQAD+TV03QkDZQUCwy4/9bWwGs33Z6cNGzY7HDzCkMgUyFhzdWT1RHbzmY3px2eOqQnfdZ2/Z1MBkLdL/TFQUBtW4Qgh/DzUYfbiBxwKg8gKwzIDaNNFxTaA0+EoIW6Bxj2cYYUvqU6USp1hFjivU/OVqx5LCdznzgCRy4soihMGtKR3X7TuBJxrYdLkRNFis4cQaLc0bQThLjdzpoYpp5xxs=;4CTqPz3IwCKbN+pPmpn3EA=="
 ---
 

@@ -57,7 +57,21 @@ related:
         width: 1080
         height: 626
         isCached: true
+  - title: "Baidu to launch paid driverless ride-hailing service in Beijing"
+    excerpt: "Chinese web firm Baidu has announced the launch of its driverless robotaxi service in Beijing from 2 May, making it the among the first companies in the country to offer autonomous taxi services to paying users."
+    publishedDateTime: 2021-04-29T10:44:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/04/baidu-to-launch-paid-driverless-ride-hailing-service-in-beijing/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/15689/baidu-apollo-driverless-taxis.jpg?center=0.68442622950819676,0.49318801089918257&mode=crop&width=1200&height=450&rnd=132641673780000000"
+        width: 1200
+        height: 450
+        isCached: true
 
-secured: "Dm1TfPiK8DMVFN7e9rWXMGyesfHyeXMVjanOEbW+LVK48TVDKIbMy40fnYWkJOWLugRGM7GQvyV3/Hz1y505Om7j/av2CeVafL2drOT7sUxTs0VIWV+ZucCBSWmvvjylw0+ghpXFVImkP3EWaXYPDvRcJ8KjtEAFkMXPaR115RYXSLOFVOzpM4sRZofeAlz4iD+r4wp2CEeplfgj8XHLyyzMIIg74Rmlb/FgzxympYmPKsg4chzuhdFf8YkKaVoWjKQgwEljrNSrgBRluwFkabhsZwW4YDVI4VHRyBruT5J4YncZF8IXaa1ecDULDSSqIgL7rjW0Um+X+ulZrvYw350IPDTyoM7Dyni5Wk8mPgU=;HxswTWQ7eTW9SFuYgg/KjQ=="
+secured: "FQVPA7YoxkLN+VzSzLWqHR+UNzWNNi8FshKlBWVfom5Sh1amdI8T5dKr1duALrFiLi6cGPcZlQCGJvx0tYtA4gNINQUYMSPtJl47tSAZFuFQGfjc2AUJsCbVLCLcPXtTO0oCqxhoQAdtJipXm3lwt2Qv4OCcqi8dl8JU4+hN1QTZKelYKdoTB5YwnAOAGqnqKTIi1p52FmXQcYdMsmFaB3puKST3JLdr183IMKsy+qL03YpBlNJwLNUvjpl/kiqAQGLPAHg75UumCPfiU9A/DQnH0xPGUsRJrb4pBg3mmsFUxp7x1O7wufUMvE3fxjtfBsE3AtbgTgAM4UuSPjAomQczpkiXtobNffRtaLD8KYQ593ZVh53t7MiD+r5sxfzhLiOXYsiJy4IUPlabjyBwr2KCPh2KdWHE8ShoeCvd9fRQb5UnzfhNVqIs0Vs4Sbz0Ibm++qIbo0wPRQgU+6swIMlssLYlJUksLlUYXoj1jAsqPls2D0r20v4gBvyNeO7PqlnPS/kB5i6v3ZGflelCgQ==;T+hhA6HiUzQysSZnKT0IlA=="
 ---
 

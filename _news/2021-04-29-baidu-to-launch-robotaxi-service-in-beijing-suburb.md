@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu to launch paid driverless ride-hailing service in Beijing"
+    excerpt: "Chinese web firm Baidu has announced the launch of its driverless robotaxi service in Beijing from 2 May, making it the among the first companies in the country to offer autonomous taxi services to paying users."
+    publishedDateTime: 2021-04-29T10:44:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/04/baidu-to-launch-paid-driverless-ride-hailing-service-in-beijing/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/15689/baidu-apollo-driverless-taxis.jpg?center=0.68442622950819676,0.49318801089918257&mode=crop&width=1200&height=450&rnd=132641673780000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
     excerpt: "Baidu, Inc. (NASDAQ: BIDU and HKEX: 9888) will open fully driverless robotaxi services to the public in Beijing starting from May 2,"
     publishedDateTime: 2021-04-29T07:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intell
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/"
 type: article
 quality: 112
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Elon Musk: Tesla’s next Full Self-Driving Beta update ‘will blow your mind’"
+    excerpt: "Elon Musk now says that Tesla’s next Full Self-Driving Beta software update ‘will blow your mind’ and it’s only about two weeks away. Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through what it calls its “early access program”."
+    publishedDateTime: 2021-04-29T10:02:00Z
+    webUrl: "https://electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/"
+    ampWebUrl: "https://electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 87
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "6ez78299teJ8hRfOrLnFk3poBe7HbzgR61NXiYTQNVh4sizpXhz8pl4kp1TVXNkY+5kox9IF+WvJyy/n61Pzwpg82nq8/StfkBYOXwU+EgTp5me2rVWGXBdSGOhpF3JU8aMv+OSxH0JXwji5P3dgVGkbKabHWmwdeWGChT5PGMKWGuNUj3eRd9zSWDD6xtnz1nvipBjtF2BldyKN2iKf4zvnwtk+syOfv75yfglQHguz0foxlAuIjcIXj1+ySWaGgzRIlI+CICHZPpKmStEY8hjTi1nPsJUscodQL2bwQ3eYmKd+WNjCbPIxXJkzX0o4/2ERuTc1Twys4rl+j2F1IiIPu3YtcF3Yjj8FWRTBkBU8jsAhD3vGUZbi/lSdWZ7b2/Nfw+KRnT9hnOIdbU23HX8y/OIOB0olOCPunokXK9kQrEklROy6XsDbhaylHGw9Wx6sN2309v6YhIPis3DXYzfhaVj9bIkpdqRPdkzMz/g7PDcMWyfe08pMWRzXS2unn3fDPUP0EysKEcYnfzYaQA==;h1CNUTzkd0LylYyXHlhJLA=="
 ---

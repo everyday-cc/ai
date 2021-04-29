@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Intangles Lab Pvt. Ltd. Files Patent for Machine Learning Solution for Fuel Pilferage"
-excerpt: "Intangles Lab, a leading digital twin solutions provider, announced today that it has filed a patent with the Indian Patent Office for"
-publishedDateTime: 2021-04-29T08:03:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-829318591.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-829318591.html"
+title: "Intangles Lab Pvt. Ltd. files Patent for machine learning solution for fuel pilferage"
+excerpt: "Intangles Lab, a leading digital twin solutions provider, announced today that it has filed a patent with the Indian Patent Office for Methods and Systems for Sub-Resolution Measurements in Fuel"
+publishedDateTime: 2021-04-29T11:01:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-121042900924_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-121042900924_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-121042900924_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-121042900924_1.html"
 type: article
-quality: 32
-heat: 32
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1499755/Patent_fuel_pilferage.jpg?p=facebook"
-    width: 960
-    height: 503
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/29/full/20210429145104.jpg"
+    width: 600
+    height: 450
     isCached: true
 
-secured: "P9Lz6/NZ8rAPBDNtjIjbw3mxaS0mSh5bgdSSZ77kuhZvBYwjUMdJjOHtMmr8k9hPLk4EBS5LJD+BveDTaCd0eGWPCS5H7pA04FHTf6atfJwG+4g/QEc7EVEwNOJt2WOAI8qGhIcT4vX7UyEz9xmk7iFnzzdOI9cqCOY2b6UwX98UOZa1P2R2M67NsfcC4aZ5rxsuZlFdOqklKeJ/5WuYOba325id+2OetqaOQVD8Matt2+49RJdVRPZ+iagcGwRrFeHY/jFJrzMQ/lXfeKmZIeUmkaYSyZKTwwvzD2mC26va1ZDcgKqVRR+7/ZsjTRMVPr2sjTJIaGBjKxCdkHzZROf6kINBXOvdYAqXeCtEuW4=;QQilZqv/uXspXtNzAl6kww=="
+secured: "F4QxfhcqiQckYyQCcGuRsr0nu21tSZVxfrQ65c6D+YoK21/WkXtyoKjOA1G+WC/U8+++EKNa9deKgqskf6VlGgnaPo7VEfoDNHlb720n8MEMdmNJBW8+7CiqTvnxelIM95GitRtNzhSVL7/Wwf2RQycU16V69bHW4RF9Ss7cBgQVXzaFkfqhXkcBjICZB6WuEmZLvbzMG9x+fooluV5lhsBgAzeJwn8K16ERIBKcwFbozox0teFhq2Bw8/dIMnJx/UxDpYc19zxvHeHhAOReB8wqNY7T4vrVFZDsDCeorK2ngwtIrN+mr+sFMav5CUTKENQCUvRfGByu4eDktuUmfTPm3PlLzd6PaEXyrMOsKZE=;8FN941ybygPtP1jsedLUcQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/monitor-and-manage-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/monitor-and-manage-anomaly-detection-models-on-a-fleet-of-wind-turbines-with-amazon-sagemaker-edge-manager/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 800
     height: 599
     isCached: true
+
+related:
+  - title: "AWS Introduces Savings Plans and Instant Price Reductions for Amazon Sagemaker"
+    excerpt: "AWS announced instant price reductions and Savings Plans for Amazon SageMaker, their fully-managed Machine Learning (ML) service. With Savings Plans for Amazon SageMaker, customers can benefit from cost savings up to 64% compared to the on-demand price."
+    publishedDateTime: 2021-04-29T11:23:00Z
+    webUrl: "https://www.infoq.com/news/2021/04/amazon-sagemaker-savings-plans/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 50
+    images:
+      - url: "https://res.infoq.com/news/2021/04/amazon-sagemaker-savings-plans/en/headerimage/header+%282%29-1619512510953.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "RcfDfi0k6VKjNLA1zOU3KIMyiYSYFZj7axRbnha5HRMkovCf+ftLZY+QEeL6CaDohZ5p2Oe41BDVEVrZHv9WzVQIlz2z4Z3XCDnlkdQsClLKyH0iQNN9sbLMEu1wusecqxUUAGnl85fJnf1y3jYEZgK8u5jIta8Vnm3TIwHRTNQM6gd8rlwCrXB05mymwBPvN0wvgnQxi6mi8YObCsQKRTaXsBlyeeEih4QttvwZ9bmiT2SXyTxfo0J6PNEmBJBiteH/rfvkn70M00YTM5gJTbuDwxK+Q3CMlm2fMAXbZ5huIpgYQq/5kGNGSiDrBsz5y8FEWcIkJp/MvHnOdjsdQEkYwO/cpAdCP/OWnUSZ8x4=;Is5g+Z1BtFld4xOpimyBOg=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tilde Launches a Translation Platform for Companies and Translators"
+    excerpt: "The new release of Tilde MT platform focuses on maximizing translation efficiency for translators, language service providers and small and large companies with the latest AI solutions. It includes secure translation UI,"
+    publishedDateTime: 2021-04-29T10:08:00Z
+    webUrl: "https://slator.com/press-releases/tilde-launches-a-translation-platform-for-companies-and-translators/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
+    images:
+      - url: "https://slator.com/assets/2021/04/Tilde-MT-Platform.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Global Machine Learning Operationalization Software Market Factors Details and Comprehensive Research Including Top Companies"
     excerpt: "This report can be used by market players to learn about the competitive landscape and the level of competition in the global market. This market report includes a comprehensive evaluation of the market’s growth prospects and restrictions."
     publishedDateTime: 2021-04-27T12:59:00Z

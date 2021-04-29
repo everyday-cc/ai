@@ -65,6 +65,20 @@ related:
         width: 700
         height: 517
         isCached: true
+  - title: "Tilde Launches a Translation Platform for Companies and Translators"
+    excerpt: "The new release of Tilde MT platform focuses on maximizing translation efficiency for translators, language service providers and small and large companies with the latest AI solutions. It includes secure translation UI,"
+    publishedDateTime: 2021-04-29T10:08:00Z
+    webUrl: "https://slator.com/press-releases/tilde-launches-a-translation-platform-for-companies-and-translators/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
+    images:
+      - url: "https://slator.com/assets/2021/04/Tilde-MT-Platform.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "0UvsOjmkJ/bZQ8ZtuQr3PBF57w/RJSQGjqyh9Nzt9osW0NiPa14IoJXQAZctzI3VRFJ4LpEbkOXLRJ4dMbAo1EL93uAoWKiBbo0UvYDY/k9Eif/p4G/Ry9+xM0rPbuJwoQrql5LgZQMTi4lpTRCwnuFTk8WBKneFE8PB5EbDsM7S3hYWWQNxyW39oqKwrDW3rAmrkosaxsl+t7723I/X7HIhuTryBYl7WuY9KKa4T36sajkcLPG/qW1NLBsPKV2LLhlDUSgCc5KIwLWrMxchJM4u166+8T/5x0NkHpLk6NO2A8RNe7bV3dLICsM9UdIV+gjPPmwOFVogdJoCXO2FIBz5DSjBVCeXL8ACuatQPxI=;btR1V+f/IKzo1RZSOe8ESQ=="
 ---
