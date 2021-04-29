@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-CT-MD, COVID-19 computed tomography scan dataset applicable in machine learning and deep learning"
+    excerpt: "Low Dose Computed Tomography of the Chest • viral infectious disease Technology Type(s) digital curation • image processing technique Factor Type(s) sex • gender • age group • weight • clinical charac"
+    publishedDateTime: 2021-04-29T19:03:00Z
+    webUrl: "https://www.nature.com/articles/s41597-021-00900-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 38
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-021-00900-3/MediaObjects/41597_2021_900_Fig1_HTML.png"
+        width: 685
+        height: 449
+        isCached: true
   - title: "Speech and Voice Recognition Market Top Manufacturers, Industry Size, Share and COVID 19 Impact on Revenue Growth"
     excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
     publishedDateTime: 2021-04-28T14:19:00Z
@@ -71,6 +85,15 @@ related:
     provider:
       name: The Sentinel
       domain: ksusentinel.com
+    quality: 0
+  - title: "COVID-19 Impact On The Pharmaceutical Robots Market : Benefits Offered By Robotic Systems In Pharmaceutical Manufacturing"
+    excerpt: "Benefits offered by robotic systems in pharmaceutical manufacturing is a key factor driving the growth of pharmaceutical robots market. The base year considered for the study is 2015, and the forecast has been provided for the period between 2016 and 2021."
+    publishedDateTime: 2021-04-29T16:06:00Z
+    webUrl: "https://seekingalpha.com/instablog/31507595-healthcareresearchmnm/5584880-covidminus-19-impact-on-pharmaceutical-robots-market-benefits-offered-robotic-systems-in"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 0
 
 secured: "UZmJzuvKOB4wn9qGQ/B5a3yQfxRzYjgDjtZMQwRp4w+KEP2SIBYGy76HLW5L4O9D4QXZXUtWI1pvZDAaf4f445puH7JcQCkR34rxCXIt4X6KSTirQ+e447RqEgYklugRyrRtBFuhi9T7KvHsjHaW3ueihuY67RSBlWFcmAqUFM+XQbucNy/SKHwu1IMTMhFRqykz+SB6FjUAKqAOEE1GbB6oCSNS/l+0SGSdjCeeL2+lICC4PI6+9KViHJ3U6XgIuloOFXmSYjHkBucKEHCJ3eUY9NQbW1p/dLnORI6vzWf5jgVg70kYexkDVXgG8obm32eqKHg6fLeqHqTHoBcDEQxXjcSNp5PnKWR5ZjTWcIg=;finOTmbr+kJQ7qUQnA5L4A=="

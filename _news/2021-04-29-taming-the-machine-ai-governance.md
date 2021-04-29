@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359374
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359374/taming-the-machine-ai-governance?amp"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1260
     height: 710
     isCached: true
+
+related:
+  - title: "ModelOp Extends Automation and Governance for Artificial Intelligence and Machine Learning Models"
+    excerpt: "ModelOp Center integrates with DataOps and SecOps Systems CHICAGO (PRWEB) ModelOp, the pioneer of ModelOps software for large enterprises, today"
+    publishedDateTime: 2021-04-29T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/p20873025/modelop-extends-automation-and-governance-for-artificial-intelligence-and-machine-learning-models"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20873025"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20873025"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
 
 secured: "MIEpU6NOqvQgikVWJb8gyLwAJpHI+GXBQ0Z94W319wGot0hRHVjpRc1/0JMeuMjh6FvRuguDeXqZ/F35KULi9opHUPOZo022DU47ex/fWuDSClJL6/vWNK0P6pS9RDlbjpBfDz+/du61BHlfLy6wmNera2pfuz7XWEhWr2lINuE4TQ9CkCOs5yZudIxrrn6kfUGv9sFyo3wbC6ZNSsTD0rOI78ZT2nWeiDxQ8JusBF8eRIQfAZNgJac70zh9PnKWI0RfCnpJfJujPid2OxxXYvm34KH67EV35KsqybUMzOg+sk/sxWPFzaON+/NOWF1iR6j5iDeUA3hCgnaoujmenAdzhRLwVQQYGjHYMDMH/Oa83Se8CZqtYodgsaUo49FVA/Kd2gZzRDuJrr6XJEy7N6lpYcpxBvHoQ5ltvU8yc943lLuz61DLZeY6A9JzYchAN6W5JOz8dncmGszMMzGFjgZUnM5KweJIweQy+36/arAlpU3hOVMrvVhFeTL4Pgfaxi0hfkNCCRoeOnkZ9IwV9A==;DGZfaw1OKgTiYklQr9V1YA=="
 ---

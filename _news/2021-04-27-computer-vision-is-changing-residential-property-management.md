@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Computer Vision Is Changing Residential Property Management"
-excerpt: "Lanthorn.ai, a Video Analytics Company, and Uptimo, a Real Estate Management Company, announced today a collaboration agreement to bring AI solutions into property management. Property management is an essential service facilitating the balance in the rental housing market."
-publishedDateTime: 2021-04-27T13:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/computer-vision-is-changing-residential-property-management-1030351538"
-webUrl: "https://markets.businessinsider.com/news/stocks/computer-vision-is-changing-residential-property-management-1030351538"
+excerpt: "Lanthorn.ai, a Video Analytics Company, and Uptimo, a Real Estate Management Company, announced today a collaboration agreement to bring"
+publishedDateTime: 2021-04-27T12:39:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/computer-vision-is-changing-residential-property-management-301277675.html"
+webUrl: "https://www.prnewswire.com/news-releases/computer-vision-is-changing-residential-property-management-301277675.html"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "XqGWDw0FzbyVbu7x21bsPS24ApRg71QuYYXljPZiY0l2tUgKo+Q1P/OwEygVL6K2yW7mAkPSUhuKv31jOQgOorkVGVZ6bUi7u46kj+A1gjrDuMDAnS1gIyqg3O8ntckOjNkRhX0LbK5EwO4Y7MQV0L/vxP/6/akB8irzV+BvitcByuqRA2ZBoOl3h/O1jib9BieYnHHxah28VO7nSb0Ik6kHdySzbG5rkfqzd++Qn34giCMGnlllocBxNSstUj3/uA+jZQzSHpyOpeSB0hGlo+h9Z2p5wm794qINN/0m6uo0YbbXqdW9TklbpfYiLPnNiQphfAUuR+6ALohdtser3KdE0ZpaaV1gxDqPCpxLR0k=;4LjFRPuaLtUsgPiydV9ERA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1496604/Lanthorn_Logo.jpg?p=facebook"
+    width: 1600
+    height: 838
+    isCached: true
+
+secured: "ZlL6Ns1nsUeoQK26th3zrgBxgLxYUqiQpxrOsripk/C2xVtZs3eLxZfylQ8Zy0KQbHvsjw0fXht2kQF2JbomK6LPIVYlB6AcVNET1JJoXkPkx74u/B5v4vz4xBda3lnsHpWzEW48MtGYnTjM1v1t7CXPWiwAHzkQasgiX0KIin832M04K41iMQ6veh0G6MrZMQ6qbNvAE7wFCY/zl/W1lkWRt1+AGofNd7sk50PUUsOjKHrDQ+9beiXbv89PStkfVmYslr9A3nTnwJoKlowIY2hW+3G7vqE2JprGaptcJqLpZu6GUl+fj7jyv525DwvWmqd+rRZR3/3TPog9A6osx8RZurNak8BD8zfhw9HEC0k=;EarGLzxHrBcy1X/deRr2wQ=="
 ---
 

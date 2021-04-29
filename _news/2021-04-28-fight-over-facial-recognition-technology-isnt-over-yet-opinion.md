@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China Publishes Draft Security Standard on Facial Recognition"
+    excerpt: "On April 23, 2021, the National Information Security Standardization Technical Committee of China published a draft standard (in Chinese) on Security Requirements of Facial Recognition Data"
+    publishedDateTime: 2021-04-29T17:28:00Z
+    webUrl: "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition"
+    ampWebUrl: "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 76
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "FBI turn to high-tech facial recognition, undercover operations to nab Capitol invaders"
     excerpt: "FBI agents in Kentucky turned to computerized facial recognition technology to nail Mr. Randolph’s identification and went undercover to try to obtain incriminating statements, the affidavit discloses."
     publishedDateTime: 2021-04-25T22:12:00Z

@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-CT-MD, COVID-19 computed tomography scan dataset applicable in machine learning and deep learning"
+    excerpt: "Low Dose Computed Tomography of the Chest • viral infectious disease Technology Type(s) digital curation • image processing technique Factor Type(s) sex • gender • age group • weight • clinical charac"
+    publishedDateTime: 2021-04-29T19:03:00Z
+    webUrl: "https://www.nature.com/articles/s41597-021-00900-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 38
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-021-00900-3/MediaObjects/41597_2021_900_Fig1_HTML.png"
+        width: 685
+        height: 449
+        isCached: true
   - title: "Machine Learning Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "Machine Learning market size was valued at USD 6 9 billion in 2018 and is anticipated to register a CAGR of 43 from 2021 to 2027 New technologies such as artificial intelligence is changing the way industries and humans work"
     publishedDateTime: 2021-04-28T11:15:00Z
@@ -71,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-19 Impact On The Pharmaceutical Robots Market : Benefits Offered By Robotic Systems In Pharmaceutical Manufacturing"
+    excerpt: "Benefits offered by robotic systems in pharmaceutical manufacturing is a key factor driving the growth of pharmaceutical robots market. The base year considered for the study is 2015, and the forecast has been provided for the period between 2016 and 2021."
+    publishedDateTime: 2021-04-29T16:06:00Z
+    webUrl: "https://seekingalpha.com/instablog/31507595-healthcareresearchmnm/5584880-covidminus-19-impact-on-pharmaceutical-robots-market-benefits-offered-robotic-systems-in"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "LRE+xa3YD83cNGgszt95wbCaPjLrZui6vdmxS+mCWEMd/EIfvj3Qvlj5bJtbsLEy8csnmzDosWPbjClmwHW/Ro9HJzQwebJuRlfx/iCjF/K8pt484uWx7srDQE5StHa90gZUlZGRl9NxE4uezP4zFYuuTG4g6xQSVnyGnNQ0Kz7YHtbjGMKrhmtJ3I+XBnRVh+XZZ7dJw5JRCqrXvAONjxhvKuTmXtbFLBlMWmN1g1D7yEwjPhQUJAn5Ed9xnYuOPqLHEHv5RTAUpkVuY4xIVRNEA7CgpaNGFCSdtYa1C0GDEyFD420qmhyBmOpVo+41UoL8nusmNxulMHEVO4sBkqU/mF8i9v/Pi+pDqCv3ONo=;Nli81EKBSwNOCkMPPM7/og=="
 ---

@@ -24,6 +24,22 @@ images:
     height: 330
     isCached: true
 
+related:
+  - title: "Nuance Provides Speech Recognition Tech for NHS Digital Transformations"
+    excerpt: "Nuance will be providing clinical dictation tech to the Guy's and St Thomas' NHS Foundation Trust for its digital transformation"
+    publishedDateTime: 2021-04-29T18:33:00Z
+    webUrl: "https://mobileidworld.com/nuance-provides-speech-recognition-tech-nhs-digital-transformations-042904/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
+        width: 800
+        height: 560
+        isCached: true
+
 secured: "wVDD7O0B+ifroFfCV67/8BhmmOyDc3QpCxbO00lrHnFYF15o8aX52nQzupmrnj8RyvAopiXntUrB/xQOTxeZ62AAU0MN89GqFX5xT+bJHEgZkUpnJFyfklD3V9Fo2tj1KjZg+l/c995XQZz+5kdZiD6oGaRnLTbk26MTINPkEdDVupZWoupfQkht+9NwGb2RJcvg7M5K6za9xy+1G80gj5ArTx1FHi9dLdpWp82ObHZJmlYJJtRDS3IK4JXJSKgVVOrhhI6ZOzKsZuXUbCoynNvfeuucl7n/C+DaCQLvYY8INdHO7bZdXVf34zOFHZMn8eT8eVCkiDTxIx+4duksQiP41aOd1UJ1uH/yylEpw90=;lrgZntm43e0gb85A3++HAw=="
 ---
 

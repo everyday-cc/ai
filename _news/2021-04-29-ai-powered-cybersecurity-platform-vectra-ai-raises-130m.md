@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1200274448.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "How AI is Mishandled to Become a Cybersecurity Risk"
+    excerpt: "While infosec specialists use AI for benign purposes, threat actors mishandle it to orchestrate real-world attacks. At this point, it is hard to say who is winning."
+    publishedDateTime: 2021-04-29T18:37:00Z
+    webUrl: "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cybersecurity-risk/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/AI.threats.cybersecurity2.png"
+        width: 748
+        height: 438
         isCached: true
   - title: "Blackstone Leads $130 Million Investment in Vectra AI"
     excerpt: "The cybersecurity firm says its cloud-based technology helps organizations detect and counter online attacks as they are happening."

@@ -73,6 +73,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "How AI is Mishandled to Become a Cybersecurity Risk"
+    excerpt: "While infosec specialists use AI for benign purposes, threat actors mishandle it to orchestrate real-world attacks. At this point, it is hard to say who is winning."
+    publishedDateTime: 2021-04-29T18:37:00Z
+    webUrl: "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cybersecurity-risk/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/AI.threats.cybersecurity2.png"
+        width: 748
+        height: 438
+        isCached: true
   - title: "Blackstone Leads $130 Million Investment in Vectra AI"
     excerpt: "The cybersecurity firm says its cloud-based technology helps organizations detect and counter online attacks as they are happening."
     publishedDateTime: 2021-04-29T11:45:00Z

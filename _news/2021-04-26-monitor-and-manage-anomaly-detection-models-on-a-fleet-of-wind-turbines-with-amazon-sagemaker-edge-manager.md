@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/monitor-and-manage-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/monitor-and-manage-anomaly-detection-models-on-a-fleet-of-wind-turbines-with-amazon-sagemaker-edge-manager/"
 type: article
 quality: 71
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Annotate dense point cloud data using SageMaker Ground Truth"
+    excerpt: "Autonomous vehicle companies typically use LiDAR sensors to generate a 3D understanding of the environment around their vehicles. For example, they mount a LiDAR sensor on their vehicles to continuously capture point-in-time snapshots of the surrounding 3D environment. The LiDAR sensor output is a sequence"
+    publishedDateTime: 2021-04-29T18:19:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/annotate-dense-point-cloud-data-using-sagemaker-ground-truth/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/28/7-Voxel-Mean-Downsampling.jpg"
+        width: 700
+        height: 373
+        isCached: true
   - title: "AWS Introduces Savings Plans and Instant Price Reductions for Amazon Sagemaker"
     excerpt: "AWS announced instant price reductions and Savings Plans for Amazon SageMaker, their fully-managed Machine Learning (ML) service. With Savings Plans for Amazon SageMaker, customers can benefit from cost savings up to 64% compared to the on-demand price."
     publishedDateTime: 2021-04-29T11:23:00Z

@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Baidu to Open China's First Public Commercial Robotaxi Service Without Safety Drivers on May 2"
+    excerpt: "China’s technology giant Baidu Inc. is launching the first commercial robotaxi service in the country on May 2 after months of successful testing using safety drivers. Beginning next week, members of the public can hail one of Baidu’s driverless vehicles without a safety driver behind the wheel."
+    publishedDateTime: 2021-04-29T17:30:00Z
+    webUrl: "https://www.futurecar.com/4583/Baidu-to-Open-Chinas-First-Public-Commercial-Robotaxi-Service-Without-Safety-Drivers-on-May-2"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 27
+    images:
+      - url: "https://img.futurecar.com/202104/29/l_608af1f7b751a.jpeg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "FQVPA7YoxkLN+VzSzLWqHR+UNzWNNi8FshKlBWVfom5Sh1amdI8T5dKr1duALrFiLi6cGPcZlQCGJvx0tYtA4gNINQUYMSPtJl47tSAZFuFQGfjc2AUJsCbVLCLcPXtTO0oCqxhoQAdtJipXm3lwt2Qv4OCcqi8dl8JU4+hN1QTZKelYKdoTB5YwnAOAGqnqKTIi1p52FmXQcYdMsmFaB3puKST3JLdr183IMKsy+qL03YpBlNJwLNUvjpl/kiqAQGLPAHg75UumCPfiU9A/DQnH0xPGUsRJrb4pBg3mmsFUxp7x1O7wufUMvE3fxjtfBsE3AtbgTgAM4UuSPjAomQczpkiXtobNffRtaLD8KYQ593ZVh53t7MiD+r5sxfzhLiOXYsiJy4IUPlabjyBwr2KCPh2KdWHE8ShoeCvd9fRQb5UnzfhNVqIs0Vs4Sbz0Ibm++qIbo0wPRQgU+6swIMlssLYlJUksLlUYXoj1jAsqPls2D0r20v4gBvyNeO7PqlnPS/kB5i6v3ZGflelCgQ==;T+hhA6HiUzQysSZnKT0IlA=="
 ---

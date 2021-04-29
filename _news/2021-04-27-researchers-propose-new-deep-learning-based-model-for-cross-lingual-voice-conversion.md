@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210427/Researchers-propose-n
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/3-ai.jpg"
         width: 1800
         height: 1920
+        isCached: true
+  - title: "Vision for ultra-precision agriculture includes machine-learning enabled sensing, modeling, robots tending crops"
+    excerpt: "Researchers at the University of Illinois Urbana-Champaign have developed small-scale robots that can fertilize, weed and cull single plants in a"
+    publishedDateTime: 2021-04-29T18:06:00Z
+    webUrl: "https://www.miragenews.com/vision-for-ultra-precision-agriculture-includes-552006/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 18
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
+        width: 700
+        height: 417
         isCached: true
 
 secured: "XxorTU6hf5QWwkbXQB7kFVp9MjZzFOadRaKQ0mHu9hPdAO6mDmxDwje5dlWfVNDLGBSz5sAkVKhQbdnsbNTOER8I6u3Cs5jxIdCXK8cd7ssUxyuNeY8Cazx2yBg7AHzf3PbFa1rZIZaRYufvweBWfmNxylbDmg5gzJ4TbtDZVpOF+hS4VosN+Pn9UdU6uwwsnHhkEK0nGrJUhqWY62f8wqqYICkf9IKfqawGcgsFimY0bS+T3Bwd437XNqfqUyIrAm7jNqk03RIjd9MQqqVJW04mWPZz1F7j0TOCv74edD70ALAR5vZYo5Yqg5hgwfWXgNAoiXPBZlmYC+Chh9s+FkwlpyIz6v1kupFkGLra0N4=;vU7E2Ynb3ZRL/4h+vtlxLw=="

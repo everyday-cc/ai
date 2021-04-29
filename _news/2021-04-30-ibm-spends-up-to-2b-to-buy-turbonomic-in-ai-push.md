@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM to acquire cloud optimization provider Turbonomic for reported $1.5B+"
+    excerpt: "IBM Corp. is acquiring Turbonomic Inc., a Boston-based company with a platform that helps enterprises reduce cloud expenses and improve their applications’ performance. IBM didn’t disclose the value of the deal,"
+    publishedDateTime: 2021-04-29T18:43:00Z
+    webUrl: "https://siliconangle.com/2021/04/29/ibm-acquire-cloud-optimization-provider-turbonomic-reported-1-5b/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/Krishna-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "IBM to Acquire Turbonomic AIOps for Hybrid Cloud"
     excerpt: "IBM (NYSE:IBM) today announced a definitive agreement to acquire Turbonomic, an Application Resource Management (ARM) and Network Performance Management (NPM) software provider based in Boston. The acquisition will provide businesses with full stack application observability and management to assure performance and minimize costs using AI to optimize resources – such as containers,"
     publishedDateTime: 2021-04-29T17:07:00Z
@@ -79,6 +93,6 @@ related:
       domain: insidehpc.com
     quality: 19
 
-secured: "uUyjWe3K0VQ3UBu2Lp9RISn3QZm26kM8/8m1+E9VBHylvOENuVW9S9bLz+DSj69PNfHtuVMpcmI/KBpt3oR1JYS18+1xvB/yAr8rdo+D54A23t37F8c4LHf3OjXJsiN+9rdyssksSk0I+QwYnMkbPQW683DTRaCIICUpAX0BSDuCKA3v+CN8YTPTv0CVSSanL/GRebxlTDyDI6DsNadxNJL2QRenUveoHI12Gxpd/THdBYVgedSGFGm164gMMp8ac9Xvr3gtYlDa4Z6YM3einvYBV1TWOrhA/9AyM44POOSLCd14TUu9RUoAlP6iQlGRYcwe+mwTAUy0+jLJCZPlVHVV53A2PcMrRRl1jZASJd4=;g6D2xjTOWG794W+1d/HcAg=="
+secured: "2SMhlW+YsCK1x1anRG8NOg/VampHc20/scL2AG5vO58DyYJEM3+FmCPMM5b7eqYAOvgiqsBiB5S7ck3NPuPU94KvHdZ5id7bcONY7QdnrqwthBogCM8GMeufqHU76HGpi9rcYaVwDvgBwA2vbUnkD8VXADk2C3budl5sZmOyfTSdRxwEiL5Ma/nD01YSg31H/+zYjMENbkzZVfCNqiKU5Tz83+Yvdxg3zqAbuKjm3tTzeNaENJU0A3gkdIY+cRTha6y2lojvRRfLFR8XWqaZ41wIE1k4oOdfUscDdyqjdFnVW8CukvAHBqxS/DmmvkqBBAMJ4T3ImzqOWw7yAzayoVr11KGVgSyDm4W0tZNVfvrA5PdkuxdX+fJ2Ch5lmw0tf8GWPLJmAd7CdS1BUSFn8bp8hl8BubcE51d5qtj9JHWa8tYNvb7vpB/J6VQCM/576G/ECWjjYoFYZuLIh2WlxP0Cdgs6N6dmbGttGKKpfSvoAkMO0LLiI86IcWzC/KIKP+Zv8BBQ/nxi+014k4sdwg==;yqET2YmMo5Kf78DYYTPa8Q=="
 ---
 

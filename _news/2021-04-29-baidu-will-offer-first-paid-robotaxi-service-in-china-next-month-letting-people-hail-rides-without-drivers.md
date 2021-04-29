@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-first-paid-robotaxi-service-china-next-month-letting"
 type: article
 quality: 71
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.5468%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_18%2C$y_70/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_jpg/t_afr_opinion_no_age_social_wm/ec03012bdbbd24f82ee40f28e644ccf1a9838d23"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Baidu to Open China's First Public Commercial Robotaxi Service Without Safety Drivers on May 2"
+    excerpt: "China’s technology giant Baidu Inc. is launching the first commercial robotaxi service in the country on May 2 after months of successful testing using safety drivers. Beginning next week, members of the public can hail one of Baidu’s driverless vehicles without a safety driver behind the wheel."
+    publishedDateTime: 2021-04-29T17:30:00Z
+    webUrl: "https://www.futurecar.com/4583/Baidu-to-Open-Chinas-First-Public-Commercial-Robotaxi-Service-Without-Safety-Drivers-on-May-2"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 27
+    images:
+      - url: "https://img.futurecar.com/202104/29/l_608af1f7b751a.jpeg"
+        width: 720
+        height: 480
         isCached: true
   - title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
     excerpt: "Baidu, Inc. (NASDAQ: BIDU and HKEX: 9888) will open fully driverless robotaxi services to the public in Beijing starting from May 2,"

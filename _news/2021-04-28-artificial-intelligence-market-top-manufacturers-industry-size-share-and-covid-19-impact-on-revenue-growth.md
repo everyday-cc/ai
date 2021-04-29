@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-CT-MD, COVID-19 computed tomography scan dataset applicable in machine learning and deep learning"
+    excerpt: "Low Dose Computed Tomography of the Chest • viral infectious disease Technology Type(s) digital curation • image processing technique Factor Type(s) sex • gender • age group • weight • clinical charac"
+    publishedDateTime: 2021-04-29T19:03:00Z
+    webUrl: "https://www.nature.com/articles/s41597-021-00900-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 38
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-021-00900-3/MediaObjects/41597_2021_900_Fig1_HTML.png"
+        width: 685
+        height: 449
+        isCached: true
   - title: "Machine Learning Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "Machine Learning market size was valued at USD 6 9 billion in 2018 and is anticipated to register a CAGR of 43 from 2021 to 2027 New technologies such as artificial intelligence is changing the way industries and humans work"
     publishedDateTime: 2021-04-28T11:15:00Z
@@ -75,6 +89,15 @@ related:
     provider:
       name: The Sentinel
       domain: ksusentinel.com
+    quality: 0
+  - title: "COVID-19 Impact On The Pharmaceutical Robots Market : Benefits Offered By Robotic Systems In Pharmaceutical Manufacturing"
+    excerpt: "Benefits offered by robotic systems in pharmaceutical manufacturing is a key factor driving the growth of pharmaceutical robots market. The base year considered for the study is 2015, and the forecast has been provided for the period between 2016 and 2021."
+    publishedDateTime: 2021-04-29T16:06:00Z
+    webUrl: "https://seekingalpha.com/instablog/31507595-healthcareresearchmnm/5584880-covidminus-19-impact-on-pharmaceutical-robots-market-benefits-offered-robotic-systems-in"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 0
 
 secured: "6G8Ay0sC7F01gKPi8C9IcgL14R4tw3luL6v+BFrnmsRtMUvJGcjuKnRjCyJ8+5F2dP/Q4e+o5M+Ufb7yCzzcXN0nvHFuK2+LJKTdnKAdGqZi/huTr4XTyfwT48sxaLQc/ZGHWTMRuNJsFhOVc1yFKM28GoKDlg+eDwoU+SMJHqDsjFtvzF1wfVBM0G6dtg8jP6OkUae4lGNkbJnS1Qp6NSThtaLcmCNOWpNRuYdcg7Jn2SSKrie9cRPeJbGCalC3KEfxaMVX0SFTSqnik4J4++wgiC9wtqDGptDnj7ggUI7tv/HbDUAlJ8GeQqrEZXSR6dl++xCCzHXHDBkxQm6yTHLjieAYQ/H1AqZeKRzdsjs=;DxE7H7/RGXHrwmDL68GOrw=="

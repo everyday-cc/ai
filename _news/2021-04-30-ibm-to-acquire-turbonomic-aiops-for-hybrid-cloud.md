@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM to acquire cloud optimization provider Turbonomic for reported $1.5B+"
+    excerpt: "IBM Corp. is acquiring Turbonomic Inc., a Boston-based company with a platform that helps enterprises reduce cloud expenses and improve their applications’ performance. IBM didn’t disclose the value of the deal,"
+    publishedDateTime: 2021-04-29T18:43:00Z
+    webUrl: "https://siliconangle.com/2021/04/29/ibm-acquire-cloud-optimization-provider-turbonomic-reported-1-5b/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/Krishna-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "ACnWOjWHBXUhQg1Bhpk0UfJpQy4dNxUi8orwHBKEhk6jyFr+rDafhSzAgMpG6asnmUeQ6MLL+OnWNwxGpIZIPkvIT+ofd1VUrfbbZuDd8NOlWUgDnAuBXq4AaTIPqAUeXwH90skK5eTZdkkXRYgX685S5hYqKBgktWbHcmw+XYMWnVVfJjEWXYXf3jpkXtTiJwXwXp+ZOaYlYho3MoiNzMPAyKcLd6ffUfTYr/EiVX3tTZ5YLJz5oCFyM/VTMWtSIumE85vIzaugfZLHVCU4r5oTpmOE84qQsHlGyMSsc05RDBvDrzBy4awMDdsU2xmmuKAfyQcA660TpkHvwPm+bCjiGjX2V0p8pjBlj7+ofCo=;hD5z1MCdTqyHRXrD9wCsDQ=="
 ---

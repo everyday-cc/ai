@@ -76,6 +76,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "How AI is Mishandled to Become a Cybersecurity Risk"
+    excerpt: "While infosec specialists use AI for benign purposes, threat actors mishandle it to orchestrate real-world attacks. At this point, it is hard to say who is winning."
+    publishedDateTime: 2021-04-29T18:37:00Z
+    webUrl: "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cybersecurity-risk/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/AI.threats.cybersecurity2.png"
+        width: 748
+        height: 438
+        isCached: true
   - title: "Top 5 Cybersecurity trends FinTech cos must pay attention to in 2021"
     excerpt: "Fintech service providers are considered to be torchbearers in digital financial services, particularly in the post-COVID world. They have been catalyzing and accelerating the economy in great manners during this pandemic."
     publishedDateTime: 2021-04-29T03:30:00Z

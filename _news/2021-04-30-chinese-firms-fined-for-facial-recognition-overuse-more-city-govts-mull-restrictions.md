@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China Publishes Draft Security Standard on Facial Recognition"
+    excerpt: "On April 23, 2021, the National Information Security Standardization Technical Committee of China published a draft standard (in Chinese) on Security Requirements of Facial Recognition Data"
+    publishedDateTime: 2021-04-29T17:28:00Z
+    webUrl: "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition"
+    ampWebUrl: "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 76
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "Fight over facial recognition technology isn't over yet | Opinion"
     excerpt: "Last year, the majority of the pictures Detroit police used with the department's controversial facial recognition technology came from social media. This year, images from social media are running a close second to images from Project Greenlight."
     publishedDateTime: 2021-04-28T13:41:00Z
@@ -113,6 +129,6 @@ related:
       domain: knowtechie.com
     quality: 19
 
-secured: "CIvGIuXLjgyk/KAkCBcd2eY5At7F+GprnU0dW+z5tDbUh6EY4iyP+i/rUimDTTYz9R1Z0fHBwD3ntQwcbj/Gj3wdrh5re0fK6mr/UCdzv4njGe6KXwtbA+eGmH9I3Zg6B/DqRzMeC9+QF8lugtp6fFubYgE0lljw79E2oIAd8P9YUr49vrPEJesn5lHKEMH0ry01uIuMoL2pC3rW7WqY5hbFij/Up+FdheGVHjzs/5slXdWASMM+pLx1Jt+WvFw3ZGk1vlqu8FEAe62JzrkOCTop7qk9WTYgKkHRkCEwQmvas4vMjDLCIU20K2l01LwDZwePSC+kyEM3SrcyC0eixV44od6aAa3AB1rVDbZu7sI=;9GRYwh2wKYpRpe6BEp7oJA=="
+secured: "WJjnP26FAvejvJcGAjm+rztmyQE0RDrDwI88jbsYuEZK+1+7cjzl4+3MvekTdHk0kFfPavcXxTSvuQUYr2FMfNSga+ZTE0EuEXGHPhpmrA8e1c2b3DOTz0CvktbMKi9IQHMy9BfuIQfEWV536uvLFcCF1CQdzLZDijvv1dvmkXvibZn8VaCoGlKrBGAtkdoS+T822vMRs55qCFY2ex2L7om/ahaxSMQfTikOc80nTTIFS/9De6etnc1maPSEfQ9RsJTgf7zYyqVxG/9yXSHbvMzq+0SMPoOZkmsuvIGcdhthjYNe7JgcgJq5WMuvbnhLuDJeopAyb+isPw0qPeZVLdRl4Q9qiYs8I2m6n/TA/inoDOg73B3PNPHQ5ZOHNSbUsx3S7A7W5eBBaxdDBn4yNiGwDtA+6KNyfCvhEywisKTMPXzWovWM5FJskY1lFy/fW2vAOPxTbzsDRAxeQQnD+t7JakxEolYIWGalFeshywuEEG5c6B4GhyyHPQ9dmMoLM5wdHuI9mx0q0TnhQMvHOw==;mzs8QaUiqRpPz/5A1Z3bHQ=="
 ---
 
