@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laun
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/"
 type: article
 quality: 91
-heat: 162
+heat: 161
 published: true
 
 provider:

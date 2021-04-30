@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Researchers use AI to detect wrist fractures"
-excerpt: "An automated system that uses artificial intelligence (AI) is effective at detecting a common type of wrist fracture on X-rays, according to a study published in the journal Radiology: Artificial Intelligence."
-publishedDateTime: 2021-04-28T14:55:00Z
-originalUrl: "https://medicalxpress.com/news/2021-04-ai-wrist-fractures.html"
-webUrl: "https://medicalxpress.com/news/2021-04-ai-wrist-fractures.html"
+excerpt: "An automated system that uses artificial intelligence (AI) is effective at detecting a common type of wrist fracture on X-rays, according to a new study. Researchers said the AI-derived algorithm could help speed diagnosis and allow earlier treatment."
+publishedDateTime: 2021-04-28T04:00:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-04/rson-rua042621.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-04/rson-rua042621.php"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://scx1.b-cdn.net/csz/news/800/2021/researchers-use-ai-to--1.jpg"
-    width: 800
-    height: 480
+  - url: "https://www.eurekalert.org/multimedia/pub/web/263091_web.jpg"
+    width: 720
+    height: 498
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 720
         isCached: true
 
-secured: "+Z+P6tsnPd1l5nUh84D/s/MHBZWIyM8v2s4Xe2JxWNOzTokpySPMWsudk60pR1VzN+G+Z8SSVQqREIcGS/uUyaCzwKeG0BIkB1+E7xqZwF5PfR4rtbXSI9Pxd5m7ewJSK0Qgf8pPQNbeE/9oT2f3IEK5jIKo1nhK8CZXaywg/mWAczkcjytcqmfuPkmSvPrnBvw3A+YHLpD13YBQJ0/puFYNh6WPJKvd+R4/6GOdxtMxrhp+cUwdbOeX6/iElnJAR6eaPdjOGQHzj9ZA3w2xy1J/gwrsNK9ABLHvn1CBW0dcPCKNoIDChzZq5D/jGrMZCD07jSUkkOoIyzrZbdptdNUpe9vHt5Vzc2CL2I7sJk0GJ7xhMDT0okoKbwKZ5flmYNcgcqHCH5V5P67zVVu2l3hD0/6XjQ5IoEaK56b0K+G3VVy5qYhuxdW4BvCsTr4swySWdaLsT8qFM9gi1Tobqsa7n4EqjiKIjtdU9wCbN0SlZCloxF49igx5eWjvugwTcrN1pc8d3Pg6DbLQxuhrMg==;HCoLQYVSIK4zPsxxC5gYug=="
+secured: "CEmx/zb4ArFSkaL5qc3rkK6jxIbkPvd2u0wzcimgLNSPVa/t1b0boAFrNp1IvMD3YmvDwqkka21dqjWTMdGz0LZV1/4OAhoYLeEQzK2ffUnkeQErNbiPcL3Rk5LuQDTA3w3n1AE29BLnr5ffft2f14TViJnX58h37V1qTqrJIqrqnYwxhnE0XQIeAhO3JYcSqDp8UbktWYqNM3qMxjiBsMIR2WSwofXw7P3teCqte5ql+vfRcn0NLiSkIQ8yyBP/AaKvKQXc4czdiIOuHdWkG5aF7jo4lSLqpLxPZysTlSloNNuNQmQEJ2cuKXjiOWSpuvk9JInRQ5dJCVKwW/GvjCfRz/DfYkVWegw9QjA0Rno=;/Ou+56RiS+8NpNYxmtvNhQ=="
 ---
 

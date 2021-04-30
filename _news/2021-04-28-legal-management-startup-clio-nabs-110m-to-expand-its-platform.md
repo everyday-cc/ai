@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/27/legal-management-startup-clio-nab
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/legal-management-startup-clio-nabs-110m-to-expand-its-platform/amp/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3131617/baidu-will-offer-first-paid-robotaxi-service-china-next-month-letting"
 type: article
 quality: 71
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: South China Morning Post
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Will Launch Driverless Robotaxis In Beijing This Week"
+    excerpt: "Baidu announced that it will open the first paid, driverless robotaxi service in China, starting Sunday, May 2."
+    publishedDateTime: 2021-04-29T22:59:00Z
+    webUrl: "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/"
+    ampWebUrl: "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b036c8c75d6a7c12b2c88%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Baidu to launch robotaxi service in Beijing suburb"
     excerpt: "Baidu in March became the first Chinese company permitted to offer robotaxi rides to paying customers by a local government."
     publishedDateTime: 2021-04-29T06:44:00Z

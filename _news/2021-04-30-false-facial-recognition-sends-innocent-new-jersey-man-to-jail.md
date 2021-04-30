@@ -44,18 +44,18 @@ related:
   - title: "False facial recognition sends innocent man to jail"
     excerpt: "False positive facial recognition match sends innocent man to jail."
     publishedDateTime: 2021-04-29T21:25:00Z
-    webUrl: "https://www.wcax.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+    webUrl: "https://www.wndu.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
     type: article
     provider:
-      name: WCAX3
-      domain: wcax.com
-    quality: 54
+      name: WNDU
+      domain: wndu.com
+    quality: 56
     images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
+      - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
         width: 980
         height: 548
         isCached: true
 
-secured: "+Rxz3+r5Zi5mohyPbOFgHfWOWENxStTq0hLuC7CzGKyQihJkM0MFls5D4WXhZWQxq8nq313N6jYRPVoQrWspmshBAdtYKF/NzwF2elOvYVLTT7U02k7fY99ITrxzf0sChHlBTum1aCeKWw9mC3TN/zktdXps5E2vEXjdS2tok5L1fRuE8YaMwgeYyKqTauP59wwSIZgO3/GBRwg/HjNjhQLq/eZjYBfIfkjnV8Bf6oIgTgoLM3aE+n1l3/3a1fEyYec9ozWnilGtpdYi9dEeFJrjHWmPKgYJavcm0xJKQH13JDBcvRx/rOl1l0T9eSPjUU9wLw3i0HN3RUveUM05rjtR3sym0Cgar1AvvUP4hZE=;K06YR0saUYQphd7actNnwA=="
+secured: "LeONURq4Ejj22jgMsEHfESK8mrmkWl1peeFrlQhcDRmiJvtuRQo2TmiOi1ym9Obk7a8bYxV8yhFAZhZGEIOjKPCCnR4xoSXe1vvkvkVC/zpo1bx38uTvmR7azB+tgb91hEoFMGS5nPKXnmeJND1k5aUYKxlULB1wTHui5q/TVOlulHvxiDvrDKX+vu/KF2Yihw3n7bCZsa54Lem5zGn8qMGPkvYrS08FLeRJUroepomZEBrTJ/6U+7oz4QZwIf5/JjnwVWRrDFMbOachMwKjPoR98RqZMHoGXYMHiUCQYdMlIpaRF5Ek1Hfu8wj1+VWCpn1XSWM74VL2bnuVvJK9TaYIY6EcJub/VF3o76wo1Hl+VbhqS+RtQ4EPlRHuNB9BxhQBiXZmKbrrMlZzzZOiusQM/jKn1mf9ErP3Id2olC11zd+vocogcbR2Trq24iZt+sZrQZY6DOylzXP6ZFTp2M6xxO5mEFG4YRyHUD2YKuIuSnQCl8BaMQ7NjNJaQt75OkhIjjWpxsuVGFkSceTPgA==;YizOYELWHuD47ne9ulddZA=="
 ---
 

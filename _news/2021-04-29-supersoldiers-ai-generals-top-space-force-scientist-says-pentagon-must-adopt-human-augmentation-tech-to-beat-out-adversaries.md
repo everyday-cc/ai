@@ -26,6 +26,24 @@ images:
     height: 697
     isCached: true
 
+related:
+  - title: "Space Force scientist warns it's 'imperative' the US military experiment with human augmentation and AI to stay ahead of Russia and China"
+    excerpt: "US Space Force scientist Dr. Joel Mozer urges officials to combine human ingenuity with the power, speed and efficacy of machines to achieve superhuman intelligence for the US military."
+    publishedDateTime: 2021-04-29T23:08:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9527029/Space-Force-scientist-says-imperative-military-uses-human-augmentation-employing-AI-agents.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9527029/amp/Space-Force-scientist-says-imperative-military-uses-human-augmentation-employing-AI-agents.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9527029/amp/Space-Force-scientist-says-imperative-military-uses-human-augmentation-employing-AI-agents.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 26
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/04/29/23/42388748-0-image-a-38_1619734958353.jpg"
+        width: 636
+        height: 382
+        isCached: true
+
 secured: "nzEpiOAAnU1iFzPY4eRXK3eKp9qj49IFabcK6+rHMnqCs+SMiW2s3uXhh30q2K+KHcakhnVNb8fKBvpQJGmaO0V4v5S+szPmyMV1caws2avIZmKS0j9AQxot1yQw7BtbpAY5556i7td9PmqTolFbvx+BDOFTi1GU0NX7kAGqdVOFMVAphimYOncqgrR8neCG80vvUKoIe6sNbmem0tiHQcfCKuryJSM6hACBi978Ajtow5iTJrrVJm+gmFgxqT7EAIBBCM5NSIX5FAz4XjOsYitJkNy50vuVOMqSSVV41GO/JkAWMnusuWwu/NlM+l9Gz9NyDZzztHzx+CQ1ybH1F/vGj4wgHvc6rqwuzhItMDs=;uAKBMii54YvnU+ppQnwnQw=="
 ---
 

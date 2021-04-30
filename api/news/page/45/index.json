@@ -2,6 +2,41 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-03-10-how-to-run-ml-applications-on-particle-hardware.md",
+      "title": "How To Run ML Applications On Particle Hardware",
+      "excerpt": "With the release of TensorFlow Lite at Google I/O 2019, the accessible machine learning library is no longer limited to applications with access to GPUs. You can now run machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/11/26/how-to-run-ml-applications-on-particle-hardware/",
+      "originalUrl": "https://hackaday.com/2019/11/26/how-to-run-ml-applications-on-particle-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-simplified-ai-on-microcontrollers.md",
       "title": "Simplified AI On Microcontrollers",
       "excerpt": "You can load AI onto some of the smallest microcontrollers as well. Tensorflow Lite is a popular tool for this, but getting it to work on your particular microcontroller can be a pain, unless you ...",
@@ -1036,49 +1071,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-new-soundset-for-your-behringer-deepmind.md",
-      "title": "New Soundset For Your Behringer Deepmind",
-      "excerpt": "The Deepmind Sound Engine DCO synths like the Deepmind have particularly great tuning performance, which is excellent for more technical sound design, but lacks much of the character of vintage synths and acoustic ensembles. There are tools like Osc Drift ...",
-      "sourceUrl": null,
-      "webUrl": "https://sonicstate.com/news/2021/03/09/new-soundset-for-your-behringer-deepmind/",
-      "originalUrl": "https://sonicstate.com/news/2021/03/09/new-soundset-for-your-behringer-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/33972_271.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T00:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sonic State",
-        "domain": "sonicstate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

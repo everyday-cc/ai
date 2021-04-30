@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/27/red-hat-open-sources-trustyai-an-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/red-hat-open-sources-trustyai-an-auditing-tool-for-ai-decision-systems/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

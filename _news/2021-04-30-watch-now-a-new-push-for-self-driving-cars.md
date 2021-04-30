@@ -3,23 +3,23 @@ category: news
 title: "Watch Now: A new push for self-driving cars"
 excerpt: "The U.S. Senate is pushing for new regulations in hopes to spur the spread of driverless vehicles. Source by: Stringr"
 publishedDateTime: 2021-04-29T20:50:00Z
-originalUrl: "https://www.stltoday.com/news/watch-now-a-new-push-for-self-driving-cars/video_d845f86a-e7be-5174-a4ab-b0c9bf783c75.html"
-webUrl: "https://www.stltoday.com/news/watch-now-a-new-push-for-self-driving-cars/video_d845f86a-e7be-5174-a4ab-b0c9bf783c75.html"
-ampWebUrl: "https://www.stltoday.com/news/watch-now-a-new-push-for-self-driving-cars/video_d845f86a-e7be-5174-a4ab-b0c9bf783c75.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/watch-now-a-new-push-for-self-driving-cars/video_d845f86a-e7be-5174-a4ab-b0c9bf783c75.amp.html"
+originalUrl: "https://omaha.com/news/watch-now-a-new-push-for-self-driving-cars/video_1786d564-410b-5d32-9579-4d87f101f620.html"
+webUrl: "https://omaha.com/news/watch-now-a-new-push-for-self-driving-cars/video_1786d564-410b-5d32-9579-4d87f101f620.html"
+ampWebUrl: "https://omaha.com/news/watch-now-a-new-push-for-self-driving-cars/video_1786d564-410b-5d32-9579-4d87f101f620.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/watch-now-a-new-push-for-self-driving-cars/video_1786d564-410b-5d32-9579-4d87f101f620.amp.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "zRieOkwOMiYpA7BfCXygiWH0BPG2vVL16a/h70V4KChH1Yh7M/tfYn4QAa4HvoZl2KO15qmATgra2GCUFfRrJ2LH59UjG4OYv/pC0YoRyNU7AfIfXz5ekqmxSMamj+Xgvm0S4i67hmDoVCeSe+qvRyfGlMN0I0HzEZcsIrNrUdY8ZXHLtozvpE2gDReXFERsKlrLNb93xepcCzZxBk99+pee53mg+rBgxMvjb9QrxZBQHC80Kn0EAMt0st6ArjuyBcQ4py8Q4RgK1J//hXf6j0+JCrkM/2ybfUQAfL9kD2DDKCOXF8wYmV4b1OW+vD+rZ1tMt0WH0iGjbcj5JCsfEUFgu3hnnQeDV4ohjo7WC+uTtdf8rn0nMI4AOu+p54DdQ1rNxpWySIuZ/5nK7G9PAxMXgVvsjBUvNu3O/0ZPpig54lVT90Y6OGFTxAZK5SbRyHtgUKBmFnnUlRFwI76PYxMmIeh5+7VYzfT9VDE6fJV0uIqQB2rvnK9w6fYZ/4nlejT4prjya+CdOGHuz/w8Ng==;U1ZE1Mvb5kbUtedItu6JgA=="
+secured: "a97ljboHzH7nJcw26Mg5kh5cTTB+GystapdvpgunuavajEdqWuOVoty9ScsPR2mM1pu2VG5HN7xWsg452hmNx+D9TMtCPweoiKrbgra8sQR9J+L8MdoUyP5+MnNR4ITLiyEosO+YpZxnmMtrAI/62AEw5tVW6Npu11nQNKDSGwb6HneCrlpkJbtdvW7bJuWdIFoW+09x+roC9HhEQyVzu8mFlZbnR1oMcDRZ1vwMTHQMu+Qiya/9QMH5ui2hl/dp2P60oRTM/165fBcav/6S3JN9zpa4OCF6s00EQ75XOOMJttTXg0d7buqwyUOCg9ARV5SfTH0r4S4lZCstSqA9c68A/vga2Uxv/Xhf/q0HJ+VJv7O3Z2f03AWCJeOfE5z86Qn4Q9mHccPjTFg+sgdAChsYYEruc2g+0yrAQ03AoZkQrkkD+nAMil/cjRyGML6npDt2kXSYWNVlDBE3ohqfjEnSRos/8fyJkjj8TiD/Ois9Bv+OIsc/4pGxCCGx3cf/L2YrLCkiC9oxIzyxVxhxNw==;yq2VdZ3oB0wPyZWfqNDyfg=="
 ---
 

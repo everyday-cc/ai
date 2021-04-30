@@ -34,14 +34,14 @@ related:
   - title: "False facial recognition sends innocent man to jail"
     excerpt: "False positive facial recognition match sends innocent man to jail."
     publishedDateTime: 2021-04-29T21:25:00Z
-    webUrl: "https://www.wcax.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+    webUrl: "https://www.wndu.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
     type: article
     provider:
-      name: WCAX3
-      domain: wcax.com
-    quality: 54
+      name: WNDU
+      domain: wndu.com
+    quality: 56
     images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
+      - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
         width: 980
         height: 548
         isCached: true

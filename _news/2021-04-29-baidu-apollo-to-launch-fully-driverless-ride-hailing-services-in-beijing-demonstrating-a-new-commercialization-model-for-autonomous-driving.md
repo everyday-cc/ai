@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Will Launch Driverless Robotaxis In Beijing This Week"
+    excerpt: "Baidu announced that it will open the first paid, driverless robotaxi service in China, starting Sunday, May 2."
+    publishedDateTime: 2021-04-29T22:59:00Z
+    webUrl: "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/"
+    ampWebUrl: "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b036c8c75d6a7c12b2c88%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Baidu will offer first paid robotaxi service in China next month, letting people hail rides without drivers"
     excerpt: "Baidu will allow people to order autonomous taxis on May 2 in an industrial park in western Beijing as competition heats up in the race to develop autonomous driving tech."
     publishedDateTime: 2021-04-29T09:08:00Z

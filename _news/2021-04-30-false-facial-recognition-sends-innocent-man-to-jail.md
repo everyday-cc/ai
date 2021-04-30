@@ -3,23 +3,24 @@ category: news
 title: "False facial recognition sends innocent man to jail"
 excerpt: "False positive facial recognition match sends innocent man to jail."
 publishedDateTime: 2021-04-29T21:25:00Z
-originalUrl: "https://www.wcax.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
-webUrl: "https://www.wcax.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+originalUrl: "https://www.wndu.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+webUrl: "https://www.wndu.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: WCAX3
-  domain: wcax.com
+  name: WNDU
+  domain: wndu.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
+  - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
     width: 980
     height: 548
     isCached: true
@@ -56,6 +57,6 @@ related:
         height: 671
         isCached: true
 
-secured: "nfmkT6qwHV+nIfckiInMGM26X7An3Iw4jzPNX0wudcDpWW/XR/m4vylSHhm6qx1BjGqnRARBIp9hv1lpyAPZ+EDhMTIunCr4VdKBISNWcRTZSCilPRj9wC5o53TTTpGetYFwQgEB9EwZI1gWJWqkAwMuDdcxS5NAl7iAa/feuQ9gTMRa5pIGSB37sFx1N8PjUBCWhuyqsJoA8mdzqIpKjuo0bIWldL29HXMZ0HBoxQeuhRaoXcC+EJtfR9sHNgGDg/h05jh4/ubzREajCE1bAWRQpXNe1NB0Q2rGr37k+xoDrcY19Iu8YjZU+0fQs/AgXQ9wC+IA/307aIXWGqHxQZviXbGYixDNOqEFdXF0HZE=;F1Umf8mvUI1TfGEDuaJ9aw=="
+secured: "t5CwewBBpR742AoxCQmI9TG/V86x+Czf71xbfTP9RCqdndzrv/9yjQcNzovvz9I0UwXoVqYpHPeZ37HSblTZvDMq3iWknpOp0DDYl3wCsZ3bkz+JTU+nA4mhagqSxDdCx4vgMJc5UKe2T8XAC9aWt6EXt+5MNP8dNiKxJ5jiUPb5tj7VCevbkHPA5EgXWl5E1FxV0RTd2Wum+b5Xy2ETSuDO3/rEaPAaqY0fOX4nBVc5GT6cRXhfnNIzIDe2nj0c/SrCxlK1ZQkhGIe/I/FVKbpEi+MihbnpR9BztttlVJOzempjY6HkzrmYahgxpdWX8Quaw6eQOfyy+V8NLBm/qdHy1io/u0XGW23A8Td2l1I=;jbRsccKDjBXcdEmDvxwTOA=="
 ---
 
