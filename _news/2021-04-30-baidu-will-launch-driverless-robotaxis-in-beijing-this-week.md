@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://eandt.theiet.org/media/15689/baidu-apollo-driverless-taxis.jpg?center=0.68442622950819676,0.49318801089918257&mode=crop&width=1200&height=450&rnd=132641673780000000"
         width: 1200
         height: 450
+        isCached: true
+  - title: "Baidu launches driverless fee-paying taxi service in Beijing"
+    excerpt: "Chinese internet giant Baidu this week said it would launch the country's first commercial self-driving taxi service in Beijing next month."
+    publishedDateTime: 2021-04-30T09:00:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-launches-driverless-fee-paying-taxi-service-in-beijing_id201590.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 54
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
     excerpt: "Passengers can experience a real driverless autonomous driving service at Beijing's Shougang Park Visitors at the upcoming 2022 Beijing Winter"

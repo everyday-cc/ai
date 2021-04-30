@@ -159,6 +159,17 @@ related:
         width: 1200
         height: 589
         isCached: true
+  - title: "UK becomes first country to give green light to self-driving cars on motorways"
+    excerpt: "The Transport Ministry of Britain informed that it has been working on specific wording to update the highway code of the country for the safe use of"
+    publishedDateTime: 2021-04-30T08:44:00Z
+    webUrl: "https://www.jagranjosh.com/current-affairs/uk-becomes-first-country-to-give-green-light-to-self-driving-cars-on-motorways-1619772177-1"
+    ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/uk-becomes-first-country-to-give-green-light-to-self-driving-cars-on-motorways-1619772177-1"
+    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/uk-becomes-first-country-to-give-green-light-to-self-driving-cars-on-motorways-1619772177-1"
+    type: article
+    provider:
+      name: Rojgar Samachar
+      domain: jagranjosh.com
+    quality: 20
   - title: "Self-driving vehicles to become legal in the UK this year"
     excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."
     publishedDateTime: 2021-04-28T13:53:00Z

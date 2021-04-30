@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/9-he
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/9-healthcare-ai-companies-to-watch-in-2021-per-forbes.html"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Artificial intelligence companies, goods and services"
+    excerpt: "This work proposes an experimental methodology to identify and measure artificial intelligence (AI)-related trademarks. It aims to shed light on the extent to which (new) companies and products appearing on the market rely on,"
+    publishedDateTime: 2021-04-30T08:48:00Z
+    webUrl: "https://www.oecd.org/sti/artificial-intelligence-companies-goods-and-services-2db2d7f4-en.htm"
+    type: article
+    provider:
+      name: OECD
+      domain: oecd.org
+    quality: 37
+    images:
+      - url: "https://assets.oecdcode.org/covers/1000~social/publications_oecdm.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "rGzUVA+NeL51Os7RQd8kUFTFqConGqHJ8qbuSsKockxV+QqqChM2JUuNsCZvD2tR7/4LISA8Z56cZNrqjsHKYkE1SoxS66GCnYTzDvFyqjhvACg4t2Lqq/K4embCO4+d7AK4hIZS7XuS27MicDzrkKWfXiR0iAbnW87j7Y6S01FsfgWD0n1vLhSTMlw5qRTUld+qil0p1ss7xgWnooT5kJcGVK5AeBlNsQaTwNyxKuDD8fF2C6v/Bn1jkErZ3hZKMiQgyopJBV7skn401rLzuYIEdBrAw6j/CqGhf3mF0qufuwxhsI2lqGDpBkQH4dN3/TZCxN06wuhxhw+58EmTHgnWdEHWp6v0/IIxOpSTSCk=;E1RIlq0Ka96BYskSWKB+GQ=="

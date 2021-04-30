@@ -42,6 +42,20 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Machine learning algorithm could change how we see quantum systems"
+    excerpt: "Researchers from the University of Bristol have developed a machine learning algorithm that sheds light on the physics underlying quantum systems."
+    publishedDateTime: 2021-04-30T08:55:00Z
+    webUrl: "https://www.siliconrepublic.com/innovation/quantum-systems-university-of-bristol-machine-learning"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/04/QETLabs.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "7t9Tasl9rU3FsZUijem5N+7JLQvfStZQuuJlas8BEbC+NJhtKH+uoDSkzVBImzfbcB7Cna6Z3dWEA72rmpZMkPgHG/6AYgZQ8J8Jh1bIDwuw+rYDnEvK3Y0pWQH3kJQKLnWDjLxMvRghL1V1u45iL4JR8wximMLjeO6pTti60psUr0CdsvGfTrVB6KFmyBZ7H1Ne9UZcjSpV2e6hI3b3cX1iOpUiVRqijRHe2cQa/2ZnkwiNbqTCyL6w5lCHkSNEinwbfSACyCN4vUNKs8Lb3pJktJcs2pAXe9enXC5a4Afd2GY7mSERtuSbtZ61Ax9Yw+GFBY4FhZMxpm+3TQGpynW8JZfTFy71hmuTpTpGF8k1b1Tb9YtvztccAbPH5ed04rayf43sWKE8ZlKIrvKZ1SKLu7gw9dvj7FU0z6DBolKWUrK8879N6D0y8EyktgCKSyBi7lzStvg4bdnKgNNT0+m/m65lLPEYnqY109I7Bk89UxsCiRK3ZN5AoFjS1ARvyTMKc1KRL7oMXFnwwraPAg==;c4kKWSs6XviD0puTYugoPw=="
 ---

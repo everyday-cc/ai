@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-04-machine-algorithm-unravel-physics-unde
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-machine-algorithm-unravel-physics-underlying.amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Phys.org
@@ -42,6 +42,20 @@ related:
       - url: "https://scitechdaily.com/images/Nitrogen-Vacancy-Center-Set-Up-777x518.jpg"
         width: 777
         height: 518
+        isCached: true
+  - title: "Machine learning algorithm could change how we see quantum systems"
+    excerpt: "Researchers from the University of Bristol have developed a machine learning algorithm that sheds light on the physics underlying quantum systems."
+    publishedDateTime: 2021-04-30T08:55:00Z
+    webUrl: "https://www.siliconrepublic.com/innovation/quantum-systems-university-of-bristol-machine-learning"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/04/QETLabs.jpeg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "bbOB+H9NVUjszQ6/WreB7Z4S4Npw05I6PjY6mdGgPxZ4B7tSyA8ObuLSzCwcUmgEqE/ZmdwoYJrPFr0n5H92DGiIpov5fx2yLwoI0tik3Dp9Zv08b6h9KOGkIxYZAy1ww65GazDYyA89mewRatrVVxANOsKW5aKizSzmUnvvUjKqc5F1eDd3MW5/vrsUzwZqmbtx0jp7idD+xCPdBSYPbxFPZSwNsEGJWgU3urb220yVkKPfeGndVDV66XnJpTjXuUYq+0ifa6h8FBcW4HD5ADHBJRui+zJEJnAYnGTFoQ8uTjkENASpYK0eI15rwyTkroHGgtB3zseIcspXUEq9oZABHzCnU5t3rs5npaDcgL+jBXuhlpyqDtWqv8Ek8l5Hry/QjgmmImhvx0b/Pjx7CyNaZIgBt4FzNGrtRAJ+PQP4DYHsfaNgV64RkCEIj146A2OwtmpRJB1MdHyqk6FDWcX79kiTogH5SbKWzKHRL8vLGYWF++Sy1YHCaZBFodaJBPeSit1ejDaWFVEMmQdh+w==;kEjYPT1dpGPOtxGzY0SsCw=="

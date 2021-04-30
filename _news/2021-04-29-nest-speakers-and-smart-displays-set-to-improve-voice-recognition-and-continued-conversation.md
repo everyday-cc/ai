@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Market Competitive Dynamics & Global Outlook 2026 | Aware, Ayonix Corporation, Cognitec Systems GmbH, Daon"
+    excerpt: "Global facial recognition market is growing demand for advanced identification and verification technologies stemming from rising security concerns is poised to drive outlook Facial recognition systems are witnessing demand from several sectors for precise identification of individuals to ensure security"
+    publishedDateTime: 2021-04-30T09:52:00Z
+    webUrl: "https://www.openpr.com/news/2277983/facial-recognition-market-competitive-dynamics-global"
+    ampWebUrl: "https://www.openpr.com/amp/2277983/facial-recognition-market-competitive-dynamics-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277983/facial-recognition-market-competitive-dynamics-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
+    images:
+      - url: "https://cdn.openpr.com/U/4/U430721391_g.jpg"
+        width: 800
+        height: 484
+        isCached: true
   - title: "SOB confusion: How voice recognition is getting shaken up for health care"
     excerpt: "The work of interpreting doctors’ and nurses’ voice memos used to be done by costly medical transcription services off-site — and many clinicians opted instead to spend hours typing out their own medical notes."
     publishedDateTime: 2021-04-28T14:00:00Z
@@ -40,6 +56,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "VFW sponsors essay contest and teacher recognition"
+    excerpt: "The Madras VFW Post will collect student entries and teacher nominations through Oct. 31 Madras VFW Post 12141 announces the 2021-2022 Voice of Democracy and Patriot's Pen Scholarship competitions. The essay competitions are dedicated to encouraging a better understanding and appreciation of the United States and fostering patriotism among the nation's youth."
+    publishedDateTime: 2021-04-30T07:00:00Z
+    webUrl: "https://pamplinmedia.com/msp/129-news/506517-404554-vfw-sponsors-essay-contest-and-teacher-recognition"
+    type: article
+    provider:
+      name: Portland Tribune
+      domain: pamplinmedia.com
+    quality: 24
+    images:
+      - url: "https://pamplinmedia.com/images/artimg/00003702382928-0815.jpg"
+        width: 800
+        height: 599
         isCached: true
 
 secured: "kNapGvzzyobUe32yCsJskYCUzHdkKT2fZD4kXbDAH69LFYmMk81tnjPa1roGF6Qo+68YKjbXSsOSeJCpW0/TnPj2C7k1Or3tE3qymzc2RikvOXEW+Ur2hIr5727j0fcNBGM5OaseXiVI2awdDeF2F6fQzIfN+J+sjYeWdpH+DkTLo3wu2gMjk5n7RoMM0ir1uJuBYH8mqQrvgrwZEVxez67qajtYK5ylhDDGIR/nPZp42E9Q7yIm3/KbjB9B3Gq1xrR3d0ZZbhpiZIUG6lPSwkQKhpeIzcdkx0i8aU3723ucP/aRE3PJ5lcIkOZdVbncjOLGHLM0Q7qoj1Deey41Aw++iLJGWiS/h34gQA0bSS8sRhiiCYHbArbEluYUfYbOi6q/9p/XpJeadGrJZPO/HtI/1wG8sXyHOb8/x72dLR5b0UtqluImiKCrT9YsAOjgAKwfIZq9u2X/N/sAWkc0IOuG/vHY9cqd1mzGEgLXHJIgII0DE/o9DuriRKZ/JqXwtGNAEi+OSRlk+K1UskR9Gw==;V8IkcROHiNONCCtt6/fEgA=="

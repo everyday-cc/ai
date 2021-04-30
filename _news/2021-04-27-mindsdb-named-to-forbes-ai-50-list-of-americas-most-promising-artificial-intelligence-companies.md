@@ -91,6 +91,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Artificial intelligence companies, goods and services"
+    excerpt: "This work proposes an experimental methodology to identify and measure artificial intelligence (AI)-related trademarks. It aims to shed light on the extent to which (new) companies and products appearing on the market rely on,"
+    publishedDateTime: 2021-04-30T08:48:00Z
+    webUrl: "https://www.oecd.org/sti/artificial-intelligence-companies-goods-and-services-2db2d7f4-en.htm"
+    type: article
+    provider:
+      name: OECD
+      domain: oecd.org
+    quality: 37
+    images:
+      - url: "https://assets.oecdcode.org/covers/1000~social/publications_oecdm.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "5A9pw9BjhgX2Lz+i9nyrdt5Ac5t8IXwuxBwn9ObpjD8pItPEoE6sJUQMGwKIqfUgKWYQv3vM4hHVn/IGCi7/+mDWT1zehFuYOPreh/4rpBRjSrhnsIoxrl30v9YD+KN1/BtWBczKZkfYrqMNnoHX/AD5eCxumT5UonDA+RRVJZgY/VlGmgQAIptbCUgL00VmB59H4WvVdqjK444/jvIgNd/DGhEHyrrcbzlqKtubBVWz6kIfP8upl7Q3y9HUvsyOtEwbe399MyHeO05kGWDyTNmQOQThUxmDjT1fY3r4IObZbe8ufDhKF/nm0j4OD+oWzaUZw7qJPlsA1YytzBLSvwbZuMYjLWPnGrNU5sMQNQk=;zVnaQaR8yALP6UYNYaLB8Q=="
 ---

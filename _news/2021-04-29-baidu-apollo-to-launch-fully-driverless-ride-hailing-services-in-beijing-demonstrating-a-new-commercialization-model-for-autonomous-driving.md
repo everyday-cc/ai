@@ -123,6 +123,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Baidu launches driverless fee-paying taxi service in Beijing"
+    excerpt: "Chinese internet giant Baidu this week said it would launch the country's first commercial self-driving taxi service in Beijing next month."
+    publishedDateTime: 2021-04-30T09:00:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-launches-driverless-fee-paying-taxi-service-in-beijing_id201590.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 54
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Baidu in the driver’s seat"
     excerpt: "Despite regulatory concerns, the Chinese tech company is a leader in AI and commercialising technology in cars and public transport."
     publishedDateTime: 2021-04-29T14:00:00Z
@@ -152,6 +166,6 @@ related:
         height: 480
         isCached: true
 
-secured: "1FypyLU7XqaUBpm8Z6jcaqwLO26qDyTbUGwpKNCueGKFBGnLjbK/NFZ3e52/M//JlWGU8gjWvshkRuees7RUdjCATcRfc1Jcc4WUbVe7pj12Lpw1ZlYkbZpW/+n6aybtbNTZuv/FfsANlBkrUdxrlg92OWtkWxykkecZgPlPQIEqBJ4kSm5G4atuoko1no1CI3KncdxTJgOlCbQ7bDXLbScOFYdbl/VHswsEGSOM+fWug4dSaQhRX+xdovrmHbNs2sNSPZ593zQXmgct3age5GDHFJnr+zxqAi2GgMLfVq5IUNeCIH2rJVsXpBgiwAYb+S8eP8w47U2/IAn28/5zBJ9MoMdYB1zW7i0N4Byp0h8=;BledHX3rii7yZYMQP6Y8vQ=="
+secured: "3a2D6dHF++GKtS1pUEeHNrCwRDy67ByGwj6AN6VCvjlrcbR2ncy+VbtwSI5+Wj16VIy/Q7WdG04krqwzE7zortlEwP5baJwqYMGndBCGL4RRKqPxSkneBua7EmoLrY/i3BM0kTJximnf46ijXMI24c6FuMBwG+O0+NRnvcMdWuH0qGgiL+ek89Ju7qdGxwE795z8aSF0m1eisBhABOtLZVEcJCsBz4iHHqUjFAElDE2I2bCWKoEG+cl+JsnlVirzIHxR94ObzpetbeU0eg2yb3kTD6H9g7Qb3p9x9BqFZhEEqyiJYybWwMZ9dQAmwrkbNwU3Wez1Xfo9rXvMpMbMop9yp79CRFollmr0cSeBnzy0OMGKIoauQfB0jaILfuPRo6xFwyh2rGDaTnlWLBRRfOLtls0KC4ky/SE8bck/XVRvdLtOaD2pkQxmC00xEnT73dj0RUtttUNmLVKm29M3sLLHyebz8TpiSiiK13gM52gm/akslXXpQDofM0SrQbtAQL7lTIQlOsyenkvL9isheg==;7RoF8X7LdOEqBI8abXMYYA=="
 ---
 
