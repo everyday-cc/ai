@@ -1,29 +1,27 @@
 ---
 category: news
-title: "MYCOM OSI’s Assurance Cloud Service launches on Microsoft Azure"
-excerpt: "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
-publishedDateTime: 2021-04-30T13:54:00Z
-originalUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/"
-webUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/"
-ampWebUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
-cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
+title: "MYCOM OSI's Assurance Cloud Service Launches on Microsoft Azure"
+excerpt: "Provides assurance and observability support for telco-clouds running on Azure   LONDON, UK  - MYCOM OSI , the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world's largest Communications Service Providers (CSPs),"
+publishedDateTime: 2021-04-30T01:57:00Z
+originalUrl: "https://menafn.com/1101996610/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+webUrl: "https://menafn.com/1101996610/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: TelecomTV
-  domain: telecomtv.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-    width: 1200
-    height: 675
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?694758"
+    width: 445
+    height: 250
     isCached: true
 
 related:
@@ -174,6 +172,6 @@ related:
       domain: realwire.com
     quality: 34
 
-secured: "NU51qAanwltJfveWA+EQ03lygO7tJ8FZ5MayGqvqjVUFrffT+FG5OUjAPnZVnZ03tgaBhc6cwrEHPbnvcd1yzNtxysVtFioUgsD6iLI/jpa7Hz8x8FU7MYQ2Cl5cWassmjBQEa6cGyvobG7AcAVj0iXh+JIBzBKeY1CQAY2imtlVbO6g7EBmMRCcp2eoIY0L6M1jPhBnfRLKg035Br7PSInmxfos/8ybBJQyBel69FsY9cYkPXk03nHHH+L3WXMMPg4G/IIz0zw5nfyx0a6zdUvE+WwBR+N9l2ly4jYgliuIzShVuGO/Mym4U0342N2DfS8LOuZvwFEmWKC2zB+m9IIGiAEAaJj+jog7KUBWeQY=;52yn5nOux18oMhA2q+vsSg=="
+secured: "qNpG+o6DOZek+ieXaotQqLxO0AYJ3VAK9QTuOnocqpBxWDItbdi5nsQvTnjup8XI5Msz+dDSdp/WTrhz8+CpWkupG6q+DYG02tJR6Ka7XG0IwgghDG+bXcSS//1G0DBVHtN6LpH+rAuHJ8sRXtlvkWN54mRqGGEsQlYsSLSyqw7k5n2RANzavj9sVI/Ur3IHlYiXZJXqCMWLAJ6S1GVkmYE3zKHYNdicumAJXlnhfUzBsZ/0VpTGpymhkzebO72z0HSl3wzf9B4R+ZHyGElUH6MlxxduZaaEpv9COQtz7hInW7rZwBPfXoxjL7Y6yEpXyE4iBoTsCrFc1J+MlCdcPJt/eTZBfZsxqiwKKl/hCTc=;G3Xe5rrvOA7da03H3bkyNQ=="
 ---
 

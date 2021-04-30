@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/ai-can-help-guide-our-return-to-t
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-can-help-guide-our-return-to-the-workplace"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 480
     height: 320
     isCached: true
+
+related:
+  - title: "Combating Workplace Video Fatigue with AI"
+    excerpt: "The COVID-19 pandemic has accelerated the transition of enterprise video conferencing from a “nice-to-have” to a necessity. According to a Zoom blog post,"
+    publishedDateTime: 2021-04-30T15:23:00Z
+    webUrl: "https://www.datanami.com/2021/04/30/combating-workplace-video-fatigue-with-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/bored_worker_shutterstock_-fizkes.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "QakxfiZq/dHICz69QKs1Oy9bvpjNk1XHr36V1v0MhMZfS00K2dCZoJOaK+Hcq/WdXsg5rLWtAaUTaHifGx514U8fccnE4p2+SbPSiFC9jSP9qkdK54q514KDMrIX4K7ntSJkvuhsUNIPNKXj2eZKvl9SxA2YeWlFr754PgpWO7CIERTwH5SHxBm378pZsV1YgqlB9sgQN52lCTyzzWL0cBpr51ts3NkJcSxFtYy8pEfM+2YboXmDS+xbwaYx8owP+MjwzOMw32MT+NghYk+6vTgJyVAQWbzrHTsRsGbYDDgBYKA/N4KmTd/LL4WPAW4V7Xh75sy3Sa6i/wc8DXnTc9s7QQ1onEmX6NAH0Y2vJL4=;KDcXhJa0Cbxl45exROfLRA=="
 ---

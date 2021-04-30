@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-22-eu-outlines-ambitious-artificial-intelligence-regulations-focused-on-risky-uses.md",
+      "title": "EU outlines ambitious artificial intelligence regulations focused on risky uses",
+      "excerpt": "Risky uses of artificial intelligence that threaten people's safety or rights such as live facial scanning should be banned or tightly controlled, European Union officials said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stripes.com/news/europe/eu-outlines-ambitious-artificial-intelligence-regulations-focused-on-risky-uses-1.670657",
+      "originalUrl": "https://www.stripes.com/news/europe/eu-outlines-ambitious-artificial-intelligence-regulations-focused-on-risky-uses-1.670657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.stripes.com/polopoly_fs/1.670658.1619029655!/image/image.jpg_gen/derivatives/landscape_490/image.jpg",
+          "width": 490,
+          "height": 327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stars and Stripes",
+        "domain": "stripes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers.md",
       "title": "NVIDIA Sets AI Inference Records, Introduces A30 and A10 GPUs for Enterprise Servers",
       "excerpt": "SANTA CLARA, Calif., (GLOBE NEWSWIRE) -- NVIDIA today announced that its AI inference platform, newly expanded with NVIDIA (R) A30 and A10 GPUs for mainstream servers, has achieved record-setting performance across every category on the latest release of MLPerf.",
@@ -1116,57 +1159,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-only-6-of-companies-have-adopted-ai-study-finds.md",
-      "title": "Only 6% of companies have adopted AI, study finds",
-      "excerpt": "A new survey by Juniper Networks finds that while executives understand the value of AI, adoption remains a struggle.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/20/only-6-of-organizations-have-adopted-ai-powered-solutions-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/04/20/only-6-of-organizations-have-adopted-ai-powered-solutions-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/20/only-6-of-organizations-have-adopted-ai-powered-solutions-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/only-6-of-organizations-have-adopted-ai-powered-solutions-study-finds/amp/",
-      "publishedDateTime": "2021-04-20T23:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
