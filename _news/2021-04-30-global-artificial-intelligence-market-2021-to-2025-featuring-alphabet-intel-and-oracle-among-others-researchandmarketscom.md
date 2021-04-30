@@ -38,15 +38,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Accounting Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis From 2020-2025"
-    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The market for Artificial Intelligence in Accounting Market is expected to register a CAGR of 30% over the forecast period (2020 - 2025) - Over the years,"
-    publishedDateTime: 2021-04-29T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025-2021-04-29"
+  - title: "Natural Language Processing (NLP) Software Market Share ,Global Growth, Size, Trends, Industry Analysis, Key Players and Forecast 2021 – 2025"
+    excerpt: "Global Natural Language Processing (NLP) Software Market Research report provides detailed analysis of global market"
+    publishedDateTime: 2021-04-28T06:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-share-global-growth-size-trends-industry-analysis-key-players-and-forecast-2021-2025-2021-04-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Cardiovascular/heart-AI.png?height=635&t=1589928752&width=1200"
         width: 847
         height: 635
+        isCached: true
+  - title: "Innovative AI solutions in the wind power industry"
+    excerpt: "Today, many industries try to implement AI technologies in their business to solve the issues they are facing and the wind power industry is not an exception. Nowadays, wind energy was the source of about 8."
+    publishedDateTime: 2021-04-30T20:22:00Z
+    webUrl: "https://knowtechie.com/innovative-ai-solutions-in-the-wind-power-industry/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 37
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/04/windfarm-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "wnFLlv+t42cIu5JUPrKy6hBTbn1eV+5rFrFTHCG4B9IBHsJuHwVjqyY67taO4daWyzWtNtgqZfAuvtTECr+9TlVBU+jRhvq2uig7ZKwQCYOOE5QVNIySQbbJxmEWIiupNMTMhtiSRj1LL7YEQMPITqmQQFyWkunDNlKEDfi7BHgyGDAVn8PxsXICPckY16k48qU4q7H11zdtPVhZX6XP/BgOII+wvVmXqwcys3pASEcwH+/ETdmS4QgRwh5AZYK9toIMy+5Z7TTdweyostVWHJl0JZd8kPWOs0fJsroU1URSNMoJBfyn2xD4V9s8iDWCxb8TMkXgbXeBApV2PkitWyXmXgSxLfGsScTihBhwBuOHUQ6NKpJIP1Cfr2Ih5s1+2WzBLm8wmNh0asZdStZx8wUeAdyi0Mg6I9A1druS4FGxnkHGyAVmF+1oU2ioNltk8Y945sMD+dY0nxsKH6UDGRLczM8tqJWrGt6E7sp/DMYzuWh4eN1MBDElY1QuVFBMFGQ+xLaI8+pYyBQerW211g==;QdF3+ipelgW/3nByyX5yxA=="

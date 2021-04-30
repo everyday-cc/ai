@@ -117,6 +117,17 @@ related:
         width: 760
         height: 368
         isCached: true
+  - title: "King County government must turn its back on facial recognition technology"
+    excerpt: "Whatever other concerns we might have about facial recognition technology — it poses a serious threat to our privacy and particularly to that of marginalized populations and communities."
+    publishedDateTime: 2021-04-30T20:51:00Z
+    webUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/"
+    ampWebUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "Chinese firms fined for facial recognition overuse, more city govts mull restrictions"
     excerpt: "More provinces and cities in the country plan to put in place policies that restrict the overuse of facial recognition technology in certain public places."
     publishedDateTime: 2021-04-29T17:02:00Z

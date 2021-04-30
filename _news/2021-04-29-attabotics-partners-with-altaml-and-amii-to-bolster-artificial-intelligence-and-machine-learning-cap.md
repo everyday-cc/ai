@@ -34,7 +34,7 @@ related:
     provider:
       name: Supply Chain
       domain: supplychainbrain.com
-    quality: 60
+    quality: 62
     images:
       - url: "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-Feb-2021-LG.jpg?crop=1&height=348&t=1612363704&width=271"
         width: 271

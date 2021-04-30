@@ -51,6 +51,20 @@ related:
         width: 1000
         height: 700
         isCached: true
+  - title: "Understanding the Art of Machine Learning"
+    excerpt: "Though neural-network-based machine learning is escalating in popularity, the mechanics behind it tend to be misconstrued or simply not known at all."
+    publishedDateTime: 2021-04-30T20:05:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21162926/electronic-design-understanding-the-art-of-machine-learning"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/04/MachineLearning_dreamstime_Ekkasit919_144788061.608c5c4f89d9b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "TezO0QH74h5WltBlyg/0Vd+VwmhkVYQob1E2ms9mHceBLiz4GSKMlncVYzkWTvqOXg+c2kVRSDR5H5iCNBZeQtspEkFdvyXxw4+kmwLodVXvQPbvkMGC6vpfrgDi4HIMcnFN5SMBUHsrDKOTR3myQTqD3Ceiy8r0jkJwzC+wsIm278BEHmTPAlYFB/BanjY9HssNyZLBSRXF3HgE+1guf08rPGWoEVJjA3xCVkLVh0wOO5MrZXqyIrPPQhbkaTPAii++WyDQvxx6j6vEWtNJ1NfN22u359TiQ3WS7PjSf9jqVZ03QSWNBnPCPyD/yg3Gz8jAYwT/2Qe7j5DHZfuoKqiZALj+n6q1o3zqyS99KA4=;ciuwI0jJirFtsidNh40Ysw=="
 ---

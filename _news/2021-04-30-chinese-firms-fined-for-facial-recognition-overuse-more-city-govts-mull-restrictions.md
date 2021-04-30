@@ -117,6 +117,17 @@ related:
         width: 760
         height: 368
         isCached: true
+  - title: "King County government must turn its back on facial recognition technology"
+    excerpt: "Whatever other concerns we might have about facial recognition technology — it poses a serious threat to our privacy and particularly to that of marginalized populations and communities."
+    publishedDateTime: 2021-04-30T20:51:00Z
+    webUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/"
+    ampWebUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "Facial Recognition Tech for Bears Might Just Be the Future of Conservation"
     excerpt: "Facial recognition technology is used to unlock your phone, find missing persons, detect shoplifters, and even was used by Taylor Swift’s security to ID stalkers (seriously). But now, it’s revolutionizing bear conservation."
     publishedDateTime: 2021-04-26T21:52:00Z

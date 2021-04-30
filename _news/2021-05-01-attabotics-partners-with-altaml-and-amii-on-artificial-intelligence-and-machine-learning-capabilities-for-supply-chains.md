@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-30T19:46:00Z
 originalUrl: "https://www.supplychainbrain.com/articles/33021-attabotics-partners-with-altaml-and-amii-on-artificial-intelligence-and-machine-learning-capabilities-for-supply-chains"
 webUrl: "https://www.supplychainbrain.com/articles/33021-attabotics-partners-with-altaml-and-amii-on-artificial-intelligence-and-machine-learning-capabilities-for-supply-chains"
 type: article
-quality: 60
-heat: 80
+quality: 62
+heat: 82
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-Feb-2021-LG.jpg?crop=1&height=348&t=1612363704&width=271"

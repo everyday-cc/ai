@@ -21,52 +21,51 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Market Top Manufacturers, Industry Size, Share and COVID 19 Impact on Revenue Growth"
-    excerpt: "The artificial intelligencemarket in North America is set for rapid growth. The growth witnessed in this region"
-    publishedDateTime: 2021-04-28T13:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-top-manufacturers-industry-size-share-and-covid-19-impact-on-revenue-growth-2021-04-28"
+  - title: "Machine Learning Chips Market Dynamic, Demand Analysis, Statistics, Trends and Opportunities to 2026"
+    excerpt: "The report provides key opportunities within the market and describes the factors that are and will be driving the growth of the Machine Learning Chips industry Growth of the overall Machine Learning Chips market has also been forecasted for the"
+    publishedDateTime: 2021-04-29T14:16:00Z
+    webUrl: "https://www.openpr.com/news/2277615/machine-learning-chips-market-dynamic-demand-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+      name: openpr.com
+      domain: openpr.com
+    quality: 61
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/4/U429252793_g.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Natural Language Processing Market Top Manufacturers, Industry Size, Share and COVID 19 Impact on Revenue Growth"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2021-04-29T06:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-top-manufacturers-industry-size-share-and-covid-19-impact-on-revenue-growth-2021-04-29"
+  - title: "AI in Fashion Market Report 2021 (COVID-19 Analysis) Worldwide Market Trends, Opportunities and Forecast to 2026"
+    excerpt: "The AI in Fashion report actively includes insightful aspects relating to product innovations acquisitions and trends intended to assist market players shareholders and investors in making strategic decisions The report further breaks down the analysis for the major countries in"
+    publishedDateTime: 2021-04-29T09:27:00Z
+    webUrl: "https://www.openpr.com/news/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
+    ampWebUrl: "https://www.openpr.com/amp/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "COVID-CT-MD, COVID-19 computed tomography scan dataset applicable in machine learning and deep learning"
-    excerpt: "Low Dose Computed Tomography of the Chest • viral infectious disease Technology Type(s) digital curation • image processing technique Factor Type(s) sex • gender • age group • weight • clinical charac"
-    publishedDateTime: 2021-04-29T19:03:00Z
-    webUrl: "https://www.nature.com/articles/s41597-021-00900-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
+      name: openpr.com
+      domain: openpr.com
     quality: 38
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-021-00900-3/MediaObjects/41597_2021_900_Fig1_HTML.png"
-        width: 685
-        height: 449
+      - url: "https://cdn.openpr.com/U/4/U429742956_g.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Speech and Voice Recognition Market Top Manufacturers, Industry Size, Share and COVID 19 Impact on Revenue Growth"
-    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
-    publishedDateTime: 2021-04-28T14:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-manufacturers-industry-size-share-and-covid-19-impact-on-revenue-growth-2021-04-28"
+  - title: "Deep Learning Chip Industry Analysis and 2021 Future Trends"
+    excerpt: "Infinity Business Insights has announced the addition of new research analysis on the global Deep Learning Chip Market to its vast library, Offering Insights for Deep Learning Chip Industry Over the Project Time Frame of 2021-2027."
+    publishedDateTime: 2021-04-28T13:54:00Z
+    webUrl: "https://ksusentinel.com/2021/04/28/global-deep-learning-chip-market-top-10-key-players-in-2021-amd-advanced-micro-devices-google-inc-intel-corporation-nvidia-baidu/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 36
+  - title: "Artificial Intelligence in Accounting Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis From 2020-2025"
+    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The market for Artificial Intelligence in Accounting Market is expected to register a CAGR of 30% over the forecast period (2020 - 2025) - Over the years,"
+    publishedDateTime: 2021-04-29T06:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025-2021-04-29"
     type: article
     provider:
       name: MarketWatch
@@ -77,35 +76,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
-    excerpt: "Global Artificial Intelligence market is estimated to reach 196 7 billion in 2027 by growing at a CAGR of 25 2 during the forecast period 2021 2027 This growth is attributed to increasing research and development R D owing to"
-    publishedDateTime: 2021-04-28T17:20:00Z
-    webUrl: "https://www.openpr.com/news/2277017/artificial-intelligence-market-to-2027-future-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
+  - title: "Know in depth about Enterprise Artificial Intelligence Market - Growth, Opportunities and Risks in the upcoming period 2021 to 2026"
+    excerpt: "The study on the global Enterprise Artificial Intelligence Market is an amalgamation of various insights that can potentially shape the future of the market The report is equipped with information about the market that can help investors and players identify"
+    publishedDateTime: 2021-04-26T11:11:00Z
+    webUrl: "https://www.openpr.com/news/2275430/know-in-depth-about-enterprise-artificial-intelligence-market"
+    ampWebUrl: "https://www.openpr.com/amp/2275430/know-in-depth-about-enterprise-artificial-intelligence-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2275430/know-in-depth-about-enterprise-artificial-intelligence-market"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 24
-  - title: "COVID-19 Impact on Artificial Intelligence in Supply Chain Market Growth Projection to 2026 | Intel, NVIDIA, Xilinx, Samsung, Micron, IBM, Google"
-    excerpt: "Global Artificial Intelligence in Supply Chain Market Growth Status and Outlook 2021-2026. According to this latest study, the 2021 growth of Artificial Intelligence in Supply Cha"
-    publishedDateTime: 2021-04-28T17:26:00Z
-    webUrl: "https://ksusentinel.com/2021/04/28/covid-19-impact-on-artificial-intelligence-in-supply-chain-market-growth-projection-to-2026-intel-nvidia-xilinx-samsung-micron-ibm-google-2/"
+    quality: 27
+    images:
+      - url: "https://cdn.openpr.com/U/4/U426937715_g.jpg"
+        width: 480
+        height: 340
+        isCached: true
+  - title: "Worldwide Big Data Software Industry to 2026 - Featuring AWS, Cloudera and IBM Among Others - ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global big data software market reached a value of US$ 142."
+    publishedDateTime: 2021-04-29T12:09:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/b20860635/worldwide-big-data-software-industry-to-2026-featuring-aws-cloudera-and-ibm-among-others-researcha"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20860635"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20860635"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
-  - title: "COVID-19 Impact On The Pharmaceutical Robots Market : Benefits Offered By Robotic Systems In Pharmaceutical Manufacturing"
-    excerpt: "Benefits offered by robotic systems in pharmaceutical manufacturing is a key factor driving the growth of pharmaceutical robots market. The base year considered for the study is 2015, and the forecast has been provided for the period between 2016 and 2021."
-    publishedDateTime: 2021-04-29T16:06:00Z
-    webUrl: "https://seekingalpha.com/instablog/31507595-healthcareresearchmnm/5584880-covidminus-19-impact-on-pharmaceutical-robots-market-benefits-offered-robotic-systems-in"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
 
 secured: "UZmJzuvKOB4wn9qGQ/B5a3yQfxRzYjgDjtZMQwRp4w+KEP2SIBYGy76HLW5L4O9D4QXZXUtWI1pvZDAaf4f445puH7JcQCkR34rxCXIt4X6KSTirQ+e447RqEgYklugRyrRtBFuhi9T7KvHsjHaW3ueihuY67RSBlWFcmAqUFM+XQbucNy/SKHwu1IMTMhFRqykz+SB6FjUAKqAOEE1GbB6oCSNS/l+0SGSdjCeeL2+lICC4PI6+9KViHJ3U6XgIuloOFXmSYjHkBucKEHCJ3eUY9NQbW1p/dLnORI6vzWf5jgVg70kYexkDVXgG8obm32eqKHg6fLeqHqTHoBcDEQxXjcSNp5PnKWR5ZjTWcIg=;finOTmbr+kJQ7qUQnA5L4A=="
 ---

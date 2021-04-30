@@ -8,9 +8,9 @@ webUrl: "https://www.openpr.com/news/2277615/machine-learning-chips-market-dynam
 ampWebUrl: "https://www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis"
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 61
+heat: 121
+published: true
 
 provider:
   name: openpr.com
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.openpr.com/U/4/U429252793_g.jpg"
@@ -52,6 +53,31 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 36
+  - title: "Machine Learning Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "Machine Learning market size was valued at USD 6 9 billion in 2018 and is anticipated to register a CAGR of 43 from 2021 to 2027 New technologies such as artificial intelligence is changing the way industries and humans work"
+    publishedDateTime: 2021-04-28T11:15:00Z
+    webUrl: "https://www.openpr.com/news/2276721/machine-learning-market-2021-growth-covid-impact-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2276721/machine-learning-market-2021-growth-covid-impact-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2276721/machine-learning-market-2021-growth-covid-impact-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+  - title: "Artificial Intelligence in Accounting Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis From 2020-2025"
+    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The market for Artificial Intelligence in Accounting Market is expected to register a CAGR of 30% over the forecast period (2020 - 2025) - Over the years,"
+    publishedDateTime: 2021-04-29T06:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025-2021-04-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Know in depth about Enterprise Artificial Intelligence Market - Growth, Opportunities and Risks in the upcoming period 2021 to 2026"
     excerpt: "The study on the global Enterprise Artificial Intelligence Market is an amalgamation of various insights that can potentially shape the future of the market The report is equipped with information about the market that can help investors and players identify"
     publishedDateTime: 2021-04-26T11:11:00Z

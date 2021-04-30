@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Innovative AI solutions in the wind power industry"
+    excerpt: "Today, many industries try to implement AI technologies in their business to solve the issues they are facing and the wind power industry is not an exception. Nowadays, wind energy was the source of about 8."
+    publishedDateTime: 2021-04-30T20:22:00Z
+    webUrl: "https://knowtechie.com/innovative-ai-solutions-in-the-wind-power-industry/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 37
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/04/windfarm-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "APruXVc9v+ARsgw4/wE2v/0QuU5H2OhLRzJQVCt9tyhz8wH/xatsR1YVPr8/AWWo3e0RvYsvKUCEcvKjTKe/y/8eJFu0rb6X7gmYLdimc8Grj9LXAeE5YqLXqEIfgBSVcbXFQTy+MRJK3MhoFifzt6o/hg0PNeErkMwmJF8dOMgeF6tDB0OP0RmLfugxgPG0oBuU/PzgpRGc9cp80n9JEOUm9FjN6VJmEzwnzjeRhILU82ACwx1TRtNZOm9Lx4CU+55V5VRMu4DlYPkFCCcl0c3oMmNAk7UA/+nZIpQOeL036GRkld4sYU28LGMa9cltAaBevPQQt/MGgWTWHZD6tbhrEg5RaF7gYERX4TaIf3WCZnb+DZXJusIGC8LOxKo/0znozbwsOT0aOYHaNifPGEk5wKm0Oej+UoSMj0lsKK6tlJUYuisNlu7ylUO0jUT73HsEE/njpxUETHnlddC5Wa4k7SzKhcgBUxFpY7O8kQ8JP1464vNqeJJyfLFyVSWE80sFQpN3fUDIQv+v0ueS5g==;OgzR7qoTXNLI8VOzs5VK7Q=="
 ---

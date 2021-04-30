@@ -56,17 +56,6 @@ related:
         width: 685
         height: 449
         isCached: true
-  - title: "Machine Learning Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
-    excerpt: "Machine Learning market size was valued at USD 6 9 billion in 2018 and is anticipated to register a CAGR of 43 from 2021 to 2027 New technologies such as artificial intelligence is changing the way industries and humans work"
-    publishedDateTime: 2021-04-28T11:15:00Z
-    webUrl: "https://www.openpr.com/news/2276721/machine-learning-market-2021-growth-covid-impact-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2276721/machine-learning-market-2021-growth-covid-impact-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2276721/machine-learning-market-2021-growth-covid-impact-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
   - title: "Speech and Voice Recognition Market Top Manufacturers, Industry Size, Share and COVID 19 Impact on Revenue Growth"
     excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
     publishedDateTime: 2021-04-28T14:19:00Z

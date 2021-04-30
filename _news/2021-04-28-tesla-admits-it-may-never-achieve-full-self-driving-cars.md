@@ -7,7 +7,7 @@ originalUrl: "https://www.fastcompany.com/90630440/tesla-admits-it-may-never-ach
 webUrl: "https://www.fastcompany.com/90630440/tesla-admits-it-may-never-achieve-full-self-driving-cars"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Volkswagen Will Develop In-House Self-Driving Chip to Compete With Tesla, Apple"
+    excerpt: "Although Tesla’s expensive and strictly in-house developed autonomous driving software has a long way to go to actually achieve self-driving, its German rival Volkswagen is going down the same path to build its own driverless capabilities."
+    publishedDateTime: 2021-04-30T20:13:00Z
+    webUrl: "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/"
+    ampWebUrl: "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 72
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2021/04/GettyImages-1208585546.jpeg?quality=80&strip"
+        width: 6240
+        height: 4160
+        isCached: true
   - title: "Tesla says self-driving system not to blame for deadly Texas crash"
     excerpt: "Executives for Tesla Motors are contradicting Texas authorities who said a fiery crash involving a self-driving vehicle that killed two people this month had no one in the driver's seat."
     publishedDateTime: 2021-04-27T15:23:00Z

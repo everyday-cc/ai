@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Volkswagen Will Develop In-House Self-Driving Chip to Compete With Tesla, Apple"
+    excerpt: "Although Tesla’s expensive and strictly in-house developed autonomous driving software has a long way to go to actually achieve self-driving, its German rival Volkswagen is going down the same path to build its own driverless capabilities."
+    publishedDateTime: 2021-04-30T20:13:00Z
+    webUrl: "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/"
+    ampWebUrl: "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 72
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2021/04/GettyImages-1208585546.jpeg?quality=80&strip"
+        width: 6240
+        height: 4160
+        isCached: true
   - title: "Tesla admits it may never achieve full-self-driving cars"
     excerpt: "The disclosure comes after a fatal crash in Texas earlier this month, when a driverless Tesla ran off the road."
     publishedDateTime: 2021-04-28T16:18:00Z

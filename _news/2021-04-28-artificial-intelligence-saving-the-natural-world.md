@@ -33,6 +33,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Will the Government pass the Turing test on LGBTQ+ rights? by Thalia Rich, JAGS"
+    excerpt: "The face of the new fifty-pound note will be Alan Turing, who was a genius mathematician, the father of Artificial Intelligence and"
+    publishedDateTime: 2021-04-30T21:22:00Z
+    webUrl: "https://www.thisislocallondon.co.uk/youngreporter/19272869.will-government-pass-turing-test-lgbtq-rights/"
+    type: article
+    provider:
+      name: This is Local London
+      domain: thisislocallondon.co.uk
+    quality: 20
+    images:
+      - url: "https://www.thisislocallondon.co.uk/resources/images/12562851/"
+        width: 910
+        height: 512
+        isCached: true
 
 secured: "5ylasm6sTY1iE8tPNiNnCW2O1o0cgbbGM2BaKan5Mb7Lt8/ndnvUx0PwpqFEsZN9ifiCNgXYoFAdynOkibl/LWY6fDlEbOPGrc8lUIHUvktMMJi6wb4zBVLFIg7Y4F5tysuDHKdjRaxejEFMN24ZqiAamklxNq6Hsnw/4dru1dE9Ac5OfkV4tuOoy6sKOyQV9kFQJZbpDTGNYexS5Hvo34PC+XuOrmgtv9ej4Qu4DXWJ6ffGx7quUf436/gIlkP1VYDLlf7nx738kcfxzeogGqNA6bndMGfJpYTjOP2BnRoeQQd7UV1gJL9EGMda9nTAMdpcaOL1vGwhkP1D7YjmX3HDxSx1HeUZRx7ApP0eS/0=;YKBFVyIDVDGJdbbfVq8pBg=="
 ---
