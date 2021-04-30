@@ -2,26 +2,27 @@
 category: news
 title: "False facial recognition sends innocent man to jail"
 excerpt: "False positive facial recognition match sends innocent man to jail."
-publishedDateTime: 2021-04-30T00:23:00Z
-originalUrl: "https://www.fox19.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
-webUrl: "https://www.fox19.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+publishedDateTime: 2021-04-29T21:25:00Z
+originalUrl: "https://www.wndu.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+webUrl: "https://www.wndu.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: WXIX-TV
-  domain: fox19.com
+  name: WNDU
+  domain: wndu.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://www.fox19.com/resizer/iktREBH3nYO2ESk3ZtTzKpEAvHs=/1200x0/d1acid63ghtydj.cloudfront.net/04-29-2021/t_0109d6ff2ea04285a924888a2a57467e_name_Capture.PNG"
-    width: 1200
-    height: 671
+  - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
+    width: 980
+    height: 548
     isCached: true
 
 related:
@@ -56,6 +57,6 @@ related:
         height: 671
         isCached: true
 
-secured: "tbad97n4C4LH4Dm9i0MwCLOTjv3uEtgdjYhrzySccbYglkyrx44itLL2b+qZos8TZoTVIRQlR7MK35FPwbTvMzjq8qK//GjyFCAyvRzWmvcR2AjzIucKD+Z9hpM1nLakzop0ErhbxJ7UlvyXxvbbrKn3wfYYGDXyePJsMmoY+hjb5rSeUpjDc608vW4FAot/3/HR1Ld3wfgDCvtUUXn2FZ9daDC18MBS309kAaq6/6sCKm3wdgeAe4OscnOAGeR6He3AOih6I/BwSZtaIIKrVojozPCC45VvKg/138s4QKfP7/xiHz9F2x8cdp4umcp8nWMQyx7PrLfyF4VliNi2bzTih+TMUTZdRtk29fuVq0M=;EB8MLKS10jBDXFm4oaLF/g=="
+secured: "+jQyvLCv4OKA8GTneRIE161Lw08JHzrEUNJWSnKNP+xOqOLeRznYchiqCp4WDovRzI+sGML3GYDqXi0qNekwdHKnzpFWyv7pe/DBbhVkI5z4ghtyXyKMERIAzs2Dn2Ga17r1kcPZS0RNfMF2IG1ZLtADOsNadqM0Puek4Tf4FiC+v8xNl6BPxzSL7niU09MUi/zzouNO2qLtfW/Bpx4RFCbxfkNisYou2DFh1D25PM6Yr4V+SDtIGIYWfjSmZvxkmleiCtK+nvN+hJkDjBzqUfiNvHcDnzNRY7bXVINxl/Xg07o+PckS1cqsoaCAU8HLWq/qLnmqKyGCiZXcTi6X8xeWetmbuJ6NokMQ1g5+XtI=;Xuntz9qz8ndRG0ZjpD4O9w=="
 ---
 

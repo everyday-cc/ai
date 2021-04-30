@@ -26,53 +26,77 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Healthcare Market Analysis, Status and Global Outlook 2021 to 2026"
-    excerpt: "Latest Research Report on “ Computer Vision in Healthcare Market size | Industry Segment by Applications (Medical Imaging , Surgery and Othe"
-    publishedDateTime: 2021-04-25T10:37:00Z
-    webUrl: "https://www.express-journal.com/computer-vision-in-healthcare-market-386853"
-    ampWebUrl: "https://www.express-journal.com/computer-vision-in-healthcare-market-386853/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/computer-vision-in-healthcare-market-386853/amp"
+  - title: "Artificial Intelligence in Security Market: Trends 2021: Share and Competitive Landscape Forecast to 2024 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Security Market, which has been"
+    publishedDateTime: 2021-04-28T07:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-04-28"
     type: article
     provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 69
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: "https://www.express-journal.com/img/img-14.png"
-        width: 1042
-        height: 625
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Machine Learning Chips Market Dynamic, Demand Analysis, Statistics, Trends and Opportunities to 2026"
-    excerpt: "The report provides key opportunities within the market and describes the factors that are and will be driving the growth of the Machine Learning Chips industry Growth of the overall Machine Learning Chips market has also been forecasted for the"
-    publishedDateTime: 2021-04-29T14:16:00Z
-    webUrl: "https://www.openpr.com/news/2277615/machine-learning-chips-market-dynamic-demand-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis"
+  - title: "Artificial Intelligence Market Latest Revenue Data 2021,Global Trends, COVID-19 Impact and Forecast to 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 25, 2021 (The Expresswire) -- The global “Artificial Intelligence Industry” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
+    publishedDateTime: 2021-04-25T14:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027-2021-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence-based Security Market Landscape Assessment By Type, Opportunities And Higher Mortality Rates By 2027"
+    excerpt: "The report titled Global Artificial Intelligence based Security Market Size Status and Forecast 2019 2027 has been recently published by Researchmoz us The Artificial Intelligence based Security market has been garnering remarkable momentum in recent years Demand continues to rise"
+    publishedDateTime: 2021-04-26T16:06:00Z
+    webUrl: "https://www.openpr.com/news/2275678/artificial-intelligence-based-security-market-landscape"
+    ampWebUrl: "https://www.openpr.com/amp/2275678/artificial-intelligence-based-security-market-landscape"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2275678/artificial-intelligence-based-security-market-landscape"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 44
+    quality: 47
     images:
-      - url: "https://cdn.openpr.com/U/4/U429252793_g.jpg"
+      - url: "https://cdn.openpr.com/U/4/U426217659_g.jpg"
         width: 800
-        height: 533
+        height: 564
         isCached: true
-  - title: "AI in Fashion Market Report 2021 (COVID-19 Analysis) Worldwide Market Trends, Opportunities and Forecast to 2026"
-    excerpt: "The AI in Fashion report actively includes insightful aspects relating to product innovations acquisitions and trends intended to assist market players shareholders and investors in making strategic decisions The report further breaks down the analysis for the major countries in"
-    publishedDateTime: 2021-04-29T09:27:00Z
-    webUrl: "https://www.openpr.com/news/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
-    ampWebUrl: "https://www.openpr.com/amp/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
+  - title: "Chatbot Market Industry Demand, Current and Future Plans by Forecast to 2025 | Says Kenneth Research"
+    excerpt: "Global Chatbot Market AnalysisAccording to Market Research, The Global Chatbot Market was valued at USD 858.1 Million"
+    publishedDateTime: 2021-04-26T05:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-industry-demand-current-and-future-plans-by-forecast-to-2025-says-kenneth-research-2021-04-26"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Computing Market Latest Revenue Data 2021,Global Trends, COVID-19 Impact and Forecast to 2027"
+    excerpt: "The global “Cognitive Computing Industry” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-04-25T15:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027-2021-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 38
     images:
-      - url: "https://cdn.openpr.com/U/4/U429742956_g.jpg"
-        width: 400
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence in Accounting Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis From 2020-2025"
     excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The market for Artificial Intelligence in Accounting Market is expected to register a CAGR of 30% over the forecast period (2020 - 2025) - Over the years,"
@@ -88,33 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Business Analysis 2021 by CAGR, Share, Revenue and Prominent Key Players to 2026"
-    excerpt: "The exploration report of worldwide Voice Recognition Market advertise offers the extensive information about the topmost makers and sellers which are directly worki"
-    publishedDateTime: 2021-04-29T22:34:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-market-390112/"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-market-390112/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-market-390112/amp"
+  - title: "Speech and Voice Recognition Market Latest Revenue Data 2021,Global Trends, COVID-19 Impact and Forecast to 2027"
+    excerpt: "Apr 25, 2021 (The Expresswire) -- The global “Speech and Voice Recognition Industry” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-04-25T15:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027-2021-04-25"
     type: article
     provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 27
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
     images:
-      - url: "https://www.express-journal.com/img/img-7.png"
-        width: 1047
-        height: 627
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
-    excerpt: "Global Artificial Intelligence market is estimated to reach 196 7 billion in 2027 by growing at a CAGR of 25 2 during the forecast period 2021 2027 This growth is attributed to increasing research and development R D owing to"
-    publishedDateTime: 2021-04-28T17:20:00Z
-    webUrl: "https://www.openpr.com/news/2277017/artificial-intelligence-market-to-2027-future-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
   - title: "Research on Voice Recognition for Automotive Market 2021: By Growing Rate, Type, Applications, Geographical Regions, and Forecast to 2026"
     excerpt: "The recent analysis of Voice Recognition for Automotive market size has been methodically put together to impart an in-depth understanding of the ke"
     publishedDateTime: 2021-04-27T16:24:00Z
@@ -131,14 +142,14 @@ related:
         width: 1044
         height: 625
         isCached: true
-  - title: "Global Artificial Intelligence in Fashion Industry (2020 to 2027) - Market Trajectory & Analytics - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence (AI) in Fashion - Global Market Trajectory & Analytics” report has been added to ResearchAndMarkets.com’s offering. Amid the COVID-19 crisis, the global market for Artificial Intelligence (AI) in Fashion estimated at US$311."
-    publishedDateTime: 2021-04-27T14:39:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-financial-markets-business-artificial-intelligence-96c5324912a14365a273affd92d5bae0"
+  - title: "Voice Recognition for Smartphones Market Growth, Trends, Forecast and COVID-19 Impacts (2021 - 2026)"
+    excerpt: "The recent analysis of Voice Recognition for Smartphones market size has been methodically put together to impart an in-depth understanding of the k"
+    publishedDateTime: 2021-04-27T16:29:00Z
+    webUrl: "https://www.express-journal.com/voice-recognition-for-smartphones-market-388375"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: express-journal
+      domain: express-journal.com
     quality: 0
 
 secured: "Hco16piuwIf9vqHdQID3sYQgLIXTxt3U0iuwLn+S8ivRgndSZiAbg5uaYutpNkSYRoHV7Et6MxZRuZI4fSLzwtW32DUHfsquE8IuL4xzprv3Hadfdp41LtzuXCYTtSoUN4lIgqItDGwSDsVtKTsLRpYiSv6oV097GHG5f9T4fopTzJ/KgV1YJKlMdmmAnYireJCxaAIF+Hx7p+00s888HPiGdpm8OU95ZjeodWoY2yhJsJ8Dno0cT+pnRY4Tbhtq2yQb6l7wTZPh5oo464WkhMZO4L4H5Wm1r2hLoBaUFYeS3ZbIwLAWUvuv1aNo/c6M25JOFD7R22wnzx1x4viwRQbatimSEmv91q/f6vHMHR/L3mChj77OUWE6TpKVmLJ3bHpy2iEKdophvuL3vu0qQb5N/Sxq6J8j9YgP20Dfm2M6G3aROx9WZEiOKbXYNwBEeaHt27Pde2i4fuCCLHxb3bfU0NAPoXdJBYQJBPwUHB5jlTQWIIR+D0K6+0gts+ATdCWJ7KilqLVL2sCsQ7vM3g==;BC7EHgBTg+vJb+KwDRlMtA=="

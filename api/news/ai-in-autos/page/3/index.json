@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-05-grab-and-tesla-might-soon-compete-in-the-self-driving-war-who-will-stand-to-win.md",
+      "title": "Grab And Tesla Might Soon Compete In The Self-Driving War: Who Will Stand To Win?",
+      "excerpt": "If the number of trials for self-driving vehicles in Singapore is anything to go by, the future of driving in the Republic is, it seems, driverless. Recent years have also seen the nation warmly embrace electric vehicles (EVs), with plans to phase out all ...",
+      "sourceUrl": null,
+      "webUrl": "https://vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/",
+      "originalUrl": "https://vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn01.vulcanpost.com/wp-uploads/2021/04/tesla-grab-606abf42e7396.jpg",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/amp/",
+      "cdnAmpWebUrl": "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/amp/",
+      "publishedDateTime": "2021-04-05T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vulcan Post",
+        "domain": "vulcanpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-heres-why-some-are-vehemently-and-diametrically-opposed-to-self-driving-cars.md",
       "title": "Here’s Why Some Are Vehemently And Diametrically Opposed To Self-Driving Cars",
       "excerpt": "The headlines proclaiming the emergence of self-driving cars are usually soaked in high praise for the advent of these technological marvels. This heralding of such wonderment in innovation is ...",
@@ -1277,41 +1320,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-healthcare-providers-determine-how-to-best-use-ultrafast-5g.md",
-      "title": "Healthcare providers determine how to best use ultrafast 5G",
-      "excerpt": "A small number of healthcare organizations in recent years have struck partnerships with telecommunications companies to try out 5G—the newest generation of wireless internet—for an expansive roster of innovative tech projects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernhealthcare.com/operations/healthcare-providers-determine-how-best-use-ultrafast-5g",
-      "originalUrl": "https://www.modernhealthcare.com/operations/healthcare-providers-determine-how-best-use-ultrafast-5g",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modern Healthcare",
-        "domain": "modernhealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

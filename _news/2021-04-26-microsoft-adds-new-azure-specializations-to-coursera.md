@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-new-azure-sp
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/"
 type: article
 quality: 84
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://blocksandfiles.com/wp-content/uploads/2018/10/Excelero-splash.jpg"
         width: 803
         height: 534
+        isCached: true
+  - title: "MYCOM OSI's Assurance Cloud Service Launches on Microsoft Azure"
+    excerpt: "Provides assurance and observability support for telco-clouds running on Azure   LONDON, UK  - MYCOM OSI , the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world's largest Communications Service Providers (CSPs),"
+    publishedDateTime: 2021-04-30T01:57:00Z
+    webUrl: "https://menafn.com/1101996610/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?652781"
+        width: 444
+        height: 250
         isCached: true
   - title: "Artificial Intelligence Software Market Impact Analysis for the New Normal| Ipsoft, H2O.ai, Brighterion, Ada Support, Microsoft"
     excerpt: "Artificial Intelligence Software Market is growing at a 33.10% CAGR during the forecast period 2020-2026. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."

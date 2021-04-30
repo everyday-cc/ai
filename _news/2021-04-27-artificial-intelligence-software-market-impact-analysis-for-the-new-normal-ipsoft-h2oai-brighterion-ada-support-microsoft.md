@@ -107,6 +107,20 @@ related:
         width: 803
         height: 534
         isCached: true
+  - title: "MYCOM OSI's Assurance Cloud Service Launches on Microsoft Azure"
+    excerpt: "Provides assurance and observability support for telco-clouds running on Azure   LONDON, UK  - MYCOM OSI , the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world's largest Communications Service Providers (CSPs),"
+    publishedDateTime: 2021-04-30T01:57:00Z
+    webUrl: "https://menafn.com/1101996610/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?652781"
+        width: 444
+        height: 250
+        isCached: true
   - title: "Feature Store: Are Google And Microsoft Late To The Party?"
     excerpt: "AWS launched Amazon SageMaker Feature Store — a fully managed and purpose-built repository to store, update, retrieve and share machine learning features for trai"
     publishedDateTime: 2021-04-26T12:31:00Z

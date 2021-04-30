@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-16-ocado-invests-10-million-in-self-driving-firm-oxbotica.md",
+      "title": "Ocado invests £10 million in self-driving firm Oxbotica",
+      "excerpt": "Ocado has announced it is investing £10 million into the autonomous vehicle company, Oxbotica. The two will work more closely together to build early prototypes within the next two years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/ocado-invests-10-million-in-self-driving-firm-oxbotica/",
+      "originalUrl": "https://www.neowin.net/news/ocado-invests-10-million-in-self-driving-firm-oxbotica/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1618582719_ocado_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-driverless-truck-developer-tusimple-debuts-on-nasdaq.md",
       "title": "Driverless truck developer TuSimple debuts on Nasdaq",
       "excerpt": "The stock price ended the day unchanged. TuSimple develops driverless trucks powered by artificial intelligence that aim to make long-haul freight transport cheaper and more efficient. It ...",
@@ -1340,49 +1392,6 @@
       "provider": {
         "name": "Fleet Owner",
         "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-grab-and-tesla-might-soon-compete-in-the-self-driving-war-who-will-stand-to-win.md",
-      "title": "Grab And Tesla Might Soon Compete In The Self-Driving War: Who Will Stand To Win?",
-      "excerpt": "If the number of trials for self-driving vehicles in Singapore is anything to go by, the future of driving in the Republic is, it seems, driverless. Recent years have also seen the nation warmly embrace electric vehicles (EVs), with plans to phase out all ...",
-      "sourceUrl": null,
-      "webUrl": "https://vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/",
-      "originalUrl": "https://vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn01.vulcanpost.com/wp-uploads/2021/04/tesla-grab-606abf42e7396.jpg",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/amp/",
-      "cdnAmpWebUrl": "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/740618/grab-tesla-might-soon-compete-in-self-driving-war/amp/",
-      "publishedDateTime": "2021-04-05T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vulcan Post",
-        "domain": "vulcanpost.com",
         "images": null,
         "publishers": null,
         "authors": null

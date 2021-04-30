@@ -41,6 +41,20 @@ related:
         width: 1391
         height: 736
         isCached: true
+  - title: "Artificial Intelligence Chipsets Market Next Big Thing | Major Giants Ibm, Google, Microsoft"
+    excerpt: "A new business intelligence report released by HTF MI with title \"Global Artificial Intelligence Chipsets Market Report 2021\" is designed covering micro level of analysis by manufacturers and key business segments."
+    publishedDateTime: 2021-04-30T03:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269111662/artificial-intelligence-chipsets-market-next-big-thing--major-giants-ibm-google-microsoft"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 45
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1619546502300.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "FAWLiJAZK5n7Pi5lUsDYZfwXO8V9P0kWc6BaZ0C80bkVO4z6OiutEXh3IoLEAUnCDSqcUq0pVJ4T03wNUM17P2+UNX7HdVK2dC+dT2R9ZRJ0m9TTSIl0KVod9VOaY1453wNWlvBB5THqP0LeK7HvQiA3BaJ2QVlUdH4ESMKVNgIDFAjiCOEQaJRWzqwuBFtoXMWKFcTwSAAUn4cfDDzUn94TntTLNLVXrWdLBco6FAfyQC0t9cLo9dkMLUhhW3i29FloUs5VGJBjPVn2PEc3ELztbDco1vEdqSB3rd/2atikk+uzO9aVuU67ScKLGccRrpD4NbK4I3UMRFyUbiq7GcYa6ePp8WJMzGUykdsaPOc=;gPSmXBd6mYOBgWKwp+SYdA=="
 ---

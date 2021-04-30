@@ -43,19 +43,19 @@ related:
         isCached: true
   - title: "False facial recognition sends innocent man to jail"
     excerpt: "False positive facial recognition match sends innocent man to jail."
-    publishedDateTime: 2021-04-30T00:23:00Z
-    webUrl: "https://www.fox19.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+    publishedDateTime: 2021-04-29T21:25:00Z
+    webUrl: "https://www.wndu.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
     type: article
     provider:
-      name: WXIX-TV
-      domain: fox19.com
-    quality: 54
+      name: WNDU
+      domain: wndu.com
+    quality: 56
     images:
-      - url: "https://www.fox19.com/resizer/iktREBH3nYO2ESk3ZtTzKpEAvHs=/1200x0/d1acid63ghtydj.cloudfront.net/04-29-2021/t_0109d6ff2ea04285a924888a2a57467e_name_Capture.PNG"
-        width: 1200
-        height: 671
+      - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
+        width: 980
+        height: 548
         isCached: true
 
-secured: "0F04VN+cRV025U0TIbDZHjSPGe/ID00cUZ8GIEMxZW1oYifBttytzjeHQ9tD5jqS0fock/lBZLwo46ZJlpwvqUAePN2KqmU9ggZUO0V5gMjB/FLea485qYjsKLudfYZf5RXzWuFyhXCpwF7Ma3rwWS/Dlqul8lLZGQL9TbubWW3Y6P0TgGWJv3v2sVYIbJlsjjx8dqHfJHds0JyKQl9tdE0TAuDaMOnJFSnL/jxCjIo3H8nvF3RiE1ZPbHmvLU0hdittCg6maf7EWgOLadfJ84O3h7IbLQGql3TdE0T7+gbWbT4JfYzf0iOykLkiEJxWAnBNR+xHCp/DONH1klKhGC0Hx0LWFkK5EZREApRRMxM=;Zg2UacG9//xE6R6N/OTITQ=="
+secured: "gbq1M4y+u/LK73auV1RNx4vJQTps6vo7bUi3K1dKlIQvLTC9l04SbW5LcSBULd8EmslUAktwO0ZP9tkm52hwq1+S7mMGhRNtQlCibypF+fgx674AjcaTCImwj2SHggoveZP/A93HIaRe1LGnQIZASIDFgzdcFX5c7UPC4hXsSrrKwioR+QDbaOgdpPrqcX7nSYok2XQLUQjlQeh47dLc3V2OK0+6nbxLmKGEkirmO3LysmOk+MM/xxAncs7rAFYDvHl4rifZlSEEnS06dyHn2ZU6a0AlWwy+JS5vC5HQWL1epfn6mVUFXv0iowP9pg0f3+kmWd4PFH6QQGmwTZxRgsOmd7GFDdPZx7mUcSfzRhGs7OQjY9VVStFwRsFql8+sYEPrhkgc8uwrC10ik/G3ud0AZAJXkRYiq6KWkLwz7piuHLwlmioelFKQ81pprkSS8fGBzEt2A3D41CMlo0Ww4ERsr0ltngo9MP+W788SiJskcNP9XPnYhHQRP3sKH9k4pycLkrps3D0mSrYk5joMhQ==;BK/CRgV5x1AOzTN6/+JaDw=="
 ---
 

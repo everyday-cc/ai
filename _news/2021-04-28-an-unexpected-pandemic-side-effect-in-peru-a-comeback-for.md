@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "An Unexpected Pandemic Side Effect In Peru: A Comeback For TB"
-    excerpt: "Before COVID-19 hit, tuberculosis was on its way out in Peru. But COVID-related disruptions to treatments could mean the rise of drug-resistant strains and twice as many deaths."
-    publishedDateTime: 2021-04-28T16:42:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=988742791"
+    excerpt: "Martin Valencia Garcia was working as a community agent in Independencia, one of the denser districts of Lima, Peru. His job was to"
+    publishedDateTime: 2021-04-28T14:33:00Z
+    webUrl: "https://www.nhpr.org/post/unexpected-pandemic-side-effect-peru-comeback-tb"
     type: article
     provider:
-      name: Capital Public Radio
-      domain: capradio.org
+      name: New Hampshire Public Radio
+      domain: nhpr.org
     quality: 24
     images:
-      - url: "https://media.npr.org/assets/img/2021/04/20/photo-2021-03-01-10-53-29_1-8a5a3fc77844caf59610546d8c1b00ce1b6f2fad.jpg?s=6"
-        width: 948
-        height: 711
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202104/989155712.jpg"
+        width: 800
+        height: 531
         isCached: true
 
 secured: "o24BHg6SG+2L7//JQkNTc+C7prp7clW/WUw85hLyrtxISP0KmGGDBgnw5KPwIdInwtS9gVj6MtGflY5gJVDZyvGMlHCMAjQqlJ91U4ArAXgBeCnOFbhClFgwHuCm4+TrEKkSJ/6a0p5aExRInl/X9w/eVQdPYlNHP3ICEZmsM3Qj42GZeYWP2BvinCv5BMuqxdxNc5DMg+dmlAAlhw1zKoZrVND7PZiHPzxbQenf2MieeFPMtHfal3mFv0rmmunDaL1XNdrWGCGAUpUiWjPSkt9r1mROCm4YVhbx9ur6WIZfrW3dKZ3UlAQErZStlMorz6x42qtsVwv6DBaEO6rsAf16v3pwWmVDP83h6medBKS6VC4mq/78Pleiar6Gkpn6XHNrvTEGOZZiCwfjgQ1OlVD+V3KJAUk9MsBmXB5wkR9pf5X6q4tu2ap0kAB1wYu5wqWWOe+Yep8H+CktwakwgVR1GtQBbBggBNzGJ/6AicweoER+MP41twoYYQ6APq84yOoab6JtW/s39zC6V3iOuA==;DMwdTOkEF2vy3WoMKJlWwA=="

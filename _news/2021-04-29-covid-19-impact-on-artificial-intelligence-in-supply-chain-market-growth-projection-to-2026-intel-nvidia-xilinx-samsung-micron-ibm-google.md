@@ -85,6 +85,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
+    excerpt: "Global Artificial Intelligence market is estimated to reach 196 7 billion in 2027 by growing at a CAGR of 25 2 during the forecast period 2021 2027 This growth is attributed to increasing research and development R D owing to"
+    publishedDateTime: 2021-04-28T17:20:00Z
+    webUrl: "https://www.openpr.com/news/2277017/artificial-intelligence-market-to-2027-future-outlook"
+    ampWebUrl: "https://www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
   - title: "COVID-19 Impact On The Pharmaceutical Robots Market : Benefits Offered By Robotic Systems In Pharmaceutical Manufacturing"
     excerpt: "Benefits offered by robotic systems in pharmaceutical manufacturing is a key factor driving the growth of pharmaceutical robots market. The base year considered for the study is 2015, and the forecast has been provided for the period between 2016 and 2021."
     publishedDateTime: 2021-04-29T16:06:00Z
