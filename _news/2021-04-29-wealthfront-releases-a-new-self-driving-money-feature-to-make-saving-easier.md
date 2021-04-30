@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/select/wealthfront-autopilot-self-driving-m
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/select/wealthfront-autopilot-self-driving-money-review/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

@@ -42,18 +42,18 @@ related:
         height: 480
         isCached: true
   - title: "RSNA: Researchers Use Artificial Intelligence I to Detect Wrist Fractures"
-    excerpt: "An automated system that uses artificial intelligence (AI) is effective at detecting a common type of wrist fracture on X-rays, according to"
-    publishedDateTime: 2021-04-28T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/rsna-researchers-use-artificial-intelligence-i-to-detect-wrist-fractures/article_dc085632-0ee3-5da6-aa5d-b122e5e64e89.html"
+    excerpt: "An automated system that uses artificial intelligence (AI) is effective at detecting a common type of wrist fracture on X-rays, according to a study published in the journal Radiology: Artificial Intelligence."
+    publishedDateTime: 2021-04-27T18:30:00Z
+    webUrl: "https://www.medindia.net/health-press-release/RSNA-Researchers-Use-Artificial-Intelligence-I-to-Detect-Wrist-Fractures-523768-1.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Medindia
+      domain: medindia.net
     quality: 38
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.medindia.net/images/common/covid-19-package-2-300.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "WbF+5VKixjYhqPCnh4SKbl3QKVRckv4nypwJxdn7xwU4jzQj9wN7zJwytRLkRkrtkoi+1EKyRlzhLF0OKRVBysINsRq1xXMxQWhsu8AYOyR7LKM2UHHn/u+YbtDkNVu7dYWtMRU1890xCBd6GfD+umP2iiKLna6YquBHAm0BLaBeKCmJNOcVilcNwtDixoiuOWQTvHf69lKNU/wxQcPRgb7e+/RzhwWnNWYoA0wpE2jwyfp/rusHen1bC7Tsqt6rsdNf74xflYrWM9IzmpapYYLNOJgW3wCn5hPRCVYkFGyt9Hn9BrFYQkzVswQjB0/VDQgZhmMjMyU40DJO8gkZ3ElaMOBpNqcoIL1eGcqjNmQQiC/gaE0njyTL35YJjYd88rV86QSc2qKvdxRtAqyW1MSC+4KjEA00B4riMCw3qULJwCt1aXAnYoWT8KqSflHPPNKzpUB4SCcILmrIimJ4pqsuMdMe1DH9mqUEbjiNCszQIs6kIx7HxscZ2xbrbufRUhT5lvsPTPThcse6u0E0Lg==;iIiN9UYSQKDtqdBh8J9eug=="

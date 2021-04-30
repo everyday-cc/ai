@@ -2,24 +2,24 @@
 category: news
 title: "False facial recognition sends innocent New Jersey man to jail"
 excerpt: "New Jersey police arrested an innocent man on unlawful possession of a weapon, resisting arrest and aggravated assault charges after he was falsely identified by facial recognition technology. Law enforcement agencies across the country use facial recognition to generate leads on suspects,"
-publishedDateTime: 2021-04-29T21:35:00Z
-originalUrl: "https://www.nbc29.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
-webUrl: "https://www.nbc29.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
+publishedDateTime: 2021-04-29T20:35:00Z
+originalUrl: "https://www.wave3.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
+webUrl: "https://www.wave3.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: NBC29
-  domain: nbc29.com
+  name: WAVE3
+  domain: wave3.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.nbc29.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG"
+  - url: "https://www.wave3.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG"
     width: 1200
     height: 671
     isCached: true
@@ -42,20 +42,20 @@ related:
         height: 619
         isCached: true
   - title: "False facial recognition sends innocent man to jail"
-    excerpt: "False positive facial recognition match sends innocent man to jail."
-    publishedDateTime: 2021-04-29T21:25:00Z
-    webUrl: "https://www.wndu.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+    excerpt: "False positive facial recognition match sends innocent man to jail. By \\| April 29, 2021 at 11:23 AM HST - Updated April 29 at 1"
+    publishedDateTime: 2021-04-30T05:23:00Z
+    webUrl: "https://www.hawaiinewsnow.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
     type: article
     provider:
-      name: WNDU
-      domain: wndu.com
-    quality: 56
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 54
     images:
-      - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
-        width: 980
-        height: 548
+      - url: "https://www.hawaiinewsnow.com/resizer/iktREBH3nYO2ESk3ZtTzKpEAvHs=/1200x0/d1acid63ghtydj.cloudfront.net/04-29-2021/t_0109d6ff2ea04285a924888a2a57467e_name_Capture.PNG"
+        width: 1200
+        height: 671
         isCached: true
 
-secured: "gbq1M4y+u/LK73auV1RNx4vJQTps6vo7bUi3K1dKlIQvLTC9l04SbW5LcSBULd8EmslUAktwO0ZP9tkm52hwq1+S7mMGhRNtQlCibypF+fgx674AjcaTCImwj2SHggoveZP/A93HIaRe1LGnQIZASIDFgzdcFX5c7UPC4hXsSrrKwioR+QDbaOgdpPrqcX7nSYok2XQLUQjlQeh47dLc3V2OK0+6nbxLmKGEkirmO3LysmOk+MM/xxAncs7rAFYDvHl4rifZlSEEnS06dyHn2ZU6a0AlWwy+JS5vC5HQWL1epfn6mVUFXv0iowP9pg0f3+kmWd4PFH6QQGmwTZxRgsOmd7GFDdPZx7mUcSfzRhGs7OQjY9VVStFwRsFql8+sYEPrhkgc8uwrC10ik/G3ud0AZAJXkRYiq6KWkLwz7piuHLwlmioelFKQ81pprkSS8fGBzEt2A3D41CMlo0Ww4ERsr0ltngo9MP+W788SiJskcNP9XPnYhHQRP3sKH9k4pycLkrps3D0mSrYk5joMhQ==;BK/CRgV5x1AOzTN6/+JaDw=="
+secured: "gT3Jmj81r8XTRyzJyQwdybb88Y0/EyiiSw8ePYkGHvcao8kuW2enaedO4v5PX9t+iBxGZR3emKCaEGXU48j5azjCdWvgTZOx8T6/pXWItUQ4g3fbfHHkjzsx3pdUA4xPPjewS+NdyCafaiobMWOujshKc6XKcoBUILVHrQGSqQmw7oeXHgW4qwY0AWpX+65Q7nd/68ZV19zHl3wPEN0Eqn2p3mufrkeA4QB3BMzDRCagpAXpdK5ohSc4HmTxUF8EnF84wUPHjsoQ6CzoZBgc2WhUVhd3t+/b1kVw7K+e6ru3CKf1kz8g0QnnCMTzDKAXXqlWgr10FYX3S6ETI6Y3mNDK49YKTRuNxXHRnyFWdoc=;FstxldRGUF10hpQOLWJdqw=="
 ---
 

@@ -45,6 +45,22 @@ related:
         width: 550
         height: 400
         isCached: true
+  - title: "IBM Acquires Turbonomic To Build AIOps Tools"
+    excerpt: "IBM has agreed to acquire Turbonomic, a Boston-based company that provides tools to manage application and network performance."
+    publishedDateTime: 2021-04-30T05:44:00Z
+    webUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/"
+    ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb66bc6da454c5792d7d9fa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4710%26cropY1%3D644%26cropY2%3D3293"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM buys Turbonomic for AIOps, hybrid-cloud management support"
     excerpt: "By acquiring Turbonomic, IBM gains tools that manage performance of everything from applications and containers to virtualization, cloud, and on-prem compute, storage, and network resources."
     publishedDateTime: 2021-04-29T20:14:00Z
@@ -113,6 +129,6 @@ related:
       domain: insidehpc.com
     quality: 19
 
-secured: "yh07LIxYyEgpjz0I5eIPOt4dwOq4V6SovkSiD5mDv+ZSE0PCt1oWBopjxzwAMEoQsOhVLDKVlSHQq9E8aTbWk5WECG/2JXIcgEdVRYvr5NLWj48U72lRLJMf5DHWNUhhBgKB9SYfY6UptGVCntdHgfoOjkoFnTIj7frMMQqdB7eF4tOug4sazpPMrWJBztoK1xp8rBLACdissJICP+WYTrzUCithYUY4I+yCi1TGSN9EbQAMzUO61pK7xRRB6uRGmjVB80laNo+YLVPBNlLTiv21ao/Iju/xyB29ysuZKn0b4my2Dq4YESA1WfGemVrFQqsyzaiVBKGlOzhfcaXFSMcuaJUxdJvusdAwoLcdPCM=;qVTMfiigStChcPg9iO3oXg=="
+secured: "at4vcc72fNmNhvmnopNX7Y2T4Frru5SCYrtnKuaIeVsqyZU2BM8LcIdNPo8FxDdPB80xpteVCcu/zkjZOfURuKuIbxJNV6a5f4hmOFT0Ju7GXqLyMA9bPxZXI981u3issv41roXISgEAdd0ouo4tDdEbtsKKj9XyFoZci6cyHd67k7Mwq6iEJ4MUEpGWIPzBZ2pFSwKniVtpWAQj6UnjaujnY58mmHYbGjOHrMwr5AH61GCiKLeiQkf4Ocxp23TF+o3owZQ2fs5saCWqn5e7q4OPgGMRnImDZvVGGp4LO/Rav+StxpjDCZ/LVxwyEUDwHoF5NaeOW0qwOeYsePfqPuNpYkB0SyJm7rJvTWd9alk8bCrseNvYWUiPVvtNpJ4wqGfotuMxyNWW4r7UZ74LxgGvJuA8Qe9zjm+HZVwT1MFDvPZMnpqkjbX0CqeVrDMOyffQjLSLL3tnRoomY0JQxM1UVLSQfSsse4pQj/LbDmiLx17OpViyIfM5viSz5ZaGtPEhwf9e4eK8OvB2dLbpgQ==;gCtflaU/uGI4cd7MNG6H5A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F08%2Falks-lane-keeping-motorway-autopilot-autonomous-vehicles-car-ev-government-uk.png&signature=6a91d3ce2373b7deb8b2941ecca9fea1"
         width: 1280
         height: 640
+        isCached: true
+  - title: "UK says 'self-driving' cars could be allowed by the end of 2021"
+    excerpt: "The UK government has announced that basic self-driving cars with automated lane-keeping system (ALKS) could arrive on British roads by the end of 2021. The new designation will allow trials of such systems, allowing Britain to develop its own self-driving ..."
+    publishedDateTime: 2021-04-28T11:13:00Z
+    webUrl: "https://www.engadget.com/uk-says-basic-self-driving-cars-could-be-allowed-by-the-end-of-2021-101635683.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-04/fb672ab0-a804-11eb-a477-f3c1b293dd52"
+        width: 2000
+        height: 1182
         isCached: true
   - title: "Self-driving cars coming to a slow lane near you, Government announces"
     excerpt: "The UK Government has announced that it will be legal for motorists to go hands-free in self-driving cars later this year."
