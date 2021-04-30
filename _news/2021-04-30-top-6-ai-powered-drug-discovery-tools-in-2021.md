@@ -1,0 +1,54 @@
+---
+category: news
+title: "Top 6 AI-Powered Drug Discovery Tools In 2021"
+excerpt: "AI has a lot of potential to enhance and accelerate drug discovery — the process of identifying potential medicines. In January 2020, British start-up Exscientia and Japanese pharmaceutical firm Sumitomo Dainippon Pharma used AI to develop a drug for OCD."
+publishedDateTime: 2021-04-30T07:30:00Z
+originalUrl: "https://analyticsindiamag.com/top-6-ai-powered-drug-discovery-tools-in-2021/"
+webUrl: "https://analyticsindiamag.com/top-6-ai-powered-drug-discovery-tools-in-2021/"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
+
+topics:
+  - Google AI
+  - AI
+
+images:
+  - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/Untitled-design-6-1024x576.png"
+    width: 1024
+    height: 576
+    isCached: true
+
+related:
+  - title: "Top 8 Challenges of Artificial Intelligence in 2021"
+    excerpt: "Here are the top 8 challenges of Artificial Intelligence which businesses have been facing in 2021: Currently, one of the essential factors that cause worry for AI technology trends is the very vague nature of how deep learning models can predict the desired output."
+    publishedDateTime: 2021-04-27T05:10:00Z
+    webUrl: "https://gisuser.com/2021/04/top-8-challenges-of-artificial-intelligence-in-2021/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 37
+    images:
+      - url: "https://gisuser.com/wp-content/uploads/2021/04/AI.png"
+        width: 1202
+        height: 601
+        isCached: true
+  - title: "InveniAI and Shionogi Enter AI-Powered Multi-Target Drug Discovery Collaboration"
+    excerpt: "Teams will work together by leveraging InveniAI’s technology to identify, evaluate, and optimize novel targets for drug discovery ; Shionogi will synthesize and develop compound"
+    publishedDateTime: 2021-04-27T12:12:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/health-science-technology-business-72f3dd42736a54130181043b83cce43f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+
+secured: "k7jmpGRatB1PM+k7wChc6GLLFMBXWS8NInAC2jZsGjknrHI3j/XkpmhkPx1eK2i7bZBdi377fi+QlnQictSLm9bRcGJbuQ3OyYk1m+ipjHfwsTW0yaVyHtaJZ67JsjF4EVqD7iaodTchpIUasYwC2Nt9kjhPST5OgWh7iq1UipU/XaNolKA7MxFvcIEmtsoPwgG9HlYy56DiW3/f5HhqGSf/Wk0xNVWip37919mHJk7cuT+nj2rXPUE18R8ukgo3nBsR2r8T33q3sUPOEKlsZfxG4tstaWvjT12aBPWjrtlnN8PhtkOKrBn8LoVqurilLq1wBjaMHIaH2YHvHLar67ol9FcQjTrDAs7myGJtKD8=;hkjCpIbQiJ/AN5jCJFbmEw=="
+---
+

@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
-excerpt: "Baidu, Inc. (NASDAQ: BIDU and HKEX: 9888) will open fully driverless robotaxi services to the public in Beijing starting from May 2,"
-publishedDateTime: 2021-04-29T07:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-301279856.html"
-webUrl: "https://www.prnewswire.com/news-releases/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-301279856.html"
+excerpt: "Passengers can experience a real driverless autonomous driving service at Beijing's Shougang Park Visitors at the upcoming 2022 Beijing Winter"
+publishedDateTime: 2021-04-29T07:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-1030362987"
+webUrl: "https://markets.businessinsider.com/news/stocks/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-1030362987"
 type: article
-quality: 19
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg?p=facebook"
-    width: 1385
-    height: 724
+  - url: "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -148,6 +152,6 @@ related:
         height: 480
         isCached: true
 
-secured: "FQVPA7YoxkLN+VzSzLWqHR+UNzWNNi8FshKlBWVfom5Sh1amdI8T5dKr1duALrFiLi6cGPcZlQCGJvx0tYtA4gNINQUYMSPtJl47tSAZFuFQGfjc2AUJsCbVLCLcPXtTO0oCqxhoQAdtJipXm3lwt2Qv4OCcqi8dl8JU4+hN1QTZKelYKdoTB5YwnAOAGqnqKTIi1p52FmXQcYdMsmFaB3puKST3JLdr183IMKsy+qL03YpBlNJwLNUvjpl/kiqAQGLPAHg75UumCPfiU9A/DQnH0xPGUsRJrb4pBg3mmsFUxp7x1O7wufUMvE3fxjtfBsE3AtbgTgAM4UuSPjAomQczpkiXtobNffRtaLD8KYQ593ZVh53t7MiD+r5sxfzhLiOXYsiJy4IUPlabjyBwr2KCPh2KdWHE8ShoeCvd9fRQb5UnzfhNVqIs0Vs4Sbz0Ibm++qIbo0wPRQgU+6swIMlssLYlJUksLlUYXoj1jAsqPls2D0r20v4gBvyNeO7PqlnPS/kB5i6v3ZGflelCgQ==;T+hhA6HiUzQysSZnKT0IlA=="
+secured: "1FypyLU7XqaUBpm8Z6jcaqwLO26qDyTbUGwpKNCueGKFBGnLjbK/NFZ3e52/M//JlWGU8gjWvshkRuees7RUdjCATcRfc1Jcc4WUbVe7pj12Lpw1ZlYkbZpW/+n6aybtbNTZuv/FfsANlBkrUdxrlg92OWtkWxykkecZgPlPQIEqBJ4kSm5G4atuoko1no1CI3KncdxTJgOlCbQ7bDXLbScOFYdbl/VHswsEGSOM+fWug4dSaQhRX+xdovrmHbNs2sNSPZ593zQXmgct3age5GDHFJnr+zxqAi2GgMLfVq5IUNeCIH2rJVsXpBgiwAYb+S8eP8w47U2/IAn28/5zBJ9MoMdYB1zW7i0N4Byp0h8=;BledHX3rii7yZYMQP6Y8vQ=="
 ---
 

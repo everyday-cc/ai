@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Latest Revenue Data 2021,Global Trends, COVID-19 Impact and Forecast to 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 25, 2021 (The Expresswire) -- The global “Artificial Intelligence Industry” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
-    publishedDateTime: 2021-04-25T14:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027-2021-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Chatbot Market Industry Demand, Current and Future Plans by Forecast to 2025 | Says Kenneth Research"
     excerpt: "Global Chatbot Market AnalysisAccording to Market Research, The Global Chatbot Market was valued at USD 858.1 Million"
     publishedDateTime: 2021-04-26T05:50:00Z

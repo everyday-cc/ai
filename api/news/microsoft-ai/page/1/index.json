@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-30-route-mobile-to-buy-ai-firm-phonon-for-rs-29-crore.md",
+      "title": "Route Mobile to buy AI firm Phonon for Rs 29 crore",
+      "excerpt": "Phonon offers a complete suite of conversational AI-driven contact centre solutions with integration on cloud platforms like AWS, Azure, and Google Cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/route-mobile-to-buy-ai-firm-phonon-for-rs-29-crore/articleshow/82320983.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/route-mobile-to-buy-ai-firm-phonon-for-rs-29-crore/articleshow/82320983.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-486248,msid-82320972/artificial-intelligence.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/route-mobile-to-buy-ai-firm-phonon-for-rs-29-crore/amp_articleshow/82320983.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/route-mobile-to-buy-ai-firm-phonon-for-rs-29-crore/amp_articleshow/82320983.cms",
+      "publishedDateTime": "2021-04-29T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results.md",
       "title": "How Nuance May Alter The Healthcare And AI Playing Field Aas Microsoft Reports Q3 Results",
       "excerpt": "In Microsoft’s (NASDAQ: MSFT) last earnings conference call with analysts, CEO Satya Nadella opened with an upbeat and sweeping salvo on cloud platform",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.benzinga.com/news/earnings/21/04/20793834/how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -1376,41 +1419,6 @@
       "provider": {
         "name": "Times Republican",
         "domain": "timesrepublican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-microsoft-adds-speech-recognition.md",
-      "title": "Microsoft adds speech recognition",
-      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health ...",
-      "sourceUrl": null,
-      "webUrl": "https://journalgazette.net/business/20210413/microsoft-adds-speech-recognition",
-      "originalUrl": "https://journalgazette.net/business/20210413/microsoft-adds-speech-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Journal Gazette",
-        "domain": "journalgazette.net",
         "images": null,
         "publishers": null,
         "authors": null

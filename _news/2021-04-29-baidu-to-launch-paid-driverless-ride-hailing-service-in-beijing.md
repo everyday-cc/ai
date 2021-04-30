@@ -105,6 +105,20 @@ related:
         width: 1080
         height: 626
         isCached: true
+  - title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
+    excerpt: "Passengers can experience a real driverless autonomous driving service at Beijing's Shougang Park Visitors at the upcoming 2022 Beijing Winter"
+    publishedDateTime: 2021-04-29T07:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-1030362987"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Baidu in the driver’s seat"
     excerpt: "Despite regulatory concerns, the Chinese tech company is a leader in AI and commercialising technology in cars and public transport."
     publishedDateTime: 2021-04-29T14:00:00Z
@@ -132,20 +146,6 @@ related:
       - url: "https://img.futurecar.com/202104/29/l_608af1f7b751a.jpeg"
         width: 720
         height: 480
-        isCached: true
-  - title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
-    excerpt: "Baidu, Inc. (NASDAQ: BIDU and HKEX: 9888) will open fully driverless robotaxi services to the public in Beijing starting from May 2,"
-    publishedDateTime: 2021-04-29T07:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-301279856.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg?p=facebook"
-        width: 1385
-        height: 724
         isCached: true
 
 secured: "SPZDGk/uP/PuGxSGdQGZMBbxQjQq+KK2SePSM4/d5rErzNLnRrQ3KT+DtpSYhXxlVovyQb7eMzBGm7QRJdCJCLG0Q0PjvHo16VfPF4Lwes8VNbY+m4aycuCNxVpdRmgXNRs0HU3Q6tKpF6++WwCD8n4UH+zxTAA7+OJc2CdUfgAlZXa2ubbaERlE0tudRUGiDDcvhzFfWGnhJGUvg2k9Q5AiBdQICUInScfCi8Bguhv56ft/iQBn8A5Qbs5LycGB9m/gq9rozyzthV0qldh4jg2v7t6LjjilP1ovLP/agCK9Ek8REQAWunxyWRotirX/eNYJDzXHUB5STAQxzKP+eor7gqFdkn5QjY8R69NCu4A=;Y+amfky7CzjHFMiLrVOSaA=="

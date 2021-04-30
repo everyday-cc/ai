@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Latest Revenue Data 2021,Global Trends, COVID-19 Impact and Forecast to 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 25, 2021 (The Expresswire) -- The global “Artificial Intelligence Industry” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
-    publishedDateTime: 2021-04-25T14:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027-2021-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence-based Security Market Landscape Assessment By Type, Opportunities And Higher Mortality Rates By 2027"
     excerpt: "The report titled Global Artificial Intelligence based Security Market Size Status and Forecast 2019 2027 has been recently published by Researchmoz us The Artificial Intelligence based Security market has been garnering remarkable momentum in recent years Demand continues to rise"
     publishedDateTime: 2021-04-26T16:06:00Z

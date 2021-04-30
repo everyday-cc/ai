@@ -55,6 +55,17 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Artificial Intelligence In Genomics Market by Drivers, Restraints, Opportunities, and Challenges | Ibm, Microsoft, Nvidia Corporation"
+    excerpt: "AI in genomics market to register a CAGR of 52 7 from 2020 to 2025 ReportsnReports added Artificial Intelligence In Genomics Market Research Report created by Report Consultant which offers detailed insights revenue details and other information regarding the global"
+    publishedDateTime: 2021-04-30T07:17:00Z
+    webUrl: "https://www.openpr.com/news/2277898/artificial-intelligence-in-genomics-market-by-drivers"
+    ampWebUrl: "https://www.openpr.com/amp/2277898/artificial-intelligence-in-genomics-market-by-drivers"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277898/artificial-intelligence-in-genomics-market-by-drivers"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
 
 secured: "FAWLiJAZK5n7Pi5lUsDYZfwXO8V9P0kWc6BaZ0C80bkVO4z6OiutEXh3IoLEAUnCDSqcUq0pVJ4T03wNUM17P2+UNX7HdVK2dC+dT2R9ZRJ0m9TTSIl0KVod9VOaY1453wNWlvBB5THqP0LeK7HvQiA3BaJ2QVlUdH4ESMKVNgIDFAjiCOEQaJRWzqwuBFtoXMWKFcTwSAAUn4cfDDzUn94TntTLNLVXrWdLBco6FAfyQC0t9cLo9dkMLUhhW3i29FloUs5VGJBjPVn2PEc3ELztbDco1vEdqSB3rd/2atikk+uzO9aVuU67ScKLGccRrpD4NbK4I3UMRFyUbiq7GcYa6ePp8WJMzGUykdsaPOc=;gPSmXBd6mYOBgWKwp+SYdA=="
 ---

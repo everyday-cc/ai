@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
+    excerpt: "Passengers can experience a real driverless autonomous driving service at Beijing's Shougang Park Visitors at the upcoming 2022 Beijing Winter"
+    publishedDateTime: 2021-04-29T07:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-1030362987"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Baidu to Open China's First Public Commercial Robotaxi Service Without Safety Drivers on May 2"
     excerpt: "China’s technology giant Baidu Inc. is launching the first commercial robotaxi service in the country on May 2 after months of successful testing using safety drivers. Beginning next week, members of the public can hail one of Baidu’s driverless vehicles without a safety driver behind the wheel."
     publishedDateTime: 2021-04-29T17:30:00Z
@@ -132,20 +146,6 @@ related:
       - url: "https://img.futurecar.com/202104/29/l_608af1f7b751a.jpeg"
         width: 720
         height: 480
-        isCached: true
-  - title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
-    excerpt: "Baidu, Inc. (NASDAQ: BIDU and HKEX: 9888) will open fully driverless robotaxi services to the public in Beijing starting from May 2,"
-    publishedDateTime: 2021-04-29T07:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-301279856.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg?p=facebook"
-        width: 1385
-        height: 724
         isCached: true
 
 secured: "5XwPI5PM6eeUqc5peXRbXukuv3DZaE++2zdsoLcQjz2a4C7zahcFqzjpCcBNXonqpf+JdEzoZDH46t+to3dAir2qIeTQOHHde5MKXTYI2f5NIxCHiZFduxld1E4p2FQfc+KgRuoSg5nGE9ccHdFn69cDmkLj6MaobyW+NMjgP7hcoLZBKLCnwAqpg4N+wErmHECyrRXLXSdnkrNe68msxh8tIuJOU+d2fprAKku4FTFcrDeIE8heQ1m4y+9oMzRf0GG20QNRWm0Z3Ax3vZNfP4QufIvrn8SlJMwRAiogHaHlo15SPxGBVbp04GOvdzZPbfwl7JMVTxAtSdZZyWfCBpDLhei+TDTnWn9Fw991cLEe2ZleXhF1eM6q9r1IoT+4y99CEaKvW+ltEr5G+4+hO+47J+0zZ9dAg5Iol85sGyNkA63sBi1Eok4P12wIN6W6RCFJQWOLv0AjtB2YMku2LDlaKpsYN1dYLpSH1vGbwUR1bd65WVNaKkrgGRQo7KXkjupMePXmVBd4nKu2NUVfXw==;iQCvg69q/nBvqKqskYvaKg=="

@@ -8,8 +8,8 @@ webUrl: "https://www.livemint.com/opinion/columns/smells-like-team-spirit-gettin
 ampWebUrl: "https://www.livemint.com/opinion/columns/smells-like-team-spirit-getting-art-out-of-artificial-intelligence/amp-11619720775074.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/smells-like-team-spirit-getting-art-out-of-artificial-intelligence/amp-11619720775074.html"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://images.livemint.com/img/2021/04/29/600x338/AI-kkGH--621x414@LiveMint_1619721586315.jpg"

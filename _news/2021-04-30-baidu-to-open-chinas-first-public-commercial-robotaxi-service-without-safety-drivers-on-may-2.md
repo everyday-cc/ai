@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
+    excerpt: "Passengers can experience a real driverless autonomous driving service at Beijing's Shougang Park Visitors at the upcoming 2022 Beijing Winter"
+    publishedDateTime: 2021-04-29T07:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-1030362987"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Baidu in the driver’s seat"
     excerpt: "Despite regulatory concerns, the Chinese tech company is a leader in AI and commercialising technology in cars and public transport."
     publishedDateTime: 2021-04-29T14:00:00Z
@@ -132,20 +146,6 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.5468%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_18%2C$y_70/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_jpg/t_afr_opinion_no_age_social_wm/ec03012bdbbd24f82ee40f28e644ccf1a9838d23"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
-    excerpt: "Baidu, Inc. (NASDAQ: BIDU and HKEX: 9888) will open fully driverless robotaxi services to the public in Beijing starting from May 2,"
-    publishedDateTime: 2021-04-29T07:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-301279856.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg?p=facebook"
-        width: 1385
-        height: 724
         isCached: true
 
 secured: "iu2t+rqF/unwuEPWkVfGYmNpPYDMonYUozoQPFrIUmnz1RTvuXIyzpdJow7/6v9Slrdn4IRyWIn53Pxi7UIcO479xcXkr3UoM947a0UEqOQ2IsV7K1rAahbB4NFk0hwWEPQhW98Uhck/zs7vNjrFKo4XWp3kw/9T1eYcGKAwxNmAdWpgpDbB/Ju1r4x3Wo1Fv2cw+0WVSA6hwYhFLyhnlHqxcx1nWK1PT/B3FvsH3Jo+gZJ+YvfqsXkqqpX/9AD/1++k9LMhSZizh/GTP0z9+OqQZp9OQOwDtO1gu9XArzp4wEG9LLPgC19PHHG/tjcIU3m7J1tRMjfex0Szpb2PpbaqqZaxvs8J6HuNfHdPK/4tDl0RxCmg2YZ9D5ZqfyFcB3tR76KgKl9V4yaCuFUDguhUefbIXZnFn/uXA1tLigV2Aad51VkG8Vulmwzlb/glFzgT7Oagm4GuM7HghuT+7hGqpsGxW915C9RHyJqjzeB76Gipdlp2LI/UcRkpFdMVi5mT9uxVhigD3D+qYizJnw==;yXaNrE8BTyhD0jnpk0KN5w=="

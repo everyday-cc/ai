@@ -43,6 +43,17 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Route Mobile gains on acquiring AI firm Phonon Communications"
+    excerpt: "Route Mobile rose 1.61% to Rs 1634.75 after the company said that it will acquire Phonon Communications (Phonon), a communications automation platform provider, for Rs 29 crore."
+    publishedDateTime: 2021-04-30T07:02:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/route-mobile-gains-on-acquiring-ai-firm-phonon-communications-121043000458_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/route-mobile-gains-on-acquiring-ai-firm-phonon-communications-121043000458_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/route-mobile-gains-on-acquiring-ai-firm-phonon-communications-121043000458_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
 
 secured: "6Tcl6twm8gkKFtTdeQrz/fghawp+rSjjV1Bbkr2jBnZJ6JIfucKa7TOcCFRDUr/h2ul+wAnZ0TyxW7xYOEfIjZRwtZfmahbsAVuoYZLg1uhAIUw/7cinlPEYW4OlGJOua8Qoc6NQ1zwB+k/4Th9XKfjVBF3yQ72LBRv0t+CQr2s6Q+d0jXJ4GB15Y9A22+IY4G+qksCQnjQwNnteHW5/rlHb7eKLkBFOx4GaZYo80y4I2g9QIT6tR5iMfbPH6CUGwhMnlAiK4gxOdJpfJHrkmkMLv+Yjx2LAY7O/QMOzxizabn3nVZBsxQrxGLdt70/kU1IjiEIG2yOj+P086rnGvrY9mazHkwpOsinqQzV/p20=;M5DnTjdIS4gyypWYj8cxoQ=="
 ---
