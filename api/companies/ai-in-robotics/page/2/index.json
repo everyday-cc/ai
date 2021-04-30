@@ -4,26 +4,31 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/promo-bot.ai.md",
-      "title": "Promobot",
-      "excerpt": "Quantitative Imaging Biomarkers - QuantibBrain (FDA/CE) - innovative SME - image analysis services - machine learning - neuro (dementia, stroke) - onco - cardio",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/promo-bot.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/promo-bot.ai/",
+      "path": "_companies/zenrobotics.md",
+      "title": "ZenRobotics",
+      "excerpt": "ZenRobotics is the world’s leading supplier of robotic waste separation technology. If waste sorting was invented today, everyone would put robots on the job. That’s because robots provide a new, more efficient solution to an old problem. Robotic waste separation will revolutionize the waste processing industry the same way that industrial robots changed the automotive industry. Only a lot smarter.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zenrobotics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/zenrobotics/",
       "type": "profile",
-      "name": "Promobot",
-      "overview": "Quantitative Imaging Biomarkers - QuantibBrain (FDA/CE) - innovative SME - image analysis services - machine learning - neuro (dementia, stroke) - onco - cardio",
-      "website": "https://promo-bot.ai/",
+      "name": "ZenRobotics",
+      "overview": "ZenRobotics is the world’s leading supplier of robotic waste separation technology. If waste sorting was invented today, everyone would put robots on the job. That’s because robots provide a new, more efficient solution to an old problem. Robotic waste separation will revolutionize the waste processing industry the same way that industrial robots changed the automotive industry. Only a lot smarter.",
+      "website": "https://zenrobotics.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/zenrobotics-ltd/",
+        "followers": 3296
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/promobot"
+        "url": "https://www.crunchbase.com/organization/zenrobotics"
       },
       "twitter": {
-        "username": "promobot",
-        "url": "https://twitter.com/promobot",
-        "followers": 568
+        "username": "zenrobotics",
+        "url": "https://twitter.com/zenrobotics",
+        "followers": 1504
       },
-      "yearFounded": 2015,
+      "size": "11-50 employees",
+      "yearFounded": 2007,
       "locations": [
-        "Warminster Heights, PA"
+        "Helsinki"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -34,50 +39,50 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=7Ju3aMH-fyk"
+          "url": "https://www.youtube.com/watch?v=9I-Th926Ly0"
         }
       ],
-      "heat": 48,
+      "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1287728520580534272/Su_3X8uA_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/522407174979350529/coE5Wqh0_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Promobot",
+          "title": "ZenRobotics",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/bossanova.md",
-      "title": "Bossa Nova Robotics",
-      "excerpt": "Bossa Nova is the leading provider of real-time, on-shelf product data for the global retail industry. Its technology collects terabytes of data that enables the retail ecosystem to optimize the omnichannel shopping experience. With a multidisciplinary team of robotics, computer vision, artificial intelligence, and big data scientists, Bossa Nova has solved the challenges to deploy fully autonomous service robots in busy and crowded environments.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/bossanova/index.json",
-      "webUrl": "https://everyday.cc/ai/company/bossanova/",
+      "path": "_companies/wasterobotic.md",
+      "title": "Waste Robotics",
+      "excerpt": "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS).",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/wasterobotic/index.json",
+      "webUrl": "https://everyday.cc/ai/company/wasterobotic/",
       "type": "profile",
-      "name": "Bossa Nova Robotics",
-      "overview": "Bossa Nova is the leading provider of real-time, on-shelf product data for the global retail industry. Its technology collects terabytes of data that enables the retail ecosystem to optimize the omnichannel shopping experience. With a multidisciplinary team of robotics, computer vision, artificial intelligence, and big data scientists, Bossa Nova has solved the challenges to deploy fully autonomous service robots in busy and crowded environments.",
-      "website": "http://www.bossanova.com",
+      "name": "Waste Robotics",
+      "overview": "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS).",
+      "website": "https://wasterobotic.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/bossa-nova-robotics/",
-        "followers": 6109
+        "url": "https://www.linkedin.com/company/wasterobotics/",
+        "followers": 287
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/bossa-nova-robotics-inc"
+        "url": "https://www.crunchbase.com/organization/waste-robotics"
       },
       "twitter": {
-        "username": "bossanova",
-        "url": "https://twitter.com/bossanova",
-        "followers": 1217
+        "username": "dirtyjobrobot",
+        "url": "https://twitter.com/dirtyjobrobot",
+        "followers": 333
       },
-      "size": "51-200 employees",
-      "yearFounded": 2005,
+      "size": "11-50 employees",
+      "yearFounded": 2016,
       "locations": [
-        "San Francisco, CA"
+        "Québec, Québec"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Seed"
       },
       "topics": [
         "AI",
@@ -85,24 +90,17 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=KykP6wTp1Qk"
+          "url": "https://www.youtube.com/watch?v=QbKA9uNgzYQ"
         }
       ],
-      "heat": 43,
+      "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/910869076137754624/QiqHVTEC_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/793405645873479682/RvYzd1Xi_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Bossa Nova Robotics",
+          "title": "Waste Robotics",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQGkIVm7tNe2WA/company-logo_200_200/0?e=1594857600&v=beta&t=liRlIUvnt5np9B6n04CejPt4Nag9vpPrpqm5bIvygWU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"

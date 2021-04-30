@@ -2,7 +2,7 @@
 name: "Clearbit"
 overview: "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud."
 type: "profile"
-heat: 74
+heat: 169
 
 website: https://www.clearbit.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Clearbit"
 
-secured: "K3GG/FfpbjL9YXteqePCpUNq9JEnUS24qGgGLgArPKIM2mlP2jPKnG40oOc0kvDmxqAjkSReGwswO9JZAikqssYyZIEOtJrJBl6wbib5dpFCFPPZfp2tfNgNJxXazgbf2BwZnPiXJr3rxCDlvaZ4vXY76YV05d4BpDFDxkGiw/2r9a8GQ8Vg40n0gYpBMZK0cL+Gx8QiXSui6n7e7KFHNrbC0iXUfoqYlpZ+rQnENVWWQvAStnim2wUVHrtzFhWeyGQ5q0lKaMHoBEmVkvp9VoLgcq1nRnOdmEMJuu9HLU1g2+OJYdughOagR/OQpeFSO7k5OQL/GDczL3ebdCVC4SYYbxU5O+wh2ld+BOid11vXeeyF5VyZ5izMeQ6FiXBFXTh3nsclZHcXHNA8GFZkzOOGAvlzoC+Q5453U3Da21k=;r5juQZQaC1ovsvvvTXJyDg=="
+secured: "J0TY/RPcIu+dI9B0RVqz9SveXD0mgBGetovwY2VaEZpknPpXvBskhQJSOJdVXbTJsGWMtvFuDwWwq2YT929nsNMJc9D8/k3WOS7aiwZhmAgrfkyTXiabC3D8ZABcdDD4mzLERBFPGZDmif0Z/GrVj1ePwZm2wrJDAiZn/dtQalovLTqSCo640HjcSIHPhEmEiKGDnVO+NKNN3kEfCQimwdiwAarfkS5Q06FFj+M11IeQH3IzMg0HctmJCuXi9bG5WBB6le1XGp4jibUJPNwRXODJ78nC3MMAawekwxPAVsmqTQa3w5ZWaO1XNLcbTVJXTlG+dY2zarzWJPWHZVRL9JLgKNS2RpWv1LvtuY+KSUAmsolip9JIr0chZLLAhOQb+ChIiKtHmvrDTrsRVPSyQd6uRP2k8fDXSDuew7sS+1U=;Q+vBMmRC4A+Mn9rdKH5qXA=="
 ---
 

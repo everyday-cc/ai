@@ -2,7 +2,7 @@
 name: "Moveworks"
 overview: "Moveworks is a cloud-based AI platform purpose-built for large enterprises that solves one, big, frustrating problem: Resolving employees'​ IT support issues. Instead of tracking issues, we use advanced AI to solve them, instantly and automatically—with no human intervention."
 type: "profile"
-heat: 86
+heat: 92
 
 website: https://www.moveworks.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "moveworks"
   url: "https://twitter.com/moveworks"
-  followers: 3126
+  followers: 3127
 
 size: 51-200 employees
 yearFounded: 2016
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "NlS7R3UeB/SwSeQNf2Sth/7mEkeDv/UKnP0l5UGc7wWns75EEHdiZbeclugi3JJ4Yn1KMIIZsCh9rwC8oyR50CD1z3YppxLSGPUguGvr90XSim2WGtFPzkluOZk4LoIX3d+qv5gIy/eI8zujByFFgEjxUZz2nmcRJ0KaLDWDlX6v17UUUNbSW7FgIR30Qvz6uLfkw9iTiJ9zTTBFIjef6U8wRw9/3AA2VuPpxHhEz0/jUmlER/k4kq1L+bekrjThLmYmFpTDenwE4Un+bCOf6HSYStBtaFNeDPM0IsFYq9TrmM08fwPIcvZ31xW7Tb0Y53bKMl7DOUC9iAooY4Fm9pX+f/l/Mh2OHvrtAhukixHYN8UjXxrcH+ijoET1X9u24TQoznTq5JANf/DK1x1HkA==;28Ivi1MNKJzMDIJoznCElQ=="
+secured: "zsW+r9vTbl52SGSHOn0uBAr6mrPNQDTwhB73JSFhpWRs8L65dZFT6jetI4FAgkW1uMv6kdaHadOqkkkjEe0425ps1UvO5dZe1NJ4GzBjQOpAqw8+1SFZmC6uEmlS0dHlDf8BEguykISZLveIVS+dNwm2RgGoEeMrhDV49Bz07VCQljT5FZgv3uy5XePBr+DBFgj3iyKbIJUHHafc7UTnrIt0NE8KqvMBX3US+VmTOyMOadJqJfeHunJEHTaw8KkpagXn4p0CUoE3poJd9Qd5QOdU517XX+JSsV0bSJ7hSxBLQz2ZeSw/3yF/LYn/fZY6oJyzKuu3jNlxv37+j9GeFZl3sds5ZngvHrxNqv5w/sD6+NC3jsIDXSSw13Eem1QEI2UJcuEJmDDUVFOAtowDWFDp5831MRaw/uKBZeSJ2hs=;qWQQ3A++e21wN0pKjo7NaA=="
 ---
 

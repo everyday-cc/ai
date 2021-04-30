@@ -2,7 +2,7 @@
 name: "Intel"
 overview: "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute."
 type: "profile"
-heat: 45
+heat: 6
 
 website: https://www.intel.ai/
 
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "+r/mYe7GrmCP7RzmhtrdArvXHY2IVDF/P17qYg2EuGJeRUA0o+tR4HiL5xk54UrwHfcI+BEkfVMzg7C8JeIacWKtcjYk9+csp3yi0rxEEYaQr1yuamx/dcHurszETuH8fvZKBqAUCXnqgqRc5MiVg7xy7wdGsVHpQKOjEwfS1OKURk9OeurANiHfWZaqvxenG4twTtdgu125s10YwMdRVPPcdwWzHyoHyGGtOIVMPTJewIs7YPBcutqTIqFzVgBJWQtMy79w8giFQHGpb1jZvOydzmGMDAHVORPt+hGGSbNx0FbVNRW8IKkSIaFNdcz6eyQ+SneCSHsNLSkRfX/7TrtSjNxcnDwyNvfdZgPvA1uC0/cdHFld8ZNEJSbxT5XlcZnBUDe49FDz6r2hzLXLWpt+XibmpqQvPFzI/cW6kRQ=;dePJ6imgM2+RjUrlmo5DAQ=="
+secured: "QvSnYY5wGB4vtdSGGx0P3zvAyUn6XmasBu2iWY/jgpDfvhucN+VOjXgtkGnxdomOUystsOAQXAmcHczWAWSjasm2uPHneXclTdgH+3M776VXiXYbMjQ229uLbHSAbaf/kLLBvm56XDcoSmVgguLMoQp4TsX4+biBPJDo7iFnzV+sbdOy9DULdxAHUmqNY8CXpuHBbl/2NMPTsg4wV5N2Wh4mr6CzURfvNYmPa7LjYAQKh4J+laWr3xz8woUUBwYFE6hdOQEZ6gsYckRBtNXykgX/qIDh9H/6jlgTqwMfhOuryb8cbbZPYESH2A6cXwiKFzYxDu4xsq3h89OZ/yQj+Ic4A81pujN7oiwrYBpIgQXxMziF+QvfbCL9bJTm8EzYYNF8nT30MAg54Q3N9pB6UeXtP6UYDAmPOGQi8sIj9LA=;j8W6LcwPhAUnSYNHXJ6uSg=="
 ---
 
