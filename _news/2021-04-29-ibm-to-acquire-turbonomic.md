@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud"
+    excerpt: "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT"
+    publishedDateTime: 2021-04-29T15:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "IBM Spends Up To $2B To Buy Turbonomic In AI Push"
     excerpt: "IBM will integrate Turbonomic’s ARM software with Instana’s APM and observability capabilities plus the ITOps capabilities of IBM Cloud Pak for Watson AIOps. By Wade Tyler Millward April 29, 2021, 01:12 PM EDT IBM hopes to boost its enterprise automation offerings with the planned purchase of Turbonomic in a deal reportedly valued at up to $2 billion."
     publishedDateTime: 2021-04-29T17:12:00Z
@@ -70,20 +84,6 @@ related:
       - url: "https://www.crn.com/resources/0267-11dbd4e35679-ae0c062583d5-1000/merger-400.jpg"
         width: 399
         height: 399
-        isCached: true
-  - title: "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud"
-    excerpt: "IBM (NYSE:IBM) today announced a definitive agreement to acquire Turbonomic, an Application Resource Management (ARM) and Network"
-    publishedDateTime: 2021-04-29T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities-for-hybrid-cloud-301280441.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
         isCached: true
   - title: "IBM to acquire cloud optimization provider Turbonomic for reported $1.5B+"
     excerpt: "IBM Corp. is acquiring Turbonomic Inc., a Boston-based company with a platform that helps enterprises reduce cloud expenses and improve their applications’ performance. IBM didn’t disclose the value of the deal,"

@@ -24,6 +24,17 @@ images:
     height: 586
     isCached: true
 
+related:
+  - title: "SiFive and Samsung Foundry Extend Partnership to Accelerate AI SoC Development"
+    excerpt: "SiFive, Inc., the industry leader in RISC-V processors and silicon solutions, today announced the next phase of their partnership with Samsung Foundry"
+    publishedDateTime: 2021-04-29T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210429005316/en/SiFive-and-Samsung-Foundry-Extend-Partnership-to-Accelerate-AI-SoC-Development"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
+
 secured: "GrdUJWKJ3IaZyEFADNx81DrcXYhscuSnbZ0TbeL6bowgs9GW4koF1cdumxs1dwTSoP5QKZFlM9kiuh4aQcsIraTT+S0IMtby8d4NbyWSZYfXBmvHAk8Rf0LLbCSbHED3FptxhpTZrRLAnnDAlJzAKWti2pijRs18MoLA1bWv7SoJT2v88B/XdOs830FusTstvskxXhn27We1AMUjzbQJBA96yO0n6USUTVYM8Evr49iUl22gxy1rm8J0GBBrwaFM1gyUGgs1I7gWmNQpPJB6Xiyod+6yES4VK/tjRb9PCVqIEqKu5vU0FdXM9oq/FyWoXWN88LCelWXFpK/ZlD3Lgh7OPW/WpMUcydRcL3tyDtg=;QWsMOz9BzNyxqL8/J19EiA=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "ThinkAnalytics Announces Support for AWS for Media & Entertainment Initiative"
+    excerpt: "ThinkAnalytics adds personalization to the AWS for Media & Entertainment initiative with its real-time content discovery and viewer engagement platform that has been integrated with more than 30 AWS cloud-based services."
+    publishedDateTime: 2021-04-29T00:00:00Z
+    webUrl: "https://www.streamingmedia.com/PressRelease/ThinkAnalytics-Announces-Support-for-AWS-for-Media--Entertainment-Initiative_52358.aspx"
+    type: article
+    provider:
+      name: Streaming Media Magazine
+      domain: streamingmedia.com
+    quality: 51
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/137781-InnoLive-ORG.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Codemill announces support for AWS for Media & Entertainment Initiative"
     excerpt: "Codemill has announced support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to simplify the management of media productio"
     publishedDateTime: 2021-04-29T16:28:00Z

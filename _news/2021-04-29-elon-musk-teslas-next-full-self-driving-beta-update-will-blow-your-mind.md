@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk hypes Tesla Full Self-Driving Beta driving visualizations with new update"
+    excerpt: "Elon Musk is still hyping the upcoming release of Tesla’s Full Self-Driving beta and now claims that Tesla Autopilot/Full Self-Driving Beta are already ‘superhuman’ on the highway and getting close on city streets."
+    publishedDateTime: 2021-04-30T00:27:00Z
+    webUrl: "https://electrek.co/2021/04/29/elon-musk-hypes-tesla-full-self-driving-beta-driving-visualization-new-update/"
+    ampWebUrl: "https://electrek.co/2021/04/29/elon-musk-hypes-tesla-full-self-driving-beta-driving-visualization-new-update/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/29/elon-musk-hypes-tesla-full-self-driving-beta-driving-visualization-new-update/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 83
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "bTiVKH1als5hBR39MJRrcAjoOIQqWSYK9dm2h0u+6JcEwhvZzHaSJfQHILn0WZSN/gAZUOtAVkHNrvvfrgDzDLLf0Dy+8FSCV16QyCgAMAwS0NEQMCxWTaYjLyO/4gTZJAbGA5a7wST/eAJcQAhKhqXP1bnBG7RpoQ5bIZbMYQh2ND2AObnFpPsvApIpI4MqIvFB5LKBAQ6wqC1TEz17xBfIb1a+O2I/ndovWFahFKatLud3DVpg9J9ey1IcNe4ErDXA71K8vlrI2zZizT5AyG3CTEIGZZb8803yIpJS/fg8bcfsFq6pQi85lmJZLqMYwSRYkslgYMghCiQVetd2g3rdhQnQPHbHJKWHPmq3jDEdFCa1PHqN7CqmUztX9aDzdhEZxG9I8OBUw4qxN1bpzVnzdSBnhshp68xKFQkwk7euuiJqOfeG/nIpp5EBizPcRubXX1XLbOexsiFwnLpevA/+usdtwojT7rk/dmZxzo696rkA/XiLTLQ5R7jjxgFHo7E88dJCR1v31ZB2ssnrhA==;P/9Dw9Oe4eFj922HnLVYGw=="
 ---

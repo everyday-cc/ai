@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Launches Robotaxi Service Outside Beijing. How ‘Fully Driverless’ Is It Vs. AutoX?"
+    excerpt: "Baidu, the leading search engine in China, has launched a robotaxi service in Shougang Park - an industrial park on the outskirts of Beijing which will be a site for the 2023 winter Olympics. How does it compare with AutoX's offering and is it the first?"
+    publishedDateTime: 2021-04-30T00:06:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 95
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b4966a43cfa314e532181%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Baidu to roll out fully automated self-driving taxi service in Beijing"
+    excerpt: "Baidu's robotaxis will be hitting the streets of Beijing starting at Shougang Park, one of the venues for the 2022 Beijing Winter Olympics."
+    publishedDateTime: 2021-04-30T01:29:00Z
+    webUrl: "https://www.zdnet.com/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/30/eb7f4669-5ff8-4dff-9f4e-225845d30363/baidu-apollo-2.jpg"
+        width: 3792
+        height: 2528
+        isCached: true
   - title: "Baidu will offer first paid robotaxi service in China next month, letting people hail rides without drivers"
     excerpt: "Baidu will allow people to order autonomous taxis on May 2 in an industrial park in western Beijing as competition heats up in the race to develop autonomous driving tech."
     publishedDateTime: 2021-04-29T09:08:00Z
@@ -120,6 +152,6 @@ related:
         height: 724
         isCached: true
 
-secured: "w9OV/YPLzGfUptgNhttpk5H8vb6T3NpZpCqAaC0l+GPptUPIPdHmtQRTQuYQ72ebVpkuUdG4QEeeoKQ3+eJKQWIFvlm2DSNYnnUTtCQhmqAQD7xVseuNt1kPMD9o6GJOBj3FPxvgAqqtcuPnJG+oJjEH3KtnzmVD3GGeZBlsivceubFZcFl1MiqWZoZJDsd3LC+eg38pRV68BC/4JDgA9Rn+6S00Jr5sFwwDgJZkD7qxk35/PjGDS3MeBeBiOwnSXbRgzefaidxj2mo1yFWvi68nTBJQch5gZkcRoSZFeFPKHR1GtC2x40G/u6Z0AnUrJ06SvEFm4zZq+mS6HvkXE+uP65RUbmHoUl43UW+GRkU=;ZYFSSqFt2bOceb3oym1zfw=="
+secured: "j7Rqr35AocMdU9pfOuiBcviCCEWN8iyY50pa1Z2vdwtqibx5CSDpBdGGUFoHG6UfGQjfcPnyjnRZQqnFvp5LrLekaoEoVQTo3mJBtozPl914SOzrZv7ZhD2k21M51geATM7pl6hvJqg4qFKkC7gopZdOLWnslgdgZrMl87m8MimzA+DuyAsHw948ayCXvttP+p3R4DOg5NxF+RpJ0gW7v0UcTRbEkXfU8j7NvafYs/YdZctR4KEWrIHR8Jc19NNAhEJ9q9vEaxfEG10rVHmDGb/0YASC/52In7TvNxb2TClFNE/skAOzMU6hRjPflvj828O/flJ7lGCb0j4ehIeWWapVtoHbdMEfHV2xmFEzRRkEx6N8HS8VTIY0enKVT/wTsWibX7QjFJSrOaJzNWmRI2NCbh6dAJ32MfeGtf/BIw94pV+gujG7b41AVEM1t43ArReAwZI+4Tes3kdslUEWi1ZJ9Qlz1oDutTVJ98lqPnwwPUWZvcdy0wmxbMgEIZl9JQpWb06D09gCY/UEqj3ong==;N48iArMgZ95L1ta8Q6uamg=="
 ---
 

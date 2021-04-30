@@ -3,23 +3,23 @@ category: news
 title: "False facial recognition sends innocent New Jersey man to jail"
 excerpt: "New Jersey police arrested an innocent man on unlawful possession of a weapon, resisting arrest and aggravated assault charges after he was falsely identified by facial recognition technology. Law enforcement agencies across the country use facial recognition to generate leads on suspects,"
 publishedDateTime: 2021-04-29T21:35:00Z
-originalUrl: "https://www.wsfa.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
-webUrl: "https://www.wsfa.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
+originalUrl: "https://www.nbc29.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
+webUrl: "https://www.nbc29.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: WSFA
-  domain: wsfa.com
+  name: NBC29
+  domain: nbc29.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.wsfa.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG"
+  - url: "https://www.nbc29.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG"
     width: 1200
     height: 671
     isCached: true
@@ -43,19 +43,19 @@ related:
         isCached: true
   - title: "False facial recognition sends innocent man to jail"
     excerpt: "False positive facial recognition match sends innocent man to jail."
-    publishedDateTime: 2021-04-29T21:25:00Z
-    webUrl: "https://www.wndu.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+    publishedDateTime: 2021-04-30T00:23:00Z
+    webUrl: "https://www.fox19.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
     type: article
     provider:
-      name: WNDU
-      domain: wndu.com
-    quality: 56
+      name: WXIX-TV
+      domain: fox19.com
+    quality: 54
     images:
-      - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
-        width: 980
-        height: 548
+      - url: "https://www.fox19.com/resizer/iktREBH3nYO2ESk3ZtTzKpEAvHs=/1200x0/d1acid63ghtydj.cloudfront.net/04-29-2021/t_0109d6ff2ea04285a924888a2a57467e_name_Capture.PNG"
+        width: 1200
+        height: 671
         isCached: true
 
-secured: "LeONURq4Ejj22jgMsEHfESK8mrmkWl1peeFrlQhcDRmiJvtuRQo2TmiOi1ym9Obk7a8bYxV8yhFAZhZGEIOjKPCCnR4xoSXe1vvkvkVC/zpo1bx38uTvmR7azB+tgb91hEoFMGS5nPKXnmeJND1k5aUYKxlULB1wTHui5q/TVOlulHvxiDvrDKX+vu/KF2Yihw3n7bCZsa54Lem5zGn8qMGPkvYrS08FLeRJUroepomZEBrTJ/6U+7oz4QZwIf5/JjnwVWRrDFMbOachMwKjPoR98RqZMHoGXYMHiUCQYdMlIpaRF5Ek1Hfu8wj1+VWCpn1XSWM74VL2bnuVvJK9TaYIY6EcJub/VF3o76wo1Hl+VbhqS+RtQ4EPlRHuNB9BxhQBiXZmKbrrMlZzzZOiusQM/jKn1mf9ErP3Id2olC11zd+vocogcbR2Trq24iZt+sZrQZY6DOylzXP6ZFTp2M6xxO5mEFG4YRyHUD2YKuIuSnQCl8BaMQ7NjNJaQt75OkhIjjWpxsuVGFkSceTPgA==;YizOYELWHuD47ne9ulddZA=="
+secured: "0F04VN+cRV025U0TIbDZHjSPGe/ID00cUZ8GIEMxZW1oYifBttytzjeHQ9tD5jqS0fock/lBZLwo46ZJlpwvqUAePN2KqmU9ggZUO0V5gMjB/FLea485qYjsKLudfYZf5RXzWuFyhXCpwF7Ma3rwWS/Dlqul8lLZGQL9TbubWW3Y6P0TgGWJv3v2sVYIbJlsjjx8dqHfJHds0JyKQl9tdE0TAuDaMOnJFSnL/jxCjIo3H8nvF3RiE1ZPbHmvLU0hdittCg6maf7EWgOLadfJ84O3h7IbLQGql3TdE0T7+gbWbT4JfYzf0iOykLkiEJxWAnBNR+xHCp/DONH1klKhGC0Hx0LWFkK5EZREApRRMxM=;Zg2UacG9//xE6R6N/OTITQ=="
 ---
 

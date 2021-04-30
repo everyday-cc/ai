@@ -1,18 +1,20 @@
 ---
 category: news
 title: "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
-publishedDateTime: 2021-04-26T16:40:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
+excerpt: "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), natural language ..."
+publishedDateTime: 2021-04-26T16:54:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20796180"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20796180"
 type: article
-quality: 21
-heat: 21
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +22,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630"
-    width: 880
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1496629/AppTek.jpg"
+    width: 400
+    height: 286
     isCached: true
 
 related:
@@ -36,6 +38,6 @@ related:
       domain: ieee.org
     quality: 0
 
-secured: "5Jp0TQP91/ys6p1b5JyIJDyDY04insPEn0XTSvOMtXQDnYO8mn3iHXbXxrarYY6cvIKJqeMNmxyzdxIZrrBd8Bd0FMgw+dqGQgZeqFSPk1fUYcfdVegRxiP6kTxH37iQI5nar9NYBRz8jbmok3IzL7vDgSgt+9kYQyhHkwJlnxYm8moZ2xp4RA5j7a07Qt/U2sElNBLVh/rHMo2zi3Cv+KfD8smo6Am8d601hW8Cj9gsUU7AxdSQjOLTFA8wM9W3HFS9h4E9sfsQn+Ni/ZYO5psF6EEMrtI88VUbqCIAB7HX9kVW1l0GQEKsKgxx/rG1TCaUNPytLB+wegKsGRR8P9rO2GoiMTEzZ49GvO/EfCc=;Y7M5FJ5hsGxoorc1jkzIHQ=="
+secured: "ygHW87T3r2/7dcNCGXJvl61qNrfEjw6vmV9tBFaaVMsBdq2ptjboFCY0DCfphHjMyDdwQqn+c596p4R12jmNlTfa5Gd5g9Quaaa123HDXqR5sPF1bY7KZa1y/I5xCiUTm34bwakTRQcglZNi2WrCem4LDIFNpxraujMsJYxL5JGc5e3+nEJ3gwxDclPV3+IVoIoNcJTqLPZ0/d9jhlZBIw0nj8Euk3IJNhPDtwlnUEeQDPp3y94FgwVzwtj5WyrJD1PXHDyNp0WIHlB2p5ymp/LYxjPPtPV8z64EdBdVpROHinEDBWRdvIWorxdvO8h+PSDVdRiDzAaGViMBAUOn433m89keZDvPtEKUqkVzhPo=;EiZAcp7AJKoESLjN8eeJlg=="
 ---
 

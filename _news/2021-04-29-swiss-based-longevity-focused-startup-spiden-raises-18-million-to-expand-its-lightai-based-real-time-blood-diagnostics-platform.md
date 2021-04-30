@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Swiss-based Longevity-focused Startup Spiden Raises $18 Million to Expand Its Light+AI-based Real-time Blood Diagnostics Platform"
-excerpt: "Spiden, founded and run by serial entrepreneur Leo Grünstein, is coming out of stealth with an announcement of closing a $18 million financing round led by digital health app Ornament. This press release features multimedia."
+excerpt: "Swiss-based longevity-focused startup Spiden raises $18 million to expand its light+AI-based real-time blood diagnostics platform"
 publishedDateTime: 2021-04-29T16:45:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/europe-health-technology-55b2740564e24f708cb7718c4abfde25"
-webUrl: "https://apnews.com/press-release/business-wire/europe-health-technology-55b2740564e24f708cb7718c4abfde25"
+originalUrl: "https://www.businesswire.com/news/home/20210429005926/en/Swiss-based-Longevity-focused-Startup-Spiden-Raises-18-Million-to-Expand-Its-LightAI-based-Real-time-Blood-Diagnostics-Platform"
+webUrl: "https://www.businesswire.com/news/home/20210429005926/en/Swiss-based-Longevity-focused-Startup-Spiden-Raises-18-Million-to-Expand-Its-LightAI-based-Real-time-Blood-Diagnostics-Platform"
 type: article
-quality: 8
-heat: 8
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "RFTEdYgVxaKsru4uZ+/ZpvvOwqyopjl7SXOn0tzoNyApPMcNNRBJuh9MK1cj7yoQQUUUTSjXPTWUn9rM6wDSv52mkB1SRwwAKPWbz0dA775jT/ZYPZIePCBfeDczvlz8HtE1trVUdiZyqUDvz9ZmYC7OXepZ6syLjc6INwMepWOa1lJcbKP+gCCvDM+zZrFMb1GyGjKx6kcfrEaCr2MGwdosJLXrbn+NW7Iu10iiEJufD/nW9GWv3RLldvxmkXFlLzmy43gELFDOzEwaRO1o7/YEfHjaEqCEUHEfOaqu2vJ1cyYIphpsr0PeMWwxLc+H2ccXBvBHEMwPrG7mYMCVVQlbBJzAikcKngAoCd7WIUk=;flKbJ8oK9rACtT1RMCKxFA=="
+secured: "6sg5S6U6DeMyF4qWflpaMVOZ82GIA8j6gLhpX/RJ5EZeI2gkgLSIQ3bZ8AhzOLkSv2iPZP3jTat5aUcT14os96J2d5ndNCfAhlsjFtmoz70wTicwTpltRkgZ5ku28317hJeSVpayC3sA8LXXCXpyk1jMHndd6DIloTXIDmNP8Sph2gbChZ36NUYbKwZDtjEBkVlwf4SWDryqFYb59zptrHvtelz1TzXLnxVT/wC3oqn0acLEPFIvDOVCRmNO33xZgmV4OI5HNyD6KZQY/rmoh0TEzlVbgpruK10t7ZM1/WKeEGuutLPXff4b92uRZof9TrcRUXCKLRRRR69Xtv5ppLwUajmgj4UgKpDOIjQLACwxQHui7BAeeNIqm4rfFF635pkI6k7l2ffm85OYYaUl63ugZdYVIF+lvLQnxqi+HbBporYwiyCJLPMu1YBGOGNP05Q+kSoHVT5l7vmygHDrD8lLhdhyoQObbNnM2jucmiuUDH6yINxUawHNn3X3QtXb6m3lUMcB0pnaGYw1YBIznw==;MPWuT0uF3K5GvW6UVh6Y8g=="
 ---
 

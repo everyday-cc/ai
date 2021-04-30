@@ -58,18 +58,18 @@ related:
         height: 800
         isCached: true
   - title: "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud"
-    excerpt: "IBM (NYSE:IBM) today announced a definitive agreement to acquire Turbonomic, an Application Resource Management (ARM) and Network"
-    publishedDateTime: 2021-04-29T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities-for-hybrid-cloud-301280441.html"
+    excerpt: "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT"
+    publishedDateTime: 2021-04-29T15:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
   - title: "IBM to Acquire Turbonomic"
     excerpt: "IBM has a definitive agreement to acquire Turbonomic, an application resource management (ARM) and network performance management software provider based in Boston. The acquisition will provide businesses with full stack application observability and management to assure performance and minimize costs using AI to optimize resources-such as containers,"

@@ -27,33 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "RSNA: Researchers Use Artificial Intelligence I to Detect Wrist Fractures"
-    excerpt: "An automated system that uses artificial intelligence (AI) is effective at detecting a common type of wrist fracture on X-rays, according to"
-    publishedDateTime: 2021-04-28T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/rsna-researchers-use-artificial-intelligence-i-to-detect-wrist-fractures/article_dc085632-0ee3-5da6-aa5d-b122e5e64e89.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 40
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Researchers use AI to detect wrist fractures"
-    excerpt: "An automated system that uses artificial intelligence (AI) is effective at detecting a common type of wrist fracture on X-rays, according to a new study. Researchers said the AI-derived algorithm could help speed diagnosis and allow earlier treatment."
-    publishedDateTime: 2021-04-28T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-04/rson-rua042621.php"
+    excerpt: "An automated system that uses artificial intelligence (AI) is effective at detecting a common type of wrist fracture on X-rays, according to a study published in the journal Radiology: Artificial Intelligence."
+    publishedDateTime: 2021-04-28T14:55:00Z
+    webUrl: "https://medicalxpress.com/news/2021-04-ai-wrist-fractures.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 39
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/263091_web.jpg"
-        width: 720
-        height: 498
+      - url: "https://scx1.b-cdn.net/csz/news/800/2021/researchers-use-ai-to--1.jpg"
+        width: 800
+        height: 480
+        isCached: true
+  - title: "RSNA: Researchers Use Artificial Intelligence I to Detect Wrist Fractures"
+    excerpt: "An automated system that uses artificial intelligence (AI) is effective at detecting a common type of wrist fracture on X-rays, according to a study published in the journal Radiology: Artificial Intelligence."
+    publishedDateTime: 2021-04-27T18:30:00Z
+    webUrl: "https://www.medindia.net/health-press-release/RSNA-Researchers-Use-Artificial-Intelligence-I-to-Detect-Wrist-Fractures-523768-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 38
+    images:
+      - url: "https://www.medindia.net/images/common/covid-19-package-1-300.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "CXdgtpEw08BC3YaYfmBlS/knYfNxTLeRJB0ayNU/aSlxAJb8rO4FT+t9/pTe7iGsk/gz63t7ANd4R7NP7ABrN2NR4VcOlmbnCKn+tvqo3EGAS1sK7kDHdmtr+CSdkykjdyt80wkIMxL+XJeB93VM56Dw6kEk3sm8XCccl6E/vsW3EShoHD8Y2cChAfi8+5hWRhuQ8+rHIhq8ZKQszJvFN/ToaMralcN5jDvgdcIYyMCoX5gzKVFzIxpX+poyLVn/jTmoqSHCznSVML+JOfneG/jE5ao1oxtqjnvjYbFC52nhByeVh0oH46LX9CpT26nyO1C9gufFUc7XpfkOu5tv+SNCipriUikMHDLNxJePAb0=;6bU5KgLh3kJ8E4dPYsqBkg=="
