@@ -37,6 +37,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "The Drive to Make Machine Learning Greener"
+    excerpt: "AI systems must be trained in massively powerful data centers. Now computer scientists have discovered that small changes can dramatically reduce the carbon footprint of this activity."
+    publishedDateTime: 2021-04-30T13:43:00Z
+    webUrl: "https://www.discovermagazine.com/technology/the-drive-to-make-machine-learning-greener"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/cpnjwBeoJTzA7ku02nvlR/42f8bca19b44d12f788377cadb6a5adc/shutterstock_748817821.jpg"
+        width: 1000
+        height: 700
+        isCached: true
 
 secured: "TezO0QH74h5WltBlyg/0Vd+VwmhkVYQob1E2ms9mHceBLiz4GSKMlncVYzkWTvqOXg+c2kVRSDR5H5iCNBZeQtspEkFdvyXxw4+kmwLodVXvQPbvkMGC6vpfrgDi4HIMcnFN5SMBUHsrDKOTR3myQTqD3Ceiy8r0jkJwzC+wsIm278BEHmTPAlYFB/BanjY9HssNyZLBSRXF3HgE+1guf08rPGWoEVJjA3xCVkLVh0wOO5MrZXqyIrPPQhbkaTPAii++WyDQvxx6j6vEWtNJ1NfN22u359TiQ3WS7PjSf9jqVZ03QSWNBnPCPyD/yg3Gz8jAYwT/2Qe7j5DHZfuoKqiZALj+n6q1o3zqyS99KA4=;ciuwI0jJirFtsidNh40Ysw=="
 ---

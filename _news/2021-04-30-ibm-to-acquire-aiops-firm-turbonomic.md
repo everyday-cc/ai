@@ -1,33 +1,27 @@
 ---
 category: news
 title: "IBM to acquire AIOps firm Turbonomic"
-excerpt: "The announcement follows IBM's recent acquisition of Instana, as well as the launch of IBM Cloud Pak for Watson AIOps, which automates IT operations with the help of artificial in"
-publishedDateTime: 2021-04-30T11:24:00Z
-originalUrl: "https://www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic"
-webUrl: "https://www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic"
-ampWebUrl: "https://www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic?amp"
-cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic?amp"
+excerpt: "IBM has announced plans to acquire Turbonomic, a network and application performance management software provider, for an undisclosed amount. With the acquisition, which is expected to finalised in the second quarter of 2021,"
+publishedDateTime: 2021-04-30T12:01:00Z
+originalUrl: "https://www.cloudpro.co.uk/saas/9058/ibm-to-acquire-aiops-firm-turbonomic"
+webUrl: "https://www.cloudpro.co.uk/saas/9058/ibm-to-acquire-aiops-firm-turbonomic"
 type: article
-quality: 89
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cloud Pro
+  domain: cloudpro.co.uk
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1619780773/itpro/shutterstock_ibm_stripes.jpg"
-    width: 1260
-    height: 710
+  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/11/ibmthroughleaves_shutterstock.jpg"
+    width: 1000
+    height: 637
     isCached: true
 
 related:
@@ -107,6 +101,20 @@ related:
         width: 399
         height: 399
         isCached: true
+  - title: "IBM to acquire Turbonomic with AIOps dominance squarely in its sights"
+    excerpt: "IBM is to acquire Turbonomic, a Boston-based APM software provider, to help organisations with their AIOps initiatives."
+    publishedDateTime: 2021-04-30T12:21:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/apr/30/ibm-to-acquire-turbonomic-with-aiops-dominance-squarely-in-its-sights/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 39
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/01/iStock-458622753-1.jpg"
+        width: 1254
+        height: 836
+        isCached: true
   - title: "IBM to Acquire Turbonomic"
     excerpt: "IBM has a definitive agreement to acquire Turbonomic, an application resource management (ARM) and network performance management software provider based in Boston. The acquisition will provide businesses with full stack application observability and management to assure performance and minimize costs using AI to optimize resources-such as containers,"
     publishedDateTime: 2021-04-29T16:20:00Z
@@ -145,6 +153,6 @@ related:
       domain: insidehpc.com
     quality: 19
 
-secured: "pGiwAsOj6w/0grD+FhaRERjjl/VeYSxq2/ToE6C7iMkYefIixoXo3nj1g9yMTDEqQc03XUGJeiRAbSL/1YXmogEPKYfEUx6FZeEa8+1nSC4ABiYRWGkcb1dIZVqGjVqOx5jbeXRxkEtRdsCliidMqsN8U8xP88M8bqO7ExeVwd71eN7hnkIRJ1WfQZ4ko1PxcQeviTlLhIG/NzzYSdY8FZ16lTOG0kldmHiMtW3AsYTlE7EKvqM0Rja7oBK5KyyfA8zGEqrIQ3C6swoAFPRPNVucjBuWQUXjB9PMHR6YjZxaWehDDtcz3iiLdirAwtYrH4MxxYa7+Y0BLqIhCwERgbZk9SPjvBEvdRbfrAoPgLA=;kxKQFdOPj3l73KJECTQSiA=="
+secured: "cLw+IGo1xWfYECitod27jYb3RkE0j2OSasZK9uEzDmRc2mEDBbZWKXn09GQwn3FBJ2w08Z4ulIziBIHn/nJTtVKH1OaXsFq4o2QvLt7rlG94efGieYQSN+YYR84l60isCT7M7ZbD1sJZR1xvAdwQzofdy4e3cQh38w3D0B8fZxv37ccdTDHWDdVFlzcGXtPLXnw3SuHF5dK2BSiJR8XaPU/iz0fqBol46HAAJr8pCX0YWtfeOZAL4yYH6K/kCfOslJ/I57szJgsbc8+enNnO3nbzeuqb1mCpCeeFDjKw0yGlRJ68Y6ltGpJtfL0Cv8bCi3EisionNwOkEf9stpbBtUZiZaTMwlrYPHxeW+qUs44=;8Tv2D808bAYBZbFW/QhUzg=="
 ---
 

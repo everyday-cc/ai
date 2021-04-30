@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theatlantic.com/amp/article/618696/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618696/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://i1.wp.com/hechingerreport.org/wp-content/uploads/2021/04/Newton-robot-college-2.jpg?fit=1024%2C710&ssl=1"
         width: 1024
         height: 710
+        isCached: true
+  - title: "New AI Regulations Are Coming. Is Your Organization Ready?"
+    excerpt: "Clearly, the regulation of AI is rapidly evolving. But rather than wait for more clarity on what laws and regulations will be implemented, companies can take actions now to prepare. That’s because there are three trends emerging from governments’ recent moves."
+    publishedDateTime: 2021-04-30T12:05:00Z
+    webUrl: "https://hbr.org/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
+    ampWebUrl: "https://hbr.org/amp/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/04/Apr21_30_579271601.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "JSbQrjVP3JwUNqEGg6nRu+ToAQChiXoPvKFqjBZGHDa8K43fGCHxv38dR3IxplcTtcAswVN3GWb1YEoqZAiWdIj2RPBywwK9ikscZoTnSdN+HA8EAXFl28p5zQlEI5LsQFtIT4veBhLGDuYpsORbaKQDqLjsPlxcyycqu+4kmr87hgMI05+iubcVRuzRztDtckryoaZ2yU4XhQJ97qNzfOwIPB1tP6eUxJAlXv8s35kW1HW3wwAKsgz8TnXX3N2A4MJII2m0lFiKa/L81nmHrxydUe2++kW3aXSnaKmO88TLl0srLQNUJ+5+sMBX+v3pZs33niNHt9UFq+h5+0SsURoM+kACB90new25OMql2D2eOSqGZGo1h/nQ215VKpzsxTvqJV4R4y3Cnm7J/isGWDkClMTSGy5CHQoOxNdaE8ovQWOrhvBuot6rG2yt1R1teKTijO/6n1TtFBs2sTEOm1TSPGJk2BngQG45Qlag3BLf68h453ddfBgK1Szy+3C5H0Ux/UcHcKzVMDNyfvNLeg==;C3+h2CESWcaDYFelMONbGg=="

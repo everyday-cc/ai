@@ -7,7 +7,7 @@ originalUrl: "https://www.auganix.org/inpixon-acquires-suite-of-augmented-realit
 webUrl: "https://www.auganix.org/inpixon-acquires-suite-of-augmented-reality-computer-vision-and-3d-mapping-technologies-from-visualix/"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Inpixon Enters Rapidly Growing Mobile Augmented Reality Market with Acquisition of AR, Computer Vision and 3D Reconstruction Technologies"
-    excerpt: "Inpixon (Nasdaq: INPX), the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality (AR), computer vision, localization, navigation,"
-    publishedDateTime: 2021-04-26T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and/article_e539a97e-610b-56d5-a445-250c4715d9aa.html"
+    excerpt: "Inpixon (Nasdaq: INPX), the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality (AR),"
+    publishedDateTime: 2021-04-26T13:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies-1030346080"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 6
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/14/814cb6da-7b5a-58cd-b155-8088ec494826/6086c0903284d.image.jpg?resize=887%2C478"
-        width: 887
-        height: 478
+      - url: "https://mma.prnewswire.com/media/1496098/Inpixon_AR_warehouse1.jpg"
+        width: 400
+        height: 216
         isCached: true
   - title: "Inpixon Acquires Suite Of AR, Computer Vision And 3D Reconstruction Technologies, Including Patents And Trademarks From Visualix; Terms Not Disclosed"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"

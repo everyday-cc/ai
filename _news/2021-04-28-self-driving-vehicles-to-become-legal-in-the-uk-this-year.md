@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Hyperdrive Daily: The Self-Driving Car Race Hardly Matters"
+    excerpt: "Welcome to the Hyperdrive daily briefing, decoding the revolution  reshaping the auto world, from EVs to self-driving cars and beyond."
+    publishedDateTime: 2021-04-30T11:31:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-04-30/hyperdrive-daily-the-self-driving-car-race-hardly-matters"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWE7ospu7tSc/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Self-Driving Cars To Conveniently Haul Fancy Stores To Your Doorstep For Your Shopping Delight"
     excerpt: "Self-driving cars will be used to haul around mobile stores, bringing the shops to your doorstep, which is quite convenient though presents some hefty challenges for AI."
     publishedDateTime: 2021-04-29T15:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359374
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359374/taming-the-machine-ai-governance?amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
+  - title: "The Drive to Make Machine Learning Greener"
+    excerpt: "AI systems must be trained in massively powerful data centers. Now computer scientists have discovered that small changes can dramatically reduce the carbon footprint of this activity."
+    publishedDateTime: 2021-04-30T13:43:00Z
+    webUrl: "https://www.discovermagazine.com/technology/the-drive-to-make-machine-learning-greener"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/cpnjwBeoJTzA7ku02nvlR/42f8bca19b44d12f788377cadb6a5adc/shutterstock_748817821.jpg"
+        width: 1000
+        height: 700
+        isCached: true
 
 secured: "MIEpU6NOqvQgikVWJb8gyLwAJpHI+GXBQ0Z94W319wGot0hRHVjpRc1/0JMeuMjh6FvRuguDeXqZ/F35KULi9opHUPOZo022DU47ex/fWuDSClJL6/vWNK0P6pS9RDlbjpBfDz+/du61BHlfLy6wmNera2pfuz7XWEhWr2lINuE4TQ9CkCOs5yZudIxrrn6kfUGv9sFyo3wbC6ZNSsTD0rOI78ZT2nWeiDxQ8JusBF8eRIQfAZNgJac70zh9PnKWI0RfCnpJfJujPid2OxxXYvm34KH67EV35KsqybUMzOg+sk/sxWPFzaON+/NOWF1iR6j5iDeUA3hCgnaoujmenAdzhRLwVQQYGjHYMDMH/Oa83Se8CZqtYodgsaUo49FVA/Kd2gZzRDuJrr6XJEy7N6lpYcpxBvHoQ5ltvU8yc943lLuz61DLZeY6A9JzYchAN6W5JOz8dncmGszMMzGFjgZUnM5KweJIweQy+36/arAlpU3hOVMrvVhFeTL4Pgfaxi0hfkNCCRoeOnkZ9IwV9A==;DGZfaw1OKgTiYklQr9V1YA=="
 ---

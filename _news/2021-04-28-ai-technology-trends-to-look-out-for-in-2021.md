@@ -24,6 +24,17 @@ images:
     height: 485
     isCached: true
 
+related:
+  - title: "The Impact of Artificial Intelligence in Massive MIMO Technology"
+    excerpt: "Massive MIMO (multiple-input and multiple-output) is a well-known technology that has been developed and deployed to cope with the expected high data traffic demand, leveraging existing cell sites (where possible) and the large bandwidths allocated to 5G in c-band and mmWave."
+    publishedDateTime: 2021-04-30T13:52:00Z
+    webUrl: "https://www.abiresearch.com/market-research/product/7779319-the-impact-of-artificial-intelligence-in-m/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 17
+
 secured: "YrBxeHTwznCh5TWlT1cxWoAYpmMy5ZC994WeEXGcWtNx0PwNJxc84qcWz0hAnBPER42QXG/mjrQmy3bIYydLtpnhSem2wqTw1gPh+2jfE8int0n/BOXCFvvykSqQn2RNhwSC8vfoBp7mxavN3DxduH/qzaAyYrGCj7xJC9eZFK+nqr35GxAO2wMXbbAixEiK3ZL8Vua9Yl7+8r4q0P+84L52Oh2J/0tEfl55Q+IUxsUyiXB2U6wcwN2wH2OIK7rFoE8gFlvhuy2cy03okciShX3i2G6/zQaxOXAy61EU4nHxS2l67sN49YFMqCEqE96r9UibHIpeGXbId/4rtTsI9pU7QNa5rW67yR4rZRNJuKnmo7kKPFB0/pFM54A7hwDYuv4Iv6X6eiGdnQhjYyZACM9GBxWXN5Ffd2Oko1ud97573auT+OLG6OKnE+fiwwQ0St0Jv8lSamM1carC0+Bjt9AIcikelFmMi3+QUBavqRVmKVz3VJoTiN3WAk9scOcg8wygUrGiK5sanJNSp5Kn/g==;5EQ5ApkKpA/Hfqhi2B7uVQ=="
 ---
 

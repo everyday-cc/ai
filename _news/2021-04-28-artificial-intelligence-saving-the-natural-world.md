@@ -7,7 +7,7 @@ originalUrl: "https://www.un.org/en/desa/artificial-intelligence-saving-natural-
 webUrl: "https://www.un.org/en/desa/artificial-intelligence-saving-natural-world"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Amazon’s AI Guru Is So Totally Over the Turing Test"
+    excerpt: "You might think that Rohit Prasad would be a big fan of the Turing test, the venerated method to determine whether computers are as smart as humans. As the VP and head scientist of Amazon Alexa AI, Prasad has been instrumental in getting people to communicate with machines."
+    publishedDateTime: 2021-04-30T13:00:00Z
+    webUrl: "https://www.wired.com/story/plaintext-amazon-ai-guru-over-the-turing-test/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "5ylasm6sTY1iE8tPNiNnCW2O1o0cgbbGM2BaKan5Mb7Lt8/ndnvUx0PwpqFEsZN9ifiCNgXYoFAdynOkibl/LWY6fDlEbOPGrc8lUIHUvktMMJi6wb4zBVLFIg7Y4F5tysuDHKdjRaxejEFMN24ZqiAamklxNq6Hsnw/4dru1dE9Ac5OfkV4tuOoy6sKOyQV9kFQJZbpDTGNYexS5Hvo34PC+XuOrmgtv9ej4Qu4DXWJ6ffGx7quUf436/gIlkP1VYDLlf7nx738kcfxzeogGqNA6bndMGfJpYTjOP2BnRoeQQd7UV1gJL9EGMda9nTAMdpcaOL1vGwhkP1D7YjmX3HDxSx1HeUZRx7ApP0eS/0=;YKBFVyIDVDGJdbbfVq8pBg=="
 ---

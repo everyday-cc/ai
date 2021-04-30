@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-30T10:30:00Z
 originalUrl: "https://analyticsindiamag.com/the-rise-of-ml-model-monitoring-platforms/"
 webUrl: "https://analyticsindiamag.com/the-rise-of-ml-model-monitoring-platforms/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/MLMonitoring_AIM.jpg"
@@ -25,6 +26,6 @@ images:
     height: 900
     isCached: true
 
-secured: "/l9pCOYNtRcG72Iovd/Rw8MJx8vJ4FFBVKaXHkCqiWfrKxa1iGhyeiwiYyWbr95VKRg2nLnBRSwE4vI3llSjuZR1EVdIOCB2PCVUXKGwHuvwfcjKwgR3b9+CB5mTagFdz4cOYSOQFVaf+XyAKpa1FzS4IG6bV7tiHKdqPc2X27ilSTZDpj54NPwP37R7BowBXHxqRnIma+GkeQDQMm5W9N6f9BxpXtiWUeu5gQqYbr2AuEw8w3hV293AGMhAM55uYWE7BuK6ztYgWZUzMRQuFW2HAd5DqtJ7Rw1WEFTbSFtEjb6nVmySXOPxQZ2K7ZMcysKBnH2Hh6VwS54hFWSLUTtZ5rmHNpivvXUjyNW5S60=;T63JmFAh4eJkGSiXl3sS6A=="
+secured: "XiYC43RlwCCgoFOX22uVEJSvsP/yJTdOQ5+42iL9fbTpJSYcazfL+iX/R4hOGtVxWS82uSwdJHZsj5Kyv+MWSjVzgRBrPqNbC0MfXY6+uaM7+5Ugx7KGvqspNfApJeadsrlAsEp8l1iAbwYe21Fwvj1Yj5CejFoj83e6NDXqlR4S76LY1Xtihq7OsHtuyH5H85xfVkIHDYKM+X+IRbW3Cr7kbeIyYBj6xJK9XNsW1zAsqFHvKdyrmx3VH47tLHHO0vxEhWaEfBPPJY6WE8VHDAwDzU5XoBZlxulI8YuK1AuEESURmH5JO9Z+jdlaxtSNykAHGlnqRSktFKDgCl7Tj93ghg1Hmfmx7lU7XjP/Wcqth4QtXu1V6XikqNQdF37bstEsHzhABXHiA5JcZ0PCqPoe/CBqNP21B4LvJ4GASVszjg0fUEVr2HVjIunbnaxQKYtndQ+CrCSbW8qaLOXiT0bDO3BNxE84Aa2fwY/+Ve5oMsD5eBXJkGwnOc+ch/A3mS0O3nf9cxUaDPqjhgEqMA==;mUL/snNGuM/cJQPDlW62OA=="
 ---
 

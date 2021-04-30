@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "9 questions to ask when auditing your AI systems"
+    excerpt: "Auditing your AI and big data can be a challenge. But there are some questions to ask to get you on your way to compliance and governance."
+    publishedDateTime: 2021-04-30T12:30:00Z
+    webUrl: "https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/9-questions-to-ask-when-auditing-your-ai-systems/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/9-questions-to-ask-when-auditing-your-ai-systems/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/29/97cf2d45-3a8f-4f7e-a02e-5c5a699d6ad2/resize/1200x/d9622b2aa968ed3a9f556c28214c1296/shutterstock-1438802396.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Why Physics has Relevancy To Artificial Intelligence And Building AI Leadership Brain Trust?"
     excerpt: "This blog is a continuation of the Leadership AI Brain Trust AI Blog series for board directors and C-suite stressing the diverse skills required to build a strong AI enablement enterprise culture. This blog focuses on the value of physics and its relevance to AI."
     publishedDateTime: 2021-04-27T15:32:00Z

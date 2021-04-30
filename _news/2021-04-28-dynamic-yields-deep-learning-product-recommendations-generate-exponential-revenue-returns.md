@@ -39,6 +39,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Dynamic Yield’s Deep Learning Product Recommendations Generate Exponential Revenue Returns"
+    excerpt: "Customers implementing the self-training algorithm have witnessed double-digit uplifts in purchases and incremental revenue, compared to other personalized recommendation strategies New York, April 28,"
+    publishedDateTime: 2021-04-30T13:37:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/dynamic-yields-deep-learning-product-recommendations-generate-exponential-revenue-returns/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 9
 
 secured: "zOqGzNANpvRQMpuGx6jEcxiwsWXrg8u5TncrZ+t1DHZgCD1BhAyu0Xv4FYArAbpGVT/7yBkS+fU1hjMjJJOso2QlN38u2n6dtKIZ+pD88JSn9w0wpZdvrKQqzxoliePZ+NAxoc0PyonRVd5yrk6ntJuhe+cgGU115Kcv9hUf3/Ru1TcWjhzGgYwfJyMqMciCBNOAJnHI0w3XqimLTy8KKjxWnx5XMxrH3F9teIvyg/M6EDHS4nZevA7HLPm6yDbgSXWxca9rydz8U4dhImLH/Hbxv/SEcbls81FQauWC0Uc1oZ5BHMTdWD0nSKJCsO5l6NrtO0dFgTabjdI5cZV8VueardB1fnNFkjSgl7bBsEo=;Pd1HjK/uiaLFd8bO6Vc2yQ=="
 ---

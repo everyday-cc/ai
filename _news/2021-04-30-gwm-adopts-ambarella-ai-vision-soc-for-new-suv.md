@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-30T09:56:00Z
 originalUrl: "https://www.embedded.com/gwm-adopts-ambarella-ai-vision-soc-for-new-suv/"
 webUrl: "https://www.embedded.com/gwm-adopts-ambarella-ai-vision-soc-for-new-suv/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.embedded.com/wp-content/uploads/2021/04/GWM-multi-channel-AI-vision-system-based-on-Ambarella-CV25.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1298
     isCached: true
 
-secured: "mCt6h1AZlcMwzf1NRRbaABo/J1ZH5wzazi+qfkup6ELTN8K3NqNxLy6F/uDR7M4pNEIoIiRi7eHfU1LH+HuEx426ija9Gg1jD0NDtqlKxoF/iclNRG/dIqUkE7WWBLJhsmOMaMCzyAL24yi2ajY1q5wyFiXtwuPNx9+aHZ0//EwHXD5tCyM5N76MgMTO0C8ElwNrA8dnyCPpiUdGva7QgqtfdQr9tzS9YJNJCOZIQiq4SyKFaof8gfAwbMoyuxnQdWBmrUWC/fdAbdsbQv3s30gWc1DHxpgomd24BiEbvH5nThzASxFp6tUVWYgrr3vuk8M+xC+jhzvydIRKOVZBb2tF0XsnaVMR/fhQrWEfJso=;Ov3LKPQcv700QWEM7YXwzQ=="
+secured: "iaU0XWVOlAMyWcjc29uckYnvsrD64BBvZEYYYn/oYyKyZlDH3vXEiogLx9SXDTYbOyyWQ3SEoKWP4+LMSYbOjYJTfY3tpKKkPcEDs1hIYj2Or7d3W33UgjgL4ae4iQ1gX0vF7cKwE5IDzGuGrDgvWvWqgMplRAmcGE0ghtobCtNDg65ePgNi6Mk19Zhddi7SR8CAw5x39/S/Ktq97ylziMreqSvU5PgZRqnVH0YgU7L/3KyiBq4ph49Akc7isfCPz9iovXYcFtMkHTXZKanaJ9lxP2+EUA9XNzCCk2ZJJ4G9jfOxFyjw4xQ+/r/cwjTTvgE3XN1SBfnVMg+WFkwtBx3YmoH7Asu2axzV5UoJ1EEjpjUUP/EngHpeSgVuVkxR5dTWXTDsAv4QffKOsn8QcDj7mNHi6DJZl2Cpcr7LPQJyE/52hXrScGs8kGMfie7SLoBrIIJ79XGkh0Gyedzx0kornqNH6Y1gFxSNO7YZQNJVeDXrL3mKBdL/baKV+jIhy6y+82+Gw9ZKdNNYJoyFCA==;WXLFEVZQkddCS7THuFyWfg=="
 ---
 

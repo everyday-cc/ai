@@ -38,6 +38,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI in Drug Discovery Market Value Expected to Grow at CAGR of 42.2% from 2021-2027"
+    excerpt: "Whipsmartmi com offers Global Artificial Intelligence in Drug Discovery Market from its research database The AI in drug discovery industry is expected to grow USD 342 16 million at CAGR of 42 2 from 2021 to 2027 Browse complete report"
+    publishedDateTime: 2021-04-30T12:15:00Z
+    webUrl: "https://www.openpr.com/news/2278135/ai-in-drug-discovery-market-value-expected-to-grow-at-cagr-of-42-2"
+    ampWebUrl: "https://www.openpr.com/amp/2278135/ai-in-drug-discovery-market-value-expected-to-grow-at-cagr-of-42-2"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2278135/ai-in-drug-discovery-market-value-expected-to-grow-at-cagr-of-42-2"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
   - title: "InveniAI and Shionogi Enter AI-Powered Multi-Target Drug Discovery Collaboration"
     excerpt: "Teams will work together by leveraging InveniAI’s technology to identify, evaluate, and optimize novel targets for drug discovery ; Shionogi will synthesize and develop compound"
     publishedDateTime: 2021-04-27T12:12:00Z

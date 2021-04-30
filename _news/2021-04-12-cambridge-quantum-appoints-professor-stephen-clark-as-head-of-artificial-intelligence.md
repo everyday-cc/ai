@@ -2,27 +2,25 @@
 category: news
 title: "Cambridge Quantum Appoints Professor Stephen Clark as Head of Artificial Intelligence"
 excerpt: "Stephen Clark as Head of Artificial Intelligence. Prof. Clark joins CQC from DeepMind where he was a Senior Staff Research Scientist and led a team working on grounded language learning in virtual ..."
-publishedDateTime: 2021-04-12T08:02:00Z
-originalUrl: "https://www.asiaone.com/business/cambridge-quantum-appoints-professor-stephen-clark-head-artificial-intelligence"
-webUrl: "https://www.asiaone.com/business/cambridge-quantum-appoints-professor-stephen-clark-head-artificial-intelligence"
-ampWebUrl: "https://www.asiaone.com/business/cambridge-quantum-appoints-professor-stephen-clark-head-artificial-intelligence?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/cambridge-quantum-appoints-professor-stephen-clark-head-artificial-intelligence?amp"
+publishedDateTime: 2021-04-12T07:02:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence-301265850.html"
+webUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence-301265850.html"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/pr-newswire_500_4_517.jpg?itok=X2Zz5wd6"
-    width: 763
-    height: 509
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "5vBEdWscOrcc1rU04yHWlhQ3fDeHLFUP03TvIPFMxlr9nQH27XnEMFB1nijtrJKsbElr9yLmNI424THuYvqbE4noBNhlc3TH4KPgS07WA4P5qqtwiT17KEYXDNgj7syuepAWcwbXUZtnm94OYLvsGgubsrm5S4M3B+euOBgCJpVomCTrCnWw8cGuogikCzkDf7/+ZPbFzM/appRjyD/EXTxzKe1+KYJvOfmuLxcjKfQFqwHieZLkJ5PdwH+R0X+ZvpR9cRKK5PdALdYv2nRCvfK0UrAwvQ4a9EoeTlQX0e23uZh4DUiOLJ1WHs2SYGpxJzrvBTVGBTphc0Nloi4fv9i3yjlw3SHoCtSiiYSnPqg=;FXSO248WLg8wbYPVlceE5Q=="
+secured: "BUskTW04lwp2OyJtN/iW6qjUClN+d7eTUvG/D7F1Iq+jwLJ4abLN2mK8VX+hRvz8XkcM4tjFGZ8w45kA95V7XwlBEZwKrt7nDx3nPvSNCDzkTdcIyTxeuDyfMrlIuh2OCPvy+NilmKhjGFXnJJhKt74zzzvNPjwMq1E82h178RS2IWj864Tes+IbU/8Mt1+gItyiXkwhrfiFd9feTb9rFlbi941tWIRomy27b6tlh12JVY2mHK2NF/dG0J3p4dCK5mNAdU6NyjRZxa/gGRA/O2LW3wjYIBQqIB4enavyE1K32gOXpK0pvgsXbltLcagYvYER6WwCqBT8y9WB+rGpSxKPG11dVz16BJ4+792jmZc=;aIAGp88/dUJMGI4DGPawGw=="
 ---
 

@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Inpixon Enters Rapidly Growing Mobile Augmented Reality Market with Acquisition of AR, Computer Vision and 3D Reconstruction Technologies"
-excerpt: "Inpixon (Nasdaq: INPX), the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality (AR), computer vision, localization, navigation,"
-publishedDateTime: 2021-04-26T13:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and/article_e539a97e-610b-56d5-a445-250c4715d9aa.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and/article_e539a97e-610b-56d5-a445-250c4715d9aa.html"
+excerpt: "Inpixon (Nasdaq: INPX), the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality (AR),"
+publishedDateTime: 2021-04-26T13:40:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies-1030346080"
+webUrl: "https://markets.businessinsider.com/news/stocks/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies-1030346080"
 type: article
-quality: 6
-heat: -1
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/14/814cb6da-7b5a-58cd-b155-8088ec494826/6086c0903284d.image.jpg?resize=887%2C478"
-    width: 887
-    height: 478
+  - url: "https://mma.prnewswire.com/media/1496098/Inpixon_AR_warehouse1.jpg"
+    width: 400
+    height: 216
     isCached: true
 
 related:
@@ -54,6 +58,6 @@ related:
         height: 630
         isCached: true
 
-secured: "VzxPVS5gEQhrNVITXDErrwQq8Ifey89NsK2EZq3ztHcoxRVjFy6Yu0xmpGb18lcx+lmOZv5A0O/tKU2vpqOpgf57IoXShIWJucb2drDOxN8KUHqwvGNCb4WSXhbF7otrGMqHaaXhuC4S94K8eb/EA7eZLV72SAU3C7+NloMNSjOVbyHrFgBcitwYTH5+bsYfYrvMDd7LojIVkXl3cwavKndACRiQznHdqrwc8OOsIVaSfYwL9DwSWnOxOTGWZ7+P587uMwuGlEIkqcfRaMyzxHnZX8EZujfmZMiLEKtu4T0qbYcb3G/BlXGUD+inwnEwXQOGtK8+SxeUs1HhKwYna93nKtRrM6hJj1mnWsTl5toSktdqxRla8i2bCi8fIUXHjO5FlMs987PQuewU+/MyPZypUXhmluwSdiNLCD6yLvwTb3fh4JPGAB/C5+CLtpvff8k6aSFwBxfzI28d3ERxUoKSIZVjDi9raO08P40qi3Yb7Yk9t2ysm7PAC005dWaroKnjH6SnedqnNO2/8zQjDA==;z8iKd6HqV2p2ogED7/13Lw=="
+secured: "+STViQt2iqtK+W6VA8bZc7iDLLUW9HiFDZ2Q/zdRepgMiMwOkGPPpM3S0Ji8ROjpenhQGuc+K2mNcANh61rSWJ0IVBHWvFkSibD5Qo5rlrfAVzgEhPd5CTmP2mOlp889iIpOnp6d0R+MO+Xemp2VL5nZ3Ul4wmNaDce4WafVd+XVEc/a13wPE/729HnJ01/wgbzfD5/yyzDovNWeZ8un47e/GvIJP6vghJ/JglGeLwzlhCpAb4yinegFPN0jRYVkk5BJIr24/2Pm+3kK4ql6/O1BaEfZPi/w0zRLus/foPZ8V3j2Ws2l1q8L4Mq1avL5upnWJSFOShQRGCE4LnJVmb9000bqujjF6t68esDNd/s=;sD1NvAEczQXf0hRiSJsKcg=="
 ---
 
