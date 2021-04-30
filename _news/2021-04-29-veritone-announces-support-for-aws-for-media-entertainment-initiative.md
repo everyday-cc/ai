@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Veritone Now Supports AWS for Media & Entertainment Initiative"
+    excerpt: "Artificial Intelligence-as-a-sales aid pioneer Veritone is now offering support for a new AWS initiative that is designed to enhance Veritone’s AI-enabled applications to provide new ways for business and content creators to find,"
+    publishedDateTime: 2021-04-30T18:30:00Z
+    webUrl: "https://www.rbr.com/veritone-aws/"
+    type: article
+    provider:
+      name: Radio & Television Business Report
+      domain: rbr.com
+    quality: 54
+    images:
+      - url: "https://www.rbr.com/wp-content/uploads/RBRimage.png"
+        width: 345
+        height: 450
+        isCached: true
   - title: "ThinkAnalytics Announces Support for AWS for Media & Entertainment Initiative"
     excerpt: "ThinkAnalytics adds personalization to the AWS for Media & Entertainment initiative with its real-time content discovery and viewer engagement platform that has been integrated with more than 30 AWS cloud-based services."
     publishedDateTime: 2021-04-29T00:00:00Z

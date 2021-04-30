@@ -2,6 +2,195 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-04-07-self-driving-sensor-startup-innovizs-shares-rise-on-public-debut.md",
+      "title": "Self-Driving Sensor Startup Innoviz's Shares Rise on Public Debut",
+      "excerpt": "Self-Driving Sensor Startup Innoviz's Shares Rise on Public Debut (Reuters) - Shares of self-driving car sensor startup Innoviz rose on Tuesday, on its first day trading as public company. The Tel Aviv, Israel-based firm is developing a lidar sensor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut?context=amp",
+      "publishedDateTime": "2021-04-06T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai.md",
+      "title": "AI observability startup Aporia nabs $5M to provide guardrails for AI",
+      "excerpt": "Aporia raised $5 million for its platform for AI models, which enables companies to monitor AI running in cloud environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/",
+      "originalUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/amp/",
+      "publishedDateTime": "2021-04-06T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-the-nypd-has-misled-the-public-about-its-use-of-facial-recognition-tool-clearview-ai.md",
+      "title": "The NYPD Has Misled The Public About Its Use Of Facial Recognition Tool Clearview AI",
+      "excerpt": "The NYPD has said that it never had a relationship with the facial recognition company, “formally or informally.” These documents say otherwise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use",
+      "originalUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-02/28/14/campaign_images/5866159591e0/clearviews-facial-recognition-app-has-been-used-b-2-232-1582900916-5_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use",
+      "publishedDateTime": "2021-04-06T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-sambanova-raises-650m-to-mass-produce-ai-training-and-inference-chips.md",
+      "title": "SambaNova raises $650M to mass-produce AI training and inference chips",
+      "excerpt": "AI chip startup SambaNova systems has raised $650 million, bringing its total raised to over $1 billion at a $5 billion valuation.Read MoreRead",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sambanova-raises-$650m-to-mass-produce-ai-training-and-inference-chips-9984417",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sambanova-raises-$650m-to-mass-produce-ai-training-and-inference-chips-9984417",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-best-cheap-computer-reading-glasses-for-april-2021.md",
       "title": "Best cheap computer reading glasses for April 2021",
       "excerpt": "Below, you’ll find a nice selection of the best computer reading glasses you can score online ... blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to go to an eye doctor. If you are already ...",
@@ -932,170 +1121,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-softbank-to-buy-28-bn-stake-in-norway-robotics-firm.md",
-      "title": "Softbank to buy $2.8 bn stake in Norway robotics firm",
-      "excerpt": "Japanese investment giant SoftBank Group will buy a 40 percent stake in Norwegian robotics company AutoStore ... on some of the tech world's hottest start-ups and biggest names, ranging from artificial intelligence to biotech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-04-softbank-bn-stake-norway-robotics.html",
-      "originalUrl": "https://techxplore.com/news/2021-04-softbank-bn-stake-norway-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-04-softbank-bn-stake-norway-robotics.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-softbank-bn-stake-norway-robotics.amp",
-      "publishedDateTime": "2021-04-06T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-global-edge-ai-market-2021-2026-rising-demand-for-innovative-advanced-vehicles-researchandmarketscom.md",
-      "title": "Global Edge AI Market 2021-2026 - Rising Demand for Innovative & Advanced Vehicles - ResearchAndMarkets.com",
-      "excerpt": "The “Edge AI Market - Forecasts from 2021 to 2026” report has been added to ResearchAndMarkets.com’s offering. The global edge AI market is expected to grow at a compound annual growth rate of 19.27% over the forecast period to reach a market size of US$1,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-apple-inc-corporate-news-driverless-cars-0c6938d9d3e848619fddf7e0ea0f3ff1",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-apple-inc-corporate-news-driverless-cars-0c6938d9d3e848619fddf7e0ea0f3ff1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-google-announces-tensorflow-quantum-050-expected-features-updates.md",
-      "title": "Google Announces TensorFlow Quantum 0.5.0: Expected Features & Updates",
-      "excerpt": "Google is celebrating the first anniversary of TensorFlow Quantum (TFQ), a library for rapid prototyping of hybrid quantum-classical ML models. TFQ is regarded as a tipping point for developments in hybrid quantum and classic machine learning models the ...",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/google-announces-tensorflow-quantum-0-5-0-expected-features-updates/",
-      "originalUrl": "https://analyticsindiamag.com/google-announces-tensorflow-quantum-0-5-0-expected-features-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/04/Untitled-design.jpg",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T23:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.md",
-      "title": "Deep learning algorithms improve diagnostic performance of breast ultrasound",
-      "excerpt": "In 2020, the International Agency for Research on Cancer of the World Health Organization stated that breast cancer accounts for most cancer morbidities and mortalities in women worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210405/Deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210405/Deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/4/mai.jpg",
-          "width": 950,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210405/Deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210405/Deep-learning-algorithms-improve-diagnostic-performance-of-breast-ultrasound.aspx",
-      "publishedDateTime": "2021-04-05T17:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

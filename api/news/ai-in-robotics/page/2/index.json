@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
+      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo.md",
+      "title": "Robot Truck Startup TuSimple Raises $1 Billion In First Self-Driving Startup IPO",
+      "excerpt": "The San Diego-based developer of robotic truck technology is the first self-driving tech company to go public in the U.S. The IPO also turned its cofounders into billionaires.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607865b5d90af15ae52022c7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/",
+      "publishedDateTime": "2021-04-15T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-cruises-head-of-artificial-intelligence-wants-the-autonomous-car-startup-to-be-defined-by-its-ai-innovation.md",
       "title": "Cruise's head of artificial intelligence wants the autonomous-car startup to be defined by its AI innovation",
       "excerpt": "Hussein Mehanna thinks machine learning is going to set Cruise apart, and he told Insider how companies could become \"AI natives\" in the future.",
@@ -1275,93 +1370,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally.md",
-      "title": "Karachi students introduce another version of mind-controlled prosthetic arm, not yet available globally.",
-      "excerpt": "Despite the students’ claim, mind-controlled prosthetics are nothing new, and a group of Pakistani engineers successfully created a similar robotic arm controlled by the brain, also as part of their final year project back in 2019. Some 30 disabled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techjuice.pk/karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally/",
-      "originalUrl": "https://www.techjuice.pk/karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techjuice.pk/wp-content/uploads/2021/04/Untitled.png",
-          "width": 1303,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techjuice.pk",
-        "domain": "techjuice.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-mit-robot-sees-hidden-objects-with-radio-waves.md",
-      "title": "MIT Robot Sees Hidden Objects with Radio Waves",
-      "excerpt": "The robot, known as RF-Grasp, has traditional cameras for object recognition. The camera is mounted to the bot’s mechanical grasper, giving it a good view of anything the hand might be trying to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
-      "originalUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2021/04/rf-grasp.jpg",
-          "width": 672,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

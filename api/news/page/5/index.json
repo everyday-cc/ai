@@ -2,6 +2,146 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-26-the-worlds-biggest-ai-chip-now-comes-stock-with-26-trillion-transistors.md",
+      "title": "The World’s Biggest AI Chip Now Comes Stock With 2.6 Trillion Transistors",
+      "excerpt": "The world’s biggest AI chip just doubled its specs—without adding an inch. The Cerebras Systems Wafer Scale Engine is about the size of a big dinner plate. All that surface area enables a lot more of everything,",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/",
+      "originalUrl": "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/04/WSE2-Dinner-Plate.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/amp/",
+      "publishedDateTime": "2021-04-25T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-the-eu-is-proposing-regulations-on-aiand-the-impact-on-healthcare-could-be-significant.md",
+      "title": "The EU Is Proposing Regulations On AI—And The Impact On Healthcare Could Be Significant",
+      "excerpt": "Regulatory frameworks regarding AI and healthcare generally will undoubtedly only continue to grow, especially as innovators attempt to solve increasingly difficult problems with technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2021/04/25/the-eu-is-proposing-regulations-on-ai-and-the-impact-on-healthcare-could-be-significant/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2021/04/25/the-eu-is-proposing-regulations-on-ai-and-the-impact-on-healthcare-could-be-significant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6085b608a78cd2efaae3d58f%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/04/25/the-eu-is-proposing-regulations-on-ai-and-the-impact-on-healthcare-could-be-significant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/04/25/the-eu-is-proposing-regulations-on-ai-and-the-impact-on-healthcare-could-be-significant/amp/",
+      "publishedDateTime": "2021-04-25T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-25-heart-failure-prediction-using-ml-azure.md",
+      "title": "Heart Failure Prediction using ML Azure",
+      "excerpt": "Capstone Project of Udacity's Machine Learning with Azure Nanodegree - abhiojha8/Heart_Failure_Prediction_Azure",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/abhiojha8/Heart_Failure_Prediction_Azure",
+      "originalUrl": "https://github.com/abhiojha8/Heart_Failure_Prediction_Azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/b5330cc1b7151a3fe74d01327dd513761562b7bb1b0918f1f8aa004f7ef68333/abhiojha8/Heart_Failure_Prediction_Azure",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-25T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-25-natural-language-processing-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027.md",
       "title": "Natural Language Processing Market Latest Revenue Data 2021,Global Trends, COVID-19 Impact and Forecast to 2027",
       "excerpt": "The global “Natural Language Processing Industry” is expected to rise with an impressive CAGR and generate the",
@@ -1077,135 +1217,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-video-see-how-a-self-driving-car-perceives-the-world.md",
-      "title": "Video: See how a self-driving car perceives the world",
-      "excerpt": "Motional has partnered with Derq to test how driverless technology reacts to a broader view of the world from a bird’s eye view. Derq, an artificial intelligence and vehicle-to-everything (V2X) vendor,",
-      "sourceUrl": null,
-      "webUrl": "https://electronics360.globalspec.com/article/16635/video-see-how-a-self-driving-car-perceives-the-world",
-      "originalUrl": "https://electronics360.globalspec.com/article/16635/video-see-how-a-self-driving-car-perceives-the-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering360 News",
-        "domain": "globalspec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031.md",
-      "title": "Machine Learning as a Service (MLaaS) Market 2021 Rising Latest Advancements, Growing Demands and Business Opportunities by 2031",
-      "excerpt": "Market.us adopted a multidisciplinary detain during the pandemic era to focus on the revolutionary trends, growth and industry statistics along with the development of the Global Machine Learning as a Service (MLaaS) Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031-2021-04-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031-2021-04-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-facial-recognition-should-be-banned-eu-privacy-watchdog-says.md",
-      "title": "Facial recognition should be banned, EU privacy watchdog says",
-      "excerpt": "Facial recognition should be banned in Europe because of its “deep and non-democratic intrusion” into people’s private lives, EU privacy watchdog the European Data Protection Supervisor (EDPS) said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.metro.us/facial-recognition-should-be/",
-      "originalUrl": "https://www.metro.us/facial-recognition-should-be/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH3M0M2-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.metro.us/facial-recognition-should-be/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/facial-recognition-should-be/amp/",
-      "publishedDateTime": "2021-04-23T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

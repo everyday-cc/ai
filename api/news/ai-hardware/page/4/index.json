@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-12-tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure.md",
+      "title": "Tuning Up Nvidia’s AI Stack To Run On Virtual Infrastructure",
+      "excerpt": "Having to install a new kind of systems software stack and create applications is hard enough. Having to master a new kind of hardware, and the management",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/",
+      "originalUrl": "https://www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg",
+          "width": 1199,
+          "height": 877,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/amp/",
+      "publishedDateTime": "2021-03-12T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-nvidia-launches-ai-enterprise-suite-for-vmware-vsphere.md",
       "title": "Nvidia Launches AI Enterprise Suite for VMware vSphere",
       "excerpt": "Nvidia and VMware are bringing together the new Nvidia AI Enterprise software tool suite with VMware’s latest vSphere 7 Update 2 virtualization platform to make it easier for enterprises to virtualize their expanding AI workloads.",

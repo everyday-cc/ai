@@ -105,6 +105,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Arize AI Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021"
+    excerpt: "Observability company, has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to transform industries. The Forbes AI 50 list, in its third year, includes a list of private North American companies using artificial intelligence in ways that are fundamental to their operations,"
+    publishedDateTime: 2021-04-30T18:46:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/arize-ai-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-301281403.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/1276605/Arize_AI_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
 
 secured: "hui0Ok64g+CBDwO+d3Jr7685tCHSJULhObwjIa7oEO3M8NTlE5zwe7IM/GmO2to1R2Hd+z0OVpme3pViunn5VUjM6aYR22nrHUZxgUA/y419D9g2fNxAjzdfblHoxvbsQx88bxyi+H0C/gOZZZ3g50x7jEx+sBFRC1dFCckySIkTBRt1X0T7PQW4d6WCMBj06lUqKcOvgztiuGBhtN53crTq1zwU7McSH7ZLLa4TO1KhDQXNjaSbL4l49gtrfY8iRpfib+q6cjpdBw86JZ/EClZ57v2Bs3RRnnxJ0u9nnZJCYeJhrqGqd/jWj8l4d3vQNr0RsX3b03b6jja1ukFebAFWQ5INLb2yXmFEXiR1rGc=;SgbZVeSPVlPwiQclamv4Bw=="
 ---

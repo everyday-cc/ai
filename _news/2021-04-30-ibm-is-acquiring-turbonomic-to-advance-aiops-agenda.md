@@ -109,6 +109,22 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "IBM’s Journey To Hybrid Cloud Territory Continues With Turbonomic Deal"
+    excerpt: "IBM has acquired Turbonomic, a Boston-based application resource management (ARM) and network performance management software provider."
+    publishedDateTime: 2021-04-30T18:46:00Z
+    webUrl: "https://www.pymnts.com/news/acquiring/2021/ibm-to-acquire-turbonomic/"
+    ampWebUrl: "https://www.pymnts.com/news/acquiring/2021/ibm-to-acquire-turbonomic/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/acquiring/2021/ibm-to-acquire-turbonomic/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/ibm-cloud-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "IBM Spends Up To $2B To Buy Turbonomic In AI Push"
     excerpt: "IBM will integrate Turbonomic’s ARM software with Instana’s APM and observability capabilities plus the ITOps capabilities of IBM Cloud Pak for Watson AIOps. By Wade Tyler Millward April 29, 2021, 01:12 PM EDT IBM hopes to boost its enterprise automation offerings with the planned purchase of Turbonomic in a deal reportedly valued at up to $2 billion."
     publishedDateTime: 2021-04-29T17:12:00Z
@@ -165,6 +181,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "IBM to Buy Turbonomic"
+    excerpt: "IBM (NYSE: IBM) is to acquire Turbonomic, a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
+    publishedDateTime: 2021-04-30T16:30:00Z
+    webUrl: "https://www.finsmes.com/2021/04/ibm-to-buy-turbonomic.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 24
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
+        width: 2700
+        height: 1411
+        isCached: true
   - title: "IBM to acquire cloud optimization provider Turbonomic for reported $1.5B+"
     excerpt: "IBM Corp. is acquiring Turbonomic Inc., a Boston-based company with a platform that helps enterprises reduce cloud expenses and improve their applications’ performance. IBM didn’t disclose the value of the deal,"
     publishedDateTime: 2021-04-29T18:43:00Z
@@ -189,6 +219,6 @@ related:
       domain: insidehpc.com
     quality: 19
 
-secured: "IPbU+kQZblLv6V5rZqzMXNQ8VU+HWxBX/M/U918cClB6hierGMx++T98uX/nzJw76GCv22sXlBLmeQ3iVtwFg1Zm9ZJYdJaM4ojbN9zgBfjrtqd3KkIsvqeQqxvKUwN8zoFyVPoFN7ssfICLrbBeqbA1oqaoluGb7QjspwDfE5LtYyrGmHsz80rYnwPNIkYc672zZiau71V6ZBgArwgr4P8y0QxhSuYvNtpTRRTQMs69YzewKPX7haZW1MsRyZl6qL8+m+Ng2xzwX1uu0ZzlDdU4hdxDVj8OyLSyRhOagKbR0c2kNcnFl0MSEng/mYPHnOdl0MV6Rb+U2p278gb7I6PFICfSN8GG2+i5izHvBDM=;Wz4AYEbCb7vanoNdoVQ3Fg=="
+secured: "bTtX/xEfsPf3E9myuMID/9M7qRe4oyR+CRdB9VTpIeUQ9pT8PtyC+4ltEmmUCfzsJS14FJgQ3neVRTXtYsBmxG962xgWI/1er9SWaS1G2UU7WS5H6zMdkqgRa86y+L2XKuH6DBOSSryd87RAei8k8geihx2kn4Mzw8UqpPsNB6PtlC0r/2W6uy26XbQvI/LJ+10JPqyqil095vYFFRvfhoFdd5cbj4wspGj2EegcVP2d8ozEGwHfSeeoMAwmqNHAFNXSOxHE9fNOYzg0zZ9I9sX6IRlhu7rYLSFfQnOk3hLSDJR13SyhXQklpRhURd/fhAJAbu6RauChfWgwl/n+MvTsv+riQ7iCwJ796WNizhP/ydvl7Ih8XEn4twSep6dY7rjy4grGa/0FDGhB09jI48meiqZVz3xhzsExemizsCOmzaQudLx4kTBszUbClLWWVXlNvDPe+TKYqew2Nb+TjOvsZmmxxWWmktTNMDrTkKazDlkSikDxnQWbA5hyfTjRZdNj8pAi5qnlamRxMMGa5A==;EExCjOMt4DvMDHt1//o03A=="
 ---
 

@@ -2,35 +2,26 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-16-best-machine-learning-software-in-2021.md",
-      "title": "Best Machine Learning Software in 2021",
-      "excerpt": "Machine learning software evolves and learns from analyzing data. Compare the best machine learning tools today.",
+      "path": "_news/2021-04-16-amazon-and-microsoft-team-up-to-defend-against-facial-recognition-lawsuits.md",
+      "title": "Amazon and Microsoft team up to defend against facial recognition lawsuits",
+      "excerpt": "Snapchat and Shutterfly have faced similar suits. Amazon’s facial recognition software, Rekognition, has become a particular focus of criticism by civil-liberties advocates. Amazon is the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.itbusinessedge.com/business-intelligence/machine-learning-software/",
-      "originalUrl": "https://www.itbusinessedge.com/business-intelligence/machine-learning-software/",
+      "webUrl": "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/",
+      "originalUrl": "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/04/Top-Machine-Learning-Software-e1618509296268.jpeg",
-          "width": 1500,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T11:20:52-07:00",
+      "ampWebUrl": "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1",
+      "publishedDateTime": "2021-04-15T10:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Business Edge",
-        "domain": "itbusinessedge.com",
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -42,7 +33,7 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Machine Learning",
+        "Computer Vision",
         "Microsoft AI"
       ]
     },

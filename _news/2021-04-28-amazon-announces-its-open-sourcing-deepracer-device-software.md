@@ -80,14 +80,28 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Amazon releases DeepRacer software in open source"
-    excerpt: "Amazon made its DeepRacer available in open source, enabling developers to custom-program remote-controlled cars."
-    publishedDateTime: 2021-04-27T17:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/27/amazon-makes-deepracer-software-available-in-open-source/"
+  - title: "AWS DeepRacer Sample Projects"
+    excerpt: "Build robotics applications with AWS DeepRacer device software and hardware:  - aws-deepracer/aws-deepracer-launcher"
+    publishedDateTime: 2021-04-27T22:49:00Z
+    webUrl: "https://github.com/aws-deepracer/aws-deepracer-launcher/blob/main/projects.md"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: GitHub
+      domain: github.com
+    quality: 71
+    images:
+      - url: "https://opengraph.githubassets.com/bf3d13faac34c0129d17c065cab2600e81568abe4856cbb4225805b4eabc5d8c/aws-deepracer/aws-deepracer-launcher"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Amazon releases DeepRacer software in open source"
+    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+    publishedDateTime: 2021-04-28T05:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 66
 
 secured: "dfEeOgZjzebdEtff5T5OvXTkd20v+QOlz9PcVhA+Re+B7U1qw6qKJPUzrr9b1gprMoSovXkHLhIkICEnIsVtLGAKmThKY5ZVuhMpEfgziSNtk0IoUDN0VI192jsikse53zeGuVX8Z4NDHRZAYdCWoIOOpCm2y4Dxex3LHgrEwvWr2Mc1rrKJX89NbUqrBzYysmbteGUpM6+7ALf9EZD/FsidZnR/sIPUUxB7AtKNQP9m2EO/UiamrLPYzmZhfOcUbPWLmZH27bRPXdYjMr8tnzroSs7FyBjLbZkUw2KoGbKWnbfeTQsbuv45NfTzlLs2CtGIMA0eUBHm2W+GhP7dYkoivM8tds5tPA6f4eenjIdNKqbaAGX3ok8CXC3aXCsmHohHwtuuuRdR1kdYfrBDU3/sd9sO2EMm10d35JFX6eAC5wNi8jD4LkVsC9aybZuF16GJrMYuIoBXhOzL6ylkgJTj+xbip2SrzC/SX5lcFxa1GkgHNEtt6wAmVSzcNmnhN+ii+U1Cu+r0Tt1Z2gaQPQ==;N0PTTmjfyB4g1r1dY12+IA=="

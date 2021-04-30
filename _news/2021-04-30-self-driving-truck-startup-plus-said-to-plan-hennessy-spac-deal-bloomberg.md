@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/m-a/21/04/20887300/self-driving-truck-sta
 webUrl: "https://www.benzinga.com/m-a/21/04/20887300/self-driving-truck-startup-plus-said-to-plan-hennessy-spac-deal-bloomberg"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Self-driving truck startup Plus said to plan Hennessy SPAC deal"
+    excerpt: "Self-driving truck startup Plus is in talks to merge with special purpose acquisition company Hennessy Capital Investment Corp. V, according to people familiar with the matter, making it the latest autonomous vehicle maker seeking to go public via a blank-check firm."
+    publishedDateTime: 2021-04-30T11:17:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-plus-said-plan-hennessy-spac-deal"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/17PLUSAI-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Report: Cupertino self-driving truck unicorn Plus eyes going public via $3B SPAC deal"
+    excerpt: "The deal would reportedly would give Plus between $500 million and $600 million in new capital, which includes a private placement. That's on top of the $520 million it has raised in three funding deals since November."
+    publishedDateTime: 2021-04-30T14:29:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/30/report-cupertinos-plus-ai-eyes-3b-spac-merger.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "IzTQiPrDVNPJuEt/mmrBFsyaBGAgfKpLyTrLL9W+Q+iNmSTA4IdvWkjRsdnOjwfZahUXUBX7U/l4RHkQfTnGe07DOKmXgf8mrE1p97iWQakgNCVcOLtUIY8jbqd83540QZKqg0lzro7MtQtxd3XswOJ1z1O/oF9VCMJT4sx6vw48508xxULXkrxlSoX6P+qiOFaL5XI82n1YfGulYZEehKPW5LD8/iw5qxe3l8m82CymxMos9jo6/muOXfd53PqKu0VBYHxqHNDXG/vk3xAlLCbuhdMzRafF+ynw8+j5aSEP1x+ubwJ479xGZDXxtMnKdXPlVzxoo57zEVes8XVswZ8BG3rgjKft0kivpFy/f+k=;cnr20OuCuE119Mf3EfVjPw=="
 ---

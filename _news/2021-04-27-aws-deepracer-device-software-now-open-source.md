@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-device
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-device-software-now-open-source/"
 type: article
 quality: 121
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AWS DeepRacer Sample Projects"
+    excerpt: "Build robotics applications with AWS DeepRacer device software and hardware:  - aws-deepracer/aws-deepracer-launcher"
+    publishedDateTime: 2021-04-27T22:49:00Z
+    webUrl: "https://github.com/aws-deepracer/aws-deepracer-launcher/blob/main/projects.md"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 71
+    images:
+      - url: "https://opengraph.githubassets.com/bf3d13faac34c0129d17c065cab2600e81568abe4856cbb4225805b4eabc5d8c/aws-deepracer/aws-deepracer-launcher"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Amazon announces it’s open sourcing DeepRacer device software"
     excerpt: "When Amazon debuted AWS DeepRacer in 2018, it was meant as a fun way to help developers learn machine learning. While it has evolved since and incorporated DeepRacer competitions, today the company announced it was adding a new wrinkle."
     publishedDateTime: 2021-04-27T17:00:00Z
@@ -82,13 +96,13 @@ related:
       domain: techcrunch.com
     quality: 66
   - title: "Amazon releases DeepRacer software in open source"
-    excerpt: "Amazon made its DeepRacer available in open source, enabling developers to custom-program remote-controlled cars."
-    publishedDateTime: 2021-04-27T17:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/27/amazon-makes-deepracer-software-available-in-open-source/"
+    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+    publishedDateTime: 2021-04-28T05:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 66
 
 secured: "lNRQ32XjgMbObhQqf23ldRObVJqS30P/O9KCYnbXJjAwX939uNCPkwoqLwiRA9QcIf9rvJo/GVPP2uxGI05qcy1uWRkZm1VC+2eNHCkgwiPZd+Dsd0QYRsIC5n4PmZWCtBYMigiKAZKzTm0eHB9d9v3YSg3QBm4uRBO4QczQLfuFfHXKocbYxmEQg61RWtjdzYxQediRTYxNTRMg5nCw1N2pTX/tIFEuU4cXRTroE44v7lszZGcm4Ew3qKMYOZ7GZCDzOdDZWM6bFJyHqONT6j/+T71SO0JehKpDauTjXcYXDAIfqqsjLHpJZev9wEpAnFbdVcI4hxfwy3IkeGamjuXukDwenU/QOdjfl3ni/Mc=;4ULO1wHn7ZrJ9JS7P7zTxQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-announces-support-for-the-aws-media-entertainment-initiative/article_88c17de6-c6d1-5956-a827-8a11f9f24106.html"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/50/b5049303-8198-5f55-8eb3-ea9e0465ee49/608a9989ba0ae.image.jpg?resize=1181%2C630"
         width: 1181
         height: 630
+        isCached: true
+  - title: "Veritone Now Supports AWS for Media & Entertainment Initiative"
+    excerpt: "Artificial Intelligence-as-a-sales aid pioneer Veritone is now offering support for a new AWS initiative that is designed to enhance Veritone’s AI-enabled applications to provide new ways for business and content creators to find,"
+    publishedDateTime: 2021-04-30T18:30:00Z
+    webUrl: "https://www.rbr.com/veritone-aws/"
+    type: article
+    provider:
+      name: Radio & Television Business Report
+      domain: rbr.com
+    quality: 54
+    images:
+      - url: "https://www.rbr.com/wp-content/uploads/RBRimage.png"
+        width: 345
+        height: 450
         isCached: true
   - title: "ThinkAnalytics Announces Support for AWS for Media & Entertainment Initiative"
     excerpt: "ThinkAnalytics adds personalization to the AWS for Media & Entertainment initiative with its real-time content discovery and viewer engagement platform that has been integrated with more than 30 AWS cloud-based services."

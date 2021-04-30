@@ -53,6 +53,20 @@ related:
         width: 1181
         height: 630
         isCached: true
+  - title: "Veritone Now Supports AWS for Media & Entertainment Initiative"
+    excerpt: "Artificial Intelligence-as-a-sales aid pioneer Veritone is now offering support for a new AWS initiative that is designed to enhance Veritone’s AI-enabled applications to provide new ways for business and content creators to find,"
+    publishedDateTime: 2021-04-30T18:30:00Z
+    webUrl: "https://www.rbr.com/veritone-aws/"
+    type: article
+    provider:
+      name: Radio & Television Business Report
+      domain: rbr.com
+    quality: 54
+    images:
+      - url: "https://www.rbr.com/wp-content/uploads/RBRimage.png"
+        width: 345
+        height: 450
+        isCached: true
   - title: "Codemill announces support for AWS for Media & Entertainment Initiative"
     excerpt: "Codemill has announced support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to simplify the management of media productio"
     publishedDateTime: 2021-04-29T16:28:00Z

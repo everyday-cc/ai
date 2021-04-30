@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theatlantic.com/amp/article/618696/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618696/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://i1.wp.com/hechingerreport.org/wp-content/uploads/2021/04/Newton-robot-college-2.jpg?fit=1024%2C710&ssl=1"
         width: 1024
         height: 710
+        isCached: true
+  - title: "A scientist created emotion recognition AI for animals"
+    excerpt: "A researcher at Wageningen University & Research recently published a pre-print article detailing a system by which facial recognition AI could be used to identify and measure the emotional state of farm animals."
+    publishedDateTime: 2021-04-30T19:40:00Z
+    webUrl: "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Flivestockemotion.jpg&signature=bc77a1971b37144e3e614b7fcb233d9f"
+        width: 1280
+        height: 640
         isCached: true
   - title: "New AI Regulations Are Coming. Is Your Organization Ready?"
     excerpt: "Clearly, the regulation of AI is rapidly evolving. But rather than wait for more clarity on what laws and regulations will be implemented, companies can take actions now to prepare. That’s because there are three trends emerging from governments’ recent moves."

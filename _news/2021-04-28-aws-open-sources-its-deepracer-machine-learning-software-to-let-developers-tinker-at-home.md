@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AWS DeepRacer Sample Projects"
+    excerpt: "Build robotics applications with AWS DeepRacer device software and hardware:  - aws-deepracer/aws-deepracer-launcher"
+    publishedDateTime: 2021-04-27T22:49:00Z
+    webUrl: "https://github.com/aws-deepracer/aws-deepracer-launcher/blob/main/projects.md"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 71
+    images:
+      - url: "https://opengraph.githubassets.com/bf3d13faac34c0129d17c065cab2600e81568abe4856cbb4225805b4eabc5d8c/aws-deepracer/aws-deepracer-launcher"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Amazon announces it’s open sourcing DeepRacer device software"
     excerpt: "When Amazon debuted AWS DeepRacer in 2018, it was meant as a fun way to help developers learn machine learning. While it has evolved since and incorporated DeepRacer competitions, today the company announced it was adding a new wrinkle."
     publishedDateTime: 2021-04-27T17:00:00Z
@@ -80,13 +94,13 @@ related:
       domain: techcrunch.com
     quality: 66
   - title: "Amazon releases DeepRacer software in open source"
-    excerpt: "Amazon made its DeepRacer available in open source, enabling developers to custom-program remote-controlled cars."
-    publishedDateTime: 2021-04-27T17:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/27/amazon-makes-deepracer-software-available-in-open-source/"
+    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+    publishedDateTime: 2021-04-28T05:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 66
 
 secured: "nVDytj3WxlNS3r4D4fMKIfxrlvxdtsJ/y3hT735KNaxOJAXjODPZrQWDWA6nEKvGetrntuvmOSzR+QyeDQ9i3G1jHX8OQe+IZGbUWUs7YtXob+3oAh4VAKogw91dYfSGMCvJJxVx49drVDQWGaxEnkLRKlNOSkaZkYMkQuRFnncOM2Qo0h3YUZ9PHw5qFGUv0UZ0mRN0zMpO2ecAnnsenefJda8xnLcl6V1clWLsOGV8NlzrQmzxiC3w7IMV85SVW3bAg9FKY+wKU8+S67ij9W3CRdBTeXkbi3VSGkLFRUmUsMI6xTGHWM6myWeJdzSkS3iACH7Zn4//lq4N/HvkvJh1oOQ/WTQYX816r+eQNNXCjjafDqzZbifDrDNOfrdyGbDEFeWghPX5P7N1plnjdCzsPJoqkFARpynu8rbwIZ0uwki4C8YTxaOWcAitlaFE+2oiBFwb5qRJNXkLJLUQhvuRGjOaXowQ4ydJDKbhV18BhVE5LRlt0AphNrgh3RvZ5i4xFeMTdg4fFxnh0ExOQg==;uTel78v+geHR9lrCFgVbgg=="

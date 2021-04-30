@@ -2,6 +2,190 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-21-orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding.md",
+      "title": "Orca AI, which puts computer vision onto cargo ships, raises $13M Series A funding",
+      "excerpt": "Tel Aviv’s Orca AI, a computer vision startup that can be retrofitted to cargo ships and improve navigation and collision avoidance, has raised $13 million in a Series A funding, taking its total raised to over $15.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/",
+      "originalUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/yarden-7089.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/",
+      "publishedDateTime": "2021-04-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-global-machine-learning-software-market-research-report-2021-microsoft-google-tensorflow-kount-warwick-analytics.md",
+      "title": "Global Machine Learning Software Market Research Report 2021 | Microsoft, Google, TensorFlow, Kount, Warwick Analytics",
+      "excerpt": "A recent research study on the global Machine Learning Software market presented by Zeal Insider offers a detailed analysis of key market players, market revenue, market segments, share, and geographic regions.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/21/global-machine-learning-software-market-research-report-2021-microsoft-google-tensorflow-kount-warwick-analytics/",
+      "originalUrl": "https://ksusentinel.com/2021/04/21/global-machine-learning-software-market-research-report-2021-microsoft-google-tensorflow-kount-warwick-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/01/research-reports-market-26-1-780x400.jpeg",
+          "width": 780,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-huawei-technologies-unveils-range-of-ai-chips.md",
+      "title": "Huawei Technologies unveils range of AI chips",
+      "excerpt": "China’s largest telecom equipment maker and smartphone vendor Huawei Technologies Co Ltd has unveiled a range of artificial intelligence chips, in what is arguably its biggest-ever push to expand its presence in the semiconductor sector and to compete with US companies such as Nvidia Corp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationthailand.com/international/30356476",
+      "originalUrl": "https://www.nationthailand.com/international/30356476",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nationthailand.com/images/default800x.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nationthailand",
+        "domain": "nationthailand.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-meituan-raises-10-bln-for-self-driving-cars-drone-delivery.md",
+      "title": "Meituan raises $10 bln for self-driving cars, drone delivery",
+      "excerpt": "Chinese food delivery giant Meituan says it has raised nearly $10 billion in a sale of convertible bonds and additional shares, with plans to invest in and develop delivery technologies",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_e99be59739c54560b88dee5cc61b9a1b_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108",
+      "publishedDateTime": "2021-04-20T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-only-6-of-companies-have-adopted-ai-study-finds.md",
       "title": "Only 6% of companies have adopted AI, study finds",
       "excerpt": "A new survey by Juniper Networks finds that while executives understand the value of AI, adoption remains a struggle.",
@@ -962,170 +1146,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-brain-on-a-chip-would-need-little-training.md",
-      "title": "Brain-on-a-chip would need little training",
-      "excerpt": "A neural network that mimics the biology of the brain can be loaded onto a microchip for faster and more efficient artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-04-brain-on-a-chip.html",
-      "originalUrl": "https://techxplore.com/news/2021-04-brain-on-a-chip.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/607ec32ac8241.jpg",
-          "width": 722,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-04-brain-on-a-chip.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-brain-on-a-chip.amp",
-      "publishedDateTime": "2021-04-20T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-nano-dimension-acquires-machine-learningdeep-learning-leader-deepcuibe-for-40m-in-cash-and-30m-in-adss.md",
-      "title": "Nano Dimension Acquires Machine Learning/Deep Learning Leader DeepCuibe For ~$40M In Cash And ~$30M In ADSs",
-      "excerpt": "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/m-a/21/04/20703444/nano-dimension-acquires-machine-learningdeep-learning-leader-deepcuibe-for-40m-in-cash-and-30m-in-ad",
-      "originalUrl": "https://www.benzinga.com/m-a/21/04/20703444/nano-dimension-acquires-machine-learningdeep-learning-leader-deepcuibe-for-40m-in-cash-and-30m-in-ad",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-nano-dimension-acquires-machine-learningdeep-learning-leader-deepcube-ltd.md",
-      "title": "Nano Dimension Acquires Machine Learning/Deep Learning Leader, DeepCube Ltd.",
-      "excerpt": "Nano Dimension Ltd., an industry leading A dditively M anufactured E lectronics/ PE provider, announced today that is has signed a definitive agreement to acquire DeepCube Ltd., a world leader in Machine Learning/ Deep Learning technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd.-2021-04",
-      "originalUrl": "https://www.nasdaq.com/press-release/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd.-2021-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates.md",
-      "title": "Startup taps radio frequency data, AWS tools to search the seas for pirates",
-      "excerpt": "The company developed these capabilities using Amazon Web Services' SageMaker Autopilot, a fully-managed service for building, training and deploying machine learning models. Using Autopilot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
-      "originalUrl": "https://www.zdnet.com/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
-      "publishedDateTime": "2021-04-20T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

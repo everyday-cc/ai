@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Amazon releases DeepRacer software in open source"
-excerpt: "Amazon made its DeepRacer available in open source, enabling developers to custom-program remote-controlled cars."
-publishedDateTime: 2021-04-27T17:00:00Z
-originalUrl: "https://venturebeat.com/2021/04/27/amazon-makes-deepracer-software-available-in-open-source/"
-webUrl: "https://venturebeat.com/2021/04/27/amazon-makes-deepracer-software-available-in-open-source/"
+excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+publishedDateTime: 2021-04-28T05:58:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912"
+webUrl: "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912"
 type: article
 quality: 66
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -80,6 +80,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AWS DeepRacer Sample Projects"
+    excerpt: "Build robotics applications with AWS DeepRacer device software and hardware:  - aws-deepracer/aws-deepracer-launcher"
+    publishedDateTime: 2021-04-27T22:49:00Z
+    webUrl: "https://github.com/aws-deepracer/aws-deepracer-launcher/blob/main/projects.md"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 71
+    images:
+      - url: "https://opengraph.githubassets.com/bf3d13faac34c0129d17c065cab2600e81568abe4856cbb4225805b4eabc5d8c/aws-deepracer/aws-deepracer-launcher"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Amazon announces it’s open sourcing DeepRacer device software"
     excerpt: "When Amazon debuted AWS DeepRacer in 2018, it was meant as a fun way to help developers learn machine learning. While it has evolved since and incorporated DeepRacer competitions, today the company announced it was adding a new wrinkle."
     publishedDateTime: 2021-04-27T17:00:00Z
@@ -90,6 +104,6 @@ related:
       domain: techcrunch.com
     quality: 66
 
-secured: "8J2jbfcg25MtpFKlUcsILM1O9+gUhy15Upr5wGWtkcXHf5mN7akddmYs67D0uO6rawmjhRM8291/MtV/9WRUpiBd9I+NPo+InUzkVhwMbEfKnCGUfYjLnN8LM8IlxxW0XDRMXoR9tzu/RfEjgmctWOCq+fPetlgt5mSuVrdfYZLjQ91vWgZ2E1uWYKiwL7gi6V+ew6YjDmG+zbq4Ik+Iu6SE/L2PScALTirlBlIQpOA7guoLR0VnOK4vfPRIiofaFB3Ql2yZQ3VoKVYwQoY5chAERipovYO1P4dZGTESKPSZVv56t6AbSc4zElJNDz5Kj/Xv11BYacmB/gjJLyeCVGn3YmIg43uoniDMncI6anP64cKJwImghmCGrzgcwJun76kA5UaI2hmuYI/U0xgF+6X6xov3jhK8f3Ic3NunrsM5tY1p2KUSMLioPZJvBXVV7mCsEaAdh6o2UtElWtb8MACMv2l4E5UYAq9cplaUp5J4wrRjeox0nRF5WfZuK7O8QOSTex+FyJy3DJyM1CUGWQ==;kVtplDJqrr1uzGTF7fE46Q=="
+secured: "7QqrerVcYrKEd2ZVcRZZu7CKNQ1ymSV7Z4PxIr0vA72gXVcYgZyzpCrV5OenRbulvLO50wE+2nsgIU23Bw//QRyj/yhcxr92kZvs0tUbuTFMhZG1izBJZqjWsEN/8XP7TaEgO6Up/fL1q7Rieh836ZA/zReAIdN3Ecu7AlST951sXSZVUGLdAqxT39jKBNVj1xZo08vdSQXtDfi8zgIVjn4e2RQp4TC/ch5jVtoLvYlOwkgl8bocRt0E5o6wya4Nv22ctn+HDkEDF/cnoi5qo/mMrEkE8xFtHmqdz2LKAcT6vxgI3CKPO1ZGaBP30c+NxvpU3wyBFglymekHZzXau5VEJmfCwdpvdkxde4ITPP8=;T1pUGcpc8J1kXoIgjLb5MQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intell
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/"
 type: article
 quality: 112
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Elon Musk says new Tesla self-driving update is ‘superhuman’ — here’s why"
+    excerpt: "Elon Musk has been taking up the upcoming debuts of the Tesla Full Self-Driving beta, claiming that the tech is “superhuman” when it comes to driving on highways and “swiftly getting there for city streets."
+    publishedDateTime: 2021-04-30T18:27:00Z
+    webUrl: "https://www.tomsguide.com/news/elon-musk-says-new-tesla-self-driving-update-is-superhuman-heres-why"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/elon-musk-says-new-tesla-self-driving-update-is-superhuman-heres-why"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/elon-musk-says-new-tesla-self-driving-update-is-superhuman-heres-why"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 58
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2wPjrnMvWcqe6ddLfVbevF-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "6ez78299teJ8hRfOrLnFk3poBe7HbzgR61NXiYTQNVh4sizpXhz8pl4kp1TVXNkY+5kox9IF+WvJyy/n61Pzwpg82nq8/StfkBYOXwU+EgTp5me2rVWGXBdSGOhpF3JU8aMv+OSxH0JXwji5P3dgVGkbKabHWmwdeWGChT5PGMKWGuNUj3eRd9zSWDD6xtnz1nvipBjtF2BldyKN2iKf4zvnwtk+syOfv75yfglQHguz0foxlAuIjcIXj1+ySWaGgzRIlI+CICHZPpKmStEY8hjTi1nPsJUscodQL2bwQ3eYmKd+WNjCbPIxXJkzX0o4/2ERuTc1Twys4rl+j2F1IiIPu3YtcF3Yjj8FWRTBkBU8jsAhD3vGUZbi/lSdWZ7b2/Nfw+KRnT9hnOIdbU23HX8y/OIOB0olOCPunokXK9kQrEklROy6XsDbhaylHGw9Wx6sN2309v6YhIPis3DXYzfhaVj9bIkpdqRPdkzMz/g7PDcMWyfe08pMWRzXS2unn3fDPUP0EysKEcYnfzYaQA==;h1CNUTzkd0LylYyXHlhJLA=="

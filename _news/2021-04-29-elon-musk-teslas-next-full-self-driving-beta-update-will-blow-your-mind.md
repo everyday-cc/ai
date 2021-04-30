@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk says new Tesla self-driving update is ‘superhuman’ — here’s why"
+    excerpt: "Elon Musk has been taking up the upcoming debuts of the Tesla Full Self-Driving beta, claiming that the tech is “superhuman” when it comes to driving on highways and “swiftly getting there for city streets."
+    publishedDateTime: 2021-04-30T18:27:00Z
+    webUrl: "https://www.tomsguide.com/news/elon-musk-says-new-tesla-self-driving-update-is-superhuman-heres-why"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/elon-musk-says-new-tesla-self-driving-update-is-superhuman-heres-why"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/elon-musk-says-new-tesla-self-driving-update-is-superhuman-heres-why"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 58
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2wPjrnMvWcqe6ddLfVbevF-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "bTiVKH1als5hBR39MJRrcAjoOIQqWSYK9dm2h0u+6JcEwhvZzHaSJfQHILn0WZSN/gAZUOtAVkHNrvvfrgDzDLLf0Dy+8FSCV16QyCgAMAwS0NEQMCxWTaYjLyO/4gTZJAbGA5a7wST/eAJcQAhKhqXP1bnBG7RpoQ5bIZbMYQh2ND2AObnFpPsvApIpI4MqIvFB5LKBAQ6wqC1TEz17xBfIb1a+O2I/ndovWFahFKatLud3DVpg9J9ey1IcNe4ErDXA71K8vlrI2zZizT5AyG3CTEIGZZb8803yIpJS/fg8bcfsFq6pQi85lmJZLqMYwSRYkslgYMghCiQVetd2g3rdhQnQPHbHJKWHPmq3jDEdFCa1PHqN7CqmUztX9aDzdhEZxG9I8OBUw4qxN1bpzVnzdSBnhshp68xKFQkwk7euuiJqOfeG/nIpp5EBizPcRubXX1XLbOexsiFwnLpevA/+usdtwojT7rk/dmZxzo696rkA/XiLTLQ5R7jjxgFHo7E88dJCR1v31ZB2ssnrhA==;P/9Dw9Oe4eFj922HnLVYGw=="
 ---

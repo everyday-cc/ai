@@ -109,6 +109,22 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "IBM’s Journey To Hybrid Cloud Territory Continues With Turbonomic Deal"
+    excerpt: "IBM has acquired Turbonomic, a Boston-based application resource management (ARM) and network performance management software provider."
+    publishedDateTime: 2021-04-30T18:46:00Z
+    webUrl: "https://www.pymnts.com/news/acquiring/2021/ibm-to-acquire-turbonomic/"
+    ampWebUrl: "https://www.pymnts.com/news/acquiring/2021/ibm-to-acquire-turbonomic/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/acquiring/2021/ibm-to-acquire-turbonomic/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/ibm-cloud-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "IBM Spends Up To $2B To Buy Turbonomic In AI Push"
     excerpt: "IBM will integrate Turbonomic’s ARM software with Instana’s APM and observability capabilities plus the ITOps capabilities of IBM Cloud Pak for Watson AIOps. By Wade Tyler Millward April 29, 2021, 01:12 PM EDT IBM hopes to boost its enterprise automation offerings with the planned purchase of Turbonomic in a deal reportedly valued at up to $2 billion."
     publishedDateTime: 2021-04-29T17:12:00Z
@@ -164,6 +180,20 @@ related:
       - url: "https://www.channelweb.co.uk/api/v1/wps/04412d9/50da5ff3-2a9a-4dd4-a156-b5da280a4625/3/ibm-building-large-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "IBM to Buy Turbonomic"
+    excerpt: "IBM (NYSE: IBM) is to acquire Turbonomic, a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
+    publishedDateTime: 2021-04-30T16:30:00Z
+    webUrl: "https://www.finsmes.com/2021/04/ibm-to-buy-turbonomic.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 24
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
+        width: 2700
+        height: 1411
         isCached: true
   - title: "IBM to acquire cloud optimization provider Turbonomic for reported $1.5B+"
     excerpt: "IBM Corp. is acquiring Turbonomic Inc., a Boston-based company with a platform that helps enterprises reduce cloud expenses and improve their applications’ performance. IBM didn’t disclose the value of the deal,"

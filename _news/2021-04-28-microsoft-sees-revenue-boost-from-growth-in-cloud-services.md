@@ -50,6 +50,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "MYCOM OSI’s Assurance Cloud Service launches on Microsoft Azure"
+    excerpt: "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
+    publishedDateTime: 2021-04-30T13:54:00Z
+    webUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/"
+    ampWebUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 74
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Cloud on track to take on AWS and Microsoft Azure"
     excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
     publishedDateTime: 2021-04-29T05:51:00Z
@@ -105,20 +121,6 @@ related:
       - url: "https://blocksandfiles.com/wp-content/uploads/2018/10/Excelero-splash.jpg"
         width: 803
         height: 534
-        isCached: true
-  - title: "MYCOM OSI's Assurance Cloud Service Launches on Microsoft Azure"
-    excerpt: "Provides assurance and observability support for telco-clouds running on Azure   LONDON, UK  - MYCOM OSI , the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world's largest Communications Service Providers (CSPs),"
-    publishedDateTime: 2021-04-30T01:57:00Z
-    webUrl: "https://menafn.com/1101996610/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?694758"
-        width: 445
-        height: 250
         isCached: true
   - title: "Allscripts looks to leverage Microsoft partnership as tech giant expands healthcare ambitions"
     excerpt: "Microsoft is expanding further into healthcare and that opens up strategic opportunities for Allscripts to leverage its partnership with the tech giant, company executives said. Here's how the health IT company plans to leverage the collaboration to grow its business with providers as well as payers and life sciences companies."

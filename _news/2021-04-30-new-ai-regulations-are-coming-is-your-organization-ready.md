@@ -58,6 +58,20 @@ related:
         width: 1024
         height: 710
         isCached: true
+  - title: "A scientist created emotion recognition AI for animals"
+    excerpt: "A researcher at Wageningen University & Research recently published a pre-print article detailing a system by which facial recognition AI could be used to identify and measure the emotional state of farm animals."
+    publishedDateTime: 2021-04-30T19:40:00Z
+    webUrl: "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Flivestockemotion.jpg&signature=bc77a1971b37144e3e614b7fcb233d9f"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "enF2UHBHmE5KXQKvjFKtPMWxa2wKQSWKcYwmJCdKdzMOUHv41saOFLN7RhtyhZRsr0b75p9O60v5A+HgngCgRGCVZBfGfC2Qcv4is+4QE7Ks/wNH7v9H4m2QCDvtqgM7KiKBg7yCdyKMvs4HK62H6KCfTj0TKzZTsDJrLm5MICheQcDa+PqRuqWbsaIK+QF/4LBFiEFULKoVFbudQWz7UQTZWNL5dPOc0p8xMT/0XEfvkn1YfEaWkiYVNW0prtLo9Ne5ZFivKdXdBivQM59gTM433e/rxN1SNsgRIbTnGj/ds3fGQ/yGEwQtZM2gYZuSEAdo7/BtRTwUOwpRdW5ythOUS8bPA2uCJCV6bRo1YnI=;O9KCi7TZ+BaWVcH7HrtZ1Q=="
 ---
