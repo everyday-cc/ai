@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-30-aws-and-azure-still-dominate-cloud-but-rivals-can-still-thrive-and-help-support-dsps.md",
+      "title": "AWS and Azure still dominate cloud, but rivals can still thrive and help support DSPs",
+      "excerpt": "Cloud infrastructure services market was worth $39.5 billion in Q1AWS and Azure together account for more than half of thatBut the market is so big and still",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/digital-platforms-services/aws-and-azure-still-dominate-cloud-but-rivals-can-still-thrive-and-help-support-dsps-41391/",
+      "originalUrl": "https://www.telecomtv.com/content/digital-platforms-services/aws-and-azure-still-dominate-cloud-but-rivals-can-still-thrive-and-help-support-dsps-41391/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/cloud-leaders-11559.jpeg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/digital-platforms-services/aws-and-azure-still-dominate-cloud-but-rivals-can-still-thrive-and-help-support-dsps-41391/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/aws-and-azure-still-dominate-cloud-but-rivals-can-still-thrive-and-help-support-dsps-41391/amp/",
+      "publishedDateTime": "2021-04-30T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-route-mobile-to-buy-ai-firm-phonon-for-rs-29-crore.md",
       "title": "Route Mobile to buy AI firm Phonon for Rs 29 crore",
       "excerpt": "Phonon offers a complete suite of conversational AI-driven contact centre solutions with integration on cloud platforms like AWS, Azure, and Google Cloud.",
@@ -1376,50 +1420,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-microsoft-buying-speech-recognition-firm-in-16b-deal.md",
-      "title": "Microsoft buying speech recognition firm in $16B deal",
-      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health care industry through Nuance’s widely used medical dictation and transcription tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesrepublican.com/news/money-markets/2021/04/microsoft-buying-speech-recognition-firm-in-16b-deal/",
-      "originalUrl": "https://www.timesrepublican.com/news/money-markets/2021/04/microsoft-buying-speech-recognition-firm-in-16b-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ogden_images.s3.amazonaws.com/www.timesrepublican.com/images/2021/04/13010153/AP21102458179095-1100x817.jpg",
-          "width": 1100,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T23:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Republican",
-        "domain": "timesrepublican.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

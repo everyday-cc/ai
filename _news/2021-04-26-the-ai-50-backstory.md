@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "COD Student Tackles Artificial Intelligence"
+    excerpt: "One of your neighbors posted in Schools. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
+    publishedDateTime: 2021-04-30T14:00:00Z
+    webUrl: "https://patch.com/illinois/glenellyn/cod-student-tackles-artificial-intelligence"
+    ampWebUrl: "https://patch.com/illinois/glenellyn/amp/29471926/cod-student-tackles-artificial-intelligence"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/glenellyn/amp/29471926/cod-student-tackles-artificial-intelligence"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 57
+    images:
+      - url: "https://patch.com/img/cdn20/users/91525/20210430/100048/styles/patch_image/public/blerimabdullai-web___30095834871.jpg?width=984"
+        width: 800
+        height: 600
+        isCached: true
   - title: "The future of ethical AI"
     excerpt: "Pro Bono News sits down with artificial intelligence researcher Thao Phan to discuss the issues of ethics of race and gender in AI"
     publishedDateTime: 2021-04-26T22:58:00Z

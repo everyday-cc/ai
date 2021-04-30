@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "New Opportunities in Voice Recognition Biometrics Market 2021 Growth, Segmentation"
-    excerpt: "The recent analysis of Voice Recognition Biometrics market size has been methodically put together to impart an in-depth understanding of the key as"
-    publishedDateTime: 2021-04-27T16:26:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-biometrics-market-388373/"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-biometrics-market-388373/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-biometrics-market-388373/amp"
+  - title: "New Partnership to Bring Face-based Biometric Security to IoT Devices"
+    excerpt: "Canaan and Cathay Tri-Tech will be working together to develop new IoT devices with facial recognition capabilities"
+    publishedDateTime: 2021-04-30T15:43:00Z
+    webUrl: "https://mobileidworld.com/new-partnership-bring-face-based-biometric-security-iot-devices-74202104/"
     type: article
     provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 38
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 41
     images:
-      - url: "https://www.express-journal.com/img/img-6.png"
-        width: 500
-        height: 300
+      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
+        width: 359
+        height: 400
         isCached: true
   - title: "North Carolina school district buys face biometrics to monitor students and staff"
     excerpt: "A facial recognition surveillance system from Verkada has been purchased in North Caroline by a rural school district in northwest of Charlotte."

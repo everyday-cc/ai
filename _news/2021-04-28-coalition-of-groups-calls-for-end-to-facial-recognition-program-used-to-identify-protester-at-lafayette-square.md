@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "FBI turn to high-tech facial recognition, undercover operations to nab Capitol invaders"
-    excerpt: "FBI agents in Kentucky turned to computerized facial recognition technology to nail Mr. Randolph’s identification and went undercover to try to obtain incriminating statements, the affidavit discloses."
-    publishedDateTime: 2021-04-25T22:12:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/apr/25/fbi-use-facial-recognition-undercover-operations-n/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/apr/25/fbi-use-facial-recognition-undercover-operations-n/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/apr/25/fbi-use-facial-recognition-undercover-operations-n/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 51
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/25/riot_c0-167-2000-1333_s1200x700.jpg?6663594792c831dfd543b8d9daf749911c3ca1e7"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "HSPPR gets new facial recognition technology to find lost pets"
     excerpt: "The Humane Society of Pikes Peak Region has teamed up with Petco Love to help find lost pets and reunite them with their families by taking advantage of new technology. According to industry statistics,"
     publishedDateTime: 2021-04-29T19:01:00Z

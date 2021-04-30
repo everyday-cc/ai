@@ -26,30 +26,16 @@ images:
 
 related:
   - title: "Inpixon Enters Rapidly Growing Mobile Augmented Reality Market with Acquisition of AR, Computer Vision and 3D Reconstruction Technologies"
-    excerpt: "Inpixon (Nasdaq: INPX), the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality (AR),"
-    publishedDateTime: 2021-04-26T13:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies-1030346080"
+    excerpt: "Inpixon (Nasdaq: INPX), the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality (AR), computer vision, localization, navigation,"
+    publishedDateTime: 2021-04-26T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and/article_e539a97e-610b-56d5-a445-250c4715d9aa.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 6
     images:
-      - url: "https://mma.prnewswire.com/media/1496098/Inpixon_AR_warehouse1.jpg"
-        width: 400
-        height: 216
-        isCached: true
-  - title: "Inpixon acquires suite of Augmented Reality, computer vision and 3D mapping technologies from Visualix"
-    excerpt: "Inpixon, a company that uses technology to capture indoor data to create actionable intelligence, has this week announced the acquisition of a suite"
-    publishedDateTime: 2021-04-30T07:09:00Z
-    webUrl: "https://www.auganix.org/inpixon-acquires-suite-of-augmented-reality-computer-vision-and-3d-mapping-technologies-from-visualix/"
-    type: article
-    provider:
-      name: auganix
-      domain: auganix.org
-    quality: 23
-    images:
-      - url: "https://www.auganix.org/wp-content/uploads/2021/04/Inpixon-Visualix.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/14/814cb6da-7b5a-58cd-b155-8088ec494826/6086c0903284d.image.jpg?resize=887%2C478"
         width: 887
         height: 478
         isCached: true

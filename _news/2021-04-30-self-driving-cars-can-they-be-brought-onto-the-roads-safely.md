@@ -7,7 +7,7 @@ originalUrl: "https://www.cioreview.com/news/selfdriving-cars-can-they-be-brough
 webUrl: "https://www.cioreview.com/news/selfdriving-cars-can-they-be-brought-onto-the-roads-safely-nid-33447-cid-246.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,40 @@ images:
     width: 705
     height: 485
     isCached: true
+
+related:
+  - title: "Elon Musk Shares Painfully Obvious Idea About the Difficulty of Self-Driving Cars"
+    excerpt: "Elon Musk, one of the wealthiest people on the planet, sent a tweet Thursday night about the real problem with self-driving cars. And as you can probably guess by now, it’s one of those things that sounds profound until you stop to think about it for three seconds."
+    publishedDateTime: 2021-04-30T15:00:00Z
+    webUrl: "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236"
+    ampWebUrl: "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 84
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/22f3a11838a74d9511c1a95958c0284f.jpg"
+        width: 800
+        height: 449
+        isCached: true
+  - title: "Making Safe Self-Driving Cars Is Really, Really Difficult, So Lyft Just Sold Its Self-Driving Tech"
+    excerpt: "Lyft just sold their self-driving tech to a Toyota subsidiary. Uber bailed out of their effort in 2020. Tesla drivers over-rely on self-driving tech with disastrous results. Meanwhile, companies continue to wrestle with autonomous driving tech."
+    publishedDateTime: 2021-04-28T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/"
+    ampWebUrl: "https://www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6088f359ae5e001f1312768e%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "LKQYUx9rSUkHj4IsCMM5PDyP/BTAf4J87qzlYyEyn68sNcYfinOyGeRBGm+sT7VSPx0SeSLqFlr2notEQxi3OEQIE8StQdK6/QMtYLDDQFx3EjlJ1imj8HOKNGrcoV59Neaauwr2e/JHHC9O/DTk3KxLioZqtO2tPZcnntaTliO5+GC55khU40a0K/6OzKpmJqb0QUGwKotVFp5J+SWqQkHT+9DcraxjzWNpDFqrNoGViTJHCNwxjU4Ri1ppC8cNktZenPEyrvdZUkeG2U89k+9NP+klWwjzwojdT2N5NLIgLPau4sIuJgNIlwiF7ATYsAyYjD23DQG6d0AuGZy1zok0YA5t8QRa0bqzP50dgucPiLaZ6Wbsj16MVHPMaBzn5mBy75craTjNU0DAIGw4OCoHtd709GmMkFcWgha21MxrIIWu245veBbvzniCL6VQdBjpjPTH/M9vApfYTT6EnfdO6EL2S3P/6sTULho0OyqbisVFFiqoP1YGo6/VT6PENAzX8w9f/KKoAzexl3OaGA==;TCjqf6CCpR404B+zWA5IYg=="
 ---

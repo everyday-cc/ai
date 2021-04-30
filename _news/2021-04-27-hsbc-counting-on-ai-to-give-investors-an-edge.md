@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "5 Best Automotive Stocks to Invest in Now"
+    excerpt: "Baidu markets self-driving services, including maps, automated valet parking, autonomous navigation pilot, electric vehicles, and robo-taxi fleets. Baidu has teamed up with Chinese carmaker Geely ..."
+    publishedDateTime: 2021-04-28T07:04:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-automotive-stocks-to-invest-in-now-938063/?singlepage=1"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 24
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/01105255/Ferrari-RACE-sports-car-auto-piqsels.com-id-stefh.jpg"
+        width: 1360
+        height: 1020
+        isCached: true
 
 secured: "Wf/LhcbJ2uziid9/7jP//X+vwLHRMPUMTcaLk/XyhA3tYcw/67dZgF3KiahIGqavtdA+cGOCLpR6DhYip/1IXJlVc7A8l3NTuYCgDjWH4vE+yZYW7uUdc3Zq6XD1gSdAEouxzvjA1KhFvd8KjNKdFPXljwM4nv58TC8M/SOS4RPiXuBsY5emlincGhWHvcjStqmJ6uD358RebcE1RUXdQo0khEJ/+xabUse51pVYwwfO+5NaQzQYitIikCn4xdDt82JA6zuZlPXxjRe4yToOYUYAZtRkVwgMDaDUMdNJsGp+OEURc7wdtE+SD6zDNr36+8hL2wmNff9el1L6waKGDoLjRKhOjBTEwnU9+P/vK/M=;3v+ZfqqouGyiqOrkRu4Ttg=="
 ---

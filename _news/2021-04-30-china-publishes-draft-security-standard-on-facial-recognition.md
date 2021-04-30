@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "FBI turn to high-tech facial recognition, undercover operations to nab Capitol invaders"
-    excerpt: "FBI agents in Kentucky turned to computerized facial recognition technology to nail Mr. Randolph’s identification and went undercover to try to obtain incriminating statements, the affidavit discloses."
-    publishedDateTime: 2021-04-25T22:12:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/apr/25/fbi-use-facial-recognition-undercover-operations-n/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/apr/25/fbi-use-facial-recognition-undercover-operations-n/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/apr/25/fbi-use-facial-recognition-undercover-operations-n/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 51
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/25/riot_c0-167-2000-1333_s1200x700.jpg?6663594792c831dfd543b8d9daf749911c3ca1e7"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Coalition of groups calls for end to facial recognition program used to identify protester at Lafayette Square"
     excerpt: "A group of technology, civil rights and legal groups is calling for an end to a facial recognition system used by authorities in the Washington region that helped identify a demonstrator accused of assaulting a police officer during the forceful clearance of protesters from Lafayette Square last summer."
     publishedDateTime: 2021-04-28T10:04:00Z

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 646
         isCached: true
+  - title: "COD Student Tackles Artificial Intelligence"
+    excerpt: "One of your neighbors posted in Schools. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
+    publishedDateTime: 2021-04-30T14:00:00Z
+    webUrl: "https://patch.com/illinois/glenellyn/cod-student-tackles-artificial-intelligence"
+    ampWebUrl: "https://patch.com/illinois/glenellyn/amp/29471926/cod-student-tackles-artificial-intelligence"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/illinois/glenellyn/amp/29471926/cod-student-tackles-artificial-intelligence"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 57
+    images:
+      - url: "https://patch.com/img/cdn20/users/91525/20210430/100048/styles/patch_image/public/blerimabdullai-web___30095834871.jpg?width=984"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "Zkp6vkcoh1TN8VrX4EC30aznEhI5rNZKA4F6Bpv+rBsKrPIhx9u5BeBD0Dp4bYYutA4g6lGXLLawJdVXZWTJ3f+kX4aqHy6E2D6D5MXKRWEe44ocgVkZthjMQ8OXMpJcB+uZtfwTd+qG/IlCRmZf22m3H8kXYZ9Fh8SI8nknSotYVAVs/6idcJT5kP1u9Tk8YcdWtTPSAvg4bmrAUH5DQ7Hn2IZnei9PbTJ2gmbD0y3L/rtfXK/JpgnXds5bf1xOmzezablsHK8XAFZGqP9inqr0+5MqLRBbgVEydhV7auA9fYLYLOA1M3KrrNeSPTKba+XHRw+CVm+bdXf0JLFUxmevkp0IJbv3y8WHFbA8huA=;TnVITXD7M4/u4j7WmW1chQ=="
 ---

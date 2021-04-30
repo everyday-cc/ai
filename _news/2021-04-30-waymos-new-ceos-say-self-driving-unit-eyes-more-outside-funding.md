@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-29/waymo-s-new-ceo
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-29/waymo-s-new-ceos-say-self-driving-unit-eyes-more-outside-funding"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Bloomberg
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Alphabet self-driving unit Waymo's new co-CEOs seek more outside funding"
+    excerpt: "The new co-CEOs of Alphabet Inc.'s Waymo self-driving arm say they are looking for more outside investment. Dmitri Dolgov and Tekedra Mawakana told Bloomberg Television in an interview on Thursday that they may use the new funding they want to make acquisitions."
+    publishedDateTime: 2021-04-30T14:30:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/30/waymos-new-co-ceos-seek-more-outside-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
 
 secured: "OIZy62pw3ISQZba2ZPdc8UiYmfm8627/Taexrkfo7qg5MMEtiVEivfMX8RsxRR1bOYZFAx+kUaaQhQNWfVagc20xBXlUEh9gyoUpySSjuke8oMT+jvRKBFTMNbZUcO/z7GpHv52QfN63pE/SuxD9j4/4xCfLhlC1fYP3sqppS3o96gx2WQDFgrrx6CD0MKjZql2N6DTgqeINmzte4bZOHNpt+lqfi0qa+J3CalTB/ksVL0UlubLcXT+qcxH6cOeiAltdFco7ZIuKIOUH1Wuxj6V4Udo5XAzydYXPapKL522tvIFxv/dM7pEa6FQmV8Of/Kq54sHLEZcYLJnLHlCGGJdxY6jeX3IlBocJOenaV30FyBGW4ZeapCP8mgCVZqDRHurhYir/4m/Vy3qTkjjY9F+VlGKWuB6kZXe+sKxHiuUivaYbDyou0JUjPre5N1bXdv+GStzKq1e3k+gDnvB7fsGGZ74fOrCxrDZ7FKUJSusMnVLwIKMDYum5BQHiGF9Tt4UmQwQ3BpZHj72rFesGoA==;qlT6sR4Uk7aFbO6jDYQWpA=="
 ---

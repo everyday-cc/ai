@@ -1,27 +1,29 @@
 ---
 category: news
-title: "MYCOM OSI's Assurance Cloud Service Launches on Microsoft Azure"
-excerpt: "Provides assurance and observability support for telco-clouds running on Azure   LONDON, UK  - MYCOM OSI , the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world's largest Communications Service Providers (CSPs),"
-publishedDateTime: 2021-04-30T01:57:00Z
-originalUrl: "https://menafn.com/1101996610/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
-webUrl: "https://menafn.com/1101996610/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+title: "MYCOM OSI’s Assurance Cloud Service launches on Microsoft Azure"
+excerpt: "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
+publishedDateTime: 2021-04-30T13:54:00Z
+originalUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/"
+webUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/"
+ampWebUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
+cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: TelecomTV
+  domain: telecomtv.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?652781"
-    width: 444
-    height: 250
+  - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -172,6 +174,6 @@ related:
       domain: realwire.com
     quality: 34
 
-secured: "TP6AEyqxPN1p7I0PWrftDC2b8yDcgY8uAbqKr+3rJJz/GKhAWKrrllftlcEnICRQ/ZSCM6cEClQcn8cDrFuRwwuJi+18QwMdfTi3u9+4i3/JF84aEREgIaGwxDmua8j6zXmpZlvA6E7NUY/aYaLSr+IpBa+kofoFS6Ee3GLA5NA7lBxFlKOJfdjQiVQdDkomkJ41QCtecgsFWBwisPOub0UgFtZNd0F4QOnKE1oqnM9vyPDk2pK4DAJDQuk5u4RwzmDuPijgF77NJ1sLLQo7qEr9MxjB0nW1I8yPOh0G5m7K5jHiLa9kUztffmjJ9XfXDMZG770HYhcnIqVv5f5d6Jxp/gfP9459S6ZdmrO40aI=;kuveJCLn5TIud3oWAs7Ztw=="
+secured: "NU51qAanwltJfveWA+EQ03lygO7tJ8FZ5MayGqvqjVUFrffT+FG5OUjAPnZVnZ03tgaBhc6cwrEHPbnvcd1yzNtxysVtFioUgsD6iLI/jpa7Hz8x8FU7MYQ2Cl5cWassmjBQEa6cGyvobG7AcAVj0iXh+JIBzBKeY1CQAY2imtlVbO6g7EBmMRCcp2eoIY0L6M1jPhBnfRLKg035Br7PSInmxfos/8ybBJQyBel69FsY9cYkPXk03nHHH+L3WXMMPg4G/IIz0zw5nfyx0a6zdUvE+WwBR+N9l2ly4jYgliuIzShVuGO/Mym4U0342N2DfS8LOuZvwFEmWKC2zB+m9IIGiAEAaJj+jog7KUBWeQY=;52yn5nOux18oMhA2q+vsSg=="
 ---
 

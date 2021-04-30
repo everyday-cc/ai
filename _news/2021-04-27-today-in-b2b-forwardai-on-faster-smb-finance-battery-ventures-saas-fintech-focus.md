@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/amp/"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: pymnts.com
@@ -25,6 +25,24 @@ images:
     width: 457
     height: 274
     isCached: true
+
+related:
+  - title: "Brex Leads A Busy Week In B2B FinTech Funding"
+    excerpt: "More than $836 million in funding went to B2B FinTech startups this week, with commercial card company Brex leading the pack."
+    publishedDateTime: 2021-04-30T14:05:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/brex-leads-busy-week-in-b2b-fintech-funding/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/brex-leads-busy-week-in-b2b-fintech-funding/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/brex-leads-busy-week-in-b2b-fintech-funding/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/Brex-investment-Tiger-Global-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "YTvnAeFMBPaSRfFNaCGmUFgl42ZxXqZ/0txSYolAJSK44VYN+ESxhjyZcz435abZbKHm6UdTzxfxp+fsEri9BQ3OrkManGz66FShnTPLJJce5ke5o5YyCqLnz7K3q/mObPZdUSuL5LUr5T5/VANhXAwzJ7cJu1c7s6OAq6t1BmSjJN2z9ZD5HdINdRQZN9DgQFvEcl323mpSnrAMj9dHp3vpQRicZqqAgkjkIWAM5PS0XcILQgun5JhlXeCcvNBUzTWBeDvWsOyJRnzp7qEgx+vlqBtHy0ich5QnGWi/97kg4S0l9qMNVmn5GYFJOGV/KkMO8aGftf9RrvUrWiN644sGIw2Le1tpalrPzgI5thE=;SKigWAL0ReYyMUNB27I7rg=="
 ---
