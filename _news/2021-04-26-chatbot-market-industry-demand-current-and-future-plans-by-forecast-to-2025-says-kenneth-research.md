@@ -29,33 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Security Market: Trends 2021: Share and Competitive Landscape Forecast to 2024 | Says Kenneth Research"
-    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Security Market, which has been"
-    publishedDateTime: 2021-04-28T07:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-04-28"
+  - title: "Global Artificial Intelligence (AI) Robots Market Industries Significant Growth Analysis and Future Sales Demand"
+    excerpt: "Global Artificial Intelligence 40AI41 Robots Market Industries Significant Growth Analysis and Future Sales Demand"
+    publishedDateTime: 2021-04-30T10:25:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269119027/global-artificial-intelligence-ai-robots-market-industries-significant-growth-analysis-and-future-sales-demand"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 65
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.bignewsnetwork.com/cus1619495378541.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Artificial Intelligence in Accounting Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis From 2020-2025"
-    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The market for Artificial Intelligence in Accounting Market is expected to register a CAGR of 30% over the forecast period (2020 - 2025) - Over the years,"
-    publishedDateTime: 2021-04-29T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025-2021-04-29"
+  - title: "Artificial Intelligence (AI) in Retail Market - Top Vendors Analysis, Market Challenges and Geographical Analysis"
+    excerpt: "How will North America Artificial intelligence AI in retail market perform over 2018 2024 The growth map of artificial intelligence AI in retail market is estimated to depict quite an ascent by 2024 driven by the increasing implementation of AI"
+    publishedDateTime: 2021-04-28T12:06:00Z
+    webUrl: "https://www.openpr.com/news/2276788/artificial-intelligence-ai-in-retail-market-top-vendors"
+    ampWebUrl: "https://www.openpr.com/amp/2276788/artificial-intelligence-ai-in-retail-market-top-vendors"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2276788/artificial-intelligence-ai-in-retail-market-top-vendors"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/4/U428426704_g.jpg"
+        width: 640
+        height: 300
         isCached: true
   - title: "Artificial Intelligence Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast – 2021 to 2027"
     excerpt: "Artificial intelligence has been one of the fastest growing technologies in recent years AI is associated with human intelligence with similar characteristics such as language comprehension reasoning learning problem solving and more Manufacturers in the market witness tremendous fundamental intellectual"
@@ -73,31 +75,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Research on Voice Recognition for Automotive Market 2021: By Growing Rate, Type, Applications, Geographical Regions, and Forecast to 2026"
-    excerpt: "The recent analysis of Voice Recognition for Automotive market size has been methodically put together to impart an in-depth understanding of the ke"
-    publishedDateTime: 2021-04-27T16:24:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 11
-    images:
-      - url: "https://www.express-journal.com/img/img-3.png"
-        width: 1044
-        height: 625
-        isCached: true
-  - title: "Voice Recognition for Smartphones Market Growth, Trends, Forecast and COVID-19 Impacts (2021 - 2026)"
-    excerpt: "The recent analysis of Voice Recognition for Smartphones market size has been methodically put together to impart an in-depth understanding of the k"
-    publishedDateTime: 2021-04-27T16:29:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-for-smartphones-market-388375"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 0
 
 secured: "khBU1uEmT4CQ5/GJaZCTfCJl+JgXUS7marc7XFgbGVThqN0EhyTYzeUBobW5fp/GbReyDoeTrKNxWRz0zOm9vFLUWFw8hcsX2SeBTUPxd79O+tchf9+KOOV6u4pB1H4ZJtGhstXk3gjTq3b2w3Mx10COnMbWhXmfEWrXQQGpineBswDnq9BrG73CStxs7bPE5n9oYWuO6J7j/VWdUPSss6RT7ivFIbuJukBSB+3EjPpnDFaHRgpStPnXFNjEf2JMEN75M5aEyvWFmp14ExjXaiwPkNo9YtaZNRDzIIcOi5lqcbIcVwIttp6L16H+I4L+WCQpRZU9zUVj9DmBFyjDIiXq41RaOTuu0Yiin69fJPg=;NI2MuvVpf9G9oejrgHU6FA=="
 ---

@@ -107,6 +107,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "Allscripts looks to leverage Microsoft partnership as tech giant expands healthcare ambitions"
+    excerpt: "Microsoft is expanding further into healthcare and that opens up strategic opportunities for Allscripts to leverage its partnership with the tech giant, company executives said. Here's how the health IT company plans to leverage the collaboration to grow its business with providers as well as payers and life sciences companies."
+    publishedDateTime: 2021-04-30T10:45:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/allscripts-looks-to-leverage-microsoft-partnership-as-tech-giant-further-its-ambitions"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 45
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1619734506/GettyImages-1018676898.jpg/GettyImages-1018676898.jpg?xwabYRqkBFPym1UOV.TzaLwA5SoTdVU6"
+        width: 6000
+        height: 3376
+        isCached: true
   - title: "Artificial Intelligence Software Market Impact Analysis for the New Normal| Ipsoft, H2O.ai, Brighterion, Ada Support, Microsoft"
     excerpt: "Artificial Intelligence Software Market is growing at a 33.10% CAGR during the forecast period 2020-2026. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
     publishedDateTime: 2021-04-27T12:12:00Z

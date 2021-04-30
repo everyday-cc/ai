@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/04/30/samsung-bespoke-jet-bot-ai-r
 webUrl: "https://www.gizmochina.com/2021/04/30/samsung-bespoke-jet-bot-ai-robot-vacuum-cleaner-launched-korea/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1000
     height: 667
     isCached: true
+
+related:
+  - title: "Samsung Launches Jet Bot AI Robot Vacuum Cleaner"
+    excerpt: "Samsung unveiled its AI-powered Bespoke Jet Bot Robot Vacuum cleaner in Korea. Building upon the design of currently available"
+    publishedDateTime: 2021-04-30T11:15:00Z
+    webUrl: "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/"
+    ampWebUrl: "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 76
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2021/04/608bcadab1525.png"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "Sdg8tLQJZnirZvXS2QL6bhKIjI13PSbFD9mVSsBzQiOWQS3WrXha0LspqBoaT0zuX5geRYSwt2tPnJ/0QFEpdr+ILqX8d9rmNB907Nmuf0kl3RwZTbfo1/jzhTv7athTRft+SHt/l+OTeIh5KFuykXrqJzs2iOgw8JSUXtbi3RRonH58BZ6BdkJ/TvsWenBf0c3B5Z/gkQc/4T+xZ/BvUU2K9jXah5hC0cerkp9HZN2tq1L6lbbHWo3IZYTUSD7gjA1CKBWQ26Avl8yKI7fjzTq7lBYcc2Srg/AvvnaFMqtJ5XXO5V/zwjuuukpuysnoE42pCD6Riwva2VOkmBYD9ekKlSrAHoL9uG6alVL/vdgVcYxTrRrTNSH4SGTUuvqfZ2MdThkvj7e0HSPwHhVDxtINNYGIsRmH6lSCu3Oqep9mjri4wvIDb8mDcJUMiddBCDItgl01T8aIMqcQckD1G4rYhLRMc9ppCgcBsZX1GB9lq3d20OIEc0OSzJNqcoM/ZRDGHGW2yG6OpXZBQXSQ1w==;fj0YD4uAmiUbjMZMMt8hpw=="
 ---

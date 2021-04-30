@@ -47,6 +47,22 @@ related:
         width: 550
         height: 400
         isCached: true
+  - title: "IBM to acquire AIOps firm Turbonomic"
+    excerpt: "The announcement follows IBM's recent acquisition of Instana, as well as the launch of IBM Cloud Pak for Watson AIOps, which automates IT operations with the help of artificial in"
+    publishedDateTime: 2021-04-30T11:24:00Z
+    webUrl: "https://www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic"
+    ampWebUrl: "https://www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1619780773/itpro/shutterstock_ibm_stripes.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "IBM buys Turbonomic for AIOps, hybrid-cloud management support"
     excerpt: "By acquiring Turbonomic, IBM gains tools that manage performance of everything from applications and containers to virtualization, cloud, and on-prem compute, storage, and network resources."
     publishedDateTime: 2021-04-29T20:14:00Z

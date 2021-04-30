@@ -2,24 +2,24 @@
 category: news
 title: "False facial recognition sends innocent New Jersey man to jail"
 excerpt: "New Jersey police arrested an innocent man on unlawful possession of a weapon, resisting arrest and aggravated assault charges after he was falsely identified by facial recognition technology. Law enforcement agencies across the country use facial recognition to generate leads on suspects,"
-publishedDateTime: 2021-04-29T19:35:00Z
-originalUrl: "https://www.hawaiinewsnow.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
-webUrl: "https://www.hawaiinewsnow.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
+publishedDateTime: 2021-04-29T20:35:00Z
+originalUrl: "https://www.wave3.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
+webUrl: "https://www.wave3.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: KHNL
-  domain: hawaiinewsnow.com
+  name: WAVE3
+  domain: wave3.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.hawaiinewsnow.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG"
+  - url: "https://www.wave3.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG"
     width: 1200
     height: 671
     isCached: true
@@ -56,6 +56,6 @@ related:
         height: 671
         isCached: true
 
-secured: "WYGnyLFkYaXKcemP8DVQpE2tWyVRxvMaozV/cbxlweL51sf3x89Ln9mJbf7P1XlHtSpXcopLTDgyYIdcTS8BRcLkCakp5UhMcDi777FOAgDPEIW6S1SHFqlby/ct0W/Euqf5U+tU55DrvIK+98bN445A6NdJoeX/tCE7fJJ0SMDAbuvvAlyyVhbMZUWn0A+enyPlt3OwkcwusjOCLozZe1XsuFSWPU5VXvAUudIePIdDy1WNtOrW6nqfV2k0l+pSBwgVj+ogBIjIv7jMpX0ypcFhLQzxNmEW+DjCwT8wGkEYQJWCy4qM7L8lvwqDIHV/rUoEIf5eiaySSrLz4tO8LwNqnwueaVn1JU7DCxu4FU8=;Avdn2xuO5kxKGxlv1SFoog=="
+secured: "iNeDVE5rCQjxX0GbeiDX5FHcQ5SdJF3njb41PeGZymFeJFTvSl1rK3doE8nwd7SSBmcz1EYDJEc0O9RKaevdcQrMEJ0DBh4hxk/7YK2zWPQcCe0LAqCzWtUFHEq8ATG7XejN4bJ8SAMaZTkFIN7HdqL82qjp5gREAywRY5XwvKKTTFWO1S22Grvv9axvZ8zyji/C6ciO/0DRZkfmxz78Jgn4gFgHaf52t/vwzxVt5BT52sVHoYWTpQIzKKg8yWY6pQIS4T52tT/n/zz0HlscQVaMTtZlfPB49zF++bQgNJuJ0rVJz3W8lk9ikd14QNXOMAQbSnfTCXmq8vqlHqiI3zBPXmraFO5iglh6HFYPu2g=;WqRs4FptkU8W3rvqBKe21Q=="
 ---
 

@@ -121,6 +121,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "Allscripts looks to leverage Microsoft partnership as tech giant expands healthcare ambitions"
+    excerpt: "Microsoft is expanding further into healthcare and that opens up strategic opportunities for Allscripts to leverage its partnership with the tech giant, company executives said. Here's how the health IT company plans to leverage the collaboration to grow its business with providers as well as payers and life sciences companies."
+    publishedDateTime: 2021-04-30T10:45:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/allscripts-looks-to-leverage-microsoft-partnership-as-tech-giant-further-its-ambitions"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 45
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1619734506/GettyImages-1018676898.jpg/GettyImages-1018676898.jpg?xwabYRqkBFPym1UOV.TzaLwA5SoTdVU6"
+        width: 6000
+        height: 3376
+        isCached: true
   - title: "Feature Store: Are Google And Microsoft Late To The Party?"
     excerpt: "AWS launched Amazon SageMaker Feature Store — a fully managed and purpose-built repository to store, update, retrieve and share machine learning features for trai"
     publishedDateTime: 2021-04-26T12:31:00Z

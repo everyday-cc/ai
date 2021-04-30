@@ -2,6 +2,178 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-03-23-data-and-ai-ethics-market-report-gives-industry-size-growth-production-types-applications-growing-rapidly-with-recent-trends-2021-to-2026.md",
+      "title": "Data and AI Ethics Market Report Gives Industry Size, Growth, Production, Types, Applications, Growing Rapidly with Recent Trends 2021 to 2026",
+      "excerpt": "The Data and AI Ethics market size analysis is provided for the international market including development history, competitive landscape analysis, major regions’ development status, manufacturing processes and cost structures. Also, the research gives ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-report-gives-industry-size-growth-production-types-applications-growing-rapidly-with-recent-trends-2021-to-2026-2021-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-report-gives-industry-size-growth-production-types-applications-growing-rapidly-with-recent-trends-2021-to-2026-2021-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025.md",
+      "title": "Deep Learning Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2025",
+      "excerpt": "Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025-2021-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025-2021-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-canada-based-startup-dataperformers-targets-ai-powered-visual-inspection-solutions.md",
+      "title": "Canada-based startup Dataperformers targets AI-powered visual inspection solutions",
+      "excerpt": "innovation clusters that host world-leading AI technology firms and talent, startup Dataperformers endeavors to incorporate AI technologies into the day-to-day operations of the manufacturing industry. The Dataperformers team specializing in deep learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20210322PD215.html?chid=9",
+      "originalUrl": "https://www.digitimes.com/news/a20210322PD215.html?chid=9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-moodys-analytics-wins-award-for-best-use-of-ai-in-banking-or-fintech.md",
+      "title": "Moody’s Analytics Wins Award for Best Use of AI in Banking or FinTech",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Moody’s Analytics has won Best Use of AI in Banking or FinTech at the 2021 Global Achievement Awards for AI. This award recognizes the Credit Sentiment Score™ solution ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/moodys-analytics-wins-award-for-best-use-of-ai-in-banking-or-fintech-2021-03-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/moodys-analytics-wins-award-for-best-use-of-ai-in-banking-or-fintech-2021-03-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-rates-of-cognitive-and-functional-impairments-in-older-adults-residing-in-a-continuing-care-senior-housing-community.md",
       "title": "Rates of Cognitive and Functional Impairments in Older Adults Residing in a Continuing Care Senior Housing Community",
       "excerpt": "Department of Psychiatry, University of California San Diego, 9500 Gilman Dr, La Jolla, CA 92093, USA Sam and Rose Stein Institute for Research on Aging, University of California San Diego, La Jolla, CA 92093, USA Research Service, VA San Diego Healthcare ...",
@@ -819,150 +991,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-toyota-invests-in-chinese-self-driving-partner-momenta.md",
-      "title": "Toyota invests in Chinese self-driving partner Momenta",
-      "excerpt": "Toyota Motor has invested in Chinese autonomous-driving startup Momenta as part of a $500 million fundraising round, expanding the Japanese automaker's development infrastructure in China as tensions between Beijing and the U.",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/Automobiles/Toyota-invests-in-Chinese-self-driving-partner-Momenta",
-      "originalUrl": "https://asia.nikkei.com/Business/Automobiles/Toyota-invests-in-Chinese-self-driving-partner-Momenta",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-ai-weekly-with-rpa-on-the-rise-security-challenges-remain.md",
-      "title": "AI Weekly: With RPA on the rise, security challenges remain",
-      "excerpt": "AI is poised to impact health care dramatically, but how do you ensure it’s used equitably across all populations? Learn what’s needed. Robotic process automation (RPA) is experiencing a watershed moment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/",
-      "originalUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-self-driving-car-bill-heads-for-gov-duceys-approval.md",
-      "title": "Self-driving car bill heads for Gov. Ducey's approval",
-      "excerpt": "The first bill to impose any regulation on the self-driving car industry is headed for the Governor's Office. William Pitts has the details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.12news.com/video/news/local/arizona/self-driving-car-bill-heads-for-gov-duceys-approval/75-61a6ae06-e25d-4d93-a712-8e4a6c451a91",
-      "originalUrl": "https://www.12news.com/video/news/local/arizona/self-driving-car-bill-heads-for-gov-duceys-approval/75-61a6ae06-e25d-4d93-a712-8e4a6c451a91",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPNX",
-        "domain": "12news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-stroke-detection-startup-vizai-raises-71m.md",
-      "title": "Stroke detection startup Viz.ai raises $71M",
-      "excerpt": "Viz.AI, a San Francisco-based care coordination startup, raised $71 million in series C funding. The company plans to use the funds to build out its platform beyond coordinating care for stroke.",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/",
-      "originalUrl": "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

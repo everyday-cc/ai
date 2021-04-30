@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Conversational Artificial Intelligence Market 2021 Scope of the Report, Challenges and Trends, Key Regions and Key Players Analysis by 2024"
+    excerpt: "In 2018, the worldwide GDP stood at USD 84,740.3 Billion as compared to the GDP of USD 80,144.5 Billion in 2017, marked"
+    publishedDateTime: 2021-04-26T03:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-2021-scope-of-the-report-challenges-and-trends-key-regions-and-key-players-analysis-by-2024-2021-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Business Analysis 2021 by CAGR, Share, Revenue and Prominent Key Players to 2026"
     excerpt: "The exploration report of worldwide Voice Recognition Market advertise offers the extensive information about the topmost makers and sellers which are directly worki"
     publishedDateTime: 2021-04-29T22:34:00Z

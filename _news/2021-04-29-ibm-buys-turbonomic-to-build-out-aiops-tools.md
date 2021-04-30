@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-buil
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-build-out-aiops-tools/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb66bc6da454c5792d7d9fa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4710%26cropY1%3D644%26cropY2%3D3293"
         width: 1200
         height: 675
+        isCached: true
+  - title: "IBM to acquire AIOps firm Turbonomic"
+    excerpt: "The announcement follows IBM's recent acquisition of Instana, as well as the launch of IBM Cloud Pak for Watson AIOps, which automates IT operations with the help of artificial in"
+    publishedDateTime: 2021-04-30T11:24:00Z
+    webUrl: "https://www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic"
+    ampWebUrl: "https://www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1619780773/itpro/shutterstock_ibm_stripes.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "IBM buys Turbonomic for AIOps, hybrid-cloud management support"
     excerpt: "By acquiring Turbonomic, IBM gains tools that manage performance of everything from applications and containers to virtualization, cloud, and on-prem compute, storage, and network resources."

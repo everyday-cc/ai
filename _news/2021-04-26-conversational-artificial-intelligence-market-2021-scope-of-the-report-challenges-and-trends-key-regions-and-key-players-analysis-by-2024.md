@@ -30,22 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market - Top Vendors Analysis, Market Challenges and Geographical Analysis"
-    excerpt: "How will North America Artificial intelligence AI in retail market perform over 2018 2024 The growth map of artificial intelligence AI in retail market is estimated to depict quite an ascent by 2024 driven by the increasing implementation of AI"
-    publishedDateTime: 2021-04-28T12:06:00Z
-    webUrl: "https://www.openpr.com/news/2276788/artificial-intelligence-ai-in-retail-market-top-vendors"
-    ampWebUrl: "https://www.openpr.com/amp/2276788/artificial-intelligence-ai-in-retail-market-top-vendors"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2276788/artificial-intelligence-ai-in-retail-market-top-vendors"
+  - title: "AI for Speech Recognition Market Size, Increasing Trend Diversity, Analysis, Future Scope Analysis Featuring Industry Top Key Players By 2026"
+    excerpt: "The AI for Speech Recognition Market Research Report aims to provide insights that strongly demonstrate the market structure, scope, history, potential, and developm"
+    publishedDateTime: 2021-04-28T04:29:00Z
+    webUrl: "https://www.express-journal.com/ai-for-speech-recognition-market-388703/"
+    ampWebUrl: "https://www.express-journal.com/ai-for-speech-recognition-market-388703/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/ai-for-speech-recognition-market-388703/amp"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
+      name: express-journal
+      domain: express-journal.com
+    quality: 39
     images:
-      - url: "https://cdn.openpr.com/U/4/U428426704_g.jpg"
-        width: 640
-        height: 300
+      - url: "https://www.express-journal.com/img/img-5.png"
+        width: 1042
+        height: 625
         isCached: true
+  - title: "Voice Recognition Market Business Analysis 2021 by CAGR, Share, Revenue and Prominent Key Players to 2026"
+    excerpt: "The exploration report of worldwide Voice Recognition Market advertise offers the extensive information about the topmost makers and sellers which are directly worki"
+    publishedDateTime: 2021-04-29T22:34:00Z
+    webUrl: "https://www.express-journal.com/voice-recognition-market-390112/"
+    ampWebUrl: "https://www.express-journal.com/voice-recognition-market-390112/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-market-390112/amp"
+    type: article
+    provider:
+      name: express-journal
+      domain: express-journal.com
+    quality: 27
+    images:
+      - url: "https://www.express-journal.com/img/img-7.png"
+        width: 1047
+        height: 627
+        isCached: true
+  - title: "Global Speech Recognition Market – Top 10 Key players in 2021 |Google Inc, Naunce Communication, IBM, Baidu, Amazon"
+    excerpt: "Speech Recognition Market Segmentation, History, Sales, Demand, Consumption, strategies, Investment Opportunity and Global Forecast 2021-2027. Infinity Business Insights proclaims"
+    publishedDateTime: 2021-04-28T13:15:00Z
+    webUrl: "https://ksusentinel.com/2021/04/28/global-speech-recognition-market-top-10-key-players-in-2021-google-inc-naunce-communication-ibm-baidu-amazon/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 12
 
 secured: "73Z0rT0ycb0eFTFan5Zj8hkiShwNv+ACstBAMDlvEqzA1L577qePeL4afc/b5uutHH9I5Eo3InP46zwGyWme1u3T10f3YBTDWG6luAW84KtHFzWcSLMCySLoUMt+KXIC8YyDM3YFbhVIiP0ZZvognujTUtVdSJqNnplkEA/CT5vcn8Qmx2ZGR7H14SAvAg+oXPfccu0w9UPGyK6O2RS9YxBOT+dhDdhjYvgoE7IEoDiAE7tKdLmiv+ULq89pWd4Rqv1LtIyF3gP6M6+ITBX0Q26RYmR+ciTVkC41lwy+AY6m0hsxpZr+T1gKilyZhCbM6K0EyTHNhdmGvgUTVU0429sY09lebYRI1ou79rsXr5A=;GPmoSZaev1ruP/TdIJDA1A=="
 ---
