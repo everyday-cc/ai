@@ -22,20 +22,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence Robotics Market Size, Overview and Forecast 2021-2027 | Microsoft, Xilinx, Softbank"
-    excerpt: "Global Artificial Intelligence Robotics Market 2021 serves latest business information and advanced future trends, Artificial Intelligence Robotics ruling players, forecasts, study and discussion of market details,"
-    publishedDateTime: 2021-04-27T07:35:00Z
-    webUrl: "https://ksusentinel.com/2021/04/27/artificial-intelligence-robotics-market-size-overview-and-forecast-2021-2027-microsoft-xilinx-softbank/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 68
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Spiremarket-13.jpg"
-        width: 713
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence Chipsets Market Next Big Thing | Major Giants Ibm, Google, Microsoft"
     excerpt: "A new business intelligence report released by HTF MI with title \"Global Artificial Intelligence Chipsets Market Report 2021\" is designed covering micro level of analysis by manufacturers and key business segments."
     publishedDateTime: 2021-04-30T03:08:00Z

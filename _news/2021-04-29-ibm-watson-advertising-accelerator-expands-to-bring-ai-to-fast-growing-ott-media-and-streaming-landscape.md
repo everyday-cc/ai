@@ -1,28 +1,22 @@
 ---
 category: news
 title: "IBM Watson Advertising Accelerator Expands to Bring AI to Fast-Growing OTT Media and Streaming Landscape"
-excerpt: "IBM (NYSE: IBM) today announced the expansion of IBM Watson Advertising Accelerator for OTT and video, designed to help marketers move beyond contextual"
+excerpt: "IBM today announced the expansion of IBM Watson Advertising Accelerator for OTT and video, designed to help marketers move beyond contextual relevance alone. While compatible with most streaming platforms,"
 publishedDateTime: 2021-04-29T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming/article_2dac9f77-b630-55fe-be94-f82d24f296a7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming/article_2dac9f77-b630-55fe-be94-f82d24f296a7.html"
+originalUrl: "https://www.nasdaq.com/press-release/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and"
+webUrl: "https://www.nasdaq.com/press-release/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and"
 type: article
-quality: 37
-heat: -1
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/6087941a092a1.image.jpg?resize=1200%2C627"
-    width: 1200
-    height: 627
-    isCached: true
 
 related:
   - title: "IBM Watson Advertising expands into OTT video"
@@ -40,6 +34,6 @@ related:
         height: 500
         isCached: true
 
-secured: "y3WfcOvCVCSd39ULNLKzTXpj6rpIqi1cl5ZKsVMclXIFT768RsPV2i6ZNgYHf586wrW3bUaeeYy744AHzvwRgWQdCjNHjx+VDIy11d6FAFfFxgyusbvIkArKjtiCxKnZHv/uHUY4Br7G0evZ35fKP8c9b/4IdmnHUMwocz+Sp7wJAp4rPbKNSddCrr6gQ7K3AVA3tMpPb2S1dJNkMV9sOnlWuG14vveuSq8P5+zPbMj8RNK3zGb5gEOsB10p3OOT9aOEzXIClQ2UiTNhBJnGjiNm2ONYmksN8DuQ1AXCiSciwYaWwdTLkQN4mKufFG0I+MXdcDFd+A1WsA8fIN8oygaDJODzIFOOi/p31qSKQsfuGa4m7XIo/+bxBoyi4aSeKV4ThjECNot/u7mqd1uGlZZJLi1wgBDvmr8LBGljiju1NbjUene2tIQymBDxlHDKlpxniXyx2g5ZkaW0uL+tR+TSM6tBNeFnga35DTPJlXdhZp9cPbhZT9yiU009RcRSR3tv+3mbVS36b7l8W5taUQ==;72tm8FgiMKxHt52d0Fxv7g=="
+secured: "yO25W/vMTeBsUFdkg8xuhif+NHu/4A7XHP2CpJQnxp9yNSvHBvoIqlhnHtZ3l12Y76tG7FwzllBxx8fKI8e6jOD3haSYvJMLQJNUboYNkAPUQoWaqpXpPgUSgGbG5NL1VBNfVuww+c6N3QCtyfO1C8lEOqN228XCZOHKmO4yyTApjWHx0X451NBEtxPeE89xsgjSANj6UWO9k+gk6mQT4rO5g4DGMPaVcgHKnZuqeSk6Fgqcrku1jovrJuX6sObiWxNmeGGszysK/ZjQODDAmtcqYpiOzGO6dIXWrV9jdWZi3WCP3MIO/u5M9ZrAVvyG4TLmMq+50fiz0VdT/qbplbtCF1Icpt5JtJ1lLxeQcIg=;bKv2CH6A4oRwNLtbnC/FDQ=="
 ---
 

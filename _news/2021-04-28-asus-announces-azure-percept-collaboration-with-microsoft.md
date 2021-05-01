@@ -69,20 +69,6 @@ related:
         width: 2560
         height: 1840
         isCached: true
-  - title: "AI supplier Future Anthem secures Microsoft “co-sell” partnership"
-    excerpt: "Machine learning solutions provider Future Anthem has secured a strategic partnership with Microsoft that will allow the tech giant to co-sell Future Anthem products as part of its solutions offering."
-    publishedDateTime: 2021-04-26T15:35:00Z
-    webUrl: "https://igamingbusiness.com/ai-supplier-future-anthem-secures-microsoft-co-sell-partnership/"
-    type: article
-    provider:
-      name: igamingbusiness.com
-      domain: igamingbusiness.com
-    quality: 54
-    images:
-      - url: "https://igamingbusiness.com/wp-content/uploads/2020/09/microsoft-4608125_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "IO, IO, off to Microsoft’s cloud we go: Excelero hits Azure"
     excerpt: "Excelero has made its scale-out NVMe-oF array software available on Azure. NVMe-oF (NVMe-over-Fabric) extends a server’s PCIe/NVMe protocol across network links. This means a server application can access remote flash drives for block data at  RDMA speeds."
     publishedDateTime: 2021-04-29T14:48:00Z

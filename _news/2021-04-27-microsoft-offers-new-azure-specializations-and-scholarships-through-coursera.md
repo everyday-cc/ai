@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/microsoft-offers-new-azure-specializat
 webUrl: "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/"
 type: article
 quality: 81
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.medianama.com/wp-content/uploads/2021/04/rajeshwar-bachu-K4txLik7pnY-unsplash-scaled.jpg"
         width: 2560
         height: 1840
-        isCached: true
-  - title: "AI supplier Future Anthem secures Microsoft “co-sell” partnership"
-    excerpt: "Machine learning solutions provider Future Anthem has secured a strategic partnership with Microsoft that will allow the tech giant to co-sell Future Anthem products as part of its solutions offering."
-    publishedDateTime: 2021-04-26T15:35:00Z
-    webUrl: "https://igamingbusiness.com/ai-supplier-future-anthem-secures-microsoft-co-sell-partnership/"
-    type: article
-    provider:
-      name: igamingbusiness.com
-      domain: igamingbusiness.com
-    quality: 54
-    images:
-      - url: "https://igamingbusiness.com/wp-content/uploads/2020/09/microsoft-4608125_1920.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "ASUS announces Azure Percept Collaboration with Microsoft"
     excerpt: "Azure Percept DK provides an end-to-end platform for prototyping edge AIoT solutions Easing edge AI difficulties: ASUS and Microsoft collaborating to enable quick and easy prototyping of scenario-based edge AI solutions Azure Percept DK: Pilot-ready development kit integrates deeply with Azure AI,"

@@ -20,6 +20,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/5fc872a2037cbd0018613842?width=1200&format=jpeg"
@@ -27,6 +28,6 @@ images:
     height: 600
     isCached: true
 
-secured: "lVoB5yzlc/3GdflZ56Ygszvu1ntvh591gp664F/GsAyss/xVxi/5uMyR8Tz8bGS3LhOff+PE4L05x19pqORE+syyKe1+twZzm/O4E/siSaJFEayvbzEI/F3a0wwgzhUbBUWXQnBnhtwL9BBP2P+R/E5IB2LVleY+MJMjvvIyYnPumnY5f8cfNJgOop+RA3XjgTYItaUT74wfRwaWR/aJIPKHU0RdOvcpe2WacNEbsSd6ygSxEQmINbylZ0HOp8gQcxvA4jR59RHE+lU7vuxEDfKjKC5Bpf3/sWydYhg6CulkUPPVqxnQDOHaJSVOL39v2Gpn5F97rYT9LhK+OnnbHjvNpVWUEJAhOFx3YTDAw4k=;9L4mZdekamxCVf3b/y4ptA=="
+secured: "/DXSUiu0P4a05bg2iIAS4aXs80r8rqWmBcEGlCC9qMDZUmySxXGK+j8XU4tWPzTLh5O/9uyI+qy2dCWJPAkqaxG0IGKX7mLSuMsKfXuP45kvkCYl9OUps0JphyR4333cWvuPj5Gpdf9or1ANeDqn4i9NbsyTsmQlPdxaiyKgdGeH6MO4X/vs4dB5XdpdUMfFjAAjigrB7cmBDkIBZ2eLvI1ruTDMRC/bTEN7j2tFbIR2OC/YLr8sM6AfeeK0o3xW5rm6DMUzFdoWu83usMNH1ld7VAamK4aM+5np+G8NiUjHqtBi9dZEW7P/i3GNsh6RV3x7HWTx+FQT3ukiXJvgd+0tn7K6i7FEns8QseUTb8rCsrgRb1cuUnD6KkRZUKaFk+FqHmgWS1v7TjAkPoWLL8+fSHaeQWEJpXtNSQ/clhb8XqVndg/8GdHy2ELs1uiievjFbqPVNDR2zmH0t55CgZ2xc6ICSZvStgZa/fmgx7MEROQoF3a/84dqpas0e9MOyZRtd45/lZMfBgLoDoMreQ==;1m7MKNw4vaS8/BXea+DcEQ=="
 ---
 

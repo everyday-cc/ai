@@ -43,20 +43,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "How Machine Learning Can Reshape Legacy Processes"
-    excerpt: "Equipment maintenance, quality assurance, and supply chain optimization are as critical to industrial and manufacturing processes today as they were more than a century ago, but doing these successfully at the scale and complexity required in the current global market is challenging."
-    publishedDateTime: 2021-04-26T16:06:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21162261/how-machine-learning-can-reshape-legacy-processes"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2021/04/machine_learning.6086e4c3644ce.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "AVWfjXpgUyNeJYF1fuePkKj6nl9aLzrOvTY11yQkRci+QQhnumdiJMok7BoVVc0VWvKi0M3H9B1kZxbqbKNtDrbEdyVIJG/RfiK5vES2wWr5cGaBpDi9vAfd2fuYJJBx2LGkDXt+ayRxmHP+jiHWm3uvqHk3ebfKkLoyR4TIpDegnE2mTyNckc9lElAQCTJwYkVAMWVBYeKRwv7GLRG58jWz0b3VFKqp86gIMds+NJJQoU+MAwndHj7DF6l/SsmAiBzp/L/uAS8CK4/gImlMargI8zIuV3kWmjAHQ09YQguLzkXrdl+Sh14avUCCUZgmC5ybJs2oFHN/7//O3rzHz+MaLW3tRHdHPgd9Atu8U5bl5jjyw08+GStRXausHq0ZIo5xodv5KAPjS3OKaMzLexIUva3u0Kprz0tw6h9TwLhyTk0DbOhheYcie8xdTY0y2JvP5MpZSbIL4ePJtbfFDSjW/yTTHhyHKSghA6G3MUvK1L4+hUVMrtLpduhFGoHBXcIgdiEhBBUZVhJAOt8/EQ==;J+GLJ1CrAxfwy/9N+CoJEQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://ksusentinel.com/2021/04/27/artificial-intelligence-robotic
 webUrl: "https://ksusentinel.com/2021/04/27/artificial-intelligence-robotics-market-size-overview-and-forecast-2021-2027-microsoft-xilinx-softbank/"
 type: article
 quality: 68
-heat: 108
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Sentinel
@@ -26,54 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chipsets Market Next Big Thing | Major Giants Ibm, Google, Microsoft"
-    excerpt: "A new business intelligence report released by HTF MI with title \"Global Artificial Intelligence Chipsets Market Report 2021\" is designed covering micro level of analysis by manufacturers and key business segments."
-    publishedDateTime: 2021-04-30T03:08:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269111662/artificial-intelligence-chipsets-market-next-big-thing--major-giants-ibm-google-microsoft"
+  - title: "SoftBank’s Newest AI Unicorns Are Taking On More Than Just Amazon"
+    excerpt: "SoftBank is on the hunt for its next billion dollar IPO, seeking promising AI startups to bet big on. Meet two of its newest portfolio companies, Standard Cognition and Forward, and how they're leveraging artificial intelligence for market dominance in the post-pandemic world."
+    publishedDateTime: 2021-05-01T08:23:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/amp/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 45
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1619546502300.jpg"
-        width: 630
-        height: 420
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608766c6e84ff10258227ace%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Artificial Intelligence Software Market Impact Analysis for the New Normal| Ipsoft, H2O.ai, Brighterion, Ada Support, Microsoft"
-    excerpt: "Artificial Intelligence Software Market is growing at a 33.10% CAGR during the forecast period 2020-2026. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
-    publishedDateTime: 2021-04-27T12:12:00Z
-    webUrl: "https://ksusentinel.com/2021/04/27/artificial-intelligence-software-market-impact-analysis-for-the-new-normal-ipsoft-h2o-ai-brighterion-ada-support-microsoft/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 43
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/A2Z-Market-Research-16-P-199.png"
-        width: 552
-        height: 308
-        isCached: true
-  - title: "AI in Social Media Market 2021 Precise Outlook – Google, Facebook, Microsoft, AWS, IBM, Twitter"
-    excerpt: "Global AI in Social Media Market Size, Status and Forecast 2021-2026. The AI in Social Media Market report is a valuable source of insightful data for business strategists. It pro"
-    publishedDateTime: 2021-04-28T09:32:00Z
-    webUrl: "https://ksusentinel.com/2021/04/28/ai-in-social-media-market-2021-precise-outlook-google-facebook-microsoft-aws-ibm-twitter/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 43
-  - title: "Artificial Intelligence In Genomics Market by Drivers, Restraints, Opportunities, and Challenges | Ibm, Microsoft, Nvidia Corporation"
-    excerpt: "AI in genomics market to register a CAGR of 52 7 from 2020 to 2025 ReportsnReports added Artificial Intelligence In Genomics Market Research Report created by Report Consultant which offers detailed insights revenue details and other information regarding the global"
-    publishedDateTime: 2021-04-30T07:17:00Z
-    webUrl: "https://www.openpr.com/news/2277898/artificial-intelligence-in-genomics-market-by-drivers"
-    ampWebUrl: "https://www.openpr.com/amp/2277898/artificial-intelligence-in-genomics-market-by-drivers"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277898/artificial-intelligence-in-genomics-market-by-drivers"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
 
 secured: "6igyKutP+ea2Q1yW30Gt09pyu5q8Jih9girshOrkQa9LEbG6FBuLfqqmhzobWXpwiIvpQhiehlqkYO4mQ3GfTMElcRRbG3fLnLg43tIDPErrl4YZqwq6s3ibfCelzSJjUUlLSao/Lz66nIKeehnd8CGUIfX0cxVP/2ZDm//V5p3hCB00ro2r4+XgeeARhZHmKiipOpBl7uzxjZPBZp2lVxgdPJwwGVC9A77iLYB+U3fTo7f5jHoIaEqqz+wyyJ7gGmHCtcEZ5mPiBws/l6b3mHS4jEkwgYzuiKt+HCOHjTKEAdY4r6giXGBj2VJcN54xS5hVO1JT2YzYx0x3Bnb5AyLpo3jPRbMmr1XGCiLYq/C9mhk1bbWcROd6U8Y/IMsqV+O2zXB+N8FokT5DFq0S/4LkSERv0D+K8HH7qhSB6wgysxWhAKSAHj+83A539fXcmH6vlYPufGVcM5K+So1xJTvqHzSqN/PdHnt9YxcPCHfehKXnVOKFryypAED/MsE3mNMXpvybeJNNUid4liFnHw==;U6Lq99oKbvIUAt6YZTzpwA=="
 ---

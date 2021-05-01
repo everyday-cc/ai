@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2021/04/28/1024099/podcast-ai-finds
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/28/1024099/podcast-ai-finds-speech-voice/amp/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: MIT Technology Review
@@ -26,22 +26,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Mayo Clinic podcast: Avoid preventable vision loss"
-    excerpt: "In this Mayo Clinic Q&A podcast, Khanna expands on the importance of eye care and how artificial intelligence is helping develop individual treatments for patients. She also talks about minimally invasive glaucoma procedures and newly emerging cataract technologies."
-    publishedDateTime: 2021-04-26T15:29:00Z
-    webUrl: "https://www.postbulletin.com/newsmd/wellness/6988184-Mayo-Clinic-podcast-Avoid-preventable-vision-loss"
-    type: article
-    provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
-    quality: 24
-    images:
-      - url: "https://www.fccnn.com/incoming/6793103-ttqwf5-Mayo-podcast.jpg/alternates/BASE_LANDSCAPE/Mayo%20podcast.jpg"
-        width: 1140
-        height: 712
-        isCached: true
 
 secured: "KaxVD1rmNtpdOH0e0ibKugnoh3uZl6vLHxF/9A/wnXrOtYDLWQ3PBto0iiedk/NfoAXYAIqunX14QJu2+Vxa3slKF4ZOhQXiLu6OWGYkzRNCpoCEShgnfqhNoyPquA5fqRzc4T1dTO2AhbPXtLsqR5t6/a8qPpYvphdiIvIVuere2NwVHoevZwYXyAp5jLdf5ppZvruMippn0e07X9OIt87+5OM36dxiaOvhcsOzuhg8Z5Fu0gcRS9KGF+Vrf8/44bBJvEdQRtHWnXGlcfzHh5OjwW8+IUevG5IA9lVxF9KdMD/qIKskz8SRcQZAXy9NRtPJMzWH8UE0rXoyqhMQ8+//aRcAYuEZL+hRUBjyiMBQHzv6M/2kX+bHQB/opxfj5W1vI85z/j2wyRJGLawt6CueVaQyVi9YuqxBYNOTMLy685KQMMvTsF72+S+B7wKZoZvzRX7LyYW1jwMyy14hIiUFtak0q6SkP+QykYsbiJGb78fuiqY5hzbS+syWhR2yYFwJEWPIBJZM4Z+hYDshDg==;TvOEOa4YE6v84ETKkxmyKg=="
 ---

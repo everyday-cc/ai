@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-th
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.cioreview.com/newsimages/705x485_4to2wNG3.jpg"
         width: 705
         height: 485
+        isCached: true
+  - title: "Why fully self-driving cars on UK roads might be further away than you think"
+    excerpt: "The Government claims that cars with a form of technology considered legally self-driving could hit British roads by the end of the year, but truly autonomous vehicles are still some way off, finds Rh"
+    publishedDateTime: 2021-05-01T08:47:00Z
+    webUrl: "https://inews.co.uk/news/technology/uk-road-fully-self-driving-cars-2021-alks-system-autonomous-vehicle-981065"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 21
+    images:
+      - url: "https://i.inews.co.uk/content/uploads/2021/04/SEI_76426762.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "M87RKx3lCGIN3nr3v2vWGENRlSpUFaLsEnSnIB7kvCRFXKUeeZ24iICQ9ES8iKVDkiROwANwfT5UPZDdNsTxfytKTEqz0ABlPKKQtlrxTk9PUX1gKY343um8LatusL8uFrDgYzqpSkfk1BnyznVFr8edk18ukmry73LjIVwjjv/H1vhvKC2eanca0mapqsYk5tQkVnu83u0ldwpC1lW6zQWDVCPyBWRnRMKeJj72ErG7YGBV8kEhzWVABPULoGidupEyT0IdQjXJ1iUhAFG/UfHQu1kkYUagvBbbgoG4haxouB8rcEtyGUafB3K2mAodorC0bXJWYMAUCa4f9wROX2u3qWQqjpjiR+8vcG0ZGe/WsHC7kTzAZG4w0O7Ox/bUU3I5PgZkpNZr/JvxYxyrDK3kF7Ap5pB/ccouiGSoNoW/I4G3urU2ZOvGQXeHxDoAgipekM8u5T+Az1XZGdVt53GykZUKXv2E4eGZ07Iblxb9wl9F964R7pkICMibjGu6DwdL2NEU/ACPlsQYZicXTQ==;X/92Hg/P2L2UmMdd9j+zJQ=="

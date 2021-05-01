@@ -24,17 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Dyno Therapeutics Names Dr. Debora Marks and Dr. Nicole Paulk to Scientific Advisory Board"
-    excerpt: "Dyno Therapeutics, a biotech company applying artificial intelligence (AI) to gene therapy, today announced the expansion of the company’s Scientific Advisory Board (SAB) with the addition of Debora Marks,"
-    publishedDateTime: 2021-04-26T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210426005131/en/Dyno-Therapeutics-Names-Dr.-Debora-Marks-and-Dr.-Nicole-Paulk-to-Scientific-Advisory-Board"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-
 secured: "7LOjVvkliSCBez8Ev6p8DCvD8hkyYZMa//xPRe8Xx4RSyXLMEbQZojWdxp4VcOrOlAAUFMyfjAgqj1lOKXdoJto5UXx+8Hr0VBAZg0YLJnozaFJvgKfIBpzWbV2AlObb9MHkDJaH3OjjN+hbHVkriOwqyrDy49hFhnta0a7z6kYe0wVSY5uxRWDTleBH9mT+pw2xgassHmeSiWI0e+mCXsnFDBpGp393xMDeY74x8h7LkOT6R3feorNKmZqi4UjkaBoUdH8s/2VI8GtMv/6ZRxYJm20YVD/eERMzUtgRmy+R2Uvbj2ThQv9vC0LHnBWiPdrPzZoUSTmVYw18uBouSJKJi88YIkuA60HhxBu7iFc=;zOISmb/q4wxWJTei7drKRg=="
 ---
 

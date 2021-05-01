@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market is Booming Worldwide | Facebook, Microsoft, Amazon Web Services"
+    excerpt: "Artificial intelligence AI in Supply Chain and Logistics Market is Booming Worldwide Facebook Microsoft Amazon Web Services"
+    publishedDateTime: 2021-04-29T19:32:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269104037/artificial-intelligence-ai-in-supply-chain-and-logistics-market-is-booming-worldwide--facebook-microsoft-amazon-web-services"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 59
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1619669212515.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "laxewbZhA0RG3D+ZgDocqSpr5VQt00Citlsn5/hjM4ywi+z9+eCa+vwB+U9NkA6O3fjo6TUuDjMNZFVUxRuPeDex6No3T2orbGlPdZQu0ZsbB84CLVqglX/qZami/eeEX/52+/cV6ZSfVg3sawnbEM+L+FnaSZCQy7jQUKRaKFaGGWM2mffd9qUcdjTOV5LI/QaDeNTr3FAozSV5Gtkeq5xRVDhmYOuVgWnXh0uIHoRoexVsZGG2CQoq7Pr0U0sPL48RB3u/HLhJD3Mb4UDUEKTTLUL3fv6Smo2c9rhI0M3GSNLqhrgB4B6sGtWRP4NgDfaQjU8hkFHMeKba7lkoTWD02WSUy8/vedPf/4DPj9Del/UTODKw1sDq7UWT/D4xCAJcbvZtrHrDSwXtzg5htNX2n6UTvA8Lzh5OVtMvoLXasRz/Sn0HGj9/3NTKlGGZZu4cZe/Ehhm1K43bmwrg5C8Vc6yi49rtKf+NWuwnWhjw5ABjV/QDiiN107llbryIdBLwl+6fjf2KARibMG0qeA==;LkAMpdt8YuKaUxX6DYZ0fQ=="
 ---

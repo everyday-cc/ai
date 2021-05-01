@@ -61,6 +61,20 @@ related:
         width: 705
         height: 485
         isCached: true
+  - title: "Why fully self-driving cars on UK roads might be further away than you think"
+    excerpt: "The Government claims that cars with a form of technology considered legally self-driving could hit British roads by the end of the year, but truly autonomous vehicles are still some way off, finds Rh"
+    publishedDateTime: 2021-05-01T08:47:00Z
+    webUrl: "https://inews.co.uk/news/technology/uk-road-fully-self-driving-cars-2021-alks-system-autonomous-vehicle-981065"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 21
+    images:
+      - url: "https://i.inews.co.uk/content/uploads/2021/04/SEI_76426762.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "257/UDr6zmhHaRKrPivLVjiqSmd7XkyApoKvvmbR3IFm7EGw5nS5Jv6RrLrNJhUdOzAekwjd0z/EUTqn8R2Ag0Cuet002cu6NRAyHT9U3QmfmQtYU+tSfnjVXYzQKuzBT8kFZKY5OGxG1QIYY+2fFwZCIoMQfbTGUioteHyjWpVhe03pPeGG79xb3FsKOWKuQWgeatzmkGv1CChJ5Z4lc1rUNxmXJI926/eI+sBJiy2swm6cisQwm/I9wwQ78OPvbaQFfkK62gOFO9oF1PUQ6HwTW/wuga8dr2TETRx1KZgIslN80AFhpjjLdJLDWqWPYQhV2tzHffo0GBpQmf3s1NyJvFVtOYEm/Lc3T3WhK/8pGK32Y+Z+P6yoIicZ2vYj7T+uatuK/jOI2yOjVmTKv01FCxQVT//OYZ3luBVKcYhnUI7RS30Zzkr6fXFRKt9FyG8zJRmNvXo3Obn0fJKLpFCc1KfEaK8HdM7a6lk2HIPlkaPaJu04bCN7oD86wVrYev8bmh3w7pghQKKjaMNyfQ==;zjYa4nylBpiKUMEcDthY8A=="
 ---

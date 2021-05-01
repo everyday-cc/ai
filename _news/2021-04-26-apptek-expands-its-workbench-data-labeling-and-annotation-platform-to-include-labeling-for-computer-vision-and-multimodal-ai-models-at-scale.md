@@ -1,41 +1,26 @@
 ---
 category: news
 title: "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
+excerpt: "AppTek is trusted by some of the world's leading cloud and technology companies to power their conversational speech, text and image-based AI models through its managed data services program. To create the robust data sets required for these high-performing AI models,"
 publishedDateTime: 2021-04-26T16:40:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
+originalUrl: "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html"
+webUrl: "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html"
 type: article
-quality: 21
-heat: 21
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630"
-    width: 880
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1496629/AppTek.jpg?p=facebook"
+    width: 1614
+    height: 845
     isCached: true
 
-related:
-  - title: "Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition"
-    excerpt: "Multimodal signals are powerful for emotion recognition since they can represent emotions comprehensively. In this paper, we compare the recognition performance and robustness of two multimodal emotion recognition models: deep canonical correlation analysis (DCCA) and bimodal deep autoencoder (BDAE)."
-    publishedDateTime: 2021-04-29T08:12:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/9395500"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
-
-secured: "RdElxf+u3N1XqYObaQAAcZ2fiIwftVVsHFlvK2IC+eRZ0E+ITQZCqdXZmE+bv9u9L94JQUjT/GSf/DEk/X7c+FrJF70YqHfAbdwOjetA8h2s/QkKvqBwvo29q2w57IVrNvgp7DEj9VeClcvlJ3/SFai0b/+GKg9dGtQbVNs3LfBWBAFEN8mUQ8dwN3Pi5AD7CxEsO5LEEEMU8j7FA1C4TAm0Y0H1AxIt18XCuBrxlUVwa7xea/gZk/XIn1haVDAKttUAiSj1LHdusjSuwfZYFot65fzpN08YwwziPh8qbhoin03Rh7wAg37KBTj6INv+SFRHXio3GT/deZmLBX2qnmCh96m+Kdv4wIlXhYshwHU=;5A/qEgvF4jst+pHt/9jh3Q=="
+secured: "HDUDn/H7N+MxCs+A1h1CJ1RXBc3Rm5aEw3O3YZby8BQP87KsXcIDFjerJ1ajXbKygQQjKaunLppN+WkXlX/IZb2geP7YeJpBdjfpwm2gxk/AwctdiJRUu68aFNc190WBBB6Idx7k8RqtORowxrXBzLvzb/thBerpds/PF9dD19bedXZL6NQh2PwpyvfT3FLeu5/54CNLfwObu83OsGKdaKUANhXD6I1+3nJAD/v8D/Faviv3OcpqzEUxX5Q8CZITdaI+MYdsxEnJkFxQU5z5olvuoVePoDJh+StWwvIebSTbz2g2dgEBBRq0PeCACd3Oi18GV9TMd+6QalpoW7QrC0KszHcrylrCzweckk3KRyo=;z+ef9GH+dsXvCWZc/fCH8A=="
 ---
 

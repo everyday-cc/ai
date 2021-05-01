@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/30/facebook-details-self-supervised-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market is Booming Worldwide | Facebook, Microsoft, Amazon Web Services"
+    excerpt: "Artificial intelligence AI in Supply Chain and Logistics Market is Booming Worldwide Facebook Microsoft Amazon Web Services"
+    publishedDateTime: 2021-04-29T19:32:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269104037/artificial-intelligence-ai-in-supply-chain-and-logistics-market-is-booming-worldwide--facebook-microsoft-amazon-web-services"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 59
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1619669212515.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Facebook’s DINO enables self-supervised learning for computer vision AI"
     excerpt: "Facebook Inc.’s artificial intelligence research team today announced more breakthroughs, this time in the areas of self-supervised learning and semi. Self-supervised learning in AI, also known as unsupervised learning,"
     publishedDateTime: 2021-04-30T14:00:00Z

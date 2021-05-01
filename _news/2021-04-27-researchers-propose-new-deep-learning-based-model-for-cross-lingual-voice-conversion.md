@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210427/Researchers-propose-n
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: News Medical
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Machine Learning Can Reshape Legacy Processes"
-    excerpt: "Equipment maintenance, quality assurance, and supply chain optimization are as critical to industrial and manufacturing processes today as they were more than a century ago, but doing these successfully at the scale and complexity required in the current global market is challenging."
-    publishedDateTime: 2021-04-26T16:06:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21162261/how-machine-learning-can-reshape-legacy-processes"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2021/04/machine_learning.6086e4c3644ce.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Researchers develop new protocols to validate integrity of machine-learning models"
     excerpt: "Machine learning is widely used in various applications such as image recognition, autonomous vehicles and email filtering. Despite its success, concerns about the integrity and security of a model's predictions and accuracy are on the rise."
     publishedDateTime: 2021-04-28T20:32:00Z

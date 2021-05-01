@@ -104,6 +104,6 @@ related:
       domain: techcrunch.com
     quality: 66
 
-secured: "kp4D8T8vXYzCynRNEvPq2snts6jxhm603mTDyqVmXrpGLkbdm26n9/uT1WVZ+G57Bj2lMfphnbXv+bfbUAFb0XBZda+YsZnXcDWzzEUybfjdriHD14VzBtqtxorpj1PeWPv8w9y7WXHyZm2oON8IlLA/K6CTXCeMCl8cb2/OiT8PB5eQ5nCy5GO+NU7mMLgtt2tQwyAkbMSm/4LkVDK+rlDc7jnBlp6sACsPnwsRZBvjh+IbS3l2VD4QsPnexaIEwsHEMhxof6IhbX9eXACNwZ/H+dUfaGCudPfpcWEDJabjSlTlXSAMIGnb+KJ7sjK42EjTL90xu+v6tsR/aPyWhGUZPC2S+vOVY76Rrh6PgEE=;5xxoWdJO9B9itFoM4VfBDA=="
+secured: "48HwuRwbvEqkj0S4Unz+Hwn/rOSrkfG231AmOFHb8TQkzR+4Ai2LIYwLWratq4s9x85WKwZJuJlix5wNmuhYQCCl2ZWccqb0qKdknRGHX0FcLKzhfflG/Rq7FVuDC1R1BRmNuG6uK8UjCN63N8tdfXWmvz5DxeCx9G+lnKjFZtsSpJD7Y6CjcX+QDoGgrRBJExsWgE6ZlKMJBKFqJ3D/1ojjB061eMcmlWiBToXXcwuOTSKiOa07ubpmBQeDQisJ7abMlAY/tbJppl3CdXTU5320n+b5igmTltcWXly3pyIWC4g4SxRNQ6NtEX2hSHlVk1KRI3qNnaKTIm9yNfgZCgmnpqkaO3sIhPRwKs0O4os=;1TEjdl9X+DOub+2L+Y2Ryw=="
 ---
 
