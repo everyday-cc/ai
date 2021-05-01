@@ -7,8 +7,8 @@ originalUrl: "https://www.geekwire.com/calendar-event/leveraging-data-ai-make-en
 webUrl: "https://www.geekwire.com/calendar-event/leveraging-data-ai-make-enterprise-intelligent-agile/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: GeekWire
@@ -28,37 +28,37 @@ images:
     isCached: true
 
 related:
-  - title: "Building the intelligent future of payments with AI"
-    excerpt: "The sooner a FI builds a strong data foundation, the sooner they can execute advanced AI and ML models. With each iteration, they will put more distance between themselves and the competition."
-    publishedDateTime: 2021-04-28T13:29:00Z
-    webUrl: "https://www.dqindia.com/building-intelligent-future-payments-ai/"
-    ampWebUrl: "https://www.dqindia.com/building-intelligent-future-payments-ai/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/building-intelligent-future-payments-ai/amp/"
+  - title: "How Intel is leveraging AI to drive sales"
+    excerpt: "Intel is adopting AI internally to bolster its sales and marketing efforts, including through the use of natural language processing."
+    publishedDateTime: 2021-05-01T13:16:00Z
+    webUrl: "https://venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/"
+    ampWebUrl: "https://venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/amp/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/intel-logo-e1578358513137.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Artificial intelligence is learning how to dodge space junk in orbit"
+    excerpt: "An AI-driven space debris-dodging system could soon replace expert teams dealing with growing numbers of orbital collision threats in the increasingly cluttered near-Earth environment. Every two weeks,"
+    publishedDateTime: 2021-04-29T11:05:00Z
+    webUrl: "https://www.space.com/AI-autonomous-space-debris-avoidance-esa"
+    ampWebUrl: "https://www.space.com/amp/AI-autonomous-space-debris-avoidance-esa"
+    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/AI-autonomous-space-debris-avoidance-esa"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
     quality: 59
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2015/12/MobilePayments-DigitalWallet.jpg"
-        width: 330
-        height: 211
-        isCached: true
-  - title: "AI at work isn’t always intelligent"
-    excerpt: "With AI spreading quickly but quietly into people’s homes, it is timely that the EU published draft rules last week on how it should be used in a range of different settings. The proposed rules say that AI used for “the recruitment and selection of persons,"
-    publishedDateTime: 2021-04-27T04:00:00Z
-    webUrl: "https://www.ft.com/content/7f006161-f8d4-49cc-a885-59e88313e16e"
-    ampWebUrl: "https://amp.ft.com/content/7f006161-f8d4-49cc-a885-59e88313e16e"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7f006161-f8d4-49cc-a885-59e88313e16e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2d1ef53e-a05f-4660-b6db-17b627536f96.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://cdn.mos.cms.futurecdn.net/ah4yZs5MTpbD6MRXyVk9Z6-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "D/OPRVDPdFhKdXhHbyGDczstGbfB9yNpyVEOnh58F+rs8McI7IUNkAlxJn+k8hx5rQACmiNJBGhJqOyow/Q9ku2I6E4m53FDx8+lOCHMaY3jb64UZqFYUDp6NtV91XXDIn/y94dfdh6vPXGvnTs1C+wVxz96ar/AbvgFTAOVrAP+7jS0Qx9A+e/3yvQFosiJyEKgiKVh6Us+As1nInTFs6nq6ORE8U+EACPNbyY2WyUBHK7raXJ6Q9GQt7VjpWZCDXEMl8TUlNh4feXfpZJ9Ed6TnHM7wNAqWEamiywQq0FEgU/dosz16J9hD63bf1NaMqNLqlL1RXWUfVE9iFOhQq/7ofBLFQ5Z7D4vs5euAkK26ybsRML7WC6k3iAlxfUAypo8S3V2LWIEXirv0+42ZAFlDoP0NBGxk/SlxGbeZtwLweRi/9P56pCCVaUeSz/x+5m0lZMfLOnnNu+qNZnaYwVfbNnaTmMxcLtCuv4U+DBsqXRJlFWcElHXOBIxubKz7CyOsU4/NWB92d0MYAWKRQ==;1dbUqiY2NFcs37eMi1CmQw=="

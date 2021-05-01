@@ -7,7 +7,7 @@ originalUrl: "https://www.investorideas.com/news/2021/artificial-intelligence/04
 webUrl: "https://www.investorideas.com/news/2021/artificial-intelligence/04281GTCH-V-PYPL-MTRX-RACMF.asp"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Sector Snapshot: Artificial Intelligence to Play a Major Role in the Future Growth of the Credit Card/Payment Industry"
-    excerpt: "April 28, 2021) - Investorideas.com (  a global investor news source covering Artificial Intelligence (AI) and Fintech issues a sector snapshot looking at how AI will play a leading role in the future growth of the credit card/payment industry,"
-    publishedDateTime: 2021-04-28T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/fintech-sector-snapshot-artificial-intelligence-to-play-a-major-role-in-the-future-growth-of-the-credit-cardpayment-industry-2021-04-28"
+  - title: "Fintech / Artificial Intelligence Stock News (OTC: $GTCH) (NYSE: $V) (NASDAQ: $PYPL) (TSXV: $MTRX.V) (OTCQB: $RACMF) - the future of payments"
+    excerpt: "Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) and Fintech issues a sector snapshot looking at how AI will play a leading role in the future growth of the credit card/payment industry,"
+    publishedDateTime: 2021-04-29T12:55:00Z
+    webUrl: "https://www.investorideas.com/news/2021/artificial-intelligence/04291Fintech-Stocks.asp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 4
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+        width: 1280
+        height: 1206
         isCached: true
-  - title: "Fintech/AI Sector Snapshot- Artificial Intelligence To Play A Major Role In The Future Growth Of The Credit Card/Payment Industry"
-    excerpt: "Fintech/#AI Sector Snapshot- #Stocks to Watch (OTC: $GTCH) (NYSE: $V) (NASDAQ: $PYPL) (TSXV: $MTRX.V) (OTCQB: $RACMF) @Visa @PayPal @LoopInsights#ArtificialIntelligence to Play a"
-    publishedDateTime: 2021-04-28T19:36:00Z
-    webUrl: "https://seekingalpha.com/instablog/776842-investorideas-com/5584525-fintech-ai-sector-snapshot-artificial-intelligence-to-play-major-role-in-future-growth-of"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 5
 
 secured: "TdEpQN9euZXllrlNxclRNpmelVShKtmw81U53Ay1FQ4+MNQPpeYkujxqUEy8xcgbixXhvZHFUYTDzk0V5zh+Ln3Volu1+wgQiNdfDuSRWru6FNSMCph9YRhtvlKIimHbiLgqdSbiP0bOz713qjC/zoDI7hGoYjt+wFs6/BUKMJbakwzfk391BTAaJ6Zq/aXeZggjFbkP1TmujTJuCcu+BgOCHgWdHSJ5cetv3HfH0ODwpMdIwH0niRNfo4h/twAozWut+4gnPuXJmad+1CCysoeS7T7G4dimShb97niF/+l3QL8Iu2x9fAO3KqKiRVx5Z7GW1RcSrjISeSOcVgqZCLBerYF5pRseG5gs/dZ4uJQ=;QeFddNnne1sEB0II78RP+w=="
 ---

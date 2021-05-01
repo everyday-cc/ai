@@ -1,50 +1,35 @@
 ---
 category: news
-title: "The UK will make ‘self-driving’ cars legal this year"
-excerpt: "The UK is making self-driving partially legal in the spring, so you should have an easier time in the cockpit. But you shouldn’t think of watching a movie or playing games on your phones while driving just yet."
-publishedDateTime: 2021-04-28T07:02:00Z
-originalUrl: "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-legal-this-year"
-webUrl: "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-legal-this-year"
+title: "‘Self-driving’ cars could get green light for use on UK motorways this year"
+excerpt: "Automated lane-keeping systems likely to be allowed only when traffic is moving slowly"
+publishedDateTime: 2021-04-28T04:48:00Z
+originalUrl: "https://www.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year"
+webUrl: "https://www.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year"
+ampWebUrl: "https://amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 140
+heat: 250
+published: true
 
 provider:
-  name: The Next Web
-  domain: thenextweb.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg"
+    - url: "/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F08%2Falks-lane-keeping-motorway-autopilot-autonomous-vehicles-car-ev-government-uk.png&signature=6a91d3ce2373b7deb8b2941ecca9fea1"
-    width: 1280
-    height: 640
+  - url: "https://i.guim.co.uk/img/media/94d7138351039ada10b40e6fad51eeb0e34f9100/0_0_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e88a6f9f477ee4aeb92d71379969444"
+    width: 600
+    height: 360
     isCached: true
 
 related:
-  - title: "‘Self-driving’ cars could get green light for use on UK motorways this year"
-    excerpt: "Automated lane-keeping systems likely to be allowed only when traffic is moving slowly"
-    publishedDateTime: 2021-04-28T04:48:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
-    images:
-      - url: "https://i.guim.co.uk/img/media/94d7138351039ada10b40e6fad51eeb0e34f9100/0_0_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e88a6f9f477ee4aeb92d71379969444"
-        width: 600
-        height: 360
-        isCached: true
   - title: "UK prepares to conditionally legalize self-driving cars"
     excerpt: "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,"
     publishedDateTime: 2021-04-29T05:52:00Z
@@ -60,6 +45,20 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/5288f9f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2Fc6%2F228c4d91471c869f92b16e65a83c%2Fdepositphotos-181168354-l-2015.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The UK will make ‘self-driving’ cars legal this year"
+    excerpt: "The UK is making self-driving partially legal in the spring, so you should have an easier time in the cockpit. But you shouldn’t think of watching a movie or playing games on your phones while driving just yet."
+    publishedDateTime: 2021-04-28T07:02:00Z
+    webUrl: "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-legal-this-year"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F08%2Falks-lane-keeping-motorway-autopilot-autonomous-vehicles-car-ev-government-uk.png&signature=6a91d3ce2373b7deb8b2941ecca9fea1"
+        width: 1280
+        height: 640
         isCached: true
   - title: "UK says 'self-driving' cars could be allowed by the end of 2021"
     excerpt: "The UK government has announced that basic self-driving cars with automated lane-keeping system (ALKS) could arrive on British roads by the end of 2021. The new designation will allow trials of such systems, allowing Britain to develop its own self-driving ..."
@@ -182,6 +181,6 @@ related:
       domain: iottechnews.com
     quality: 4
 
-secured: "sx/cRE+w3ml4/rtY8cGgU73Bez1+Eh6R8uOvq25YO2u2RpzPtdGbPP8O3fjWkwI3/puZEkodiioHNdotELd5GGmfOU5ijO6ITAf7JzAAnpa19U3PRH3tRWUB/e3RUfuQW/IyKxU3P8IDryPfNPn/cLEFXEyZWh2f42jJ7o5e0dCrbAT78jypNlQOKoVehJyon8zIhF1/OTjX5Zv9vylxBfyWbrrRwIiJ81qYrBSZLXi12FbJOYfmHdfc3aXkqP5fDkEgGr9pG+k8OvvAwDWJyuhQXyxdYfMe1Kg8zWnLn63eUG7rt+uRzxDq8Q/lmgdbkaxZ/JNcNXUSSRLfjPxyCX/aboaThbnS8hJyCUEWho4FpqyRLInpKrn5dW7xMLqdFw8h1zOwTnOtk4G7ue77YUAjpJlLgsMjiEqQ+VhlTToSnNwKe+RaNQJuzklgUp3QMxdMDDHscyLxZ5ZCiCtWeE1KNDjXTEp2wtYod74/czyMHhbaLmrIFY6WgxE/1nwb+A4YF9i4kcIAt7iVpwcZfw==;5q8eIguJfa1yF1lOPBDL8w=="
+secured: "7/n37oh62aJ1P/lV+m9h/UbIKNvKQpuFbAFhCGTgwkjVXf3MOM7Leme+qiojRH12w+EhOtjjx6b0iUXGDVRllt+Z0Xs6Uv/12+Rv3Yw9TvFHJoyXMm7LumJAOT1+fY/Q95ennhl5XvyRcAUZZ3BCPvqEDIDkzNZg+ZCW59M/I8ktZQt/qpAYwZqATmQQTSIiuNReiJ0w63jsUy8fy6TV28LTcgDggKKImeI2UzvOJPzreBxI8bIJqbuENyVyPLTrTwWCoMJXjjGD9Jzq9HEFwemXHqzLhx5an7uO2tX/zw0Rxu5yrU5pd/3s9c1hl/yZWajQXFstByfzh53cQejlUOEMfTSf5ZVDj1seRyMRmfA=;z/GHM/UCBuTrnriTJHnc+g=="
 ---
 

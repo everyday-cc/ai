@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Self-driving’ cars could get green light for use on UK motorways this year"
+    excerpt: "Automated lane-keeping systems likely to be allowed only when traffic is moving slowly"
+    publishedDateTime: 2021-04-28T04:48:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/94d7138351039ada10b40e6fad51eeb0e34f9100/0_0_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e88a6f9f477ee4aeb92d71379969444"
+        width: 600
+        height: 360
+        isCached: true
   - title: "UK prepares to conditionally legalize self-driving cars"
     excerpt: "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,"
     publishedDateTime: 2021-04-29T05:52:00Z
@@ -40,36 +56,6 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/5288f9f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2Fc6%2F228c4d91471c869f92b16e65a83c%2Fdepositphotos-181168354-l-2015.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Hyperdrive Daily: The Self-Driving Car Race Hardly Matters"
-    excerpt: "Welcome to the Hyperdrive daily briefing, decoding the revolution  reshaping the auto world, from EVs to self-driving cars and beyond."
-    publishedDateTime: 2021-04-30T11:31:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-04-30/hyperdrive-daily-the-self-driving-car-race-hardly-matters"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWE7ospu7tSc/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Self-Driving Cars To Conveniently Haul Fancy Stores To Your Doorstep For Your Shopping Delight"
-    excerpt: "Self-driving cars will be used to haul around mobile stores, bringing the shops to your doorstep, which is quite convenient though presents some hefty challenges for AI."
-    publishedDateTime: 2021-04-29T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606252c768cbbbf4ea56d79e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2460%26cropY1%3D124%26cropY2%3D1508"
-        width: 1200
-        height: 675
         isCached: true
   - title: "The UK will make ‘self-driving’ cars legal this year"
     excerpt: "The UK is making self-driving partially legal in the spring, so you should have an easier time in the cockpit. But you shouldn’t think of watching a movie or playing games on your phones while driving just yet."
@@ -98,22 +84,6 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-04/fb672ab0-a804-11eb-a477-f3c1b293dd52"
         width: 2000
         height: 1182
-        isCached: true
-  - title: "Self-driving cars coming to a slow lane near you, Government announces"
-    excerpt: "The UK Government has announced that it will be legal for motorists to go hands-free in self-driving cars later this year."
-    publishedDateTime: 2021-04-29T11:19:00Z
-    webUrl: "https://www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/"
-    ampWebUrl: "https://www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 44
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/04/GettyImages-168495211-ae2e539.gif?quality=90&crop=4px,51px,913px,393px&resize=960,413"
-        width: 960
-        height: 413
         isCached: true
   - title: "UK signals self-driving cars could hit road this year"
     excerpt: "Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel."
@@ -158,6 +128,20 @@ related:
       - url: "https://www.intelligenttransport.com/wp-content/uploads/autonomous-stock.jpg"
         width: 750
         height: 450
+        isCached: true
+  - title: "Why fully self-driving cars on UK roads might be further away than you think"
+    excerpt: "The Government claims that cars with a form of technology considered legally self-driving could hit British roads by the end of the year, but truly autonomous vehicles are still some way off, finds Rh"
+    publishedDateTime: 2021-05-01T08:47:00Z
+    webUrl: "https://inews.co.uk/news/technology/uk-road-fully-self-driving-cars-2021-alks-system-autonomous-vehicle-981065"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 21
+    images:
+      - url: "https://i.inews.co.uk/content/uploads/2021/04/SEI_76426762.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "UK becomes first country to give green light to self-driving cars on motorways"
     excerpt: "The Transport Ministry of Britain informed that it has been working on specific wording to update the highway code of the country for the safe use of"
