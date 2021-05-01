@@ -1182,32 +1182,32 @@
       "title": "Cambridge Quantum Appoints Professor Stephen Clark as Head of Artificial Intelligence",
       "excerpt": "Stephen Clark as Head of Artificial Intelligence. Prof. Clark joins CQC from DeepMind where he was a Senior Staff Research Scientist and led a team working on grounded language learning in virtual ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence-301265850.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence-301265850.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence-1030292554",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence-1030292554",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T00:02:00-07:00",
+      "publishedDateTime": "2021-04-12T00:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

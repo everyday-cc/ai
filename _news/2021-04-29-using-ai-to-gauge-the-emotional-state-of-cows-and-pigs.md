@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-04-ai-gauge-emotional-state-cows.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-ai-gauge-emotional-state-cows.amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,80 @@ images:
     isCached: true
 
 related:
-  - title: "Oak Ridge National Lab licensing artificial intelligence software to General Motors"
-    excerpt: "A first-of-its-kind agreement between Oak Ridge National Laboratory and General Motors could speed up the car manufacturer’s building of autonomous vehicles and"
-    publishedDateTime: 2021-04-27T17:16:00Z
-    webUrl: "https://www.wate.com/news/business/oak-ridge-national-lab-licensing-artificial-intelligence-software-to-general-motors/"
+  - title: "The Current State Of The Healthcare AI Revolution"
+    excerpt: "With the global AI in healthcare market size expected to grow from just under $5 billion in 2020 to $45.2 billion by 2026, the investments and recent use cases for this technology are proof that AI is here to stay."
+    publishedDateTime: 2021-04-28T11:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/amp/"
     type: article
     provider:
-      name: WATE 6 On Your Side
-      domain: wate.com
-    quality: 13
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "The Future Of AI In Healthcare"
+    excerpt: "Two AI luminaries, Fei-Fei Li and Andrew Ng got together today on YouTube, to discuss the state of AI in healthcare."
+    publishedDateTime: 2021-04-29T21:02:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b1e5a5ca86d56b9a674dc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3490%26cropY1%3D0%26cropY2%3D1962"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Will AI Revolutionize Customer Success?"
+    excerpt: "It’s hard to turn anywhere these days without someone touting the benefits of artificial intelligence (AI) and machine learning. Will AI replace most or all of a customer success team and take over most of the practice?"
+    publishedDateTime: 2021-04-30T11:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/30/will-ai-revolutionize-customer-success/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2dc22afaff939159573985%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The future of ethical AI"
+    excerpt: "Pro Bono News sits down with artificial intelligence researcher Thao Phan to discuss the issues of ethics of race and gender in AI"
+    publishedDateTime: 2021-04-26T22:58:00Z
+    webUrl: "https://probonoaustralia.com.au/news/2021/04/the-future-of-ethical-ai/"
+    type: article
+    provider:
+      name: Pro Bono Australia
+      domain: probonoaustralia.com.au
+    quality: 54
+    images:
+      - url: "https://probonoaustralia.com.au/wp-content/uploads/2021/04/463-fram-template-1.jpg"
+        width: 770
+        height: 463
+        isCached: true
+  - title: "The 4 Fallacies of Artificial Intelligence"
+    excerpt: "Artificial intelligence researchers are kidding themselves that human-level performance is within reach, argues one leading thinker. Here's why."
+    publishedDateTime: 2021-04-30T22:00:00Z
+    webUrl: "https://www.discovermagazine.com/technology/the-4-fallacies-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/7fWlxP5pbUOWtYOq9nWOKk/0e4afdfaf151a66642346beca3ad3413/shutterstock_1154457493.jpg"
+        width: 1000
+        height: 665
+        isCached: true
 
 secured: "nO4nSUdolXlBhx0iRAF/87UOst5w+b2Dwi5aPiuzADKB7o1s+eCljr73XWBeFbjjsC+HinGOCwpU7yodjjPGNp4iAShizCrg8tDz0J2vTKxIfTVkM7+12Ddtz/M4Kwz3GHLfRzkU/zXMCU7z+tZ8678WdUHoh8qrnPALQKrW2/qUA1uRTOv3daumaJDkS9M+olnYwdLbvCHSmsUAmx8T79UlK3nV0vRWuTQQurNMpmU2mqSmlNDkTVywfH3Rl1mrvh3Y12PAItBNbCCjuMgmlsbumOciTc7v/oPUYv4piT9JqyjKqT8QBDGsAAFBIQdJzb+vTvVvtO3dtGvNBiWzGIFhpL/gI8bIIirl8TsMHLlwMXAvkvXu/RCnhKUsYejJY1UQiWcbgkz0j3c4MIhijNprfi3x1hC4MEGz/byyzVGgZJYRK6h096tenfQnGOYI+JdOXbfyOVtnVbJYfqEGj4IjY3Ti7fsMTkAlI+GDrQbgSOVdouSprx03RVymXP6liEefrE42wpwfpkCYT7mUmA==;gnRQjtZtM0MakkmN2xD0lg=="
 ---

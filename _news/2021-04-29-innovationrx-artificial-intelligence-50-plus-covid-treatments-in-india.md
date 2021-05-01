@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 815
     isCached: true
+
+related:
+  - title: "Innovative AI solutions in the wind power industry"
+    excerpt: "Today, many industries try to implement AI technologies in their business to solve the issues they are facing and the wind power industry is not an exception. Nowadays, wind energy was the source of about 8."
+    publishedDateTime: 2021-04-30T20:22:00Z
+    webUrl: "https://knowtechie.com/innovative-ai-solutions-in-the-wind-power-industry/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 37
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/04/windfarm-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "6BaTBI0bKeLAFyX+plox6/HJVXmsJf4p5wJbNaZ4amjk1dRZp4qCEPW9JUzDHQ/TJFbxjnLs/M7uf6qKkOIWZbZueW+jja7MrDlRu6YhO/GUN2dOmWbVc6DU8ipm/ri2Rb+4td/KyzdjGgfAN5NsYS5dLoL4fjaWnKfvQvnChHNZidSuwRcBhPwEQSwtg+7oe+VWhK2fXfiETyCnBdewO4u26xGlgDWYlu4/AzQpNFZlfH/SwU2rDV/9EJLgvOUl9ZMDiJW2VwtD2Ypy+pS10a1L3drYib1MiHP2IhPwpHnrLNR5sCJqyxPKU5KDD29Q2r6hwlUNc7m8LH+K7QW6xomhlp58u6uWxpPPYJ3K3mPgGX2Bl0vD6MznZWFiqgLy0XoHwTUOIaP/HCj+SEx1Ho3T/vpnNJxbVHCyhPr146QCksfmRRekm+nisdXEtxCnGZCQ35sOXHxbqoe5IobUSwd6FPT1TGGvF+Sua1GtzGt+OvNUaPJbeMast9FekeEzHkEpVNERiJUC37hZVczQUA==;mATlM8uL56GGrxn9q6JQbg=="
 ---

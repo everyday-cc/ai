@@ -156,7 +156,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -556,6 +556,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-27-artificial-intelligence-robotics-market-size-overview-and-forecast-2021-2027-microsoft-xilinx-softbank.md",
+      "title": "Artificial Intelligence Robotics Market Size, Overview and Forecast 2021-2027 | Microsoft, Xilinx, Softbank",
+      "excerpt": "Global Artificial Intelligence Robotics Market 2021 serves latest business information and advanced future trends, Artificial Intelligence Robotics ruling players, forecasts, study and discussion of market details,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/27/artificial-intelligence-robotics-market-size-overview-and-forecast-2021-2027-microsoft-xilinx-softbank/",
+      "originalUrl": "https://ksusentinel.com/2021/04/27/artificial-intelligence-robotics-market-size-overview-and-forecast-2021-2027-microsoft-xilinx-softbank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/04/Spiremarket-13.jpg",
+          "width": 713,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-making-ai-great-again-how-do-we-design-ethical-ai-systems.md",
       "title": "Making AI great again: how do we design ethical AI systems?",
       "excerpt": "The debate around how AI will shape our future is ongoing, and it is already affecting our present. Accenture investigates how issues around ethics and regulation are becoming increasingly urgent. Artificial intelligence is a powerful agent of change in our society.",
@@ -745,6 +789,57 @@
       ]
     },
     {
+      "path": "_news/2021-04-27-sonys-working-on-an-ai-that-can-play-games-for-you-heres-a-better-idea.md",
+      "title": "Sony’s working on an AI that can play games for you. Here’s a better idea",
+      "excerpt": "Sony’s AI division recently published a patent for an AI system that learns to mimic a player’s style. Give a person a video game and they’ll play it, teach an AI to play it for them and… what’s the point?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/sonys-working-on-an-ai-that-can-play-games-for-you-heres-a-better-idea",
+      "originalUrl": "https://thenextweb.com/news/sonys-working-on-an-ai-that-can-play-games-for-you-heres-a-better-idea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fsonypatent.jpg&signature=8605052dcfa57fd36efc3283e80c8249",
+          "width": 1212,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-aws-augmented-artificial-intelligence-adds-human-review-to-machine-learning-predictions.md",
       "title": "AWS Augmented Artificial Intelligence adds human review to machine learning predictions",
       "excerpt": "Amazon’s Augmented Artificial Intelligence ... for common machine learning to improve the symbiotic work with Amazon Rekognition and Amazon Textract, the company stated. Additionally, users ...",
@@ -901,7 +996,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/9-healthcare-ai-companies-to-watch-in-2021-per-forbes.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1124,111 +1219,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-this-researcher-says-ai-is-neither-artificial-nor-intelligent.md",
-      "title": "This Researcher Says AI Is Neither Artificial nor Intelligent",
-      "excerpt": "Kate Crawford, who holds positions at USC and Microsoft, says in a new book that even experts working on the technology misunderstand AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/researcher-says-ai-not-artificial-intelligent/",
-      "originalUrl": "https://www.wired.com/story/researcher-says-ai-not-artificial-intelligent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60830d45ccb11d7f69cb8196/master/pass/business_ai-atlas_630354458.jpg",
-          "width": 2400,
-          "height": 1602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/researcher-says-ai-not-artificial-intelligent/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/researcher-says-ai-not-artificial-intelligent/amp",
-      "publishedDateTime": "2021-04-26T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-the-ai-50-backstory.md",
-      "title": "The AI 50 Backstory",
-      "excerpt": "Very quickly I noticed that most “AI companies” had very little “AI” (real technology) or very little “company” (real business).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/",
-      "originalUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6086b8463c93f7863e620c1e%2F0x0.jpg",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/",
-      "publishedDateTime": "2021-04-26T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

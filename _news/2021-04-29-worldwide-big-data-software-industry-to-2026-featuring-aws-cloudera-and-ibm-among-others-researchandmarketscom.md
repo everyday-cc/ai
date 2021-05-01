@@ -64,22 +64,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
-  - title: "Know in depth about Enterprise Artificial Intelligence Market - Growth, Opportunities and Risks in the upcoming period 2021 to 2026"
-    excerpt: "The study on the global Enterprise Artificial Intelligence Market is an amalgamation of various insights that can potentially shape the future of the market The report is equipped with information about the market that can help investors and players identify"
-    publishedDateTime: 2021-04-26T11:11:00Z
-    webUrl: "https://www.openpr.com/news/2275430/know-in-depth-about-enterprise-artificial-intelligence-market"
-    ampWebUrl: "https://www.openpr.com/amp/2275430/know-in-depth-about-enterprise-artificial-intelligence-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2275430/know-in-depth-about-enterprise-artificial-intelligence-market"
+  - title: "Cognitive Analytics Market 2021 Key Business Opportunities, Impressive Growth Rate and Development Analysis to 2026"
+    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
+    publishedDateTime: 2021-04-27T12:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-key-business-opportunities-impressive-growth-rate-and-development-analysis-to-2026-2021-04-27"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
-    images:
-      - url: "https://cdn.openpr.com/U/4/U426937715_g.jpg"
-        width: 480
-        height: 340
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
 
 secured: "q8etCyXSzeZ/1ckfGUI8pWmPyB4R5P9l3FVBueXox1BcsSZVDI0a1u81yDHeSXF5K6IULJiz76FFkHKy9nE5ug+GdhBSk5Em2FOIGMTi92kQXpVPiDOwavm0i6x3rdhEAS8KWJTO7dyTwcZ3Vtjw/urU0PDx4DE6qFF99qw75nkyUAp4YE5sFXBAhm+4Wbh6agSdzYv4/jIfl+Ry27EHsTbw2ugB6jZkoBsMrZlh95Ez0Novc6EVW1nXmgVGD9ttZOaDhbRwhYk/CQ8gM+a+neYd+FyFSMT/EIlAqSIV+fDXxdWOwXEh62bb/FjYr1vtSI1EM+Y7nIvWg/uN0aMVt7JMDfZ99ZGq1Z62zWDKDXI=;u0+lhIlfNybltcfXmN4rMw=="
 ---

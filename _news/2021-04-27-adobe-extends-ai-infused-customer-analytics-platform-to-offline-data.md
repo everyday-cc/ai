@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "ThetaRay launches anti-money laundering AI and analytics for the cloud"
-    excerpt: "Cybersecurity analytics company ThetaRay announced that its AI-based Anti-Money Laundering (AML) analytics will be available in the cloud."
-    publishedDateTime: 2021-04-26T12:02:00Z
-    webUrl: "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/"
-    ampWebUrl: "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1279322260-e1619416404946.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "RealNetworks wins facial recognition and AI analytics contract with US Air Force"
     excerpt: "The goal is to reduce the risk service members face as the Safr-enhanced UGVs will detect unauthorized persons in restricted areas with face biometrics."
     publishedDateTime: 2021-04-27T20:05:00Z
@@ -61,20 +45,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Smarten Launches Clickless Analytics Natural Language Processing (NLP) Search Analytics for Business Users"
-    excerpt: "Smarten announces its Smarten Clickless Analytics, a Natural Language Processing (NLP) Search Analytics tool designed for every business"
-    publishedDateTime: 2021-04-29T13:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/smarten-launches-clickless-analytics-natural-language-processing-nlp-search-analytics-for-business-users-817197220.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Graph Analytics Powers Insights in Financial Services"
     excerpt: "When a new technology emerges, financial services firms often are among the first adopters. Anything that can provide banks, investment houses, or"
     publishedDateTime: 2021-04-26T21:38:00Z
@@ -98,15 +68,6 @@ related:
       name: CIO
       domain: cio.com
     quality: 17
-  - title: "Cognitive Analytics Market 2021 Key Business Opportunities, Impressive Growth Rate and Development Analysis to 2026"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
-    publishedDateTime: 2021-04-27T12:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-key-business-opportunities-impressive-growth-rate-and-development-analysis-to-2026-2021-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 12
 
 secured: "TVtGQWw1+eO27z2GD0EQiKos6IAfbe83DpPf01ZZesoaVJvrkT51VZa5BQAAQbF3+rQh1MRLa55RDphoPHWHgBPtqZIXpZquVXytoEfD9YonLMCEn4lUm7oMV68MmuL1wNFRYbpCLxFUtlQKfTVWkp+lzypvC78YJ8tKZvZeoM5olo0sM1bBBNJRNGtZ4Q1EjaQ4YHhg70QNQqHR3N+OUHA5iRjGaBPTcH0VrtkJmTvgmrlk2ST89kG1Op2P+HGdziv7TdYWVbO3YUbMi+b1rZjG4S2i/813llEp9zIVVC3htjhKbU89Ey9bqB6uYg9Hl+En6H2wcFsV8koJGhBoovi5yHUUr3Vzmn8G01OHBQVetGzVJ+ImPB+/ffamViDDf1weaHqEsZVaeZ3Y4Y4floW7m1m6nUu8ZAZYIWEJSV1ciY1xuFqUw7DDDspV57aE/SDMVaiimZNUSz0IqtI7M7w2zgpwu9HB4COKgyLBG0zstknw8K77Q2NC8cnXry7RNOEeSwrIaPjybQYrco2j3w==;CH8dPqM89m79hdlZC0tacw=="
 ---

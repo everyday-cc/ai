@@ -33,15 +33,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "BioXcel Therapeutics Announces Presentations on SERENITY I & II at the 2021 American Psychiatric Association Annual Meeting"
-    excerpt: "BioXcel Therapeutics, Inc. (\"BioXcel\" or the \"Company\") (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing a"
-    publishedDateTime: 2021-04-26T11:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bioxcel-therapeutics-announces-presentations-on-serenity-i-ii-at-the-2021-american-psychiatric-association-annual-meeting-1030344726"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 8
 
 secured: "9tlR9kpTfglc8Ktwp1dBOadNm57jmflrZPeqvlgHsi3kq153aVs+n8BeDhlbhY4cU4O8DW38egQG7H+af322W/0rbPCvE6GUrHMEsoXYEhYB8jWyIA9xVi4uyLzwBDdcdE9jfGKOfd/Q62FR5UXtQMM4iNkqViFQqT2x0WgxUnA122dzkt56P7ayTPCjr0tCvpPErrG2n7nsD6bhLTWfqxSqkiWhSHxiT4PFVyqvIiz/ljYXL1+o2/bJfKYJJ/R6xJnTCfHFoha0+zZjaiffGAgLGDETj6q/JNflXojCfWrWj5tyNiSrLB4VBPwH8nO/0XHJzGFafUHv4twvgYku7SSsnX4Fq9VzfdpklcsfAAE=;O57RtcqwyvI3Lwy9H3eXGQ=="
 ---

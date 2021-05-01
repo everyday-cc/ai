@@ -2,6 +2,83 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-03-19-aws-oxford-university-explore-human-machine-collaboration-with-ai-cloud-tech.md",
+      "title": "AWS, Oxford University Explore Human-Machine Collaboration With AI, Cloud Tech",
+      "excerpt": "Amazon Web Services (AWS) and the University of Oxford in England have partnered to test proofs of concept for human-machine interaction in education and other research areas using artificial intelligence tools and cloud computing platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.executivegov.com/2021/03/aws-oxford-university-explore-human-machine-collaboration-with-ai-cloud-tech/",
+      "originalUrl": "https://www.executivegov.com/2021/03/aws-oxford-university-explore-human-machine-collaboration-with-ai-cloud-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-facebook-teases-futuristic-wrist-based-wearable-that-will-let-you-control-ar-with-your-mind.md",
+      "title": "Facebook Teases Futuristic Wrist-Based Wearable That Will Let You Control AR With Your Mind",
+      "excerpt": "Facebook is really, really serious about augmented reality. Last year, the company showed off a frankly ambitious framework for the future of AR, and now the social media giant has revealed some of the advanced gadgets it’ s designing to help people interact with the AR world.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201",
+      "originalUrl": "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp",
+      "publishedDateTime": "2021-03-18T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-what-a-potential-sale-of-ibms-watson-health-means-for-ai-in-healthcare.md",
       "title": "What a potential sale of IBM's Watson Health means for AI in healthcare",
       "excerpt": "Experts say the hype got ahead of the engineering but that doesn't mean algorithms can't make healthcare smarter and reduce costs too. Success with artificial intelligence in healthcare depends on ...",
@@ -862,74 +939,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-artificial-intelligence-system-detects-errors-when-medication-is-self-administered.md",
-      "title": "Artificial intelligence system detects errors when medication is self-administered",
-      "excerpt": "From swallowing pills to injecting insulin, patients frequently administer their own medication. But they don't always get it right. Improper adherence to doctors' orders is commonplace, accounting for thousands of deaths and billions of dollars in medical costs annually.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-03-artificial-intelligence-errors-medication-self-administered.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-03-artificial-intelligence-errors-medication-self-administered.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-03-artificial-intelligence-errors-medication-self-administered.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-artificial-intelligence-errors-medication-self-administered.amp",
-      "publishedDateTime": "2021-03-18T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-facebook-unveils-ar-control-device-that-taps-into-your-nervous-system.md",
-      "title": "Facebook Unveils AR Control Device That Taps Into Your Nervous System",
-      "excerpt": "Facebook has a team of engineers working on next-generation computing devices and interfaces. The group on Thursday provided a first look at its latest prototype: a wrist-based controller that",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/#!",
-      "originalUrl": "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/amp/",
-      "publishedDateTime": "2021-03-18T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

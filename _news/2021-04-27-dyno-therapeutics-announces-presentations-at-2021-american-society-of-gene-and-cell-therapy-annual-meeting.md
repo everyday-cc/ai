@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "BioXcel Therapeutics Announces Presentations on SERENITY I & II at the 2021 American Psychiatric Association Annual Meeting"
-    excerpt: "BioXcel Therapeutics, Inc. (\"BioXcel\" or the \"Company\") (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing a"
-    publishedDateTime: 2021-04-26T11:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bioxcel-therapeutics-announces-presentations-on-serenity-i-ii-at-the-2021-american-psychiatric-association-annual-meeting-1030344726"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 8
   - title: "Dyno Therapeutics Names Dr. Debora Marks and Dr. Nicole Paulk to Scientific Advisory Board"
     excerpt: "Dyno Therapeutics, a biotech company applying artificial intelligence (AI) to gene therapy, today announced the expansion of the company’s Scientific Advisory Board (SAB) with the addition of Debora Marks,"
     publishedDateTime: 2021-04-26T16:00:00Z

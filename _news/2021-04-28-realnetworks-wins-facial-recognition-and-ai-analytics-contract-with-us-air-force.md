@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202104/realnetworks-wins-facial-re
 webUrl: "https://www.biometricupdate.com/202104/realnetworks-wins-facial-recognition-and-ai-analytics-contract-with-us-air-force"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ThetaRay launches anti-money laundering AI and analytics for the cloud"
-    excerpt: "Cybersecurity analytics company ThetaRay announced that its AI-based Anti-Money Laundering (AML) analytics will be available in the cloud."
-    publishedDateTime: 2021-04-26T12:02:00Z
-    webUrl: "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/"
-    ampWebUrl: "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1279322260-e1619416404946.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Adobe extends AI-infused customer analytics platform to offline data"
     excerpt: "Adobe extends its AI-infused platform for analyzing customer journeys to now include data pulled from offline sources."
     publishedDateTime: 2021-04-27T13:00:00Z
@@ -59,20 +43,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Smarten Launches Clickless Analytics Natural Language Processing (NLP) Search Analytics for Business Users"
-    excerpt: "Smarten announces its Smarten Clickless Analytics, a Natural Language Processing (NLP) Search Analytics tool designed for every business"
-    publishedDateTime: 2021-04-29T13:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/smarten-launches-clickless-analytics-natural-language-processing-nlp-search-analytics-for-business-users-817197220.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Graph Analytics Powers Insights in Financial Services"
     excerpt: "When a new technology emerges, financial services firms often are among the first adopters. Anything that can provide banks, investment houses, or"
     publishedDateTime: 2021-04-26T21:38:00Z
@@ -96,15 +66,6 @@ related:
       name: CIO
       domain: cio.com
     quality: 17
-  - title: "Cognitive Analytics Market 2021 Key Business Opportunities, Impressive Growth Rate and Development Analysis to 2026"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
-    publishedDateTime: 2021-04-27T12:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-key-business-opportunities-impressive-growth-rate-and-development-analysis-to-2026-2021-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 12
 
 secured: "6P0iMwwECkRcHS9Up2x02BzWLhUJVAlVqsUS+hkwY0kh+T/W+vIGqx/hheI9DkGruyFSG9LT8/sOQ+T9kLWkavdzwo2zSRJ7DB76UX1v9ga5m0u+gMf34DOosmtCW3+pc1habs6A+LOvOslbcRu9DSrl/rEeqxXSJo+f2TcMwM2DJYA2G3yfPUzEo7So4s2XLzqO6zJSpegCSzF9XIsmJYwI4i5Und8axH5vsp5W0b8SULqrL4FA07X4sG/0QhVV05Hc9l2zADHGJaN/mEpqq3e285GcwHl029iyDHgI7RVcyZ8/77WPuhBe8RprtW/fx0yY+MFdob/OV6axw10E0tTHLWYKyB3VJLU1T6zkOpLwQCD10KFVJgj3MDSqTLpiNYUbG6RfgyxH5GN9hOdoJlZQfaaiY8pGInZJnVqIybWTYUn14R5tlLNg+0FPeAzPh9UtV8Sn1XEiF2yuNqZXA+F2VzG8JrNlFxK5YidHzmetgc5NXdiUPHF/X/cb+Sm9QbpYjabRzoselfHpRhmdaw==;JeBIBdkLLgyRNbkMYygimg=="
 ---

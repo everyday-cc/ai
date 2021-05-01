@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://patch.com/img/cdn20/users/91525/20210430/100048/styles/patch_image/public/blerimabdullai-web___30095834871.jpg?width=984"
         width: 800
         height: 600
-        isCached: true
-  - title: "The future of ethical AI"
-    excerpt: "Pro Bono News sits down with artificial intelligence researcher Thao Phan to discuss the issues of ethics of race and gender in AI"
-    publishedDateTime: 2021-04-26T22:58:00Z
-    webUrl: "https://probonoaustralia.com.au/news/2021/04/the-future-of-ethical-ai/"
-    type: article
-    provider:
-      name: Pro Bono Australia
-      domain: probonoaustralia.com.au
-    quality: 54
-    images:
-      - url: "https://probonoaustralia.com.au/wp-content/uploads/2021/04/463-fram-template-1.jpg"
-        width: 770
-        height: 463
         isCached: true
 
 secured: "1XkEhIw6gAa1m79FL+GZ9tlQNYUaqg0bd1DokdXS72nF08sdZ5N+rXOkblbEqP8+PsW1FfTvy7BW2vZ30E3QGQEZkCaR+j2sZ89sxTPXleU8vfyR18A2UVr3RY1VBtCfrhDJsPnaUZDjcpN+HsfyiEcOkUikCzHtdSv9sKp/hAZiRCbUB6/OUs2PNc78B/TX/jqtZJZsdnqRQ3ggMlmSeId1bvnRR9llexq6XJe6a366Fi5FFpfZEAftBh1qEY38n5sq/XJoyR2kyBSb+V5BpwW3PpOVjMDN+0fknYuQtEZI8/AfbTHYipHwdN7jtR7pS4DOBgetpo+MmA+eji4Vs7+cc63UEsZqPHC8LAMCGL+uLbEmRmZt7MkMKaulKIASWfL7hu5V9T/xD4FLjf/g9j6mC9Y/3UwGcRqXJyu9GWrvXFaVEhF3mNVv6boIhmHCY48oFIAZP9a9t4I2/waHGNY/5OCDAV0nwnjA92qLGoqALCyNQ4BVaz0NBcEb+cwn8ZrMeQS5iHDKfAfU9GMCDA==;XF+aI7JRopzdLS5viIb2GA=="

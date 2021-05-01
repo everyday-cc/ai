@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ThetaRay launches anti-money laundering AI and analytics for the cloud"
-    excerpt: "Cybersecurity analytics company ThetaRay announced that its AI-based Anti-Money Laundering (AML) analytics will be available in the cloud."
-    publishedDateTime: 2021-04-26T12:02:00Z
-    webUrl: "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/"
-    ampWebUrl: "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1279322260-e1619416404946.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "RealNetworks wins facial recognition and AI analytics contract with US Air Force"
     excerpt: "The goal is to reduce the risk service members face as the Safr-enhanced UGVs will detect unauthorized persons in restricted areas with face biometrics."
     publishedDateTime: 2021-04-27T20:05:00Z
@@ -73,20 +57,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Smarten Launches Clickless Analytics Natural Language Processing (NLP) Search Analytics for Business Users"
-    excerpt: "Smarten announces its Smarten Clickless Analytics, a Natural Language Processing (NLP) Search Analytics tool designed for every business"
-    publishedDateTime: 2021-04-29T13:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/smarten-launches-clickless-analytics-natural-language-processing-nlp-search-analytics-for-business-users-817197220.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "AI and analytics together: 3 real-world use cases show how and why"
     excerpt: "Batman and Robin, apple pie and ice cream, AI and analytics. Did that last combination surprise you? It shouldn’t."
     publishedDateTime: 2021-04-27T17:21:00Z
@@ -96,15 +66,6 @@ related:
       name: CIO
       domain: cio.com
     quality: 17
-  - title: "Cognitive Analytics Market 2021 Key Business Opportunities, Impressive Growth Rate and Development Analysis to 2026"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
-    publishedDateTime: 2021-04-27T12:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-key-business-opportunities-impressive-growth-rate-and-development-analysis-to-2026-2021-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 12
 
 secured: "raK+NtUOu2fQBN7gFSTGfC3GSWNbcFwTXnMaPV0CQXBkA1zGwCKE5EbWJkyqeSbfptFKQlInT7yO4o5sjITO3nMp8aoBgJqPcwNMbwVN1qnGfM6DhytDpQBI/UP1rcDG3tQr34JgCYeKIFCdAeGDCPRFjWQ62vU+OyBDp5+ywob8dGu6a1eIF+N4FfTsp8myVO35QSg9Hcr+rkmiuAT3QVOk1ZtTKCG4mQjZOK1mORXlqZNYeyEIX27+7ClhABptAYdFXnpkx21pngjtm1EsQbceZOquNzE7o537Z8SldorUOQ1i9nqiRDFRhkqbZmXWC/dAxXfVuQPby4CyHrOdG7SmiQzfHyTw8nWzTErR3DqCp+mP76bSnz1r42Y38r2Z5ElEk4F9DWry1W8uC9zLPqCaHzUUc0dOUipntu19t2UZjxlZnNOVlcb+0m3658f2lFLfX0okj9CoEKbWJU5Z+CSdxpoTJZgkebc6F8ZuH5nJRWek9lIxEQttvNaksqV1aTgzSI9MPS526dr2YpMa3Q==;XScBFExxS5ttqadgZ86Tag=="
 ---

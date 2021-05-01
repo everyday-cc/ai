@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/sonys-working-on-an-ai-that-can-play-g
 webUrl: "https://thenextweb.com/news/sonys-working-on-an-ai-that-can-play-games-for-you-heres-a-better-idea"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Next Web
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sony patent describes an AI that plays games for you"
-    excerpt: "As reported by Segment Next, Sony’s patent covers a technology that trains a bot in the user’s playstyle. The AI starts with a basic set of"
-    publishedDateTime: 2021-04-26T12:49:00Z
-    webUrl: "https://www.techspot.com/news/89440-sony-patent-describes-ai-plays-games-you.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/89440-sony-patent-describes-ai-plays-games-you.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89440-sony-patent-describes-ai-plays-games-you.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 87
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-26-image-2.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Sony uses AI to customize the video game playing experience"
     excerpt: "A recently published patent has revealed that the entertainment company Sony has managed to program artificial intelligence to help users customize their video game characters. This new AI program learns based on traits personal to each user,"
     publishedDateTime: 2021-04-26T18:51:00Z

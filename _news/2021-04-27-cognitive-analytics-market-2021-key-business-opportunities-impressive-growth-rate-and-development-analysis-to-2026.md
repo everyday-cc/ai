@@ -23,91 +23,60 @@ topics:
   - AI
 
 related:
-  - title: "ThetaRay launches anti-money laundering AI and analytics for the cloud"
-    excerpt: "Cybersecurity analytics company ThetaRay announced that its AI-based Anti-Money Laundering (AML) analytics will be available in the cloud."
-    publishedDateTime: 2021-04-26T12:02:00Z
-    webUrl: "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/"
-    ampWebUrl: "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/"
+  - title: "Machine Learning Chips Market Dynamic, Demand Analysis, Statistics, Trends and Opportunities to 2026"
+    excerpt: "The report provides key opportunities within the market and describes the factors that are and will be driving the growth of the Machine Learning Chips industry Growth of the overall Machine Learning Chips market has also been forecasted for the"
+    publishedDateTime: 2021-04-29T14:16:00Z
+    webUrl: "https://www.openpr.com/news/2277615/machine-learning-chips-market-dynamic-demand-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: openpr.com
+      domain: openpr.com
+    quality: 61
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1279322260-e1619416404946.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://cdn.openpr.com/U/4/U429252793_g.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "RealNetworks wins facial recognition and AI analytics contract with US Air Force"
-    excerpt: "The goal is to reduce the risk service members face as the Safr-enhanced UGVs will detect unauthorized persons in restricted areas with face biometrics."
-    publishedDateTime: 2021-04-27T20:05:00Z
-    webUrl: "https://www.biometricupdate.com/202104/realnetworks-wins-facial-recognition-and-ai-analytics-contract-with-us-air-force"
+  - title: "AI in Fashion Market Report 2021 (COVID-19 Analysis) Worldwide Market Trends, Opportunities and Forecast to 2026"
+    excerpt: "The AI in Fashion report actively includes insightful aspects relating to product innovations acquisitions and trends intended to assist market players shareholders and investors in making strategic decisions The report further breaks down the analysis for the major countries in"
+    publishedDateTime: 2021-04-29T09:27:00Z
+    webUrl: "https://www.openpr.com/news/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
+    ampWebUrl: "https://www.openpr.com/amp/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 49
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
+      - url: "https://cdn.openpr.com/U/4/U429742956_g.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Adobe extends AI-infused customer analytics platform to offline data"
-    excerpt: "Adobe extends its AI-infused platform for analyzing customer journeys to now include data pulled from offline sources."
-    publishedDateTime: 2021-04-27T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/27/adobe-extends-ai-infused-customer-analytics-platform-to-offline-data/"
+  - title: "Machine Learning Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "Machine Learning market size was valued at USD 6 9 billion in 2018 and is anticipated to register a CAGR of 43 from 2021 to 2027 New technologies such as artificial intelligence is changing the way industries and humans work"
+    publishedDateTime: 2021-04-28T11:15:00Z
+    webUrl: "https://www.openpr.com/news/2276721/machine-learning-market-2021-growth-covid-impact-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2276721/machine-learning-market-2021-growth-covid-impact-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2276721/machine-learning-market-2021-growth-covid-impact-trends"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Location data analytics startup Placer.ai raises $50M Series B"
-    excerpt: "It’s been a very tough year for Placer.ai’s core customer segments of retail and commercial real estate, to put it mildly. But the foot traffic and location analytics startup saw growth in new categories,"
-    publishedDateTime: 2021-04-27T12:00:00Z
-    webUrl: "https://techcrunch.com/2021/04/27/location-data-analytics-startup-placer-ai-raises-50m-series-b/"
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+  - title: "Worldwide Big Data Software Industry to 2026 - Featuring AWS, Cloudera and IBM Among Others - ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global big data software market reached a value of US$ 142."
+    publishedDateTime: 2021-04-29T12:09:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/b20860635/worldwide-big-data-software-industry-to-2026-featuring-aws-cloudera-and-ibm-among-others-researcha"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20860635"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20860635"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "Smarten Launches Clickless Analytics Natural Language Processing (NLP) Search Analytics for Business Users"
-    excerpt: "Smarten announces its Smarten Clickless Analytics, a Natural Language Processing (NLP) Search Analytics tool designed for every business"
-    publishedDateTime: 2021-04-29T13:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/smarten-launches-clickless-analytics-natural-language-processing-nlp-search-analytics-for-business-users-817197220.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Graph Analytics Powers Insights in Financial Services"
-    excerpt: "When a new technology emerges, financial services firms often are among the first adopters. Anything that can provide banks, investment houses, or"
-    publishedDateTime: 2021-04-26T21:38:00Z
-    webUrl: "https://www.datanami.com/2021/04/26/graph-analytics-powers-insights-in-financial-services/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/fintech_shutterstock_-Jirsak.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "AI and analytics together: 3 real-world use cases show how and why"
-    excerpt: "Batman and Robin, apple pie and ice cream, AI and analytics. Did that last combination surprise you? It shouldn’t."
-    publishedDateTime: 2021-04-27T17:21:00Z
-    webUrl: "https://www.cio.com/article/3616679/ai-and-analytics-together-3-real-world-use-cases-show-how-and-why.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 17
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
 
 secured: "rCU/wqbcgOqmwKl/5egv9cIPmdqBSDXSICj1K6Dlh9xEA2H2iOS8HxJei9cnFDvQ2dCL7KprCV+Ae5dWHmE1fNp+OGvE5S89EFDERgxMga+/1FJlBkgEj1XTCRw3NibWdOC6HgXC+v3DVk4K4/NLWL5CVgw99U9y7fa9IS3hWYfaCE7Qk5mJ2GGhpBpkUbnOnTug2jxw8w5M4qmXoD/lvQEPQYhOOW855+jhIwNtVWPXXlHQKFJ2w4L3lWi0FTJoF5ayWQWBND4wFUc/LsduB131m99SoNa5VDAx5mynonb0F9KCiQnhh2G83Xqf86kDYag56LQc2wrI7pRxOHnfoN3hggjRWNuzKulRypdKPvY=;5UUANavwkB7hzEUncT84Tg=="
 ---

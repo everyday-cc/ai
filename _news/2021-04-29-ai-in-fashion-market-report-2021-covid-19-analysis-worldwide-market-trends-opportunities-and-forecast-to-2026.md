@@ -54,22 +54,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
-  - title: "Know in depth about Enterprise Artificial Intelligence Market - Growth, Opportunities and Risks in the upcoming period 2021 to 2026"
-    excerpt: "The study on the global Enterprise Artificial Intelligence Market is an amalgamation of various insights that can potentially shape the future of the market The report is equipped with information about the market that can help investors and players identify"
-    publishedDateTime: 2021-04-26T11:11:00Z
-    webUrl: "https://www.openpr.com/news/2275430/know-in-depth-about-enterprise-artificial-intelligence-market"
-    ampWebUrl: "https://www.openpr.com/amp/2275430/know-in-depth-about-enterprise-artificial-intelligence-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2275430/know-in-depth-about-enterprise-artificial-intelligence-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
-    images:
-      - url: "https://cdn.openpr.com/U/4/U426937715_g.jpg"
-        width: 480
-        height: 340
-        isCached: true
   - title: "Worldwide Big Data Software Industry to 2026 - Featuring AWS, Cloudera and IBM Among Others - ResearchAndMarkets.com"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global big data software market reached a value of US$ 142."
     publishedDateTime: 2021-04-29T12:09:00Z
@@ -81,6 +65,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 16
+  - title: "Cognitive Analytics Market 2021 Key Business Opportunities, Impressive Growth Rate and Development Analysis to 2026"
+    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
+    publishedDateTime: 2021-04-27T12:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-key-business-opportunities-impressive-growth-rate-and-development-analysis-to-2026-2021-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
 
 secured: "hoz29bJ4hYE7lKExa+mbe8RcoF3sRxWu+zyqZvM6P+Hplmc5ldRRxOOQJaxGODeyn/gelw9ILKfL3OIDKhLxh+MYCfQoKV4B808Tyq1VG2jrotX96l7QoYe/9NUXw6KyC1rDyl1B5Weens1Xbqiili/+8BoAded+v7Mxn43rIiOwCOQf9cFOn9S+Csz611rx1PWR1gggl7qQaveS914g0SnFhl7AIhOjOm0XICHgR7+OnuP5AEXHFinqptAJjxQ7qReE2d7fCurT3njT13S4gKwGsRhTgYJQM4B4DYA/0Y/44utNmpInViXxcSnoDqvEdzltYwdV7UGr9C21aio6CTMzDMYbMoTBWc5/+LGhbqmdWUb12+O/XNVIK117QGU8aw5MvtOdHsZqhGGP8XUCA1v9odgEnBVYdMXrf49H9NlNqYfR+FnJgeyS+20nXxsXCMb0I62BvOqfcL5pgVTuI93wIjfUH2x/sq3yBTZaxghpo6LIRfYEH2iqwaWsw1vFZjQhHgIk5wWJEH4eKhlbrA==;HXDn7t+j2o+sbusooeMZCA=="
 ---

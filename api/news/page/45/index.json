@@ -2,6 +2,93 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-03-11-aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions.md",
+      "title": "Aetina Provide Chained Hardware & Software Pro-AI Service for Edge AI Solutions",
+      "excerpt": "Extraordinary Coordination for your AI Project DevelopmentTAIPEI, March 11, 2021 /PRNewswire/ -- Aetina Corporation dedicated to AI solutions",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-scientific-machine-learning-and-hpc-ai-technology-convergence.md",
+      "title": "Scientific Machine Learning and HPC-AI Technology Convergence",
+      "excerpt": "Some of the most well-known examples of the use of machine learning technics in science applications are the detection and classification of gravitational-waves signals from LIGO and Virgo in astrophysics [1], the recent DeepMind Alpha-Fold2 capabilities ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/03/scientific-machine-learning-and-hpc-ai-technology-convergence/",
+      "originalUrl": "https://insidehpc.com/2021/03/scientific-machine-learning-and-hpc-ai-technology-convergence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2021/03/Illustration-2-HPC-AI.png",
+          "width": 300,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-canadian-tire-and-nuport-robotics-to-commercialize-canadas-first-automated-heavy-duty-trucking-technology.md",
       "title": "Canadian Tire and NuPort Robotics to Commercialize Canada’s First Automated Heavy Duty Trucking Technology",
       "excerpt": "First-of-its-kind technology to enable safer, greener and more efficient transport of goods by semi-tractor trailers TORONTO, ON / ACCESSWIRE / March 11, 2021 / Canadian National retailer Canadian Tire Corporation (TSX:CTC.",
@@ -957,94 +1044,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-the-structure-dilemma-in-biological-and-artificial-neural-networks.md",
-      "title": "The structure dilemma in biological and artificial neural networks",
-      "excerpt": "Going far beyond the obvious macroscopic structure of the brain, which hardly differs between human individuals, various authors postulated a coupling of structure and function 1, 2, 3. Neurons, hubs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-84813-6",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-84813-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-84813-6/MediaObjects/41598_2021_84813_Fig1_HTML.png",
-          "width": 531,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T07:33:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-raspberry-pi-machine-learning-with-tensorflow-lite.md",
-      "title": "Raspberry Pi machine learning with TensorFlow Lite",
-      "excerpt": "Check out the video below for an introduction into the proof of concept tutorial. “TensorFlow Lite allows you to take the same ML models used with TensorFlow (with some tweaks) and deploy them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/raspberry-pi-machine-learning-with-tensorflow-lite/",
-      "originalUrl": "https://www.geeky-gadgets.com/raspberry-pi-machine-learning-with-tensorflow-lite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/03/Raspberry-Pi-TensorFlow.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Using AI to gauge the emotional state of cows and pigs"
-    excerpt: "An animal scientist with Wageningen University & Research in the Netherlands has created an artificial-intelligence-based application that can gauge the emotional state of farm animals based on photographs taken with a smartphone."
-    publishedDateTime: 2021-04-29T14:10:00Z
-    webUrl: "https://phys.org/news/2021-04-ai-gauge-emotional-state-cows.html"
-    ampWebUrl: "https://phys.org/news/2021-04-ai-gauge-emotional-state-cows.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-ai-gauge-emotional-state-cows.amp"
+  - title: "General Motors Licenses Neural Network Tech from National Lab"
+    excerpt: "General Motors is set to tap an artificial intelligence software system from Oak Ridge National Laboratory for its driver assistance systems technology and future-facing automotive designs. The automaker is the first entity to commercially license the Multinode Evolutionary Neural Networks for Deep Learning,"
+    publishedDateTime: 2021-04-27T19:02:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/general-motors-licenses-neural-network-tech-national-lab/173646/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/using-ai-to-gauge-the-.jpg"
-        width: 1280
-        height: 527
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/04/27/NGcar20210427/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "rLPsWimWlhj269/nNKvF7DpzkE9uDVShd9nUbp+o/Z0K3QlGfFjtL0vYDB/om6EPvbfTTYOPnGVt7I5Lw1RiYarUIgBuqqJclRlnKjtPFO49AcsHoE94UCXrO9+BegcaOMLLYEmG7zymcjiOWh/miz740zXApH99WEtv5scBt5wwYWy28O35utuPPlzEGmNpi4F89dcX8W7OSlFpAPUFIVgF6QmW+mDAtZJc8K+BDyiEqs3iLdvhnDkaNJlXicl/TKV8t6+Hl/X+Ikb4D32hSwicf0w52azK/tHCEyzcg62EKZWPmTzwpEzwuLnbt944iPYR/zEaHKGQfh5BIBSH9ENydc9PSIYV2g8b4gbzq/I=;D+KYawHbZOzzTjKH4rgNEQ=="

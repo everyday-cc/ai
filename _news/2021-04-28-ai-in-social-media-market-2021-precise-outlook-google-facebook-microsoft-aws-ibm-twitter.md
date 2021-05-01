@@ -22,20 +22,6 @@ topics:
   - Facebook AI
 
 related:
-  - title: "Computer Vision Software Market Investment Analysis | Microsoft, AWS, OpenCV"
-    excerpt: "Global Computer Vision Software Market Report is an objective and in-depth study of the current state aimed at the major drivers, market strategies, and key players growth. The study also involves the important Achievements of the market,"
-    publishedDateTime: 2021-04-26T12:57:00Z
-    webUrl: "https://ksusentinel.com/2021/04/26/computer-vision-software-market-investment-analysis-microsoft-aws-opencv/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 70
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Global-Computer-Vision-Software-Market-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
   - title: "Artificial Intelligence Robotics Market Size, Overview and Forecast 2021-2027 | Microsoft, Xilinx, Softbank"
     excerpt: "Global Artificial Intelligence Robotics Market 2021 serves latest business information and advanced future trends, Artificial Intelligence Robotics ruling players, forecasts, study and discussion of market details,"
     publishedDateTime: 2021-04-27T07:35:00Z
