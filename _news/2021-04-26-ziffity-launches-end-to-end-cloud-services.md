@@ -26,6 +26,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+    excerpt: "Provides assurance and observability support for telco-clouds running on Azure LONDON, UK – MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs),"
+    publishedDateTime: 2021-04-28T13:09:00Z
+    webUrl: "https://realwire.com/releases/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: realwire.com
+      domain: realwire.com
+    quality: 34
+
 secured: "ZpYPf6Gc4pudnwCJi52s7N6sShvSuELEYM2EuPAmP9GqO+od+AuGcg0Rz8tzwScDK/MUYTMBwUBWh5PXyHcmKsyN8IdOEHxDJKAPdCUVc6tv/t0y2wgx7saCR8823M+EwYOFFV9poENAJfH43aRJ1O447Qck0BRM8TZ20zwvE549DpNcqcIXvW5WByQ2j60rCRFizWj8MsRLavKdHvhTGNGUead9pM+3CCsqtYPvYgTOETmCKx4R+v3ptVz/HRrDBu23A5Q9lXlZaVrshJJ5H7NCctuyak1qPCR72/seoMnJdPQDUdYrW2fq9aDCEI84q9xaZqT0PFdjuBtAHFG/TP12w3ldS5xJi5TXZoXGtaXj1Mbd27oexadbxAAGb5dP5+Vld7/zowgoha5eLcBFbq3AIW2mJpvdeGY6C5JGIx3pXyP/AVd7cj9TvlRykl9vtmL+VSZTwb/Kx8AqP/0rdRqz+83O3ax06u/FlRq7cPWXp+slCq9L9sMN6Dz2lySI9KqcPhxrPNQdWVETfLQbUw==;J8WtLBofqusvwXh0l+gplg=="
 ---
 

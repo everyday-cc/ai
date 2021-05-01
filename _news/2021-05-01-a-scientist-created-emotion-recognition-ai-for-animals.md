@@ -45,22 +45,6 @@ related:
         width: 570
         height: 321
         isCached: true
-  - title: "From admissions to teaching to grading, AI is infiltrating higher education"
-    excerpt: "Artificial intelligence is being used on campuses to answer academic questions, grade assignments, teach lesson."
-    publishedDateTime: 2021-04-26T11:00:00Z
-    webUrl: "https://hechingerreport.org/from-admissions-to-teaching-to-grading-ai-is-infiltrating-higher-education/"
-    ampWebUrl: "https://hechingerreport.org/from-admissions-to-teaching-to-grading-ai-is-infiltrating-higher-education/"
-    cdnAmpWebUrl: "https://hechingerreport-org.cdn.ampproject.org/c/s/hechingerreport.org/from-admissions-to-teaching-to-grading-ai-is-infiltrating-higher-education/"
-    type: article
-    provider:
-      name: The Hechinger Report
-      domain: hechingerreport.org
-    quality: 74
-    images:
-      - url: "https://i1.wp.com/hechingerreport.org/wp-content/uploads/2021/04/Newton-robot-college-2.jpg?fit=1024%2C710&ssl=1"
-        width: 1024
-        height: 710
-        isCached: true
   - title: "New AI Regulations Are Coming. Is Your Organization Ready?"
     excerpt: "Clearly, the regulation of AI is rapidly evolving. But rather than wait for more clarity on what laws and regulations will be implemented, companies can take actions now to prepare. That’s because there are three trends emerging from governments’ recent moves."
     publishedDateTime: 2021-04-30T12:05:00Z

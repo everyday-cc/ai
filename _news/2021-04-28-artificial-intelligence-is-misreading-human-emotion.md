@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theatlantic.com/amp/article/618696/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618696/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "From admissions to teaching to grading, AI is infiltrating higher education"
-    excerpt: "Artificial intelligence is being used on campuses to answer academic questions, grade assignments, teach lesson."
-    publishedDateTime: 2021-04-26T11:00:00Z
-    webUrl: "https://hechingerreport.org/from-admissions-to-teaching-to-grading-ai-is-infiltrating-higher-education/"
-    ampWebUrl: "https://hechingerreport.org/from-admissions-to-teaching-to-grading-ai-is-infiltrating-higher-education/"
-    cdnAmpWebUrl: "https://hechingerreport-org.cdn.ampproject.org/c/s/hechingerreport.org/from-admissions-to-teaching-to-grading-ai-is-infiltrating-higher-education/"
-    type: article
-    provider:
-      name: The Hechinger Report
-      domain: hechingerreport.org
-    quality: 74
-    images:
-      - url: "https://i1.wp.com/hechingerreport.org/wp-content/uploads/2021/04/Newton-robot-college-2.jpg?fit=1024%2C710&ssl=1"
-        width: 1024
-        height: 710
-        isCached: true
   - title: "A scientist created emotion recognition AI for animals"
     excerpt: "A researcher at Wageningen University & Research recently published a pre-print article detailing a system by which facial recognition AI could be used to identify and measure the emotional state of farm animals."
     publishedDateTime: 2021-04-30T19:40:00Z

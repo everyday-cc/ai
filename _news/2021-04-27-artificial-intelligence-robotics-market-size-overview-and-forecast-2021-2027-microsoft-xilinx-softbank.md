@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "AWS and Microsoft are not yet market leaders in IoT, but soon will be"
-    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
-    publishedDateTime: 2021-04-26T13:06:00Z
-    webUrl: "https://iotbusinessnews.com/2021/04/26/82010-aws-and-microsoft-are-not-yet-market-leaders-in-iot-but-soon-will-be/"
-    ampWebUrl: "https://iotbusinessnews.com/2021/04/26/82010-aws-and-microsoft-are-not-yet-market-leaders-in-iot-but-soon-will-be/amp/"
-    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/04/26/82010-aws-and-microsoft-are-not-yet-market-leaders-in-iot-but-soon-will-be/amp/"
+  - title: "Computer Vision Software Market Investment Analysis | Microsoft, AWS, OpenCV"
+    excerpt: "Global Computer Vision Software Market Report is an objective and in-depth study of the current state aimed at the major drivers, market strategies, and key players growth. The study also involves the important Achievements of the market,"
+    publishedDateTime: 2021-04-26T12:57:00Z
+    webUrl: "https://ksusentinel.com/2021/04/26/computer-vision-software-market-investment-analysis-microsoft-aws-opencv/"
     type: article
     provider:
-      name: IOT Business News
-      domain: iotbusinessnews.com
-    quality: 76
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 70
     images:
-      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/big-data-flows.jpg"
-        width: 360
-        height: 230
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Global-Computer-Vision-Software-Market-780x470.jpg"
+        width: 780
+        height: 470
         isCached: true
   - title: "AI in Social Media Market 2021 Precise Outlook – Google, Facebook, Microsoft, AWS, IBM, Twitter"
     excerpt: "Global AI in Social Media Market Size, Status and Forecast 2021-2026. The AI in Social Media Market report is a valuable source of insightful data for business strategists. It pro"

@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How sparsification and quantization build leaner AI"
-    excerpt: "We can take a different approach to AI model training and development by mirroring the human brain's early development patterns and working to bring sparsification and a corresponding degree of quantization to AI data management techniques."
-    publishedDateTime: 2021-04-26T10:04:00Z
-    webUrl: "https://www.idginsiderpro.com/article/3616173/how-sparsification-and-quantization-build-leaner-ai.html"
-    type: article
-    provider:
-      name: idginsiderpro
-      domain: idginsiderpro.com
-    quality: 39
-    images:
-      - url: "https://images.idgesg.net/images/article/2017/05/artificial_intelligence_machine_learning_thinkstock_664735184-100724414-large.jpg"
-        width: 700
-        height: 517
-        isCached: true
   - title: "Tilde Launches a Translation Platform for Companies and Translators"
     excerpt: "The new release of Tilde MT platform focuses on maximizing translation efficiency for translators, language service providers and small and large companies with the latest AI solutions. It includes secure translation UI,"
     publishedDateTime: 2021-04-29T10:08:00Z
@@ -78,20 +64,6 @@ related:
       - url: "https://slator.com/assets/2021/04/Tilde-MT-Platform.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale"
-    excerpt: "AppTek is trusted by some of the world's leading cloud and technology companies to power their conversational speech, text and image-based AI models through its managed data services program. To create the robust data sets required for these high-performing AI models,"
-    publishedDateTime: 2021-04-26T16:40:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1496629/AppTek.jpg?p=facebook"
-        width: 1614
-        height: 845
         isCached: true
 
 secured: "0UvsOjmkJ/bZQ8ZtuQr3PBF57w/RJSQGjqyh9Nzt9osW0NiPa14IoJXQAZctzI3VRFJ4LpEbkOXLRJ4dMbAo1EL93uAoWKiBbo0UvYDY/k9Eif/p4G/Ry9+xM0rPbuJwoQrql5LgZQMTi4lpTRCwnuFTk8WBKneFE8PB5EbDsM7S3hYWWQNxyW39oqKwrDW3rAmrkosaxsl+t7723I/X7HIhuTryBYl7WuY9KKa4T36sajkcLPG/qW1NLBsPKV2LLhlDUSgCc5KIwLWrMxchJM4u166+8T/5x0NkHpLk6NO2A8RNe7bV3dLICsM9UdIV+gjPPmwOFVogdJoCXO2FIBz5DSjBVCeXL8ACuatQPxI=;btR1V+f/IKzo1RZSOe8ESQ=="
