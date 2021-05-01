@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturer
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

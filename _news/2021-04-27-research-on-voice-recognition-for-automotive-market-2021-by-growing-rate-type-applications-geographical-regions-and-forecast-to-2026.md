@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Software Market Share ,Global Growth, Size, Trends, Industry Analysis, Key Players and Forecast 2021 – 2025"
-    excerpt: "Global Natural Language Processing (NLP) Software Market Research report provides detailed analysis of global market"
-    publishedDateTime: 2021-04-28T06:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-share-global-growth-size-trends-industry-analysis-key-players-and-forecast-2021-2025-2021-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Market (2021 to 2025) - Featuring Alphabet, Intel and Oracle Among Others - ResearchAndMarkets.com"
     excerpt: "Market 2021-2025” report has been added to ResearchAndMarkets.com’s offering. The publisher has been monitoring the artificial intelligence (AI) market and it is poised to grow by $76.44 billion during 2021-2025,"
     publishedDateTime: 2021-04-30T10:52:00Z

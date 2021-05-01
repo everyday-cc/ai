@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-30T20:05:00Z
 originalUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21162926/electronic-design-understanding-the-art-of-machine-learning"
 webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21162926/electronic-design-understanding-the-art-of-machine-learning"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/04/MachineLearning_dreamstime_Ekkasit919_144788061.608c5c4f89d9b.png?auto=format&fit=max&w=1200"

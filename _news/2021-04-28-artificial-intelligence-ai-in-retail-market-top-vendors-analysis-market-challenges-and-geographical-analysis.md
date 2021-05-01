@@ -40,20 +40,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Chatbot Market Industry Demand, Current and Future Plans by Forecast to 2025 | Says Kenneth Research"
-    excerpt: "Global Chatbot Market AnalysisAccording to Market Research, The Global Chatbot Market was valued at USD 858.1 Million"
-    publishedDateTime: 2021-04-26T05:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-industry-demand-current-and-future-plans-by-forecast-to-2025-says-kenneth-research-2021-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast – 2021 to 2027"
     excerpt: "Artificial intelligence has been one of the fastest growing technologies in recent years AI is associated with human intelligence with similar characteristics such as language comprehension reasoning learning problem solving and more Manufacturers in the market witness tremendous fundamental intellectual"
     publishedDateTime: 2021-04-28T06:46:00Z

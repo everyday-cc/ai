@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI won't transform healthcare until the 2030s, Stanford researchers say"
+    excerpt: "Artificial intelligence won't significantly improve healthcare until the 2030s, according to AI experts Fei-Fei Li, PhD, and Andrew Ng, PhD. During an April 30 panel hosted by Stanford (Calif.) University's Institute for Human-Centered Artificial Intelligence,"
+    publishedDateTime: 2021-04-30T21:33:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ai-won-t-transform-healthcare-until-the-2030s-stanford-researchers-say.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Healthreveal and ACC team up to transform heart care with AI"
     excerpt: "The American College of Cardiology (ACC) hopes artificial intelligence (AI) can dramatically increase adoption of its frequently ignored guidelines for cardiovascular care. In three new studies, the ACC will implement Healthreveal's AI to recommend personalized interventions with the goal of preempting adverse cardiovascular events and improving patient outcomes,"
     publishedDateTime: 2021-04-28T00:00:00Z
@@ -87,6 +101,6 @@ related:
         height: 635
         isCached: true
 
-secured: "OPyDeWQkl6AzihopfZxHhhvg6qWgctbyMTFFJVVRyh4PYvu30oI2k2pylYTiQ9D0A8R5AI090GW0za8QD0shvOfpyeeGRRphXvCEG7WlTBd6qF43x/xQvXdUzlQOt2yQ11VEl/t3rGhopANoQ6YGsaNKmgUnvKUr6yjIP+7RLaR3LlZ9fEISy/y4k7Kgz2iWjfhbOrOi17x+bH9X5hs3VRDCwxZ0IvMGKKj0DrTsHADkKUG731gjG5Ga0y6eEd2O4Y4+a3KytdgDiM4om6ko8ntSc7Xhxo86q9DqV3PpNlnuBl9MWAz8r7koyzgMvMvPc0RBPpNv8JNq5sTyttvEJnubbcrD0FlBs89PK3UyMwo=;fpRUnXBKrP2GSLRKbhsQFQ=="
+secured: "noLyhL6cRdXYXfwaYuErd6BNkP3v4XE2VAA/TLZM6D6AFBy+W9RsamU8h0tp+cS40u/iWo1eXsRkCyKc/ilCoNDNg/K0Wi77SwBsLxjDjetH4oYq0cpxMHbfdDENPOVNAqQ05e6RWcK0mk3kdsXpS2fZOl3IC7KUtboLZDX0lPgANVUitkQpupVpxA6UhwS0m7tONF2A10tjaegDUJ1CTKuVsY/J6zvRPg5pK5F9bOstEM0tzZbccaWlLGu1IRC+po0EujwVyP1bt3fId4YkUYyVEzswQOwryhHhuH4oohSIuNUuj/eACYoiqN/UtxoYVECgS+CczeNYWsd2SKaXlJPAEjcN+w6nZLizsCKZjPuZPCvjND5XBFS4xfQzT8mXnnOBnJ6ZwOxlVMYWPxa7I52Iy4RWiJnW7ARNpHXHXkPvEf8eh8VrpEse8puK73GKW8foCBcEzQOOnhquCnxF1GIM9rXJqJI/16S2NW1zeUMn3jKfmtxHpzhAk25UQBrGSfnDkf/Z5jZvcHZ6m8IRTw==;/TUvqPKebnpT6WjkhLz6gw=="
 ---
 

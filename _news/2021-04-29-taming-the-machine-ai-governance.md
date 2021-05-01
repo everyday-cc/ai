@@ -42,6 +42,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
+  - title: "Understanding the Art of Machine Learning"
+    excerpt: "Though neural-network-based machine learning is escalating in popularity, the mechanics behind it tend to be misconstrued or simply not known at all."
+    publishedDateTime: 2021-04-30T20:05:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21162926/electronic-design-understanding-the-art-of-machine-learning"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 41
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/04/MachineLearning_dreamstime_Ekkasit919_144788061.608c5c4f89d9b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Drive to Make Machine Learning Greener"
     excerpt: "AI systems must be trained in massively powerful data centers. Now computer scientists have discovered that small changes can dramatically reduce the carbon footprint of this activity."
     publishedDateTime: 2021-04-30T13:43:00Z
@@ -55,20 +69,6 @@ related:
       - url: "https://images.ctfassets.net/cnu0m8re1exe/cpnjwBeoJTzA7ku02nvlR/42f8bca19b44d12f788377cadb6a5adc/shutterstock_748817821.jpg"
         width: 1000
         height: 700
-        isCached: true
-  - title: "Understanding the Art of Machine Learning"
-    excerpt: "Though neural-network-based machine learning is escalating in popularity, the mechanics behind it tend to be misconstrued or simply not known at all."
-    publishedDateTime: 2021-04-30T20:05:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21162926/electronic-design-understanding-the-art-of-machine-learning"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/04/MachineLearning_dreamstime_Ekkasit919_144788061.608c5c4f89d9b.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "MIEpU6NOqvQgikVWJb8gyLwAJpHI+GXBQ0Z94W319wGot0hRHVjpRc1/0JMeuMjh6FvRuguDeXqZ/F35KULi9opHUPOZo022DU47ex/fWuDSClJL6/vWNK0P6pS9RDlbjpBfDz+/du61BHlfLy6wmNera2pfuz7XWEhWr2lINuE4TQ9CkCOs5yZudIxrrn6kfUGv9sFyo3wbC6ZNSsTD0rOI78ZT2nWeiDxQ8JusBF8eRIQfAZNgJac70zh9PnKWI0RfCnpJfJujPid2OxxXYvm34KH67EV35KsqybUMzOg+sk/sxWPFzaON+/NOWF1iR6j5iDeUA3hCgnaoujmenAdzhRLwVQQYGjHYMDMH/Oa83Se8CZqtYodgsaUo49FVA/Kd2gZzRDuJrr6XJEy7N6lpYcpxBvHoQ5ltvU8yc943lLuz61DLZeY6A9JzYchAN6W5JOz8dncmGszMMzGFjgZUnM5KweJIweQy+36/arAlpU3hOVMrvVhFeTL4Pgfaxi0hfkNCCRoeOnkZ9IwV9A==;DGZfaw1OKgTiYklQr9V1YA=="

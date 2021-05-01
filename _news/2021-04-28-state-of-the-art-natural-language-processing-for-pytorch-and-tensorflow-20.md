@@ -7,7 +7,7 @@ originalUrl: "https://github.com/Shaowen310/transformers"
 webUrl: "https://github.com/Shaowen310/transformers"
 type: article
 quality: 88
-heat: 89
+heat: 88
 published: true
 
 provider:

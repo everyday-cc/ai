@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "AI won't transform healthcare until the 2030s, Stanford researchers say"
+    excerpt: "Artificial intelligence won't significantly improve healthcare until the 2030s, according to AI experts Fei-Fei Li, PhD, and Andrew Ng, PhD. During an April 30 panel hosted by Stanford (Calif.) University's Institute for Human-Centered Artificial Intelligence,"
+    publishedDateTime: 2021-04-30T21:33:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ai-won-t-transform-healthcare-until-the-2030s-stanford-researchers-say.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Healthreveal and ACC team up to transform heart care with AI"
     excerpt: "The American College of Cardiology (ACC) hopes artificial intelligence (AI) can dramatically increase adoption of its frequently ignored guidelines for cardiovascular care. In three new studies, the ACC will implement Healthreveal's AI to recommend personalized interventions with the goal of preempting adverse cardiovascular events and improving patient outcomes,"
     publishedDateTime: 2021-04-28T00:00:00Z

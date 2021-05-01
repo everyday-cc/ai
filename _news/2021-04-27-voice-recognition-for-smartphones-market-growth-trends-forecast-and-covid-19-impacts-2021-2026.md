@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Software Market Share ,Global Growth, Size, Trends, Industry Analysis, Key Players and Forecast 2021 – 2025"
-    excerpt: "Global Natural Language Processing (NLP) Software Market Research report provides detailed analysis of global market"
-    publishedDateTime: 2021-04-28T06:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-share-global-growth-size-trends-industry-analysis-key-players-and-forecast-2021-2025-2021-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Research on Voice Recognition for Automotive Market 2021: By Growing Rate, Type, Applications, Geographical Regions, and Forecast to 2026"
     excerpt: "The recent analysis of Voice Recognition for Automotive market size has been methodically put together to impart an in-depth understanding of the ke"
     publishedDateTime: 2021-04-27T16:24:00Z

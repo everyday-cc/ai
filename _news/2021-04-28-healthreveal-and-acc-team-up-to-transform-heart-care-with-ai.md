@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI won't transform healthcare until the 2030s, Stanford researchers say"
+    excerpt: "Artificial intelligence won't significantly improve healthcare until the 2030s, according to AI experts Fei-Fei Li, PhD, and Andrew Ng, PhD. During an April 30 panel hosted by Stanford (Calif.) University's Institute for Human-Centered Artificial Intelligence,"
+    publishedDateTime: 2021-04-30T21:33:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ai-won-t-transform-healthcare-until-the-2030s-stanford-researchers-say.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Innovative AI solutions in the wind power industry"
     excerpt: "Today, many industries try to implement AI technologies in their business to solve the issues they are facing and the wind power industry is not an exception. Nowadays, wind energy was the source of about 8."
     publishedDateTime: 2021-04-30T20:22:00Z

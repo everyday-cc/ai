@@ -56,20 +56,6 @@ related:
         width: 640
         height: 300
         isCached: true
-  - title: "Chatbot Market Industry Demand, Current and Future Plans by Forecast to 2025 | Says Kenneth Research"
-    excerpt: "Global Chatbot Market AnalysisAccording to Market Research, The Global Chatbot Market was valued at USD 858.1 Million"
-    publishedDateTime: 2021-04-26T05:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-industry-demand-current-and-future-plans-by-forecast-to-2025-says-kenneth-research-2021-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Hco16piuwIf9vqHdQID3sYQgLIXTxt3U0iuwLn+S8ivRgndSZiAbg5uaYutpNkSYRoHV7Et6MxZRuZI4fSLzwtW32DUHfsquE8IuL4xzprv3Hadfdp41LtzuXCYTtSoUN4lIgqItDGwSDsVtKTsLRpYiSv6oV097GHG5f9T4fopTzJ/KgV1YJKlMdmmAnYireJCxaAIF+Hx7p+00s888HPiGdpm8OU95ZjeodWoY2yhJsJ8Dno0cT+pnRY4Tbhtq2yQb6l7wTZPh5oo464WkhMZO4L4H5Wm1r2hLoBaUFYeS3ZbIwLAWUvuv1aNo/c6M25JOFD7R22wnzx1x4viwRQbatimSEmv91q/f6vHMHR/L3mChj77OUWE6TpKVmLJ3bHpy2iEKdophvuL3vu0qQb5N/Sxq6J8j9YgP20Dfm2M6G3aROx9WZEiOKbXYNwBEeaHt27Pde2i4fuCCLHxb3bfU0NAPoXdJBYQJBPwUHB5jlTQWIIR+D0K6+0gts+ATdCWJ7KilqLVL2sCsQ7vM3g==;BC7EHgBTg+vJb+KwDRlMtA=="
 ---

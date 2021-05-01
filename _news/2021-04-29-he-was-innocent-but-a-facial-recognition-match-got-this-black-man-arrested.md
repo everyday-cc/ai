@@ -47,15 +47,15 @@ related:
         isCached: true
   - title: "False facial recognition sends innocent New Jersey man to jail"
     excerpt: "New Jersey police arrested an innocent man on unlawful possession of a weapon, resisting arrest and aggravated assault charges after he was falsely identified by facial recognition technology. Law enforcement agencies across the country use facial recognition to generate leads on suspects,"
-    publishedDateTime: 2021-04-29T21:35:00Z
-    webUrl: "https://www.wsfa.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
+    publishedDateTime: 2021-04-29T20:35:00Z
+    webUrl: "https://www.wave3.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
     type: article
     provider:
-      name: WSFA
-      domain: wsfa.com
+      name: WAVE3
+      domain: wave3.com
     quality: 54
     images:
-      - url: "https://www.wsfa.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG"
+      - url: "https://www.wave3.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG"
         width: 1200
         height: 671
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b1e5a5ca86d56b9a674dc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3490%26cropY1%3D0%26cropY2%3D1962"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI won't transform healthcare until the 2030s, Stanford researchers say"
+    excerpt: "Artificial intelligence won't significantly improve healthcare until the 2030s, according to AI experts Fei-Fei Li, PhD, and Andrew Ng, PhD. During an April 30 panel hosted by Stanford (Calif.) University's Institute for Human-Centered Artificial Intelligence,"
+    publishedDateTime: 2021-04-30T21:33:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ai-won-t-transform-healthcare-until-the-2030s-stanford-researchers-say.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Healthreveal and ACC team up to transform heart care with AI"
     excerpt: "The American College of Cardiology (ACC) hopes artificial intelligence (AI) can dramatically increase adoption of its frequently ignored guidelines for cardiovascular care. In three new studies, the ACC will implement Healthreveal's AI to recommend personalized interventions with the goal of preempting adverse cardiovascular events and improving patient outcomes,"
