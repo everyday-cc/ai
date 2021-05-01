@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Xilinx and DornerWorks Collaborate to Enable Next-Gen Machine Learning Solutions on Xilinx Kria SOM"
+    excerpt: "Not too long ago, the path from algorithm to fielded machine learning (ML) model was a long and complex undertaking. Those with access to a ML expert with a working knowledge of neural network deployment might have options,"
+    publishedDateTime: 2021-05-01T07:05:00Z
+    webUrl: "https://www.pr.com/press-release/835660"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 5
   - title: "Pinnacle Imaging Systems Announces Denali 3.0 Soft ISP & HDR Sensor Module for Xilinx Kria SOM Platform and Vision AI Starter Kit"
     excerpt: "Pinnacle Imaging Systems, a developer of Image Signal Processors (ISP) and High Dynamic Range (HDR) video solutions, announced it will offer its proprietary Denali 3.0 HDR ISP along with a new HDR sensor module for the just-launched Xilinx Kria K26 SOM and KV260 Vision AI Starter Kit."
     publishedDateTime: 2021-04-30T14:50:00Z

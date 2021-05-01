@@ -50,7 +50,7 @@ related:
   - title: "Self-Driving Cars: Can They Be Brought onto the Roads Safely?"
     excerpt: "Can They Be Brought onto the Roads Safely? By shruthi sethu - One can also teach self-driving cars how to follow the highway code. This necessitates dissecting each rule in the"
     publishedDateTime: 2021-04-30T11:18:00Z
-    webUrl: "https://www.cioreview.com/news/selfdriving-cars-can-they-be-brought-onto-the-roads-safely-nid-33447-cid-246.html"
+    webUrl: "https://www.cioreview.com/cioviewpoint/selfdriving-cars-can-they-be-brought-onto-the-roads-safely-nid-33447-cid-246.html"
     type: article
     provider:
       name: CIOReview

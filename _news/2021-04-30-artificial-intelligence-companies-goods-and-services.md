@@ -38,6 +38,15 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Arize AI Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021"
+    excerpt: "Observability company, has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to transform industries. The Forbes AI 50 list, in its third year, includes a list of private North American companies using artificial intelligence in ways that are fundamental to their operations,"
+    publishedDateTime: 2021-04-30T18:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/arize-ai-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-1030371841"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
   - title: "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021"
     excerpt: "DeepMap, Inc., a global leader in autonomous driving technology, today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to transform industries."
     publishedDateTime: 2021-04-26T21:34:00Z
@@ -90,20 +99,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Arize AI Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021"
-    excerpt: "Observability company, has been named to the Forbes AI 50 , a list of the top private companies using artificial intelligence to transform industries.  The Forbes AI 50 list, in its third year, includ"
-    publishedDateTime: 2021-05-01T05:31:00Z
-    webUrl: "https://menafn.com/1102008332/Arize-AI-Named-to-Forbes-AI-50-List-of-Most-Promising-Artificial-Intelligence-Companies-of-2021"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "hui0Ok64g+CBDwO+d3Jr7685tCHSJULhObwjIa7oEO3M8NTlE5zwe7IM/GmO2to1R2Hd+z0OVpme3pViunn5VUjM6aYR22nrHUZxgUA/y419D9g2fNxAjzdfblHoxvbsQx88bxyi+H0C/gOZZZ3g50x7jEx+sBFRC1dFCckySIkTBRt1X0T7PQW4d6WCMBj06lUqKcOvgztiuGBhtN53crTq1zwU7McSH7ZLLa4TO1KhDQXNjaSbL4l49gtrfY8iRpfib+q6cjpdBw86JZ/EClZ57v2Bs3RRnnxJ0u9nnZJCYeJhrqGqd/jWj8l4d3vQNr0RsX3b03b6jja1ukFebAFWQ5INLb2yXmFEXiR1rGc=;SgbZVeSPVlPwiQclamv4Bw=="

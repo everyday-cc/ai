@@ -2,6 +2,52 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-28-state-of-the-art-natural-language-processing-for-pytorch-and-tensorflow-20.md",
+      "title": "State-of-the-art Natural Language Processing for PyTorch and TensorFlow 2.0",
+      "excerpt": "Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. - Shaowen310/transformers",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/Shaowen310/transformers",
+      "originalUrl": "https://github.com/Shaowen310/transformers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/53214fc768705a9d7a233c6e2d5d0946da4726bbcd20e73c8c81937f34f5c416/Shaowen310/transformers",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T20:52:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-avalon-steritech-attains-robotics-award-for-health-products-services-at-singapore-business-review-technology-excellence-awards.md",
       "title": "Avalon SteriTech attains Robotics Award for Health Products & Services at Singapore Business Review Technology Excellence Awards",
       "excerpt": "Avalon SteriTech (\"Avalon\") today announced that it has been named the winner of the Robotics Award in the health products and services category at Singapore Business Review 's Technology Excellence Awards 2021.",
@@ -156,7 +202,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -564,7 +610,7 @@
       "originalUrl": "https://ksusentinel.com/2021/04/27/artificial-intelligence-robotics-market-size-overview-and-forecast-2021-2027-microsoft-xilinx-softbank/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1091,7 +1137,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1176,49 +1222,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-new-watson-capabilities-from-ibm-afford-trustworthy-ai-to-businesses.md",
-      "title": "New Watson Capabilities From IBM Afford Trustworthy AI to Businesses",
-      "excerpt": "Announcing new capabilities for its Watson business artificial-intelligence technology, Armonk, N.Y.-headquartered IBM revealed fresh approaches that it hopes will build trust in data and AI. According to its October 2020 survey,",
-      "sourceUrl": null,
-      "webUrl": "https://www.apparelnews.net/news/2021/apr/26/new-watson-capabilities-ibm-afford-trustworthy-ai-/",
-      "originalUrl": "https://www.apparelnews.net/news/2021/apr/26/new-watson-capabilities-ibm-afford-trustworthy-ai-/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apparelnews.media.clients.ellingtoncms.com/img/photos/2021/04/22/IBM_Logo_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "California Apparel News",
-        "domain": "apparelnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

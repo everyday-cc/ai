@@ -39,22 +39,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "AWS and Microsoft are not yet market leaders in IoT, but soon will be"
-    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
-    publishedDateTime: 2021-04-26T13:06:00Z
-    webUrl: "https://iotbusinessnews.com/2021/04/26/82010-aws-and-microsoft-are-not-yet-market-leaders-in-iot-but-soon-will-be/"
-    ampWebUrl: "https://iotbusinessnews.com/2021/04/26/82010-aws-and-microsoft-are-not-yet-market-leaders-in-iot-but-soon-will-be/amp/"
-    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/04/26/82010-aws-and-microsoft-are-not-yet-market-leaders-in-iot-but-soon-will-be/amp/"
-    type: article
-    provider:
-      name: IOT Business News
-      domain: iotbusinessnews.com
-    quality: 76
-    images:
-      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/big-data-flows.jpg"
-        width: 360
-        height: 230
-        isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service launches on Microsoft Azure"
     excerpt: "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
     publishedDateTime: 2021-04-30T13:54:00Z
@@ -70,6 +54,34 @@ related:
       - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google Cloud on track to take on AWS and Microsoft Azure"
+    excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
+    publishedDateTime: 2021-04-29T05:51:00Z
+    webUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 71
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/04/rajeshwar-bachu-K4txLik7pnY-unsplash-scaled.jpg"
+        width: 2560
+        height: 1840
+        isCached: true
+  - title: "AI supplier Future Anthem secures Microsoft “co-sell” partnership"
+    excerpt: "Machine learning solutions provider Future Anthem has secured a strategic partnership with Microsoft that will allow the tech giant to co-sell Future Anthem products as part of its solutions offering."
+    publishedDateTime: 2021-04-26T15:35:00Z
+    webUrl: "https://igamingbusiness.com/ai-supplier-future-anthem-secures-microsoft-co-sell-partnership/"
+    type: article
+    provider:
+      name: igamingbusiness.com
+      domain: igamingbusiness.com
+    quality: 54
+    images:
+      - url: "https://igamingbusiness.com/wp-content/uploads/2020/09/microsoft-4608125_1920.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "ASUS announces Azure Percept Collaboration with Microsoft"
     excerpt: "Azure Percept DK provides an end-to-end platform for prototyping edge AIoT solutions Easing edge AI difficulties: ASUS and Microsoft collaborating to enable quick and easy prototyping of scenario-based edge AI solutions Azure Percept DK: Pilot-ready development kit integrates deeply with Azure AI,"
@@ -98,6 +110,20 @@ related:
       - url: "https://blocksandfiles.com/wp-content/uploads/2018/10/Excelero-splash.jpg"
         width: 803
         height: 534
+        isCached: true
+  - title: "Allscripts looks to leverage Microsoft partnership as tech giant expands healthcare ambitions"
+    excerpt: "Microsoft is expanding further into healthcare and that opens up strategic opportunities for Allscripts to leverage its partnership with the tech giant, company executives said. Here's how the health IT company plans to leverage the collaboration to grow its business with providers as well as payers and life sciences companies."
+    publishedDateTime: 2021-04-30T10:45:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/allscripts-looks-to-leverage-microsoft-partnership-as-tech-giant-further-its-ambitions"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 45
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1619734506/GettyImages-1018676898.jpg/GettyImages-1018676898.jpg?xwabYRqkBFPym1UOV.TzaLwA5SoTdVU6"
+        width: 6000
+        height: 3376
         isCached: true
 
 secured: "SjGMvbOHEDnRiBqcbvV5sh84cMun+SVZOF90CInR6wIeRtEYuF/z/90eXXba5kQ7y5ueVxpTpwgq3wxWDVFQIczuiuLnHpKU/stma1BKRnPevkUQfPFDbfzFfUpzFBJrzG5vqav9WotLjJ3QHjLLjcNDYkHhXtMIOPj4sn9Tn7nuGRjplKzh48eYeRdTftwS1LelEZaoqsV7D6yP0zUf8M86pn4kj0dgOh0KiD1DG3m+k/Sx2j0nYsccxoAKts+KEX8x0zkEJzn2xPji2SEHR0jO76KG6N/U/vmW12AQ98Spa51D8uN46CVCmdqCnkL9jBNzkPJPHlumhfC0JycylLNVV5Mos5aDdnMVM+afkHA=;WwsXA8L0mRrZrAPXgTs6EA=="

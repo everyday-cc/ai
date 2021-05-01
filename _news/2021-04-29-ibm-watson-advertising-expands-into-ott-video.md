@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercevideo.com/tech/ibm-watson-advertising-expands-in
 webUrl: "https://www.fiercevideo.com/tech/ibm-watson-advertising-expands-into-ott-video"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Watson Capabilities From IBM Afford Trustworthy AI to Businesses"
-    excerpt: "Announcing new capabilities for its Watson business artificial-intelligence technology, Armonk, N.Y.-headquartered IBM revealed fresh approaches that it hopes will build trust in data and AI. According to its October 2020 survey,"
-    publishedDateTime: 2021-04-26T13:41:00Z
-    webUrl: "https://www.apparelnews.net/news/2021/apr/26/new-watson-capabilities-ibm-afford-trustworthy-ai-/"
-    type: article
-    provider:
-      name: California Apparel News
-      domain: apparelnews.net
-    quality: 54
-    images:
-      - url: "https://apparelnews.media.clients.ellingtoncms.com/img/photos/2021/04/22/IBM_Logo_t600.png?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 337
-        isCached: true
   - title: "IBM Watson Advertising Accelerator Expands to Bring AI to Fast-Growing OTT Media and Streaming Landscape"
     excerpt: "IBM (NYSE: IBM) today announced the expansion of IBM Watson Advertising Accelerator for OTT and video, designed to help marketers move beyond contextual"
     publishedDateTime: 2021-04-29T13:00:00Z

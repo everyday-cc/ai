@@ -35,6 +35,15 @@ related:
         width: 547
         height: 312
         isCached: true
+  - title: "Xilinx and DornerWorks Collaborate to Enable Next-Gen Machine Learning Solutions on Xilinx Kria SOM"
+    excerpt: "Not too long ago, the path from algorithm to fielded machine learning (ML) model was a long and complex undertaking. Those with access to a ML expert with a working knowledge of neural network deployment might have options,"
+    publishedDateTime: 2021-05-01T07:05:00Z
+    webUrl: "https://www.pr.com/press-release/835660"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 5
 
 secured: "EMS9ePvjMhQdi+t0DVfejQBVAjX9NJkUbXLVXqamV8JMql+V9QMgFqD9ToKRMpQB1H9iyWOD7/pmOpdP6Qy2aejVYlVXejOg4l09lHEtIQKTcyCZKvX5QJkTmBkdqMXSz5fz4FLlDbBBx2nQFJxCRWn5ySE/zjhwMWUYKKii1RCrTpPNLgC+FbsuUoVzQRI1SDvgd+w6bPidHG9XZYSliRuQeypBZP/XHsu+aYs68HIoV0zB9Cwv3ff9zphKRuUGj+AIy2vCe08ykLfPzOki/2KAISYQ1uyJZ5S7nLekgl29/DffeqU7qz22m0sCIerAzO1l7LcxSoaJjEHttoOQieBZRjjN5E+ohjSYYwFAurs=;kP4kXtyACCp7XkhnwAPQWQ=="
 ---

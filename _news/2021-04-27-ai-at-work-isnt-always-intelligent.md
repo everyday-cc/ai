@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "This Researcher Says AI Is Neither Artificial nor Intelligent"
-    excerpt: "Kate Crawford, who holds positions at USC and Microsoft, says in a new book that even experts working on the technology misunderstand AI."
-    publishedDateTime: 2021-04-26T13:21:00Z
-    webUrl: "https://www.wired.com/story/researcher-says-ai-not-artificial-intelligent/"
-    ampWebUrl: "https://www.wired.com/story/researcher-says-ai-not-artificial-intelligent/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/researcher-says-ai-not-artificial-intelligent/amp"
+  - title: "Leveraging Data and AI to make your Enterprise Intelligent and Agile"
+    excerpt: "Artificial intelligence is poised to unleash the next wave of digital disruption, and enterprises are using data as the backbone to harness this change. A successful program requires enterprises"
+    publishedDateTime: 2021-04-29T19:21:00Z
+    webUrl: "https://www.geekwire.com/calendar-event/leveraging-data-ai-make-enterprise-intelligent-agile/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
+      name: GeekWire
+      domain: geekwire.com
+    quality: 67
     images:
-      - url: "https://media.wired.com/photos/60830d45ccb11d7f69cb8196/master/pass/business_ai-atlas_630354458.jpg"
-        width: 2400
-        height: 1602
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/04/Copy-of-social-19.png"
+        width: 862
+        height: 824
         isCached: true
   - title: "Building the intelligent future of payments with AI"
     excerpt: "The sooner a FI builds a strong data foundation, the sooner they can execute advanced AI and ML models. With each iteration, they will put more distance between themselves and the competition."

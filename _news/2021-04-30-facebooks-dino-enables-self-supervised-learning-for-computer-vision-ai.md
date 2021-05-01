@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The C.I.A.’s Top Technologist Is Uncomfortable With Facebook"
-    excerpt: "Dawn Meyerriecks talks spy gear and why Hollywood and Silicon Valley play a critical role in national security."
-    publishedDateTime: 2021-04-26T14:32:00Z
-    webUrl: "https://www.nytimes.com/2021/04/26/opinion/sway-kara-swisher-dawn-meyerriecks.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/26/opinion/sway-kara-swisher-dawn-meyerriecks.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/26/opinion/sway-kara-swisher-dawn-meyerriecks.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/27/opinion/26sway-meyerriecks-image/26sway-meyerriecks-image-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "laxewbZhA0RG3D+ZgDocqSpr5VQt00Citlsn5/hjM4ywi+z9+eCa+vwB+U9NkA6O3fjo6TUuDjMNZFVUxRuPeDex6No3T2orbGlPdZQu0ZsbB84CLVqglX/qZami/eeEX/52+/cV6ZSfVg3sawnbEM+L+FnaSZCQy7jQUKRaKFaGGWM2mffd9qUcdjTOV5LI/QaDeNTr3FAozSV5Gtkeq5xRVDhmYOuVgWnXh0uIHoRoexVsZGG2CQoq7Pr0U0sPL48RB3u/HLhJD3Mb4UDUEKTTLUL3fv6Smo2c9rhI0M3GSNLqhrgB4B6sGtWRP4NgDfaQjU8hkFHMeKba7lkoTWD02WSUy8/vedPf/4DPj9Del/UTODKw1sDq7UWT/D4xCAJcbvZtrHrDSwXtzg5htNX2n6UTvA8Lzh5OVtMvoLXasRz/Sn0HGj9/3NTKlGGZZu4cZe/Ehhm1K43bmwrg5C8Vc6yi49rtKf+NWuwnWhjw5ABjV/QDiiN107llbryIdBLwl+6fjf2KARibMG0qeA==;LkAMpdt8YuKaUxX6DYZ0fQ=="
 ---
