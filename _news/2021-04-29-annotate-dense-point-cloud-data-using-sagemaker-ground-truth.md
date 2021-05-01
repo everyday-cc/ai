@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/annotate-dense-point
 webUrl: "https://aws.amazon.com/blogs/machine-learning/annotate-dense-point-cloud-data-using-sagemaker-ground-truth/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Monitor and Manage Anomaly Detection Models on a fleet of Wind Turbines with Amazon SageMaker Edge Manager"
-    excerpt: "In industrial IoT, running machine learning (ML) models on edge devices is necessary for many use cases, such as predictive maintenance, quality improvement, real-time monitoring, process optimization, and security. The energy industry, for instance, invests heavily in ML to automate power delivery,"
-    publishedDateTime: 2021-04-26T17:12:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/monitor-and-manage-anomaly-detection-models-on-a-fleet-of-wind-turbines-with-amazon-sagemaker-edge-manager/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/2-Turbine-Farm.jpg"
-        width: 800
-        height: 599
-        isCached: true
   - title: "AWS Introduces Savings Plans and Instant Price Reductions for Amazon Sagemaker"
     excerpt: "AWS announced instant price reductions and Savings Plans for Amazon SageMaker, their fully-managed Machine Learning (ML) service. With Savings Plans for Amazon SageMaker, customers can benefit from cost savings up to 64% compared to the on-demand price."
     publishedDateTime: 2021-04-29T11:23:00Z

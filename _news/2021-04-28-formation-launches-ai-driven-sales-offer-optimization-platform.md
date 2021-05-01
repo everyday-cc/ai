@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sale
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/Logo_wo_border-e1574711875163.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Bobble AI offers real-time information on ICU beds, oxygen cylinders"
+    excerpt: "Width='400' Height='245'/><br/>New Delhi, April 30 (IANS) Amid the confusion and a deluge of unverified data circulating on social media related to Covid help, Te"
+    publishedDateTime: 2021-05-01T11:50:00Z
+    webUrl: "https://menafn.com/1102005907/Bobble-AI-offers-real-time-information-on-ICU-beds-oxygen-cylinders"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2021-04/30/I_4a1613bc-7image_story.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Tilde Launches a Translation Platform for Companies and Translators"
     excerpt: "The new release of Tilde MT platform focuses on maximizing translation efficiency for translators, language service providers and small and large companies with the latest AI solutions. It includes secure translation UI,"

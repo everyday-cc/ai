@@ -175,6 +175,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Baidu’s self-driving US$5 taxis hit Beijing park in Olympic warm-up"
+    excerpt: "BEIJING: Baidu, the Chinese tech company known for its search engine, has passed its driver’s test and will debut its fleet of autonomous taxis to the public this weekend in what will be China’s first paid self-driving service with no one behind the wheel."
+    publishedDateTime: 2021-05-01T09:45:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/05/01/baidus-self-driving-us5-taxis-hit-beijing-park-in-olympic-warm-up/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "HmjTEC2VkRBI5VGctL99OrMlh8TFmNeJ49AuvUfXb16UTlJhlhXLDFyQ0W4GTuKnGMP3AvSjrqgxlCE2upuw4u7Uca1WyglIPdoHgNmpXCvxQZpJ4l0EDaRrnQLHcndcrqDGZhL1AnIxhp4qQHU7wT5cBr5kOSJH8rMhIzlYSYnEdk2ML1y1MOIodDWMo/cjNWfcu2NN+hUMyjL4jDCtLp0XrRpUyrJS+oTogmkIgggRxIP8EeXByTraWpbWWJwLUJYoEAr1DgwCpWKlTYXXcX7WiHrj4ZqGUaGaF57cs8uJRYVX7mOfUfX7wzeBkTwBBUK/X2D+SrMVj0f7IZTqXfPJ3Uu4RnmPcXmEAkdOC22CL14Panr9nnsVhJl2XPeac525M4UOZNP2wR63K2ZzYwQZMU4/+eUifrddv42OTzPemsWB8jSYPz5GVB4fX0ccjBLyInqmalRS0SY3McZ+/+CJY6naW42Zhj+j2Hd9piwaGbG47gaGPrGMQro+shmThylv5xO2LdXPeF0JGGc1bA==;XZSQdHIc/smHPCdvFLsdHQ=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Bobble AI offers real-time information on ICU beds, oxygen cylinders"
+    excerpt: "Width='400' Height='245'/><br/>New Delhi, April 30 (IANS) Amid the confusion and a deluge of unverified data circulating on social media related to Covid help, Te"
+    publishedDateTime: 2021-05-01T11:50:00Z
+    webUrl: "https://menafn.com/1102005907/Bobble-AI-offers-real-time-information-on-ICU-beds-oxygen-cylinders"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2021-04/30/I_4a1613bc-7image_story.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Global Machine Learning Operationalization Software Market Factors Details and Comprehensive Research Including Top Companies"
     excerpt: "This report can be used by market players to learn about the competitive landscape and the level of competition in the global market. This market report includes a comprehensive evaluation of the market’s growth prospects and restrictions."
     publishedDateTime: 2021-04-27T12:59:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: TelecomTV
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft offers new Azure specializations and scholarships through Coursera"
-    excerpt: "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well."
-    publishedDateTime: 2021-04-26T17:28:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 81
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Google Cloud on track to take on AWS and Microsoft Azure"
     excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
     publishedDateTime: 2021-04-29T05:51:00Z
@@ -83,20 +69,6 @@ related:
         width: 803
         height: 534
         isCached: true
-  - title: "Allscripts looks to leverage Microsoft partnership as tech giant expands healthcare ambitions"
-    excerpt: "Microsoft is expanding further into healthcare and that opens up strategic opportunities for Allscripts to leverage its partnership with the tech giant, company executives said. Here's how the health IT company plans to leverage the collaboration to grow its business with providers as well as payers and life sciences companies."
-    publishedDateTime: 2021-04-30T10:45:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/allscripts-looks-to-leverage-microsoft-partnership-as-tech-giant-further-its-ambitions"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 45
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1619734506/GettyImages-1018676898.jpg/GettyImages-1018676898.jpg?xwabYRqkBFPym1UOV.TzaLwA5SoTdVU6"
-        width: 6000
-        height: 3376
-        isCached: true
   - title: "Microsoft sees revenue boost from growth in cloud services"
     excerpt: "Cloud services are becoming more and more important to Microsoft's business. Its Intelligent Cloud services revenue was up 23% year over year."
     publishedDateTime: 2021-04-28T01:08:00Z
@@ -111,6 +83,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+    excerpt: "Provides assurance and observability support for telco-clouds running on Azure LONDON, UK – MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs),"
+    publishedDateTime: 2021-04-28T13:09:00Z
+    webUrl: "https://realwire.com/releases/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: realwire.com
+      domain: realwire.com
+    quality: 34
 
 secured: "13/zDeLe4mu0A9hWFKN8W5uswTTqrbzTNz+ITYksrzfNC3QBeQ2ZhawZIEfMVJIucro2UAOcUczNJDokY5qFOyCKki/JIRC/Hr6fCVzovSxRPzpGduN7wn73L23wxBpoGXKn13p5i5Ed+enYzjncPLonLNRqNf5IZ5OBBxXy85L/JS8gjACKQ4bnkOx+HDMgZH7mv8knW6/WUUkusICr92CVVMoOSWMU/hSzudPFNPy6MrhlEwk6mUI9y9jznmWFZl1cFph/gQZUlc8YDD0Q1Ybr1Tj5FJXo4GqN2Ur05K4fi0qZeGF3B9Df9kqgZdZ+hU580If7+fg/C6lcx+mF4H7lsHsYnRKqsU4Ld7FW8aA=;vzLC8v+6ixor5pvHCMk+Rw=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Researchers Warn: AI Algorithms Can Influence People’s Voting and Dating Decisions"
+    excerpt: "Researchers highlight need for public education on impact of algorithms. In a new series of experiments, artificial intelligence (A.I.) algorithms were able to influence people's preferences for fictitious political candidates or potential romantic partners,"
+    publishedDateTime: 2021-05-01T11:55:00Z
+    webUrl: "https://scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/"
+    ampWebUrl: "https://scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 53
+    images:
+      - url: "https://scitechdaily.com/images/AI-Algorithms-Dating-Decisions-777x520.jpg"
+        width: 777
+        height: 520
+        isCached: true
 
 secured: "P+gRbsBOVKOi3iST5+waCWaA/8todiglshIAu9S3YaCO+1XqtqhwxZcT8DWcgnu3YZjjzRzx8X1eeRRWyDLp0ktdKYSoqs42dD3EeNvXmv7Z0rmZBNDokAS9ypcXlF427gyzeQ2iJEIlhingn3oEFUz75FRBkhC56n2ZJyHZ4zsfOWEazOXfm4gDw8qNwXAbCcwX0gkgR61j6etMJoOa/PDBzi1mFB8WQv2OojsSNiwntO5FluZZuTs2huKudmGSihia9efpO7hqvMEoxswIN4SgB4FwAq5hmRaWQw6wmoFGxNKS1iy8c4L5TLzr7ziGRyGOzxXJws5ZNgQ6PxGuLWyM5FPmIGM9SsTutxz+dkwivSZfsPgjW/bVrDiLW3e0NnVd05wi4HGXB913bGmJ9U5L241o+OL1kkqJzw0Mwok2oNg/C18Bv8tHYYCHHeX7DCayp8oAHKMA9Bv+79E+d6rTjZ8TropigVROj1UE+txrFxFdUPqUo3NVSdYwXoqb7JnRnGBDPUX47Gcv7PuggA==;2I2YSgOcuneKSUBH4YJcdA=="
 ---

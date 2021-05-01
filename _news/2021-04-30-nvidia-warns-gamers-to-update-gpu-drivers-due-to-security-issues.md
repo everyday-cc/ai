@@ -9,7 +9,7 @@ ampWebUrl: "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-dr
 cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 600
     height: 340
     isCached: true
-
-related:
-  - title: "Nvidia Warns: Severe Security Bugs in GPU Driver, vGPU Software"
-    excerpt: "Nvidia has disclosed a group of security vulnerabilities in the Nvidia graphics processing unit (GPU) display driver, which could subject gamers and others to privilege-escalation attacks, arbitrary code execution,"
-    publishedDateTime: 2021-04-26T18:12:00Z
-    webUrl: "https://threatpost.com/nvidia-security-bugs-gpu-vgpu/165597/"
-    type: article
-    provider:
-      name: Threat Post
-      domain: threatpost.com
-    quality: 56
-    images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/03/02145658/nvidia.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "OSJVW90lFbv13lDPMn/ZP1d4HEYAusooZ2/cuGoigwMnoHOIbtW9AY45/4MQhpTWrzBVwIP60dNjbgJHWM0auOwLJTA3d4DmaTKZ2vhUab8z8hKkz2dHegyzlas3AM6MsUWSzpqLsnRZtbgvd9zUINGbhKXSDutwVOwiNtNvDicBDtUESl+Nss7nlxaNYiwBUBAlsPqU3SjUP1QC8qkSs3GZhN9Er8/p/gQkHRHNZspay/dDrZhmP9ro5Rn/LFY+Q+Tus6UBj75t2tenr7ACpZghpwhFDmX/yiINigop0TFmqiGgfeSsWUbYrzLmd1p5mCt/NtPwxbnDcLJI7GdB5Lk/+a/AVac4pO2ep4vEezRbar5HKxRkuv96OBUfMNms09ipyRvamkWlQQR+oQUtqEWT6YlNbYwgK58J/VxehqUKw+fUHBEam6ETW3BXZ8TWpbCJ1/+1gnUKvFnQeRo/jOepTuh1mtForZahr9ZoOsdtqQjAz9nauGsZ3ukMI07MUME8intiANPh14EfLBj2jA==;RVoFUOfQzCd98KITmI+MvQ=="
 ---

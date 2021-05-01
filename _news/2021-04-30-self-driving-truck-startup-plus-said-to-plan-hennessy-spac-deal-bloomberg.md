@@ -39,6 +39,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Self-Driving Truck Startup Plus Reported to Plan Hennessy SPAC Deal"
+    excerpt: "Self-driving truck startup Plus is in talks to merge with special purpose acquisition company Hennessy Capital Investment Corp. V, according to people familiar with the matter, making it the latest autonomous vehicle maker seeking to go public via a blank-check firm."
+    publishedDateTime: 2021-04-30T14:15:00Z
+    webUrl: "https://www.ttnews.com/articles/self-driving-truck-startup-plus-reported-plan-hennessy-spac-deal"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/plus-ai-1200.jpg?itok=e-aJ_Sae"
+        width: 470
+        height: 246
+        isCached: true
   - title: "Report: Cupertino self-driving truck unicorn Plus eyes going public via $3B SPAC deal"
     excerpt: "The deal would reportedly would give Plus between $500 million and $600 million in new capital, which includes a private placement. That's on top of the $520 million it has raised in three funding deals since November."
     publishedDateTime: 2021-04-30T14:29:00Z

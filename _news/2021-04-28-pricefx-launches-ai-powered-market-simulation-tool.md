@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Bobble AI offers real-time information on ICU beds, oxygen cylinders"
+    excerpt: "Width='400' Height='245'/><br/>New Delhi, April 30 (IANS) Amid the confusion and a deluge of unverified data circulating on social media related to Covid help, Te"
+    publishedDateTime: 2021-05-01T11:50:00Z
+    webUrl: "https://menafn.com/1102005907/Bobble-AI-offers-real-time-information-on-ICU-beds-oxygen-cylinders"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2021-04/30/I_4a1613bc-7image_story.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Tilde Launches a Translation Platform for Companies and Translators"
     excerpt: "The new release of Tilde MT platform focuses on maximizing translation efficiency for translators, language service providers and small and large companies with the latest AI solutions. It includes secure translation UI,"
     publishedDateTime: 2021-04-29T10:08:00Z

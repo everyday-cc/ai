@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -179,6 +179,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Baidu’s self-driving US$5 taxis hit Beijing park in Olympic warm-up"
+    excerpt: "BEIJING: Baidu, the Chinese tech company known for its search engine, has passed its driver’s test and will debut its fleet of autonomous taxis to the public this weekend in what will be China’s first paid self-driving service with no one behind the wheel."
+    publishedDateTime: 2021-05-01T09:45:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/05/01/baidus-self-driving-us5-taxis-hit-beijing-park-in-olympic-warm-up/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "j7Rqr35AocMdU9pfOuiBcviCCEWN8iyY50pa1Z2vdwtqibx5CSDpBdGGUFoHG6UfGQjfcPnyjnRZQqnFvp5LrLekaoEoVQTo3mJBtozPl914SOzrZv7ZhD2k21M51geATM7pl6hvJqg4qFKkC7gopZdOLWnslgdgZrMl87m8MimzA+DuyAsHw948ayCXvttP+p3R4DOg5NxF+RpJ0gW7v0UcTRbEkXfU8j7NvafYs/YdZctR4KEWrIHR8Jc19NNAhEJ9q9vEaxfEG10rVHmDGb/0YASC/52In7TvNxb2TClFNE/skAOzMU6hRjPflvj828O/flJ7lGCb0j4ehIeWWapVtoHbdMEfHV2xmFEzRRkEx6N8HS8VTIY0enKVT/wTsWibX7QjFJSrOaJzNWmRI2NCbh6dAJ32MfeGtf/BIw94pV+gujG7b41AVEM1t43ArReAwZI+4Tes3kdslUEWi1ZJ9Qlz1oDutTVJ98lqPnwwPUWZvcdy0wmxbMgEIZl9JQpWb06D09gCY/UEqj3ong==;N48iArMgZ95L1ta8Q6uamg=="
 ---

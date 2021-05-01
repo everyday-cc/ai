@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/sonys-working-on-an-ai-that-can-play-g
 webUrl: "https://thenextweb.com/news/sonys-working-on-an-ai-that-can-play-games-for-you-heres-a-better-idea"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: The Next Web
@@ -26,24 +26,6 @@ images:
     width: 1212
     height: 606
     isCached: true
-
-related:
-  - title: "Sony uses AI to customize the video game playing experience"
-    excerpt: "A recently published patent has revealed that the entertainment company Sony has managed to program artificial intelligence to help users customize their video game characters. This new AI program learns based on traits personal to each user,"
-    publishedDateTime: 2021-04-26T18:51:00Z
-    webUrl: "https://techxplore.com/news/2021-04-sony-ai-customize-video-game.html"
-    ampWebUrl: "https://techxplore.com/news/2021-04-sony-ai-customize-video-game.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-sony-ai-customize-video-game.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/sony-uses-ai-to-custom.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "sbhqGE9YWMSruaCHeHKxyzK5b4Z7gFH2TBttpsVzxxv+6rquk9k85Sjlv6YS4opJn6RfEUN8XqDcDYuqVLWI41vVmATAv241unzSfrFrMNOjknTrEfuua9uo3okf0aoxc1opOY2vTpBUYDKFQI0opqfHSVJBgRn1OpWaxZEKZ4/NjqzjbJyym42whO2COk7qLBfRO1hIKROs8v1VV0Di1SdLJO+LrCwgLq2amT2PuZvecn1tOYPxklnu9KZlAgY4/2NL7ifXGfBEeMEc4nQ3EgYB3jNuBKUIHtcVCPWTCYfVyJordQBTVtotomQKLyO859FNpX2GoaOD84EAJzI1EJVTq6rtaFqIQv2wrzkb0r0=;Is11N6z2FKfnZVKm8GXu3w=="
 ---

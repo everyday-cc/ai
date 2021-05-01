@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft offers new Azure specializations and scholarships through Coursera"
-    excerpt: "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well."
-    publishedDateTime: 2021-04-26T17:28:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 81
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service launches on Microsoft Azure"
     excerpt: "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
     publishedDateTime: 2021-04-30T13:54:00Z
@@ -83,20 +69,6 @@ related:
         width: 803
         height: 534
         isCached: true
-  - title: "Allscripts looks to leverage Microsoft partnership as tech giant expands healthcare ambitions"
-    excerpt: "Microsoft is expanding further into healthcare and that opens up strategic opportunities for Allscripts to leverage its partnership with the tech giant, company executives said. Here's how the health IT company plans to leverage the collaboration to grow its business with providers as well as payers and life sciences companies."
-    publishedDateTime: 2021-04-30T10:45:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/allscripts-looks-to-leverage-microsoft-partnership-as-tech-giant-further-its-ambitions"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 45
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1619734506/GettyImages-1018676898.jpg/GettyImages-1018676898.jpg?xwabYRqkBFPym1UOV.TzaLwA5SoTdVU6"
-        width: 6000
-        height: 3376
-        isCached: true
   - title: "Microsoft sees revenue boost from growth in cloud services"
     excerpt: "Cloud services are becoming more and more important to Microsoft's business. Its Intelligent Cloud services revenue was up 23% year over year."
     publishedDateTime: 2021-04-28T01:08:00Z
@@ -111,6 +83,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+    excerpt: "Provides assurance and observability support for telco-clouds running on Azure LONDON, UK – MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs),"
+    publishedDateTime: 2021-04-28T13:09:00Z
+    webUrl: "https://realwire.com/releases/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: realwire.com
+      domain: realwire.com
+    quality: 34
 
 secured: "1EmJ5ZT1EyGNdzlwmGz7h3d4V4TgMVnW6u2Je4CYGUMNA104PkKqy4uVDgU6PW0/ACt2DsRdCRNxiRXNP98KJVQVOOhVUvx3B6lIfYOTdzHRDklnlY+rVLdtbDhxQpjfZKSdjf09RJ2NFQy5hvfS+olKo5gesYcsH59khAamtimPHh9E7HU6LCxww7yWXWfyC8dsQ09q5S/p8tMyNioVj3mVTdr7CqCizM2N7pifAQLW2fv1U/f3IHiSh8HImtiNL53BoZXp2wsbFYQjSSW4CYhmjh7gsSLaeixK5bpte4Pn0NblQAhkrvy96EIfEChiJe0r/PDpmn5DRTX0JHbUbmgHWwFLyC/eBQwmb7KjuaxcAfZs+PJPgVg+Hx94y9CrSTia1xJvjTmwv86fiKUUnhGGiyGX89aTP8SNmScCG+UV0BlfbF4bQx4LTR8qFT1Xawsn9Qgh3HIcAWI5O0wSz8vLEufVk1whdPWSItAOVGem3HmrBAaYbT2r0yYAxfTQzeUIvWeVQtMr1IuhZhW17Q==;9Oac0TzcF3P6Amr4TaBcpQ=="
 ---

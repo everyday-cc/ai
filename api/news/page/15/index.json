@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-04-14-google-backs-former-deepmind-employees-solar-forecasting-start-up.md",
+      "title": "Google backs former DeepMind employee’s 'solar forecasting' start-up",
+      "excerpt": "Open Climate Fix, a non-profit lab focused on reducing greenhouse gas emissions, has been awarded over £500,000 ($686,350) by Google.org. The London-headquartered start-up is aiming to build an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
+      "originalUrl": "https://www.cnbc.com/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104466614-AP_959350424445.jpg?v=1494604726",
+          "width": 3648,
+          "height": 2432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/14/google-backs-former-deepmind-employees-solar-forecasting-start-up.html",
+      "publishedDateTime": "2021-04-14T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-smartstream-expand-global-footprint-with-its-latest-cloud-native-ai-application.md",
       "title": "SmartStream Expand Global Footprint With its Latest Cloud-Native AI Application",
       "excerpt": "SmartStream Air version 3 is cloud-native, behaves like a consumer app, requires no training or IT skill set for its use and is the fastest AI data quality application available today. SmartStream Air has always been hosted on Amazon Web Services (AWS),",
@@ -1075,58 +1127,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-google-is-poisoning-its-reputation-with-ai-researchers.md",
-      "title": "Google is poisoning its reputation with AI researchers",
-      "excerpt": "The firing of top Google AI ethics researchers has created a significant backlash Google has worked for years to position itself as a responsible steward of AI. Its research lab hires respected academics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation",
-      "originalUrl": "https://www.theverge.com/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/-cJlGNIdcC3kFD8y7oT_322pRW8=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69118193/acastro_210412_4523_0002.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation",
-      "publishedDateTime": "2021-04-13T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

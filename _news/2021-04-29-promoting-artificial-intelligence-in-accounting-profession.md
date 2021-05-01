@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2021/04/29/promoting-artificia
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: This Day
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers Warn: AI Algorithms Can Influence People’s Voting and Dating Decisions"
+    excerpt: "Researchers highlight need for public education on impact of algorithms. In a new series of experiments, artificial intelligence (A.I.) algorithms were able to influence people's preferences for fictitious political candidates or potential romantic partners,"
+    publishedDateTime: 2021-05-01T11:55:00Z
+    webUrl: "https://scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/"
+    ampWebUrl: "https://scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 53
+    images:
+      - url: "https://scitechdaily.com/images/AI-Algorithms-Dating-Decisions-777x520.jpg"
+        width: 777
+        height: 520
+        isCached: true
   - title: "AI in 3D Bioprinting"
     excerpt: "Without question, research on 3D bioprinting is new, disruptive, and expanding too. By taking advantage of AI, 3D bio-printing technology can only get better."
     publishedDateTime: 2021-04-30T10:01:00Z

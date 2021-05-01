@@ -18,6 +18,17 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "Intelligent parking lot control system based on Alibaba Cloud platform and machine learning"
+    excerpt: "With the development of science and technology, research into intelligent parking lot management systems has gradually emerged. However, most research projects are aimed at solving the problem of drivers looking for parking spaces,"
+    publishedDateTime: 2021-05-01T11:14:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9408936"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 9
+
 secured: "evchcmnFVQ5OkjfoLF7YF9UzkW48Sbz9BtpuS1UqFTUSMJmwnDI637AJwTBV4eSk1aIQ6O2qD0ZNV6t7nMbekSnvLmUlMKAH6c60DFet3OlmfL5jNPvTKNov8+lce8OFznpteGTlM+RtCWGnoOcahhjHDXr243995x6IbljePKQ1G303snzyqTTlb7OSb8vn/DM5BUOC1/8N9idK1M1umP7MPfEEfQ8Ulo1jzxPOHjA5c4PSEfP1yHicejawopyMiBH1qp7hE0+2OHpyev5Gjf9zTIG9QY6RUrYDdP8xug43emUnah+KcyOad7PAikj6oFyfGj2T3xdlBhAD89ysksbNy4XjZzPvKfwdyq2a1rM=;XmEF1w925wqjk/Z2Gikidw=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 700
         height: 373
         isCached: true
-  - title: "Monitor and Manage Anomaly Detection Models on a fleet of Wind Turbines with Amazon SageMaker Edge Manager"
-    excerpt: "In industrial IoT, running machine learning (ML) models on edge devices is necessary for many use cases, such as predictive maintenance, quality improvement, real-time monitoring, process optimization, and security. The energy industry, for instance, invests heavily in ML to automate power delivery,"
-    publishedDateTime: 2021-04-26T17:12:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/monitor-and-manage-anomaly-detection-models-on-a-fleet-of-wind-turbines-with-amazon-sagemaker-edge-manager/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/2-Turbine-Farm.jpg"
-        width: 800
-        height: 599
-        isCached: true
 
 secured: "+6gZb/o0yZReLCk7f4l/dWkdVb25kSQKJks3PWWgjC0YObptyfpjYixmwnHOIJjriu2YdUqyHXoogyaE2ygeq5BKY9uqOXG1A+/Y8dqLNf9yRqLsbYj7FX8uhCsfLSt8ayd3cFkJFA6tFlAlPMDuHvWWQj5AOtAoFoxizw6ZGd5HKRgXJTt7et4h2rPNTd6TUrf29CyiB4bgsEo1+9+tWu4H2cUlqzoqMMCKJrhy8iYXxGEJ2bZPWcBvzzA4AF5MReV1rPWaq4QwHPbxfOIZsv/hDMuGVeB2in67sgzxT9OoKDv73kV9JBGIDT076DCALYRExB8+ZYpWQhJiYpT2a33+lx0xTv0FJ2dSJprhSg/emsPMClppcWFp98TsxO2cbtfn4vh9v2ubEywDf4IZk4PCZ4lzjRYcdrS9+wRZIrpMPJrs+g2p4o2YvLJ8pzHSV/Rt3SfRY5Uiy5NHmKCDqpr0iERAHRx9fubApnrFGahkxLXk2Ij8MmY9Jqn9uelQXOtzIivrv7GrYPfDn1+3FQ==;Oad9eLYO0TpehxXpLoj0pA=="
 ---

@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence helps IVF patients avoid invasive embryo genetic testing"
-excerpt: "Life Whisperer, the fertility arm of AI healthcare company Presagen, has made a significant breakthrough in using"
-publishedDateTime: 2021-04-29T11:47:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20859826/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/n20859826/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20859826"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20859826"
+excerpt: "Life Whisperer, the fertility arm of AI healthcare company Presagen, has made a significant breakthrough in using artificial intelligence to non-invasively help embryologists rank and select genetically healthy embryos in IVF."
+publishedDateTime: 2021-04-29T13:47:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing-1030364369"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing-1030364369"
 type: article
-quality: 34
-heat: 34
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "269Rua/yOdXlb2XxiFq8GaPPIn+MP1MpDI56/l31bLTfrLybhcAPHy6fF3huTXWyt3JwblCe3UKobTCumrZdYa9vGTBcNR7axYuYSURVSmcMH7or6rjqaqTYmakoheOzd8CvhLcf+6kcyEs3+RT65wUkkdh3EUmh6B9trKP5dlMYHWEBmZL1rbhUtGGLF3SNfN1pz0zB/1hI3QCqNZPPNtxbuNDxNYrznMIiHYOkGT74tGYDyC8juHq3C2sd4sRiewOp8+7AQKux2GwXq1YYOWi0aDx6GzjH6ukqDJZ2IL2afKhS/RyFdcKppM4aTJIM7mItrrfzxFOyOI2PcmsG1hko0VSQ/HEgxyXi94VEPao=;aDf3+WAZgaW+C5mtdrOcmQ=="
+secured: "Xc9r3qgmwOLk3tSufOWMP1CzOn/iFBHcH5VQqrC//djC1HCJ9jAxrNgn01c0TTOYU1TYes6Of9tCVc/z6hNm7nIvaH1GxwetQdyRKyZQ/3AP1sPmnET8ZPM1H2Bbi8I8kOSk7abJCYqe8AFQB7SRDSw7tFDF4Js36a2lpB9glUhVbAr7JWopKE8lJdFpdmXCTMUwrfqaHdwrAIbITaRBtxEkVsh0bkAb7c84HSjCtlfH5Qyk1z1Ol4lPneBHdEqhjfwM6SjWoGTWp/H+637Gd5Yr7ivz+7tLpqa5MXA5UV735oSHHtxNsiTiEU3Z7bl7HQ7ssKw3kNW2rpSBm6T3yMqS9T5eEV/Fvvpz24mHSl4=;EiNndh1c770lFhXtExX0PQ=="
 ---
 

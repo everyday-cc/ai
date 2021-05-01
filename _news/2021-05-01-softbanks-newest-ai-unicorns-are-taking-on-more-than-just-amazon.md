@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newes
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 400
         isCached: true
 
-secured: "wn8RmwGf8Bm7M+BAb9gAA8sm9U+GDx8GYYGki4i68rbXZD4ER2YQ97LOJyUX+8zG79wwY2zVD84UbSMN1QSFIRufZwA2L/yF6dLzVVymdqX6dgxCYnU4SX+hP+ndHECPhS00zQdm6P/oiuqqE9heXbVqjh4H9pwhqY72wpl7OYqcMD+gQ6mdcc1FuLCdPO07m7iWsRlpHHYWyRF5GQNVpudE5gufNM8NCe17PX4gBGgzfuZ9JMBAIEo/DmZQO2D0IrxYgSvBaX11qxX2qE047vXsQL8MgHLwU0FY/Sf8quj/3chdur2TUHIOntHvwFhDTPb/ajCUOFtcbFEK49gT2SAZdJpvk2P59SW4mFlzQhw=;4kDwyrwf3C+dqnS1lC/Ygg=="
+secured: "lJNuFBoe5f4DaDhZqoI5pb/j3yhetpc84Wxd+knZ94uieH/nZCpTZBFQVfMqkd1FEB4N1FQ+wGUl108ElNOx6q3Yd5ILhiKeQwYe82k49eqVW8inPOwuQRDakOIWbf31qHdOOJHCnN9ooGXIYUoAyQgGLj7is3IDYJpNY9Ck68UykQ1EF4eGtYu7fbRSk+CKyfGhdyvy+1xBbC5uJCZU5Jb4tk9MWQTPZrr1A4Y2pQL0efHTZXjdOHdZXA3mw9Dl6S9gTXq/uaymYTjnkAbj8pgHuu2SRin0/+ooXfwGuqBrNAyqWMRAVB4jfwc+GadjghY5kBaD4ZneAGsFobRjPs42Dr4/nBp3LdUOp3U01lrUoOWEwzg8Aj/lMu1aTgiJXOBqUqVZzGaP3FU3mbrP/vbYhSmeUh/LDJfwhze/lSY1kKXvgDavcmCNg0aAkxXyBDopU/UD80rs7pphpLqquPldVitsxd2bVuDilVwepYhdu2DfAlKWIHtQTCh1GFTguapRdy/562DJsaTpzE0Riw==;ewELW5Nl2yXViKxS4O6sXA=="
 ---
 
