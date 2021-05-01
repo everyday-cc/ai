@@ -22,7 +22,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=KvPSD8EAAAAJ
-  citations: 246345
+  citations: 246704
 
 topics:
   - AI
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Huahai Yang"
 
-secured: "X/0iJOm+7BWscSf5/OmTb+4vCazS1jKWQT/VkX7Zklw+I9OmhH1nRYkle/caqBbW7ewK5IRKpdhvtDU+dtiBLGDB/IKmqvpKi+PQgjj3e5N02yXIwxwWkCRji3teC2zg4hXVe/J1vYlq/lX9kJlY0swocDf5MUD/hV6c0q+JGb2ekx4bKyvWwIU1RTekUkN71+er5IoSZzHO/CS0rYpvMeJwOLgfJNcItqM0pNFQeOHBfLpFJpT+TUFuUBU8S1MpUYclSQ66yWYXTqplHLJ0G9EGgmdyaEkr5O6jz7IhFkRlQeOqbIakwL1deiPfEH6lJdNkk1H+KUCRfJBmTBDZkgLNys1P/g4D5GmIxkUlAA1TPUrks6R0yiNoDDQXDYAR6kpLCSkjNSZc7I9+Dl2e7BIpGK85/HgQ9xNRBq2w+Ks=;UDguun2Us8u+29E35Q1wng=="
+secured: "k6s+xEveKFCX9udvUnrLE/JH7L+qpxzs+2igs8+wAOqpOOsyRUEikb+GjsYbZBVJ2t1wLWUOODNRFiJDoZHv1dCX9vVhfEdxm34o43wJn5gsxMoOvI3hTjucMIGk+SoUYL4mUytiNQHyQp/GlOW0xr4ONMID1YyYMsngx/rwdTJGWvtkH1gXDGCsQrJxNvbg7gpz82OdV5jE1Ir7/EDSLtKpoSG5ZVO7lDPAkE6EEyJUHI7pST+g2tFE+MtDl7YRn+2T/7fuKh0JcczkkMrK0Lkxi3AaXFBYEDetqAwchMuTRweNoU+c2wZd8NFmO9aMsL9TSd3wbrShQKxQ9qNlQ17MnjZYc+738FhBgMMxEItbzCscShG96ceKKCAuv8acBbBMn9JgLIlB2B5Uo7fhQB73Uf41KMdmxlrRzpKaZus=;DFlC3uGw4FZEa90nG3ef0A=="
 ---
 

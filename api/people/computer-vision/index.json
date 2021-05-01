@@ -17,11 +17,11 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 253853
+        "followers": 253862
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
-        "citations": 194654
+        "citations": 195009
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
@@ -37,7 +37,7 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 296,
+      "heat": 290,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
@@ -63,11 +63,11 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 381924
+        "followers": 381918
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
-        "citations": 126329
+        "citations": 126592
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
@@ -97,7 +97,7 @@
         "Computer Vision",
         "AI in Healthcare"
       ],
-      "heat": 212,
+      "heat": 191,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
@@ -139,7 +139,7 @@
         "Computer Vision",
         "AI in Autos"
       ],
-      "heat": 159,
+      "heat": 143,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
@@ -162,7 +162,7 @@
       "bio": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=UZ5wscMAAAAJ",
-        "citations": 251870
+        "citations": 252202
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Andrew_Zisserman"
@@ -234,7 +234,7 @@
       "bio": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=oY9R5YQAAAAJ",
-        "citations": 199478
+        "citations": 199644
       },
       "affiliation": {
         "path": "",
@@ -272,7 +272,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=TwMib_QAAAAJ",
-        "citations": 144752
+        "citations": 144902
       },
       "affiliation": {
         "path": "",
@@ -310,7 +310,7 @@
       "twitter": {
         "username": "harryshum",
         "url": "https://twitter.com/harryshum",
-        "followers": 17499
+        "followers": 17498
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
@@ -337,7 +337,7 @@
         "Microsoft AI",
         "Computer Vision"
       ],
-      "heat": 6,
+      "heat": 32,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",

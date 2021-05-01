@@ -18,7 +18,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=lm2nBYkAAAAJ
-  citations: 17186
+  citations: 17197
 
 weibo:
   url: https://www.weibo.com/kaifulee
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Kai-Fu Lee"
 
-secured: "61fWCVxm6DZ7gPa+Dr0BSpdQZIjHy5f9+NbqN3Og6YQ0LtP50PTWQGf+dI9XXIA6ku2J2knaC/e2fyH3nfuiCGjT+ZYEwT6+9Rfl0K4qMMh7nxrWhdh1tao7IVRA+c8mTc1mBqXKlUlvGSWD9fHRBwt4VfXEUUBHYY5j9jSbirBbvIWKGuA78ZNSe1Inh5DLfUdaM510dzIIdNXq9TeGZ+UJpSPoH3W6YJV+gaHES/VzQxT82A/8eSANC87g44dyaTlwbHZLsWzzNYsvM325GNaaV/F3+WYt9N6hgZM/XXkWV8azMaROMOFSZzvezrBVF0ug4AHRhIjT49Zm0zJNRW7+dwEpacVHzb5iN1PAtZoF89C82WfdEyUHbAzJIo8pG0BZmf8GU+AITkJEXjwsvNJXwzIMzzQ8/CPDKyKfBas=;fC5KbEWXO/dd0JCHhPaJuQ=="
+secured: "LvK6jpyO+s/If8yLM9CrGigZaQ294t23YQnWVDztUMqEpTvfXCZsmS8PH0McQ8HBLZf8C8ezqUweGtk6VwXdpEQLuTKRFwSn9mHOD1qgGvNZeMIkpHGQX2Mp/IyzhFoanHOZ36Y4ZwZzJMLkN7hSwquJeAWfDYGoM37uxGk2tRyc/mm6jkyHOhJ3lYFSz7t06UCELg0AHcATO6CZKnW1y9x4/uPHjq1cfWCTWKSlOyiH92JE21bnK3ZSHHRB2tA8YhFuneUzM0Ravdr6GwGR3/9YdeucrBuQsDRWd0zFEjYOwZdl3vkSOyKqwcNtkzrR041NXJb+3jdYIqSakNQs0psAq+QDr4p/vyIMAjyhMJRHR0ShuoFzCSkY2mT24wgP6T/A0LAo5qLUWBvKbV1fD8c+WK0HUquk/sa1Av3EMfY=;ZYxjdDYFdm4XGJgoIBLMHQ=="
 ---
 
