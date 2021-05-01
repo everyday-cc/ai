@@ -2,6 +2,40 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-04-05-artificial-intelligence-market-report-by-industry-trends-and-leading-key-players-forecast-to-2026.md",
+      "title": "artificial intelligence market Report By Industry Trends And Leading Key Players Forecast To 2026",
+      "excerpt": "The prominent players in the Global artificial intelligence market are Intel (US), NVIDIA (US), Xilinx (US), Samsung (South Korea), Facebook (US), Micron Technology (US), IBM (US), Google (US), Microsoft (US), and AWS (US). Whipsmart MI provides fact-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2265732/artificial-intelligence-market-report-by-industry-trends",
+      "originalUrl": "https://www.openpr.com/news/2265732/artificial-intelligence-market-report-by-industry-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends",
+      "publishedDateTime": "2021-04-05T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-natural-language-processing-for-healthcare-and-life-sciences-market-achieves-a-new-milestone-microsoft-google-ibm-3m.md",
       "title": "Natural Language Processing For Healthcare And Life Sciences Market Achieves a New Milestone | Microsoft, Google, IBM, 3M",
       "excerpt": "Natural Language Processing For Healthcare And Life Sciences market is segmented by company, region (country), by Type, and by Application. Players, stakeholders, and other participants in the global Natural Language Processing For Healthcare And Life ...",
@@ -1089,40 +1123,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-fintech-startup-with-local-presence-uses-ai-to-drive-up-homeownership-rate.md",
-      "title": "Fintech startup with local presence uses AI to drive up homeownership rate",
-      "excerpt": "Fintech startup Home Lending Pal is using artificial intelligence to make homeownership a reality for more millennials and minorities. Home Lending Pal, co-founded by Bryan Young and Steven Better, is a mortgage research platform that uses AI to simulate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/charlotte/inno/stories/news/2021/04/02/home-lending-pal-ai-homeownership.html",
-      "originalUrl": "https://www.bizjournals.com/charlotte/inno/stories/news/2021/04/02/home-lending-pal-ai-homeownership.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

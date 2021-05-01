@@ -2,6 +2,49 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-03-04-prosthetic-offers-real-time-mind-control-of-robotic-hand.md",
+      "title": "Prosthetic offers real-time mind control of robotic hand",
+      "excerpt": "Researchers have tapped faint, latent signals from arm nerves and amplified them to create a prosthetic that enables real-time, intuitive, finger-level control of a robotic hand. To achieve this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurity.org/prosthetic-mind-control-robotics-2297932-2/",
+      "originalUrl": "https://www.futurity.org/prosthetic-mind-control-robotics-2297932-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.futurity.org/wp/wp-content/uploads/2020/03/prosthetics-2_1600.jpg",
+          "width": 1600,
+          "height": 915,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurity News",
+        "domain": "futurity.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-mediatek-mt9638-ai-chip-will-power-the-next-generation-of-4k-smart-tvs.md",
       "title": "MediaTek MT9638 AI chip will power the next generation of 4K smart TVs",
       "excerpt": "MediaTek has unveiled its latest chip today designed for upcoming 4K smart televisions. Called the MT9638, the processor will integrate AI hardware to boost the performance of everyday smart TV ...",
@@ -1092,49 +1135,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-core-scientific-achieves-aws-high-performance-computing-competency-status.md",
-      "title": "Core Scientific Achieves AWS High Performance Computing Competency Status",
-      "excerpt": "BELLEVUE, Wash., March 1, 2021 – Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain that is led by CEO Kevin Turner, the former COO of Microsoft, announced today that it has achieved ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/off-the-wire/core-scientific-achieves-aws-high-performance-computing-competency-status/",
-      "originalUrl": "https://www.hpcwire.com/off-the-wire/core-scientific-achieves-aws-high-performance-computing-competency-status/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png",
-          "width": 440,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T13:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

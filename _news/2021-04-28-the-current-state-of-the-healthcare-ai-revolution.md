@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/28/the-curren
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/using-ai-to-gauge-the-.jpg"
         width: 1280
         height: 527
-        isCached: true
-  - title: "The future of ethical AI"
-    excerpt: "Pro Bono News sits down with artificial intelligence researcher Thao Phan to discuss the issues of ethics of race and gender in AI"
-    publishedDateTime: 2021-04-26T22:58:00Z
-    webUrl: "https://probonoaustralia.com.au/news/2021/04/the-future-of-ethical-ai/"
-    type: article
-    provider:
-      name: Pro Bono Australia
-      domain: probonoaustralia.com.au
-    quality: 54
-    images:
-      - url: "https://probonoaustralia.com.au/wp-content/uploads/2021/04/463-fram-template-1.jpg"
-        width: 770
-        height: 463
         isCached: true
   - title: "The 4 Fallacies of Artificial Intelligence"
     excerpt: "Artificial intelligence researchers are kidding themselves that human-level performance is within reach, argues one leading thinker. Here's why."

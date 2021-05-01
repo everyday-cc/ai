@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-th
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp"
 type: article
 quality: 84
-heat: 104
+heat: 105
 published: true
 
 provider:

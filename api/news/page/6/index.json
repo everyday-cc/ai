@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-25-analyzing-automatic-speech-recognitionasr-software-market-dynamics-over-2021-2026.md",
+      "title": "Analyzing Automatic Speech Recognition(ASR) Software market dynamics over 2021-2026",
+      "excerpt": "Software Market research report includes Market segmentation and overlays shadow upon the leading market players highlighting t",
+      "sourceUrl": null,
+      "webUrl": "https://www.express-journal.com/automatic-speech-recognition-asr-software-market-386652/",
+      "originalUrl": "https://www.express-journal.com/automatic-speech-recognition-asr-software-market-386652/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.express-journal.com/img/img-10.png",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express-journal.com/automatic-speech-recognition-asr-software-market-386652/amp",
+      "cdnAmpWebUrl": "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/automatic-speech-recognition-asr-software-market-386652/amp",
+      "publishedDateTime": "2021-04-24T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "express-journal",
+        "domain": "express-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-25-why-applied-ai-requires-skills-and-knowledge-beyond-data-science.md",
       "title": "Why applied AI requires skills and knowledge beyond data science",
       "excerpt": "Using machine learning in real-world applications and business problems presents challenges that are absent in academic and scientific research settings.",
@@ -1155,40 +1198,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-fintech-robos-migrates-to-cloud-only-infrastructure-with-aws.md",
-      "title": "Fintech Robos migrates to cloud-only infrastructure with AWS",
-      "excerpt": "We are a B2B Fintech company, providing our partners with leading-edge technology for offering mobile-first and cloud-only savings and investments services",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/uae/en/press-releases/story/Fintech_Robos_migrates_to_cloudonly_infrastructure_with_AWS-ZAWYA20210422125206/",
-      "originalUrl": "https://www.zawya.com/uae/en/press-releases/story/Fintech_Robos_migrates_to_cloudonly_infrastructure_with_AWS-ZAWYA20210422125206/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/ZAWYA20210422125206/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210422125206/",
-      "publishedDateTime": "2021-04-22T22:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

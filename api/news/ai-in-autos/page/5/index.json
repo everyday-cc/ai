@@ -2,40 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-03-16-general-motors-gm-to-acquire-voyage-ramps-up-av-game.md",
-      "title": "General Motors (GM) to Acquire Voyage, Ramps Up AV Game",
-      "excerpt": "General Motors’ GM majority-owned self-driving car start-up, Cruise, is set to acquire Voyage — a self-driving startup that spun out of online education company, Udacity. Reportedly, the majority of Voyage’s 60-person team will shift to Cruise and Voyage’s co-founder and CEO Oliver Cameron will assume the role of vice president of the product.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/general-motors-gm-to-acquire-voyage-ramps-up-av-game-2021-03-16",
-      "originalUrl": "https://www.nasdaq.com/articles/general-motors-gm-to-acquire-voyage-ramps-up-av-game-2021-03-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/general-motors-gm-to-acquire-voyage-ramps-up-av-game-2021-03-16?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/general-motors-gm-to-acquire-voyage-ramps-up-av-game-2021-03-16?amp",
-      "publishedDateTime": "2021-03-16T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-16-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
       "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
       "excerpt": "New Delhi: In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021.",
@@ -1262,6 +1228,58 @@
         "name": "The Hill",
         "domain": "thehill.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-why-baidu-stock-jumped-206-in-february.md",
+      "title": "Why Baidu Stock Jumped 20.6% in February",
+      "excerpt": "Baidu has been one of the most aggressive early players in the autonomous vehicles space, and the potential to integrate its strengths in self-driving vehicles with growth initiatives in the EV ma ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/f550fbfbb329df6fd882bebead2c0e63.png",
+          "width": 720,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "publishedDateTime": "2021-03-08T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

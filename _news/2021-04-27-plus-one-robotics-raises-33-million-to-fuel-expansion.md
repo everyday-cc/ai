@@ -79,6 +79,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Plus One Robotics Raises $33 Million to Fuel Expansion"
+    excerpt: "Plus One Robotics, the leading provider of vision software for logistics robots, announces $33 million of Series B funding. McRock Capital and Translink Capital co-led the round, with participation from BMW i Ventures,"
+    publishedDateTime: 2021-05-01T12:48:00Z
+    webUrl: "https://www.dcvelocity.com/articles/50550-plus-one-robotics-raises-33-million-to-fuel-expansion"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 69
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/45bc31c3-3066-4491-9697-388f7c55af1a.jpg?height=635&t=1619726211&width=1200"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Robotic vision startup Plus One raises $33M"
     excerpt: "San Antonio-based Plus One Robotics today announced a $33 million Series B. The round follows an $8.3 million Series A announced in 2018 and brings the company’s total funding to north of $40 million."
     publishedDateTime: 2021-04-27T17:28:00Z

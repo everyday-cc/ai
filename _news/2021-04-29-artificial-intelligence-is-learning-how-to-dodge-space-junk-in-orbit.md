@@ -37,7 +37,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 106
+    quality: 108
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/08/intel-logo-e1578358513137.jpg?w=1200&strip=all"
         width: 1200

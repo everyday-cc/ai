@@ -9,7 +9,7 @@ ampWebUrl: "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-c
 cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 93
 published: true
 
 provider:

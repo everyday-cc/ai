@@ -43,20 +43,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Graph Analytics Powers Insights in Financial Services"
-    excerpt: "When a new technology emerges, financial services firms often are among the first adopters. Anything that can provide banks, investment houses, or"
-    publishedDateTime: 2021-04-26T21:38:00Z
-    webUrl: "https://www.datanami.com/2021/04/26/graph-analytics-powers-insights-in-financial-services/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/fintech_shutterstock_-Jirsak.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "AI and analytics together: 3 real-world use cases show how and why"
     excerpt: "Batman and Robin, apple pie and ice cream, AI and analytics. Did that last combination surprise you? It shouldn’t."
     publishedDateTime: 2021-04-27T17:21:00Z

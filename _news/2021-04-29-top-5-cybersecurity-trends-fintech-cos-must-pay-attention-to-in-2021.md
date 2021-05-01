@@ -131,6 +131,15 @@ related:
         width: 851
         height: 478
         isCached: true
+  - title: "Cybersecurity Cloud Architect Paris"
+    excerpt: "EliteCyber ​​represents one of its clients, a major player in the French cybersecurity landscape (but also beyond our borders), you will not be bored!A reputation already well established on"
+    publishedDateTime: 2021-05-01T13:55:00Z
+    webUrl: "https://www.globalsecuritymag.fr/Cybersecurity-Cloud-Architect,20210430,111034.html"
+    type: article
+    provider:
+      name: Global Security Mag
+      domain: globalsecuritymag.fr
+    quality: 4
 
 secured: "iQx0U3MEYiWoAi1bb8EvUsiYQ2OXlQ/QKFKfK/3AvIxssyXCoHxNzldedoLVpSgbLoKc9trSv/Rini/5nTZN7g52qwaBf1ig6qTedbLKTDcaQPXd38ewOo4hJtL6eerXpI3lJj/IGKAGRyZRIw8lmFqWwH4pCdrEbDgNGk1BUVr7hBOwm9FM4KNU0n3zDT8uo6oplaMvGN5F+pzSmyo+hh9gU8IKYUxZ0qSZf/8so9H+XUZohmLPGt3gM1d5zoOBMDPkzBsmLFBxf7vm0Dl7OOTtENIJ1CBEuniEKLQJFZHVUnaq/NY7eYXOm9a+pme9Md+oTWwxh6uA2z7CAW6WdPBPr12e2xAcRDFUOhokZmGDWOsfI0x6fpvV3DyUs7C1Saq9DhPDIN+aHavH8Lh4n2wqCZL9xR6sEOL0YlMVToAooDQ/o+6Lx6TsihDX/oE3gW2EqUakLJm0R8F0CswrWAmM2hvkXB1e/Vjr3qM069oiFbKEEfYkFNP5OUsfUllEmIgbiNqLVcq+2ZxXdkMI4A==;z7rQMDWeWplEtfTgYbjzgw=="
 ---

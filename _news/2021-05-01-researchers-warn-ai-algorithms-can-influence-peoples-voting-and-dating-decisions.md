@@ -8,7 +8,7 @@ webUrl: "https://scitechdaily.com/researchers-warn-ai-algorithms-can-influence-p
 ampWebUrl: "https://scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/amp/"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://scitechdaily.com/images/AI-Algorithms-Dating-Decisions-777x520.jpg"

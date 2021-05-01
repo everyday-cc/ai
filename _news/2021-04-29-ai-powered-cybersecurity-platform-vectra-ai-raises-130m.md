@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
         width: 851
         height: 478
         isCached: true
+  - title: "Cybersecurity Cloud Architect Paris"
+    excerpt: "EliteCyber ​​represents one of its clients, a major player in the French cybersecurity landscape (but also beyond our borders), you will not be bored!A reputation already well established on"
+    publishedDateTime: 2021-05-01T13:55:00Z
+    webUrl: "https://www.globalsecuritymag.fr/Cybersecurity-Cloud-Architect,20210430,111034.html"
+    type: article
+    provider:
+      name: Global Security Mag
+      domain: globalsecuritymag.fr
+    quality: 4
 
 secured: "65WN4qIkioNzk2aH2VgSM+J9rxtseQprBUEy/P7zH6tTddOjj+SYRriAFeqf1+MGDQJehwnFLbagzeJng1PApFoV0bDghKUsHqHpU8Qbh4H60H8Jl7ZuylIvX5osF2FdCTjrYwYHjvoRqxyVdKU7UMiyGIWrjmBNYDz5TM5dvaWOAgWp7BmQTWI/K4loId4VUd2U2HCm9FtV8KlUvRNSMZ4b9FvB8x4VkBRCMyl8Auyu3uUUIfudAS7xjzdv7N6RYhYeC/Z5GJGAhEoAI25sPTRv0h0hTzCiAP8fdQXEZPRGPfWwVnRl/pYWxfKQQKfCeVoPXG64D9C+huZNr+ACrv5ifKmd+QeG230doTLMR21rbzo/CtnzwxdvQM073tRQDhDL38rfdTN1b3z1nZyOxkM33PruaBQn8zV/9jp6zGSocA6VGaeeTa+1TalIiISx8MHku39FgpoT80Qh0aA3xJ0q+Xz6eD+emR+XyK6mXr1DAq3bVyxkzenOUAYtwQSUCs7V0rZ+ysYvas1y6nhSEg==;2EIbnqDCHy2wP8Jqd2xwNg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3131442/increasing-use
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash"
 type: article
 quality: 78
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -118,20 +118,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "Facial Recognition Tech for Bears Might Just Be the Future of Conservation"
-    excerpt: "Facial recognition technology is used to unlock your phone, find missing persons, detect shoplifters, and even was used by Taylor Swift’s security to ID stalkers (seriously). But now, it’s revolutionizing bear conservation."
-    publishedDateTime: 2021-04-26T21:52:00Z
-    webUrl: "https://www.backpacker.com/survival/bears/facial-recognition-tech-for-bears-might-just-be-the-future-of-conservation/"
-    type: article
-    provider:
-      name: Backpacker
-      domain: backpacker.com
-    quality: 37
-    images:
-      - url: "https://www.backpacker.com/wp-content/uploads/2021/04/bearpacker_facial_web.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
   - title: "Chinese firms fined for facial recognition overuse, more city govts mull restrictions"
     excerpt: "More provinces and cities in the country plan to put in place policies that restrict the overuse of facial recognition technology in certain public places."
     publishedDateTime: 2021-04-29T17:02:00Z

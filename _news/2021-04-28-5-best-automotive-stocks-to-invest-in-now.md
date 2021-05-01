@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "HSBC counting on AI to give investors an edge"
-    excerpt: "The technology is simulating the work of teams of analysts and traders to pick stocks and rebalance asset allocations in the bank's newest investment index."
-    publishedDateTime: 2021-04-26T22:36:00Z
-    webUrl: "https://www.americanbanker.com/news/hsbc-counting-on-ai-to-give-investors-an-edge"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/39668cd/2147483647/strip/true/crop/1280x672+0+93/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F67%2Fc2%2Ff4a1cf3540ca84a97148d4ab8127%2Fibm-watson.PNG"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "0gigka0YNRXpiQkrT7VJ1Ynw6qZOhfP4iEb/581sErQv9quT0GmDrMTYlFphjbEprDmuKxKXpRpOMrKvCzOMLqOG2wQiTke2+mY6jIz3lqyrph/v5nhKUZYh+mmfws138lQ46DOc9Gs248lavzY6cRATgM4NYH9OWqwDMwkeswwIZBZuFaApZ4wpFkMKGWIyW4/wa689XO/xwLeNleRO8AwT68W6F40YyhIET1aPaMhqB+QgGNFrd9TsUPyt80A6shDvGZQn3S/cUbUm7f4gEVYnIP5cilDKtO+dw5/Ya+d8uDoFA7dNEccy7lds5n1v9RgvlSOWA8ggYHCJe/8DiFW9V8AMdNaJj7iAXHSiGQ4=;N/f1X0fcY2iLtsCS3jzEZQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-29-taming-the-machine-ai-governance.md",
+      "title": "Taming the machine: AI Governance",
+      "excerpt": "As machine learning expands, ensuring these tools are properly managed is a critical priority for all businesses",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359374/taming-the-machine-ai-governance",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359374/taming-the-machine-ai-governance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1619693362/itpro/2021/04/shutterstock_Artificial_intelligence.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359374/taming-the-machine-ai-governance?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359374/taming-the-machine-ai-governance?amp",
+      "publishedDateTime": "2021-04-29T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-ibm-buys-turbonomic-to-build-out-aiops-tools.md",
       "title": "IBM buys Turbonomic to build out AIOps tools",
       "excerpt": "IBM has been acquiring companies at a rapid clip to help roll out hybrid cloud and AI automation tools. By Larry Dignan for Between the Lines | April 29, 2021 -- 15:00 GMT (08:00 PDT) | Topic: Cloud IBM said it will acquire Turbonomic,",
@@ -545,58 +597,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-29-citylab-daily-toyota-is-building-a-city-for-self-driving-cars.md",
-      "title": "CityLab Daily: Toyota Is Building a City for Self-Driving Cars",
-      "excerpt": "Also today: a look at southern California’s battle with drought, and could Pittsburgh to be a hub for Black venture capital?",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-daily-toyota-is-building-a-city-for-self-driving-cars",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-daily-toyota-is-building-a-city-for-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iScKzdV._Y9A/v0/1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-28-leaked-ai-report-could-hint-at-future-for-us-regulation.md",
       "title": "Leaked AI report could hint at future for US regulation",
       "excerpt": "Greg Nichols tells Karen Roby that the EU takes lead on AI regulation, trying to stay ahead of evolving tech. Read more:",
@@ -656,7 +656,7 @@
       "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -969,7 +969,7 @@
       "originalUrl": "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1106,7 +1106,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {

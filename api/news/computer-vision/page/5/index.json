@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-04-facebook-ai-learned-object-recognition-from-1-billion-instagram-pics.md",
+      "title": "Facebook AI learned object recognition from 1 billion Instagram pics",
+      "excerpt": "Artificial intelligence built by Facebook has learned to classify images from 1 billion Instagram photos. The AI used a different learning technique to many other similar algorithms, relying less ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2270102-facebook-ai-learned-object-recognition-from-1-billion-instagram-pics/",
+      "originalUrl": "https://www.newscientist.com/article/2270102-facebook-ai-learned-object-recognition-from-1-billion-instagram-pics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/03/04125442/adobestock_heroimage_web.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-object-recognition-imaging-systems-market-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2025.md",
       "title": "Object Recognition Imaging Systems Market Consumption Analysis, Growth Forecast by Manufacturers, Regions, Type and Application to 2025",
       "excerpt": "Mar 02, 2021 (The Expresswire) -- The report presents a detailed study of “Object Recognition Imaging Systems Market” covering both global and regional markets. It aims to give an appropriate ...",

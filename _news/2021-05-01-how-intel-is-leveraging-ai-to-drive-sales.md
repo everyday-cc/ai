@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-
 ampWebUrl: "https://venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/amp/"
 type: article
-quality: 106
-heat: 126
+quality: 108
+heat: 128
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Sales
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/08/intel-logo-e1578358513137.jpg?w=1200&strip=all"
@@ -63,6 +64,6 @@ related:
         height: 270
         isCached: true
 
-secured: "XDAwPd9QQJjjG9lyqzyvw2AX/KQb8eEnEQHySODTZFPdy1VvDSB7YbKaHtrbKRKcTrKHLNy/fGIiHu55BxXXHnGWMpP+oPsXxi3urh/HM+UX2pjNM5jdpFhLV3oK5sqqLbIQih431WLOEtZMweFXK9eLD0z2mnjOD4mOEXZFgvYYqMRN9TWYpIaTEKkzph/aMhneSjA7tsbHbolvevU+ZBI4TWKFfsCAzwS9vi0dag4urxf7jfBH+hYaRhNkJr6MmL19sqMmgPNBhH8mKkhRPsUEvjzvLlcAzSs9Vbzw8T+h+ME2HzHj/rXWPGGB0TK/YCPUamEG/UtuRN8vivkeC1KzWkJC23sVzd35KNrKemc=;GDKbFDHGyz8NFoC49IHWgA=="
+secured: "CtSTrxWUVBwMeS47lrVB3nvq1mBvi7GChvVTCtZamlJH7M5Z4VjOfHTxq4siKNIb3RlOnyMGnlN7DL5dSo6wBJYyrREiCLqz1zVtzcye6lEN3vSV31PfNXq635agqHGHmfDy1TCLVMw/IGEVA1SKyZy5CF3D1fkdOhq5qg8WcH502GiFw0y2wzCTED8oxIMPvuJApPomlBLjpG8kQbixsytNFgQmPixQMbrU4vlq9Mx6TSXpepghE1cHXVoWv5pdYfGET6/QbahotWONJoCN52J0qLeYTnLvxvpyVCI+VKiNTRsJo+TCzy9IEj/umW5cOWB0+VFR6wjdEF674EikbYTbSs+vS7lxD6LUSexj55JhUgoBMcNCqj0MNhuyYW2V4hRxjNsm88F/Oae+ocaQm5Ok6VRMRQGkDR4Hrcpd8KGDB+GaXff475Pe6R9KSutGI7Acu2Fata/kHkvuEGMvIZNDGyecB1L8tMHly6dNqmuT0hdy9Qr/Pqb0rirVgjkK6zP0iOamwuNoBfPdmO8K7g==;POFq2gist/uz94m71BG1Lg=="
 ---
 

@@ -51,7 +51,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://scitechdaily.com/images/AI-Algorithms-Dating-Decisions-777x520.jpg"
         width: 777

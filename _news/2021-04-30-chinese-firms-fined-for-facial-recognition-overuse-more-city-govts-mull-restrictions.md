@@ -128,20 +128,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "Facial Recognition Tech for Bears Might Just Be the Future of Conservation"
-    excerpt: "Facial recognition technology is used to unlock your phone, find missing persons, detect shoplifters, and even was used by Taylor Swift’s security to ID stalkers (seriously). But now, it’s revolutionizing bear conservation."
-    publishedDateTime: 2021-04-26T21:52:00Z
-    webUrl: "https://www.backpacker.com/survival/bears/facial-recognition-tech-for-bears-might-just-be-the-future-of-conservation/"
-    type: article
-    provider:
-      name: Backpacker
-      domain: backpacker.com
-    quality: 37
-    images:
-      - url: "https://www.backpacker.com/wp-content/uploads/2021/04/bearpacker_facial_web.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
   - title: "Photo Ninja hides your face from online facial recognition"
     excerpt: "Photo Ninja claims to use AI to slightly alter your images so that they become undetectable to facial recognition software online. The tool was developed by the legal advice app DoNotPay. The self-dubbed “World’s First Robot Lawyer” was initially developed as a chatbot that would help users fight parking tickets."
     publishedDateTime: 2021-04-27T15:58:00Z

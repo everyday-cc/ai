@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-01-gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars.md",
+      "title": "Gnarly Skateboarders Trying Dangerously To Hitch A Ride On Self-Driving Cars",
+      "excerpt": "Skateboarders sometimes try to do bumper hitching, which is dangerous and should not be done, but the question is how will self-driving cars deal with those gnarly riders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b3cbc04d846306ea674dc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2275%26cropY1%3D0%26cropY2%3D1279",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/",
+      "publishedDateTime": "2021-05-01T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-volkswagen-will-develop-in-house-self-driving-chip-to-compete-with-tesla-apple.md",
       "title": "Volkswagen Will Develop In-House Self-Driving Chip to Compete With Tesla, Apple",
       "excerpt": "Although Tesla’s expensive and strictly in-house developed autonomous driving software has a long way to go to actually achieve self-driving, its German rival Volkswagen is going down the same path to build its own driverless capabilities.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -54,7 +106,7 @@
       "originalUrl": "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -245,58 +297,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-29-self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight.md",
-      "title": "Self-Driving Cars To Conveniently Haul Fancy Stores To Your Doorstep For Your Shopping Delight",
-      "excerpt": "Self-driving cars will be used to haul around mobile stores, bringing the shops to your doorstep, which is quite convenient though presents some hefty challenges for AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606252c768cbbbf4ea56d79e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2460%26cropY1%3D124%26cropY2%3D1508",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/amp/",
-      "publishedDateTime": "2021-04-29T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-29-wealthfront-releases-a-new-self-driving-money-feature-to-make-saving-easier.md",
       "title": "Wealthfront releases a new 'Self-Driving Money' feature to make saving easier",
       "excerpt": "Wealthfront's new Self-Driving Money feature lets customers take a hands-off approach to saving, and it could potentially be more effective.",
@@ -329,58 +329,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-citylab-daily-toyota-is-building-a-city-for-self-driving-cars.md",
-      "title": "CityLab Daily: Toyota Is Building a City for Self-Driving Cars",
-      "excerpt": "Also today: a look at southern California’s battle with drought, and could Pittsburgh to be a hub for Black venture capital?",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-daily-toyota-is-building-a-city-for-self-driving-cars",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-daily-toyota-is-building-a-city-for-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iScKzdV._Y9A/v0/1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -515,7 +463,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/26/toyota-acquires-lyft-self-driving-division-for-550-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 334,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -1441,6 +1389,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-baidu-stock-3-reasons-to-stay-away.md",
+      "title": "Baidu Stock: 3 Reasons To Stay Away",
+      "excerpt": "As for the autonomous technology, Baidu has certainly made progress. The Apollo Self Driving (ASD) system was able to snag partnerships with ten local and multinational automakers. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/",
+      "originalUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/amp/",
+      "publishedDateTime": "2021-04-19T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "HSBC counting on AI to give investors an edge"
-    excerpt: "The technology is simulating the work of teams of analysts and traders to pick stocks and rebalance asset allocations in the bank's newest investment index."
-    publishedDateTime: 2021-04-26T22:36:00Z
-    webUrl: "https://www.americanbanker.com/news/hsbc-counting-on-ai-to-give-investors-an-edge"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/39668cd/2147483647/strip/true/crop/1280x672+0+93/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F67%2Fc2%2Ff4a1cf3540ca84a97148d4ab8127%2Fibm-watson.PNG"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "5 Best Automotive Stocks to Invest in Now"
     excerpt: "Baidu markets self-driving services, including maps, automated valet parking, autonomous navigation pilot, electric vehicles, and robo-taxi fleets. Baidu has teamed up with Chinese carmaker Geely ..."
     publishedDateTime: 2021-04-28T07:04:00Z

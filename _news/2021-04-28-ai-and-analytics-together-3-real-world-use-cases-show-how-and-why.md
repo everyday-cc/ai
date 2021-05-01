@@ -50,20 +50,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Graph Analytics Powers Insights in Financial Services"
-    excerpt: "When a new technology emerges, financial services firms often are among the first adopters. Anything that can provide banks, investment houses, or"
-    publishedDateTime: 2021-04-26T21:38:00Z
-    webUrl: "https://www.datanami.com/2021/04/26/graph-analytics-powers-insights-in-financial-services/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/fintech_shutterstock_-Jirsak.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "gFDpDsres7hrSZDWXqbDyXtFLwqk2C5jq3SPkBINfcWiCePkZ8ks6nQfo7anlxBNucll4rfhfPKDUg+JW1xtBC5l4mrrwf7SdPPkZyiJslaG9pjxrO9oCrmwkobejPS027F+8VYchDOuyWVBaHveoCYw4ZjXqLv461ujG+nFJ8ceWx95YdK5t9+Q40EvwnbN+ImmJMCcu+zd/0HK13RhZr4Xy8z6XlRgC/ffklkGaB89yrEzMMRPVFMNdb67w+fWUO/LQFQyf90Eswcm+ZnBx+pEnKOONUlNNYJ/5YzjGGUZ5D0iaST66IfPIvuiqCtGODcNEmuqmb4N72wklvRylgnzviq12CMGvBZQyyC3ZHs=;3DmJtkMQiamZREapLi1Apw=="
 ---

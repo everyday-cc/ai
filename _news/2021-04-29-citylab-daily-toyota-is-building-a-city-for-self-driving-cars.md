@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-dail
 webUrl: "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-daily-toyota-is-building-a-city-for-self-driving-cars"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Bloomberg
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Hyperdrive Daily: The Self-Driving Car Race Hardly Matters"
-    excerpt: "Welcome to the Hyperdrive daily briefing, decoding the revolution  reshaping the auto world, from EVs to self-driving cars and beyond."
-    publishedDateTime: 2021-04-30T11:31:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-04-30/hyperdrive-daily-the-self-driving-car-race-hardly-matters"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWE7ospu7tSc/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "xl8HjEyuDb4iHM/iwa33lJQuyLOOXuspF6rd1InrR3aSrj1wFas0RYRGAa4SkvqYYsSaA8u07k6V1S4EZ/ioDlIyRZ9YalmQOGpBaZ4soHEynZNVRe5Bo5MrlGrdngeWFD5OpK2LXXcwqLh1sNG0za7zp+aObMB/TKh5OjIR4Ru9JwG4IrkNv61NQXqLKITRNRUudm2q6yfYHuzFSBxwwiGe01TWywJRhobAadeHnWOZbrgqgMH90lQq3uzlsRyAlkuDJJXjUbaWlbsEdIoyTusOPpXu0/PFmbaKjqWLoeKn/zuMzomu0fKx5MqRDZA/mM/7qdhpTNYDFvXhGfX/PAE9y6BtBpWPUi+s6upk9vKL2/qukY0rxaUR/1dS0LQ5MYcuYgPxVHhMQn2dNyKXgJK5oFf/Af144erJtq4HiB/TW/x/+znOo87E6e4oPAE/HlChwfJdGuWfEkATGqAupjgSqePiVrAMRy9p4aZWp1KOyshKBCwiGe7aOL6/wi24OZIPwihWMSIyeIXyKfNUIg==;gs0srqPrxk16jgNfi2koAQ=="
 ---
