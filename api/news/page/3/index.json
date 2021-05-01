@@ -156,7 +156,7 @@
       "originalUrl": "https://www.zdnet.com/article/ibm-buys-turbonomic-to-build-out-aiops-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -691,6 +691,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-29-citylab-daily-toyota-is-building-a-city-for-self-driving-cars.md",
+      "title": "CityLab Daily: Toyota Is Building a City for Self-Driving Cars",
+      "excerpt": "Also today: a look at southern California’s battle with drought, and could Pittsburgh to be a hub for Black venture capital?",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-daily-toyota-is-building-a-city-for-self-driving-cars",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-daily-toyota-is-building-a-city-for-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iScKzdV._Y9A/v0/1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-leaked-ai-report-could-hint-at-future-for-us-regulation.md",
       "title": "Leaked AI report could hint at future for US regulation",
       "excerpt": "Greg Nichols tells Karen Roby that the EU takes lead on AI regulation, trying to stay ahead of evolving tech. Read more:",
@@ -1106,7 +1158,7 @@
       "originalUrl": "https://www.dqindia.com/building-intelligent-future-payments-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1141,72 +1193,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-28-how-watson-assistant-helps-clients-stay-compliant-in-regulated-industries.md",
-      "title": "How Watson Assistant helps clients stay compliant in regulated industries",
-      "excerpt": "When selecting a conversational AI platform for use in a regulated industry, remember that cutting corners can have disastrous consequences. When virtual assistants aren’t developed and deployed with an eye toward regulatory compliance, customer experience will suffer. Even worse, your organization risks",
+      "path": "_news/2021-04-28-lyfts-sale-of-its-self-driving-tech-unit-to-toyota-for-550-million-moves-its-profit-timeline-up.md",
+      "title": "Lyft's sale of its self-driving tech unit to Toyota for $550 million moves its profit timeline up",
+      "excerpt": "The deal with Toyota's Woven Planet division will allow Lyft to hit its profitability target one quarter earlier, the company said.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/watson-assistant-compliance-regulated-industries/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/watson-assistant-compliance-regulated-industries/",
+      "webUrl": "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4",
+      "originalUrl": "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC_48D_WA-_Managing_compliance_and_CX_in_regulated_industries_V2_2000x1006.png.png",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T06:00:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-the-current-state-of-the-healthcare-ai-revolution.md",
-      "title": "The Current State Of The Healthcare AI Revolution",
-      "excerpt": "With the global AI in healthcare market size expected to grow from just under $5 billion in 2020 to $45.2 billion by 2026, the investments and recent use cases for this technology are proof that AI is here to stay.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg",
+          "url": "https://i.insider.com/608731be3f0560001881c2a2?width=1200&format=jpeg",
           "width": 1200,
-          "height": 900,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1214,16 +1215,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/amp/",
-      "publishedDateTime": "2021-04-28T04:20:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4?amp",
+      "publishedDateTime": "2021-04-28T06:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1239,8 +1240,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

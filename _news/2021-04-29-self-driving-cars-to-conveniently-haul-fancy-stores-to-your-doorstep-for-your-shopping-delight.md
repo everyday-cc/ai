@@ -77,6 +77,20 @@ related:
         width: 960
         height: 413
         isCached: true
+  - title: "With Lyft selling its self-driving division, the market will be dominated by a few rich companies"
+    excerpt: "As the self-driving car industry shifts from hype to disillusionment, the market is slowly consolidating into a few very big players."
+    publishedDateTime: 2021-05-01T14:40:00Z
+    webUrl: "https://thenextweb.com/news/with-lyft-selling-its-self-driving-division-the-market-will-be-dominated-by-a-few-rich-companies"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 41
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fself-driving-lyft.jpg&signature=5d2df59184d62d65fa5b8cdee35cbf0d"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "9x7qsQ8vmO0JR1DIDPmPjEnN16ghbY3eNjAg6hRyWURxmoUkCUGz6tiy3qkFB+EEofDLO5OO+7PaMuBfyvEvlrr+IhcRSXmHCfhge44chv/54t65+Nlimi9/nXn/u5osQ6eFIlBJtovUuPESybHPM6+50vpvrzHLhZZDCjtqoukuvSLjVYbPhkKDQqyEj9ul91/vi+jsYaMDH/YRdaiqRhhNF1SlvGsxJ0M+3JBU2QmNrisd5Adi2SE6S/k653evxL7GNUe45skvkJ2XZxhB4WcdsNbhByyXiqRJty+hQOHYC90BQTVlm5fiCZGMdofUIM8vjFtjpGKbaZE4Se+/SZe8zcBYAiR2qs/BGxAZ/RKr52YJ/M04dzyGeY+iKB4N/K0CthIJ8o9eJugUN15CC93oiz/x3rIxShTwdyVaRyWY1cOjmTs8opO7xEJSlyQCyYw0kNMbXuDgDXMvKv/2Z70Owgd8QZUqg1yzMTK40g+kjP7tRRE1ivTRWAOpqhYEGlqL63JYuxKwCilAtNSDrw==;dem6ui0ga3ILFAnrnlNTBw=="
 ---

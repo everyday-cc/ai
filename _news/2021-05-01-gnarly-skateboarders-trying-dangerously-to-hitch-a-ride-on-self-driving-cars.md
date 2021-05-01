@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboard
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/04/GettyImages-168495211-ae2e539.gif?quality=90&crop=4px,51px,913px,393px&resize=960,413"
         width: 960
         height: 413
+        isCached: true
+  - title: "With Lyft selling its self-driving division, the market will be dominated by a few rich companies"
+    excerpt: "As the self-driving car industry shifts from hype to disillusionment, the market is slowly consolidating into a few very big players."
+    publishedDateTime: 2021-05-01T14:40:00Z
+    webUrl: "https://thenextweb.com/news/with-lyft-selling-its-self-driving-division-the-market-will-be-dominated-by-a-few-rich-companies"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 41
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fself-driving-lyft.jpg&signature=5d2df59184d62d65fa5b8cdee35cbf0d"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "933YELukfRs3vxPqxeWDb9H7XAyTnBkDz1zSC8287mTqY0Nt88fWduh3c+wWpkBsbtM4O0/v1LOtHQXTp9OkPzQH0FaveT0da5otppLqy1bsthVViD7schauqrn3CeW6jZora7uVieX6mefHXhpfC9JKPeYE7CxUe/F1kXuosAWWF0HXaEsyk1FLwxYSZrq/d/B7z+m7wotsDUw93FTjkrCHAAQQgOZ4MAXbTfmzaUmpPaseavUz/iWgOuy7LkqQUjTFaOa+tt4bpBMicoNf1zVg0z/SwgHUoo1zlPwUgORD8ECtT0cNN0sOtxL5mJlbqrBE+rMusG+NeKxJJGnhaBdBrW8P9+tjx2ibPyHQgQX6HLH/K/6Cru3j+osCbl70UQTEx9NEe642mRpo6S+ymPR2bm9fAGwsaQ7+5UnR+tyAPZHwwuHlM6SXoCmUWdgmWJuourxpT0M38oDOTn3w5gnoihUsxkF/fHlWy/JzOkSsiCBpgxmfSkZn28nLConZwxTZbKT3dOeOvlVnuol5aw==;LA3T8rLJMKU3W6PVAE0tAw=="

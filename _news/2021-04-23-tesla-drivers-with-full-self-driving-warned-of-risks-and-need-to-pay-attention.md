@@ -3,18 +3,13 @@ category: news
 title: "Tesla drivers with 'full self-driving' warned of risks and need to pay attention"
 excerpt: "Tesla CEO Elon Musk said in March that about 2,000 Tesla owners were able to use \"full self-driving\" and the company revoked the beta program to drivers who did not pay sufficient attention to the road."
 publishedDateTime: 2021-04-23T00:32:00Z
-originalUrl: "https://www.kcra.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-webUrl: "https://www.kcra.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-ampWebUrl: "https://www.kcra.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+originalUrl: "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+webUrl: "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
-  name: KCRA
-  domain: kcra.com
+  name: WBALTV11
+  domain: wbaltv.com
 
 topics:
   - AI in Autos
@@ -26,63 +21,6 @@ images:
     height: 678
     isCached: true
 
-related:
-  - title: "Tesla owners warned of 'full self-driving' risks even before fatal crash"
-    excerpt: "Tesla's \"full self-driving\" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns, clipped at least one curb ..."
-    publishedDateTime: 2021-04-23T16:43:00Z
-    webUrl: "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.html"
-    ampWebUrl: "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html"
-    cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html"
-    type: article
-    provider:
-      name: CBS Atlanta
-      domain: cbs46.com
-    quality: 58
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/5/39/5391c1d9-c758-5594-a62e-1b650d5d0199/6082f09709609.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Tesla crash in Texas shouldn't diminish hopes for self-driving trucks"
-    excerpt: "Deadly Tesla crash raises concerns about the future of self-driving trucks. Will computer-assisted driving emerge a winner? Read CCJ to find out."
-    publishedDateTime: 2021-04-23T12:49:00Z
-    webUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-despite-fatal-tesla-crash-in-tx"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 39
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/04/Screen_Shot_2021_04_22_at_4.28.57_PM.6081e6d47640f.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 608
-        isCached: true
-  - title: "Three reasons 'self-driving' cars are still a long way off"
-    excerpt: "The recent crash of a Tesla car in the United States, in which two people died, has reignited debate about the capabilities and safety of today's \"self-driving\" technologies."
-    publishedDateTime: 2021-04-22T14:00:00Z
-    webUrl: "https://techxplore.com/news/2021-04-self-driving-cars-1.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 24
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/selfdrivingc.jpg"
-        width: 1356
-        height: 668
-        isCached: true
-  - title: "Tesla crash becomes subject of multiple investigations as it revives questions about self-driving cars"
-    excerpt: "After a fatal crash in Texas last week involving a Tesla with no one behind the wheel raised interest in self-driving cars, multiple federal agencies are investigating the electric car company."
-    publishedDateTime: 2021-04-24T14:30:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/tesla-crash-revives-questions-self-driving-cars?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 23
-
-secured: "VzgttqnWJIG/H3rUtCtfJaqigtVEhN91aXnZgBiw56RRPks+YnsFGNDLMswKdeZt+5E6CNbbfc3O6XDtCPJkNwWLgUy9cX27BPfwKK7FsQI1tXoG3ZEpZRDQFjeRrMUZvnJi1JGOBXka7LiiqwSy+chvQzwS8yP0sW6wVtXBEXijBC2Y5FHEfiTu87En80Azbjikz/ou2SCdr1dTWiC1vFZRlpUlm17OFdygfJHRmzJtNA/rqmYGIDDOpMF3R67ekxJjHEYYjLlXDEcLvBZVeaZycSM0yL/YMY3SbDPbZiKujRUePEouTZu0rf/KtQbEneCTAB+n6TbbNNOzTtOqgqQt8C65pOG0CCUWY4xC+W6Kd5W0uUv44cfLEhSgw2TEJm+qshfK1up0n/BOZjGc+BOCs8qm30STvQ01SJLy+Q9krPUuAceHuXwTmS1ozMEMDfWjbxh6R5VBioN5s79SKZnPDOe/amVbv7gx8dmyAOFzZfLn5XBPISsbtg636BY101Qg01obdotfgLdy/q5WMA==;+3csv4RsYbClThhTZ2rh6A=="
+secured: "OWhezuhDHfb0cXoH2CfrXcQvRksSJCds07PlOFrz3JJ3qL1iDMyUKWaLfZZzH8kJIBwtl6jJotPbUIPQbaGnCAjGSrYCpSqxIYqijDAHpa6yS98mQBwrPFhRENkcOTH4mjbqH7iEZ+WNdD25b3yLcwaIxJKLhbKVyn1TPOjz0Bfo3+V57JoWmuNepfAO+Elz8uxpwQwrZc6WISvwk8YTU8W7Y9xAuiohL1jjIDDejR8TypSiAf/JJQ4Bex+1F5+DR+A7CJe40j0QtRqZFhjKxtYxM2NluGRHnx7pCd7rgffcyzIMwJa0Cz/OYX8c5WaX5zKg5bxm45lqf0cO65rIYimBnNxZRhgsZZTe8rgb9BM=;NlKVEQooURBaGt6YE11SyQ=="
 ---
 

@@ -35,22 +35,6 @@ related:
         width: 330
         height: 211
         isCached: true
-  - title: "AI at work isn’t always intelligent"
-    excerpt: "With AI spreading quickly but quietly into people’s homes, it is timely that the EU published draft rules last week on how it should be used in a range of different settings. The proposed rules say that AI used for “the recruitment and selection of persons,"
-    publishedDateTime: 2021-04-27T04:00:00Z
-    webUrl: "https://www.ft.com/content/7f006161-f8d4-49cc-a885-59e88313e16e"
-    ampWebUrl: "https://amp.ft.com/content/7f006161-f8d4-49cc-a885-59e88313e16e"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7f006161-f8d4-49cc-a885-59e88313e16e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2d1ef53e-a05f-4660-b6db-17b627536f96.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Fintech Sector Snapshot: Artificial Intelligence to Play a Major Role in the Future Growth of the Credit Card/Payment Industry"
     excerpt: "April 28, 2021) - Investorideas.com (  a global investor news source covering Artificial Intelligence (AI) and Fintech issues a sector snapshot looking at how AI will play a leading role in the future growth of the credit card/payment industry,"
     publishedDateTime: 2021-04-28T12:02:00Z

@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-20-ishares-robotics-and-artificial-intelligence-etf-built-for-the-future.md",
+      "title": "iShares Robotics and Artificial Intelligence ETF: Built For The Future",
+      "excerpt": "Shares Robotics And Artificial Intelligence ETF - While the potential for growth is phenomenal, risks like significant foreign exposure and regulatory action are something to keep an eye on",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "originalUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1204583853/medium_image_1204583853.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "publishedDateTime": "2021-04-20T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-autoshow-baidu-expects-to-supply-self-driving-system-to-1-mln-cars-in-3-5-years.md",
+      "title": "AUTOSHOW-Baidu expects to supply self-driving system to 1 mln cars in 3-5 years",
+      "excerpt": "SHANGHAI, April 19 (Reuters) - Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice ...",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/autoshow-shanghai-baidu-idCNL1N2MB06V",
+      "originalUrl": "https://cn.reuters.com/article/autoshow-shanghai-baidu-idCNL1N2MB06V",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559010206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3I04N",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2MB06V",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2MB06V",
+      "publishedDateTime": "2021-04-20T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-baidu-stock-3-reasons-to-stay-away.md",
+      "title": "Baidu Stock: 3 Reasons To Stay Away",
+      "excerpt": "As for the autonomous technology, Baidu has certainly made progress. The Apollo Self Driving (ASD) system was able to snag partnerships with ten local and multinational automakers. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/",
+      "originalUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/amp/",
+      "publishedDateTime": "2021-04-19T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens.md",
       "title": "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens",
       "excerpt": "Stock Market News, Stock Advice & Trading Tips. Shares of Chinese search giant Baidu (NASDAQ:BIDU) look to have finally found a floor after a sharp selloff. BIDU s",
@@ -1207,144 +1346,6 @@
         "name": "Insider Monkey",
         "domain": "insidermonkey.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-travelcenters-of-america-opens-6th-wisconsin-store.md",
-      "title": "TravelCenters of America opens 6th Wisconsin store",
-      "excerpt": "Golden Oil Osseo Truck Stop off I-94, between Madison and Minneapolis, is converting to a TA Express through a franchise agreement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/news/press-release/21160910/travelcenters-of-america-opens-6th-wisconsin-store",
-      "originalUrl": "https://www.fleetowner.com/news/press-release/21160910/travelcenters-of-america-opens-6th-wisconsin-store",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/04/16x9/dreamstime_l_109107157.607449e2b6375.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-huawei-to-invest-1-billion-on-auto-technology.md",
-      "title": "Huawei to invest $1 billion on auto technology",
-      "excerpt": "Huawei Technologies Co. plans to invest $1 billion on researching self-driving and electric-car technologies, accelerating plans to compete with Tesla Inc. and Xiaomi Corp. in the world’s biggest vehicle arena.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/china/huawei-invest-1-billion-auto-technology",
-      "originalUrl": "https://www.autonews.com/china/huawei-invest-1-billion-auto-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/huwai.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-teslas-ai-is-about-to-get-better-and-not-just-for-full-self-driving.md",
-      "title": "Tesla’s AI is about to get better, and not just for Full Self-Driving",
-      "excerpt": "While Tesla is famous for its investment in artificial intelligence for self-driving technology, the automaker has also been using its expertise in machine learning and other branches of AI to ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
-      "originalUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/",
-      "publishedDateTime": "2021-04-12T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

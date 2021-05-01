@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -201,7 +201,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-29/waymo-s-new-ceos-say-self-driving-unit-eyes-more-outside-funding",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -329,6 +329,110 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-citylab-daily-toyota-is-building-a-city-for-self-driving-cars.md",
+      "title": "CityLab Daily: Toyota Is Building a City for Self-Driving Cars",
+      "excerpt": "Also today: a look at southern California’s battle with drought, and could Pittsburgh to be a hub for Black venture capital?",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-daily-toyota-is-building-a-city-for-self-driving-cars",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-daily-toyota-is-building-a-city-for-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iScKzdV._Y9A/v0/1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-lyfts-sale-of-its-self-driving-tech-unit-to-toyota-for-550-million-moves-its-profit-timeline-up.md",
+      "title": "Lyft's sale of its self-driving tech unit to Toyota for $550 million moves its profit timeline up",
+      "excerpt": "The deal with Toyota's Woven Planet division will allow Lyft to hit its profitability target one quarter earlier, the company said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4",
+      "originalUrl": "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/608731be3f0560001881c2a2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4?amp",
+      "publishedDateTime": "2021-04-28T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -845,6 +949,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-23-tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention.md",
+      "title": "Tesla drivers with 'full self-driving' warned of risks and need to pay attention",
+      "excerpt": "Tesla CEO Elon Musk said in March that about 2,000 Tesla owners were able to use \"full self-driving\" and the company revoked the beta program to drivers who did not pay sufficient attention to the road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726",
+      "originalUrl": "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-78bff9e09592ac40812b9419af7e3a5a-h-0e4f79b782d2eb65a5d8a78692543a89-1619141465.jpg?crop=1.00xw:0.847xh;0,0.0384xh&resize=1200:*",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBALTV11",
+        "domain": "wbaltv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-deepracer-web-server-package.md",
       "title": "DeepRacer Web Server Package",
       "excerpt": "The DeepRacer Web Server ROS package creates the web_publisher_node which launches a Flask application as a background thread and creates service clients and subscribers for all the services and",
@@ -1303,145 +1450,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-ishares-robotics-and-artificial-intelligence-etf-built-for-the-future.md",
-      "title": "iShares Robotics and Artificial Intelligence ETF: Built For The Future",
-      "excerpt": "Shares Robotics And Artificial Intelligence ETF - While the potential for growth is phenomenal, risks like significant foreign exposure and regulatory action are something to keep an eye on",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "originalUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1204583853/medium_image_1204583853.jpg",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
-      "publishedDateTime": "2021-04-20T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-autoshow-baidu-expects-to-supply-self-driving-system-to-1-mln-cars-in-3-5-years.md",
-      "title": "AUTOSHOW-Baidu expects to supply self-driving system to 1 mln cars in 3-5 years",
-      "excerpt": "SHANGHAI, April 19 (Reuters) - Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice ...",
-      "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/autoshow-shanghai-baidu-idCNL1N2MB06V",
-      "originalUrl": "https://cn.reuters.com/article/autoshow-shanghai-baidu-idCNL1N2MB06V",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559010206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3I04N",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2MB06V",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2MB06V",
-      "publishedDateTime": "2021-04-20T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-baidu-stock-3-reasons-to-stay-away.md",
-      "title": "Baidu Stock: 3 Reasons To Stay Away",
-      "excerpt": "As for the autonomous technology, Baidu has certainly made progress. The Apollo Self Driving (ASD) system was able to snag partnerships with ten local and multinational automakers. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/",
-      "originalUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/amp/",
-      "publishedDateTime": "2021-04-19T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
