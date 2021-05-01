@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Baidu to Open China's First Public Commercial Robotaxi Service Without Safety Drivers on May 2"
-excerpt: "China’s technology giant Baidu Inc. is launching the first commercial robotaxi service in the country on May 2 after months of successful testing using safety drivers. Beginning next week, members of the public can hail one of Baidu’s driverless vehicles without a safety driver behind the wheel."
-publishedDateTime: 2021-04-29T17:30:00Z
-originalUrl: "https://www.futurecar.com/4583/Baidu-to-Open-Chinas-First-Public-Commercial-Robotaxi-Service-Without-Safety-Drivers-on-May-2"
-webUrl: "https://www.futurecar.com/4583/Baidu-to-Open-Chinas-First-Public-Commercial-Robotaxi-Service-Without-Safety-Drivers-on-May-2"
+title: "Baidu's self-driving $5 taxis hit Beijing park in Olympic warm-up"
+excerpt: "The Apollo Go service will be available starting Sunday in Shougang Park on the outskirts of Beijing -- one of the venues of the 2022 Winter Olympics. \"Introducing unmanned services is an indispensable stage for the commercialization of autonomous driving,"
+publishedDateTime: 2021-05-01T01:30:00Z
+originalUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-s-self-driving-5-taxis-hit-Beijing-park-in-Olympic-warm-up"
+webUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-s-self-driving-5-taxis-hit-Beijing-park-in-Olympic-warm-up"
 type: article
-quality: 27
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: futurecar
-  domain: futurecar.com
+  name: NIKKEI
+  domain: nikkei.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://img.futurecar.com/202104/29/l_608af1f7b751a.jpeg"
-    width: 720
-    height: 480
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F6%252F9%252F3%252F33963963-5-eng-GB%252FCropped-161980631120210430N%2520Baidu%2520taxi.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+    width: 1024
+    height: 512
     isCached: true
 
 related:
@@ -161,21 +161,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Baidu's self-driving $5 taxis hit Beijing park in Olympic warm-up"
-    excerpt: "The Apollo Go service will be available starting Sunday in Shougang Park on the outskirts of Beijing -- one of the venues of the 2022 Winter Olympics. \"Introducing unmanned services is an indispensable stage for the commercialization of autonomous driving,"
-    publishedDateTime: 2021-05-01T01:30:00Z
-    webUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-s-self-driving-5-taxis-hit-Beijing-park-in-Olympic-warm-up"
+  - title: "Baidu to Open China's First Public Commercial Robotaxi Service Without Safety Drivers on May 2"
+    excerpt: "China’s technology giant Baidu Inc. is launching the first commercial robotaxi service in the country on May 2 after months of successful testing using safety drivers. Beginning next week, members of the public can hail one of Baidu’s driverless vehicles without a safety driver behind the wheel."
+    publishedDateTime: 2021-04-29T17:30:00Z
+    webUrl: "https://www.futurecar.com/4583/Baidu-to-Open-Chinas-First-Public-Commercial-Robotaxi-Service-Without-Safety-Drivers-on-May-2"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
+      name: futurecar
+      domain: futurecar.com
+    quality: 27
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F6%252F9%252F3%252F33963963-5-eng-GB%252FCropped-161980631120210430N%2520Baidu%2520taxi.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
+      - url: "https://img.futurecar.com/202104/29/l_608af1f7b751a.jpeg"
+        width: 720
+        height: 480
         isCached: true
 
-secured: "iu2t+rqF/unwuEPWkVfGYmNpPYDMonYUozoQPFrIUmnz1RTvuXIyzpdJow7/6v9Slrdn4IRyWIn53Pxi7UIcO479xcXkr3UoM947a0UEqOQ2IsV7K1rAahbB4NFk0hwWEPQhW98Uhck/zs7vNjrFKo4XWp3kw/9T1eYcGKAwxNmAdWpgpDbB/Ju1r4x3Wo1Fv2cw+0WVSA6hwYhFLyhnlHqxcx1nWK1PT/B3FvsH3Jo+gZJ+YvfqsXkqqpX/9AD/1++k9LMhSZizh/GTP0z9+OqQZp9OQOwDtO1gu9XArzp4wEG9LLPgC19PHHG/tjcIU3m7J1tRMjfex0Szpb2PpbaqqZaxvs8J6HuNfHdPK/4tDl0RxCmg2YZ9D5ZqfyFcB3tR76KgKl9V4yaCuFUDguhUefbIXZnFn/uXA1tLigV2Aad51VkG8Vulmwzlb/glFzgT7Oagm4GuM7HghuT+7hGqpsGxW915C9RHyJqjzeB76Gipdlp2LI/UcRkpFdMVi5mT9uxVhigD3D+qYizJnw==;yXaNrE8BTyhD0jnpk0KN5w=="
+secured: "UR/yn6hpkRBaPMW0a5b+aJJjRpkv7FWqsHDBp4yHgQvohv3tvlSl63ksRiL1hAynmHwJ5pTMIga9gAPWtHLghR1ODONbl6+bHHR7ZyzBEpgvmSxzO1grmcs+aSJXNt+pHAb2kTqHdXtDlpe757mSUpaeUqyEv+D6arAPnytR4iMy4bbQQ5OZQCJlK9tOMQAuGvoZwiBrvoTHz9RKyRDVZP/K9joasmudQEYCoo9mP7g/8O/ukzxIrllrE7Jfiqvclo7TXHHXOkvAF6wg78BaUECxzG7q0BIE55+FEKLlik4k3e1Ftmj+mNF4YU2DZyeQFW9LWVSfDlsXFKyc9952YtvFjH2wiw8sipQ1+pzYjl8=;w/YmhVjhCpTSxHuaILzkmg=="
 ---
 

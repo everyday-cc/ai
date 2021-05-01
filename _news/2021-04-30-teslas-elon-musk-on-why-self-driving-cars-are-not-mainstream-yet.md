@@ -1,37 +1,48 @@
 ---
 category: news
-title: "Tesla is becoming more of an artificial intelligence and robotic company, says Elon Musk"
-excerpt: "Elon Musk made the argument that Tesla is going to be known more as an artificial intelligence and robotic company. For a while now, Musk has been pushing this idea that investors shouldn’t just see Tesla as an automaker and energy company,"
-publishedDateTime: 2021-04-27T13:56:00Z
-originalUrl: "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/"
-webUrl: "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/"
-ampWebUrl: "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/"
-cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/"
+title: "Tesla’s Elon Musk on why self-driving cars are not mainstream yet"
+excerpt: "Tesla CEO Elon Musk is giving a fresh update on his prediction for when self-driving cars will dominate the road."
+publishedDateTime: 2021-04-30T16:57:00Z
+originalUrl: "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet"
+webUrl: "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet"
+ampWebUrl: "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet.amp"
+cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet.amp"
 type: article
-quality: 112
-heat: 152
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
-  name: Electrek
-  domain: electrek.co
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg"
-      width: 50
-      height: 50
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
   - AI in Autos
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/02/tesla-xray-2-e1455320423724.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    width: 1200
-    height: 628
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/354b3471-ec18-4e0d-adf1-b9f9b9657488/c4e9132a-a8aa-4fdc-bdb0-496e44323a6b/1280x720/match/image.jpg?pubId=854081161001"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
+  - title: "Tesla is becoming more of an artificial intelligence and robotic company, says Elon Musk"
+    excerpt: "Elon Musk made the argument that Tesla is going to be known more as an artificial intelligence and robotic company. For a while now, Musk has been pushing this idea that investors shouldn’t just see Tesla as an automaker and energy company,"
+    publishedDateTime: 2021-04-27T13:56:00Z
+    webUrl: "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/"
+    ampWebUrl: "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 112
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/02/tesla-xray-2-e1455320423724.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk: Tesla’s next Full Self-Driving Beta update ‘will blow your mind’"
     excerpt: "Elon Musk now says that Tesla’s next Full Self-Driving Beta software update ‘will blow your mind’ and it’s only about two weeks away. Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through what it calls its “early access program”."
     publishedDateTime: 2021-04-29T10:02:00Z
@@ -64,22 +75,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla’s Elon Musk on why self-driving cars are not mainstream yet"
-    excerpt: "Tesla CEO Elon Musk is giving a fresh update on his prediction for when self-driving cars will dominate the road."
-    publishedDateTime: 2021-04-30T16:57:00Z
-    webUrl: "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet"
-    ampWebUrl: "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 74
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/354b3471-ec18-4e0d-adf1-b9f9b9657488/c4e9132a-a8aa-4fdc-bdb0-496e44323a6b/1280x720/match/image.jpg?pubId=854081161001"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Elon Musk says new Tesla self-driving update is ‘superhuman’ — here’s why"
     excerpt: "Elon Musk has been taking up the upcoming debuts of the Tesla Full Self-Driving beta, claiming that the tech is “superhuman” when it comes to driving on highways and “swiftly getting there for city streets."
     publishedDateTime: 2021-04-30T18:27:00Z
@@ -97,6 +92,6 @@ related:
         height: 270
         isCached: true
 
-secured: "6ez78299teJ8hRfOrLnFk3poBe7HbzgR61NXiYTQNVh4sizpXhz8pl4kp1TVXNkY+5kox9IF+WvJyy/n61Pzwpg82nq8/StfkBYOXwU+EgTp5me2rVWGXBdSGOhpF3JU8aMv+OSxH0JXwji5P3dgVGkbKabHWmwdeWGChT5PGMKWGuNUj3eRd9zSWDD6xtnz1nvipBjtF2BldyKN2iKf4zvnwtk+syOfv75yfglQHguz0foxlAuIjcIXj1+ySWaGgzRIlI+CICHZPpKmStEY8hjTi1nPsJUscodQL2bwQ3eYmKd+WNjCbPIxXJkzX0o4/2ERuTc1Twys4rl+j2F1IiIPu3YtcF3Yjj8FWRTBkBU8jsAhD3vGUZbi/lSdWZ7b2/Nfw+KRnT9hnOIdbU23HX8y/OIOB0olOCPunokXK9kQrEklROy6XsDbhaylHGw9Wx6sN2309v6YhIPis3DXYzfhaVj9bIkpdqRPdkzMz/g7PDcMWyfe08pMWRzXS2unn3fDPUP0EysKEcYnfzYaQA==;h1CNUTzkd0LylYyXHlhJLA=="
+secured: "iwvf0siOCWQcVeUBftqVhFpUboVZysmKz/fuPD2CdTTtMjPOawTayksOvxu23Qa5XyUgNRPZBPXuEPe5FuB5RlH6EJ00PbSBTGxwksGT+r3yGCQVg8dhYNiZlmKhhjRzUIEjyUkYUG8GMsGY8zMTR6pOs4y+DreexO6JCh2WhWDQG675ygiDnzFZxo8E36NjYRiD/bpg/ye+MXB5ral516G54DXVDAny4zkagJbLdVSN6Z7P5vGmkVKfXM6i2SGfOPCSOxxGcKB0haZsv50iWANgAb6epnX5fk+ekw8iEsygapv3L48ozD2X0sP02k1PpnMu2l7jrW6qowmELRjsIaPTTmvJ0fv3yJtV97YbrgI=;73gw1lXJSYxp2hqczPwo1w=="
 ---
 

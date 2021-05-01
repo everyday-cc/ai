@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.5468%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_18%2C$y_70/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_jpg/t_afr_opinion_no_age_social_wm/ec03012bdbbd24f82ee40f28e644ccf1a9838d23"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Baidu's self-driving $5 taxis hit Beijing park in Olympic warm-up"
+    excerpt: "The Apollo Go service will be available starting Sunday in Shougang Park on the outskirts of Beijing -- one of the venues of the 2022 Winter Olympics. \"Introducing unmanned services is an indispensable stage for the commercialization of autonomous driving,"
+    publishedDateTime: 2021-05-01T01:30:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-s-self-driving-5-taxis-hit-Beijing-park-in-Olympic-warm-up"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F6%252F9%252F3%252F33963963-5-eng-GB%252FCropped-161980631120210430N%2520Baidu%2520taxi.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Baidu to Open China's First Public Commercial Robotaxi Service Without Safety Drivers on May 2"
     excerpt: "China’s technology giant Baidu Inc. is launching the first commercial robotaxi service in the country on May 2 after months of successful testing using safety drivers. Beginning next week, members of the public can hail one of Baidu’s driverless vehicles without a safety driver behind the wheel."

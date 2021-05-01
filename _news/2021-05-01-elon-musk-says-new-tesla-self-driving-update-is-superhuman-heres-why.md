@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla’s Elon Musk on why self-driving cars are not mainstream yet"
+    excerpt: "Tesla CEO Elon Musk is giving a fresh update on his prediction for when self-driving cars will dominate the road."
+    publishedDateTime: 2021-04-30T16:57:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet"
+    ampWebUrl: "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 74
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/354b3471-ec18-4e0d-adf1-b9f9b9657488/c4e9132a-a8aa-4fdc-bdb0-496e44323a6b/1280x720/match/image.jpg?pubId=854081161001"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "t0BkSmGotUAMS348QcDPsJI/cyhMbB0E5GEqDPs3BrZEOemvY+n9PCumyd1sZHxu1Fru6INY/xrbVCHTxPqQwYODnWBqEzCccifSjjo+sUGQjhr3Atz+33DpMSWzdy7ReZ7HEjCW/7gzUVGdQa88kdZo9e61bX0lJKIb/I3aE/ur0RhaOsbf7C7mvtF5KWkf7gnqAzYJfxOh6a6cVTUtLKCs8xgKDuRCxSzHvfmPR1wzsDK4Ew8gdr3XleCkuODBHWv0owk3jal7opmUuKDWV/c82NmEKH05Nj7VPWftF+qry9Yxf58+F0ARFEN0hbRB0P22Ah6jSKCN9YeE//G4lV1FoTiFQW+1wKxnFxWBh0pjI9RDM+ejz67aL/aZzyTAejlmL26gU23qKhHZ4vQVozWJYA8HfKLYzj86KeCkqLl9+Ps3d1EQY3R6jt9DfzwSrT6sJxycVrzqCzoZSNhdzaz2uwyquWc1L4j+C4chs4SNntC6d0zRVbr186Rl/l/R2ZA0clBExOgT99kQkz8Kpw==;fKqtkjDStDUrtPS0d7f7zg=="
 ---
