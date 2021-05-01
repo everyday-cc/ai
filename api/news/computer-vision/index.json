@@ -256,19 +256,19 @@
     {
       "path": "_news/2021-04-26-apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale.md",
       "title": "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale",
-      "excerpt": "AppTek is trusted by some of the world's leading cloud and technology companies to power their conversational speech, text and image-based AI models through its managed data services program. To create the robust data sets required for these high-performing AI models,",
+      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1496629/AppTek.jpg?p=facebook",
-          "width": 1614,
-          "height": 845,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630",
+          "width": 880,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -281,8 +281,8 @@
       "publishedDateTime": "2021-04-26T09:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -292,26 +292,27 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
       "path": "_news/2021-04-26-inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies.md",
       "title": "Inpixon Enters Rapidly Growing Mobile Augmented Reality Market with Acquisition of AR, Computer Vision and 3D Reconstruction Technologies",
-      "excerpt": "Inpixon (Nasdaq: INPX), the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality (AR),",
+      "excerpt": "Inpixon (Nasdaq: INPX), the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality (AR), computer vision, localization, navigation,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies-1030346080",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies-1030346080",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and/article_e539a97e-610b-56d5-a445-250c4715d9aa.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and/article_e539a97e-610b-56d5-a445-250c4715d9aa.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1496098/Inpixon_AR_warehouse1.jpg",
-          "width": 400,
-          "height": 216,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/14/814cb6da-7b5a-58cd-b155-8088ec494826/6086c0903284d.image.jpg?resize=887%2C478",
+          "width": 887,
+          "height": 478,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -321,21 +322,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T06:40:00-07:00",
+      "publishedDateTime": "2021-04-26T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

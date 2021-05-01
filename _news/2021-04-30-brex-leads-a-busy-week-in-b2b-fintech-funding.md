@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/brex-leads-busy-week-i
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/brex-leads-busy-week-in-b2b-fintech-funding/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Today In B2B: ForwardAI On Faster SMB Finance; Battery Ventures' SaaS FinTech Focus"
-    excerpt: "Today in B2B payments, ForwardAI talks faster small business lending, Battery Ventures invests in SaaS FinTechs and Allica Bank launches direct-to-SMB banking."
-    publishedDateTime: 2021-04-26T23:58:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/amp/"
+  - title: "Fintech in 2021: The Year’s Hottest Trends so Far, According to the Experts"
+    excerpt: "The financial and fintech worlds were turned completely upside down. Companies were forced to adapt to a rapidly-changing set of restrictions and challenges; customers had an ever-evolving set of needs,"
+    publishedDateTime: 2021-04-27T10:53:00Z
+    webUrl: "https://www.financemagnates.com/cryptocurrency/news/fintech-in-2021-the-years-hottest-trends-so-far-according-to-the-experts/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 68
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/B2B-ForwardAI-SMB-banking-Mastercard-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 2
 
 secured: "Dzk/zoukwms/VE+1pyJT4VI6QeCd9ebm2FmzlU5Ll/AK0T2iU2dzpQeTngpyjHfguAcZRR55oWLQy8RDZuGAVVenri97SBGl0VKUonOuJFeXNqY58ywJHvdVaVNSa5taY9/ZGTE3CKLme8vaK05RhSyxUDpjwIoL08hVwYm6cY7lZmmSTabkY06W57bO4mAJc4MATBaRWZ92hDM1QKODofInosHoRuJrhC/PNrNwb5JPGH7/8I40M7dSeC0CuZQAUL+SX3zJZtuUsoA1uafe3fEplLFc2DaP75JrRuDD2TO7JU0Aze8U7NgGCU09HC1sehIg5T/kLdpWexYVZFRyvHz+IZi3cDhEyfpTxQs07J9Nkow1FMpElUF4F1Wa2NLTlZoB6BDGuzxgdFIaKxjyBn+zLqzNNPZcZshxPY7ADtjXN4pVQUG6y5SsILJuK9Al57lDUX7+uEiYxzLdVB52WjrviaqQEzC2vBCKJuLyX98ZgIgSeMnoTxWCwKj8Yadw9PUCWn+LsPa9kQOXXJa1bQ==;URgb+2MCbMTHMxVU16eU8w=="
 ---

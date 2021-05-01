@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-17-how-one-founder-build-a-startup-around-compassion-facilitated-by-ai.md",
+      "title": "How one founder build a startup around compassion facilitated by AI",
+      "excerpt": "In the second episode of our new podcast Found, our guest is Brie Code. Code is the founder and CEO of TRU LUV, a startup based out of Toronto that has its roots in the game industry, but that is taking a radically different approach to designing interactive experiences based on a",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/17/how-one-founder-build-a-startup-around-compassion-facilitated-by-ai/",
+      "originalUrl": "https://techcrunch.com/2021/04/17/how-one-founder-build-a-startup-around-compassion-facilitated-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/found-featured-brie.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/17/how-one-founder-build-a-startup-around-compassion-facilitated-by-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/17/how-one-founder-build-a-startup-around-compassion-facilitated-by-ai/amp/",
+      "publishedDateTime": "2021-04-17T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-evolving-self-replicating-robots-are-here-but-dont-worry-about-an-uprising.md",
       "title": "Evolving, self-replicating robots are here — but don’t worry about an uprising",
       "excerpt": "Self-replicating robots are a staple of apocalyptic science fiction movies, but now the idea has made the jump from fiction to reality.",
@@ -1092,49 +1143,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
-      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
-      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

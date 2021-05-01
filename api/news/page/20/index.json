@@ -2,6 +2,40 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-04-12-trustworthy-medical-ai-systems-need-to-know-when-they-dont-know.md",
+      "title": "Trustworthy medical AI systems need to know when they don’t know",
+      "excerpt": "There is much to learn from Durán and Jongsma’s paper.1 One particularly important insight concerns the relationship between epistemology and ethics in medical artificial intelligence (AI). In clinical environments,",
+      "sourceUrl": null,
+      "webUrl": "https://jme.bmj.com/content/early/2021/04/12/medethics-2021-107463",
+      "originalUrl": "https://jme.bmj.com/content/early/2021/04/12/medethics-2021-107463",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BMJ",
+        "domain": "bmj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-internal-affairs-used-facial-recognition-software-against-nypd-cops-email.md",
       "title": "Internal Affairs used facial recognition software against NYPD cops: email",
       "excerpt": "The head of the NYPD’s Internal Affairs Bureau apparently ordered the use of controversial facial recognition software to investigate cops who were drinking before a slain colleague’s",
@@ -1204,49 +1238,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-upstart-fintech-started-too-hot.md",
-      "title": "Upstart: Fintech Started Too Hot",
-      "excerpt": "Upstart is far too expensive and follows a trend of other hot fintechs that haven't performed well in the public markets.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4418305-upstart-fintech-started-too-hot",
-      "originalUrl": "https://seekingalpha.com/article/4418305-upstart-fintech-started-too-hot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.seekingalpha.com/uploads/2021/4/7/234751-16178301213001626_origin.png",
-          "width": 1358,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4418305-upstart-fintech-started-too-hot",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4418305-upstart-fintech-started-too-hot",
-      "publishedDateTime": "2021-04-09T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

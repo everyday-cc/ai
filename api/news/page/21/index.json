@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-04-09-upstart-fintech-started-too-hot.md",
+      "title": "Upstart: Fintech Started Too Hot",
+      "excerpt": "Upstart is far too expensive and follows a trend of other hot fintechs that haven't performed well in the public markets.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4418305-upstart-fintech-started-too-hot",
+      "originalUrl": "https://seekingalpha.com/article/4418305-upstart-fintech-started-too-hot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.seekingalpha.com/uploads/2021/4/7/234751-16178301213001626_origin.png",
+          "width": 1358,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4418305-upstart-fintech-started-too-hot",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4418305-upstart-fintech-started-too-hot",
+      "publishedDateTime": "2021-04-09T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console.md",
       "title": "Win a digital car and personalize your racer profile on the AWS DeepRacer console",
       "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning, giving developers the chance to learn ML hands-on with a 1/18th scale autonomous car, 3D virtual racing simulator, and the world’s largest global autonomous car racing league. With the 2021 AWS DeepRacer League Virtual Circuit now",
@@ -1130,58 +1173,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-self-driving-cars-may-be-too-speculative-even-for-this-market.md",
-      "title": "Self-Driving Cars May Be Too Speculative Even for This Market",
-      "excerpt": "Autonomous driving remains an unproven technology, but trucks have a better commercial case than robotaxis as startups sound out stock investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-321568/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "publishedDateTime": "2021-04-07T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

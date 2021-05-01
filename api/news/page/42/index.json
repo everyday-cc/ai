@@ -2,6 +2,41 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-03-16-aws-slips-a-bit-in-cloud-ai-developer-services-report.md",
+      "title": "AWS Slips a Bit in Cloud AI Developer Services Report",
+      "excerpt": "Amazon Web Services (AWS) was the clear leader in research firm Gartner's annual report on Cloud AI Developer Services. This year, not so much.",
+      "sourceUrl": null,
+      "webUrl": "https://virtualizationreview.com/articles/2021/03/15/gartner-cloud-aidev.aspx",
+      "originalUrl": "https://virtualizationreview.com/articles/2021/03/15/gartner-cloud-aidev.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virtualization Review",
+        "domain": "virtualizationreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect.md",
       "title": "Artificial Intelligence In 2021: Five Trends You May (or May Not) Expect",
       "excerpt": "Artificial Intelligence innovation continues with explosive growth in virtually all industries. We cover five trends to expect in AI in 2021.",
@@ -1026,49 +1061,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-languagewire-launch-ai-driven-instant-translation-technology-for-enterprises.md",
-      "title": "LanguageWire Launch AI-driven Instant Translation Technology for Enterprises",
-      "excerpt": "LanguageWire today launched Translate, a new instant translation technology designed and engineered for professionals who appreciate managing content efficiently and require quality translations with enterprise-grade security.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/press-releases/languagewire-launch-ai-driven-instant-translation-technology-for-enterprises/",
-      "originalUrl": "https://slator.com/press-releases/languagewire-launch-ai-driven-instant-translation-technology-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/03/LanguageWire-Logo-900x600-CD.png",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

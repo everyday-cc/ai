@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-28-ai-can-help-guide-our-return-to-the-workplace.md",
+      "title": "AI can help guide our return to the workplace",
+      "excerpt": "As companies around the world begin reopening offices, for example, AI can take on a pivotal new role in the workplace: supporting continuous management and maintenance of facilities. This means that intelligent systems could impact millions of workers who may never have imagined AI playing a role in managing their working environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/ai-can-help-guide-our-return-to-the-workplace",
+      "originalUrl": "https://www.techradar.com/news/ai-can-help-guide-our-return-to-the-workplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/ai-can-help-guide-our-return-to-the-workplace",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-can-help-guide-our-return-to-the-workplace",
+      "publishedDateTime": "2021-04-28T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-internal-emails-reveal-capitol-security-officials-dismissed-warnings-about-troubling-social-media-posts-before-january-6-riot.md",
       "title": "Internal emails reveal Capitol security officials dismissed warnings about troubling social media posts before January 6 riot",
       "excerpt": "Newly revealed internal emails show an outside group warned Capitol security officials one day before the January 6 insurrection about a series of troubling social media posts calling for people to storm the US Capitol and kill federal employees,",
@@ -403,7 +455,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -854,7 +906,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/26/toyota-acquires-lyft-self-driving-division-for-550-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -1188,58 +1240,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m.md",
-      "title": "Lyft sells self-driving unit to Toyota’s Woven Planet for $550M",
-      "excerpt": "Ride-hailing company Lyft has sold off its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million, the latest in a string of acquisitions spurred by the cost and lengthy timelines to commercialize autonomous vehicle technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
-      "originalUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 374,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024",
-          "width": 1024,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
-      "publishedDateTime": "2021-04-26T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

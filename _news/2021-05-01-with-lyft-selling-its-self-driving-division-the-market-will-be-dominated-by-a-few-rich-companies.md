@@ -105,22 +105,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Lyft To Sell Self-Driving Division To Woven Planet"
-    excerpt: "Lyft is selling its self-driving division, Level 5, to Woven Planet, a subsidiary of Toyota. Lyft will see around $550 million in cash from the transaction."
-    publishedDateTime: 2021-04-26T23:42:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/lyft-sells-self-driving-division-woven-planet/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/lyft-sells-self-driving-division-woven-planet/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/lyft-sells-self-driving-division-woven-planet/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/lyft-2-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Toyota to buy Lyft unit in boost to self-driving plans"
     excerpt: "\"at-above-post addthis_tool\" data-url=\" Texas/TOKYO (Reuters) -Toyota Motor Corp will acquire Lyft Inc’s self-driving technology unit for $550 million, the companies said, as the Japanese firm steps up its automation ambitions with the newly created Woven Planet division."
     publishedDateTime: 2021-04-27T15:25:00Z
@@ -194,15 +178,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 34
-  - title: "Lyft sells self-driving tech unit to Toyota for $550 mln, moves up profit timeline"
-    excerpt: "April 26 (Reuters) - Lyft Inc LYFT.O will sell its self-driving technology unit to Toyota Motor Corp 7203.T in a $550 million deal, the companies said on Monday, allowing the ride-hail company to hit its profitability target one quarter earlier."
-    publishedDateTime: 2021-04-26T23:05:00Z
-    webUrl: "https://www.nasdaq.com/articles/lyft-sells-self-driving-tech-unit-to-toyota-for-%24550-mln-moves-up-profit-timeline-2021-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 28
   - title: "Analysts Chime In on LYFT After Self-Driving Unit Sale"
     excerpt: "Lyft (LYFT) is rising today after announcing the sale of its self-driving unit to Toyota, while analysts chime in"
     publishedDateTime: 2021-04-27T15:51:00Z
@@ -337,6 +312,6 @@ related:
       domain: techbooky.com
     quality: 2
 
-secured: "5Y1NWBHvQpbWlyhaevTCyjc4CmkUHTx6Xd1NIPoROi+nXGcH6g2JWB79VfAo6vRfF0vKCACX1O4jlau6dHoTgPFtOTEzix4mf3p4fEPWQVMOTbfPg94gu9LNxBkW7bjoDEhVbrrtImv0LCsGP5ldlyhO6vNRIqE2Ct9R+yhr/UaAB78vGVQ3pjIWk7nUK8ivbUNw9FJJERbZ8qm4ekDE6hTal7Vx7Vx9xBDeYz4mu/u31c/rX8XL85AngO2HzBtvjUy48KAt0l/jwsUynKebpnK1GAhU0mBTxq2U+WlA3hjlVfkKtTmJ2ENDqB+5x5nrmaAqiYCKsIRoDNYeVPbHjHHlXjryn3GyVULTts71I14=;tfL/BEbOnVxaUHM7w9uP3Q=="
+secured: "olYn8qbbCyywhg73wt8VLDH6qqGeyp3Iihemukfj5jOMWOdwm6w4V4hCDeTe05emoW9eyI+7Pyy8WYRyYe4HvUnRuR9133M3YrGLXJRi3EnY/PsyFH+Ed6VOUIA/P9ifRAYNHe7K2dn6rLc4EhriRMUzTdUtHHFqI90gjPsGxlI1ZTXreUm10B0cXXJr9hRcnKKm2JU2t8a2DwXDH6NoQHYGO9QcO5zJ+bMQMIiPbtGi5m0FiYoIX9p8YaUAOm/YsMFq4oaxiVbvHoLqu/Y/8Czzg2FIDgxlYN+Xf4ZxsdUAJ8GDgVod/4LwwHOvguadSmR7uu5dj3fd2TkLb0aiApddv297bzmicgCWkuIou9x7xAPBDCZt/CEddJeQRn4dOXwPPvsW6X4/OlcTCBXMzeZyyktRtq6loTKukYc+ocm8PHjZJxaqHO+xm7Hz0UeRcowONBUg9yZKshytFBuWKRJij6g48XXg2QrcHAXgezaAWL7yCPkQDY1gjne/CVxcyFOqqYH8B3OJhSnRXgs3Iw==;yKeNQHLDYwziM8CrP8bhRw=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Shhhh, they’re listening – inside the coming voice-profiling revolution | Opinion"
+    excerpt: "This hypothetical situation may sound as if it’s from some distant future. But automated voice-guided marketing activities like this are happening all the time."
+    publishedDateTime: 2021-05-01T16:35:00Z
+    webUrl: "https://www.pennlive.com/opinion/2021/05/shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution-opinion.html"
+    ampWebUrl: "https://www.pennlive.com/opinion/2021/05/shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution-opinion.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2021/05/shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution-opinion.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 39
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PIZG2E5WQVBKXFAMQ6L47YZ6SQ.jpeg"
+        width: 754
+        height: 494
+        isCached: true
   - title: "Shhhh, they're listening - inside the coming voice-profiling revolution"
     excerpt: "All are listening and capturing people’s individual voices. They respond to your requests. But the assistants are also tied to advanced machine learning and deep neural network programs that analyze what you say and how you say it Amazon and Google – the leading purveyors of smart speakers outside China – appear to be doing little voice analysis on those devices beyond recognizing and responding to individual owners."
     publishedDateTime: 2021-04-28T13:02:00Z

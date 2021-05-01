@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Shhhh-they-re-listening-in
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Shhhh-they-re-listening-inside-the-coming-16135056.php"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Shhhh, they’re listening – inside the coming voice-profiling revolution | Opinion"
+    excerpt: "This hypothetical situation may sound as if it’s from some distant future. But automated voice-guided marketing activities like this are happening all the time."
+    publishedDateTime: 2021-05-01T16:35:00Z
+    webUrl: "https://www.pennlive.com/opinion/2021/05/shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution-opinion.html"
+    ampWebUrl: "https://www.pennlive.com/opinion/2021/05/shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution-opinion.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2021/05/shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution-opinion.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 39
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PIZG2E5WQVBKXFAMQ6L47YZ6SQ.jpeg"
+        width: 754
+        height: 494
+        isCached: true
   - title: "Shhhh, they’re listening – inside the coming voice-profiling revolution"
     excerpt: "You decide to call a store that sells some hiking boots you’re thinking of buying. As you dial in, the computer of an artificial intelligence company hired by the store is activated. It retrieves its analysis of the speaking style you used when you phoned other companies the software firm services."
     publishedDateTime: 2021-04-29T11:48:00Z

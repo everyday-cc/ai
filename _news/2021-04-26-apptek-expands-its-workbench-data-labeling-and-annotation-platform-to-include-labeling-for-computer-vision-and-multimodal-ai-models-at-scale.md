@@ -1,26 +1,27 @@
 ---
 category: news
 title: "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale"
-excerpt: "AppTek is trusted by some of the world's leading cloud and technology companies to power their conversational speech, text and image-based AI models through its managed data services program. To create the robust data sets required for these high-performing AI models,"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
 publishedDateTime: 2021-04-26T16:40:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html"
-webUrl: "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://mma.prnewswire.com/media/1496629/AppTek.jpg?p=facebook"
-    width: 1614
-    height: 845
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630"
+    width: 880
+    height: 630
     isCached: true
 
-secured: "XIE/9tRjwevxebsaR7WvbFx6aQsZMb3crprmcypLONFJBQPFAbRZILyhuRkQ5yc+oETiFiy0pPZ5rm/0wwdKetp2GMRaIdsEk/9KBVgIPN5D8StnED0LRzNSwR7teh4kfXyViX4tEFpfPxN3eIHbeldAI4iJeG314uJeaIWF+gDINeebuKgxkFqB3svXaxeA07Gr71AbWVylj2wbhyUyKxlElU36RMZromgVhKy51V2drRpwxxVMjxruVDRCi00fkO2FDNPtrfeYDuaP8CHASSlqBlsGM0yNiwu2KTFcHFgVc0nEXU0kzep4/GPJpCGg/oAJl9YKd3pL+5lSFK8MxdD/5Dl9FtjDa3fU8IJaTgk=;LGi6t1avV6GdXkAKj800AQ=="
+secured: "9CpD0P0VdeYBa2OEFjml/aGDM0tFKWVpe33jJa2QV5uab9s/wM+FovfxUS9zGNBgyRnZSSMGtR3XLEbfFVQ/rE46Osm7IFrk9TRTXbt67lUkjtBj6zS+jljrumDW5KNyUkX9sW5rOtQ8FqaKVhXV9Is6GKYBFUwBWq1Ks7Ky6w5sPVhNDjtTuGrjqB7XF2SOvbt4U+zFAs3GTnc9WVFXU2jAYh5R7xGdmoh1f3t3vM2LkaXmcY3dMMB05j/PXF09Ehsbz0NE4Eb5nE8W04wHegcKYgvJKFbR+00PjgI6yo9mpsKFviIVUT8++jd3w+gWgzIZCvftJls3bRh45FwJB1h8aE89lOFrzge4FKshxWY=;VwogyaF8ri+IkXEO+iTqPA=="
 ---
 

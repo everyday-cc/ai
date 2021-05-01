@@ -2,9 +2,9 @@
 category: news
 title: "XNFY Lab Announce the Launch of an AI Generated Fashion"
 excerpt: "A powerful and adaptable technology to revolutionize digital brand content and start a new era in the upcycling of garmentsVIANA DO CASTELO,"
-publishedDateTime: 2021-04-27T09:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030349863"
-webUrl: "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030349863"
+publishedDateTime: 2021-04-27T02:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030347886"
+webUrl: "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030347886"
 type: article
 quality: 49
 heat: 49
@@ -22,6 +22,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "QocWv657fzdS+UHFzw3aRyPF0aO3N69ksmk1TjDp0xQeg51IQ7kxxo6RqXJ2NyPGYPuoXpVigygaMq8bSuecbEXyvmsL5tfI0iSGpPZMB8IwtaJ8q4Rf+a4x+wQ/cF/Mxz5MKDBDfTDVyMbyyumMtDzQ9rRYhZCfSnmcNIUtTKyVfkmidAOKbDDLUOGUnsgQZEv4ST7vwjRQLpSAro9y1sONOxfdb5GCwdMZYnn/gQGydct1u6ErxagAnfK2mVZmty6gVgVxbc+bXxq8/A/yLuD80tpZsoEVeAD7jNDBQB+5WLsDpv8Tm7qOwC0XKQY0DCffWmblpdeHL0pUULalLjCBAoxieozdY9e8Onx67hM=;rNsXQZun+qk4KwqiK3LveQ=="
+secured: "HatS/05Eu/+DC4iiQ/IgbRkouNjPsw8M6E8J3CfpfqzHHprZRIYCpn6nSpCIMRoVfSBOkj0CF9QXQsDRIKvZQqjemyyu5c2uiNsKksM5MNV3xezLwlFVHyT3u0QxUFZGH76BskBco1Rk15R8U+Xbe3qGPIGPvJ7jsuPCHDxGk78yAsvizd9xxlMRepTFI0NwiUEtmlzAd1LbQ4zgI+3aXcQVmW41JT9KjOjhOfICDfaHpTF3UvcXjwiY2qcLz1vDmKanzcDQ1xpuSfcqvcmHGErzeJZV/ffmU9hSBoAiljxwd+JB5CJgS6wsgYAVrnh2Thk61e8Duf7lqRRnBAzPC0u2Nk9Pi3Wh3SFqqLYnbBg=;p0ch9n4+O1/uCsei/BdKBw=="
 ---
 

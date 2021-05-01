@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Everest Group Names Automation Anywhere a Leader in the Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment 2021"
-excerpt: "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has named it a Leader in Everest Group’s Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment 2021."
-publishedDateTime: 2021-04-20T18:22:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-5476b2a733a9fa08361ddf1b4d017717"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-5476b2a733a9fa08361ddf1b4d017717"
+excerpt: "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has"
+publishedDateTime: 2021-04-20T18:21:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/13/e1315a66-88de-5c0c-ae7d-2d6c5ab1d280/60880f21240e9.image.jpg?resize=1200%2C442"
+    width: 1200
+    height: 442
     isCached: true
 
-secured: "WjyHwF67dJAgVi6fnELzrjNoVWlrLC60jJlCKznrJGzAohc6ujI4C6jQ7r4vV+4uFGXIENcfDlG/vaQcQdp4LuoPbfSCRupzqWEEp9FyOpWciECuOwVP96LHLhPxtG4eoE6UvJrvPWfyfOtCy0JceOvarIv1zajNl3Fvcl4/T17qdHRjAjYq17/r0zI2p84XjJPTRq9ZdiDE622HT2EturJbS0cfbpdAoyW+wGkhZsGMlL6rHico6fzbP/bzkqcciHkHM4EcDdj5MiQQUwXnNf5s+qTp7CBZ0EH4Ja/JZBk0RHkFRUZKUToGNGLu5q49amn8XWJ7vfg47EvGuv2bwIu0DH79IlQUKk0IsDMfekc=;q5eYopEaNWpRCU+ARJgvBg=="
+secured: "5QR7a5vlpuAoykkwibV3/LOEwplf9dfkj/TSGssMKb3pjyzf49E0eu6O7peIXV+o0VxFqdLML9hj+oFtIPDX3G/h8hvX0Lkp0Ly6YwBulOfywmcoYIXKCX+rFiZGohqaay8Qq8KxA2efD8b9kjCvhDwpiPCpXLLY3E1QMruui6dFO+Jhj1DjQk5F4yDgegcHw/KrhdAWxs3HJdvstpmC/VTnt0k+asfLzowaAhX4EvgPTEoCuwE+h/BjC7Wg5JMZGTrU2/JuB3l/jBSenZQ36PBacw9wK1Y1HikHrEXrAiT4ZPxj3bAznS+VdxkKwyvmLJAPhKA9EFlrhNgekZV7tJzmiA4kzzvtogitF77dDqA=;7nXndTqPsGTlW/YIw/irRg=="
 ---
 

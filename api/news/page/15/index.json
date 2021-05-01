@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-04-15-domino-accelerates-mlops-with-new-nvidia-integrations.md",
+      "title": "Domino accelerates MLOps with new Nvidia integrations",
+      "excerpt": "Domino additionally supports containers for SAS, MATLAB, Amazon SageMaker, and private container repositories. Finally, Domino worked with Nvidia and NetApp to develop a preconfigured hardware ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/",
+      "originalUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/",
+      "publishedDateTime": "2021-04-14T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-ai-and-hiring-bias-why-you-need-to-teach-your-robots-well.md",
       "title": "AI and hiring bias: Why you need to teach your robots well",
       "excerpt": "Your artificial intelligence hiring tool told you so. Your AI system knows what great talent looks like because you trained it on the resumes of your existing high performers. This golden resume—your next,",
@@ -1095,49 +1147,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-clock-ticking-for-strategy-to-maintain-us-global-lead-in-artificial-intelligence.md",
-      "title": "Clock Ticking for Strategy to Maintain U.S. Global Lead in Artificial Intelligence",
-      "excerpt": "U.S. technological advantages over great power competitor China could be lost in less than 10 years without a robust and comprehensive artificial intelligence (AI) security strategy, according to the findings of an independent government commission.",
-      "sourceUrl": null,
-      "webUrl": "https://seapowermagazine.org/clock-ticking-for-strategy-to-maintain-u-s-global-lead-in-artificial-intelligence/",
-      "originalUrl": "https://seapowermagazine.org/clock-ticking-for-strategy-to-maintain-u-s-global-lead-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://seapowermagazine.org/wp-content/uploads/2021/04/AI-Navy-UGVs-for-AI-webbie-scaled.jpg",
-          "width": 2048,
-          "height": 1515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SEAPOWER",
-        "domain": "seapowermagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

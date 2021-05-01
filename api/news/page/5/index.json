@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-27-lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m.md",
+      "title": "Lyft sells self-driving unit to Toyota’s Woven Planet for $550M",
+      "excerpt": "Ride-hailing company Lyft has sold off its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million, the latest in a string of acquisitions spurred by the cost and lengthy timelines to commercialize autonomous vehicle technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
+      "originalUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 374,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024",
+          "width": 1024,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
+      "publishedDateTime": "2021-04-26T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-microsoft-offers-new-azure-specializations-and-scholarships-through-coursera.md",
       "title": "Microsoft offers new Azure specializations and scholarships through Coursera",
       "excerpt": "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well.",
@@ -56,19 +108,19 @@
     {
       "path": "_news/2021-04-26-apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale.md",
       "title": "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale",
-      "excerpt": "AppTek is trusted by some of the world's leading cloud and technology companies to power their conversational speech, text and image-based AI models through its managed data services program. To create the robust data sets required for these high-performing AI models,",
+      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1496629/AppTek.jpg?p=facebook",
-          "width": 1614,
-          "height": 845,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630",
+          "width": 880,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -81,8 +133,8 @@
       "publishedDateTime": "2021-04-26T09:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -92,8 +144,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -138,58 +191,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix.md",
-      "title": "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix",
-      "excerpt": "(Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix® to service customers in six new global markets,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg",
-          "width": 400,
-          "height": 261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -238,19 +239,19 @@
     {
       "path": "_news/2021-04-26-inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies.md",
       "title": "Inpixon Enters Rapidly Growing Mobile Augmented Reality Market with Acquisition of AR, Computer Vision and 3D Reconstruction Technologies",
-      "excerpt": "Inpixon (Nasdaq: INPX), the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality (AR),",
+      "excerpt": "Inpixon (Nasdaq: INPX), the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality (AR), computer vision, localization, navigation,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies-1030346080",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies-1030346080",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and/article_e539a97e-610b-56d5-a445-250c4715d9aa.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and/article_e539a97e-610b-56d5-a445-250c4715d9aa.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1496098/Inpixon_AR_warehouse1.jpg",
-          "width": 400,
-          "height": 216,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/14/814cb6da-7b5a-58cd-b155-8088ec494826/6086c0903284d.image.jpg?resize=887%2C478",
+          "width": 887,
+          "height": 478,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -260,21 +261,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T06:40:00-07:00",
+      "publishedDateTime": "2021-04-26T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -694,6 +686,49 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix.md",
+      "title": "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix",
+      "excerpt": "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522",
+          "width": 800,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1181,58 +1216,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-waymos-leadership-shift-spotlights-self-driving-car-challenges.md",
-      "title": "Waymo’s leadership shift spotlights self-driving car challenges",
-      "excerpt": "Waymo's recent executive shuffle signals driverless technology has a ways to go before a robust self-driving car industry becomes reality.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/24/waymos-leadership-shift-spotlights-self-driving-car-challenges/",
-      "originalUrl": "https://venturebeat.com/2021/04/24/waymos-leadership-shift-spotlights-self-driving-car-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/24/waymos-leadership-shift-spotlights-self-driving-car-challenges/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/24/waymos-leadership-shift-spotlights-self-driving-car-challenges/amp/",
-      "publishedDateTime": "2021-04-24T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

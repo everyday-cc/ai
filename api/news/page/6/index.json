@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-25-waymos-leadership-shift-spotlights-self-driving-car-challenges.md",
+      "title": "Waymo’s leadership shift spotlights self-driving car challenges",
+      "excerpt": "Waymo's recent executive shuffle signals driverless technology has a ways to go before a robust self-driving car industry becomes reality.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/24/waymos-leadership-shift-spotlights-self-driving-car-challenges/",
+      "originalUrl": "https://venturebeat.com/2021/04/24/waymos-leadership-shift-spotlights-self-driving-car-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/24/waymos-leadership-shift-spotlights-self-driving-car-challenges/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/24/waymos-leadership-shift-spotlights-self-driving-car-challenges/amp/",
+      "publishedDateTime": "2021-04-24T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-25-analyzing-automatic-speech-recognitionasr-software-market-dynamics-over-2021-2026.md",
       "title": "Analyzing Automatic Speech Recognition(ASR) Software market dynamics over 2021-2026",
       "excerpt": "Software Market research report includes Market segmentation and overlays shadow upon the leading market players highlighting t",
@@ -1154,50 +1206,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-stop-talking-about-ai-ethics-its-time-to-talk-about-power.md",
-      "title": "Stop talking about AI ethics. It’s time to talk about power.",
-      "excerpt": "Now the conversation has evolved, and AI ethics has blossomed into its own field. She hopes her book will help it mature even further. I sat down with Crawford to talk about her book. Crawford: So many of the books that have been written about artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/",
-      "originalUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/Atlas-of-AI_-illustrations-1-2.jpg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/amp/",
-      "publishedDateTime": "2021-04-23T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

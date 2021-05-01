@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-22-ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water.md",
+      "title": "AI for good: Tech company and nonprofits protect forests, track river pollution and deliver clean water",
+      "excerpt": "DataRobot offers training and support to help organizations build sustainable solutions for environmental problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/22/7797a070-8d12-4d4f-ba59-94f49b431bcc/resize/1200x/ebd4809db499445bc5bf0080b51815dc/gettyimages-482130569.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
+      "publishedDateTime": "2021-04-22T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-brainchip-simplifies-deep-learning-with-launch-of-metatf.md",
       "title": "BrainChip Simplifies Deep Learning with Launch of MetaTF",
       "excerpt": "The MetaTF development environment is an easy-to-use, complete machine learning framework for the creation, training and testing of neural networks, supporting the development of systems for Edge AI on BrainChip’s Akida event domain neural processor.",
@@ -1120,50 +1171,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-google-ethical-ai-groups-turmoil-began-long-before-public-unraveling.md",
-      "title": "Google Ethical AI Group’s Turmoil Began Long Before Public Unraveling",
-      "excerpt": "The ouster of lead researchers Gebru, Mitchell followed years of friction over how Google handled allegations of harassment and bias",
-      "sourceUrl": null,
-      "webUrl": "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362",
-      "originalUrl": "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1593363!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/margaret-mitchell-photographer-chona-kasinger-bloomberg.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362.amp.html",
-      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362.amp.html",
-      "publishedDateTime": "2021-04-21T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bnnbloomberg",
-        "domain": "bnnbloomberg.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

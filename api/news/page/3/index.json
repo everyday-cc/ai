@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-29-cloud-storage-startup-wasabi-nabs-112m-plans-new-datacenters.md",
+      "title": "Cloud storage startup Wasabi nabs $112M, plans new datacenters",
+      "excerpt": "Cloud data storage company Wasabi today announced that it raised $112 million in series C financing, bringing its total raised to $219 million. The company says that the funding will be put toward expanding its network of resellers,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/29/cloud-storage-startup-wasabi-nabs-112m-plans-new-datacenters/",
+      "originalUrl": "https://venturebeat.com/2021/04/29/cloud-storage-startup-wasabi-nabs-112m-plans-new-datacenters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/0547ec33-b067-4aeb-b618-fe3d8377e738.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/29/cloud-storage-startup-wasabi-nabs-112m-plans-new-datacenters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/cloud-storage-startup-wasabi-nabs-112m-plans-new-datacenters/amp/",
+      "publishedDateTime": "2021-04-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-taming-the-machine-ai-governance.md",
       "title": "Taming the machine: AI Governance",
       "excerpt": "As machine learning expands, ensuring these tools are properly managed is a critical priority for all businesses",
@@ -1191,58 +1242,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-ai-can-help-guide-our-return-to-the-workplace.md",
-      "title": "AI can help guide our return to the workplace",
-      "excerpt": "As companies around the world begin reopening offices, for example, AI can take on a pivotal new role in the workplace: supporting continuous management and maintenance of facilities. This means that intelligent systems could impact millions of workers who may never have imagined AI playing a role in managing their working environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/ai-can-help-guide-our-return-to-the-workplace",
-      "originalUrl": "https://www.techradar.com/news/ai-can-help-guide-our-return-to-the-workplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/ai-can-help-guide-our-return-to-the-workplace",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-can-help-guide-our-return-to-the-workplace",
-      "publishedDateTime": "2021-04-28T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

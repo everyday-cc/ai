@@ -416,6 +416,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-26-apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale.md",
+      "title": "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale",
+      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630",
+          "width": 880,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-04-25-natural-language-processing-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027.md",
       "title": "Natural Language Processing Market Latest Revenue Data 2021,Global Trends, COVID-19 Impact and Forecast to 2027",
       "excerpt": "The global “Natural Language Processing Industry” is expected to rise with an impressive CAGR and generate the",
@@ -695,19 +739,19 @@
     {
       "path": "_news/2021-04-21-everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak-matrix-assessment-2021.md",
       "title": "Everest Group Names Automation Anywhere a Leader in the Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment 2021",
-      "excerpt": "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has named it a Leader in Everest Group’s Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment 2021.",
+      "excerpt": "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-5476b2a733a9fa08361ddf1b4d017717",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-5476b2a733a9fa08361ddf1b4d017717",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/13/e1315a66-88de-5c0c-ae7d-2d6c5ab1d280/60880f21240e9.image.jpg?resize=1200%2C442",
+          "width": 1200,
+          "height": 442,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -717,11 +761,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T11:22:00-07:00",
+      "publishedDateTime": "2021-04-20T11:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1328,58 +1372,6 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding.md",
-      "title": "Female Co-Founders advance AI translation technology with $5m in VC funding",
-      "excerpt": "Years after being told that she couldn’t be a fighter pilot for the US Airforce because she was female, Language I/O (LIO) Co-Founder and CEO Heather Morgan Shoemaker asked her co-founder, Kaarina Kvaavik,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/language-i-o/female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding/",
-      "originalUrl": "https://techcrunch.com/sponsor/language-i-o/female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Heather-and-Kaarina.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

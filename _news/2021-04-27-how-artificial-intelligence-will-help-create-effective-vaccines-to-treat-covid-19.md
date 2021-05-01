@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/videos/in-depth/how-artificial-intelligen
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/in-depth/how-artificial-intelligence-will-help-create-effective-vaccines-to-treat-covid-19/amp_videoshow/82258714.cms"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why Will The Next Successful Startup Out Of The COVID-19 Era Be AI-First?"
-    excerpt: "As world is dealing with the massive impact of COVID-19, entrepreneurs are busy at work, springing up new businesses that can bring back the economy. With Artificial Intelligence becoming ubiquitous today,"
-    publishedDateTime: 2021-04-27T00:21:00Z
-    webUrl: "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/"
-    ampWebUrl: "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/amp/"
+  - title: "COVID-CT-MD, COVID-19 computed tomography scan dataset applicable in machine learning and deep learning"
+    excerpt: "Low Dose Computed Tomography of the Chest • viral infectious disease Technology Type(s) digital curation • image processing technique Factor Type(s) sex • gender • age group • weight • clinical charac"
+    publishedDateTime: 2021-04-29T19:03:00Z
+    webUrl: "https://www.nature.com/articles/s41597-021-00900-3"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: Nature
+      domain: nature.com
+    quality: 38
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60875898e93f124f08227ace%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4071%26cropY1%3D164%26cropY2%3D2454"
-        width: 1200
-        height: 675
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-021-00900-3/MediaObjects/41597_2021_900_Fig1_HTML.png"
+        width: 685
+        height: 449
         isCached: true
 
 secured: "QODKlzCMXl7HJ7lFRm/HHEPkvZ6yHTaSndzmhIBtvwKS6nZ17mI1iYOv3Rxr6o9Nfqrg1v25UErOXe4aFCPIhe+YbT/zHGovOT8c2sqSHMaJYlKnXENOknPmEuIExw8qyVrm1pz9tmeQHHLHHP8aSCXnwoOtPfDJwA/QDmXQ781xT3JnFNllTJECmwPbggrKVv/DmADx7iySwRd2iLrTa2X/pv7kRdLKXu8yTOc38Me5N/0qbLsJrbc9AHWDeGx9jUjuEithagTvaksxg3N1CCen7jJ1/ayIf3ntBXYCzQxDRo25wL5o419uwr1RJohal94lGVKvBndJTGnIHvX5iEsHqh4+GKp7w88sItbE0lg=;RpJJQzd2EUQO1MpDyjSHvg=="
