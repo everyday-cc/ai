@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 636
         isCached: true
-  - title: "Toyota's acquisition of Lyft's self-driving unit bolsters its automation ambitions"
-    excerpt: "Toyota Motor Corp will acquire Lyft Inc's self-driving technology unit for $550 million, the companies said, as the Japanese firm steps up its automation ambitions with the newly created Woven Planet division."
-    publishedDateTime: 2021-04-27T02:43:00Z
-    webUrl: "https://www.reuters.com/article/us-lyft-toyota-autonomous/toyotas-acquisition-of-lyfts-self-driving-unit-bolsters-its-automation-ambitions-idUSKBN2CD2IV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CD2IV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CD2IV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 68
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210427&t=2&i=1560023492&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3P1A6"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Lyft's sale of its self-driving tech unit to Toyota for $550 million moves its profit timeline up"
     excerpt: "The deal with Toyota's Woven Planet division will allow Lyft to hit its profitability target one quarter earlier, the company said."
     publishedDateTime: 2021-04-28T13:08:00Z
@@ -187,20 +171,6 @@ related:
       - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/bigstock-san-francisco-ca-june-----250311760.jpg?sfvrsn=c0ebda06_4"
         width: 2800
         height: 2100
-        isCached: true
-  - title: "Lyft is selling its self-driving car unit $550 million"
-    excerpt: "Lyft Inc. announced today that it’s selling its self-driving car unit Level 5 to Woven Planet, a subsidiary of Toyota Motor Co. $200 million will be paid upfront while the rest of the cash will be paid over a period of five years."
-    publishedDateTime: 2021-04-27T02:27:00Z
-    webUrl: "https://siliconangle.com/2021/04/26/lyft-selling-self-driving-car-unit-550-million/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/40834805644_022c89f6ec_c.jpg"
-        width: 799
-        height: 533
         isCached: true
   - title: "Toyota snaps up Lyft’s self-driving cars unit for $550 million"
     excerpt: "Toyota is hitting the gas to achieve its self-driving goals by buying Lyft’s autonomous vehicle business for over half a billion dollars. The two players announced the $550 million acquisition on Tuesday,"

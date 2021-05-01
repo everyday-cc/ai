@@ -42,18 +42,18 @@ related:
         height: 619
         isCached: true
   - title: "False facial recognition sends innocent man to jail"
-    excerpt: "False positive facial recognition match sends innocent man to jail. By \\| April 29, 2021 at 11:23 AM HST - Updated April 29 at 1"
-    publishedDateTime: 2021-04-30T05:23:00Z
-    webUrl: "https://www.hawaiinewsnow.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+    excerpt: "False positive facial recognition match sends innocent man to jail."
+    publishedDateTime: 2021-04-29T21:25:00Z
+    webUrl: "https://www.kcrg.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
     type: article
     provider:
-      name: KHNL
-      domain: hawaiinewsnow.com
+      name: ABC Kcrg  9
+      domain: kcrg.com
     quality: 54
     images:
-      - url: "https://www.hawaiinewsnow.com/resizer/iktREBH3nYO2ESk3ZtTzKpEAvHs=/1200x0/d1acid63ghtydj.cloudfront.net/04-29-2021/t_0109d6ff2ea04285a924888a2a57467e_name_Capture.PNG"
-        width: 1200
-        height: 671
+      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
+        width: 980
+        height: 548
         isCached: true
 
 secured: "JQ02It3TKEL8c/0zdG6OXjkSoYju6LmdUFubiRob3Lj30HHN15VL3GwULTnTtBbjyWdEq2wBesk8UEKAMhp9lf5KFNC318fIuTbz+jeQ9afjlINh/BtgXpeS0qW9xQouBWSRPaO0yYYGOe5LvXl4DXX7Nzg/BNIs+A3OJlolZihFYyvX/UJaIoeL8qWdIxW1p+ik5jObNMDTXcZP4Sk+0GSLVv/vNIsAnujTZsa+88+NbRznfOprPKR6bY2kt7bSg09LJdN43xRzProuEO7M4A8LiNpYGARiA7Vo8bDW8lUTlii8iL9BeWqknuTkaEpq/oLrdzA8ZSSPVRRHHmK5L5q0dWsjj8MfiFx8qEXZTYpBn0TQXw1tl9Hk9O0Ke7kisZDuzZiXmn7gUOqhctPckggbjYdNLqlqen03lN5cvike0XkFYEab7AFlomziQlipTHxPrUSjsPL6AEzeUZOjyM7hO4WjK+kYsQTzcH/9Pvvt2w8HnqudV3ztekbTxSuXw5b4cAwdoA8agm3bD1Ko7w==;3S4dwGgK/a16A+PHUO1PPQ=="

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "False facial recognition sends innocent man to jail"
-excerpt: "False positive facial recognition match sends innocent man to jail. By \\| April 29, 2021 at 11:23 AM HST - Updated April 29 at 1"
-publishedDateTime: 2021-04-30T05:23:00Z
-originalUrl: "https://www.hawaiinewsnow.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
-webUrl: "https://www.hawaiinewsnow.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+excerpt: "False positive facial recognition match sends innocent man to jail."
+publishedDateTime: 2021-04-29T21:25:00Z
+originalUrl: "https://www.kcrg.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+webUrl: "https://www.kcrg.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: KHNL
-  domain: hawaiinewsnow.com
+  name: ABC Kcrg  9
+  domain: kcrg.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.hawaiinewsnow.com/resizer/iktREBH3nYO2ESk3ZtTzKpEAvHs=/1200x0/d1acid63ghtydj.cloudfront.net/04-29-2021/t_0109d6ff2ea04285a924888a2a57467e_name_Capture.PNG"
-    width: 1200
-    height: 671
+  - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
+    width: 980
+    height: 548
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 671
         isCached: true
 
-secured: "JZTj79126zZnT/cvK6N3mwpBg5atMpXl3+gCpOxIC6u/lCTsLpyjDrKwNdJmljjX3zU6yHbaj8NWKNQUbQfs3/2CWd3CVGVjpDvGu/YoKyxTlf+lMDdhyed0AqYE83od4Cng91u2DVLY/oWa2dX9H5pqMfUXH6jVBkjsTy5gRm69goAch/wuxG9yWXtG1dJSI/oHn8lBl+j7mctCZZV6OLQOOTTQTogWvZmv1RSb01cIPGsBYwJBCmeOPPtVrPzAHOikeWtENeiWXLSYj8mHIBBaNhtzJQzsMN+byMD7A07UdfKAXLo9NjMDgUbt4r9DdtFknN9gMjuYhxqttqDQUOGvB02vXGDZhxeJj6qpvuxAVc4D2W/AnzrcbhntAcB+ZmmgA/tzrsXTGW4bnY8Fh4IxBfH8zmNPNtzJQpYMNuBeHYx7qzcw5BCd/H7p0Hgmm9AD4yeboO2oD/hckKdbbDH2MOpfygxbJAUBX3xB1ACcAK0FEag5+gcPojz8ZLci1o6++rPtXZcgaZBcevTASg==;41zjIrILG9rLKMWZDj3zhg=="
+secured: "Gj+7iJqGQEcVC+CaQXIrQF4J1D8bpS05hzSF6uOfYI2LBkSWWORRDNZdjr/afDiVmY2Kk4qJLqBj/D3OCVGZohEsZEyUhT9gSSnwLgNzMXSf7f1l/hCu2CrAaIsJeHTiGua0tPM/72O5z5BMngSoWPp21GAjywndLzCOTPRUFouNwpbhtdj9Dv/hRWjkBuTGyZEfpDX1Z6XRYwhIcGSwmlNlUWT6voXoluYGj1yM/9ovqPo9ZnIjE7JxULpGt6oHsyFDz10QuyNPZQmqPEvZKvN40GrWQhu7wYqnah70q9kW8XGC2345+6bhOa1HZR1b7dYUVrYvMNu4vxsFi27DXtit3xIpLb5gy/rY5wEXTWA=;khxm2SIQV9C03Wgj0fgzSA=="
 ---
 

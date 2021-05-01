@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-play
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/amp/"
 type: article
 quality: 95
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "Feature Engineering and Deep Learning for Stereo Matching Under Adverse Driving Conditions"
+    excerpt: "Stereo matching is a challenging research topic in driving assistance systems. Existing stereo matching methods work well under normal day-light conditions. However, they fail to operate under adverse driving conditions,"
+    publishedDateTime: 2021-04-30T15:01:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9417865"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 9
 
 secured: "3zBZj8IXNW8rZajo9WRCn5SqxFuxN86OytHKQKC7SloJQPSviil/XtY2kJBPQqg93OvRKnv3FVeEioOhS7ft/SRsFCsjjMmM4r2OyUu5IBF1cr1DS0JP+9uf3NDWxqkGbng4OmfCKSP52wPKNr0RbOJApd1OINzxeLCd4z6R2TtfqWaWH4s8Vldg4yq19WMq9xh8WF6nXtzxsS/nTr+yv9L437fzGclCo1JO3YO7tyI8N3nqwgDrrmM541ra+v6to5hLa+sZtn2Cri6QJMLgfSU8thJ0Nvmr8ageXpB1eONyRpa101mkORQkvQfAmAMdaOQRiQlIfS3j+BJHxkYjeKp55gzmCCAc+gERRr4/WMkfYZ90HNA1jfqEyJ5s24f2uSe6Vi3WQBFeU3yrTdzqbFlkmrib5veAtWNYyfMbG5CAiqTKVBWt+ibhhJtLS1A0u4PenNa9bDPMBRh2wOp1JEDQ3gsjRK7CD71qyaV1hISlnLEsSNXKhMHHhdvesnUrUh/bhy6a/94L6GJt5bIxlQ==;2l4jI7St+o9ZV7OKiUgDLg=="
 ---

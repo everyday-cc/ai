@@ -79,15 +79,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Puget to Introduce Proprietary Software that Utilizes Artificial Intelligence to Optimize Distribution and Transportation Systems"
-    excerpt: "Puget Technologies, Inc., a Nevada corporation subject to reporting pursuant to Sections 13 and 15 of the Securities Exchange Act of 1934, as amended, announces that the company’ s Chief Technologies Officer,"
-    publishedDateTime: 2021-04-30T20:10:00Z
-    webUrl: "https://www.nasdaq.com/press-release/puget-to-introduce-proprietary-software-that-utilizes-artificial-intelligence-to"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 18
 
 secured: "0UvsOjmkJ/bZQ8ZtuQr3PBF57w/RJSQGjqyh9Nzt9osW0NiPa14IoJXQAZctzI3VRFJ4LpEbkOXLRJ4dMbAo1EL93uAoWKiBbo0UvYDY/k9Eif/p4G/Ry9+xM0rPbuJwoQrql5LgZQMTi4lpTRCwnuFTk8WBKneFE8PB5EbDsM7S3hYWWQNxyW39oqKwrDW3rAmrkosaxsl+t7723I/X7HIhuTryBYl7WuY9KKa4T36sajkcLPG/qW1NLBsPKV2LLhlDUSgCc5KIwLWrMxchJM4u166+8T/5x0NkHpLk6NO2A8RNe7bV3dLICsM9UdIV+gjPPmwOFVogdJoCXO2FIBz5DSjBVCeXL8ACuatQPxI=;btR1V+f/IKzo1RZSOe8ESQ=="
 ---

@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-CT-MD, COVID-19 computed tomography scan dataset applicable in machine learning and deep learning"
+    excerpt: "Low Dose Computed Tomography of the Chest • viral infectious disease Technology Type(s) digital curation • image processing technique Factor Type(s) sex • gender • age group • weight • clinical charac"
+    publishedDateTime: 2021-04-29T19:03:00Z
+    webUrl: "https://www.nature.com/articles/s41597-021-00900-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 38
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-021-00900-3/MediaObjects/41597_2021_900_Fig1_HTML.png"
+        width: 685
+        height: 449
+        isCached: true
   - title: "Speech and Voice Recognition Market Top Manufacturers, Industry Size, Share and COVID 19 Impact on Revenue Growth"
     excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
     publishedDateTime: 2021-04-28T14:19:00Z

@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-CT-MD, COVID-19 computed tomography scan dataset applicable in machine learning and deep learning"
+    excerpt: "Low Dose Computed Tomography of the Chest • viral infectious disease Technology Type(s) digital curation • image processing technique Factor Type(s) sex • gender • age group • weight • clinical charac"
+    publishedDateTime: 2021-04-29T19:03:00Z
+    webUrl: "https://www.nature.com/articles/s41597-021-00900-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 38
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-021-00900-3/MediaObjects/41597_2021_900_Fig1_HTML.png"
+        width: 685
+        height: 449
+        isCached: true
   - title: "Artificial Intelligence Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
     excerpt: "Global Artificial Intelligence market is estimated to reach 196 7 billion in 2027 by growing at a CAGR of 25 2 during the forecast period 2021 2027 This growth is attributed to increasing research and development R D owing to"
     publishedDateTime: 2021-04-28T17:20:00Z

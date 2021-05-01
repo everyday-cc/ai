@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/05/01/reinforcement-learning-competition-p
 ampWebUrl: "https://venturebeat.com/2021/05/01/reinforcement-learning-competition-pushes-the-boundaries-of-embodied-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/01/reinforcement-learning-competition-pushes-the-boundaries-of-embodied-ai/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/04/ThreeDWorld-Transport-Challenge.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "6QzaZWy2ykZ4vF0YAeqym4qoMQsFKS7baPTqk2Up6ToYXPdfPQuohHOEE3kgh158q2ykFJzy2jyrPOZQgaOcvSP0iiff7RUESjI/5T8iTMehkzGqCbThRP6J35CoqyY0dGq81jYb/KvQfsrgOPHQpnllt56HlCodSw8EZV/iae+N4+iSiPvyIh2/DHhvcSpwaQs9bw9/66LDFm90VdHFJ9c5bN9xnuYPvfsn6wXLipVMBIoRHg7D4hVxRHNtTgY6n8Oa0Z+5qJLqeg6UzTWiaTTkMCwVTIYhzztcTE4zZc3ihpPqU6kwXuV8whtk0TaSzPkYIra/SrTYRbfaUF5BxObEQ9ZTC5Fp7MqRt0LkIT0=;i5foa4Kx6BDFJrf50XE+fg=="
+secured: "NPlLtTUU3D2ldaG5RtdK7F+ZCfDUM0Zi6GcYhAkI8vv4KIl/lFapsDMtDaEsNpWGn83xqN6G/zhnUJuux4/kXEe5Phs/7HDntaLLXDwN6KNRUzrcV4s5AaIarUKgaiwDoTYiba+C/bHgz6kGN1AktVK5T5PHgfZG3oQgNGoy4PzYQoIRskDDwMVl0Uu8dPZLF9DMsMhmGWQ8K+pT2+sFt6XR4v2/xaAUX0Th9ieK1BWtac4KoQpCv+M81gaYcVTnM2cmk2PlrivjfwSpg4B7SEjwzm511gOVTa3104/TB57NjhkhGBPeeNeis02BOYkGf+8Fq2i/6GxVTp/64BiPcOPdxirJX14dyPCdBYc0hezl9Q5g3sz2vRq1NvJGuVQoF3bx6pjhaUs9qQfJrAvQtjtVaRfjlccUP0APoUUY+1xf+jZq4conemj7498lwQ/qy3/MiAjBUm2jsNRKfmGxSOtpf36pNQvHywbdAsUXiL28Cp8RP7+cnCbOF64xEceMrknAv1ESfL5tb6It6ULByA==;/OHssBddeSTFNUb/hQ2drQ=="
 ---
 
