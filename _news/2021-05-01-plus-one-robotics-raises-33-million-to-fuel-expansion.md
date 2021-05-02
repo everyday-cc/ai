@@ -85,15 +85,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Plus One Robotics Raises $33 Million to Fuel Expansion"
-    excerpt: "Plus One Robotics, the leading provider of vision software for logistics robots, announces $33 million of Series B funding. McRock Capital and Translink Capital co-led the round, with participation from BMW i Ventures,"
-    publishedDateTime: 2021-04-27T10:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/robotics-technology-business-82ebd76904bc04e10bfea986468af668"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 49
   - title: "Robotic vision startup Plus One raises $33M"
     excerpt: "San Antonio-based Plus One Robotics today announced a $33 million Series B. The round follows an $8.3 million Series A announced in 2018 and brings the company’s total funding to north of $40 million."
     publishedDateTime: 2021-04-27T17:28:00Z
@@ -103,15 +94,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "Local robotics company raises $33M in funding led by Silicon Valley, Canadian VCs"
-    excerpt: "Local robotics software company Plus One Robotics raised $33 million in a Series B equity fundraising round co-led by venture capital firms in California and Toronto. The money will help Plus One further develop its two offerings: PickOne,"
-    publishedDateTime: 2021-04-27T11:00:00Z
-    webUrl: "https://www.bizjournals.com/sanantonio/news/2021/04/27/plus-one-robotics-raises-33m-in-equity-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
 
 secured: "qvATeYGaXapxsC4BTsxIBW2BmXXw7K3I8tKYw3S1v/FCIrba5PQVxc4Yv1Yz0Nu007Cn/4sIuvLnHtc4hiLsqMPvGZnvh4WBz/nlNVJWGSHBGy/hvyu1jXCA89a8bEYH962bygc/ZJem920eJ9rsp0oz6vccau6XY851nKHI0zEkrJg04n3k3DFwSibQkZPwiEPgvtn/6mQDqoZycdyYu1ghx+uplMYD1N0FQNnMHXFtmlGYO4DgQQbf9STzFT9IHhrtMJC82xiG+vUQCvz2H7HD5b9W6K4kA2UW6vJJaNDIQf0hVafqkTcfavD2eZSFP8CPoJDzT+yMOWs4eh1EQqA+wO6zuP6WL3B3h4DStoMn8iJz+dbEvwj8X0H1MS4oSACq2QGZf4W2F9+Risx/lpqwkMW9IxS+SgYI6lW9QA6tZN97J1mpvLZb1JvtgYIdQ3wDrq2zfjFLfkVukmzE+20su+TSiP6yLu1+RlaQyvZb1CtV4NEegmdNI1LSHT80aZgzS4pDpH2TzN8NuSn/RQ==;cFyY60+0JNVdLIo6tfD9Uw=="
 ---
