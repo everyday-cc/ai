@@ -75,20 +75,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Speech & Voice Recognition Global Market Study Focus on Top Companies and Crucial Drivers"
-    excerpt: "Global Market Monitor recently published a market research report on Speech & Voice Recognition, which studied Speech & Voice Recognition industry outlook, competitive situation, regional market analysis,"
-    publishedDateTime: 2021-05-01T03:14:00Z
-    webUrl: "https://ksusentinel.com/2021/05/01/speech-voice-recognition-global-market-study-focus-on-top-companies-and-crucial-drivers/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 15
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/3.png"
-        width: 770
-        height: 430
-        isCached: true
   - title: "Global Speech Recognition Market – Top 10 Key players in 2021 |Google Inc, Naunce Communication, IBM, Baidu, Amazon"
     excerpt: "Speech Recognition Market Segmentation, History, Sales, Demand, Consumption, strategies, Investment Opportunity and Global Forecast 2021-2027. Infinity Business Insights proclaims"
     publishedDateTime: 2021-04-28T13:15:00Z

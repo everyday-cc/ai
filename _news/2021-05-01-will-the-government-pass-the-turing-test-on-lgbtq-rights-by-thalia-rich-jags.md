@@ -34,20 +34,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "Artificial intelligence saving the natural world"
-    excerpt: "Last month, the UN Statistical Commission adopted a groundbreaking statistical framework that enables countries to measure their natural capital and better understand the immense contributions of nature to our prosperity."
-    publishedDateTime: 2021-04-27T21:24:00Z
-    webUrl: "https://www.un.org/en/desa/artificial-intelligence-saving-natural-world"
-    type: article
-    provider:
-      name: UN News Centre
-      domain: un.org
-    quality: 37
-    images:
-      - url: "https://www.un.org/sites/un2.un.org/files/field/image/gabriel-vissoto-zdkdamai-3c-unsplash_res.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "OkwM7GGlzdQzQGJQ9B+h5U69b55pLbt5BlJFJdcXj3ChUEA9fGGyb0E5lrCstK0ZO+eVUiw8I3vhpRvFGDTqKI6RrM4Ru+wnOn1r1DF6n1WVnJe0vGEWCEsUBp9W7FF6jEnSTRZaCEJNqBDJ4hfWcZO4HFggxydjm9plVOv6Wv7hmz+6ZMWnU5FSaCV4TsStJ/tqwqv0fttYV8wQ61CxJbNVuWd9RQIkd9nTebks/jUOBX/GLAu13uDqDHhDAldyyncO8KALntZfTMr3r1ftqWZYI2lBmXM+ar/QhlnJdnftwj0poCmJ4UpLTAL5QGcmmyEi+eaqg8Wqrut1pdhlZeIqejB3Ri5hbBn8mD1jZps=;sOOphDWCax9CqonTYmsK5g=="
 ---

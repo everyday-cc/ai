@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-17-imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy.md",
+      "title": "ImageNet creators find blurring faces for privacy has a ‘minimal impact on accuracy’",
+      "excerpt": "Makers of the influential ImageNet plan to replace a version of the dataset with the blurred faces of more than half a million people.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/",
+      "originalUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/amp/",
+      "publishedDateTime": "2021-03-16T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-imagenet-database-blurs-images-used-for-facial-recognition-training-in-privacy-effort.md",
       "title": "ImageNet database blurs images used for facial recognition training in privacy effort",
       "excerpt": "The team behind ImageNet announced it has blurred the faces in its 1.5 million-image database, which has been used to train many facial recognition algorithms.",
@@ -1108,49 +1151,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-ucf-starts-new-masters-degree-program-in-computer-vision.md",
-      "title": "UCF Starts New Master’s Degree Program in Computer Vision",
-      "excerpt": "A new master’s degree in computer vision at the University of Central Florida to begin this fall will give technology professionals proficiency in a burgeoning field that relies on artificial intelligence to make computers perform complex tasks faster and more accurately than a human.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/",
-      "originalUrl": "https://www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucf.edu/news/files/2021/03/ucf-computer-vision.jpg",
-          "width": 1200,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/?amp",
-      "cdnAmpWebUrl": "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/?amp",
-      "publishedDateTime": "2021-03-08T12:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UCF Today",
-        "domain": "ucf.edu",
-        "images": null,
         "publishers": null,
         "authors": null
       },

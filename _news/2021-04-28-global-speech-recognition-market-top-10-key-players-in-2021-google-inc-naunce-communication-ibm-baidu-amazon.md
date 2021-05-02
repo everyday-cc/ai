@@ -83,20 +83,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Speech & Voice Recognition Global Market Study Focus on Top Companies and Crucial Drivers"
-    excerpt: "Global Market Monitor recently published a market research report on Speech & Voice Recognition, which studied Speech & Voice Recognition industry outlook, competitive situation, regional market analysis,"
-    publishedDateTime: 2021-05-01T03:14:00Z
-    webUrl: "https://ksusentinel.com/2021/05/01/speech-voice-recognition-global-market-study-focus-on-top-companies-and-crucial-drivers/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 15
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/3.png"
-        width: 770
-        height: 430
-        isCached: true
 
 secured: "SM5wYmqxdI9aICTIw9ZdoOoBUgkVP5Ta0Z/nJYWrwjbR8ug6H6B1TaCuh08MtNfJaR4YdDUslcvuZF/MvglUSHyAEjFJ80GLU3oWh1/sxRJvzKkKju0MSBo5QWjRshsCJ6tsVNxs+Mje8xVM1vrTFkf2ftxsAfF6F7eFafzsEyxcYREsz2c8AW3xXkxptyqORECOj+eUSXoJAbGn1oyKKOHE0/tcpCJAX/+TbEMicGmulYJX3DKhsBBf07sd32EPYpTkZDErAoomP8/w3b5sOE1aJbR/jV1NnfFYND1eYbkk6h6besSMTNy8QVfiHIIwwLYgsx/S1vGZl0tG+vu0a2KZ8K5r3jIHeExwi9l+Xyg=;5CSn4XXPj/I18iEXOJbWDQ=="
 ---

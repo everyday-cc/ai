@@ -25,79 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI for Speech Recognition Market Size, Increasing Trend Diversity, Analysis, Future Scope Analysis Featuring Industry Top Key Players By 2026"
-    excerpt: "The AI for Speech Recognition Market Research Report aims to provide insights that strongly demonstrate the market structure, scope, history, potential, and developm"
-    publishedDateTime: 2021-04-28T04:29:00Z
-    webUrl: "https://www.express-journal.com/ai-for-speech-recognition-market-388703/"
-    ampWebUrl: "https://www.express-journal.com/ai-for-speech-recognition-market-388703/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/ai-for-speech-recognition-market-388703/amp"
+  - title: "A scientist created emotion recognition AI for animals"
+    excerpt: "A researcher at Wageningen University & Research recently published a pre-print article detailing a system by which facial recognition AI could be used to identify and measure the emotional state of farm animals."
+    publishedDateTime: 2021-04-30T19:40:00Z
+    webUrl: "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals"
     type: article
     provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 39
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://www.express-journal.com/img/img-5.png"
-        width: 1042
-        height: 625
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Flivestockemotion.jpg&signature=bc77a1971b37144e3e614b7fcb233d9f"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Voice Recognition for Smartphones Market Analysis, Revenue, Share, Growth Rate & Forecast To 2026"
-    excerpt: "The exploration report of worldwide Voice Recognition for Smartphones Market advertise offers the extensive information about the topmost makers and sellers which ar"
-    publishedDateTime: 2021-04-29T22:25:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-for-smartphones-market-390122"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-for-smartphones-market-390122/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-for-smartphones-market-390122/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 31
-    images:
-      - url: "https://www.express-journal.com/img/img-3.png"
-        width: 1044
-        height: 625
-        isCached: true
-  - title: "Voice Recognition Market Business Analysis 2021 by CAGR, Share, Revenue and Prominent Key Players to 2026"
-    excerpt: "The exploration report of worldwide Voice Recognition Market advertise offers the extensive information about the topmost makers and sellers which are directly worki"
-    publishedDateTime: 2021-04-29T22:34:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-market-390112/"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-market-390112/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-market-390112/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 27
-    images:
-      - url: "https://www.express-journal.com/img/img-7.png"
-        width: 1047
-        height: 627
-        isCached: true
-  - title: "Voice Recognition for Automotive Market Trends, Growth, Scope, Size, Overall Analysis and Forecast by 2026"
-    excerpt: "The exploration report of worldwide Voice Recognition for Automotive Market advertise offers the extensive information about the topmost makers and sellers which are"
-    publishedDateTime: 2021-04-29T22:25:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-390127"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-390127/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-for-automotive-market-390127/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 26
-    images:
-      - url: "https://www.express-journal.com/img/img-6.png"
-        width: 500
-        height: 300
-        isCached: true
-  - title: "Global Speech Recognition Market – Top 10 Key players in 2021 |Google Inc, Naunce Communication, IBM, Baidu, Amazon"
-    excerpt: "Speech Recognition Market Segmentation, History, Sales, Demand, Consumption, strategies, Investment Opportunity and Global Forecast 2021-2027. Infinity Business Insights proclaims"
-    publishedDateTime: 2021-04-28T13:15:00Z
-    webUrl: "https://ksusentinel.com/2021/04/28/global-speech-recognition-market-top-10-key-players-in-2021-google-inc-naunce-communication-ibm-baidu-amazon/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 12
 
 secured: "6apPGCcgZBhHmCl5QWIlTy+oizDebK81TbBVrjl7hL85a7olee+p7eZOI3+aLwYvovtZ17tDCBqUZ0X3ZlQBQV8LbRMD1c3/6oqYx/SekBt18Zo6Lb5Nl2QZEDlELGuEb5EP4Qvr1bwHErh5/BhGzznGRlC5daG/7hZOe0fBmLyWdQn3EeZd4MpffyJgXA7tCN2Lyw6v/jMfQVpPz5rEAS8A/OunnlRompSiSRdTw6YljinNHAkorEUHdyyUjC1MfG46R/2J7kxFn8G6gBGUYCP8+greNUSeuIetMNvFW5QZiftuOjLk816q3GW4Ym7euJIyBTyKdGIGdZVJjJMjtAfJKBDXZsc3g7uGompIKJ0=;mCAfVnxpZbbBwaIRtjZGug=="
 ---

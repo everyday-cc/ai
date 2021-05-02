@@ -38,6 +38,22 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "New AI Regulations Are Coming. Is Your Organization Ready?"
+    excerpt: "Clearly, the regulation of AI is rapidly evolving. But rather than wait for more clarity on what laws and regulations will be implemented, companies can take actions now to prepare. That’s because there are three trends emerging from governments’ recent moves."
+    publishedDateTime: 2021-04-30T12:05:00Z
+    webUrl: "https://hbr.org/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
+    ampWebUrl: "https://hbr.org/amp/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/04/Apr21_30_579271601.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "TMaO1Nz0TQgN4G9R2m/a4NyF6N0ec/fWFRbo/JZtFT7BMfrHJpvIbg6C2EQ91eaqPRU5RAw+nBRKjFVBNRv/vNsausNU17JU/OUPXjBoTWFoYVggncG0weUNglVNhWGSGQ0vURcf0zx02FkUj3PAjgHVGpP5EgX+S2/Q7BenrH+i6IPoPNc8MTQfBKWLjBbXlPSpsE3w4/ief0ZnWDba9MQDczdSWGZ/OWbZuobqueoU7FtrSL+v6NotCBb8RRgs/10Pmk/l2vkJJkhrFEnRK39cBn9n7d3d74EAqgM/90IqbO4t3fcB5vK1ZDxINqWeosQ4S5V2oFuaji88kkS+wvvEPxThCwYSoYNZfohdu3k=;/Btti+va9rc7QOQJ2yUUjw=="
 ---

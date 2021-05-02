@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-09-ucf-starts-new-masters-degree-program-in-computer-vision.md",
+      "title": "UCF Starts New Master’s Degree Program in Computer Vision",
+      "excerpt": "A new master’s degree in computer vision at the University of Central Florida to begin this fall will give technology professionals proficiency in a burgeoning field that relies on artificial intelligence to make computers perform complex tasks faster and more accurately than a human.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/",
+      "originalUrl": "https://www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucf.edu/news/files/2021/03/ucf-computer-vision.jpg",
+          "width": 1200,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/?amp",
+      "cdnAmpWebUrl": "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/ucf-starts-new-masters-degree-program-in-computer-vision/?amp",
+      "publishedDateTime": "2021-03-08T12:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UCF Today",
+        "domain": "ucf.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-study-warns-deepfakes-can-fool-facial-recognition.md",
       "title": "Study warns deepfakes can fool facial recognition",
       "excerpt": "In one case, one of the APIs — Microsoft’s Azure Cognitive Services — was fooled by up to 78% of the deepfakes the coauthors fed it. “From experiments, we find that some deepfake ...",

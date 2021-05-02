@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence helps IVF patients avoid invasive embryo genetic testing"
-excerpt: "Stock quotes by finanzen.net SAN FRANCISCO, April 29, 2021 /PRNewswire/ -- Life Whisperer, the fertility arm of AI healthcare company Presagen, has made a significant breakthrough in using artificial intelligence to non-invasively help embryologists rank and select genetically healthy embryos in IVF."
+excerpt: "Life Whisperer, the fertility arm of AI healthcare company Presagen, has made a significant breakthrough in using artificial intelligence to non-invasively help embryologists rank and select genetically healthy embryos in IVF."
 publishedDateTime: 2021-04-29T13:47:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing-1030364367"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing-1030364367"
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing-1030364369"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing-1030364369"
 type: article
 quality: 44
 heat: 44
@@ -22,6 +22,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "sOAbWexJYHUd0bU4XpdBC6p3lOfXsN3SrKJDlWSD4rx5aT3VVduojeCdSQeINL9oJtXJKTffVqDBVL4aOShmwp4qPXAt6hYGbPT8LUsMoAGEeIaSk+epoHPsmmCdDeSZCSAyKvZrE5Co/cOV5F4jkj3s4yQF910sf5hNUHR52qA3b6iSMxmdGBKeEAgnqO5Nig4uffxg7tilT7fmSYcTZP7Iv3zPZIHdia4+n1VlZnKEJMv/5LY6h0mJ1ETC1w2hJe4EC6xfdR2satoIXgc/kqo/rwNo7/w0lZx0Z+Cw0ou8LjLlzO6oXPaTlekDYBSFoTYsq/lGQH+8ygDOmEJGSM87WBxImNsF5p9CJT3phvs=;lyzEKJ7LPEmn2mBqvw+ZpA=="
+secured: "7NWnCh3++l1EMCD53yk4OJfSZ1dahGke8vylAIfisb7jw9V6MNNbCwdQsTmmPZ9Zxh4IrH2jhNG5Xp/AYOp1R0g0QuRv85bG61TX9FtmKbIk2pSv+EA/2iTnrr2IBdqnUeXm1RrMha6+DF5YoMCkMVakNt/9ccuPP9o3UEYq/VZz6+GSfsCLZp5y8Gtg1Y1wvQ4/c/C6bnlq/WfZhjObqQauNqKMyBMhuZgb99r1hBbD9lp9p5S61/BTjFo71HuKTurZjze7yagswEg/Ctrwgi5F0ttOVMROSkSCud8ZhTLRRevnPBCSkKVm33+6JCaVOdDatUwuh6ReVZIzk5taBTNrvLRUi/bzKs/BkUqu0hU=;EynRspEmodxvDOA2Hl3upQ=="
 ---
 

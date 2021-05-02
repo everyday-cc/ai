@@ -38,21 +38,7 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AWS DeepRacer Sample Projects"
-    excerpt: "Build robotics applications with AWS DeepRacer device software and hardware:  - aws-deepracer/aws-deepracer-launcher"
-    publishedDateTime: 2021-04-27T22:49:00Z
-    webUrl: "https://github.com/aws-deepracer/aws-deepracer-launcher/blob/main/projects.md"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 71
-    images:
-      - url: "https://opengraph.githubassets.com/bf3d13faac34c0129d17c065cab2600e81568abe4856cbb4225805b4eabc5d8c/aws-deepracer/aws-deepracer-launcher"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "u64wRyd/N4u9V09zeQ9iDHFLqo/VE+vX42Dfxq3Xlr1RrGMShihTG1p+wDpkHVfx6hIMgrXtxyACSMn2syDYMfPG4rkr0yws7wSvAMY5zm251whPIFxsuJnvjW/yhq7fQwW551Kf5Tz0K7+Cux3bkK2EvEDF1Qi+HlWLul3r0tVA5gJ93JAxYkf8J6S/CMW2iguIn1+CFOkTecEkXWFizhg7fhJ8J79mk05erEF9k4il+ifyCQ54YMJnqTxYPddVhYsvYxhXlf3kpnMeupmsuo+Ai2oSBW8gsAWQp38LXzUvF4PwNCMoUksE6E8FN8lsFSbV41hSvG390YtbYQ9cd6KlcXGXAfAZ/DH6aXZYZUI=;+jpoAF+F1ZF7INeJy8UXUQ=="
+secured: "nE62t1ddDU//gWMQAOEHF5UpTQZsTEJtfRJd4brMb8+IsTWU0ramMZIR7rTg745yyfac+nxN2UZ3u9ek1Ytpr6J/+WeNsh9B+CYxF0GB3Zs5dIQ9sB31ZKYXhgEwKbeAZO08P3rWA2nTAznllOfeEaKwuxHYxFYboSJFMtUqy4F6G/4j4ZhRN73kwMcufg3H3koOPeiDebxRlKUIDhJDmUVaeomw/9N0T8ZrjmgGavTCNunAsASiIEKFT8LZuqba6SENiW9QSQRasADGA66CLWzgongfj2OSubhTWbJ5pWcqWvaj5VvcTeyPmAAKb80Z7taIIyGiJSU0QrMw5RNQT6UCevacg1DW8YeotkUZBag=;mcwrMc9jKlmRxEcDpmKEPw=="
 ---
 

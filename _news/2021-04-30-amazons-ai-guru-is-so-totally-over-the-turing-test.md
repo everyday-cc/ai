@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence saving the natural world"
-    excerpt: "Last month, the UN Statistical Commission adopted a groundbreaking statistical framework that enables countries to measure their natural capital and better understand the immense contributions of nature to our prosperity."
-    publishedDateTime: 2021-04-27T21:24:00Z
-    webUrl: "https://www.un.org/en/desa/artificial-intelligence-saving-natural-world"
-    type: article
-    provider:
-      name: UN News Centre
-      domain: un.org
-    quality: 37
-    images:
-      - url: "https://www.un.org/sites/un2.un.org/files/field/image/gabriel-vissoto-zdkdamai-3c-unsplash_res.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Will the Government pass the Turing test on LGBTQ+ rights? by Thalia Rich, JAGS"
     excerpt: "The face of the new fifty-pound note will be Alan Turing, who was a genius mathematician, the father of Artificial Intelligence and"
     publishedDateTime: 2021-04-30T21:22:00Z
