@@ -55,52 +55,59 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/wasterobotic.md",
-      "title": "Waste Robotics",
-      "excerpt": "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS).",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/wasterobotic/index.json",
-      "webUrl": "https://everyday.cc/ai/company/wasterobotic/",
+      "path": "_companies/zoox.md",
+      "title": "Zoox",
+      "excerpt": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zoox/index.json",
+      "webUrl": "https://everyday.cc/ai/company/zoox/",
       "type": "profile",
-      "name": "Waste Robotics",
-      "overview": "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS).",
-      "website": "https://wasterobotic.com/",
+      "name": "Zoox",
+      "overview": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
+      "website": "https://zoox.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/wasterobotics/",
-        "followers": 287
+        "url": "https://www.linkedin.com/company/zoox-inc/",
+        "followers": 34477
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/waste-robotics"
+        "url": "https://www.crunchbase.com/organization/zoox"
       },
       "twitter": {
-        "username": "dirtyjobrobot",
-        "url": "https://twitter.com/dirtyjobrobot",
-        "followers": 333
+        "username": "zoox",
+        "url": "https://twitter.com/zoox",
+        "followers": 17554
       },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2014,
       "locations": [
-        "Québec, Québec"
+        "Foster City, CA",
+        "Foster City, California"
       ],
       "funding": {
-        "status": "Seed"
+        "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
+        "AI in Autos",
         "AI in Robotics"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=QbKA9uNgzYQ"
-        }
+      "heat": 32,
+      "tags": [
+        "Autonomous Vehicles"
       ],
-      "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/793405645873479682/RvYzd1Xi_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1278198998164070400/cPxyXqbm_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Waste Robotics",
+          "title": "Zoox",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEgbqUNpxBKXA/company-logo_200_200/0?e=1594857600&v=beta&t=Qz3F_9WWnSE1yL6RemembLAt5DXfYKEVUdN7elFlHAw",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "moveworks"
   url: "https://twitter.com/moveworks"
-  followers: 3133
+  followers: 3134
 
 size: 51-200 employees
 yearFounded: 2016
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "zsW+r9vTbl52SGSHOn0uBAr6mrPNQDTwhB73JSFhpWRs8L65dZFT6jetI4FAgkW1uMv6kdaHadOqkkkjEe0425ps1UvO5dZe1NJ4GzBjQOpAqw8+1SFZmC6uEmlS0dHlDf8BEguykISZLveIVS+dNwm2RgGoEeMrhDV49Bz07VCQljT5FZgv3uy5XePBr+DBFgj3iyKbIJUHHafc7UTnrIt0NE8KqvMBX3US+VmTOyMOadJqJfeHunJEHTaw8KkpagXn4p0CUoE3poJd9Qd5QOdU517XX+JSsV0bSJ7hSxBLQz2ZeSw/3yF/LYn/fZY6oJyzKuu3jNlxv37+j9GeFZl3sds5ZngvHrxNqv5w/sD6+NC3jsIDXSSw13Eem1QEI2UJcuEJmDDUVFOAtowDWFDp5831MRaw/uKBZeSJ2hs=;qWQQ3A++e21wN0pKjo7NaA=="
+secured: "fa+TaQJ1DZ91vEeB0QhnhglBJiFVHS9yZQKB3PpKO/jvTBv/X1k/wUj+hxd8QDboHYXhUG/NPaG5KVs6AiBtmte74gQuDBUsHRgIetdvi1NifHh+CFQtrRnfOQNDQM0QDKQLFR3lePkbS8K4rtdoEgSeOReFnRnOuerJ4H0jwKXpyiWPSbRJvEHV3TAIj6TOzN01vtfvpL9telcedBjcg2sPVMgF/Wu3zwVfm8s4oM9OGZDZWCANeOiP4/slxWOOe3d44K9qj+jM9Ip6B3mKesEP89HWDVfW5scdksWJtme5cOfOngIxCiwzyhnqNYszb2aoFs5L8Lo4VuSxVQHoe0F82KxFlYlFjbD3ASoxgK0fO54V4t4DJsGOOb6b1+LuvI8dwfE8ZHIldoa7BeVq/d6TeFk/lZl8eaPMm2bV7dE=;2RN35WYmmcJyz+2jXKlBKg=="
 ---
 
