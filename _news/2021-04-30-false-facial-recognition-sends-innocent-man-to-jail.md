@@ -3,23 +3,23 @@ category: news
 title: "False facial recognition sends innocent man to jail"
 excerpt: "False positive facial recognition match sends innocent man to jail."
 publishedDateTime: 2021-04-29T21:25:00Z
-originalUrl: "https://www.kcrg.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
-webUrl: "https://www.kcrg.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+originalUrl: "https://www.wbay.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+webUrl: "https://www.wbay.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ABC Kcrg  9
-  domain: kcrg.com
+  name: WBAY
+  domain: wbay.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
+  - url: "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
     width: 980
     height: 548
     isCached: true
@@ -56,6 +56,6 @@ related:
         height: 671
         isCached: true
 
-secured: "Gj+7iJqGQEcVC+CaQXIrQF4J1D8bpS05hzSF6uOfYI2LBkSWWORRDNZdjr/afDiVmY2Kk4qJLqBj/D3OCVGZohEsZEyUhT9gSSnwLgNzMXSf7f1l/hCu2CrAaIsJeHTiGua0tPM/72O5z5BMngSoWPp21GAjywndLzCOTPRUFouNwpbhtdj9Dv/hRWjkBuTGyZEfpDX1Z6XRYwhIcGSwmlNlUWT6voXoluYGj1yM/9ovqPo9ZnIjE7JxULpGt6oHsyFDz10QuyNPZQmqPEvZKvN40GrWQhu7wYqnah70q9kW8XGC2345+6bhOa1HZR1b7dYUVrYvMNu4vxsFi27DXtit3xIpLb5gy/rY5wEXTWA=;khxm2SIQV9C03Wgj0fgzSA=="
+secured: "r8WdjnzkmKRDlb+csArtZ7NCZPxzrT3/hgpK21WGjS8F43l8m3+jYBkxTy1X4SOUDXnRUZgf+OUrtatmJXIx9/ItqZrkMpZ07O4TDrTcMhyvDvbwwROa8YGbcv2xVo99jZjGp7zorVRc6Wmt0FAvdsD7SsZah32mbx//B0GDLdp9hT9ldLP90Xp6OKBpYqUW0lPlTJ0t1F1Ri9LBY/f3ZYntuZSCO3ZUf0OS7VuctoX5Fouma0D6tia00qalNonoZdFUHL+QMcFItzxCS53+hxQ49W7lcxn6rPvP2nLJl+r8qpoSsgLIzYUtD0LauFQwE4ki2FDwW6SH2dNKLq0/WipzX4j3G1y/4jzf4DseGH8=;LbGiLIhgrafvLzcP6LsQ7w=="
 ---
 

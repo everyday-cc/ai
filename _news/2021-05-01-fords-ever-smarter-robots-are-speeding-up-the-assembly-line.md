@@ -3,8 +3,8 @@ category: news
 title: "Ford’s ever-smarter robots are speeding up the assembly line"
 excerpt: "Henry Ford revolutionized car-making with the first moving assembly line, an innovation that made piecing together new vehicles faster and more efficient. Some hundred years later, Ford is now using artificial intelligence to eke more speed out of today’s manufacturing lines."
 publishedDateTime: 2021-05-01T10:15:00Z
-originalUrl: "https://arstechnica.com/information-technology/2021/05/fords-ever-smarter-robots-are-speeding-up-the-assembly-line/?comments=1"
-webUrl: "https://arstechnica.com/information-technology/2021/05/fords-ever-smarter-robots-are-speeding-up-the-assembly-line/?comments=1"
+originalUrl: "https://arstechnica.com/information-technology/2021/05/fords-ever-smarter-robots-are-speeding-up-the-assembly-line/"
+webUrl: "https://arstechnica.com/information-technology/2021/05/fords-ever-smarter-robots-are-speeding-up-the-assembly-line/"
 type: article
 quality: 69
 heat: -1
@@ -46,6 +46,6 @@ related:
         height: 756
         isCached: true
 
-secured: "VqD9qOpdc4K5tS+ZANjtXwNwvdMXqI8towuTAwZBMQt6xH6fuD3awXRXXnRRxhxSPQMVXNWVo2NVmbviEM6PZ94Dfgn2Gd/9GhwODiF0CgXSXSKtpKqzV5L7QasACESaXmLgVvIwk0O3/75XML64NXPte5zCsUDYigI/nc6BquKS5N8Zgtzr8GgL2abgmmE1oRm5fPKb4pOG4beAwxfzfS93l1sbUeJ023HgUTTDDWfW/F4gvY4zUyJxe7Ea+VVKNrnqje6y/sqRGMcs+f/vIK9Thdg8QHjR5ipayEcTNr5u/H7+g9dZzPe7y1LmKomlxdZdI6T+VrngQ9e+3tX4la/sxhzIfiQAMmlh89z2e9fYLeh47R/E58Yrs8oWLTrcLHPxYAxjrYOKlROoR3RLePcuHjk+xaCcBS8dsJGe2jsYDHWy+wQAuwdOqFtfMjDQG1mXPiMep0rYbKWxdtQn5o2vVNcpFdc4J4/GSfkd4XmUX6mDoICT2ncFXWDg43JKhF7RWJIgdRbXysJQpO9WkQ==;/xVFnTNwaVY0k/0HsPItcw=="
+secured: "pmDCHcqxiWexPZgjVh55XJFnjp5T4yD8ecuJN3wzZahrI8EENHbXaiDHEZVkWNCi4pCyFFLQg9JC41y1vnHZYLpx6XomveIpONJoB4GzJ1uGkPysOMgeBBl/aFUxglvNyQP3yJumEVCjhYgjkf0U5dC9YbXCJLSUsMPlqiLiLKxTk13u/WfU+BIHMEO0mEpqxvWhSxrU2zKRq9k+slcjpCUMhmU6XcB2pMX+yd608Afb6xDRHLGYGJNCoHAymHRYbVr8hrCMrMH4+sxYxWycNbNKB7hetuuywiiMdtxAu4zG5O9VPNqOq9MavlcfjTe9DsMbqjg6QBaVtpK/X39BOh7hd/33yJaWKHzCCr7Ieu0=;aVX/gumiveNIw1ssth2WlA=="
 ---
 

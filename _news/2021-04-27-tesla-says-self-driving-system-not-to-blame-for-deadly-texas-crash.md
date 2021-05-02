@@ -7,7 +7,7 @@ originalUrl: "https://www.upi.com/Top_News/US/2021/04/27/texas-tesla-crash-autop
 webUrl: "https://www.upi.com/Top_News/US/2021/04/27/texas-tesla-crash-autopilot/4261619529428/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,38 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Volkswagen Will Develop In-House Self-Driving Chip to Compete With Tesla, Apple"
-    excerpt: "Although Tesla’s expensive and strictly in-house developed autonomous driving software has a long way to go to actually achieve self-driving, its German rival Volkswagen is going down the same path to build its own driverless capabilities."
-    publishedDateTime: 2021-04-30T20:13:00Z
-    webUrl: "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/"
-    ampWebUrl: "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 72
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2021/04/GettyImages-1208585546.jpeg?quality=80&strip"
-        width: 6240
-        height: 4160
-        isCached: true
-  - title: "Tesla admits it may never achieve full-self-driving cars"
-    excerpt: "The disclosure comes after a fatal crash in Texas earlier this month, when a driverless Tesla ran off the road."
-    publishedDateTime: 2021-04-28T16:18:00Z
-    webUrl: "https://www.fastcompany.com/90630440/tesla-admits-it-may-never-achieve-full-self-driving-cars"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/04/p-4-tesla-admits-it-may-never-achieve-full-self-driving-cars.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Z+LUC73F7NTLsEqS4AEH7nkaYOHDPXlRhxSIOqd/GDlLQVvkAf0ZdYjJU8sphxqEPSuZDgdJ50fpnrnGlpNAg+08VS6Jfwu7v3/hNnI7g3ThjPU6CyIUROtc+3V7p4/n/xFT1FlchB1/9Xqn/zVy2M0A7UOCGrr6Quw4d4cUsJTLqsUhKu1L1GUUyrq/9k+FiUpadl6yDDeZnbUQPnDH28I+EMdkDd9HmdOHe/RUDeDJKugogfUluHQ+aIop1ikILWyakVZYxyT/BtJohgXBfJncO+bcKYmTnnjqKbJwmqnjt5nLNsq783F7wIP28ojp8mufAwU+rd9Q+2fdPMjqgjQGiKhmYMjsufXUB3PeK1M9gD+KF5ubo/mFyitvlc4Bn3C8/csLZTvI3gZwLVPCCGVC8YpFUyhULyKcwhveprtSXc6HLzGs/IKHzQYBsVV0QTkpLlPKMWFyC2sK/sPduJ2495IsTolrdkHDobK2B6C5cewQeFcxAcMMRB686KIDStkVASatEinTDOvpIetvEg==;fCGe+u71Kb+6AMuxsLyNlg=="
 ---

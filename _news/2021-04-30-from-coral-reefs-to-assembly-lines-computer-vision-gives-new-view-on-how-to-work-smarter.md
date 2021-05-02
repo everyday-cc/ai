@@ -34,7 +34,7 @@ related:
   - title: "Ford’s ever-smarter robots are speeding up the assembly line"
     excerpt: "Henry Ford revolutionized car-making with the first moving assembly line, an innovation that made piecing together new vehicles faster and more efficient. Some hundred years later, Ford is now using artificial intelligence to eke more speed out of today’s manufacturing lines."
     publishedDateTime: 2021-05-01T10:15:00Z
-    webUrl: "https://arstechnica.com/information-technology/2021/05/fords-ever-smarter-robots-are-speeding-up-the-assembly-line/?comments=1"
+    webUrl: "https://arstechnica.com/information-technology/2021/05/fords-ever-smarter-robots-are-speeding-up-the-assembly-line/"
     type: article
     provider:
       name: Ars Technica

@@ -88,15 +88,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Toyota Acquires Lyft's Self-Driving Unit for $550M"
-    excerpt: "Despite the economic damage from the coronavirus pandemic, Toyota has been relatively resilient and continues to invest."
-    publishedDateTime: 2021-04-27T13:28:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21403506/toyota-acquires-lyfts-selfdriving-unit-for-550m"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 4
   - title: "Toyota’s Woven Planet Acquires Lyft’s Self-Driving For Millions Of Dollars"
     excerpt: "The latest episode of major acquisition around the world features a division of Lyft and Toyota's subsidiary automaker, Woven Planet"
     publishedDateTime: 2021-04-27T15:24:00Z

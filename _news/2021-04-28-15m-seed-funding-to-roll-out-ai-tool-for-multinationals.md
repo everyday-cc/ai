@@ -24,17 +24,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "AI Firm iKVA Raises £1.5 Million Seed Funding from Cambridge Enterprise, Crowdcube"
-    excerpt: "Artificial intelligence (AI) firm iKVA, founded at the University of Cambridge, has raised £1.5 million in seed funding to help roll out their technology. The new funding is in addition to pre-seed funding of £175,"
-    publishedDateTime: 2021-04-27T13:08:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174665-ai-firm-ikva-raises-1-5-million-seed-funding-from-cambridge-enterprise-crowdcube/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 11
-
 secured: "LEbTHfhUDr7uwThQBscgH/22b/vLyeZGw3qZcyG+xu0cvc/Js8EsSLcqYDUR4qHPJ4mFrffDSO8OaUIO/yDfpQAAPmJeiY9/a2J3CJwTXklPTiKo7ele1WDIZjP1ZsIpNIGZl18UFR/kTOSJGkHEE/kE7gpcrHjIQuZpOjcvEseJChjzaIGCuzs/imNPOKQIHrrITI2yCP8EkAHW8+e8KBgVjQB4umT+ebjT2PeoJL2szHvXqOyUlUrClCwfIRH98IVRTL3QWMYtOiJzNmLW676CIuloN1nfArXWkbcoB7CWcMPGyi/KskqHghBXedpLVYFsaZ7GK6adoinjXNPwEHlTaSURj6BhAk5HXgi+dRY=;PkXC2nG0MRHNPG/0RHhb4A=="
 ---
 

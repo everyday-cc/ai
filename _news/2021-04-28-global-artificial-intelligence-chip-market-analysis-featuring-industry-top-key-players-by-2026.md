@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-analysis-featuring-industry-top-key-players-by-2026-2021-04-27"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -113,15 +113,6 @@ related:
         width: 1047
         height: 627
         isCached: true
-  - title: "Global Artificial Intelligence in Fashion Industry (2020 to 2027) - Market Trajectory & Analytics - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence (AI) in Fashion - Global Market Trajectory & Analytics” report has been added to ResearchAndMarkets.com’s offering. Amid the COVID-19 crisis, the global market for Artificial Intelligence (AI) in Fashion estimated at US$311."
-    publishedDateTime: 2021-04-27T14:39:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-financial-markets-business-artificial-intelligence-96c5324912a14365a273affd92d5bae0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "6aJZtIsb4u4eUJ9fkhqtGx16ng1CxFJkD8DVxjccAJWbNslNL5Qn9BY2IWnj19ObIL7aN5swcwRC7bd/I51krUwym0Yzg+9PLbeBQkH3rgndGU5Z1VcAQ3DLpCw4Tyyd2er/2ncW3uM9Jfc2WmX5VfcZmhauAJrRl9gKyIK9ExsLcsz8Nd0wZ+VARKFztTtC4BOI2johAA2wY0yb20KWKqpUM4rICeNH+diUTvF1j8GyytWBTb3Hi6FciaWlU6nG5U5sjIYI4NSYl+R/MvXaFV4xbFBcwWbTDvSjnI6Eiy+JbRV2EtLB5vGi5L+BPE6bxGuZmei8YhU3A8XMDGddleER/cFsJAHRQyAmIdOzo64=;uNlYIwea23wITLDv3bZjOA=="
 ---

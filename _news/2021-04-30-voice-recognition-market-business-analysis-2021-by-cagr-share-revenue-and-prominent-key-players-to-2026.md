@@ -108,15 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Fashion Industry (2020 to 2027) - Market Trajectory & Analytics - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence (AI) in Fashion - Global Market Trajectory & Analytics” report has been added to ResearchAndMarkets.com’s offering. Amid the COVID-19 crisis, the global market for Artificial Intelligence (AI) in Fashion estimated at US$311."
-    publishedDateTime: 2021-04-27T14:39:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-financial-markets-business-artificial-intelligence-96c5324912a14365a273affd92d5bae0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "XELuhUwbswXZhULknF8790ohcAjtPMcxy6+OsAAj//CfwnD6sp2qoImTAMGeNUH2jA6eTNj9Oc3OLAo2uxUjobBmWcfAcE0agwa3FLHxUjCPaBFD0BQk191UozUwGr5O/U2oOfUbmfDQ4BTDpHv8IjkcitCCZKpqQMv+Uaq5rYAB/uHFNv767Pi7gEEX5SkVUY1Tvv9WzfudRg+N0F+pe5Xp280h5W6Zg7Mvma6ls3nbaRZLc+wi4Hl77xWWiFX+yB1UO58UAB2DUA6/Ws3YxAi7B8sn+uNA8c8REfIQy+sAUdoeU6Qm7pY1pJIVdvPKpnNCliTE6c0NRhiMjibqQX8YMTmxJvLT7KPEEM3010Q70Z/x5BvZvGGq7I58z8hdRaSNgvOMFRYg8Gxhh08WzSFrvYCySQvjAcXRE4Ph0SgFkuSWr+T7If/HqmJzN4HZZbNGrRlK9eYVMtxh+GCsjs2IkEEvby0ssNBAQBCf4qx3cAL57PZLu/eUsqGIQUHCayp/xDo+1Gq96BlHPKyImA==;/dB3SwXeXqgU2uEGfaZjKg=="
 ---

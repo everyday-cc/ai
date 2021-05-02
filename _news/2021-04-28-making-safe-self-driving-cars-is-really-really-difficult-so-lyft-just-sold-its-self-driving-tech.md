@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/billroberson/2021/04/28/making-safe-sel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/amp/"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: Forbes
@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Shares Painfully Obvious Idea About the Difficulty of Self-Driving Cars"
-    excerpt: "Elon Musk, one of the wealthiest people on the planet, sent a tweet Thursday night about the real problem with self-driving cars. And as you can probably guess by now, it’s one of those things that sounds profound until you stop to think about it for three seconds."
-    publishedDateTime: 2021-04-30T15:00:00Z
-    webUrl: "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236"
-    ampWebUrl: "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp"
+  - title: "Lyft is getting out of the self-driving business"
+    excerpt: "Lyft announced its self-driving project back in 2017, a time of extreme optimism about self-driving technology. A few months earlier, in late 2016, Lyft President John Zimmer predicted that a majority of Lyft rides would be handled by self-driving vehicles by 2021."
+    publishedDateTime: 2021-04-27T22:26:00Z
+    webUrl: "https://arstechnica.com/cars/2021/04/lyft-is-getting-out-of-the-self-driving-business/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 84
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/22f3a11838a74d9511c1a95958c0284f.jpg"
-        width: 800
-        height: 449
-        isCached: true
-  - title: "Self-Driving Cars: Can They Be Brought onto the Roads Safely?"
-    excerpt: "Can They Be Brought onto the Roads Safely? By shruthi sethu - One can also teach self-driving cars how to follow the highway code. This necessitates dissecting each rule in the"
-    publishedDateTime: 2021-04-30T11:18:00Z
-    webUrl: "https://www.cioreview.com/cioviewpoint/selfdriving-cars-can-they-be-brought-onto-the-roads-safely-nid-33447-cid-246.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_4to2wNG3.jpg"
-        width: 705
-        height: 485
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-1154866584-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
 
 secured: "257/UDr6zmhHaRKrPivLVjiqSmd7XkyApoKvvmbR3IFm7EGw5nS5Jv6RrLrNJhUdOzAekwjd0z/EUTqn8R2Ag0Cuet002cu6NRAyHT9U3QmfmQtYU+tSfnjVXYzQKuzBT8kFZKY5OGxG1QIYY+2fFwZCIoMQfbTGUioteHyjWpVhe03pPeGG79xb3FsKOWKuQWgeatzmkGv1CChJ5Z4lc1rUNxmXJI926/eI+sBJiy2swm6cisQwm/I9wwQ78OPvbaQFfkK62gOFO9oF1PUQ6HwTW/wuga8dr2TETRx1KZgIslN80AFhpjjLdJLDWqWPYQhV2tzHffo0GBpQmf3s1NyJvFVtOYEm/Lc3T3WhK/8pGK32Y+Z+P6yoIicZ2vYj7T+uatuK/jOI2yOjVmTKv01FCxQVT//OYZ3luBVKcYhnUI7RS30Zzkr6fXFRKt9FyG8zJRmNvXo3Obn0fJKLpFCc1KfEaK8HdM7a6lk2HIPlkaPaJu04bCN7oD86wVrYev8bmh3w7pghQKKjaMNyfQ==;zjYa4nylBpiKUMEcDthY8A=="
