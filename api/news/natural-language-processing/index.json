@@ -416,6 +416,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-26-apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale.md",
+      "title": "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale",
+      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630",
+          "width": 880,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-04-25-natural-language-processing-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027.md",
       "title": "Natural Language Processing Market Latest Revenue Data 2021,Global Trends, COVID-19 Impact and Forecast to 2027",
       "excerpt": "The global “Natural Language Processing Industry” is expected to rise with an impressive CAGR and generate the",
@@ -455,6 +499,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-25-voice-activity-detection-in-the-wild-a-data-driven-approach-using-teacher-student-training.md",
+      "title": "Voice activity detection in the wild: A data-driven approach using teacher-student training",
+      "excerpt": "Voice activity detection is an essential pre-processing component for speech-related tasks such as automatic speech recognition (ASR). Traditional supervised VAD systems obtain frame-level labels from an ASR pipeline by using,",
+      "sourceUrl": null,
+      "webUrl": "https://ieeexplore.ieee.org/document/9405474",
+      "originalUrl": "https://ieeexplore.ieee.org/document/9405474",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-25T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IEEE",
+        "domain": "ieee.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1294,92 +1372,6 @@
         "name": "unite",
         "domain": "unite.ai",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-logitech-and-baidu-brain-partner-to-transform-the-way-we-work-using-ai-and-voice.md",
-      "title": "Logitech and Baidu Brain Partner to Transform the Way We Work Using AI and Voice",
-      "excerpt": "The Logitech Voice M380 Wireless Mouse is powered exclusively by intelligent Speech & Machine Translation technologies from Baidu ... “We saw an opportunity to leverage the power of Baidu AI to bring fast, accurate speech recognition to our customers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210412006053/en/Logitech-and-Baidu-Brain-Partner-to-Transform-the-Way-We-Work-Using-AI-and-Voice",
-      "originalUrl": "https://www.businesswire.com/news/home/20210412006053/en/Logitech-and-Baidu-Brain-Partner-to-Transform-the-Way-We-Work-Using-AI-and-Voice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding.md",
-      "title": "Female Co-Founders advance AI translation technology with $5m in VC funding",
-      "excerpt": "Years after being told that she couldn’t be a fighter pilot for the US Airforce because she was female, Language I/O (LIO) Co-Founder and CEO Heather Morgan Shoemaker asked her co-founder, Kaarina Kvaavik,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/language-i-o/female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding/",
-      "originalUrl": "https://techcrunch.com/sponsor/language-i-o/female-co-founders-advance-ai-translation-technology-with-5m-in-vc-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Heather-and-Kaarina.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -1,27 +1,93 @@
 ---
 category: news
 title: "Puget to Introduce Proprietary Software that Utilizes Artificial Intelligence to Optimize Distribution and Transportation Systems"
-excerpt: "The solutions currently available in the marketplace to manage distribution and transportation logistics are limited to just a few specifically customized applications. In contrast, Puget’s software can solve extremely complex problems for its end users by customizing the myriad of variables not currently included in out-of-the-box modular software."
-publishedDateTime: 2021-04-30T20:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/puget-to-introduce-proprietary-software-that-utilizes-artificial-intelligence-to-optimize-distribution-and-transportation-systems-1030372600"
-webUrl: "https://markets.businessinsider.com/news/stocks/puget-to-introduce-proprietary-software-that-utilizes-artificial-intelligence-to-optimize-distribution-and-transportation-systems-1030372600"
+excerpt: "Puget Technologies, Inc., a Nevada corporation subject to reporting pursuant to Sections 13 and 15 of the Securities Exchange Act of 1934, as amended, announces that the company’ s Chief Technologies Officer,"
+publishedDateTime: 2021-04-30T20:10:00Z
+originalUrl: "https://www.nasdaq.com/press-release/puget-to-introduce-proprietary-software-that-utilizes-artificial-intelligence-to"
+webUrl: "https://www.nasdaq.com/press-release/puget-to-introduce-proprietary-software-that-utilizes-artificial-intelligence-to"
 type: article
-quality: 20
-heat: 20
+quality: 18
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "w246PwmUWnSCdj+lpWdfSV1I3pwYdGtCL3FJOhnXnPSxSehOdpn3KFlP7SU9NybksEdOJoGHOmJXffAEXrUMGWg6ooFyE/l0Ebuptnq6sy1k+UXoU73JgMT6e+np/mp0OLBav4XV5iPcE5A2xhR6ezlNNTXbtQ1ZEUdc8rryWu0b9nT08pwnj9eBq43qLzybT1lvmRc0QNXNquhUU3D3pZQp1l8I69RI3WeRPojvUOC/z+F4qXRJr5vxCpHWQY/eO++LFg3NWFFmJLSI4Jo60xgiVZcfPnQYO9h+qHaj1xINxXDuzr6HvgfdQdiQfwvX4LPYClf2Wf8shazfxu7gDp3E19ZN/8ebxQRFdUzSz2k=;QdftuxUr+bAOts7xd2Qu1Q=="
+related:
+  - title: "Formation launches AI-driven sales offer optimization platform"
+    excerpt: "Marketing tech company Formation released a tool that helps companies to send out millions of product offers to consumers."
+    publishedDateTime: 2021-04-27T20:45:00Z
+    webUrl: "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/"
+    ampWebUrl: "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pricefx launches AI-powered market simulation tool"
+    excerpt: "Pricefx launched market simulation, which leverages AI to predict consumer behavior and more in response to product price changes."
+    publishedDateTime: 2021-04-27T19:58:00Z
+    webUrl: "https://venturebeat.com/2021/04/27/pricefx-launches-ai-powered-market-simulation-tool/"
+    ampWebUrl: "https://venturebeat.com/2021/04/27/pricefx-launches-ai-powered-market-simulation-tool/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/pricefx-launches-ai-powered-market-simulation-tool/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/Logo_wo_border-e1574711875163.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Bobble AI offers real-time information on ICU beds, oxygen cylinders"
+    excerpt: "Width='400' Height='245'/><br/>New Delhi, April 30 (IANS) Amid the confusion and a deluge of unverified data circulating on social media related to Covid help, Te"
+    publishedDateTime: 2021-05-01T11:50:00Z
+    webUrl: "https://menafn.com/1102005907/Bobble-AI-offers-real-time-information-on-ICU-beds-oxygen-cylinders"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2021-04/30/I_4a1613bc-7image_story.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Tilde Launches a Translation Platform for Companies and Translators"
+    excerpt: "The new release of Tilde MT platform focuses on maximizing translation efficiency for translators, language service providers and small and large companies with the latest AI solutions. It includes secure translation UI,"
+    publishedDateTime: 2021-04-29T10:08:00Z
+    webUrl: "https://slator.com/press-releases/tilde-launches-a-translation-platform-for-companies-and-translators/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
+    images:
+      - url: "https://slator.com/assets/2021/04/Tilde-MT-Platform.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Global Machine Learning Operationalization Software Market Factors Details and Comprehensive Research Including Top Companies"
+    excerpt: "This report can be used by market players to learn about the competitive landscape and the level of competition in the global market. This market report includes a comprehensive evaluation of the market’s growth prospects and restrictions."
+    publishedDateTime: 2021-04-27T12:59:00Z
+    webUrl: "https://ksusentinel.com/2021/04/27/global-machine-learning-operationalization-software-market-factors-details-and-comprehensive-research-including-top-companies/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 7
+
+secured: "CSO9M7EagFoidMgHANEhK5yTm4AG4b6j/iRF/rhb+bVxKwjjl+18kO0KoQHoJgJPfsVkg7lcuDEvI4xzaQwodtkfpmRM8eMbM2rSdZcz9PGbjMV90S2i+PUyxhQy6u8e1bFUsN5eJq3A39XtTb2nWMgynhS05FQtxvAcjvWNaOH0/fJ0mdI0JZKm6nrPMES0wiPFa5XBrzYQY04xXY2YuzbRf++ETDh8hosixzJqR2gRztOG+qJievtFp00AENYQprE/hcLLhUnycmlEVhRLwxNhzYz/Bs6sT+Mz+zyWNBQjcllXbfLE/f7vor8Ht9aB1qhlMg9lJVwIlUNLw+6RYbl77YccFsNDDBCG1eYmsqo=;tAO6jgty0PxmujRdu5qs0A=="
 ---
 

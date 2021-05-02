@@ -120,15 +120,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
-  - title: "Toyota acquires Lyft's self-driving unit for $550 million"
-    excerpt: "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlights the Japanese automaker’s ambitions in that technology"
-    publishedDateTime: 2021-04-27T14:20:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335381"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 4
   - title: "Toyota Acquires Lyft's Self-Driving Unit for $550M"
     excerpt: "Despite the economic damage from the coronavirus pandemic, Toyota has been relatively resilient and continues to invest."
     publishedDateTime: 2021-04-27T13:28:00Z

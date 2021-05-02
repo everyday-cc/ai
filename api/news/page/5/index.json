@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-27-today-in-b2b-forwardai-on-faster-smb-finance-battery-ventures-saas-fintech-focus.md",
+      "title": "Today In B2B: ForwardAI On Faster SMB Finance; Battery Ventures' SaaS FinTech Focus",
+      "excerpt": "Today in B2B payments, ForwardAI talks faster small business lending, Battery Ventures invests in SaaS FinTechs and Allica Bank launches direct-to-SMB banking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/",
+      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/B2B-ForwardAI-SMB-banking-Mastercard-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/amp/",
+      "publishedDateTime": "2021-04-26T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-robot-vacuum-with-triple-lidar-system-has-eyes-to-help-it-avoid-poop.md",
       "title": "Robot vacuum with triple lidar system has eyes to help it avoid poop",
       "excerpt": "With three lidar sensors–a wall sensor, a main sensor, and a front sensor — the 360 Smart Life Robot Vacuum can gauge the size of objects. The built-in artificial intelligence (A.I.) allows it to decide in real time whether to continue over an object ...",
@@ -203,19 +246,19 @@
     {
       "path": "_news/2021-04-26-apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale.md",
       "title": "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale",
-      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today announced the expansion of its Workbench data labeling and annotation platform to include video labeling capabilities for computer vision models,",
+      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1496629/AppTek.jpg",
-          "width": 400,
-          "height": 286,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630",
+          "width": 880,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -223,13 +266,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20796180",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20796180",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-04-26T09:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -239,8 +282,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1171,50 +1215,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-computer-vision-in-healthcare-market-analysis-status-and-global-outlook-2021-to-2026.md",
-      "title": "Computer Vision in Healthcare Market Analysis, Status and Global Outlook 2021 to 2026",
-      "excerpt": "Latest Research Report on “ Computer Vision in Healthcare Market size | Industry Segment by Applications (Medical Imaging , Surgery and Othe",
-      "sourceUrl": null,
-      "webUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853",
-      "originalUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.express-journal.com/img/img-14.png",
-          "width": 1042,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853/amp",
-      "cdnAmpWebUrl": "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/computer-vision-in-healthcare-market-386853/amp",
-      "publishedDateTime": "2021-04-25T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "express-journal",
-        "domain": "express-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

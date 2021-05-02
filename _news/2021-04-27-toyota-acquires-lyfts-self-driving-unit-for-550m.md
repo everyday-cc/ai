@@ -120,15 +120,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
-  - title: "Toyota acquires Lyft's self-driving unit for $550 million"
-    excerpt: "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlights the Japanese automaker’s ambitions in that technology"
-    publishedDateTime: 2021-04-27T14:20:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335381"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 4
   - title: "Toyota just bought Lyft's self-driving car division for $550M"
     excerpt: "Woven Planet, a mobility and technology company wholly owned by Toyota, on Tuesday entered an agreement to purchase Level 5, the self-driving car division of ride-hailing company Lyft. The deal, which is expected to close by the third quarter of 2021,"
     publishedDateTime: 2021-04-27T11:00:00Z

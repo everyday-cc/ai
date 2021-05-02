@@ -559,7 +559,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -959,6 +959,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-27-toyota-acquires-lyfts-self-driving-unit-for-550-million.md",
+      "title": "Toyota acquires Lyft's self-driving unit for $550 million",
+      "excerpt": "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlights the Japanese automaker’s ambitions in that technology",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_e240acd86ea84a03a885c1219259f4fd_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
+      "publishedDateTime": "2021-04-26T22:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-making-ai-great-again-how-do-we-design-ethical-ai-systems.md",
       "title": "Making AI great again: how do we design ethical AI systems?",
       "excerpt": "The debate around how AI will shape our future is ongoing, and it is already affecting our present. Accenture investigates how issues around ethics and regulation are becoming increasingly urgent. Artificial intelligence is a powerful agent of change in our society.",
@@ -1207,49 +1250,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-today-in-b2b-forwardai-on-faster-smb-finance-battery-ventures-saas-fintech-focus.md",
-      "title": "Today In B2B: ForwardAI On Faster SMB Finance; Battery Ventures' SaaS FinTech Focus",
-      "excerpt": "Today in B2B payments, ForwardAI talks faster small business lending, Battery Ventures invests in SaaS FinTechs and Allica Bank launches direct-to-SMB banking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/",
-      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/B2B-ForwardAI-SMB-banking-Mastercard-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/today-in-b2b-forwardai-on-faster-smb-finance/amp/",
-      "publishedDateTime": "2021-04-26T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

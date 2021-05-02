@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-21-companies-are-betting-big-on-autonomous-vehicles-but-looming-questions-over-chip-supply-and-safety-remain.md",
+      "title": "Companies are betting big on autonomous vehicles but looming questions over chip supply and safety remain",
+      "excerpt": "Walmart last week reaffirmed its commitment to a driverless delivery ecosystem by investing in a funding round for San Francisco-based AV startup Crusie that raised $2.75 billion, per CNBC. The investment comes five months after the two companies launched ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.emarketer.com/content/companies-betting-big-on-autonomous-vehicles-looming-questions-over-chip-supply-safety-remain",
+      "originalUrl": "https://www.emarketer.com/content/companies-betting-big-on-autonomous-vehicles-looming-questions-over-chip-supply-safety-remain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://contentstorage-nax2.emarketer.com/20034199ce61beb21a574c9f353ee763/252024",
+          "width": 470,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eMarketer",
+        "domain": "emarketer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-ishares-robotics-and-artificial-intelligence-etf-built-for-the-future.md",
       "title": "iShares Robotics and Artificial Intelligence ETF: Built For The Future",
       "excerpt": "Shares Robotics And Artificial Intelligence ETF - While the potential for growth is phenomenal, risks like significant foreign exposure and regulatory action are something to keep an eye on",
@@ -1303,49 +1347,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-10-best-artificial-intelligence-stocks-to-buy-for-2021.md",
-      "title": "10 Best Artificial Intelligence Stocks to Buy for 2021",
-      "excerpt": "In this article we will take a look at the 10 best artificial intelligence stocks for 2021. You can skip our detailed analysis of the AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/10-best-artificial-intelligence-stocks-to-buy-for-2021-931806/",
-      "originalUrl": "https://www.insidermonkey.com/blog/10-best-artificial-intelligence-stocks-to-buy-for-2021-931806/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/04/12052842/neonbrand-5afenxnLDjs-unsplash.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

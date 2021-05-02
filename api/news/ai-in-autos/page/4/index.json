@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-30-book-review-convergence-of-self-driving-cars-ride-sharing-service-will-bring-urban-transformation.md",
+      "title": "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation",
+      "excerpt": "In the present day, the automotive industry has turned its attention to self-driving cars as its near ... companies including Google, Uber and Baidu are in a fierce competition to gain the lead ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/art/2021/03/142_306295.html?fl",
+      "originalUrl": "https://www.koreatimes.co.kr/www/art/2021/03/142_306295.html?fl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202104/cf8cd12b7ffb4679b4fc9002cc9e8eed.jpg",
+          "width": 980,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
+      "publishedDateTime": "2021-03-29T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-book-review-convergence-of-self-driving-cars-ride-sharing-service-will-bring-urban-transformation.md",
       "title": "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation",
       "excerpt": "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ...",
@@ -1139,40 +1182,6 @@
       "provider": {
         "name": "Fleet Owner",
         "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-cruise-automation-acquires-voyage-to-further-self-driving-car-goals.md",
-      "title": "Cruise Automation acquires Voyage to further self-driving car goals",
-      "excerpt": "Cruise Automation, the autonomous division of General Motors, has acquired self-driving car startup Voyage. Terms of the deal were not disclosed. The deal furthers the consolidation of the self-driving car industry,",
-      "sourceUrl": null,
-      "webUrl": "https://electronics360.globalspec.com/article/16471/cruise-automation-acquires-voyage-to-further-self-driving-car-goals",
-      "originalUrl": "https://electronics360.globalspec.com/article/16471/cruise-automation-acquires-voyage-to-further-self-driving-car-goals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering360 News",
-        "domain": "globalspec.com",
         "images": null,
         "publishers": null,
         "authors": null

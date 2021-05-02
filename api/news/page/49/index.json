@@ -2,6 +2,92 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-03-08-10-key-microsoft-ignite-takeaways-for-cios.md",
+      "title": "10 key Microsoft Ignite takeaways for CIOs",
+      "excerpt": "Microsoft is also offering enterprises a new connector to enable Azure Cognitive Search to ingest ... for financial services, manufacturing, and nonprofits. If you’re in one of these sectors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.html",
+      "originalUrl": "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/03/satya-nadella-2-100879791-large.jpg",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html",
+      "publishedDateTime": "2021-03-08T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-natural-language-processing-nlp-market-size-industry-trends-outlook-opportunity-till-2027-by-kenneth-research.md",
+      "title": "Natural Language Processing (NLP) Market Size, industry Trends, Outlook, Opportunity Till 2027 | By Kenneth Research",
+      "excerpt": "(MENAFN - America News Hour) The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101715474/Natural-Language-Processing-NLP-Market-Size-industry-Trends-Outlook-Opportunity-Till-2027-By-Kenneth-Research",
+      "originalUrl": "https://menafn.com/1101715474/Natural-Language-Processing-NLP-Market-Size-industry-Trends-Outlook-Opportunity-Till-2027-By-Kenneth-Research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T01:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-meet-russias-new-killer-robot.md",
       "title": "Meet Russia’s New Killer Robot",
       "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
@@ -1036,84 +1122,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-record-group-meet-transcriptions-with-new-microsoft-app.md",
-      "title": "Record group meet transcriptions with new Microsoft app",
-      "excerpt": "Improving these models with usage data will ensure that our customers will have the best experience,\" said Xuedong Huang, Technical Fellow and CTO of Cognitive Services at Microsoft. The app is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html",
-      "originalUrl": "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T22:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Pioneer",
-        "domain": "dailypioneer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-stop-experimenting-with-ai-and-machine-learning.md",
-      "title": "Stop Experimenting with AI and Machine Learning",
-      "excerpt": "The pandemic has accelerated the imperative for businesses to invest in Artificial Intelligence (AI) and Machine Learning ... Leading financial service provider realizes $60 million in cost ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html",
-      "originalUrl": "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/03/istock-844535726-100879325-large.jpg",
-          "width": 1200,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T21:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

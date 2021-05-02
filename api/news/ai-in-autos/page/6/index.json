@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-09-sci-fi-writer-or-prophet-the-hyperreal-life-of-chen-qiufan.md",
+      "title": "Sci-Fi Writer or Prophet? The Hyperreal Life of Chen Qiufan",
+      "excerpt": "As China’s science fiction authors are elevated to the status of oracles, Qiufan’s career—and his genre’s place in society—have gone through the looking glass.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/science-fiction-writer-china-chen-qiufan/",
+      "originalUrl": "https://www.wired.com/story/science-fiction-writer-china-chen-qiufan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60467d5dcca7aa2d1134a636/191:100/w_1280,c_limit/Chen-Qiufan-8S3A6125.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
       "title": "Alphabet’s Waymo Says Its Tech Would Avoid Fatal Human Crashes",
       "excerpt": "(Bloomberg) --The autonomous-car artificial intelligence from Alphabet Inc.’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company published Monday. The simulations were based ...",
