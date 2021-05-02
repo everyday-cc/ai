@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-04-protocols-validate-machine-learn
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-protocols-validate-machine-learning.amp"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1800
     height: 1920
     isCached: true
-
-related:
-  - title: "Researchers propose new deep learning-based model for cross-lingual voice conversion"
-    excerpt: "Robots today have come a long way from their early inception as insentient beings meant primarily for mechanical assistance to humans. Today, they can assist us intellectually and even emotionally, getting ever better at mimicking conscious humans."
-    publishedDateTime: 2021-04-27T05:34:00Z
-    webUrl: "https://www.news-medical.net/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210427/Researchers-propose-new-deep-learning-based-model-for-cross-lingual-voice-conversion.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 52
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "AVWfjXpgUyNeJYF1fuePkKj6nl9aLzrOvTY11yQkRci+QQhnumdiJMok7BoVVc0VWvKi0M3H9B1kZxbqbKNtDrbEdyVIJG/RfiK5vES2wWr5cGaBpDi9vAfd2fuYJJBx2LGkDXt+ayRxmHP+jiHWm3uvqHk3ebfKkLoyR4TIpDegnE2mTyNckc9lElAQCTJwYkVAMWVBYeKRwv7GLRG58jWz0b3VFKqp86gIMds+NJJQoU+MAwndHj7DF6l/SsmAiBzp/L/uAS8CK4/gImlMargI8zIuV3kWmjAHQ09YQguLzkXrdl+Sh14avUCCUZgmC5ybJs2oFHN/7//O3rzHz+MaLW3tRHdHPgd9Atu8U5bl5jjyw08+GStRXausHq0ZIo5xodv5KAPjS3OKaMzLexIUva3u0Kprz0tw6h9TwLhyTk0DbOhheYcie8xdTY0y2JvP5MpZSbIL4ePJtbfFDSjW/yTTHhyHKSghA6G3MUvK1L4+hUVMrtLpduhFGoHBXcIgdiEhBBUZVhJAOt8/EQ==;J+GLJ1CrAxfwy/9N+CoJEQ=="
 ---

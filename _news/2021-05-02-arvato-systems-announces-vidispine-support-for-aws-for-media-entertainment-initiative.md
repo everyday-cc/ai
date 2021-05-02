@@ -1,28 +1,22 @@
 ---
 category: news
-title: "ThinkAnalytics Announces Support for AWS for Media & Entertainment Initiative"
-excerpt: "ThinkAnalytics adds personalization to the AWS for Media & Entertainment initiative with its real-time content discovery and viewer engagement platform that has been integrated with more than 30 AWS cloud-based services."
-publishedDateTime: 2021-04-29T00:00:00Z
-originalUrl: "https://www.streamingmedia.com/PressRelease/ThinkAnalytics-Announces-Support-for-AWS-for-Media--Entertainment-Initiative_52358.aspx"
-webUrl: "https://www.streamingmedia.com/PressRelease/ThinkAnalytics-Announces-Support-for-AWS-for-Media--Entertainment-Initiative_52358.aspx"
+title: "Arvato Systems Announces Vidispine Support for AWS for Media & Entertainment Initiative"
+excerpt: "The API integration between Vidispine and Amazon Rekognition offers customers the chance to automatically generate time-coded metadata such as detected objects, faces, and environments in the media content. Furthermore, the Vidispine API integration with ..."
+publishedDateTime: 2021-05-01T23:53:00Z
+originalUrl: "https://www.imittelstand.de/themen/presse_software.html?boxid=1056722"
+webUrl: "https://www.imittelstand.de/themen/presse_software.html?boxid=1056722"
 type: article
-quality: 51
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Streaming Media Magazine
-  domain: streamingmedia.com
+  name: imittelstand.de
+  domain: imittelstand.de
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/137781-InnoLive-ORG.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "EMAM announces support for the AWS Media & Entertainment Initiative."
@@ -67,6 +61,20 @@ related:
         width: 345
         height: 450
         isCached: true
+  - title: "ThinkAnalytics Announces Support for AWS for Media & Entertainment Initiative"
+    excerpt: "ThinkAnalytics adds personalization to the AWS for Media & Entertainment initiative with its real-time content discovery and viewer engagement platform that has been integrated with more than 30 AWS cloud-based services."
+    publishedDateTime: 2021-04-29T00:00:00Z
+    webUrl: "https://www.streamingmedia.com/PressRelease/ThinkAnalytics-Announces-Support-for-AWS-for-Media--Entertainment-Initiative_52358.aspx"
+    type: article
+    provider:
+      name: Streaming Media Magazine
+      domain: streamingmedia.com
+    quality: 51
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/137781-InnoLive-ORG.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Codemill announces support for AWS for Media & Entertainment Initiative"
     excerpt: "Codemill has announced support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to simplify the management of media productio"
     publishedDateTime: 2021-04-29T16:28:00Z
@@ -85,16 +93,7 @@ related:
       name: Digital TV News
       domain: digitaltvnews.net
     quality: 34
-  - title: "Arvato Systems Announces Vidispine Support for AWS for Media & Entertainment Initiative"
-    excerpt: "The API integration between Vidispine and Amazon Rekognition offers customers the chance to automatically generate time-coded metadata such as detected objects, faces, and environments in the media content. Furthermore, the Vidispine API integration with ..."
-    publishedDateTime: 2021-05-01T23:53:00Z
-    webUrl: "https://www.imittelstand.de/themen/presse_software.html?boxid=1056722"
-    type: article
-    provider:
-      name: imittelstand.de
-      domain: imittelstand.de
-    quality: 26
 
-secured: "Pe7JsAzHHPGmlI3fWYx7113MD0mN3/PCEW09z/g81btfw4S5FS4x0mDcvWMa9sf0PHApUFCjQlkpI/vnuFlNHa/ZjBUO1vMmZkrXROfKSwvcyRkDntobt+THkibqBAJrs9Z3zu1/8HnFo7lcybCpiZKjAubLev1CuHv9x92GzrZOw3paf/NqSD6i2tmm3kcWL94r3YuxZ6p4vv1KFWmcjYsIOHpt4Ee5zR0+u/g//DwUC7A/fW10GnJXId1SEKJ+qARACgvCCfCHv6KHcw0j39deZBT1MZQVpA7RWGfqOStHbde3dQjoUSFxOui+C1eMS1VMsVLuOCUjMTHwzidwZ2MKtujbmN58V/yqJOKj5f8=;NagcnIzDkDXFPMTLJ65/ag=="
+secured: "lFBON5fnPBcrNd/7acXX/Zwh1jRsutR0tQWlKTbcBU9Wj70x3yXMV7M5lgEHKDeLFD88sHPs/j2BEaSBMD4RbJ8vU3Z8TXwme2PcRS+G47TDM9yK2ZlPr1NSRq+cKiiOMQ2ERGZCkFScnLPRY9Py9JSKEq4mSApBjbC82wUIUc+mfEFbHKkJ2MQI59D4hS8PuxUkro/huqp5zzLOoO/bHwSIcFXSgejWxkyF8L1NfFu2eZmwI5SUMmYkzpr4f5T7tG0ybA6PRsJfGA6rGqQTzBo62NA/1TD2GOmKWurl+c7ii3eU/+eNAoZiloiO+NM0YZjwtlpjvMPFxQExxSHB72oig99EtCINjq0dgMJHC2I=;PLCaSDG75JfbQbKmJd6+DQ=="
 ---
 

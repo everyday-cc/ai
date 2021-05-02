@@ -60,15 +60,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
-  - title: "COMPUTEX 2021 Hybrid Embarks on an Intelligent Journey with AI Tech Giants"
-    excerpt: "COMPUTEX organizer, the Taiwan External Trade Development Council (TAITRA), states that AI is one of the hottest topics at COMPUTEX 2021 Hybrid this year, especially as 5G providers inject new momentum into a variety of developments in AI and IoT technology applications."
-    publishedDateTime: 2021-04-27T06:41:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-2e3ee88f1ec74b5bbec86010d2bf9a40"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
   - title: "Fintech/AI Sector Snapshot- Artificial Intelligence To Play A Major Role In The Future Growth Of The Credit Card/Payment Industry"
     excerpt: "Fintech/#AI Sector Snapshot- #Stocks to Watch (OTC: $GTCH) (NYSE: $V) (NASDAQ: $PYPL) (TSXV: $MTRX.V) (OTCQB: $RACMF) @Visa @PayPal @LoopInsights#ArtificialIntelligence to Play a"
     publishedDateTime: 2021-04-28T19:36:00Z

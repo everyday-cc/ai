@@ -2,101 +2,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_news/2021-03-10-ibm-watson-services-market-size-to-accrue-165-billion-by-2027.md",
-      "title": "IBM Watson Services Market Size to accrue $ 16.5 billion by 2027",
-      "excerpt": "Selbyville, Delaware According to the latest research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use; By Regions; Segment Forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-to-reach-human-level-intelligence-ai-systems-must-truly-understand-language.md",
-      "title": "To reach human-level intelligence, AI systems must truly understand language",
-      "excerpt": "The original goal of human-like artificial intelligence was abandoned decades ago in favor of less ambitious approaches, two cognitive scientists argue in a new book. If that initial vision is to be realized,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/rpi-trh030921.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/rpi-trh030921.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-10-synopsys-arc-ev-processor-enables-kyocera-document-solutions-to-launch-ai-enabled-multifunctional-printer-soc.md",
       "title": "Synopsys ARC EV Processor Enables Kyocera Document Solutions to Launch AI-enabled Multifunctional Printer SoC",
       "excerpt": "The toolkit includes the MetaWare NN Compiler that analyzes neural networks trained using popular frameworks like Tensorflow or Pytorch and automatically generates the executable for the programmable CNN engine. “As new artificial intelligence ...",
@@ -1103,6 +1008,92 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-10-key-microsoft-ignite-takeaways-for-cios.md",
+      "title": "10 key Microsoft Ignite takeaways for CIOs",
+      "excerpt": "Microsoft is also offering enterprises a new connector to enable Azure Cognitive Search to ingest ... for financial services, manufacturing, and nonprofits. If you’re in one of these sectors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.html",
+      "originalUrl": "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/03/satya-nadella-2-100879791-large.jpg",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html",
+      "publishedDateTime": "2021-03-08T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-natural-language-processing-nlp-market-size-industry-trends-outlook-opportunity-till-2027-by-kenneth-research.md",
+      "title": "Natural Language Processing (NLP) Market Size, industry Trends, Outlook, Opportunity Till 2027 | By Kenneth Research",
+      "excerpt": "(MENAFN - America News Hour) The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101715474/Natural-Language-Processing-NLP-Market-Size-industry-Trends-Outlook-Opportunity-Till-2027-By-Kenneth-Research",
+      "originalUrl": "https://menafn.com/1101715474/Natural-Language-Processing-NLP-Market-Size-industry-Trends-Outlook-Opportunity-Till-2027-By-Kenneth-Research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T01:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

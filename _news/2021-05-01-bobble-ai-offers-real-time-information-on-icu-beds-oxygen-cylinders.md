@@ -70,15 +70,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Puget to Introduce Proprietary Software that Utilizes Artificial Intelligence to Optimize Distribution and Transportation Systems"
-    excerpt: "Puget Technologies, Inc., a Nevada corporation subject to reporting pursuant to Sections 13 and 15 of the Securities Exchange Act of 1934, as amended, announces that the company’ s Chief Technologies Officer,"
-    publishedDateTime: 2021-04-30T20:10:00Z
-    webUrl: "https://www.nasdaq.com/press-release/puget-to-introduce-proprietary-software-that-utilizes-artificial-intelligence-to"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 18
   - title: "Global Machine Learning Operationalization Software Market Factors Details and Comprehensive Research Including Top Companies"
     excerpt: "This report can be used by market players to learn about the competitive landscape and the level of competition in the global market. This market report includes a comprehensive evaluation of the market’s growth prospects and restrictions."
     publishedDateTime: 2021-04-27T12:59:00Z

@@ -85,6 +85,15 @@ related:
       name: Digital TV News
       domain: digitaltvnews.net
     quality: 34
+  - title: "Arvato Systems Announces Vidispine Support for AWS for Media & Entertainment Initiative"
+    excerpt: "The API integration between Vidispine and Amazon Rekognition offers customers the chance to automatically generate time-coded metadata such as detected objects, faces, and environments in the media content. Furthermore, the Vidispine API integration with ..."
+    publishedDateTime: 2021-05-01T23:53:00Z
+    webUrl: "https://www.imittelstand.de/themen/presse_software.html?boxid=1056722"
+    type: article
+    provider:
+      name: imittelstand.de
+      domain: imittelstand.de
+    quality: 26
 
 secured: "I20pfaFYsFyvXOtIiM8Yd5dvthZZZzpWe8mLr5pqxPTo+/OYcvkHc18P03/0+AQiZHx0p+SJ0nvrToPsTHki4Nyj4LCzyhAXqHIFEkEfbHqlDUnULNGkLU+fzvpbDS7cD3nBPZEimXideoclTQh7f+p2IJHRAlQK8MHTXDYGWYiAIjZerhN8k4+W/Jo3AkppKz/DGBHt7xUtftu9N3Lx8uoONZM+OnitNlHKl2D2IGt1J26qQ1dPDTaAlCRcufWgv0Va5wyyqgEQnAxw4tMlvrQhgk2nb8XmiKr4GtuY1C52rTaMMHlEvtDGGjzg/2QmnfQ+wucuiD2s5HoLubpgJXCqT/bo1g/FZItCjs+aMxy00k3fxqDtcmRG0RTzOqxP/1EOR/+duYUfxzJnlqq6ypjpmnohjvwMrsolaaEzXALpztGVO1ZqwhVGd9l+AttefUkC134usel2yVucGJjLGOVWYHXSzXqto1EtRv/7lbQuAACJksKXjsuILQ6oqgaaTWXMhnnYlzG9jsiL3KXyQA==;xDYxIi7AbU08jpB71QgNPw=="
 ---

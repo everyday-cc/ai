@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/avalon-steritech-a
 webUrl: "https://markets.businessinsider.com/news/stocks/avalon-steritech-attains-robotics-award-for-health-products-services-at-singapore-business-review-technology-excellence-awards-1030354584"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Business Insider
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Datasite® Named SBR Technology Excellence Award Winner for Fintech - Mergers & Acquisitions"
-    excerpt: "Datasite technology and tools make M&A management more efficient and effective by automating tasks. Singapore Business Review (SBR) acknowledges the trailblazing work of firms and companies whose new technological products,"
-    publishedDateTime: 2021-04-27T05:28:00Z
-    webUrl: "https://sbr.com.sg/co-written-partner/more-news/datasite®-named-sbr-technology-excellence-award-winner-fintech-mergers-"
-    type: article
-    provider:
-      name: Singapore Business Review
-      domain: sbr.com.sg
-    quality: 14
-    images:
-      - url: "https://cdn.sbr.com.sg/sites/default/files/imagecache/600x360/news/pr_datasite.jpg"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Futu Holdings Limited wins Fintech Award at the SBR TEA Awards"
     excerpt: "With the Covid-19 pandemic accelerating the use of fintech apps, this has caused an enormous increase in new customers for online brokerage and wealth management platforms. Singapore Business Review (SBR) recognises the significant role of innovative technology on these platforms,"
     publishedDateTime: 2021-04-27T08:54:00Z

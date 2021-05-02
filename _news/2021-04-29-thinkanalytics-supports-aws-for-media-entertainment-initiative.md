@@ -84,6 +84,15 @@ related:
       name: Advanced Television
       domain: advanced-television.com
     quality: 34
+  - title: "Arvato Systems Announces Vidispine Support for AWS for Media & Entertainment Initiative"
+    excerpt: "The API integration between Vidispine and Amazon Rekognition offers customers the chance to automatically generate time-coded metadata such as detected objects, faces, and environments in the media content. Furthermore, the Vidispine API integration with ..."
+    publishedDateTime: 2021-05-01T23:53:00Z
+    webUrl: "https://www.imittelstand.de/themen/presse_software.html?boxid=1056722"
+    type: article
+    provider:
+      name: imittelstand.de
+      domain: imittelstand.de
+    quality: 26
 
 secured: "B7+94HNQoHxDyp5XApaNq9EhH7Ys4Obw/oDvWJsyCGiMkVJTzVOjvnnLKThs0Zs0Nw4h7SFto9vPeXxkemWffsjUyLPGANvYqj8A4DtqKnKwSQRM8JC+J45+utQFm9e5Lkbt6UH3tItcNmgRqg9TcTo6SjoYaUal/AU7a/GfmOkeB7r85A5g0b2EtKsm/ffzJYYlFnd2LGiHhLvxgVRrmzcH4oigr98m+kkPNE6ozI9HwmS27KTaper6SDz+vyCv/BXSJz1Ahlk6lQGgAkIesjxU4iEPdB/qY7ppXNUpbUKjq48gZWOa5I3zEY5PXkrcXOFBfZqmq8XAQ938SNqHmxTSD8EoKgglhzsiGZSDcXE=;517jB4OsTtG7zP2Ty7oOgw=="
 ---

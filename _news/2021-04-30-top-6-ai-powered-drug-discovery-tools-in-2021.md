@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 8 Challenges of Artificial Intelligence in 2021"
-    excerpt: "Here are the top 8 challenges of Artificial Intelligence which businesses have been facing in 2021: Currently, one of the essential factors that cause worry for AI technology trends is the very vague nature of how deep learning models can predict the desired output."
-    publishedDateTime: 2021-04-27T05:10:00Z
-    webUrl: "https://gisuser.com/2021/04/top-8-challenges-of-artificial-intelligence-in-2021/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 37
-    images:
-      - url: "https://gisuser.com/wp-content/uploads/2021/04/AI.png"
-        width: 1202
-        height: 601
-        isCached: true
   - title: "AI in Drug Discovery Market Value Expected to Grow at CAGR of 42.2% from 2021-2027"
     excerpt: "Whipsmartmi com offers Global Artificial Intelligence in Drug Discovery Market from its research database The AI in drug discovery industry is expected to grow USD 342 16 million at CAGR of 42 2 from 2021 to 2027 Browse complete report"
     publishedDateTime: 2021-04-30T12:15:00Z

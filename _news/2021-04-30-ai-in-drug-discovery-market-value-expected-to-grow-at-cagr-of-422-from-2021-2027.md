@@ -34,20 +34,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Top 8 Challenges of Artificial Intelligence in 2021"
-    excerpt: "Here are the top 8 challenges of Artificial Intelligence which businesses have been facing in 2021: Currently, one of the essential factors that cause worry for AI technology trends is the very vague nature of how deep learning models can predict the desired output."
-    publishedDateTime: 2021-04-27T05:10:00Z
-    webUrl: "https://gisuser.com/2021/04/top-8-challenges-of-artificial-intelligence-in-2021/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 37
-    images:
-      - url: "https://gisuser.com/wp-content/uploads/2021/04/AI.png"
-        width: 1202
-        height: 601
-        isCached: true
   - title: "InveniAI and Shionogi Enter AI-Powered Multi-Target Drug Discovery Collaboration"
     excerpt: "Teams will work together by leveraging InveniAI’s technology to identify, evaluate, and optimize novel targets for drug discovery ; Shionogi will synthesize and develop compound"
     publishedDateTime: 2021-04-27T12:12:00Z

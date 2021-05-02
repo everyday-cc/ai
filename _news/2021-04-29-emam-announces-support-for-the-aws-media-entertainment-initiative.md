@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-announces-support-for-the-aws-media-entertainment-initiative/article_88c17de6-c6d1-5956-a827-8a11f9f24106.html"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
       name: Digital TV News
       domain: digitaltvnews.net
     quality: 34
+  - title: "Arvato Systems Announces Vidispine Support for AWS for Media & Entertainment Initiative"
+    excerpt: "The API integration between Vidispine and Amazon Rekognition offers customers the chance to automatically generate time-coded metadata such as detected objects, faces, and environments in the media content. Furthermore, the Vidispine API integration with ..."
+    publishedDateTime: 2021-05-01T23:53:00Z
+    webUrl: "https://www.imittelstand.de/themen/presse_software.html?boxid=1056722"
+    type: article
+    provider:
+      name: imittelstand.de
+      domain: imittelstand.de
+    quality: 26
 
 secured: "Xvg96myqeqZoDt1we/MnK7qJFbJE6AOS4pV0vvT9+E4baiQdI11QqgI7fpmuPcbBbzzONuFQOq3Xm84qSkM00NXGHb1rdlqYsJrvvUjZGL5PL8exqiXbpXvgDded2ZSTg6ieEoGnV1gkE2l0tXEhugrBJcU3VoT4GoSnJfTdmNshVk5AzBirEg51n+ephpWM7CJd4CPkup4HrO2ArRvDv1fOByKskkaX0UCkICJkCOk7RpNpawJnuRYfcBL/9At5lu/JYlzV5RAnW7S5aeJ/Nm7YRCB9BtWApH5TZneINYyskBr3OMchmk3p3Jw6auMblrhYk7OgSo6py4/gmW6mtlfAQx7HKG/9JyH5hWZDnjo=;4kc9O79dN0ly0/ry4tle8g=="
 ---
