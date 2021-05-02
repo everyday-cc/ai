@@ -88,20 +88,6 @@ related:
         width: 803
         height: 534
         isCached: true
-  - title: "Microsoft sees revenue boost from growth in cloud services"
-    excerpt: "Cloud services are becoming more and more important to Microsoft's business. Its Intelligent Cloud services revenue was up 23% year over year."
-    publishedDateTime: 2021-04-28T01:08:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/27/microsoft-sees-revenue-boost-from-cloud-services.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-    images:
-      - url: "https://media.bizj.us/view/img/12001532/microsoft-in-redmond-april-2021-02*1200xx3356-1893-0-218.jpg"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "YGJJ0WzhW9rYggKp6P8wZujXX2Yfk8XwK3ZQy5q01sbrkfHTtn5sC0Vw2HeccCECObbsfooFtaqPNe5/fkrXxPHwzQtzvOfAlaeLdkAGY6LLPO/zHtj343g1jSDZ8Ct8V3MK2m0RnmyPNe64POxVGdlEe9oh49VWfTqIKnjkTjZT5XPSDLXxAlFpWTeZME25Qpm1+qM4jXcKnceTUVp314o0gTb5onZem+2iACW92nC71ayI/lEcQeiZWvZEqL3TQhkzEGqLx+0QRPoOC/xPi46LW+GALb+wT5wiYnhS3wT4eDeKnOeA5qi7zy2Y/HKwIRi4eR8h0Bw8rLENfuhZNfl9sjFr6dXqcNcjW4Jy8dQ=;hIvSUgEspaWh9vvXeWy+Fg=="
 ---

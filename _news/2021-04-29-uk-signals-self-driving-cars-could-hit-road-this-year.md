@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "In a year of major shifts, the self-driving car market is consolidating"
+    excerpt: "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market."
+    publishedDateTime: 2021-05-02T19:15:00Z
+    webUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/"
+    ampWebUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/volkswagen-electric-car-id3.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The UK will make ‘self-driving’ cars legal this year"
     excerpt: "The UK is making self-driving partially legal in the spring, so you should have an easier time in the cockpit. But you shouldn’t think of watching a movie or playing games on your phones while driving just yet."
     publishedDateTime: 2021-04-28T07:02:00Z

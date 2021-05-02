@@ -2,6 +2,92 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-04-01-microsoft-scores-2188-billion-ai-headset-contract.md",
+      "title": "Microsoft scores $21.88 billion AI headset contract",
+      "excerpt": "Software king of the world Microsoft has won a contract to sell the US Army augmented reality headsets based on its HoloLens product and backed by Azure cloud computing services. The contract could be worth up to $21.88 billion over ten years. Over the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/ai/52619-microsoft-scores-21-88-billion-ai-headset-contract",
+      "originalUrl": "https://www.fudzilla.com/news/ai/52619-microsoft-scores-21-88-billion-ai-headset-contract",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/3def5e615fa7d22a56df00013c7d454e_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-what-are-ethics-of-artificial-intelligence-three-reasons-to-learn-basics.md",
+      "title": "What are ethics of artificial intelligence? Three reasons to learn basics",
+      "excerpt": "The ethics of artificial intelligence are relevant to all of us, often in ways we do not realise, and learning the basics now is a good idea. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.miragenews.com/what-are-ethics-of-artificial-intelligence-538500/",
+      "originalUrl": "https://www.miragenews.com/what-are-ethics-of-artificial-intelligence-538500/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg",
+          "width": 1416,
+          "height": 829,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Armed robbery in Revesby",
+        "domain": "miragenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-driverless-vehicle-developer-horiba-mira-welcomes-mods-66bn-military-tech-pledge.md",
       "title": "Driverless vehicle developer Horiba MIRA welcomes MoD's £6.6bn military tech pledge",
       "excerpt": "Horiba MIRA leads the world in developing next generation of driverless and intelligent civilian and military vehicles",
@@ -1035,92 +1121,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-articulos-sobre-artificial-intelligence-ai.md",
-      "title": "Artículos sobre Artificial intelligence (AI)",
-      "excerpt": "The European Union is currently debating the legal status of intelligent robots, and whether they ought to be given a new classification of 'electronic persons'. Artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/es/topics/artificial-intelligence-ai-90?page=23",
-      "originalUrl": "https://theconversation.com/es/topics/artificial-intelligence-ai-90?page=23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/393723/original/file-20210407-17-yj7942.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip",
-          "width": 496,
-          "height": 331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-artificial-intelligence-in-precision-medicine-market-research-2021-to-2027-post-impact-of-worldwide-covid-19-spread-analysis.md",
-      "title": "Artificial Intelligence in Precision Medicine Market Research 2021 to 2027 Post Impact of Worldwide COVID-19 Spread Analysis",
-      "excerpt": "The Artificial Intelligence in Precision Market research report offers qualitative and quantitative insights in relation to industry growth rate market segmentation Artificial Intelligence in Precision market size demand and revenue The current trends that are expected to influence",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2263942/artificial-intelligence-in-precision-medicine-market-research",
-      "originalUrl": "https://www.openpr.com/news/2263942/artificial-intelligence-in-precision-medicine-market-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U331110154_g.jpg",
-          "width": 780,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2263942/artificial-intelligence-in-precision-medicine-market-research",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2263942/artificial-intelligence-in-precision-medicine-market-research",
-      "publishedDateTime": "2021-03-31T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

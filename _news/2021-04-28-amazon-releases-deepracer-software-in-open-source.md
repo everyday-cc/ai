@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/amazon-releases-de
 webUrl: "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912"
 type: article
 quality: 66
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
   - AI in Autos
 
-related:
-  - title: "AWS DeepRacer Follow the Leader (FTL) sample project"
-    excerpt: "Learn to deploy an object detection model that enables the AWS DeepRacer device to identify and follow an object. - aws-deepracer/aws-deepracer-follow-the-leader-sample-project"
-    publishedDateTime: 2021-04-28T01:31:26Z
-    webUrl: "https://github.com/aws-deepracer/aws-deepracer-follow-the-leader-sample-project"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 71
-    images:
-      - url: "https://opengraph.githubassets.com/e7140ff7471f6a805315ad5fc43967a430dedc669bb4f709b5d77bf7972c5b36/aws-deepracer/aws-deepracer-follow-the-leader-sample-project"
-        width: 1200
-        height: 600
-        isCached: true
-
-secured: "XWPUtTg17gQhR1rJAS7iIV97vKzYxyXIPXwX1FsePEid61rihQCeLMbPjGV+eOpYc/86P2WZNUftpK5FQQwTaRdetJGIq1acJjO0iAia25JZv3MqxYaKC4PTiuTqZ+XiTaBl3oXudkN7RqjCmG/uzBxTrP9OWuhztr32m9wM+BEZ0sRc+0dmPvKGqprVx9xrTw0jG4uhQ6lQlOiuj5jZI2oEuaA+1tKnaMUn96LTOtPRSZefYZ0vBTQX/iHIvNc3RCo0TYqj7oFLoqkSOCdytVbj3mc3Q9Zh02QjI/BTJhZJAf9dIKePMDDreiim5pST9Jqdysk5mnjSKOIs/lB0hdj3zvthahqUYr/9YCgsE2c=;UdUS4oKFm5BChjpbSoqsyg=="
+secured: "ZkNeneWWFhDwwVr1vjAscHz9oUW+zjvZDlzuJEjG+kp7t4epYmiYYNQOg+gu1ad0QxTXQ7FImNh4b7le2ZKK4QZgimGsTK8CbASIZrlSvBwJo1+8zq7tGQZAFVJd/S+I2Ji+CqCTQgXuWsyBMyyMncTHgOXT9H4321tmhQOG0Z6Z2DE7kgNe+vluQBX3widUTPVxG4WUx31uEBYtLzalTF+kIiNAXWXzwOnAKLDh10vSQsagJge1SXKkxNH+LO2ZPHBkLmynNh6cx2SFH0BaA621MbZ5mu0GoxXnY41lIyl9J88wM8FnTyS9AdLiYxRLq9BbmrIy5r6nYYF1HFenSC/wjsZlSWImO2P/27C5u74=;otvAC9eodJOHQ/aAcoEsCw=="
 ---
 

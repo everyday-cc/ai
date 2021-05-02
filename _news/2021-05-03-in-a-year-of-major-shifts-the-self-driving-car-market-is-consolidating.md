@@ -1,20 +1,22 @@
 ---
 category: news
-title: "The UK will make ‘self-driving’ cars legal this year"
-excerpt: "The UK is making self-driving partially legal in the spring, so you should have an easier time in the cockpit. But you shouldn’t think of watching a movie or playing games on your phones while driving just yet."
-publishedDateTime: 2021-04-28T07:02:00Z
-originalUrl: "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-legal-this-year"
-webUrl: "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-legal-this-year"
+title: "In a year of major shifts, the self-driving car market is consolidating"
+excerpt: "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market."
+publishedDateTime: 2021-05-02T19:15:00Z
+originalUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/"
+webUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/"
+ampWebUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Next Web
-  domain: thenextweb.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F08%2Falks-lane-keeping-motorway-autopilot-autonomous-vehicles-car-ev-government-uk.png&signature=6a91d3ce2373b7deb8b2941ecca9fea1"
-    width: 1280
-    height: 640
+  - url: "https://venturebeat.com/wp-content/uploads/2019/11/volkswagen-electric-car-id3.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -61,21 +63,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "In a year of major shifts, the self-driving car market is consolidating"
-    excerpt: "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market."
-    publishedDateTime: 2021-05-02T19:15:00Z
-    webUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/"
-    ampWebUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
+  - title: "The UK will make ‘self-driving’ cars legal this year"
+    excerpt: "The UK is making self-driving partially legal in the spring, so you should have an easier time in the cockpit. But you shouldn’t think of watching a movie or playing games on your phones while driving just yet."
+    publishedDateTime: 2021-04-28T07:02:00Z
+    webUrl: "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-legal-this-year"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/volkswagen-electric-car-id3.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F08%2Falks-lane-keeping-motorway-autopilot-autonomous-vehicles-car-ev-government-uk.png&signature=6a91d3ce2373b7deb8b2941ecca9fea1"
+        width: 1280
+        height: 640
         isCached: true
   - title: "UK says 'self-driving' cars could be allowed by the end of 2021"
     excerpt: "The UK government has announced that basic self-driving cars with automated lane-keeping system (ALKS) could arrive on British roads by the end of 2021. The new designation will allow trials of such systems, allowing Britain to develop its own self-driving ..."
@@ -198,6 +198,6 @@ related:
       domain: iottechnews.com
     quality: 4
 
-secured: "sx/cRE+w3ml4/rtY8cGgU73Bez1+Eh6R8uOvq25YO2u2RpzPtdGbPP8O3fjWkwI3/puZEkodiioHNdotELd5GGmfOU5ijO6ITAf7JzAAnpa19U3PRH3tRWUB/e3RUfuQW/IyKxU3P8IDryPfNPn/cLEFXEyZWh2f42jJ7o5e0dCrbAT78jypNlQOKoVehJyon8zIhF1/OTjX5Zv9vylxBfyWbrrRwIiJ81qYrBSZLXi12FbJOYfmHdfc3aXkqP5fDkEgGr9pG+k8OvvAwDWJyuhQXyxdYfMe1Kg8zWnLn63eUG7rt+uRzxDq8Q/lmgdbkaxZ/JNcNXUSSRLfjPxyCX/aboaThbnS8hJyCUEWho4FpqyRLInpKrn5dW7xMLqdFw8h1zOwTnOtk4G7ue77YUAjpJlLgsMjiEqQ+VhlTToSnNwKe+RaNQJuzklgUp3QMxdMDDHscyLxZ5ZCiCtWeE1KNDjXTEp2wtYod74/czyMHhbaLmrIFY6WgxE/1nwb+A4YF9i4kcIAt7iVpwcZfw==;5q8eIguJfa1yF1lOPBDL8w=="
+secured: "0c/iBid6G0chRa3id+KAMtXWZ4jZQqQAlCgZp3lCVBkd+9rZlZXucgheguzy1uUqyzXOxxteOVzw7x87Wng1lIRHZPLLbFmymAZN/6GJ7Zb0OJcZ+y7qE2pLsVP5rxxy7Uc+sat++iZIC4b+1bsKgZZlnEFuoV0zxsvnYlWlTnSYqpXUFVWdNASxNn7gBmGqlkDMKZyQW/BCQt06WZHe8LoWE4GX2WDhlNpKK1vAIZx9H9zw59ZmXEdj/YloZdgrwUPXOxwicZ9W7Vn3zVtQj0+Q3TH518SAYn//T0HNeBbe3WP4kU5NUiSw4lCmETcyk5HH6LHRKKjoIqSd9xYzOUTEEtp3P8Pt+tV8IMo3GHQ=;HeQb7CkbTjPQXC+6Mroj9A=="
 ---
 

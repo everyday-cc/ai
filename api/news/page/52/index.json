@@ -2,6 +2,93 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-03-01-core-scientific-achieves-aws-high-performance-computing-competency-status.md",
+      "title": "Core Scientific Achieves AWS High Performance Computing Competency Status",
+      "excerpt": "BELLEVUE, Wash., March 1, 2021 /PRNewswire/ -- Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain that is led by CEO Kevin Turner ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/core-scientific-achieves-aws-high-performance-computing-competency-status-301237666.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/core-scientific-achieves-aws-high-performance-computing-competency-status-301237666.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg?p=facebook",
+          "width": 648,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-home-lending-pal-leverages-ai-and-machine-learning-to-efficiently-solve-lenders-and-borrowers-problems.md",
+      "title": "Home Lending Pal leverages AI and machine learning to efficiently solve lenders’ and borrowers’ problems",
+      "excerpt": "Home Lending Pal (HLP) has an anonymous marketplace that uses conversational intelligence, machine learning and blockchain ... like to work with based on service quality and approval likelihood ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.housingwire.com/articles/home-lending-pal-leverages-ai-and-machine-learning-to-efficiently-solve-lenders-and-borrowers-problems/",
+      "originalUrl": "https://www.housingwire.com/articles/home-lending-pal-leverages-ai-and-machine-learning-to-efficiently-solve-lenders-and-borrowers-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.housingwire.com/wp-content/uploads/2021/02/AdobeStock_290218047.jpeg",
+          "width": 5477,
+          "height": 2739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T03:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HousingWire",
+        "domain": "housingwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-medical-bionic-implants-and-exoskeletons-market-revenue-to-increase-at-75-cagr-during-2017-to-2027-future-market-insights.md",
       "title": "Medical Bionic Implants and Exoskeletons Market Revenue to Increase at 7.5% CAGR during 2017 to 2027: Future Market Insights",
       "excerpt": "Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Although Future Market Insights maintains a positive outlook on the global medical bionic ...",

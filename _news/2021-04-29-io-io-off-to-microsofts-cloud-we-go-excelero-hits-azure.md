@@ -80,20 +80,6 @@ related:
         width: 696
         height: 464
         isCached: true
-  - title: "Microsoft sees revenue boost from growth in cloud services"
-    excerpt: "Cloud services are becoming more and more important to Microsoft's business. Its Intelligent Cloud services revenue was up 23% year over year."
-    publishedDateTime: 2021-04-28T01:08:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/27/microsoft-sees-revenue-boost-from-cloud-services.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-    images:
-      - url: "https://media.bizj.us/view/img/12001532/microsoft-in-redmond-april-2021-02*1200xx3356-1893-0-218.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "Provides assurance and observability support for telco-clouds running on Azure LONDON, UK – MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs),"
     publishedDateTime: 2021-04-28T13:09:00Z
