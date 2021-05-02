@@ -3,14 +3,9 @@ category: news
 title: "New AI Regulations Are Coming. Is Your Organization Ready?"
 excerpt: "Clearly, the regulation of AI is rapidly evolving. But rather than wait for more clarity on what laws and regulations will be implemented, companies can take actions now to prepare. That’s because there are three trends emerging from governments’ recent moves."
 publishedDateTime: 2021-04-30T12:05:00Z
-originalUrl: "https://hbr.org/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
-webUrl: "https://hbr.org/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
-ampWebUrl: "https://hbr.org/amp/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
-cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
+originalUrl: "https://hbr.org/2021/04/new-ai-regulations-are-coming-is-your-organization-ready?ab=hero-main-text"
+webUrl: "https://hbr.org/2021/04/new-ai-regulations-are-coming-is-your-organization-ready?ab=hero-main-text"
 type: article
-quality: 57
-heat: -1
-published: false
 
 provider:
   name: Harvard Business Review
@@ -19,44 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://hbr.org/resources/images/article_assets/2021/04/Apr21_30_579271601.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-related:
-  - title: "Artificial Intelligence Is Misreading Human Emotion"
-    excerpt: "There is no good evidence that facial expressions reveal a person’s feelings. But big tech companies want you to believe otherwise."
-    publishedDateTime: 2021-04-27T22:28:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2021/04/artificial-intelligence-misreading-human-emotion/618696/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/618696/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618696/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 87
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/wrG9Mzuhijw5-pB4uy5KILnDq40=/570x321/media/img/mt/2021/04/1_The_Atlantic_illustration_AI_MASK_Irene_SuosaloStill-1/original.jpg"
-        width: 570
-        height: 321
-        isCached: true
-  - title: "A scientist created emotion recognition AI for animals"
-    excerpt: "A researcher at Wageningen University & Research recently published a pre-print article detailing a system by which facial recognition AI could be used to identify and measure the emotional state of farm animals."
-    publishedDateTime: 2021-04-30T19:40:00Z
-    webUrl: "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Flivestockemotion.jpg&signature=bc77a1971b37144e3e614b7fcb233d9f"
-        width: 1280
-        height: 640
-        isCached: true
-
-secured: "Nfy42nemR2nnqL63tcVsvkU2FNVi29LPZHGMM44UVaYDNtcmu1CZvDLOuO626vsGexHbqKKh/5lLY06ssURkinHOs1HbwjqVuJ/AL26khHW2w/41gR0Cv+QKAUj+v2gyuq9KaFKco/GREc4aWbZxQBWFyUfIMwRo6c579UMfFN/Ta5fcdiVIZsw4XmAOq7CKkwj2Aiv0CyJEGEcxX1wqLgzKnwwbAYbdaxN+bhPMHcTN61Ugrd+1tFZ3/2pty/Yk1WvGIh5o5uKF/qbyTidIbtLmMi91erQcqb9Xk4FzyI7XCNudASkvY5D/Z7f5ml+cK3+mGJ3EJKeJYWwrPAQ64V/vAutXjpSTEBdAXLTUPzLretFzMKStv8h5shdugQrXPNfVSANgl42VwkdDUKIteTNxLIO3M/GYtffSo5rITkwpBXMlrLAWLsAWnlw+X9qeeCLFzVkIglyGB2nS3onnLmbpqBGLaotu4LTZgvZ8gVj4/1ypW/P2HrH24J3hf1X0RLIRS/SQ8LoKbhvk6onXlQ==;dVc6rX1eBisYGqzmvG4YNw=="
+secured: "Q69NyAQCCQ732/87gJkB1bcKVziK6HYXJ3CsvTz4KFwXjq4WVDUU9RiCwsF+s1G989Re7GEQLziU03A66OR8gMWO6CL8LYcyv3a+iIUwvQ28GuenbwpDUu1MiwMdcvsdCjQKWCHjQii+R12pFSBKv0s3wI6/Wzwq9zG6V1+5008QRp0p/Gld39+1Dr5jsPir6pFoON7oIFRWSfPB8xBeDrSdjOtaevje5qBs0b5GcJe3d19grBRiblUxm6FA41tcWW9GP7mRAOal9VDeKW00BGRAJC4gEYYLoLpbymuw66rtjn3oCgE34Jqua3i3jjFxcqjDZSozvc8ZM4COy8q7NF4daaYNdb/Pt9y6Da7MpUitkoNK4Z72rHYWVBaEJPlZpGq1DokkEU4LtK4MVuiEPzR5C+uPSzDFRKtLKX+mUL61GzLjgHSeT3qVwW7AR8zpsDwueFdRlbQmRo4gxgcCvs4RUgL3ASkpArtoz22bw+0VI0IUhCbJ0qJHsjtLulKkxqGM70odAZKicegBpp+aXA==;HWx8ylSLbPMFQLiD/j3HsQ=="
 ---
 

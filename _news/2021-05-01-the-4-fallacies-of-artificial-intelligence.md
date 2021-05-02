@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.ctfassets.net/cnu0m8re1exe/7fWlxP5pbUOWtYOq9nWOKk/0e4afdfaf151a66642346beca3ad3413/shutterstock_1154457493.jpg"
