@@ -49,20 +49,6 @@ related:
         width: 590
         height: 441
         isCached: true
-  - title: "Toyota acquires Lyft's self-driving division"
-    excerpt: "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlig"
-    publishedDateTime: 2021-04-28T04:00:00Z
-    webUrl: "https://journalgazette.net/business/20210428/toyota-acquires-lyfts-self-driving-division"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 24
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210428/ARTICLE/304289980/AR/0/AR-304289980.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "fZ5cVB+80dhKxEj1DSNdQ2m5eUdCyKbe0rRefy2ljO/VPRoloIEOPMbANNWs2jxNUQqyZ2oMaRc69mo5D6kTZVWRoa0CWXku4K46B6H5SrEyI2jNy36zskRJ2ZwHfz4AkKGnYNs/h7g+a5GYl77x//QWJTZ1GY04WXSw6EiIrE+XJel34aAX/vKbkJGtf/Ghohi5jeeo0qiWfsoJcvd65ddxb8KEDALljuvdzmkAE88RM1jAlTn7yTYzyS9rH/WBr5Sa6vtMEtmSvETFJleKzx8wvOYZKZIu8UjRWO45Nqxsz4GAQsXRBCFqs+UA1rFyeYF8CoqmzEaacXXsfChE/5EMg+Y9paJ+GjNe3WJ4CeQ=;ZePeRHjNXWulCBQCsxfhSQ=="
 ---

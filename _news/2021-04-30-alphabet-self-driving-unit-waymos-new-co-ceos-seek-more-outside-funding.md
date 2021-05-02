@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Lyft sells its self-driving division as it moves away from autonomous vehicles"
-    excerpt: "Lyft has decided it’s going to play things safe going forward. The rideshare company is getting out of the self-driving business altogether and is selling"
-    publishedDateTime: 2021-04-28T14:58:00Z
-    webUrl: "https://www.consumeraffairs.com/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
-    ampWebUrl: "https://www.consumeraffairs.com/amp/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
-    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
-    type: article
-    provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
-    quality: 40
-    images:
-      - url: "https://media.consumeraffairs.com/files/cache/news/Lyft_logo_concept_with_car_in_background_jetcityimage_Getty_Images_large.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "Fby5FSUIBF58cfQN1u+syuTMkugxopyWXZnE2ZqsQ+K/yH4G2X9z5uNbAtN1zGDqGb1Vc89lqQuUn/9/SoGdmhyfSAYFIAgT30eYoQpD31sgtqXICCcZ7qDuDxGgZ9s0rzJ+0NJJy05OkQJWGGOtSbtwzBqS5/2mLTmjVh+1Psw7jlmQHx5WZeADi7M2NYnFGrH7zQTFbhrQXwAv6RRHmoQEERtqtZ0+sbfVLYL52z94jXxGYLqeQg+SBpYPRuikRj8GH59ucCX1TwJzsVZk5eJkoXTwAtil9Cal0oYXJJJvkWbSNnoPqlh9Y2pW53gNXQja23CA1QwOmTDije5Aht6CJ812PKb4iB1dPU64G6Ctjv7rnORJKI9dZIaL5xfl040W00G2a4tc4p3EyIA9NIXq1JyuouiDhARpBjL/d2FRU6nbtKDAb97q4w+6aB05h8ZpYzDRZpF+YHBaxzhTtgjf5gb22v4EPQtd9paO2AUkaPHdzuvwrpyRjY3CbZiiiPs90/kld5nW02Y50GGMvQ==;LKPsnACx1/7Y2jkBmnJzvg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-dail
 webUrl: "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-daily-toyota-is-building-a-city-for-self-driving-cars"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/09/Lyft-1.jpg"
         width: 590
         height: 441
-        isCached: true
-  - title: "Toyota acquires Lyft's self-driving division"
-    excerpt: "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlig"
-    publishedDateTime: 2021-04-28T04:00:00Z
-    webUrl: "https://journalgazette.net/business/20210428/toyota-acquires-lyfts-self-driving-division"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 24
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210428/ARTICLE/304289980/AR/0/AR-304289980.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Toyota to buy Lyft's self-driving car unit for $550M"
     excerpt: "As part of the deal, Lyft and Woven Planet will work together on enhancing automated driving technology safety, according to a release."

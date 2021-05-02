@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Self-driving’ cars could get green light for use on UK motorways this year"
-    excerpt: "Automated lane-keeping systems likely to be allowed only when traffic is moving slowly"
-    publishedDateTime: 2021-04-28T04:48:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
-    images:
-      - url: "https://i.guim.co.uk/img/media/94d7138351039ada10b40e6fad51eeb0e34f9100/0_0_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e88a6f9f477ee4aeb92d71379969444"
-        width: 600
-        height: 360
-        isCached: true
   - title: "UK prepares to conditionally legalize self-driving cars"
     excerpt: "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,"
     publishedDateTime: 2021-04-29T05:52:00Z
@@ -57,21 +41,67 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "In a year of major shifts, the self-driving car market is consolidating"
-    excerpt: "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market."
-    publishedDateTime: 2021-05-02T19:15:00Z
-    webUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/"
-    ampWebUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
+  - title: "Gnarly Skateboarders Trying Dangerously To Hitch A Ride On Self-Driving Cars"
+    excerpt: "Skateboarders sometimes try to do bumper hitching, which is dangerous and should not be done, but the question is how will self-driving cars deal with those gnarly riders."
+    publishedDateTime: 2021-05-01T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/volkswagen-electric-car-id3.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b3cbc04d846306ea674dc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2275%26cropY1%3D0%26cropY2%3D1279"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Hyperdrive Daily: The Self-Driving Car Race Hardly Matters"
+    excerpt: "Welcome to the Hyperdrive daily briefing, decoding the revolution  reshaping the auto world, from EVs to self-driving cars and beyond."
+    publishedDateTime: 2021-04-30T11:31:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-04-30/hyperdrive-daily-the-self-driving-car-race-hardly-matters"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWE7ospu7tSc/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Self-Driving Cars To Conveniently Haul Fancy Stores To Your Doorstep For Your Shopping Delight"
+    excerpt: "Self-driving cars will be used to haul around mobile stores, bringing the shops to your doorstep, which is quite convenient though presents some hefty challenges for AI."
+    publishedDateTime: 2021-04-29T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606252c768cbbbf4ea56d79e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2460%26cropY1%3D124%26cropY2%3D1508"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Making Safe Self-Driving Cars Is Really, Really Difficult, So Lyft Just Sold Its Self-Driving Tech"
+    excerpt: "Lyft just sold their self-driving tech to a Toyota subsidiary. Uber bailed out of their effort in 2020. Tesla drivers over-rely on self-driving tech with disastrous results. Meanwhile, companies continue to wrestle with autonomous driving tech."
+    publishedDateTime: 2021-04-28T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/"
+    ampWebUrl: "https://www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6088f359ae5e001f1312768e%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "The UK will make ‘self-driving’ cars legal this year"
     excerpt: "The UK is making self-driving partially legal in the spring, so you should have an easier time in the cockpit. But you shouldn’t think of watching a movie or playing games on your phones while driving just yet."
@@ -101,6 +131,22 @@ related:
         width: 2000
         height: 1182
         isCached: true
+  - title: "Self-driving cars coming to a slow lane near you, Government announces"
+    excerpt: "The UK Government has announced that it will be legal for motorists to go hands-free in self-driving cars later this year."
+    publishedDateTime: 2021-04-29T11:19:00Z
+    webUrl: "https://www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/"
+    ampWebUrl: "https://www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/amp/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 44
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/04/GettyImages-168495211-ae2e539.gif?quality=90&crop=4px,51px,913px,393px&resize=960,413"
+        width: 960
+        height: 413
+        isCached: true
   - title: "UK signals self-driving cars could hit road this year"
     excerpt: "Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel."
     publishedDateTime: 2021-04-28T18:24:00Z
@@ -116,6 +162,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/vehicles.jpg"
         width: 1920
         height: 1368
+        isCached: true
+  - title: "Lyft sells its self-driving division as it moves away from autonomous vehicles"
+    excerpt: "Lyft has decided it’s going to play things safe going forward. The rideshare company is getting out of the self-driving business altogether and is selling"
+    publishedDateTime: 2021-04-28T14:58:00Z
+    webUrl: "https://www.consumeraffairs.com/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
+    ampWebUrl: "https://www.consumeraffairs.com/amp/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
+    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
+    type: article
+    provider:
+      name: ConsumerAffairs
+      domain: consumeraffairs.com
+    quality: 40
+    images:
+      - url: "https://media.consumeraffairs.com/files/cache/news/Lyft_logo_concept_with_car_in_background_jetcityimage_Getty_Images_large.jpg"
+        width: 700
+        height: 467
         isCached: true
   - title: "The UK will allow self-driving cars on its roads in 2021, and some hope they will put an end to traffic"
     excerpt: "The UK government will allow vehicles fitted with lane-keeping systems to drive on motorways later this year."
@@ -170,6 +232,20 @@ related:
       name: Rojgar Samachar
       domain: jagranjosh.com
     quality: 20
+  - title: "Sky-high costs and complex manufacturing are driving consolidation in the AV market"
+    excerpt: "With the purchase, Toyota—the world’s largest carmaker by shipments—gains access to Lyft’s fleet of driverless vehicles along with its team of engineers and research scientists. Toyota has been quietly working on its own self-driving cars for ..."
+    publishedDateTime: 2021-04-28T16:14:00Z
+    webUrl: "https://www.emarketer.com/content/sky-high-costs-complex-manufacturing-driving-consolidation-av-market"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 18
+    images:
+      - url: "https://contentstorage-nax2.emarketer.com/17417f37aacf22fd216d0fc5ba076531/default-image-share.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Self-driving cars could be on UK roads by the end of 2021, but not as you might expect"
     excerpt: "The Department for Transport has laid out plans for vehicles equipped with Automated Lane Keeping Systems to be legally defined as ‘self-driving’."
     publishedDateTime: 2021-04-29T17:10:00Z
