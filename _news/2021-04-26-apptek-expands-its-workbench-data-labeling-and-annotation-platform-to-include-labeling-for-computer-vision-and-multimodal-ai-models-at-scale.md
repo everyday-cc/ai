@@ -1,28 +1,27 @@
 ---
 category: news
 title: "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today announced the expansion of its Workbench data labeling and annotation platform to include video labeling capabilities for computer vision models,"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
 publishedDateTime: 2021-04-26T16:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20796180"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20796180"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://mma.prnewswire.com/media/1496629/AppTek.jpg"
-    width: 400
-    height: 286
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630"
+    width: 880
+    height: 630
     isCached: true
 
-secured: "Oq0r7GCR9bUsvlxJXa3TI547bndw4f3XXFq6AJD552x105B9eyBhUzSw18/r7wZdOqxnzZjezpnqHcxAWxiYRyPaCoPKJnUtnhsxCHUI3qqZMNEyS3+M2+T6gjgkShS7Lcl8UP+uXMLlcj1tMic/DzXmf4lYxf5/EBAMWOBm6ny9dSx5zkWvCs+9rRc3BhYVPtuzaRKoJQ2swuMzeUv2aFkkDDZ2LYdLSnyabJ/8a7MVbfkQNbAynPNIvsWKaoC2z0MdDcaycNDNbR9oGfS0uXZgQ5yDFjKNvTm7yYvFvvnoJ7brjwfDZPsfm70EWsxC4Ff7Fs02KeSPnxjrEE4fC2CmOG5nYxflQ73ZLy9K5e8=;HRtCAnsVvH3AmQag/uuUnQ=="
+secured: "Kvd357xjqLlGFf0yul3k7dYZjl4NayU41n0/EEjoAjdEOtFhM3UfsNX4QN4wt1CKTBeS6PdxLA2UKPBn9zGt9ajoXiSfm4UMnZv1qhmZzp3PDig3JqJa8h95cL+3MaRYCgzY19cEehbL6LLoGf4afA2LFYUiXGIcEk6eLTMXr0paPaY+HADAnl8V0MszRjYi1ib+Syhl7CT9efZEY+2tHHm8bby8r1mHISt9JNecvXL+u0Pv3klS5OaNmnS3/Y82B5AHj1TMhVJW8UyaO9j5DM1BTnOJvk72kbkSIISW/RZwCpBiJ+371hg4fQ1S/Ts3tuZBQIJ6HXEkwC/x99iUHvt66R4kTIKi9bhzHs6nsK0=;BgaTARuZdNoMygCRvrJtlQ=="
 ---
 

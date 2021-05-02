@@ -36,20 +36,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Artificial Intelligence Software Market Impact Analysis for the New Normal| Ipsoft, H2O.ai, Brighterion, Ada Support, Microsoft"
-    excerpt: "Artificial Intelligence Software Market is growing at a 33.10% CAGR during the forecast period 2020-2026. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
-    publishedDateTime: 2021-04-27T12:12:00Z
-    webUrl: "https://ksusentinel.com/2021/04/27/artificial-intelligence-software-market-impact-analysis-for-the-new-normal-ipsoft-h2o-ai-brighterion-ada-support-microsoft/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 43
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/A2Z-Market-Research-16-P-199.png"
-        width: 552
-        height: 308
-        isCached: true
   - title: "Artificial Intelligence In Genomics Market by Drivers, Restraints, Opportunities, and Challenges | Ibm, Microsoft, Nvidia Corporation"
     excerpt: "AI in genomics market to register a CAGR of 52 7 from 2020 to 2025 ReportsnReports added Artificial Intelligence In Genomics Market Research Report created by Report Consultant which offers detailed insights revenue details and other information regarding the global"
     publishedDateTime: 2021-04-30T07:17:00Z

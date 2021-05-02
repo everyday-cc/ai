@@ -55,6 +55,17 @@ related:
         width: 2560
         height: 1840
         isCached: true
+  - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
+    excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
+    publishedDateTime: 2021-05-02T05:10:00Z
+    webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
+    ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 56
   - title: "IO, IO, off to Microsoft’s cloud we go: Excelero hits Azure"
     excerpt: "Excelero has made its scale-out NVMe-oF array software available on Azure. NVMe-oF (NVMe-over-Fabric) extends a server’s PCIe/NVMe protocol across network links. This means a server application can access remote flash drives for block data at  RDMA speeds."
     publishedDateTime: 2021-04-29T14:48:00Z

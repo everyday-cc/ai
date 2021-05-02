@@ -34,15 +34,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "InveniAI and Shionogi Enter AI-Powered Multi-Target Drug Discovery Collaboration"
-    excerpt: "Teams will work together by leveraging InveniAI’s technology to identify, evaluate, and optimize novel targets for drug discovery ; Shionogi will synthesize and develop compound"
-    publishedDateTime: 2021-04-27T12:12:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/health-science-technology-business-72f3dd42736a54130181043b83cce43f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
 
 secured: "rhDr3nNyNpA47O/CAidwUJFFry+3JXifzo0Zk1jdgJJy8n7d1NRq6QO7EcaX0+eZZP+8mklR3NpBg7MuXZHUMPmidSBwoRwPPpydg7CSNd4jB0vUeRdN5ifVd1/3W3urP3QfsBWE0LZIiDym9oQzLOt1JQPZ3YujXvX/pULdCCHBvO4qvPUSYVJXTDtD/2x6OToNVDIm3flzfhzaO67pBexKCeovtd851fF37BG6uVWvOkirpE+83vU7vtv7t6JB8W+xSBiEE1jsRg+O4Gy7JqmVIhQJy4ExCHsGKccmzG4a/DLipnEeHKuqNZnxt/+w40kSKWiiIUwGxIFD8u2lcGWCnF71H8rB9kJK5k2Bbm0=;8TTM/aLbJYt+PGZI55sO7w=="
 ---

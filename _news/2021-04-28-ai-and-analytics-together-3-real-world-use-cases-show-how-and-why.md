@@ -32,24 +32,6 @@ related:
         width: 1600
         height: 1035
         isCached: true
-  - title: "Adobe extends AI-infused customer analytics platform to offline data"
-    excerpt: "Adobe extends its AI-infused platform for analyzing customer journeys to now include data pulled from offline sources."
-    publishedDateTime: 2021-04-27T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/27/adobe-extends-ai-infused-customer-analytics-platform-to-offline-data/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Location data analytics startup Placer.ai raises $50M Series B"
-    excerpt: "It’s been a very tough year for Placer.ai’s core customer segments of retail and commercial real estate, to put it mildly. But the foot traffic and location analytics startup saw growth in new categories,"
-    publishedDateTime: 2021-04-27T12:00:00Z
-    webUrl: "https://techcrunch.com/2021/04/27/location-data-analytics-startup-placer-ai-raises-50m-series-b/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
 
 secured: "gFDpDsres7hrSZDWXqbDyXtFLwqk2C5jq3SPkBINfcWiCePkZ8ks6nQfo7anlxBNucll4rfhfPKDUg+JW1xtBC5l4mrrwf7SdPPkZyiJslaG9pjxrO9oCrmwkobejPS027F+8VYchDOuyWVBaHveoCYw4ZjXqLv461ujG+nFJ8ceWx95YdK5t9+Q40EvwnbN+ImmJMCcu+zd/0HK13RhZr4Xy8z6XlRgC/ffklkGaB89yrEzMMRPVFMNdb67w+fWUO/LQFQyf90Eswcm+ZnBx+pEnKOONUlNNYJ/5YzjGGUZ5D0iaST66IfPIvuiqCtGODcNEmuqmb4N72wklvRylgnzviq12CMGvBZQyyC3ZHs=;3DmJtkMQiamZREapLi1Apw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sale
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -84,15 +84,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 18
-  - title: "Global Machine Learning Operationalization Software Market Factors Details and Comprehensive Research Including Top Companies"
-    excerpt: "This report can be used by market players to learn about the competitive landscape and the level of competition in the global market. This market report includes a comprehensive evaluation of the market’s growth prospects and restrictions."
-    publishedDateTime: 2021-04-27T12:59:00Z
-    webUrl: "https://ksusentinel.com/2021/04/27/global-machine-learning-operationalization-software-market-factors-details-and-comprehensive-research-including-top-companies/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 7
 
 secured: "pEFVp64d3wZ1a/mA45e/WjsE3odqaI3k8RkdbpkjfaW0Ly5QdOEXJMkb70gwQJ4dMP4NPtedWeSbWSw1ahzQCygi1HsLcHhdHzCFfp/Kxr9QxqthO38GlWLfSlDl1ATbIszXFM9lTQpbCL/tj0sD0FmLzKU5J+J5nCK0IqDRsSVknJ4C5oYqIEufYGMESuyQ1a6rE79l10n8j06Q0LWidhQ2l/Kk5NCoycz3wyO7z0xq9cCJ1bdpdAqK2tQVDwZ25x0qMgYc2HJwjE8JUKH7gNpMErxDR7ZZOA8MF0ji0TH11t8H3T68bd1SyZwCgExZ8K/C8Gp0VePJdyFdwGF2jnFlgYjlVCb3eQiky2CcF0WBskhU0AXh8S03HvFIA/ENKtuBkUkOFg639SbxNReEmAe3s5XsZbF+ztYnV+la8cDUYbAFwIvO+X8quTZi/2VigRAM+2iJFx3dKEkvivgiL4hTs49E/SVeUGe6zZchiq6KdSMnNJSPOThFuEsyj5Q6HnBeLDO/3Ks1Pnb+lcpNtQ==;wMLfN0H0sFlRxLjyTNmsiw=="
 ---

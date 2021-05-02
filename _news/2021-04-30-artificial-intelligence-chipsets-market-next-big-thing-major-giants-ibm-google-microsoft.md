@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Software Market Impact Analysis for the New Normal| Ipsoft, H2O.ai, Brighterion, Ada Support, Microsoft"
-    excerpt: "Artificial Intelligence Software Market is growing at a 33.10% CAGR during the forecast period 2020-2026. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
-    publishedDateTime: 2021-04-27T12:12:00Z
-    webUrl: "https://ksusentinel.com/2021/04/27/artificial-intelligence-software-market-impact-analysis-for-the-new-normal-ipsoft-h2o-ai-brighterion-ada-support-microsoft/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 43
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/A2Z-Market-Research-16-P-199.png"
-        width: 552
-        height: 308
-        isCached: true
   - title: "AI in Social Media Market 2021 Precise Outlook – Google, Facebook, Microsoft, AWS, IBM, Twitter"
     excerpt: "Global AI in Social Media Market Size, Status and Forecast 2021-2026. The AI in Social Media Market report is a valuable source of insightful data for business strategists. It pro"
     publishedDateTime: 2021-04-28T09:32:00Z

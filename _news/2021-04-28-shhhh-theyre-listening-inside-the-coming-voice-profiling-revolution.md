@@ -37,6 +37,22 @@ related:
         width: 754
         height: 494
         isCached: true
+  - title: "Joseph Turow: Shhhh, they're listening – inside the coming voice-profiling revolution"
+    excerpt: "It soon became clear to me that we’re in the early stages of a voice-profiling revolution that companies see as integral to the future of marketing. Thanks to the public’s embrace of smart speakers, intelligent car displays and voice-responsive phones — along with the rise of voice intelligence in call centers — marketers say they are on the verge of being able to use AI-assisted vocal analysis technology to achieve unprecedented insights into shoppers’ identities and inclinations."
+    publishedDateTime: 2021-05-02T04:00:00Z
+    webUrl: "https://greensboro.com/opinion/columnists/joseph-turow-shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution/article_3bcc495e-a83d-11eb-aec3-3fde20e3f7e8.html"
+    ampWebUrl: "https://greensboro.com/opinion/columnists/joseph-turow-shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution/article_3bcc495e-a83d-11eb-aec3-3fde20e3f7e8.amp.html"
+    cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/opinion/columnists/joseph-turow-shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution/article_3bcc495e-a83d-11eb-aec3-3fde20e3f7e8.amp.html"
+    type: article
+    provider:
+      name: News & Record
+      domain: greensboro.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/2/37/23764152-a842-11eb-b1e6-1fcde80e900d/608993389e062.image.png"
+        width: 767
+        height: 418
+        isCached: true
   - title: "Shhhh, they’re listening – inside the coming voice-profiling revolution"
     excerpt: "You decide to call a store that sells some hiking boots you’re thinking of buying. As you dial in, the computer of an artificial intelligence company hired by the store is activated. It retrieves its analysis of the speaking style you used when you phoned other companies the software firm services."
     publishedDateTime: 2021-04-29T11:48:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-h
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software/amp"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.dcvelocity.com/ext/resources/2021/04/27/plusone_our-products-left.jpg?height=635&t=1619549271&width=1200"
         width: 997
         height: 546
-        isCached: true
-  - title: "Startup News: Plus One Robotics raises $33 million to fuel expansion"
-    excerpt: "Plus One Robotics, the leading provider of vision software for logistics robots, today announced $33 million of Series B funding. McRock Capital and TransLink Ventures co-led the round, with participation from BMWi Ventures,"
-    publishedDateTime: 2021-04-27T11:12:00Z
-    webUrl: "https://www.logisticsmgmt.com/article/startup_news_plus_one_robotics_raises_33_million_to_fuel_expansion"
-    type: article
-    provider:
-      name: Logistics Management
-      domain: logisticsmgmt.com
-    quality: 69
-    images:
-      - url: "https://www.mmh.com/images/2021_article/SCMR1903_SUP_Finance_FOUR-Main600.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "Plus One Robotics Raises $33 Million to Fuel Expansion"
     excerpt: "Plus One Robotics, the leading provider of vision software for logistics robots, announces $33 million of Series B funding. McRock Capital and Translink Capital co-led the round, with participation from BMW i Ventures,"

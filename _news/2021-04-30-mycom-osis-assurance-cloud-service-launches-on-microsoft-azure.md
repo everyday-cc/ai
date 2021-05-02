@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 2560
         height: 1840
         isCached: true
+  - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
+    excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
+    publishedDateTime: 2021-05-02T05:10:00Z
+    webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
+    ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 56
   - title: "ASUS announces Azure Percept Collaboration with Microsoft"
     excerpt: "Azure Percept DK provides an end-to-end platform for prototyping edge AIoT solutions Easing edge AI difficulties: ASUS and Microsoft collaborating to enable quick and easy prototyping of scenario-based edge AI solutions Azure Percept DK: Pilot-ready development kit integrates deeply with Azure AI,"
     publishedDateTime: 2021-04-28T07:30:00Z

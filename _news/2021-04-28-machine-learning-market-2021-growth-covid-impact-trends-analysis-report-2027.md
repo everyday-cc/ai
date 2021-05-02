@@ -64,15 +64,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 16
-  - title: "Cognitive Analytics Market 2021 Key Business Opportunities, Impressive Growth Rate and Development Analysis to 2026"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
-    publishedDateTime: 2021-04-27T12:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-key-business-opportunities-impressive-growth-rate-and-development-analysis-to-2026-2021-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 12
 
 secured: "UZmJzuvKOB4wn9qGQ/B5a3yQfxRzYjgDjtZMQwRp4w+KEP2SIBYGy76HLW5L4O9D4QXZXUtWI1pvZDAaf4f445puH7JcQCkR34rxCXIt4X6KSTirQ+e447RqEgYklugRyrRtBFuhi9T7KvHsjHaW3ueihuY67RSBlWFcmAqUFM+XQbucNy/SKHwu1IMTMhFRqykz+SB6FjUAKqAOEE1GbB6oCSNS/l+0SGSdjCeeL2+lICC4PI6+9KViHJ3U6XgIuloOFXmSYjHkBucKEHCJ3eUY9NQbW1p/dLnORI6vzWf5jgVg70kYexkDVXgG8obm32eqKHg6fLeqHqTHoBcDEQxXjcSNp5PnKWR5ZjTWcIg=;finOTmbr+kJQ7qUQnA5L4A=="
 ---

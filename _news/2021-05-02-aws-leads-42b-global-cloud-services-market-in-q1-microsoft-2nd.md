@@ -1,29 +1,25 @@
 ---
 category: news
-title: "Google Cloud on track to take on AWS and Microsoft Azure"
-excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
-publishedDateTime: 2021-04-29T05:51:00Z
-originalUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
-webUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
+title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
+excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
+publishedDateTime: 2021-05-02T05:10:00Z
+originalUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
+webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
+ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
 type: article
-quality: 71
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: MediaNama
-  domain: medianama.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Microsoft AI
   - AI
   - AWS AI
-
-images:
-  - url: "https://www.medianama.com/wp-content/uploads/2021/04/rajeshwar-bachu-K4txLik7pnY-unsplash-scaled.jpg"
-    width: 2560
-    height: 1840
-    isCached: true
 
 related:
   - title: "MYCOM OSI’s Assurance Cloud Service launches on Microsoft Azure"
@@ -42,17 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
-    excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
-    publishedDateTime: 2021-05-02T05:10:00Z
-    webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
-    ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
+  - title: "Google Cloud on track to take on AWS and Microsoft Azure"
+    excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
+    publishedDateTime: 2021-04-29T05:51:00Z
+    webUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 56
+      name: MediaNama
+      domain: medianama.com
+    quality: 71
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/04/rajeshwar-bachu-K4txLik7pnY-unsplash-scaled.jpg"
+        width: 2560
+        height: 1840
+        isCached: true
   - title: "ASUS announces Azure Percept Collaboration with Microsoft"
     excerpt: "Azure Percept DK provides an end-to-end platform for prototyping edge AIoT solutions Easing edge AI difficulties: ASUS and Microsoft collaborating to enable quick and easy prototyping of scenario-based edge AI solutions Azure Percept DK: Pilot-ready development kit integrates deeply with Azure AI,"
     publishedDateTime: 2021-04-28T07:30:00Z
@@ -105,6 +104,6 @@ related:
       domain: realwire.com
     quality: 34
 
-secured: "1CPFHtWhq9gWpwhJPfTFOuVxQf1k/h8JKe2i4uHgUrpMeH30Kl1JqMBAwLZjNL8QYITMwn20M5pTFiMRcGaBq3t7FW4plh4PJKyTh5i0bNLWpQggxEvQ2ntWtVli8zusffE73rYKOMgzMsluGF9NZwOv5XJaIPTNA5NR8VDxTNGh3EPLHBUiyRR4uI4HpSVN7aplCFdrQzQk/DlP+1luH0RvMjke0etboVLXMZFYvBPg9dLhrVMwAXjE57U1105Cy60djpta8J+170kn6A/kOkDSu0+uTDo5H+OAhzZQWIqlTSyxE5Z4jqOai5mesItZ1Hv42A9ezOqGyT2TzdqvVrl6YDLt3rObpJTVzw2wfa3VLIp1fYT/00EFVQOC4BwwZePfcc+6QPGALd3cRtEgLQaeyTQH/e/7oUdgB3DoE9xIc/rQIiQiRah5FRkJwEtLajuZTB7GhSnWCrDOUJdnuP/qCZ5YPXP8gb2yTpqUUcFj9MSf9jOeBGLcEZTTVEXqSzbcyEIMOtl7flVfgrXT0Q==;DwfmUmKDrDYVwwth4vrvyQ=="
+secured: "WcAFvAK1BUxAMix5OZh5aoRKj7Akn5mZSKnh/czmsfahhY24cKWlMFF+6VzVbquVTIMzH1Gg9IZCMaHqSJUBksbbPthIIpMLg0F6viFFpOKAnViKQ4guy6ZWIabw0D/AEU0oyuOIVWxO+5r9X7xuynpHsaCrNQIAaD9aIstS9YYR79RPZuj90MtFGaA0lnke9u+wwLSe1ZakBpZ4ofFZGbohF0WfbbUU1w6tKNLpAJu+XpQ2mY9IG5jkIIL9nN8TCu8Xk7oERsWBnCtCKl0T52Fkg5SV0VFOcWBbJNp4FyrdjgVZeCklhPV5AcmlS0FXsdsqdydakPJn1vL/ioYANFQGBEJl9OAzsUSKox+lm8s=;LawZDwmXdzixPBglXonwJw=="
 ---
 
