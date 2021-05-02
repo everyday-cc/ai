@@ -75,6 +75,22 @@ related:
         width: 3792
         height: 2528
         isCached: true
+  - title: "Baidu rolls out paid driverless taxi service in Beijing"
+    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China."
+    publishedDateTime: 2021-05-02T17:28:00Z
+    webUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/baidu-rolls-out-paid-d.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Baidu will offer first paid robotaxi service in China next month, letting people hail rides without drivers"
     excerpt: "Baidu will allow people to order autonomous taxis on May 2 in an industrial park in western Beijing as competition heats up in the race to develop autonomous driving tech."
     publishedDateTime: 2021-04-29T09:08:00Z
@@ -90,6 +106,22 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/29/e667bbee-ecd2-4a7c-a101-ddde93ac7f8f_4d959e81.jpg?itok=FLVGhIjz&v=1619687067"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Driverless taxi service rolls out in Beijing"
+    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China."
+    publishedDateTime: 2021-05-02T15:42:00Z
+    webUrl: "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing"
+    ampWebUrl: "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2021/05/932/470/driverless-taxis.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
   - title: "Baidu to launch paid driverless ride-hailing service in Beijing"
     excerpt: "Chinese web firm Baidu has announced the launch of its driverless robotaxi service in Beijing from 2 May, making it the among the first companies in the country to offer autonomous taxi services to paying users."

@@ -47,6 +47,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 40
+  - title: "Artificial Intelligence Voice Market Boom Ensues | iFlyTek, Google, Apple, Microsoft, Nuance, Facebook"
+    excerpt: "Download Free Sample Copy of ‘ Artificial Intelligence Voice market’ Report @  Key Segments Studied in the Global Artificial Intelligence Voice Market A combination of factors, including COVID-19 containment situation,"
+    publishedDateTime: 2021-05-02T15:54:00Z
+    webUrl: "https://ksusentinel.com/2021/05/02/artificial-intelligence-voice-market-boom-ensues-iflytek-google-apple-microsoft-nuance-facebook/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 18
 
 secured: "Jcl7d//SaIpkq9XSTc2SqWGGi5LPpsryt32SCMBKjmNtCBJ/ee6IKzrRbD2+H4X3kkP0Dxk4OliHK8XXu4Xce4KNQEcfbi1d3kLNTADWBiVvMipv4YQIr5uhdUZZuzuqHAt3fJ6YGyIRsOHXlXGKz9l4v5HylUH+w3aYkWw235dKTGevv8KHLMWZkzVCVu5VRgkrcE4xdf3+0+fPTD6gFltyJhFvJTJhi2/k8wBWJT3WURjWbmXI98X8WEcGTcFrAnfYeDbtRLDV/p2RGthsS2r7N8QvBgKd+mUs+rJlR97TuzbEryMEPjKMlx1cyMPmF9mkiWsLrBgnpRWGXV+iCqHiT2Bzs5ZWX3+foDucGG8=;KjoG7Dhku8Xtn0sgxNXX9g=="
 ---

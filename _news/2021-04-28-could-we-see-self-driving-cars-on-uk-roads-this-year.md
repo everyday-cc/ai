@@ -115,15 +115,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "UK Government Green Lights 'Self-Driving' Cars on Motorways"
-    excerpt: "The UK government on Wednesday became the first country to announce it will regulate the use of self-driving vehicles at slow speeds on motorways, with the first such cars possibly appearing on public roads as soon as this year."
-    publishedDateTime: 2021-04-27T23:19:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-04-27/uk-government-green-lights-self-driving-cars-on-motorways"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "Self-Driving Cars Approved In UK"
     excerpt: "The government said the use of Automated Lane Keeping Systems would be restricted to motorways at speeds under 37 miles (60 km) per hour."
     publishedDateTime: 2021-04-29T13:04:00Z

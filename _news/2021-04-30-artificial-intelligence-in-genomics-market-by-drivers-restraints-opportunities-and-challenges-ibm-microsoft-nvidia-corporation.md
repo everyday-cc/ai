@@ -45,6 +45,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 43
+  - title: "Artificial Intelligence Voice Market Boom Ensues | iFlyTek, Google, Apple, Microsoft, Nuance, Facebook"
+    excerpt: "Download Free Sample Copy of ‘ Artificial Intelligence Voice market’ Report @  Key Segments Studied in the Global Artificial Intelligence Voice Market A combination of factors, including COVID-19 containment situation,"
+    publishedDateTime: 2021-05-02T15:54:00Z
+    webUrl: "https://ksusentinel.com/2021/05/02/artificial-intelligence-voice-market-boom-ensues-iflytek-google-apple-microsoft-nuance-facebook/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 18
 
 secured: "FNGqTy4p6OGO7reUb4ZOnrWP1mqMkpHRN+HFenbIWvHx1G1Yw5WbnZjduAgEJ315eDUuM6siAtGXlc8ZBEk8ib7GO6k3fmpvciL+i6mnUNbo75bX8o9nWRgpfpOdTHuZEwwpj9MuMsDSpTP0uaWxtuO3n0vVzKAXetev58VM4CYJJr4gcQn1sECASkwggr1Ud0eplZHW18mOtyj63JMpF9osFwc194kpVlgZNU/eHcNeLLcXUyHy4igfkvxAiW0z0xMIVKFZSs46f5FxvRZRunCKkHrFhajGEznEgylNbO7Z7xKhrT7DBrr6dHho+ljUOMJt8vs86DbtWBCxrIV4ltlprIqw4NuGhFdTMw5e1Ps=;eKpXad0FS8ph74AYZ1DpXw=="
 ---
