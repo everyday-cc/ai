@@ -6,6 +6,9 @@ publishedDateTime: 2021-04-29T13:47:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing-1030364367"
 webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing-1030364367"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Business Insider

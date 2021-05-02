@@ -45,7 +45,7 @@ related:
     provider:
       name: Electronic Design
       domain: electronicdesign.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/04/MachineLearning_dreamstime_Ekkasit919_144788061.608c5c4f89d9b.png?auto=format&fit=max&w=1200"
         width: 1200

@@ -6,6 +6,9 @@ publishedDateTime: 2021-05-02T10:54:00Z
 originalUrl: "https://www.geektime.com/femtech-startup-aivf-secures-ce-mark-adds-popular-professor-to-its-team/"
 webUrl: "https://www.geektime.com/femtech-startup-aivf-secures-ce-mark-adds-popular-professor-to-its-team/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Geektime

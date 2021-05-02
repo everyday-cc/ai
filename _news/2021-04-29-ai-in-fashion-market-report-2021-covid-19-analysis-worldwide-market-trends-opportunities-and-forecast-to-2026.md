@@ -43,6 +43,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Deep Learning Chip Industry Analysis and 2021 Future Trends"
+    excerpt: "Infinity Business Insights has announced the addition of new research analysis on the global Deep Learning Chip Market to its vast library, Offering Insights for Deep Learning Chip Industry Over the Project Time Frame of 2021-2027."
+    publishedDateTime: 2021-04-28T13:54:00Z
+    webUrl: "https://ksusentinel.com/2021/04/28/global-deep-learning-chip-market-top-10-key-players-in-2021-amd-advanced-micro-devices-google-inc-intel-corporation-nvidia-baidu/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 36
   - title: "Machine Learning Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "Machine Learning market size was valued at USD 6 9 billion in 2018 and is anticipated to register a CAGR of 43 from 2021 to 2027 New technologies such as artificial intelligence is changing the way industries and humans work"
     publishedDateTime: 2021-04-28T11:15:00Z
@@ -54,6 +63,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
+  - title: "Artificial Intelligence in Accounting Market Outlook By Industry Size, Share, Revenue, Regions and Top Key Players Analysis From 2020-2025"
+    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The market for Artificial Intelligence in Accounting Market is expected to register a CAGR of 30% over the forecast period (2020 - 2025) - Over the years,"
+    publishedDateTime: 2021-04-29T06:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025-2021-04-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Worldwide Big Data Software Industry to 2026 - Featuring AWS, Cloudera and IBM Among Others - ResearchAndMarkets.com"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global big data software market reached a value of US$ 142."
     publishedDateTime: 2021-04-29T12:09:00Z

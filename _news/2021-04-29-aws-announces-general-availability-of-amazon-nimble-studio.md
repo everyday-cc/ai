@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20852076"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20852076"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,17 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "AWS Announces General Availability of Amazon Nimble Studio"
+    excerpt: "Nimble Studio makes it easy to set up a content production studio in hours, scale capacity based on demand, and render content faster and more cost-effectively Anjekumi, CalState University, Evil Eye Pictures,"
+    publishedDateTime: 2021-05-02T08:07:00Z
+    webUrl: "https://menafn.com/1102010717/AWS-Announces-General-Availability-of-Amazon-Nimble-Studio&source=30"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
 
 secured: "3o+wlzfAQOOewrnRGdYx++lXZzaRcaGPKaJfAEno0LQKeeQD4ohe82BuWVxyVdTmoWXf2tiWQ1MVoBlhewQpGAIX13/H3MG2z4bJTlI7F+IjTCYFQCR1N++Tc6avz+Vh7rqgWWGowVZEZg3Giin3Us59XSPQC5D0yYBIKYp6NSZHT4Vt/rqNWqqXWxb/QV/kwpGCoJJmcexCHVWFBBjLMYD0jpTTFIGsUI+TmYl+hHyb/4vxTvD4wWla8ASUOVO6GarIZTUNF6HazCTVIA6noVY7SKL2etD/ORnT7O2VAz08zxaedYcbZlQCnUxcL+JC0tCm3VTJGVV2KqV0IWu7dylX+HkpYqhkoJZoF9DCdXA=;IGgeSpK/YgdP5LKTy/VcIQ=="
 ---

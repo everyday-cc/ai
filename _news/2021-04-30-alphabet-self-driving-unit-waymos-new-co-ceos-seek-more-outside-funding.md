@@ -49,20 +49,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Analysts Chime In on LYFT After Self-Driving Unit Sale"
-    excerpt: "Lyft (LYFT) is rising today after announcing the sale of its self-driving unit to Toyota, while analysts chime in"
-    publishedDateTime: 2021-04-27T15:51:00Z
-    webUrl: "https://www.schaeffersresearch.com/content/news/2021/04/27/analysts-chime-in-on-lyft-after-self-driving-unit-sale"
-    type: article
-    provider:
-      name: SchaeffersResearch.com
-      domain: schaeffersresearch.com
-    quality: 24
-    images:
-      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/bigstock-san-francisco-ca-june-----250311760.jpg?sfvrsn=c0ebda06_4"
-        width: 2800
-        height: 2100
-        isCached: true
 
 secured: "Fby5FSUIBF58cfQN1u+syuTMkugxopyWXZnE2ZqsQ+K/yH4G2X9z5uNbAtN1zGDqGb1Vc89lqQuUn/9/SoGdmhyfSAYFIAgT30eYoQpD31sgtqXICCcZ7qDuDxGgZ9s0rzJ+0NJJy05OkQJWGGOtSbtwzBqS5/2mLTmjVh+1Psw7jlmQHx5WZeADi7M2NYnFGrH7zQTFbhrQXwAv6RRHmoQEERtqtZ0+sbfVLYL52z94jXxGYLqeQg+SBpYPRuikRj8GH59ucCX1TwJzsVZk5eJkoXTwAtil9Cal0oYXJJJvkWbSNnoPqlh9Y2pW53gNXQja23CA1QwOmTDije5Aht6CJ812PKb4iB1dPU64G6Ctjv7rnORJKI9dZIaL5xfl040W00G2a4tc4p3EyIA9NIXq1JyuouiDhARpBjL/d2FRU6nbtKDAb97q4w+6aB05h8ZpYzDRZpF+YHBaxzhTtgjf5gb22v4EPQtd9paO2AUkaPHdzuvwrpyRjY3CbZiiiPs90/kld5nW02Y50GGMvQ==;LKPsnACx1/7Y2jkBmnJzvg=="
 ---

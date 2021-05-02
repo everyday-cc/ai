@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "CAPQ™ System: The Only Deep Learning/AI Vision Inspection System for Bottled Beverages"
-    excerpt: "The CAPQTM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level inspection. The CAPQ System uses AI-powered deep learning software to recognize what a “good” capped bottle is supposed to look like and can deliver a dramatic reduction in false-rejects,"
-    publishedDateTime: 2021-04-27T16:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de"
+  - title: "Proton range verification with MACACO II Compton camera enhanced by a neural network for event selection"
+    excerpt: "MACACO, a multi-layer Compton camera based on LaBr 3 scintillator crystals and SiPMs, is being developed at IFIC-Valencia for this purpose. This work reports the results obtained from measurements of a 150 MeV proton beam impinging on a PMMA target."
+    publishedDateTime: 2021-04-29T11:14:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-88812-5"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
+      name: Nature
+      domain: nature.com
+    quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-88812-5/MediaObjects/41598_2021_88812_Fig1_HTML.png"
+        width: 685
+        height: 430
         isCached: true
 
 secured: "ysRjOCWIbJdEwllrBAl3srIXEPcBodgMVodDzPzODXscCn0D2ZP3E4FP/2Jv06oDahZNWRgH5FLQSjR7JZQL1TX+TQNJabF2xcsnzhgXkBO2tkZrH5PYcMGqhK6n1nGZRqIz2ghihom4l69OlLgpgZ+CXwELBk82M1jE5sLBWerRNpbDLAnwfgJaCr3e0s6Ry9NzpZwa1zrTS63YRfnE/zwmlCk6MEYW9TSpcprhCvGa9TwDCCUTLUAixck7P3ALd5M1LBs//rsvXWe1jzSQa2m7VvhB81T6ULDYTtto23m07Zsx+DS+4tEuipowdJOrqzbg9+zq3eQ6CwNXTQsfWiTPrera70jKpQA0SElx580=;ZZFhheYVOTJG8v1WWAA2pg=="

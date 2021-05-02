@@ -41,6 +41,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Understanding the Art of Machine Learning"
+    excerpt: "Though neural-network-based machine learning is escalating in popularity, the mechanics behind it tend to be misconstrued or simply not known at all."
+    publishedDateTime: 2021-04-30T20:05:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21162926/electronic-design-understanding-the-art-of-machine-learning"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 43
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/04/MachineLearning_dreamstime_Ekkasit919_144788061.608c5c4f89d9b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ModelOp Extends Automation and Governance for Artificial Intelligence and Machine Learning Models"
     excerpt: "ModelOp Center integrates with DataOps and SecOps Systems CHICAGO (PRWEB) ModelOp, the pioneer of ModelOps software for large enterprises, today"
     publishedDateTime: 2021-04-29T19:00:00Z
@@ -52,20 +66,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "Understanding the Art of Machine Learning"
-    excerpt: "Though neural-network-based machine learning is escalating in popularity, the mechanics behind it tend to be misconstrued or simply not known at all."
-    publishedDateTime: 2021-04-30T20:05:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21162926/electronic-design-understanding-the-art-of-machine-learning"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 41
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/04/MachineLearning_dreamstime_Ekkasit919_144788061.608c5c4f89d9b.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "9654Q2A5F1tCZlFtB0+sTzGMlUgTTbo1Ngpg+0u3167hMyX1P5g0zOmH9Lr8byo7KCofAvh2THICI5iXVcRrQAiTRBfkeFO0QFi9mEfl9ziozrbAKrzbazYvLxxjznB3HEBUlFiUwDeapDMo1YWAnF2YrJ4JVPzevgrfb4piW0bc4FAYZfsEs5uHDHQkWaK0SegjWs+nZC6DU14iEZ/ht1khcMFd5wYwsITmW3Z7SG6MXmlFVG7sFtwR8ELCo6hqR+mOLl5zAOuW4j0o9pi1Qabbhc4B7WBNNCBRwrtKhImvPLYBY1YAkOSDorUYApbTXLdEnu4vJuukXJBJQFAYNEZYwkCQ9vOQPH6MDN1OLApWQ3M2ksgApZOAr59KFR7CwQ0GhNratK/TzgMZtGJ3E9qSjnTRfl08ZE9djLDGhtegAJzpsBxLAjEodySseTyXnJhIEbSTAL6sYDZEbMvOy/h9WOqmp2Php+4JD+4B+6ZHiq/P6+d7URLyiM1AZ/iT1SRgzaZAwPs3GPmZhcchfA==;6/c70gDDHQGlKPGgQP7jcg=="
 ---

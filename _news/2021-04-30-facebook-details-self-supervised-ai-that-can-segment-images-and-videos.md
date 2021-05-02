@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/30/facebook-details-self-supervised-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1848
         height: 1112
         isCached: true
+  - title: "Facebook reimagines self-supervised learning in Computer vision AI with DINO"
+    excerpt: "Facebook makes a breakthrough in self-supervised learning method with DINO and semi-supervised learning method with PAWS."
+    publishedDateTime: 2021-05-02T09:21:00Z
+    webUrl: "https://techstory.in/facebook-reimagines-self-supervised-learning-in-computer-vision-ai-with-dino/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 33
 
 secured: "o8N5CL7IiJrWC5Twfo74HYojlLs+jqx64t4097/yu2l7ZerPnDUI2ytocxMWXmfgD9/J7yuLdpIVveJRKIDPB+zMJqfoVfHrBDB/aJVRaEcik9HheVnK1Y89xP65kd34PZNXpnuP6QfgXomnFsWIAbEtxT0FzhdFEnzCGwuPgcew20Ggf8lfIP8Gug/c8ZdGE8fvxXQeNuerg7MfRm7Ojuf4DVpyOAJN1f2jtZ3We0I9IsdiOpy8IxFP+9XqFWBeHI1qqynOZ+q39JrvDMKB56QRl+WPN/6254yrle0d+FcTTayXqaSZfOsE7/9znGs9Jp5Z4EWr0CKjV8hyRfAUGKHvOxHDcCbcWqM6YZDx5JMjgrJOcgWO406opbrOO06uYvhDDz0zorIzF2PZRi8o+OruewlwbgDunPEJdk9OZz+iBOrdnLd6WpXxFbK7fb1p94zTZKQjgoOB6Aodb6g10p5rPTVh1LbBbEJ/epGjMjr+vlJ0OQcTsPBCjxKpWvBQEqgCFQA0L6x1L2G+n5NjOQ==;sSxPws652guNjnDwOsHkoA=="
 ---

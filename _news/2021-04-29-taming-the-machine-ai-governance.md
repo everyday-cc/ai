@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Understanding the Art of Machine Learning"
+    excerpt: "Though neural-network-based machine learning is escalating in popularity, the mechanics behind it tend to be misconstrued or simply not known at all."
+    publishedDateTime: 2021-04-30T20:05:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21162926/electronic-design-understanding-the-art-of-machine-learning"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 43
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/04/MachineLearning_dreamstime_Ekkasit919_144788061.608c5c4f89d9b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ModelOp Extends Automation and Governance for Artificial Intelligence and Machine Learning Models"
     excerpt: "ModelOp Center integrates with DataOps and SecOps Systems CHICAGO (PRWEB) ModelOp, the pioneer of ModelOps software for large enterprises, today"
     publishedDateTime: 2021-04-29T19:00:00Z
@@ -42,20 +56,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "Understanding the Art of Machine Learning"
-    excerpt: "Though neural-network-based machine learning is escalating in popularity, the mechanics behind it tend to be misconstrued or simply not known at all."
-    publishedDateTime: 2021-04-30T20:05:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21162926/electronic-design-understanding-the-art-of-machine-learning"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 41
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/04/MachineLearning_dreamstime_Ekkasit919_144788061.608c5c4f89d9b.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Drive to Make Machine Learning Greener"
     excerpt: "AI systems must be trained in massively powerful data centers. Now computer scientists have discovered that small changes can dramatically reduce the carbon footprint of this activity."
     publishedDateTime: 2021-04-30T13:43:00Z

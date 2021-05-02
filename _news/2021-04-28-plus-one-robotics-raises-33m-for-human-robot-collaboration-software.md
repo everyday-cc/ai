@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-h
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software/amp"
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Plus One Robotics raises $33 million for logistics vision system"
-    excerpt: "Backing will help firm meet global e-commerce expansion with technology that delivers “hand-eye coordination” for warehouse bots."
-    publishedDateTime: 2021-04-27T18:46:00Z
-    webUrl: "https://www.dcvelocity.com/articles/50490-plus-one-robotics-raises-33-million-for-logistics-vision-system"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 71
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/2021/04/27/plusone_our-products-left.jpg?height=635&t=1619549271&width=1200"
-        width: 997
-        height: 546
-        isCached: true
   - title: "Plus One Robotics Raises $33 Million to Fuel Expansion"
     excerpt: "Plus One Robotics, the leading provider of vision software for logistics robots, announces $33 million of Series B funding. McRock Capital and Translink Capital co-led the round, with participation from BMW i Ventures,"
     publishedDateTime: 2021-05-01T12:48:00Z
@@ -71,15 +57,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Robotic vision startup Plus One raises $33M"
-    excerpt: "San Antonio-based Plus One Robotics today announced a $33 million Series B. The round follows an $8.3 million Series A announced in 2018 and brings the company’s total funding to north of $40 million."
-    publishedDateTime: 2021-04-27T17:28:00Z
-    webUrl: "https://techcrunch.com/2021/04/27/robotic-vision-startup-plus-one-raises-33m/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
 
 secured: "3JVGm9jcM9Ct5cga9U43cpV2LqtrRP2cjyETyC2RBS6qekCkCxAsr4Ghlp/OYB5qBjGFXf3NGM735lgaLpsKJSSoZK0+uKdCJ8zikdRroxxPJ7dyrOuRX7nCLNWzGIKVAA1vM0UecCjAGLjcXUR5pzHBXrowxPq41L8CtlpVK7OJZw8ETNJa83gPApbZToQAyZ8vL8IOFBmEnSGo/ymjo1YnhLDZoNMkwuQp96k6oNCZipDYLroYi/Ld/x0ogL3QCJDvYBOJoAIZ2lHrn9sxjDc4CFC7IyHBgv0d7jZF8N/jnUGnnt+0FnzV96Xz87ymoB+TgJu0EWUw3wZjFOdcZ/Z3ZxE5qfWkEtdTZWO4oVS74KmMsYyhdhpyWgYHykyYx4E7V5Wh5wjNJlPXhiLTz3y6tIxnhbLgs18X4tEnK5WwwXaBuuexINOMG7fkURhK7pcoU6rz4ukGz1qJxv5zo7fbVbEgun/HF/uMdeVu6QzE2zFkZh0/jLZZQ3VReobGvjDYiGAfg8t3lTTY6A7hWw==;SU8pEVIgbL4TYu/UBNa0Cg=="
 ---

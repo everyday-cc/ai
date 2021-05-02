@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-30T22:00:00Z
 originalUrl: "https://www.discovermagazine.com/technology/the-4-fallacies-of-artificial-intelligence"
 webUrl: "https://www.discovermagazine.com/technology/the-4-fallacies-of-artificial-intelligence"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 

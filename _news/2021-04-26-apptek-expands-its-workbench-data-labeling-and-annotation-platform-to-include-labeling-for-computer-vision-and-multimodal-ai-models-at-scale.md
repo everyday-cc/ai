@@ -1,20 +1,27 @@
 ---
 category: news
 title: "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today announced the expansion of its Workbench data labeling and annotation platform to include video labeling capabilities for computer vision models,"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
 publishedDateTime: 2021-04-26T16:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
-secured: "/UmvV7ViLSFyCZCDv8Z0DNGG/slJ2v92AJzljxZnu8HklokVuDcWt6q+eR3zjRAxHEezMGB+0ilMJatI5iQvvTzCdkp92Si0PFIkVzgFjL1DJXZ/Ym4/liKiIHwZN/Hl6lS6sUw7S5+ctAlqdAAcos7JGMrSMv4FcaLRNlzP/c8kVmLsCi20Hq9M4dX1eFjnZEaW1AVuYhOgrudwl7gTd3Y8wTRNH49f2nzQU0f4UBqdvlcE12EqQNm67id1AxqGnLAgtyKBsvwFp3F39oOOpoVdiFQNH2HhkPEi/xSJ90u9+1CVPY4BjQ7iShjz4m2Wa4O7uj3UZUh1mMD3jvV5YHjP/TJZoAalECLxbuVHGNJIbBMxU9BLqhvvWhAsf1mTEKyzbV4eao1g2zsYhnxDjSEKlUOOZA2JkZVI0yAdbjJwbmbTKbVIZx/CyDD2+y6rOhdRrtVJbhK/9Uwt/7rdkCbe67a2Lf8hsDjpmtUeMqzl1MmUKYrPCv5LjoVORfYMghZEroDi5nWX4HXDjoYV3w==;l/I7d6mAWSG7pRXRy62TkQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630"
+    width: 880
+    height: 630
+    isCached: true
+
+secured: "a3riX7zdsVN3k9YP7PNxBey+v1B2TUhr5VEbORIoJFGGEcUHvUgVhHh62KH9q6k+M6vId+BOt1Kknb5u8n+DEcdW9U3C5GU0eRBh4LfN53JFei6ueqIbADW/96R+QuRayayiH4X53tFfd5AnOAjvfj1KTiuL3V6R/fSrRhkJruVs1/Dgpp2OshVFDVCCi9IykVZCBCtgFpP9KGMBcF4XHY7LEjqJ62geadI8xWX6MZU7dtFcThElHUmFF32Xqu6rLFEdo01odRJjh84JKHyePOOuYOcyoOiO20x8uWeh77ezCOL12sRGjPQ6illLHdAnM/fa1Mh/mwjVtZ7Sr4nrHInhvKrmsGh5Hr4ym2UCaBg=;I/5x/Hp3k+Zx2cL6Kvy+Vw=="
 ---
 

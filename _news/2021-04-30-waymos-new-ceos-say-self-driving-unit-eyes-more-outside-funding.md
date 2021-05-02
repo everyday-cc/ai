@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-29/waymo-s-new-ceo
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-29/waymo-s-new-ceos-say-self-driving-unit-eyes-more-outside-funding"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://media.consumeraffairs.com/files/cache/news/Lyft_logo_concept_with_car_in_background_jetcityimage_Getty_Images_large.jpg"
         width: 700
         height: 467
-        isCached: true
-  - title: "Analysts Chime In on LYFT After Self-Driving Unit Sale"
-    excerpt: "Lyft (LYFT) is rising today after announcing the sale of its self-driving unit to Toyota, while analysts chime in"
-    publishedDateTime: 2021-04-27T15:51:00Z
-    webUrl: "https://www.schaeffersresearch.com/content/news/2021/04/27/analysts-chime-in-on-lyft-after-self-driving-unit-sale"
-    type: article
-    provider:
-      name: SchaeffersResearch.com
-      domain: schaeffersresearch.com
-    quality: 24
-    images:
-      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/logos/bigstock-san-francisco-ca-june-----250311760.jpg?sfvrsn=c0ebda06_4"
-        width: 2800
-        height: 2100
         isCached: true
   - title: "Alphabet self-driving unit Waymo's new co-CEOs seek more outside funding"
     excerpt: "The new co-CEOs of Alphabet Inc.'s Waymo self-driving arm say they are looking for more outside investment. Dmitri Dolgov and Tekedra Mawakana told Bloomberg Television in an interview on Thursday that they may use the new funding they want to make acquisitions."

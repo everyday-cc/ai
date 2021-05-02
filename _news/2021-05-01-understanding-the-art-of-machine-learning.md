@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-30T20:05:00Z
 originalUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21162926/electronic-design-understanding-the-art-of-machine-learning"
 webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21162926/electronic-design-understanding-the-art-of-machine-learning"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 

@@ -25,17 +25,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Philadelphia Eagles Agree to Multi-Year Partnership with Rising Tech Start-Up LifeBrand"
-    excerpt: "The Philadelphia Eagles are excited to announce a multi-year partnership with LifeBrand, a rising tech start-up that offers unique solutions to help build and protect personal and corporate brands. Headquartered in West Chester,"
-    publishedDateTime: 2021-04-27T17:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/philadelphia-eagles-agree-to-multi-year-partnership-with-rising-tech-start-up-lifebrand-1030353493"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
-
 secured: "tF2vvEvYrp2L9+bVbh1k77yuAZT17c3wNDcuSJbFz2fjxYVISV7hMH8Nby3JOHigXObPvoTPeAHtsfnv9y0czMSc+i5z1DPYMQXu2+ALGnrN508TuhF0NMMaOeO2We3FAZBrPjpN04dJ0yeKuzeoWYMFt8PXl/USX1K8pvLJnYpGsCZY6ONBg2wvizMkDE67CbTFGVSRJprD1b6ajPpn4n/atW9hW7Y1nJ7V2Q/dIwmw7TLiab2LYUF7zJvSIkJzF48jUBlvR8Zk4qp8gaNJbLvW6+pRabtcrKUQglvbOtEApACk0AUtyBW+dNeMAmjylE8p6BOMBGQtF1dQSPSHP86nLPxiKi6L6aMvTA5+m/AATzsW34XIKLz/jeYUMmwj8f9jj9kHg80+kPNQ3jMzoiE4WMljWBWngamTOOd/65dA/r5b3W6k70Mwwz1aFVj9580rZHYfE2Bri0lgv+BzR1JTRGJn1lazjDkw2/GYRoDslzruSPFm3BGhme6RGY97IzbwgYr1iYWWNg/4EWIMDg==;EwIdpM8s9iNyp2Da3fc2CQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-dail
 webUrl: "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-daily-toyota-is-building-a-city-for-self-driving-cars"
 type: article
 quality: 69
-heat: 129
+heat: 99
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota to buy Lyft unit in boost to self-driving plans"
-    excerpt: "\"at-above-post addthis_tool\" data-url=\" Texas/TOKYO (Reuters) -Toyota Motor Corp will acquire Lyft Inc’s self-driving technology unit for $550 million, the companies said, as the Japanese firm steps up its automation ambitions with the newly created Woven Planet division."
-    publishedDateTime: 2021-04-27T15:25:00Z
-    webUrl: "https://www.metro.us/toyota-to-buy-lyft/"
-    ampWebUrl: "https://www.metro.us/toyota-to-buy-lyft/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/toyota-to-buy-lyft/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 44
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH3P1A6-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Toyota pays $550 million for self-driving unit of Lyft"
     excerpt: "Toyota Motor Corp. has bought the self-driving division of ride-hailing company Lyft for $550 million in a move that reflects the ambitions of Toyota to expand into mobility technology."
     publishedDateTime: 2021-04-28T14:09:00Z
@@ -61,15 +45,6 @@ related:
         width: 590
         height: 441
         isCached: true
-  - title: "Toyota buys Lyft self-driving car division for $550 million"
-    excerpt: "Lyft and Toyota subsidiary Woven Planet announced a deal where the latter will take over the self-driving car division of the former for $550 million in"
-    publishedDateTime: 2021-04-27T16:11:00Z
-    webUrl: "https://www.techspot.com/news/89457-toyota-buys-lyft-self-driving-car-division-550.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 34
   - title: "Toyota acquires Lyft's self-driving division"
     excerpt: "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlig"
     publishedDateTime: 2021-04-28T04:00:00Z
@@ -93,15 +68,6 @@ related:
       name: Plant Services
       domain: plantservices.com
     quality: 4
-  - title: "Toyota’s Woven Planet Acquires Lyft’s Self-Driving For Millions Of Dollars"
-    excerpt: "The latest episode of major acquisition around the world features a division of Lyft and Toyota's subsidiary automaker, Woven Planet"
-    publishedDateTime: 2021-04-27T15:24:00Z
-    webUrl: "https://www.techbooky.com/toyota-woven-acquires-lyft-self-driving-cars/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 2
 
 secured: "xl8HjEyuDb4iHM/iwa33lJQuyLOOXuspF6rd1InrR3aSrj1wFas0RYRGAa4SkvqYYsSaA8u07k6V1S4EZ/ioDlIyRZ9YalmQOGpBaZ4soHEynZNVRe5Bo5MrlGrdngeWFD5OpK2LXXcwqLh1sNG0za7zp+aObMB/TKh5OjIR4Ru9JwG4IrkNv61NQXqLKITRNRUudm2q6yfYHuzFSBxwwiGe01TWywJRhobAadeHnWOZbrgqgMH90lQq3uzlsRyAlkuDJJXjUbaWlbsEdIoyTusOPpXu0/PFmbaKjqWLoeKn/zuMzomu0fKx5MqRDZA/mM/7qdhpTNYDFvXhGfX/PAE9y6BtBpWPUi+s6upk9vKL2/qukY0rxaUR/1dS0LQ5MYcuYgPxVHhMQn2dNyKXgJK5oFf/Af144erJtq4HiB/TW/x/+znOo87E6e4oPAE/HlChwfJdGuWfEkATGqAupjgSqePiVrAMRy9p4aZWp1KOyshKBCwiGe7aOL6/wi24OZIPwihWMSIyeIXyKfNUIg==;gs0srqPrxk16jgNfi2koAQ=="
 ---

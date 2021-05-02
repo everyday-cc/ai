@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Coalition of groups calls for end to facial recognition program used to identify protester at Lafayette Square"
-excerpt: "A group of technology, civil rights and legal groups is calling for an end to a facial recognition system used by authorities in the Washington region that helped identify a demonstrator accused of assaulting a police officer during the forceful clearance of protesters from Lafayette Square last summer."
-publishedDateTime: 2021-04-28T10:04:00Z
-originalUrl: "https://www.washingtonpost.com/local/public-safety/facial-recognition-washington/2021/04/27/a6fb257c-a6c3-11eb-8d25-7b30e74923ea_story.html"
-webUrl: "https://www.washingtonpost.com/local/public-safety/facial-recognition-washington/2021/04/27/a6fb257c-a6c3-11eb-8d25-7b30e74923ea_story.html"
-ampWebUrl: "https://www.washingtonpost.com/local/public-safety/facial-recognition-washington/2021/04/27/a6fb257c-a6c3-11eb-8d25-7b30e74923ea_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/facial-recognition-washington/2021/04/27/a6fb257c-a6c3-11eb-8d25-7b30e74923ea_story.html?outputType=amp"
+title: "There’s No Such Thing as Flawless Facial Recognition Technology"
+excerpt: "Nani Jansen Reventlow warns of the limitations of facial recognition technology in an article for Slate. “As we continue automating our lives, entrusting important decisions to technology in not only our justice system,"
+publishedDateTime: 2021-04-28T19:26:00Z
+originalUrl: "https://cyber.harvard.edu/story/2021-04/theres-no-such-thing-flawless-facial-recognition-technology"
+webUrl: "https://cyber.harvard.edu/story/2021-04/theres-no-such-thing-flawless-facial-recognition-technology"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Harvard Medical School
+  domain: harvard.edu
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N4SLC7FHNAI6XDJFPMYOOSJD5I.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
+    width: 1000
+    height: 500
     isCached: true
 
 related:
@@ -75,19 +73,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "There’s No Such Thing as Flawless Facial Recognition Technology"
-    excerpt: "Nani Jansen Reventlow warns of the limitations of facial recognition technology in an article for Slate. “As we continue automating our lives, entrusting important decisions to technology in not only our justice system,"
-    publishedDateTime: 2021-04-28T19:26:00Z
-    webUrl: "https://cyber.harvard.edu/story/2021-04/theres-no-such-thing-flawless-facial-recognition-technology"
+  - title: "Coalition of groups calls for end to facial recognition program used to identify protester at Lafayette Square"
+    excerpt: "A group of technology, civil rights and legal groups is calling for an end to a facial recognition system used by authorities in the Washington region that helped identify a demonstrator accused of assaulting a police officer during the forceful clearance of protesters from Lafayette Square last summer."
+    publishedDateTime: 2021-04-28T10:04:00Z
+    webUrl: "https://www.washingtonpost.com/local/public-safety/facial-recognition-washington/2021/04/27/a6fb257c-a6c3-11eb-8d25-7b30e74923ea_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/facial-recognition-washington/2021/04/27/a6fb257c-a6c3-11eb-8d25-7b30e74923ea_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/facial-recognition-washington/2021/04/27/a6fb257c-a6c3-11eb-8d25-7b30e74923ea_story.html?outputType=amp"
     type: article
     provider:
-      name: Harvard Medical School
-      domain: harvard.edu
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 39
     images:
-      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
-        width: 1000
-        height: 500
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N4SLC7FHNAI6XDJFPMYOOSJD5I.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "HSPPR gets new facial recognition technology to find lost pets"
     excerpt: "The Humane Society of Pikes Peak Region has teamed up with Petco Love to help find lost pets and reunite them with their families by taking advantage of new technology. According to industry statistics,"
@@ -143,6 +143,6 @@ related:
         height: 1035
         isCached: true
 
-secured: "0EnssPYdacaTnpaK4fq9K48qGqbEDwR4lrlseGKNE+rslpSENo586R1S2q6MRDbvjQw89fFA3ier93Zo17Aos3fuczP3urJE3y0+lU+uMWCCAAw6zm4f7PeXJtsRBckacXMvTa2hlnCX4+dMCVGUw+8y4fZ54i+rRKJlRPWACF1wRme64ew4QxYPXwpZM7DkZyRZ8bNPiALFULt/yseevxk7ewSLmjBhORttH3b/JE6RYraAr4+HsfEqEL/gUxAdXjFpCKUK05X1tfbaUqvK7InJ/nV5Cnfub0G1YoVFsk7gFBM4PdYcwlZDM9sE73MRnExcP44Pvma8z6aH6w4adGGieBkbrXJXC2KVg7HqLUGvSojB6Yhj5gpI+BMbyHgQrjQ72YeuDJw7noHBTWZrDf+uh0ZksQFSuEiG19SgskOI4fmVW7sSRF28BsOMAAp3b05K0McB2mhTDTjFsO+e/pcMwrUrmfKgHWH0A3KI2tgtenO2VCnfHhtEDZsAK5tg9pNLKmAlE4fpUQsUP3vNEA==;Jxv++JwANaBA2LrPEjH4zw=="
+secured: "L7h0zDfEjo8UTMqyCqrk4xxpmatp3w9dUzh/uXhFFigQ3Sk7sbTMGr3cIh8jUPszWDWyI5RAkf+h8aE8fO7btLyO5KgbSTfAQf/HgKyh+brScMriFYOgZnWVyB1yOxto81Y1naubnRXaAZnzvZf06elBlbXKDGxx6XEmQwwQ2n8NKArl1L1ayzX7J+4+ZeLxJB3EpykaPvRQiNVEtye4rkyq4isJr4IwcjMQK+NSxdGPBVol6K4zyco58BjVSHqDHsiAy9SPL1NZnj3y3il6hr7it7AWrZIGQ7o5WGCS+soSpanK9oDz4/LlANGforqV9TTqKE9WPoe3S0LPz0AQzVTYk2t7KMAEeT4lkXlJ48Y=;nd+jJoJ1vNkMXccev5HgXA=="
 ---
 

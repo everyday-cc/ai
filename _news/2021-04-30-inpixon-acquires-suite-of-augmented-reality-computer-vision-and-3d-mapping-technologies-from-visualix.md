@@ -39,6 +39,15 @@ related:
         width: 2400
         height: 1435
         isCached: true
+  - title: "Opinion: Don’t let your voice be usurped. Keep zoning decisions in Connecticut local"
+    excerpt: "Sadly, a coordinated effort is presently underway to completely usurp and upend local control of zoning across Connecticut. Advocates for these sweeping changes are seeking to weaponize the legislative and judicial process in our state to achieve this desired outcome."
+    publishedDateTime: 2021-05-02T10:00:00Z
+    webUrl: "https://www.courant.com/opinion/op-ed/hc-op-zoning-local-decisions-20210502-rmywjkaybfek5gk7vv3ysmejse-story.html"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 0
 
 secured: "Cw+LqfwsAO47IQsUqe7tHW8IIlFcd6hqXilYwFAn7EJC1cAo4/SQ50D1fVxodAzh2JlOE/3EXbLQ6clf0l4wUizCFDDA2J5FANUTxbDpdtMG5LzdKNrz3OmHsomAqyUvSusETcSE74dAoUdRzq8wILy1hq7VKvY9w84+tSn908kvaKYRYK/elCrUXMmDm7MkB2XdSH/63gZj6eatKFCmQEC/S35ydAnKlsZ2RXhLKmoAJ7i8ibTdzBUTTqOH3EkpduDdxd33hGgnkV40dBtiS4ZehvRw7zXwMNWUxwCWw3lZpBJVZQlLZqNdLG5krgzjI3m6lDxWX+JGK3QG4wD1Ef7T+IapbSfQMBCRFNQamixcm/ynRaSnwlRCkUMJnzIKFywXTbT6mWuDnIrskRuc0K4sjU6rXLgA3Pm2dah7N0snxzYDBTTjr2xxiCnWbdokRceJk6qpcPn5CqwwxB7H4YbAVGt24DHBRihFnOFdI4pFW9Ie1RuIRnCHrocAxogS21KOgblFtYFa9WNbHdH78g==;rKxbOJMuqO3+oDoUAz0iyg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/arize-ai-named-to-
 webUrl: "https://markets.businessinsider.com/news/stocks/arize-ai-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-1030371841"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -22,17 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "MindsDB Named to Forbes AI 50 List of America's Most Promising Artificial Intelligence Companies"
-    excerpt: "Open-source, AutoML server MindsDB listed as one of Forbes' AI 50 top privately-held, U.S.-based companies focused on machine learning. BERKELEY, Calif."
-    publishedDateTime: 2021-04-27T15:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/p20817138/mindsdb-named-to-forbes-ai-50-list-of-americas-most-promising-artificial-intelligence-companies"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20817138"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20817138"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
   - title: "Samsara Listed as One of America’s Most Promising Artificial Intelligence Companies by Forbes AI 50"
     excerpt: "Samsara, the pioneer of the Connected Operations Cloud, has been named one of America’s top artificial intelligence companies according to Forbes. The Forbes AI 50 list, in its third year, includes a list of private North American companies using artificial intelligence in ways that are fundamental to their operations,"
     publishedDateTime: 2021-04-28T18:06:00Z

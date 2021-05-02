@@ -41,6 +41,15 @@ related:
         width: 740
         height: 462
         isCached: true
+  - title: "Global cloud services market reaches US$42 billion in Q1 2021: Canalys"
+    excerpt: "Cloud infrastructure services spending grew 35% to US$41.8 billion in the first quarter of 2021. The trend of using cloud services for data analytics and machine learning, data centre consolidation, application migration,"
+    publishedDateTime: 2021-05-02T10:36:00Z
+    webUrl: "https://itwire.com/cloud/global-cloud-services-market-reaches-us$42-billion-in-q1-2021-canalys.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 6
 
 secured: "i02Ga4ODPHYVP7nfPvbeW6zWI7mm/tPfApsO30H5N11gipbbkLeQDx4Lo7m4InYdB4k+bc7rPFTrctJUbdeq49Pl35y6RQJ1cHLCO633+j9gjiScj2SH4hP/I+1kYjCIHVVYGOf3cjz3lEufj3ScN4C5ABcd8m7x7BUDWDhSl8WMRzKFIcutfqU7wMEZKi4qXWbw0pKeB6YfkndhaGf+Mnk1QR0Qba4Q1nN4H1Y6Zi9FQUTgixhDVHy4Y9D3bqWA/Y0175Ar96//R9qADDUU4rdHDVc0VsiCDp8hvd7naJvYWmYMmO2ovek2h0zqLVn580VRqKFSB7hG+ZWNnoPIKRcAKjxLL4exJldrxK57DQg=;S+xZ+psQLJJDLeJ7184E5w=="
 ---

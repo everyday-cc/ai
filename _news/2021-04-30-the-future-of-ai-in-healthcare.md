@@ -85,7 +85,7 @@ related:
     provider:
       name: Discover Magazine
       domain: discovermagazine.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://images.ctfassets.net/cnu0m8re1exe/7fWlxP5pbUOWtYOq9nWOKk/0e4afdfaf151a66642346beca3ad3413/shutterstock_1154457493.jpg"
         width: 1000

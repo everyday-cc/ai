@@ -57,29 +57,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Plus One Robotics raises $33 million for logistics vision system"
-    excerpt: "Backing will help firm meet global e-commerce expansion with technology that delivers “hand-eye coordination” for warehouse bots."
-    publishedDateTime: 2021-04-27T18:46:00Z
-    webUrl: "https://www.dcvelocity.com/articles/50490-plus-one-robotics-raises-33-million-for-logistics-vision-system"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 71
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/2021/04/27/plusone_our-products-left.jpg?height=635&t=1619549271&width=1200"
-        width: 997
-        height: 546
-        isCached: true
-  - title: "Robotic vision startup Plus One raises $33M"
-    excerpt: "San Antonio-based Plus One Robotics today announced a $33 million Series B. The round follows an $8.3 million Series A announced in 2018 and brings the company’s total funding to north of $40 million."
-    publishedDateTime: 2021-04-27T17:28:00Z
-    webUrl: "https://techcrunch.com/2021/04/27/robotic-vision-startup-plus-one-raises-33m/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
 
 secured: "qvATeYGaXapxsC4BTsxIBW2BmXXw7K3I8tKYw3S1v/FCIrba5PQVxc4Yv1Yz0Nu007Cn/4sIuvLnHtc4hiLsqMPvGZnvh4WBz/nlNVJWGSHBGy/hvyu1jXCA89a8bEYH962bygc/ZJem920eJ9rsp0oz6vccau6XY851nKHI0zEkrJg04n3k3DFwSibQkZPwiEPgvtn/6mQDqoZycdyYu1ghx+uplMYD1N0FQNnMHXFtmlGYO4DgQQbf9STzFT9IHhrtMJC82xiG+vUQCvz2H7HD5b9W6K4kA2UW6vJJaNDIQf0hVafqkTcfavD2eZSFP8CPoJDzT+yMOWs4eh1EQqA+wO6zuP6WL3B3h4DStoMn8iJz+dbEvwj8X0H1MS4oSACq2QGZf4W2F9+Risx/lpqwkMW9IxS+SgYI6lW9QA6tZN97J1mpvLZb1JvtgYIdQ3wDrq2zfjFLfkVukmzE+20su+TSiP6yLu1+RlaQyvZb1CtV4NEegmdNI1LSHT80aZgzS4pDpH2TzN8NuSn/RQ==;cFyY60+0JNVdLIo6tfD9Uw=="
 ---

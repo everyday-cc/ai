@@ -75,6 +75,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "There’s No Such Thing as Flawless Facial Recognition Technology"
+    excerpt: "Nani Jansen Reventlow warns of the limitations of facial recognition technology in an article for Slate. “As we continue automating our lives, entrusting important decisions to technology in not only our justice system,"
+    publishedDateTime: 2021-04-28T19:26:00Z
+    webUrl: "https://cyber.harvard.edu/story/2021-04/theres-no-such-thing-flawless-facial-recognition-technology"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
+    images:
+      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "HSPPR gets new facial recognition technology to find lost pets"
     excerpt: "The Humane Society of Pikes Peak Region has teamed up with Petco Love to help find lost pets and reunite them with their families by taking advantage of new technology. According to industry statistics,"
     publishedDateTime: 2021-04-29T19:01:00Z
@@ -128,15 +142,6 @@ related:
         width: 1600
         height: 1035
         isCached: true
-  - title: "Photo Ninja hides your face from online facial recognition"
-    excerpt: "Photo Ninja claims to use AI to slightly alter your images so that they become undetectable to facial recognition software online. The tool was developed by the legal advice app DoNotPay. The self-dubbed “World’s First Robot Lawyer” was initially developed as a chatbot that would help users fight parking tickets."
-    publishedDateTime: 2021-04-27T15:58:00Z
-    webUrl: "https://knowtechie.com/photo-ninja-hides-your-face-from-online-facial-recognition/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 19
 
 secured: "YD5erWWdmp187KfbL89FDBGZfmpzsBnM7LbIi6ruAQ+piJFt5XZDKJNd1yQhno6JxnY6Y+1Auj1Cl7+dIGUZYoSXIJOdpG4eBaUj7Dzk4GuNaH8j1h3906ywc8Qw5yGegJA01TalECWysPB3C+Pd+uahsD4BTAcyyXW8Dia8Ts5hGHbhYj453f53LENyeo4+zobxSf3kY9xPyRFVcoG7bRdWPKx1xY2D88w5VU004Qba+hFyYlCurOLUY//7K0YhGsxdkyyqB8j3RpXsyy+2T8LclE0UVHMmnzhZtLyv+z+/1KIl4aUCpe8Uzuf99pMUV/xD9kd8TuvdA9FdZkFHd6wGnn38eGbRymurzjuGXLxzsaAGkbm6TpyDLqo1Tq0EIArUsLgMeBUwYAgImhoCiTHZC21ZS31zBm0tELh7Xl988LLaGZJlt/A0aGuZI2qo1OlAs2NNRlM1kmTc0+DCRIaoBQCJ1oRK4endprORGsSIQ3l5jJWgR5Df6Ybe3zjt6p7hf1UoTauorxOPFBQa5Q==;VwgUsYjfO/gAP/nBwUk+AA=="
 ---

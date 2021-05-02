@@ -57,6 +57,15 @@ related:
         width: 1848
         height: 1112
         isCached: true
+  - title: "Facebook reimagines self-supervised learning in Computer vision AI with DINO"
+    excerpt: "Facebook makes a breakthrough in self-supervised learning method with DINO and semi-supervised learning method with PAWS."
+    publishedDateTime: 2021-05-02T09:21:00Z
+    webUrl: "https://techstory.in/facebook-reimagines-self-supervised-learning-in-computer-vision-ai-with-dino/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 33
 
 secured: "wKtmbQXvBCrCM7b3OR4Ric+T4KiP8GnRqqejbrGgoCHFpeDBOKzrJabG7OVUxeCrS/7kivcOFHaA8Le2V4x+mlGHIQNoRUU57xdxivr2QudzPOrX1HAZczEfyeLI6ob9ow+9y0Kl4U4T5/DMee4j9dYz14HNuHQ0OyRfKqnhndYqZgSiBrh7JOchwW3y2Dp7JSpJiBJaBAieYa5ojLz8s0W/KRIYcWJuAz6NEbs4ALxrGvecpBhKn3KhTR1ABlpNLfK74RZ4WyNknU4zfqNCM7oLbgbZWL8INO7tBpzdAVDnw3qooGy+JHNiSF3D9kMYOfkTkopia0Y80inWk5CGg/LcEvSw1OKrRPfW+ssVFtY=;3JhP5sAWOYsymkV2PczVTg=="
 ---

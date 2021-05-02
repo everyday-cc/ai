@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/frances-macron-seeks-broader-counte
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/frances-macron-seeks-broader-counterterror-surveillance-11619629713"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
