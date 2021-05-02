@@ -5,8 +5,6 @@ excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% SHANGHAI (Reuters) - Chine
 publishedDateTime: 2021-04-19T04:07:00Z
 originalUrl: "https://www.businessinsider.com/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-2021-4"
 webUrl: "https://www.businessinsider.com/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-2021-4"
-ampWebUrl: "https://www.businessinsider.com/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-2021-4?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-2021-4?amp"
 type: article
 
 provider:
@@ -21,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "pQv+4wTmLG2U6eGB9nd4KOdPa032Slp3BVUZpT5bvSy3gh5TjqOy/EcGKU6ZT8RX0VhyP83wpHoDoUInwgCVefoME+e7K6Igh5RxES3c9x7Rqu1NJlDgap4pSoXkKJh2MJdTqYTyF5f+H3exEtkEzGsK1bqvM5ywRsLhAjPVgxh2PHGaEZA/T7hg1yx51R3lDARtUEDJQMzIabpVYvvFvaHqXKvasJwy6ohyGi+NLDq3YKZKGmXFAcSYSIhw3qm5oFIZdbMJEBXSBS3MC0aFEDzJ9ryJyTyuFnHzMVx9uPRKUuE+0MhquzP0kBbPgaN1V9oElqrD93ZtXa48vIpvvNSBnvon7To+KSql3x5culU=;9OLDgE+lKhj3jIqs8AgvKw=="
+secured: "f4B7RnZExNxsMLmumPFKHSWU1kWJQN2PjyillGiWLshasHCb1c6qCEvwORTVPyCIbkC9EGmLMPLt/LDeSCZVndHdPRnB0hA260sbkfXJnMfhH5Fbi//BGm6FvLyc2yg3DsMZyeCyAhoqbCHsYFRLu7zAc296VPsoyBCHV+UVwR+nCZDtEQAd1Oog/2oU4eseH53431Y4lZLpC08xy9F5NN6P8hQxbFKjHKYdyytDWum6oyycmbNyby+K7jxoKaoKlwj3YxlFUPsawALYBw2PP5fasGCJGU2GrX1TuO2IRMtMDD2SxfGefhrLX3eg5EEddjz/mYQl6X/AIY60N5AN6V+CmOtpzHv/dMHRvW+xbMM=;XelHVnS9Pxov0MJBKI9LtA=="
 ---
 

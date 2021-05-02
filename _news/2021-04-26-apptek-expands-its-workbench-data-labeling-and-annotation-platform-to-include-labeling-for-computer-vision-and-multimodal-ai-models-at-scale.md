@@ -1,28 +1,21 @@
 ---
 category: news
 title: "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today announced the expansion of its Workbench data labeling and annotation platform to include video labeling capabilities for computer vision models,"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
 publishedDateTime: 2021-04-26T16:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20796180"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20796180"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
-images:
-  - url: "https://mma.prnewswire.com/media/1496629/AppTek.jpg"
-    width: 400
-    height: 286
-    isCached: true
-
-secured: "zy9sdi3wHNN2DgFwUG45Tom3Dhc7VR4Mf8mbIRvF/AdVxTieGTXCbMfrXGuGtRwhdTUbchikWYOdb1OYAotaa19ymESs4t03/jGeAar/IFvRqQGSX3iXm1+t5uyHdZGkRIZ/2C+IaQB43modlGUZqUZKeVDKpKfc9ErCCZ1et1TaoRrP0DSCPiKbzqi4rLh77HppvwkCHvgmTAZnRBi6mHpTiRxv71sqjNQJZYGCcGohzBcONYYzypkqQ4M6lXbrGHFoy2Z9HfZrOjpDIOSTpQ6Yqb88kMrtO950deLCepidBXESs3wYIoFTS3OzqqaWTVG8dCfqxMCbBV5sm7fxSk0cBHjIKanlNSMmEdg/Q0o=;m/QSpSH5qRC4L3t4ZDlxPg=="
+secured: "4sF46WBOdzUWhqEt5GsTNSc0C0S+K5HWsy6ZQXoi4PexIaAK0sa1qVi6gJbqErkF+x5cyAcoQKCDofj5x7MRx6zj7WmdEJ3+RHZdz8q6uFmX2cJ7Urfak/BM//4fU6MY1GxMQuMt3K2wKBTmXBkaMyNDqefLE2RDtrr/vARWwLwJbmS0B7MQEKQNTkOLwyUIGcSUvNj2P/R3TaW3ypOxM3mc5dwvA4DHJOd/eVqPCFqtAo5vTKjanb2L3wWQhMym6GVJd/SIGuxMPFR3Tzac3qBU/tEqFdj5sbsiVQ3NiABFDJnGJloB0NFMiXbe5PGZ3Y59jzbk1UQNwQ0d1ho20IXiRpAMoy5XuTLlLF7M+K0si9nKG6YWoMOwBBzAhfxOpG2bU43Okf2fp4TJXiyknVNaVjOb0dEK9LI6m3GoRnzhBH2FnAIm10uY0NHeFyaKXSyNgAQ0a5qD869wTY9ffSb2umaQuigNIi8ZdoGs03++0+oEmYUs3c2uuCwpSF2CYioUBu8DW0bqdT/Z4sFjBQ==;ouSHkxrdhWTPbMKeiSNy4A=="
 ---
 
