@@ -91,6 +91,22 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "IBM to acquire Turbonomic for AIOps"
+    excerpt: "It complements IBM's recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT."
+    publishedDateTime: 2021-05-03T13:45:00Z
+    webUrl: "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/"
+    ampWebUrl: "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg"
+        width: 736
+        height: 400
+        isCached: true
   - title: "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud"
     excerpt: "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT"
     publishedDateTime: 2021-04-29T15:13:00Z

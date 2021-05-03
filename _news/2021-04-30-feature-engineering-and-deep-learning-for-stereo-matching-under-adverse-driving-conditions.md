@@ -19,33 +19,63 @@ topics:
   - AI
 
 related:
-  - title: "Understanding AI And Machine Learning Concepts To Build Your AI Leadership Brain Trust."
-    excerpt: "This blog is the latest in the AI Leadership Brain Trust series which defines 50 key competencies required to build a world-class AI center of excellence in a large enterprise. This blog defines basic AI and ML terms for board directors and CEOs to step up their knowledge know-how and stay relevant."
-    publishedDateTime: 2021-04-30T01:40:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/04/29/understanding-ai-and-machine-learning-concepts-to-build-your-ai-leadership-brain-trust/"
+  - title: "Creating an end-to-end application for orchestrating custom deep learning HPO, training, and inference using AWS Step Functions"
+    excerpt: "Amazon SageMaker&nbsp;hyperparameter tuning provides a built-in solution for scalable training and hyperparameter optimization (HPO). However, for some applications (such as those with a preference of different HPO libraries or customized HPO features), we need custom machine learning (ML) solutions"
+    publishedDateTime: 2021-05-03T17:33:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: AWS
+      domain: aws.amazon.com
+    quality: 93
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b5ce145ba745bee6050b2%2F0x0.jpg"
-        width: 1200
-        height: 799
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/12/1-Flowchart.jpg"
+        width: 800
+        height: 458
         isCached: true
-  - title: "Understanding AI In Our AI Brain Trust Leadership Series"
-    excerpt: "This blog is a continuation of the AI Brain Trust Leadership Series and explains key concepts for Board Directors and CEOs to understand regarding AI. Helpful references are provided to advance knowledge and competency,"
-    publishedDateTime: 2021-04-30T22:34:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/04/30/understanding-ai-in-our-ai-brain-trust-leadership-series/"
+  - title: "Researchers Warn: AI Algorithms Can Influence People’s Voting and Dating Decisions"
+    excerpt: "Researchers highlight need for public education on impact of algorithms. In a new series of experiments, artificial intelligence (A.I.) algorithms were able to influence people's preferences for fictitious political candidates or potential romantic partners,"
+    publishedDateTime: 2021-05-01T11:55:00Z
+    webUrl: "https://scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/"
+    ampWebUrl: "https://scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 55
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608c7f36c1ba92b0fee69491%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://scitechdaily.com/images/AI-Algorithms-Dating-Decisions-777x520.jpg"
+        width: 777
+        height: 520
+        isCached: true
+  - title: "Vision for ultra-precision agriculture includes machine-learning enabled sensing, modeling, robots tending crops"
+    excerpt: "Researchers at the University of Illinois Urbana-Champaign have developed small-scale robots that can fertilize, weed and cull single plants in a"
+    publishedDateTime: 2021-04-29T18:06:00Z
+    webUrl: "https://www.miragenews.com/vision-for-ultra-precision-agriculture-includes-552006/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 18
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
+        width: 700
+        height: 417
+        isCached: true
+  - title: "Development of Spectroscopic Sensor System for an IoT Application of Adulteration Identification on Milk Using Machine Learning"
+    excerpt: "Adulteration in milk is a common scenario for gaining extra profit, which may cause severe harmful effects on humans. The qualitative spectroscopic technique provides a better solution for detecting the toxic contents of milk and foodstuffs."
+    publishedDateTime: 2021-05-01T14:58:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9393967"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 11
+    images:
+      - url: "https://ieeexplore.ieee.org/ielx7/6287639/9312710/9393967/graphical_abstract/access-gagraphic-3070558.jpg"
+        width: 660
+        height: 295
         isCached: true
 
 secured: "uh903ttkVLWBLidT81QQCEq1wU29VBfSm1jPhprzasWpyQvLbfh3rr2TeuE/93aLzogtYv+8KqIbVYJW3hHUUi6SGnfC0+0wU+bY5gFd7QiAzZwTFm1QcfV6O2CfGM1DvAfQjX75N3A3Dzbja+lG82FjZLJKJPfrnPEIlmOMJ53fSVQWGgHtUbuPc/xoDV1gE0vzoKH5iLWTnl0bGmMje+E8W7AD9gk2obLRUP8awF8/RsdaIP9nyPWAg86wP+tlXAO2P4CZYMoqARdgS5gLHDXTwFVNzDYW5HpnKo8GOELA1ggA2F71NlgTFFvuaR14jqGR7X1oFfTFfn1gBTv8FQD2dnkj17Yx8VffGYWfg8Q=;yIN7jbJjdZAQzgthHjGTRQ=="

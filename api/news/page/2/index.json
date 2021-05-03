@@ -2,6 +2,214 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-01-intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe.md",
+      "title": "Intel CEO seeks $10B subsidy to build a chip factory in Europe",
+      "excerpt": "Intel CEO Pat Gelsinger may be asking for as much as $10 billion in subsidies to build a new foundry in Europe to ease the chip shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/",
+      "originalUrl": "https://venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/05/model-n-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 745,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/amp/",
+      "publishedDateTime": "2021-04-30T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-research-a-market-where-consumers-can-pay-for-privacy-is-emerging.md",
+      "title": "Research: A market where consumers can pay for privacy is emerging",
+      "excerpt": "There is a hidden market for privacy, with consumers eager to pay a premium to protect their personal information online, new research shows.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/30/research-a-market-where-consumers-can-pay-for-privacy-is-emerging/",
+      "originalUrl": "https://venturebeat.com/2021/04/30/research-a-market-where-consumers-can-pay-for-privacy-is-emerging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/compliance.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 902,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/30/research-a-market-where-consumers-can-pay-for-privacy-is-emerging/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/research-a-market-where-consumers-can-pay-for-privacy-is-emerging/amp/",
+      "publishedDateTime": "2021-04-30T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-introducing-hierarchical-deletion-to-easily-clean-up-unused-resources-in-amazon-forecast.md",
+      "title": "Introducing hierarchical deletion to easily clean up unused resources in Amazon Forecast",
+      "excerpt": "Amazon Forecast just launched the ability to hierarchically delete resources at a parent level without having to locate the child resources. You can stay focused on building value-adding forecasting systems and not worry about trying to manage individual resources that are created in your workflow. Forecast",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-hierarchical-deletion-to-easily-clean-up-unused-resources-in-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-hierarchical-deletion-to-easily-clean-up-unused-resources-in-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T15:02:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors.md",
+      "title": "A blowout earnings cycle hides strategy shift from cloud vendors",
+      "excerpt": "The big 3 cloud vendors have made huge investments over the past few months in data and AI services targeting vertical markets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/",
+      "originalUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1249937449.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/amp/",
+      "publishedDateTime": "2021-04-30T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-a-scientist-created-emotion-recognition-ai-for-animals.md",
       "title": "A scientist created emotion recognition AI for animals",
       "excerpt": "A researcher at Wageningen University & Research recently published a pre-print article detailing a system by which facial recognition AI could be used to identify and measure the emotional state of farm animals.",
@@ -705,7 +913,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/04/29/understanding-ai-and-machine-learning-concepts-to-build-your-ai-leadership-brain-trust/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -809,7 +1017,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -914,7 +1122,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -955,50 +1163,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-vision-for-ultra-precision-ag-machine-learning-plant-sensing-robots-tending-crops.md",
-      "title": "Vision for ultra-precision ag: Machine learning, plant sensing, robots tending crops",
-      "excerpt": "A gardener hoping for a crop of the juiciest summer tomatoes might tend to each and every plant in a plot. But a farmer working to feed the world?",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-04-vision-ultra-precision-ag-machine-robots.html",
-      "originalUrl": "https://phys.org/news/2021-04-vision-ultra-precision-ag-machine-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/vision-for-ultra-preci.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-04-vision-ultra-precision-ag-machine-robots.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-vision-ultra-precision-ag-machine-robots.amp",
-      "publishedDateTime": "2021-04-29T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1103,153 +1267,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-a-photographer-looks-deep-into-americas-past.md",
-      "title": "A Photographer Looks Deep Into America’s Past",
-      "excerpt": "Dawoud Bey’s images at the Whitney Museum expose rich histories hidden beneath the surface, how places evolve over time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/29/arts/design/dawoud-bey-whitney-museum-review.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/29/arts/design/dawoud-bey-whitney-museum-review.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/30/arts/30dawoud-bey-1/00dawoud-bey-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/29/arts/design/dawoud-bey-whitney-museum-review.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/29/arts/design/dawoud-bey-whitney-museum-review.amp.html",
-      "publishedDateTime": "2021-04-29T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-annotate-dense-point-cloud-data-using-sagemaker-ground-truth.md",
-      "title": "Annotate dense point cloud data using SageMaker Ground Truth",
-      "excerpt": "Autonomous vehicle companies typically use LiDAR sensors to generate a 3D understanding of the environment around their vehicles. For example, they mount a LiDAR sensor on their vehicles to continuously capture point-in-time snapshots of the surrounding 3D environment. The LiDAR sensor output is a sequence",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/annotate-dense-point-cloud-data-using-sagemaker-ground-truth/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/annotate-dense-point-cloud-data-using-sagemaker-ground-truth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/28/7-Voxel-Mean-Downsampling.jpg",
-          "width": 700,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T11:19:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-plus-one-robotics-raised-33m-from-investors.md",
-      "title": "Plus One Robotics raised $33M from investors",
-      "excerpt": "The funding round is the latest win for Plus One Robotics after strong growth throughout 2020. This year, it doubled the size of its Port San Antonio facilities. The funding will help the 44-employee company expand its operations in the United States and Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/business/article/San-Antonio-robotics-company-expanding-16132998.php",
-      "originalUrl": "https://www.expressnews.com/business/article/San-Antonio-robotics-company-expanding-16132998.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/17/63/26/20919720/5/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php",
-      "cdnAmpWebUrl": "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php",
-      "publishedDateTime": "2021-04-29T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

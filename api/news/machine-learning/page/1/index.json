@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-03-creating-an-end-to-end-application-for-orchestrating-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions.md",
+      "title": "Creating an end-to-end application for orchestrating custom deep learning HPO, training, and inference using AWS Step Functions",
+      "excerpt": "Amazon SageMaker&nbsp;hyperparameter tuning provides a built-in solution for scalable training and hyperparameter optimization (HPO). However, for some applications (such as those with a preference of different HPO libraries or customized HPO features), we need custom machine learning (ML) solutions",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/12/1-Flowchart.jpg",
+          "width": 800,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-3-big-myths-of-ai-and-machine-learning-debunked.md",
       "title": "3 Big Myths Of AI And Machine Learning Debunked",
       "excerpt": "Artificial Intelligence and machine learning can give your business decision-making processes a massive upgrade. Here’s what you really need to know.",
@@ -159,7 +212,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/04/29/understanding-ai-and-machine-learning-concepts-to-build-your-ai-leadership-brain-trust/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -198,50 +251,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-vision-for-ultra-precision-ag-machine-learning-plant-sensing-robots-tending-crops.md",
-      "title": "Vision for ultra-precision ag: Machine learning, plant sensing, robots tending crops",
-      "excerpt": "A gardener hoping for a crop of the juiciest summer tomatoes might tend to each and every plant in a plot. But a farmer working to feed the world?",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-04-vision-ultra-precision-ag-machine-robots.html",
-      "originalUrl": "https://phys.org/news/2021-04-vision-ultra-precision-ag-machine-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/vision-for-ultra-preci.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-04-vision-ultra-precision-ag-machine-robots.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-vision-ultra-precision-ag-machine-robots.amp",
-      "publishedDateTime": "2021-04-29T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "Machine Learning"
       ]
@@ -393,7 +402,7 @@
       "originalUrl": "https://www.openpr.com/news/2277615/machine-learning-chips-market-dynamic-demand-analysis",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {

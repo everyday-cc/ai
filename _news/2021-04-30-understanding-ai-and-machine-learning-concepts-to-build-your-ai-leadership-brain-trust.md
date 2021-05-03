@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2021/04/29/understanding-
 webUrl: "https://www.forbes.com/sites/cindygordon/2021/04/29/understanding-ai-and-machine-learning-concepts-to-build-your-ai-leadership-brain-trust/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Feature Engineering and Deep Learning for Stereo Matching Under Adverse Driving Conditions"
-    excerpt: "Stereo matching is a challenging research topic in driving assistance systems. Existing stereo matching methods work well under normal day-light conditions. However, they fail to operate under adverse driving conditions,"
-    publishedDateTime: 2021-04-30T15:01:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9417865"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 9
 
 secured: "SHsJQxP68H/PmOgnwRtoftKYO0sP+ctvqSezXtWbYIVD4h9EoeQVnYhtWHqjVD40H8y3owEqjPXF1eG43s5sB7S//vbesf7POBUNYS1nxmcYEAafvH8GbmHZN9bM6Ki4I/zDyAjG/Amb9WbZSk5przyBc4KZ3ILqyIlqx+yGyYONrT3CgdjjRVsL750g5Z4ywwXLah4BTbfJxuslwWA+UrB2C9oHGYuQxLnYmODiu9K+lYeCd5kqGZmekPlVWsypdfDDOPVUE7RI9b0OOWz0kNMx0IqTxFbBVlihWLcHrY58IeSOUMAgxUHExGR9e2w8O/JRVfFeQ1nhcFobu5pGFBhdHAfplVvkXqUZj/8Fdk6aNP2bjb3Lll7Wn9EHeQMqh1mYcbUBcuZ0KHPgro604r+y7AL0et4MjpUcDiO3ZGHZOGL6uhQ/DMJMdOe8omXhurqRcoW/RLMS1ggWu30Bva+4YrvPFG4/gZcnBX9Sy18ibRQKFZdXlP477KsFkf5hu5pRNuFbkjGOgacceKVTGg==;wvdMVivmHuDnkr9jwTcLQQ=="
 ---

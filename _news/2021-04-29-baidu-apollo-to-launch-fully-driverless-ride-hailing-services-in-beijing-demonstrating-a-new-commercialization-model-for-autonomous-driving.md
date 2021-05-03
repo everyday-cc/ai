@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Baidu Launches Robotaxi Service In Outer Beijing. How ‘Fully Driverless’ Is It Vs. AutoX?"
-    excerpt: "Baidu claims the service is “fully driverless” and will be the first service in China where members of the public can hail a paid robotaxi of this sort. The Baidu Apollo project is one of the ..."
-    publishedDateTime: 2021-04-29T00:00:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 95
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b4966a43cfa314e532181%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Baidu Launches Robotaxi Service Outside Beijing. How ‘Fully Driverless’ Is It Vs. AutoX?"
     excerpt: "Baidu, the leading search engine in China, has launched a robotaxi service in Shougang Park - an industrial park on the outskirts of Beijing which will be a site for the 2023 winter Olympics. How does it compare with AutoX's offering and is it the first?"
     publishedDateTime: 2021-04-30T00:06:00Z

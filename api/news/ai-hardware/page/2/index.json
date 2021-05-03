@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-16-nvidia-shares-up-11-this-week-on-new-supercomputing-chip.md",
+      "title": "Nvidia Shares Up 11% This Week On New Supercomputing Chip",
+      "excerpt": "Shares of graphics chip maker Nvidia (NASDAQ: NVDA) jumped 11% this week after the company announced its new Grace chip created specifically for artificial intelligence data centers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/369592",
+      "originalUrl": "https://www.entrepreneur.com/article/369592",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-369592.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369592",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369592",
+      "publishedDateTime": "2021-04-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Share Current and Future Industry Trends, 2020-2026",
       "excerpt": "Selbyville, Delaware, As per the report titled ' Artificial Intelligence (AI) Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook,",
@@ -1274,58 +1326,6 @@
         "name": "insideHPC",
         "domain": "insidehpc.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-op-ed-using-ai-to-help-solve-todays-semiconductor-problems.md",
-      "title": "Op-ed: Using AI to help solve today's semiconductor problems",
-      "excerpt": "The chip technologies that exist today make it possible for cars ... more efficiently through the utilization of intelligent control that is possible with AI. This will allow for older machines to make chips in ways they were not originally designed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106862811-16172891392021-04-01t014455z_1800782907_rc2pmm9drooi_rtrmadp_0_usa-semiconductors.jpeg?v=1617289180",
-          "width": 3500,
-          "height": 2505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "publishedDateTime": "2021-04-07T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

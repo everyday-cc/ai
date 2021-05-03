@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-05/ifbo-tnm050121.php
 webUrl: "https://www.eurekalert.org/pub_releases/2021-05/ifbo-tnm050121.php"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 1210
     isCached: true
 
-secured: "n6/W2n01LaQrBVCXD8fXzg5ALssn5eW/jPidZmuTP0FoUh8+Z9FQdYw7kth6zwljLRciMoiZDMzWD7InZsFRNPYdGJ60zvTuPw9RFqSR04lTbTycWSuIDVDL9drt6KBmEDVIHxfvb+W/eYJG/4OidtuG+qrpkhpF2bwPyC0vzTWumG/EwZ4pCu2ncy7ulu7ld2dBeR4ZRUZ/M5bjOoTt0WNkhnx4GomzsUJULCNp/MbNDNZRPpm52fl1iwmydRv8FGlaw9kAm77WfN7S/Xu3NI5JcCKKpfeTzYLnjvC49GjrrARtpnaJ54kY2mdzdXaw1ybhmBaTBxEiHCOelM0d7InXaNpvK069MC+O+HNWTFo=;FLVfEgFljBr6TG1BqC8dUw=="
+related:
+  - title: "Neural mechanism of autonomous learning uncovered"
+    excerpt: "Thanks to so-called 'deep learning,\" a subset of artificial intelligence (AI) algorithms inspired by the brain, machines can match human performance in perception and language recognition and even outperform humans in certain tasks."
+    publishedDateTime: 2021-05-03T16:17:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-neural-mechanism-autonomous-uncovered.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-neural-mechanism-autonomous-uncovered.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-neural-mechanism-autonomous-uncovered.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/the-neural-mechanism-o.jpg"
+        width: 1440
+        height: 1210
+        isCached: true
+
+secured: "fMDaDcn/HnrqkZs5qT2kUILSZdVtmWaG88CcxuA7egoAFggFB2nAnnjCY1omzkaMMdm7Hj4Dm/dLqUO+iiZXSLEUsyAkZ3m9mxxIVo5FWjphJlbkmUn4Gt1s0mVzo5S+4+aoAp2VUnXdjayj/307BtoccGwhzWkorw0nFL6ZQJ/pAPtHVyFTiHI3KUKOH/D52ZmXxxtfh/sw9oQ/sq5ObtaYjmDj9sq4984GZQVRzFLRGZy+WhSqUJZfLdJi91rpcTxBJtVny/eIajTh9uYTQH+B5vuMTSJP+Y1rF0dCsi+cgYGnipoVTWjFZg9UxVudQGcf3IRPUdRlDcOdmjayn7ju7p/+Pjv4d5cyVLZ5sN8O9Ppv6jQ3qT+BXKvGHqhOQ/1bMV/B9NLDhBWMTR0anQVKuAngNqN852N07P+DY/dORG1rKWMy+GJi80Py4oMkqs9i3RzVhRuK8jhRA11wIibkT7knbRwHY7eB23xwyX3jX/iKjmr7gd9glqFvV4TlRRg4qveM2p5C5TdTUHMkGw==;vNm5JpdSMhdgRS75fiWt1g=="
 ---
 

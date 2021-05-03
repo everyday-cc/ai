@@ -2,6 +2,159 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-03-19-ai-powered-grocery-inventory-startup-shelf-engine-nabs-41m.md",
+      "title": "AI-powered grocery inventory startup Shelf Engine nabs $41M",
+      "excerpt": "Shelf Engine, which taps AI to help grocery stores maximize profits while minimizing waste, raised $41 million in capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/18/ai-powered-grocery-inventory-startup-shelf-engine-nabs-41m/",
+      "originalUrl": "https://venturebeat.com/2021/03/18/ai-powered-grocery-inventory-startup-shelf-engine-nabs-41m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/18/ai-powered-grocery-inventory-startup-shelf-engine-nabs-41m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/18/ai-powered-grocery-inventory-startup-shelf-engine-nabs-41m/amp/",
+      "publishedDateTime": "2021-03-18T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech.md",
+      "title": "Facebook reveals its Smart Glasses’ nerve-tracking wristband tech",
+      "excerpt": "Facebook has revealed another step in its path to augmented reality Smart Glasses, a wrist-based controller that blends AI and nerve-tracking EMG to leapfrog traditional input systems. While the",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech-18664390/",
+      "originalUrl": "https://www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech-18664390/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech-18664390/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech-18664390/amp/",
+      "publishedDateTime": "2021-03-18T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-facebook-teases-new-wearable-ar-tech-controlled-with-your-wrists.md",
+      "title": "Facebook Teases New Wearable AR Tech Controlled With Your Wrists",
+      "excerpt": "On Thursday, the company teased information about its “wrist-based” technology that could be combined with artificial intelligence and harnessed into wearable technology. Last year, Facebook Reality Labs unveiled Project Aria,",
+      "sourceUrl": null,
+      "webUrl": "https://hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device",
+      "originalUrl": "https://hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device?amp=1",
+      "cdnAmpWebUrl": "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device?amp=1",
+      "publishedDateTime": "2021-03-18T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hypebeast",
+        "domain": "hypebeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-raise-robots-and-artificial-intelligence-to-improve-social-skills-for-elementary-students.md",
+      "title": "RAISE: Robots and Artificial Intelligence to Improve Social Skills for Elementary Students",
+      "excerpt": "Project RAISE is a collaborative project between UCP of Central Florida and the University of Central Florida that aims to improve the social skills of students with disabilities by creating a teaching toolkit featuring the Dash™ robot and an AI-driven socially assistive robot,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucf.edu/research/research-project/raise-robots-and-artificial-intelligence-to-improve-social-skills-for-elementary-students/",
+      "originalUrl": "https://www.ucf.edu/research/research-project/raise-robots-and-artificial-intelligence-to-improve-social-skills-for-elementary-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UCF Today",
+        "domain": "ucf.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-baidu-to-test-paid-robotaxi-services.md",
       "title": "Baidu to test paid robotaxi services",
       "excerpt": "Baidu, the Chinese internet giant and a leading autonomous driving technology developer, is poised to become the first company in China to demonstrate paid robotaxi services. The program, approved by local traffic authorities,",
@@ -780,161 +933,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-mark-cuban-joins-philadelphia-startups-13m-funding-round.md",
-      "title": "Mark Cuban joins Philadelphia startup's $13M funding round",
-      "excerpt": "A Philadelphia startup raised $13 million from a group of investors that includes billionaire Mark Cuban and intends to use the funds to double the size of its staff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/philadelphia/news/2021/03/18/fort-robotics-philadelphia-raises-13-m-double.html",
-      "originalUrl": "https://www.bizjournals.com/philadelphia/news/2021/03/18/fort-robotics-philadelphia-raises-13-m-double.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-roche-canada-artificial-intelligence-centre-of-excellence-opens-digital-competition-to-tackle-als.md",
-      "title": "Roche Canada Artificial Intelligence Centre of Excellence opens digital competition to tackle ALS",
-      "excerpt": "CNW/ - The Roche Canada Artificial Intelligence Centre of Excellence (AI CoE) is excited to collaborate with Answer ALS and EverythingALS to launch an initiative called the End ALS Challenge, with the support of ALS Society of Canada,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/roche-canada-artificial-intelligence-centre-of-excellence-opens-digital-competition-to-tackle-als-1030223657",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/roche-canada-artificial-intelligence-centre-of-excellence-opens-digital-competition-to-tackle-als-1030223657",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-singapore-bank-rolls-out-facial-recognition-for-its-atms.md",
-      "title": "Singapore bank rolls out facial recognition for its ATMs",
-      "excerpt": "Singapore-based OCBC Bank has enabled facial biometric security on eight ATMs within the island city-state, including the bank's main branches in Tampines, in the Central Area,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/88968-singapore-bank-rolls-out-facial-recognition-atms.html",
-      "originalUrl": "https://www.techspot.com/news/88968-singapore-bank-rolls-out-facial-recognition-atms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/88968-singapore-bank-rolls-out-facial-recognition-atms.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88968-singapore-bank-rolls-out-facial-recognition-atms.html",
-      "publishedDateTime": "2021-03-18T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-medimpact-and-seb-bring-artificial-intelligence-fwa-solution-to-canada.md",
-      "title": "MedImpact and SEB Bring Artificial Intelligence FWA Solution to Canada",
-      "excerpt": "To help employers and health plans gain more control over fraud, waste, and abuse (FWA), MedImpact Canada Limited and SEB Administrative Services Inc. are launching an advanced analytics and reporting solution to combat FWA in Canada.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-outsourcing-consumer-products-and-services-dea3e19933764ffcb3062cab77d03cc8",
-      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-products-and-services-outsourcing-consumer-products-and-services-dea3e19933764ffcb3062cab77d03cc8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

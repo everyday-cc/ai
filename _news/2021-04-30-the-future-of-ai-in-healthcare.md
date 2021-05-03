@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://images.ctfassets.net/cnu0m8re1exe/7fWlxP5pbUOWtYOq9nWOKk/0e4afdfaf151a66642346beca3ad3413/shutterstock_1154457493.jpg"
         width: 1000
         height: 665
+        isCached: true
+  - title: "Top 8 Challenges of Artificial Intelligence in 2021"
+    excerpt: "Artificial Intelligence is no more just a high-end word, but it has now become a reality. It is no longer an option for the businesses to use it"
+    publishedDateTime: 2021-05-03T16:11:00Z
+    webUrl: "https://gisuser.com/2021/05/top-8-challenges-of-artificial-intelligence-in-2021-2/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 37
+    images:
+      - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-03_9-09-50.jpg"
+        width: 754
+        height: 373
         isCached: true
   - title: "Computer Vision in Healthcare Industry Analysis and 2021 Future Trends"
     excerpt: "According to the latest research study by Infinity Business Insights, the global Computer Vision in Healthcare Market was estimated at USD XX$ billion in 2021 and is forecast to cross USD XX$ billion by 2026,"

@@ -96,6 +96,20 @@ related:
         width: 1000
         height: 665
         isCached: true
+  - title: "Top 8 Challenges of Artificial Intelligence in 2021"
+    excerpt: "Artificial Intelligence is no more just a high-end word, but it has now become a reality. It is no longer an option for the businesses to use it"
+    publishedDateTime: 2021-05-03T16:11:00Z
+    webUrl: "https://gisuser.com/2021/05/top-8-challenges-of-artificial-intelligence-in-2021-2/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 37
+    images:
+      - url: "https://gisuser.com/wp-content/uploads/2021/05/2021-05-03_9-09-50.jpg"
+        width: 754
+        height: 373
+        isCached: true
   - title: "To See the Future of AI, Look Inside Yourself"
     excerpt: "There are warnings from top-level scientists about a future in which computers become so advanced that they will leap into autonomy. Freed to make their own decisions the way humans do, AI machines conceivably might create catastrophes like starting a war."
     publishedDateTime: 2021-05-03T07:39:00Z

@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix"
-excerpt: "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure"
-publishedDateTime: 2021-04-26T12:01:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html"
+excerpt: "(Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix® to service customers in six new global markets,"
+publishedDateTime: 2021-04-26T14:01:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
+webUrl: "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522"
-    width: 800
-    height: 522
+  - url: "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg"
+    width: 400
+    height: 261
     isCached: true
 
-secured: "E8g95N4AzJzVPmIbWMAcCVygXOfBVas64qmI6+WdNJSQ9/AQQjw7RCnmxNTNqo8Z0lPsvDg/zvZVWsjg3JoAHBDq4OLsCA2jaoAq7cxWxmm97Im0ScHAssuVdd4WdVvkmqJnwT+XVvz5aoRRARdhfmWcVMW31tyjXJ9p928IGh3T0BoBs0c452/5LZmFcEoFIqAgWIxha+s2HGNFP1kAj+UU3ezxfeSihUDBP7UfZ7X5U58jth+Y9+LYSsQqdPrShFkoYqD7T1cxfuRnAfFPTzG5jaCwkN6XTZnrHASTOaho30Y0togbGNK++/5E9Ea12mmUtFMDbO3O9DixV1ZGWU4ZljZ8ymlr+DNTA/1n1tQ=;RbuJAMBxWh4EXizPEqnDtw=="
+secured: "e38jw8ygy/abBKsWYUujyygwZs+flvfwoJ6Xk6jn5+s7PAy6hJGjyZgUykUdJ16+lDxdzCefjVL1B6O9FxPGje0whgBE1WDkWb1n98eQikFN0d4fq6Z9/7eGj+9y7SpVdTUkuNWsFGbmA3bQG+Y0Kzx/0Vh7kegK15em04l1kLSpvG5o/WOdWVE2ZhjdyJ+lzaB15pt20sc3J0XbSiDnZQVqbIHnox/ypcAbcbdc1+ks8Swb07beCiigapQjBBlxjrSweK5tXORSHxqbUfzmcoFky1LmHeik9+HzOMIdQWq/BQss9o8ylp9T9vb46MNFzBwRah5M2dNMjW6Ljk3VTDWt7slfQAsbwUV9bFXvKhY=;CcAikVvj/iDCVcIFTvFjfg=="
 ---
 

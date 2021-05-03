@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Deep Learning System Software Market Innovations, Trades, Growth Trends And Forecast 2028"
+    excerpt: "The ‘Global Deep Learning System Software Market’ research report Published by the Market Research Inc, is an in-depth analysis of the latest developments, market size, status, upcoming technologies,"
+    publishedDateTime: 2021-05-03T15:52:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/global-deep-learning-system-software-market-innovations-trades-growth-trends-and-forecast-2028/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 26
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/shutterstock_400002673-15-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Worldwide Big Data Software Industry to 2026 - Featuring AWS, Cloudera and IBM Among Others - ResearchAndMarkets.com"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global big data software market reached a value of US$ 142."
     publishedDateTime: 2021-04-29T12:09:00Z

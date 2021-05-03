@@ -20,20 +20,6 @@ topics:
   - AI in Education
 
 related:
-  - title: "Development of Spectroscopic Sensor System for an IoT Application of Adulteration Identification on Milk Using Machine Learning"
-    excerpt: "Adulteration in milk is a common scenario for gaining extra profit, which may cause severe harmful effects on humans. The qualitative spectroscopic technique provides a better solution for detecting the toxic contents of milk and foodstuffs."
-    publishedDateTime: 2021-05-01T14:58:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9393967"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 11
-    images:
-      - url: "https://ieeexplore.ieee.org/ielx7/6287639/9312710/9393967/graphical_abstract/access-gagraphic-3070558.jpg"
-        width: 660
-        height: 295
-        isCached: true
   - title: "CAREER: Time-Aware Multi-Objective Recommendation in Online Learning Environments"
     excerpt: "ABSTRACT Online education is playing an increasingly essential role in workforce training, skill development, and life-long learning. Given the scale of online learning systems an"
     publishedDateTime: 2021-05-02T00:41:00Z

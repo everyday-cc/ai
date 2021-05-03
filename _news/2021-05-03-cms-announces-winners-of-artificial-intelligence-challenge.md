@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-03T14:55:00Z
 originalUrl: "https://healthitanalytics.com/news/cms-announces-winners-of-artificial-intelligence-challenge"
 webUrl: "https://healthitanalytics.com/news/cms-announces-winners-of-artificial-intelligence-challenge"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-942954932.jpg"
@@ -34,6 +35,6 @@ related:
       domain: businesswire.com
     quality: 27
 
-secured: "z6mjg4nXc8O/ZI3xVZSOAbY/O1Qj8NXkOF7nkTt9JsfYCTzaRxrkgZlHiNkjFauJ6Bv6B2dIT51mQtl+ZPCtvJMvknYCnL+6SexczRPvIWBhZ13m961Wq2RQliO2hSLaUbLwbWk/UDKut7Bb1Z2IzDtHdw2VGIum5OF9kWNNqOyG2c51QzUpQEBP0tTVWWDwVKtn1lEm05nVy9GMMhQWOCBgKxj6HsvpjzinlF8JJIKUGyP3G7YoCPiLiB86kQL7UM4k7esnfPBQzTA63vrcsdlXZP+n45Mk4mxCF4aR0ul40ThPaqirejLlppOfM8Tv7pkfUAJ+B4ClzrDJVX5eTY3oZOOoQ3fNiU9C8Z4P1R4=;QdXzRPiZ7tLhb8VDFP74yw=="
+secured: "IkT9sR25CH2zJzJ/rEdd3/l8WokRxt30nSWNi1EOYqi/jaCQWWPk8iueCik4OgnL+NdxhoXzapeKcBg/DSYUl5VJtWyLeYOxa4vQ9R8nZYAL6geMk2hGVAo+Y6VTudIcJVJE3nvgGGf8uUPVIJDTK2UiNssNQvzNKfsMWOB4RUDAt/8qdj3EWoxUB8tiTlAfEB0Fi0pnbLyoR6hiap3zev3h/OtpnFB56vnvGOFwWgeHw4PrLqbLG0/S77j4dbf8ZXF7pYut7Wan4FDLvqYX5xgkAbtncX0RWVKYDyg0kChPjj2WHnCb1k51KcfNEPt0lsz212c3Q3btItXOKzxxGTj1Jw99rtqBvthKTsI4wihsRh16j9oAM5zQ2lIJleIbNuncEcVHsXynH+8IhLtxG7a1JUzOJ7Gzwcz0pkPL+Wbtq6VI5sYkKBgqpKaSaaax003A8pwDT0w2RqrtrSyOMTOJ6Z3Q8Vfr/wDv97/Ev/LXGkmV6khKg6XiuEaIdZZfIhxC2cu1tyjz1XimxXkK1A==;A+wslzuevVtC53Z4nvaayQ=="
 ---
 

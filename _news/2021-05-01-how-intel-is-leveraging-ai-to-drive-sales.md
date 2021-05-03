@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-dri
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/amp/"
 type: article
 quality: 108
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/ah4yZs5MTpbD6MRXyVk9Z6-480-80.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Intel Community Needs Next-Gen Microelectronics for Future of AI"
+    excerpt: "IARPA wants “seedling” ideas that use a multidisciplinary approach that extends beyond traditional technological and scientific fields."
+    publishedDateTime: 2021-05-03T17:41:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/05/intel-community-needs-next-gen-microelectronics-future-ai/173766/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/05/03/computer_education_training_class_picture_id1210738055/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Artificial Intelligence in Fintech Market size, Witness Highest Growth in near future by 2027 | Microsoft, Google, Salesforce, Ibm, Intel"
     excerpt: "The Artificial Intelligence in Fintech market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"

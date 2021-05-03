@@ -306,50 +306,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-30-vision-for-ultra-precision-ag-machine-learning-plant-sensing-robots-tending-crops.md",
-      "title": "Vision for ultra-precision ag: Machine learning, plant sensing, robots tending crops",
-      "excerpt": "A gardener hoping for a crop of the juiciest summer tomatoes might tend to each and every plant in a plot. But a farmer working to feed the world?",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-04-vision-ultra-precision-ag-machine-robots.html",
-      "originalUrl": "https://phys.org/news/2021-04-vision-ultra-precision-ag-machine-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/vision-for-ultra-preci.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-04-vision-ultra-precision-ag-machine-robots.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-vision-ultra-precision-ag-machine-robots.amp",
-      "publishedDateTime": "2021-04-29T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-04-30-plus-one-robotics-raised-33m-from-investors.md",
       "title": "Plus One Robotics raised $33M from investors",
       "excerpt": "The funding round is the latest win for Plus One Robotics after strong growth throughout 2020. This year, it doubled the size of its Port San Antonio facilities. The funding will help the 44-employee company expand its operations in the United States and Europe.",
@@ -1408,6 +1364,49 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-18-new-bionic-limbs-to-be-controlled-via-brain-mounted-sensors.md",
+      "title": "New bionic limbs to be controlled via brain-mounted sensors",
+      "excerpt": "Hailed as the first endeavor to dabble in the world of bionic phalanges by requiring open-skull surgery, the research is seeking to develop \"real-time mind-controlled robotic limbs for the disabled.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2008-04-18-new-bionic-limbs-to-be-controlled-via-brain-mounted-sensors.html",
+      "originalUrl": "https://www.engadget.com/2008-04-18-new-bionic-limbs-to-be-controlled-via-brain-mounted-sensors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

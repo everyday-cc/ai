@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biometric apps to benefit as Xilinx, AonDevices, Edge Impulse work on speeding up edge AI"
+    excerpt: "The attributes of edge AI chips—performance and data privacy—mean that biometric applications are expected to be key sales drivers for these companies."
+    publishedDateTime: 2021-05-03T17:09:00Z
+    webUrl: "https://www.biometricupdate.com/202105/biometric-apps-to-benefit-as-xilinx-aondevices-edge-impulse-work-on-speeding-up-edge-ai"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/03/30132833/E7DD10E3-E8ED-483A-B0C2-B2B87A7DEA95.jpeg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "North Carolina school district buys face biometrics to monitor students and staff"
     excerpt: "A facial recognition surveillance system from Verkada has been purchased in North Caroline by a rural school district in northwest of Charlotte."
     publishedDateTime: 2021-04-29T17:26:00Z

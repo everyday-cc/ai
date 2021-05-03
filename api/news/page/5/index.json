@@ -2,6 +2,147 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-28-state-of-the-art-natural-language-processing-for-pytorch-and-tensorflow-20.md",
+      "title": "State-of-the-art Natural Language Processing for PyTorch and TensorFlow 2.0",
+      "excerpt": "Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. - Shaowen310/transformers",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/Shaowen310/transformers",
+      "originalUrl": "https://github.com/Shaowen310/transformers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/53214fc768705a9d7a233c6e2d5d0946da4726bbcd20e73c8c81937f34f5c416/Shaowen310/transformers",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T20:52:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-aws-deepracer-follow-the-leader-ftl-sample-project.md",
+      "title": "AWS DeepRacer Follow the Leader (FTL) sample project",
+      "excerpt": "Learn to deploy an object detection model that enables the AWS DeepRacer device to identify and follow an object. - aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
+      "originalUrl": "https://github.com/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/e7140ff7471f6a805315ad5fc43967a430dedc669bb4f709b5d77bf7972c5b36/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T18:31:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-artificial-intelligence-is-misreading-human-emotion.md",
+      "title": "Artificial Intelligence Is Misreading Human Emotion",
+      "excerpt": "There is no good evidence that facial expressions reveal a person’s feelings. But big tech companies want you to believe otherwise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/technology/archive/2021/04/artificial-intelligence-misreading-human-emotion/618696/",
+      "originalUrl": "https://www.theatlantic.com/technology/archive/2021/04/artificial-intelligence-misreading-human-emotion/618696/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/wrG9Mzuhijw5-pB4uy5KILnDq40=/570x321/media/img/mt/2021/04/1_The_Atlantic_illustration_AI_MASK_Irene_SuosaloStill-1/original.jpg",
+          "width": 570,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/618696/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618696/",
+      "publishedDateTime": "2021-04-27T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch.md",
       "title": "Announcing the AWS DeepComposer Chartbusters challenges 2021 season launch",
       "excerpt": "We’re back with two new challenges for the AWS DeepComposer Chartbusters 2021 season! Chartbusters is a global challenge in which developers use AWS DeepComposer to create original compositions and compete in monthly challenges to showcase their machine learning (ML) and generative artificial intelligence",
@@ -634,6 +775,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-27-xnfy-lab-announce-the-launch-of-an-ai-generated-fashion.md",
+      "title": "XNFY Lab Announce the Launch of an AI Generated Fashion",
+      "excerpt": "A powerful and adaptable technology to revolutionize digital brand content and start a new era in the upcycling of garmentsVIANA DO CASTELO,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030349863",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030349863",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-toyota-acquires-lyfts-self-driving-unit-for-550-million.md",
       "title": "Toyota acquires Lyft's self-driving unit for $550 million",
       "excerpt": "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlights the Japanese automaker’s ambitions in that technology",
@@ -768,49 +952,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-xnfy-lab-announce-the-launch-of-an-ai-generated-fashion.md",
-      "title": "XNFY Lab Announce the Launch of an AI Generated Fashion",
-      "excerpt": "A powerful and adaptable technology to revolutionize digital brand content and start a new era in the upcycling of garmentsVIANA DO CASTELO,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030347886",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030347886",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1062,153 +1203,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-9-healthcare-ai-companies-to-watch-in-2021-per-forbes.md",
-      "title": "9 healthcare AI companies to watch in 2021, per Forbes",
-      "excerpt": "Pharmaceutical startup Verge Genomics and clinical trial matchmaker Komodo Health are among nine healthcare companies recognized by Forbes for their artificial intelligence capabilities. For its AI 50: Top AI Companies to Watch in 2021 list,",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/9-healthcare-ai-companies-to-watch-in-2021-per-forbes.html",
-      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/9-healthcare-ai-companies-to-watch-in-2021-per-forbes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m.md",
-      "title": "Lyft sells self-driving unit to Toyota’s Woven Planet for $550M",
-      "excerpt": "Ride-hailing company Lyft has sold off its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million, the latest in a string of acquisitions spurred by the cost and lengthy timelines to commercialize autonomous vehicle technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
-      "originalUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 374,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024",
-          "width": 1024,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
-      "publishedDateTime": "2021-04-26T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-microsoft-offers-new-azure-specializations-and-scholarships-through-coursera.md",
-      "title": "Microsoft offers new Azure specializations and scholarships through Coursera",
-      "excerpt": "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

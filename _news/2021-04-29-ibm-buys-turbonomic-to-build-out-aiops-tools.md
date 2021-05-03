@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-buil
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-build-out-aiops-tools/"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://images.techhive.com/images/article/2016/11/20151027-ibm-sign-100625227-orig-100696117-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "IBM to acquire Turbonomic for AIOps"
+    excerpt: "It complements IBM's recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT."
+    publishedDateTime: 2021-05-03T13:45:00Z
+    webUrl: "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/"
+    ampWebUrl: "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg"
+        width: 736
+        height: 400
         isCached: true
   - title: "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud"
     excerpt: "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT"

@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-announces-support-for-the-aws-media-entertainment-initiative/article_88c17de6-c6d1-5956-a827-8a11f9f24106.html"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://www.rbr.com/wp-content/uploads/RBRimage.png"
         width: 345
         height: 450
-        isCached: true
-  - title: "ThinkAnalytics Announces Support for AWS for Media & Entertainment Initiative"
-    excerpt: "ThinkAnalytics adds personalization to the AWS for Media & Entertainment initiative with its real-time content discovery and viewer engagement platform that has been integrated with more than 30 AWS cloud-based services."
-    publishedDateTime: 2021-04-29T00:00:00Z
-    webUrl: "https://www.streamingmedia.com/PressRelease/ThinkAnalytics-Announces-Support-for-AWS-for-Media--Entertainment-Initiative_52358.aspx"
-    type: article
-    provider:
-      name: Streaming Media Magazine
-      domain: streamingmedia.com
-    quality: 51
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/137781-InnoLive-ORG.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Codemill announces support for AWS for Media & Entertainment Initiative"
     excerpt: "Codemill has announced support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to simplify the management of media productio"

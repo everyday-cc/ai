@@ -65,6 +65,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Intel Community Needs Next-Gen Microelectronics for Future of AI"
+    excerpt: "IARPA wants “seedling” ideas that use a multidisciplinary approach that extends beyond traditional technological and scientific fields."
+    publishedDateTime: 2021-05-03T17:41:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/05/intel-community-needs-next-gen-microelectronics-future-ai/173766/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/05/03/computer_education_training_class_picture_id1210738055/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "ZCySDlRbcJ4Tj4GlYz4nTGSLe8CpIty56aHfzucJGOGcE+nOsMuPpuDgokHiiM/f0YO9CrFRBz4yXv1YuVlwm51nMdTnJtVATOmwFy9oDGnyiaw8uGy8N23B4uKzrrXzRjla6HJKcmaQ4Q3sj7YZoayHotyvhUxjwBZShtWb9/8N9G/Jsx19tL6UGEbp53I9uqHPzHErODtJ7bGKK4bynGE1Hb2FXHuxxi9OV8glx6OLkwnLvf8k+AA1pK3xxsE1EqlXDJqsoyrEo0dqYwE16QRWMa2ukQGwTS5T9Rt7LUM3CnDUuM3Ig6rl/3RU6WUxyOcRyh6KffDBFgIbsKqKlJEEkM9c7as3dy9f7GCunNf2vuVCzVP7Wlu9KuP0eqmxdL6c685lzwpExXa1kZ5fb6v01g996vNKVO3UlqVb+b3yGIAcZYtT+yZFvJdc+7KjMw6evaohilDZ6cJLfG6BxcsjnPgG2y3PPh7voc665ynng3NZ4mHIzDhWFCsM7BtJfSVMPkpvH+M+ZreTgPG1/Q==;DouUV7MsSCUH66pE1cHsrw=="
 ---

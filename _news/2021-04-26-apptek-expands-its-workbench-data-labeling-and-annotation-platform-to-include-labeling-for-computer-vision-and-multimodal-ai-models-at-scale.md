@@ -1,27 +1,26 @@
 ---
 category: news
 title: "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
+excerpt: "AppTek is trusted by some of the world's leading cloud and technology companies to power their conversational speech, text and image-based AI models through its managed data services program. To create the robust data sets required for these high-performing AI models,"
 publishedDateTime: 2021-04-26T16:40:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html"
+originalUrl: "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html"
+webUrl: "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630"
-    width: 880
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1496629/AppTek.jpg?p=facebook"
+    width: 1614
+    height: 845
     isCached: true
 
-secured: "mSzWZfafqrY5kRPRX6bVVbQlAmBz73wJ3wXy2ebenVinhZYfbZ+jBhKukPy1JxxNT/AWnLxuJr3+CZzrdJ3vTEdoZsfQeqdoWWjgYQCYeTAws3sbNiQKqtM79kpUakUN4elPIOsXDkrtegCE5qIE3U/tdioWN0nRZikr3Yla1pl00IdDfgUDZEaJh3ZTNRIkE/072t0oxNjmcHXjcqZ9XizGYEMnPtjTrePF2ThC3EpXJd+6rq8nDvwP7C1zLrX2kUjN7lM1cl81UWdPzB2wXh1W1b+wgM3Z0Zw3REK6hLjhFgj7H29otR/nmt0E7tImKAEmrtUzJg4HB3J10XO4kLVGI+O6QELjdK7iRd5BdmkYuzaOryPx03PXhcFxwuQMHGENVYYaWqrYML0A2IubjWTljsi/tYt6Z7dGqnvs7vVb9I9fYR6B1YBJe52aB/2tCeF1owi5DcgaHLZooFQ54yPrg0jB7JsFMCyLREqSsREO33SZvkJ+udIoQLS+xxu6uejxsqLSIjYntb8cx/4xyw==;pmEMgjNktIRcl+ux0mBAVA=="
+secured: "Y9sidsERO/wfrBiZCKmYphxrMflxlZsRkg1+ZkNbwYdHKZFreKEdq3E7tH3XH/L9D9tdxO2JEskUZaESQkjxuNq8BuaMfZqeUM8z+GQLx7lplVDMP1pzDG3D60TcUWxOotjgnTalPac40Otj/LrmMJyqCCBTdy00ybJ4UQfzfN/1Bh3xIdF0E2wA8Hh9B6pLeAt6BxM76RGomzDfuAJVXlRjmAy5+c7R2jdkioLPbcVt2i8oM5QYu0x11yDEcweQIlA3eTzWS65CNLL7h/zk2L225ToEvo+WaEe2w5tPbZXX85xl8rfGqVjJz2rx74btQmPutM/RAguGRF4sddaebHvXLfmdOuZg1FRBqUbreNU=;CaohxfJzJ4O3v7iVs4KQmw=="
 ---
 
