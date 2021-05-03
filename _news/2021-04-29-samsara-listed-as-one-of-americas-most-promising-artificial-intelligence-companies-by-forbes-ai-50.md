@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Blue Hexagon Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Blue Hexagon to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. Blue Hexagon, a leading agentless cloud-native AI platform,"
-    publishedDateTime: 2021-04-28T09:30:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-a73006e60945424c9a1a35dbcd8caa02"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "bMIsBMZRghLeCB/Qen8F0perN5GUXnLolquC4LcAWFr3W9k2/rSDVre7IDWUzGeIG5rJdSzw1r69nhxkzHBii0Le+V7qRXthZo6swYE3YBQxaZi6WdeO8rW4sibzsxkzIKPMomt+NCHgaXSJWkNGSIKbMBXUs2I0KiZXznuxvQkSCLNX9TRXWISa5uUxavPfYjQwgV6G/peNtK08jK8EGZHJq9cKpelG0AczBxccrgEr5s/zEgOLf3Rqolp838oNor9R6esiu17DNOtkKnjP9s+cKRXyNjTNslWwt2m0WoOhzyuKnojPGmEL2LFBETPU8NFaTb+SCPJEWtY9F+TdEQIS/R5Pq2I4kL7q2yoE7bM=;2otwpjLmWQzw4H37N6slhw=="
 ---

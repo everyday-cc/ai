@@ -3,8 +3,8 @@ category: news
 title: "New AI Regulations Are Coming. Is Your Organization Ready?"
 excerpt: "Clearly, the regulation of AI is rapidly evolving. But rather than wait for more clarity on what laws and regulations will be implemented, companies can take actions now to prepare. That’s because there are three trends emerging from governments’ recent moves."
 publishedDateTime: 2021-04-30T12:05:00Z
-originalUrl: "https://hbr.org/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
-webUrl: "https://hbr.org/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
+originalUrl: "https://hbr.org/2021/04/new-ai-regulations-are-coming-is-your-organization-ready?ab=hero-main-text"
+webUrl: "https://hbr.org/2021/04/new-ai-regulations-are-coming-is-your-organization-ready?ab=hero-main-text"
 ampWebUrl: "https://hbr.org/amp/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
 type: article
@@ -55,6 +55,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "B1k6aVeUWMpBLuFeDL7iDTeUOXKhm6HGsDmyhLdTRn3UlPWk27CnE0l/JwX1N3Sujcq60ISO13aMyXTjjdECLrNJslwleDYDut3A8EHsOWLxhgttQbzr1CSakf3MkMZny+FakEi+UPU9gTVc14p55f/u8Ac8nptyUhLwIRMZnqE4rCTFeUgeRDujPoMfttOscFXwZWjos4rUlQZxYkiC2a13dEYIucj+W0ZFk/y6ajxDPm3JrrpkRSmF7JW6tWj/wKmSW6ZxjuGMvFnhAyUjpSNRwomd7ncPfCCK238DEEcjPsgaTVMx5y62+Ti3lBvGlNp+ezps0fqP1XDgdF9dJa2lpUzBGbfmd0gOiIHFxHA2b09/YGdq1uwgDVgL7a6LD58SyPcTtM3u+xswvr/KKkh0Y6vCUuSK1aUcT52oS7tPlyR1treL0Xsu3jp+81zoYjgWcCfrmhf+FWPhNtY2tVT/OWcp2OUMG2av/lxekwDPXaOreEP8BRV+Qfouk1TFfMugq19Of0+Dz8j2KlUoKA==;ZNn/BkRQOApkSg5N+mUBVQ=="
+secured: "zaSjNylTPPax3+CSqgAzQMY+6v3ydvzxG250W0Kh0chuY38I0FbfknVMlsuzgBVjb/uBfd07FA3r3YbJtheMblcVHRRecL2aHVs2ArDScX5F+MwtlNBnID3TEZpT2BCw/FwFZ+vr6U2phL/wJnL69kRCO6G9SjFjYg53IW3fssOZE5/5jmfQaFeXV1gy54c8zqRFAEnlV1PQ71ApZhDPxY/OJOYG2Pb+pjfEWTFedsI9fcaAagNKLByB6vbvepq92tp9qc1n3zgsq7i2a31f5MF4M5Iyvj2MswnaVVxHDfTrAWu6rZgAShC2Upd7NK/kxabgb0T0VGx+GsImNoFLtXxMlKq0J73GWCcBu7ARjOQ=;Ybz6oaYje2/iMv6Q1ml8/w=="
 ---
 

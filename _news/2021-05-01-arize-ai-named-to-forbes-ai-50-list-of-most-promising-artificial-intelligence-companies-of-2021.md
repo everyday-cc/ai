@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/arize-ai-named-to-
 webUrl: "https://markets.businessinsider.com/news/stocks/arize-ai-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-1030371841"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Business Insider
@@ -31,20 +31,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 40
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Blue Hexagon Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "CB Insights today named Blue Hexagon to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. Blue Hexagon, a leading agentless cloud-native AI platform,"
-    publishedDateTime: 2021-04-28T09:30:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-a73006e60945424c9a1a35dbcd8caa02"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

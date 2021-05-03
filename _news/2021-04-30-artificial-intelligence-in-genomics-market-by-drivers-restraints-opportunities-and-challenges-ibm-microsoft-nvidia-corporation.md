@@ -36,15 +36,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "AI in Social Media Market 2021 Precise Outlook – Google, Facebook, Microsoft, AWS, IBM, Twitter"
-    excerpt: "Global AI in Social Media Market Size, Status and Forecast 2021-2026. The AI in Social Media Market report is a valuable source of insightful data for business strategists. It pro"
-    publishedDateTime: 2021-04-28T09:32:00Z
-    webUrl: "https://ksusentinel.com/2021/04/28/ai-in-social-media-market-2021-precise-outlook-google-facebook-microsoft-aws-ibm-twitter/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 43
   - title: "Artificial Intelligence Voice Market Boom Ensues | iFlyTek, Google, Apple, Microsoft, Nuance, Facebook"
     excerpt: "Download Free Sample Copy of ‘ Artificial Intelligence Voice market’ Report @  Key Segments Studied in the Global Artificial Intelligence Voice Market A combination of factors, including COVID-19 containment situation,"
     publishedDateTime: 2021-05-02T15:54:00Z

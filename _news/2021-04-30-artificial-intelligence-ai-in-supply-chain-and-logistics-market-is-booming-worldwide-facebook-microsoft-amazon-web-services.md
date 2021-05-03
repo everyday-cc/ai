@@ -66,6 +66,20 @@ related:
       name: tech
       domain: techstory.in
     quality: 33
+  - title: "Global AI Enabled Smart Trackers Market 2021 Future Demand, Analysis,Outlook to 2027 Facebook, Apple, Garmin"
+    excerpt: "The AI Enabled Smart Trackers Market – Global industry Analysis, Size, Share, Growth, Trends and Forecast, 2021–2027 report provides AN analysis of the AI Enabled Smart Trackers Marketplace for the period 2021–2027,"
+    publishedDateTime: 2021-05-03T01:27:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/global-ai-enabled-smart-trackers-market-2021-future-demand-analysisoutlook-to-2027-facebook-apple-garmin/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 20
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Calibre-Research-17.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "wKtmbQXvBCrCM7b3OR4Ric+T4KiP8GnRqqejbrGgoCHFpeDBOKzrJabG7OVUxeCrS/7kivcOFHaA8Le2V4x+mlGHIQNoRUU57xdxivr2QudzPOrX1HAZczEfyeLI6ob9ow+9y0Kl4U4T5/DMee4j9dYz14HNuHQ0OyRfKqnhndYqZgSiBrh7JOchwW3y2Dp7JSpJiBJaBAieYa5ojLz8s0W/KRIYcWJuAz6NEbs4ALxrGvecpBhKn3KhTR1ABlpNLfK74RZ4WyNknU4zfqNCM7oLbgbZWL8INO7tBpzdAVDnw3qooGy+JHNiSF3D9kMYOfkTkopia0Y80inWk5CGg/LcEvSw1OKrRPfW+ssVFtY=;3JhP5sAWOYsymkV2PczVTg=="
 ---

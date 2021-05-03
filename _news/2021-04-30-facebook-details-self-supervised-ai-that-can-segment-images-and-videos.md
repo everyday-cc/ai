@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/30/facebook-details-self-supervised-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       name: tech
       domain: techstory.in
     quality: 33
+  - title: "Global AI Enabled Smart Trackers Market 2021 Future Demand, Analysis,Outlook to 2027 Facebook, Apple, Garmin"
+    excerpt: "The AI Enabled Smart Trackers Market – Global industry Analysis, Size, Share, Growth, Trends and Forecast, 2021–2027 report provides AN analysis of the AI Enabled Smart Trackers Marketplace for the period 2021–2027,"
+    publishedDateTime: 2021-05-03T01:27:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/global-ai-enabled-smart-trackers-market-2021-future-demand-analysisoutlook-to-2027-facebook-apple-garmin/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 20
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Calibre-Research-17.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "o8N5CL7IiJrWC5Twfo74HYojlLs+jqx64t4097/yu2l7ZerPnDUI2ytocxMWXmfgD9/J7yuLdpIVveJRKIDPB+zMJqfoVfHrBDB/aJVRaEcik9HheVnK1Y89xP65kd34PZNXpnuP6QfgXomnFsWIAbEtxT0FzhdFEnzCGwuPgcew20Ggf8lfIP8Gug/c8ZdGE8fvxXQeNuerg7MfRm7Ojuf4DVpyOAJN1f2jtZ3We0I9IsdiOpy8IxFP+9XqFWBeHI1qqynOZ+q39JrvDMKB56QRl+WPN/6254yrle0d+FcTTayXqaSZfOsE7/9znGs9Jp5Z4EWr0CKjV8hyRfAUGKHvOxHDcCbcWqM6YZDx5JMjgrJOcgWO406opbrOO06uYvhDDz0zorIzF2PZRi8o+OruewlwbgDunPEJdk9OZz+iBOrdnLd6WpXxFbK7fb1p94zTZKQjgoOB6Aodb6g10p5rPTVh1LbBbEJ/epGjMjr+vlJ0OQcTsPBCjxKpWvBQEqgCFQA0L6x1L2G+n5NjOQ==;sSxPws652guNjnDwOsHkoA=="
 ---

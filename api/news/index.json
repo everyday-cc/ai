@@ -714,48 +714,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-01-arize-ai-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021.md",
-      "title": "Arize AI Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021",
-      "excerpt": "Observability company, has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to transform industries. The Forbes AI 50 list, in its third year, includes a list of private North American companies using artificial intelligence in ways that are fundamental to their operations,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-1030371841",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-1030371841",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-30-computer-vision-inches-toward-common-sense-with-facebooks-latest-research.md",
       "title": "Computer vision inches toward ‘common sense’ with Facebook’s latest research",
       "excerpt": "Machine learning is capable of doing all sorts of things as long as you have the data to teach it how. That’s not always easy, and researchers are always looking for a way to add a bit of “common sense” to AI so you don’t have to show it 500 pictures of a cat before",
@@ -817,7 +775,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1240,6 +1198,49 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-south-and-central-america-artificial-intelligence-ai-in-healthcare-market-future-prospects-and-opportunity-assessment-upto-2027.md",
+      "title": "South and Central America Artificial Intelligence (AI) in Healthcare Market Future Prospects and Opportunity Assessment Upto 2027",
+      "excerpt": "The Business Market Insights provides you regional research analysis on South and Central America Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2277918/south-and-central-america-artificial-intelligence-ai",
+      "originalUrl": "https://www.openpr.com/news/2277918/south-and-central-america-artificial-intelligence-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U430418845_g.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2277918/south-and-central-america-artificial-intelligence-ai",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277918/south-and-central-america-artificial-intelligence-ai",
+      "publishedDateTime": "2021-04-30T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

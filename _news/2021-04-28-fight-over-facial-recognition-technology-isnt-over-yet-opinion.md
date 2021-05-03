@@ -59,22 +59,6 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "Coalition of groups calls for end to facial recognition program used to identify protester at Lafayette Square"
-    excerpt: "A group of technology, civil rights and legal groups is calling for an end to a facial recognition system used by authorities in the Washington region that helped identify a demonstrator accused of assaulting a police officer during the forceful clearance of protesters from Lafayette Square last summer."
-    publishedDateTime: 2021-04-28T10:04:00Z
-    webUrl: "https://www.washingtonpost.com/local/public-safety/facial-recognition-washington/2021/04/27/a6fb257c-a6c3-11eb-8d25-7b30e74923ea_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/facial-recognition-washington/2021/04/27/a6fb257c-a6c3-11eb-8d25-7b30e74923ea_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/facial-recognition-washington/2021/04/27/a6fb257c-a6c3-11eb-8d25-7b30e74923ea_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N4SLC7FHNAI6XDJFPMYOOSJD5I.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "There’s No Such Thing as Flawless Facial Recognition Technology"
     excerpt: "Nani Jansen Reventlow warns of the limitations of facial recognition technology in an article for Slate. “As we continue automating our lives, entrusting important decisions to technology in not only our justice system,"
     publishedDateTime: 2021-04-28T19:26:00Z

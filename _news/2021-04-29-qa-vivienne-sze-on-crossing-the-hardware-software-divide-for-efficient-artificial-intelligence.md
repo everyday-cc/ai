@@ -45,20 +45,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Decoupling Software-Hardware Dependency In Deep Learning"
-    excerpt: "The deep learning community has realised that the time is ripe to decouple software-hardware dependencies for progress."
-    publishedDateTime: 2021-04-28T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/decoupling-hardware-software-dependency-deep-learning/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/joseph-greve-rst3YOh6LXA-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "e5w9VGl8GApL3UcLX/ooxdl+5XpOkhy8tLoU8Uew0o6yM6aRhY1ygnGApMMKJwb7IAxlVkFszuGidOk/GRRAcPr5YV1P0D1ti8MoKyIqbTBiFyGD1FLqoMTn1bo/jM+3Vgi5AXts/4yUERAHD6HLSE+KYmgjRFjFVMAm+0EP+uTa9xyi+MDvH9R0c6zFtrOg/KzLRjVrJ58Szc7IP03H712Omjz2H1RotVIT/I4D8fpMDTFG7Ylyg7TEjxiPiOQBsj5FgR+9fbT2UgXfl2hiDm5ovRK1Am5SZXp36yHUMF6XTv/+P/tqljg6GE0dSRHDPj1fiLH34BbkZDV3/H/ZWDt8833hQASqex4mOCoLAMDODkh9cqhQcWi+BoCmqURkeuAiml/LV5rWKAUi/3JnnFVfdcY1jzSgirBUPJhdWrrM+9oeVW6LfiAGcBOtcZYa6Wl5bjMh8LFi4jZbuphXLHRLgB6uCHG7KySySYoTV/Oro/jSvUSpGsi8wnWHCLAA+fOHBw7EF1xhEmTofeMiZw==;HyF07l3B7qEPNeGOGTh6yw=="
 ---

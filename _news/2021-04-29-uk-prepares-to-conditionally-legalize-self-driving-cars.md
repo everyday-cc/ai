@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
 type: article
 quality: 74
-heat: 244
+heat: 224
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606252c768cbbbf4ea56d79e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2460%26cropY1%3D124%26cropY2%3D1508"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Making Safe Self-Driving Cars Is Really, Really Difficult, So Lyft Just Sold Its Self-Driving Tech"
-    excerpt: "Lyft just sold their self-driving tech to a Toyota subsidiary. Uber bailed out of their effort in 2020. Tesla drivers over-rely on self-driving tech with disastrous results. Meanwhile, companies continue to wrestle with autonomous driving tech."
-    publishedDateTime: 2021-04-28T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/"
-    ampWebUrl: "https://www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6088f359ae5e001f1312768e%2F0x0.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "UK says 'self-driving' cars could be allowed by the end of 2021"
     excerpt: "The UK government has announced that basic self-driving cars with automated lane-keeping system (ALKS) could arrive on British roads by the end of 2021. The new designation will allow trials of such systems, allowing Britain to develop its own self-driving ..."
@@ -184,20 +168,6 @@ related:
       - url: "https://i.insider.com/5fc97006037cbd0018613bf9?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Could we see self-driving cars on UK roads this year?"
-    excerpt: "Automated Lane Keeping System technology cold be given the green light by the DfT later this year, paving the way for self-driving cars."
-    publishedDateTime: 2021-04-28T10:21:00Z
-    webUrl: "https://www.intelligenttransport.com/transport-news/123487/self-driving-cars-uk/"
-    type: article
-    provider:
-      name: intelligenttransport.com
-      domain: intelligenttransport.com
-    quality: 24
-    images:
-      - url: "https://www.intelligenttransport.com/wp-content/uploads/autonomous-stock.jpg"
-        width: 750
-        height: 450
         isCached: true
   - title: "Self-Driving Cars Approved In UK"
     excerpt: "The government said the use of Automated Lane Keeping Systems would be restricted to motorways at speeds under 37 miles (60 km) per hour."

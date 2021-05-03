@@ -33,15 +33,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "AI in Social Media Market 2021 Precise Outlook – Google, Facebook, Microsoft, AWS, IBM, Twitter"
-    excerpt: "Global AI in Social Media Market Size, Status and Forecast 2021-2026. The AI in Social Media Market report is a valuable source of insightful data for business strategists. It pro"
-    publishedDateTime: 2021-04-28T09:32:00Z
-    webUrl: "https://ksusentinel.com/2021/04/28/ai-in-social-media-market-2021-precise-outlook-google-facebook-microsoft-aws-ibm-twitter/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 43
   - title: "Artificial Intelligence In Genomics Market by Drivers, Restraints, Opportunities, and Challenges | Ibm, Microsoft, Nvidia Corporation"
     excerpt: "AI in genomics market to register a CAGR of 52 7 from 2020 to 2025 ReportsnReports added Artificial Intelligence In Genomics Market Research Report created by Report Consultant which offers detailed insights revenue details and other information regarding the global"
     publishedDateTime: 2021-04-30T07:17:00Z

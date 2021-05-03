@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Facebook’s DINO enables self-supervised learning for computer vision AI"
-excerpt: "Facebook Inc.’s artificial intelligence research team today announced more breakthroughs, this time in the areas of self-supervised learning and semi. Self-supervised learning in AI, also known as unsupervised learning,"
-publishedDateTime: 2021-04-30T14:00:00Z
-originalUrl: "https://siliconangle.com/2021/04/30/facebooks-dino-enables-self-supervised-learning-computer-vision-ai/"
-webUrl: "https://siliconangle.com/2021/04/30/facebooks-dino-enables-self-supervised-learning-computer-vision-ai/"
+title: "Global AI Enabled Smart Trackers Market 2021 Future Demand, Analysis,Outlook to 2027 Facebook, Apple, Garmin"
+excerpt: "The AI Enabled Smart Trackers Market – Global industry Analysis, Size, Share, Growth, Trends and Forecast, 2021–2027 report provides AN analysis of the AI Enabled Smart Trackers Marketplace for the period 2021–2027,"
+publishedDateTime: 2021-05-03T01:27:00Z
+originalUrl: "https://ksusentinel.com/2021/05/03/global-ai-enabled-smart-trackers-market-2021-future-demand-analysisoutlook-to-2027-facebook-apple-garmin/"
+webUrl: "https://ksusentinel.com/2021/05/03/global-ai-enabled-smart-trackers-market-2021-future-demand-analysisoutlook-to-2027-facebook-apple-garmin/"
 type: article
-quality: 56
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: The Sentinel
+  domain: ksusentinel.com
 
 topics:
   - Facebook AI
   - AI
-  - Computer Vision
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/bxSlslyg.jpeg"
-    width: 1848
-    height: 1112
+  - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Calibre-Research-17.jpg"
+    width: 700
+    height: 400
     isCached: true
 
 related:
@@ -56,6 +55,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Facebook’s DINO enables self-supervised learning for computer vision AI"
+    excerpt: "Facebook Inc.’s artificial intelligence research team today announced more breakthroughs, this time in the areas of self-supervised learning and semi. Self-supervised learning in AI, also known as unsupervised learning,"
+    publishedDateTime: 2021-04-30T14:00:00Z
+    webUrl: "https://siliconangle.com/2021/04/30/facebooks-dino-enables-self-supervised-learning-computer-vision-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/bxSlslyg.jpeg"
+        width: 1848
+        height: 1112
+        isCached: true
   - title: "Facebook reimagines self-supervised learning in Computer vision AI with DINO"
     excerpt: "Facebook makes a breakthrough in self-supervised learning method with DINO and semi-supervised learning method with PAWS."
     publishedDateTime: 2021-05-02T09:21:00Z
@@ -65,21 +78,7 @@ related:
       name: tech
       domain: techstory.in
     quality: 33
-  - title: "Global AI Enabled Smart Trackers Market 2021 Future Demand, Analysis,Outlook to 2027 Facebook, Apple, Garmin"
-    excerpt: "The AI Enabled Smart Trackers Market – Global industry Analysis, Size, Share, Growth, Trends and Forecast, 2021–2027 report provides AN analysis of the AI Enabled Smart Trackers Marketplace for the period 2021–2027,"
-    publishedDateTime: 2021-05-03T01:27:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/global-ai-enabled-smart-trackers-market-2021-future-demand-analysisoutlook-to-2027-facebook-apple-garmin/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 20
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Calibre-Research-17.jpg"
-        width: 700
-        height: 400
-        isCached: true
 
-secured: "laxewbZhA0RG3D+ZgDocqSpr5VQt00Citlsn5/hjM4ywi+z9+eCa+vwB+U9NkA6O3fjo6TUuDjMNZFVUxRuPeDex6No3T2orbGlPdZQu0ZsbB84CLVqglX/qZami/eeEX/52+/cV6ZSfVg3sawnbEM+L+FnaSZCQy7jQUKRaKFaGGWM2mffd9qUcdjTOV5LI/QaDeNTr3FAozSV5Gtkeq5xRVDhmYOuVgWnXh0uIHoRoexVsZGG2CQoq7Pr0U0sPL48RB3u/HLhJD3Mb4UDUEKTTLUL3fv6Smo2c9rhI0M3GSNLqhrgB4B6sGtWRP4NgDfaQjU8hkFHMeKba7lkoTWD02WSUy8/vedPf/4DPj9Del/UTODKw1sDq7UWT/D4xCAJcbvZtrHrDSwXtzg5htNX2n6UTvA8Lzh5OVtMvoLXasRz/Sn0HGj9/3NTKlGGZZu4cZe/Ehhm1K43bmwrg5C8Vc6yi49rtKf+NWuwnWhjw5ABjV/QDiiN107llbryIdBLwl+6fjf2KARibMG0qeA==;LkAMpdt8YuKaUxX6DYZ0fQ=="
+secured: "dvmYsnr9RA+FS2UiGsS6V+hbF7hQ8/kBb9DcR7VRDU6i3R1nJ0kb2snW9mFb0GlEsNn0tPwDhiw34Xuv9Y/WLKn3aLXSfniIGCYrM0hh/4nGU0Uzic4a/0lvUmREKsTQPLLu+NtNCG9evlDqFfe6dmgEfhrHLCpxGMQ8jS0fMKh3QGf3KYDu564lm2f82Qlr1xDqHOvwFMFMmm9YMJoqJfaHinaarPhc9jtQwBPpjcGMNAYSDCkON3bOHwNiOYcxlHicrzGI7zgiNDNHM63qCR82D3mahHkfdn3S22yP0uhcGCT/mSkOf16red0Ahasb/NVbso8+1JrMNZ/T5QUnaqzmLIxkUTPtuSk2p0CcUaw=;UCHqSmoD9+iPyWNbIJzITA=="
 ---
 
