@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/29/google-led-paper-pushes-back-agai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/amp/"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:

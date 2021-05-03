@@ -26,6 +26,24 @@ images:
     height: 274
     isCached: true
 
+related:
+  - title: "Fintech: A Major Driving Force of Business in 2021"
+    excerpt: "With the rapid flow of venture capitalist money, the business sector is shifting to the Fintech ecosystem. All businesses are enhancing customer experience using Fintech management through real-time data analytics."
+    publishedDateTime: 2021-05-03T17:30:00Z
+    webUrl: "https://www.analyticsinsight.net/fintech-a-major-driving-force-of-business-in-2021/"
+    ampWebUrl: "https://www.analyticsinsight.net/fintech-a-major-driving-force-of-business-in-2021/?amp"
+    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/fintech-a-major-driving-force-of-business-in-2021/?amp"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 44
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Fintech.jpg"
+        width: 900
+        height: 500
+        isCached: true
+
 secured: "Dzk/zoukwms/VE+1pyJT4VI6QeCd9ebm2FmzlU5Ll/AK0T2iU2dzpQeTngpyjHfguAcZRR55oWLQy8RDZuGAVVenri97SBGl0VKUonOuJFeXNqY58ywJHvdVaVNSa5taY9/ZGTE3CKLme8vaK05RhSyxUDpjwIoL08hVwYm6cY7lZmmSTabkY06W57bO4mAJc4MATBaRWZ92hDM1QKODofInosHoRuJrhC/PNrNwb5JPGH7/8I40M7dSeC0CuZQAUL+SX3zJZtuUsoA1uafe3fEplLFc2DaP75JrRuDD2TO7JU0Aze8U7NgGCU09HC1sehIg5T/kLdpWexYVZFRyvHz+IZi3cDhEyfpTxQs07J9Nkow1FMpElUF4F1Wa2NLTlZoB6BDGuzxgdFIaKxjyBn+zLqzNNPZcZshxPY7ADtjXN4pVQUG6y5SsILJuK9Al57lDUX7+uEiYxzLdVB52WjrviaqQEzC2vBCKJuLyX98ZgIgSeMnoTxWCwKj8Yadw9PUCWn+LsPa9kQOXXJa1bQ==;URgb+2MCbMTHMxVU16eU8w=="
 ---
 

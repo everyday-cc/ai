@@ -53,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -1319,21 +1319,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-15-global-artificial-intelligence-in-medical-imaging-market.md",
-      "title": "Global Artificial Intelligence in Medical Imaging Market",
-      "excerpt": "Added a New Report on Artificial intelligence in medical imaging Market Report the combination of best industry insight practical solutions talent solutions and latest technology have been used The market report is a comprehensive study of",
+      "path": "_news/2021-04-18-cognitive-behavioral-therapy-for-avoidantrestrictive-food-intake-disorder.md",
+      "title": "Cognitive-Behavioral Therapy for Avoidant/Restrictive Food Intake Disorder",
+      "excerpt": "Cognitive‐behavioral therapy in the time of coronavirus: Clinician tips for working with eating disorders via telehealth when face‐to‐face meetings are not possible . International Journal of Eating Disorders, Vol. 53, Issue. 7, p. 1132. Wagner ...",
       "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2270936/global-artificial-intelligence-in-medical-imaging-market",
-      "originalUrl": "https://www.openpr.com/news/2270936/global-artificial-intelligence-in-medical-imaging-market",
+      "webUrl": "https://www.cambridge.org/core/books/cognitivebehavioral-therapy-for-avoidantrestrictive-food-intake-disorder/9F00DB41FFD73BD36D705A1FFCE06670",
+      "originalUrl": "https://www.cambridge.org/core/books/cognitivebehavioral-therapy-for-avoidantrestrictive-food-intake-disorder/9F00DB41FFD73BD36D705A1FFCE06670",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.openpr.com/U/4/U415772049_g.jpg",
-          "width": 696,
-          "height": 442,
+          "url": "https://assets.cambridge.org/97811084/01159/large_cover/9781108401159i.jpg",
+          "width": 497,
+          "height": 648,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1341,13 +1341,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2270936/global-artificial-intelligence-in-medical-imaging-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270936/global-artificial-intelligence-in-medical-imaging-market",
-      "publishedDateTime": "2021-04-15T08:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-17T10:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1357,8 +1357,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

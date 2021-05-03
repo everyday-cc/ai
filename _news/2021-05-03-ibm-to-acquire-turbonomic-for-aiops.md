@@ -107,20 +107,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud"
-    excerpt: "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT"
-    publishedDateTime: 2021-04-29T15:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "IBM’s Journey To Hybrid Cloud Territory Continues With Turbonomic Deal"
     excerpt: "IBM has acquired Turbonomic, a Boston-based application resource management (ARM) and network performance management software provider."
     publishedDateTime: 2021-04-30T18:46:00Z
@@ -165,6 +151,15 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud"
+    excerpt: "IBM today announced a definitive agreement to acquire Turbonomic, an Application Resource Management and Network Performance Management software provider based in Boston, MA. The acquisition will provide businesses with full stack application observability and management to assure performance and minimize costs using AI to optimize resources–"
+    publishedDateTime: 2021-04-29T15:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "IBM to Acquire Turbonomic"
     excerpt: "IBM has a definitive agreement to acquire Turbonomic, an application resource management (ARM) and network performance management software provider based in Boston. The acquisition will provide businesses with full stack application observability and management to assure performance and minimize costs using AI to optimize resources-such as containers,"
     publishedDateTime: 2021-04-29T16:20:00Z
@@ -240,6 +235,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "jEbiPU+wDNwH0wj+qUkZR0G+c8v1N2tp0MAOxEKCQOnPiCic4m8JqmuyIlUeBgXBONRtt6FGhoH0hZWGLawwQ09snuXGXWdttI5EJrw53M6GRGFkp9uXz9KWUA2itM7gcfkUKQGubddvvRb7CLjbfQjKMGmIWc0oXzxlMCyHybaFu2gmw9OBg/muC4Esn04KSd2uNflD8sqJqlu2GwQeb9o220l7GQ5fFjn5saIeAPnnJdhxff4W9/sX7FV6eHwFZrXiW8IyrtZ0f56MiroNhx+b0PZF2x5Tnh3GlOtVCAmEAP/ygQpPxMUOs/QeQV0Yr081DyCfT7tzSGFHgMWOAWQljLe1JvowvQt8KXVl03c=;GArTQ6ZYaO78x12qHCPp4A=="
+secured: "E2VF0BRIuDwUDBvEpj+VxdTWLTIfAW+Dq6V13gQCfRrMHOTeqrcECPR1y4Ojy0d4BCl101uNLhyRo7XRj5ny2Rj7davOXHP0gu5txKmNrVSj27abrDoGPcyDwov7fEf33maTbR2M3yvoO5byiKN3VM0fB12/KNSmBPpgiVJCELOdt6Ccmtb7KeeXPd3dn74CUBdBBHxEaspjA0nsmAkyLCFicsVmt3XqYIXHOvvNGZW2/pCVmhIKrSiT4RCHob5xozVWwurAsCNgpeodNfBESVPl572h+tAyQUAky+V2sucabIrm/iV/zduU04ArbXlWgHI+B3HUeTlX+mWFqjznnSQa2sjTfeJ0HTaEh0TqrXLOJ2wSE8NRAWSrjEKLD3Gi0vFav3nUTKkvoCp+OWLaaX4VJOSpODPkCKxSpI+5Ucs4dkz3spMD1vr9dvlkbLtGvAq/nzTUyqRHsI3/QslK4Got0isi1/whpGj/yLqS220Gm3UHl8kpDw051R12LTCmHnLpNhwTqShMrjKnN41HaA==;uERZJ+ftzy1MIPhIBFymPQ=="
 ---
 

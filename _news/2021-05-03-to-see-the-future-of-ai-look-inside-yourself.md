@@ -95,6 +95,20 @@ related:
         width: 1000
         height: 665
         isCached: true
+  - title: "How a startup beat health care heavyweights to win Medicare’s AI contest"
+    excerpt: "ClosedLoop.ai bested 300 rivals with a system capable of forecasting adverse health events by crunching an array of data on patients."
+    publishedDateTime: 2021-05-03T19:29:00Z
+    webUrl: "https://www.statnews.com/2021/05/03/how-a-startup-beat-health-care-heavyweights-to-win-medicares-ai-contest/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 38
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2021/05/AdobeStock_349244257-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Top 8 Challenges of Artificial Intelligence in 2021"
     excerpt: "Artificial Intelligence is no more just a high-end word, but it has now become a reality. It is no longer an option for the businesses to use it"
     publishedDateTime: 2021-05-03T16:11:00Z

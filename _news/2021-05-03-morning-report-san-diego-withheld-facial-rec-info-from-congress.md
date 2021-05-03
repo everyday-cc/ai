@@ -33,7 +33,7 @@ related:
     provider:
       name: Voice of San Diego
       domain: voiceofsandiego.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.voiceofsandiego.org/wp-content/uploads/2021/04/Facial-Recognition_FINAL.png"
         width: 1800

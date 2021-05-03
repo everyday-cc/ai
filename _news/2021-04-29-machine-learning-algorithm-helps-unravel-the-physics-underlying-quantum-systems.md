@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-04-machine-algorithm-unravel-physics-unde
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-machine-algorithm-unravel-physics-underlying.amp"
 type: article
 quality: 55
-heat: 76
+heat: 75
 published: true
 
 provider:

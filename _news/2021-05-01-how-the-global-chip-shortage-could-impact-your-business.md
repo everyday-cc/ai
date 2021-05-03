@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/30/how-the-global-chip-shortage-coul
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

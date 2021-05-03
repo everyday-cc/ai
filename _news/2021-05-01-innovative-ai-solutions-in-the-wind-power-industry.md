@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "InnovationRx: Artificial Intelligence 50; Plus Covid Treatments In India"
-    excerpt: "W hile some industries were devastated by the Covid-19 pandemic, funding kept flowing to startups using artificial intelligence to solve business challenges. Several healthcare companies made the annual Forbes AI 50 list,"
-    publishedDateTime: 2021-04-29T01:02:00Z
-    webUrl: "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/"
-    ampWebUrl: "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/amp/"
+  - title: "Nestle: Driving Innovation through AI and other Disruptive Tech"
+    excerpt: "Nestle leverages disruptive technologies like AI, machine learning, blockchain, and advanced data analytics to enhance business growth. The brand uses data analytics and artificial intelligence to drive personalized customer engagement."
+    publishedDateTime: 2021-05-03T13:28:00Z
+    webUrl: "https://www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/"
+    ampWebUrl: "https://www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/?amp"
+    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608a05213e5ebbca00f583aa%2F0x0.jpg"
-        width: 1200
-        height: 815
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/nestle.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "noLyhL6cRdXYXfwaYuErd6BNkP3v4XE2VAA/TLZM6D6AFBy+W9RsamU8h0tp+cS40u/iWo1eXsRkCyKc/ilCoNDNg/K0Wi77SwBsLxjDjetH4oYq0cpxMHbfdDENPOVNAqQ05e6RWcK0mk3kdsXpS2fZOl3IC7KUtboLZDX0lPgANVUitkQpupVpxA6UhwS0m7tONF2A10tjaegDUJ1CTKuVsY/J6zvRPg5pK5F9bOstEM0tzZbccaWlLGu1IRC+po0EujwVyP1bt3fId4YkUYyVEzswQOwryhHhuH4oohSIuNUuj/eACYoiqN/UtxoYVECgS+CczeNYWsd2SKaXlJPAEjcN+w6nZLizsCKZjPuZPCvjND5XBFS4xfQzT8mXnnOBnJ6ZwOxlVMYWPxa7I52Iy4RWiJnW7ARNpHXHXkPvEf8eh8VrpEse8puK73GKW8foCBcEzQOOnhquCnxF1GIM9rXJqJI/16S2NW1zeUMn3jKfmtxHpzhAk25UQBrGSfnDkf/Z5jZvcHZ6m8IRTw==;/TUvqPKebnpT6WjkhLz6gw=="

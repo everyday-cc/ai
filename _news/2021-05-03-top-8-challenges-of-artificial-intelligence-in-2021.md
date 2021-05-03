@@ -100,6 +100,20 @@ related:
         width: 1000
         height: 665
         isCached: true
+  - title: "How a startup beat health care heavyweights to win Medicare’s AI contest"
+    excerpt: "ClosedLoop.ai bested 300 rivals with a system capable of forecasting adverse health events by crunching an array of data on patients."
+    publishedDateTime: 2021-05-03T19:29:00Z
+    webUrl: "https://www.statnews.com/2021/05/03/how-a-startup-beat-health-care-heavyweights-to-win-medicares-ai-contest/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 38
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2021/05/AdobeStock_349244257-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Computer Vision in Healthcare Industry Analysis and 2021 Future Trends"
     excerpt: "According to the latest research study by Infinity Business Insights, the global Computer Vision in Healthcare Market was estimated at USD XX$ billion in 2021 and is forecast to cross USD XX$ billion by 2026,"
     publishedDateTime: 2021-05-01T12:04:00Z
@@ -128,6 +142,6 @@ related:
       domain: abiresearch.com
     quality: 17
 
-secured: "HIup3eW6RJAvsoznEWjYHiYnOx2q8/6rY9gS9S31i/HQ+fcgRdrdidEE6VcGi3e0vL7ek4X1RWFjsy1tmcUYCT5U/wFgVq1pWvnaSpJnZnH2ijQxu7pTnQ8JEVRq5suxM28vDaHMlpaCfiZAtKZupIfa8BlEp6O12l6MTkFDodfudOqUWF7RvRI7GC5/RzVYLm0TH2mjPeasL/TaQO6vVDfMqaak5GBirSwI8HQxxBt/4cOWz5sDr4JEJ4ZNE0LXnaBW5WuMgzvqMr3j6b1kCQv1ww70UHlotGMxbkaiA4ybSCOIcJuFo0tWOszTNdXAG6uN/Lw1D6lnL2cYsWXSn5ni4OOLkRvnFKQpuqkSO+0=;NRSnSwcCmMO7bjmpuwrePQ=="
+secured: "gsflC4so0M7GWjluRtryJkZDxFketilIz/+WqfoVN6z8agsGE9mfirZnwA4TLWov8dJOByzPispNP8fqMGZXDA02rboXtnmvrxazLoK8zI/jWX30OKUZGBnpQC+A6F/UxVKGivpT1rO5RiXo6/5rxygj0cweztVFIDGqyL2PbjqI39BLFMVjUnG9EcREr9nr5/5bOtNASy/zxUg0NXS9D3HHItyJHdh8kHI3+ZjEJjc7WvmrEfgeF556Rf6+2wluPh1iwg/cOetzmzmKdULQT/lnCRNTSOpEk7MKHX+SqqU/prQphoWWmOgC4a0PlNksSrTLMF9Y1NsUw/Iwep4Baw+ONSn8r/DhQP75wLdPDKOMVZ+bkJB07Pt5kNAdlNggtxs6i8muHurwuSYyhNdiMX6KgRSp+RV+5ZY6Bx5EJdHphfl2y2f1gsY0veRLba5cWZfom7C1plY0+HxBEUJ8V1TFII0m+FEiUmZj189z8mzy5yn5PSNTRqf9YGHkxCPNGVHo5DLsmLL1ISjTwVsL4A==;1GL+QQ0OA2caHOeySlXQWg=="
 ---
 

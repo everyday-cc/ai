@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-03T17:18:00Z
 originalUrl: "https://www.medindia.net/news/new-artificial-intelligence-simplifies-complex-immune-system-201032-1.htm"
 webUrl: "https://www.medindia.net/news/new-artificial-intelligence-simplifies-complex-immune-system-201032-1.htm"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.medindia.net/health-images/catch-some-zzs-to-fight-infection.jpg"
@@ -23,6 +24,6 @@ images:
     height: 250
     isCached: true
 
-secured: "BWa/fHXhvHmQnhFpoRWwBC8+5Bmb6t10zQvndrOrUl8TULH9jLv217whsPgRlAHjQhfCl7fvSmWgc8cKjFCt33T0dfOYmhX3OL9EncptKskgWXQRppKcj2gc6HnPW7n0tG7nwYLIpVVA3rmgnI1TOQhKa+BqLd6shwATNnq+4T1uXL3tzuoonIyIPrmTlyn0rTS4CawCJ39k4qZ2IUyF0ZJwqhplIhlJsznU/XpllPFDyY2ulmfCi0qnolhbrQyX606qDp/l8bzHUD1jFcxkFFy8l6gpp4KnfWbHYIRauKwvhMGNgrQ8crvkPr6eMyA91+6FKFSmO4n5/8bU51AkwBCU+4Rk9ATQgHU02jrd3LU=;MbJWaNcaG9+vi7epSVjYjA=="
+secured: "aEqL3UE71FwTnUW+xVFqC3k9wU03TK6voLrq0Ej0tzYGr5hMWqZlO5uPSsOsP06maSI+gW5RZRqUPmsfeU84csuSTRauLcSBBAFZNOfBH587uJ1sedmqr2Dq2X18JxeE6L3Xm+43J+XeXwEPocmCzpUMRwpmaFN4/2KlsylOIcF4x8A2S3c4xHHV4jBj3q9XIWlUJswidD46aDGNCxtBv3vEf106vb2F9nB8oLSnbpHntj/g8gY3BYO6qGJVb/zuULTFGvOYiiEIgZx6ZZLtIF+jhZsVxebxXl01tBsLMj1n16y/i9Xs4Bo6fS1Cx8ABMliUWCUKW2avVKFmEGFKy0haMg5CUiDzUxLvh1+G97+/aQUNlzSyLfg1uVHTIhccB3Q2saG8vvBRLqrDuk0aO83o75pWyc4CNBXYn+faEBWvXsnjKDN/0RNXx0YteWTaXlzpIlMtKjmkixyHmr3C+WLMbiBss1SaQSh5jDiRcnzHu/AehQo1OarwXOGvmELZVjNMoR/OmPRhZ/UcpuVBnA==;ONiJhf1TnfVEPJ630owU7w=="
 ---
 
