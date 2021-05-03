@@ -39,20 +39,6 @@ related:
         width: 359
         height: 400
         isCached: true
-  - title: "China pushes standards for face biometrics and plenty more"
-    excerpt: "China's national government has released draft standards for securing facial recognition data. Beijing has invited public comment of the proposed rules."
-    publishedDateTime: 2021-04-28T15:53:00Z
-    webUrl: "https://www.biometricupdate.com/202104/china-pushes-standards-for-face-biometrics-and-plenty-more"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
 
 secured: "1rQfyOY52OA/Uj6wPcqx149SsaR05wsEtX3Pl6BPIIStFFl00iH6rjAkqccfU5htqYlGl48BOYXvv1OX0TsdW6FKORsOzHrILBDeDwkcQw+TtC1H4jKVc9XwiS6r+gFPM+HPp9BiBftjZBWqRrBTMUoXjPlX+rq4w33IYC9lB1+JNUoAZ7LdXIRuBuarROfbQFlgEXLJ3kqoZFg0RlAZDC+49HITZAzO5nTfFZzaEB9QPrrkH2hagZTvGSOmPGKuFN48IQ9pqoqwCf1PxZMDxlE/o9qZ/mb8TdNTuDGIEEWF2EZexy5TsV+CUq6uZjAUPhd6QGFTBmZ1lw2BdI3lgHJ0v7t/se2lvCvxQUxLL95/q4SigqcsvhWMuI02ksNlatBFkpNL0r82tKKblxARZArYiU0KVtuMzpJL2AKJNxsahQEUFHUzGpLHZzltzHjcmegHRYQsN6Pc1OmuORs2W+ubnZyudfKGv1U5SWe+OADRwXgMbxHIsIWj0N73g+fT8CkwdiBu3IGPRWQM+jZqPQ==;8tzyiISUY0748HCdJkrE0w=="
 ---

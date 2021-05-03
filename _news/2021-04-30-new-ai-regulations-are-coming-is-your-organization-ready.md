@@ -9,7 +9,7 @@ ampWebUrl: "https://hbr.org/amp/2021/04/new-ai-regulations-are-coming-is-your-or
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Leaked AI report could hint at future for US regulation"
-    excerpt: "Greg Nichols tells Karen Roby that the EU takes lead on AI regulation, trying to stay ahead of evolving tech. Read more:"
-    publishedDateTime: 2021-04-28T16:23:00Z
-    webUrl: "https://www.zdnet.com/video/leaked-ai-report-could-hint-at-future-for-us-regulation/"
+  - title: "How is Artificial Intelligence Challenging the Translation Industry?"
+    excerpt: "Language is perhaps the most defining factor of humankind. What makes humans different from other animals on the planet is our ability to speak out and communicate via framed words and sentences. The language of a population is one of the most defining factors across countries and nationalities,"
+    publishedDateTime: 2021-05-03T06:21:00Z
+    webUrl: "https://www.fenews.co.uk/fevoices/67775-how-is-artificial-intelligence-challenging-the-translation-industry"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
+      name: fenews.co.uk
+      domain: fenews.co.uk
+    quality: 39
     images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/04/28/22576f2a-6f91-4323-9769-d49b34e7519f/thumbnail/770x578/532ac0654882d8c6e3da1eecfd091578/20210428-greg-karen-leaked.jpg"
-        width: 770
-        height: 578
+      - url: "https://www.fenews.co.uk/images/user_images/ElizabethBaldridge/pexels-markus-winkler-4604607.jpg"
+        width: 3999
+        height: 2666
         isCached: true
 
 secured: "zaSjNylTPPax3+CSqgAzQMY+6v3ydvzxG250W0Kh0chuY38I0FbfknVMlsuzgBVjb/uBfd07FA3r3YbJtheMblcVHRRecL2aHVs2ArDScX5F+MwtlNBnID3TEZpT2BCw/FwFZ+vr6U2phL/wJnL69kRCO6G9SjFjYg53IW3fssOZE5/5jmfQaFeXV1gy54c8zqRFAEnlV1PQ71ApZhDPxY/OJOYG2Pb+pjfEWTFedsI9fcaAagNKLByB6vbvepq92tp9qc1n3zgsq7i2a31f5MF4M5Iyvj2MswnaVVxHDfTrAWu6rZgAShC2Upd7NK/kxabgb0T0VGx+GsImNoFLtXxMlKq0J73GWCcBu7ARjOQ=;Ybz6oaYje2/iMv6Q1ml8/w=="

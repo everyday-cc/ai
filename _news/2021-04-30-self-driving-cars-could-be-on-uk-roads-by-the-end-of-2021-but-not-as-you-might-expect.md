@@ -188,20 +188,6 @@ related:
       name: Rojgar Samachar
       domain: jagranjosh.com
     quality: 20
-  - title: "Sky-high costs and complex manufacturing are driving consolidation in the AV market"
-    excerpt: "With the purchase, Toyota—the world’s largest carmaker by shipments—gains access to Lyft’s fleet of driverless vehicles along with its team of engineers and research scientists. Toyota has been quietly working on its own self-driving cars for ..."
-    publishedDateTime: 2021-04-28T16:14:00Z
-    webUrl: "https://www.emarketer.com/content/sky-high-costs-complex-manufacturing-driving-consolidation-av-market"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 18
-    images:
-      - url: "https://contentstorage-nax2.emarketer.com/17417f37aacf22fd216d0fc5ba076531/default-image-share.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Y2bz9uoUjPhSfrmt5VgQGatm5kZ3hReDKfeHv6W/+Z+PKsXQKCo0bsC4fOD61bG8cRoQXQBVGPAkWTss1Fb0xbifAOni7TFMqQ52v+alRieDCGPBD83nxo4UZH1QnDcGqqsMkoDps5ry+bC8ghuMknHrQPvJ702c88nr+oVV4OOHiX82Nab3yznvuKJ2DUrECe95Ef2B0jnZGDELEng1Xyev06dXGzHBBJu6s4qHPen1ywQKA9xZB9XkKeL+OGbPNtJOvv1olFpC7g36px3wYI7uNyOlTjh0ZDm4XTTRQqvZSLwWn10aTpC3bvAY2TELyNQBKlLE0GN6osNINJzABI80pdkDoAHMsSYkZrVc8s4=;U570UP199aagninlm4gu4Q=="
 ---

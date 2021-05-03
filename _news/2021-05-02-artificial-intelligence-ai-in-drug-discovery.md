@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2278458/artificial-intelligence-ai-in-dru
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021"
 type: article
 quality: 74
-heat: 105
+heat: 106
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/9-questions-to-ask-w
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/9-questions-to-ask-when-auditing-your-ai-systems/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Monash University researchers ask the tough questions about data in AI systems"
+    excerpt: "They've developed a framework that can help provide transparency into how AI systems make decisions. Share. Contact. Read full article: Monash University researchers asking the to"
+    publishedDateTime: 2021-05-02T01:50:00Z
+    webUrl: "https://www.zdnet.com/video/monash-university-researchers-asking-the-tough-questions-about-data-in-ai-systems/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 63
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/03/29/94fbf04d-0f93-4a44-ad34-4dfb22199de9/thumbnail/770x578/16ff52ac0d7fdf071641aba50b31dcf3/monash-university-researchers-asking-the-605c2286218ac143d2cddd62-1-mar-29-2021-24-12-05-poster.jpg"
+        width: 770
+        height: 578
+        isCached: true
 
 secured: "t7YGnn5wV122xPRvnm/UrLahj4ojUThDzOLxeUiBZQ+FTdwz0624ELfCY8WAFKvCLL7yWZ3DjQl9Wjx1qmlvdnxKCQYxgC2SFbimMr8sDE8icdmZewgxR6swG4vSNA5/yVFZkkj7rS5T8JYdPZzOD9beMCbbKjmXS9ak++SiTJeFweaQL3CHiixqfmuTjxfzYAJfq3K4H6npgJMIoZGIkMnh/xMCkmFLBGZFKDNGS55Ha5vbMh7BnVshH1rpG/31ZZZV/q5S+urRzOPPui888s7KRNS0uOQFxheCErsdVKdPjXZqq2qj/Gz652J+QjV6NwE+JnGl35LAokVZou3CDE8tHt9nDZHEu31zbd/6u0U=;hUpidfd60I6RD1wS7zVtdg=="
 ---

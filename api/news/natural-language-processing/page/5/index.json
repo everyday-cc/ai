@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-10-to-reach-human-level-intelligence-ai-systems-must-truly-understand-language.md",
+      "title": "To reach human-level intelligence, AI systems must truly understand language",
+      "excerpt": "The original goal of human-like artificial intelligence was abandoned decades ago in favor of less ambitious approaches, two cognitive scientists argue in a new book. If that initial vision is to be realized,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/rpi-trh030921.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/rpi-trh030921.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-exploring-natural-language-processing-with-croesus.md",
       "title": "Exploring natural language processing with Croesus",
       "excerpt": "While looking to the future of FinTech, those in the Croesus Lab have found themselves enamored with natural language processing, and the implications it has for their field",

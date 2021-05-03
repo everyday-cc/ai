@@ -96,6 +96,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 36
+  - title: "To See the Future of AI, Look Inside Yourself"
+    excerpt: "There are warnings from top-level scientists about a future in which computers become so advanced that they will leap into autonomy. Freed to make their own decisions the way humans do, AI machines conceivably might create catastrophes like starting a war."
+    publishedDateTime: 2021-05-03T07:39:00Z
+    webUrl: "https://www.chron.com/news/article/To-See-the-Future-of-AI-Look-Inside-Yourself-16146625.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
   - title: "The Impact of Artificial Intelligence in Massive MIMO Technology"
     excerpt: "Massive MIMO (multiple-input and multiple-output) is a well-known technology that has been developed and deployed to cope with the expected high data traffic demand, leveraging existing cell sites (where possible) and the large bandwidths allocated to 5G in c-band and mmWave."
     publishedDateTime: 2021-04-30T13:52:00Z

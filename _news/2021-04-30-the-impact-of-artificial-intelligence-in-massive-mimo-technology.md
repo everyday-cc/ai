@@ -103,6 +103,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 36
+  - title: "To See the Future of AI, Look Inside Yourself"
+    excerpt: "There are warnings from top-level scientists about a future in which computers become so advanced that they will leap into autonomy. Freed to make their own decisions the way humans do, AI machines conceivably might create catastrophes like starting a war."
+    publishedDateTime: 2021-05-03T07:39:00Z
+    webUrl: "https://www.chron.com/news/article/To-See-the-Future-of-AI-Look-Inside-Yourself-16146625.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
   - title: "Fintech/AI Sector Snapshot- Artificial Intelligence To Play A Major Role In The Future Growth Of The Credit Card/Payment Industry"
     excerpt: "Fintech/#AI Sector Snapshot- #Stocks to Watch (OTC: $GTCH) (NYSE: $V) (NASDAQ: $PYPL) (TSXV: $MTRX.V) (OTCQB: $RACMF) @Visa @PayPal @LoopInsights#ArtificialIntelligence to Play a"
     publishedDateTime: 2021-04-28T19:36:00Z

@@ -179,20 +179,6 @@ related:
       name: Rojgar Samachar
       domain: jagranjosh.com
     quality: 20
-  - title: "Sky-high costs and complex manufacturing are driving consolidation in the AV market"
-    excerpt: "With the purchase, Toyota—the world’s largest carmaker by shipments—gains access to Lyft’s fleet of driverless vehicles along with its team of engineers and research scientists. Toyota has been quietly working on its own self-driving cars for ..."
-    publishedDateTime: 2021-04-28T16:14:00Z
-    webUrl: "https://www.emarketer.com/content/sky-high-costs-complex-manufacturing-driving-consolidation-av-market"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 18
-    images:
-      - url: "https://contentstorage-nax2.emarketer.com/17417f37aacf22fd216d0fc5ba076531/default-image-share.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Self-driving cars could be on UK roads by the end of 2021, but not as you might expect"
     excerpt: "The Department for Transport has laid out plans for vehicles equipped with Automated Lane Keeping Systems to be legally defined as ‘self-driving’."
     publishedDateTime: 2021-04-29T17:10:00Z

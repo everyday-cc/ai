@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/university-of-toronto-startup-draws-on-
 webUrl: "https://www.miragenews.com/university-of-toronto-startup-draws-on-ai-552745/"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 640
     height: 423
     isCached: true
+
+related:
+  - title: "Logistics Startups Bank On AI and ML To Up Efficiency"
+    excerpt: "They are banking heavily on deeptech to improve efficiency and management of a series of processes, optimizing delivery times, managing high order volumes effectively and predicting consumer behaviour"
+    publishedDateTime: 2021-05-03T09:54:00Z
+    webUrl: "https://www.entrepreneur.com/article/370899"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/370899"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/370899"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 121
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1620035451-ecommerce-3688436-1920.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "cvGy8kJSryudHZ5ZYBaMypRgWn+S/tfUdSOyJNGlRW4cHruDEZwkKhTFDRB3I1AvXWglIJNNEvTcGXVbxRhtYcR/GMUWGnqYMoOkDvBXCS/b+G4LhnSCiZR5JzZkxwusSj2LvWCLFq7JJQgQLXgatRG3E6KQH54p5t786LSrwUhr/qh4G7xtfhdVIxSWi9LMmhHKnjG00uMJEFtIVu2vjxRPPAuBooDmEorPYkMb2sTrYPkONKFGJKwV2nn7u57CWyXUjQHTwDpNrNDpQm1ddl5uQZ1Rsg5Z5q+zBKcu4Dxmbd9QCSjZE7krlWOdnfuRXmCx2GrEUEvWWwBCteXnP0XQWOcIvRteMNCAGnmZukQ=;Tp/mermpISwRZ7oSla/X4w=="
 ---

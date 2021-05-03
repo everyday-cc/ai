@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-02-heres-how-cognitive-computing-is-reshaping-financial-services-industry.md",
+      "title": "Here's How Cognitive Computing is Reshaping Financial Services Industry",
+      "excerpt": "Here's How Cognitive Computing is Reshaping Financial Services Industry By cio review - Businesses can collect knowledge from such sources and make decisions based on highly comprehensive information by",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/heres-how-cognitive-computing-is-reshaping-financial-services-industry-nid-33275-cid-166.html",
+      "originalUrl": "https://www.cioreview.com/news/heres-how-cognitive-computing-is-reshaping-financial-services-industry-nid-33275-cid-166.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cioreview.com/Rank_subcat_images/om0k2Master-logo.jpg",
+          "width": 478,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-fts-international-inc-introduces-machine-health-automation-technology-to-global-manufacturing-leaders.md",
       "title": "FTS International, Inc. Introduces Machine Health Automation Technology to Global Manufacturing Leaders",
       "excerpt": "Last month, FTSI initiated its innovative machine ... fracturing service company with operations across multiple basins in the United States. To learn more, visit www.FTSI.com. Located on Wall Street in the heart of New York City’s financial district ...",
@@ -1170,50 +1213,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-machine-learning-based-real-time-threat-detection-for-banks.md",
-      "title": "Machine Learning-Based Real-Time Threat Detection for Banks",
-      "excerpt": "The business impact of the COVID-19 pandemic continues to unfold worldwide for the financial services industry. The “new normal” has not only given rise",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/03/11/machine-learning-based-real-time-threat-detection-for-banks/",
-      "originalUrl": "https://www.datanami.com/2021/03/11/machine-learning-based-real-time-threat-detection-for-banks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/ML_robot_shutterstock_sdecoret.jpg",
-          "width": 600,
-          "height": 322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

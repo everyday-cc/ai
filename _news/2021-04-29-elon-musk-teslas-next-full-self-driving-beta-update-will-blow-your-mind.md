@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/04/29/elon-musk-tesla-next-full-self-drivin
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/04/30/600x338/2021-03-15T124301Z_688123841_RC2OBM9CQVY5_RTRMADP_3_TESLA-MUSK_1619693514844_1619768295465.JPG"
         width: 600
         height: 337
-        isCached: true
-  - title: "Tesla admits it may never achieve full-self-driving cars"
-    excerpt: "The disclosure comes after a fatal crash in Texas earlier this month, when a driverless Tesla ran off the road."
-    publishedDateTime: 2021-04-28T16:18:00Z
-    webUrl: "https://www.fastcompany.com/90630440/tesla-admits-it-may-never-achieve-full-self-driving-cars"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/04/p-4-tesla-admits-it-may-never-achieve-full-self-driving-cars.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "bTiVKH1als5hBR39MJRrcAjoOIQqWSYK9dm2h0u+6JcEwhvZzHaSJfQHILn0WZSN/gAZUOtAVkHNrvvfrgDzDLLf0Dy+8FSCV16QyCgAMAwS0NEQMCxWTaYjLyO/4gTZJAbGA5a7wST/eAJcQAhKhqXP1bnBG7RpoQ5bIZbMYQh2ND2AObnFpPsvApIpI4MqIvFB5LKBAQ6wqC1TEz17xBfIb1a+O2I/ndovWFahFKatLud3DVpg9J9ey1IcNe4ErDXA71K8vlrI2zZizT5AyG3CTEIGZZb8803yIpJS/fg8bcfsFq6pQi85lmJZLqMYwSRYkslgYMghCiQVetd2g3rdhQnQPHbHJKWHPmq3jDEdFCa1PHqN7CqmUztX9aDzdhEZxG9I8OBUw4qxN1bpzVnzdSBnhshp68xKFQkwk7euuiJqOfeG/nIpp5EBizPcRubXX1XLbOexsiFwnLpevA/+usdtwojT7rk/dmZxzo696rkA/XiLTLQ5R7jjxgFHo7E88dJCR1v31ZB2ssnrhA==;P/9Dw9Oe4eFj922HnLVYGw=="

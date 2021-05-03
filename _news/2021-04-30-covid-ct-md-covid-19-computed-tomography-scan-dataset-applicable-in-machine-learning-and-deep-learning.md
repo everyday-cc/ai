@@ -50,6 +50,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
+  - title: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights"
+    excerpt: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights Posted on May 3 2021 5:25 AM Some of the key players in the military robots market such as Northrop Grumman Corporation (The U."
+    publishedDateTime: 2021-05-03T08:52:00Z
+    webUrl: "https://menafn.com/1102015536/Military-Robots-Market-Size-Growth-Revenue-Manufacturers-and-Forecast-Research-to-2020-2027Fortune-Business-Insights"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?315401"
+        width: 374
+        height: 250
+        isCached: true
   - title: "COVID-19 Impact On The Pharmaceutical Robots Market : Benefits Offered By Robotic Systems In Pharmaceutical Manufacturing"
     excerpt: "Benefits offered by robotic systems in pharmaceutical manufacturing is a key factor driving the growth of pharmaceutical robots market. The base year considered for the study is 2015, and the forecast has been provided for the period between 2016 and 2021."
     publishedDateTime: 2021-04-29T16:06:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.fenews.co.uk/fevoices/67775-how-is-artificial-intellig
 webUrl: "https://www.fenews.co.uk/fevoices/67775-how-is-artificial-intelligence-challenging-the-translation-industry"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "A New Route for Chengdu to Develop its AI Industry"
-    excerpt: "When we talked about the AI industry in Chengdu, the one thing we must know is Chengdu Science City. It is the core of the next-gen AI industry ecosystem in Chengdu. Chengdu promotes innovative development and high-quality development through new economy."
-    publishedDateTime: 2021-04-29T15:56:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/chengdu-technology-science-business-bb664d9bf08f7b726346ad14d287e493"
+  - title: "New AI Regulations Are Coming. Is Your Organization Ready?"
+    excerpt: "Clearly, the regulation of AI is rapidly evolving. But rather than wait for more clarity on what laws and regulations will be implemented, companies can take actions now to prepare. That’s because there are three trends emerging from governments’ recent moves."
+    publishedDateTime: 2021-04-30T12:05:00Z
+    webUrl: "https://hbr.org/2021/04/new-ai-regulations-are-coming-is-your-organization-ready?ab=hero-main-text"
+    ampWebUrl: "https://hbr.org/amp/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/04/new-ai-regulations-are-coming-is-your-organization-ready"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://hbr.org/resources/images/article_assets/2021/04/Apr21_30_579271601.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
-secured: "nMjLos9/9/hq0zUnVoGw4AjMb9D6guMi8MRpkWmnqeSII98Hga2WRtxjugvTjpL0AH2q8kdvQMSZpKX4QaD/eUdYQwlPHp870skjpyEPdeHzwjXp6TGWk8us/mn6RUoPTIs+0EZfDH+na/qV5xIL6fUoRTgORSyDk7aUAvk/X5WculociBMmnvi04ZIpoMMH/kluhn1XuCDIFmB9foMZZC25PffPicwFxsie0Jvw0gRsfAHE3UK/2K16ZeCpZfMc0s13ybcjw1/cUf07hWBGFqvFS1Q07SIFqz/IVd6rFPlJMdbIebFzwmsMMHHiwim7NCGg/aJSWi5b5QUgW3N6U8NTTNt0hOnLAxdvCvpPu9k=;UrNoBNM089kMey4gnMTG6w=="
+secured: "aofFsS9couzns8VS+wi6UqURVdVRzT08aaA3bPjLfdqTWdqY2HlqTL49ptdtLUeAJuiuhv1pY5NjvDNSVF9YlZbA1z10yyA7bVDfr/A+ePdfuNHpF0+MhkPfyoakwk6Z8T8aiU29lW1B6US823SoEp58PIBZV03i+GqGiHXIjXWdPDjvGBEEKfOE1Zim9Q5a/aCR7nEDiUoDyOFvwr6hMMCGjvSgCdvdXLGdnbyMFj/fmzzxS/cnO95sN2WWXr3Vq5kGF3uCRsK8xol9NIfFk/CaMxHYj9/GwLqo84HVs0+v6+fJy+KbqGlvpGAyDXJMsahXleuymaTavr+UkFNBlDiRdOdWbCHkQPl6WRl+K6gTfNuIK4+DoRqY+JI4nKvz7IIFGenaCjD3qR9Lh5nhJopWCkZKB/G78Uf7I9kku67VbsLcZb4uLDORJnosIEon+VaHR2TCWrNePiM4y95llDYqR8h9wKrQnKPXbD7rTqPMuErWZwMCBnJKrTZD4ouKPSg8ixln0wFRIEF44uxfiQ==;R+PBmMMZIX19IzlaFrCN/g=="
 ---
 

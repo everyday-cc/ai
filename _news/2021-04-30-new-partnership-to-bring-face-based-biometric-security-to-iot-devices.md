@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "China pushes standards for face biometrics and plenty more"
-    excerpt: "China's national government has released draft standards for securing facial recognition data. Beijing has invited public comment of the proposed rules."
-    publishedDateTime: 2021-04-28T15:53:00Z
-    webUrl: "https://www.biometricupdate.com/202104/china-pushes-standards-for-face-biometrics-and-plenty-more"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
   - title: "North Carolina school district buys face biometrics to monitor students and staff"
     excerpt: "A facial recognition surveillance system from Verkada has been purchased in North Caroline by a rural school district in northwest of Charlotte."
     publishedDateTime: 2021-04-29T17:26:00Z

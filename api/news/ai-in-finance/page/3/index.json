@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-12-machine-learning-based-real-time-threat-detection-for-banks.md",
+      "title": "Machine Learning-Based Real-Time Threat Detection for Banks",
+      "excerpt": "The business impact of the COVID-19 pandemic continues to unfold worldwide for the financial services industry. The “new normal” has not only given rise",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2021/03/11/machine-learning-based-real-time-threat-detection-for-banks/",
+      "originalUrl": "https://www.datanami.com/2021/03/11/machine-learning-based-real-time-threat-detection-for-banks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/ML_robot_shutterstock_sdecoret.jpg",
+          "width": 600,
+          "height": 322,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-tibco-software-named-leader-in-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-for-third-year-in-a-row.md",
       "title": "TIBCO Software Named Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning for Third Year in a Row",
       "excerpt": "Data science and machine learning are at the core of the flourishing data-first movement. TIBCO makes data management, visual analytics, feature engineering, and modeling simple. Along with real-time,",

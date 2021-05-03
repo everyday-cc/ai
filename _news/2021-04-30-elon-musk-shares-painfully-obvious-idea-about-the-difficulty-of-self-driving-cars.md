@@ -127,20 +127,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Tesla admits it may never achieve full-self-driving cars"
-    excerpt: "The disclosure comes after a fatal crash in Texas earlier this month, when a driverless Tesla ran off the road."
-    publishedDateTime: 2021-04-28T16:18:00Z
-    webUrl: "https://www.fastcompany.com/90630440/tesla-admits-it-may-never-achieve-full-self-driving-cars"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/04/p-4-tesla-admits-it-may-never-achieve-full-self-driving-cars.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "M87RKx3lCGIN3nr3v2vWGENRlSpUFaLsEnSnIB7kvCRFXKUeeZ24iICQ9ES8iKVDkiROwANwfT5UPZDdNsTxfytKTEqz0ABlPKKQtlrxTk9PUX1gKY343um8LatusL8uFrDgYzqpSkfk1BnyznVFr8edk18ukmry73LjIVwjjv/H1vhvKC2eanca0mapqsYk5tQkVnu83u0ldwpC1lW6zQWDVCPyBWRnRMKeJj72ErG7YGBV8kEhzWVABPULoGidupEyT0IdQjXJ1iUhAFG/UfHQu1kkYUagvBbbgoG4haxouB8rcEtyGUafB3K2mAodorC0bXJWYMAUCa4f9wROX2u3qWQqjpjiR+8vcG0ZGe/WsHC7kTzAZG4w0O7Ox/bUU3I5PgZkpNZr/JvxYxyrDK3kF7Ap5pB/ccouiGSoNoW/I4G3urU2ZOvGQXeHxDoAgipekM8u5T+Az1XZGdVt53GykZUKXv2E4eGZ07Iblxb9wl9F964R7pkICMibjGu6DwdL2NEU/ACPlsQYZicXTQ==;X/92Hg/P2L2UmMdd9j+zJQ=="
 ---

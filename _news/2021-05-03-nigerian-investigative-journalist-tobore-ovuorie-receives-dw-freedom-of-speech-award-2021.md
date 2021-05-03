@@ -24,6 +24,17 @@ images:
     height: 267
     isCached: true
 
+related:
+  - title: "Tobore Ovuorie hounoured with DW Freedom of Speech Award 2021"
+    excerpt: "Tobore Ovuorie, a Nigerian investigative journalist, has received a DW Freedom of Speech Award 2021. The award honours journalists' outstanding commitment to human rights and particularly, freedom of expression in the media."
+    publishedDateTime: 2021-05-03T09:41:00Z
+    webUrl: "https://www.bizcommunity.com/InBrief/196/12/15819.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 4
+
 secured: "1ZgtaO6wTlNIYoW9mT3E160jAajTMlEvVDmzy1UNhZuFAbsSehv8dyRMzo7Tsh4jguxYMZFd1Xpw5DpMxYmXvLngI6Hm+4i2oqGuoCTVBoB9DggKVvWy5SCuMPzwQ9zZ+IPFIWs2yAyhkMSd2S/oYklxLFhZDilcL7OxVP9GsCjsD11v6MTT5LBu4h6psRPp5OzKTvAjfQKvGJle2MDPqz4NS5nD/fYrMjZXnQWzvfwNYvzo7ivfqNg0Jf2uePo7E+Upk9ic/eS1B7AvyMG+YPh5nz36EG90QgXosthTtpDt5vNAq66uIwINp84lBLOxI+0/+Op/1SFxC0eDyLhr1NjeDzOO43ao4BhJZimy6DA=;Ycs3CBGEcx7RZFC/bOPB6Q=="
 ---
 

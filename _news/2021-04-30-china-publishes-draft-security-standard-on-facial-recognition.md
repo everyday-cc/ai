@@ -9,8 +9,8 @@ ampWebUrl: "https://www.natlawreview.com/article/china-publishes-draft-security-
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: The National Law Review
@@ -28,66 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Increasing use of facial recognition technology in China faces backlash from city governments"
-    excerpt: "After being highlighted for misuse on China’s annual Consumer Protection Gala in March, several cities in China are tightening the enforcement of regulations on facial recognition."
-    publishedDateTime: 2021-04-28T16:08:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash"
-    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 78
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/28/7e577dd1-4bbb-488c-b35c-f30b45c82b4e_fec3a579.jpg?itok=Ep94EP2D&v=1619603119"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Police should not be banned from using facial recognition technology, says UK watchdog"
-    excerpt: "Use of facial recognition by police should not be banned and instead left to the discretion of law enforcement rather than lawmakers, the UK’s new biometrics watchdog has said. Fraser Sampson, the newly appointed commissioner whose job it is to scrutinise how police and other authorities deploy biometrics and surveillance cameras on the public,"
-    publishedDateTime: 2021-05-03T04:00:00Z
-    webUrl: "https://www.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
-    ampWebUrl: "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 51
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e1a06a9-7196-40d3-9855-7cf75aa5fa8b.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "There’s No Such Thing as Flawless Facial Recognition Technology"
-    excerpt: "Nani Jansen Reventlow warns of the limitations of facial recognition technology in an article for Slate. “As we continue automating our lives, entrusting important decisions to technology in not only our justice system,"
-    publishedDateTime: 2021-04-28T19:26:00Z
-    webUrl: "https://cyber.harvard.edu/story/2021-04/theres-no-such-thing-flawless-facial-recognition-technology"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "HSPPR gets new facial recognition technology to find lost pets"
-    excerpt: "The Humane Society of Pikes Peak Region has teamed up with Petco Love to help find lost pets and reunite them with their families by taking advantage of new technology. According to industry statistics,"
-    publishedDateTime: 2021-04-29T19:01:00Z
-    webUrl: "https://krdo.com/news/2021/04/29/hsppr-gets-new-facial-recognition-technology-to-find-lost-pets/"
-    type: article
-    provider:
-      name: KRDO
-      domain: krdo.com
-    quality: 39
-    images:
-      - url: "https://krdo.b-cdn.net/2019/12/USAFA-DOGS.00_00_08_20.Still002.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "What cities must do to responsibly deploy facial recognition solutions"
     excerpt: "The National League of Cities has published recommendations for guiding conversations around how facial recognition technology is being implemented."
     publishedDateTime: 2021-04-29T20:46:00Z
@@ -113,19 +53,33 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "Chinese firms fined for facial recognition overuse, more city govts mull restrictions"
-    excerpt: "More provinces and cities in the country plan to put in place policies that restrict the overuse of facial recognition technology in certain public places."
-    publishedDateTime: 2021-04-29T17:02:00Z
-    webUrl: "https://www.biometricupdate.com/202104/chinese-firms-fined-for-facial-recognition-overuse-more-city-govts-mull-restrictions"
+  - title: "Nuance and focus the watchwords on facial recognition for more privacy officials"
+    excerpt: "The missing component required for public acceptance of facial recognition is trust. Government missteps and vacillation have engendered little of it."
+    publishedDateTime: 2021-04-30T14:05:00Z
+    webUrl: "https://www.biometricupdate.com/202104/nuance-and-focus-the-watchwords-on-facial-recognition-for-more-privacy-officials"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 32
+    quality: 34
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
+        isCached: true
+  - title: "6th Year in a Row, National Recognition as Montville Township Public Schools Again Achieves Best Communities for Music Education Designation"
+    excerpt: "MONTVILLE, NJ - For the 6th year in a row, Montville Township Public Schools district has been named a National Best Communities for Music Education. The NAMM Award (National Association of"
+    publishedDateTime: 2021-04-28T19:08:00Z
+    webUrl: "https://www.tapinto.net/towns/montville/sections/education/articles/6th-year-in-a-row-national-recognition-as-montville-township-public-schools-again-achieves-best-communities-for-music-education-designation"
+    type: article
+    provider:
+      name: TAPinto
+      domain: tapinto.net
+    quality: 21
+    images:
+      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/20/facebook_1f213952f14340706eb7_2021_NAMM_Best_Community.jpg"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "w+UW0lD5mVWJlOMX/TwxYRWbVI4yXL1DVTYv7uutUcP3hIu5aQ7c3ejR4419/IlbgNp2/EH33S0Z5FTdKcmk6g89tAsVcsNK2xm4IHOfHJkvqto5hdnNqE2a9RMnFU0X52F4jFgh4Nbp0oNiIqLObt56X0Ynuh+hXVdz1Bjw5A6tY+ul4usrPJlv0m1FPk8wg5qjcZ7YbttWaeNfDflCEoXHnXdMnUTKZJGx6Yilt9FHUUxxGV5/xlEMvcLZfFXjzKvI173NDYMssGRFDJ43nSC+dFB+Jmw5aq6DgB+3/93Zr8sSnQ53bIFjidCo1eULbceyoRK3XcKG+1iRgVsP3IchBnAS1+pJAIeYH7ynDkk=;Tkj/sIrlKVNXRcZozy08Fg=="
