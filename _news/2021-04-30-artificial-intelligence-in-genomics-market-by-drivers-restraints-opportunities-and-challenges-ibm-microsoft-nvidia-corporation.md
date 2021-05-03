@@ -36,6 +36,24 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Artificial Intelligence Platform Market size, Witness Highest Growth in near future by 2027 | Google, Baidu, Ibm, Microsoft, Sap"
+    excerpt: "The Artificial Intelligence Platform market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
+    publishedDateTime: 2021-05-03T04:19:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-platform-market-size-witness-highest-growth-in-near-future-by-2027-google-baidu-ibm-microsoft-sap/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 20
+  - title: "Artificial Intelligence for Accounting Market size, Witness Highest Growth in near future by 2027 | Microsoft, Aws, Xero, Intuit, Sage"
+    excerpt: "The Artificial Intelligence for Accounting market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
+    publishedDateTime: 2021-05-03T03:21:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-for-accounting-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-aws-xero-intuit-sage/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 19
   - title: "Artificial Intelligence Voice Market Boom Ensues | iFlyTek, Google, Apple, Microsoft, Nuance, Facebook"
     excerpt: "Download Free Sample Copy of ‘ Artificial Intelligence Voice market’ Report @  Key Segments Studied in the Global Artificial Intelligence Voice Market A combination of factors, including COVID-19 containment situation,"
     publishedDateTime: 2021-05-02T15:54:00Z

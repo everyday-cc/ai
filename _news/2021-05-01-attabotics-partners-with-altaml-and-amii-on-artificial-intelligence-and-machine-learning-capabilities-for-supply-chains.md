@@ -7,7 +7,7 @@ originalUrl: "https://www.supplychainbrain.com/articles/33021-attabotics-partner
 webUrl: "https://www.supplychainbrain.com/articles/33021-attabotics-partners-with-altaml-and-amii-on-artificial-intelligence-and-machine-learning-capabilities-for-supply-chains"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/e266233b-7f32-42bd-b482-b0c564615b0d.png?height=635&t=1619659560&width=1200"
         width: 541
         height: 400
-        isCached: true
-  - title: "Attabotics, Amii, AltaML partner to develop AI solutions for supply chains"
-    excerpt: "Attabotics, a Calgary-based robotics supply chain startup, has partnered with AltaML and Amii to develop new capabilities in AI."
-    publishedDateTime: 2021-04-28T12:59:00Z
-    webUrl: "https://betakit.com/attabotics-amii-altaml-partner-to-develop-ai-solutions-for-supply-chains/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 37
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/10/calgary-1024x683.jpeg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "N+RQV3WkoqZlr3G5jHGs4MBvijHxJ0GlxjLKRN0aUkHWCkWQqA2KoNheI2Iexrk1dbroIujkU8uBi6vI++2kWKdqSnLc9IwYWMLbxwkL3MpF4NNHxryYfBEisvsAr+6laG+r1Oq9css26WIKtzO1hYeRsXsRMKsaYaDKlpi0ShrlzmwpMjwHxCbie/NKKGZTGjB5xw6bnlHIYE9ZiUtR51wQWEAB9CFLflsLzNo9/Adkti8attu5iUS01mRV2rZQWW9Ap7MiVrQklH6spV4vpqWLYuxar8M8OAIz10JhCL5wjcMIsj2yVVDoan64ov9GW2CbnogQO1SZZZeqhwWLjGiELyEY36dp6rXozZnQNWE=;SxTdyUAJ5+ervRdXKB24Vg=="

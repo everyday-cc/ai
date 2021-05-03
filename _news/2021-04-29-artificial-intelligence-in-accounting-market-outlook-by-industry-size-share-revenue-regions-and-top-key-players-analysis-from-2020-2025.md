@@ -70,17 +70,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 36
-  - title: "Machine Learning Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
-    excerpt: "Machine Learning market size was valued at USD 6 9 billion in 2018 and is anticipated to register a CAGR of 43 from 2021 to 2027 New technologies such as artificial intelligence is changing the way industries and humans work"
-    publishedDateTime: 2021-04-28T11:15:00Z
-    webUrl: "https://www.openpr.com/news/2276721/machine-learning-market-2021-growth-covid-impact-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2276721/machine-learning-market-2021-growth-covid-impact-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2276721/machine-learning-market-2021-growth-covid-impact-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
   - title: "Worldwide Big Data Software Industry to 2026 - Featuring AWS, Cloudera and IBM Among Others - ResearchAndMarkets.com"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global big data software market reached a value of US$ 142."
     publishedDateTime: 2021-04-29T12:09:00Z

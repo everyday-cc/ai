@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Police should not be banned from using facial recognition technology, says UK watchdog"
+    excerpt: "Use of facial recognition by police should not be banned and instead left to the discretion of law enforcement rather than lawmakers, the UK’s new biometrics watchdog has said. Fraser Sampson, the newly appointed commissioner whose job it is to scrutinise how police and other authorities deploy biometrics and surveillance cameras on the public,"
+    publishedDateTime: 2021-05-03T04:00:00Z
+    webUrl: "https://www.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
+    ampWebUrl: "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 51
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e1a06a9-7196-40d3-9855-7cf75aa5fa8b.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "HSPPR gets new facial recognition technology to find lost pets"
     excerpt: "The Humane Society of Pikes Peak Region has teamed up with Petco Love to help find lost pets and reunite them with their families by taking advantage of new technology. According to industry statistics,"
     publishedDateTime: 2021-04-29T19:01:00Z

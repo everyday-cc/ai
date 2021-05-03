@@ -2,127 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-04-21-black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way.md",
-      "title": "Black Lives Matter could change facial recognition forever - if big tech doesn't stand in the way",
-      "excerpt": "Thailand's most updated English news website, thai news, thailand news, Bangkok thailand, aec,newspaper english, breaking news : The Nation",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationthailand.com/tech/30389554",
-      "originalUrl": "https://www.nationthailand.com/tech/30389554",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nationthailand.com/images/news/2020/06/13/30389554/800_dea51fcd7652ca1.jpg?v=1592029222",
-          "width": 675,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nationthailand",
-        "domain": "nationthailand.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-woolworths-to-use-computer-vision-to-aid-the-setup-of-in-store-displays.md",
-      "title": "Woolworths to use computer vision to aid the setup of in-store displays",
-      "excerpt": "Boston-based One Door uses computer vision to help merchandisers create and set up localised promotions in the way that they were envisioned to look. Under a multi-year agreement, the supermarket ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/woolworths-to-use-computer-vision-to-aid-the-setup-of-in-store-displays-563625",
-      "originalUrl": "https://www.itnews.com.au/news/woolworths-to-use-computer-vision-to-aid-the-setup-of-in-store-displays-563625",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-intels-habana-labs-hiring-hundreds-for-ai-chip-development-in-israel.md",
-      "title": "Intel's Habana Labs hiring hundreds for AI chip development in Israel",
-      "excerpt": "The world's tech giants are expanding and hiring more and more developers in the arms race for data center chips. Intel's AI chip development group, based on the $2 billion acquisition of Israeli startup Habana Labs in December 2019,",
-      "sourceUrl": null,
-      "webUrl": "https://en.globes.co.il/en/article-intel-hiring-hundreds-for-ai-chip-development-in-israel-1001368091",
-      "originalUrl": "https://en.globes.co.il/en/article-intel-hiring-hundreds-for-ai-chip-development-in-israel-1001368091",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.globes.co.il/images/NewGlobes/big_image_800/2019/800x392.20191216T190449.jpg",
-          "width": 800,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "globes.co.il",
-        "domain": "globes.co.il",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-21-artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal.md",
       "title": "Artificial Intelligence, Facial Recognition Face Curbs in New EU Proposal",
       "excerpt": "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet to regulate high-stakes applications of artificial intelligence.",
@@ -1143,6 +1022,136 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-1000x-regular-chips-from-new-cerebras-ai-wafer-chip.md",
+      "title": "1000X Regular Chips from New Cerebras AI Wafer Chip",
+      "excerpt": "The WSE-2 covers 46,255 square millimeters — 56 times larger than the largest graphics processing unit. With 850,000 cores, 40 Gigabytes of on-chip SRAM, 20",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/04/1000x-regular-chips-from-new-cerebras-ai-wafer-chip.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/04/1000x-regular-chips-from-new-cerebras-ai-wafer-chip.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nextbigfuture.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-20-at-2.36.12-PM.jpg",
+          "width": 714,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/04/1000x-regular-chips-from-new-cerebras-ai-wafer-chip.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/04/1000x-regular-chips-from-new-cerebras-ai-wafer-chip.html",
+      "publishedDateTime": "2021-04-20T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-companies-are-betting-big-on-autonomous-vehicles-but-looming-questions-over-chip-supply-and-safety-remain.md",
+      "title": "Companies are betting big on autonomous vehicles but looming questions over chip supply and safety remain",
+      "excerpt": "Walmart last week reaffirmed its commitment to a driverless delivery ecosystem by investing in a funding round for San Francisco-based AV startup Crusie that raised $2.75 billion, per CNBC. The investment comes five months after the two companies launched ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.emarketer.com/content/companies-betting-big-on-autonomous-vehicles-looming-questions-over-chip-supply-safety-remain",
+      "originalUrl": "https://www.emarketer.com/content/companies-betting-big-on-autonomous-vehicles-looming-questions-over-chip-supply-safety-remain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://contentstorage-nax2.emarketer.com/20034199ce61beb21a574c9f353ee763/252024",
+          "width": 470,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eMarketer",
+        "domain": "emarketer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-nano-dimension-acquires-machine-learningdeep-learning-leader-deepcube-ltd.md",
+      "title": "Nano Dimension Acquires Machine Learning/Deep Learning Leader, DeepCube Ltd.",
+      "excerpt": "Leading an AI/Deep Learning driven revolution in manufacturingArtificial Intelligence will drive its 3D-AI/ML Distributed Digital Fabrication",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd-1030323188",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd-1030323188",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

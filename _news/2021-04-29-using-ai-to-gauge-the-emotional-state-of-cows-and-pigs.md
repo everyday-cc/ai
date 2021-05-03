@@ -26,65 +26,47 @@ images:
     isCached: true
 
 related:
-  - title: "The Current State Of The Healthcare AI Revolution"
-    excerpt: "With the global AI in healthcare market size expected to grow from just under $5 billion in 2020 to $45.2 billion by 2026, the investments and recent use cases for this technology are proof that AI is here to stay."
-    publishedDateTime: 2021-04-28T11:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/amp/"
+  - title: "A scientist created emotion recognition AI for animals"
+    excerpt: "A researcher at Wageningen University & Research recently published a pre-print article detailing a system by which facial recognition AI could be used to identify and measure the emotional state of farm animals."
+    publishedDateTime: 2021-04-30T19:40:00Z
+    webUrl: "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg"
-        width: 1200
-        height: 900
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Flivestockemotion.jpg&signature=bc77a1971b37144e3e614b7fcb233d9f"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "The Future Of AI In Healthcare"
-    excerpt: "Two AI luminaries, Fei-Fei Li and Andrew Ng got together today on YouTube, to discuss the state of AI in healthcare."
-    publishedDateTime: 2021-04-29T21:02:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/amp/"
+  - title: "Citizen scientists train artificial intelligence for healthy oceans"
+    excerpt: "Spyfish Aotearoa is a newly launched collaboration between DOC and Wildlife.AI, a charitable organisation applying artificial intelligence"
+    publishedDateTime: 2021-05-02T23:34:00Z
+    webUrl: "https://www.miragenews.com/citizen-scientists-train-artificial-553091/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 52
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b1e5a5ca86d56b9a674dc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3490%26cropY1%3D0%26cropY2%3D1962"
-        width: 1200
-        height: 675
+      - url: "https://www.doc.govt.nz/thumbs/hero/contentassets/56e5158891b84ed08b9a6bcc848c4f8a/spyfish-camera-16-9.jpg"
+        width: 1066
+        height: 600
         isCached: true
-  - title: "Will AI Revolutionize Customer Success?"
-    excerpt: "It’s hard to turn anywhere these days without someone touting the benefits of artificial intelligence (AI) and machine learning. Will AI replace most or all of a customer success team and take over most of the practice?"
-    publishedDateTime: 2021-04-30T11:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/30/will-ai-revolutionize-customer-success/"
+  - title: "Speech & Voice Recognition Global Market Study Focus on Top Companies and Crucial Drivers"
+    excerpt: "Global Market Monitor recently published a market research report on Speech & Voice Recognition, which studied Speech & Voice Recognition industry outlook, competitive situation, regional market analysis,"
+    publishedDateTime: 2021-05-01T03:14:00Z
+    webUrl: "https://ksusentinel.com/2021/05/01/speech-voice-recognition-global-market-study-focus-on-top-companies-and-crucial-drivers/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 15
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2dc22afaff939159573985%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The 4 Fallacies of Artificial Intelligence"
-    excerpt: "Artificial intelligence researchers are kidding themselves that human-level performance is within reach, argues one leading thinker. Here's why."
-    publishedDateTime: 2021-04-30T22:00:00Z
-    webUrl: "https://www.discovermagazine.com/technology/the-4-fallacies-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 41
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/7fWlxP5pbUOWtYOq9nWOKk/0e4afdfaf151a66642346beca3ad3413/shutterstock_1154457493.jpg"
-        width: 1000
-        height: 665
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/3.png"
+        width: 770
+        height: 430
         isCached: true
 
 secured: "nO4nSUdolXlBhx0iRAF/87UOst5w+b2Dwi5aPiuzADKB7o1s+eCljr73XWBeFbjjsC+HinGOCwpU7yodjjPGNp4iAShizCrg8tDz0J2vTKxIfTVkM7+12Ddtz/M4Kwz3GHLfRzkU/zXMCU7z+tZ8678WdUHoh8qrnPALQKrW2/qUA1uRTOv3daumaJDkS9M+olnYwdLbvCHSmsUAmx8T79UlK3nV0vRWuTQQurNMpmU2mqSmlNDkTVywfH3Rl1mrvh3Y12PAItBNbCCjuMgmlsbumOciTc7v/oPUYv4piT9JqyjKqT8QBDGsAAFBIQdJzb+vTvVvtO3dtGvNBiWzGIFhpL/gI8bIIirl8TsMHLlwMXAvkvXu/RCnhKUsYejJY1UQiWcbgkz0j3c4MIhijNprfi3x1hC4MEGz/byyzVGgZJYRK6h096tenfQnGOYI+JdOXbfyOVtnVbJYfqEGj4IjY3Ti7fsMTkAlI+GDrQbgSOVdouSprx03RVymXP6liEefrE42wpwfpkCYT7mUmA==;gnRQjtZtM0MakkmN2xD0lg=="

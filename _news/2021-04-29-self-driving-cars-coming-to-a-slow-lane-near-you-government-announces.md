@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "UK says 'self-driving' cars could be allowed by the end of 2021"
-    excerpt: "The UK government has announced that basic self-driving cars with automated lane-keeping system (ALKS) could arrive on British roads by the end of 2021. The new designation will allow trials of such systems, allowing Britain to develop its own self-driving ..."
-    publishedDateTime: 2021-04-28T11:13:00Z
-    webUrl: "https://www.engadget.com/uk-says-basic-self-driving-cars-could-be-allowed-by-the-end-of-2021-101635683.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-04/fb672ab0-a804-11eb-a477-f3c1b293dd52"
-        width: 2000
-        height: 1182
-        isCached: true
   - title: "UK signals self-driving cars could hit road this year"
     excerpt: "Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel."
     publishedDateTime: 2021-04-28T18:24:00Z

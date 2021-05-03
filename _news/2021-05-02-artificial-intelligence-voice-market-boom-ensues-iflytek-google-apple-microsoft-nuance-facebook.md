@@ -44,6 +44,24 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 40
+  - title: "Artificial Intelligence Platform Market size, Witness Highest Growth in near future by 2027 | Google, Baidu, Ibm, Microsoft, Sap"
+    excerpt: "The Artificial Intelligence Platform market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
+    publishedDateTime: 2021-05-03T04:19:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-platform-market-size-witness-highest-growth-in-near-future-by-2027-google-baidu-ibm-microsoft-sap/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 20
+  - title: "Artificial Intelligence for Accounting Market size, Witness Highest Growth in near future by 2027 | Microsoft, Aws, Xero, Intuit, Sage"
+    excerpt: "The Artificial Intelligence for Accounting market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
+    publishedDateTime: 2021-05-03T03:21:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-for-accounting-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-aws-xero-intuit-sage/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 19
 
 secured: "f13Db0+GD54Qu80qIEmsYFjZwu7uyhRoWB4LLsTRnry4s/1X2xk6At6PaCP95kENng08SD0esKQgL+asFqGvB48QcmbBqkV7W6Rk9e2G0xt25Q9MFdVYLgYqeUIaB64jxstQ4EpAgmcCEBqlwU5oI4p4DgGgJg9v0dGtDS4FAGwKjgfW2thDD5JjzHM3Yf77isPXvB6EFXq0xAcUR5Z/n5PKi82Xm2neQxrdvc4dEDSc07XRI9T9fKxhmouhPxIAkCYsKH4xVBYCuYHSufpNAwJiGm1Tfgxgpq1QPAGuaBKyqd3RhmC1+l7JeacuLqb0c6vMw9Vp3HusR7kaSF09oxOJRmTDy1REFBwqZ/DC6nA=;mFmJy0wFqizw0fyjRFT0pw=="
 ---

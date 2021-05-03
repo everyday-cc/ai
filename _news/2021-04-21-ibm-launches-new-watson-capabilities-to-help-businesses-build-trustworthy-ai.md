@@ -1,26 +1,28 @@
 ---
 category: news
 title: "IBM Launches New Watson Capabilities to Help Businesses Build Trustworthy AI"
-excerpt: "IBM (NYSE: IBM) today announced new capabilities for IBM Watson designed to help businesses build trustworthy AI. These capabilities further expand Watson tools"
-publishedDateTime: 2021-04-21T14:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai/article_8f4048e0-5fa5-500b-9974-cc2fdbd21e0b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai/article_8f4048e0-5fa5-500b-9974-cc2fdbd21e0b.html"
+excerpt: "today announced new capabilities for IBM Watson designed to help businesses build trustworthy AI. These capabilities further expand Watson tools designed to help businesses govern and explain AI ..."
+publishedDateTime: 2021-04-21T14:50:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20727354/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/n20727354/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20727354"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20727354"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/6087941a092a1.image.jpg?resize=1200%2C627"
-    width: 1200
-    height: 627
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
-secured: "/9G2+b040lFca1wmI0rKh8u7meFXrdlJkdCalkInQEolZe4m97Ej2WHIBM9yCfKr/gfk4Cs5PtIrfMUdMJQcrsVy8SoxJnzZCScLIFAWP/ppeinseRB5Emj288/JFjUgOqGBUTjsvwAC5UhWzNVGRHfP1LyCLdRZsqG2RsOakFoGSpILVT3C2bt4kSwp0hyDk9Prk+6n4oBQmTYaRLsgGyP4KUVC0unL+LXlleWWpSpn/SHqH9Mdj1JAt205UW9OhouvELMNzImiNm35DOV8Kj32wc5QF8LeidI1VWPenfGSY0/nm+sMFjP4kVbp8z8CQHtxHafaQ8X7xwrp/V5jLmMF96gKoKYh8TXWl4NkOSs=;BT3sPJvrlZRnjYTqF2Y7fg=="
+secured: "Xs8OhjtiGLED1Q5KNlcbjd6C8Me5++DkEOeNX1RjYGMaqDvn4U4GJ5Z4nko7z3TQ1mAJ4O1DZ3mivyt49GEK10d4giTLbQvk/oydzoq4rKSY7Vw6Uqg6Kxy2jepsVyyLQ50rmbcrYHxrNacdsa82Go/hVP9T40N8t0SJ7onAB2FHqwWtjKZzpCc60iGaQgSOjy7O9b8Ci9StoCtMCWudnhuS780bMWmgql1b6cnxwXT/ja0SdnOWSqtgH95KVRcKzlotTSqIJL5cBre4QoDaW66ytGkZ9Kdydmvnsgg1ASKoIniULLc8jqrr5xjmAmz35NYn18sBIzQaXbW2QX8QxcRs6XLOTsMVN4g90EkinGo=;gx3WFhA9/pO2Rp2kU7vjlQ=="
 ---
 
