@@ -6,9 +6,6 @@ publishedDateTime: 2021-04-28T05:58:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912"
 webUrl: "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912"
 type: article
-quality: 66
-heat: 66
-published: false
 
 provider:
   name: Business Insider
@@ -23,6 +20,6 @@ topics:
   - AI
   - AI in Autos
 
-secured: "glIW1m3BUZiqEcJz98Wu+heAaCfAZUwe7Nds/xaaMuzZpuK5JuKireLrFkZto7syqsS/zz2EqUM6fyE/aR9FdmfJPBurwOxc0ICtbh82LShNIuRIZsWQZGNInOu9+81Rdl/uHoJLviYqDgzDnAJW7+Qt5dMzgvPJzrfB3LE+JtR2k1ybZv/yUH+KV2b+xO2eZgLBVg1z4x3H8OqgxKl9sTFfv8KrH+nbbQuNtDicdGj86DO3KWp25Hdu3E0nasQKpm+OqlEbziMU8pSm3IeyB0Q0OauF3p7LurSciLOeGXLwwlIw6zZu4coUC8xuwleJ3qKEkTHtwf5TVwbalwwWOtuWcaNT7sE5F6CbJ95y7yw=;tv4Q1VIof03OpxPTfdnCDw=="
+secured: "gGIcCMNTLj5RBKD77SNdqqU7NjghkD7tA1Ck5pW1C9EgQ7SZaKxCFg/shcSrgNecOfWiqLaGq0aLT+ydN7q3QQl/JTgb575e47wDnJqIS+4CY6UcdSQF5xPlxZSqiVvfUz0hXaOpl17fRjs6t9CvoCWOU1qdwUybqLRAmMPthaDYlKek2sVexjxb/rWZ+k3IZyA331GCwrS9yuWoJCmGR95ZbZo97lO7Mg2cCgffUMY8VM5hRGeBDZV/wKd36Em0yp/vxyQrTJ6F+nE/JCTKIGE7W+7FCriK84ZRy1peGlbDmtxMwgDqv6llqRMY5ulMFXaN7BlPRSWt9G8EO+ZS6mwcQIzO5NlDmxMfIg559aI=;/PQaMFGev4opzrkO+oxXxg=="
 ---
 

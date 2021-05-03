@@ -2,6 +2,49 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-03-08-meet-russias-new-killer-robot.md",
+      "title": "Meet Russia’s New Killer Robot",
+      "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
+      "sourceUrl": null,
+      "webUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
+      "originalUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thediplomat.com/wp-content/uploads/2015/07/sizes/td-story-s-2/thediplomat_2015-07-20_15-05-18.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Diplomat",
+        "domain": "thediplomat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-ai-here-there-everywhere-but-its-just-the-beginning.md",
       "title": "AI here, there, everywhere — but it’s just the beginning",
       "excerpt": "Many of us already live with AI, an array of unseen algorithms that control our Internet-connected devices, from smartphones to security cameras and cars that heat the seats before you’ve even ...",
@@ -1071,49 +1114,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows.md",
-      "title": "Amazon launches reinforcement learning tools to manage robots’ workflows",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Amazon today launched SageMaker Reinforcement Learning (RL) Kubeflow Components, a toolkit supporting the company’s AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows-9876749",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows-9876749",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T20:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

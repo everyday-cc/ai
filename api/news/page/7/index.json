@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-24-linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news.md",
+      "title": "LinkedIn Debuts LinkedIn Learning Hub, IBM Doubles Down on Ethical AI and More News",
+      "excerpt": "LinkedIn announced plans to launch its LinkedIn Learning Hub, a skills-building platform currently in beta, in the second half of 2021 this week. James Raybould, senior director of product, LinkedIn Learning and Glint,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/",
+      "originalUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/ee83660ce436477a992a325b7f73cf8f.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/amp/",
+      "publishedDateTime": "2021-04-23T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-cognitive-document-processing-for-automated-mortgage-processing.md",
       "title": "Cognitive document processing for automated mortgage processing",
       "excerpt": "This post was guest authored by AWS Advanced Consulting Partner Quantiphi. The mortgage industry is highly complex and largely dependent on documents for the information required across different stages in their business value chain. Day-to-day operations for mortgage underwriting, property appraisal,",
@@ -1119,49 +1163,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-artificial-intelligence-model-predicts-which-key-of-the-immune-system-opens-the-locks-of-coronavirus.md",
-      "title": "Artificial intelligence model predicts which key of the immune system opens the locks of coronavirus",
-      "excerpt": "A new artificial intelligence (AI) method is helping researchers link immune cells to their targets and, for example, uncouple which white blood cells recognize SARS-CoV-2. The tool has broad applications in understanding the function of the immune system in infections,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/04/210422093943.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/04/210422093943.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

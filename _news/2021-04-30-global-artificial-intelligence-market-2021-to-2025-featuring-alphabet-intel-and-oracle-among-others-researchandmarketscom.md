@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Software Market Share ,Global Growth, Size, Trends, Industry Analysis, Key Players and Forecast 2021 – 2025"
-    excerpt: "Global Natural Language Processing (NLP) Software Market Research report provides detailed analysis of global market"
-    publishedDateTime: 2021-04-28T06:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-share-global-growth-size-trends-industry-analysis-key-players-and-forecast-2021-2025-2021-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "oExkCuSP8MHv2X3cuXX5K3Jgz/SEoNWFP5kDvoYQqw8tqnC0gtT7FValPr+55u/ZZ7TsW4hwEnR31o25guU9QNlzxK3f1eLlmsNavCDT5McfbvFAoun6lFa4WKLAn/nVcfoGajrgxC/7KC3CUcYttNimEf5C3x2u3sv+6JZUNCjylq8ZMYE5pdTabsSLbuFStfvodOlgclPR1SxcPaHkTGMiC8uKxcAgC4hwpU8iSS2GKJ7txfJXWehPws+T0zw/tYJmzpX9NwihRgWrpYI+eyyg/ePk9DFO6ctkqOu8/fkVdyLDI9kZgO4xQZSTJSfcGgIf3l00fB3dgnA5JeDKmD3OC2X5KCuVaqC3yGCshs8=;9EDnufrvI/Z/4lgBpBVHEA=="
 ---

@@ -2,6 +2,40 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-03-19-nanoscale-artificial-neuron-boosts-neural-network-energy-efficiency.md",
+      "title": "Nanoscale artificial neuron boosts neural network energy efficiency",
+      "excerpt": "Artificial neural networks – loosely inspired by biological neural networks – are a series of connected layers of ‘artificial neurons’ (which receive, process, and transmit signals) in which the output of each layer serves as the input for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://eandt.theiet.org/content/articles/2021/03/nanoscale-artificial-neuron-boosts-neural-network-energy-efficiency/",
+      "originalUrl": "https://eandt.theiet.org/content/articles/2021/03/nanoscale-artificial-neuron-boosts-neural-network-energy-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IET",
+        "domain": "theiet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks.md",
       "title": "Artificial Intelligence in Digital Pathology, Upcoming Webinar Hosted by Xtalks",
       "excerpt": "Which artificial intelligence method will work best with your image data? Image analysis is an essential part of digital pathology, from research and discovery of targets and biomarkers to understanding the tumor microenvironment to development of novel therapeutics.",
@@ -878,40 +912,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-who-is-afraid-of-black-box-algorithms-on-the-epistemological-and-ethical-basis-of-trust-in-medical-ai.md",
-      "title": "Who is afraid of black box algorithms? On the epistemological and ethical basis of trust in medical AI",
-      "excerpt": "The use of black box algorithms in medicine has raised scholarly concerns due to their opaqueness and lack of trustworthiness. Concerns about potential bias, accountability and responsibility, patient autonomy and compromised trust transpire with black box algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://jme.bmj.com/content/early/2021/03/18/medethics-2020-106820",
-      "originalUrl": "https://jme.bmj.com/content/early/2021/03/18/medethics-2020-106820",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BMJ",
-        "domain": "bmj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

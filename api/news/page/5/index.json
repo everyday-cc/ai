@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-27-tesla-is-becoming-more-of-an-artificial-intelligence-and-robotic-company-says-elon-musk.md",
+      "title": "Tesla is becoming more of an artificial intelligence and robotic company, says Elon Musk",
+      "excerpt": "Elon Musk made the argument that Tesla is going to be known more as an artificial intelligence and robotic company. For a while now, Musk has been pushing this idea that investors shouldn’t just see Tesla as an automaker and energy company,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/",
+      "originalUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/02/tesla-xray-2-e1455320423724.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/",
+      "publishedDateTime": "2021-04-27T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights.md",
       "title": "Machine learning security vulnerabilities are a growing threat to the web, report highlights",
       "excerpt": "Security industry needs to tackle nascent AI threats before it’s too late. As machine learning (ML) systems become a staple of everyday life, the security threats they entail wi",
@@ -670,19 +723,19 @@
     {
       "path": "_news/2021-04-26-apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale.md",
       "title": "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale",
-      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language",
+      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today announced the expansion of its Workbench data labeling and annotation platform to include video labeling capabilities for computer vision models,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630",
-          "width": 880,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1496629/AppTek.jpg",
+          "width": 400,
+          "height": 286,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -690,13 +743,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20796180",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20796180",
       "publishedDateTime": "2021-04-26T09:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -706,9 +759,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -753,6 +805,58 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix.md",
+      "title": "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix",
+      "excerpt": "(Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix® to service customers in six new global markets,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg",
+          "width": 400,
+          "height": 261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1075,110 +1179,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-how-ai-trends-could-transform-the-healthcare-industry.md",
-      "title": "How AI Trends Could Transform The Healthcare Industry",
-      "excerpt": "Beyond its applicability in our current public health crisis, AI has several longer-lead implications for how we'll experience healthcare moving forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60832c1b062aef4c0ac65530%2F0x0.jpg",
-          "width": 1183,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/",
-      "publishedDateTime": "2021-04-26T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-nhs-adopts-predictive-ai-tech-from-controversial-startup.md",
-      "title": "NHS adopts predictive AI tech from controversial startup",
-      "excerpt": "The technology warns hospitals about a potential spike in patient numbers so they can allocate the right resources when needed",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570816586/itpro/2019/05/nhs_shutterstock_642071587.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup?amp",
-      "publishedDateTime": "2021-04-26T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

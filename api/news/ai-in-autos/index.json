@@ -461,6 +461,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-28-amazon-releases-deepracer-software-in-open-source.md",
+      "title": "Amazon releases DeepRacer software in open source",
+      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-aws-deepracer-follow-the-leader-ftl-sample-project.md",
       "title": "AWS DeepRacer Follow the Leader (FTL) sample project",
       "excerpt": "Learn to deploy an object detection model that enables the AWS DeepRacer device to identify and follow an object. - aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
@@ -1387,58 +1431,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-google-turmoil-exposes-cracks-long-in-making-for-top-ai-watchdog.md",
-      "title": "Google Turmoil Exposes Cracks Long in Making for Top AI Watchdog",
-      "excerpt": "Gebru had emerged as one of a handful of artificial intelligence researchers who was ... Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSRM08lQd4Tc/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
