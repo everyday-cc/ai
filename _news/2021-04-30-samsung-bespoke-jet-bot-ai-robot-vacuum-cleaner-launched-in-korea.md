@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/04/30/samsung-bespoke-jet-bot-ai-r
 webUrl: "https://www.gizmochina.com/2021/04/30/samsung-bespoke-jet-bot-ai-robot-vacuum-cleaner-launched-korea/"
 type: article
 quality: 86
-heat: 96
+heat: 98
 published: true
 
 provider:

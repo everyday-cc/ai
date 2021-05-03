@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/21/05/b20913430/kiromic-announce
 ampWebUrl: "https://amp.benzinga.com/amp/content/20913430"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20913430"
 type: article
-quality: 16
-heat: 16
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 related:
   - title: "My Legal Einstein Enters into a Partnership with the American Bar Association to Enable Attorneys with Advanced AI for Legal Contract Review"

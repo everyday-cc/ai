@@ -24,22 +24,6 @@ images:
     height: 307
     isCached: true
 
-related:
-  - title: "Development of Spectroscopic Sensor System for an IoT Application of Adulteration Identification on Milk Using Machine Learning"
-    excerpt: "Adulteration in milk is a common scenario for gaining extra profit, which may cause severe harmful effects on humans. The qualitative spectroscopic technique provides a better solution for detecting the toxic contents of milk and foodstuffs."
-    publishedDateTime: 2021-05-01T14:58:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9393967"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 11
-    images:
-      - url: "https://ieeexplore.ieee.org/ielx7/6287639/9312710/9393967/graphical_abstract/access-gagraphic-3070558.jpg"
-        width: 660
-        height: 295
-        isCached: true
-
 secured: "ahB0l6+TLIxxXk4F8jQ5WkZkREPv4B0dCCeOrPPXE6ZTvBIad60iFavfBy9rZk5+prpsXrHirlpEHjcCXq0+nNNeq6CLkX2P/5SHk+Zwg9VJE0NlDlha0+q9b15O8rO+TtrFXwWZ5Uuv3sVpMpaZO4+Uph2e7/X2avx/H6l3A097NKU13ibPhjMhc8wCBK2JdSRWL4+gqKn5ThcguNuRXHVetEXRya55EwfxucggjyKoOb7i7DcdX8QRX89+OwEhm2TKx0T2yAQowj3t6zwCcZwpOmAZJiQlNT7RDm8TGkq+pixDOftufxtGVS2oVrxkUeL32c4gzx9qmtEuma4n0yLSxO635j17llZEMMc7oBHYZlY5BOAZYo44G6XDeewkpvjv65gtAV5cWCAjKgYrVVd+z0cCohO+wJrBSfvmRyB2Ts1QNuQnnqiz13oZp2k7D5680+wu0qq4Ge4uzQX2tdDMN1edqHkuXRKN5sKSz+vkFIFMGjiLFHQnZg/FSwnYDmV2P87281vRm9MwFfhaMQ==;vqqTkd3ON2bkCb+lvHN8/g=="
 ---
 

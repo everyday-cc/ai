@@ -8,8 +8,8 @@ webUrl: "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-th
 ampWebUrl: "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/?amp"
 cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/?amp"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/RPA.jpg"
@@ -26,6 +27,6 @@ images:
     height: 500
     isCached: true
 
-secured: "QXSiIHUMYom84BwDIN1DZpznxWemMcNZKs531F2e7ep6fA61qb4zsa6ilpgoMIs6ETxdpNsw0XbcOabjzLA8H5bDCwbv2oUTpcJFHuhGJ5GNJhcukMmzKcRhiSZ1FdPR0R8yX+q+oZah32uAZLvMBGex3DfTl/o5QcIxGcFgKZPMYTlgKfrHYLUqdcgORTElYo7bpNXOJOdi+6j/9YgviWIbj2bXj+WC4Gs4GfOlSp3oHbdJoITHW9uAm/zY2JDyC914U+lSCDucUwvh6UxPrlgFE8oEloqKWY6l6lrZmiznX9moCmSqlp3Ej8w0DPQN9GONzCExzZbvqZswNc0j3q4n9iGXBvqebGP0T3sG8as=;10cGUMwxErtFfkm1ePjSXw=="
+secured: "UoM2ubjUj8eeCcz6WD8KpzmY1Kihh1lYiOZZhCLbz+ehrfIdeD1AQKaHagc2sZEO7P1COFtVCdX8p+DDmBroxgU22LrZfU9h8lLBHfmOrxAJPuIBFo14T166AeWdQwxZciusnZzSiOGMPvMoTg9Qg3nI9EWdlOdRHlP/vyWOt2Ys81E87ou5WDJ6lyN8spKEgO3vkM6kcOPWhEDWeqzoBlNuG75bt1lSDFKSCAUCtpsnT0evWi+7sj6DNuaHdr/RXjC12EWjwM/oAa1CqrpjuA9EVdkF4rbyq66vPdDqkOGeEdqvMgym2KW2OKnsUK+Tj5587VMeacQBpjmW835zHBX6ZCPNIMqp231owjqtbx/1r1aTf8g8sezfl6+lJyhPuImgV3NSvQ2inkLdazXge0YmAm8VRZjrDAw3TF948bvfCB5HIwvit+jNoCxtbwLXkRg9oZK6wXVu05YwsSqGAI4OsnBA+Ok47mUF1qNLomS/vAlG4rPUh4l1czOd+y0OBfwRCd+FZeXrz9IWYhSCgA==;CMflQFlH/14IkmYQw2ojHw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/05/path-robotics-raises-56m-in-fundin
 webUrl: "https://www.finsmes.com/2021/05/path-robotics-raises-56m-in-funding.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -34,6 +34,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 49
+  - title: "Path Robotics raises $56M for 'aggressive' expansion of AI-powered welding"
+    excerpt: "Path Robotics Inc. has raised $56 million to perfect the engineering of its AI-driven autonomous welding robot and aggressively expand sales to manufacturers across the country. New York City VC firm Addition led the Series B round,"
+    publishedDateTime: 2021-05-03T15:27:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2021/05/03/path-robotics-raises-56m-to-add-65-jobs.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 47
 
 secured: "yxYLGDVqNv3ZjrGuHaQ6f6mFkfME+HVGZxexiNSFYvViKOXZLe6l+0G461cpAtAjp28pIBbiYSBSlpG4gxVBCQMnjExeap3Orhjr038jePk5RU6MGFqNoI33P27OSNsOc5wRfVVd0ZhUNtKEoxoY8VhdaX7Fa9Pmd0/9AwfCThbpIlEj+tLCfkPH5QC7KfYkvT//tUNbKEYkvBwW4/0MbRqMgOI876UTsC3zKHngU97h8QJkwEbWI+Ai8R5+kT4YO+vILtRU+7wo36/PZX9T4GL9SklEWJv0ZyYBWCOIlrE/GDleGXPeOTliDJIXwL17p3xr7UCs6rNPuSM0pYu0rnROuVsrCOs1PQWg5mzZ3e4=;IrdXurh8wD5L4nds3MBs6A=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359374
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359374/taming-the-machine-ai-governance?amp"
 type: article
 quality: 89
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: IT Pro
@@ -31,44 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding the Art of Machine Learning"
-    excerpt: "Though neural-network-based machine learning is escalating in popularity, the mechanics behind it tend to be misconstrued or simply not known at all."
-    publishedDateTime: 2021-04-30T20:05:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21162926/electronic-design-understanding-the-art-of-machine-learning"
+  - title: "3 Big Myths Of AI And Machine Learning Debunked"
+    excerpt: "Artificial Intelligence and machine learning can give your business decision-making processes a massive upgrade. Here’s what you really need to know."
+    publishedDateTime: 2021-05-03T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/"
+    ampWebUrl: "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 43
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2021/04/MachineLearning_dreamstime_Ekkasit919_144788061.608c5c4f89d9b.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ModelOp Extends Automation and Governance for Artificial Intelligence and Machine Learning Models"
-    excerpt: "ModelOp Center integrates with DataOps and SecOps Systems CHICAGO (PRWEB) ModelOp, the pioneer of ModelOps software for large enterprises, today"
-    publishedDateTime: 2021-04-29T19:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/p20873025/modelop-extends-automation-and-governance-for-artificial-intelligence-and-machine-learning-models"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20873025"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20873025"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-  - title: "The Drive to Make Machine Learning Greener"
-    excerpt: "AI systems must be trained in massively powerful data centers. Now computer scientists have discovered that small changes can dramatically reduce the carbon footprint of this activity."
-    publishedDateTime: 2021-04-30T13:43:00Z
-    webUrl: "https://www.discovermagazine.com/technology/the-drive-to-make-machine-learning-greener"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 39
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/cpnjwBeoJTzA7ku02nvlR/42f8bca19b44d12f788377cadb6a5adc/shutterstock_748817821.jpg"
-        width: 1000
-        height: 700
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6086f7034b0844a0abeea8ad%2F0x0.jpg%3FcropX1%3D542%26cropX2%3D3795%26cropY1%3D0%26cropY2%3D2441"
+        width: 1199
+        height: 900
         isCached: true
 
 secured: "MIEpU6NOqvQgikVWJb8gyLwAJpHI+GXBQ0Z94W319wGot0hRHVjpRc1/0JMeuMjh6FvRuguDeXqZ/F35KULi9opHUPOZo022DU47ex/fWuDSClJL6/vWNK0P6pS9RDlbjpBfDz+/du61BHlfLy6wmNera2pfuz7XWEhWr2lINuE4TQ9CkCOs5yZudIxrrn6kfUGv9sFyo3wbC6ZNSsTD0rOI78ZT2nWeiDxQ8JusBF8eRIQfAZNgJac70zh9PnKWI0RfCnpJfJujPid2OxxXYvm34KH67EV35KsqybUMzOg+sk/sxWPFzaON+/NOWF1iR6j5iDeUA3hCgnaoujmenAdzhRLwVQQYGjHYMDMH/Oa83Se8CZqtYodgsaUo49FVA/Kd2gZzRDuJrr6XJEy7N6lpYcpxBvHoQ5ltvU8yc943lLuz61DLZeY6A9JzYchAN6W5JOz8dncmGszMMzGFjgZUnM5KweJIweQy+36/arAlpU3hOVMrvVhFeTL4Pgfaxi0hfkNCCRoeOnkZ9IwV9A==;DGZfaw1OKgTiYklQr9V1YA=="

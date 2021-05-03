@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/lyft-self-driving-sells-division-toyot
 webUrl: "https://thenextweb.com/news/lyft-self-driving-sells-division-toyota-profit"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota creates “dream team” self-driving unit after buying Lyft’s Level 5 technology"
-    excerpt: "Toyota's Woven Planet division creates self driving \"dream team\" after buying the Level 5 business of ride-hailing company Lyft."
-    publishedDateTime: 2021-04-29T02:06:00Z
-    webUrl: "https://thedriven.io/2021/04/29/toyota-creates-dream-team-self-driving-unit-after-buying-lyfts-level-5-technology/"
-    ampWebUrl: "https://thedriven.io/2021/04/29/toyota-creates-dream-team-self-driving-unit-after-buying-lyfts-level-5-technology/amp/"
-    cdnAmpWebUrl: "https://thedriven-io.cdn.ampproject.org/c/s/thedriven.io/2021/04/29/toyota-creates-dream-team-self-driving-unit-after-buying-lyfts-level-5-technology/amp/"
+  - title: "The Station: Lyft sells its self-driving unit, Uber makes a big product push and Revel jumps into ride-hailing"
+    excerpt: "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi there, new and returning readers. This is The Station,"
+    publishedDateTime: 2021-05-03T15:03:00Z
+    webUrl: "https://techcrunch.com/2021/05/03/the-station-lyft-sells-its-self-driving-unit-uber-makes-a-big-product-push-and-revel-jumps-into-ride-hailing/"
+    ampWebUrl: "https://techcrunch.com/2021/05/03/the-station-lyft-sells-its-self-driving-unit-uber-makes-a-big-product-push-and-revel-jumps-into-ride-hailing/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/03/the-station-lyft-sells-its-self-driving-unit-uber-makes-a-big-product-push-and-revel-jumps-into-ride-hailing/amp/"
     type: article
     provider:
-      name: thedriven
-      domain: thedriven.io
-    quality: 37
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
     images:
-      - url: "https://thedriven.io/wp-content/uploads/2020/08/2021-toyota-hilux.jpg"
-        width: 1200
-        height: 674
+      - url: "https://techcrunch.com/wp-content/uploads/2019/11/IMG_6107.jpeg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "InmvBzvNu8rySU8hz4x5natGMGSMGoSgJ4qOflx/zKRzu/9jCIYe+Af4BtXHd445/0Ec9wqlYBaYiRyhOkFDZFKrbA0gHyDC75HVt1iqleddw3YTB/J8nNwaYyJctUn0AnYetKCETCmv9JvtXPqsGyyYCxWJnTU1pCcXLfyefjh4ymLZax9CKvxcEZP4u8uMhMO5HgNpA5jr43qSZjl/gqHh1PMRCyfN0kl3HxZmFOKjTu1Q/zmwM39QUWLDRMEuETuaU3OYLvGtdrBn3YQQsV5nvIYQwWmfBOzvAGJHSpKd7HsNyRDmtg+FYXN7yYcJycZ2lZV7d53nfU4Bt1S7D5eKgOlOyb6LbEgbeDeiPIjyhSmnmOMDgqyJPyEkDKYU8uJ+TlRCzoalCgjKefkqNhrfQf0ePUd7vuB6OZQgOnPAt5ji0sgFBlMF8Kz2snsVJTpsxJQOmOQg6Re4aaktJ0pHjtvShO/wSseADz1oQILff0dNr1oJoH+k8Nn/OhzBTm+JCFoLlYHxOutkWxf0kA==;zwqOfcNvnMMsL1Po0ayPMQ=="

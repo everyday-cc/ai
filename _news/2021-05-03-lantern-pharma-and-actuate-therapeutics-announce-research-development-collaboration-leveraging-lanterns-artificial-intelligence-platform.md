@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Lantern Pharma and Actuate Therapeutics Announce Research & Development Collaboration Leveraging Lantern's Artificial Intelligence Platform"
-excerpt: "Lantern Pharma , a clinical stage biopharmaceutical company using its proprietary RADR® artificial intelligence (\"A.I.\") platform to transform the cost, pace, and timeline of oncology drug discovery and development,"
-publishedDateTime: 2021-05-03T11:18:00Z
-originalUrl: "https://www.lelezard.com/en/news-19780262.html"
-webUrl: "https://www.lelezard.com/en/news-19780262.html"
+excerpt: "Lantern Pharma (NASDAQ: LTRN), a clinical stage biopharmaceutical company using its proprietary RADR ® artificial intelligence (\"A.I.\") platform to transform the cost, pace, and timeline of oncology drug discovery and development,"
+publishedDateTime: 2021-05-03T13:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/lantern-pharma-and-actuate-therapeutics-announce-research-development-collaboration-leveraging-lantern-s-artificial-intelligence-platform-1030377828"
+webUrl: "https://markets.businessinsider.com/news/stocks/lantern-pharma-and-actuate-therapeutics-announce-research-development-collaboration-leveraging-lantern-s-artificial-intelligence-platform-1030377828"
 type: article
-quality: 5
-heat: -1
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
+  - url: "https://mma.prnewswire.com/media/1216507/Lantern_Pharma_Logo.jpg"
+    width: 400
+    height: 296
     isCached: true
 
 related:
@@ -49,6 +53,6 @@ related:
         height: 450
         isCached: true
 
-secured: "t40IN2eJoYb43sTGbA/1vOrjEuNvniYIX1yQMlczxbQHsiUQYmY4DZg29bGywx8cMIHE3VdOFh/tlvqt596Hc4yJY7B7Nc2TK/2llI/q92CfDHhX96dPyOUt8DBGh7OP+TXpyG1oLS1J1eR9//0F6ZkdIyWAUZGtfUzmttlO0b3tZrx2JidDNUuHQILZuoxG/2K+7zntLXYVxHr+kb6mT/wxFDBR9QkimSPz5sLFcxUmcyZA5dWIpAfb04UUaM1hNealLAohJHX/zXSWxI/w26PJ5rReSV0gSIL2VvFnYjwLUeubw4pzWHupDDqrER9AE3wk3vz2TeST8dqYHTDTvLEZRa+gIncTAtiWMw0gcAs=;mpTftPCBgncaERjoPETKYw=="
+secured: "IUP4rpajfLZ9xDpGHyFE0XXvPMldO8Oz+WDq6e7C9aKEZ30fgDjsbPxgHK9G3IRx0pWtjPwZuZPSI5ofacvhuuzU0fvAPmE5NtP2dGQV9bmmWuEk6ForfZVGiSz704BymHKZbpEur+JFPns4VZVOTJI2jdK4j0TSyTSao3Y4JkuNnfvpd3lutYKujIFcCC6H6VOap7f4AYB1Z3iBjMHfABzugqyt9rm+iP7ESdx7UJxRp3zH2sI7u21teDMFqedTwlhdHDdSI39dLn++j2xN5GZOb4BCGTg1godKx5gI+iFF9aXm03jwdPbvDfSi78Ve1UFmbN2P61/72KWKBSfIPPxM0ZXXaFFKOzHsYtC/F7E=;glMLBmLjd2Mp8DBwqJ5vJQ=="
 ---
 

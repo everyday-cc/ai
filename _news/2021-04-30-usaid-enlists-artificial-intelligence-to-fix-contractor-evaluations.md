@@ -7,7 +7,7 @@ originalUrl: "https://www.devex.com/news/usaid-enlists-artificial-intelligence-t
 webUrl: "https://www.devex.com/news/usaid-enlists-artificial-intelligence-to-fix-contractor-evaluations-99756"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Revnue Aims AI Tools At Digital Contracts"
+    excerpt: "A new, West Covina, California-based startup, Revnue Corp., says it is taking aim at the digital contract management industry, with a new artificial intelligence tool. According to the company, it is using machine learning and artificial intelligence (ML and AI) to help businesses find opportunities within their contracts,"
+    publishedDateTime: 2021-05-03T14:46:00Z
+    webUrl: "https://socaltech.com/revnue_aims_ai_tools_at_digital_contracts/s-0081212.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 17
 
 secured: "1SO3WnwF9vUa6Hun0rHxWlX8IhIL429bjlNw+eAmrcDtwmK7Iz9fvGxGBptNwfYjwXzS4isVwMSl9LREm+HxhxzIHE95mEpQNAGlLe73V+cyzuhqKViml5hmxh3NPXwIm8rgX2xkUHyTOgvHTbK1Qz0gFAGg7LDLhCVd31OcDz8ROsPowoOv8dboEr32h/z8vs833ydDe0YYEhHrS+uZ7sLEcFTZG0G9IafSatXnsBeUW49lt88axPgk9i9HUbvCSRf9W32Sw9QQ2fORU5Yvytfi8pMsU3EvgyMhR5HqntJH58lgQaqSAKEO38y0ud1KpVtK2n5/8zIUZwOxRgfYTcERQaDLaR+JotVjkEOnJurL5Qy1j4KOf8+0+B0NGd6MImpfk9m4PRzeD0lWarxbO3I36uyyOdcpvxBK0QvLQxlNaDEzMOUOMHmAZX+lst3NPCUZ99Wm44e4Jm5ZVjGgdtZlKAIxrdGP0RqPjg01ZOP0rVFuoRzWeORNDiCVvQNMm4Hxo3GokS5r1ShNupwi3g==;QQa3ex5gRXuk2Fgdwqaklw=="
 ---

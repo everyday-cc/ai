@@ -33,6 +33,15 @@ related:
         width: 440
         height: 293
         isCached: true
+  - title: "Path Robotics raises $56M for 'aggressive' expansion of AI-powered welding"
+    excerpt: "Path Robotics Inc. has raised $56 million to perfect the engineering of its AI-driven autonomous welding robot and aggressively expand sales to manufacturers across the country. New York City VC firm Addition led the Series B round,"
+    publishedDateTime: 2021-05-03T15:27:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2021/05/03/path-robotics-raises-56m-to-add-65-jobs.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 47
 
 secured: "cDya+1gMunQ/EtsihmkWDYkR354EAezF3Y8ZgFYg3U+Xu+UwIYg60ErIBpeN/pvyHCkl909k3pBU8vJT2m+0g4P9y59Bu0OnlzHXEdiwjREHjIgjfG6J8AiYNyi8opInGAxq4UhVV3RNntQUbWui5Pny5GNt1X/hFPalxjCY4XgnnBHJfqgScww5wOreU5on8mjSPx5axxLUUpZxwdo762tjF0ofXUDrXYFZZR6t7PymO16Gq5gxIQnmBgprBNu0PemTyIR3OEEBW65wR/zDQujjJbXNJJrKKcUtuN5XmLG5rSsCwbscadGlXzfcXIeNITLRI/Fe1Cy9yTHBKZvyAw5WG646IMjdc3mAEx+3/+s=;cHyxWrGy2+5Yb4oaNf5kbw=="
 ---

@@ -61,6 +61,15 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Exclusive Report Of Machine Learning as a Service (MlaaS) Market: Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin and Share 2028"
+    excerpt: "IndustryAndResearch research recently promoted a report on “Global & USA Machine Learning as a Service (MlaaS) Market Report Insight, Key Research Findings, Competative Landscape and Forecast 2021-2028” The report gives a comprehensive calculation of the Machine Learning as a Service (MlaaS) containing industry chain structure,"
+    publishedDateTime: 2021-05-03T13:50:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/exclusive-report-of-machine-learning-as-a-service-mlaas-market-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-share-2028/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "PFlZTXogq1B9rIo96GZNuaA1NU3cWp4Xljue/qe0Y4mLRvrF8dOArL1oAnWL7hZ5zQSht+1zmbbglXA0dQWlOZ7t+Jl+aqt1nO1WagkB4HTdk//WY8BRVXNnreSI2sWTr6avwtisYfcNyp3yYDuzMb2wAc9LkKB3OoaaLJD5aDVmbU4LeB2yVXjxRCBStxFh+yZafp7Qv66pCY2+612czIsrejOxLNVEcdWGabRqUjgP0m5XQhOpg1iRjspK54DPRmOqrrIKHSk1/TzyTFGG56Yxm0lyiRFXYg12FDl6njnJ9PuB+pIJx6YwiujJXTDROhZjYrNFhqeVhVaNmW9aTD9FZwplhn0rdKHxsh626LGkcqMUjOUci0pEoXw2vYYtMjJT3swI82eUgLBQGXK+/3B65JpRCDWyPw/lCB/Bidic1l0tpJ5OHMY02I0blaoFXiWopy82RQbNTfvBZu2BbCB17k4s9FyYv3QSoWuwkGg27uvH+btcOC+POiuUNM8i1hWRUF6JLpioSUnhWi+g1g==;76nG9eJ2WYQnqdD3TxR4Rg=="
 ---

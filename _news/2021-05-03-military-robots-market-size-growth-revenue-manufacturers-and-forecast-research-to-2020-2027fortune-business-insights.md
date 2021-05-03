@@ -62,6 +62,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 0
+  - title: "Exclusive Report Of Machine Learning as a Service (MlaaS) Market: Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin and Share 2028"
+    excerpt: "IndustryAndResearch research recently promoted a report on “Global & USA Machine Learning as a Service (MlaaS) Market Report Insight, Key Research Findings, Competative Landscape and Forecast 2021-2028” The report gives a comprehensive calculation of the Machine Learning as a Service (MlaaS) containing industry chain structure,"
+    publishedDateTime: 2021-05-03T13:50:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/exclusive-report-of-machine-learning-as-a-service-mlaas-market-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-share-2028/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "p/4M1TRdV8fSptITDjsdJV5/oygq13AWGHyCzKHl3ac/szvOrnUXxevAE3mGtVbwhxmZ5ROROhz2xe9/EjSUOqx15gXuEVKbHo7yXYhe9p7ge4YT0kBilD+WGJJZJLSLPnk+qB9PvLmnJFt+hrfckwTflTTUwBHGRIYjyITShnCEZN6Q5uS6Vl3bTXY3VKXPITZRs1ImgTZQwUfGQLAIU/cn0rgcnZdcWeRXLPFI0hE3jUgBapv/Zv16ucqvtsgl+y2hWVhTZgYthhXdnJiwZQXLgRN++Lg0DmV7YlXU5CP6QD9Ohl2hD2R/Do+uHobXOQjsZtuDukKbL7PuYagttpbSWd3VsXsIwvqNiYVZrTc=;r2CbZZhL2ulP4ovjh3k8yQ=="
 ---

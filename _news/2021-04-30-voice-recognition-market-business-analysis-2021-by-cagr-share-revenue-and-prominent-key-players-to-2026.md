@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,"
+    publishedDateTime: 2021-05-03T03:24:00Z
+    webUrl: "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Voice Recognition for Smartphones Market Analysis, Revenue, Share, Growth Rate & Forecast To 2026"
     excerpt: "The exploration report of worldwide Voice Recognition for Smartphones Market advertise offers the extensive information about the topmost makers and sellers which ar"
     publishedDateTime: 2021-04-29T22:25:00Z
@@ -58,6 +72,31 @@ related:
       - url: "https://www.express-journal.com/img/img-6.png"
         width: 500
         height: 300
+        isCached: true
+  - title: "Global Workplace Services Market Report 2021: Integration of Artificial Intelligence (AI) to Revolutionize Workplace Services Business"
+    excerpt: "The \"Workplace Services Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Service Type, and Vertical,"
+    publishedDateTime: 2021-04-29T10:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/g20857902/global-workplace-services-market-report-2021-integration-of-artificial-intelligence-ai-to-revoluti"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20857902"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20857902"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+  - title: "Global Artificial Intelligence in IoT Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The Artificial Intelligence in IoT market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence in IoT market report is a comprehensive research that focuses on the overall consumption structure,"
+    publishedDateTime: 2021-05-03T10:09:00Z
+    webUrl: "https://menafn.com/1102013484/Global-Artificial-Intelligence-in-IoT-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?50588"
+        width: 333
+        height: 250
         isCached: true
 
 secured: "XELuhUwbswXZhULknF8790ohcAjtPMcxy6+OsAAj//CfwnD6sp2qoImTAMGeNUH2jA6eTNj9Oc3OLAo2uxUjobBmWcfAcE0agwa3FLHxUjCPaBFD0BQk191UozUwGr5O/U2oOfUbmfDQ4BTDpHv8IjkcitCCZKpqQMv+Uaq5rYAB/uHFNv767Pi7gEEX5SkVUY1Tvv9WzfudRg+N0F+pe5Xp280h5W6Zg7Mvma6ls3nbaRZLc+wi4Hl77xWWiFX+yB1UO58UAB2DUA6/Ws3YxAi7B8sn+uNA8c8REfIQy+sAUdoeU6Qm7pY1pJIVdvPKpnNCliTE6c0NRhiMjibqQX8YMTmxJvLT7KPEEM3010Q70Z/x5BvZvGGq7I58z8hdRaSNgvOMFRYg8Gxhh08WzSFrvYCySQvjAcXRE4Ph0SgFkuSWr+T7If/HqmJzN4HZZbNGrRlK9eYVMtxh+GCsjs2IkEEvby0ssNBAQBCf4qx3cAL57PZLu/eUsqGIQUHCayp/xDo+1Gq96BlHPKyImA==;/dB3SwXeXqgU2uEGfaZjKg=="

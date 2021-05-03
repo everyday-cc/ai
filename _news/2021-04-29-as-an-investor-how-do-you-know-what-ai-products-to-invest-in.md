@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

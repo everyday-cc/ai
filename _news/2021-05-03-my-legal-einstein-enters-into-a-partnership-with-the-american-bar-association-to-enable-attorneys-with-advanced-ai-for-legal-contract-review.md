@@ -34,7 +34,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 16
+    quality: 18
 
 secured: "6TknKGjAHwMm4w1R8Av7IKYCKm0hLpCc1xf1QZe/p6OAeLFAIHoJwHbRhkyZyo8c6N7hbYJbYbneemOK/qIaHA7oPxxG/W5OztH5yC9FIt2XPGfhlO78IiqckQIa7zRbQW7JgtfFKmxuu6qJv4eEK+U683i40jUZNfB0FyHbaWRfjuNYN3bbz4sYcndtkay+jrbZmEESXe2yPQZwqoB2ijWivTEnrQjz5gjZhbqQqa/qQAe3umSMHI4X1+cCHMKwnYfs6UebriMoVkFnU4LtMkCSIL/t0mlHrDS7ELK0x1Qx57o7vDGXMI+zD4CkmZhhAm2yNFxcsvh7lbNVkfNWoAmX3MLfMpqoh/UEOounZWg=;x0tqRFqe43QyHY3YZ0ondQ=="
 ---
