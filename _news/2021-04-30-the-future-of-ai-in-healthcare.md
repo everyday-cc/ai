@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -118,15 +118,6 @@ related:
       name: ABI Research
       domain: abiresearch.com
     quality: 17
-  - title: "Fintech/AI Sector Snapshot- Artificial Intelligence To Play A Major Role In The Future Growth Of The Credit Card/Payment Industry"
-    excerpt: "Fintech/#AI Sector Snapshot- #Stocks to Watch (OTC: $GTCH) (NYSE: $V) (NASDAQ: $PYPL) (TSXV: $MTRX.V) (OTCQB: $RACMF) @Visa @PayPal @LoopInsights#ArtificialIntelligence to Play a"
-    publishedDateTime: 2021-04-28T19:36:00Z
-    webUrl: "https://seekingalpha.com/instablog/776842-investorideas-com/5584525-fintech-ai-sector-snapshot-artificial-intelligence-to-play-major-role-in-future-growth-of"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 5
 
 secured: "LCDuzUoPusz/wexFvE5FQi2WfqMRiezuAHLuus+iY7lrVOlbv2CkG8TlJ5dbUpaA6cOb4za8TBlsgXQE7LSS4utWx8LlWcSotX54NWc4JKqGbZBnXdnffE272HZw7Bj+HBJnLJzPwTfb/QF3YmHHzKErjjeh24t3YRCe5ylY69Eu6+drn97Cpm7V039A3T/dJ1VcmzmxQi4yVDRytSOU+l/ki9ai17x/Ckppuwy+0PFbHLzMQOBlCxk0PDmBoT5vMpThlaePO3hPTmYGsB1zMhGsvP1DIlYDW6D83vldI9cjBUxAId1Fa749tHOu5j/Ud9DpZIew61FXwDrtcn2rBdOWBUrXCIsEPDhaUeejAztsl+73gf7RjM5bxjCcRjL/WUeng0lrBBJgWn4e1BQc/dCzkEEEsaeqBhYqGlF064MwC/l6vJwwnAJdFPfkRveK5ji+cvWooJpyVpXACRPYoermHqLjWK6veCSliqSvjyrB9F9PFtF0cR0aXMlP+X87IMd/jtxOacp9NnioLYJX6g==;z+uOt1J69YkSndrekfIxyQ=="
 ---

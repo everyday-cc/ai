@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Exploiting Fingerprint Correlation for Fingerprint-based Indoor Localization: A Deep Learning based Approach"
-    excerpt: "For indoor localization system, the integration of various fingerprints could intuitively improve localization accuracy since different fingerprints complement each other. In spite of the potential benefits,"
-    publishedDateTime: 2021-04-29T08:30:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9416168"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
-
 secured: "f/6jHVHPHc4FclNhUKU69624/vzcJ/wTXJ6W4li6yRXn9LTHSGmpHjxgXF4T3kyurTMYnN1ND/uxIbWa5f48WqF+S6ftDJosPzprnKV+sGpuv6AvV2++oIDVdYLvkDJcFCabSwi6Qn9a2o9RQNtPlkFJ4E2gDCKRuYi3Tw0CNf9La2uZ+s/FsqdOWxX5lf/3XMBqE8z2hJYFZXu7IugtGO61E4IbUiNxB6bUcOUVYrCWNcehnFyHNetZMRr9iMyoJ10teIPGxlfdDXe9Gdo2+rBh9GQWwG/eueX2ujLIyTRhgKf4fTM2rclSR5GSjmu75M+D8VsJ8nR93tfh9l2khKtF3/apNpufb0DHtkpCCs43LHbNnSDLcb5x9jWhIJh4bsZAisNaQFXitcwukcFmgk9qf0thA8HQeZrBpZVydZrgTMfChZcN99OmDc6EKW+30akm1MaSYLsiyFpvCvTWd5sYs3bwM0UvLOSFiqD2TMtl3pIXPQb7gqNc1i4BJxHu/9dWq/q0zxH3mml6ncJQYA==;6rguKJb4lqexWMcZjQGFEg=="
 ---
 

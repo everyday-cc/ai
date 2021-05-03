@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-03-police-should-not-be-banned-from-using-facial-recognition-technology-says-uk-watchdog.md",
-      "title": "Police should not be banned from using facial recognition technology, says UK watchdog",
-      "excerpt": "Use of facial recognition by police should not be banned and instead left to the discretion of law enforcement rather than lawmakers, the UK’s new biometrics watchdog has said. Fraser Sampson, the newly appointed commissioner whose job it is to scrutinise how police and other authorities deploy biometrics and surveillance cameras on the public,",
+      "path": "_news/2021-05-03-computer-vision-remains-an-untapped-opportunity-in-american-industry.md",
+      "title": "Computer Vision Remains An Untapped Opportunity In American Industry",
+      "excerpt": "When it comes to the usage of computer vision in heavy industry, most companies are still lagging in comparison to the consumer market.",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
-      "originalUrl": "https://www.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e1a06a9-7196-40d3-9855-7cf75aa5fa8b.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60147aab5fc342ff1fe64b63%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
-      "publishedDateTime": "2021-05-02T21:00:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/amp/",
+      "publishedDateTime": "2021-05-03T05:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -263,7 +272,7 @@
       "originalUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {

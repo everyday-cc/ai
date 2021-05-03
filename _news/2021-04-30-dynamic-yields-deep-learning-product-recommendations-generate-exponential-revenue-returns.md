@@ -7,7 +7,7 @@ originalUrl: "https://multichannelmerchant.com/press-releases/dynamic-yields-dee
 webUrl: "https://multichannelmerchant.com/press-releases/dynamic-yields-deep-learning-product-recommendations-generate-exponential-revenue-returns/"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Dynamic Yield's Deep Learning Product Recommendations Generate Exponential Revenue Returns"
-    excerpt: "Dynamic Yield, the Experience Optimization platform, today announced the gradual release of its state-of-the-art, self-training Deep"
-    publishedDateTime: 2021-04-28T20:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/dynamic-yields-deep-learning-product-recommendations-generate-exponential-revenue-returns-301278670.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "iiu4UTlrYsvGTvz5VnvRePdaPjDCVDRYUn/kt/a4F9+IF70oDLJut6DI1VISwd6BIHhPMy2skXXlFCSXkA60UEO0dF8YmRgMVvgHRI9//A7IBV9Q9xTIaqVND6fyQwDRqvipHlLvqheC8KwYlmo9Ojl4vvGUvskep1TUcx6LyrVBGxamh/8g8u1IGge50K+Pk4OOf6D2WWsTcXlOGevKGm+iTyref7nGL5heLXsn5PQLzyIHn8Tx3NJu/yTnwIWAp8HOKItDwDkQisbkRdX1y9YJreACId5t8fJQ2v9cIfZ3WSoJ+GdR+NBEN4o5TIukCNZIIaF/VQUQhu+toVG2eSTy1BF/IobHR+KB8aVzk64=;lIu9ou/+PKTj0dAyZ/gDRw=="
 ---

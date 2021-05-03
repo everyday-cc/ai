@@ -2,6 +2,188 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-29-new-machine-learning-based-tool-to-help-physicians-determine-best-test-for-chest-pain.md",
+      "title": "New machine learning-based tool to help physicians determine best test for chest pain",
+      "excerpt": "The choice between two non-invasive diagnostic tests is a common dilemma in patients who present with chest pain. Yale cardiologist Rohan Khera, MD, MS, and colleagues have developed ASSIST, a new digital decision-aiding tool.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/chestpain.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-machine-learning-based-tool-physicians-chest.amp",
+      "publishedDateTime": "2021-04-29T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-machine-learning-chips-market-dynamic-demand-analysis-statistics-trends-and-opportunities-to-2026.md",
+      "title": "Machine Learning Chips Market Dynamic, Demand Analysis, Statistics, Trends and Opportunities to 2026",
+      "excerpt": "The report provides key opportunities within the market and describes the factors that are and will be driving the growth of the Machine Learning Chips industry Growth of the overall Machine Learning Chips market has also been forecasted for the",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2277615/machine-learning-chips-market-dynamic-demand-analysis",
+      "originalUrl": "https://www.openpr.com/news/2277615/machine-learning-chips-market-dynamic-demand-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U429252793_g.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis",
+      "publishedDateTime": "2021-04-29T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-he-was-innocent-but-a-facial-recognition-match-got-this-black-man-arrested.md",
+      "title": "He was innocent. But a facial recognition 'match' got this Black man arrested",
+      "excerpt": "Nijeer Parks couldn't have committed the crime. That didn't stop police from arresting him based off of a false facial recognition match. Here's why the technology can often misidentify Black people,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210414200721-restricted-02-false-facial-recognition-match-nijeer-parks-story-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "publishedDateTime": "2021-04-29T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-computer-vision-in-ai-the-data-needed-to-succeed.md",
+      "title": "Computer vision in AI: The data needed to succeed",
+      "excerpt": "Developing the capacity to annotate massive volumes of data while maintaining quality is a function of the model development lifecycle that enterprises often underestimate. It’s resource intensive and requires specialized expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
+      "originalUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/VA5_Laptop_1200.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
+      "publishedDateTime": "2021-04-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-emam-announces-support-for-the-aws-media-entertainment-initiative.md",
       "title": "EMAM announces support for the AWS Media & Entertainment Initiative.",
       "excerpt": "EMAM announces support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to accelerate the adoption of cloud media",
@@ -157,7 +339,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -459,7 +641,7 @@
       "originalUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1033,214 +1215,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-increasing-use-of-facial-recognition-technology-in-china-faces-backlash-from-city-governments.md",
-      "title": "Increasing use of facial recognition technology in China faces backlash from city governments",
-      "excerpt": "After being highlighted for misuse on China’s annual Consumer Protection Gala in March, several cities in China are tightening the enforcement of regulations on facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/28/7e577dd1-4bbb-488c-b35c-f30b45c82b4e_fec3a579.jpg?itok=Ep94EP2D&v=1619603119",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
-      "publishedDateTime": "2021-04-28T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation.md",
-      "title": "Gartner says low-code, RPA, and AI driving growth in ‘hyperautomation’",
-      "excerpt": "Low-code, RPA, and AI are the key drivers for hyperautomation as enterprises try to automate and streamline data operations, Gartner said.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/rpa.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/gartner-says-low-code-rpa-and-ai-driving-growth-in-hyperautomation/amp/",
-      "publishedDateTime": "2021-04-28T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-amd-bets-on-strong-demand-for-chips-as-revenue-soars-93.md",
-      "title": "AMD bets on strong demand for chips as revenue soars 93%",
-      "excerpt": "AMD raised its annual revenue forecast on Tuesday, betting on strong demand for its chips used in data centers and personal computers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1231211568.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/amd-bets-on-strong-demand-for-chips-as-revenue-soars-93/amp/",
-      "publishedDateTime": "2021-04-28T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending.md",
-      "title": "How Shopify aims to level the playing field with its machine learning-driven model of lending",
-      "excerpt": "Shopify is widely known for giving independent merchants a platform to start, run, market and manage their businesses. But over the past 5 years, the company has been steadily growing another part of its own business: Shopify Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/",
-      "originalUrl": "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1169040174.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/amp/",
-      "publishedDateTime": "2021-04-28T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/china-publishes-draft-security-
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
         width: 623
         height: 432
-        isCached: true
-  - title: "6th Year in a Row, National Recognition as Montville Township Public Schools Again Achieves Best Communities for Music Education Designation"
-    excerpt: "MONTVILLE, NJ - For the 6th year in a row, Montville Township Public Schools district has been named a National Best Communities for Music Education. The NAMM Award (National Association of"
-    publishedDateTime: 2021-04-28T19:08:00Z
-    webUrl: "https://www.tapinto.net/towns/montville/sections/education/articles/6th-year-in-a-row-national-recognition-as-montville-township-public-schools-again-achieves-best-communities-for-music-education-designation"
-    type: article
-    provider:
-      name: TAPinto
-      domain: tapinto.net
-    quality: 21
-    images:
-      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/20/facebook_1f213952f14340706eb7_2021_NAMM_Best_Community.jpg"
-        width: 600
-        height: 600
         isCached: true
 
 secured: "w+UW0lD5mVWJlOMX/TwxYRWbVI4yXL1DVTYv7uutUcP3hIu5aQ7c3ejR4419/IlbgNp2/EH33S0Z5FTdKcmk6g89tAsVcsNK2xm4IHOfHJkvqto5hdnNqE2a9RMnFU0X52F4jFgh4Nbp0oNiIqLObt56X0Ynuh+hXVdz1Bjw5A6tY+ul4usrPJlv0m1FPk8wg5qjcZ7YbttWaeNfDflCEoXHnXdMnUTKZJGx6Yilt9FHUUxxGV5/xlEMvcLZfFXjzKvI173NDYMssGRFDJ43nSC+dFB+Jmw5aq6DgB+3/93Zr8sSnQ53bIFjidCo1eULbceyoRK3XcKG+1iRgVsP3IchBnAS1+pJAIeYH7ynDkk=;Tkj/sIrlKVNXRcZozy08Fg=="

@@ -66,20 +66,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "6th Year in a Row, National Recognition as Montville Township Public Schools Again Achieves Best Communities for Music Education Designation"
-    excerpt: "MONTVILLE, NJ - For the 6th year in a row, Montville Township Public Schools district has been named a National Best Communities for Music Education. The NAMM Award (National Association of"
-    publishedDateTime: 2021-04-28T19:08:00Z
-    webUrl: "https://www.tapinto.net/towns/montville/sections/education/articles/6th-year-in-a-row-national-recognition-as-montville-township-public-schools-again-achieves-best-communities-for-music-education-designation"
-    type: article
-    provider:
-      name: TAPinto
-      domain: tapinto.net
-    quality: 21
-    images:
-      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/20/facebook_1f213952f14340706eb7_2021_NAMM_Best_Community.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "c/Vlac6urg6F8GILzObdZ3+lN2AzlVv9TPWFkqsMYEQd/Zke1e3T8+fFo3orw77zH/tzuEraDSM9l6m8SBQYIc7u2TO2ZG+ENeVSG6g4RKCtoKOR0uQQacRsHaxVaLkPAPY2R88+/0ZIFp2H5br0rW9me7G4/Nh5yN49D9w44FnZCm8CdpC+BbzNYAnep09Zg4i5xYoTOo4ocYOOv1+etwuj0XdyzzNTzISZUsVTOGuznWv9u301K9tfNbbqKbuUds/+eiCuNnUkgmW30hPurSEGeb9qhS2fKnMEWhPv4GtZfhNNR35XkP2ei6Zxf3jgSZPNN1ZS383E5JNc08Ikt9NUWAcYFmEjkwm1tJeHawhl6z5P6qcy27OVf810zolNPuUduyO9cO6cvwE6Ujo4laPSlXtyMiSYgxaRGSD7DAazXgufZ41srsk0z/rQ3SqEK09l3itUbBZqXVK1y7jqpV55jetPG8bGgFYI02ms9sbOaNFBViNy7N49lX+HUFgZjq6AVMiProfO6VwRjalbhA==;+FVSApQ83wf5ZVuXDPLhZQ=="
 ---

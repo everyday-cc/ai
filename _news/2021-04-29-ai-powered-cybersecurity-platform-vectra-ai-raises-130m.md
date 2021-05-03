@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Viso Trust assesses third-party cybersecurity risk with AI, raises $3M"
-    excerpt: "Viso trust, a platform that uses AI to assess third-party cybersecurity risk, has raised $3 million in a seed funding round."
-    publishedDateTime: 2021-04-28T20:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/28/viso-trust-assesses-third-party-cybersecurity-risk-with-ai-raises-3m/"
-    ampWebUrl: "https://venturebeat.com/2021/04/28/viso-trust-assesses-third-party-cybersecurity-risk-with-ai-raises-3m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/viso-trust-assesses-third-party-cybersecurity-risk-with-ai-raises-3m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1171615768-1-e1619463823181.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Vectra AI picks up $130M at a $1.2B valuation for its network approach to threat detection and response"
     excerpt: "Cybersecurity nightmares like the SolarWinds hack highlight how malicious hackers continue to exploit vulnerabilities in software and apps to do their dirty work. Today a startup that’s built a platform to help organizations protect themselves from this by running threat detection and"
     publishedDateTime: 2021-04-29T13:06:00Z

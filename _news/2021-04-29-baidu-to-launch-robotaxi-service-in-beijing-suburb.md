@@ -155,6 +155,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Baidu launches China’s first self-driving taxi service"
+    excerpt: "These taxis have been named Apollo ‘robotaxis’ and around 10 of them have been deployed in an area of 3 square kilometers around Shougang Park in western Beijing. * Each Apollo robotaxi ride costs about 30 yuan (Rs."
+    publishedDateTime: 2021-05-03T13:11:00Z
+    webUrl: "https://www.brecorder.com/news/40089845/baidu-launches-chinas-first-self-driving-taxi-service"
+    ampWebUrl: "https://www.brecorder.com/news/amp/40089845"
+    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40089845"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 59
+    images:
+      - url: "https://i.brecorder.com/large/2021/05/608ff54f4dc66.jpg"
+        width: 671
+        height: 480
+        isCached: true
   - title: "Baidu to launch paid driverless ride-hailing service in Beijing"
     excerpt: "Chinese web firm Baidu has announced the launch of its driverless robotaxi service in Beijing from 2 May, making it the among the first companies in the country to offer autonomous taxi services to paying users."
     publishedDateTime: 2021-04-29T10:44:00Z
@@ -182,6 +198,20 @@ related:
       - url: "https://www.just-auto.com/images/just-auto-share.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Self-driving robotaxis are now an actual ‘thing’ in China"
+    excerpt: "Apart from enabling transport services during the upcoming Winter Olympics, Baidu plans to expand its robotaxis in more Chinese cities. With this move, the company is leaving its other Chinese competitors such as WeRide,"
+    publishedDateTime: 2021-05-03T12:20:00Z
+    webUrl: "https://thenextweb.com/news/self-driving-robotaxis-are-now-an-actual-thing-in-china"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-25.png&signature=00d426c7880ac6aa1d198d0aa2c22ad7"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
     excerpt: "Passengers can experience a real driverless autonomous driving service at Beijing's Shougang Park Visitors at the upcoming 2022 Beijing Winter"
@@ -224,6 +254,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F6%252F9%252F3%252F33963963-5-eng-GB%252FCropped-161980631120210430N%2520Baidu%2520taxi.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Driverless Taxi Program Rolls Out in China"
+    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in Beijing,"
+    publishedDateTime: 2021-05-03T13:47:00Z
+    webUrl: "https://www.manufacturing.net/automation/news/21404126/paid-driverless-taxi-program-rolls-out-in-china"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/05/16x9/Baidu_Driverless_Taxi_AP.608ffe2e2a8d4.png?auto=format&fit=max&w=1200"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Baidu Launches Self-Driving Robotaxi Service, Ready for the 2022 Winter Olympics"
     excerpt: "Chinese users can hail a self-driving robotaxi to go about their business. The fully driverless Apollo Go service will first launch in Beijing's Shougang Park, one of the venues for the 2022 Beijing Winter Olympics,"

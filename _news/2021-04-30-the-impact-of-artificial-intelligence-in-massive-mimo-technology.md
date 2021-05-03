@@ -112,15 +112,6 @@ related:
       name: Houston Chronicle
       domain: chron.com
     quality: 19
-  - title: "Fintech/AI Sector Snapshot- Artificial Intelligence To Play A Major Role In The Future Growth Of The Credit Card/Payment Industry"
-    excerpt: "Fintech/#AI Sector Snapshot- #Stocks to Watch (OTC: $GTCH) (NYSE: $V) (NASDAQ: $PYPL) (TSXV: $MTRX.V) (OTCQB: $RACMF) @Visa @PayPal @LoopInsights#ArtificialIntelligence to Play a"
-    publishedDateTime: 2021-04-28T19:36:00Z
-    webUrl: "https://seekingalpha.com/instablog/776842-investorideas-com/5584525-fintech-ai-sector-snapshot-artificial-intelligence-to-play-major-role-in-future-growth-of"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 5
 
 secured: "re6jNOEWk68SsIc5gwsiigCNem255jZvXkbmBQYDLUT3DZCj+7RzcaDgG6070r4XyYWQq7E3t+rHpF//kfPYFUTKUTeUTFPFMuFdgFx1kDVmCn8DhpMwPQApVQRelS/6OqNwxT/JybIDcykXJ23Dhl5r33vIzRaEJcVn0pJFox5rjtn8tPrnvW6H8NDHqdGcCkdy9OBPzniMKMLmULa9ataftjBVbXaUQTNBsW6ImZ4YejX99E7vcmSnzqVQ/u39tfrInFyRzT1/T1yD3Eu1zMy6xYBlzeucQ6CRpol5OBfFWRALP+NCoHZr0tS88tMWYVbKXOIexED2IbhC6OG0kUHdUth5cX9TgBQaWJFlOqA=;RWUmqFLTOl8QwFcc0N4CxQ=="
 ---

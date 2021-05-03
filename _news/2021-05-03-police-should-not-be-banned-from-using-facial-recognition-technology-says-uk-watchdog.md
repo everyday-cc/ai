@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: The Financial Times
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "There’s No Such Thing as Flawless Facial Recognition Technology"
-    excerpt: "Nani Jansen Reventlow warns of the limitations of facial recognition technology in an article for Slate. “As we continue automating our lives, entrusting important decisions to technology in not only our justice system,"
-    publishedDateTime: 2021-04-28T19:26:00Z
-    webUrl: "https://cyber.harvard.edu/story/2021-04/theres-no-such-thing-flawless-facial-recognition-technology"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Police facial recognition on images from US protest, social media in Canada questioned"
     excerpt: "The letter cherry-picks from research to suggest a 35% error rate for identifying Black women is normal, and that facial recognition chills freedom of speech."
     publishedDateTime: 2021-04-28T21:21:00Z

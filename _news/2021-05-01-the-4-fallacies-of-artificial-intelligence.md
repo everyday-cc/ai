@@ -115,15 +115,6 @@ related:
       name: ABI Research
       domain: abiresearch.com
     quality: 17
-  - title: "Fintech/AI Sector Snapshot- Artificial Intelligence To Play A Major Role In The Future Growth Of The Credit Card/Payment Industry"
-    excerpt: "Fintech/#AI Sector Snapshot- #Stocks to Watch (OTC: $GTCH) (NYSE: $V) (NASDAQ: $PYPL) (TSXV: $MTRX.V) (OTCQB: $RACMF) @Visa @PayPal @LoopInsights#ArtificialIntelligence to Play a"
-    publishedDateTime: 2021-04-28T19:36:00Z
-    webUrl: "https://seekingalpha.com/instablog/776842-investorideas-com/5584525-fintech-ai-sector-snapshot-artificial-intelligence-to-play-major-role-in-future-growth-of"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 5
 
 secured: "stQUzNcvKeKVzbDtEmaWFzPVTXH0v3bPWm56Qj0p9ikzZow/xyR20I+OkMWxBw0haZTtHqxqQJq9SW+WlF6GsP8QU9gKaKjUNJtOwUHe1m+6Km4ibd+YgD33ubPswTAIfBbeugZmDR0O2iYvZyiuR+cP9g/XEC2+unlOrLAScFUq/4lHG65nKOg1e02UWzYytPZOvvag+Y+bkkxLDUjQcCdho7yP2+leJjNPmPbPFzkBoIVFNmilyijQFQMv+QdHG1GlM3AoQaj3km6Cj2pv1SnEbE8K/HVpgOtNxQ0SNx44bGGZw5+/6upySi4VBHr2dEx/UnYmVjDOhYvBL6AwVR+FRhZH6QeH5Wlu+hwS7ZO0ZsMilTMFrFaQ0wKXGAHTHzWPcpHe5PF9E7Jj6IJTRLsMTFKDJ3fEoN/AigNqGYHgZXrYTe/iNgiizz7SBupfklTQTfQZTVvngSdj4mahTVlKCFr4d+4YWzuVRo7hFkUzwJyqtKyr+3NXJMHwofOWcAT81JZpk5CoVSpcIlXHDw==;k2o3zrwVuvo6Sdz5XmQKKQ=="
 ---

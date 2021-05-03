@@ -2,6 +2,178 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-20-its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens.md",
+      "title": "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips. Shares of Chinese search giant Baidu (NASDAQ:BIDU) look to have finally found a floor after a sharp selloff. BIDU s",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-2021-04-19",
+      "originalUrl": "https://www.nasdaq.com/articles/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-2021-04-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost.md",
+      "title": "DeepMind ‘Podracer’ TPU-Based RL Frameworks Deliver Exceptional Performance at Low Cost",
+      "excerpt": "A new DeepMind paper introduces two architectures designed for the efficient use of Tensor Processing Units (TPUs) in reinforcement learning (RL) research at scale.Deep learning (DL) frameworks such as TensorFlow,",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2021/04/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost/",
+      "originalUrl": "https://syncedreview.com/2021/04/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/04/image-76.png?fit=950%2C622&ssl=1",
+          "width": 950,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2021/04/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/04/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost/amp/",
+      "publishedDateTime": "2021-04-19T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-shanghai-auto-show-chinese-internet-search-giant-baidu-to-supply-its-apollo-self-driving-system-to-1-million-cars-in-3-5-years.md",
+      "title": "Shanghai Auto Show: Chinese internet search giant Baidu to supply its Apollo self-driving system to 1 million cars in 3-5 years",
+      "excerpt": "Baidu expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/19/70a4be44-f092-4f4e-8220-8a890c2b36e3_a4578779.jpg?itok=v2IRb_0i&v=1618819473",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
+      "publishedDateTime": "2021-04-19T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-why-transformer-model-for-natural-language-processing.md",
+      "title": "Why Transformer Model for Natural Language Processing?",
+      "excerpt": "Natural Language Processing models have a varied range of applications in every possible field. A transformer model is a remarkable innovation that’s made NLP look lot easier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/",
+      "originalUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Natural-Language-Processing.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/?amp",
+      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/?amp",
+      "publishedDateTime": "2021-04-19T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-artificial-intelligence-in-healthcare-market.md",
       "title": "Artificial Intelligence in Healthcare Market",
       "excerpt": "This report studies the Artificial Intelligence in Healthcare Market size, industry status and forecast, competition landscape and growth opportunity. This research report categorizes the Artificial Intelligence in Healthcare Market by companies,",
@@ -923,180 +1095,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing.md",
-      "title": "The New Zealand scientists trying to make brain-controlled robots a thing",
-      "excerpt": "Brain-controlled devices could give people with disabilities or severe injuries new access to the world. But it could also be used to enhance humans, create super soldiers or even transcend the human body entirely.",
-      "sourceUrl": null,
-      "webUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/",
-      "originalUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thespinoff.co.nz/1/2021/04/Robot-arm.jpg",
-          "width": 850,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp",
-      "cdnAmpWebUrl": "https://thespinoff-co-nz.cdn.ampproject.org/c/s/thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp",
-      "publishedDateTime": "2021-04-18T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spinoff",
-        "domain": "thespinoff.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-neural-network-ip-listing.md",
-      "title": "Neural network IP Listing",
-      "excerpt": "Efficient and Versatile Computer Vision, Image, Voice, Natural Language, Neural Network Processor VIP9000 supports all popular deep learning frameworks (TensorFlow, Pytorch, TensorFlow Lite, ... WhisPro is a neural network based speech recognition software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/sip/?q=neural+network",
-      "originalUrl": "https://www.design-reuse.com/sip/?q=neural+network",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-fatal-tesla-crash-in-texas-believed-to-be-driverless.md",
-      "title": "Fatal Tesla Crash in Texas Believed to Be Driverless",
-      "excerpt": "U.S. safety regulators are probing crashes involving Teslas, suspecting the company’s Autopilot system might be involved. WSJ’s Robert Wall reports on how some motorists may mistakenly think ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
-      "originalUrl": "https://www.wsj.com/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-326717/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
-      "publishedDateTime": "2021-04-18T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-artificial-intelligence-robotics-new-heights-in-healthcare.md",
-      "title": "Artificial Intelligence, robotics new heights in healthcare",
-      "excerpt": "Artificial Intelligence (AI) and robotics are used in transforming the world of the health industry and also offer an awesome strategy with much care. It puts the customers in control of the health and also the well-being.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
-      "originalUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailypioneer.com/images/logo.jpg",
-          "width": 325,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-18T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Pioneer",
-        "domain": "dailypioneer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

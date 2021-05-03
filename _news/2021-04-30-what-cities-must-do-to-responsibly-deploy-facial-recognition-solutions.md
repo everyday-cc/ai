@@ -66,20 +66,6 @@ related:
         width: 623
         height: 432
         isCached: true
-  - title: "6th Year in a Row, National Recognition as Montville Township Public Schools Again Achieves Best Communities for Music Education Designation"
-    excerpt: "MONTVILLE, NJ - For the 6th year in a row, Montville Township Public Schools district has been named a National Best Communities for Music Education. The NAMM Award (National Association of"
-    publishedDateTime: 2021-04-28T19:08:00Z
-    webUrl: "https://www.tapinto.net/towns/montville/sections/education/articles/6th-year-in-a-row-national-recognition-as-montville-township-public-schools-again-achieves-best-communities-for-music-education-designation"
-    type: article
-    provider:
-      name: TAPinto
-      domain: tapinto.net
-    quality: 21
-    images:
-      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/20/facebook_1f213952f14340706eb7_2021_NAMM_Best_Community.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "IJEsU+zeNi9NZ0NWI0NbCq50mJSqp2rreLa8ugEsqOcDuXJAUGQ6ytwrgFrK3KGqQgXdsmhpljKP4LzFs36ISLke25qBy8dGNC8zcPogNGpLJewDdYK4Y/Wxixaob0FIeAjrSngL+8KGUJ9KRzBKGd+cVOJxBoOokeYn+ytAadTqsGF8ZOBiY5G0xD3iuuFnM+6eaz0EGi38VswCbIExOwZAZFiTORjM96tKy333K1tha4PN7acBa2qN7ymcuAXb1RKtTPbu3wGhpk1a8p4iZpFHkSThGRwRDVkW9uhpG2hixN0/DcJ7J7Rn0nCI1GeHt+TMUN1UXR7VKgs0mTaP7R/t/sf2CrDygC+8a8+yYBWlxdute1qVuG0KNkpB3ij6EUOwjPIMCOm426tBW4ZPaY105jVSL6aJjk/ecB8oorY9DHmYwPRBAS04I9rXGH1BHlRxsObCPDII+c6s4uyYV+EJi1yrSBBlxc4Fba6YHEYNIDgTF+dbbKIH2chqAr4CtqvFHIA5Ioxidl7gZRxo3w==;O3xKFgiv2uqv9o+N3wHeag=="
 ---
