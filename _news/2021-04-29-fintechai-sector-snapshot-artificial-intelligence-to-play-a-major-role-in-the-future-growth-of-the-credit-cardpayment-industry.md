@@ -60,15 +60,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
-  - title: "COMPUTEX 2021 Hybrid Embarks on an Intelligent Journey with AI Tech Giants"
-    excerpt: "Asia’s largest ICT show, COMPUTEX Taipei, is rolling out its first in Online-Merge-Offline ... COMPUTEX organizer, the Taiwan External Trade Development Council (TAITRA), states that AI is one of the hottest topics at COMPUTEX 2021 Hybrid this year,"
-    publishedDateTime: 2021-04-28T07:30:00Z
-    webUrl: "https://www.businesswireindia.com/computex-2021-hybrid-embarks-on-an-intelligent-journey-with-ai-tech-giants-72702.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 17
 
 secured: "oY759yAFgujrH5reAnzFDy3cOFJjWSeGJ+yUanxhQ3MM4KMY3MCJ2bZqiFZjJTUAmecnpM6K2CXMHwQ0R4zUwxRlVatZRDeAkIBdtasYmIXrN9/RhEH1sbvk/j33VOKPRfwj9+FB5naEdv3KJaf2qji0p95pg7e8vnVFZabRkhmZtSXuWSxLTn+SB4B9WX8y3zjM0BFjWFfjDy/YMRFFoj3DDGLVtCLI6IBaEVlAf6u1ZKl1oen16WO6KJl2819JBSZCYkay+gLoB+aqJ+Cy6AyI0Wjo9j4vPrwfeT/B8NqT7wckdT8bWkQc2mPJ/1rP2ezVp/vvaBQtYLxxCJBu3sdaYgiirDN5dS96XL93FwBSYg56GuQl5vnXd3X6A4jpWvF1UxK9phv9RJY+6h3VBgHckNeRgmPSkD5U/HFskgz8G09Mi24eN8Hb1uPW9aLWkEC8UB9ejaoM/+pCmOAk5M17IbuGSywXfScrKyyHOhowu7eh9m6Cuhce5bfJIdfJaYIVF7g+ZMT77WAic2iBMQ==;XsSpCzLVxspDOG9YJRLy7A=="
 ---

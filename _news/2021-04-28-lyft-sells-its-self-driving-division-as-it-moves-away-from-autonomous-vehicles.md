@@ -105,20 +105,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The UK will make ‘self-driving’ cars legal this year"
-    excerpt: "The UK is making self-driving partially legal in the spring, so you should have an easier time in the cockpit. But you shouldn’t think of watching a movie or playing games on your phones while driving just yet."
-    publishedDateTime: 2021-04-28T07:02:00Z
-    webUrl: "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-legal-this-year"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F08%2Falks-lane-keeping-motorway-autopilot-autonomous-vehicles-car-ev-government-uk.png&signature=6a91d3ce2373b7deb8b2941ecca9fea1"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "UK says 'self-driving' cars could be allowed by the end of 2021"
     excerpt: "The UK government has announced that basic self-driving cars with automated lane-keeping system (ALKS) could arrive on British roads by the end of 2021. The new designation will allow trials of such systems, allowing Britain to develop its own self-driving ..."
     publishedDateTime: 2021-04-28T11:13:00Z
@@ -164,6 +150,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/vehicles.jpg"
         width: 1920
         height: 1368
+        isCached: true
+  - title: "UK signals self-driving cars could hit road this year"
+    excerpt: "LONDON: Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel. The Department for Transport (DfT) said in a statement that it will allow hands-free driving in cars equipped with lane-keeping technology,"
+    publishedDateTime: 2021-05-02T23:39:00Z
+    webUrl: "https://www.brecorder.com/news/40089625"
+    ampWebUrl: "https://www.brecorder.com/news/amp/40089625"
+    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40089625"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 44
+    images:
+      - url: "https://i.brecorder.com/large/2021/05/608f218dbd5dc.jpg"
+        width: 784
+        height: 480
         isCached: true
   - title: "The UK will allow self-driving cars on its roads in 2021, and some hope they will put an end to traffic"
     excerpt: "The UK government will allow vehicles fitted with lane-keeping systems to drive on motorways later this year."

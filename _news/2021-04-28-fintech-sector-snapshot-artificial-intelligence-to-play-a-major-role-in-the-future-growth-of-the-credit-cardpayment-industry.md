@@ -56,15 +56,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
-  - title: "COMPUTEX 2021 Hybrid Embarks on an Intelligent Journey with AI Tech Giants"
-    excerpt: "Asia’s largest ICT show, COMPUTEX Taipei, is rolling out its first in Online-Merge-Offline ... COMPUTEX organizer, the Taiwan External Trade Development Council (TAITRA), states that AI is one of the hottest topics at COMPUTEX 2021 Hybrid this year,"
-    publishedDateTime: 2021-04-28T07:30:00Z
-    webUrl: "https://www.businesswireindia.com/computex-2021-hybrid-embarks-on-an-intelligent-journey-with-ai-tech-giants-72702.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 17
   - title: "Fintech/AI Sector Snapshot- Artificial Intelligence To Play A Major Role In The Future Growth Of The Credit Card/Payment Industry"
     excerpt: "Fintech/#AI Sector Snapshot- #Stocks to Watch (OTC: $GTCH) (NYSE: $V) (NASDAQ: $PYPL) (TSXV: $MTRX.V) (OTCQB: $RACMF) @Visa @PayPal @LoopInsights#ArtificialIntelligence to Play a"
     publishedDateTime: 2021-04-28T19:36:00Z

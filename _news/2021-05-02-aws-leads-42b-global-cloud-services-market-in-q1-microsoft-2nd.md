@@ -52,20 +52,6 @@ related:
         width: 2560
         height: 1840
         isCached: true
-  - title: "ASUS announces Azure Percept Collaboration with Microsoft"
-    excerpt: "Azure Percept DK provides an end-to-end platform for prototyping edge AIoT solutions Easing edge AI difficulties: ASUS and Microsoft collaborating to enable quick and easy prototyping of scenario-based edge AI solutions Azure Percept DK: Pilot-ready development kit integrates deeply with Azure AI,"
-    publishedDateTime: 2021-04-28T07:30:00Z
-    webUrl: "https://technosports.co.in/2021/04/28/asus-announces-azure-percept-collaboration-with-microsoft/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 54
-    images:
-      - url: "https://technosports.co.in/wp-content/uploads/2021/04/AZURE-Percept-DK-wthBox-696x464.png"
-        width: 696
-        height: 464
-        isCached: true
   - title: "IO, IO, off to Microsoft’s cloud we go: Excelero hits Azure"
     excerpt: "Excelero has made its scale-out NVMe-oF array software available on Azure. NVMe-oF (NVMe-over-Fabric) extends a server’s PCIe/NVMe protocol across network links. This means a server application can access remote flash drives for block data at  RDMA speeds."
     publishedDateTime: 2021-04-29T14:48:00Z

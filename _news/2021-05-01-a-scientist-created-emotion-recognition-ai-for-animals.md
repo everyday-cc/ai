@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/a-scientist-created-emotion-recognitio
 webUrl: "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Citizen scientists train artificial intelligence for healthy oceans"
+    excerpt: "Spyfish Aotearoa is a newly launched collaboration between DOC and Wildlife.AI, a charitable organisation applying artificial intelligence"
+    publishedDateTime: 2021-05-02T23:34:00Z
+    webUrl: "https://www.miragenews.com/citizen-scientists-train-artificial-553091/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 52
+    images:
+      - url: "https://www.doc.govt.nz/thumbs/hero/contentassets/56e5158891b84ed08b9a6bcc848c4f8a/spyfish-camera-16-9.jpg"
+        width: 1066
+        height: 600
+        isCached: true
   - title: "Speech & Voice Recognition Global Market Study Focus on Top Companies and Crucial Drivers"
     excerpt: "Global Market Monitor recently published a market research report on Speech & Voice Recognition, which studied Speech & Voice Recognition industry outlook, competitive situation, regional market analysis,"
     publishedDateTime: 2021-05-01T03:14:00Z

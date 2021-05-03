@@ -66,20 +66,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 56
-  - title: "ASUS announces Azure Percept Collaboration with Microsoft"
-    excerpt: "Azure Percept DK provides an end-to-end platform for prototyping edge AIoT solutions Easing edge AI difficulties: ASUS and Microsoft collaborating to enable quick and easy prototyping of scenario-based edge AI solutions Azure Percept DK: Pilot-ready development kit integrates deeply with Azure AI,"
-    publishedDateTime: 2021-04-28T07:30:00Z
-    webUrl: "https://technosports.co.in/2021/04/28/asus-announces-azure-percept-collaboration-with-microsoft/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 54
-    images:
-      - url: "https://technosports.co.in/wp-content/uploads/2021/04/AZURE-Percept-DK-wthBox-696x464.png"
-        width: 696
-        height: 464
-        isCached: true
   - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
     excerpt: "Provides assurance and observability support for telco-clouds running on Azure LONDON, UK – MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs),"
     publishedDateTime: 2021-04-28T13:09:00Z

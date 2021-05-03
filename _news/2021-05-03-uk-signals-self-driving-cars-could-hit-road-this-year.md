@@ -1,31 +1,29 @@
 ---
 category: news
-title: "The UK will allow self-driving cars on its roads in 2021, and some hope they will put an end to traffic"
-excerpt: "The UK government will allow vehicles fitted with lane-keeping systems to drive on motorways later this year."
-publishedDateTime: 2021-04-29T07:31:00Z
-originalUrl: "https://www.businessinsider.com/uk-allows-self-driving-cars-2021-4"
-webUrl: "https://www.businessinsider.com/uk-allows-self-driving-cars-2021-4"
+title: "UK signals self-driving cars could hit road this year"
+excerpt: "LONDON: Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel. The Department for Transport (DfT) said in a statement that it will allow hands-free driving in cars equipped with lane-keeping technology,"
+publishedDateTime: 2021-05-02T23:39:00Z
+originalUrl: "https://www.brecorder.com/news/40089625"
+webUrl: "https://www.brecorder.com/news/40089625"
+ampWebUrl: "https://www.brecorder.com/news/amp/40089625"
+cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40089625"
 type: article
-quality: 38
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Recorder
+  domain: brecorder.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i.insider.com/5fc97006037cbd0018613bf9?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://i.brecorder.com/large/2021/05/608f218dbd5dc.jpg"
+    width: 784
+    height: 480
     isCached: true
 
 related:
@@ -153,22 +151,6 @@ related:
         width: 1920
         height: 1368
         isCached: true
-  - title: "UK signals self-driving cars could hit road this year"
-    excerpt: "LONDON: Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel. The Department for Transport (DfT) said in a statement that it will allow hands-free driving in cars equipped with lane-keeping technology,"
-    publishedDateTime: 2021-05-02T23:39:00Z
-    webUrl: "https://www.brecorder.com/news/40089625"
-    ampWebUrl: "https://www.brecorder.com/news/amp/40089625"
-    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40089625"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 44
-    images:
-      - url: "https://i.brecorder.com/large/2021/05/608f218dbd5dc.jpg"
-        width: 784
-        height: 480
-        isCached: true
   - title: "Lyft sells its self-driving division as it moves away from autonomous vehicles"
     excerpt: "Lyft has decided it’s going to play things safe going forward. The rideshare company is getting out of the self-driving business altogether and is selling"
     publishedDateTime: 2021-04-28T14:58:00Z
@@ -184,6 +166,20 @@ related:
       - url: "https://media.consumeraffairs.com/files/cache/news/Lyft_logo_concept_with_car_in_background_jetcityimage_Getty_Images_large.jpg"
         width: 700
         height: 467
+        isCached: true
+  - title: "The UK will allow self-driving cars on its roads in 2021, and some hope they will put an end to traffic"
+    excerpt: "The UK government will allow vehicles fitted with lane-keeping systems to drive on motorways later this year."
+    publishedDateTime: 2021-04-29T07:31:00Z
+    webUrl: "https://www.businessinsider.com/uk-allows-self-driving-cars-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/5fc97006037cbd0018613bf9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Could we see self-driving cars on UK roads this year?"
     excerpt: "Automated Lane Keeping System technology cold be given the green light by the DfT later this year, paving the way for self-driving cars."
@@ -276,6 +272,6 @@ related:
       domain: iottechnews.com
     quality: 4
 
-secured: "0rd7+lqGHg38RTNCd0Yd1oNVeQJIAp6ubiiotjU1liQBHv6RyekiZsewHTQxMCypo6IdfScv+EEa5ILF2gkRiZtLcBb61brO3XPmwcH7ar+vJ2Z2+NChLUxVKe450IuYQaqCSaTiT0RSGUtv6Civcg4Qd31zFyspCPKx4slqZBO4PLpxw/r8J9oj0o67POQUwjy8qichfcH1CqJL0dLrFmq+YHm3JReOgBxrUdkhOc4uUOpYUL72H00EaAKVqVy2/lre74QSRljnjzA5gmdP04kR0Fl0ugHxykARixvNiYb6Ufr7ZaFnkB3sEnuDPKcqC0KxU04Dtz1f/f2eE2j/c1TMQqC46V1ThPkZyUNgJHQZv5DOkiI6XARwVhhSK3ksVm+yt6EnA3jh1ahzwS7dj+V0wlhKNHLb9zvRH5oM/JJL84EVHtAq4vGBrrNGkqFaoi/mo91TRlTfWPWqIgOZGwjiW7NqACHtO+Wr6wWC1+OUGos59eyJL7MaLJVFU1HO0VYJPu9dd2lzbHRMjh5EVg==;3DHRBjHZ040UBGawr7srmw=="
+secured: "We20LTl7pDQeiV2+Jlp3vd+0CDqOcuvhtzZyJkhiywsd5UbU4jFuBGIOvPvBUldszUfRoqQWx1apMUmlfZ45JK0N9qWuONTWTTv+y4NYG6AzOFFyu7tA8d51shhzEMNKGjih55hMZv8ruUHeM09CHZygXt35bfKbuae+7v+Va894heWTHB8JRhb/jnwDrUQdSyxzNyD+AfgLBGrRKEjSpJ/JFuoHhrjiLSxE5NhujtBiiX/CGLfmuBMQ8/f034QkdwdzMWCR+PRlVMYfphA1UKgnTv7K59drMmEH0xQA77I51uHSXEWElOVBp2G1cQ3eNZnoWxHVI3gZCTPpYCUkUMQwbc6bxVjNvsOzhLwORlc=;fJwjRixaGyB2BuiX+PIheg=="
 ---
 

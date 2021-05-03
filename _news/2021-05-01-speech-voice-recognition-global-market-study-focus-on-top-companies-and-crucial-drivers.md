@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Citizen scientists train artificial intelligence for healthy oceans"
+    excerpt: "Spyfish Aotearoa is a newly launched collaboration between DOC and Wildlife.AI, a charitable organisation applying artificial intelligence"
+    publishedDateTime: 2021-05-02T23:34:00Z
+    webUrl: "https://www.miragenews.com/citizen-scientists-train-artificial-553091/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 52
+    images:
+      - url: "https://www.doc.govt.nz/thumbs/hero/contentassets/56e5158891b84ed08b9a6bcc848c4f8a/spyfish-camera-16-9.jpg"
+        width: 1066
+        height: 600
+        isCached: true
 
 secured: "6apPGCcgZBhHmCl5QWIlTy+oizDebK81TbBVrjl7hL85a7olee+p7eZOI3+aLwYvovtZ17tDCBqUZ0X3ZlQBQV8LbRMD1c3/6oqYx/SekBt18Zo6Lb5Nl2QZEDlELGuEb5EP4Qvr1bwHErh5/BhGzznGRlC5daG/7hZOe0fBmLyWdQn3EeZd4MpffyJgXA7tCN2Lyw6v/jMfQVpPz5rEAS8A/OunnlRompSiSRdTw6YljinNHAkorEUHdyyUjC1MfG46R/2J7kxFn8G6gBGUYCP8+greNUSeuIetMNvFW5QZiftuOjLk816q3GW4Ym7euJIyBTyKdGIGdZVJjJMjtAfJKBDXZsc3g7uGompIKJ0=;mCAfVnxpZbbBwaIRtjZGug=="
 ---
