@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple hires ex-Google AI scientist who resigned after researcher firings"
+    excerpt: "AI scientist Samy Bengio, who resigned from Google after the firings of Timnit Gebru and Margaret Mitchell, has joined Apple."
+    publishedDateTime: 2021-05-03T21:40:00Z
+    webUrl: "https://venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/"
+    ampWebUrl: "https://venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2015/07/2015-07-11T031525Z_1_LYNXNPEB6A02N_RTROPTP_3_USA-APPLE.jpg?w=1200&strip=all"
+        width: 728
+        height: 500
+        isCached: true
   - title: "Apple Hires Scientist Bengio, Who Left Google in Wake of AI Woes"
     excerpt: "Apple Inc. said it hired Samy Bengio, a respected research scientist who ended his 14-year career at Google after the company made the controversial decision to oust two women researchers who reported to him."
     publishedDateTime: 2021-05-03T18:32:00Z

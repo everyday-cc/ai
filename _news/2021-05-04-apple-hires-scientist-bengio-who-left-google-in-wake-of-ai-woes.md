@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-05-03/apple-hires-sci
 webUrl: "https://www.bloomberg.com/news/articles/2021-05-03/apple-hires-scientist-bengio-who-left-google-in-wake-of-ai-woes"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple hires ex-Google AI scientist who resigned after researcher firings"
+    excerpt: "AI scientist Samy Bengio, who resigned from Google after the firings of Timnit Gebru and Margaret Mitchell, has joined Apple."
+    publishedDateTime: 2021-05-03T21:40:00Z
+    webUrl: "https://venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/"
+    ampWebUrl: "https://venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2015/07/2015-07-11T031525Z_1_LYNXNPEB6A02N_RTROPTP_3_USA-APPLE.jpg?w=1200&strip=all"
+        width: 728
+        height: 500
+        isCached: true
   - title: "Apple hires ex-Google AI expert Samy Bengio"
     excerpt: "Apple has hired Samy Bengio, a former AI scientist who resigned in protest of Google's firing of two employees, to lead a new AI team under John Giannandrea."
     publishedDateTime: 2021-05-03T19:19:00Z
@@ -75,6 +91,6 @@ related:
         height: 627
         isCached: true
 
-secured: "neu2DB+vjGlI+fmJd8cw38Ppmjqzumge+VF5SBmVkfviDFE6xfK9sYPjLl5XXVtc0xg7APhuCFM2SYbWg8e0DH2ddOlNCHcHMQ04AR+cr+XVj0y/ZVLsAXtJX9TgUfy2/selOj4cL98UInNEvwnwTOyxz4YYsetprrUT5MNOmm3PXJejyRzxiW9vSwwu7H43E/VUT3l+CJlSMnp8vW8tf3fYtKTMw0f+KY/Bhaz97FFGnlNT0qMLCPwu9NMM0Lft+LbYIzB1B3/40WFd5iPvheu7er4AilhlJBq/7owc4M7hkmuxOdxietnIWBO1tN/ey7BAMhfkjCT4DVhVeWmF8pmbYyhZ6fMiVHHbF1+I2WA=;NiBmJUn8zQgZw3HPH07gSQ=="
+secured: "8z6A9UcvrkU2OUfLKjr47YkcVik/FP6IXmsbn9zrnTIYRl5tDd75hAG+mpc1BOA/KkmyaRD7mzUOwt5pjzVrVQICyEsnmIVqizeMs+zUDy1i1DZvui851ar+0fyXBXDvQDFHwvL3qsHZoXGK8Y422/rJ6G/CeSY7XNXuf4iuH6YlPeQKlqap4tA3jANqjvABtEwIQ2c17PH/7mGNr6f3O70yZaLfAKQpNNKM/9s5HPkqFn3qvHZjKrdAOpHA1VCugLh1CIByLlhmzR1SIs34qdD+Td40Inm9Hbn9H6UXEdpYT4ppQCY7XfO0fC56zIsP5k/avWJOsCHoXI9l0Xzz1TRC205piVnjmuramZheoAVWzhP06eIY+dC8RfHrWeZvJumZBKGJTu4fcNLi9s6K9y05zI73D8dPyN7cI33qC6GrD1m9xkevzv9wDiW3NIVbSjwKi/PIivrxlX1amD5M5ioc2Fep+N0jGlMd1lqczKwtvxKKxXzxn3gxhT7EHWXPi6q2fVQ45ePao4ITDVoYTw==;n81QcZlEav1IjgoWIbKjQg=="
 ---
 

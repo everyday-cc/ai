@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "The Robot Surgeon Will See You Now"
+    excerpt: "Sitting on a stool several feet from a long-armed robot, Dr. Danyal Fer wrapped his fingers around two metal handles near his chest. As he moved the handles — up and down, left and right — the robot mimicked"
+    publishedDateTime: 2021-05-03T21:04:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/the-robot-surgeon-will-see-you-now/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/the-robot-surgeon-will-see-you-now/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/the-robot-surgeon-will-see-you-now/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
 
 secured: "/kf2LLNYhT7On4OY9omOSawDLYGnOVSjDkRqlsHtj8jfBbNm//xLtIEcCkPNsdMnHx5STopLD2QkKL47SMzU7ylzVFOb6JjbLBF6+B2Mag9HK7MF1wICl5AMm4QG/jl64alneiML6ZWCuMxvImNalZSIRQB6QbfEZxf+EBzX9RzR+SjWw8pb3TnX2YhxMuM0pkV+7QcGjBmPJUa228bkR/FakJlvpuBv9G1gfsX8cRrBFnMIZDGwOg64dXc2qgNgOCKQEtMYeBGIFy5t5tmQJYMKOQxViczefz3TSDbG2YXIj8w0MvPXzCRWC1kOe6VgYQ4KJjGzgwkC/RYfRH1Cg2qwptnHsnIKwwGsT8oMBnpoylqtpZm/ilw+V/HVtsm+PrlILqvhN4YAGwyRjq7jDGodAoU3n0Bw97Ax0xCwhMtgHyXs0bS1q3Xg6f45xzrJT4mrPrBjgQ9/QF+eSFiGO00oUVuvVaEOdZeFLGJFtPwc0gjDCTHEFgLMG30iB+M1Gz+XDxxZMQ+0EyPkXZyxuA==;khPOQ2SFu3iuIcTUJFnGsA=="
 ---

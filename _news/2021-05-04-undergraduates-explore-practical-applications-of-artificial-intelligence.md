@@ -6,9 +6,9 @@ publishedDateTime: 2021-05-03T19:47:00Z
 originalUrl: "https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503"
 webUrl: "https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503"
 type: article
-quality: 66
-heat: 66
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: Massachusetts Institute of Technology
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - IBM AI
 
 images:
   - url: "https://news.mit.edu/sites/default/files/images/202104/mit-superurops.png"

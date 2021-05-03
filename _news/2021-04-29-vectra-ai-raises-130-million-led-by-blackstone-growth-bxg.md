@@ -85,22 +85,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "Top 5 Cybersecurity trends FinTech cos must pay attention to in 2021"
-    excerpt: "Fintech service providers are considered to be torchbearers in digital financial services, particularly in the post-COVID world. They have been catalyzing and accelerating the economy in great manners during this pandemic."
-    publishedDateTime: 2021-04-29T03:30:00Z
-    webUrl: "https://www.dqindia.com/top-5-cybersecurity-trends-fintech-cos-must-pay-attention-2021/"
-    ampWebUrl: "https://www.dqindia.com/top-5-cybersecurity-trends-fintech-cos-must-pay-attention-2021/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/top-5-cybersecurity-trends-fintech-cos-must-pay-attention-2021/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 44
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/Fintech-segments-that-are-poised-to-prosper-in-2021.jpg"
-        width: 800
-        height: 420
-        isCached: true
   - title: "Threat detection startup Vectra AI raises $130M on unicorn valuation of $1.2B"
     excerpt: "Artificial intelligence-driven threat detection and response startup Vectra AI Inc. announced today it has raised $130 million in new funding to expand its platform and expand into new markets. The round was led by funds managed by Blackstone Growth and a number of existing investors."
     publishedDateTime: 2021-04-29T12:00:00Z

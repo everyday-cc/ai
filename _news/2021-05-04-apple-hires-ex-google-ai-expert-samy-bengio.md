@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple hires ex-Google AI scientist who resigned after researcher firings"
+    excerpt: "AI scientist Samy Bengio, who resigned from Google after the firings of Timnit Gebru and Margaret Mitchell, has joined Apple."
+    publishedDateTime: 2021-05-03T21:40:00Z
+    webUrl: "https://venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/"
+    ampWebUrl: "https://venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2015/07/2015-07-11T031525Z_1_LYNXNPEB6A02N_RTROPTP_3_USA-APPLE.jpg?w=1200&strip=all"
+        width: 728
+        height: 500
+        isCached: true
   - title: "Apple Hires Scientist Bengio, Who Left Google in Wake of AI Woes"
     excerpt: "Apple Inc. said it hired Samy Bengio, a respected research scientist who ended his 14-year career at Google after the company made the controversial decision to oust two women researchers who reported to him."
     publishedDateTime: 2021-05-03T18:32:00Z
@@ -72,6 +88,6 @@ related:
         height: 627
         isCached: true
 
-secured: "HPEoNjhTulZeT6BI49rzj8inXHUlXvrEQqz9op/y+QFX5dZb8upgWDqiMBjvH6EbtKL2OYTpkIDZehWqGiok3KGsyFfktNPGklXI7gOcnPAZN6iykqqLm4pMVaap8cMYeekZR4QN/tqGC3CMLYqe+pWWiieVZMPqYiKkNmneirZ1IbjFFglV4YqSGXU/+YNekTDGpVsm6ksqIgqvxU2eKylWR7WvbxeV/LkRuPwKrU0A5LxcmvbjpOFjBGfJ3abLHUNMXGwmsK+cteqmfKQPcv5ihb52dbWHy32dxU7hiPdZncUo5dZn3AqwnYuqLzQbAUHiYtBLzDjoWsPBp0I/XZdiU4LSl64jazrQgqsrIjo=;gam4Pxk3FQTeofcTUWcEgg=="
+secured: "SXqBd+/rWj7Ki2tTQLDQX9A9PS5x9P/liWiRrVSyQ8o2Bp5j1VvpfZ/RySNEKVDulrHs3ZcR6m+EU89TSZyzZEuXfyYpFhtHgnxTvrlAICrPfw+qXNHXYk33CgKzGKyyv+7ZNGjIf6fHUm/bkCGpDNoPyR5ITPcqA13rUImQs5viowbH8ZrxQA56vi3CCKAD75SZIuyNKY8P8o0sIlaoR6+xgjG5WfcDZqYcDMslo+ovoWMQBRN+XLIixz8Fq27BymJyTn47kjDOBfAE1OX26pZUUJTXasUjR/rDLvfqycOTYA9+JYLOUtez1HcC7kNTtU+q7iFEkgq6dn1fH/L2/wN2mkA1shKtckvr3kIEUTTj+jsSazNpvhSw+R8/9C0KqXtc2cbcit1ETxIxANEaI4lOVPGIsQjexRLSPO5HuSMYMZtZpRzZxQ8BvkOPdwocVAR8v7MtSNQybszA+Nyic6OllY2GOefb/rFJst8OZHrWJlz5riWjtcSZ4wKhbTegPTDKOcwGJYjUHF9B5lNbGA==;2rjKMjYKAwoU7mcSpGV69g=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
 excerpt: "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,"
-publishedDateTime: 2021-05-03T03:24:00Z
-originalUrl: "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
-webUrl: "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
+publishedDateTime: 2021-05-03T08:00:00Z
+originalUrl: "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026&source=139"
+webUrl: "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026&source=139"
 type: article
 quality: 36
 heat: 36
@@ -19,8 +19,8 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-    width: 300
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?695067"
+    width: 374
     height: 250
     isCached: true
 
@@ -84,6 +84,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 20
+  - title: "Global Contact Center Intelligence Market 2021 Major Manufactures – AWS, Artificial Solutions, Avaya, Google"
+    excerpt: "Global Contact Center Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comes as a handy source for readers, providing insight into sales, volumes, revenues in the Industry."
+    publishedDateTime: 2021-05-03T10:22:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/global-contact-center-intelligence-market-2021-major-manufactures-aws-artificial-solutions-avaya-google/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 20
+    images:
+      - url: "https://cdn.etechgs.com/etechgs/wp-content/uploads/2017/10/How-Artificial-Intelligence-Improves-Contact-Center-Industry.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Global Artificial Intelligence in IoT Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
     excerpt: "The Artificial Intelligence in IoT market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence in IoT market report is a comprehensive research that focuses on the overall consumption structure,"
     publishedDateTime: 2021-05-03T10:09:00Z
@@ -108,6 +122,6 @@ related:
       domain: ksusentinel.com
     quality: 0
 
-secured: "o3cBfGI2kOHE58JBvKxJ/3pWPnQkXSsQJ1OMGuvGgZ6XPMGuJVLqSWKg1xTANeaFK9u5zM7/L8YrKqEuNC48Nj5HQ+NyotmX79wALZ98HreIsAJQwFFshyapsUpCMWYt2jRw/5qZtYz4KD+ujpxY+S+wTn6jCh7HIq90yinr6y9Qm73wsijfqXWGXpqhGK2MD0GCv6NdLnyd3OARSbyHiKHMfL+fwmzdp2o4cCWKOR+4x2ldma8ZVaPOkwjIx1ZudDjTlg1V69g8J2bt/bSEb/yFolS4icOQhcBzNjE1eV/lSndl5M4937kqs7Ao/FNR9/M/+MUlvHta9Yx8ykzShw5SOGMLh0gorYUZVevh7TkI+Sj2aXortn0waQH3KWSZcCyoMcQQImyDTFlw9gCemGIMfc/82xLiJX8ANpK6PC8J+atXufMOzUBH05s0+eQnvsl6bAcYLWRpt+DSt8dAWKoKRept5eQQ0fdpziVaXz9uNLDL7z0HjCYAnsaSGzEi5BLq1z/AzmcihEnWFuunPw==;gQ/aoesL/8+kMpaInvyENA=="
+secured: "LeXpdQJ1fZ+ccybUZ4RAXtRlZTjfWOE3qTuLe7CPRR7BCDcePauG9wcm5HaRHONboGc8beaUE4f4MZRs0hchwrkMwB+rKfoLHGdIc3paOABj4piwZQaljWrM2L1LwTJW5Fl5Gl70hVMJtttxuKOOZsfHOesTZhIFv52KbYYHvvfUjAklmRsb+WiijK3daYlxeZCg8PbDGHMb1D66GZ0eQADYDieICjrQpOuBtt9RDoJEswOlkBYLKi5pQCLOT4aJvpaoKB5QCafnDKg/f1vChg6ZdMYFWtLxJhVekv+JX5MMCgqbz4nQccrpDkCr9O/4Ce2Knl08agQ7JyFNvdMOQs1SI+5+G0AiNZhlXaj7xok=;/UhU/O9zJzrJzK5dPjy7zw=="
 ---
 

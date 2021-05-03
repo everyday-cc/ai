@@ -1,0 +1,86 @@
+---
+category: news
+title: "Pressure grows on banks to abandon facial recognition tech"
+excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."
+publishedDateTime: 2021-05-03T18:50:00Z
+originalUrl: "https://www.americanbanker.com/news/pressure-grows-on-banks-to-abandon-facial-recognition-tech"
+webUrl: "https://www.americanbanker.com/news/pressure-grows-on-banks-to-abandon-facial-recognition-tech"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: American Banker
+  domain: americanbanker.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://arizent.brightspotcdn.com/dims4/default/73f29ba/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fdb%2F7d%2F24c099b84f4c91c3d81fc93e68e3%2Fab-050321-face-2.jpeg"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "China Publishes Draft Security Standard on Facial Recognition"
+    excerpt: "On April 23, 2021, the National Information Security Standardization Technical Committee of China published a draft standard (in Chinese) on Security Requirements of Facial Recognition Data"
+    publishedDateTime: 2021-04-29T17:28:00Z
+    webUrl: "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition"
+    ampWebUrl: "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 76
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "What cities must do to responsibly deploy facial recognition solutions"
+    excerpt: "The National League of Cities has published recommendations for guiding conversations around how facial recognition technology is being implemented."
+    publishedDateTime: 2021-04-29T20:46:00Z
+    webUrl: "https://gcn.com/articles/2021/04/29/nlc-facial-recognition.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognition2.png"
+        width: 760
+        height: 368
+        isCached: true
+  - title: "King County government must turn its back on facial recognition technology"
+    excerpt: "Whatever other concerns we might have about facial recognition technology — it poses a serious threat to our privacy and particularly to that of marginalized populations and communities."
+    publishedDateTime: 2021-04-30T20:51:00Z
+    webUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/"
+    ampWebUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+  - title: "Nuance and focus the watchwords on facial recognition for more privacy officials"
+    excerpt: "The missing component required for public acceptance of facial recognition is trust. Government missteps and vacillation have engendered little of it."
+    publishedDateTime: 2021-04-30T14:05:00Z
+    webUrl: "https://www.biometricupdate.com/202104/nuance-and-focus-the-watchwords-on-facial-recognition-for-more-privacy-officials"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
+        isCached: true
+
+secured: "Q7OxJL12+p7JkpkUOFQwulif3SRREoHw1VNd92qgc9Ptqea1cZYcz4qCMWs4d9//rfRBJ+oTdBVRwvaXFTopI8Y9VDMRxctiwlVk5QvTpbfunj+UQqSDjfuYUxTK/ms/xEcvMQ19ZaHI/TL2uiNb0LIfr0VtBIF76UpwEJxaIhNphvzl3Bng53s8PXDrIMT/P60zMLjrPT1yI00LpXI8PZYqo7jHcLhmZHyprugtZunBC3ZC0A4wF3KeIBGdm1aWCbODuI23yipy3jLH0Hw+fmd9hOs8Oq0Nzn+UbNVdKUX/K1oZ+T73gGt07hSEyL0zH0c+IxBpb7on4N0S69Il8KnHCv75jJZpIB00zS6ne/I=;sLZnGk4+vBUAxkDoDkTspg=="
+---
+

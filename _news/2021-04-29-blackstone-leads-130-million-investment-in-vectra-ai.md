@@ -74,22 +74,6 @@ related:
         width: 748
         height: 438
         isCached: true
-  - title: "Top 5 Cybersecurity trends FinTech cos must pay attention to in 2021"
-    excerpt: "Fintech service providers are considered to be torchbearers in digital financial services, particularly in the post-COVID world. They have been catalyzing and accelerating the economy in great manners during this pandemic."
-    publishedDateTime: 2021-04-29T03:30:00Z
-    webUrl: "https://www.dqindia.com/top-5-cybersecurity-trends-fintech-cos-must-pay-attention-2021/"
-    ampWebUrl: "https://www.dqindia.com/top-5-cybersecurity-trends-fintech-cos-must-pay-attention-2021/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/top-5-cybersecurity-trends-fintech-cos-must-pay-attention-2021/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 44
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/Fintech-segments-that-are-poised-to-prosper-in-2021.jpg"
-        width: 800
-        height: 420
-        isCached: true
   - title: "Vectra AI Raises $130 Million led by Blackstone Growth (BXG)"
     excerpt: "Vectra AI, a leader in threat detection and response, today announced a $130 million round of funding led by funds managed by Blackstone Growth (BXG, \"Blackstone Growth\"). The investment will help fuel Vectra's continued growth through"
     publishedDateTime: 2021-04-29T12:50:00Z

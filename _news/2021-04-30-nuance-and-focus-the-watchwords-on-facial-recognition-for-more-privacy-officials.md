@@ -66,6 +66,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Pressure grows on banks to abandon facial recognition tech"
+    excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."
+    publishedDateTime: 2021-05-03T18:50:00Z
+    webUrl: "https://www.americanbanker.com/news/pressure-grows-on-banks-to-abandon-facial-recognition-tech"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/73f29ba/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fdb%2F7d%2F24c099b84f4c91c3d81fc93e68e3%2Fab-050321-face-2.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "c/Vlac6urg6F8GILzObdZ3+lN2AzlVv9TPWFkqsMYEQd/Zke1e3T8+fFo3orw77zH/tzuEraDSM9l6m8SBQYIc7u2TO2ZG+ENeVSG6g4RKCtoKOR0uQQacRsHaxVaLkPAPY2R88+/0ZIFp2H5br0rW9me7G4/Nh5yN49D9w44FnZCm8CdpC+BbzNYAnep09Zg4i5xYoTOo4ocYOOv1+etwuj0XdyzzNTzISZUsVTOGuznWv9u301K9tfNbbqKbuUds/+eiCuNnUkgmW30hPurSEGeb9qhS2fKnMEWhPv4GtZfhNNR35XkP2ei6Zxf3jgSZPNN1ZS383E5JNc08Ikt9NUWAcYFmEjkwm1tJeHawhl6z5P6qcy27OVf810zolNPuUduyO9cO6cvwE6Ujo4laPSlXtyMiSYgxaRGSD7DAazXgufZ41srsk0z/rQ3SqEK09l3itUbBZqXVK1y7jqpV55jetPG8bGgFYI02ms9sbOaNFBViNy7N49lX+HUFgZjq6AVMiProfO6VwRjalbhA==;+FVSApQ83wf5ZVuXDPLhZQ=="
 ---
