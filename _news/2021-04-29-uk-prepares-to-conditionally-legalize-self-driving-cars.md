@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
       - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/04/GettyImages-168495211-ae2e539.gif?quality=90&crop=4px,51px,913px,393px&resize=960,413"
         width: 960
         height: 413
-        isCached: true
-  - title: "UK signals self-driving cars could hit road this year"
-    excerpt: "Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel."
-    publishedDateTime: 2021-04-28T18:24:00Z
-    webUrl: "https://techxplore.com/news/2021-04-uk-self-driving-cars-road-year.html"
-    ampWebUrl: "https://techxplore.com/news/2021-04-uk-self-driving-cars-road-year.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-uk-self-driving-cars-road-year.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/vehicles.jpg"
-        width: 1920
-        height: 1368
         isCached: true
   - title: "UK signals self-driving cars could hit road this year"
     excerpt: "LONDON: Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel. The Department for Transport (DfT) said in a statement that it will allow hands-free driving in cars equipped with lane-keeping technology,"

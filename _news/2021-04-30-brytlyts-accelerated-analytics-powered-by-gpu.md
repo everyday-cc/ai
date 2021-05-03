@@ -24,6 +24,22 @@ images:
     height: 907
     isCached: true
 
+related:
+  - title: "How Artificial Intelligence is Revolutionizing Banking with Predictive Analytics"
+    excerpt: "Every day, artificial intelligence (AI) breaks new ground. As a result, it's no surprise that AI is quickly emerging as a critical innovation engine in banking operations. AI is expected to increase the banking and financial services industry by at least USD 1."
+    publishedDateTime: 2021-05-03T11:06:00Z
+    webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-revolutionizing-banking-with-predictive-analytics-nid-7631.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 32
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/4fc8c450308w.jpg"
+        width: 450
+        height: 308
+        isCached: true
+
 secured: "wbwXc2RFPIA8CaeEMERTHhDIOUXFweCsI44p73tVmGvXbaWK6F2ISWdZHXDmP8qItqzTHpVUB2YsR7UnuxJ+ON4yquOkq3WflFlccBYX2+wcAZl9TGwqJVvQJ2NQmOAzOZUZS0yo5I4TIcTau6E0q0lKfx1tjbZ5DwDgkOkdV0O0jAs5I6+QptXt6zCHNmUjXfJC4TcrI7YJbe/jX+t4sjpUNYsBd+/Xo5fA3J78Cn670VBDrK18SrpbnA0FQmyTItpD8GTIC2791lefgR4I7mlsPNrlGQ6QF0GQ8I1vjy8gAee88gPNDQWqDpthynm8Q/9tC/yV0LQhwYA3aLSA7xInLQnt47CIRPnzkhBf/FU54FRhq/6C2wP6i2FDYJH2px2GUBzUVCFxZjoe7YBkdsBB2UYJHzahRQSS/ENuETmYngOXbCVVK4y5qvzm5kxXwk9ObCQ9/4SDdzDaaKpdNr0X+N5sZ4paXypHwScX8r58+mOmMgcYQVesZgy+bPrZS21LXbR8HPgWxUDE7yWr5g==;JlmICWGE/f7dtNAp4Y9YgA=="
 ---
 

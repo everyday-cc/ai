@@ -43,17 +43,6 @@ related:
         width: 685
         height: 449
         isCached: true
-  - title: "Artificial Intelligence Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
-    excerpt: "Global Artificial Intelligence market is estimated to reach 196 7 billion in 2027 by growing at a CAGR of 25 2 during the forecast period 2021 2027 This growth is attributed to increasing research and development R D owing to"
-    publishedDateTime: 2021-04-28T17:20:00Z
-    webUrl: "https://www.openpr.com/news/2277017/artificial-intelligence-market-to-2027-future-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
   - title: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights"
     excerpt: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights Posted on May 3 2021 5:25 AM Some of the key players in the military robots market such as Northrop Grumman Corporation (The U."
     publishedDateTime: 2021-05-03T08:52:00Z

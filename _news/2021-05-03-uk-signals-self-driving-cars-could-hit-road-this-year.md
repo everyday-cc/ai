@@ -105,22 +105,6 @@ related:
         width: 960
         height: 413
         isCached: true
-  - title: "UK signals self-driving cars could hit road this year"
-    excerpt: "Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel."
-    publishedDateTime: 2021-04-28T18:24:00Z
-    webUrl: "https://techxplore.com/news/2021-04-uk-self-driving-cars-road-year.html"
-    ampWebUrl: "https://techxplore.com/news/2021-04-uk-self-driving-cars-road-year.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-uk-self-driving-cars-road-year.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/vehicles.jpg"
-        width: 1920
-        height: 1368
-        isCached: true
   - title: "The UK will allow self-driving cars on its roads in 2021, and some hope they will put an end to traffic"
     excerpt: "The UK government will allow vehicles fitted with lane-keeping systems to drive on motorways later this year."
     publishedDateTime: 2021-04-29T07:31:00Z

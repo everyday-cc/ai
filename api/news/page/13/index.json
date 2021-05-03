@@ -2,49 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2021-04-19-why-transformer-model-for-natural-language-processing.md",
-      "title": "Why Transformer Model for Natural Language Processing?",
-      "excerpt": "Natural Language Processing models have a varied range of applications in every possible field. A transformer model is a remarkable innovation that’s made NLP look lot easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/",
-      "originalUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Natural-Language-Processing.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/?amp",
-      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/?amp",
-      "publishedDateTime": "2021-04-19T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-19-artificial-intelligence-in-healthcare-market.md",
       "title": "Artificial Intelligence in Healthcare Market",
       "excerpt": "This report studies the Artificial Intelligence in Healthcare Market size, industry status and forecast, competition landscape and growth opportunity. This research report categorizes the Artificial Intelligence in Healthcare Market by companies,",
@@ -1096,6 +1053,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-artificial-intelligence-robotics-new-heights-in-healthcare.md",
+      "title": "Artificial Intelligence, robotics new heights in healthcare",
+      "excerpt": "Artificial Intelligence (AI) and robotics are used in transforming the world of the health industry and also offer an awesome strategy with much care. It puts the customers in control of the health and also the well-being.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "originalUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypioneer.com/images/logo.jpg",
+          "width": 325,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pioneer",
+        "domain": "dailypioneer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

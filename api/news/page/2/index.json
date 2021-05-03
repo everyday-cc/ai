@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-30-how-your-voice-can-help-spot-fraud.md",
-      "title": "How Your Voice Can Help Spot Fraud",
-      "excerpt": "It’s a newish field,” said Nigel Cannings, CTO and founder of Intelligent Voice. “We’re trying to detect fraud using indicators of deception.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b689bd48145be176050b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1106%26cropY1%3D89%26cropY2%3D628",
-          "width": 1106,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/amp/",
-      "publishedDateTime": "2021-04-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-30-from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter.md",
       "title": "From Coral Reefs To Assembly Lines, Computer Vision Gives New View On How To Work Smarter",
       "excerpt": "Once a thing of science fiction, the vast uses for computer vision technology are now clear. Advancements in artificial intelligence (AI) over the past 10 years have helped scientists develop computer vision technology – an AI application that allows computers to “see” their surroundings and make these visual inputs actionable with 99% accuracy.",
@@ -357,7 +305,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -1205,6 +1153,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-computer-vision-in-ai-the-data-needed-to-succeed.md",
+      "title": "Computer vision in AI: The data needed to succeed",
+      "excerpt": "Developing the capacity to annotate massive volumes of data while maintaining quality is a function of the model development lifecycle that enterprises often underestimate. It’s resource intensive and requires specialized expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
+      "originalUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/VA5_Laptop_1200.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
+      "publishedDateTime": "2021-04-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

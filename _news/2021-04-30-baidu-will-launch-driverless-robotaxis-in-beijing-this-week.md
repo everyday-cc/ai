@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/"
 type: article
 quality: 104
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -228,6 +228,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F6%252F9%252F3%252F33963963-5-eng-GB%252FCropped-161980631120210430N%2520Baidu%2520taxi.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Baidu Launches Self-Driving Robotaxi Service, Ready for the 2022 Winter Olympics"
+    excerpt: "Chinese users can hail a self-driving robotaxi to go about their business. The fully driverless Apollo Go service will first launch in Beijing's Shougang Park, one of the venues for the 2022 Beijing Winter Olympics,"
+    publishedDateTime: 2021-05-03T10:10:00Z
+    webUrl: "https://www.autoevolution.com/news/baidu-launches-self-driving-robotaxi-service-ready-for-the-2022-winter-olympics-160483.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 34
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/baidu-launches-self-driving-robotaxi-service-ahead-of-2022-winter-olympics-160483-7.jpg"
+        width: 728
+        height: 300
         isCached: true
   - title: "Baidu to Open China's First Public Commercial Robotaxi Service Without Safety Drivers on May 2"
     excerpt: "China’s technology giant Baidu Inc. is launching the first commercial robotaxi service in the country on May 2 after months of successful testing using safety drivers. Beginning next week, members of the public can hail one of Baidu’s driverless vehicles without a safety driver behind the wheel."

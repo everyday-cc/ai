@@ -2,49 +2,6 @@
   "page": 50,
   "value": [
     {
-      "path": "_news/2021-03-09-vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support.md",
-      "title": "VMware-Nvidia Alliance Expands With New vSphere GPU Support",
-      "excerpt": "VMware and Nvidia have expanded their alliance to make it easier for enterprises to run GPU-accelerated AI applications in existing data center infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/data-center/vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support",
-      "originalUrl": "https://www.crn.com/news/data-center/vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0267-11c18f8af132-eca68eef49b0-1000/vmware-nvidia-ai-ready-platform.jpg",
-          "width": 610,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-09-ucf-starts-new-masters-degree-program-in-computer-vision.md",
       "title": "UCF Starts New Master’s Degree Program in Computer Vision",
       "excerpt": "A new master’s degree in computer vision at the University of Central Florida to begin this fall will give technology professionals proficiency in a burgeoning field that relies on artificial intelligence to make computers perform complex tasks faster and more accurately than a human.",
@@ -1128,6 +1085,58 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images.md",
+      "title": "Facebook’s new computer vision model achieves state-of-the-art performance by learning from random images",
+      "excerpt": "Learn more. Facebook today announced an AI model trained on a billion images that ostensibly achieves state-of-the-art results on a range of computer vision benchmarks. Unlike most computer vision ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/",
+      "originalUrl": "https://venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/SEER-HEROimage-e1614752416726.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/amp/",
+      "publishedDateTime": "2021-03-04T08:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

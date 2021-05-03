@@ -55,50 +55,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-01-attabotics-partners-with-altaml-and-amii-on-artificial-intelligence-and-machine-learning-capabilities-for-supply-chains.md",
-      "title": "Attabotics Partners With AltaML and Amii on Artificial Intelligence and Machine Learning Capabilities for Supply Chains",
-      "excerpt": "Attabotics, a 3D robotics supply chain company, today announced a partnership with AltaML, a Canadian applied artificial intelligence and machine learning company, and the Alberta Machine Intelligence Institute (Amii),",
-      "sourceUrl": null,
-      "webUrl": "https://www.supplychainbrain.com/articles/33021-attabotics-partners-with-altaml-and-amii-on-artificial-intelligence-and-machine-learning-capabilities-for-supply-chains",
-      "originalUrl": "https://www.supplychainbrain.com/articles/33021-attabotics-partners-with-altaml-and-amii-on-artificial-intelligence-and-machine-learning-capabilities-for-supply-chains",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-Feb-2021-LG.jpg?crop=1&height=348&t=1612363704&width=271",
-          "width": 271,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain",
-        "domain": "supplychainbrain.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-04-30-understanding-ai-and-machine-learning-concepts-to-build-your-ai-leadership-brain-trust.md",
       "title": "Understanding AI And Machine Learning Concepts To Build Your AI Leadership Brain Trust.",
       "excerpt": "This blog is the latest in the AI Leadership Brain Trust series which defines 50 key competencies required to build a world-class AI center of excellence in a large enterprise. This blog defines basic AI and ML terms for board directors and CEOs to step up their knowledge know-how and stay relevant.",
@@ -615,19 +571,19 @@
     {
       "path": "_news/2021-04-27-capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages.md",
       "title": "CAPQ™ System: The Only Deep Learning/AI Vision Inspection System for Bottled Beverages",
-      "excerpt": "FISHERS, Ind., April 27, 2021 /PRNewswire/ -- The CAPQ TM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level ...",
+      "excerpt": "The CAPQTM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level inspection. The CAPQ System uses AI-powered deep learning software to recognize what a “good” capped bottle is supposed to look like and can deliver a dramatic reduction in false-rejects,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages-301277179.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages-301277179.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1496689/Verista_horiz_full_color_Logo.jpg?p=facebook",
-          "width": 2503,
-          "height": 1312,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -637,11 +593,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T07:05:00-07:00",
+      "publishedDateTime": "2021-04-27T09:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1460,6 +1416,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-global-machine-learning-market-outlook-industry-analysis-and-prospect-2021.md",
+      "title": "Global Machine Learning Market Outlook, Industry Analysis and Prospect 2021",
+      "excerpt": "Machine learning (ML) is an emerging artificial intelligence (AI) technology which is being adopted aggressively by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-21-191753937",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-21-191753937",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

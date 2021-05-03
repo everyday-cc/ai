@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-03-10-the-structure-dilemma-in-biological-and-artificial-neural-networks.md",
-      "title": "The structure dilemma in biological and artificial neural networks",
-      "excerpt": "Going far beyond the obvious macroscopic structure of the brain, which hardly differs between human individuals, various authors postulated a coupling of structure and function 1, 2, 3. Neurons, hubs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-84813-6",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-84813-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-84813-6/MediaObjects/41598_2021_84813_Fig1_HTML.png",
-          "width": 531,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T07:33:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-10-raspberry-pi-machine-learning-with-tensorflow-lite.md",
       "title": "Raspberry Pi machine learning with TensorFlow Lite",
       "excerpt": "Check out the video below for an introduction into the proof of concept tutorial. “TensorFlow Lite allows you to take the same ML models used with TensorFlow (with some tweaks) and deploy them ...",

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Proton range verification with MACACO II Compton camera enhanced by a neural network for event selection"
-    excerpt: "MACACO, a multi-layer Compton camera based on LaBr 3 scintillator crystals and SiPMs, is being developed at IFIC-Valencia for this purpose. This work reports the results obtained from measurements of a 150 MeV proton beam impinging on a PMMA target."
-    publishedDateTime: 2021-04-29T11:14:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-88812-5"
+  - title: "Machine learning applied to near-infrared spectra for clinical pleural effusion classification"
+    excerpt: "Pleural effusion is an abnormal accumulation of fluid in the pleural cavity. Two types of pleural effusions in clinics are: (1) transudative pleural effusion, resulting from fluid leaking into the pleural cavity,"
+    publishedDateTime: 2021-05-03T10:56:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-87736-4"
     type: article
     provider:
       name: Nature
       domain: nature.com
-    quality: 24
+    quality: 27
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-88812-5/MediaObjects/41598_2021_88812_Fig1_HTML.png"
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-87736-4/MediaObjects/41598_2021_87736_Fig1_HTML.png"
         width: 685
-        height: 430
+        height: 307
         isCached: true
 
 secured: "ysRjOCWIbJdEwllrBAl3srIXEPcBodgMVodDzPzODXscCn0D2ZP3E4FP/2Jv06oDahZNWRgH5FLQSjR7JZQL1TX+TQNJabF2xcsnzhgXkBO2tkZrH5PYcMGqhK6n1nGZRqIz2ghihom4l69OlLgpgZ+CXwELBk82M1jE5sLBWerRNpbDLAnwfgJaCr3e0s6Ry9NzpZwa1zrTS63YRfnE/zwmlCk6MEYW9TSpcprhCvGa9TwDCCUTLUAixck7P3ALd5M1LBs//rsvXWe1jzSQa2m7VvhB81T6ULDYTtto23m07Zsx+DS+4tEuipowdJOrqzbg9+zq3eQ6CwNXTQsfWiTPrera70jKpQA0SElx580=;ZZFhheYVOTJG8v1WWAA2pg=="

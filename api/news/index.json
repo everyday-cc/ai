@@ -115,7 +115,7 @@
       "originalUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -742,50 +742,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-01-attabotics-partners-with-altaml-and-amii-on-artificial-intelligence-and-machine-learning-capabilities-for-supply-chains.md",
-      "title": "Attabotics Partners With AltaML and Amii on Artificial Intelligence and Machine Learning Capabilities for Supply Chains",
-      "excerpt": "Attabotics, a 3D robotics supply chain company, today announced a partnership with AltaML, a Canadian applied artificial intelligence and machine learning company, and the Alberta Machine Intelligence Institute (Amii),",
-      "sourceUrl": null,
-      "webUrl": "https://www.supplychainbrain.com/articles/33021-attabotics-partners-with-altaml-and-amii-on-artificial-intelligence-and-machine-learning-capabilities-for-supply-chains",
-      "originalUrl": "https://www.supplychainbrain.com/articles/33021-attabotics-partners-with-altaml-and-amii-on-artificial-intelligence-and-machine-learning-capabilities-for-supply-chains",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-Feb-2021-LG.jpg?crop=1&height=348&t=1612363704&width=271",
-          "width": 271,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain",
-        "domain": "supplychainbrain.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-05-01-a-scientist-created-emotion-recognition-ai-for-animals.md",
       "title": "A scientist created emotion recognition AI for animals",
       "excerpt": "A researcher at Wageningen University & Research recently published a pre-print article detailing a system by which facial recognition AI could be used to identify and measure the emotional state of farm animals.",
@@ -1235,6 +1191,58 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-how-your-voice-can-help-spot-fraud.md",
+      "title": "How Your Voice Can Help Spot Fraud",
+      "excerpt": "It’s a newish field,” said Nigel Cannings, CTO and founder of Intelligent Voice. “We’re trying to detect fraud using indicators of deception.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b689bd48145be176050b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1106%26cropY1%3D89%26cropY2%3D628",
+          "width": 1106,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/amp/",
+      "publishedDateTime": "2021-04-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

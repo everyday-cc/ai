@@ -2,58 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-04-20-how-face-recognition-can-destroy-anonymity.md",
-      "title": "How Face Recognition Can Destroy Anonymity",
-      "excerpt": "Cameras are everywhere, and increasingly powerful software can pick an individual out of a crowd. Except sometimes algorithms get it wrong.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/",
-      "originalUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/607e24ad084a1594b46b28c1/master/pass/face_recognition_jpeg0.jpg",
-          "width": 2000,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-face-recognition-destroy-anonymity/amp",
-      "publishedDateTime": "2021-04-20T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-20-anari-ai-raises-2m-to-rebuild-the-ai-hardware-industry-through-personalized-cloud-chips.md",
       "title": "Anari AI Raises $2M to Rebuild the AI Hardware Industry Through Personalized Cloud Chips",
       "excerpt": "Anari AI raised $2 million in seed funding led by Earlybird VC, to rebuild the AI hardware industry from scratch.",
@@ -1138,6 +1086,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-why-transformer-model-for-natural-language-processing.md",
+      "title": "Why Transformer Model for Natural Language Processing?",
+      "excerpt": "Natural Language Processing models have a varied range of applications in every possible field. A transformer model is a remarkable innovation that’s made NLP look lot easier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/",
+      "originalUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Natural-Language-Processing.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/?amp",
+      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/?amp",
+      "publishedDateTime": "2021-04-19T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

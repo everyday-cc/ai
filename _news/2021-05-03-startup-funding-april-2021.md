@@ -38,15 +38,6 @@ related:
         width: 1281
         height: 818
         isCached: true
-  - title: "The Artificial Intelligence Explosion in Industrial Automation"
-    excerpt: "From supply chain and workforce training to automated quality inspections, artificial intelligence capabilities are being added to automation technologies at a rapid pace and are changing not only what can be done with these technologies,"
-    publishedDateTime: 2021-04-28T18:36:00Z
-    webUrl: "https://www.automationworld.com/Take5/video/21403711/take-five-video-ai-integration-with-supply-chain-training-and-quality-inspection-technologies"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 17
 
 secured: "oX9o+oGtrNiNyu/Xnd8ot2+Pkrsh5NBI++csoiXTzuN/OqdnoiIK3usy10v3UgASE1n/Yich9eUgun0tbUTS9w2eari84zGQSqU8c3mzc3MbB/xBZEMd+x5GpmjvxJKVs4FHe8fRrQOWkCHc0VPlvXMVP4KBVD4BYtH9sDs8hHeLx954WmnuoOwyFtlBQFyNYP9js0mcVygjLHujjwZRq44nUa7FjY8lgTZhilAQTxyY+ThujO5MnIBEA1dd00WHT7MYD3mTWMyKHTos+vDvg3JGcvoQr6comriBLHphrkCQ2+JjxZpB990xj/oDPjsUc07HwOZAyEK+kffOn8mG4wmsVpk4TJSE/stOPuZkKcvq1tz0mSRPHUX9qBPx4jff1grdfao1c1huqvY57CieVKHwI1KoHk9ne/e7zGpwjjrp/ZbxLESbmxD4PArCDkuhLdcwoIGQFhMC2rFWsnqvcXfpBAhUJVUPYmt4sgdHOyEf4RVJe9U3nwd6XdFaDqBXB0cbDitdyK0nh4rqUlJtRQ==;mJLZtWQ/409kX+SveuF4UA=="
 ---

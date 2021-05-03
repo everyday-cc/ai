@@ -140,6 +140,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Artificial Intelligence in Marketing Market to See Massive Growth by 2027 | IBM Corporation, Microsoft Corporation, General Vision and More"
+    excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence in Marketing Market report is anticipated to perform more robustly in the coming years,"
+    publishedDateTime: 2021-05-03T11:28:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-in-marketing-market-to-see-massive-growth-by-2027-ibm-corporation-microsoft-corporation-general-vision-and-more/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 19
   - title: "A High Accuracy Multiple-Command Speech Recognition ASIC Based on Configurable One-Dimension Convolutional Neural Network"
     excerpt: "Speech command interaction has drawn much attention in smart application market. Many of previous chips achieve an ultra-low power consumption at the cost of a certain accuracy loss, and they are designed only for the fixed speech command recognition tasks,"
     publishedDateTime: 2021-04-29T14:26:00Z
@@ -149,6 +158,15 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 11
+  - title: "Artificial Intelligence Market to Eyewitness Huge Growth by IBM Corporation, Microsoft Corporation, General Vision, Enlitic, Inc."
+    excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence Market report is anticipated to perform more robustly in the coming years, and its potential will steer the market to be positioned between the world’s most remunerative industries."
+    publishedDateTime: 2021-05-03T11:28:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-market-to-eyewitness-huge-growth-by-ibm-corporation-microsoft-corporation-general-vision-enlitic-inc/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 7
 
 secured: "FNGqTy4p6OGO7reUb4ZOnrWP1mqMkpHRN+HFenbIWvHx1G1Yw5WbnZjduAgEJ315eDUuM6siAtGXlc8ZBEk8ib7GO6k3fmpvciL+i6mnUNbo75bX8o9nWRgpfpOdTHuZEwwpj9MuMsDSpTP0uaWxtuO3n0vVzKAXetev58VM4CYJJr4gcQn1sECASkwggr1Ud0eplZHW18mOtyj63JMpF9osFwc194kpVlgZNU/eHcNeLLcXUyHy4igfkvxAiW0z0xMIVKFZSs46f5FxvRZRunCKkHrFhajGEznEgylNbO7Z7xKhrT7DBrr6dHho+ljUOMJt8vs86DbtWBCxrIV4ltlprIqw4NuGhFdTMw5e1Ps=;eKpXad0FS8ph74AYZ1DpXw=="
 ---

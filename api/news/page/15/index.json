@@ -2,59 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-04-16-artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market Share Current and Future Industry Trends, 2020-2026",
-      "excerpt": "Selbyville, Delaware, As per the report titled ' Artificial Intelligence (AI) Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-04-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-04-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2021-04-16-india-vaccine-exclusion-fears-over-digital-id-face-recognition.md",
       "title": "India: Vaccine exclusion fears over digital ID, face recognition",
       "excerpt": "Millions at risk of missing out on vaccines as India uses national digital identity for registration and pilots facial recognition technology at inoculation centres. A health worker readies a ...",
@@ -1105,6 +1052,60 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-cruises-head-of-artificial-intelligence-wants-the-autonomous-car-startup-to-be-defined-by-its-ai-innovation.md",
+      "title": "Cruise's head of artificial intelligence wants the autonomous-car startup to be defined by its AI innovation",
+      "excerpt": "Hussein Mehanna thinks machine learning is going to set Cruise apart, and he told Insider how companies could become \"AI natives\" in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4",
+      "originalUrl": "https://www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6070b4644943790018bb1bc4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4?amp",
+      "publishedDateTime": "2021-04-15T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "Facebook AI"
       ]
     }
   ],

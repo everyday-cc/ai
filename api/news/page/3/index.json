@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-04-29-computer-vision-in-ai-the-data-needed-to-succeed.md",
-      "title": "Computer vision in AI: The data needed to succeed",
-      "excerpt": "Developing the capacity to annotate massive volumes of data while maintaining quality is a function of the model development lifecycle that enterprises often underestimate. It’s resource intensive and requires specialized expertise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
-      "originalUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/VA5_Laptop_1200.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
-      "publishedDateTime": "2021-04-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-29-emam-announces-support-for-the-aws-media-entertainment-initiative.md",
       "title": "EMAM announces support for the AWS Media & Entertainment Initiative.",
       "excerpt": "EMAM announces support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to accelerate the adoption of cloud media",
@@ -502,7 +459,7 @@
       "originalUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1231,6 +1188,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending.md",
+      "title": "How Shopify aims to level the playing field with its machine learning-driven model of lending",
+      "excerpt": "Shopify is widely known for giving independent merchants a platform to start, run, market and manage their businesses. But over the past 5 years, the company has been steadily growing another part of its own business: Shopify Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/",
+      "originalUrl": "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1169040174.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/28/how-shopify-aims-to-level-the-playing-field-with-its-machine-learning-driven-model-of-lending/amp/",
+      "publishedDateTime": "2021-04-28T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
       ]
     }
   ],
