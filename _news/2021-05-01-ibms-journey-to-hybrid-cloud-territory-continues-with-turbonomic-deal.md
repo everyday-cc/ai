@@ -121,20 +121,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "An IBM exec says the $1.5 billion purchase of AI firm Turbonomic will supercharge its hybrid cloud push as it fights off Amazon and Microsoft"
-    excerpt: "This latest deal is part of IBM's push to reinvent itself as a modern company and double down on hybrid cloud, IBM VP Rob Thomas told Insider."
-    publishedDateTime: 2021-04-30T18:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-rob-thomas-turbonomics-acquisition-ai-hybrid-cloud-aiops-2021-4-1030371513"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://images2.markets.businessinsider.com/608b5dff34af8d001859a0a9?format=jpeg"
-        width: 701
-        height: 526
-        isCached: true
   - title: "IBM Spends Up To $2B To Buy Turbonomic In AI Push"
     excerpt: "IBM will integrate Turbonomic’s ARM software with Instana’s APM and observability capabilities plus the ITOps capabilities of IBM Cloud Pak for Watson AIOps. By Wade Tyler Millward April 29, 2021, 01:12 PM EDT IBM hopes to boost its enterprise automation offerings with the planned purchase of Turbonomic in a deal reportedly valued at up to $2 billion."
     publishedDateTime: 2021-04-29T17:12:00Z
@@ -227,6 +213,15 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
+    quality: 19
+  - title: "IBM to acquire Turbonomic to expand AIOps business"
+    excerpt: "IBM entered a definitive agreement to acquire Turbonomic, an Application Resource Management (ARM) and Network Performance Management (NPM) software provider based in Boston. The acquisition will provide businesses with full stack application observability and management to assure performance and minimise costs using AI to optimise resources – such as containers,"
+    publishedDateTime: 2021-05-03T07:15:00Z
+    webUrl: "https://www.telecompaper.com/news/ibm-to-acquire-turbonomic-to-expand-aiops-business--1381609"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 19
 
 secured: "b6a3QQjVJ9YoInDYVF4wf3kbzG0Rjlza4bg+hVA7qqLostBueFUQUSPfSVjDUCujto9Z87fPDvbSbedaPg0z0KqdTKkz8+9Jw+nK/mjbyt8ogrKZSrqrYqrtWVXnjRmI9Hr4J4U9Cy1TIQXKrRvCgteEqNvZ4bDqZwzpa6Z5Dn5UnzvXQ2efLSXc5LnjCkMmcb9lMhg/FTdWLG8dNhVpVGAPdzwpSxNxzMifB+2EMY2daibWljeYVzOnS4+xb2EGhwOb/5w5sB/Sz73pqwtUxloSczNWkZIdRl7nGvpCwc3BrefI28SJy1KNQxX+a3XC/YqS70CIuCvCIA+NyGlAjMI8PIisc5Js7hYZgLz9PsToJHqv+EQlqb/keMTf40blu0tgkj+iPkY+EZk3PaelpyzBeT4IIP3MBbf3kH4LyZMWhpjRtfkRY7FAWSk3ZKUY+A5o7zDC54topr3Dzo27PU+TNvdlKHbfg+F81k9+x48fK8gXY1VV6ROxb0eyz6s/WJSTgVjNsUXqroyO8Fw2bA==;MhhQIuicgaW2F68YVrulzA=="

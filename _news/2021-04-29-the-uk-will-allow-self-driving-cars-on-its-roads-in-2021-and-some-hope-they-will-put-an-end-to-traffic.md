@@ -139,22 +139,6 @@ related:
         width: 784
         height: 480
         isCached: true
-  - title: "Lyft sells its self-driving division as it moves away from autonomous vehicles"
-    excerpt: "Lyft has decided it’s going to play things safe going forward. The rideshare company is getting out of the self-driving business altogether and is selling"
-    publishedDateTime: 2021-04-28T14:58:00Z
-    webUrl: "https://www.consumeraffairs.com/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
-    ampWebUrl: "https://www.consumeraffairs.com/amp/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
-    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
-    type: article
-    provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
-    quality: 40
-    images:
-      - url: "https://media.consumeraffairs.com/files/cache/news/Lyft_logo_concept_with_car_in_background_jetcityimage_Getty_Images_large.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Self-Driving Cars Approved In UK"
     excerpt: "The government said the use of Automated Lane Keeping Systems would be restricted to motorways at speeds under 37 miles (60 km) per hour."
     publishedDateTime: 2021-04-29T13:04:00Z
@@ -222,15 +206,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Self-driving vehicles to become legal in the UK this year"
-    excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."
-    publishedDateTime: 2021-04-28T13:53:00Z
-    webUrl: "https://iottechnews.com/news/2021/apr/28/self-driving-vehicles-legal-uk-this-year/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 4
 
 secured: "0rd7+lqGHg38RTNCd0Yd1oNVeQJIAp6ubiiotjU1liQBHv6RyekiZsewHTQxMCypo6IdfScv+EEa5ILF2gkRiZtLcBb61brO3XPmwcH7ar+vJ2Z2+NChLUxVKe450IuYQaqCSaTiT0RSGUtv6Civcg4Qd31zFyspCPKx4slqZBO4PLpxw/r8J9oj0o67POQUwjy8qichfcH1CqJL0dLrFmq+YHm3JReOgBxrUdkhOc4uUOpYUL72H00EaAKVqVy2/lre74QSRljnjzA5gmdP04kR0Fl0ugHxykARixvNiYb6Ufr7ZaFnkB3sEnuDPKcqC0KxU04Dtz1f/f2eE2j/c1TMQqC46V1ThPkZyUNgJHQZv5DOkiI6XARwVhhSK3ksVm+yt6EnA3jh1ahzwS7dj+V0wlhKNHLb9zvRH5oM/JJL84EVHtAq4vGBrrNGkqFaoi/mo91TRlTfWPWqIgOZGwjiW7NqACHtO+Wr6wWC1+OUGos59eyJL7MaLJVFU1HO0VYJPu9dd2lzbHRMjh5EVg==;3DHRBjHZ040UBGawr7srmw=="
 ---

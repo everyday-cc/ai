@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/"
 type: article
 quality: 104
-heat: 244
+heat: 254
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/04/30/eb7f4669-5ff8-4dff-9f4e-225845d30363/baidu-apollo-2.jpg"
         width: 3792
         height: 2528
+        isCached: true
+  - title: "Baidu launches China's first paid robotaxi service"
+    excerpt: "Chinese technology giant Baidu has launched what is says is the country's first commercial robotaxi service, which will see its Apollo self-driving vehicles shuttle paying customers around Beijing's Shougang Park without a safety driver onboard."
+    publishedDateTime: 2021-05-03T07:40:00Z
+    webUrl: "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/"
+    ampWebUrl: "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/cb1afed/2147483647/strip/true/crop/1385x923+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F16%2F7a%2F31e38f5d418f813406035fa5f07a%2Fbaidu-apollo-s-fully-driverless-robotaxis-motion.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Baidu rolls out paid driverless taxi service in Beijing"
     excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China."

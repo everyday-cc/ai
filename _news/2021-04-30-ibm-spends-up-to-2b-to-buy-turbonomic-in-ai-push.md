@@ -119,20 +119,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "An IBM exec says the $1.5 billion purchase of AI firm Turbonomic will supercharge its hybrid cloud push as it fights off Amazon and Microsoft"
-    excerpt: "This latest deal is part of IBM's push to reinvent itself as a modern company and double down on hybrid cloud, IBM VP Rob Thomas told Insider."
-    publishedDateTime: 2021-04-30T18:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-rob-thomas-turbonomics-acquisition-ai-hybrid-cloud-aiops-2021-4-1030371513"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://images2.markets.businessinsider.com/608b5dff34af8d001859a0a9?format=jpeg"
-        width: 701
-        height: 526
-        isCached: true
   - title: "IBM’s Journey To Hybrid Cloud Territory Continues With Turbonomic Deal"
     excerpt: "IBM has acquired Turbonomic, a Boston-based application resource management (ARM) and network performance management software provider."
     publishedDateTime: 2021-04-30T18:46:00Z
@@ -227,6 +213,15 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
+    quality: 19
+  - title: "IBM to acquire Turbonomic to expand AIOps business"
+    excerpt: "IBM entered a definitive agreement to acquire Turbonomic, an Application Resource Management (ARM) and Network Performance Management (NPM) software provider based in Boston. The acquisition will provide businesses with full stack application observability and management to assure performance and minimise costs using AI to optimise resources – such as containers,"
+    publishedDateTime: 2021-05-03T07:15:00Z
+    webUrl: "https://www.telecompaper.com/news/ibm-to-acquire-turbonomic-to-expand-aiops-business--1381609"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 19
 
 secured: "2SMhlW+YsCK1x1anRG8NOg/VampHc20/scL2AG5vO58DyYJEM3+FmCPMM5b7eqYAOvgiqsBiB5S7ck3NPuPU94KvHdZ5id7bcONY7QdnrqwthBogCM8GMeufqHU76HGpi9rcYaVwDvgBwA2vbUnkD8VXADk2C3budl5sZmOyfTSdRxwEiL5Ma/nD01YSg31H/+zYjMENbkzZVfCNqiKU5Tz83+Yvdxg3zqAbuKjm3tTzeNaENJU0A3gkdIY+cRTha6y2lojvRRfLFR8XWqaZ41wIE1k4oOdfUscDdyqjdFnVW8CukvAHBqxS/DmmvkqBBAMJ4T3ImzqOWw7yAzayoVr11KGVgSyDm4W0tZNVfvrA5PdkuxdX+fJ2Ch5lmw0tf8GWPLJmAd7CdS1BUSFn8bp8hl8BubcE51d5qtj9JHWa8tYNvb7vpB/J6VQCM/576G/ECWjjYoFYZuLIh2WlxP0Cdgs6N6dmbGttGKKpfSvoAkMO0LLiI86IcWzC/KIKP+Zv8BBQ/nxi+014k4sdwg==;yqET2YmMo5Kf78DYYTPa8Q=="

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-03-microsoft-buys-speech-recognition-conversational-ai-tech-firm.md",
+      "title": "Microsoft buys speech recognition, conversational AI tech firm",
+      "excerpt": "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
+      "originalUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r",
+      "publishedDateTime": "2021-05-02T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-the-financial-brand-launches-neobank-tracker.md",
       "title": "The Financial Brand Launches Neobank Tracker",
       "excerpt": "The Financial Brand, an online resource for retail banking, has launched the Neobank Tracker, a free, public online database that is indexed and searchable.",
@@ -1322,40 +1367,6 @@
       "provider": {
         "name": "CIOReview",
         "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-fts-international-inc-introduces-machine-health-automation-technology-to-global-manufacturing-leaders.md",
-      "title": "FTS International, Inc. Introduces Machine Health Automation Technology to Global Manufacturing Leaders",
-      "excerpt": "Last month, FTSI initiated its innovative machine ... fracturing service company with operations across multiple basins in the United States. To learn more, visit www.FTSI.com. Located on Wall Street in the heart of New York City’s financial district ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/fts-international-inc-introduces-machine-health-automation-technology-to-global-manufacturing-leaders/",
-      "originalUrl": "https://www.financialbuzz.com/fts-international-inc-introduces-machine-health-automation-technology-to-global-manufacturing-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null

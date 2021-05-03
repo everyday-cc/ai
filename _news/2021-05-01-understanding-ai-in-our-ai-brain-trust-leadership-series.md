@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Feature Engineering and Deep Learning for Stereo Matching Under Adverse Driving Conditions"
+    excerpt: "Stereo matching is a challenging research topic in driving assistance systems. Existing stereo matching methods work well under normal day-light conditions. However, they fail to operate under adverse driving conditions,"
+    publishedDateTime: 2021-04-30T15:01:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9417865"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 9
 
 secured: "eWv+0BTy3UONuqAwGkwtMJ2pCIYNMReXOBo9NY1fF028UufjefwXjc5vasagVU0wszOC+X/xJFPcLFoo6cUtkjWvnMyOMO9pj2AnxEHMxLxTtdS6JfxY5NVIn681QdUDCN7MNe0TIQdC0rUFs3zuqurA+eJYmp9Ep0nDDOxBDDKTkNxGP18Bdcbu6UGUKMuZ/ENAF/PpFD0zWzgPs1mfhrwij7GegWWTAKw5p+AV6g5u8GY9dGe3F3s2Plr+K6u8tAileTyKiH2Rb947DwPjT+0xpRmQIwkSe7wD21aYfk00BuXkmSYHJw11Gf6G1piZ/SCnZRIholmqoID2cz3E/insFkg06tiP6Zgkns5GhYwAWSIgghDC3jki/JTzl2Vp1LIKYlQ0I6zBlYkK67ajU8shpDy0fqq5byvjpqW1VFfZeAc72aLpC+OovmQ/dJ3Eeqb+WfpWyn8OQED7ioBP5sOQPLdmaFp0nMkq+QkSYHwQXlRb3M1dvNi7nyeHFU+TyfAm8611RZN/bwGHbzcl+A==;4rYuXjnjL08bDdnXuKxVKg=="
 ---

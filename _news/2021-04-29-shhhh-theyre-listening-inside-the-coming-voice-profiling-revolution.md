@@ -57,17 +57,6 @@ related:
         width: 767
         height: 418
         isCached: true
-  - title: "Shhhh, they're listening - inside the coming voice-profiling revolution"
-    excerpt: "All are listening and capturing people’s individual voices. They respond to your requests. But the assistants are also tied to advanced machine learning and deep neural network programs that analyze what you say and how you say it Amazon and Google – the leading purveyors of smart speakers outside China – appear to be doing little voice analysis on those devices beyond recognizing and responding to individual owners."
-    publishedDateTime: 2021-04-28T13:02:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Shhhh-they-re-listening-inside-the-coming-16135056.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Shhhh-they-re-listening-inside-the-coming-16135056.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Shhhh-they-re-listening-inside-the-coming-16135056.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 24
 
 secured: "+xrHzMkGwhE0y+WqLlvWuXbVPIDgmN5DfoPys+ii6U7J9UV4t3tS+WjcRaQJtzyB7SsBMcEVh2bOj+6nBvU4IauKAfrmjzEB4kQ/NMf55Ol8aOOCBH2huqfWWUN4rvXqqb1LDDzve/9z92m2SWKSuccYq+0OeKNtZesSZyUIa9n1DVrMJ9llBrYw4TuvLeTQPy7ZZapduCXA15Mcu/IkgQ2O4yALGRYQVTOqNboUWyMYVJiesYl5+W8i8/6r3BO9hY4ddAH4Ki0qphuS2+rOW1dCCAvCng3BnXmc/qdSQQV+SJIAYjnxkQueZRiQFqHK5rC6e2x66OTMh8HStcZhlz2zeMwkQ9HJ4tkxG10FSf8=;iWG0yIqG5rRBvCgtgs6ibg=="
 ---

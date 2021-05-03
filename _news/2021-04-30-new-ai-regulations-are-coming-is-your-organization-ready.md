@@ -40,20 +40,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Machines Learn That Brussels Writes the Rules: The EU’s New AI Regulation"
-    excerpt: "Europe’s new AI proposal sets out a nuanced regulatory structure with several important innovations. But the initiative also appears to have some surprising gaps."
-    publishedDateTime: 2021-04-28T14:51:00Z
-    webUrl: "https://www.lawfareblog.com/machines-learn-brussels-writes-rules-eus-new-ai-regulation"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 36
-    images:
-      - url: "https://www.lawfareblog.com/sites/default/files/49068069128_a42f87adaf_k.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "zaSjNylTPPax3+CSqgAzQMY+6v3ydvzxG250W0Kh0chuY38I0FbfknVMlsuzgBVjb/uBfd07FA3r3YbJtheMblcVHRRecL2aHVs2ArDScX5F+MwtlNBnID3TEZpT2BCw/FwFZ+vr6U2phL/wJnL69kRCO6G9SjFjYg53IW3fssOZE5/5jmfQaFeXV1gy54c8zqRFAEnlV1PQ71ApZhDPxY/OJOYG2Pb+pjfEWTFedsI9fcaAagNKLByB6vbvepq92tp9qc1n3zgsq7i2a31f5MF4M5Iyvj2MswnaVVxHDfTrAWu6rZgAShC2Upd7NK/kxabgb0T0VGx+GsImNoFLtXxMlKq0J73GWCcBu7ARjOQ=;Ybz6oaYje2/iMv6Q1ml8/w=="
 ---

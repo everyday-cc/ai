@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-29-huawei-trained-the-chinese-language-equivalent-of-gpt-3.md",
+      "title": "Huawei trained the Chinese-language equivalent of GPT-3",
+      "excerpt": "Huawei trained a 200-billion-parameter Chinese-language model. But whether it moves the needle on research is an open question.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/",
+      "originalUrl": "https://venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/2019-04-24T111728Z_3_LYNXNPEF3N0ER_RTROPTP_4_HUAWEI-HSBC-e1558409923159.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/amp/",
+      "publishedDateTime": "2021-04-29T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-ai-powered-cybersecurity-platform-vectra-ai-raises-130m.md",
+      "title": "AI-powered cybersecurity platform Vectra AI raises $130M",
+      "excerpt": "Vectra AI, an AI-powered cybersecurity platform, raised $130 million in a funding round that values the company at $1.2 billion post-money.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/",
+      "originalUrl": "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1171615768-1-e1619463823181.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/amp/",
+      "publishedDateTime": "2021-04-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage.md",
       "title": "Intangles Lab Pvt. Ltd. files Patent for machine learning solution for fuel pilferage",
       "excerpt": "Intangles Lab, a leading digital twin solutions provider, announced today that it has filed a patent with the Indian Patent Office for Methods and Systems for Sub-Resolution Measurements in Fuel",
@@ -260,7 +364,7 @@
       "originalUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -556,6 +660,40 @@
       ]
     },
     {
+      "path": "_news/2021-04-29-aws-announces-general-availability-of-amazon-nimble-studio.md",
+      "title": "AWS Announces General Availability of Amazon Nimble Studio",
+      "excerpt": "Amazon Nimble Studio makes it easy to set up a content production studio in hours, scale capacity based on demand, and render content faster and more cost-effectively",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/04/b20852076/aws-announces-general-availability-of-amazon-nimble-studio",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/b20852076/aws-announces-general-availability-of-amazon-nimble-studio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20852076",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20852076",
+      "publishedDateTime": "2021-04-28T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-frances-macron-eyes-artificial-intelligence-to-monitor-terrorism.md",
       "title": "France’s Macron Eyes Artificial Intelligence to Monitor Terrorism",
       "excerpt": "The French president is under intense pressure to crack down on terrorism as well as Islamist separatism, an ideology his government says fuels attacks by radicalizing segments of the country’s Muslim minority.",
@@ -760,7 +898,7 @@
       "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-04-28/citylab-daily-toyota-is-building-a-city-for-self-driving-cars",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -812,7 +950,7 @@
       "originalUrl": "https://www.zdnet.com/video/leaked-ai-report-could-hint-at-future-for-us-regulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -863,7 +1001,7 @@
       "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -1110,155 +1248,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-the-scout-moorebot-is-a-roving-security-camera-robot-thatll-patrol-your-home.md",
-      "title": "The Scout Moorebot is a roving security camera robot that’ll patrol your home",
-      "excerpt": "The Scout is a tiny, smart A.I.-powered security drone with four wheels and a camera that automatically patrols your home and yard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/scout-moorebot-security-robot-patrols-your-home/",
-      "originalUrl": "https://www.digitaltrends.com/home/scout-moorebot-security-robot-patrols-your-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.dtcn.com/image/digitaltrends/scout-1200x630-c-ar1.91.jpg",
-          "width": 680,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/scout-moorebot-security-robot-patrols-your-home/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/scout-moorebot-security-robot-patrols-your-home/?amp",
-      "publishedDateTime": "2021-04-28T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-plus-one-robotics-raises-33m-for-human-robot-collaboration-software.md",
-      "title": "Plus One Robotics raises $33M for human-robot collaboration software",
-      "excerpt": "Plus One Robotics, a human-robot collaboration software company headquartered in San Antonio, has announced this week $33 million in Series B funding led by McRock Capital and Translink Capital, with participation from BMW i Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software",
-      "originalUrl": "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/04/8096899965_13b19b62d1_k.jpg",
-          "width": 2048,
-          "height": 1318,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software/amp",
-      "publishedDateTime": "2021-04-28T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-lyfts-sale-of-its-self-driving-tech-unit-to-toyota-for-550-million-moves-its-profit-timeline-up.md",
-      "title": "Lyft's sale of its self-driving tech unit to Toyota for $550 million moves its profit timeline up",
-      "excerpt": "The deal with Toyota's Woven Planet division will allow Lyft to hit its profitability target one quarter earlier, the company said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4",
-      "originalUrl": "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608731be3f0560001881c2a2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4?amp",
-      "publishedDateTime": "2021-04-28T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

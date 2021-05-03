@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
 type: article
 quality: 74
-heat: 214
+heat: 194
 published: true
 
 provider:
@@ -125,22 +125,6 @@ related:
         width: 784
         height: 480
         isCached: true
-  - title: "Lyft sells its self-driving division as it moves away from autonomous vehicles"
-    excerpt: "Lyft has decided it’s going to play things safe going forward. The rideshare company is getting out of the self-driving business altogether and is selling"
-    publishedDateTime: 2021-04-28T14:58:00Z
-    webUrl: "https://www.consumeraffairs.com/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
-    ampWebUrl: "https://www.consumeraffairs.com/amp/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
-    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
-    type: article
-    provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
-    quality: 40
-    images:
-      - url: "https://media.consumeraffairs.com/files/cache/news/Lyft_logo_concept_with_car_in_background_jetcityimage_Getty_Images_large.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "The UK will allow self-driving cars on its roads in 2021, and some hope they will put an end to traffic"
     excerpt: "The UK government will allow vehicles fitted with lane-keeping systems to drive on motorways later this year."
     publishedDateTime: 2021-04-29T07:31:00Z
@@ -222,15 +206,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Self-driving vehicles to become legal in the UK this year"
-    excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."
-    publishedDateTime: 2021-04-28T13:53:00Z
-    webUrl: "https://iottechnews.com/news/2021/apr/28/self-driving-vehicles-legal-uk-this-year/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 4
 
 secured: "mVU59L/UaDKoAohcHRctRy6IZTI04ThRXYiO7a7g5h45NDOOaY9+v7wHG1cPvfG+A0ma1WhiUSBINpUmhjPTJQpKwd2oV5+uk39EMDxuqc1kehO3k2kXTy4p490K0+4fGXWvronBrzUJdLVWIyG0ka8w3ioogHyQ3W/0C7qVVdNlDZSiU8CxkjbflTQfltw450kXv1SCFFIBzbwYYEaK1Ao6gMUqxfLEhICA0lPzfVyHl/zhO/lXVNEPH+j7Hyjz3I0fs19qqDAVhuoeEkycMM9irBbU1zMBHYUQvwDF3m6YnX49hRYJgJ6dubrIdMgUrXl+LRVXm5pWtkDiCQmkLLJWndNXo6LiMJ3PxLK8Bwcu6s1Bn9MQF+YPrzCs2H/mjHuWypELKUTxfKEPvP3entxDa7kjiWm83LhxOS7HenWx6VcYUqNg4wltg5qCyS1Zvt8oxtOoyzxm5a+qUPmbF0IYoK8F9FOUdeFqXMfVexqSX9inFrcS7zu61/ch6xT076pD580BiVKJ+AYqJizQkg==;5m1gNTbufY6LvSwdXQONLw=="
 ---

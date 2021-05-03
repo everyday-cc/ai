@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-dri
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/amp/"
 type: article
 quality: 108
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Artificial Intelligence in Fintech Market size, Witness Highest Growth in near future by 2027 | Microsoft, Google, Salesforce, Ibm, Intel"
+    excerpt: "The Artificial Intelligence in Fintech market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
+    publishedDateTime: 2021-05-03T06:19:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-in-fintech-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-google-salesforce-ibm-intel/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 1
 
 secured: "CtSTrxWUVBwMeS47lrVB3nvq1mBvi7GChvVTCtZamlJH7M5Z4VjOfHTxq4siKNIb3RlOnyMGnlN7DL5dSo6wBJYyrREiCLqz1zVtzcye6lEN3vSV31PfNXq635agqHGHmfDy1TCLVMw/IGEVA1SKyZy5CF3D1fkdOhq5qg8WcH502GiFw0y2wzCTED8oxIMPvuJApPomlBLjpG8kQbixsytNFgQmPixQMbrU4vlq9Mx6TSXpepghE1cHXVoWv5pdYfGET6/QbahotWONJoCN52J0qLeYTnLvxvpyVCI+VKiNTRsJo+TCzy9IEj/umW5cOWB0+VFR6wjdEF674EikbYTbSs+vS7lxD6LUSexj55JhUgoBMcNCqj0MNhuyYW2V4hRxjNsm88F/Oae+ocaQm5Ok6VRMRQGkDR4Hrcpd8KGDB+GaXff475Pe6R9KSutGI7Acu2Fata/kHkvuEGMvIZNDGyecB1L8tMHly6dNqmuT0hdy9Qr/Pqb0rirVgjkK6zP0iOamwuNoBfPdmO8K7g==;POFq2gist/uz94m71BG1Lg=="
 ---

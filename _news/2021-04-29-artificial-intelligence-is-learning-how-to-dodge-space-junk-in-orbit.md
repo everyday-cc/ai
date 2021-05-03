@@ -57,6 +57,15 @@ related:
         width: 862
         height: 824
         isCached: true
+  - title: "Artificial Intelligence in Fintech Market size, Witness Highest Growth in near future by 2027 | Microsoft, Google, Salesforce, Ibm, Intel"
+    excerpt: "The Artificial Intelligence in Fintech market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
+    publishedDateTime: 2021-05-03T06:19:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-in-fintech-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-google-salesforce-ibm-intel/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 1
 
 secured: "rs4uk9f3BDwH4JPX6j0fTrkvczLhjV+ZX3JjHbm/F+IGX+rQrck+ER4DiBt4ip4QbkJlnUXLhEMsG5Sg1l7SKTDzEXqP7qlzSSvL/5d2QjMH0cF84cvrmsX+A3CGbqXoFP4Fd0oeLwZ9KTIqaDzQqlm1EhkdXCmkR4Fai/Z6frUf5pQ1c/vFB/mFfNI6nw02lG8OY0aucqhS0sLYUoWO+GRrzsUP2QkmojsmIcG74+IMwti1XdnBxW2D4EcUAf0puDjDckFFBWfzvKIJqbq8M0mD0NDrco3MDPjr4tkqaqFZZqIKQe2mMLJBfAgcpbgMqNmKOk0E9SnFFodL9ozHNDlpdzXSYj9tseIKc/aVZm3a1nCuG5FZV2XqBbeyFC9nT4/rM5dzTT1DSpSr5LQb9weJmQ8eF0ipOh4G1X0WMfUtieZHiAwowgk4G0VDA8xTHx+1OQmB0WuN3UIlFf4ENRttFHVnGj4X2XluPOtYjN1ZIJr9xAm6Rl6uZymBvMBDfFCeP8uPVi7vqhV+i19jeA==;Qn3efQPvmHo5Pl6Cikmk2A=="
 ---

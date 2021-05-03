@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startup Funding: April 2021"
+    excerpt: "April showers brought mega fundraising rounds to the semiconductor industry. In China, a mobile chipset maker looking to go public won significant funding along with partnerships with major smartphone companies."
+    publishedDateTime: 2021-05-03T07:01:00Z
+    webUrl: "https://semiengineering.com/startup-funding-april-2021/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 22
+    images:
+      - url: "https://i1.wp.com/semiengineering.com/wp-content/uploads/startup-funding-2021-04-Apr-table1.png?fit=679%2C611&#038;ssl=1"
+        width: 679
+        height: 611
+        isCached: true
   - title: "The Artificial Intelligence Explosion in Industrial Automation"
     excerpt: "From supply chain and workforce training to automated quality inspections, artificial intelligence capabilities are being added to automation technologies at a rapid pace and are changing not only what can be done with these technologies,"
     publishedDateTime: 2021-04-28T18:36:00Z

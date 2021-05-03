@@ -24,17 +24,6 @@ images:
     height: 485
     isCached: true
 
-related:
-  - title: "Graph Learning: A Survey"
-    excerpt: "Graphs are widely used as a popular representation of the network structure of connected data. Graph data can be found in a wide spectrum of application domains such as social systems, ecosystems, biological networks,"
-    publishedDateTime: 2021-05-02T16:01:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/9416834"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 4
-
 secured: "dhnsllYGvfiLHlx+WA3v4XI/UQR5ULgi0y9MVzloh/fXRbe75ByFU8AOUUZ48LhDH+VuJ9/0+AUB3Cu8w2sOLZ3l6wL2n/v6vjiVGFzW1ertk4tMjuyBGijNV/IpcvCLbYkPcw1F1h5HnXF8Xt0PdeRxnHjK6imV+HDHdUWVFQjaZPhx0szXfFPs/+Ftl2z0Ih6B6VZCdiallKt2EDyI1EPmp+AS31gjElajqmkpjmenRdOsdbGjuZqJo2bmNpIHqu1u/TtK6QVkMTQjxnDWRKZZZ6wmGh4Y+BKQ12glLF6usyHvk+ZRNCsQKnE5fCv2032IUZjvHtK+NP7FanDuOKzjOhMQQyIyzTqmXF+7L1LKv8ZFaX/h+QdGVBvI6ig9PuGV9c2Lca+GdBuCh1gllkeM3Ha1EYI1UwV+8A9HbQCFkUl4+Bg/MiOewysnnvkBEzQdUAFMS+wFyV/eyewKrfM2O4ahWNC096k/4W4Py90oKDV+YBlxMvvpATPehW9qPEBUAAu3gzk+szC8M+7KPw==;tz/UV8bPXTOEY+3pfBYjqw=="
 ---
 

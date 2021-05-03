@@ -9,8 +9,8 @@ ampWebUrl: "https://www.expressnews.com/business/amp/San-Antonio-robotics-compan
 cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: San Antonio Express-News
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Plus One Robotics raises $33M for human-robot collaboration software"
-    excerpt: "Plus One Robotics, a human-robot collaboration software company headquartered in San Antonio, has announced this week $33 million in Series B funding led by McRock Capital and Translink Capital, with participation from BMW i Ventures,"
-    publishedDateTime: 2021-04-28T13:48:00Z
-    webUrl: "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software"
-    ampWebUrl: "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 89
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/04/8096899965_13b19b62d1_k.jpg"
-        width: 2048
-        height: 1318
-        isCached: true
   - title: "Plus One Robotics Raises $33 Million to Fuel Expansion"
     excerpt: "Plus One Robotics, the leading provider of vision software for logistics robots, announces $33 million of Series B funding. McRock Capital and Translink Capital co-led the round, with participation from BMW i Ventures,"
     publishedDateTime: 2021-05-01T12:48:00Z

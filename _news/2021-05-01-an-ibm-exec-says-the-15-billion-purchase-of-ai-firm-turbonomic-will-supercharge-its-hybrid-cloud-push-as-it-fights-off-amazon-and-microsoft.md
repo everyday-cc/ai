@@ -30,209 +30,130 @@ images:
     isCached: true
 
 related:
-  - title: "IBM buys Turbonomic to build out AIOps tools"
-    excerpt: "IBM has been acquiring companies at a rapid clip to help roll out hybrid cloud and AI automation tools. By Larry Dignan for Between the Lines | April 29, 2021 -- 15:00 GMT (08:00 PDT) | Topic: Cloud IBM said it will acquire Turbonomic,"
-    publishedDateTime: 2021-04-29T08:00:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-buys-turbonomic-to-build-out-aiops-tools/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-build-out-aiops-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-build-out-aiops-tools/"
+  - title: "Microsoft buys speech recognition, conversational AI tech firm"
+    excerpt: "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion."
+    publishedDateTime: 2021-05-03T06:47:00Z
+    webUrl: "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 93
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/29/e0913226-8f33-41bc-ae6b-b5627bd38cfe/app-prioritization.gif"
-        width: 550
-        height: 400
+      - url: "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428"
+        width: 761
+        height: 428
         isCached: true
-  - title: "IBM Acquires Turbonomic To Build AIOps Tools"
-    excerpt: "IBM has agreed to acquire Turbonomic, a Boston-based company that provides tools to manage application and network performance."
-    publishedDateTime: 2021-04-30T05:44:00Z
-    webUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/"
-    ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/amp/"
+  - title: "MYCOM OSI’s Assurance Cloud Service launches on Microsoft Azure"
+    excerpt: "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
+    publishedDateTime: 2021-04-30T13:54:00Z
+    webUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/"
+    ampWebUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb66bc6da454c5792d7d9fa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4710%26cropY1%3D644%26cropY2%3D3293"
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM is acquiring Turbonomic to advance AIOps agenda"
-    excerpt: "IBM is acquiring Turbonomic to extend the scope of its AIOps portfolio. This follows a series of acquisitions over the last several months."
-    publishedDateTime: 2021-04-30T15:40:00Z
-    webUrl: "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/"
-    ampWebUrl: "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/"
+  - title: "Google Cloud on track to take on AWS and Microsoft Azure"
+    excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
+    publishedDateTime: 2021-04-29T05:51:00Z
+    webUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: MediaNama
+      domain: medianama.com
+    quality: 71
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/Turbonomic8-intuitiveUX.gif?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.medianama.com/wp-content/uploads/2021/04/rajeshwar-bachu-K4txLik7pnY-unsplash-scaled.jpg"
+        width: 2560
+        height: 1840
         isCached: true
-  - title: "IBM to acquire AIOps firm Turbonomic"
-    excerpt: "The announcement follows IBM's recent acquisition of Instana, as well as the launch of IBM Cloud Pak for Watson AIOps, which automates IT operations with the help of artificial in"
-    publishedDateTime: 2021-04-30T11:24:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic"
-    ampWebUrl: "https://www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic?amp"
+  - title: "Allscripts looks to leverage Microsoft partnership as tech giant expands healthcare ambitions"
+    excerpt: "Microsoft is expanding further into healthcare and that opens up strategic opportunities for Allscripts to leverage its partnership with the tech giant, company executives said. Here's how the health IT company plans to leverage the collaboration to grow its business with providers as well as payers and life sciences companies."
+    publishedDateTime: 2021-04-30T10:45:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/allscripts-looks-to-leverage-microsoft-partnership-as-tech-giant-further-its-ambitions"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 45
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1619780773/itpro/shutterstock_ibm_stripes.jpg"
-        width: 1260
-        height: 710
+      - url: "https://qtxasset.com/fiercehealthcare/1619734506/GettyImages-1018676898.jpg/GettyImages-1018676898.jpg?xwabYRqkBFPym1UOV.TzaLwA5SoTdVU6"
+        width: 6000
+        height: 3376
         isCached: true
-  - title: "IBM buys Turbonomic for AIOps, hybrid-cloud management support"
-    excerpt: "By acquiring Turbonomic, IBM gains tools that manage performance of everything from applications and containers to virtualization, cloud, and on-prem compute, storage, and network resources."
-    publishedDateTime: 2021-04-29T20:14:00Z
-    webUrl: "https://www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.html"
-    ampWebUrl: "https://www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.amp.html"
+  - title: "Artificial Intelligence Chipsets Market Next Big Thing | Major Giants Ibm, Google, Microsoft"
+    excerpt: "A new business intelligence report released by HTF MI with title \"Global Artificial Intelligence Chipsets Market Report 2021\" is designed covering micro level of analysis by manufacturers and key business segments."
+    publishedDateTime: 2021-04-30T03:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269111662/artificial-intelligence-chipsets-market-next-big-thing--major-giants-ibm-google-microsoft"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 45
     images:
-      - url: "https://images.techhive.com/images/article/2016/11/20151027-ibm-sign-100625227-orig-100696117-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.bignewsnetwork.com/cus1619546502300.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud"
-    excerpt: "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT"
-    publishedDateTime: 2021-04-29T15:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857"
+  - title: "Artificial Intelligence In Genomics Market by Drivers, Restraints, Opportunities, and Challenges | Ibm, Microsoft, Nvidia Corporation"
+    excerpt: "AI in genomics market to register a CAGR of 52 7 from 2020 to 2025 ReportsnReports added Artificial Intelligence In Genomics Market Research Report created by Report Consultant which offers detailed insights revenue details and other information regarding the global"
+    publishedDateTime: 2021-04-30T07:17:00Z
+    webUrl: "https://www.openpr.com/news/2277898/artificial-intelligence-in-genomics-market-by-drivers"
+    ampWebUrl: "https://www.openpr.com/amp/2277898/artificial-intelligence-in-genomics-market-by-drivers"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277898/artificial-intelligence-in-genomics-market-by-drivers"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
-  - title: "IBM’s Journey To Hybrid Cloud Territory Continues With Turbonomic Deal"
-    excerpt: "IBM has acquired Turbonomic, a Boston-based application resource management (ARM) and network performance management software provider."
-    publishedDateTime: 2021-04-30T18:46:00Z
-    webUrl: "https://www.pymnts.com/news/acquiring/2021/ibm-to-acquire-turbonomic/"
-    ampWebUrl: "https://www.pymnts.com/news/acquiring/2021/ibm-to-acquire-turbonomic/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/acquiring/2021/ibm-to-acquire-turbonomic/amp/"
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
+  - title: "Nuance Provides Speech Recognition Tech for NHS Digital Transformations"
+    excerpt: "Nuance will be providing clinical dictation tech to the Guy's and St Thomas' NHS Foundation Trust for its digital transformation"
+    publishedDateTime: 2021-04-29T18:33:00Z
+    webUrl: "https://mobileidworld.com/nuance-provides-speech-recognition-tech-nhs-digital-transformations-042904/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/ibm-cloud-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "IBM Spends Up To $2B To Buy Turbonomic In AI Push"
-    excerpt: "IBM will integrate Turbonomic’s ARM software with Instana’s APM and observability capabilities plus the ITOps capabilities of IBM Cloud Pak for Watson AIOps. By Wade Tyler Millward April 29, 2021, 01:12 PM EDT IBM hopes to boost its enterprise automation offerings with the planned purchase of Turbonomic in a deal reportedly valued at up to $2 billion."
-    publishedDateTime: 2021-04-29T17:12:00Z
-    webUrl: "https://www.crn.com/news/cloud/ibm-spends-up-to-2b-to-buy-turbonomic-in-ai-push"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
+      name: Mobile ID News
+      domain: mobileidworld.com
     quality: 39
     images:
-      - url: "https://www.crn.com/resources/0267-11dbd4e35679-ae0c062583d5-1000/merger-400.jpg"
-        width: 399
-        height: 399
+      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
+        width: 800
+        height: 560
         isCached: true
-  - title: "IBM to acquire Turbonomic with AIOps dominance squarely in its sights"
-    excerpt: "IBM is to acquire Turbonomic, a Boston-based APM software provider, to help organisations with their AIOps initiatives."
-    publishedDateTime: 2021-04-30T12:21:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/apr/30/ibm-to-acquire-turbonomic-with-aiops-dominance-squarely-in-its-sights/"
+  - title: "Nest speakers and smart displays set to improve voice recognition and continued conversation"
+    excerpt: "Using the state-of-the-art BERT technology, or Bidirectional Encoder Representations from Transformers - a pre-training model for natural language processing that was open-sourced in 2018 - Google is looking to significantly improve the voice recognition and continued conversation technology in Nest speakers and smart displays."
+    publishedDateTime: 2021-04-29T13:50:00Z
+    webUrl: "https://chromeunboxed.com/nest-smart-speakers-displays-bert-voice-recognition"
+    ampWebUrl: "https://chromeunboxed.com/nest-smart-speakers-displays-bert-voice-recognition?amp"
+    cdnAmpWebUrl: "https://chromeunboxed-com.cdn.ampproject.org/c/s/chromeunboxed.com/nest-smart-speakers-displays-bert-voice-recognition?amp"
     type: article
     provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 39
+      name: chromeunboxed.com
+      domain: chromeunboxed.com
+    quality: 33
     images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/01/iStock-458622753-1.jpg"
-        width: 1254
-        height: 836
+      - url: "https://chromeunboxed.com/wp-content/uploads/2019/12/NestHubNestMiniDealTargetBorder.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "IBM to Acquire Turbonomic"
-    excerpt: "IBM has a definitive agreement to acquire Turbonomic, an application resource management (ARM) and network performance management software provider based in Boston. The acquisition will provide businesses with full stack application observability and management to assure performance and minimize costs using AI to optimize resources-such as containers,"
-    publishedDateTime: 2021-04-29T16:20:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-to-Acquire-Turbonomic-146596.aspx"
+  - title: "A High Accuracy Multiple-Command Speech Recognition ASIC Based on Configurable One-Dimension Convolutional Neural Network"
+    excerpt: "Speech command interaction has drawn much attention in smart application market. Many of previous chips achieve an ultra-low power consumption at the cost of a certain accuracy loss, and they are designed only for the fixed speech command recognition tasks,"
+    publishedDateTime: 2021-04-29T14:26:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9401401"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 24
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "IBM acquires software firm Turbonomic for a reported $2bn"
-    excerpt: "IBM has agreed to acquire software firm Turbonomic for a reported $1.5bn to $2bn. Financial details were not disclosed in the release from IBM but Reuters is reporting that the deal is worth between $1."
-    publishedDateTime: 2021-04-30T15:03:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4030683/ibm-acquires-software-firm-turbonomic-reported-usd2bn"
-    type: article
-    provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 24
-    images:
-      - url: "https://www.channelweb.co.uk/api/v1/wps/04412d9/50da5ff3-2a9a-4dd4-a156-b5da280a4625/3/ibm-building-large-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
-  - title: "IBM to Buy Turbonomic"
-    excerpt: "IBM (NYSE: IBM) is to acquire Turbonomic, a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
-    publishedDateTime: 2021-04-30T16:30:00Z
-    webUrl: "https://www.finsmes.com/2021/04/ibm-to-buy-turbonomic.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
-        width: 2700
-        height: 1411
-        isCached: true
-  - title: "IBM to acquire cloud optimization provider Turbonomic for reported $1.5B+"
-    excerpt: "IBM Corp. is acquiring Turbonomic Inc., a Boston-based company with a platform that helps enterprises reduce cloud expenses and improve their applications’ performance. IBM didn’t disclose the value of the deal,"
-    publishedDateTime: 2021-04-29T18:43:00Z
-    webUrl: "https://siliconangle.com/2021/04/29/ibm-acquire-cloud-optimization-provider-turbonomic-reported-1-5b/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/Krishna-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "IBM to Acquire Turbonomic AIOps for Hybrid Cloud"
-    excerpt: "IBM (NYSE:IBM) today announced a definitive agreement to acquire Turbonomic, an Application Resource Management (ARM) and Network Performance Management (NPM) software provider based in Boston. The acquisition will provide businesses with full stack application observability and management to assure performance and minimize costs using AI to optimize resources – such as containers,"
-    publishedDateTime: 2021-04-29T17:07:00Z
-    webUrl: "https://insidehpc.com/2021/04/ibm-to-acquire-turbonomic-aiops-for-hybrid-cloud/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
+      name: IEEE
+      domain: ieee.org
+    quality: 11
 
 secured: "wl75l5hn+UliBBMyq+Np0EjBZuLOwoW+brWcvUdoivdbAsAxJXCgaNwxXe4MHwepw46gxrz9fJZd7IEJUjHW+k9szsedOswwl6OeAmsd0aInAwpKZ8ATaCkpG/5m9CIaIBRdkBQQDsSr3j/4g8/UIi1/nIs0Z6S558b2IFOjSubZkp763NUyoBIUhQny+w8lobH5lT4GNowUIa91Dzy/p6r0+esnGEWtSn81ygiXilWJJ3F18TuBj8DE2jerZRfIXgAILtDBMdWL4qIB7Jn/gsJjvahj9bGIQ/e3NHqN+Vlj4R5gkQRL49lD3TB+9pGde5PEclaoA908bmPT9NPypNSq/FZJnFY7eusgYFzatd08R0qooxu1e9nXtz/tE9He/92tGwHzqr9+EXwMllTDv/lN7NvSzhY5bGvXd2qnVPDfuTk23GHWnplssbrsAQ94Gz6144YjGW7AyPzUCYeVmkiijZLGc1wOccPqA8+4Q6jtkmTLzZKDyHfvUWDMpsqvkedw9GfS1K7onIrZ7OQucg==;tfx3sAVpbrhsIDuCSd21kQ=="
 ---

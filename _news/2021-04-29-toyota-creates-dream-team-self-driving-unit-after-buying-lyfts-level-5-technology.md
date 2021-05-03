@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lyft's sale of its self-driving tech unit to Toyota for $550 million moves its profit timeline up"
-    excerpt: "The deal with Toyota's Woven Planet division will allow Lyft to hit its profitability target one quarter earlier, the company said."
-    publishedDateTime: 2021-04-28T13:08:00Z
-    webUrl: "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://i.insider.com/608731be3f0560001881c2a2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Lyft gives up on developing its own self-driving tech, sells division"
     excerpt: "Matthew is the editor of SHIFT. He likes electric cars, and other things with wheels, wings, or hulls. Matthew is the editor of SHIFT. He likes electric cars, and other things with wheels, wings ..."
     publishedDateTime: 2021-04-29T09:30:00Z

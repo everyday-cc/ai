@@ -2,6 +2,86 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-03-microsoft-buys-speech-recognition-conversational-ai-tech-firm.md",
+      "title": "Microsoft buys speech recognition, conversational AI tech firm",
+      "excerpt": "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
+      "originalUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r",
+      "publishedDateTime": "2021-05-02T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-02-aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd.md",
+      "title": "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd",
+      "excerpt": "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html",
+      "originalUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html",
+      "publishedDateTime": "2021-05-01T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors.md",
       "title": "A blowout earnings cycle hides strategy shift from cloud vendors",
       "excerpt": "The big 3 cloud vendors have made huge investments over the past few months in data and AI services targeting vertical markets.",
@@ -95,49 +175,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-mycom-osis-assurance-cloud-service-launches-on-microsoft-azure.md",
-      "title": "MYCOM OSI’s Assurance Cloud Service launches on Microsoft Azure",
-      "excerpt": "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/",
-      "originalUrl": "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/",
-      "publishedDateTime": "2021-04-30T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -366,58 +403,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-26-businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix.md",
-      "title": "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix",
-      "excerpt": "(Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure ExpressRoute on Platform Equinix® to service customers in six new global markets,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix-1030345105",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/276273/equinix_times_square_logo.jpg",
-          "width": 400,
-          "height": 261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-26-computer-vision-software-market-investment-analysis-microsoft-aws-opencv.md",
       "title": "Computer Vision Software Market Investment Analysis | Microsoft, AWS, OpenCV",
       "excerpt": "Global Computer Vision Software Market Report is an objective and in-depth study of the current state aimed at the major drivers, market strategies, and key players growth. The study also involves the important Achievements of the market,",
@@ -513,6 +498,49 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix.md",
+      "title": "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix",
+      "excerpt": "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522",
+          "width": 800,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1345,58 +1373,6 @@
         "name": "The Sentinel",
         "domain": "ksusentinel.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-why-microsofts-new-ai-acquisition-is-a-big-deal.md",
-      "title": "Why Microsoft’s new AI acquisition is a big deal",
-      "excerpt": "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/",
-      "originalUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/",
-      "publishedDateTime": "2021-04-17T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-18-why-microsofts-new-ai-acquisition-is-a-big-deal.md",
+      "title": "Why Microsoft’s new AI acquisition is a big deal",
+      "excerpt": "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/",
+      "originalUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/",
+      "publishedDateTime": "2021-04-17T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-best-machine-learning-software-in-2021.md",
       "title": "Best Machine Learning Software in 2021",
       "excerpt": "Machine learning software evolves and learns from analyzing data. Compare the best machine learning tools today.",
@@ -1290,58 +1342,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications.md",
-      "title": "Microsoft reportedly in talks to buy AI company Nuance Communications",
-      "excerpt": "Microsoft is in talks to acquire AI and speech company Nuance Communications in a deal that would value the company at about $16 billion, Bloomberg reported Sunday. The Burlington, Massachusetts-based company's technology helped launch Apple's digital assistant Siri.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications/",
-      "originalUrl": "https://www.cnet.com/news/microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/X7NTgjhjRZTxZF3ItadfSoG9XtQ=/1200x630/2019/02/04/41fe4b3a-f930-4dd6-b63d-3b5d1b91ce91/msft-microsoft-logo-2-2.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-reportedly-in-talks-to-buy-ai-company-nuance-communications/",
-      "publishedDateTime": "2021-04-11T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Microsoft AI"
       ]

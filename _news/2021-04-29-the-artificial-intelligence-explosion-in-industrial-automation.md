@@ -32,6 +32,20 @@ related:
         width: 1281
         height: 818
         isCached: true
+  - title: "Startup Funding: April 2021"
+    excerpt: "April showers brought mega fundraising rounds to the semiconductor industry. In China, a mobile chipset maker looking to go public won significant funding along with partnerships with major smartphone companies."
+    publishedDateTime: 2021-05-03T07:01:00Z
+    webUrl: "https://semiengineering.com/startup-funding-april-2021/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 22
+    images:
+      - url: "https://i1.wp.com/semiengineering.com/wp-content/uploads/startup-funding-2021-04-Apr-table1.png?fit=679%2C611&#038;ssl=1"
+        width: 679
+        height: 611
+        isCached: true
 
 secured: "XbEUJro2loXBcTqEOTOS69reiUujjD+toSKI8/sO291luoeC9r2ULwE6ZHx0QVG+HSww8A2oWwtSXt3sTGbdaYchB9rfD3IDGd0FAmRJClWnEQnvL2didxoQ0sqb3/npinnUNzELdQ7sdXh35x2XEZS57NbSpQLJ8wHfXflRK1eUTO0OyW1sk+b//XgL06WHOcn7/zmBy1cqzdcn4RmTZZGwLVh505ex5NZ+qzqA+Ok8+ULAgCAPK555xqtRd10D7C+p6hKYf1T7VmnES8dsluQQ+RTXE5pa+Y18asrC8lSL8rWyhoeUWCR4Lsnb+c526JaXWRJFzN+dcCe0cxd10c8MU+wpGjsywcAur+3HqxFXq6HdKfuAVzLoVCMXlVQrMaPlUy+oxtQHxBNBTNgu9StzUho6v1xGDc4cHTvoqYpczTh7rDDStmjXtw/bUsGrKXd3DBb18QbNYesY/Bk2IeK2fK19PS9ZMm2tc1uUkfSVJIB53rZXS1tyVtAUY0uAvA2XqQuqJGII39ddVp+Nwg==;M+2/qTx3vF3Glk2qvQpPig=="
 ---

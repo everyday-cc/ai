@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-03T05:30:00Z
 originalUrl: "https://analyticsindiamag.com/how-this-voice-ai-startup-is-creating-human-like-conversations/"
 webUrl: "https://analyticsindiamag.com/how-this-voice-ai-startup-is-creating-human-like-conversations/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Abhimanyu-1.png"

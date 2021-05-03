@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/lyft-self-driving-sells-division-toyot
 webUrl: "https://thenextweb.com/news/lyft-self-driving-sells-division-toyota-profit"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lyft's sale of its self-driving tech unit to Toyota for $550 million moves its profit timeline up"
-    excerpt: "The deal with Toyota's Woven Planet division will allow Lyft to hit its profitability target one quarter earlier, the company said."
-    publishedDateTime: 2021-04-28T13:08:00Z
-    webUrl: "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://i.insider.com/608731be3f0560001881c2a2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Toyota creates “dream team” self-driving unit after buying Lyft’s Level 5 technology"
     excerpt: "Toyota's Woven Planet division creates self driving \"dream team\" after buying the Level 5 business of ride-hailing company Lyft."
     publishedDateTime: 2021-04-29T02:06:00Z

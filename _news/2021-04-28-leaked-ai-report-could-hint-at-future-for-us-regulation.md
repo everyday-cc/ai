@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/leaked-ai-report-could-hint-at-future-
 webUrl: "https://www.zdnet.com/video/leaked-ai-report-could-hint-at-future-for-us-regulation/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2021/04/Apr21_30_579271601.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Machines Learn That Brussels Writes the Rules: The EU’s New AI Regulation"
-    excerpt: "Europe’s new AI proposal sets out a nuanced regulatory structure with several important innovations. But the initiative also appears to have some surprising gaps."
-    publishedDateTime: 2021-04-28T14:51:00Z
-    webUrl: "https://www.lawfareblog.com/machines-learn-brussels-writes-rules-eus-new-ai-regulation"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 36
-    images:
-      - url: "https://www.lawfareblog.com/sites/default/files/49068069128_a42f87adaf_k.jpg"
-        width: 2048
-        height: 1365
         isCached: true
 
 secured: "ubYA2dMw0N47BfG1+hdBnm/Ndd20hMxNZs3RMm2tQ57Gy2s0gZdPkBVnLispYIvcruCprPiuR9VvTjm3RHNx5YBUfgSC2PLRX9L9yAPebU7vhpc1U/Pj7o+uEfWPo5CseXUfIZH9I7Hi3d5CrAuCzdhu690BErl8YKuywwswWTfX2GZIy6JcwE+noJCpu9K6X9mHK5KMS2d7A1IPabgXC0pXxXwijCy5IPf3B/uddLoGYbkmhO+5NDr5rctpKO1KEhx0DNWCvRKbBcZ540PQVz49AwgUE0JKaq6I04aUY3/CK9o1Vkhk6Bpfejrzvdu7Hs/eSoYNaTrS0VUqvIHkc4JHGFuKkPAEmAAsTJgiC5sB1mijhEy1ICO1mkuBp7PrHd/g9pWr0g5RD7BnhyeLqOP6OSYXhuJor1W1F0SZnW+DK8Wsmt1jCLTi1OO9y6D7QELXFmBVKxrcYbhXKZj5vG9fbfUmnLd1E3jE5JO6q/QtgpOw7FkM6zcN6EIl+4VcDAUol3jBZT+HcI7B/WPrfQ==;C15LdBnVLSjJzuklBGhQ7A=="

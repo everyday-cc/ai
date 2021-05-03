@@ -67,22 +67,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "Building the intelligent future of payments with AI"
-    excerpt: "The sooner a FI builds a strong data foundation, the sooner they can execute advanced AI and ML models. With each iteration, they will put more distance between themselves and the competition."
-    publishedDateTime: 2021-04-28T13:29:00Z
-    webUrl: "https://www.dqindia.com/building-intelligent-future-payments-ai/"
-    ampWebUrl: "https://www.dqindia.com/building-intelligent-future-payments-ai/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/building-intelligent-future-payments-ai/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2015/12/MobilePayments-DigitalWallet.jpg"
-        width: 330
-        height: 211
-        isCached: true
   - title: "Ford boards the Artificial intelligence train"
     excerpt: "Ford and AI. Robots already play a significant role in assembling the parts of the vehicle at a Ford Transmission Plant based in Livonia, and now with the addition of artificial i"
     publishedDateTime: 2021-05-02T17:28:00Z

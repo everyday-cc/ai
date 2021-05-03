@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-03-microsoft-buys-speech-recognition-conversational-ai-tech-firm.md",
+      "title": "Microsoft buys speech recognition, conversational AI tech firm",
+      "excerpt": "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
+      "originalUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r",
+      "publishedDateTime": "2021-05-02T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-how-intel-is-leveraging-ai-to-drive-sales.md",
       "title": "How Intel is leveraging AI to drive sales",
       "excerpt": "Intel is adopting AI internally to bolster its sales and marketing efforts, including through the use of natural language processing.",
@@ -10,7 +55,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -413,50 +458,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale.md",
-      "title": "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale",
-      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630",
-          "width": 880,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -953,6 +954,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-19-why-transformer-model-for-natural-language-processing.md",
+      "title": "Why Transformer Model for Natural Language Processing?",
+      "excerpt": "Natural Language Processing models have a varied range of applications in every possible field. A transformer model is a remarkable innovation that’s made NLP look lot easier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/",
+      "originalUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Natural-Language-Processing.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/?amp",
+      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/?amp",
+      "publishedDateTime": "2021-04-19T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-google-translation-ai-botches-legal-terms-enjoin-garnish-research.md",
       "title": "Google translation AI botches legal terms ‘enjoin,’ ‘garnish’ -research",
       "excerpt": "They translate foreign text into English and then back into the foreign language, aiming to teach the ... severe consequences as more businesses use AI to generate or translate legal text.",
@@ -1339,49 +1383,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-algorithms-used-by-companies-like-netflix-could-decipher-biological-language-of-neurodegenerative-diseases.md",
-      "title": "Algorithms Used by Companies Like Netflix Could Decipher Biological Language of Neurodegenerative Diseases",
-      "excerpt": "Powerful algorithms used by companies like Netflix, Facebook, and Amazon could have major implications in healthcare. They have demonstrated the ability to predict the biological language of cancer and other neurodegenerative diseases such as Alzheimer’s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/algorithms-used-by-companies-like-netflix-could-decipher-biological-language-of-neurodegenerative-diseases/",
-      "originalUrl": "https://www.unite.ai/algorithms-used-by-companies-like-netflix-could-decipher-biological-language-of-neurodegenerative-diseases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/04/dna-3539309_1280.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

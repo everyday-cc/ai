@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3131442/increasing-use
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash"
 type: article
 quality: 78
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
         width: 1426
         height: 808
-        isCached: true
-  - title: "Fight over facial recognition technology isn't over yet | Opinion"
-    excerpt: "Last year, the majority of the pictures Detroit police used with the department's controversial facial recognition technology came from social media. This year, images from social media are running a close second to images from Project Greenlight."
-    publishedDateTime: 2021-04-28T13:41:00Z
-    webUrl: "https://www.freep.com/story/opinion/columnists/nancy-kaffer/2021/04/28/detroit-facial-recognition-technology/7342230002/"
-    ampWebUrl: "https://amp.freep.com/amp/7342230002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7342230002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/06/15/PDTF/85154b4b-9766-46c4-97fa-afb4a435790d-drivebyprotest_061520_kd759.jpg?auto=webp&crop=2399,1350,x0,y37&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Police should not be banned from using facial recognition technology, says UK watchdog"
     excerpt: "Use of facial recognition by police should not be banned and instead left to the discretion of law enforcement rather than lawmakers, the UK’s new biometrics watchdog has said. Fraser Sampson, the newly appointed commissioner whose job it is to scrutinise how police and other authorities deploy biometrics and surveillance cameras on the public,"

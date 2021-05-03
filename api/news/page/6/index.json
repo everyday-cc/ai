@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-26-nhs-adopts-predictive-ai-tech-from-controversial-startup.md",
+      "title": "NHS adopts predictive AI tech from controversial startup",
+      "excerpt": "The technology warns hospitals about a potential spike in patient numbers so they can allocate the right resources when needed",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570816586/itpro/2019/05/nhs_shutterstock_642071587.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup?amp",
+      "publishedDateTime": "2021-04-26T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud.md",
+      "title": "ThetaRay launches anti-money laundering AI and analytics for the cloud",
+      "excerpt": "Cybersecurity analytics company ThetaRay announced that its AI-based Anti-Money Laundering (AML) analytics will be available in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/",
+      "originalUrl": "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1279322260-e1619416404946.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/",
+      "publishedDateTime": "2021-04-26T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft-azure-expressroute-on-platform-equinix.md",
+      "title": "Businesses in Six New Global Markets Can Now Access Private Cloud On-ramps to Microsoft Azure ExpressRoute on Platform Equinix",
+      "excerpt": "Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company™, today announced it is expanding private network access to Microsoft Azure via Azure",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/businesses-in-six-new-global-markets-can-now-access-private-cloud-on-ramps-to-microsoft/article_362803ce-b1d6-5c9f-a4e4-b540ac94201e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/d9/1d959af6-6d0e-5f96-ba18-7b61aae335fb/6059df86607f4.image.jpg?resize=800%2C522",
+          "width": 800,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking.md",
       "title": "Microsoft Defender can now use Intel's CPU-based machine learning to detect cryptojacking",
       "excerpt": "Microsoft Defender for Endpoint has been enhanced using advancements in Intel Threat Detection Technology to detect cryptojacking attacks via machine learning heuristics based on CPU telemetry.",
@@ -1061,145 +1208,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news.md",
-      "title": "LinkedIn Debuts LinkedIn Learning Hub, IBM Doubles Down on Ethical AI and More News",
-      "excerpt": "LinkedIn announced plans to launch its LinkedIn Learning Hub, a skills-building platform currently in beta, in the second half of 2021 this week. James Raybould, senior director of product, LinkedIn Learning and Glint,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/",
-      "originalUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/ee83660ce436477a992a325b7f73cf8f.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/amp/",
-      "publishedDateTime": "2021-04-23T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-cognitive-document-processing-for-automated-mortgage-processing.md",
-      "title": "Cognitive document processing for automated mortgage processing",
-      "excerpt": "This post was guest authored by AWS Advanced Consulting Partner Quantiphi. The mortgage industry is highly complex and largely dependent on documents for the information required across different stages in their business value chain. Day-to-day operations for mortgage underwriting, property appraisal,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cognitive-document-processing-for-automated-mortgage-processing/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cognitive-document-processing-for-automated-mortgage-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/23/1-Extracted-Data.jpg",
-          "width": 800,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T10:13:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash.md",
-      "title": "Tesla owners warned of 'full self-driving' risks even before fatal crash",
-      "excerpt": "Tesla's \"full self-driving\" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns, clipped at least one curb ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.html",
-      "originalUrl": "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/5/39/5391c1d9-c758-5594-a62e-1b650d5d0199/6082f09709609.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html",
-      "cdnAmpWebUrl": "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html",
-      "publishedDateTime": "2021-04-23T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Atlanta",
-        "domain": "cbs46.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

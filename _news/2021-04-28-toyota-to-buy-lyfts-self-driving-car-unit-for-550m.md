@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Toyota pays $550 million for self-driving unit of Lyft"
-    excerpt: "Toyota Motor Corp. has bought the self-driving division of ride-hailing company Lyft for $550 million in a move that reflects the ambitions of Toyota to expand into mobility technology."
-    publishedDateTime: 2021-04-28T14:09:00Z
-    webUrl: "https://www.industryleadersmagazine.com/?p=11188"
-    ampWebUrl: "https://www.industryleadersmagazine.com/toyota-pays-550-million-for-self-driving-unit-of-lyft/amp/?p=11188"
-    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/toyota-pays-550-million-for-self-driving-unit-of-lyft/amp/?p=11188"
-    type: article
-    provider:
-      name: Leadership
-      domain: industryleadersmagazine.com
-    quality: 44
-    images:
-      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/09/Lyft-1.jpg"
-        width: 590
-        height: 441
-        isCached: true
 
 secured: "fZ5cVB+80dhKxEj1DSNdQ2m5eUdCyKbe0rRefy2ljO/VPRoloIEOPMbANNWs2jxNUQqyZ2oMaRc69mo5D6kTZVWRoa0CWXku4K46B6H5SrEyI2jNy36zskRJ2ZwHfz4AkKGnYNs/h7g+a5GYl77x//QWJTZ1GY04WXSw6EiIrE+XJel34aAX/vKbkJGtf/Ghohi5jeeo0qiWfsoJcvd65ddxb8KEDALljuvdzmkAE88RM1jAlTn7yTYzyS9rH/WBr5Sa6vtMEtmSvETFJleKzx8wvOYZKZIu8UjRWO45Nqxsz4GAQsXRBCFqs+UA1rFyeYF8CoqmzEaacXXsfChE/5EMg+Y9paJ+GjNe3WJ4CeQ=;ZePeRHjNXWulCBQCsxfhSQ=="
 ---

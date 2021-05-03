@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "An Unexpected Pandemic Side Effect In Peru: A Comeback For..."
-    excerpt: "Unless major changes occur, she adds, \"we're going to see the effects of this pandemic for generations.\" A three-month lockdown followed by a 10-month restoration period [of TB services] could result in an additional 6."
-    publishedDateTime: 2021-04-28T14:10:00Z
-    webUrl: "https://wfuv.org/content/unexpected-pandemic-side-effect-peru-comeback-tb"
-    type: article
-    provider:
-      name: WFUV
-      domain: wfuv.org
-    quality: 24
-    images:
-      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
-        width: 342
-        height: 240
-        isCached: true
-
 secured: "Eh/AVNRGa4zPcui14TPk4yGfLk01KZkh7qJAYPra6Xdli2aw6ui5tgRTfTnNVuB20aZN1771PvOwMS/sx4KPQaKFXNePosoFuP4V9Uevz7twpd0essYQTTCwUL6XbuQy/MAmDOP+b3zvbGpfC8upqkMV2lN7buLVt0G6tszkUIoNqv7ZaP/K8bP2UzV+28aL/cW9+Wr1JqL0f1k+CMQZQwg/uSrcUpA9o8w4fGuv2JiNFC92irc9NAZChXcYWws49z2shoNuyrwlFjamJUBFTioCfrZjbstF7w+aGq8ZexP4recL9XPZEoUoiKMw5nD3TognVfJ2ZwNZ2oIyvQupGC3DMqxei4I4TrjYA6JDEFY04sIkyZmtbtmwJaXrF5bsWyUaqLktWm5XRclZsJ+8xp6eD8aPM2Ho/hQl19SbzthCPMHIJ2oArg54k2ySeTt88Iifs+7B73MIdglPJ9A/uCquWbuV6eO9nJRNuuLctQCwhCFYk8Rtnv1UHj+jpwRir6HbYd0VxSGJ3oRHKrUZfg==;EcC+Xr8Mn6JESe3pqKKpVQ=="
 ---
 

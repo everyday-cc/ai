@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-03-intel-will-invest-35-billion-in-new-mexico-chip-factory.md",
+      "title": "Intel will invest $3.5 billion in New Mexico chip factory",
+      "excerpt": "Intel said on Sunday that it will spend $3.5 billion on an upgrade for its factory in New Mexico as part of a plan to expand manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/",
+      "originalUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-factory.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/amp/",
+      "publishedDateTime": "2021-05-02T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-microsoft-buys-speech-recognition-conversational-ai-tech-firm.md",
+      "title": "Microsoft buys speech recognition, conversational AI tech firm",
+      "excerpt": "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
+      "originalUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r",
+      "publishedDateTime": "2021-05-02T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating.md",
       "title": "In a year of major shifts, the self-driving car market is consolidating",
       "excerpt": "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market.",
@@ -149,6 +246,41 @@
       ]
     },
     {
+      "path": "_news/2021-05-02-aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd.md",
+      "title": "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd",
+      "excerpt": "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html",
+      "originalUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html",
+      "publishedDateTime": "2021-05-01T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-02-reinforcement-learning-competition-pushes-the-boundaries-of-embodied-ai.md",
       "title": "Reinforcement learning competition pushes the boundaries of embodied AI",
       "excerpt": "The ThreeDWorld Transport Challenge lets embodied AI scientists test a robot's ability to physically sense and interact with the environment.",
@@ -209,7 +341,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -863,49 +995,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-30-mycom-osis-assurance-cloud-service-launches-on-microsoft-azure.md",
-      "title": "MYCOM OSI’s Assurance Cloud Service launches on Microsoft Azure",
-      "excerpt": "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/",
-      "originalUrl": "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/",
-      "publishedDateTime": "2021-04-30T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-30-nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues.md",
       "title": "NVIDIA warns gamers to update GPU drivers due to security issues",
       "excerpt": "NVIDIA has reportedly found a few security vulnerabilities that may affect the popular GPU models in the market - and has released an update to fix it.",
@@ -1154,102 +1243,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-waymo-ridehailing-and-delivery-focus.md",
-      "title": "Waymo Ridehailing and Delivery Focus",
-      "excerpt": "CEOs. The Waymo plan is to expand its ridehailing business from Phoenix to other places. Waymo One. They will expand Waymo driving to truck delivering services. Waymo Via. Waymo One and Waymo via will have no driver behind the wheel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/04/Screen-Shot-2021-04-29-at-11.50.03-PM.jpg",
-          "width": 1078,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/04/waymo-ridehailing-and-delivery-focus.html",
-      "publishedDateTime": "2021-04-29T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-samsung-bespoke-jet-bot-ai-robot-vacuum-cleaner-launched-in-korea.md",
-      "title": "Samsung Bespoke Jet Bot AI Robot Vacuum Cleaner launched in Korea",
-      "excerpt": "Samsung has unveiled the Bespoke Jet Bot AI Robot Vacuum Cleaner designed to significantly improve home cleaning duties. The robot vacuum cleaner features enhanced capabilities for object recognition and adopts artificial intelligence (AI) technology which significantly improves the performance as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/04/30/samsung-bespoke-jet-bot-ai-robot-vacuum-cleaner-launched-korea/",
-      "originalUrl": "https://www.gizmochina.com/2021/04/30/samsung-bespoke-jet-bot-ai-robot-vacuum-cleaner-launched-korea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/04/Samsung-Bespoke-Jet-Bot-AI.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T20:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-03-intel-will-invest-35-billion-in-new-mexico-chip-factory.md",
+      "title": "Intel will invest $3.5 billion in New Mexico chip factory",
+      "excerpt": "Intel said on Sunday that it will spend $3.5 billion on an upgrade for its factory in New Mexico as part of a plan to expand manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/",
+      "originalUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-factory.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/amp/",
+      "publishedDateTime": "2021-05-02T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-how-intel-is-leveraging-ai-to-drive-sales.md",
       "title": "How Intel is leveraging AI to drive sales",
       "excerpt": "Intel is adopting AI internally to bolster its sales and marketing efforts, including through the use of natural language processing.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -212,7 +264,7 @@
       "originalUrl": "https://www.openpr.com/news/2277615/machine-learning-chips-market-dynamic-demand-analysis",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1377,58 +1429,6 @@
         "name": "FOX 40 WICZ TV",
         "domain": "wicz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq.md",
-      "title": "Tiger Global, D1 Lead $300 Million Round in AI Chip Startup Groq",
-      "excerpt": "Read more: Small Chip Startup Cerebras Shows Off World’s Biggest Processor Ross said his approach is unconventional and more efficient than the AI chips made by Nvidia and rivals. An electric vehicle maker and a financial-services company are in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH_t8r6CqG2g/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-02-aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd.md",
+      "title": "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd",
+      "excerpt": "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html",
+      "originalUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html",
+      "publishedDateTime": "2021-05-01T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-introducing-hierarchical-deletion-to-easily-clean-up-unused-resources-in-amazon-forecast.md",
       "title": "Introducing hierarchical deletion to easily clean up unused resources in Amazon Forecast",
       "excerpt": "Amazon Forecast just launched the ability to hierarchically delete resources at a parent level without having to locate the child resources. You can stay focused on building value-adding forecasting systems and not worry about trying to manage individual resources that are created in your workflow. Forecast",
@@ -151,58 +186,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-29-scale-session-aware-real-time-product-recommendations-on-shopify-with-amazon-personalize-and-amazon-eventbridge.md",
-      "title": "Scale session-aware real-time product recommendations on Shopify with Amazon Personalize and Amazon EventBridge",
-      "excerpt": "This is a guest post by Jeff McKelvey, Principal Development Lead at HiConversion. The team at HiConversion has collaborated closely with James Jory, Applied AI Services Solutions Architect at AWS, and Matt Chwastek, Senior Product Manager for Amazon Personalize at AWS. In their own words, “HiConversion",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-session-aware-real-time-product-recommendations-on-shopify-with-amazon-personalize-and-amazon-eventbridge/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-session-aware-real-time-product-recommendations-on-shopify-with-amazon-personalize-and-amazon-eventbridge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/27/1-Architecture-2688.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T13:34:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-29-annotate-dense-point-cloud-data-using-sagemaker-ground-truth.md",
       "title": "Annotate dense point cloud data using SageMaker Ground Truth",
       "excerpt": "Autonomous vehicle companies typically use LiDAR sensors to generate a 3D understanding of the environment around their vehicles. For example, they mount a LiDAR sensor on their vehicles to continuously capture point-in-time snapshots of the surrounding 3D environment. The LiDAR sensor output is a sequence",
@@ -284,6 +267,40 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-aws-announces-general-availability-of-amazon-nimble-studio.md",
+      "title": "AWS Announces General Availability of Amazon Nimble Studio",
+      "excerpt": "Amazon Nimble Studio makes it easy to set up a content production studio in hours, scale capacity based on demand, and render content faster and more cost-effectively",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/04/b20852076/aws-announces-general-availability-of-amazon-nimble-studio",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/b20852076/aws-announces-general-availability-of-amazon-nimble-studio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20852076",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20852076",
+      "publishedDateTime": "2021-04-28T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1404,58 +1421,6 @@
         "AWS AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-shes-taking-jeff-bezos-to-task.md",
-      "title": "She’s Taking Jeff Bezos to Task",
-      "excerpt": "I asked him about Amazon’s Rekognition technology and some of its shortcomings, which there’s been lots of tests of that, too. And he was dismissive about how facial recognition could be misused.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/19/opinion/19sway-buolamwini-image/19sway-buolamwini-image-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/19/opinion/sway-kara-swisher-joy-buolamwini.amp.html",
-      "publishedDateTime": "2021-04-19T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

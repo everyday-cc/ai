@@ -1,0 +1,53 @@
+---
+category: news
+title: "Startup Funding: April 2021"
+excerpt: "April showers brought mega fundraising rounds to the semiconductor industry. In China, a mobile chipset maker looking to go public won significant funding along with partnerships with major smartphone companies."
+publishedDateTime: 2021-05-03T07:01:00Z
+originalUrl: "https://semiengineering.com/startup-funding-april-2021/"
+webUrl: "https://semiengineering.com/startup-funding-april-2021/"
+type: article
+quality: 22
+heat: -1
+published: false
+
+provider:
+  name: Semiconductor Engineering
+  domain: semiengineering.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://i1.wp.com/semiengineering.com/wp-content/uploads/startup-funding-2021-04-Apr-table1.png?fit=679%2C611&#038;ssl=1"
+    width: 679
+    height: 611
+    isCached: true
+
+related:
+  - title: "IoT, AI and Automation – April 2021"
+    excerpt: "At the heart of the development of AI appears to be a search for perfection. And it could be just as dangerous to humanity as the one that came from philosophical and pseudoscientific ideas of the 19th and early 20th centuries and led to the horrors of colonialism,"
+    publishedDateTime: 2021-04-29T10:44:00Z
+    webUrl: "https://business-reporter.co.uk/the-future-of-iot-ai-and-automation-april-2021/"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 41
+    images:
+      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/04/iStock-1220971882.jpg"
+        width: 1281
+        height: 818
+        isCached: true
+  - title: "The Artificial Intelligence Explosion in Industrial Automation"
+    excerpt: "From supply chain and workforce training to automated quality inspections, artificial intelligence capabilities are being added to automation technologies at a rapid pace and are changing not only what can be done with these technologies,"
+    publishedDateTime: 2021-04-28T18:36:00Z
+    webUrl: "https://www.automationworld.com/Take5/video/21403711/take-five-video-ai-integration-with-supply-chain-training-and-quality-inspection-technologies"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 17
+
+secured: "dFTO5lLTUHMZ/g3YuurH3Eh/JHaxhnozsWi0CGD0qDT0eeE0seIwbdRN++gZzVe2tafpUNKmGBJ/rAEVjuZ2JrvAtzFdN8G1wqQW/lZhRjArMLv0EfbTzfcxpeC/gHfkmtmyi/Kf7sGDLz6LGfCSUTJqDAxr1GWwTHCpB7zeUr8SaeHhTPBwPauMfOxT2p39MmjNAU0pJnrq3UW8eFzCj3K0E11jcaiAn+6LCfG4pz1zgkxYFy082v0O9S73rqv1bZRP2BTiKegIn2sTuqd3lQiQ8LqgWilUhjixtLuKKQA/Y+1msFTcSj6tdzroBVgb25gXkXHrPHdfADwN4kbd8JgyM1rvJzOJpetVPa3cP+E=;OSYEyucagVbQcYUxnOBfwg=="
+---
+

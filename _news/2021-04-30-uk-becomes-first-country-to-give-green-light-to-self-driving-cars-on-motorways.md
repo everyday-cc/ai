@@ -131,22 +131,6 @@ related:
         width: 784
         height: 480
         isCached: true
-  - title: "Lyft sells its self-driving division as it moves away from autonomous vehicles"
-    excerpt: "Lyft has decided it’s going to play things safe going forward. The rideshare company is getting out of the self-driving business altogether and is selling"
-    publishedDateTime: 2021-04-28T14:58:00Z
-    webUrl: "https://www.consumeraffairs.com/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
-    ampWebUrl: "https://www.consumeraffairs.com/amp/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
-    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/lyft-sells-its-self-driving-division-as-it-moves-away-from-autonomous-vehicles-042821.html"
-    type: article
-    provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
-    quality: 40
-    images:
-      - url: "https://media.consumeraffairs.com/files/cache/news/Lyft_logo_concept_with_car_in_background_jetcityimage_Getty_Images_large.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "The UK will allow self-driving cars on its roads in 2021, and some hope they will put an end to traffic"
     excerpt: "The UK government will allow vehicles fitted with lane-keeping systems to drive on motorways later this year."
     publishedDateTime: 2021-04-29T07:31:00Z
@@ -217,15 +201,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Self-driving vehicles to become legal in the UK this year"
-    excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."
-    publishedDateTime: 2021-04-28T13:53:00Z
-    webUrl: "https://iottechnews.com/news/2021/apr/28/self-driving-vehicles-legal-uk-this-year/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 4
 
 secured: "n0z8wtKqI4irQexsn+oVqGN6xxqGJGBEZtYKEpSg9o+ch8pu6D0n0rmsSSFy1BKOcbRoTs6I3K/diWFIsM1wtlioYZM7D+WzCrFT8/KRP+e6DdA3/pIs6tw0lAciSySNxttNsZxAf2AeDqVOl3/n5gM5ACiJO8uwp+ABWeaD3VlRYGiu59Meg0J+A0Bwrd49a3yvGa/aJPfEY9lbKmytQcBnB0AGtTY1nfAYcS3JdMUIDRvpZaY94/4nwk6XOWSOhZ2JTvEYYjrL5CKsupFNSRKiFwtknJ2TlMYw/jukYlFQSrjBJcBMX6QzDmrA78KmVGkZCgbLs+Okx1/kLolXpzuqRXPqTiTAAjdrsdmOJyRTFpqCbnUAekeIXae7IZu5yeNjw3NvdFCJCK4gGu1a38IHQJ4u23bagGvKW0+9Vo+ajdHAKMrTB5roVsJ7mJwdJiBG3gUOdAtt22wDid3KNnyJpdGMm+5Xph3uhKmmNeBv5SPF0I9kK6lPXay7QoLjsnV6H7cgOfFko8Nm4N8AHw==;IG0MkJa/HTdn+b3atPERYA=="
 ---

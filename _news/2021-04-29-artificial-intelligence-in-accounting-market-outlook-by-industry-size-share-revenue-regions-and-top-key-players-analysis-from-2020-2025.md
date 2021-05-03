@@ -61,15 +61,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Deep Learning Chip Industry Analysis and 2021 Future Trends"
-    excerpt: "Infinity Business Insights has announced the addition of new research analysis on the global Deep Learning Chip Market to its vast library, Offering Insights for Deep Learning Chip Industry Over the Project Time Frame of 2021-2027."
-    publishedDateTime: 2021-04-28T13:54:00Z
-    webUrl: "https://ksusentinel.com/2021/04/28/global-deep-learning-chip-market-top-10-key-players-in-2021-amd-advanced-micro-devices-google-inc-intel-corporation-nvidia-baidu/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 36
   - title: "Worldwide Big Data Software Industry to 2026 - Featuring AWS, Cloudera and IBM Among Others - ResearchAndMarkets.com"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global big data software market reached a value of US$ 142."
     publishedDateTime: 2021-04-29T12:09:00Z

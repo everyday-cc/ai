@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nest speakers and smart displays set to improve voice recognition and continued conversation"
-    excerpt: "Using the state-of-the-art BERT technology, or Bidirectional Encoder Representations from Transformers - a pre-training model for natural language processing that was open-sourced in 2018 - Google is looking to significantly improve the voice recognition and continued conversation technology in Nest speakers and smart displays."
-    publishedDateTime: 2021-04-29T13:50:00Z
-    webUrl: "https://chromeunboxed.com/nest-smart-speakers-displays-bert-voice-recognition"
-    ampWebUrl: "https://chromeunboxed.com/nest-smart-speakers-displays-bert-voice-recognition?amp"
-    cdnAmpWebUrl: "https://chromeunboxed-com.cdn.ampproject.org/c/s/chromeunboxed.com/nest-smart-speakers-displays-bert-voice-recognition?amp"
-    type: article
-    provider:
-      name: chromeunboxed.com
-      domain: chromeunboxed.com
-    quality: 33
-    images:
-      - url: "https://chromeunboxed.com/wp-content/uploads/2019/12/NestHubNestMiniDealTargetBorder.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Voice recognition expert to examine recordings in anti-drugs operation targeting South East Antrim UDA, court hears"
     excerpt: "A VOICE recognition expert is to examine conversations secretly recorded in an anti-drugs operation targeting the South East Antrim UDA, the High Court heard today."
     publishedDateTime: 2021-04-30T16:09:00Z
