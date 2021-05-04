@@ -25,45 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Chips Market Dynamic, Demand Analysis, Statistics, Trends and Opportunities to 2026"
-    excerpt: "The report provides key opportunities within the market and describes the factors that are and will be driving the growth of the Machine Learning Chips industry Growth of the overall Machine Learning Chips market has also been forecasted for the"
-    publishedDateTime: 2021-04-29T14:16:00Z
-    webUrl: "https://www.openpr.com/news/2277615/machine-learning-chips-market-dynamic-demand-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 61
-    images:
-      - url: "https://cdn.openpr.com/U/4/U429252793_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Deep Learning Chipset Market Key Trends And Opportunity Areas |NVIDIA, Intel, IBM, Qualcomm, CEVA, etc"
-    excerpt: "Key Growth Factors & Challenges, Segmentation & Regional Outlook, Top Industry Trends & Opportunities, Competition Analysis, COVID-19 Impact Analysis & Projected Recovery, and Market Sizing & Forecast."
-    publishedDateTime: 2021-05-03T12:50:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/deep-learning-chipset-market-key-trends-and-opportunity-areas-nvidia-intel-ibm-qualcomm-ceva-etc/"
+  - title: "Artificial Intelligence Software Market (COVID-19) to Witness Astonishing Growth by Forecast 2021-2027 |Baidu, Google, IBM, Microsoft, SAP, etc"
+    excerpt: "Latest launched research on Global Artificial Intelligence Software Market, it provides detailed analysis with presentable graphs, charts and tables. This report covers an in depth study of the Artificial Intelligence Software Market size,"
+    publishedDateTime: 2021-05-04T05:44:00Z
+    webUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-software-market-covid-19-to-witness-astonishing-growth-by-forecast-2021-2027-baidu-google-ibm-microsoft-sap-etc/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 23
+    quality: 33
     images:
-      - url: "https://marketsresearchreport.com/wp-content/uploads/2021/01/2.jpg"
+      - url: "https://marketsresearchreport.com/wp-content/uploads/2021/01/13.jpg"
         width: 576
         height: 324
         isCached: true
-  - title: "Global Natural Language Processing Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
-    excerpt: "Over the past years more traffic have been attracted towards Natural Language Processing Market . According to different analysis, Natural Language Processing Market sales have a rate of XX% CAGR between 2020 and 2025."
-    publishedDateTime: 2021-05-03T09:41:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/global-natural-language-processing-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
+  - title: "Artificial Intelligence Platform Market size, Witness Highest Growth in near future by 2027 | Google, Baidu, Ibm, Microsoft, Sap"
+    excerpt: "The Artificial Intelligence Platform market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
+    publishedDateTime: 2021-05-03T04:19:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-platform-market-size-witness-highest-growth-in-near-future-by-2027-google-baidu-ibm-microsoft-sap/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 1
+    quality: 20
+  - title: "AI in Smartphone and Wearable Market size, Witness Highest Growth in near future by 2027 | Lenovo, Apple, Xiaomi, Samsung, Huawei,"
+    excerpt: "The study report on the global AI in Smartphone and Wearable Market 2021 gives a detailed and good size analysis which consists in a comprehensive view of the global industry contains the recent trend in addition to the forecasted magnitude of global business with admire service and products."
+    publishedDateTime: 2021-05-04T02:56:00Z
+    webUrl: "https://ksusentinel.com/2021/05/04/ai-in-smartphone-and-wearable-market-size-witness-highest-growth-in-near-future-by-2027-lenovo-apple-xiaomi-samsung-huawei/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "OqQA0T68MRb9heOiquvT+1WG3DJQqTRopSpNJmHie0nTv9Bsn8rOSKHLTzCNDF9bhBM5rAHFgIFXSkqJGJRyjJcndzzu7R6r77tWurci7iM+tmgFGuhH84TTxzwrMCfj2Sc4vrLBIE3gIzFCohbBSfkSCzadQkyD1eDI8dcBg4fwA2L7shuRt80pRgCXn/xc1sxF4KOdSPK3/pMKiBUXgjaOhbHtypNUOlsrJrbFUhEfnMijlre3huOGLA5cnmsd86W8bhOftX4DxR0n6sqfPDOkDNKjav/jjcahhiqCMPTAvlbSUWcPS1BHgnUNjOxw28Oq+Lz9S94z+ov3fgrfsT8ybWa2z1O9KMHa4QyLJJs=;Uzz3B1WpViyBcZErmfDr2g=="
 ---

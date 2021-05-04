@@ -131,6 +131,15 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Size, Growth Opportunities, Trends by Manufacturers, Regions, Application & Forecast to 2027"
+    excerpt: "The information made available in the Artificial Intelligence (AI) in Fintech Market report will definitely facilitate to increase the knowledge and decision-making skills of the business, thus providing an immense opportunity for growth."
+    publishedDateTime: 2021-05-03T09:41:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-ai-in-fintech-market-size-growth-opportunities-trends-by-manufacturers-regions-application-forecast-to-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
   - title: "Artificial Intelligence Platform Market 2020 Top Companies, Upcoming Trends Emerging Technologies, Global Analysis with Forecast 2026"
     excerpt: "The Global Artificial Intelligence Platform Market accounted for USD 2.34 billion in 2017 and is projected to grow at a CAGR of 31.2% the forecast period of 2020 to 2026. The research Insights proclaims the addition of another new report on account of the Artificial Intelligence Platform Market."
     publishedDateTime: 2021-05-03T14:10:00Z

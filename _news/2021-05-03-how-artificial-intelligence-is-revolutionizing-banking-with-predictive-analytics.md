@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "New SAS Viya offerings help better manage and navigate big data for AI and analytics"
+    excerpt: "Diverse and complex data environments create a challenge for organizations seeking to operationalize analytics to enable the best business decisions. Global analytics leader SAS continues to enhance its powerful,"
+    publishedDateTime: 2021-05-03T12:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-sas-viya-offerings-help-better-manage-and-navigate-big-data-for-ai-and-analytics-1030378017"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://mma.prnewswire.com/media/1500297/sas_viya_data_management.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Brytlyt’s Accelerated Analytics – powered by GPU"
     excerpt: "This whitepaper discusses the analytics challenges businesses are facing today, and how the Brytlyt platform can transform how people uncover insight from their data."
     publishedDateTime: 2021-04-29T19:20:00Z

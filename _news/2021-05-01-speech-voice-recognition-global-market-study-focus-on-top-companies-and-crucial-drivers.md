@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Using AI to gauge the emotional state of cows and pigs"
-    excerpt: "An animal scientist with Wageningen University & Research in the Netherlands has created an artificial-intelligence-based application that can gauge the emotional state of farm animals based on photographs taken with a smartphone."
-    publishedDateTime: 2021-04-29T14:10:00Z
-    webUrl: "https://phys.org/news/2021-04-ai-gauge-emotional-state-cows.html"
-    ampWebUrl: "https://phys.org/news/2021-04-ai-gauge-emotional-state-cows.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-ai-gauge-emotional-state-cows.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/using-ai-to-gauge-the-.jpg"
-        width: 1280
-        height: 527
-        isCached: true
   - title: "Citizen scientists train artificial intelligence for healthy oceans"
     excerpt: "Spyfish Aotearoa is a newly launched collaboration between DOC and Wildlife.AI, a charitable organisation applying artificial intelligence"
     publishedDateTime: 2021-05-02T23:34:00Z

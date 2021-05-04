@@ -55,6 +55,15 @@ related:
         width: 777
         height: 520
         isCached: true
+  - title: "Live Demonstration: A Neural Processor for AI Acceleration"
+    excerpt: "In this demonstration, we present AB9 SoC system, a single-chip solution for AI application. It provides the reconfigurable and programmable architecture to support the general computations for a variety of neural networks."
+    publishedDateTime: 2021-05-04T06:11:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9401074"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 19
   - title: "Development of Spectroscopic Sensor System for an IoT Application of Adulteration Identification on Milk Using Machine Learning"
     excerpt: "Adulteration in milk is a common scenario for gaining extra profit, which may cause severe harmful effects on humans. The qualitative spectroscopic technique provides a better solution for detecting the toxic contents of milk and foodstuffs."
     publishedDateTime: 2021-05-01T14:58:00Z

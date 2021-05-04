@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-platfor
 webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-platform-market-size-witness-highest-growth-in-near-future-by-2027-google-baidu-ibm-microsoft-sap/"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,34 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Artificial Intelligence Software Market (COVID-19) to Witness Astonishing Growth by Forecast 2021-2027 |Baidu, Google, IBM, Microsoft, SAP, etc"
+    excerpt: "Latest launched research on Global Artificial Intelligence Software Market, it provides detailed analysis with presentable graphs, charts and tables. This report covers an in depth study of the Artificial Intelligence Software Market size,"
+    publishedDateTime: 2021-05-04T05:44:00Z
+    webUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-software-market-covid-19-to-witness-astonishing-growth-by-forecast-2021-2027-baidu-google-ibm-microsoft-sap-etc/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 33
+    images:
+      - url: "https://marketsresearchreport.com/wp-content/uploads/2021/01/13.jpg"
+        width: 576
+        height: 324
+        isCached: true
+  - title: "Global Deep Learning System Software Market Innovations, Trades, Growth Trends And Forecast 2028"
+    excerpt: "The ‘Global Deep Learning System Software Market’ research report Published by the Market Research Inc, is an in-depth analysis of the latest developments, market size, status, upcoming technologies,"
+    publishedDateTime: 2021-05-03T15:52:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/global-deep-learning-system-software-market-innovations-trades-growth-trends-and-forecast-2028/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 26
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/shutterstock_400002673-15-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "AI in Smartphone and Wearable Market size, Witness Highest Growth in near future by 2027 | Lenovo, Apple, Xiaomi, Samsung, Huawei,"
     excerpt: "The study report on the global AI in Smartphone and Wearable Market 2021 gives a detailed and good size analysis which consists in a comprehensive view of the global industry contains the recent trend in addition to the forecasted magnitude of global business with admire service and products."
     publishedDateTime: 2021-05-04T02:56:00Z

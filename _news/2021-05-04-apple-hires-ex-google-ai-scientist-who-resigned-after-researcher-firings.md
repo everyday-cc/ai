@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientis
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/amp/"
 type: article
 quality: 88
-heat: 168
+heat: 178
 published: true
 
 provider:
@@ -107,19 +107,19 @@ related:
         isCached: true
   - title: "Apple hires ex-Google AI scientist who resigned after colleagues' firings"
     excerpt: "Bengio is expected to lead a new AI research unit at Apple under John Giannandrea, senior vice president of machine learning and AI strategy, two people familiar with the matter said."
-    publishedDateTime: 2021-05-04T05:45:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/article34477343.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/article34477343.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/article34477343.ece/amp/"
+    publishedDateTime: 2021-05-04T06:24:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings-101620109399451.html"
+    ampWebUrl: "https://www.hindustantimes.com/world-news/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings-101620109399451-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings-101620109399451-amp.html"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
+      name: Hindustan Times
+      domain: hindustantimes.com
     quality: 58
     images:
-      - url: "https://www.thehindu.com/sci-tech/technology/gp26kh/article34477427.ece/ALTERNATES/LANDSCAPE_615/apple-ai-researcherjfif"
-        width: 615
-        height: 384
+      - url: "https://images.hindustantimes.com/img/2021/05/04/1600x900/2021-05-04T022026Z_1_LYNXMPEH43026_RTROPTP_3_HYUNDAI-MOTOR-APPLE_1620109440091_1620109448877.JPG"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Apple hires ex-Google AI scientist Samy Bengio who resigned after colleagues' firings"
     excerpt: "Bengio is expected to lead a new AI research unit at Apple under John Giannandrea, senior vice president of machine learning and AI strategy, two peop.."
@@ -152,6 +152,20 @@ related:
       - url: "https://c.ndtvimg.com/2021-04/o084hgn8_tim-cook-650_625x300_27_April_21.jpeg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Apple Hires Former Google AI Scientist Samy Bengio Who Resigned After Colleagues' Firing"
+    excerpt: "Apple Inc. said that it hired AI scientist Bengio who will lead the new AI research unit and will work under former colleague John Giannandrea."
+    publishedDateTime: 2021-05-04T06:38:00Z
+    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/apple-hires-former-google-ai-scientist-samy-bengio-who-resigned-after-colleagues-firing.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 30
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/afo8pvqn9l9f9bza_1620108146.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
         isCached: true
 
 secured: "POZtNRfVxjyHr0qrVB/oX8XelSrv89cUmUVWi9k3I7n1pXJoR0t4aVawaSlfLYQ+W2h+FEr7pj5qnIaZ9vowKQ/G/HRGIdQoM7nKXEwB2qz/V8ZO0+kM1XXn9wYuw7D62pFTChQ20FweYEgXRVf5VR7J7MMhSq96lfDfkZIZRnpMK5CllI971WHSSHnRkpR3XSNzAjKxcRhA30a8NwCbAcBUyugn6N5ZadZ2t5GxVDhkF7fx1+FtyEtXOj3VxhZUIYUeKxn//gUzzexQwh28bvvaL5dozaXSm0eKmYNuKOD3fUorUgvRp79JsT6wxqY0YhZy3smfcSxzXjE49YwNxyH25pgU8Mc6m7lu7dpoQQrW27GR5K/i8NaZG07ESkhSxrQvmq5/54ugcFcFrVU7MoMU7p5dB2WmBFoRZCCP+TsKoYp/GqbpYKVwOLOGbqm5w4EmqRehfjsXBKYWHSm0udzN2zj4Bg6rVNCDjmAJu2ROrmJL5pb+A6veOixVrCqGUbf2p1mTDZYneK3ftjFfoA==;HMcmnB/cVSIctl/smP0Uww=="

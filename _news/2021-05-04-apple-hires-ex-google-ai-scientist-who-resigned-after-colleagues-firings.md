@@ -2,28 +2,28 @@
 category: news
 title: "Apple hires ex-Google AI scientist who resigned after colleagues' firings"
 excerpt: "Bengio is expected to lead a new AI research unit at Apple under John Giannandrea, senior vice president of machine learning and AI strategy, two people familiar with the matter said."
-publishedDateTime: 2021-05-04T05:45:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/article34477343.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/article34477343.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/article34477343.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/article34477343.ece/amp/"
+publishedDateTime: 2021-05-04T06:24:00Z
+originalUrl: "https://www.hindustantimes.com/world-news/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings-101620109399451.html"
+webUrl: "https://www.hindustantimes.com/world-news/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings-101620109399451.html"
+ampWebUrl: "https://www.hindustantimes.com/world-news/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings-101620109399451-amp.html"
+cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings-101620109399451-amp.html"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.thehindu.com/sci-tech/technology/gp26kh/article34477427.ece/ALTERNATES/LANDSCAPE_615/apple-ai-researcherjfif"
-    width: 615
-    height: 384
+  - url: "https://images.hindustantimes.com/img/2021/05/04/1600x900/2021-05-04T022026Z_1_LYNXMPEH43026_RTROPTP_3_HYUNDAI-MOTOR-APPLE_1620109440091_1620109448877.JPG"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -149,7 +149,21 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Apple Hires Former Google AI Scientist Samy Bengio Who Resigned After Colleagues' Firing"
+    excerpt: "Apple Inc. said that it hired AI scientist Bengio who will lead the new AI research unit and will work under former colleague John Giannandrea."
+    publishedDateTime: 2021-05-04T06:38:00Z
+    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/apple-hires-former-google-ai-scientist-samy-bengio-who-resigned-after-colleagues-firing.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 30
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/afo8pvqn9l9f9bza_1620108146.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
+        isCached: true
 
-secured: "pDvwwBksCEjPhDRUBtPF7Gy4o3ISaAQ7aUcIndwezQbWGBA0PqRjuX9cvSl60BIqhKxwRtt5Ej4aZPp1kzoFUF5Nb3n+O2tsqIgvmLsQQlre9qP5GGt7Q2yA2l0HUs/39n7tsoGw9EQFh8bKc9F4ghYsQdbAOZkwvgVKXM63Z8Ro3nI+ltlBHb5oqKEYC3HWKJO3RIjasDY7CwPG5a9HWZlfOZq5pg/I8BstfQiPiK9Ltk4IBj3vBvFvaSs1T4IpY+8v+OYiToJXOwGczTN2OSPJTm9kxL2SfAZmRvc0Wcmib2MwXB/sVOQaL27L/pfdrGLVZ2OY2a+cBYkBzwOUY6k02mmKKD/gwqWLyhoQi+U=;ltX38UB+eXPs+J5RkuKT7A=="
+secured: "G137R1OIlS5oWmrgf+CyHG+8NVD8epY7OeV6920kWuXqd+OOfrDXu/j/zyZVl3hUwsrB3cDDA4kKNJvHUWVNolWAbehN+pYpGQ6CwyXceYN7vhsG1KvrlBFk9lV9zE7Oze85bj8A8n2q5Ixz1BBuWAjitRF7ZrPIVNKfkvI2+ssIVaNx0KTg9ZrONtAJCDY+rltIIp619gEJZbqLVTE341LGsddrpBOHhnpNlEvsQ2i/jQhrcgsjDq9af1pbdGGycLoh9JaQsO7WHBNaf63jeWTo+OYoNqAP0JRr1mVGPV4OBECplcFiBZZYxbgzKJK2ylcrMhIO3YnyDlwDpjM41o2yiATo2aCJiiAOWETxKNI=;kPOfrsmKqj2a4YfNNWYHRw=="
 ---
 

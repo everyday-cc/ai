@@ -22,6 +22,36 @@ topics:
 related:
   - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
     excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
+    publishedDateTime: 2021-05-04T05:54:00Z
+    webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
+    ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 76
+    images:
+      - url: "https://www.sify.com/uploads/AWS_ians_vewiSKhedjcdd.jpg"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "Q1 cloud report: AWS leads, but Azure and G Cloud are on the warpath"
+    excerpt: "Canalys’ latest cloud infrastructure services report showed the cloud wars roiling as global spending grew 35 percent to US$41.8 billion in the first quarter of 2021, exceeding US$40 billion in a quarter for the first time."
+    publishedDateTime: 2021-04-29T22:00:00Z
+    webUrl: "https://www.crn.com.au/news/q1-cloud-report-aws-leads-but-azure-and-g-cloud-are-on-the-warpath-563991"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 56
+    images:
+      - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__News_20180927103014_crn-14_migration_iStock-825887856.jpeg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
+    excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
     publishedDateTime: 2021-05-02T05:10:00Z
     webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
     ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
@@ -31,19 +61,19 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 56
-  - title: "IO, IO, off to Microsoft’s cloud we go: Excelero hits Azure"
-    excerpt: "Excelero has made its scale-out NVMe-oF array software available on Azure. NVMe-oF (NVMe-over-Fabric) extends a server’s PCIe/NVMe protocol across network links. This means a server application can access remote flash drives for block data at  RDMA speeds."
-    publishedDateTime: 2021-04-29T14:48:00Z
-    webUrl: "https://blocksandfiles.com/2021/04/29/excelero-says-hi-to-azure-and-jumps-aboard/"
+  - title: "Q1 cloud report: AWS leads, but Azure and Google Cloud are on the warpath"
+    excerpt: "Canalys’ latest cloud infrastructure services report showed the cloud wars roiling as global spending grew 35 percent to US$41.8 billion in the first quarter of 2021, exceeding US$40 billion in a quarter for the first time."
+    publishedDateTime: 2021-04-29T22:00:00Z
+    webUrl: "https://www.crn.com.au/news/q1-cloud-report-aws-leads-but-azure-and-g-cloud-are-on-the-warpath-563991"
     type: article
     provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
-    quality: 54
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 55
     images:
-      - url: "https://blocksandfiles.com/wp-content/uploads/2018/10/Excelero-splash.jpg"
-        width: 803
-        height: 534
+      - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__News_20180927103014_crn-14_migration_iStock-825887856.jpeg"
+        width: 1400
+        height: 900
         isCached: true
   - title: "Global cloud services market reaches US$42 billion in Q1 2021"
     excerpt: "Customer spending exceeded $40 billion a quarter for the first time in Q1, with total expenditure nearly $11 billion higher than in Q1 2020."

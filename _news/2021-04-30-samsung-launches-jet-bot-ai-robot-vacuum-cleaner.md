@@ -42,6 +42,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Samsung Launches A Vacuum Cleaner Powered By Artificial Intelligence"
+    excerpt: "In recent news, Samsung released an AI-powered vacuum cleaner called the Bespoke Jet Bot Robot Vacuum cleaner which features enhanced capabilities for object recognition and utilizes AI technology for better maneuvering and recognizing the house."
+    publishedDateTime: 2021-05-04T07:34:00Z
+    webUrl: "https://www.techjuice.pk/samsung-launches-a-vacuum-cleaner-powered-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 41
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/05/cats-13.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "wSYi16rXVz/BXV8rKcIeT3WDNtU26+JCNuZFk7Gky400FkqZqMt9kNaw+COfAmTAi4GTfYJtV+UWfILqa/F9aBWhQRgiLZN+KFcubWuGsTs62HbABPpTG9o7JUn03kcyQk3hQQw/zPEmFCxFr//0EV0yoKD64+9X34g+NUB0sTz4wg5G3eLfMT5J8d9oFWtvUOzzMtW+WMH57Yt8sWqALDAZgclpVupaNrS0CC+05fTtjNGOooQ0uSYhAm4eO6QGUSN5ha/To1wi/XqjuuSmHIdSWBur4k0Ub6/nkNDMPTsiyFYDRcX0+RSpYjyn25wKkcpW/JLxFbMxsXNpHbRR0R8+Ia435UwtnPasagDD+qGq5R2elK7iFqPlkipP4cTri8wEsy+za4Chab2IY1HZT/kPToDGnWg7q5MNpRkBdPvED5A1mkru6cwIMHCsfTT6oOBBxwhoFnbc/hRZTKnjCS/tFJf/5J95ipjOx4plp3Ld89EMFY4qYjiUwqwP+x76381dEAlb38ojkwPyNORfKQ==;uiPjNuiKNKMo8iRnW7do+g=="
 ---

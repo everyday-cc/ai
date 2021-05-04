@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/iit-madras-offer-free-online-course-artifici
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-offer-free-online-course-artificial-intelligence-soon-nptel/amp/"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "IIT Madras to offer Free Online Course on Artificial Intelligence - Check details, how to register"
+    excerpt: "IIT Madras is going to offer free online course on Artificial Intelligence in association with National Programme on Technology Enhanced Learning. Candidates can check here for details and steps to register."
+    publishedDateTime: 2021-05-04T07:13:00Z
+    webUrl: "https://www.timesnownews.com/education/article/iit-madras-to-offer-free-online-course-on-artificial-intelligence-check-details-how-to-register/752619"
+    ampWebUrl: "https://www.timesnownews.com/amp/education/article/iit-madras-to-offer-free-online-course-on-artificial-intelligence-check-details-how-to-register/752619"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/education/article/iit-madras-to-offer-free-online-course-on-artificial-intelligence-check-details-how-to-register/752619"
+    type: article
+    provider:
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 58
+    images:
+      - url: "https://imgk.timesnownews.com/story/Artificial_Intelligence_IANS_0.jpg?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "How To Use AI To Counter Real-Time Abuse In Online Games"
+    excerpt: "According to an ADL report, 81 percent of US adults -- aged 18 to 45 -- encountered harassment while playing online games in 2020."
+    publishedDateTime: 2021-05-03T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-to-use-ai-to-counter-real-time-abuse-in-online-games/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/design-for-ai.jpg"
+        width: 1600
+        height: 1131
+        isCached: true
 
 secured: "Vnk6n9nrvenczAoIBWqCbjzowJMxmu+U1JI9CM8NSHxm0dcZ0BuNEHCGA95vgN4jXwGzrIjwJl4OpQx2C8zQBkOAGGUob8P+HhtGKKqcYMl2PiYCoJUV4R3lO4yfn6NMEoO5pN7c+pGmA36XgYm/aaJxl37tviIcJMT2i/HNeG2znnoMZwLf+DTBK4qVPhT6pg8Q59MXko5LnKczetVfITSzsE0cYNM58BZmUnJMNuhoiTVd1YYamOikQeeNEBpNKAR5D/sUKHE/JkP3KMbsi8zraiaQtOGWhRgl7MzGp8Kc+drG8u4Dog5WYTV+e/q2zHRAFKIurBgZL4iDK2Wk2zWBnLkgKE6AFriuSn2BHRs=;Ug6fGyuEPk3N2+WMD4RqfA=="
 ---

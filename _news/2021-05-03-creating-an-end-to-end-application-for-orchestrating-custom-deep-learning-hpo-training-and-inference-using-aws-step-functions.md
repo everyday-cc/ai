@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/"
 type: article
 quality: 93
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 777
         height: 520
         isCached: true
+  - title: "Live Demonstration: A Neural Processor for AI Acceleration"
+    excerpt: "In this demonstration, we present AB9 SoC system, a single-chip solution for AI application. It provides the reconfigurable and programmable architecture to support the general computations for a variety of neural networks."
+    publishedDateTime: 2021-05-04T06:11:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9401074"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 19
   - title: "Vision for ultra-precision agriculture includes machine-learning enabled sensing, modeling, robots tending crops"
     excerpt: "Researchers at the University of Illinois Urbana-Champaign have developed small-scale robots that can fertilize, weed and cull single plants in a"
     publishedDateTime: 2021-04-29T18:06:00Z

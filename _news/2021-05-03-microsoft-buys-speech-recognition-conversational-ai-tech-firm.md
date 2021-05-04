@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
 type: article
 quality: 93
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -112,22 +112,6 @@ related:
         width: 800
         height: 560
         isCached: true
-  - title: "Nest speakers and smart displays set to improve voice recognition and continued conversation"
-    excerpt: "Using the state-of-the-art BERT technology, or Bidirectional Encoder Representations from Transformers - a pre-training model for natural language processing that was open-sourced in 2018 - Google is looking to significantly improve the voice recognition and continued conversation technology in Nest speakers and smart displays."
-    publishedDateTime: 2021-04-29T13:50:00Z
-    webUrl: "https://chromeunboxed.com/nest-smart-speakers-displays-bert-voice-recognition"
-    ampWebUrl: "https://chromeunboxed.com/nest-smart-speakers-displays-bert-voice-recognition?amp"
-    cdnAmpWebUrl: "https://chromeunboxed-com.cdn.ampproject.org/c/s/chromeunboxed.com/nest-smart-speakers-displays-bert-voice-recognition?amp"
-    type: article
-    provider:
-      name: chromeunboxed.com
-      domain: chromeunboxed.com
-    quality: 33
-    images:
-      - url: "https://chromeunboxed.com/wp-content/uploads/2019/12/NestHubNestMiniDealTargetBorder.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial Intelligence in Marketing Market to See Massive Growth by 2027 | IBM Corporation, Microsoft Corporation, General Vision and More"
     excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence in Marketing Market report is anticipated to perform more robustly in the coming years,"
     publishedDateTime: 2021-05-03T11:28:00Z
@@ -137,15 +121,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 19
-  - title: "A High Accuracy Multiple-Command Speech Recognition ASIC Based on Configurable One-Dimension Convolutional Neural Network"
-    excerpt: "Speech command interaction has drawn much attention in smart application market. Many of previous chips achieve an ultra-low power consumption at the cost of a certain accuracy loss, and they are designed only for the fixed speech command recognition tasks,"
-    publishedDateTime: 2021-04-29T14:26:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9401401"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 11
   - title: "Artificial Intelligence Market to Eyewitness Huge Growth by IBM Corporation, Microsoft Corporation, General Vision, Enlitic, Inc."
     excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence Market report is anticipated to perform more robustly in the coming years, and its potential will steer the market to be positioned between the world’s most remunerative industries."
     publishedDateTime: 2021-05-03T11:28:00Z

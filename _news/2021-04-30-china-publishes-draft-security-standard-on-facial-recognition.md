@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/china-publishes-draft-security-
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "False facial recognition sends innocent man to jail"
+    excerpt: "False positive facial recognition match sends innocent man to jail."
+    publishedDateTime: 2021-04-29T21:25:00Z
+    webUrl: "https://www.kcrg.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+    type: article
+    provider:
+      name: ABC Kcrg  9
+      domain: kcrg.com
+    quality: 54
+    images:
+      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
+        width: 980
+        height: 548
+        isCached: true
   - title: "What cities must do to responsibly deploy facial recognition solutions"
     excerpt: "The National League of Cities has published recommendations for guiding conversations around how facial recognition technology is being implemented."
     publishedDateTime: 2021-04-29T20:46:00Z

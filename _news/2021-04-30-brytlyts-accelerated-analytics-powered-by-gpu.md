@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/white-paper/brytlyts-accelerated-analytics-p
 webUrl: "https://insidehpc.com/white-paper/brytlyts-accelerated-analytics-powered-by-gpu/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "New SAS Viya offerings help better manage and navigate big data for AI and analytics"
+    excerpt: "Diverse and complex data environments create a challenge for organizations seeking to operationalize analytics to enable the best business decisions. Global analytics leader SAS continues to enhance its powerful,"
+    publishedDateTime: 2021-05-03T12:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-sas-viya-offerings-help-better-manage-and-navigate-big-data-for-ai-and-analytics-1030378017"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://mma.prnewswire.com/media/1500297/sas_viya_data_management.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "How Artificial Intelligence is Revolutionizing Banking with Predictive Analytics"
     excerpt: "Every day, artificial intelligence (AI) breaks new ground. As a result, it's no surprise that AI is quickly emerging as a critical innovation engine in banking operations. AI is expected to increase the banking and financial services industry by at least USD 1."
     publishedDateTime: 2021-05-03T11:06:00Z

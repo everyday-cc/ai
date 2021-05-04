@@ -41,6 +41,20 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "False facial recognition sends innocent man to jail"
+    excerpt: "False positive facial recognition match sends innocent man to jail."
+    publishedDateTime: 2021-04-29T21:25:00Z
+    webUrl: "https://www.kcrg.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+    type: article
+    provider:
+      name: ABC Kcrg  9
+      domain: kcrg.com
+    quality: 54
+    images:
+      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
+        width: 980
+        height: 548
+        isCached: true
   - title: "King County government must turn its back on facial recognition technology"
     excerpt: "Whatever other concerns we might have about facial recognition technology — it poses a serious threat to our privacy and particularly to that of marginalized populations and communities."
     publishedDateTime: 2021-04-30T20:51:00Z

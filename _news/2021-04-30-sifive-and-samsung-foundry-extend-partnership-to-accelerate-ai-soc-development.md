@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210429005316/en/SiFive-an
 webUrl: "https://www.businesswire.com/news/home/20210429005316/en/SiFive-and-Samsung-Foundry-Extend-Partnership-to-Accelerate-AI-SoC-Development"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "SiFive and Samsung Foundry Extend Partnership to Accelerate AI SoC Development"
-    excerpt: "Configurable SiFive RISC-V AI SoC Development Platform is built on 14nm Samsung process technology to accelerate custom Machine Learning solutions"
-    publishedDateTime: 2021-04-29T13:32:00Z
-    webUrl: "https://www.design-reuse.com/news/49887/sifive-risc-v-ai-soc-platform-samsung-foundry-14nm.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 35
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage49887/sifiveb.jpg"
-        width: 485
-        height: 586
-        isCached: true
 
 secured: "5kHm6Mvb+qNCk0rGffJ31B+ycJbg3KYoZ4Hb5mpld+i/FPcUI+mGJLR4C6FNPKIcp+XHRIkYCVPm9/GIeXiNaDp/iihgH0ZHeZ23rsHOqbp5edd3iTEH84T0Rop5XSO0pHNIePItmwK+EHEsMw/Wg9agkzbRQVD6/DhYfI6NzuCzHio0RcbwWrrLPHx4PDgczvRboCmGunDetbKajiMP0ORCQORL9e9l2J8hWyZPmLNLw8Wqc+Gfasx8vde3A4lHdhglw4SP3LKUPxWqcUjWvW8fJJMON3w/sroTHsRPTDU/JokYs+tP5CeTxfZ42MJUxs6WmOuqdHky48V6gK+DzA1bfKrJAEVxuZZ32aZj3ng=;GdScM2b1pRfXBB4HInTOrQ=="
 ---

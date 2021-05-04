@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3617001/extreme-ceo-talks-ai-au
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Extreme Networks CEO talks AI, automation, chip shortages"
+    excerpt: "Tools that incorporate automation, AI, and ML can help IT catch more problems earlier and head them off before they hit the network."
+    publishedDateTime: 2021-05-04T07:53:00Z
+    webUrl: "https://www.arnnet.com.au/article/688105/extreme-networks-ceo-talks-ai-automation-chip-shortages/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/ed_meyercord_extreme_networks_3.jpg"
+        width: 800
+        height: 500
+        isCached: true
 
 secured: "QWvGFgQAhhXI58uJudvW3sdFFEc0J5gdx1B77/lihR9U1qoOiArHMEsss52d6ETBCTK07LxBzGTGX+swRWmaGdwRKESYSG1S8ediQrGgmDKk8sQtUW3vWmfS5KYCw3BEV6iarNjUrTvHn6mKiAg7QW1w74C8F+LWW/ShFH6SUPocslakodoRVxoS/XKVdv8JFGJ0XYpowGrdE69VZG5zD86SjYkk5usiKO3Qye0mUHLXWkuk2VMJ0L5tqpKzwhUlaT3jfTb/mJYhEHWX779dLHqRsqlFKlcPeLH1A53up4Rf8YSA7geAGG/GCdF46F5LK4XwA0IybVOZT9RMZ8Hpv2ljoehFKaYNbO73uUDfTN0=;SqH53hnGi6XCT0b7A/ZPaw=="
 ---
