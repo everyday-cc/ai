@@ -1,32 +1,29 @@
 ---
 category: news
 title: "Start and Scale your Intelligent Automation Journey with AI Powered E-Workers"
-excerpt: "Organizations have realized the need for augmenting their human employees with AI to manage manual tasks, given the complexities of a post-Covid world."
-publishedDateTime: 2021-05-03T13:25:00Z
-originalUrl: "https://www.infoworld.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers"
-webUrl: "https://www.infoworld.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers"
+excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+publishedDateTime: 2021-05-03T13:15:00Z
+originalUrl: "https://www.cio.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers"
+webUrl: "https://www.cio.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers"
 type: article
-quality: 64
-heat: 64
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CIO
+  domain: cio.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "knQtWqUegKaGKLq2FzNaSG4BuuIE5bbJEor78MLmXAL/1WB+PgXpNYAfVzU/j5Rj9bebL1Onu1NCNQyiFzqbdCo3dxH9wc0jVT6tf1mqNKzfUjdaDJf6w9T/+jZ79QDq4tmxnVCU7zqAz0eJxa32sOznGAR6fCwNDlBE5YCaC55X7d6nsRMwfDQ6S9rIBdIYSLeaB6Ker7u3s7XnK2wvvltSMmcID6N2THPI3zgU3i+vc2FuPpnevOHm+xR7KBWO3tz8xlWnPbiIpjt1wM1qFUf+2LJt+kTnnKeIeHQpXHQvre6YenrMelEZf7PZymTUhJ8U53zOucAwglzNVLgxzuJPDmgEAp3Oe/gHO+WV7nA=;XVfeOA3bPsDTe0e4C8CMng=="
+secured: "UcqbTbzMXP23m09ZCVc98yCb6GYlAVRXP7mYAKW0tzTS2FJQKWUbZnV3DomjInKJJs5irltLQZcFMAwfyYnVj4VxfDklqo8oOo2fM8IuqZVZz9xusw2RwnDKxhmWm6N5FZTG/HoxXdLjfH3UYP5ov3cMkj/xzoaXRamsxKOrI08fQrkSG1keA3CLzidfLtobZ+i12wy5UupkdXmIf1qn4P09YuOCQcm0ofP2a9unWH8O07UoYr5UCTLoFlRAj2jdADMbvfhoCaxVTH5gjW60QqA92dtou2YRxP4u0EVGhlNk1qnHODgKZq+ffyGiFaXcZ6d1MdFHYaOHo8rhh3n/tyMU4NK6zr4CxlrqLln8J4c=;EY/hVSmyp6IYSo3+BizYQQ=="
 ---
 

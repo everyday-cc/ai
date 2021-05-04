@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-Driving Cars To Conveniently Haul Fancy Stores To Your Doorstep For Your Shopping Delight"
-    excerpt: "Self-driving cars will be used to haul around mobile stores, bringing the shops to your doorstep, which is quite convenient though presents some hefty challenges for AI."
-    publishedDateTime: 2021-04-29T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606252c768cbbbf4ea56d79e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2460%26cropY1%3D124%26cropY2%3D1508"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "IQ236nHWXmZ79bfTzkS69vkNfPrlK7gLpBFJmeFBPPLm9kDh6TQ6dl3duN6di7w2vPMZk8cCMsm8lC2NYcMv6LRZyv5dBjCU7E1+m0QOm6bp3qZuoivNCScs35Ola/H97ApLMybvR/C3D+/oJmMc1Tw71Y2VqGCDr3GTVx9kjqKrmJv0+5p7Lb9BDfhKa6YqkJwDpaY3OCKyAtHhjeMDVIH6FXbyqOHzGB97llzzHbVxKaLEfGeBdeG9RJstFbgsn6K8WOy7LMEyh+YB/r3thrLuY08n53Y3AYKKIpyX6HekYFtiyVsqjDEX8E/zBbYCZva/WvbMTq4KqEMIwHdXCeTkGwHsgK1v7mB43+Jtx4DO5S5F+9+YDmxgCNefMm2RFdLzL5SrUzQMOg0mEQBZZ1I35NIH2/zpMtbtgnyBr6DI7CypM+VPZSjlrQ6ibIt6bDwRDD88ZV5OnJSBjQgWtnB+kzIc8qavmd+R1QA+fKZ5xQSSB1Je6ta1Ztc4qebofsb7bRjtSWikPP7xLuXvDg==;EH8k8K+B2yZgPIfohXSpFA=="
 ---

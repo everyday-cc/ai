@@ -7,8 +7,8 @@ originalUrl: "https://www.rbr.com/veritone-aws/"
 webUrl: "https://www.rbr.com/veritone-aws/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Radio & Television Business Report
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Codemill announces support for AWS for Media & Entertainment Initiative"
-    excerpt: "Codemill has announced support for the AWS for Media & Entertainment initiative from Amazon Web Services (AWS) to simplify the management of media productio"
-    publishedDateTime: 2021-04-29T16:28:00Z
-    webUrl: "https://advanced-television.com/2021/04/29/codemill-announces-support-for-aws-for-media-entertainment-initiative/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 34
   - title: "Arvato Systems Announces Vidispine Support for AWS for Media & Entertainment Initiative"
     excerpt: "The API integration between Vidispine and Amazon Rekognition offers customers the chance to automatically generate time-coded metadata such as detected objects, faces, and environments in the media content. Furthermore, the Vidispine API integration with ..."
     publishedDateTime: 2021-05-01T23:53:00Z

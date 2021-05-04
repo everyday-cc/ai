@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-03T09:41:00Z
 originalUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-ai-in-fintech-market-size-growth-opportunities-trends-by-manufacturers-regions-application-forecast-to-2027/"
 webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-ai-in-fintech-market-size-growth-opportunities-trends-by-manufacturers-regions-application-forecast-to-2027/"
 type: article
-quality: 0
+quality: 2
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"

@@ -2,21 +2,21 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-04-21-meituan-raises-10-bln-for-self-driving-cars-drone-delivery.md",
-      "title": "Meituan raises $10 bln for self-driving cars, drone delivery",
-      "excerpt": "Chinese food delivery giant Meituan says it has raised nearly $10 billion in a sale of convertible bonds and additional shares, with plans to invest in and develop delivery technologies",
+      "path": "_news/2021-04-21-huawei-technologies-unveils-range-of-ai-chips.md",
+      "title": "Huawei Technologies unveils range of AI chips",
+      "excerpt": "China’s largest telecom equipment maker and smartphone vendor Huawei Technologies Co Ltd has unveiled a range of artificial intelligence chips, in what is arguably its biggest-ever push to expand its presence in the semiconductor sector and to compete with US companies such as Nvidia Corp.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108",
+      "webUrl": "https://www.nationthailand.com/international/30356476",
+      "originalUrl": "https://www.nationthailand.com/international/30356476",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_e99be59739c54560b88dee5cc61b9a1b_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://media.nationthailand.com/images/default800x.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108",
-      "publishedDateTime": "2021-04-20T23:47:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "nationthailand",
+        "domain": "nationthailand.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +40,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI Hardware",
         "AI"
       ]
     },

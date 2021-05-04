@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cy
 webUrl: "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cybersecurity-risk/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence is Enhancing the Security in the Cloud?"
+    excerpt: "Significant funds had been invested in corporate firewalls, and now technology firms were recommending that corporate data remain outside of that security barrier. Early concerns were resolved, and data started to flow into the Cloud."
+    publishedDateTime: 2021-05-04T09:24:00Z
+    webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-enhancing-the-security-in-the-cloud-nid-7669.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/rrk2j450308p.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Cybersecurity Cloud Architect Paris"
     excerpt: "EliteCyber ​​represents one of its clients, a major player in the French cybersecurity landscape (but also beyond our borders), you will not be bored!A reputation already well established on"
     publishedDateTime: 2021-05-01T13:55:00Z

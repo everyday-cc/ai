@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-tur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/amp/"
 type: article
 quality: 89
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -138,20 +138,6 @@ related:
       - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/01/iStock-458622753-1.jpg"
         width: 1254
         height: 836
-        isCached: true
-  - title: "IBM to Acquire Turbonomic"
-    excerpt: "IBM has a definitive agreement to acquire Turbonomic, an application resource management (ARM) and network performance management software provider based in Boston. The acquisition will provide businesses with full stack application observability and management to assure performance and minimize costs using AI to optimize resources-such as containers,"
-    publishedDateTime: 2021-04-29T16:20:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-to-Acquire-Turbonomic-146596.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 24
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "IBM acquires software firm Turbonomic for a reported $2bn"
     excerpt: "IBM has agreed to acquire software firm Turbonomic for a reported $1.5bn to $2bn. Financial details were not disclosed in the release from IBM but Reuters is reporting that the deal is worth between $1."

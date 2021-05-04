@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/cms-announces-winners-of-artifi
 webUrl: "https://healthitanalytics.com/news/cms-announces-winners-of-artificial-intelligence-challenge"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "ClosedLoop.ai Wins $1.6 Million CMS Artificial Intelligence Health Outcomes Challenge"
-    excerpt: "ClosedLoop.ai, healthcare’s data science platform, won the CMS AI Health Outcomes Challenge, the largest healthcare-focused AI challenge in history."
-    publishedDateTime: 2021-04-30T21:26:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210430005596/en/ClosedLoop.ai-Wins-1.6-Million-CMS-Artificial-Intelligence-Health-Outcomes-Challenge"
+  - title: "Google Announces it Uses Spam Fighting AI"
+    excerpt: "Artificial Intelligence offers \"unprecedented potential to revolutionize\" spam fighting. Blocks estimated 99% of spam from search results"
+    publishedDateTime: 2021-05-04T09:17:00Z
+    webUrl: "https://www.searchenginejournal.com/google-spam-fighting-ai/405682/"
+    ampWebUrl: "https://www.searchenginejournal.com/google-spam-fighting-ai/405682/amp/"
+    cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/google-spam-fighting-ai/405682/amp/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
+      name: Search Engine Journal
+      domain: searchenginejournal.com
+    quality: 57
+    images:
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2021/05/google-ai-fights-spam-609103c60bdaf.jpg"
+        width: 1600
+        height: 840
+        isCached: true
+  - title: "Fighting algorithmic bias in artificial intelligence"
+    excerpt: "Julianna Photopoulos explores the issues of racial and gender bias in AI – and what physicists can do to recognize and tackle the problem"
+    publishedDateTime: 2021-05-04T08:22:00Z
+    webUrl: "https://physicsworld.com/a/fighting-algorithmic-bias-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 39
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2021/05/Photopoulos-artificial-intelligence-1310293181-iStock_imaginima.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "IkT9sR25CH2zJzJ/rEdd3/l8WokRxt30nSWNi1EOYqi/jaCQWWPk8iueCik4OgnL+NdxhoXzapeKcBg/DSYUl5VJtWyLeYOxa4vQ9R8nZYAL6geMk2hGVAo+Y6VTudIcJVJE3nvgGGf8uUPVIJDTK2UiNssNQvzNKfsMWOB4RUDAt/8qdj3EWoxUB8tiTlAfEB0Fi0pnbLyoR6hiap3zev3h/OtpnFB56vnvGOFwWgeHw4PrLqbLG0/S77j4dbf8ZXF7pYut7Wan4FDLvqYX5xgkAbtncX0RWVKYDyg0kChPjj2WHnCb1k51KcfNEPt0lsz212c3Q3btItXOKzxxGTj1Jw99rtqBvthKTsI4wihsRh16j9oAM5zQ2lIJleIbNuncEcVHsXynH+8IhLtxG7a1JUzOJ7Gzwcz0pkPL+Wbtq6VI5sYkKBgqpKaSaaax003A8pwDT0w2RqrtrSyOMTOJ6Z3Q8Vfr/wDv97/Ev/LXGkmV6khKg6XiuEaIdZZfIhxC2cu1tyjz1XimxXkK1A==;A+wslzuevVtC53Z4nvaayQ=="
 ---

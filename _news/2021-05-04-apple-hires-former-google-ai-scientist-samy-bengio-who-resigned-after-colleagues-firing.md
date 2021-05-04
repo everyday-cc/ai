@@ -69,6 +69,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Yet another Google AI leader has defected to Apple"
+    excerpt: "Apple has hired Samy Bengio, a prominent AI researcher who previously worked at Google. Bengio will lead \"a new AI research unit\" within Apple, according to a recent report in Reuters. He is just the latest in a series of prominent AI leaders and workers Apple has hired away from the search giant."
+    publishedDateTime: 2021-05-03T21:59:00Z
+    webUrl: "https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/05/IRW_3731-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Apple Hires Scientist Bengio, Who Left Google in Wake of AI Woes"
     excerpt: "Apple Inc. said it hired Samy Bengio, a respected research scientist who ended his 14-year career at Google after the company made the controversial decision to oust two women researchers who reported to him."
     publishedDateTime: 2021-05-03T18:32:00Z
@@ -162,6 +176,20 @@ related:
       - url: "https://c.ndtvimg.com/2021-04/o084hgn8_tim-cook-650_625x300_27_April_21.jpeg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Former Google AI Scientist Samy Bengio To Join Apple"
+    excerpt: "Samy Bengio worked at Google for 14 years. His exit comes a few months after the firing of two Google AI ethics researchers"
+    publishedDateTime: 2021-05-04T08:11:00Z
+    webUrl: "https://analyticsindiamag.com/former-google-ai-scientist-samy-bengio-to-join-apple/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2019/11/INDIAMSBA-GETPAID300x250.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "1O/HU/Yh0rL4cbCOyU3iIYpnIzAOR0fGe+6JHg+S8c1zuLR9+QjdKQQJ7TtSlSlSFXZOg4C9uDksigP6FJMb3JJs/Aj8WUPLCQhhcWHGG+cClnItyXDaS7M0N40XRHdCdb3bchiXV6AtxlUzlfHxqUnNK9Ll3CdRTnU0MDm3US3FLYC3kQBRgieGu7ArIb9jaOsC6Mn/n2mSo4Bewv0QpaDKwt8N2ykf/Xv02hJr0It+XjChKtMZ3wIGsuW1rxrFGdjlTQ3Mvs52TnZ4SHSgqOLnXGVcqfcNDpftwMuaOyt5ak1yT4ercg1eePT89US5FayT2XHuuHNs8gCWAIOmnh+zkFbvBZylmpTr4TOnZCg=;4hgK0fCRcwtZ5isYRWhNMQ=="

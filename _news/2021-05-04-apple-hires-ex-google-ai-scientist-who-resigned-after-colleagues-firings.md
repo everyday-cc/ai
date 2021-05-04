@@ -71,6 +71,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Yet another Google AI leader has defected to Apple"
+    excerpt: "Apple has hired Samy Bengio, a prominent AI researcher who previously worked at Google. Bengio will lead \"a new AI research unit\" within Apple, according to a recent report in Reuters. He is just the latest in a series of prominent AI leaders and workers Apple has hired away from the search giant."
+    publishedDateTime: 2021-05-03T21:59:00Z
+    webUrl: "https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/05/IRW_3731-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Apple Hires Scientist Bengio, Who Left Google in Wake of AI Woes"
     excerpt: "Apple Inc. said it hired Samy Bengio, a respected research scientist who ended his 14-year career at Google after the company made the controversial decision to oust two women researchers who reported to him."
     publishedDateTime: 2021-05-03T18:32:00Z
@@ -149,6 +163,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Former Google AI Scientist Samy Bengio To Join Apple"
+    excerpt: "Samy Bengio worked at Google for 14 years. His exit comes a few months after the firing of two Google AI ethics researchers"
+    publishedDateTime: 2021-05-04T08:11:00Z
+    webUrl: "https://analyticsindiamag.com/former-google-ai-scientist-samy-bengio-to-join-apple/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2019/11/INDIAMSBA-GETPAID300x250.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Apple Hires Former Google AI Scientist Samy Bengio Who Resigned After Colleagues' Firing"
     excerpt: "Apple Inc. said that it hired AI scientist Bengio who will lead the new AI research unit and will work under former colleague John Giannandrea."
     publishedDateTime: 2021-05-04T06:38:00Z
@@ -164,6 +192,6 @@ related:
         height: 709
         isCached: true
 
-secured: "G137R1OIlS5oWmrgf+CyHG+8NVD8epY7OeV6920kWuXqd+OOfrDXu/j/zyZVl3hUwsrB3cDDA4kKNJvHUWVNolWAbehN+pYpGQ6CwyXceYN7vhsG1KvrlBFk9lV9zE7Oze85bj8A8n2q5Ixz1BBuWAjitRF7ZrPIVNKfkvI2+ssIVaNx0KTg9ZrONtAJCDY+rltIIp619gEJZbqLVTE341LGsddrpBOHhnpNlEvsQ2i/jQhrcgsjDq9af1pbdGGycLoh9JaQsO7WHBNaf63jeWTo+OYoNqAP0JRr1mVGPV4OBECplcFiBZZYxbgzKJK2ylcrMhIO3YnyDlwDpjM41o2yiATo2aCJiiAOWETxKNI=;kPOfrsmKqj2a4YfNNWYHRw=="
+secured: "hosh99I9yNRBNu8jqSzw8wkMEtTylruRSgJbAG2ACT4ZsR4YNcGnRyuYdd2iCZD5KOt/9bkJundWW4t3GOQ+SsXpUpEe+513AbhTX6MNCV1d/654rK8zYlxA10Th9pUF3LQ5vPKjCint5nLnVeSrTWbAEGJapnEdvIx89FmcgF+88S3dTecB0OHov6hc0XMPmSU5AW9iN2+bydasDarmo1P5zaAyktp5oenD3ZxODhi65cL1wbM7u6PU3ys299XJGbzfEXydC+Txcs8b7wMNV/0Tp03NxNxV5UkukegzzEvj6y8gvBrx+ID356AxfScSEjb7k7bVw8SWvlcV6H2hO1E4iSVYROu8iseSgU7+jQC2eWjv9bIzGXpJU7XohcWEVI1FZ6nZUpjzxkNNIteSkj64xpjLlhX9DG27zf351rWi6S46UdU1Suit8EG9P7jvMnfhKCiL2sJ0halOSKnzBw4WrrhGsvQUFLmi7OhHzwRsCgktKqsCfNeph4Jp7sOdAx6+ypU9vJC+bPwiUFs+vA==;OEN7ufP8GlHwQHo+YnY9Mg=="
 ---
 

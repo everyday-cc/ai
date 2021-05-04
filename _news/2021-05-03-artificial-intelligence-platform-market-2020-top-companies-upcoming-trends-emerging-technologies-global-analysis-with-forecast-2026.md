@@ -146,7 +146,7 @@ related:
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 0
+    quality: 2
   - title: "Exclusive Report Of Machine Learning as a Service (MlaaS) Market: Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin and Share 2028"
     excerpt: "IndustryAndResearch research recently promoted a report on “Global & USA Machine Learning as a Service (MlaaS) Market Report Insight, Key Research Findings, Competative Landscape and Forecast 2021-2028” The report gives a comprehensive calculation of the Machine Learning as a Service (MlaaS) containing industry chain structure,"
     publishedDateTime: 2021-05-03T13:50:00Z

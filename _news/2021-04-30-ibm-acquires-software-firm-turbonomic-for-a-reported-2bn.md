@@ -149,20 +149,6 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "IBM to Acquire Turbonomic"
-    excerpt: "IBM has a definitive agreement to acquire Turbonomic, an application resource management (ARM) and network performance management software provider based in Boston. The acquisition will provide businesses with full stack application observability and management to assure performance and minimize costs using AI to optimize resources-such as containers,"
-    publishedDateTime: 2021-04-29T16:20:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-to-Acquire-Turbonomic-146596.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 24
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IBM to Buy Turbonomic"
     excerpt: "IBM (NYSE: IBM) is to acquire Turbonomic, a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
     publishedDateTime: 2021-04-30T16:30:00Z

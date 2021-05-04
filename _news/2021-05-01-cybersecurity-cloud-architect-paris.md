@@ -33,6 +33,20 @@ related:
         width: 748
         height: 438
         isCached: true
+  - title: "How Artificial Intelligence is Enhancing the Security in the Cloud?"
+    excerpt: "Significant funds had been invested in corporate firewalls, and now technology firms were recommending that corporate data remain outside of that security barrier. Early concerns were resolved, and data started to flow into the Cloud."
+    publishedDateTime: 2021-05-04T09:24:00Z
+    webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-enhancing-the-security-in-the-cloud-nid-7669.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/rrk2j450308p.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "R8DSFwr0URUR+eWBONdW3uQT6rb9KKc53WC/3H++6delZSDxdNu9qGoIyA+AFgh5gsAQmL2DyC9nyjCKgve5m5DOgfqOHmeRBdddhadzdLtkS5A9WmQdqJvTZqbflyRnn0WNkdnjk4jxskmQ5veWkLiyQgoAvoCFpzbWyW3Z370uXAr3EjmwDe4eEY7uHZZSG/5cGUtftlCz16GF9hRKwpDiqRLAQ7e4blYq4mjvlXGf+Xw1Ko+LYtFUKQMjA3Dzfaqdr5n4ujeKf8F1V8RwHw05yak99+h8HGnSgYtfb4sD5eh7SW8H6EdAztk+28Dg2sBx2KQmtEyL/qaWiTqxqTHst39Vc+HN5tRpxCIkgek=;XEPuoxI3zthAS2P8VgGgmw=="
 ---

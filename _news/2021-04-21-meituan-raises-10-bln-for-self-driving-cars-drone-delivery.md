@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Meituan raises $10 bln for self-driving cars, drone delivery"
-excerpt: "Chinese food delivery giant Meituan says it has raised nearly $10 billion in a sale of convertible bonds and additional shares, with plans to invest in and develop delivery technologies"
-publishedDateTime: 2021-04-21T06:47:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108"
-webUrl: "https://abcnews.go.com/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209108"
+excerpt: "Chinese food delivery giant Meituan The Beijing-based firm, China’s largest food delivery platform, said in a filing to the Hong Kong stock exchange that it sold 187 million additional shares in a top-up placement at 273."
+publishedDateTime: 2021-04-21T07:14:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
 type: article
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_e99be59739c54560b88dee5cc61b9a1b_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.hdnux.com/photos/01/17/55/03/20893889/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
-secured: "lV7udTa40I5s4znNKpl+Ve0XRnAOiNyFFR0Megkwf+hDM5ShRLkhw9pYud+MGIxayjjCW+oKi+Vr75TxYLzcILxiD5Y4PiodO4134aqWuukZ6bUe+qfnRpKUbu6QH73/4CP2l5ID70Uh/2D02UGozQ3d+o+94c2gUW6+WyCWQoZ+O8yPzo6YiKKci2wtke+9GpixHQ2ubtif4CPGnZCfZHJzGP33e4j930jLmfZJpw97NcNc4fzbfXM3cKnJPFhHsdz1K1EG3yFmacHBmnBrXNZB0m3TToCv+kWnqzbU6AlDDKPXcNWzmns8SZXuwsDq2Xaa3mc2WpTGGHm7OrjfkY3GGN8z4jP6W+d3cun9Rg0=;CZ0SNPziTbGT6BAQLOUSEw=="
+secured: "jod9KmyFQm5tbs3sHdzR8jKVOCBQPdJojGH+ZOCeA4/1viAA930vJRTJBjhpOH2OyQqqZy99CDtGTxFkJeAKeApT9bili+Ja2+oxVpRSaKu2PH4nP112Y1FaYeUmZBa9MZigWU0cOBC+bj87WYLo7IICHq6nvnJuZciItSEY/qpemM9yqnnInEOM+n+2h8Hbkaift+mqxQRYziPMDHfRl1C7BbnwtMsem4MN5MQOd1bh6O1QKaacnjyWW7/hnDbHVnNCX850rkzX/MW6TqMa08jAFo5YaM+/Rz1lc9nZ4q7iiEMPlozaeQ0yR1e++mrfc77j4t0JIJb9/xY09zwqLTHrAPwBhbsPofagRNH4xWQ=;x8AmWQKyK2A1KZJ9UXUj3g=="
 ---
 
