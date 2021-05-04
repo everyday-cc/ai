@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "noodleai"
   url: "https://twitter.com/noodleai"
-  followers: 1435
+  followers: 1434
 
 size: 201-500 employees
 yearFounded: 2016
@@ -34,7 +34,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1386146430914420736/uIKRciPO_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1389649715914952707/Rf6h5mUx_400x400.jpg"
     width: 400
     height: 400
     isCached: true
