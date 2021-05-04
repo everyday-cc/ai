@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-tur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 229
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM buys Turbonomic to build out AIOps tools"
-    excerpt: "IBM has been acquiring companies at a rapid clip to help roll out hybrid cloud and AI automation tools. By Larry Dignan for Between the Lines | April 29, 2021 -- 15:00 GMT (08:00 PDT) | Topic: Cloud IBM said it will acquire Turbonomic,"
-    publishedDateTime: 2021-04-29T08:00:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-buys-turbonomic-to-build-out-aiops-tools/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-build-out-aiops-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-build-out-aiops-tools/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/29/e0913226-8f33-41bc-ae6b-b5627bd38cfe/app-prioritization.gif"
-        width: 550
-        height: 400
-        isCached: true
   - title: "IBM is acquiring Turbonomic to advance AIOps agenda"
     excerpt: "IBM is acquiring Turbonomic to extend the scope of its AIOps portfolio. This follows a series of acquisitions over the last several months."
     publishedDateTime: 2021-04-30T15:40:00Z

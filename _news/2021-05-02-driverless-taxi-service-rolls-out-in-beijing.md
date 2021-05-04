@@ -181,20 +181,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving"
-    excerpt: "Passengers can experience a real driverless autonomous driving service at Beijing's Shougang Park Visitors at the upcoming 2022 Beijing Winter"
-    publishedDateTime: 2021-04-29T07:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-1030362987"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Baidu in the driver’s seat"
     excerpt: "Despite regulatory concerns, the Chinese tech company is a leader in AI and commercialising technology in cars and public transport."
     publishedDateTime: 2021-04-29T14:00:00Z
@@ -254,7 +240,7 @@ related:
   - title: "Baidu to Open China's First Public Commercial Robotaxi Service Without Safety Drivers on May 2"
     excerpt: "China’s technology giant Baidu Inc. is launching the first commercial robotaxi service in the country on May 2 after months of successful testing using safety drivers. Beginning next week, members of the public can hail one of Baidu’s driverless vehicles without a safety driver behind the wheel."
     publishedDateTime: 2021-04-29T17:30:00Z
-    webUrl: "https://www.futurecar.com/4583/Baidu-to-Open-Chinas-First-Public-Commercial-Robotaxi-Service-Without-Safety-Drivers-on-May-2"
+    webUrl: "https://www.futurecar.com/4583/Baidu-to-Open-Chinas-First-Commercial-Robotaxi-Service-Without-Safety-Drivers-on-May-2"
     type: article
     provider:
       name: futurecar

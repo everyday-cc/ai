@@ -7,7 +7,7 @@ originalUrl: "https://www.fenderbender.com/articles/16454-self-driving-cars-appr
 webUrl: "https://www.fenderbender.com/articles/16454-self-driving-cars-approved-in-uk"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,33 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "The UK will allow self-driving cars on its roads in 2021, and some hope they will put an end to traffic"
-    excerpt: "The UK government will allow vehicles fitted with lane-keeping systems to drive on motorways later this year."
-    publishedDateTime: 2021-04-29T07:31:00Z
-    webUrl: "https://www.businessinsider.com/uk-allows-self-driving-cars-2021-4"
+  - title: "UK becomes first country to give green light to self-driving cars on motorways"
+    excerpt: "The Transport Ministry of Britain informed that it has been working on specific wording to update the highway code of the country for the safe use of"
+    publishedDateTime: 2021-04-30T08:44:00Z
+    webUrl: "https://www.jagranjosh.com/current-affairs/uk-becomes-first-country-to-give-green-light-to-self-driving-cars-on-motorways-1619772177-1"
+    ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/uk-becomes-first-country-to-give-green-light-to-self-driving-cars-on-motorways-1619772177-1"
+    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/uk-becomes-first-country-to-give-green-light-to-self-driving-cars-on-motorways-1619772177-1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5fc97006037cbd0018613bf9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Self-Driving Cars: Can They Be Brought onto the Roads Safely?"
-    excerpt: "Can They Be Brought onto the Roads Safely? By shruthi sethu - One can also teach self-driving cars how to follow the highway code. This necessitates dissecting each rule in the"
-    publishedDateTime: 2021-04-30T11:18:00Z
-    webUrl: "https://www.cioreview.com/cioviewpoint/selfdriving-cars-can-they-be-brought-onto-the-roads-safely-nid-33447-cid-246.html"
+      name: Rojgar Samachar
+      domain: jagranjosh.com
+    quality: 20
+  - title: "Forget Tech Bro Fantasies of Self-Driving Cars and Just Invest in Buses Already"
+    excerpt: "Lyft and Uber’s autonomous vehicle hype has far outstripped progress. Let’s put our hopes, and our money, elsewhere."
+    publishedDateTime: 2021-05-03T10:04:00Z
+    webUrl: "https://newrepublic.com/article/162280/autonomous-vehicles-public-transportation-uber-lyft"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
+      name: New Republic
+      domain: newrepublic.com
+    quality: 20
     images:
-      - url: "https://www.cioreview.com/newsimages/705x485_4to2wNG3.jpg"
-        width: 705
-        height: 485
+      - url: "https://images.newrepublic.com/82340a36523d211530ef994c04c5b8a035d46136.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+        width: 1109
+        height: 577
         isCached: true
   - title: "Self-driving cars could be on UK roads by the end of 2021, but not as you might expect"
     excerpt: "The Department for Transport has laid out plans for vehicles equipped with Automated Lane Keeping Systems to be legally defined as ‘self-driving’."

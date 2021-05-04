@@ -44,6 +44,20 @@ related:
         width: 728
         height: 500
         isCached: true
+  - title: "Apple hires former Googler Samy Bengio to head AI research unit"
+    excerpt: "Apple has reportedly hired former Googler Samy Bengio to head a new AI research unit with John Giannandrea, Apple's senior vice president of machine learning and AI strategy. Apple has not commented."
+    publishedDateTime: 2021-05-03T19:54:00Z
+    webUrl: "https://www.neowin.net/news/apple-hires-former-googler-samy-bengio-to-head-ai-research-unit/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 69
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620085457_1580301538_apple_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Apple hires yet another ex-Google AI leader"
     excerpt: "Apple has hired Samy Bengio, a prominent AI researcher who previously worked at Google. Bengio will lead \"a new AI research unit\" within Apple, according to a recent report in Reuters. He is just the latest in a series of prominent AI leaders and workers Apple has hired away from the search giant."
     publishedDateTime: 2021-05-03T21:59:00Z
@@ -52,7 +66,7 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/05/IRW_3731-760x380.jpg"
         width: 760

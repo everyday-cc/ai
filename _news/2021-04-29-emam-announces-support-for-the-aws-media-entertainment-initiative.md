@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emam-announces-support-for-the-aws-media-entertainment-initiative/article_88c17de6-c6d1-5956-a827-8a11f9f24106.html"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
     provider:
       name: Advanced Television
       domain: advanced-television.com
-    quality: 34
-  - title: "ThinkAnalytics supports AWS for Media & Entertainment initiative"
-    excerpt: "ThinkAnalytics is supporting the AWS for Media & Entertainment initiative. ThinkAnalytics' API integration with Amazon Personalize enables the creation of real-time personalized user experiences faster at scale."
-    publishedDateTime: 2021-04-29T07:38:00Z
-    webUrl: "https://www.digitaltvnews.net/?p=36335"
-    type: article
-    provider:
-      name: Digital TV News
-      domain: digitaltvnews.net
     quality: 34
   - title: "Arvato Systems Announces Vidispine Support for AWS for Media & Entertainment Initiative"
     excerpt: "The API integration between Vidispine and Amazon Rekognition offers customers the chance to automatically generate time-coded metadata such as detected objects, faces, and environments in the media content. Furthermore, the Vidispine API integration with ..."

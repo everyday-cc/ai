@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM buys Turbonomic to build out AIOps tools"
-    excerpt: "IBM has been acquiring companies at a rapid clip to help roll out hybrid cloud and AI automation tools. By Larry Dignan for Between the Lines | April 29, 2021 -- 15:00 GMT (08:00 PDT) | Topic: Cloud IBM said it will acquire Turbonomic,"
-    publishedDateTime: 2021-04-29T08:00:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-buys-turbonomic-to-build-out-aiops-tools/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-build-out-aiops-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-build-out-aiops-tools/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/29/e0913226-8f33-41bc-ae6b-b5627bd38cfe/app-prioritization.gif"
-        width: 550
-        height: 400
-        isCached: true
   - title: "IBM Acquires Turbonomic To Build AIOps Tools"
     excerpt: "IBM has agreed to acquire Turbonomic, a Boston-based company that provides tools to manage application and network performance."
     publishedDateTime: 2021-04-30T05:44:00Z

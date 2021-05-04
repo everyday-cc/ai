@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AWS AI
 
 related:
   - title: "EASA Awaits Industry Feedback on Initial Regulatory Guidance for Machine Learning Algorithms in Aircraft Systems"

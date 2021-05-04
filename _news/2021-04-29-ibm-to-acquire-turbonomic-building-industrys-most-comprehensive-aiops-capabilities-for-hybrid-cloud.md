@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM buys Turbonomic to build out AIOps tools"
-    excerpt: "IBM has been acquiring companies at a rapid clip to help roll out hybrid cloud and AI automation tools. By Larry Dignan for Between the Lines | April 29, 2021 -- 15:00 GMT (08:00 PDT) | Topic: Cloud IBM said it will acquire Turbonomic,"
-    publishedDateTime: 2021-04-29T08:00:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-buys-turbonomic-to-build-out-aiops-tools/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-build-out-aiops-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-build-out-aiops-tools/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/29/e0913226-8f33-41bc-ae6b-b5627bd38cfe/app-prioritization.gif"
-        width: 550
-        height: 400
-        isCached: true
   - title: "IBM Acquires Turbonomic To Build AIOps Tools"
     excerpt: "IBM has agreed to acquire Turbonomic, a Boston-based company that provides tools to manage application and network performance."
     publishedDateTime: 2021-04-30T05:44:00Z
@@ -244,6 +228,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "0ahl+3j4wte90f6dyNNhwZC8EI9ducsXHSXKwRhFZ0OKNIVOxTKtInMohmWxWyk7iibxV6g+L1KDpkF7HpkWBRqVm6zGwJVTlutkUVqWN6rubSHNcWeR+CAVGQIB96PI9BsDz/Uqytg1aiKHz66BEAraBQfLlwpO88SgsENZSUGPkE3H8WPUoVibGyvl41WHDOwaDCVdk2j9MBNQv/rzrKmoUBxpRD09Yj41W48sq7HR+fVmeBVtG+rCsEXP33R6YczeeeQC/UBYJUn1JCtATECcDwh2emkPkp7si6CfKsydpHuMCFdp+K2caBux6G2nqAlxjDqiI1rg6VKlsDzVTtmCr6wqFAwPufiq08pOz1Y=;2oA2MkzqW6cLgbixZf2n/A=="
+secured: "CEppI6KAvAIOrTmkIdhFGiTEg4e106/NMsmNrT/H6wDSD/vXaOpmh17iMOPxbLmIGmopTPWNkrbK77a7Rh0UYiF9z4lHgcw5jtWlZuYcrthavP8m2+R2Nai2mSvBbuwppuwVBcxoNUP0rvGaMuaO3/LGebKstH81IsqlOIc1QzWGmgqkboH+REpLqLJzVNvQ30gZTTkCU3MzPAG7co5tg27OzXTyND7ke6b9EdwPeQsO0O7bT3TMdsOoLwSxVPuB3qnYPzOOP+L3NLEh0FC1zzO1A518OwruVIUJdFQ6w0vrPUP4anm/2pk/ZZ4M7Mne6K3aVRgBtjYdFcLfEORmxKAzsnj18WAZuDQtts6JQm+GQ9HwIXU/7L8CLBZosvSGo7Kgf/VCaIrnDa2xdW4ebQ9Of9GzPraZANeFdXW32T3u6t/a0IamG6veNY0Zndtgzz8Z3PUJDuvNLmM8G6HCDE61CAxQq1J1+O64zv7jN1keZHOmZ8EZpC3B6qyOaK5MC1eT9+nCmGX6NlJtZq4vwg==;vDDWs/y+IP2mhnsNdY3mHw=="
 ---
 
