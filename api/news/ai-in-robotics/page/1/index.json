@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-05-tired-of-brushing-your-own-hair-now-you-can-get-a-robot-to-do-it-for-you.md",
+      "title": "Tired of brushing your own hair? Now you can get a robot to do it for you",
+      "excerpt": "Have you ever been stuck in the tangled doldrums of hair brushing and just found yourself thinking: “Boy, I could really use some help with this”?",
+      "sourceUrl": null,
+      "webUrl": "https://www.syfy.com/syfywire/robot-hair-brusher-robowig",
+      "originalUrl": "https://www.syfy.com/syfywire/robot-hair-brusher-robowig",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/05/gettyimages-1173567620.jpg?offset-x=0",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.syfy.com/syfywire/robot-hair-brusher-robowig?amp",
+      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/robot-hair-brusher-robowig?amp",
+      "publishedDateTime": "2021-05-04T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Syfy",
+        "domain": "syfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets.md",
       "title": "What Exactly Is Artificial Intelligence? (Hint: It’s All About The Datasets)",
       "excerpt": "What we can do—and what we’ve already done—with AI and AI applications is incredible. But there are still some major limitations and challenges.",
@@ -1381,40 +1424,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-status-global-outlook-and-forecast-2020-2025.md",
-      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Size, Status, Global Outlook and Forecast 2020-2025",
-      "excerpt": "The Global Artificial Intelligence and Robotics in Aerospace and Defense Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2020-2025. The Artificial Intelligence and Robotics in Aerospace and Defense Market report is a valuable source of insightful data for business strategists.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/20/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-status-global-outlook-and-forecast-2020-2025/",
-      "originalUrl": "https://ksusentinel.com/2021/04/20/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-status-global-outlook-and-forecast-2020-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

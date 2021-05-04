@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Argo’s new lidar sensor could help Ford, VW deploy self-driving vehicles at scale"
+    excerpt: "Argo AI made its first acquisition as a young, newly backed self-driving vehicle startup. Now, Argo says its acquisition of lidar company Princeton Lightwave is paying off and is poised to help it deliver autonomous vehicles that can operate commercially on highways and in dense"
+    publishedDateTime: 2021-05-04T18:09:00Z
+    webUrl: "https://techcrunch.com/2021/05/04/argos-new-lidar-sensor-could-help-ford-vw-deploy-self-driving-vehicles-at-scale/"
+    ampWebUrl: "https://techcrunch.com/2021/05/04/argos-new-lidar-sensor-could-help-ford-vw-deploy-self-driving-vehicles-at-scale/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/04/argos-new-lidar-sensor-could-help-ford-vw-deploy-self-driving-vehicles-at-scale/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://i.ytimg.com/vi/I_tYxMh3ddA/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving"
     excerpt: "A rgo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company and Volkswagen AG , announced that it has developed a new lidar sensor system with enough range t"
     publishedDateTime: 2021-05-04T15:34:00Z

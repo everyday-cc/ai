@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Q1 global cloud infrastructure spend cracks $40B for first time"
-    excerpt: "The digital transformation driven by COVID-19 has pushed global spending on cloud infrastructure services to a first quarter record, growing 35 per cent to US$41.8 billion."
-    publishedDateTime: 2021-04-30T01:55:00Z
-    webUrl: "https://www.arnnet.com.au/article/688051/q1-global-cloud-infrastructure-spend-cracks-40b-first-time/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 24
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_microsoft_google_3.jpg"
-        width: 740
-        height: 462
-        isCached: true
   - title: "Global cloud services market reaches US$42 billion in Q1 2021: Canalys"
     excerpt: "Cloud infrastructure services spending grew 35% to US$41.8 billion in the first quarter of 2021. The trend of using cloud services for data analytics and machine learning, data centre consolidation, application migration,"
     publishedDateTime: 2021-05-02T10:36:00Z

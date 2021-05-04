@@ -25,65 +25,54 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Windows and Azure can be a business lifeline. This training shows you how."
-    excerpt: "Register fo r the AI event of the year ... With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including ..."
-    publishedDateTime: 2021-05-04T16:00:00Z
-    webUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/"
-    ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
+  - title: "Microsoft open-sources Counterfit, an AI security risk assessment tool"
+    excerpt: "Microsoft's Counterfit toolkit aims to enable security teams to more easily test the robustness of AI systems both in and prior to production."
+    publishedDateTime: 2021-05-04T18:50:00Z
+    webUrl: "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/"
+    ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 112
+    quality: 121
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
-    excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
-    publishedDateTime: 2021-05-04T05:54:00Z
-    webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
-    ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
+  - title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
+    excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
+    publishedDateTime: 2021-05-04T12:01:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 76
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
     images:
-      - url: "https://www.sify.com/uploads/AWS_ians_vewiSKhedjcdd.jpg"
-        width: 700
-        height: 466
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1573748220/itpro/Microsoft_DW.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "MYCOM OSI’s Assurance Cloud Service launches on Microsoft Azure"
-    excerpt: "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
-    publishedDateTime: 2021-04-30T13:54:00Z
-    webUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/"
-    ampWebUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
+  - title: "Microsoft buys speech recognition, conversational AI tech firm"
+    excerpt: "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion."
+    publishedDateTime: 2021-05-03T06:47:00Z
+    webUrl: "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
     type: article
     provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 74
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 93
     images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
+      - url: "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428"
+        width: 761
+        height: 428
         isCached: true
-  - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
-    excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
-    publishedDateTime: 2021-05-02T05:10:00Z
-    webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
-    ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 56
 
 secured: "5N8fw8Nzy1lQPw8zK7LOadMQ7/xDySxzmOcoi+/IxIeulkWD1bibAMMXLye8+Do8E9zlqkVhlFEakzaA0xpCpcbLvuSr4c7w1EDA68lw2HmCQp19mi3Sq0bRjALcxAKQWoVvhO87VYmM3rwVHqMhhVdrfTgGESmog10lRbZcCay/2SnFDjHZwd5BCwGb6SYRHDjap0L7S3Fl9bXYK9ofKtl3o77CFpsnv3aeMx9qpKWpRq2tpzd56Lp8C1Xfg3YpewYrF0zB4E4lpVrhyTLZTSZMaj+IqWMjBA11YS9d177sdgCp1hR/q9DkVjYMOwdDUNkptRnFJ3m17lYLkQqNJlwfOHiJ+VL4eS3FmFC6CzP75RMF4TgL1JrriBuUzP/RBRhNbcK3FIWN09zrmKgzNmqIk6mj68Q9XKl02hiicFltgbt6Z4y9yCD5wkfCk7Vk6pZJQEu2BT0CLFXczQaMHzEQM67hhSAiukkqH2TFsrthy5t06K/1NFpTIR/vMWug6s+Aq7iuYzviaXY9VTEPJA==;dFdftyN9Iu3ceNZT4A3Wdg=="
 ---

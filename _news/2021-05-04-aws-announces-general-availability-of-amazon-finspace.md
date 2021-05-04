@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "AWS Announces General Availability of Amazon DevOps Guru"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon DevOps Guru, a fully managed operations service that uses machine learning to make it easier for developers to improve application availability by automatically detecting operational issues and recommending specific actions for remediation."
+    publishedDateTime: 2021-05-04T18:46:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-technology-business-842669af98364c64b33d2b4511563a91"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AWS Announces General Availability of Amazon Nimble Studio"
     excerpt: "Nimble Studio makes it easy to set up a content production studio in hours, scale capacity based on demand, and render content faster and more cost-effectively Anjekumi, CalState University, Evil Eye Pictures,"
     publishedDateTime: 2021-05-02T08:07:00Z

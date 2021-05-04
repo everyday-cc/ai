@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
 type: article
 quality: 112
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's new open-source tool could stop your AI from getting hacked"
-    excerpt: "Microsoft releases a tool to help organizations shore up AI systems against adversarial machine-learning attacks."
-    publishedDateTime: 2021-05-04T03:32:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
     excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
     publishedDateTime: 2021-05-04T05:54:00Z
@@ -86,6 +75,6 @@ related:
       domain: sify.com
     quality: 56
 
-secured: "4RP5ILIiFiqDtnw9BhCphkSI54sPv9bsO+Zc2bTT+B4kAtJ6oG8rO1GWkFTLRNOgyrHQkT3jPyljYt6dJUZe5H+K5plFI5Yy4/uejw8BvsRtLm/KlOOhID+LtVHWE+KNNhwdrDWl0OvuSpgw5NxTXGLJhSm9J4HSSCa4SANV6FDELF9VDhaBbbbTmH6MzWpF+kBLmMcpOKRhG7sUUAJARcDqRvtz5BcgleqomtJxeMJyA5CMo20XcUowd6rKrqGnuZElxi5M7zfHsMRlHSur7W4VH7cCiG7zpezH3F57aceiEVm6AzQTqftzv3gwZM72Lo5rRREAx8FvCqtYXX9BtgdJkj2tch3Zxt2uq0Bzkts=;gHy+0V0MoRhE8PmqKa5Heg=="
+secured: "8Dys1SzeKK50JKANXxWGxhQ7UC8G77kGhUliuzIy2DmNqBh2Nl7oLB7AGpBNqsVCcYjBXZnLIDMez7bIMMRb1ylMvwc4XgeZs0i63W008Fnw0CwN0F7hoA4HYyOFVaWPTWnZ+EQ2b1zFgESrjpqk7UI5NtIoFGnbmsjD86CREhMLVcfQ2eUDQMlPJFgYJniDyNNLVjwiYDexj5dmABtG0FZwSvBQ1c6qdwJf0Khr7PKxxWP0E16uWAe/jwL5JNH1rcjHo36avPbSSLXFOUGc0ony8McFxwa4cuhapcpweSXxd3424liLAy0N94lL8LPnRak0bvdkfjhzeCeo99r+sf0I0qTuEO9j3LxFdF7ZA5klgRiydcYF3r0uvMCtlXTS0AI0rZdESTJpx3VZ6xuMRlyQt74BVUTrla4RiAiX8qweM0Y5vbteBuP6Slw9i6IThoo62h0+XAypilrJ4sralhUBSSlal6iQ1VOLwIe7pKVAypeIK5VCCKpkjDkQl5sCYWRzP3g7famRvVU7+sr17w==;dSe4O+DjV5jvZbhPrStiCw=="
 ---
 

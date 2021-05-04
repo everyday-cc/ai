@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu launches China's first commercial driverless taxi service"
-    excerpt: "Chinese search engine giant Baidu on Sunday started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public on a trial basis since last October but Sunday marked the first time that riders have needed to pay for it."
-    publishedDateTime: 2021-05-04T10:00:00Z
-    webUrl: "https://motorauthority.com/news/1132139_baidu-launches-china-s-first-commercial-driverless-taxi-service"
+  - title: "Driverless taxi service rolls out in Beijing"
+    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China."
+    publishedDateTime: 2021-05-02T15:42:00Z
+    webUrl: "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing"
+    ampWebUrl: "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing.amp"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 59
     images:
-      - url: "https://images.hgmsites.net/hug/baidus-apollo-go-driverless-taxi-service_100790898_h.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2021/05/932/470/driverless-taxis.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
-  - title: "Small Robot Company launches first commercial robot"
-    excerpt: "Small Robot Company (SRC), a British agritech start-up for sustainable farming, today announced its first commercial robot, ‘Tom’. The Tom monitoring robot is now delivered to"
-    publishedDateTime: 2021-05-03T11:54:00Z
-    webUrl: "https://www.freshplaza.com/article/9317525/small-robot-company-launches-first-commercial-robot/"
+  - title: "Baidu's self-driving $5 taxis hit Beijing park in Olympic warm-up"
+    excerpt: "The Apollo Go service will be available starting Sunday in Shougang Park on the outskirts of Beijing -- one of the venues of the 2022 Winter Olympics. \"Introducing unmanned services is an indispensable stage for the commercialization of autonomous driving,"
+    publishedDateTime: 2021-05-01T01:30:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-s-self-driving-5-taxis-hit-Beijing-park-in-Olympic-warm-up"
     type: article
     provider:
-      name: FreshPlaza
-      domain: freshplaza.com
+      name: NIKKEI
+      domain: nikkei.com
     quality: 39
     images:
-      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/05/03/SRC2.jpg?preset=OgImage"
-        width: 1200
-        height: 630
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F6%252F9%252F3%252F33963963-5-eng-GB%252FCropped-161980631120210430N%2520Baidu%2520taxi.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "OmWj32iWgEfbC5vTnCfC33tKYKFmg7KXpJayKPcBsQX1fsFTD7ZVnD1L4NrxF1VTUCOnBIFBRQnavm7eqJBV6W7Qlq5yuWF0cEgM3kknZrn/YuWGSV4rPVaymTx8JajEQcjwJWy2m6xbAz6koqXQzzC1mSJq8mSa1y3k/5ARz1JfvUJTxGRWTojbYQhAir5r5PHFleU9Kx3tdLruZI4cMQPHXIqzr/Mqtjd7rDhBgv1Z9wETfMY98SwvCZx382voYmOZPCtZ8VDz9GnuHIe+V/4QSswvr+DBVXV38y+3dNixQo19FjETnRKEl4AsCO1bbhFHhvGKiJwC0qJcbm1m2G31AEXZSXMT/6x22xTNX7A=;wTHFTY8NjpQKwsZHy2fIag=="

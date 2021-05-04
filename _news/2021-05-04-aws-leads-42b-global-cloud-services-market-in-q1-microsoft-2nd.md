@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft's new open-source tool could stop your AI from getting hacked"
-    excerpt: "Microsoft releases a tool to help organizations shore up AI systems against adversarial machine-learning attacks."
-    publishedDateTime: 2021-05-04T03:32:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "MYCOM OSI’s Assurance Cloud Service launches on Microsoft Azure"
     excerpt: "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
     publishedDateTime: 2021-04-30T13:54:00Z

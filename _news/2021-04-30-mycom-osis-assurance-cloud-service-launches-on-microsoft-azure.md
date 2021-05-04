@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft's new open-source tool could stop your AI from getting hacked"
-    excerpt: "Microsoft releases a tool to help organizations shore up AI systems against adversarial machine-learning attacks."
-    publishedDateTime: 2021-05-04T03:32:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
     excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
     publishedDateTime: 2021-05-04T05:54:00Z

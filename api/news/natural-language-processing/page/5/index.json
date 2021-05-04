@@ -2,6 +2,155 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-10-startup-uses-nlp-and-ai-to-make-software-security-reviews-less-painful.md",
+      "title": "Startup uses NLP and AI to make software security reviews less painful",
+      "excerpt": "Apiiro creates user profiles and analyzes a company's code base to spot high-risk changes and replace manual risk assessments with on-the-fly analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/videos/startup-uses-nlp-and-ai-to-make-software-security-reviews-less-painful/",
+      "originalUrl": "https://www.techrepublic.com/videos/startup-uses-nlp-and-ai-to-make-software-security-reviews-less-painful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/12/18/ba522146-343e-4d46-b506-ffc6033c4b04/thumbnail/770x578/cc2e1f81f53b69a110e1feab2bb6e705/istock-1291376919.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T22:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-researchers-find-that-large-language-models-struggle-with-math.md",
+      "title": "Researchers find that large language models struggle with math",
+      "excerpt": "Prior research has demonstrated the usefulness of AI that has a firm grasp ... equations “as a kind of language and then [treat] solutions as a translation problem.” “While most other ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/09/researchers-find-that-large-language-models-struggle-with-math/",
+      "originalUrl": "https://venturebeat.com/2021/03/09/researchers-find-that-large-language-models-struggle-with-math/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/happynumbers-ai-math-augment-replace-teachers.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/09/researchers-find-that-large-language-models-struggle-with-math/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/researchers-find-that-large-language-models-struggle-with-math/amp/",
+      "publishedDateTime": "2021-03-09T19:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-to-reach-human-level-intelligence-ai-systems-must-truly-understand-language.md",
+      "title": "To reach human-level intelligence, AI systems must truly understand language",
+      "excerpt": "The original goal of human-like artificial intelligence was abandoned decades ago in favor of less ambitious approaches, two cognitive scientists argue in a new book. If that initial vision is to be realized,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/rpi-trh030921.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/rpi-trh030921.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-exploring-natural-language-processing-with-croesus.md",
       "title": "Exploring natural language processing with Croesus",
       "excerpt": "While looking to the future of FinTech, those in the Croesus Lab have found themselves enamored with natural language processing, and the implications it has for their field",

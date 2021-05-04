@@ -2,6 +2,272 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-22-not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars.md",
+      "title": "Not Many Realize That There Is Crossover Tech That Crisscrosses Self-Driving Cars And Human-Driven Cars",
+      "excerpt": "Crossover tech from self-driving cars to human-driven cars is a thing, though this must be done with sensibility else the result could be disastrous.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60809f29e3ebdeeea10bb05d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5871%26cropY1%3D217%26cropY2%3D2969",
+          "width": 1199,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/amp/",
+      "publishedDateTime": "2021-04-22T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-a-whale-of-a-tale-about-responsibility-and-ai.md",
+      "title": "A whale of a tale about responsibility and AI",
+      "excerpt": "A couple of years ago, Google AI for Social Good’s Bioacoustics team created a ML model that helps the scientific community detect the presence of humpback whale sounds using acoustic recordings. This tool, developed in partnership with the National Oceanic and Atmospheric Association, helps biologists",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/",
+      "originalUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/keyframe_whale_ai.max-1300x1300.png",
+          "width": 1300,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/whale-tale-about-responsibility-and-ai/amp/",
+      "publishedDateTime": "2021-04-22T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-5-robotics-stocks-that-will-make-your-life-easier.md",
+      "title": "5 Robotics Stocks That Will Make Your Life Easier",
+      "excerpt": "Robotics stocks are also part of this trend, which will transform the way we live for the better. According to one report, the robotics market will increase to $176.8 billion by 2025 from $76.6 billion in 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-robotics-stocks-that-will-make-your-life-easier-2021-04-22",
+      "originalUrl": "https://www.nasdaq.com/articles/5-robotics-stocks-that-will-make-your-life-easier-2021-04-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water.md",
+      "title": "AI for good: Tech company and nonprofits protect forests, track river pollution and deliver clean water",
+      "excerpt": "DataRobot offers training and support to help organizations build sustainable solutions for environmental problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/22/7797a070-8d12-4d4f-ba59-94f49b431bcc/resize/1200x/ebd4809db499445bc5bf0080b51815dc/gettyimages-482130569.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-for-good-tech-company-and-nonprofits-protect-forests-track-river-pollution-and-deliver-clean-water/",
+      "publishedDateTime": "2021-04-22T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-brainchip-simplifies-deep-learning-with-launch-of-metatf.md",
+      "title": "BrainChip Simplifies Deep Learning with Launch of MetaTF",
+      "excerpt": "The MetaTF development environment is an easy-to-use, complete machine learning framework for the creation, training and testing of neural networks, supporting the development of systems for Edge AI on BrainChip’s Akida event domain neural processor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html",
+      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/34/53471e9b-4634-5c50-b107-4ed265e2a7e7/60818531e5d3c.image.jpg?resize=1140%2C630",
+          "width": 1140,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings.md",
+      "title": "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings",
+      "excerpt": "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22",
+      "originalUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing.md",
       "title": "Akamai boosts traffic by 350% but keeps energy use flat thanks to edge computing",
       "excerpt": "Content delivery network gets 23% of global power needs from green sources including two wind farms and one solar array in the U.S.",
@@ -922,273 +1188,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028.md",
-      "title": "Artificial Intelligence (AI) & advanced Machine Learning (ML) Market Size, Share, Development Analysis, Progression Status by 2028",
-      "excerpt": "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2% in 2028, according to latest analysis by Emergen Research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028-2021-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028-2021-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-europe-proposes-strict-regulation-of-artificial-intelligence.md",
-      "title": "Europe proposes strict regulation of artificial intelligence",
-      "excerpt": "In a first-of-its-kind policy, the draft rules outline how companies and governments can use a technology seen as one of the most significant, but ethically fraught, scientific breakthroughs in recent memory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2021/04/21/business/europe-proposes-strict-regulation-artificial-intelligence/",
-      "originalUrl": "https://www.bostonglobe.com/2021/04/21/business/europe-proposes-strict-regulation-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonglobe.com/2021/04/21/business/europe-proposes-strict-regulation-artificial-intelligence/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/21/business/europe-proposes-strict-regulation-artificial-intelligence/?outputType=amp",
-      "publishedDateTime": "2021-04-21T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-googles-ethical-ai-researchers-complained-of-harassment-long-before-timnit-gebrus-firing.md",
-      "title": "Google’s ethical AI researchers complained of harassment long before Timnit Gebru’s firing",
-      "excerpt": "Google’s AI leadership came under fire in December when star ethics researcher Timnit Gebru was abruptly fired while working on a paper about the dangers of large language models. Now, new reporting from Bloomberg suggests the turmoil began long before ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/4/21/22396112/google-ethical-ai-team-bias-harassment-timnit-gebru-firing",
-      "originalUrl": "https://www.theverge.com/2021/4/21/22396112/google-ethical-ai-team-bias-harassment-timnit-gebru-firing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/er7Z_BUY-rEkcsBugDH4nvLILXE=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69165744/acastro_191014_1777_google_pixel_0005.0.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/21/22396112/google-ethical-ai-team-bias-harassment-timnit-gebru-firing",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/21/22396112/google-ethical-ai-team-bias-harassment-timnit-gebru-firing",
-      "publishedDateTime": "2021-04-21T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-birmingham-artificial-intelligence-tech-firm-secures-10-million-in-funding.md",
-      "title": "Birmingham artificial intelligence tech firm secures $10 million in funding",
-      "excerpt": "A Birmingham startup has secured $10 million in funding for its content generation business. Copysmith announced the investment through a partnership with Harmony Ventures Labs, and funds advised by PSG Equity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.al.com/business/2021/04/birmingham-artificial-intelligence-tech-firm-secures-10-million-in-funding.html",
-      "originalUrl": "https://www.al.com/business/2021/04/birmingham-artificial-intelligence-tech-firm-secures-10-million-in-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-global-cognitive-computing-market-2020-covid-19-impact-analysis-size-share-growth-trends-and-forecast-opportunities-to-2026.md",
-      "title": "Global Cognitive Computing Market 2020 COVID-19 Impact Analysis, Size, Share, Growth, Trends And Forecast Opportunities To 2026",
-      "excerpt": "Understand the influence of COVID-19 on the Cognitive Computing Market with our analysts monitoring the situation across the globe. Cognitive Computing Market analysis covering the period 2021 to 2026.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/21/global-cognitive-computing-market-2020-covid-19-impact-analysis-size-share-growth-trends-and-forecast-opportunities-to-2026/",
-      "originalUrl": "https://ksusentinel.com/2021/04/21/global-cognitive-computing-market-2020-covid-19-impact-analysis-size-share-growth-trends-and-forecast-opportunities-to-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mccourier.com/wp-content/uploads/2021/03/Market-Trends.jpg",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-hives-cloud-hosted-machine-learning-models-draw-85m.md",
-      "title": "Hive’s cloud-hosted machine learning models draw $85M",
-      "excerpt": "Hive wants to encourage machine learning in the cloud by allowing enterprises to access hosted ML models via APIs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/21/hives-cloud-hosted-machine-learning-models-draw-85m/",
-      "originalUrl": "https://venturebeat.com/2021/04/21/hives-cloud-hosted-machine-learning-models-draw-85m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Hive-Content-Moderation-Landscape.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/21/hives-cloud-hosted-machine-learning-models-draw-85m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/hives-cloud-hosted-machine-learning-models-draw-85m/amp/",
-      "publishedDateTime": "2021-04-21T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

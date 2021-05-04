@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-04-microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how.md",
-      "title": "Microsoft Windows and Azure can be a business lifeline. This training shows you how.",
-      "excerpt": "Register fo r the AI event of the year ... With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including ...",
+      "path": "_news/2021-05-05-microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool.md",
+      "title": "Microsoft open-sources Counterfit, an AI security risk assessment tool",
+      "excerpt": "Microsoft's Counterfit toolkit aims to enable security teams to more easily test the robustness of AI systems both in and prior to production.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/",
-      "originalUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/",
+      "webUrl": "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/",
+      "originalUrl": "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 151,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 800,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/",
-      "publishedDateTime": "2021-05-04T09:00:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/",
+      "publishedDateTime": "2021-05-04T11:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -50,25 +50,26 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AI in Security"
       ]
     },
     {
-      "path": "_news/2021-05-04-microsoft-launches-open-source-tool-counterfeit-to-prevent-ai-hacking.md",
-      "title": "Microsoft launches open source tool Counterfeit to prevent AI hacking",
-      "excerpt": "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems.",
+      "path": "_news/2021-05-04-microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how.md",
+      "title": "Microsoft Windows and Azure can be a business lifeline. This training shows you how.",
+      "excerpt": "Register fo r the AI event of the year ... With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including ...",
       "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks",
+      "webUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/",
+      "originalUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 142,
       "tags": null,
       "images": [
         {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1573748220/itpro/Microsoft_DW.jpg",
-          "width": 1260,
-          "height": 710,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +77,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp",
-      "publishedDateTime": "2021-05-04T05:01:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/",
+      "publishedDateTime": "2021-05-04T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1082,43 +1083,25 @@
     {
       "path": "_news/2021-04-21-5-things-to-know-about-ibms-earnings-report.md",
       "title": "5 Things to Know About IBM's Earnings Report",
-      "excerpt": "Here are five key things to know about IBM's results. IBM offers a public cloud platform similar to market leaders Amazon Web Services and Microsoft Azure, but the company's main focus is on hybrid cloud computing.",
+      "excerpt": "Here are five key things to know about IBM's results. IBM delivered 18% cloud revenue growth in the first quarter. Within the cloud and cognitive software segment, cloud revenue grew by 34%, and the company now has approximately 3,",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
+      "webUrl": "https://www.nasdaq.com/articles/5-things-to-know-about-ibms-earnings-report-2021-04-21",
+      "originalUrl": "https://www.nasdaq.com/articles/5-things-to-know-about-ibms-earnings-report-2021-04-21",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F622197%2Fibmz_01_ships-3.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
-      "publishedDateTime": "2021-04-21T07:45:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T03:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

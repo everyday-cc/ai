@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft open-sources Counterfit, an AI security risk assessment tool"
+    excerpt: "Microsoft's Counterfit toolkit aims to enable security teams to more easily test the robustness of AI systems both in and prior to production."
+    publishedDateTime: 2021-05-04T18:50:00Z
+    webUrl: "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/"
+    ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 121
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
     excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
     publishedDateTime: 2021-05-04T12:01:00Z
@@ -45,58 +61,17 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market Next Big Thing | Major Giants Ibm, Google, Microsoft"
-    excerpt: "A new business intelligence report released by HTF MI with title \"Global Artificial Intelligence Chipsets Market Report 2021\" is designed covering micro level of analysis by manufacturers and key business segments."
-    publishedDateTime: 2021-04-30T03:08:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269111662/artificial-intelligence-chipsets-market-next-big-thing--major-giants-ibm-google-microsoft"
+  - title: "Microsoft's new open-source tool could stop your AI from getting hacked"
+    excerpt: "Microsoft releases a tool to help organizations shore up AI systems against adversarial machine-learning attacks."
+    publishedDateTime: 2021-05-04T03:32:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 45
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1619546502300.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Artificial Intelligence In Genomics Market by Drivers, Restraints, Opportunities, and Challenges | Ibm, Microsoft, Nvidia Corporation"
-    excerpt: "AI in genomics market to register a CAGR of 52 7 from 2020 to 2025 ReportsnReports added Artificial Intelligence In Genomics Market Research Report created by Report Consultant which offers detailed insights revenue details and other information regarding the global"
-    publishedDateTime: 2021-04-30T07:17:00Z
-    webUrl: "https://www.openpr.com/news/2277898/artificial-intelligence-in-genomics-market-by-drivers"
-    ampWebUrl: "https://www.openpr.com/amp/2277898/artificial-intelligence-in-genomics-market-by-drivers"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277898/artificial-intelligence-in-genomics-market-by-drivers"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-  - title: "Artificial Intelligence for Accounting Market size, Witness Highest Growth in near future by 2027 | Microsoft, Aws, Xero, Intuit, Sage"
-    excerpt: "The Artificial Intelligence for Accounting market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
-    publishedDateTime: 2021-05-03T03:21:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-for-accounting-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-aws-xero-intuit-sage/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
-  - title: "Artificial Intelligence in Marketing Market to See Massive Growth by 2027 | IBM Corporation, Microsoft Corporation, General Vision and More"
-    excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence in Marketing Market report is anticipated to perform more robustly in the coming years,"
-    publishedDateTime: 2021-05-03T11:28:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-in-marketing-market-to-see-massive-growth-by-2027-ibm-corporation-microsoft-corporation-general-vision-and-more/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
-  - title: "Artificial Intelligence Market to Eyewitness Huge Growth by IBM Corporation, Microsoft Corporation, General Vision, Enlitic, Inc."
-    excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence Market report is anticipated to perform more robustly in the coming years, and its potential will steer the market to be positioned between the world’s most remunerative industries."
-    publishedDateTime: 2021-05-03T11:28:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-market-to-eyewitness-huge-growth-by-ibm-corporation-microsoft-corporation-general-vision-enlitic-inc/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 7
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
 
 secured: "tSZ/yHFj8LbrAr50tKXjbkaTGS1aOJ/ziC4Zd/4rdi7iBXG7BbjeyP1B+Yunks5BJSHP3pe7dPr7m+GVwnzaoJw7ji/GAaVZQgJ3Th84VpnlVArVhwWrZLSg1AMBmPNLV4h0E3fRR8/+WVimm6BAvJx6rH8M3uo34LGwwu5j6fQmQBW5dFB8cton2Xn7ACyMUf4uIQCnekx4v+k+mP85HFM/A1dMWV3Uac0tDlZzxqDGXB4guoivb+T/hEojZ+wxb+bCdE3gjYQ8EtZp6cA9+qQ7+7+HKuADZ1cwGJ92Cgt7/aKQ98OdGjhSNY306u7rTiDIyyC1qxJQLfHjel+FrjgqdZ0SXrQ27wO2bbvOMkdpoBH+afoSycqWwcGJHCavCVqx/PJvYXBq7wdarXYAte9MMC8Qqh3QP2nsgMpArxk2WEVSHgbO+DpecB4LU2UVJfkiugZzX25mLRi6iK7Gm602Rh2cuIqBNCWJ9wqX520fGj/T1U65z86p8XVb0Inf40+ZfAcTz5J1fQYDdAcS1w==;6M/C4d5Xa/IBJZKgBXt/0g=="
 ---

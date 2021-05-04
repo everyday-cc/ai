@@ -109,10 +109,44 @@
     {
       "path": "_news/2021-04-29-ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities-for-hybrid-cloud.md",
       "title": "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud",
-      "excerpt": "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT",
+      "excerpt": "IBM today announced a definitive agreement to acquire Turbonomic, an Application Resource Management and Network Performance Management software provider based in Boston, MA. The acquisition will provide businesses with full stack application observability and management to assure performance and minimize costs using AI to optimize resources–",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857",
+      "webUrl": "https://www.nasdaq.com/press-release/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities",
+      "originalUrl": "https://www.nasdaq.com/press-release/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming-landscape.md",
+      "title": "IBM Watson Advertising Accelerator Expands to Bring AI to Fast-Growing OTT Media and Streaming Landscape",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210429ny59606/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming-landscape",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210429ny59606/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming-landscape",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -131,21 +165,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T08:13:00-07:00",
+      "publishedDateTime": "2021-04-29T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -672,6 +697,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-21-ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai.md",
+      "title": "IBM Launches New Watson Capabilities to Help Businesses Build Trustworthy AI",
+      "excerpt": "today announced new capabilities for IBM Watson designed to help businesses build trustworthy AI. These capabilities further expand Watson tools designed to help businesses govern and explain AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/04/n20727354/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/n20727354/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20727354",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20727354",
+      "publishedDateTime": "2021-04-21T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-how-ibm-watson-is-helping-clients-build-trust-in-data-models-and-processes.md",
       "title": "How IBM Watson is helping clients build trust in data, models and processes",
       "excerpt": "Through my role as Chief AI Officer at IBM, I have the privilege of working with organizations to ensure they have a holistic approach to AI. We do that by helping businesses design AI strategies, set guiding principles, and infuse responsible AI products with intent and purpose throughout their business.",
@@ -720,49 +788,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai.md",
-      "title": "IBM Launches New Watson Capabilities to Help Businesses Build Trustworthy AI",
-      "excerpt": "IBM (NYSE: IBM) today announced new capabilities for IBM Watson designed to help businesses build trustworthy AI. These capabilities further expand Watson tools",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai/article_8f4048e0-5fa5-500b-9974-cc2fdbd21e0b.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai/article_8f4048e0-5fa5-500b-9974-cc2fdbd21e0b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/6087941a092a1.image.jpg?resize=1200%2C627",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     },
     {
@@ -1330,49 +1355,6 @@
       "provider": {
         "name": "Analytics Insight",
         "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-from-iits-to-harvard-list-of-online-courses-offered-in-artificial-intelligence.md",
-      "title": "From IITs to Harvard - List of Online Courses Offered in Artificial Intelligence",
-      "excerpt": "Artificial Intelligence (AI) is one of the most sought-after courses of study for a long time and is expected to remain in trend for a couple of years to come. Students and working professionals who want to upskill in this emerging technology can pursue several online courses offered by IITs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/from-iits-to-harvard-list-of-online-courses-offered-in-artificial-intelligence-3585221.html",
-      "originalUrl": "https://www.news18.com/news/education-career/from-iits-to-harvard-list-of-online-courses-offered-in-artificial-intelligence-3585221.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/03/1617002289_ignou1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/from-iits-to-harvard-list-of-online-courses-offered-in-artificial-intelligence-3585221.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/from-iits-to-harvard-list-of-online-courses-offered-in-artificial-intelligence-3585221.html",
-      "publishedDateTime": "2021-03-28T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
         "images": null,
         "publishers": null,
         "authors": null

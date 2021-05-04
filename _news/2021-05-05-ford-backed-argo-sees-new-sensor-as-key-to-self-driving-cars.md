@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Argo’s new lidar sensor could help Ford, VW deploy self-driving vehicles at scale"
+    excerpt: "Argo AI made its first acquisition as a young, newly backed self-driving vehicle startup. Now, Argo says its acquisition of lidar company Princeton Lightwave is paying off and is poised to help it deliver autonomous vehicles that can operate commercially on highways and in dense"
+    publishedDateTime: 2021-05-04T18:09:00Z
+    webUrl: "https://techcrunch.com/2021/05/04/argos-new-lidar-sensor-could-help-ford-vw-deploy-self-driving-vehicles-at-scale/"
+    ampWebUrl: "https://techcrunch.com/2021/05/04/argos-new-lidar-sensor-could-help-ford-vw-deploy-self-driving-vehicles-at-scale/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/04/argos-new-lidar-sensor-could-help-ford-vw-deploy-self-driving-vehicles-at-scale/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://i.ytimg.com/vi/I_tYxMh3ddA/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving"
     excerpt: "A rgo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company and Volkswagen AG , announced that it has developed a new lidar sensor system with enough range t"
     publishedDateTime: 2021-05-04T15:34:00Z
@@ -65,6 +81,6 @@ related:
         height: 600
         isCached: true
 
-secured: "RNP5sNCCNfAt90Mutyf/8NVFktPobrSz5H5J3oL7KTxy4BBeTjldMwp3E+kMfxcI61y/lRlOkbzd11aPhWlNhhtv8C5JnG+e4ngYl+aofBqn5YKQqO6A2iIyV6nJkJimzhK8QfW75dWhk4upoHS6dhSoDctgQ4OLICZJsWFDqiEX0jTWhaFE6JGmqCcDYq25SVo49tgKuht/yqX9EmuzHP6UbOK99+DcVF7F8r0X3KD6kpa6/B7pS8xEnMm3tDF5VxmnrHEhTBLTtvC4QFYfL68zgJUAdohutm4pRog2V00P4IKU/QlFRf0kFCqTHf1fM1QbkpAG1yaQZ6OB3A0mIslDRW2sd4ZHtOmH/Y9gD04=;Rw7+jE7GKU2/mLiKXrJ26A=="
+secured: "JFVX8xu53BH54/mddY5YkQJlZxOq+n2uqsLXUg8Ii8EAVfRPk3K7ZYUCSCG5DXeSfVbPNV/M32Cviq+7PlEnhHwhr1yXC+sitRHBV2i/TlB3Ho3sN6BRCVSpQ1UrxRNmZOnCBa1p9aiPIZQfMJST8zWUTiywiGN8avMfA/p6JqrPAlpHcv0egPIfXjYd5OQMn1vee8z4pyUpu7RerzvaEfDflpSjmoLIMnQmUI0/yjG0B4H3o6t+x/pL0Vv/jUFdamhLEzmDMZcRgUIm2oHoUIvz5zbeLIH4Z2R1uP8vNLc+1CIFRkbR4vBJoJ3hWFB0KD7e6YZYpbIroppQ+7MsmbclvASNie6ktJW5nyG9kawQ/HRQmTsOLY+nLpBmBYcbHeJqAifiMrAXigl4HXH0sDEDmU4AWLknYEZh68e8TnZCRlFYOZAQ9I6S786zSMXpY3UGPI0gNyXhkf6UUX/C8EKEp6z6xlYtDdsCxw9NsT8vyNRxYCbTT4Umyxh+np6Wzn0BMEAnpAv3nrdEwfy1mQ==;AQ8X5vtVo7bIMUQeNQ9RLg=="
 ---
 

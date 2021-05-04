@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu launches China's first commercial driverless taxi service"
-    excerpt: "Chinese search engine giant Baidu on Sunday started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public on a trial basis since last October but Sunday marked the first time that riders have needed to pay for it."
-    publishedDateTime: 2021-05-04T10:00:00Z
-    webUrl: "https://motorauthority.com/news/1132139_baidu-launches-china-s-first-commercial-driverless-taxi-service"
+  - title: "Meet ‘Tom’, a world-first commercial monitoring robot to do non-chemical ‘per plant weeding’"
+    excerpt: "Small Robot Company (SRC), a British agritech start-up for sustainable farming, today announced its first commercial robot, ‘Tom’. The Tom monitoring robot is now delivered to commercial"
+    publishedDateTime: 2021-04-30T15:40:00Z
+    webUrl: "https://www.potatonewstoday.com/2021/04/30/meet-tom-a-world-first-commercial-monitoring-robot-to-do-non-chemical-per-plant-weeding/"
+    ampWebUrl: "https://www.potatonewstoday.com/2021/04/30/meet-tom-a-world-first-commercial-monitoring-robot-to-do-non-chemical-per-plant-weeding/amp/"
+    cdnAmpWebUrl: "https://www-potatonewstoday-com.cdn.ampproject.org/c/s/www.potatonewstoday.com/2021/04/30/meet-tom-a-world-first-commercial-monitoring-robot-to-do-non-chemical-per-plant-weeding/amp/"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
+      name: potatonewstoday
+      domain: potatonewstoday.com
+    quality: 48
     images:
-      - url: "https://images.hgmsites.net/hug/baidus-apollo-go-driverless-taxi-service_100790898_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Driverless Taxi Program Rolls Out in China"
-    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in Beijing,"
-    publishedDateTime: 2021-05-03T13:47:00Z
-    webUrl: "https://www.manufacturing.net/automation/news/21404126/paid-driverless-taxi-program-rolls-out-in-china"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/05/16x9/Baidu_Driverless_Taxi_AP.608ffe2e2a8d4.png?auto=format&fit=max&w=1200"
-        width: 1024
-        height: 576
+      - url: "https://i2.wp.com/www.potatonewstoday.com/wp-content/uploads/2021/04/Tom-robot-1.png?fit=794%2C530&ssl=1"
+        width: 794
+        height: 530
         isCached: true
 
 secured: "uxhMHYy2/VFLjV6kIi5MTj3cQImzcHit+Eeh6wjgDX4E1TLdUuZYS8csSln0oZZUtZzP116Oq1SSuEKclaaDLEGRwMsEJbuxIROVmnu3ewQDl3zm8IYIc+Gfu2p7WVJPclv14br0ZaEidntfguiCzYPfX3/gKYcd6ryrKijCmfbAgj6cXKO9BYnohwMRfihB1u5VUBgr0cgEaMpNRR0CEgSHi2kMpxwz4e8zTpFDYeUEuimGUe/yxA7nj1CNzMxzpyyt3ofreKfANjGAjVJ3vpFjA+Rz1RGYu5AAkl4TLosN8zKisFqfZ4ujiL76wNDZ50jQoXyQ81VcjTA4012txnaIR3H1CnTZTQSBuPOlLbC83sAs5u9mLYEAhUZaNYrJihYf3jNvG+L1YIoxtzIH1D9uqOTRmW2AjkciDFLFB8VadfyEz2NhEkr+x93oWTYGzYN+7TAVkQb+ioufnLuVReY0tUEtYwzizuVouj1rhEM/2aNzPhH8yARki0fQ5l1tQbrPN+Bt0pkuB/oQf94QKg==;ro9K5AfpPNOZ51fU4YGNvg=="

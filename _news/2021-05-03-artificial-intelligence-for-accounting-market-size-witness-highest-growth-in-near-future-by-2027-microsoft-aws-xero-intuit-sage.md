@@ -20,38 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
-    excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
-    publishedDateTime: 2021-05-04T12:01:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1573748220/itpro/Microsoft_DW.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "Microsoft buys speech recognition, conversational AI tech firm"
-    excerpt: "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion."
-    publishedDateTime: 2021-05-03T06:47:00Z
-    webUrl: "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 93
-    images:
-      - url: "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
   - title: "Artificial Intelligence Chipsets Market Next Big Thing | Major Giants Ibm, Google, Microsoft"
     excerpt: "A new business intelligence report released by HTF MI with title \"Global Artificial Intelligence Chipsets Market Report 2021\" is designed covering micro level of analysis by manufacturers and key business segments."
     publishedDateTime: 2021-04-30T03:08:00Z
@@ -77,6 +45,29 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 40
+  - title: "Artificial Intelligence Software Market (COVID-19) to Witness Astonishing Growth by Forecast 2021-2027 |Baidu, Google, IBM, Microsoft, SAP, etc"
+    excerpt: "Latest launched research on Global Artificial Intelligence Software Market, it provides detailed analysis with presentable graphs, charts and tables. This report covers an in depth study of the Artificial Intelligence Software Market size,"
+    publishedDateTime: 2021-05-04T05:44:00Z
+    webUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-software-market-covid-19-to-witness-astonishing-growth-by-forecast-2021-2027-baidu-google-ibm-microsoft-sap-etc/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 33
+    images:
+      - url: "https://marketsresearchreport.com/wp-content/uploads/2021/01/13.jpg"
+        width: 576
+        height: 324
+        isCached: true
+  - title: "Artificial Intelligence Platform Market size, Witness Highest Growth in near future by 2027 | Google, Baidu, Ibm, Microsoft, Sap"
+    excerpt: "The Artificial Intelligence Platform market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
+    publishedDateTime: 2021-05-03T04:19:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-platform-market-size-witness-highest-growth-in-near-future-by-2027-google-baidu-ibm-microsoft-sap/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 20
   - title: "Artificial Intelligence in Marketing Market to See Massive Growth by 2027 | IBM Corporation, Microsoft Corporation, General Vision and More"
     excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence in Marketing Market report is anticipated to perform more robustly in the coming years,"
     publishedDateTime: 2021-05-03T11:28:00Z
@@ -86,6 +77,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 19
+  - title: "Artificial Intelligence Voice Market Boom Ensues | iFlyTek, Google, Apple, Microsoft, Nuance, Facebook"
+    excerpt: "Download Free Sample Copy of ‘ Artificial Intelligence Voice market’ Report @  Key Segments Studied in the Global Artificial Intelligence Voice Market A combination of factors, including COVID-19 containment situation,"
+    publishedDateTime: 2021-05-02T15:54:00Z
+    webUrl: "https://ksusentinel.com/2021/05/02/artificial-intelligence-voice-market-boom-ensues-iflytek-google-apple-microsoft-nuance-facebook/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 18
   - title: "Artificial Intelligence Market to Eyewitness Huge Growth by IBM Corporation, Microsoft Corporation, General Vision, Enlitic, Inc."
     excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence Market report is anticipated to perform more robustly in the coming years, and its potential will steer the market to be positioned between the world’s most remunerative industries."
     publishedDateTime: 2021-05-03T11:28:00Z

@@ -19,6 +19,31 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Artificial Intelligence Chipsets Market Next Big Thing | Major Giants Ibm, Google, Microsoft"
+    excerpt: "A new business intelligence report released by HTF MI with title \"Global Artificial Intelligence Chipsets Market Report 2021\" is designed covering micro level of analysis by manufacturers and key business segments."
+    publishedDateTime: 2021-04-30T03:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269111662/artificial-intelligence-chipsets-market-next-big-thing--major-giants-ibm-google-microsoft"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 45
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1619546502300.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Artificial Intelligence In Genomics Market by Drivers, Restraints, Opportunities, and Challenges | Ibm, Microsoft, Nvidia Corporation"
+    excerpt: "AI in genomics market to register a CAGR of 52 7 from 2020 to 2025 ReportsnReports added Artificial Intelligence In Genomics Market Research Report created by Report Consultant which offers detailed insights revenue details and other information regarding the global"
+    publishedDateTime: 2021-04-30T07:17:00Z
+    webUrl: "https://www.openpr.com/news/2277898/artificial-intelligence-in-genomics-market-by-drivers"
+    ampWebUrl: "https://www.openpr.com/amp/2277898/artificial-intelligence-in-genomics-market-by-drivers"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277898/artificial-intelligence-in-genomics-market-by-drivers"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
   - title: "Artificial Intelligence Software Market (COVID-19) to Witness Astonishing Growth by Forecast 2021-2027 |Baidu, Google, IBM, Microsoft, SAP, etc"
     excerpt: "Latest launched research on Global Artificial Intelligence Software Market, it provides detailed analysis with presentable graphs, charts and tables. This report covers an in depth study of the Artificial Intelligence Software Market size,"
     publishedDateTime: 2021-05-04T05:44:00Z
@@ -33,29 +58,42 @@ related:
         width: 576
         height: 324
         isCached: true
-  - title: "Global Deep Learning System Software Market Innovations, Trades, Growth Trends And Forecast 2028"
-    excerpt: "The ‘Global Deep Learning System Software Market’ research report Published by the Market Research Inc, is an in-depth analysis of the latest developments, market size, status, upcoming technologies,"
-    publishedDateTime: 2021-05-03T15:52:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/global-deep-learning-system-software-market-innovations-trades-growth-trends-and-forecast-2028/"
+  - title: "Artificial Intelligence for Accounting Market size, Witness Highest Growth in near future by 2027 | Microsoft, Aws, Xero, Intuit, Sage"
+    excerpt: "The Artificial Intelligence for Accounting market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
+    publishedDateTime: 2021-05-03T03:21:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-for-accounting-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-aws-xero-intuit-sage/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 26
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/shutterstock_400002673-15-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "AI in Smartphone and Wearable Market size, Witness Highest Growth in near future by 2027 | Lenovo, Apple, Xiaomi, Samsung, Huawei,"
-    excerpt: "The study report on the global AI in Smartphone and Wearable Market 2021 gives a detailed and good size analysis which consists in a comprehensive view of the global industry contains the recent trend in addition to the forecasted magnitude of global business with admire service and products."
-    publishedDateTime: 2021-05-04T02:56:00Z
-    webUrl: "https://ksusentinel.com/2021/05/04/ai-in-smartphone-and-wearable-market-size-witness-highest-growth-in-near-future-by-2027-lenovo-apple-xiaomi-samsung-huawei/"
+    quality: 19
+  - title: "Artificial Intelligence in Marketing Market to See Massive Growth by 2027 | IBM Corporation, Microsoft Corporation, General Vision and More"
+    excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence in Marketing Market report is anticipated to perform more robustly in the coming years,"
+    publishedDateTime: 2021-05-03T11:28:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-in-marketing-market-to-see-massive-growth-by-2027-ibm-corporation-microsoft-corporation-general-vision-and-more/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 0
+    quality: 19
+  - title: "Artificial Intelligence Voice Market Boom Ensues | iFlyTek, Google, Apple, Microsoft, Nuance, Facebook"
+    excerpt: "Download Free Sample Copy of ‘ Artificial Intelligence Voice market’ Report @  Key Segments Studied in the Global Artificial Intelligence Voice Market A combination of factors, including COVID-19 containment situation,"
+    publishedDateTime: 2021-05-02T15:54:00Z
+    webUrl: "https://ksusentinel.com/2021/05/02/artificial-intelligence-voice-market-boom-ensues-iflytek-google-apple-microsoft-nuance-facebook/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 18
+  - title: "Artificial Intelligence Market to Eyewitness Huge Growth by IBM Corporation, Microsoft Corporation, General Vision, Enlitic, Inc."
+    excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence Market report is anticipated to perform more robustly in the coming years, and its potential will steer the market to be positioned between the world’s most remunerative industries."
+    publishedDateTime: 2021-05-03T11:28:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-market-to-eyewitness-huge-growth-by-ibm-corporation-microsoft-corporation-general-vision-enlitic-inc/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 7
 
 secured: "u2H0BNpB35tmnul2hvSakkdw6ShVldNyQWvH+phOTytav6oYXZAgsnA4AgEogSdK9qejn01vgIeDXN56ZbdYP34cf71jcv4FUb8OIjd8ifSLq1pz2/XTLrGLHJMx+6mbDVXWbcQgnXcbh3aQAdMVdInVNK30/hnqcAo0yNTUGObrJYZ5OKq2Xk6F1hgZGzdowUFKeTbaLyengFEx8aZESxbpc3bc5Nkeq0QhRkwyeiQIsl/nxAvCfBaaDSNr6sAOqYNViqgufC+qDUYXCUUt7w26AiBegBGQPz7sIZ3h5yp5/GPY0HPrcsKUOI0IAHdbttwBiyiXzcAPlvOZAV64tpIdXWciwevOfJ9ujKhn/eflA7IMwi1C/zdY0itVOdkI+RZj7g9LZ23Po175RwZUHPlxu9q/XQPIwAI3xzVcCALW0Jl7Cch2Rol6ldwy6P90X9X/YHqhjwAC+nqkWSswBc4ER357iPWJ3AFwtlloVY7LR4V5mFDW0qTNQdkSmSJEWaKIF4WOrEKXiY4vuqOd6Q==;vcBBHZwkwnzTkpEqn3Yeug=="
 ---
