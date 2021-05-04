@@ -24,6 +24,17 @@ images:
     height: 576
     isCached: true
 
+related:
+  - title: "AI health care startup launches drug development division"
+    excerpt: "A Waltham-based health care company that has used AI to predict which medicines might work best for rheumatoid arthritis patients, is getting into the drug development game."
+    publishedDateTime: 2021-05-04T20:01:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2021/05/04/ai-health-care-startup-scipher-drug-development.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+
 secured: "4nuTLhJYpYvP6PnQHY+nqEC5+Z9Utzbsb3U+QTMgxZpUn9eY9kiC4U0Oam/7W7oCPYeGzbZBWyHKQrf7ofV6EZqRMjKH9qD96EKWnnZLDaRkJeZM3kepMuBvF9+xyVeB+z0YrEBtYFETt3MSNmTpvsg/WKJxkFSoWqDMnA2EvLmDVtgKS8tLXSe9eRBvGKSViOe34N8kN5wzvRti2s9yuEQ6cR84ySifA0AFsq6CZKexD3/Bc4/umd0tDbdXMBm7s9TRrzY+I++5bo5YcK4KEI4Y8UX1cf0D4amBF+Y/hS8c394sRKfL9PC1plY9vVRt+d/crhavyvBN8Kq4io3deCSK4ltsD6NiX/jpyBt7A8fZQfLDjaV1Z1m3CwSgyn9nFN50XvDuapX+P4QNxA4eiWk9UIwCrKwTSxiSxquD0Br/VxH3akSdR9mvgAEZjU4pCZ5Upt9bwEr/q6P2FlZhGD4CENhLDmwQd/AvVx8bAOM41E0Wc5AuiO5U2IQCLLQvT8sQh4Y36QRbxf8uGm6T0A==;0SJgAvUSWrPfSSNtqPQZiA=="
 ---
 

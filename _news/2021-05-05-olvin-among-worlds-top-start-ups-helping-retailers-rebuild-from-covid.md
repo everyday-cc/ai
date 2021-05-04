@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/21/05/n20946055/olvin-among-worl
 ampWebUrl: "https://amp.benzinga.com/amp/content/20946055"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20946055"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 secured: "3IQ8kaHtouABiWlh5BI/QiYYqM0ddgrMkALEcGqwYTOdZP6sSZVxin2AYDpWbFWbOtqxnbBhKe1bNS4k4eenXAz2mmeyVw5TWKHihPbVmGj6FVfNmJN6T/j8VfPvU9ZPSI1F6KprxUE7o5Egs4TpkmzJRSfgCKRuIfRw5i1IIeAp0v/rQrF0AM4RfH85svBc45S1ZLDvQKJxCkFKWEMg5STqzpz3wrWdOvXHMG48vqp470/4nAP737GIzDc5x57cH5DdnG8iCzpjPmSkLWFdcl7qdpszOhoicceFQXj+CkGeH6234ppGuKUII9p9eu6LTp7kAc6sHwJN51qw8wPT1vt6tGQRbSSqSZ9O8+APDew=;ueE1zQYRPfliejZ7hasotw=="
 ---

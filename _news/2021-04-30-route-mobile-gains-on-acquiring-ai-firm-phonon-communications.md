@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/route-mobile-g
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/route-mobile-gains-on-acquiring-ai-firm-phonon-communications-121043000458_1.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Route Mobile to buy AI firm Phonon for Rs 29 crore"
-    excerpt: "Phonon offers a complete suite of conversational AI-driven contact centre solutions with integration on cloud platforms like AWS, Azure, and Google Cloud."
-    publishedDateTime: 2021-04-30T03:32:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/route-mobile-to-buy-ai-firm-phonon-for-rs-29-crore/articleshow/82320983.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/route-mobile-to-buy-ai-firm-phonon-for-rs-29-crore/amp_articleshow/82320983.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/route-mobile-to-buy-ai-firm-phonon-for-rs-29-crore/amp_articleshow/82320983.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-486248,msid-82320972/artificial-intelligence.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "GlSPJQKGAe/rNJB780EyzG68m01J5HWT7riHhOJyTBV/e1FzkR9HPMtCWfAMMdgTrvs5WG87WWmQu6hQJPj2DnQeOfkPySw+yU+5/Lmdd6uRr4ua0pwdkhj/axsczX78mBazawCjeQuIwo4ZUyVo7gF70BTuP8P5VYDcvsNuZQ18f8r79j8AoimS2dN53uh2+6tRKidIbOFfTh0V20KhDyAdW1CZHe0Wh5RTik+96YAZIDvgJEeZct+v/slj38657wb69ZCPiDSpJTeU/wyV1heV2sYo2iROYPRNbQ+3PPu1L4ZmWYh6EglYipRwc31YgOxkMwrSyYoPAAVY1K+YRRXUgUPEZy6NyvZ0eYneq80=;sM5/5u59yDXBmQHIDmBGyw=="
 ---
