@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK prepares to conditionally legalize self-driving cars"
-    excerpt: "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,"
-    publishedDateTime: 2021-04-29T05:52:00Z
-    webUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/"
-    ampWebUrl: "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 74
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/5288f9f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2Fc6%2F228c4d91471c869f92b16e65a83c%2Fdepositphotos-181168354-l-2015.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Gnarly Skateboarders Trying Dangerously To Hitch A Ride On Self-Driving Cars"
     excerpt: "Skateboarders sometimes try to do bumper hitching, which is dangerous and should not be done, but the question is how will self-driving cars deal with those gnarly riders."
     publishedDateTime: 2021-05-01T15:30:00Z
@@ -77,82 +61,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Hot Off The Presses: Defining Standard For Self-Driving Cars Gets Newly Updated And Released, Here’s What You Need To Know"
-    excerpt: "The venerated standard that defines the levels of self-driving cars has gotten a fresh look, being released at the end of April 2021 while the prior version was June 2018. Here's the quick and dirty about what you need to know."
-    publishedDateTime: 2021-05-03T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/03/hot-off-the-presses-defining-standard-for-self-driving-cars-gets-newly-updated-and-released-heres-what-you-need-to-know/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/03/hot-off-the-presses-defining-standard-for-self-driving-cars-gets-newly-updated-and-released-heres-what-you-need-to-know/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/03/hot-off-the-presses-defining-standard-for-self-driving-cars-gets-newly-updated-and-released-heres-what-you-need-to-know/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 48
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608f8daf4b1a87ba6b6e62dd%2F0x0.jpg%3FcropX1%3D292%26cropX2%3D4391%26cropY1%3D94%26cropY2%3D2828"
-        width: 1199
-        height: 800
-        isCached: true
-  - title: "Self-driving cars coming to a slow lane near you, Government announces"
-    excerpt: "The UK Government has announced that it will be legal for motorists to go hands-free in self-driving cars later this year."
-    publishedDateTime: 2021-04-29T11:19:00Z
-    webUrl: "https://www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/"
-    ampWebUrl: "https://www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 44
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/04/GettyImages-168495211-ae2e539.gif?quality=90&crop=4px,51px,913px,393px&resize=960,413"
-        width: 960
-        height: 413
-        isCached: true
-  - title: "UK signals self-driving cars could hit road this year"
-    excerpt: "LONDON: Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel. The Department for Transport (DfT) said in a statement that it will allow hands-free driving in cars equipped with lane-keeping technology,"
-    publishedDateTime: 2021-05-02T23:39:00Z
-    webUrl: "https://www.brecorder.com/news/40089625"
-    ampWebUrl: "https://www.brecorder.com/news/amp/40089625"
-    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40089625"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 44
-    images:
-      - url: "https://i.brecorder.com/large/2021/05/608f218dbd5dc.jpg"
-        width: 784
-        height: 480
-        isCached: true
-  - title: "The UK will allow self-driving cars on its roads in 2021, and some hope they will put an end to traffic"
-    excerpt: "The UK government will allow vehicles fitted with lane-keeping systems to drive on motorways later this year."
-    publishedDateTime: 2021-04-29T07:31:00Z
-    webUrl: "https://www.businessinsider.com/uk-allows-self-driving-cars-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5fc97006037cbd0018613bf9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Self-Driving Cars Approved In UK"
-    excerpt: "The government said the use of Automated Lane Keeping Systems would be restricted to motorways at speeds under 37 miles (60 km) per hour."
-    publishedDateTime: 2021-04-29T13:04:00Z
-    webUrl: "https://www.fenderbender.com/articles/16454-self-driving-cars-approved-in-uk"
-    type: article
-    provider:
-      name: FenderBender
-      domain: fenderbender.com
-    quality: 24
-    images:
-      - url: "https://www.fenderbender.com/ext/resources/Ford_Fusion_AV_01_HR1.jpg?height=635&t=1489423231&width=1200"
-        width: 1200
-        height: 589
-        isCached: true
   - title: "Why fully self-driving cars on UK roads might be further away than you think"
     excerpt: "The Government claims that cars with a form of technology considered legally self-driving could hit British roads by the end of the year, but truly autonomous vehicles are still some way off, finds Rh"
     publishedDateTime: 2021-05-01T08:47:00Z
@@ -166,31 +74,6 @@ related:
       - url: "https://i.inews.co.uk/content/uploads/2021/04/SEI_76426762.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "UK becomes first country to give green light to self-driving cars on motorways"
-    excerpt: "The Transport Ministry of Britain informed that it has been working on specific wording to update the highway code of the country for the safe use of"
-    publishedDateTime: 2021-04-30T08:44:00Z
-    webUrl: "https://www.jagranjosh.com/current-affairs/uk-becomes-first-country-to-give-green-light-to-self-driving-cars-on-motorways-1619772177-1"
-    ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/uk-becomes-first-country-to-give-green-light-to-self-driving-cars-on-motorways-1619772177-1"
-    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/uk-becomes-first-country-to-give-green-light-to-self-driving-cars-on-motorways-1619772177-1"
-    type: article
-    provider:
-      name: Rojgar Samachar
-      domain: jagranjosh.com
-    quality: 20
-  - title: "Self-driving cars could be on UK roads by the end of 2021, but not as you might expect"
-    excerpt: "The Department for Transport has laid out plans for vehicles equipped with Automated Lane Keeping Systems to be legally defined as ‘self-driving’."
-    publishedDateTime: 2021-04-29T17:10:00Z
-    webUrl: "https://www.honestjohn.co.uk/news/driving-1/2021-04/self-driving-cars-could-be-here-by-the-end-of-2021-but-not-as-you-might-expect/"
-    type: article
-    provider:
-      name: HonestJohn.co.uk
-      domain: honestjohn.co.uk
-    quality: 16
-    images:
-      - url: "https://images.honestjohn.co.uk/imagecache/file/crop/1200x800/media/17173469/tesla-model-3-1.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "9x7qsQ8vmO0JR1DIDPmPjEnN16ghbY3eNjAg6hRyWURxmoUkCUGz6tiy3qkFB+EEofDLO5OO+7PaMuBfyvEvlrr+IhcRSXmHCfhge44chv/54t65+Nlimi9/nXn/u5osQ6eFIlBJtovUuPESybHPM6+50vpvrzHLhZZDCjtqoukuvSLjVYbPhkKDQqyEj9ul91/vi+jsYaMDH/YRdaiqRhhNF1SlvGsxJ0M+3JBU2QmNrisd5Adi2SE6S/k653evxL7GNUe45skvkJ2XZxhB4WcdsNbhByyXiqRJty+hQOHYC90BQTVlm5fiCZGMdofUIM8vjFtjpGKbaZE4Se+/SZe8zcBYAiR2qs/BGxAZ/RKr52YJ/M04dzyGeY+iKB4N/K0CthIJ8o9eJugUN15CC93oiz/x3rIxShTwdyVaRyWY1cOjmTs8opO7xEJSlyQCyYw0kNMbXuDgDXMvKv/2Z70Owgd8QZUqg1yzMTK40g+kjP7tRRE1ivTRWAOpqhYEGlqL63JYuxKwCilAtNSDrw==;dem6ui0ga3ILFAnrnlNTBw=="

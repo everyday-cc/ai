@@ -40,6 +40,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "UK Commissioner defends face biometrics use by police as practical necessity"
+    excerpt: "Police have no choice but to use facial recognition, along with any other technologies that can help them fight crime, says Fraser Sampson."
+    publishedDateTime: 2021-05-03T23:27:00Z
+    webUrl: "https://www.biometricupdate.com/202105/uk-commissioner-defends-face-biometrics-use-by-police-as-practical-necessity"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+        isCached: true
   - title: "North Carolina school district buys face biometrics to monitor students and staff"
     excerpt: "A facial recognition surveillance system from Verkada has been purchased in North Caroline by a rural school district in northwest of Charlotte."
     publishedDateTime: 2021-04-29T17:26:00Z

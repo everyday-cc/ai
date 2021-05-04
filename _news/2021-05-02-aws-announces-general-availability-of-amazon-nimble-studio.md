@@ -28,6 +28,15 @@ related:
       name: Business Wire
       domain: businesswireindia.com
     quality: 34
+  - title: "AWS Announces General Availability of Amazon FinSpace"
+    excerpt: "New purpose-built analytics service reduces the time it takes FSI organizations to find, prepare, and analyze data from months to minutes"
+    publishedDateTime: 2021-05-03T23:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210503005789/en/AWS-Announces-General-Availability-of-Amazon-FinSpace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
 
 secured: "LuzmEEmbVi71gTjT/KVmGk9NteAYC6Nf/HsKX8NiHEzFPe5nR/cdM+/4/vsQh7S6GxqLe33P3/6G7tBN8c6Uy/X5kbZk90cEqLucu1q2CAMUyocUExHEXyf5ea9tXYiptlF5yJJffaBy6ClPx/9buZbtYxi+NJl0o+zm6KFiZDO/SG6/2bvnigYNkPA4nwezIW+uauDOfwIdfRTopGj3XNkLIPJ3iU8nRwDWaKr1ntgsCmyjREAerL75ab/zn73rvx7qGVYNRo873YkhHO68kR9BkcEGzZrVcEZuLgo5I+m4Ll0TsukAYvkbln6q3r5GdIl0MhEZfW8tmLKZFCnzZzhqGCNrp9pwQk2/4CeQ1ZM=;67wpcB1Zlf3qwrfQ/BiLBQ=="
 ---

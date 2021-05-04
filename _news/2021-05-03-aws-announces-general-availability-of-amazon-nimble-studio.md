@@ -28,6 +28,15 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 34
+  - title: "AWS Announces General Availability of Amazon FinSpace"
+    excerpt: "New purpose-built analytics service reduces the time it takes FSI organizations to find, prepare, and analyze data from months to minutes"
+    publishedDateTime: 2021-05-03T23:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210503005789/en/AWS-Announces-General-Availability-of-Amazon-FinSpace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
 
 secured: "oTbKeOmuErKqa9x7hYSdllJr8uyOuO96U/4uo2uYYtqqiSIZhmyc1/55lRwKu4fgGcdowft14X+dFdRH7yBIfnifwEV1th7E/RjmFAiKfNnR7QKRatk8WtVzOA6YMpXYfgqwgOuPQoecEXlRHkb7z4F2X4JDIHK80n+tczOWg5/OA/TgjJaDMtkId8LwHWLsKCvj3lCiB/M+RrdFwiLCNsHVY3DSeuBaXi1Eh38k7PIda4A7p71n5eC9b6z+3hPfpoN4b1Kwq3yRMxGbRBMmQVmJ6z3LvRAtcHGhYo/HQB31NWCEOKRE/8dqCi/fcUbMWkm9udUbYw7onKHXVTHW02BZKHXCbCfhIsB/IreH2i0=;RmQLM8jGTijfK2LmXM+wvw=="
 ---

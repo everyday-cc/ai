@@ -20,33 +20,92 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Natural Language Processing Market Top Manufacturers, Industry Size, Share and COVID 19 Impact on Revenue Growth"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2021-04-29T06:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-top-manufacturers-industry-size-share-and-covid-19-impact-on-revenue-growth-2021-04-29"
+  - title: "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,"
+    publishedDateTime: 2021-05-03T08:00:00Z
+    webUrl: "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026&source=139"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?695067"
+        width: 374
+        height: 250
         isCached: true
-  - title: "COVID-CT-MD, COVID-19 computed tomography scan dataset applicable in machine learning and deep learning"
-    excerpt: "Low Dose Computed Tomography of the Chest • viral infectious disease Technology Type(s) digital curation • image processing technique Factor Type(s) sex • gender • age group • weight • clinical charac"
-    publishedDateTime: 2021-04-29T19:03:00Z
-    webUrl: "https://www.nature.com/articles/s41597-021-00900-3"
+  - title: "Voice Recognition for Smartphones Market Analysis, Revenue, Share, Growth Rate & Forecast To 2026"
+    excerpt: "The exploration report of worldwide Voice Recognition for Smartphones Market advertise offers the extensive information about the topmost makers and sellers which ar"
+    publishedDateTime: 2021-04-29T22:25:00Z
+    webUrl: "https://www.express-journal.com/voice-recognition-for-smartphones-market-390122"
+    ampWebUrl: "https://www.express-journal.com/voice-recognition-for-smartphones-market-390122/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-for-smartphones-market-390122/amp"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 38
+      name: express-journal
+      domain: express-journal.com
+    quality: 31
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-021-00900-3/MediaObjects/41597_2021_900_Fig1_HTML.png"
-        width: 685
-        height: 449
+      - url: "https://www.express-journal.com/img/img-3.png"
+        width: 1044
+        height: 625
+        isCached: true
+  - title: "Voice Recognition Market Business Analysis 2021 by CAGR, Share, Revenue and Prominent Key Players to 2026"
+    excerpt: "The exploration report of worldwide Voice Recognition Market advertise offers the extensive information about the topmost makers and sellers which are directly worki"
+    publishedDateTime: 2021-04-29T22:34:00Z
+    webUrl: "https://www.express-journal.com/voice-recognition-market-390112/"
+    ampWebUrl: "https://www.express-journal.com/voice-recognition-market-390112/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-market-390112/amp"
+    type: article
+    provider:
+      name: express-journal
+      domain: express-journal.com
+    quality: 27
+    images:
+      - url: "https://www.express-journal.com/img/img-7.png"
+        width: 1047
+        height: 627
+        isCached: true
+  - title: "Voice Recognition for Automotive Market Trends, Growth, Scope, Size, Overall Analysis and Forecast by 2026"
+    excerpt: "The exploration report of worldwide Voice Recognition for Automotive Market advertise offers the extensive information about the topmost makers and sellers which are"
+    publishedDateTime: 2021-04-29T22:25:00Z
+    webUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-390127"
+    ampWebUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-390127/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-for-automotive-market-390127/amp"
+    type: article
+    provider:
+      name: express-journal
+      domain: express-journal.com
+    quality: 26
+    images:
+      - url: "https://www.express-journal.com/img/img-6.png"
+        width: 500
+        height: 300
+        isCached: true
+  - title: "Global Workplace Services Market Report 2021: Integration of Artificial Intelligence (AI) to Revolutionize Workplace Services Business"
+    excerpt: "The \"Workplace Services Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Service Type, and Vertical,"
+    publishedDateTime: 2021-04-29T10:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/g20857902/global-workplace-services-market-report-2021-integration-of-artificial-intelligence-ai-to-revoluti"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20857902"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20857902"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+  - title: "Global Contact Center Intelligence Market 2021 Major Manufactures – AWS, Artificial Solutions, Avaya, Google"
+    excerpt: "Global Contact Center Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comes as a handy source for readers, providing insight into sales, volumes, revenues in the Industry."
+    publishedDateTime: 2021-05-03T10:22:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/global-contact-center-intelligence-market-2021-major-manufactures-aws-artificial-solutions-avaya-google/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 20
+    images:
+      - url: "https://cdn.etechgs.com/etechgs/wp-content/uploads/2017/10/How-Artificial-Intelligence-Improves-Contact-Center-Industry.jpg"
+        width: 700
+        height: 400
         isCached: true
   - title: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights"
     excerpt: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights Posted on May 3 2021 5:25 AM Some of the key players in the military robots market such as Northrop Grumman Corporation (The U."
@@ -62,14 +121,28 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "COVID-19 Impact On The Pharmaceutical Robots Market : Benefits Offered By Robotic Systems In Pharmaceutical Manufacturing"
-    excerpt: "Benefits offered by robotic systems in pharmaceutical manufacturing is a key factor driving the growth of pharmaceutical robots market. The base year considered for the study is 2015, and the forecast has been provided for the period between 2016 and 2021."
-    publishedDateTime: 2021-04-29T16:06:00Z
-    webUrl: "https://seekingalpha.com/instablog/31507595-healthcareresearchmnm/5584880-covidminus-19-impact-on-pharmaceutical-robots-market-benefits-offered-robotic-systems-in"
+  - title: "Global Artificial Intelligence in IoT Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The Artificial Intelligence in IoT market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence in IoT market report is a comprehensive research that focuses on the overall consumption structure,"
+    publishedDateTime: 2021-05-03T10:09:00Z
+    webUrl: "https://menafn.com/1102013484/Global-Artificial-Intelligence-in-IoT-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?50588"
+        width: 333
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence Platform Market 2020 Top Companies, Upcoming Trends Emerging Technologies, Global Analysis with Forecast 2026"
+    excerpt: "The Global Artificial Intelligence Platform Market accounted for USD 2.34 billion in 2017 and is projected to grow at a CAGR of 31.2% the forecast period of 2020 to 2026. The research Insights proclaims the addition of another new report on account of the Artificial Intelligence Platform Market."
+    publishedDateTime: 2021-05-03T14:10:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-platform-market-2020-top-companies-upcoming-trends-emerging-technologies-global-analysis-with-forecast-2026/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
     quality: 0
 
 secured: "2c5/GcU8U5AfBTvQs28XD6sEjgIQGDrgOKRiDdRiyA0aX0fCA2Dd+WE80H0Xl4V/+6RFzOx0AkMXhzXayTNTMsJ9TjDC0ayYtsHtoJGCW+ibnYNhDTUzv9saG+Bp4AwxtPIwKFx7rsM9ORtubkwe2Sg7/hoMr8wSYuBVvOQa4QpkjgSay24xzPd6krUxQnZ7Pm7PScRDmsHmbEBuD4/qygIobkBXFBBZXTqTmLdukTBnETjYdTWThjUNth1SSU0bOOZniBcZgrbxtX/W2xN6lbwi6I4Jz0oUmp5ySYXxiM2a9URYFy4AiLmzBcLbNtZ5wswLEPGsvwChL0BuVOUEEvaOtM57pshb8tEASFCpzSs=;KWUNsOvuAfPdCzKXCjpv0g=="

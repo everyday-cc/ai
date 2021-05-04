@@ -43,20 +43,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "Google Cloud on track to take on AWS and Microsoft Azure"
-    excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
-    publishedDateTime: 2021-04-29T05:51:00Z
-    webUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 71
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/04/rajeshwar-bachu-K4txLik7pnY-unsplash-scaled.jpg"
-        width: 2560
-        height: 1840
-        isCached: true
   - title: "An IBM exec says the $1.5 billion purchase of AI firm Turbonomic will supercharge its hybrid cloud push as it fights off Amazon and Microsoft"
     excerpt: "This latest deal is part of IBM's push to reinvent itself as a modern company and double down on hybrid cloud, IBM VP Rob Thomas told Insider."
     publishedDateTime: 2021-04-30T18:36:00Z

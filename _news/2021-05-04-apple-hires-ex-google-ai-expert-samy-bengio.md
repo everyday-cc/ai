@@ -37,7 +37,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2015/07/2015-07-11T031525Z_1_LYNXNPEB6A02N_RTROPTP_3_USA-APPLE.jpg?w=1200&strip=all"
         width: 728
@@ -56,6 +56,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivHE7MywTBuI/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Apple hires yet another ex-Google AI leader"
+    excerpt: "Apple has hired Samy Bengio, a prominent AI researcher who previously worked at Google. Bengio will lead \"a new AI research unit\" within Apple, according to a recent report in Reuters. He is just the latest in a series of prominent AI leaders and workers Apple has hired away from the search giant."
+    publishedDateTime: 2021-05-03T21:59:00Z
+    webUrl: "https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/05/IRW_3731-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Apple hires former Google Brain scientist to lead new AI research unit"
     excerpt: "Apple has hired former Google distinguished scientist Samy Bengio, according to a new report from Reuters. Bengio led Google’s artificial intelligence ethics group up until last month, when he departed amid a broader shakeup on the team."

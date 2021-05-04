@@ -123,22 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baidu to launch robotaxi service in Beijing suburb"
-    excerpt: "Baidu in March became the first Chinese company permitted to offer robotaxi rides to paying customers by a local government."
-    publishedDateTime: 2021-04-29T06:44:00Z
-    webUrl: "https://technode.com/2021/04/29/baidu-to-launch-robotaxi-service-in-beijing-suburb/"
-    ampWebUrl: "https://technode.com/2021/04/29/baidu-to-launch-robotaxi-service-in-beijing-suburb/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/04/29/baidu-to-launch-robotaxi-service-in-beijing-suburb/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://technode.com/wp-content/uploads/2020/09/3b7d4a5d3bae2076e2e3d2ec7e2d63b.png"
-        width: 1080
-        height: 626
-        isCached: true
   - title: "Baidu launches China’s first self-driving taxi service"
     excerpt: "These taxis have been named Apollo ‘robotaxis’ and around 10 of them have been deployed in an area of 3 square kilometers around Shougang Park in western Beijing. * Each Apollo robotaxi ride costs about 30 yuan (Rs."
     publishedDateTime: 2021-05-03T13:11:00Z

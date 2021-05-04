@@ -33,6 +33,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "IBM Watson Advertising Accelerator expands to OTT"
+    excerpt: "IBM has confirmed the expansion of its AI technology IBM Watson Advertising Accelerator for OTT and video, designed to help marketers move beyond contextual rel"
+    publishedDateTime: 2021-05-03T23:03:00Z
+    webUrl: "https://advanced-television.com/2021/05/04/ibm-watson-advertising-accelerator-expands-to-ott/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 39
+    images:
+      - url: "https://advanced-television.com/wp-content/uploads/2019/06/IBM_logoR_blue60_RGB.jpg"
+        width: 2967
+        height: 1975
+        isCached: true
 
 secured: "iaiUAjJmoN7KRODFeWB5iV4Gwo1HxZpgBFatmSpgYGoGr8zeRcA4CnyVaKXHB2pfKvcylBhFgqeo07zmQTy5QEL1zxU6eNlJrsPifW6Ux80NKGzNi/zPagJVLc/6EpvhEvP0msMRUteA500x+EYQ7eXDx0UUvkA1dY/iQjMtukyGkj4dxnBKdxWIzRd8XivjUJ0qtMl6unnThvYxfV/WfxLX4aYupMPqdlX8plPu1K9xzCpbHmpQQ/r6yI2a6qHMYlQN5FETjGyCNugouik0tqDdgPmIUTbW4o4038IRRZfsaqE3qZzSQbg64NAv4+FlGVQjoCLDStrlgFfti9HBt7ohfYxl4BUqTcP/i9XmQa0=;pZsHN3MHshgjS3oB0U3HDw=="
 ---

@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Cloud on track to take on AWS and Microsoft Azure"
-    excerpt: "Continuing to bank on the generational shift to digital, Google's parent Alphabet reported revenues of $55.3 billion and a record-breaking profit of $18 billion for the first quarter of 2021."
-    publishedDateTime: 2021-04-29T05:51:00Z
-    webUrl: "https://www.medianama.com/2021/04/223-google-earnings-q1fy21/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 71
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/04/rajeshwar-bachu-K4txLik7pnY-unsplash-scaled.jpg"
-        width: 2560
-        height: 1840
-        isCached: true
   - title: "Allscripts looks to leverage Microsoft partnership as tech giant expands healthcare ambitions"
     excerpt: "Microsoft is expanding further into healthcare and that opens up strategic opportunities for Allscripts to leverage its partnership with the tech giant, company executives said. Here's how the health IT company plans to leverage the collaboration to grow its business with providers as well as payers and life sciences companies."
     publishedDateTime: 2021-04-30T10:45:00Z

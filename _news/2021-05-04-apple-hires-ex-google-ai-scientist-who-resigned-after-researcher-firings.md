@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-w
 ampWebUrl: "https://venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/amp/"
 type: article
-quality: 86
-heat: 126
+quality: 88
+heat: 138
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2015/07/2015-07-11T031525Z_1_LYNXNPEB6A02N_RTROPTP_3_USA-APPLE.jpg?w=1200&strip=all"
@@ -43,6 +44,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivHE7MywTBuI/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Apple hires yet another ex-Google AI leader"
+    excerpt: "Apple has hired Samy Bengio, a prominent AI researcher who previously worked at Google. Bengio will lead \"a new AI research unit\" within Apple, according to a recent report in Reuters. He is just the latest in a series of prominent AI leaders and workers Apple has hired away from the search giant."
+    publishedDateTime: 2021-05-03T21:59:00Z
+    webUrl: "https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/05/IRW_3731-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Apple hires ex-Google AI expert Samy Bengio"
     excerpt: "Apple has hired Samy Bengio, a former AI scientist who resigned in protest of Google's firing of two employees, to lead a new AI team under John Giannandrea."
@@ -91,6 +106,6 @@ related:
         height: 627
         isCached: true
 
-secured: "XlJfgJ5gwT1R6d0Ytlx7uCGDRS76NiepL1FX30QHugBdogDEbjJKOXkPhLkW/Sxux7MdtB1Ax0noDS/00bzNWSDYxZh/ibSr9NZbD94qciXsFYTZcNW0bZ+YJAKV52OLiCa4jG1YdgPBGlnlKiEzULmcK1RiVrsKpyD3RinCYuqbRowJQmTyRsywnxYenCBCVFtamMqxq0/SAATNKtGKGHMLkkd42Vfz/U+2o4p5KM7/TTay/CPdkCsUTSH9Z2JDDOb9scvsaIa2JzIBu4zCswHcxrTeHLHdif0oNILP+4meGPIwUCmr1cyA3Mxw/xDn4x01eFK+xSGA0OKOzWav4L4VAE/bfM57TFANHfNerCw=;7URU0a1DZ8Dh9PlQYO79Mw=="
+secured: "POZtNRfVxjyHr0qrVB/oX8XelSrv89cUmUVWi9k3I7n1pXJoR0t4aVawaSlfLYQ+W2h+FEr7pj5qnIaZ9vowKQ/G/HRGIdQoM7nKXEwB2qz/V8ZO0+kM1XXn9wYuw7D62pFTChQ20FweYEgXRVf5VR7J7MMhSq96lfDfkZIZRnpMK5CllI971WHSSHnRkpR3XSNzAjKxcRhA30a8NwCbAcBUyugn6N5ZadZ2t5GxVDhkF7fx1+FtyEtXOj3VxhZUIYUeKxn//gUzzexQwh28bvvaL5dozaXSm0eKmYNuKOD3fUorUgvRp79JsT6wxqY0YhZy3smfcSxzXjE49YwNxyH25pgU8Mc6m7lu7dpoQQrW27GR5K/i8NaZG07ESkhSxrQvmq5/54ugcFcFrVU7MoMU7p5dB2WmBFoRZCCP+TsKoYp/GqbpYKVwOLOGbqm5w4EmqRehfjsXBKYWHSm0udzN2zj4Bg6rVNCDjmAJu2ROrmJL5pb+A6veOixVrCqGUbf2p1mTDZYneK3ftjFfoA==;HMcmnB/cVSIctl/smP0Uww=="
 ---
 

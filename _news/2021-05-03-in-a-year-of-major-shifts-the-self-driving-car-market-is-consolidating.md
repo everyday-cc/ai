@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-sel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars coming to a slow lane near you, Government announces"
+    excerpt: "The UK Government has announced that it will be legal for motorists to go hands-free in self-driving cars later this year."
+    publishedDateTime: 2021-04-29T11:19:00Z
+    webUrl: "https://www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/"
+    ampWebUrl: "https://www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/amp/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 44
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/04/GettyImages-168495211-ae2e539.gif?quality=90&crop=4px,51px,913px,393px&resize=960,413"
+        width: 960
+        height: 413
+        isCached: true
+  - title: "UK signals self-driving cars could hit road this year"
+    excerpt: "LONDON: Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel. The Department for Transport (DfT) said in a statement that it will allow hands-free driving in cars equipped with lane-keeping technology,"
+    publishedDateTime: 2021-05-02T23:39:00Z
+    webUrl: "https://www.brecorder.com/news/40089625"
+    ampWebUrl: "https://www.brecorder.com/news/amp/40089625"
+    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40089625"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 44
+    images:
+      - url: "https://i.brecorder.com/large/2021/05/608f218dbd5dc.jpg"
+        width: 784
+        height: 480
+        isCached: true
   - title: "With Lyft selling its self-driving division, the market will be dominated by a few rich companies"
     excerpt: "As the self-driving car industry shifts from hype to disillusionment, the market is slowly consolidating into a few very big players."
     publishedDateTime: 2021-05-01T14:40:00Z

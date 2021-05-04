@@ -8,8 +8,8 @@ webUrl: "https://www.alleywatch.com/2021/05/cape-privacy-encrypted-learning-mach
 ampWebUrl: "https://www.alleywatch.com/2021/05/cape-privacy-encrypted-learning-machine-learning-models-collaboration-che-wijesinghe/amp/"
 cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/05/cape-privacy-encrypted-learning-machine-learning-models-collaboration-che-wijesinghe/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/05/che-wijesinghe_cape-privacy-300x300.jpg"

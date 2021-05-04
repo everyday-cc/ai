@@ -98,6 +98,20 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights"
+    excerpt: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights Posted on May 3 2021 5:25 AM Some of the key players in the military robots market such as Northrop Grumman Corporation (The U."
+    publishedDateTime: 2021-05-03T08:52:00Z
+    webUrl: "https://menafn.com/1102015536/Military-Robots-Market-Size-Growth-Revenue-Manufacturers-and-Forecast-Research-to-2020-2027Fortune-Business-Insights"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?315401"
+        width: 374
+        height: 250
+        isCached: true
   - title: "Global Artificial Intelligence in IoT Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
     excerpt: "The Artificial Intelligence in IoT market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence in IoT market report is a comprehensive research that focuses on the overall consumption structure,"
     publishedDateTime: 2021-05-03T10:09:00Z
@@ -121,7 +135,16 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 0
+  - title: "Exclusive Report Of Machine Learning as a Service (MlaaS) Market: Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin and Share 2028"
+    excerpt: "IndustryAndResearch research recently promoted a report on “Global & USA Machine Learning as a Service (MlaaS) Market Report Insight, Key Research Findings, Competative Landscape and Forecast 2021-2028” The report gives a comprehensive calculation of the Machine Learning as a Service (MlaaS) containing industry chain structure,"
+    publishedDateTime: 2021-05-03T13:50:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/exclusive-report-of-machine-learning-as-a-service-mlaas-market-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-share-2028/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
-secured: "LeXpdQJ1fZ+ccybUZ4RAXtRlZTjfWOE3qTuLe7CPRR7BCDcePauG9wcm5HaRHONboGc8beaUE4f4MZRs0hchwrkMwB+rKfoLHGdIc3paOABj4piwZQaljWrM2L1LwTJW5Fl5Gl70hVMJtttxuKOOZsfHOesTZhIFv52KbYYHvvfUjAklmRsb+WiijK3daYlxeZCg8PbDGHMb1D66GZ0eQADYDieICjrQpOuBtt9RDoJEswOlkBYLKi5pQCLOT4aJvpaoKB5QCafnDKg/f1vChg6ZdMYFWtLxJhVekv+JX5MMCgqbz4nQccrpDkCr9O/4Ce2Knl08agQ7JyFNvdMOQs1SI+5+G0AiNZhlXaj7xok=;/UhU/O9zJzrJzK5dPjy7zw=="
+secured: "Fx7o4gMa2WAxR9xt9fKKUYo6++B2Dna5G2ziTDGB4lhYZUB8/6oGY5KPH+isfOqwJ+eJotM7bNBonouwEbywNClVnSETLJjA/l3OqvfGnKeoinSZIt7dQto2o9Pfyx+YsV0JAa1/alkUTFtuyLIGfUwygKDdi68p8cfYtMe8M8QHz+LE1xrQ7NAA6pFKR0gx6u1svZSQoYgOy5DpuQ5j0Mez7zXtzyYP/TwPMDAqhYjkBxg2Fl30jTfEYPDQeGRUpmf7YoJ/Hu/EFJaUmwQDZB6tTMTpiu5c7bxNNbqD8KkZIHVVgppVxBC8XDvM//Et5STrJqu7ntEtF1OqjIdAM5jcKvYv28jZ6I/fOkUJu1lwLBtAgCu7Ouae8hfucnOqpgPALgJvCDrTgtRiZe5BNAs/An54lAGuLZpfgEpi+rc3ltTZNoCD/cH5ZNnx7Vsq/B3ZYFKofe9vJlT5N3CImgTkRhwOXSMsT0g3ECOk76nHfeE9AA+z5ZqxSga1fCkVkZP+OtW0VXQkgldD9kXbfA==;VcxpuPf2j+vOEs25MiWv2A=="
 ---
 
