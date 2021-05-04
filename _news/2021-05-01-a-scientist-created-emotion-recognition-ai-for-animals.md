@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/a-scientist-created-emotion-recognitio
 webUrl: "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.doc.govt.nz/thumbs/hero/contentassets/56e5158891b84ed08b9a6bcc848c4f8a/spyfish-camera-16-9.jpg"
         width: 1066
         height: 600
+        isCached: true
+  - title: "Caspar.Ai Granted Additional U.S. Patent For Artificial Intelligence Applications"
+    excerpt: "The United States Patent Office has granted additional patent to BrainofT, Inc., Redwood City, CA d/b/a Caspar.AI. The announcement was made"
+    publishedDateTime: 2021-05-04T10:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/casparai-granted-additional-us-patent-for-artificial-intelligence-applications-301282930.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 47
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "How one company built AI for staff retention"
     excerpt: "Building artificial intelligence (AI) capabilities from the ground up can be daunting, but the analytics expertise of a University of Technology Sydney (UTS) team helped Australian HR software developer Elmo Software climb the steep learning curve to build AI that predicts when employees are likely to leave the company."

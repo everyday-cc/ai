@@ -159,6 +159,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Baidu launches China's first commercial driverless taxi service"
+    excerpt: "Chinese search engine giant Baidu on Sunday started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public on a trial basis since last October but Sunday marked the first time that riders have needed to pay for it."
+    publishedDateTime: 2021-05-04T10:00:00Z
+    webUrl: "https://motorauthority.com/news/1132139_baidu-launches-china-s-first-commercial-driverless-taxi-service"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: "https://images.hgmsites.net/hug/baidus-apollo-go-driverless-taxi-service_100790898_h.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Baidu's self-driving $5 taxis hit Beijing park in Olympic warm-up"
     excerpt: "The Apollo Go service will be available starting Sunday in Shougang Park on the outskirts of Beijing -- one of the venues of the 2022 Winter Olympics. \"Introducing unmanned services is an indispensable stage for the commercialization of autonomous driving,"
     publishedDateTime: 2021-05-01T01:30:00Z
@@ -200,20 +214,6 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/baidu-launches-self-driving-robotaxi-service-ahead-of-2022-winter-olympics-160483-7.jpg"
         width: 728
         height: 300
-        isCached: true
-  - title: "Baidu to Open China's First Public Commercial Robotaxi Service Without Safety Drivers on May 2"
-    excerpt: "China’s technology giant Baidu Inc. is launching the first commercial robotaxi service in the country on May 2 after months of successful testing using safety drivers. Beginning next week, members of the public can hail one of Baidu’s driverless vehicles without a safety driver behind the wheel."
-    publishedDateTime: 2021-04-29T17:30:00Z
-    webUrl: "https://www.futurecar.com/4583/Baidu-to-Open-Chinas-First-Commercial-Robotaxi-Service-Without-Safety-Drivers-on-May-2"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 27
-    images:
-      - url: "https://img.futurecar.com/202104/29/l_608af1f7b751a.jpeg"
-        width: 720
-        height: 480
         isCached: true
 
 secured: "RLdhFQZkB/dh/b+aF1V8apl9UtaGwTJXVFZSlTANrLExy6/Dx0QU5h7maaqucVndf+wkpXBayIrrwc61GRjZGjqa1TahlA1QfFu0k6K/YrfjluEIw3OF3WaxY01Xcq7VGdLNVFafKc+GZxIYdr/TcVTqq9kyXufVeuh6FnJWfOH00oMBNRlSa+VKIjN+gGiiHaDsEDfaE9bPA8youZrjVt3T0godKTRmcBZIb/p1l79+wjLr0yWH4QJuoDTFSH/+iQZ+z8SYIb8xopHEQWN9E0EPIXRbn5Q6YnDXvgjqj5jBj4kMQBbOXJ5j8kd0UIqmetZhDn7TD4onHADQvMUBmg3Wp3xFP7f58LjbbWxjH+sXJhyXMi7v0cAD+PLJaWZcmRXFXwHiDUlfhSJoIBy1Yrt7FvQgBYqjsHQxJXf46wY+19bolQr5mXtnkNuH9CUTBi55KqAX5z2ShEa+6bV+2kmpGaxaZESeKDm7eUYSHDHukX9OXKp5bqEqCpYeyJr53xjh5UNBT7eawbLtyw5wEw==;HXNFFD/Uklv90yX250ThfA=="

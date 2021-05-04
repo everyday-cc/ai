@@ -37,22 +37,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Route Mobile to buy Phonon Communications for ₹29 crore"
-    excerpt: "Route Mobile Ltd, a cloud communication platform service provider, has signed a definitive agreement to acquire Phonon Communications Pvt Ltd (PCPL) for ₹29 crore in an all-cash deal. The deal amount includes upfront and deferred payments."
-    publishedDateTime: 2021-04-29T17:20:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/route-mobile-to-buy-phonon-communications-for-29-crore/article34443973.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/route-mobile-to-buy-phonon-communications-for-29-crore/article34443973.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/route-mobile-to-buy-phonon-communications-for-29-crore/article34443973.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "GlSPJQKGAe/rNJB780EyzG68m01J5HWT7riHhOJyTBV/e1FzkR9HPMtCWfAMMdgTrvs5WG87WWmQu6hQJPj2DnQeOfkPySw+yU+5/Lmdd6uRr4ua0pwdkhj/axsczX78mBazawCjeQuIwo4ZUyVo7gF70BTuP8P5VYDcvsNuZQ18f8r79j8AoimS2dN53uh2+6tRKidIbOFfTh0V20KhDyAdW1CZHe0Wh5RTik+96YAZIDvgJEeZct+v/slj38657wb69ZCPiDSpJTeU/wyV1heV2sYo2iROYPRNbQ+3PPu1L4ZmWYh6EglYipRwc31YgOxkMwrSyYoPAAVY1K+YRRXUgUPEZy6NyvZ0eYneq80=;sM5/5u59yDXBmQHIDmBGyw=="
 ---

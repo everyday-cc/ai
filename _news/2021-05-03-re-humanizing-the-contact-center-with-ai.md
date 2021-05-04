@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humaniz
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/amp/"
 type: article
 quality: 87
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The human labor behind artificial intelligence"
+    excerpt: "Behind every artificial intelligence project is lot of intensive human labor. Marketplace speaks to data labelers in central China."
+    publishedDateTime: 2021-05-04T11:36:00Z
+    webUrl: "https://www.marketplace.org/2021/05/04/the-human-labor-behind-artificial-intelligence/"
+    ampWebUrl: "https://www.marketplace.org/2021/05/04/the-human-labor-behind-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2021/05/04/the-human-labor-behind-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 57
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/04/DSC02390.jpg?fit=740%2C493"
+        width: 740
+        height: 493
+        isCached: true
   - title: "What the Arrival of AI Hardware Means for Your Data Center"
     excerpt: "Nvidia DGX systems – essentially AI supercomputers – are large, powerful, and gold colored. People that would have to support them in their data centers were worried about the hardware’s power density and intimidated by the presence of InfiniBand (an interconnect technology from the supercomputer world)."
     publishedDateTime: 2021-04-30T13:32:00Z

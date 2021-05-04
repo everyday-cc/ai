@@ -79,6 +79,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Intel’s Move to Leverage Computer Visions Solutions"
+    excerpt: "Intel takes a step towards leveraging the computer visions solutions in the agetech industry. Computer visions solutions areis tagged as the highest form of technology coupled with AI."
+    publishedDateTime: 2021-05-04T11:06:00Z
+    webUrl: "https://www.analyticsinsight.net/intels-move-to-leverage-computer-visions-solutions/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Computer-Visions.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "ZCySDlRbcJ4Tj4GlYz4nTGSLe8CpIty56aHfzucJGOGcE+nOsMuPpuDgokHiiM/f0YO9CrFRBz4yXv1YuVlwm51nMdTnJtVATOmwFy9oDGnyiaw8uGy8N23B4uKzrrXzRjla6HJKcmaQ4Q3sj7YZoayHotyvhUxjwBZShtWb9/8N9G/Jsx19tL6UGEbp53I9uqHPzHErODtJ7bGKK4bynGE1Hb2FXHuxxi9OV8glx6OLkwnLvf8k+AA1pK3xxsE1EqlXDJqsoyrEo0dqYwE16QRWMa2ukQGwTS5T9Rt7LUM3CnDUuM3Ig6rl/3RU6WUxyOcRyh6KffDBFgIbsKqKlJEEkM9c7as3dy9f7GCunNf2vuVCzVP7Wlu9KuP0eqmxdL6c685lzwpExXa1kZ5fb6v01g996vNKVO3UlqVb+b3yGIAcZYtT+yZFvJdc+7KjMw6evaohilDZ6cJLfG6BxcsjnPgG2y3PPh7voc665ynng3NZ4mHIzDhWFCsM7BtJfSVMPkpvH+M+ZreTgPG1/Q==;DouUV7MsSCUH66pE1cHsrw=="
 ---

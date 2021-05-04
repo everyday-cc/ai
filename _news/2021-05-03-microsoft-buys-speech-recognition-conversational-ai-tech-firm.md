@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft's new open-source tool could stop your AI from getting hacked"
+    excerpt: "Microsoft releases a tool to help organizations shore up AI systems against adversarial machine-learning attacks."
+    publishedDateTime: 2021-05-04T03:32:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "MYCOM OSI’s Assurance Cloud Service launches on Microsoft Azure"
     excerpt: "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
     publishedDateTime: 2021-04-30T13:54:00Z
@@ -98,20 +109,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 40
-  - title: "Nuance Provides Speech Recognition Tech for NHS Digital Transformations"
-    excerpt: "Nuance will be providing clinical dictation tech to the Guy's and St Thomas' NHS Foundation Trust for its digital transformation"
-    publishedDateTime: 2021-04-29T18:33:00Z
-    webUrl: "https://mobileidworld.com/nuance-provides-speech-recognition-tech-nhs-digital-transformations-042904/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
-        width: 800
-        height: 560
-        isCached: true
   - title: "Artificial Intelligence in Marketing Market to See Massive Growth by 2027 | IBM Corporation, Microsoft Corporation, General Vision and More"
     excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence in Marketing Market report is anticipated to perform more robustly in the coming years,"
     publishedDateTime: 2021-05-03T11:28:00Z

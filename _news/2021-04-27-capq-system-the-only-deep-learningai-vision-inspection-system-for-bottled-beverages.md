@@ -1,26 +1,26 @@
 ---
 category: news
 title: "CAPQ™ System: The Only Deep Learning/AI Vision Inspection System for Bottled Beverages"
-excerpt: "FISHERS, Ind., April 27, 2021 /PRNewswire/ -- The CAPQ TM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level ..."
-publishedDateTime: 2021-04-27T14:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages-301277179.html"
-webUrl: "https://www.prnewswire.com/news-releases/capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages-301277179.html"
+excerpt: "The CAPQTM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level inspection. The CAPQ System uses AI-powered deep learning software to recognize what a “good” capped bottle is supposed to look like and can deliver a dramatic reduction in false-rejects,"
+publishedDateTime: 2021-04-27T16:10:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1496689/Verista_horiz_full_color_Logo.jpg?p=facebook"
-    width: 2503
-    height: 1312
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "LRZUi4FUBWNEHFY/t1gn7q+gXE0drYHFT3KEwcR79dizTOZEzepAzGwNtKH/GjQrWPqxq7m6jS+CUPhuYWeorbhV1VwIhFVjJPT2TrpH+5eX3A6H9dznLE6a++nQJYw4/R6UIyJWVwocZhviEEl6prmGnRL9y97F6c1+F6/n/AfGVPY1VaNFeFJNgcqZfVOE1TbpXHYQOTEJn2zHh/b51c/QCy5u2nPJmrSMduqfXoLsVDfrZ9FOW2LB0XCOx53XYrUAzIRPSjoA4lGVueAoHZot3y8C161Xzh/ofU8KXwXteKjUIz/BgmJQU30TARVWFG4tZNMJy0+940omZS1xkCj7F/z9RJrm+XSpzQylAX4=;Mw++JFV3Enwa/6cG3hGytw=="
+secured: "IwxppDd0Dwlx1l/LWNhrNkvtOIAAM2t/npSCbwYBVHCZx3fbSrUA98v5cSbCt2BOwlY2U0/Vbc4yhzPJdicj/Jo4KI+r8oO3Sz92rqnWomUB0ktpQNQZgVo6f9tEZ8Ejziz2R5Duevh/uvym+EZBX5ZUrRIfiMSrEiNGv68pWtoMutfvh1mGFMndXIcBVeKcUl/Bwd8TMu/ya4KXGebaVN3MHXnKnHq8HkfIaAbpQSXb5KG3BcWzaGYMWpk2PzGoq988Oir0CTRRovtBibFACbAaGk+HZ/jFM5KycheRCYmZu9uN2ApoJxt0sp01EmTYKktXQNd8P/K/Oq0YEDpWgn6j4tnT4iDblOPZDoZqWNg=;MHaIOmWgVchsB1TlGnvHYQ=="
 ---
 

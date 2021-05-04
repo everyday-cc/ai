@@ -3,10 +3,10 @@ category: news
 title: "Nvidia RTX 3050 Ti laptop GPU specifications leak in full"
 excerpt: "Full specifications for Nvidia’s upcoming RTX 3050 Ti mobile graphics card have allegedly shown up in the GPU-Z database ahead of its rumored launch later this month. As reported by Videocardz, somebody anonymously submitted specs for the so-called Nvidia RTX 3050 Ti to the GPU-Z validation database,"
 publishedDateTime: 2021-05-03T16:22:00Z
-originalUrl: "https://www.techradar.com/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
-webUrl: "https://www.techradar.com/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
-ampWebUrl: "https://www.techradar.com/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
+originalUrl: "https://www.techradar.com/nz/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
+webUrl: "https://www.techradar.com/nz/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
+ampWebUrl: "https://www.techradar.com/nz/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
 type: article
 quality: 89
 heat: 89
@@ -30,6 +30,6 @@ images:
     height: 270
     isCached: true
 
-secured: "wCpUUJPkWhmJpSnylATlLtF4n0JCPLjsayUEt9lxkAsQ5AaOAbTDrNo9GxF0PRpCpVGB20RvGjLS7jEPaqi0mVDSqZdHQBM1SWQu/McdufWjfZ5t5spTC/mQp03z4kCjOlq1Ydr6LdNDozvGafmYdwr3yGekFy7axWUWeFWGpUiqv0xI/2lhw7Bn92LMejMtgGz5vQlSViA4wcBw77D/qMnaoJOvo1YOZA6M9lTgR+4LYN0PFAN+EvmchK9m+3LHuQQfsvDywIm7eKvrcMPlwsXe87EbVvxWyCGpX//F66SZ+sTc8YLi8HH0G5gvXLEvmNPj5P/O+Rngv8rtXPMh1KsRsyHtrXOaw4k8UR2vDb88URVKG3skAU/HyP+mu20ea6cPJx+Wj3mGSqSXAGF1tNHv03fuTeI/t66tqA3O9u15gTNGUxCXICrQY0/FA48496tE+vmOI4rWZAZDIc3DFRQTErzMmjrHE7i02X/+xkHIx9JCrecqp39h4rlJCu22Rn1YPL97p3a+riwmkv63NA==;NNPD5EgFldpd3yuQSi7aLg=="
+secured: "UD6C6CtqRiU+iOWEZQkpeqs9HJxF6kE2IaYvHjHEDc2EiBwnwOBNpaQcJRboVtC7riEYNcoNZkz4TkB1ygEWlKWCPp/3sEzMxOq+48g0v0buLMepvjQxahoBQT4vfNycIApszaAW6gitUFObfbcRj1rfhCQ/oJKHs3lq9OKgHr41DUYz+B2Nkxm6CYosboI/b9wHLyKJn6diM6dLMJezr/LVRrvj1uqJXXUxaJojsgZxN7hhbPD2SKgh5zHCbGJ9NWTPhIZb2f5K3TPVcLtNJoQ7x1RCPy4knChP5L5W3Jxf4ipfGXJTJV5xcUxl5Cf0q32EWXiCLwyWuH8x36E7kEYGkaq6XnAtDdS5LPRTYBM=;KiWD9wkJZkNLAOuVy961eA=="
 ---
 

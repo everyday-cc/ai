@@ -49,7 +49,7 @@ related:
     provider:
       name: Physics World
       domain: physicsworld.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://physicsworld.com/wp-content/uploads/2021/05/Photopoulos-artificial-intelligence-1310293181-iStock_imaginima.jpg"
         width: 1200

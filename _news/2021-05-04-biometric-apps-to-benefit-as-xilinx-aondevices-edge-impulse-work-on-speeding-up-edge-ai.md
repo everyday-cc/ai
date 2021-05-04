@@ -53,20 +53,6 @@ related:
         width: 1600
         height: 1035
         isCached: true
-  - title: "North Carolina school district buys face biometrics to monitor students and staff"
-    excerpt: "A facial recognition surveillance system from Verkada has been purchased in North Caroline by a rural school district in northwest of Charlotte."
-    publishedDateTime: 2021-04-29T17:26:00Z
-    webUrl: "https://www.biometricupdate.com/202104/north-carolina-school-district-buys-face-biometrics-to-monitor-students-and-staff"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/07/17173501/face-biometrics-privacy-children.jpg"
-        width: 625
-        height: 439
-        isCached: true
 
 secured: "Ag6FYK2+jpfx4UYNDcWaU7WQsURzHF1UU5nskiwpt5yorp6xxtgcahBAQSDD3l5donxKhnC8A7bHL6Qk0zyreBDWAs1oScAVEdwa2OZ+jbq9uj+rlAWZAKWzj/mzh0p/pjipV51DTPpL4iRZu+yDFbGRZWqInpUSWwMj9dt9fNwUZ5Xt8Sv1IRlVT37Peo9gQhntwT31hg3gS5I7/kFAoP/S9jNujBbt6p5Wn3ukC8Vsf718cbC04shSsMigWM3J266k2Ilbp/IHvAl3nhk1XbsFFfI15hmLGlRyo4JdKzK7PFw7t49rhB4kIyzvqgx04shuvNFdcWUI00UtsXS4PoGibflaTvNE3f+8xUV4kbj2eTh4YAZRk52jk3heHzFRLQCV+uOmriNvcA9j2AEJQbS1AXaLXZzKG4LKedywL7mypVW9f+x92FS4W/DwQEkGUmdX6Aq1LNGG9iak1rVN2JbnvH8GWWWsSUexeMCniNmTpDVNC242vwB84deVeKAHkJwaYiux0sn/y7VJnuJ+rw==;yCJUJTFmGO0S5xUUPf+3Bw=="
 ---

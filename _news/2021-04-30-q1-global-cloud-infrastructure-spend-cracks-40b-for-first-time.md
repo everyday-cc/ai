@@ -41,6 +41,22 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "AWS keeps top spot in the global cloud market"
+    excerpt: "AWS grew 32 percent in Q1 2021 and accounted for 32 percent of the total cloud spend. Azure, on the other hand, grew by 50 percent, for the third consecutive quarter. It now holds"
+    publishedDateTime: 2021-05-04T11:00:00Z
+    webUrl: "https://www.itproportal.com/news/aws-keeps-top-spot-in-the-global-cloud-market/"
+    ampWebUrl: "https://www.itproportal.com/amp/news/aws-keeps-top-spot-in-the-global-cloud-market/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-keeps-top-spot-in-the-global-cloud-market/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 61
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/UmMgpy7oe757BJ47MjAphk-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Q1 cloud report: AWS leads, but Azure and G Cloud are on the warpath"
     excerpt: "Canalys’ latest cloud infrastructure services report showed the cloud wars roiling as global spending grew 35 percent to US$41.8 billion in the first quarter of 2021, exceeding US$40 billion in a quarter for the first time."
     publishedDateTime: 2021-04-29T22:00:00Z

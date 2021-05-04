@@ -49,20 +49,6 @@ related:
         width: 777
         height: 520
         isCached: true
-  - title: "Vision for ultra-precision agriculture includes machine-learning enabled sensing, modeling, robots tending crops"
-    excerpt: "Researchers at the University of Illinois Urbana-Champaign have developed small-scale robots that can fertilize, weed and cull single plants in a"
-    publishedDateTime: 2021-04-29T18:06:00Z
-    webUrl: "https://www.miragenews.com/vision-for-ultra-precision-agriculture-includes-552006/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 18
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
-        width: 700
-        height: 417
-        isCached: true
   - title: "Development of Spectroscopic Sensor System for an IoT Application of Adulteration Identification on Milk Using Machine Learning"
     excerpt: "Adulteration in milk is a common scenario for gaining extra profit, which may cause severe harmful effects on humans. The qualitative spectroscopic technique provides a better solution for detecting the toxic contents of milk and foodstuffs."
     publishedDateTime: 2021-05-01T14:58:00Z

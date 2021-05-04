@@ -53,6 +53,20 @@ related:
         width: 1066
         height: 600
         isCached: true
+  - title: "Caspar.Ai Granted Additional U.S. Patent For Artificial Intelligence Applications"
+    excerpt: "The United States Patent Office has granted additional patent to BrainofT, Inc., Redwood City, CA d/b/a Caspar.AI. The announcement was made"
+    publishedDateTime: 2021-05-04T10:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/casparai-granted-additional-us-patent-for-artificial-intelligence-applications-301282930.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 47
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "How one company built AI for staff retention"
     excerpt: "Building artificial intelligence (AI) capabilities from the ground up can be daunting, but the analytics expertise of a University of Technology Sydney (UTS) team helped Australian HR software developer Elmo Software climb the steep learning curve to build AI that predicts when employees are likely to leave the company."
     publishedDateTime: 2021-05-04T02:38:00Z

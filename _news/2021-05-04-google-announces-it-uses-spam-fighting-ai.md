@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fighting algorithmic bias in artificial intelligence"
+    excerpt: "Julianna Photopoulos explores the issues of racial and gender bias in AI – and what physicists can do to recognize and tackle the problem"
+    publishedDateTime: 2021-05-04T08:22:00Z
+    webUrl: "https://physicsworld.com/a/fighting-algorithmic-bias-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 41
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2021/05/Photopoulos-artificial-intelligence-1310293181-iStock_imaginima.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "CMS Announces Winners of Artificial Intelligence Challenge"
     excerpt: "ClosedLoop.ai was the winner and Geisinger was the runner-up in CMS's Artificial Intelligence Health Outcomes Challenge."
     publishedDateTime: 2021-05-03T14:55:00Z
@@ -40,21 +54,7 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Fighting algorithmic bias in artificial intelligence"
-    excerpt: "Julianna Photopoulos explores the issues of racial and gender bias in AI – and what physicists can do to recognize and tackle the problem"
-    publishedDateTime: 2021-05-04T08:22:00Z
-    webUrl: "https://physicsworld.com/a/fighting-algorithmic-bias-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 39
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2021/05/Photopoulos-artificial-intelligence-1310293181-iStock_imaginima.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
-secured: "0ttW3jBrgOB3yaYKj+zhuohl0APpEB8ZLAnNq7gYiZY8SBlmMHbj6tQe8HhWvfKDnwLaJG/Fq3AYEzVuTEFieKAT2D0C7t9N1gSLEi5MUUcrP4LU1Bgyk5hxgAxXY6P7dMOp9osq2e6mAsppSQocCWn1yffX8na/mh7l82RFVtWzkQZ/1eQsBoM9DVFHTyjGADkEoudaV42/tBNZw12D6+bleEG7o0FHV186jy8PCqDDmpqFffYZxO0F+X6VhhdNk80My2kQeRrzegJ4m840moYYH1mm/XkciXrBY13/UFUk9fxTc78r50INbIcgtUYDaaEIn7OnmuzJTOQ+0IhMo4ePvAhaWo6deKoEtdS4qw8=;H4XB5AeKmdN/dqNQWypqiQ=="
+secured: "pongbxRawtULM7hVWjQa5Mcl/dwzCCh8zJlXsmpcOWUGxetcTa8Elsb0fKOeRYafAQ+K1RhygHhHChv3LHZ/gB1VnB/8azjIroADa7Lvdbe3Av+Mz5ZLTf8/hJ43TFs9gvDdBjNhw9hCWKj3TXmeSKP7zlRl3/7n4uevCYZ8lTcpFTZ+eVEjhaqxFePcJVOlK7aVIRSIuHRJ1pQRqcMcnYkN20X3V4GJMpkz8eXSldehuwzpfJOIN9mwF8ziRD6OeG1omV8R/X+yEP3izqdvalzvxpglTNVRHuWoLaABcFCqKEaBp4aFxal4KADelisBB+bjnukhyy+AgJ0l+7uavnKABKJ35bLB6e4yadmYuN/HWneqz723dEWDmxvU8TP/oBuFa2Ssa9iE0a/LUBPiaW7qi7jjR13lzJvUayUZIrE8J45dAtEfnqdxo+vKov8yWni9lYJt5t6BpYJ50KXSDx89L2VfY4MBxV40BG29iePTVJ4Du+dNJ89mQVfqji2SB9MeMgeJwop17l2LdYUHrA==;7d6DGchcuQb/aRlU2mqthw=="
 ---
 

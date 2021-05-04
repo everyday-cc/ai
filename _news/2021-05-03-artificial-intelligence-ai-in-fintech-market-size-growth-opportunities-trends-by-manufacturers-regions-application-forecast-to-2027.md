@@ -140,6 +140,15 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Global Deep Learning Market To Expand with an ASTONISHING CAGR During The Forecast Period 2020-2026"
+    excerpt: "Zion Market Research the market report titled “Global Deep Learning Market To Expand with an ASTONISHING CAGR During The Forecast Period 2020-2026” is meant to serve as a helpful document to evaluate the global Deep Learning Market together with the comprehensive evaluation and clear-cut dynamics associated with this market."
+    publishedDateTime: 2021-05-04T10:42:00Z
+    webUrl: "https://ksusentinel.com/2021/05/04/global-deep-learning-market-to-expand-with-an-astonishing-cagr-during-the-forecast-period-2020-2026/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 5
   - title: "Artificial Intelligence Platform Market 2020 Top Companies, Upcoming Trends Emerging Technologies, Global Analysis with Forecast 2026"
     excerpt: "The Global Artificial Intelligence Platform Market accounted for USD 2.34 billion in 2017 and is projected to grow at a CAGR of 31.2% the forecast period of 2020 to 2026. The research Insights proclaims the addition of another new report on account of the Artificial Intelligence Platform Market."
     publishedDateTime: 2021-05-03T14:10:00Z

@@ -165,6 +165,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Baidu launches China's first commercial driverless taxi service"
+    excerpt: "Chinese search engine giant Baidu on Sunday started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public on a trial basis since last October but Sunday marked the first time that riders have needed to pay for it."
+    publishedDateTime: 2021-05-04T10:00:00Z
+    webUrl: "https://motorauthority.com/news/1132139_baidu-launches-china-s-first-commercial-driverless-taxi-service"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: "https://images.hgmsites.net/hug/baidus-apollo-go-driverless-taxi-service_100790898_h.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Driverless Taxi Program Rolls Out in China"
     excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in Beijing,"
     publishedDateTime: 2021-05-03T13:47:00Z
@@ -192,20 +206,6 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/baidu-launches-self-driving-robotaxi-service-ahead-of-2022-winter-olympics-160483-7.jpg"
         width: 728
         height: 300
-        isCached: true
-  - title: "Baidu to Open China's First Public Commercial Robotaxi Service Without Safety Drivers on May 2"
-    excerpt: "China’s technology giant Baidu Inc. is launching the first commercial robotaxi service in the country on May 2 after months of successful testing using safety drivers. Beginning next week, members of the public can hail one of Baidu’s driverless vehicles without a safety driver behind the wheel."
-    publishedDateTime: 2021-04-29T17:30:00Z
-    webUrl: "https://www.futurecar.com/4583/Baidu-to-Open-Chinas-First-Commercial-Robotaxi-Service-Without-Safety-Drivers-on-May-2"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 27
-    images:
-      - url: "https://img.futurecar.com/202104/29/l_608af1f7b751a.jpeg"
-        width: 720
-        height: 480
         isCached: true
   - title: "Baidu’s self-driving US$5 taxis hit Beijing park in Olympic warm-up"
     excerpt: "BEIJING: Baidu, the Chinese tech company known for its search engine, has passed its driver’s test and will debut its fleet of autonomous taxis to the public this weekend in what will be China’s first paid self-driving service with no one behind the wheel."

@@ -64,20 +64,6 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 19
-  - title: "Vision for ultra-precision agriculture includes machine-learning enabled sensing, modeling, robots tending crops"
-    excerpt: "Researchers at the University of Illinois Urbana-Champaign have developed small-scale robots that can fertilize, weed and cull single plants in a"
-    publishedDateTime: 2021-04-29T18:06:00Z
-    webUrl: "https://www.miragenews.com/vision-for-ultra-precision-agriculture-includes-552006/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 18
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
-        width: 700
-        height: 417
-        isCached: true
   - title: "Feature Engineering and Deep Learning for Stereo Matching Under Adverse Driving Conditions"
     excerpt: "Stereo matching is a challenging research topic in driving assistance systems. Existing stereo matching methods work well under normal day-light conditions. However, they fail to operate under adverse driving conditions,"
     publishedDateTime: 2021-04-30T15:01:00Z

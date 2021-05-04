@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple hires Google AI veteran Samy Bengio amid ethics controversy"
+    excerpt: "Apple has hired former Google artificial intelligence (AI) scientist Samy Bengio following his departure from the company after controversy engulfed the Google Brain division. Bengio will lead a new AI research division at Apple and will report to senior vice president of machine learning and AI strategy John Giannandrea,"
+    publishedDateTime: 2021-05-04T10:02:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359405/apple-hires-google-ai-veteran-samy-bengio"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359405/apple-hires-google-ai-veteran-samy-bengio?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359405/apple-hires-google-ai-veteran-samy-bengio?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 106
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1602239713/itpro/Apple_logo_building_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Apple hires ex-Google AI scientist who resigned after researcher firings"
     excerpt: "AI scientist Samy Bengio, who resigned from Google after the firings of Timnit Gebru and Margaret Mitchell, has joined Apple."
     publishedDateTime: 2021-05-03T21:40:00Z
@@ -163,6 +179,34 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Apple hires ex-Google AI scientist"
+    excerpt: "Apple has hired former distinguished Google scientist Samy Bengio, who left the search giant amid turmoil in its artificial intelligence research department. Bengio is expected to lead a new AI research unit at Apple under John Giannandrea,"
+    publishedDateTime: 2021-05-03T23:53:00Z
+    webUrl: "https://www.itnews.com.au/news/apple-hires-ex-google-ai-scientist-564095"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20130418071733_apple+logo.jpg&w=480&c=0&s=1"
+        width: 480
+        height: 363
+        isCached: true
+  - title: "Apple snatches Google’s AI expert"
+    excerpt: "Welcome to ethics  Apple has hired former distinguished Google scientist Samy Bengio, who left the search giant amid turmoil in its artificial intelligence research department in a row about ethics. Bengio is expected to lead a new AI research unit at Apple under John Giannandrea,"
+    publishedDateTime: 2021-05-04T09:58:00Z
+    webUrl: "https://www.fudzilla.com/news/52805-apple-snatches-google-s-ai-expert"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/7d059b77424b4b8f0952bb13045f2fde_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Former Google AI Scientist Samy Bengio To Join Apple"
     excerpt: "Samy Bengio worked at Google for 14 years. His exit comes a few months after the firing of two Google AI ethics researchers"
     publishedDateTime: 2021-05-04T08:11:00Z
@@ -191,6 +235,15 @@ related:
         width: 1242
         height: 709
         isCached: true
+  - title: "Apple hires Google scientist to lead new AI unit"
+    excerpt: "Apple said it has hired former distinguished Google scientist Samy Bengio, Reuters reports. Bengio is expected to lead a new AI research unit at Apple under John Giannandrea, senior vice president of machine learning and AI strategy,"
+    publishedDateTime: 2021-05-04T11:10:00Z
+    webUrl: "https://www.telecompaper.com/news/apple-hires-google-scientist-to-lead-new-ai-unit--1381865"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "SXqBd+/rWj7Ki2tTQLDQX9A9PS5x9P/liWiRrVSyQ8o2Bp5j1VvpfZ/RySNEKVDulrHs3ZcR6m+EU89TSZyzZEuXfyYpFhtHgnxTvrlAICrPfw+qXNHXYk33CgKzGKyyv+7ZNGjIf6fHUm/bkCGpDNoPyR5ITPcqA13rUImQs5viowbH8ZrxQA56vi3CCKAD75SZIuyNKY8P8o0sIlaoR6+xgjG5WfcDZqYcDMslo+ovoWMQBRN+XLIixz8Fq27BymJyTn47kjDOBfAE1OX26pZUUJTXasUjR/rDLvfqycOTYA9+JYLOUtez1HcC7kNTtU+q7iFEkgq6dn1fH/L2/wN2mkA1shKtckvr3kIEUTTj+jsSazNpvhSw+R8/9C0KqXtc2cbcit1ETxIxANEaI4lOVPGIsQjexRLSPO5HuSMYMZtZpRzZxQ8BvkOPdwocVAR8v7MtSNQybszA+Nyic6OllY2GOefb/rFJst8OZHrWJlz5riWjtcSZ4wKhbTegPTDKOcwGJYjUHF9B5lNbGA==;2rjKMjYKAwoU7mcSpGV69g=="
 ---

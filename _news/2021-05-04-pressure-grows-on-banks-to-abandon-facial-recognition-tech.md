@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China Publishes Draft Security Standard on Facial Recognition"
-    excerpt: "On April 23, 2021, the National Information Security Standardization Technical Committee of China published a draft standard (in Chinese) on Security Requirements of Facial Recognition Data"
-    publishedDateTime: 2021-04-29T17:28:00Z
-    webUrl: "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition"
-    ampWebUrl: "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 76
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
   - title: "False facial recognition sends innocent man to jail"
     excerpt: "False positive facial recognition match sends innocent man to jail."
     publishedDateTime: 2021-04-29T21:25:00Z
@@ -54,6 +38,34 @@ related:
       - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
         width: 980
         height: 548
+        isCached: true
+  - title: "False facial recognition sends innocent New Jersey man to jail"
+    excerpt: "New Jersey police arrested an innocent man on unlawful possession of a weapon, resisting arrest and aggravated assault charges after he was falsely identified by facial recognition technology. Law enforcement agencies across the country use facial recognition to generate leads on suspects,"
+    publishedDateTime: 2021-04-29T19:35:00Z
+    webUrl: "https://www.hawaiinewsnow.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
+    type: article
+    provider:
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 54
+    images:
+      - url: "https://www.hawaiinewsnow.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG"
+        width: 1200
+        height: 671
+        isCached: true
+  - title: "San Diego Held Back Materials Sought by Congress on Facial Recognition"
+    excerpt: "In 2017, the House Committee on Oversight and Reform wanted to learn more about San Diego's use of facial recognition technology. The city’s response downplayed internal concerns over the program and withheld a number of reports showing how prevalent it really was."
+    publishedDateTime: 2021-05-03T11:00:00Z
+    webUrl: "https://www.voiceofsandiego.org/topics/government/san-diego-held-back-materials-sought-by-congress-on-facial-recognition/"
+    type: article
+    provider:
+      name: Voice of San Diego
+      domain: voiceofsandiego.org
+    quality: 41
+    images:
+      - url: "https://www.voiceofsandiego.org/wp-content/uploads/2021/04/Facial-Recognition_FINAL.png"
+        width: 1800
+        height: 1200
         isCached: true
   - title: "What cities must do to responsibly deploy facial recognition solutions"
     excerpt: "The National League of Cities has published recommendations for guiding conversations around how facial recognition technology is being implemented."
@@ -80,20 +92,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "Nuance and focus the watchwords on facial recognition for more privacy officials"
-    excerpt: "The missing component required for public acceptance of facial recognition is trust. Government missteps and vacillation have engendered little of it."
-    publishedDateTime: 2021-04-30T14:05:00Z
-    webUrl: "https://www.biometricupdate.com/202104/nuance-and-focus-the-watchwords-on-facial-recognition-for-more-privacy-officials"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
-        isCached: true
 
 secured: "MsEcC9Bh/f5NovTXMoFDtAqbM22c7jZZoaDVsr35/XZSI5spwh7GGHcJ6rp8gA67SZkDeF83FStJ9g6L5sKOGAfRNWnmIqui3Jab8oK8zzRvBvSmYYS9vU8adiCOO0zuO+byQfkxhIm5xW6a+fSwZsKhKUQ+egDuzCNkWeT77d5WxvgQ2FVZCkn06GZ/7GX3I00Be8gLOh3ll4dgOsNhdLAd2ZrbunwYysW9CbMsO2cEqBWIvS1yOBkuzPedx61nb+3+F0Xi7wkk9etMatIrFhDHNAnS7wSRf3L+gmLrSu7Q2ZbVPQhtYOYBuyvXEaP1oWBvsjE6HPJAPLhnDvrLZOdXFUfce3MclElY8Cm3M9gw+BiUEBxpVOC9PHt/LsAkB9akdWQ0J3r/eT2XuyjXTlR+EuimwvKa6HS3jvjS7w3hbHSuaSLjLlSQqn8sz9NYIhvM5/QiDE8c3w37JaIM0gG66vBJCWUcodewSWG/O06umF8lD1k1gDjBv5UUm01czWZpRBgOo1qpJL/SgYGCSg==;kO9vq4E2gCJ8IjRopOLR9g=="
 ---

@@ -74,6 +74,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Intel’s Move to Leverage Computer Visions Solutions"
+    excerpt: "Intel takes a step towards leveraging the computer visions solutions in the agetech industry. Computer visions solutions areis tagged as the highest form of technology coupled with AI."
+    publishedDateTime: 2021-05-04T11:06:00Z
+    webUrl: "https://www.analyticsinsight.net/intels-move-to-leverage-computer-visions-solutions/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Computer-Visions.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Artificial Intelligence in Fintech Market size, Witness Highest Growth in near future by 2027 | Microsoft, Google, Salesforce, Ibm, Intel"
     excerpt: "The Artificial Intelligence in Fintech market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
     publishedDateTime: 2021-05-03T06:19:00Z

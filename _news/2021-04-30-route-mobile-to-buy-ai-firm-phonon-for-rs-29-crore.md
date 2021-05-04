@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/route-mobile-to-buy-ai-fir
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/route-mobile-to-buy-ai-firm-phonon-for-rs-29-crore/amp_articleshow/82320983.cms"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: India Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Route Mobile to buy Phonon Communications for ₹29 crore"
-    excerpt: "Route Mobile Ltd, a cloud communication platform service provider, has signed a definitive agreement to acquire Phonon Communications Pvt Ltd (PCPL) for ₹29 crore in an all-cash deal. The deal amount includes upfront and deferred payments."
-    publishedDateTime: 2021-04-29T17:20:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/route-mobile-to-buy-phonon-communications-for-29-crore/article34443973.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/route-mobile-to-buy-phonon-communications-for-29-crore/article34443973.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/route-mobile-to-buy-phonon-communications-for-29-crore/article34443973.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Route Mobile gains on acquiring AI firm Phonon Communications"
     excerpt: "Route Mobile rose 1.61% to Rs 1634.75 after the company said that it will acquire Phonon Communications (Phonon), a communications automation platform provider, for Rs 29 crore."
     publishedDateTime: 2021-04-30T07:02:00Z
