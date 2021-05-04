@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 631
+heat: 632
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 9244336
+  followers: 9246103
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "gP/Np+JIiq8Rws1pLM2UfSVn/XV5fbJ3tMwNgJzR4P/aA9ZDM1dddGBR4cjumm3z3W4DiwSNt04Cnsya1h0lI9bXGiJT0sKW8H4a1an1jb3R+mpaVAfYV1YyHE+FXBRWeC6IKE6PVn3RbnNFRZFNoG+teR3GkJPfpr/MJbUyPRvskVWskZGZNXm6eoJxqmaqRP1OliDO8ppR/kKI6I7nRotzEMZoOCFOyGsltXpybGrffKWIs9SWbECPukiVUwZhKJdbD1N4Vfvw+aBW4gXEg3MfF53aLjnmT4PTAFwxEtMZE8aSMG00nk6n+Qxpo2uTjKMNyu6P3K/O+9a+WtJe86sL0BkbVarPDkrfZaif+x8xfPM3vudNrGlq9+F3KDraADCkWnZszDUY5Udif9I5eElUp7jf0dT8uP4lNnKece8=;JJljOlR6QjIMzZ2Mo3QRsA=="
+secured: "uMaTs3rDDdMehFgB7gVbahJz2jMtuFOIHGAUEZcYxG71P+kCzPyjSwv4FSVnLeipOmOgKluC71mpy6hkQ7uNIrlDsVO3hdk24DwcKXN2Fet8Mx/my3FNtw+4wyHNEeg2gZ8/MRQv5eelLnBYJ+FQ4q24TjnikDWOixYMk4wwwmIAe8NKXRvy2NM7iYxHcnnsmWyR7lLJXGxnYCw8+n4X9Lv2Yb1GXrAtlpo97oUxlGki1lWOOnOlqQ0GCzdKiqmiwpeGFv1eBIFqGR9pz5iAztASf4atQCnfPrYDvQZjFy7AmXj6VjglvZgYq1pcS3jgPUEgoJnKqHmkAlXwXxn2kHit/nOyx1O/nkAC97Ts+//8enrSk6m+UFY1D2ovtYhP9LLUmMqNH4A9YT91zjH7VkEKBfYl5XxljzhXSm9aBBI=;2wq7PigwEPSDLlDV58a22Q=="
 ---
 
