@@ -19,6 +19,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Security
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1425428/HawkEye_360_Logo.jpg?p=facebook"

@@ -7,8 +7,8 @@ originalUrl: "https://www.cioapplications.com/news/tredence-introduces-ml-works-
 webUrl: "https://www.cioapplications.com/news/tredence-introduces-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-nid-7609.html"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: CIO Applications
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Minerva Intelligence announces Webinar for its DRIVER AI Mining & Exploration software"
+    excerpt: "CNW/ - Minerva Intelligence Inc. (TSXV: MVAI) (\"Minerva\" or \"the Company\"), an artificial intelligence company focused on knowledge engineering, is pleased to announce a new webinar on May 6, coinciding with the Company's launching of its state-of-the-art DRIVER software,"
+    publishedDateTime: 2021-05-04T13:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/minerva-intelligence-announces-webinar-for-its-driver-ai-mining-exploration-software-1030385127"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
   - title: "Wolfestone Group Launches Innovative, AI-Powered Online Captioning Service"
     excerpt: "Wolfestone Group announces the launch of DrCaptions, an innovative new AI-powered online captioning service. Wolfestone Group expands its service offering to encompass translation and localisation services,"
     publishedDateTime: 2021-04-30T12:30:00Z

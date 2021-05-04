@@ -42,6 +42,22 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Using AI to Track How Customers Feel — In Real Time"
+    excerpt: "Even if they provide a positive score, customers often reveal their true thoughts and feelings in the open-ended comment boxes typically provided at the end of surveys, and AI can help companies make use of this valuable data to better predict customer behavior."
+    publishedDateTime: 2021-05-04T12:15:00Z
+    webUrl: "https://hbr.org/2021/05/using-ai-to-track-how-customers-feel-in-real-time"
+    ampWebUrl: "https://hbr.org/amp/2021/05/using-ai-to-track-how-customers-feel-in-real-time"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/using-ai-to-track-how-customers-feel-in-real-time"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/05/May21_04_1210361415.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "MGS+AwcKvBMVTP0ogCF0qeICnrK1W/dTEkm+e41B7O5pcW9C+mlLpvubk3mEYW27l9sEdedpvIpjLaGDL3x1ntMBpP4q2JkTkObTVWjWuDFr/eUEqh+X7cQ4dfu1iHenkPa1GEfJzC3e2lqOQGZSMR14x9k0+GC1q/78xVKiQ4cRGZqoJI5C39Ia4XydEhERff30wLYn/QkV2SwGwDfWvhVpXdMG+5vFoD/b0nDQMGHgsZwNOYe1NWElkznRg+gtARTcz8jkf1gUiE2WJUfdzXpWSRyoAfgxtgMePbC8EIX4tIxjUNYjuU/04Obh9zbPyd+IDjm3if1gweQSFGnoPqWdQ4dKQoVkVU80Chrpd/U=;3XrlTg6ayXwNxm3T4JKbQQ=="
 ---

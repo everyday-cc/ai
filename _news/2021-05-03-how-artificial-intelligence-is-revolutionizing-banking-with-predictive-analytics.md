@@ -38,20 +38,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Brytlyt’s Accelerated Analytics – powered by GPU"
-    excerpt: "This whitepaper discusses the analytics challenges businesses are facing today, and how the Brytlyt platform can transform how people uncover insight from their data."
-    publishedDateTime: 2021-04-29T19:20:00Z
-    webUrl: "https://insidehpc.com/white-paper/brytlyts-accelerated-analytics-powered-by-gpu/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/04/Accelerated-Analytics-Cover-Image.jpg"
-        width: 646
-        height: 907
-        isCached: true
   - title: "Former Google Energy CTO Joins AI Startup Olea Edge Analytics"
     excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Ben Wilson as Chief Operating Officer. Wilson, the former Chief Technology Officer - Energy at Google,"
     publishedDateTime: 2021-05-04T06:00:00Z

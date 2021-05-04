@@ -121,15 +121,6 @@ related:
         width: 740
         height: 462
         isCached: true
-  - title: "Artificial Intelligence for Accounting Market size, Witness Highest Growth in near future by 2027 | Microsoft, Aws, Xero, Intuit, Sage"
-    excerpt: "The Artificial Intelligence for Accounting market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
-    publishedDateTime: 2021-05-03T03:21:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-for-accounting-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-aws-xero-intuit-sage/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
 
 secured: "RFLX9Set/q6DGU1FlD8rQQY3stjosflWbFUwC9HU5y4MRdMNyJwOgbMq4q/NTbEH3W4p8xTFsrlX/Y6a18C4xYOj6E2lNslkx92/MUQWsp7rAk6S33ob7n37JixCpGo/UWGn121YmkozLcmB52CGWjM9sAt5Wx0XNTr+wicnfWcQWhx8VpIDJsYwMdDCiicu+ecg1Ni+5eHLdbZsrPBDZrCur2I0a8whKo7V9d7M0RmRR8YgyNmfK5DQmRBLIZfYx7gld+ax0JikugSK7MtmS/h1VCouLtQQzduMnG3eW7Xx3xC1Ivtf7I1gmaXAGGq8WBPlb8r50pcOg+r8qI4mrRUEZy0m7j65RL1VRzc8HFpQiO0tSWj2R+IHeR9f6YvJbjCUBWVe7kJBnebAF/Mvil0VVVmiFI9t2YmafJaYo98SbsgEkAArr84NUer7UnEFq3uKm4it5UrqGcLEgzal+MEs69knF+UATzLCKOrduHzCEPFGSoUlISmLP44v71IgZPIx3J7uuHCNSfGZi73HHA==;nVuK9FsrZqRdDOgBZ6CkbA=="
 ---

@@ -113,15 +113,6 @@ related:
         width: 740
         height: 462
         isCached: true
-  - title: "Artificial Intelligence for Accounting Market size, Witness Highest Growth in near future by 2027 | Microsoft, Aws, Xero, Intuit, Sage"
-    excerpt: "The Artificial Intelligence for Accounting market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
-    publishedDateTime: 2021-05-03T03:21:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-for-accounting-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-aws-xero-intuit-sage/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
   - title: "Global cloud services market reaches US$42 billion in Q1 2021: Canalys"
     excerpt: "Cloud infrastructure services spending grew 35% to US$41.8 billion in the first quarter of 2021. The trend of using cloud services for data analytics and machine learning, data centre consolidation, application migration,"
     publishedDateTime: 2021-05-02T10:36:00Z
@@ -132,6 +123,6 @@ related:
       domain: itwire.com
     quality: 6
 
-secured: "m2ScsC89YzGhdbKSiGiYgUL4W3AJa/rNbwH0aQCD7WdwqXFj1jyurVFvTwDyisPgDHbttCX3TO8mPbOMYAwHeE+RlILlQYaEwqf95C/9D7+WMmJnlKNHO+3SV7FB+9dOdZp9+G+gGjJmbY5U3ohxtL4SEHmVi5k9j5m4ja7IhOBGBt9Td2Ib4QiGn5C+PKEcWB9fsIWS2F1q2YaOP/0YYXIFCiR1rb8rojwal7SDO7beWGZYl5xGhSR46hXq+7J5TCcAfGtpdbZ8jVDJXHKFr4cXAvQg/eStjuxA9zb56zPkarRuQENdqsxFUnX/qRDpCBI9RNgczEqQpJ+kjPMz2ddZT+l3F3wWwCM2vsna5Qs=;uktDX5yqcPJ+t9OBOXo9Ng=="
+secured: "NxPjE1ut42Lmh1ZOcBPlojrDPKMXg9dIP7gIgdG2FE/td49HzTddvD/fCUrJlhAxHXkhiYYLG6yigi3TgJA0SSHTzTO51WkegrWC5kBuQkUt3nmRXRCe00d4vqloiwU5608BKHZbyodfVa/u/gfIkQE/NoqriCiXTodTYCDWTaxoIY4+t6FIn1CchwxGrJP5H7XHBamgw5BKAOnTrJl94+pNFH9Rr2LniOCioJp+Etnj72BJ+LYZBYdi8pA8nJ00z/yHMvQSUNJigHDe8tZELq2svj6ayQVvwkhuvKeFw6F2QXyfrkPIzP68viWMjcjy1vUr2uNBYYr13aPdTsZ8GlYYxZyCVOklfk03VOXvFui/NGK1kG7CEVPyOGer+kDNr7sQnqHNSQHUanaWF2BJxI4gUiDGiYyH1zEHayFQfwb8IgFSf1FcmOwF2J9hczfP7d0jY/RUuveK6hCp3Kl4IvtBEpD2fzmQi+ycjQiCZkwQ6dOlAk4UbeLjhK9a631Mllw73E+YznmMVgQGnoLI5w==;c9XdGVsksbeCvZy8RvGOQg=="
 ---
 

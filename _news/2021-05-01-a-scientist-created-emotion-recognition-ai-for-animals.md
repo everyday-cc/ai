@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/a-scientist-created-emotion-recognitio
 webUrl: "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -44,18 +44,18 @@ related:
         height: 600
         isCached: true
   - title: "Caspar.Ai Granted Additional U.S. Patent For Artificial Intelligence Applications"
-    excerpt: "The United States Patent Office has granted additional patent to BrainofT, Inc., Redwood City, CA d/b/a Caspar.AI. The announcement was made"
+    excerpt: "The United States Patent Office has granted additional patent to BrainofT, Inc., Redwood City, CA d/b/a Caspar.AI. The announcement was made b"
     publishedDateTime: 2021-05-04T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/casparai-granted-additional-us-patent-for-artificial-intelligence-applications-301282930.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/caspar-ai-granted-additional-u-s-patent-for-artificial-intelligence-applications/article_1f024682-0044-537c-9a8d-20dc4418884c.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 47
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "How one company built AI for staff retention"
     excerpt: "Building artificial intelligence (AI) capabilities from the ground up can be daunting, but the analytics expertise of a University of Technology Sydney (UTS) team helped Australian HR software developer Elmo Software climb the steep learning curve to build AI that predicts when employees are likely to leave the company."
@@ -70,6 +70,20 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/employee%20quitting.jpg"
         width: 821
         height: 462
+        isCached: true
+  - title: "Gender recognition application reduced to £5"
+    excerpt: "THE cost to apply for a gender recognition certificate has been reduced to £5, the government has confirmed. The £140 fee for how a person changes their legal gender will be reduced to single figures from today to ensure that the process is more affordable for transgender people."
+    publishedDateTime: 2021-05-04T12:51:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/gender-recognition-application-reduced-ps5"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 24
+    images:
+      - url: "https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Speech & Voice Recognition Global Market Study Focus on Top Companies and Crucial Drivers"
     excerpt: "Global Market Monitor recently published a market research report on Speech & Voice Recognition, which studied Speech & Voice Recognition industry outlook, competitive situation, regional market analysis,"

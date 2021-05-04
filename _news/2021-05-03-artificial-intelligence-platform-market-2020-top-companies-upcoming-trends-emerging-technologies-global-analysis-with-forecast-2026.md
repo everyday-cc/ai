@@ -147,15 +147,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 5
-  - title: "Artificial Intelligence (AI) in Fintech Market Size, Growth Opportunities, Trends by Manufacturers, Regions, Application & Forecast to 2027"
-    excerpt: "The information made available in the Artificial Intelligence (AI) in Fintech Market report will definitely facilitate to increase the knowledge and decision-making skills of the business, thus providing an immense opportunity for growth."
-    publishedDateTime: 2021-05-03T09:41:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-ai-in-fintech-market-size-growth-opportunities-trends-by-manufacturers-regions-application-forecast-to-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 2
   - title: "Exclusive Report Of Machine Learning as a Service (MlaaS) Market: Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin and Share 2028"
     excerpt: "IndustryAndResearch research recently promoted a report on “Global & USA Machine Learning as a Service (MlaaS) Market Report Insight, Key Research Findings, Competative Landscape and Forecast 2021-2028” The report gives a comprehensive calculation of the Machine Learning as a Service (MlaaS) containing industry chain structure,"
     publishedDateTime: 2021-05-03T13:50:00Z

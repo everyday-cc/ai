@@ -57,19 +57,19 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Leveraging Data and AI to make your Enterprise Intelligent and Agile"
-    excerpt: "Artificial intelligence is poised to unleash the next wave of digital disruption, and enterprises are using data as the backbone to harness this change. A successful program requires enterprises"
-    publishedDateTime: 2021-04-29T19:21:00Z
-    webUrl: "https://www.geekwire.com/calendar-event/leveraging-data-ai-make-enterprise-intelligent-agile/"
+  - title: "Artificial Intelligence (AI) in Medical Market Is Booming Worldwide | NVIDIA, Intel, IBM"
+    excerpt: "Get Quick Free Sample Copy of Report @: jcmarketresearch.com/report-details/1299753/sample Key Companies/players: NVIDIA, Intel, IBM, Google, Microsoft, AWS, GE Healthcare, Siemens Healthineers, Medtronic The research covers the current & Future market size of the Global Artificial Intelligence (AI) in Medical market & its growth rates based on 8 year history data."
+    publishedDateTime: 2021-05-04T09:20:00Z
+    webUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-ai-in-medical-market-is-booming-worldwide-nvidia-intel-ibm/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 67
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 43
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/04/Copy-of-social-19.png"
-        width: 862
-        height: 824
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/download-11-1-780x470.png"
+        width: 780
+        height: 470
         isCached: true
   - title: "Intel Community Needs Next-Gen Microelectronics for Future of AI"
     excerpt: "IARPA wants “seedling” ideas that use a multidisciplinary approach that extends beyond traditional technological and scientific fields."
@@ -95,6 +95,6 @@ related:
       domain: ksusentinel.com
     quality: 1
 
-secured: "yzxtdMIV8DIqG7Qbov19JOcZRXUz8MnJwMomeCoenuwa7WPQhxdZOO7kf23k+H+eVVfycEBCVUlH1ftNKSzKzLjUVRFkboNWUZy2i9Qi2KZ5PrWIWv4kd5vJEDhEHGWA/YRVFRktlo8bsvQFqvBx+3EhX8cJHHOHUR7VQQP/47Au6+hpaT9OqACF/Au4sEDXNiPw4y21oVxXwKsOT5/DWADyJRfcAHsFNrj9KEhcmKU7Bj0Unjn+FkbB1Xllv1Ppq4xUReR7nwN5pZdEEM9NUL1joGr4G6OnRoHq5ijkAzD7SDCp3wdAmU+Uh9paOxF302H1puR7h33bvqrIVL2ylul0Uo1JqxEVQcoewE1DPlM=;oh6vBMe3/IKrgnqnaRcwfA=="
+secured: "1pjDWrc5IoCxxqdUlxI8cH2qXiH3B+FBorJWkiWHxJfF7A+WLgfbZKqArCoUCfcddr7LlCeZm2VdwcA/tBuOC1sFxoC1qdwxtbf3qa6J8uRGWK3i2rQu6dplrNe7ZfqfWeaF92IaX2KNs82FUFhwhU/EIOFZJ9nzga6XL1LnKwVfbYu1f4tVupsyTdNkOPYs/Wqaifm9zwIheVXP6ejrnA5V4/1LoqbJ4Ek10YndJ+XLOeZeTt5RqdNb4WO5fkbIEeV54ZcC3szFwuXyaC4LMtJdYl8WOa3e5Chxj8deY9KWRhR8xM/jcWGjRk/SEjx3YdnTKonlGTNqxzOHd8UyFGdnbhsVyW/o4CYypO/WCZjGmqKfSgwoBBZVM1J1Q9SBT3u4H2KeyRl136mjkDl7B0LHZhxUmU56to1taCNysLcrDNyH18A6/xm8ZCaS8eGO4gOHnoSbLW4dkkBj1PPkSN2r0dhS/gjw23fL0lOyjXskzMoYDB17d6JjXWw/ImGkos3qb7LX8In+AACTo0zdkQ==;TXhonkslgr51XCP5ExMjig=="
 ---
 

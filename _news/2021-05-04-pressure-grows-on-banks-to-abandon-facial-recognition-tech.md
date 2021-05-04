@@ -39,19 +39,19 @@ related:
         width: 980
         height: 548
         isCached: true
-  - title: "False facial recognition sends innocent New Jersey man to jail"
-    excerpt: "New Jersey police arrested an innocent man on unlawful possession of a weapon, resisting arrest and aggravated assault charges after he was falsely identified by facial recognition technology. Law enforcement agencies across the country use facial recognition to generate leads on suspects,"
-    publishedDateTime: 2021-04-29T19:35:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
+  - title: "Innocent Black man jailed after false facial recognition match"
+    excerpt: "All the latest stories from around the world designed for your social feed. Like, Share and comment"
+    publishedDateTime: 2021-05-04T13:20:00Z
+    webUrl: "https://www.trtworld.com/video/social-videos/innocent-black-man-jailed-after-false-facial-recognition-match/609145f43b0f87001e8e3263"
     type: article
     provider:
-      name: KHNL
-      domain: hawaiinewsnow.com
+      name: TRT World
+      domain: trtworld.com
     quality: 54
     images:
-      - url: "https://www.hawaiinewsnow.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG"
-        width: 1200
-        height: 671
+      - url: "https://cdni0.trtworld.com/w640/h360/q75/104699_FacialRecgonitionBiasYTB_1620133514949.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "San Diego Held Back Materials Sought by Congress on Facial Recognition"
     excerpt: "In 2017, the House Committee on Oversight and Reform wanted to learn more about San Diego's use of facial recognition technology. The city’s response downplayed internal concerns over the program and withheld a number of reports showing how prevalent it really was."
@@ -66,20 +66,6 @@ related:
       - url: "https://www.voiceofsandiego.org/wp-content/uploads/2021/04/Facial-Recognition_FINAL.png"
         width: 1800
         height: 1200
-        isCached: true
-  - title: "What cities must do to responsibly deploy facial recognition solutions"
-    excerpt: "The National League of Cities has published recommendations for guiding conversations around how facial recognition technology is being implemented."
-    publishedDateTime: 2021-04-29T20:46:00Z
-    webUrl: "https://gcn.com/articles/2021/04/29/nlc-facial-recognition.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognition2.png"
-        width: 760
-        height: 368
         isCached: true
   - title: "King County government must turn its back on facial recognition technology"
     excerpt: "Whatever other concerns we might have about facial recognition technology — it poses a serious threat to our privacy and particularly to that of marginalized populations and communities."

@@ -39,6 +39,15 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "Minerva Intelligence announces Webinar for its DRIVER AI Mining & Exploration software"
+    excerpt: "CNW/ - Minerva Intelligence Inc. (TSXV: MVAI) (\"Minerva\" or \"the Company\"), an artificial intelligence company focused on knowledge engineering, is pleased to announce a new webinar on May 6, coinciding with the Company's launching of its state-of-the-art DRIVER software,"
+    publishedDateTime: 2021-05-04T13:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/minerva-intelligence-announces-webinar-for-its-driver-ai-mining-exploration-software-1030385127"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
 
 secured: "k4oRp/PpEIP5d4S9xKCzoNlCj9KHbSklqWSx+rOtzs9HCyvJVMKaBPNGWIGaJ7dVyRGCXeBGMVrHuLJQdAt6k9AhR3lYJbqNeUZkCG8QAIv5nFHAf1cPDIS2QKr0jBVfxOsSXMH/oQLYlxPNFPsF9CG6kcbgk//pYEHAUpdfC9+V+ETZLjevQEru2R9XxtlocGNpfuAuF0/6I/wNGcHeHobjNUdAhqrVdV6YhUTQBbeBsoGWDbhD+bvo7s0MAWpzcucoXTR7xoz/RlMxJay4z+kvU0pEQFC/HLoma+5oV/jzBhEIMDg5k4JCXdYCIsdhCkQBEYLY+exB9uzI8jQAOfMbH7mozPnjFbHRz/9TTCmOTpGjomiWSiS+0nKpz0W2Wxtphl4TUnvm6j7uobY9LsMSwG+pRRHyZzpfANNox1bK9t4Jls0rskt7li+fl66b/nfawRIhuS0U6q52jwJeqDjh4TzxThk2bnsAKQRlBSuQJ7qep6LEbUYDzvh8EfN2wLjAuWOoNL2nvTxLvIFbTQ==;fVRZdGnNH41UIPtd2SW3Fw=="
 ---

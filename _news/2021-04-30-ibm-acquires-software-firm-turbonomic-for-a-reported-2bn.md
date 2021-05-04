@@ -73,22 +73,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "IBM buys Turbonomic for AIOps, hybrid-cloud management support"
-    excerpt: "By acquiring Turbonomic, IBM gains tools that manage performance of everything from applications and containers to virtualization, cloud, and on-prem compute, storage, and network resources."
-    publishedDateTime: 2021-04-29T20:14:00Z
-    webUrl: "https://www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.html"
-    ampWebUrl: "https://www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3617009/ibm-buys-turbonomic-for-aiops-hybrid-cloud-management-support.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.techhive.com/images/article/2016/11/20151027-ibm-sign-100625227-orig-100696117-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "IBM to acquire Turbonomic for AIOps"
     excerpt: "It complements IBM's recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT."
     publishedDateTime: 2021-05-03T13:45:00Z
@@ -104,6 +88,20 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg"
         width: 736
         height: 400
+        isCached: true
+  - title: "An IBM exec says the $1.5 billion purchase of AI firm Turbonomic will supercharge its hybrid cloud push as it fights off Amazon and Microsoft"
+    excerpt: "This latest deal is part of IBM's push to reinvent itself as a modern company and double down on hybrid cloud, IBM VP Rob Thomas told Insider."
+    publishedDateTime: 2021-04-30T18:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-rob-thomas-turbonomics-acquisition-ai-hybrid-cloud-aiops-2021-4-1030371513"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://images2.markets.businessinsider.com/608b5dff34af8d001859a0a9?format=jpeg"
+        width: 701
+        height: 526
         isCached: true
   - title: "IBM’s Journey To Hybrid Cloud Territory Continues With Turbonomic Deal"
     excerpt: "IBM has acquired Turbonomic, a Boston-based application resource management (ARM) and network performance management software provider."

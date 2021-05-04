@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Fast Company Names AMP Robotics’ AI Platform a 2021 World Changing Ideas Finalist"
-excerpt: "Start Investing Investing Classroom Investing Glossary Help Center Plan Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments Portfolio Markets Investing Learn"
+excerpt: "Proprietary artificial intelligence technology recognized in “AI & Data” and “Best World Changing Idea North America” categories"
 publishedDateTime: 2021-05-04T11:43:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210504005740/fast-company-names-amp-robotics-ai-platform-a-2021-world-changing-ideas-finalist"
-webUrl: "https://www.morningstar.com/news/business-wire/20210504005740/fast-company-names-amp-robotics-ai-platform-a-2021-world-changing-ideas-finalist"
+originalUrl: "https://www.waste360.com/business/fast-company-names-amp-robotics-ai-platform-2021-world-changing-ideas-finalist"
+webUrl: "https://www.waste360.com/business/fast-company-names-amp-robotics-ai-platform-2021-world-changing-ideas-finalist"
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 64
+heat: 74
+published: true
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Waste360
+  domain: waste360.com
 
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png"
+    width: 1540
+    height: 800
+    isCached: true
 
 related:
   - title: "Fast Company Names nference as 2021 World Changing Ideas Finalist in AI and Data"
@@ -29,6 +35,6 @@ related:
       domain: businessinsider.com
     quality: 42
 
-secured: "523NFa7XqbNRypMgXezCV6hXoQ2mSyiZ08sHuWuTQvCMTuB/3PhI9UfM5C9qAXLRJGpDmUQ2K+VbrazUCxY9I9NpjRjEuUxJ5bvNGSzBXOkrjoE+AoUg6JMzoBMHZGWQYZSBpu1tpESqwjr+yQ8Nasc/uzPOu68DTPvIR6OUvpPUCzhPUBdquDqWUp8YVMLUQuoJbPIgPdqESpjjtcvCOFOqncrfBN2mwUBPfg/qi3LP7+Jf9FqBDQ5sVbmaZeZLTGe3mirQSFqD9ibZ7pbFlVpbqe/NAorM+FSCXj/jrQlv+mk68qzZeYUfkQyU7nDUAgb9RuYTiDNco9LEq0KG1f5IJGiFoktezmU5372nKEU=;JtXadmK+RububuxgJD2WqA=="
+secured: "3VUnFiP1BT+lXhtQ7JW9VcB+Dsz3UB1BTPN05tZkPnB0KzmYHuhPgxoAofNUOM7p0yLo5qvM01/Pnzncl4NyHfXGr/M/AA2qDHDWZogLcd6xy4iEzgpivideGWfIc5ONa4Qk/GMJwK47n+rPIzxsR+jdUnVoEicYi5dGTIr4uY3ARrS+Ec/Xu5VZN8xMV9h78HNIvzTcrE8PSojUVCqCUzjqh55xZbvokQwVbpaw+mpchVoBcfQtSV5ciKxOk8Gh0+JR60kH2wfZu0zSmWY8jFOxAeFyLNIc9lovpRMw9ux6bdy/HJxTtwM8AA9ukGicS4V1HM5yWFMv6QJNVBJdbKe0bh4DHgqQoh7t44DA6Zg=;Xfuttfvby5jIadxmivVTZA=="
 ---
 

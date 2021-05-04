@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market is Booming Worldwide | Facebook, Microsoft, Amazon Web Services"
-    excerpt: "Artificial intelligence AI in Supply Chain and Logistics Market is Booming Worldwide Facebook Microsoft Amazon Web Services"
-    publishedDateTime: 2021-04-29T19:32:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269104037/artificial-intelligence-ai-in-supply-chain-and-logistics-market-is-booming-worldwide--facebook-microsoft-amazon-web-services"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 59
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1619669212515.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Facebook’s DINO enables self-supervised learning for computer vision AI"
     excerpt: "Facebook Inc.’s artificial intelligence research team today announced more breakthroughs, this time in the areas of self-supervised learning and semi. Self-supervised learning in AI, also known as unsupervised learning,"
     publishedDateTime: 2021-04-30T14:00:00Z
@@ -84,6 +70,20 @@ related:
       - url: "https://www.actuia.com/wp-content/uploads/2021/04/segmentation.png"
         width: 800
         height: 400
+        isCached: true
+  - title: "Facebook Announces ZionEX Platform for Training AI Models with 12 Trillion Parameters"
+    excerpt: "A team of scientists at Facebook AI Research (FAIR) announced a system for training deep-learning recommendation models (DLRM) using PyTorch on a custom-built AI hardware platform, ZionEX. Using this system,"
+    publishedDateTime: 2021-05-04T13:05:00Z
+    webUrl: "https://www.infoq.com/news/2021/05/facebook-zionex-training/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 34
+    images:
+      - url: "https://res.infoq.com/news/2021/05/facebook-zionex-training/en/headerimage/facebook-zionex-training-header-1619958418824.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facebook reimagines self-supervised learning in Computer vision AI with DINO"
     excerpt: "Facebook makes a breakthrough in self-supervised learning method with DINO and semi-supervised learning method with PAWS."

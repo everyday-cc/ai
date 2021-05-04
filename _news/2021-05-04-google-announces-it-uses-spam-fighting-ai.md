@@ -9,8 +9,8 @@ ampWebUrl: "https://www.searchenginejournal.com/google-spam-fighting-ai/405682/a
 cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/google-spam-fighting-ai/405682/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Search Engine Journal
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fighting algorithmic bias in artificial intelligence"
-    excerpt: "Julianna Photopoulos explores the issues of racial and gender bias in AI – and what physicists can do to recognize and tackle the problem"
-    publishedDateTime: 2021-05-04T08:22:00Z
-    webUrl: "https://physicsworld.com/a/fighting-algorithmic-bias-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 41
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2021/05/Photopoulos-artificial-intelligence-1310293181-iStock_imaginima.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "CMS Announces Winners of Artificial Intelligence Challenge"
     excerpt: "ClosedLoop.ai was the winner and Geisinger was the runner-up in CMS's Artificial Intelligence Health Outcomes Challenge."
     publishedDateTime: 2021-05-03T14:55:00Z
