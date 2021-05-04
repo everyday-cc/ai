@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/self-driving-robotaxis-are-now-an-actu
 webUrl: "https://thenextweb.com/news/self-driving-robotaxis-are-now-an-actual-thing-in-china"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -29,195 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Launches Robotaxi Service Outside Beijing. How ‘Fully Driverless’ Is It Vs. AutoX?"
-    excerpt: "Baidu, the leading search engine in China, has launched a robotaxi service in Shougang Park - an industrial park on the outskirts of Beijing which will be a site for the 2023 winter Olympics. How does it compare with AutoX's offering and is it the first?"
-    publishedDateTime: 2021-04-30T00:06:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/amp/"
+  - title: "China Gets World’s First Self-Driving Taxis"
+    excerpt: "Chinese tech giant Baidu has launched the world’s first self-driving taxis in China. This not only makes China the first"
+    publishedDateTime: 2021-05-03T09:30:00Z
+    webUrl: "https://propakistani.pk/2021/05/03/china-gets-worlds-first-self-driving-taxis/"
+    ampWebUrl: "https://propakistani.pk/2021/05/03/china-gets-worlds-first-self-driving-taxis/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/05/03/china-gets-worlds-first-self-driving-taxis/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 95
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b4966a43cfa314e532181%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://storage.googleapis.com/afs-prod/media/dacbbcc8fdee407a886411a4b2db2efc/800.jpeg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Baidu to roll out fully automated self-driving taxi service in Beijing"
-    excerpt: "Baidu's robotaxis will be hitting the streets of Beijing starting at Shougang Park, one of the venues for the 2022 Beijing Winter Olympics."
-    publishedDateTime: 2021-04-30T01:29:00Z
-    webUrl: "https://www.zdnet.com/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/30/eb7f4669-5ff8-4dff-9f4e-225845d30363/baidu-apollo-2.jpg"
-        width: 3792
-        height: 2528
-        isCached: true
-  - title: "Baidu launches China's first paid robotaxi service"
-    excerpt: "Chinese technology giant Baidu has launched what is says is the country's first commercial robotaxi service, which will see its Apollo self-driving vehicles shuttle paying customers around Beijing's Shougang Park without a safety driver onboard."
-    publishedDateTime: 2021-05-03T07:40:00Z
-    webUrl: "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/"
-    ampWebUrl: "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/cb1afed/2147483647/strip/true/crop/1385x923+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F16%2F7a%2F31e38f5d418f813406035fa5f07a%2Fbaidu-apollo-s-fully-driverless-robotaxis-motion.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Baidu rolls out paid driverless taxi service in Beijing"
-    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China."
-    publishedDateTime: 2021-05-02T17:28:00Z
-    webUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/baidu-rolls-out-paid-d.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
-  - title: "Driverless taxi service rolls out in Beijing"
-    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China."
-    publishedDateTime: 2021-05-02T15:42:00Z
-    webUrl: "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing"
-    ampWebUrl: "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 59
-    images:
-      - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2021/05/932/470/driverless-taxis.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "Baidu launches China’s first self-driving taxi service"
-    excerpt: "These taxis have been named Apollo ‘robotaxis’ and around 10 of them have been deployed in an area of 3 square kilometers around Shougang Park in western Beijing. * Each Apollo robotaxi ride costs about 30 yuan (Rs."
-    publishedDateTime: 2021-05-03T13:11:00Z
-    webUrl: "https://www.brecorder.com/news/40089845/baidu-launches-chinas-first-self-driving-taxi-service"
-    ampWebUrl: "https://www.brecorder.com/news/amp/40089845"
-    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40089845"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 59
-    images:
-      - url: "https://i.brecorder.com/large/2021/05/608ff54f4dc66.jpg"
-        width: 671
-        height: 480
-        isCached: true
-  - title: "Baidu launches driverless fee-paying taxi service in Beijing"
-    excerpt: "Chinese internet giant Baidu this week said it would launch the country's first commercial self-driving taxi service in Beijing next month."
-    publishedDateTime: 2021-04-30T09:00:00Z
-    webUrl: "https://www.just-auto.com/news/baidu-launches-driverless-fee-paying-taxi-service-in-beijing_id201590.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 54
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Baidu launches China's first commercial driverless taxi service"
-    excerpt: "Chinese search engine giant Baidu on Sunday started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public on a trial basis since last October but Sunday marked the first time that riders have needed to pay for it."
-    publishedDateTime: 2021-05-04T10:00:00Z
-    webUrl: "https://motorauthority.com/news/1132139_baidu-launches-china-s-first-commercial-driverless-taxi-service"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
-    images:
-      - url: "https://images.hgmsites.net/hug/baidus-apollo-go-driverless-taxi-service_100790898_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Baidu's self-driving $5 taxis hit Beijing park in Olympic warm-up"
-    excerpt: "The Apollo Go service will be available starting Sunday in Shougang Park on the outskirts of Beijing -- one of the venues of the 2022 Winter Olympics. \"Introducing unmanned services is an indispensable stage for the commercialization of autonomous driving,"
-    publishedDateTime: 2021-05-01T01:30:00Z
-    webUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-s-self-driving-5-taxis-hit-Beijing-park-in-Olympic-warm-up"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F6%252F9%252F3%252F33963963-5-eng-GB%252FCropped-161980631120210430N%2520Baidu%2520taxi.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Driverless Taxi Program Rolls Out in China"
-    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in Beijing,"
-    publishedDateTime: 2021-05-03T13:47:00Z
-    webUrl: "https://www.manufacturing.net/automation/news/21404126/paid-driverless-taxi-program-rolls-out-in-china"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/05/16x9/Baidu_Driverless_Taxi_AP.608ffe2e2a8d4.png?auto=format&fit=max&w=1200"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Baidu rolls out world-first autonomous taxi fleet in Beijing"
-    excerpt: "Chinese technology giant Baidu has rolled out the world’s first fleet of self-driving taxis over the weekend in Beijing, marking an important milestone for the autonomous driving industry."
-    publishedDateTime: 2021-05-04T12:48:00Z
-    webUrl: "https://performancedrive.com.au/baidu-rolls-out-world-first-autonomous-taxi-fleet-in-beijing-0423/"
-    type: article
-    provider:
-      name: PerformanceDrive
-      domain: performancedrive.com.au
-    quality: 39
-    images:
-      - url: "https://performancedrive.com.au/wp-content/uploads/2021/05/Baidu-Apollo-autonomous-robotaxi.jpg"
-        width: 934
-        height: 577
-        isCached: true
-  - title: "Baidu Launches Self-Driving Robotaxi Service, Ready for the 2022 Winter Olympics"
-    excerpt: "Chinese users can hail a self-driving robotaxi to go about their business. The fully driverless Apollo Go service will first launch in Beijing's Shougang Park, one of the venues for the 2022 Beijing Winter Olympics,"
-    publishedDateTime: 2021-05-03T10:10:00Z
-    webUrl: "https://www.autoevolution.com/news/baidu-launches-self-driving-robotaxi-service-ready-for-the-2022-winter-olympics-160483.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 34
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/baidu-launches-self-driving-robotaxi-service-ahead-of-2022-winter-olympics-160483-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
-  - title: "Baidu’s self-driving US$5 taxis hit Beijing park in Olympic warm-up"
-    excerpt: "BEIJING: Baidu, the Chinese tech company known for its search engine, has passed its driver’s test and will debut its fleet of autonomous taxis to the public this weekend in what will be China’s first paid self-driving service with no one behind the wheel."
-    publishedDateTime: 2021-05-01T09:45:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/05/01/baidus-self-driving-us5-taxis-hit-beijing-park-in-olympic-warm-up/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "dYRBohVhNZPAp8zIRpotYgXKQpKhwgoBri4CLni6KuflsLuW2L6+g6JeTjDWNtElzzqmgR/9VCcVI1rkWCpsVrHc1dCih9C5R5YlVUSbKa6gGe6sU6ab3BmvCpvhp8iPUkm5B1n3wgmn8wqhxY7HJaUG6OQDWjwZt0Vvgbp8idvlTyNHZonmbak2YbOVM5izCseVrClMUAgE8ODrNsDS0d4o8BfapdxvXRbbDA2aUDLuqH/bpAEVKATS4sedhdYp5+du+JgxE22jPMwDrRizOeZhYpW8WEyrsRcXQ2olU4sncyK6rD7TRAyw5QSK8jWD5pi5bdsP5SLC30Rtw9/GrtxJEUaCwoT9DLeFn/HPis7hXEFSr77On0/K6Pp6ZOAvp/F63ci1swEzxtK/VTvGKD449cC59cF2aPS/5HcXeyQsmbfS6jECTiDjmwEx0adDnSko6/7OoplUuQVWXuD8rq2hPgSJDCznGOa5njrSYrtPwMuMdYFgDXxZ2u6o9CeF9uTYD+x/VOT7OlDNwSp6gQ==;B9ZuLQ1xTt2NnIl1Ai8cFA=="
 ---

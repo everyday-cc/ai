@@ -2,26 +2,32 @@
 category: news
 title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
 excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
-publishedDateTime: 2021-05-04T13:55:00Z
-originalUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9061/microsoft-launches-open-source-tool-counterfeit-to-prevent-ai"
-webUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9061/microsoft-launches-open-source-tool-counterfeit-to-prevent-ai"
+publishedDateTime: 2021-05-04T12:01:00Z
+originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks"
+webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks"
+ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 104
+heat: 164
+published: true
 
 provider:
-  name: Cloud Pro
-  domain: cloudpro.co.uk
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/04/microsoft.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1573748220/itpro/Microsoft_DW.jpg"
+    width: 1260
+    height: 710
     isCached: true
 
 related:
@@ -40,61 +46,6 @@ related:
       - url: "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428"
         width: 761
         height: 428
-        isCached: true
-  - title: "Microsoft's new open-source tool could stop your AI from getting hacked"
-    excerpt: "Microsoft releases a tool to help organizations shore up AI systems against adversarial machine-learning attacks."
-    publishedDateTime: 2021-05-04T03:32:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-  - title: "MYCOM OSI’s Assurance Cloud Service launches on Microsoft Azure"
-    excerpt: "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
-    publishedDateTime: 2021-04-30T13:54:00Z
-    webUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/"
-    ampWebUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 74
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "An IBM exec says the $1.5 billion purchase of AI firm Turbonomic will supercharge its hybrid cloud push as it fights off Amazon and Microsoft"
-    excerpt: "This latest deal is part of IBM's push to reinvent itself as a modern company and double down on hybrid cloud, IBM VP Rob Thomas told Insider."
-    publishedDateTime: 2021-04-30T18:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-rob-thomas-turbonomics-acquisition-ai-hybrid-cloud-aiops-2021-4-1030371513"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://images2.markets.businessinsider.com/608b5dff34af8d001859a0a9?format=jpeg"
-        width: 701
-        height: 526
-        isCached: true
-  - title: "Allscripts looks to leverage Microsoft partnership as tech giant expands healthcare ambitions"
-    excerpt: "Microsoft is expanding further into healthcare and that opens up strategic opportunities for Allscripts to leverage its partnership with the tech giant, company executives said. Here's how the health IT company plans to leverage the collaboration to grow its business with providers as well as payers and life sciences companies."
-    publishedDateTime: 2021-04-30T10:45:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/allscripts-looks-to-leverage-microsoft-partnership-as-tech-giant-further-its-ambitions"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 45
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1619734506/GettyImages-1018676898.jpg/GettyImages-1018676898.jpg?xwabYRqkBFPym1UOV.TzaLwA5SoTdVU6"
-        width: 6000
-        height: 3376
         isCached: true
   - title: "Artificial Intelligence Chipsets Market Next Big Thing | Major Giants Ibm, Google, Microsoft"
     excerpt: "A new business intelligence report released by HTF MI with title \"Global Artificial Intelligence Chipsets Market Report 2021\" is designed covering micro level of analysis by manufacturers and key business segments."
@@ -121,6 +72,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 40
+  - title: "Artificial Intelligence for Accounting Market size, Witness Highest Growth in near future by 2027 | Microsoft, Aws, Xero, Intuit, Sage"
+    excerpt: "The Artificial Intelligence for Accounting market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
+    publishedDateTime: 2021-05-03T03:21:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-for-accounting-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-aws-xero-intuit-sage/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 19
   - title: "Artificial Intelligence in Marketing Market to See Massive Growth by 2027 | IBM Corporation, Microsoft Corporation, General Vision and More"
     excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence in Marketing Market report is anticipated to perform more robustly in the coming years,"
     publishedDateTime: 2021-05-03T11:28:00Z
@@ -140,6 +100,6 @@ related:
       domain: ksusentinel.com
     quality: 7
 
-secured: "XmC+pa3noNo/nn4hCzOJb3bdUDCEsj3pSoShK2N2HdAnhIS5HPEYdSKiQxue9I6qZRCsUnVUmJtcnEeUUCXimWoGPQYODCxzPCO1sWjqumgkrP1VNSLepUrGUU0/N1MwYr+cpkGRPpCsNnC+GMysewqwjFemydc5VmJuTQjJftM74Gdn6mBCoG66Yvg+5dgDH104jY0G0uSzZb0gKawLMUcXqPUjK6cowTlh/gjESm1YA+PklRVcifyZZ5rxZT4R7H8eqvl6mGviJKdXvSKYu8VLP3/PWGA345rjt1N9ZivC4GKud4OdwPua4WFXQiwzts0WhcPIWfUuMUkdXcK+MwXof4lVywp7AqeCaaDaOao=;7QhWRDOuZjGn9W2J50AphQ=="
+secured: "ZMksCUuyN0lF4fIttbmgq1Yg2yJ5fhIEFokQ9oqsxbeL0ZbkJ2mYtkEaO33jOB7vDdh/q6CYrcc7SuHHpAw3YcXUqnUetA9vf+9JJWBc/3/dP4p+aJ3qOZf4fvhDld7iHDERVBSVFZ3uRd9pqmArubpLbeQEVwReNFj19XBH50LSgTF1X1IYAmCtts59GhM/Ox9ZzfsI4qBxpc1AhUox51EbSruD1iKdmeFgV10apNVw8AnCDMK/aGc1vJ60sbQDUPSXcE93Jfud9mV6aYJrwrTAX9Ouk4d8IxEWbTZgA5P8PNFrBtsV/t4HtmYUZ8hHFYjwJCYV50OJrsVD34dtMSDC7UTlzhLf55B3FDUrWR4=;bjMKqK4Rdz+mLaWJNt7Ouw=="
 ---
 

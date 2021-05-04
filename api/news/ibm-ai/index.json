@@ -63,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -87,6 +87,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities-for-hybrid-cloud.md",
+      "title": "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud",
+      "excerpt": "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1321,40 +1373,6 @@
       "provider": {
         "name": "CNN-News18",
         "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-the-lab-of-the-future-is-now.md",
-      "title": "The lab of the future is now",
-      "excerpt": "Members include industrial and academic researchers. IBM followed up its chess win with a second popular showcase for AI by introducing Watson, a question-answering computer, as a contestant on ...",
-      "sourceUrl": null,
-      "webUrl": "https://cen.acs.org/business/informatics/lab-future-ai-automated-synthesis/99/i11",
-      "originalUrl": "https://cen.acs.org/business/informatics/lab-future-ai-automated-synthesis/99/i11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-28T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C&EN",
-        "domain": "acs.org",
         "images": null,
         "publishers": null,
         "authors": null

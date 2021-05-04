@@ -9,7 +9,7 @@ ampWebUrl: "https://torontosun.com/technology/spotify-urged-to-rule-out-invasive
 cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/technology/spotify-urged-to-rule-out-invasive-voice-recognition-tech/wcm/b2232165-1eb4-4d8a-bb5a-cb3589cf11ba/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 1689
     isCached: true
 
-secured: "BVd+HNhgKmVPrxhBF6I6q3KKtE+bzTxuwbf+z7osg7uVPMLb0cMf5sFEMOIaW7T8kWoAK7MAroz0x0p61ipgyw6mOgM8yBc6pfyxqTDpeVC8pCX+bFBFsIR2IJtBtseJDL6/XtPeo0wqDemJLTuH0RAXmEMrZ/Vjvhi1HFFmPKrtR01E37TjrhQpUgcr+AuNbFd+ms3s0JJPJqblMsGEprL4XKHWq1Xn4oJm2xXbfNdM8OOqfrEIVaycvfqUw1WjRsl/TYbR33ORR7StP0PEcCxmVwqARJt8o3QD8ntDSF2B/E9k66bkuR3BteekrvkqvzB0y9ZArRyinQwM1miaZjLVa0TAwVcFjCQjyj5P0/0=;FKPcpgaujf6R3PEXCKx1RQ=="
+related:
+  - title: "Musicians, human rights orgs urge Spotify to scrap speech recognition tech"
+    excerpt: "A coalition of musicians and human rights groups are urging Spotify to publicly commit to never implementing or monetizing the speech recognition technology it has developed."
+    publishedDateTime: 2021-05-04T15:28:00Z
+    webUrl: "https://thehill.com/policy/technology/551686-musicians-human-rights-orgs-urge-spotify-to-scrap-speech-recognition-tech"
+    ampWebUrl: "https://thehill.com/policy/technology/551686-musicians-human-rights-orgs-urge-spotify-to-scrap-speech-recognition-tech?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/551686-musicians-human-rights-orgs-urge-spotify-to-scrap-speech-recognition-tech?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 57
+    images:
+      - url: "https://thehill.com/sites/default/files/spotifylogo081717getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+
+secured: "C8qYEgKatidRcbTcQljb+3tkfkne78DGJW7WNUYqPhi0jOpZeSrKolpawwj47NEniB0yN+h02/Q49YXN1DhPwA5DGmOosS3Hz3DfoJYZF05WJfdwhh8Xp4m9U4QxhnbsT5VdJkq7MWnbd1UCl6MikugXIj69EcxK6bZ3k/IeEms68z2+AH+mQPLwdDbHv0yBhZYQeAztwr94njEHTYcSb+1xVVXfL7+9m6jsk5fIxPQsZF4cAYndNvEFQGS4QMoxEag4PNEV1rNT2ymHfxJ0abpHyLDQzASfaFBmwB7zr/FF1Ub9mkn1FxI/MFUiDGNfvZmsDu1Zf3l9aGdsMjchAqWoXvdcv/R3YuD4WHptCcYpwUp0d3aeXjsP2ZktPIdFBg82kKg97Ipr78PDmYYmbZYBXstsWSgakRCe6d1zVygSsOnvXZH5ddlLseK+fTh9MrQIj2nC+dAauPDMLxT5n4PeOlLO2rVJ5or83XdniP8TZOgRYF10KKwEqjss+zua2C0xg2CiL6jZ6+hg+qf0nw==;cEDdPrCg9KbXkC14JBuDuQ=="
 ---
 

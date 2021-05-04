@@ -139,22 +139,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple hires ex-Google AI scientist who resigned after colleagues' firings"
-    excerpt: "Bengio is expected to lead a new AI research unit at Apple under John Giannandrea, senior vice president of machine learning and AI strategy, two people familiar with the matter said."
-    publishedDateTime: 2021-05-04T06:24:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings-101620109399451.html"
-    ampWebUrl: "https://www.hindustantimes.com/world-news/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings-101620109399451-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings-101620109399451-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 58
-    images:
-      - url: "https://images.hindustantimes.com/img/2021/05/04/1600x900/2021-05-04T022026Z_1_LYNXMPEH43026_RTROPTP_3_HYUNDAI-MOTOR-APPLE_1620109440091_1620109448877.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Apple hires ex-Google AI scientist Samy Bengio who resigned after colleagues' firings"
     excerpt: "Bengio is expected to lead a new AI research unit at Apple under John Giannandrea, senior vice president of machine learning and AI strategy, two peop.."
     publishedDateTime: 2021-05-04T03:16:00Z
@@ -214,6 +198,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/7d059b77424b4b8f0952bb13045f2fde_L.jpg"
         width: 620
         height: 465
+        isCached: true
+  - title: "Former Google AI scientist joins Apple: Report"
+    excerpt: "A former Google Artificial Intelligence (AI) scientist Samy Bengio, who had resigned in protest of the firing of two employees,"
+    publishedDateTime: 2021-05-04T16:00:00Z
+    webUrl: "https://www.glamsham.com/world/technology/former-google-ai-scientist-joins-apple-report"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/05/554f42d76dedec3889a296f2d707122a-1.jpg"
+        width: 400
+        height: 276
         isCached: true
   - title: "Former Google AI Scientist Samy Bengio To Join Apple"
     excerpt: "Samy Bengio worked at Google for 14 years. His exit comes a few months after the firing of two Google AI ethics researchers"

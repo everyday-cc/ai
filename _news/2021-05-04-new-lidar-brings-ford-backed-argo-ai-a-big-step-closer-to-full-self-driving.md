@@ -49,6 +49,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Ford-Backed Argo Sees New Sensor as Key to Self-Driving Cars"
+    excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, has developed a sensor it believes will be key to commercializing autonomous transportation in cities, suburbs and on the highway."
+    publishedDateTime: 2021-05-04T17:03:00Z
+    webUrl: "https://www.bloombergquint.com/business/ford-backed-argo-sees-new-sensor-as-key-for-self-driving-cars"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 24
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IIlGAzkQh3de1s5m+pQoc2WBHbFAhCphuosVwmU9CDMpNTeHRlWqUnVcHxj7CaVBfP1dxFGfxhWcyGP26hD9zz4grjNPDcPYvahZ1y/j3+C1tDJX1UJ6uC5E/P26sVh7ZHjrZr00Xsa4n9JX0b5QhzjKNC1MtPHgY5pXvFW22+EBuSG/E6cRdLLD+2iJqZJ2EgM2tjgaoCtFDXTYDNzdhR6WZ1dzdfMBpBIa2RNRWbKaqY1RRY0IKqL6GM7YhxfKlinegYwxjuk32ztoK14/MymNzTcRU9EfMp3QCojAiZhJ4mUHtIaDYkbxOZOR2rS1eMvgPmDSgyk3w3XO/KR7j7D9g4KL4eHTO2b1Ni+7ATo=;ukp5Cty1kDMkwnL4yMMM6A=="
 ---

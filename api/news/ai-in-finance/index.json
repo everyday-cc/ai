@@ -151,51 +151,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-03-microsoft-buys-speech-recognition-conversational-ai-tech-firm.md",
-      "title": "Microsoft buys speech recognition, conversational AI tech firm",
-      "excerpt": "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
-      "originalUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r",
-      "publishedDateTime": "2021-05-02T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-30-the-financial-brand-launches-neobank-tracker.md",
       "title": "The Financial Brand Launches Neobank Tracker",
       "excerpt": "The Financial Brand, an online resource for retail banking, has launched the Neobank Tracker, a free, public online database that is indexed and searchable.",
@@ -1377,6 +1332,58 @@
         "name": "dataconomy.com",
         "domain": "dataconomy.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-quantum-computing-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players.md",
+      "title": "Quantum Computing Market 2020-2028 Financial Insights Business Growth Strategies with Top Key Players",
+      "excerpt": "On the basis of Application as, the global Quantum Computing market is segregated as, Optimization, Machine Learning, and Material Simulation ... Google Inc. (US), River Lane Research Availability Services among others operating in the Quantum Computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/quantum-computing-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players-2021-04-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/quantum-computing-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players-2021-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

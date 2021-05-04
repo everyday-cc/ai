@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s42256-021-00344-9"
 webUrl: "https://www.nature.com/articles/s42256-021-00344-9"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "The US National Security Commission issues its \"Final Report on AI in Defense and Intelligence\" - here are the takeaways"
+    excerpt: "The US National Security Commission has issued a massive, 700 page \"final report\" on the impact of AI on defense and intelligence. The report's conclusions are concerning, and not without controversy."
+    publishedDateTime: 2021-05-04T16:06:00Z
+    webUrl: "https://diginomica.com/us-national-security-commission-issues-its-final-report-ai-defense-and-intelligence-here-are"
+    ampWebUrl: "https://diginomica.com/us-national-security-commission-issues-its-final-report-ai-defense-and-intelligence-here-are?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/us-national-security-commission-issues-its-final-report-ai-defense-and-intelligence-here-are?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 51
+    images:
+      - url: "http://diginomica.com/sites/default/files/images/2020-01/shutterstock-%20Antonov-Serg-1576515697.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Fighting algorithmic bias in artificial intelligence"
     excerpt: "Julianna Photopoulos explores the issues of racial and gender bias in AI – and what physicists can do to recognize and tackle the problem"
     publishedDateTime: 2021-05-04T08:22:00Z

@@ -41,22 +41,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Elon Musk hypes Tesla Full Self-Driving Beta driving visualizations with new update"
-    excerpt: "Elon Musk is still hyping the upcoming release of Tesla’s Full Self-Driving beta and now claims that Tesla Autopilot/Full Self-Driving Beta are already ‘superhuman’ on the highway and getting close on city streets."
-    publishedDateTime: 2021-04-30T00:27:00Z
-    webUrl: "https://electrek.co/2021/04/29/elon-musk-hypes-tesla-full-self-driving-beta-driving-visualization-new-update/"
-    ampWebUrl: "https://electrek.co/2021/04/29/elon-musk-hypes-tesla-full-self-driving-beta-driving-visualization-new-update/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/29/elon-musk-hypes-tesla-full-self-driving-beta-driving-visualization-new-update/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla’s Elon Musk on why self-driving cars are not mainstream yet"
     excerpt: "Tesla CEO Elon Musk is giving a fresh update on his prediction for when self-driving cars will dominate the road."
     publishedDateTime: 2021-04-30T16:57:00Z

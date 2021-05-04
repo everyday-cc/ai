@@ -50,6 +50,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
+  - title: "Ford-Backed Argo Sees New Sensor as Key to Self-Driving Cars"
+    excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, has developed a sensor it believes will be key to commercializing autonomous transportation in cities, suburbs and on the highway."
+    publishedDateTime: 2021-05-04T17:03:00Z
+    webUrl: "https://www.bloombergquint.com/business/ford-backed-argo-sees-new-sensor-as-key-for-self-driving-cars"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 24
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0Hh5LUsZvzcmv9z0xXzpDi9zt4gGcNdu3I8PAADyxErIBN/PY7O0UoxoPq4/prkRChHtVCIYtXSMvcDh/fnXLcc7rqfplV9bi+ZJHAQsknK/Tk/EMT1Th/apua0Ox7uR7Dm3Xk/jSmRMs75WEsaas1PVHLkeFnkpIUAYbiXQv8V/iJcqTlzBR3N7mzNv7fmxyel752pzbjeK5yGlmfwwFliC2DTrmnkkui5YOGaw0BuggkCERe3ePhGONhZuDQ8Mozww2kA5CBgoMku6CJSem+jeQ874CplggOAyvV5Edji5TcsylzPD/6oSkNB3vWoc2HRP/Csl1FSrG3eZGDvencJI+sgn4cRq49EeBs0Rc/Y=;LATz1zaMLX/J26Y3Tv9Jpw=="
 ---

@@ -55,51 +55,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-03-microsoft-buys-speech-recognition-conversational-ai-tech-firm.md",
-      "title": "Microsoft buys speech recognition, conversational AI tech firm",
-      "excerpt": "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
-      "originalUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r",
-      "publishedDateTime": "2021-05-02T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-01-how-intel-is-leveraging-ai-to-drive-sales.md",
       "title": "How Intel is leveraging AI to drive sales",
       "excerpt": "Intel is adopting AI internally to bolster its sales and marketing efforts, including through the use of natural language processing.",
@@ -1383,6 +1338,59 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-behind-microsofts-nuance-deal-natural-language-processing-explained.md",
+      "title": "Behind Microsoft’s Nuance Deal: Natural Language Processing, Explained",
+      "excerpt": "From virtual assistants to call center attendants, voice is beginning to rival text as the primary computing interface.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
+      "originalUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-324318/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
+      "publishedDateTime": "2021-04-13T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

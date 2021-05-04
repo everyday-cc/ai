@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/apple-hires-ex-google-ai-leader-samy-b
 webUrl: "https://thenextweb.com/news/apple-hires-ex-google-ai-leader-samy-bengio-who-quit-after-timnit-gebru-firing"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Next Web
@@ -27,6 +27,24 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Apple hires ex-Google AI scientist who resigned after colleagues' firings"
+    excerpt: "Samy Bengio who left Google last week after about 14 years said last month he was pursuing 'other exciting opportunities'"
+    publishedDateTime: 2021-05-04T16:40:00Z
+    webUrl: "https://www.livemint.com/companies/news/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings-11620104864848.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/amp-11620104864848.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/amp-11620104864848.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: "https://images.livemint.com/img/2021/05/04/600x338/2021-05-04T022026Z_1_LYNXMPEH43026_RTROPTP_3_HYUNDAI-MOTOR-APPLE_1620104982597_1620104992744.JPG"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "TNHPL3MBoTCzejelWfrNvZZnHckUi7PeWz99J/OxhXkK7RNhx86TzJrm1j7XkgRylfJ6bphCBLKZuMbXfNtYddxUAZ5yAl9t9eNx6IseNV4zncb6bLOIynqbcQ7rsrBFZsXORN6Soksd37/rZh/LQJa2ocDAZpoZYvZcjLhIt0LpZ8aW8jV7UIrGKNvpLYiIqyQYv3tMnud9s1BsEHhpIrCuSpBZtgfd94eAa16NHtIPszsznJ8IPZnecMnRJSolcC4C8zxdAEUkJFaLFNHN7omeVJS5XGSOFm66lJNnT2L2yhP7CjVkoqd7y82WkQbrgJlmYMO7SYtK+LWeBJ6T8tZEqUAX3tiDTcqJr06hMyWbnyubdYj+lNY6r9/zY4Y38QcO3KQeYR123SKIMUZaIUufKynQxHcUjxauwGWISPHOUEXqxWkkRg41LN9PH6BLk1FD1KJOlzZj4xJMjA4ZxGZoyBemGzB2jftF7WaAC3+CNt37dMS7NCRzvichlhsZaA50C4BERAZ4DKYND8VeSQ==;STfPMyY0qHwKixEmQvFLvQ=="
 ---

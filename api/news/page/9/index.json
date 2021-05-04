@@ -2,6 +2,476 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-24-weakly-supervised-facial-expression-recognition-in-the-wild-with-noisy-data.md",
+      "title": "Weakly-Supervised Facial Expression Recognition in the Wild with Noisy Data",
+      "excerpt": "Facial expression recognition (FER) has attracted much attention in recent years due to its wide applications. While some progress has been achieved thanks to the emergence of deep learning, the challenge occasioned by pose variations remains.",
+      "sourceUrl": null,
+      "webUrl": "https://ieeexplore.ieee.org/abstract/document/9403940",
+      "originalUrl": "https://ieeexplore.ieee.org/abstract/document/9403940",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T20:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IEEE",
+        "domain": "ieee.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-24-4-reasons-to-learn-machine-learning-with-javascript.md",
+      "title": "4 reasons to learn machine learning with JavaScript",
+      "excerpt": "There are already several JavaScript machine learning libraries. An example is TensorFlow.js, the JavaScript version of Google’s famous TensorFlow machine learning and deep learning library.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/",
+      "originalUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/01/javascript.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/amp/",
+      "publishedDateTime": "2021-04-23T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-24-artificial-intelligence-robots-market-supply-sales-revenue-and-forecast-from-2021-to-2025.md",
+      "title": "Artificial Intelligence Robots Market Supply, Sales, Revenue and Forecast from 2021 to 2025",
+      "excerpt": "The Artificial Intelligence Robots Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-supply-sales-revenue-and-forecast-from-2021-to-2025-2021-04-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-supply-sales-revenue-and-forecast-from-2021-to-2025-2021-04-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-build-a-medical-sentence-matching-application-using-bert-and-amazon-sagemaker.md",
+      "title": "Build a medical sentence matching application using BERT and Amazon SageMaker",
+      "excerpt": "Determining the relevance of a sentence when compared to a specific document is essential for many different types of applications across various industries. In this post, we focus on a use case within the healthcare field to help determine the accuracy of information regarding patient health. Frequently,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-sentence-matching-application-using-bert/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-sentence-matching-application-using-bert/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/15/1-Architecture1305.jpg",
+          "width": 800,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T10:52:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-24-linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news.md",
+      "title": "LinkedIn Debuts LinkedIn Learning Hub, IBM Doubles Down on Ethical AI and More News",
+      "excerpt": "LinkedIn announced plans to launch its LinkedIn Learning Hub, a skills-building platform currently in beta, in the second half of 2021 this week. James Raybould, senior director of product, LinkedIn Learning and Glint,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/",
+      "originalUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/ee83660ce436477a992a325b7f73cf8f.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/amp/",
+      "publishedDateTime": "2021-04-23T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-cognitive-document-processing-for-automated-mortgage-processing.md",
+      "title": "Cognitive document processing for automated mortgage processing",
+      "excerpt": "This post was guest authored by AWS Advanced Consulting Partner Quantiphi. The mortgage industry is highly complex and largely dependent on documents for the information required across different stages in their business value chain. Day-to-day operations for mortgage underwriting, property appraisal,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cognitive-document-processing-for-automated-mortgage-processing/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cognitive-document-processing-for-automated-mortgage-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/23/1-Extracted-Data.jpg",
+          "width": 800,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T10:13:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-well-ai-got-quite-the-talking-to-this-week.md",
+      "title": "Well, AI got quite the talking to this week",
+      "excerpt": "The Federal Trade Commission told companies to hold themselves accountable for their algorithms or “be ready for the FTC to do it for you.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu/",
+      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketplace.org/wp-content/uploads/2021/04/ai-ft-img.jpg?fit=740%2C416",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu?amp",
+      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu?amp",
+      "publishedDateTime": "2021-04-23T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash.md",
+      "title": "Tesla owners warned of 'full self-driving' risks even before fatal crash",
+      "excerpt": "Tesla's \"full self-driving\" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns, clipped at least one curb ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.html",
+      "originalUrl": "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/5/39/5391c1d9-c758-5594-a62e-1b650d5d0199/6082f09709609.image.jpg?resize=1024%2C683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html",
+      "cdnAmpWebUrl": "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html",
+      "publishedDateTime": "2021-04-23T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Atlanta",
+        "domain": "cbs46.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-facebook-ai-mcgill-u-mila-promote-translationese-to-boost-nmt-system-faithfulness.md",
+      "title": "Facebook AI, McGill U & Mila Promote ‘Translationese’ to Boost NMT System Faithfulness",
+      "excerpt": "This is a boom time for commercial applications of Neural Machine Translation (NMT), with the performance of multilingual systems rapidly advancing both in terms of translation quality and robustness to input perturbations such as spelling or grammatical errors.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2021/04/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-4/",
+      "originalUrl": "https://syncedreview.com/2021/04/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/04/image-103.png?fit=700%2C393&ssl=1",
+          "width": 700,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2021/04/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-4/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/04/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-4/amp/",
+      "publishedDateTime": "2021-04-23T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business.md",
+      "title": "Best-selling biscuit brand leverages IBM hybrid cloud and AI to boost business",
+      "excerpt": "HR and procurement AI: IBM will use IBM Watson Studio to design a performance management framework, monitoring business processes and advocate for an appropriate product mix, faster planning and scheduling, and optimization of supply chain costs Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
+      "originalUrl": "https://www.techrepublic.com/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/23/cf57977a-339f-47ca-a9c3-232b140459b5/resize/1200x/6307c769b08bc1bb15ba9b3346faf9ff/parle.jpg",
+          "width": 1200,
+          "height": 963,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
+      "publishedDateTime": "2021-04-23T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-3-top-fintech-stocks-to-buy-now.md",
       "title": "3 Top Fintech Stocks to Buy Now",
       "excerpt": "Fintech stocks have been white-hot over the past year ... and Upstart tackles both with its AI-enhanced software. Rather than rely on traditional credit scores, which often exclude lots of potential borrowers that have good-but-not-quite-great credit ...",
@@ -682,498 +1152,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-ally-explores-fintech-products-using-quantum-computing-with-microsoft.md",
-      "title": "Ally explores fintech products using quantum computing with Microsoft",
-      "excerpt": "Ally Financial and Microsoft are collaborating to explore quantum solutions to challenges in the fintech sector.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/",
-      "originalUrl": "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/",
-      "publishedDateTime": "2021-04-22T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention.md",
-      "title": "Tesla drivers with 'full self-driving' warned of risks and need to pay attention",
-      "excerpt": "Tesla CEO Elon Musk said in March that about 2,000 Tesla owners were able to use \"full self-driving\" and the company revoked the beta program to drivers who did not pay sufficient attention to the road.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726",
-      "originalUrl": "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-78bff9e09592ac40812b9419af7e3a5a-h-0e4f79b782d2eb65a5d8a78692543a89-1619141465.jpg?crop=1.00xw:0.847xh;0,0.0384xh&resize=1200:*",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBALTV11",
-        "domain": "wbaltv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-deepracer-web-server-package.md",
-      "title": "DeepRacer Web Server Package",
-      "excerpt": "The DeepRacer Web Server ROS package creates the web_publisher_node which launches a Flask application as a background thread and creates service clients and subscribers for all the services and",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/aws-deepracer/aws-deepracer-webserver-pkg",
-      "originalUrl": "https://github.com/aws-deepracer/aws-deepracer-webserver-pkg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/a4aaeee8bb166429ad04631f571ebc391ef502f6b17f1824364e2ae380e5ca82/aws-deepracer/aws-deepracer-webserver-pkg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-nba-using-microsoft-cloud-and-ai-to-power-courtoptix-and-bring-enhanced-stats-to-fans.md",
-      "title": "NBA using Microsoft cloud and AI to power ‘CourtOptix’ and bring enhanced stats to fans",
-      "excerpt": "The NBA is tapping the power of its partnership with Microsoft to deliver advanced analytics that offer insights into shots, passes, defense, double teams and more. NBA CourtOptix Powered by",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/",
-      "originalUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-22-at-9.28.33-AM.png",
-          "width": 630,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/",
-      "publishedDateTime": "2021-04-22T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-the-challenges-of-applied-machine-learning.md",
-      "title": "The challenges of applied machine learning",
-      "excerpt": "But using machine learning in real-world applications and business problems—often referred to as “applied machine learning” or “applied AI”—presents challenges that are absent in academic and scientific research settings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/22/challenges-of-applied-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/04/22/challenges-of-applied-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/real-world-ai-applied-machine-learning.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/22/challenges-of-applied-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/challenges-of-applied-machine-learning/amp/",
-      "publishedDateTime": "2021-04-22T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-artificial-intelligence-model-predicts-which-key-of-the-immune-system-opens-the-locks-of-coronavirus.md",
-      "title": "Artificial intelligence model predicts which key of the immune system opens the locks of coronavirus",
-      "excerpt": "A new artificial intelligence (AI) method is helping researchers link immune cells to their targets and, for example, uncouple which white blood cells recognize SARS-CoV-2. The tool has broad applications in understanding the function of the immune system in infections,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/04/210422093943.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/04/210422093943.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-mta-pulls-security-cameras-from-nyc-subway-train-due-to-vendors-ties-to-chinese-facial-recognition-company.md",
-      "title": "MTA pulls security cameras from NYC subway train due to vendor’s ties to Chinese facial recognition company",
-      "excerpt": "The cameras began monitoring passengers on the G line train last Thursday — and MTA officials planned to keep them there for a year to see how they worked. But the vendor contracted to provide the system’s technology — Suzhou Huaqi Intelligent Technology — raised major security flags that prompted officials to suddenly pull the camera-filled train from service on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/new-york/ny-g-line-surveillance-cameras-cctv-subway-mta-20210422-pg2jooirajenzjxanowqen53c4-story.html",
-      "originalUrl": "https://www.nydailynews.com/new-york/ny-g-line-surveillance-cameras-cctv-subway-mta-20210422-pg2jooirajenzjxanowqen53c4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/7RV4Q09wAlPocpkw39__PEHNCrE=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/DBIOLYQ3EZAP7O33M3FED2UIXM.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/new-york/ny-g-line-surveillance-cameras-cctv-subway-mta-20210422-pg2jooirajenzjxanowqen53c4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-g-line-surveillance-cameras-cctv-subway-mta-20210422-pg2jooirajenzjxanowqen53c4-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-22T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-securing-amazon-sagemaker-studio-internet-traffic-using-aws-network-firewall.md",
-      "title": "Securing Amazon SageMaker Studio internet traffic using AWS Network Firewall",
-      "excerpt": "Amazon SageMaker Studio is a web-based fully integrated development environment (IDE) where you can perform end-to-end machine learning (ML) development to prepare data and build, train, and deploy models. Like other AWS services, Studio supports a rich set of security-related features that allow you",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-internet-traffic-using-aws-network-firewall/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-internet-traffic-using-aws-network-firewall/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/2-Architecture.jpg",
-          "width": 800,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T15:53:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-is-poor-data-quality-undermining-your-marketing-ai.md",
-      "title": "Is poor data quality undermining your marketing AI?",
-      "excerpt": "Inconsistent data quality and lack of data governance leave marketing teams struggling with data accuracy, consistency, and validity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/",
-      "originalUrl": "https://venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/shutterstock_350476919-e1513916353327.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/amp/",
-      "publishedDateTime": "2021-04-22T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21.md",
-      "title": "Microsoft details the latest developments in machine learning at GTC 21",
-      "excerpt": "With the rapid pace of change in AI and machine learning, it’s no surprise Microsoft had its usual strong presence at this year’s Nvidia GTC.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/",
-      "originalUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/",
-      "publishedDateTime": "2021-04-22T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "AI in Finance"
       ]
     }
   ],

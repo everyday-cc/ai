@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft buys speech recognition, conversational AI tech firm"
-    excerpt: "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion."
-    publishedDateTime: 2021-05-03T06:47:00Z
-    webUrl: "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
+  - title: "Microsoft Windows and Azure can be a business lifeline. This training shows you how."
+    excerpt: "Register fo r the AI event of the year ... With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including ..."
+    publishedDateTime: 2021-05-04T16:00:00Z
+    webUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/"
+    ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 93
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 112
     images:
-      - url: "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428"
-        width: 761
-        height: 428
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft's new open-source tool could stop your AI from getting hacked"
     excerpt: "Microsoft releases a tool to help organizations shore up AI systems against adversarial machine-learning attacks."
@@ -54,91 +54,33 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
-    excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
-    publishedDateTime: 2021-05-04T13:55:00Z
-    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9061/microsoft-launches-open-source-tool-counterfeit-to-prevent-ai"
+  - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
+    excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
+    publishedDateTime: 2021-05-04T05:54:00Z
+    webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
+    ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
     type: article
     provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
+      name: Sify.com
+      domain: sify.com
+    quality: 76
     images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/04/microsoft.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.sify.com/uploads/AWS_ians_vewiSKhedjcdd.jpg"
+        width: 700
+        height: 466
         isCached: true
-  - title: "An IBM exec says the $1.5 billion purchase of AI firm Turbonomic will supercharge its hybrid cloud push as it fights off Amazon and Microsoft"
-    excerpt: "This latest deal is part of IBM's push to reinvent itself as a modern company and double down on hybrid cloud, IBM VP Rob Thomas told Insider."
-    publishedDateTime: 2021-04-30T18:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-rob-thomas-turbonomics-acquisition-ai-hybrid-cloud-aiops-2021-4-1030371513"
+  - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
+    excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
+    publishedDateTime: 2021-05-02T05:10:00Z
+    webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
+    ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://images2.markets.businessinsider.com/608b5dff34af8d001859a0a9?format=jpeg"
-        width: 701
-        height: 526
-        isCached: true
-  - title: "Allscripts looks to leverage Microsoft partnership as tech giant expands healthcare ambitions"
-    excerpt: "Microsoft is expanding further into healthcare and that opens up strategic opportunities for Allscripts to leverage its partnership with the tech giant, company executives said. Here's how the health IT company plans to leverage the collaboration to grow its business with providers as well as payers and life sciences companies."
-    publishedDateTime: 2021-04-30T10:45:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/allscripts-looks-to-leverage-microsoft-partnership-as-tech-giant-further-its-ambitions"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 45
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1619734506/GettyImages-1018676898.jpg/GettyImages-1018676898.jpg?xwabYRqkBFPym1UOV.TzaLwA5SoTdVU6"
-        width: 6000
-        height: 3376
-        isCached: true
-  - title: "Artificial Intelligence Chipsets Market Next Big Thing | Major Giants Ibm, Google, Microsoft"
-    excerpt: "A new business intelligence report released by HTF MI with title \"Global Artificial Intelligence Chipsets Market Report 2021\" is designed covering micro level of analysis by manufacturers and key business segments."
-    publishedDateTime: 2021-04-30T03:08:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269111662/artificial-intelligence-chipsets-market-next-big-thing--major-giants-ibm-google-microsoft"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 45
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1619546502300.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Artificial Intelligence In Genomics Market by Drivers, Restraints, Opportunities, and Challenges | Ibm, Microsoft, Nvidia Corporation"
-    excerpt: "AI in genomics market to register a CAGR of 52 7 from 2020 to 2025 ReportsnReports added Artificial Intelligence In Genomics Market Research Report created by Report Consultant which offers detailed insights revenue details and other information regarding the global"
-    publishedDateTime: 2021-04-30T07:17:00Z
-    webUrl: "https://www.openpr.com/news/2277898/artificial-intelligence-in-genomics-market-by-drivers"
-    ampWebUrl: "https://www.openpr.com/amp/2277898/artificial-intelligence-in-genomics-market-by-drivers"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277898/artificial-intelligence-in-genomics-market-by-drivers"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-  - title: "Artificial Intelligence in Marketing Market to See Massive Growth by 2027 | IBM Corporation, Microsoft Corporation, General Vision and More"
-    excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence in Marketing Market report is anticipated to perform more robustly in the coming years,"
-    publishedDateTime: 2021-05-03T11:28:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-in-marketing-market-to-see-massive-growth-by-2027-ibm-corporation-microsoft-corporation-general-vision-and-more/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
-  - title: "Artificial Intelligence Market to Eyewitness Huge Growth by IBM Corporation, Microsoft Corporation, General Vision, Enlitic, Inc."
-    excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence Market report is anticipated to perform more robustly in the coming years, and its potential will steer the market to be positioned between the world’s most remunerative industries."
-    publishedDateTime: 2021-05-03T11:28:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-market-to-eyewitness-huge-growth-by-ibm-corporation-microsoft-corporation-general-vision-enlitic-inc/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 7
+      name: Sify.com
+      domain: sify.com
+    quality: 56
 
 secured: "13/zDeLe4mu0A9hWFKN8W5uswTTqrbzTNz+ITYksrzfNC3QBeQ2ZhawZIEfMVJIucro2UAOcUczNJDokY5qFOyCKki/JIRC/Hr6fCVzovSxRPzpGduN7wn73L23wxBpoGXKn13p5i5Ed+enYzjncPLonLNRqNf5IZ5OBBxXy85L/JS8gjACKQ4bnkOx+HDMgZH7mv8knW6/WUUkusICr92CVVMoOSWMU/hSzudPFNPy6MrhlEwk6mUI9y9jznmWFZl1cFph/gQZUlc8YDD0Q1Ybr1Tj5FJXo4GqN2Ur05K4fi0qZeGF3B9Df9kqgZdZ+hU580If7+fg/C6lcx+mF4H7lsHsYnRKqsU4Ld7FW8aA=;vzLC8v+6ixor5pvHCMk+Rw=="
 ---

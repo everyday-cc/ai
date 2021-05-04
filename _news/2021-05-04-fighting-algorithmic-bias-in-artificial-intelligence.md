@@ -40,6 +40,22 @@ related:
         width: 546
         height: 685
         isCached: true
+  - title: "The US National Security Commission issues its \"Final Report on AI in Defense and Intelligence\" - here are the takeaways"
+    excerpt: "The US National Security Commission has issued a massive, 700 page \"final report\" on the impact of AI on defense and intelligence. The report's conclusions are concerning, and not without controversy."
+    publishedDateTime: 2021-05-04T16:06:00Z
+    webUrl: "https://diginomica.com/us-national-security-commission-issues-its-final-report-ai-defense-and-intelligence-here-are"
+    ampWebUrl: "https://diginomica.com/us-national-security-commission-issues-its-final-report-ai-defense-and-intelligence-here-are?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/us-national-security-commission-issues-its-final-report-ai-defense-and-intelligence-here-are?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 51
+    images:
+      - url: "http://diginomica.com/sites/default/files/images/2020-01/shutterstock-%20Antonov-Serg-1576515697.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "f9zTJ8TxZZS90D4LRw2lGBp1Onis9cDZuTNCnvu16y/LOkeL7icDigZju9xnPt9qY6U9qC3ZAsRnEKxvg0Zsvp/UKmJku5jRJRd4/OJGXk53mCzz3WoRh4Bdmh/GvfzNdi/y4Ar3dxyR6r7BR6thUjlv5PFgBh5Cei8TdWvnWc8lE4k+mEfPUI3L1fPdFisUrbm16jHVtThXt0xh0vZBNNbWZxJm1CEhtWzs0+wLPN2jULIcv3ws1IGFkbgH7n0UubGODd6hMb+dgDf74jDKCyYRT0CyXFtveSVogRjqapa/Ai19AXUmGfzA7gXnbTT7ykcAsfOQnFfCQvw3iRJSsItvrpd2vs5SiaYhcKPsaPpxmYE6sNf82+9EtgUGQdl4vuyQc9N2uVv9fOquGexErbdRXwG9WEy9Gaj90sCZ7krPH1LG4HRbdysso2pe0lmxCp0td9Jg480NSoHPQYkMcL78M66NS1ycWwjEaks8oA/At+TanjJwD7BQ00VmPl6uE99s2iG1pKPHnLHKiZbC3g==;bXR08FSijlH/g6Md9Vq5Lw=="
 ---

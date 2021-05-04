@@ -72,6 +72,15 @@ related:
         width: 660
         height: 295
         isCached: true
+  - title: "Pay Attention to Evolution: Time Series Forecasting with Deep Graph-Evolution Learning"
+    excerpt: "Time-series forecasting is one of the most active research topics in artificial intelligence. A still open gap in that literature is that statistical and ensemble learning approaches systematically present lower predictive performance than deep learning methods."
+    publishedDateTime: 2021-05-04T16:11:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9416768"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
 
 secured: "uh903ttkVLWBLidT81QQCEq1wU29VBfSm1jPhprzasWpyQvLbfh3rr2TeuE/93aLzogtYv+8KqIbVYJW3hHUUi6SGnfC0+0wU+bY5gFd7QiAzZwTFm1QcfV6O2CfGM1DvAfQjX75N3A3Dzbja+lG82FjZLJKJPfrnPEIlmOMJ53fSVQWGgHtUbuPc/xoDV1gE0vzoKH5iLWTnl0bGmMje+E8W7AD9gk2obLRUP8awF8/RsdaIP9nyPWAg86wP+tlXAO2P4CZYMoqARdgS5gLHDXTwFVNzDYW5HpnKo8GOELA1ggA2F71NlgTFFvuaR14jqGR7X1oFfTFfn1gBTv8FQD2dnkj17Yx8VffGYWfg8Q=;yIN7jbJjdZAQzgthHjGTRQ=="
 ---

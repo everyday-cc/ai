@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-04-aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd.md",
-      "title": "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd",
-      "excerpt": "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html",
-      "originalUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/AWS_ians_vewiSKhedjcdd.jpg",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html",
-      "publishedDateTime": "2021-05-03T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-03-creating-an-end-to-end-application-for-orchestrating-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions.md",
       "title": "Creating an end-to-end application for orchestrating custom deep learning HPO, training, and inference using AWS Step Functions",
       "excerpt": "Amazon SageMaker&nbsp;hyperparameter tuning provides a built-in solution for scalable training and hyperparameter optimization (HPO). However, for some applications (such as those with a preference of different HPO libraries or customized HPO features), we need custom machine learning (ML) solutions",
@@ -54,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -473,6 +429,60 @@
       ]
     },
     {
+      "path": "_news/2021-04-28-global-artificial-intelligence-chip-market-analysis-featuring-industry-top-key-players-by-2026.md",
+      "title": "Global Artificial Intelligence Chip Market Analysis Featuring Industry Top Key Players By 2026",
+      "excerpt": "Global Artificial Intelligence Chip Market Analysis, 2020 research report depicts a deep-dive market analysis of statistics of Global Artificial Intelligence Chip market which consists of regional and country-wise market size,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-analysis-featuring-industry-top-key-players-by-2026-2021-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-analysis-featuring-industry-top-key-players-by-2026-2021-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-aws-deepracer-device-software-now-open-source.md",
       "title": "AWS DeepRacer device software now open source",
       "excerpt": "AWS DeepRacer is the fastest way to get started with machine learning (ML). You can train reinforcement learning (RL) models by using a 1/18th scale autonomous vehicle in a cloud-based virtual simulator and compete for prizes and glory in the global AWS DeepRacer League. Today, we’re expanding AWS DeepRacer’s",
@@ -621,6 +631,49 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-hpe-why-mission-critical-storage-needs-more-intelligence.md",
+      "title": "HPE: Why mission-critical storage needs more intelligence",
+      "excerpt": "SPONSORED Storage is perhaps the most fiendishly complex part of enterprise IT, as the storage infrastructure has to meet the demands of a range of workloads with differing requirements for performance,",
+      "sourceUrl": null,
+      "webUrl": "https://blocksandfiles.com/2021/04/26/hpe-intelligent-data-platform/",
+      "originalUrl": "https://blocksandfiles.com/2021/04/26/hpe-intelligent-data-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blocksandfiles.com/wp-content/uploads/2021/04/shutterstock_colored_blocks.jpg",
+          "width": 1300,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "blocksandfiles",
+        "domain": "blocksandfiles.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1019,6 +1072,59 @@
       ]
     },
     {
+      "path": "_news/2021-04-23-nvidia-crushes-latest-artificial-intelligence-benchmarking-tests.md",
+      "title": "NVIDIA Crushes Latest Artificial Intelligence Benchmarking Tests",
+      "excerpt": "Goodson dives deeper as in its third round of submissions, MLCommons released results for MLPerf Inference v1.0.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6081e85001858f30506843b4%2F0x0.png",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/amp/",
+      "publishedDateTime": "2021-04-22T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-build-an-event-based-tracking-solution-using-amazon-lookout-for-vision.md",
       "title": "Build an event-based tracking solution using Amazon Lookout for Vision",
       "excerpt": "Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV). With Amazon Lookout for Vision, manufacturing companies can increase quality and reduce operational costs by quickly identifying differences in images of",
@@ -1350,102 +1456,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates.md",
-      "title": "Startup taps radio frequency data, AWS tools to search the seas for pirates",
-      "excerpt": "The company developed these capabilities using Amazon Web Services' SageMaker Autopilot, a fully-managed service for building, training and deploying machine learning models. Using Autopilot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
-      "originalUrl": "https://www.zdnet.com/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/startup-taps-radio-frequency-data-aws-tools-to-search-the-seas-for-pirates/",
-      "publishedDateTime": "2021-04-20T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models.md",
-      "title": "Enforce VPC rules for Amazon Comprehend jobs and CMK encryption for custom models",
-      "excerpt": "You can now control the Amazon Virtual Private Cloud (Amazon VPC) and encryption settings for your Amazon Comprehend APIs using AWS Identity and Access Management (IAM) condition keys, and encrypt your Amazon Comprehend custom models using customer managed keys (CMK) via AWS Key Management Service (AWS",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/13/1-Architecture1853.jpg",
-          "width": 800,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T16:44:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

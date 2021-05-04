@@ -70,6 +70,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Give Facebook Data Access or Pay"
+    excerpt: "Apple iOS 14.5 requires all apps to ask for permission before data is shared. Facebook and Instagram have notices that if you do not share your data with them"
+    publishedDateTime: 2021-05-04T16:51:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/05/give-facebook-data-access-or-pay.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/05/give-facebook-data-access-or-pay.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/05/give-facebook-data-access-or-pay.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 44
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/05/givedataorpayFB.jpeg"
+        width: 587
+        height: 532
+        isCached: true
   - title: "The chilling grip of Facebook’s invisible hand"
     excerpt: "Big Tech cannot be a neutral arbiter of what political speech is acceptable or not acceptable. But private companies like Facebook are using their growing, terrifying, and largely unchecked power to determine who gets to speak and who gets to be heard."
     publishedDateTime: 2021-05-03T19:43:00Z

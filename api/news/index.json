@@ -2,6 +2,213 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-05-artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility.md",
+      "title": "Artificial Intelligence Models For Sale, Another Step In The Spread Of AI Accessibility",
+      "excerpt": "A regular message in this column is that artificial intelligence (AI ... The models are built in a variety of AI techniques, including rules engines, xgboost, and neural networks (deep learning). “Different domains require different techniques ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d25ef29c22d94b278e840%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/05/04/artificial-intelligence-models-for-sale-another-step-in-the-spread-of-ai-accessibility/amp/",
+      "publishedDateTime": "2021-05-04T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning.md",
+      "title": "Can AI Help Us Manifest The Life We Want? A Discussion At The Intersection Of Mindset And Machine Learning",
+      "excerpt": "For years, artificial intelligence and machine learning have been utilized in the mental health realm to help us regulate our emotions. In an article titled, “How Technology Can Enhance Behavioral Healthcare Design and Care,” the author effectively ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/05/04/can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/05/04/can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6091897fb31aa6cdde244389%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2888%26cropY1%3D114%26cropY2%3D1739",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/05/04/can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/04/can-ai-help-us-manifest-the-life-we-want-a-discussion-at-the-intersection-of-mindset-and-machine-learning/amp/",
+      "publishedDateTime": "2021-05-04T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-video-they-revive-cantinflas-with-artificial-intelligence.md",
+      "title": "VIDEO: 'They revive' Cantinflas with artificial intelligence",
+      "excerpt": "The campaign entitled \"Soriana, that of all Mexicans\" brought back one of the most important figures of the Golden Age of national cinema: Mario Moreno.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/371074",
+      "originalUrl": "https://www.entrepreneur.com/article/371074",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/images/misc/1620146098_cantinflas.png?width=1000?width=1000",
+          "width": 1944,
+          "height": 1098,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/371074",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371074",
+      "publishedDateTime": "2021-05-04T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how.md",
+      "title": "Microsoft Windows and Azure can be a business lifeline. This training shows you how.",
+      "excerpt": "Register fo r the AI event of the year ... With the training in The Complete 2021 Microsoft, Windows and Azure Bundle, IT experts can earn a firm grounding in all things Microsoft, including ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/",
+      "originalUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/sale_232555_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/",
+      "publishedDateTime": "2021-05-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-what-do-conspiracy-theories-and-ai-explainability-have-in-common.md",
       "title": "What Do Conspiracy Theories And AI Explainability Have In Common?",
       "excerpt": "Conspiracy theories like QAnon rely on truthiness, using individual data points to reach wild and untrue conclusions. AI explainability techniques follow the same playbook, often with serious consequences for consumers.",
@@ -251,6 +458,48 @@
       ]
     },
     {
+      "path": "_news/2021-05-04-experts-develop-artificial-intelligence-to-monitor-water-quality-more-effectively.md",
+      "title": "Experts develop artificial intelligence to monitor water quality more effectively",
+      "excerpt": "Artificial intelligence that enhances remote monitoring of water bodies—highlighting quality shifts due to climate change or pollution—has been developed by researchers at the University of Stirling.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-05-experts-artificial-intelligence-quality-effectively.html",
+      "originalUrl": "https://phys.org/news/2021-05-experts-artificial-intelligence-quality-effectively.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/water.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-05-experts-artificial-intelligence-quality-effectively.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-experts-artificial-intelligence-quality-effectively.amp",
+      "publishedDateTime": "2021-05-04T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-defining-a-role-for-ai-ethics-in-national-security.md",
       "title": "Defining a role for AI ethics in national security",
       "excerpt": "We spoke with Mariarosaria Taddeo, an associate professor and senior research fellow at the Oxford Internet Institute and Dstl Ethics Fellow at the Alan Turing Institute working on digital and AI ethics about two recent reports from the UK and the US on using AI in national defence and security.",
@@ -259,7 +508,7 @@
       "originalUrl": "https://www.nature.com/articles/s42256-021-00344-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -292,6 +541,58 @@
         "AI Ethics",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-apple-snaps-up-ex-google-ai-leader-who-quit-in-the-wake-of-timnit-gebrus-firing.md",
+      "title": "Apple snaps up ex-Google AI leader who quit in the wake of Timnit Gebru’s firing",
+      "excerpt": "Apple has hired former Google AI scientist Samy Bengio, who resigned from the Big G following the controversial firing of ethics researcher Timnit Gebru.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/apple-hires-ex-google-ai-leader-samy-bengio-who-quit-after-timnit-gebru-firing",
+      "originalUrl": "https://thenextweb.com/news/apple-hires-ex-google-ai-leader-samy-bengio-who-quit-after-timnit-gebru-firing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-2021-05-04T130252.161.png&signature=472b7fa172b55f4ff1cc4f2839b66a2e",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -347,6 +648,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-04-microsoft-launches-open-source-tool-counterfeit-to-prevent-ai-hacking.md",
+      "title": "Microsoft launches open source tool Counterfeit to prevent AI hacking",
+      "excerpt": "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1573748220/itpro/Microsoft_DW.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp",
+      "publishedDateTime": "2021-05-04T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-argo-ai-readies-its-own-lidar-sensor-for-ford-automated-vehicles.md",
       "title": "Argo AI Readies Its Own Lidar Sensor For Ford Automated Vehicles",
       "excerpt": "Argo AI, the automated driving system development partner of Ford and Volkswagen has revealed some details about its in-house developed lidar that will go onto Ford automated vehicles in 2022",
@@ -355,7 +708,7 @@
       "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -494,6 +847,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-04-baidu-launches-chinas-first-commercial-driverless-taxi-service.md",
+      "title": "Baidu launches China's first commercial driverless taxi service",
+      "excerpt": "Chinese search engine giant Baidu on Sunday started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public on a trial basis since last October but Sunday marked the first time that riders have needed to pay for it.",
+      "sourceUrl": null,
+      "webUrl": "https://motorauthority.com/news/1132139_baidu-launches-china-s-first-commercial-driverless-taxi-service",
+      "originalUrl": "https://motorauthority.com/news/1132139_baidu-launches-china-s-first-commercial-driverless-taxi-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hgmsites.net/hug/baidus-apollo-go-driverless-taxi-service_100790898_h.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Authority",
+        "domain": "motorauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-iit-madras-to-offer-free-online-course-on-artificial-intelligence-check-details-how-to-register.md",
       "title": "IIT Madras to offer Free Online Course on Artificial Intelligence - Check details, how to register",
       "excerpt": "IIT Madras is going to offer free online course on Artificial Intelligence in association with National Programme on Technology Enhanced Learning. Candidates can check here for details and steps to register.",
@@ -576,50 +972,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd.md",
-      "title": "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd",
-      "excerpt": "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html",
-      "originalUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/AWS_ians_vewiSKhedjcdd.jpg",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html",
-      "publishedDateTime": "2021-05-03T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -822,7 +1174,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -864,349 +1216,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-the-art-of-balancing-two-forces-ai-and-human-nature.md",
-      "title": "The Art Of Balancing Two Forces: AI And Human Nature",
-      "excerpt": "Our natural approach to problem-solving is additive: stir in more data, layer in more sophisticated modeling, think through solving the problem for every contingency. While that’s the first instinct,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/05/03/the-art-of-balancing-two-forces-ai-and-human-nature/",
-      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/05/03/the-art-of-balancing-two-forces-ai-and-human-nature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60901a9239f302147d640d3b%2F0x0.jpg",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/05/03/the-art-of-balancing-two-forces-ai-and-human-nature/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/05/03/the-art-of-balancing-two-forces-ai-and-human-nature/amp/",
-      "publishedDateTime": "2021-05-03T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience.md",
-      "title": "Appen combats skewed AI data to ensure end-users have the same experience",
-      "excerpt": "Training data provider Appen data just launched recently developed diverse training data sets for natural language processing initiatives in an effort to ensure end-users will receive the same experience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience/",
-      "originalUrl": "https://www.techrepublic.com/article/appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience/",
-      "publishedDateTime": "2021-05-03T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full.md",
-      "title": "Nvidia RTX 3050 Ti laptop GPU specifications leak in full",
-      "excerpt": "Full specifications for Nvidia’s upcoming RTX 3050 Ti mobile graphics card have allegedly shown up in the GPU-Z database ahead of its rumored launch later this month. As reported by Videocardz, somebody anonymously submitted specs for the so-called Nvidia RTX 3050 Ti to the GPU-Z validation database,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full",
-      "originalUrl": "https://www.techradar.com/nz/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Nhzgg9xAiHAHtrAZnwyfqD-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full",
-      "publishedDateTime": "2021-05-03T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-extreme-ceo-talks-ai-automation-chip-shortages.md",
-      "title": "Extreme CEO talks AI, automation, chip shortages",
-      "excerpt": "Extreme CEO Ed Meyercord says its tools that incorporate automation, AI, and ML can help IT catch more problems earlier and head them off before they hit the network.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.html",
-      "originalUrl": "https://www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/network_security_automation_artificial_intelligence_endpoints_integrated_connections_by_blue_planet_studio_gettyimages-1250576928_cso_2400x1600-100851256-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.amp.html",
-      "publishedDateTime": "2021-05-03T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-use-ai-thinking-to-improve-customer-experience.md",
-      "title": "Use AI Thinking to Improve Customer Experience",
-      "excerpt": "In fact the prepackaged tools are not the most helpful thing about AI for your CX. The thinking that goes into designing and building AI systems is itself the most powerful tool for reexamining your customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/d77db01721c34f25ba03e16f39da3e1d.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/amp/",
-      "publishedDateTime": "2021-05-03T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-yandex-self-driving-group-clocks-7-million-autonomous-miles.md",
-      "title": "Yandex Self-Driving Group Clocks 7 Million Autonomous Miles",
-      "excerpt": "Yandex Self-Driving Group has driven seven million autonomous miles (11.5 million kilometers) since the team was founded in 2017, more than any other company has announced, save for Alphabet’s Waymo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608c16ccf518acfd55532183%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/amp/",
-      "publishedDateTime": "2021-05-03T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-3-big-myths-of-ai-and-machine-learning-debunked.md",
-      "title": "3 Big Myths Of AI And Machine Learning Debunked",
-      "excerpt": "Artificial Intelligence and machine learning can give your business decision-making processes a massive upgrade. Here’s what you really need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/",
-      "originalUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6086f7034b0844a0abeea8ad%2F0x0.jpg%3FcropX1%3D542%26cropX2%3D3795%26cropY1%3D0%26cropY2%3D2441",
-          "width": 1199,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/",
-      "publishedDateTime": "2021-05-03T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

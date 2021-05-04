@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "3 Keys for Unlocking AI in Government, According to the Experts"
+    excerpt: "How can civilian and defense agencies begin to reap the benefits of AI? At a recent virtual event, government and industry leaders came together to discuss just that. Here’s what they had to say"
+    publishedDateTime: 2021-05-04T17:05:00Z
+    webUrl: "https://www.govexec.com/assets/3-keys-unlocking-ai-government-according-experts.pdf"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 37
+    images:
+      - url: "https://cdn.govexec.com/media/screen_shot_2021-05-04_at_10.00.38_am.png"
+        width: 649
+        height: 839
+        isCached: true
 
 secured: "MGS+AwcKvBMVTP0ogCF0qeICnrK1W/dTEkm+e41B7O5pcW9C+mlLpvubk3mEYW27l9sEdedpvIpjLaGDL3x1ntMBpP4q2JkTkObTVWjWuDFr/eUEqh+X7cQ4dfu1iHenkPa1GEfJzC3e2lqOQGZSMR14x9k0+GC1q/78xVKiQ4cRGZqoJI5C39Ia4XydEhERff30wLYn/QkV2SwGwDfWvhVpXdMG+5vFoD/b0nDQMGHgsZwNOYe1NWElkznRg+gtARTcz8jkf1gUiE2WJUfdzXpWSRyoAfgxtgMePbC8EIX4tIxjUNYjuU/04Obh9zbPyd+IDjm3if1gweQSFGnoPqWdQ4dKQoVkVU80Chrpd/U=;3XrlTg6ayXwNxm3T4JKbQQ=="
 ---

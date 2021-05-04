@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nature.com/articles/s42256-021-00344-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -43,6 +43,58 @@
         "AI Ethics",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-apple-snaps-up-ex-google-ai-leader-who-quit-in-the-wake-of-timnit-gebrus-firing.md",
+      "title": "Apple snaps up ex-Google AI leader who quit in the wake of Timnit Gebru’s firing",
+      "excerpt": "Apple has hired former Google AI scientist Samy Bengio, who resigned from the Big G following the controversial firing of ethics researcher Timnit Gebru.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/apple-hires-ex-google-ai-leader-samy-bengio-who-quit-after-timnit-gebru-firing",
+      "originalUrl": "https://thenextweb.com/news/apple-hires-ex-google-ai-leader-samy-bengio-who-quit-after-timnit-gebru-firing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-2021-05-04T130252.161.png&signature=472b7fa172b55f4ff1cc4f2839b66a2e",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1408,58 +1460,6 @@
         "AI",
         "Facebook AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-accenture-ai-expert-on-how-first-principles-prevent-problems.md",
-      "title": "Accenture AI expert on how first principles prevent problems",
-      "excerpt": "Accenture AI expert explains how rates of adoption may prove problematic when companies ignore first principles.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
-      "originalUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/data-scientist-1-e1615473764839.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
-      "publishedDateTime": "2021-04-09T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

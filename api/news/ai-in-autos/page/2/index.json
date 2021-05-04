@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-23-tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention.md",
+      "title": "Tesla drivers with 'full self-driving' warned of risks and need to pay attention",
+      "excerpt": "Tesla CEO Elon Musk said in March that about 2,000 Tesla owners were able to use \"full self-driving\" and the company revoked the beta program to drivers who did not pay sufficient attention to the road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726",
+      "originalUrl": "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-78bff9e09592ac40812b9419af7e3a5a-h-0e4f79b782d2eb65a5d8a78692543a89-1619141465.jpg?crop=1.00xw:0.847xh;0,0.0384xh&resize=1200:*",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBALTV11",
+        "domain": "wbaltv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-deepracer-web-server-package.md",
+      "title": "DeepRacer Web Server Package",
+      "excerpt": "The DeepRacer Web Server ROS package creates the web_publisher_node which launches a Flask application as a background thread and creates service clients and subscribers for all the services and",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/aws-deepracer/aws-deepracer-webserver-pkg",
+      "originalUrl": "https://github.com/aws-deepracer/aws-deepracer-webserver-pkg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/a4aaeee8bb166429ad04631f571ebc391ef502f6b17f1824364e2ae380e5ca82/aws-deepracer/aws-deepracer-webserver-pkg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-university-of-alaska-anchorage-today-ai-webinar-will-explore-the-development-of-self-driving-vehicles.md",
       "title": "University Of Alaska Anchorage: TODAY: AI Webinar Will Explore The Development Of Self-Driving Vehicles",
       "excerpt": "By 2019, many car and technology companies had implemented autonomous car programs, and Google's Waymo launched the world's first commer",
@@ -1254,92 +1341,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-ocado-prepares-for-food-deliveries-by-robots-with-10m-investment-in-startup-oxbotica.md",
-      "title": "Ocado prepares for food deliveries by robots with £10m investment in startup Oxbotica",
-      "excerpt": "It is hoped that applying artificial intelligence and machine learning ... As well as cutting costs, a new driverless fleet would cut emissions by speeding up the shift to electric delivery ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/business/ocado-robot-food-deliveries-oxbotica-b1832510.html",
-      "originalUrl": "https://www.independent.co.uk/news/business/ocado-robot-food-deliveries-oxbotica-b1832510.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2021/04/16/10/SEI74877590.jpg?width=1200&auto=webp&quality=75",
-          "width": 1200,
-          "height": 807,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/news/business/ocado-robot-food-deliveries-oxbotica-b1832510.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/business/ocado-robot-food-deliveries-oxbotica-b1832510.html",
-      "publishedDateTime": "2021-04-16T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-driverless-truck-developer-tusimple-debuts-on-nasdaq.md",
-      "title": "Driverless truck developer TuSimple debuts on Nasdaq",
-      "excerpt": "The stock price ended the day unchanged. TuSimple develops driverless trucks powered by artificial intelligence that aim to make long-haul freight transport cheaper and more efficient. It ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq",
-      "originalUrl": "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

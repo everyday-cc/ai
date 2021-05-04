@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-22-baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles.md",
+      "title": "Baidu’s Homecoming Raises Questions Over The Search Giant’s Plans For Electric Vehicles",
+      "excerpt": "Baidu aims to conquer smart transport, but search engines aren’t automobiles, and China’s EV sector is already fiercely competitive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/",
+      "originalUrl": "https://www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/amp/",
+      "publishedDateTime": "2021-03-22T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors.md",
+      "title": "Self-Driving Cars Aiming To Change Our Most Favorite Of Car Colors",
+      "excerpt": "Giving consideration to the painted car colors of today and what might occur with the advent of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/",
+      "publishedDateTime": "2021-03-20T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-teslas-fully-self-driving-beta-would-fail-a-drivers-license-test.md",
       "title": "Tesla’s “Fully Self Driving” Beta Would Fail A Driver’s License Test",
       "excerpt": "YouTuber AI Addict posted a video of a drive through downtown San Jose in a Tesla Model 3 using the company’s “Full Self Driving” (FSD) Beta, according to Road and Track. In it, the semi ...",
@@ -1021,93 +1107,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-toyota-is-using-artificial-intelligence-to-build-a-new-city.md",
-      "title": "Toyota Is Using Artificial Intelligence To Build A New City",
-      "excerpt": "Toyota is building a futuristic city in Japan, powered by artificial intelligence and robots. With dedicated roads for self-driving vehicles and test AI technologies to enable smart cities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/toyota-is-using-artificial-intelligence-to-build-a-new-city/",
-      "originalUrl": "https://www.analyticsinsight.net/toyota-is-using-artificial-intelligence-to-build-a-new-city/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-9.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-samsung-electronics-to-be-responsible-for-development-of-chip-used-for-googles-self-driving-car-waymo.md",
-      "title": "Samsung Electronics to Be Responsible for Development of Chip Used for Google’s Self-Driving Car Waymo",
-      "excerpt": "Samsung Electronics has begun the development of core chip that will be used for Google’s next-generation self-driving car. There is a high chance that the chip will be produced through Samsung Elec",
-      "sourceUrl": null,
-      "webUrl": "https://english.etnews.com/20210315200002",
-      "originalUrl": "https://english.etnews.com/20210315200002",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etnews.com/news/article/2021/03/15/article_15091456893673.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.etnews.com/amp/20210315200002",
-      "cdnAmpWebUrl": "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210315200002",
-      "publishedDateTime": "2021-03-14T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Etnews.com",
-        "domain": "etnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

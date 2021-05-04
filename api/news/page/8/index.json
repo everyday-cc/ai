@@ -2,6 +2,493 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-26-how-york-university-provides-instant-personalized-self-service-to-50000-students.md",
+      "title": "How York University provides instant, personalized self-service to 50,000 students",
+      "excerpt": "York University needed to make a deeper personal connection with its students — all 50,000 of them. “One of the challenges for any large university is student satisfaction,” says William Gage, Associate Vice President, Teaching and Learning at York University. The university worked with IBM, using Watson",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/york-university-virtual-assistant-students/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/york-university-virtual-assistant-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/2012_04_19_90D_York_University_Post_V2_2000x1006.jpg",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T06:00:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-computer-vision-software-market-investment-analysis-microsoft-aws-opencv.md",
+      "title": "Computer Vision Software Market Investment Analysis | Microsoft, AWS, OpenCV",
+      "excerpt": "Global Computer Vision Software Market Report is an objective and in-depth study of the current state aimed at the major drivers, market strategies, and key players growth. The study also involves the important Achievements of the market,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/26/computer-vision-software-market-investment-analysis-microsoft-aws-opencv/",
+      "originalUrl": "https://ksusentinel.com/2021/04/26/computer-vision-software-market-investment-analysis-microsoft-aws-opencv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/04/Global-Computer-Vision-Software-Market-780x470.jpg",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-sony-patent-describes-an-ai-that-plays-games-for-you.md",
+      "title": "Sony patent describes an AI that plays games for you",
+      "excerpt": "As reported by Segment Next, Sony’s patent covers a technology that trains a bot in the user’s playstyle. The AI starts with a basic set of",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89440-sony-patent-describes-ai-plays-games-you.html",
+      "originalUrl": "https://www.techspot.com/news/89440-sony-patent-describes-ai-plays-games-you.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-26-image-2.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89440-sony-patent-describes-ai-plays-games-you.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89440-sony-patent-describes-ai-plays-games-you.html",
+      "publishedDateTime": "2021-04-26T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-how-ai-trends-could-transform-the-healthcare-industry.md",
+      "title": "How AI Trends Could Transform The Healthcare Industry",
+      "excerpt": "Beyond its applicability in our current public health crisis, AI has several longer-lead implications for how we'll experience healthcare moving forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60832c1b062aef4c0ac65530%2F0x0.jpg",
+          "width": 1183,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/",
+      "publishedDateTime": "2021-04-26T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-nhs-adopts-predictive-ai-tech-from-controversial-startup.md",
+      "title": "NHS adopts predictive AI tech from controversial startup",
+      "excerpt": "The technology warns hospitals about a potential spike in patient numbers so they can allocate the right resources when needed",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570816586/itpro/2019/05/nhs_shutterstock_642071587.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/public-sector/359331/nhs-adopts-predictive-ai-tech-from-controversial-startup?amp",
+      "publishedDateTime": "2021-04-26T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud.md",
+      "title": "ThetaRay launches anti-money laundering AI and analytics for the cloud",
+      "excerpt": "Cybersecurity analytics company ThetaRay announced that its AI-based Anti-Money Laundering (AML) analytics will be available in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/",
+      "originalUrl": "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1279322260-e1619416404946.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/",
+      "publishedDateTime": "2021-04-26T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking.md",
+      "title": "Microsoft Defender can now use Intel's CPU-based machine learning to detect cryptojacking",
+      "excerpt": "Microsoft Defender for Endpoint has been enhanced using advancements in Intel Threat Detection Technology to detect cryptojacking attacks via machine learning heuristics based on CPU telemetry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-defender-can-now-use-intels-cpu-based-machine-learning-to-detect-cryptojacking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1619243785_figure_1._windows-defender-tdt_chart_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-microsoft-adds-new-azure-specializations-to-coursera.md",
+      "title": "Microsoft adds new Azure specializations to Coursera",
+      "excerpt": "The three new courses on the online learning platform cover Azure Fundamentals, AI Fundamentals and Data Fundamentals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-adds-new-azure-specializations-to-coursera/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-adds-new-azure-specializations-to-coursera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/",
+      "publishedDateTime": "2021-04-26T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-hpe-why-mission-critical-storage-needs-more-intelligence.md",
+      "title": "HPE: Why mission-critical storage needs more intelligence",
+      "excerpt": "SPONSORED Storage is perhaps the most fiendishly complex part of enterprise IT, as the storage infrastructure has to meet the demands of a range of workloads with differing requirements for performance,",
+      "sourceUrl": null,
+      "webUrl": "https://blocksandfiles.com/2021/04/26/hpe-intelligent-data-platform/",
+      "originalUrl": "https://blocksandfiles.com/2021/04/26/hpe-intelligent-data-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blocksandfiles.com/wp-content/uploads/2021/04/shutterstock_colored_blocks.jpg",
+          "width": 1300,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "blocksandfiles",
+        "domain": "blocksandfiles.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-the-worlds-biggest-ai-chip-now-comes-stock-with-26-trillion-transistors.md",
+      "title": "The World’s Biggest AI Chip Now Comes Stock With 2.6 Trillion Transistors",
+      "excerpt": "The world’s biggest AI chip just doubled its specs—without adding an inch. The Cerebras Systems Wafer Scale Engine is about the size of a big dinner plate. All that surface area enables a lot more of everything,",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/",
+      "originalUrl": "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/04/WSE2-Dinner-Plate.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/amp/",
+      "publishedDateTime": "2021-04-25T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-the-eu-is-proposing-regulations-on-aiand-the-impact-on-healthcare-could-be-significant.md",
       "title": "The EU Is Proposing Regulations On AI—And The Impact On Healthcare Could Be Significant",
       "excerpt": "Regulatory frameworks regarding AI and healthcare generally will undoubtedly only continue to grow, especially as innovators attempt to solve increasingly difficult problems with technology.",
@@ -728,476 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-weakly-supervised-facial-expression-recognition-in-the-wild-with-noisy-data.md",
-      "title": "Weakly-Supervised Facial Expression Recognition in the Wild with Noisy Data",
-      "excerpt": "Facial expression recognition (FER) has attracted much attention in recent years due to its wide applications. While some progress has been achieved thanks to the emergence of deep learning, the challenge occasioned by pose variations remains.",
-      "sourceUrl": null,
-      "webUrl": "https://ieeexplore.ieee.org/abstract/document/9403940",
-      "originalUrl": "https://ieeexplore.ieee.org/abstract/document/9403940",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T20:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IEEE",
-        "domain": "ieee.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-4-reasons-to-learn-machine-learning-with-javascript.md",
-      "title": "4 reasons to learn machine learning with JavaScript",
-      "excerpt": "There are already several JavaScript machine learning libraries. An example is TensorFlow.js, the JavaScript version of Google’s famous TensorFlow machine learning and deep learning library.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/",
-      "originalUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/01/javascript.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/23/4-reasons-to-learn-machine-learning-with-javascript/amp/",
-      "publishedDateTime": "2021-04-23T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-artificial-intelligence-robots-market-supply-sales-revenue-and-forecast-from-2021-to-2025.md",
-      "title": "Artificial Intelligence Robots Market Supply, Sales, Revenue and Forecast from 2021 to 2025",
-      "excerpt": "The Artificial Intelligence Robots Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-supply-sales-revenue-and-forecast-from-2021-to-2025-2021-04-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-supply-sales-revenue-and-forecast-from-2021-to-2025-2021-04-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-build-a-medical-sentence-matching-application-using-bert-and-amazon-sagemaker.md",
-      "title": "Build a medical sentence matching application using BERT and Amazon SageMaker",
-      "excerpt": "Determining the relevance of a sentence when compared to a specific document is essential for many different types of applications across various industries. In this post, we focus on a use case within the healthcare field to help determine the accuracy of information regarding patient health. Frequently,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-sentence-matching-application-using-bert/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-medical-sentence-matching-application-using-bert/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/15/1-Architecture1305.jpg",
-          "width": 800,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T10:52:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news.md",
-      "title": "LinkedIn Debuts LinkedIn Learning Hub, IBM Doubles Down on Ethical AI and More News",
-      "excerpt": "LinkedIn announced plans to launch its LinkedIn Learning Hub, a skills-building platform currently in beta, in the second half of 2021 this week. James Raybould, senior director of product, LinkedIn Learning and Glint,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/",
-      "originalUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/ee83660ce436477a992a325b7f73cf8f.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/linkedin-debuts-linkedin-learning-hub-ibm-doubles-down-on-ethical-ai-and-more-news/amp/",
-      "publishedDateTime": "2021-04-23T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-cognitive-document-processing-for-automated-mortgage-processing.md",
-      "title": "Cognitive document processing for automated mortgage processing",
-      "excerpt": "This post was guest authored by AWS Advanced Consulting Partner Quantiphi. The mortgage industry is highly complex and largely dependent on documents for the information required across different stages in their business value chain. Day-to-day operations for mortgage underwriting, property appraisal,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cognitive-document-processing-for-automated-mortgage-processing/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cognitive-document-processing-for-automated-mortgage-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/23/1-Extracted-Data.jpg",
-          "width": 800,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T10:13:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-well-ai-got-quite-the-talking-to-this-week.md",
-      "title": "Well, AI got quite the talking to this week",
-      "excerpt": "The Federal Trade Commission told companies to hold themselves accountable for their algorithms or “be ready for the FTC to do it for you.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2021/04/ai-ft-img.jpg?fit=740%2C416",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu?amp",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu?amp",
-      "publishedDateTime": "2021-04-23T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash.md",
-      "title": "Tesla owners warned of 'full self-driving' risks even before fatal crash",
-      "excerpt": "Tesla's \"full self-driving\" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns, clipped at least one curb ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.html",
-      "originalUrl": "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/5/39/5391c1d9-c758-5594-a62e-1b650d5d0199/6082f09709609.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html",
-      "cdnAmpWebUrl": "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html",
-      "publishedDateTime": "2021-04-23T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Atlanta",
-        "domain": "cbs46.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-facebook-ai-mcgill-u-mila-promote-translationese-to-boost-nmt-system-faithfulness.md",
-      "title": "Facebook AI, McGill U & Mila Promote ‘Translationese’ to Boost NMT System Faithfulness",
-      "excerpt": "This is a boom time for commercial applications of Neural Machine Translation (NMT), with the performance of multilingual systems rapidly advancing both in terms of translation quality and robustness to input perturbations such as spelling or grammatical errors.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/04/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-4/",
-      "originalUrl": "https://syncedreview.com/2021/04/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/04/image-103.png?fit=700%2C393&ssl=1",
-          "width": 700,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/04/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-4/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/04/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-4/amp/",
-      "publishedDateTime": "2021-04-23T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business.md",
-      "title": "Best-selling biscuit brand leverages IBM hybrid cloud and AI to boost business",
-      "excerpt": "HR and procurement AI: IBM will use IBM Watson Studio to design a performance management framework, monitoring business processes and advocate for an appropriate product mix, faster planning and scheduling, and optimization of supply chain costs Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
-      "originalUrl": "https://www.techrepublic.com/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/23/cf57977a-339f-47ca-a9c3-232b140459b5/resize/1200x/6307c769b08bc1bb15ba9b3346faf9ff/parle.jpg",
-          "width": 1200,
-          "height": 963,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
-      "publishedDateTime": "2021-04-23T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

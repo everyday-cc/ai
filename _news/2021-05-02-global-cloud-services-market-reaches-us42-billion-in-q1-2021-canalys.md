@@ -20,49 +20,6 @@ topics:
   - AI in Finance
 
 related:
-  - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
-    excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
-    publishedDateTime: 2021-05-04T05:54:00Z
-    webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
-    ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 76
-    images:
-      - url: "https://www.sify.com/uploads/AWS_ians_vewiSKhedjcdd.jpg"
-        width: 700
-        height: 466
-        isCached: true
-  - title: "AWS keeps top spot in the global cloud market"
-    excerpt: "AWS grew 32 percent in Q1 2021 and accounted for 32 percent of the total cloud spend. Azure, on the other hand, grew by 50 percent, for the third consecutive quarter. It now holds"
-    publishedDateTime: 2021-05-04T11:00:00Z
-    webUrl: "https://www.itproportal.com/news/aws-keeps-top-spot-in-the-global-cloud-market/"
-    ampWebUrl: "https://www.itproportal.com/amp/news/aws-keeps-top-spot-in-the-global-cloud-market/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-keeps-top-spot-in-the-global-cloud-market/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 61
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/UmMgpy7oe757BJ47MjAphk-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
-    excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
-    publishedDateTime: 2021-05-02T05:10:00Z
-    webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
-    ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 56
   - title: "Global cloud services market reaches US$42 billion in Q1 2021"
     excerpt: "Customer spending exceeded $40 billion a quarter for the first time in Q1, with total expenditure nearly $11 billion higher than in Q1 2020."
     publishedDateTime: 2021-04-30T13:38:00Z
@@ -93,15 +50,6 @@ related:
         width: 740
         height: 462
         isCached: true
-  - title: "Artificial Intelligence for Accounting Market size, Witness Highest Growth in near future by 2027 | Microsoft, Aws, Xero, Intuit, Sage"
-    excerpt: "The Artificial Intelligence for Accounting market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
-    publishedDateTime: 2021-05-03T03:21:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-for-accounting-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-aws-xero-intuit-sage/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
 
 secured: "RFLX9Set/q6DGU1FlD8rQQY3stjosflWbFUwC9HU5y4MRdMNyJwOgbMq4q/NTbEH3W4p8xTFsrlX/Y6a18C4xYOj6E2lNslkx92/MUQWsp7rAk6S33ob7n37JixCpGo/UWGn121YmkozLcmB52CGWjM9sAt5Wx0XNTr+wicnfWcQWhx8VpIDJsYwMdDCiicu+ecg1Ni+5eHLdbZsrPBDZrCur2I0a8whKo7V9d7M0RmRR8YgyNmfK5DQmRBLIZfYx7gld+ax0JikugSK7MtmS/h1VCouLtQQzduMnG3eW7Xx3xC1Ivtf7I1gmaXAGGq8WBPlb8r50pcOg+r8qI4mrRUEZy0m7j65RL1VRzc8HFpQiO0tSWj2R+IHeR9f6YvJbjCUBWVe7kJBnebAF/Mvil0VVVmiFI9t2YmafJaYo98SbsgEkAArr84NUer7UnEFq3uKm4it5UrqGcLEgzal+MEs69knF+UATzLCKOrduHzCEPFGSoUlISmLP44v71IgZPIx3J7uuHCNSfGZi73HHA==;nVuK9FsrZqRdDOgBZ6CkbA=="
 ---

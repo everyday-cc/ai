@@ -2,6 +2,361 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-01-softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon.md",
+      "title": "SoftBank’s Newest AI Unicorns Are Taking On More Than Just Amazon",
+      "excerpt": "SoftBank is on the hunt for its next billion dollar IPO, seeking promising AI startups to bet big on. Meet two of its newest portfolio companies, Standard Cognition and Forward, and how they're leveraging artificial intelligence for market dominance in the post-pandemic world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608766c6e84ff10258227ace%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/amp/",
+      "publishedDateTime": "2021-05-01T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe.md",
+      "title": "Intel CEO seeks $10B subsidy to build a chip factory in Europe",
+      "excerpt": "Intel CEO Pat Gelsinger may be asking for as much as $10 billion in subsidies to build a new foundry in Europe to ease the chip shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/",
+      "originalUrl": "https://venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/05/model-n-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 745,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/amp/",
+      "publishedDateTime": "2021-04-30T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-research-a-market-where-consumers-can-pay-for-privacy-is-emerging.md",
+      "title": "Research: A market where consumers can pay for privacy is emerging",
+      "excerpt": "There is a hidden market for privacy, with consumers eager to pay a premium to protect their personal information online, new research shows.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/30/research-a-market-where-consumers-can-pay-for-privacy-is-emerging/",
+      "originalUrl": "https://venturebeat.com/2021/04/30/research-a-market-where-consumers-can-pay-for-privacy-is-emerging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/compliance.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 902,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/30/research-a-market-where-consumers-can-pay-for-privacy-is-emerging/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/research-a-market-where-consumers-can-pay-for-privacy-is-emerging/amp/",
+      "publishedDateTime": "2021-04-30T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-introducing-hierarchical-deletion-to-easily-clean-up-unused-resources-in-amazon-forecast.md",
+      "title": "Introducing hierarchical deletion to easily clean up unused resources in Amazon Forecast",
+      "excerpt": "Amazon Forecast just launched the ability to hierarchically delete resources at a parent level without having to locate the child resources. You can stay focused on building value-adding forecasting systems and not worry about trying to manage individual resources that are created in your workflow. Forecast",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-hierarchical-deletion-to-easily-clean-up-unused-resources-in-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-hierarchical-deletion-to-easily-clean-up-unused-resources-in-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T15:02:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors.md",
+      "title": "A blowout earnings cycle hides strategy shift from cloud vendors",
+      "excerpt": "The big 3 cloud vendors have made huge investments over the past few months in data and AI services targeting vertical markets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/",
+      "originalUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1249937449.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/amp/",
+      "publishedDateTime": "2021-04-30T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-volkswagen-will-develop-in-house-self-driving-chip-to-compete-with-tesla-apple.md",
+      "title": "Volkswagen Will Develop In-House Self-Driving Chip to Compete With Tesla, Apple",
+      "excerpt": "Although Tesla’s expensive and strictly in-house developed autonomous driving software has a long way to go to actually achieve self-driving, its German rival Volkswagen is going down the same path to build its own driverless capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/",
+      "originalUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://observer.com/wp-content/uploads/sites/2/2021/04/GettyImages-1208585546.jpeg?quality=80&strip",
+          "width": 6240,
+          "height": 4160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/",
+      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/",
+      "publishedDateTime": "2021-04-30T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-a-scientist-created-emotion-recognition-ai-for-animals.md",
+      "title": "A scientist created emotion recognition AI for animals",
+      "excerpt": "A researcher at Wageningen University & Research recently published a pre-print article detailing a system by which facial recognition AI could be used to identify and measure the emotional state of farm animals.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals",
+      "originalUrl": "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Flivestockemotion.jpg&signature=bc77a1971b37144e3e614b7fcb233d9f",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-the-robot-surgeon-will-see-you-now.md",
       "title": "The Robot Surgeon Will See You Now",
       "excerpt": "As he moved the handles — up and down, left and right — the robot mimicked each small motion with its own two arms. Then, when he pinched his thumb and forefinger together, one of the robot’s tiny claws did much the same.",
@@ -114,7 +469,7 @@
       "originalUrl": "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -219,7 +574,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -652,7 +1007,7 @@
       "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -801,6 +1156,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-30-baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing.md",
+      "title": "Baidu to roll out fully automated self-driving taxi service in Beijing",
+      "excerpt": "Baidu's robotaxis will be hitting the streets of Beijing starting at Shougang Park, one of the venues for the 2022 Beijing Winter Olympics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
+      "originalUrl": "https://www.zdnet.com/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/30/eb7f4669-5ff8-4dff-9f4e-225845d30363/baidu-apollo-2.jpg",
+          "width": 3792,
+          "height": 2528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
+      "publishedDateTime": "2021-04-29T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-baidu-launches-robotaxi-service-outside-beijing-how-fully-driverless-is-it-vs-autox.md",
       "title": "Baidu Launches Robotaxi Service Outside Beijing. How ‘Fully Driverless’ Is It Vs. AutoX?",
       "excerpt": "Baidu, the leading search engine in China, has launched a robotaxi service in Shougang Park - an industrial park on the outskirts of Beijing which will be a site for the 2023 winter Olympics. How does it compare with AutoX's offering and is it the first?",
@@ -849,406 +1256,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-waymos-new-ceos-say-self-driving-unit-eyes-more-outside-funding.md",
-      "title": "Waymo’s New CEOs Say Self-Driving Unit Eyes More Outside Funding",
-      "excerpt": "Waymo, the prized self-driving arm of Alphabet Inc., is looking to nab further outside investment and make acquisitions of its own, the company’s new chief executive officers said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-29/waymo-s-new-ceos-say-self-driving-unit-eyes-more-outside-funding",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-29/waymo-s-new-ceos-say-self-driving-unit-eyes-more-outside-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-baidu-will-launch-driverless-robotaxis-in-beijing-this-week.md",
-      "title": "Baidu Will Launch Driverless Robotaxis In Beijing This Week",
-      "excerpt": "Baidu announced that it will open the first paid, driverless robotaxi service in China, starting Sunday, May 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b036c8c75d6a7c12b2c88%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/",
-      "publishedDateTime": "2021-04-29T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-false-facial-recognition-sends-innocent-new-jersey-man-to-jail.md",
-      "title": "False facial recognition sends innocent New Jersey man to jail",
-      "excerpt": "New Jersey police arrested an innocent man on unlawful possession of a weapon, resisting arrest and aggravated assault charges after he was falsely identified by facial recognition technology. Law enforcement agencies across the country use facial recognition to generate leads on suspects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsfa.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/",
-      "originalUrl": "https://www.wsfa.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wsfa.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSFA",
-        "domain": "wsfa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-false-facial-recognition-sends-innocent-man-to-jail.md",
-      "title": "False facial recognition sends innocent man to jail",
-      "excerpt": "False positive facial recognition match sends innocent man to jail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kcrg.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/",
-      "originalUrl": "https://www.kcrg.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG",
-          "width": 980,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC Kcrg  9",
-        "domain": "kcrg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-translate-all-automating-multiple-file-type-batch-translation-with-aws-cloudformation.md",
-      "title": "Translate All: Automating multiple file type batch translation with AWS CloudFormation",
-      "excerpt": "This is a guest post by Cyrus Wong, an AWS Machine Learning Hero. You can learn more about and connect with AWS Machine Learning Heroes at the community page.&nbsp; On July 29, 2020, AWS announced that Amazon Translate now supports Microsoft Office documents, including .docx, .xlsx, and .pptx. The world",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translate-all-automating-multiple-file-type-batch-translation-with-aws-cloudformation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-all-automating-multiple-file-type-batch-translation-with-aws-cloudformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T14:20:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-the-future-of-ai-in-healthcare.md",
-      "title": "The Future Of AI In Healthcare",
-      "excerpt": "Two AI luminaries, Fei-Fei Li and Andrew Ng got together today on YouTube, to discuss the state of AI in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b1e5a5ca86d56b9a674dc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3490%26cropY1%3D0%26cropY2%3D1962",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/amp/",
-      "publishedDateTime": "2021-04-29T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-google-led-paper-pushes-back-against-claims-of-ai-inefficiency.md",
-      "title": "Google-led paper pushes back against claims of AI inefficiency",
-      "excerpt": "In a newly released paper, Google pushes back against the notion that training AI models significantly harms the environment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/",
-      "originalUrl": "https://venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/amp/",
-      "publishedDateTime": "2021-04-29T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-the-financial-brand-launches-neobank-tracker.md",
-      "title": "The Financial Brand Launches Neobank Tracker",
-      "excerpt": "The Financial Brand, an online resource for retail banking, has launched the Neobank Tracker, a free, public online database that is indexed and searchable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2021/04/29/the-financial-brand-launches-neobank-tracker/",
-      "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2021/04/29/the-financial-brand-launches-neobank-tracker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608aedb762568c568a2b2c88%2F0x0.jpg",
-          "width": 1086,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomgroenfeldt/2021/04/29/the-financial-brand-launches-neobank-tracker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2021/04/29/the-financial-brand-launches-neobank-tracker/amp/",
-      "publishedDateTime": "2021-04-29T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

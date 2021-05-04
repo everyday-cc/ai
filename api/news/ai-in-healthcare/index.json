@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-03-artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025.md",
+      "title": "Artificial Intelligence In Diagnostics Market Expected to Expand at a High CAGR By End of 2025",
+      "excerpt": "Artificial Intelligence In Diagnostics analyze relationships between prevention or treatment techniques and patient outcomes. These AI diagnostic tools support operational initiatives that increase cost saving,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025-2021-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025-2021-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-02-artificial-intelligence-ai-in-drug-discovery.md",
       "title": "Artificial Intelligence (AI) in Drug Discovery",
       "excerpt": "Artificial Intelligence AI in Drug Discovery Market Scenarios 2021 2028 This report is a data source that covers the industry s existing and future technical and financial knowledge through 2028 A thorough market review illuminates the threats market structures opportunities",
@@ -390,7 +442,8 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AWS AI"
       ]
     },
     {
@@ -1323,50 +1376,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-artificial-intelligence-robotics-new-heights-in-healthcare.md",
-      "title": "Artificial Intelligence, robotics new heights in healthcare",
-      "excerpt": "Artificial Intelligence (AI) and robotics are used in transforming the world of the health industry and also offer an awesome strategy with much care. It puts the customers in control of the health and also the well-being.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
-      "originalUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailypioneer.com/images/logo.jpg",
-          "width": 325,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-18T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Pioneer",
-        "domain": "dailypioneer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

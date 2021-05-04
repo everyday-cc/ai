@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/appen-combats-skewed
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience/"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:

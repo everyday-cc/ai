@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/"
 type: article
 quality: 93
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 9
+  - title: "Pay Attention to Evolution: Time Series Forecasting with Deep Graph-Evolution Learning"
+    excerpt: "Time-series forecasting is one of the most active research topics in artificial intelligence. A still open gap in that literature is that statistical and ensemble learning approaches systematically present lower predictive performance than deep learning methods."
+    publishedDateTime: 2021-05-04T16:11:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9416768"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
 
 secured: "MRsi53NqsnyEsGw3x5cSFAuMMcrWV92kjNlHbLt+G8J05mGksFQpBEVSET2Tq94iqy1PQH/h0RsjJt/7BlSe6s5nhS7FFqt0GYZsYIIZtIQ+EgkBDmqQgw3jMmMY/IDAxCHk5xAYiL6/0b/+3irdGr1/olNwONAjhx7eGfiGmgFAq/k02sHHQIds3Rx8MjtOD2snJaEWvSlyScTq8K0Ui4PM3XEjTsZ48KHgUVEPm0CwnmOoXwZwO7iU01FhFD75qW2NvirZEvhyM25wt8AcyeorC0uyeRIuF78WbYuHoP7W4BqLwHPSqsXg3tzIKd3dXG9Qsr2ZtRgLsK6UH5jOwAivuFdCJGSClquUHqAaifE=;/J+T/i5Af9OBm/T3vPc7/w=="
 ---

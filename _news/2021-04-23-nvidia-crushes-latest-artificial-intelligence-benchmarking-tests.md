@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6081e85001858f30506843b4%2F0x0.png"

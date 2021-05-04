@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-05-experts-artificial-intelligence-qualit
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-experts-artificial-intelligence-quality-effectively.amp"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence to monitor water quality more effectively"
+    excerpt: "Artificial intelligence that enhances remote monitoring of water bodies - highlighting quality shifts due to climate change or pollution - has been developed."
+    publishedDateTime: 2021-05-04T16:30:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210504112514.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Toronto startup backed by AI experts aims to bring Google-quality predictive language to the masses"
     excerpt: "Cohere Inc., which will offer broader access to machine-learning software, boasts big-name backing from deep-learning godfather Geoffrey Hinton and other key global AI leaders"
     publishedDateTime: 2021-05-04T09:00:00Z
@@ -41,6 +50,6 @@ related:
         height: 742
         isCached: true
 
-secured: "Yn7oICmev7vwVtuZ5r8/LZad/6VwWjbutUfl6Uj9vRBdCZKcVuGLaqFlbSBmN4/5hMV7FAVIR1zJo54pPoG1/5UN6iVNibxdH8l7kXiEpYU0ioxM3fXycfaNdV5Afdh6yy+jva6qI7bpu8TbAM1XO4xnRX+uFGVjNDiYzQizuWJ4D06D7FzfPVajs6B+4xb/4j/Q9egleN2Lrrebc96dYHlafdqbB/i18oyB+axsJPgMhI8I7+FxTEe3nBDkpul00c8Dwh92A2yz5T2Usf0m4M+e3SAsHWEQX1Wjw9rN4CoNro7g5bRgjyU7GFKzOw2cuhb93whVVAxJvWrFi3cjWOpi4ilMt+pTSv8ZD+/pB9M=;GGL+u5Jj5h5nL99Pi6Sq3A=="
+secured: "f92XvXAEWZQsln7L2+4sObj9vq9n1MUJd4to7sQ/z5YoDm+ze2sApbnG+pPn/DCsGPYeZALLwwaKlgYvRcSHk3CzLjyx+1m5h8p7FaVn+nnbBXmcT6lekwEHg2xCYi3EMG38rX/KeG6G78icqrSpuJCSvqXx7iUF9Hc4L4HT+P8wdFpriTzUGVSR0eWiH06CXdmM0JffUj4RWV0MmnFDoKjLh2xwEUKcB2okfRPui3lo6Urxe/Um0qnm/baFtKtaORjs3azLJcmw5HlwDKPMf5gBz+/0kUmmb2KMFRIBKioWxppoqnFa0d7JRrgSioCWxnWz8i0Jkizp/zKAiW5KiB/v5McdeV2h/ZhUT5tIbz90lYR0pf/+KhKt3gHaDK5PoKt5skNR15p1VcM77Qx8e+pvf9hzG1t7oTzwfrQPDBG3j+6wsYru3YIrT0ZWEaAOnug0qNhA8JVH2sF9O8q5UPfZkJNhMOIGPSN8qmHrZgt1JHMkg/ZXPuPASg+x3a86GfXpBranY5PYMhKeyNFnBA==;Uc5tbGxfJdYL7lveJoLKmg=="
 ---
 

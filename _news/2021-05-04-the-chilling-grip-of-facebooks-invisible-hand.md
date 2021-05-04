@@ -71,6 +71,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Give Facebook Data Access or Pay"
+    excerpt: "Apple iOS 14.5 requires all apps to ask for permission before data is shared. Facebook and Instagram have notices that if you do not share your data with them"
+    publishedDateTime: 2021-05-04T16:51:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/05/give-facebook-data-access-or-pay.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/05/give-facebook-data-access-or-pay.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/05/give-facebook-data-access-or-pay.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 44
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/05/givedataorpayFB.jpeg"
+        width: 587
+        height: 532
+        isCached: true
   - title: "Facebook Announces ZionEX Platform for Training AI Models with 12 Trillion Parameters"
     excerpt: "A team of scientists at Facebook AI Research (FAIR) announced a system for training deep-learning recommendation models (DLRM) using PyTorch on a custom-built AI hardware platform, ZionEX. Using this system,"
     publishedDateTime: 2021-05-04T13:05:00Z

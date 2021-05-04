@@ -2,6 +2,83 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-06-verizon-aws-launch-private-mobile-5g-edge-computing-integrations.md",
+      "title": "Verizon, AWS launch private mobile 5G edge computing integrations",
+      "excerpt": "Verizon Business and Amazon Web Services said they will start delivering private mobile edge computing to enterprises in the US via integration with Verizon's private 5G network and AWS Outposts. The two partners will start providing private edge computing platforms to be used in factories,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
+      "originalUrl": "https://www.zdnet.com/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
+      "publishedDateTime": "2021-04-05T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-artificial-intelligence-market-report-by-industry-trends-and-leading-key-players-forecast-to-2026.md",
+      "title": "artificial intelligence market Report By Industry Trends And Leading Key Players Forecast To 2026",
+      "excerpt": "The prominent players in the Global artificial intelligence market are Intel (US), NVIDIA (US), Xilinx (US), Samsung (South Korea), Facebook (US), Micron Technology (US), IBM (US), Google (US), Microsoft (US), and AWS (US). Whipsmart MI provides fact-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2265732/artificial-intelligence-market-report-by-industry-trends",
+      "originalUrl": "https://www.openpr.com/news/2265732/artificial-intelligence-market-report-by-industry-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends",
+      "publishedDateTime": "2021-04-05T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-ai-infrastructure-market-to-witness-astonishing-growth-with-vital-key-players-intel-corporation-cisco-amazon-web-services-facebook-oracle.md",
       "title": "AI Infrastructure Market to Witness Astonishing Growth With Vital Key Players | Intel Corporation, CISCO, Amazon Web Services, Facebook, Oracle",
       "excerpt": "The Global Report on AI Infrastructure Market Size, Status, Growth and Forecast 2021-2027. The report provides a unique tool for evaluating the AI Infrastructure Market highlighting opportunities, and supporting strategic and tactical decision-making.",
@@ -1202,77 +1279,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-domo-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
-      "title": "Domo Achieves AWS Machine Learning Competency Status in Applied AI",
-      "excerpt": "SILICON SLOPES, Utah--(BUSINESS WIRE)--Domo (Nasdaq: DOMO) today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category. This designation recognizes that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210318005321/en/Domo-Achieves-AWS-Machine-Learning-Competency-Status-in-Applied-AI",
-      "originalUrl": "https://www.businesswire.com/news/home/20210318005321/en/Domo-Achieves-AWS-Machine-Learning-Competency-Status-in-Applied-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-domo-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
-      "title": "Domo Achieves AWS Machine Learning Competency Status in Applied AI",
-      "excerpt": "Domo (Nasdaq: DOMO) today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category. This designation recognizes that Domo has demonstrated deep experience and expertise in building or integrating ML solutions on AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/domo-achieves-aws-machine-learning-competency-status-in-applied-ai/",
-      "originalUrl": "https://www.financialbuzz.com/domo-achieves-aws-machine-learning-competency-status-in-applied-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

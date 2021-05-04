@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improv
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-82364115,imgsize-358297,width-800,height-434,overlay-etcio/ai-to-drive-next-wave-of-efficiency-and-customer-delight-in-the-retail-industry.jpg"
         width: 800
         height: 434
+        isCached: true
+  - title: "3 Keys for Unlocking AI in Government, According to the Experts"
+    excerpt: "How can civilian and defense agencies begin to reap the benefits of AI? At a recent virtual event, government and industry leaders came together to discuss just that. Here’s what they had to say"
+    publishedDateTime: 2021-05-04T17:05:00Z
+    webUrl: "https://www.govexec.com/assets/3-keys-unlocking-ai-government-according-experts.pdf"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 37
+    images:
+      - url: "https://cdn.govexec.com/media/screen_shot_2021-05-04_at_10.00.38_am.png"
+        width: 649
+        height: 839
         isCached: true
 
 secured: "MgsoX6mhB3EfTKKFwR4bhLssnAgPNRLloKgs0DjhE8fXo1FjZ9HyhQEiR/GFGR854E+xdj4UqWbvsxJa5fSpRnDWOpw88hs8xE8MIa+59y5SuGnUXrYqKdlVCKEU887BrqT63TSlBV0sf+lKtHB51obt7S98gbVpKogNyidpF8oFb44ebuEo7A/w4O5jvlrer5WwE35jJ82fUAAFrKDRubDpyJiEUvwmg4eRElXc1H4XvVDAeaf6kBBDpMyvHd8Xw6o2PWbxDNLhFJ+LZY5YG9Oe4VzcgDvyidPq/oyb8QN/GPdEYr1KUX7+CXxGpdNo5Yes8LADw8hqVsGX1x3iBCEIj9ggRrUeNdDiNQdlkfsHzjWHSNWTy2sfA+vu8eJxj3wOfkt3qaW/e9g6qdQFi1Jk+4LQMPtdI7NI/z6zNBGMsP2pYemWk7t7GApxr5XGiZXUKFCnNrRcZF1RkHHnU1NAWBQVUukVWe5JcJoPnSz5Z97g7un02LK3BEZ+vimzq+QE8HwyrR2rV2IJhXzDSw==;UK3IrZSzlJCg845P7Oqaxg=="

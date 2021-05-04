@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Miso Robotics Announces CookRight Software as a Standalone Offering to Increase Accuracy in Kitchens"
-excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with intelligent automation – announced the release of its standalone software as a"
-publishedDateTime: 2021-05-04T09:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens/article_1ffbca56-5406-5ea2-9423-9a9a7f6ca7d5.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens/article_1ffbca56-5406-5ea2-9423-9a9a7f6ca7d5.html"
+excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with intelligent automation – announced the release of its standalone software as a service (SaaS) offering, CookRight. Packed with expanded cooking capabilities and accessible through an affordable subscription model,"
+publishedDateTime: 2021-05-04T09:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens-1030382938"
+webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens-1030382938"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/4e/44eb355c-40ff-56ac-b00d-5da75281aa7b/60910d448ac2a.image.jpg?resize=732%2C630"
-    width: 732
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1502396/3E5A4244.jpg"
+    width: 400
+    height: 344
     isCached: true
 
-secured: "++YsL1hn1ljSZvKxaAK03aYbwEbghd7Pe2yge/JmM68g3pk+bEdU4ZOhwTsExA7nBZQBHvW1O49SoaaQYQmi7uX+/7z8OMu64PdAjp/r0dIMxxZnYsZBaEACrwrm8Y/bVOfye9Ii6B97Z48BEPW4UeIXKFloKeMtAlnioUKmv5flFhIq5yDvTmqr7i2P/Xt8zlXUQTCFhvZ3S8zGPwM9htJJo9Qt+isQhwKvsCuDSTVlwQO0kq+0HLBk0f0eX1zs+K6k3tQ13eEi3xS1AOI8wqHHrx7mf+Eb6xai5B138szyRc5wb4NbslCTUNg/nXpqp9qk9jEuA3ZUYfYJbXe8J+1GccfMQGPVyNG0al5+0RQ=;jF9qs5ExJX9afAg9t/tCNg=="
+secured: "lch4R1RIgiAwsps+UC5nq5W91QzuB5R29XGS+T/U7mk6pe5c6g2cOcZuOaOF5wizGijwMR6oALLhNkINGD8+gNwgQHSbYuGaGYEGeNrDC6QEtnap1uM5AgUwdVwkQanKnwqDrE8EE8l+xsdM7xP76nxwMa2SQDbG+9qHmZXWmKvy584hO6vy3LmfZmBrEoluU80iOUSw+lGjgmbxHHw8du3jQDcLV19KjaaNw1/3z+3ps6+hXod4Thc/BeQDmPR7sR2Nltj4U0BPxqeQWA9nCHjFAkruEk2vBPXYBUdPr/Z8skNw+CuXWGwQAsXPeK6NW08JThMYNU0EhhEYWCgfcjkinzzq3Ic+OSL3sjH3Xuk=;GeDJEOWFquM6o78akw8jaQ=="
 ---
 
