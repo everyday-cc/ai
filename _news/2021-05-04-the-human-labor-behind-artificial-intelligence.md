@@ -8,7 +8,7 @@ webUrl: "https://www.marketplace.org/2021/05/04/the-human-labor-behind-artificia
 ampWebUrl: "https://www.marketplace.org/2021/05/04/the-human-labor-behind-artificial-intelligence/amp"
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2021/05/04/the-human-labor-behind-artificial-intelligence/amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.marketplace.org/wp-content/uploads/2021/04/DSC02390.jpg?fit=740%2C493"

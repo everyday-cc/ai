@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-04T09:24:00Z
 originalUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-enhancing-the-security-in-the-cloud-nid-7669.html"
 webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-enhancing-the-security-in-the-cloud-nid-7669.html"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Security
+  - AI in Healthcare
 
 images:
   - url: "https://www.cioapplications.com/newstransfer/upload/rrk2j450308p.jpg"

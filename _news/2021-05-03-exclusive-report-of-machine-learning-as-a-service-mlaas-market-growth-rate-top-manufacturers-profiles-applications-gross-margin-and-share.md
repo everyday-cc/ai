@@ -34,22 +34,6 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "Voice Recognition for Smartphones Market Analysis, Revenue, Share, Growth Rate & Forecast To 2026"
-    excerpt: "The exploration report of worldwide Voice Recognition for Smartphones Market advertise offers the extensive information about the topmost makers and sellers which ar"
-    publishedDateTime: 2021-04-29T22:25:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-for-smartphones-market-390122"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-for-smartphones-market-390122/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-for-smartphones-market-390122/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 31
-    images:
-      - url: "https://www.express-journal.com/img/img-3.png"
-        width: 1044
-        height: 625
-        isCached: true
   - title: "GPU Market Insights with statistics and Growth Prediction 2021 to 2024 | Cogeco Communications, PTC, ScaleMatrix, and S3 Graphics."
     excerpt: "According to research report by Inc GPU market will surpass USD 80 billion by 2024 When compared from the perspective of data processing a GPU appears to be like a mega truck which can take over much"
     publishedDateTime: 2021-05-04T01:24:00Z
@@ -65,38 +49,6 @@ related:
       - url: "https://cdn.openpr.com/U/5/U504657952_g.jpg"
         width: 800
         height: 479
-        isCached: true
-  - title: "Voice Recognition Market Business Analysis 2021 by CAGR, Share, Revenue and Prominent Key Players to 2026"
-    excerpt: "The exploration report of worldwide Voice Recognition Market advertise offers the extensive information about the topmost makers and sellers which are directly worki"
-    publishedDateTime: 2021-04-29T22:34:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-market-390112/"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-market-390112/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-market-390112/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 27
-    images:
-      - url: "https://www.express-journal.com/img/img-7.png"
-        width: 1047
-        height: 627
-        isCached: true
-  - title: "Voice Recognition for Automotive Market Trends, Growth, Scope, Size, Overall Analysis and Forecast by 2026"
-    excerpt: "The exploration report of worldwide Voice Recognition for Automotive Market advertise offers the extensive information about the topmost makers and sellers which are"
-    publishedDateTime: 2021-04-29T22:25:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-390127"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-390127/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-for-automotive-market-390127/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 26
-    images:
-      - url: "https://www.express-journal.com/img/img-6.png"
-        width: 500
-        height: 300
         isCached: true
   - title: "Global Contact Center Intelligence Market 2021 Major Manufactures – AWS, Artificial Solutions, Avaya, Google"
     excerpt: "Global Contact Center Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comes as a handy source for readers, providing insight into sales, volumes, revenues in the Industry."

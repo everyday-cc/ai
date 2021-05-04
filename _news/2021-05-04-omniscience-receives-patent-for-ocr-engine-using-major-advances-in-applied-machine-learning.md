@@ -25,22 +25,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Cognitive Advantage: How Artificial Intelligence Is Changing The Rules For Winning In Business And Government"
-    excerpt: "Great read that helped me think about the value of AI, ML and data sciences from a different perspective - that of creating cognitive advantage. Carter's approach illuminates some fascinating approaches for looking at opportunities for the future through a very innovative lens."
-    publishedDateTime: 2021-04-29T21:21:00Z
-    webUrl: "https://www.amazon.co.uk/Cognitive-Advantage-Richard-Carter-ebook/dp/B08K86Q8YG"
-    type: article
-    provider:
-      name: Amazon Associates UK
-      domain: amazon.co.uk
-    quality: 18
-    images:
-      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
-        width: 350
-        height: 450
-        isCached: true
-
 secured: "pIVewjwfFlqPxONer3a6iXHEN+cqo+XhYDOzHtSgeku73SiEe86AeA88cdgHpgI9jkmPUPIpSUiPvn+WFUIAQ1mptxNYZPSmwZLu4HJRrRChyy0368ejwTRTReQ1jM+gHlmGR2Rzuu5AbGpSQ2Ng4IW9CAaGKAjxO0CcAF6aNz4FgVkXZajdvTyBsXl3EpR9XZwhbyKNgRmOK3aOCgdt+XaOk+dEoNpZ/7sDnjdid2F0Scpn6LxqE+lbuYNWzZMpEHuZfyW5/10Y/rBXuIpUHbEY3ilfx+24LoeuhKnPBgrPN+5AHZqLCQxpGILXjjdv68AAIKBd/R3A+KVd9saNkP2LVVmyRXa5TTre4UQQCeQ=;CqIZ0NbEF8St2ro3ozMRgA=="
 ---
 

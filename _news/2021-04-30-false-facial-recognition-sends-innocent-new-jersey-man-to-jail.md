@@ -2,97 +2,25 @@
 category: news
 title: "False facial recognition sends innocent New Jersey man to jail"
 excerpt: "New Jersey police arrested an innocent man on unlawful possession of a weapon, resisting arrest and aggravated assault charges after he was falsely identified by facial recognition technology. Law enforcement agencies across the country use facial recognition to generate leads on suspects,"
-publishedDateTime: 2021-04-29T19:35:00Z
-originalUrl: "https://www.hawaiinewsnow.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
-webUrl: "https://www.hawaiinewsnow.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
+publishedDateTime: 2021-04-29T21:35:00Z
+originalUrl: "https://www.wsfa.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
+webUrl: "https://www.wsfa.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
-  name: KHNL
-  domain: hawaiinewsnow.com
+  name: WSFA
+  domain: wsfa.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.hawaiinewsnow.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG"
+  - url: "https://www.wsfa.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG"
     width: 1200
     height: 671
     isCached: true
 
-related:
-  - title: "False facial recognition sends innocent man to jail"
-    excerpt: "False positive facial recognition match sends innocent man to jail."
-    publishedDateTime: 2021-04-29T21:25:00Z
-    webUrl: "https://www.kcrg.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
-    type: article
-    provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
-    quality: 54
-    images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
-        width: 980
-        height: 548
-        isCached: true
-  - title: "San Diego Held Back Materials Sought by Congress on Facial Recognition"
-    excerpt: "In 2017, the House Committee on Oversight and Reform wanted to learn more about San Diego's use of facial recognition technology. The city’s response downplayed internal concerns over the program and withheld a number of reports showing how prevalent it really was."
-    publishedDateTime: 2021-05-03T11:00:00Z
-    webUrl: "https://www.voiceofsandiego.org/topics/government/san-diego-held-back-materials-sought-by-congress-on-facial-recognition/"
-    type: article
-    provider:
-      name: Voice of San Diego
-      domain: voiceofsandiego.org
-    quality: 41
-    images:
-      - url: "https://www.voiceofsandiego.org/wp-content/uploads/2021/04/Facial-Recognition_FINAL.png"
-        width: 1800
-        height: 1200
-        isCached: true
-  - title: "What cities must do to responsibly deploy facial recognition solutions"
-    excerpt: "The National League of Cities has published recommendations for guiding conversations around how facial recognition technology is being implemented."
-    publishedDateTime: 2021-04-29T20:46:00Z
-    webUrl: "https://gcn.com/articles/2021/04/29/nlc-facial-recognition.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognition2.png"
-        width: 760
-        height: 368
-        isCached: true
-  - title: "King County government must turn its back on facial recognition technology"
-    excerpt: "Whatever other concerns we might have about facial recognition technology — it poses a serious threat to our privacy and particularly to that of marginalized populations and communities."
-    publishedDateTime: 2021-04-30T20:51:00Z
-    webUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/"
-    ampWebUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-  - title: "Pressure grows on banks to abandon facial recognition tech"
-    excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."
-    publishedDateTime: 2021-05-03T18:50:00Z
-    webUrl: "https://www.americanbanker.com/news/pressure-grows-on-banks-to-abandon-facial-recognition-tech"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/73f29ba/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fdb%2F7d%2F24c099b84f4c91c3d81fc93e68e3%2Fab-050321-face-2.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "A+gyJjmnUxXnVKDta8DbY7N7xJ31woY8kCiV51IQB8xuvaz5XuipI6FTYNSqK4V3zZdEfzOMVsz+NmHCTjfTB5Mcw7xyZGJS6eT88BHCrs76lKSDpAuX5uN2aUrgP+5X0HsR7+Xy69uXe+5hykM9B/n2tbOBM+kNd9TKxksYzYNRN8bfxSkxA+u+002NS2/Q71VvFrLgDC0qd33+K5mbESn16+lAUrkfiXmnyXu0F/FTPicmW7AKKSBszXnleKXEidnWBzkAjP1CDRiVDJ9x+cezEhnirW+6sfkdjHmd3ntdOfB3BgyI7xdKi3M0T50sh4xvTOV/spajmiPZH4jbsG2eCnRH60tPt7YihZNIlhzGK+WDjJYcMUWtMNUbzi6VRTCwsZJoWyiajfBuvI9STRrLfSlfmQvTwzv3PXm4d6VYJloFGnyboJwybHCRNF7DwqTV6Es8EsxMkf0xUq+6jMNUOV9jdYyR8+4A6NdT+TrAX/rEdKoEjIKliejQAbWWtki2Qsa5G6dyYO+pX7bzsA==;hbt6XUUsKT4Ph3OTvenw7w=="
+secured: "PzlOLTJeTLNZ5Gafcl2W839eQxUpq2i/LizbTdtW1skYm7GJDyW3Gq3pajJG9HtgbvGWKOg2t/Sd7mgsboiJYWafkb6xoy86IntNU5QAMWRcekTQMR67hq1zpkPqfAkcZPZMJLwM8dtYa8AP3fErQvWNwwvLHEYJcpHrOhETfB+nIcxBV4r17JGChDHj/lVNK71f9DytUNTsgCWiGwjvdR0YL8ZVGzgjER0o8OzGF0VKP7e1GXomFuzDV6byGhhr+BD/23ivIVy2MlXVS9wzv2vqIdEp8+kb/11CT7vne/Q+/xeOXFTbTW5j+JVGgZlrPcIKV/uPGciYoJiy3u0RJTmXbfAOUXxWjdRPjDwNsGQ=;8psog7igfzwldd+KtOTh1g=="
 ---
 

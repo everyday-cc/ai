@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/accel-robotics-lau
 webUrl: "https://markets.businessinsider.com/news/stocks/accel-robotics-launches-autonomous-valet-market-store-with-last-step-delivery-in-san-diego-1030383908"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     height: 300
     isCached: true
 
-secured: "0X3c7cCIyQgteGW2S0hCOPfImpsqPh0Vj9gMabEkYr5Iftbkk0MkAODfiv1rFIVPHlprKYG/OZM7HUiw5voeEZngRkTVTqbGiaDHqMyMyH6nUmbrZiTC5sucHRaV1gEQNQuDcKSf+g7RbyxKoerx0GKIUIxjPn/f2NLpV5Vh4EZKlbX8lG6R9NOpGty1Tuqfx5NqRQsELPSmkhuAinoRpnhe1p0WQDucQ6vW/TUPf+1yZBp8rTLHS0h2v8N9g8mOMcigWQJF00uhe6ISwPUJt2xGyShV5ffGqPa3VKzxWtD5cX1qQuvXiogg3QEhubaJPNWYHxwzhCY4jgUL4+YPEJ+BCAWG6z0bPQWXZGz67I8=;AgS7KHfKnevFuz94rJk1dw=="
+related:
+  - title: "Accel Robotics Debuts Automated Market in San Diego"
+    excerpt: "San Diego-based artificial intelligence and computer vision startup Accel Robotics says it has launched a new, automated 1,500 square foot market in San Diego. According to the company, its new retail space is within Brookfield's luxury high-rise community ..."
+    publishedDateTime: 2021-05-04T13:58:00Z
+    webUrl: "https://socaltech.com/accel_robotics_debuts_automated_market_in_san_diego/s-0081217.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 54
+    images:
+      - url: "https://www.socaltech.com/images/story/valetmarket21a.jpg"
+        width: 293
+        height: 220
+        isCached: true
+
+secured: "w1GsV/lnFxEJa6BSfhLlzs4a6Srt264tBwfl+CIKPcRClP4m5LpbtRSZyv8B8o7VV4An1+RBdVRY0uMYbxfxYWUbO4SSDl0B/hDka94/h0qAOZB2pSzVHSw5ZROKKj69OcubXGANnnfrXmD4REocMPrENcH13/y4ltYSwfV8m98CCJQX62PP3B8xaVP1POfO8B1NOrOZcT+kMOrPY1kYDn97mOwdEtp6QpbWIXnnQrUz6KZDSXO5FgcuNr9XtiOE6rYMWFTwlfJ+GCmhrvZP9OSMWQILmzgTM1tMDOYdX7HYv0ST3EGwziAb6GyryXO5KWdG9R78MRjlOyKwuHzAPDsgbIdx/WZ0UnIppMFfwev2kv1/OAk2QE/IbCL+FH9fFhbVXY5dteFgP67q+2bQ1SxYZ2vuIKG1l3q+mouYHeSRnpsqyF4tisYzcmaXcKrI31GvM2OjUShlcwHTSka06qQ5UlU26h8Z7UrLvmn6TKjEEvomCtwJvxzyihp4r7l3HaXq+Te4SnnEZsoPyq4i6Q==;s0qQlpHzsGbtBcuwA9HJBg=="
 ---
 

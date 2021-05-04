@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Miso Robotics Announces CookRight Software as a Standalone Offering to Increase Accuracy in Kitchens"
-excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with intelligent automation – announced the release of its standalone software as a service (SaaS) offering, CookRight. Packed with expanded cooking capabilities and accessible through an affordable subscription model,"
-publishedDateTime: 2021-05-04T09:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens-1030382938"
-webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens-1030382938"
+excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with intelligent automation – announced the release of its standalone software as a"
+publishedDateTime: 2021-05-04T09:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens/article_1ffbca56-5406-5ea2-9423-9a9a7f6ca7d5.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens/article_1ffbca56-5406-5ea2-9423-9a9a7f6ca7d5.html"
 type: article
-quality: 69
-heat: 69
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1502396/3E5A4244.jpg"
-    width: 400
-    height: 344
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/4e/44eb355c-40ff-56ac-b00d-5da75281aa7b/60910d448ac2a.image.jpg?resize=732%2C630"
+    width: 732
+    height: 630
     isCached: true
 
-secured: "3WW2Fd32f0nNbiT/TNO39A6HTzLW0G6IAe8G+nLPBTHVTompF8ZamWO4uux6n+fB7lg8PuF0/TNPEgoFMTiqTolhapNIo6H15+veXDKSmHT9kVUnSPnjY0ZEJaQAWoMy+XUezxqCUtPjbim4CZxzfFDpP7c/38968wHtJSkt0Xwe1/2xrQXALBM4Zc8/bPED/AQCGqfzDS9fa/TxH5LsEhlo484/KLZetGmj8vB9wgBm+5jUAieVpfOOnT/+LFFUNlbw1L9nmHz2nafM/v0HtEkPjIe6XOTCNV2cpweQETGlhP13SiuSHuqdN3zGvXnHvLrmFcT6GzD8ApKBbaB9NVSvu4tZIH+K15ahJSMWopApBdNFIwN8ApaFZcu10ee+YvaQiOg66k8CvPqCU4E2GNhnR0a5d9V6guMWpl0lNpl+37dgcdWs95+I3V9gtikuw5V3W2MQ4ZKpgqurILRp908E0r/0QjzZ9QqRuWVxJ29R/xw4DZd/gUt9SFYKJsLwZbYRrvLbm8G+pI4yo+VcIw==;AKHclVnC3q6Cn8QuZupRSQ=="
+secured: "++YsL1hn1ljSZvKxaAK03aYbwEbghd7Pe2yge/JmM68g3pk+bEdU4ZOhwTsExA7nBZQBHvW1O49SoaaQYQmi7uX+/7z8OMu64PdAjp/r0dIMxxZnYsZBaEACrwrm8Y/bVOfye9Ii6B97Z48BEPW4UeIXKFloKeMtAlnioUKmv5flFhIq5yDvTmqr7i2P/Xt8zlXUQTCFhvZ3S8zGPwM9htJJo9Qt+isQhwKvsCuDSTVlwQO0kq+0HLBk0f0eX1zs+K6k3tQ13eEi3xS1AOI8wqHHrx7mf+Eb6xai5B138szyRc5wb4NbslCTUNg/nXpqp9qk9jEuA3ZUYfYJbXe8J+1GccfMQGPVyNG0al5+0RQ=;jF9qs5ExJX9afAg9t/tCNg=="
 ---
 

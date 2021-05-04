@@ -1,20 +1,32 @@
 ---
 category: news
 title: "5 Things to Know About IBM's Earnings Report"
-excerpt: "Here are five key things to know about IBM's results. IBM delivered 18% cloud revenue growth in the first quarter. Within the cloud and cognitive software segment, cloud revenue grew by 34%, and the company now has approximately 3,"
-publishedDateTime: 2021-04-21T10:45:00Z
-originalUrl: "https://www.nasdaq.com/articles/5-things-to-know-about-ibms-earnings-report-2021-04-21"
-webUrl: "https://www.nasdaq.com/articles/5-things-to-know-about-ibms-earnings-report-2021-04-21"
+excerpt: "Here are five key things to know about IBM's results. IBM offers a public cloud platform similar to market leaders Amazon Web Services and Microsoft Azure, but the company's main focus is on hybrid cloud computing."
+publishedDateTime: 2021-04-21T14:45:00Z
+originalUrl: "https://www.fool.com/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/"
+webUrl: "https://www.fool.com/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "a01UYAHI6NjeY55GqkRnuFLuBzpwMgON/hRRlKQPAnbSBmMRqE1qaCKzD5QeNyIZsN3RiPmdKI7uxxDJM5tqWe9HOj1MKuUhjP2iIckr/OeDQE1d8DFDZXtniTazVHt3SfYlRfVOWtifMBiojK+QZIdtDC69bs+X39A4bxOgSpADTOJ48/SGWKt6I88znG1PyCimePmh1Ni+U0ld5lSDUXvDlxFMsWZInXzTWTjVymZrJOr9Y9ZFfA3MTy9ywimYq5UNt9mzEII3NgBtDnV48b6a860ByJGN40+Qxel931eJE06tqTTNLOWFGobGo/LJKEIczidLlsZ91XHT7DGvx+6stpUgtGFWr9nO/tMO9rc=;5BO75yfYsK7vns9lIBqGtA=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F622197%2Fibmz_01_ships-3.jpg&w=1200&op=resize"
+    width: 1200
+    height: 802
+    isCached: true
+
+secured: "ZoXfUD34tfWD8XM/oj601sJRyiiN5YW5L4B368t6fbGxSxmlkDaVy0c+nuvj2B124lV3lIbDsvW0Xr6La6Tcx264bFXtodThewwAcRFeUiYJyh2xrlTlTgSZPxX/2kpo7sHOtSMpl6s5PlIUYN2DszilNTXYxoZjH17b4F53nVXvI869xljvOqRDCZQQAzB6OnQt1b3P0Y+HkWMOOeH+qeKSlfxD0eaT7pl55PbuE+2CCtVZE82psDR7GilI/SDQTlWNSmhdCA0wo1MXKcL5PXqGexUq4uyuMzJyijyaeOVWvkNUeWr0eKZsaFHPAGHjcEl0sFPywI0K/f5l6hDTs08MiH7hZoUW3Ez4B/LCHcc=;PC6RzmFF8dD2kxOMRh70mw=="
 ---
 

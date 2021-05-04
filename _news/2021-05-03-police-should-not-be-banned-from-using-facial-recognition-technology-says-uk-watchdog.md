@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
 type: article
 quality: 51
-heat: 51
-published: false
+heat: 71
+published: true
 
 provider:
   name: The Financial Times
@@ -25,6 +25,33 @@ images:
     width: 500
     height: 281
     isCached: true
+
+related:
+  - title: "King County government must turn its back on facial recognition technology"
+    excerpt: "Whatever other concerns we might have about facial recognition technology — it poses a serious threat to our privacy and particularly to that of marginalized populations and communities."
+    publishedDateTime: 2021-04-30T20:51:00Z
+    webUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/"
+    ampWebUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+  - title: "Pressure grows on banks to abandon facial recognition tech"
+    excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."
+    publishedDateTime: 2021-05-03T18:50:00Z
+    webUrl: "https://www.americanbanker.com/news/pressure-grows-on-banks-to-abandon-facial-recognition-tech"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/73f29ba/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fdb%2F7d%2F24c099b84f4c91c3d81fc93e68e3%2Fab-050321-face-2.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QcV/CwWd11juZ4VjbF1plr6dWUHq46OdJLpWyj+ORwpUS3060C5NCvZQwwZkojhMDZfv6su2dM88Pd7fxeV7/+DNp551WkPyGyfOgdZWUEkQsEKax/6qBIMf/bZWF74KPuUUwnOt199TwljSdB61J97qJto/xWM6zjruVdEXAghg6pDtdyWGMvEuNT0bjes2ano5rIIky75lEGW57j3O1PQqu9xXyaH1zFnNFlGipF9KejePrYEkU3xhq18SLgHm0ypgaMLstjvtNIqOboYvd8lsAFe77MFZfk1REetsAvw8KpDMLfsUR7Fqkl4/LHsnCfJaeTO8yZYrP2CH4mE4boXP4+7SaR6gYuXYnYnCnZGf6bGs7uTfl6GM26OQqmstfCEvilYT7F5PjWLTpXO+CuKawvM5E3UVXCtyqHSWTeqlsf9OU3BuoTC9zFi50u7We5gf4aNyFsfDLWlkNijzOy2KgNtnbkxOfpIpGmQWXaRZ01HrubrWY3L5fcxffAWK012b6xxWx/jSKV2TFpVcyA==;xe+k7AtUYVB/xxrqm2B4XQ=="
 ---

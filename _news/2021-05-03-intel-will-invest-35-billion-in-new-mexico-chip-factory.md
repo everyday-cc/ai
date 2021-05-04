@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

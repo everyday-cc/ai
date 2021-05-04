@@ -22,47 +22,21 @@ topics:
   - Computer Vision
 
 related:
-  - title: "False facial recognition sends innocent man to jail"
-    excerpt: "False positive facial recognition match sends innocent man to jail."
-    publishedDateTime: 2021-04-29T21:25:00Z
-    webUrl: "https://www.kcrg.com/video/2021/04/29/false-facial-recognition-sends-innocent-man-jail/"
+  - title: "Police should not be banned from using facial recognition technology, says UK watchdog"
+    excerpt: "Use of facial recognition by police should not be banned and instead left to the discretion of law enforcement rather than lawmakers, the UK’s new biometrics watchdog has said. Fraser Sampson, the newly appointed commissioner whose job it is to scrutinise how police and other authorities deploy biometrics and surveillance cameras on the public,"
+    publishedDateTime: 2021-05-03T04:00:00Z
+    webUrl: "https://www.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
+    ampWebUrl: "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
     type: article
     provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
-    quality: 54
+      name: The Financial Times
+      domain: ft.com
+    quality: 51
     images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/izHWKfiY3Yavrd_a-1FVon_6QbA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-29-2021/t_34b2f0ea45674bcfa09f133a0aa62dd8_name_Capture.PNG"
-        width: 980
-        height: 548
-        isCached: true
-  - title: "Innocent Black man jailed after false facial recognition match"
-    excerpt: "All the latest stories from around the world designed for your social feed. Like, Share and comment"
-    publishedDateTime: 2021-05-04T13:20:00Z
-    webUrl: "https://www.trtworld.com/video/social-videos/innocent-black-man-jailed-after-false-facial-recognition-match/609145f43b0f87001e8e3263"
-    type: article
-    provider:
-      name: TRT World
-      domain: trtworld.com
-    quality: 54
-    images:
-      - url: "https://cdni0.trtworld.com/w640/h360/q75/104699_FacialRecgonitionBiasYTB_1620133514949.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "San Diego Held Back Materials Sought by Congress on Facial Recognition"
-    excerpt: "In 2017, the House Committee on Oversight and Reform wanted to learn more about San Diego's use of facial recognition technology. The city’s response downplayed internal concerns over the program and withheld a number of reports showing how prevalent it really was."
-    publishedDateTime: 2021-05-03T11:00:00Z
-    webUrl: "https://www.voiceofsandiego.org/topics/government/san-diego-held-back-materials-sought-by-congress-on-facial-recognition/"
-    type: article
-    provider:
-      name: Voice of San Diego
-      domain: voiceofsandiego.org
-    quality: 41
-    images:
-      - url: "https://www.voiceofsandiego.org/wp-content/uploads/2021/04/Facial-Recognition_FINAL.png"
-        width: 1800
-        height: 1200
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e1a06a9-7196-40d3-9855-7cf75aa5fa8b.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "Pressure grows on banks to abandon facial recognition tech"
     excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."

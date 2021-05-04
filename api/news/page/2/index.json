@@ -2,6 +2,206 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-03-why-most-ai-writing-cant-get-its-facts-straight.md",
+      "title": "Why Most AI Writing Can’t Get Its Facts Straight",
+      "excerpt": "The brute force approach to artificial intelligence writing still works better on fiction than on factual, data-based reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLQ9BIC_W478/v1/1200x935.jpg",
+          "width": 1200,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-ai-rpa-and-machine-learning-how-are-they-similar-different.md",
+      "title": "AI, RPA, and Machine Learning – How are they Similar & Different?",
+      "excerpt": "AI, RPA, and machine learning confuse businesses in adopting the right disruptive technologies. Here’s a way to pick the right technology for business innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/",
+      "originalUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/RPA.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/?amp",
+      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/ai-rpa-and-machine-learning-how-are-they-similar-different/?amp",
+      "publishedDateTime": "2021-05-03T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-computer-vision-remains-an-untapped-opportunity-in-american-industry.md",
+      "title": "Computer Vision Remains An Untapped Opportunity In American Industry",
+      "excerpt": "When it comes to the usage of computer vision in heavy industry, most companies are still lagging in comparison to the consumer market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60147aab5fc342ff1fe64b63%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/03/computer-vision-remains-an-untapped-opportunity-in-american-industry/amp/",
+      "publishedDateTime": "2021-05-03T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-new-sas-viya-offerings-help-better-manage-and-navigate-big-data-for-ai-and-analytics.md",
+      "title": "New SAS Viya offerings help better manage and navigate big data for AI and analytics",
+      "excerpt": "Diverse and complex data environments create a challenge for organizations seeking to operationalize analytics to enable the best business decisions. Global analytics leader SAS continues to enhance its powerful,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/new-sas-viya-offerings-help-better-manage-and-navigate-big-data-for-ai-and-analytics-1030378017",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-sas-viya-offerings-help-better-manage-and-navigate-big-data-for-ai-and-analytics-1030378017",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1500297/sas_viya_data_management.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-re-humanizing-the-contact-center-with-ai.md",
       "title": "Re-Humanizing The Contact Center With AI",
       "excerpt": "In the end, it’s important to remember that the decisions you make now on your technology will impact you years down the line.",
@@ -166,7 +366,7 @@
       "originalUrl": "https://www.cioapplications.com/news/tredence-introduces-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-nid-7609.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -209,7 +409,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -249,6 +449,94 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-microsoft-buys-speech-recognition-conversational-ai-tech-firm.md",
+      "title": "Microsoft buys speech recognition, conversational AI tech firm",
+      "excerpt": "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
+      "originalUrl": "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r",
+      "publishedDateTime": "2021-05-02T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-police-should-not-be-banned-from-using-facial-recognition-technology-says-uk-watchdog.md",
+      "title": "Police should not be banned from using facial recognition technology, says UK watchdog",
+      "excerpt": "Use of facial recognition by police should not be banned and instead left to the discretion of law enforcement rather than lawmakers, the UK’s new biometrics watchdog has said. Fraser Sampson, the newly appointed commissioner whose job it is to scrutinise how police and other authorities deploy biometrics and surveillance cameras on the public,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
+      "originalUrl": "https://www.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e1a06a9-7196-40d3-9855-7cf75aa5fa8b.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
+      "publishedDateTime": "2021-05-02T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -564,7 +852,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/01/how-intel-is-leveraging-ai-to-drive-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -962,311 +1250,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-the-robot-surgeon-will-see-you-now.md",
-      "title": "The Robot Surgeon Will See You Now",
-      "excerpt": "As he moved the handles — up and down, left and right — the robot mimicked each small motion with its own two arms. Then, when he pinched his thumb and forefinger together, one of the robot’s tiny claws did much the same.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/04/science/00SCI-ROBOSURGERY-vidcover1/00SCI-ROBOSURGERY-vidcover1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/30/technology/robot-surgery-surgeon.amp.html",
-      "publishedDateTime": "2021-04-30T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-how-the-global-chip-shortage-could-impact-your-business.md",
-      "title": "How the global chip shortage could impact your business",
-      "excerpt": "It will likely take at least 18-24 months to stabilize the supply chain. Until then, many companies will be affected (some more, some less).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/",
-      "originalUrl": "https://venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-10161933.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/amp/",
-      "publishedDateTime": "2021-04-30T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-elon-musk-shares-painfully-obvious-idea-about-the-difficulty-of-self-driving-cars.md",
-      "title": "Elon Musk Shares Painfully Obvious Idea About the Difficulty of Self-Driving Cars",
-      "excerpt": "Elon Musk, one of the wealthiest people on the planet, sent a tweet Thursday night about the real problem with self-driving cars. And as you can probably guess by now, it’s one of those things that sounds profound until you stop to think about it for three seconds.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236",
-      "originalUrl": "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/22f3a11838a74d9511c1a95958c0284f.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp",
-      "publishedDateTime": "2021-04-30T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-computer-vision-inches-toward-common-sense-with-facebooks-latest-research.md",
-      "title": "Computer vision inches toward ‘common sense’ with Facebook’s latest research",
-      "excerpt": "Machine learning is capable of doing all sorts of things as long as you have the data to teach it how. That’s not always easy, and researchers are always looking for a way to add a bit of “common sense” to AI so you don’t have to show it 500 pictures of a cat before",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAAJ9D_B8hsL9ctO9wyqaKJruU9vaWo5tCKwfprXjmqKiEJCuS_JnPHBhjbEn0IIim2CVL9hLUSZGgmFtVbazr456MgnLYpKJiKWZub1ZC0nvTvZRcxwfec4hdU9Q8nf19ryLKTkjK8Z_oXSFAj-iPKIeXH0sON73ZTMJ0WuHvyVpL",
-      "originalUrl": "https://techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAAJ9D_B8hsL9ctO9wyqaKJruU9vaWo5tCKwfprXjmqKiEJCuS_JnPHBhjbEn0IIim2CVL9hLUSZGgmFtVbazr456MgnLYpKJiKWZub1ZC0nvTvZRcxwfec4hdU9Q8nf19ryLKTkjK8Z_oXSFAj-iPKIeXH0sON73ZTMJ0WuHvyVpL",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/segmentation-gif2.gif",
-          "width": 800,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/amp/",
-      "publishedDateTime": "2021-04-30T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-facebook-details-self-supervised-ai-that-can-segment-images-and-videos.md",
-      "title": "Facebook details self-supervised AI that can segment images and videos",
-      "excerpt": "Facebook's DINO, an AI system, can train a model to segment an image or video without training on a labeled dataset.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/",
-      "originalUrl": "https://venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/amp/",
-      "publishedDateTime": "2021-04-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues.md",
-      "title": "NVIDIA warns gamers to update GPU drivers due to security issues",
-      "excerpt": "NVIDIA has reportedly found a few security vulnerabilities that may affect the popular GPU models in the market - and has released an update to fix it.",
-      "sourceUrl": null,
-      "webUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/",
-      "originalUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/03/Nvidia-GeForce-Hotfix.jpg",
-          "width": 600,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp",
-      "publishedDateTime": "2021-04-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

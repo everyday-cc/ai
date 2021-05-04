@@ -50,7 +50,7 @@ related:
     provider:
       name: Marketplace
       domain: marketplace.org
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.marketplace.org/wp-content/uploads/2021/04/DSC02390.jpg?fit=740%2C493"
         width: 740

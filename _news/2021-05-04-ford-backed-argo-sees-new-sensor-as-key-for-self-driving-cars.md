@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Ford-Backed Argo Sees New Sensor as Key for Self-Driving Cars"
+title: "Ford-backed Argo sees new sensor as key for self-driving cars"
 excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, has developed a sensor it believes will be key to commercializing autonomous transportation in cities, suburbs and on the highway."
-publishedDateTime: 2021-05-04T12:14:00Z
-originalUrl: "https://www.bloombergquint.com/business/ford-backed-argo-sees-new-sensor-as-key-for-self-driving-cars"
-webUrl: "https://www.bloombergquint.com/business/ford-backed-argo-sees-new-sensor-as-key-for-self-driving-cars"
+publishedDateTime: 2021-05-04T13:34:00Z
+originalUrl: "https://www.autonews.com/mobility-report/ford-backed-argo-sees-new-sensor-key-self-driving-cars"
+webUrl: "https://www.autonews.com/mobility-report/ford-backed-argo-sees-new-sensor-key-self-driving-cars"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-    width: 1200
-    height: 630
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO1-MAIN_i.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -41,7 +41,16 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving"
+    excerpt: "A rgo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company and Volkswagen AG , announced that it has developed a new lidar sensor system with enough range t"
+    publishedDateTime: 2021-05-04T15:34:00Z
+    webUrl: "https://www.nasdaq.com/articles/new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving-2021-05-04"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
 
-secured: "FPj9bmPQ4c+HlC0cCqV1D1gQyv4KUfdYheO89beXnAVVV2VNp8qBHnsRb+H5VdOfEYBWJ+u13SufGcod99QUMt+hy8zw3A2TS+rRpzC/8RdZaJ6fegOa1NmArv8oyUEdApeXmrmZLMgxujhfFbOKVGp9m+qVDwAYNj21mm3dcAaOG4s4WQO+Hm2dTM2dzw8e7pMEIcnrIBK81PZzNnANbPCxP6MjdxlFRK4pleP2s8f8xavbYRxAyQ7OvYfUOO8RyQfmqnm71GsLrTBc6nq+EB0raz632RmEkK/QgUyPNmqfMqc0HK/I4iYwjJVRskxoD4fqdEhvK7kcQ9630NC1vJNEh/zcqbwGGphro1tjX4Y=;Fqh2JhqUJtvj2lYgL3irjw=="
+secured: "0Hh5LUsZvzcmv9z0xXzpDi9zt4gGcNdu3I8PAADyxErIBN/PY7O0UoxoPq4/prkRChHtVCIYtXSMvcDh/fnXLcc7rqfplV9bi+ZJHAQsknK/Tk/EMT1Th/apua0Ox7uR7Dm3Xk/jSmRMs75WEsaas1PVHLkeFnkpIUAYbiXQv8V/iJcqTlzBR3N7mzNv7fmxyel752pzbjeK5yGlmfwwFliC2DTrmnkkui5YOGaw0BuggkCERe3ePhGONhZuDQ8Mozww2kA5CBgoMku6CJSem+jeQ874CplggOAyvV5Edji5TcsylzPD/6oSkNB3vWoc2HRP/Csl1FSrG3eZGDvencJI+sgn4cRq49EeBs0Rc/Y=;LATz1zaMLX/J26Y3Tv9Jpw=="
 ---
 

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Nishant Uniyal Joins Clarius to Speed Development of Artificial Intelligence for Handheld Ultrasound"
-excerpt: "Clarius Mobile Health is pleased to welcome Nishant Uniyal as Director of Data Science in charge of rapidly advancing the company's"
-publishedDateTime: 2021-05-04T12:38:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/nishant-uniyal-joins-clarius-to-speed-development-of-artificial-intelligence-for-handheld-ultrasound-301283081.html"
-webUrl: "https://www.prnewswire.com/news-releases/nishant-uniyal-joins-clarius-to-speed-development-of-artificial-intelligence-for-handheld-ultrasound-301283081.html"
+excerpt: "Clarius Mobile Health is pleased to welcome Nishant Uniyal as Director of Data Science in charge of rapidly advancing the company's artificial intelligence (AI) program for handheld ultrasound. A pioneer in medical imaging,"
+publishedDateTime: 2021-05-04T12:51:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nishant-uniyal-joins-clarius-to-speed-development-of-artificial-intelligence-for-handheld-ultrasound-1030384293"
+webUrl: "https://markets.businessinsider.com/news/stocks/nishant-uniyal-joins-clarius-to-speed-development-of-artificial-intelligence-for-handheld-ultrasound-1030384293"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1502248/Clarius_Health_Nishant_uniyal.jpg?p=facebook"
-    width: 1920
-    height: 1005
-    isCached: true
-
-secured: "/qk/Rb/UO3FbtFDcRlhfrC8ipUIXOmc5fUXuGXHlrxyK69gsVxLxkVhm6r8bmqdI9oRUOeZMtyQhlPOkNg0KR1Edy8t1Q/A73ucPnPbCTmnXuFRgP85sA3o2Ms4RQk/C8q08ZyI/SU3+b40LZPfb/hr52tBuRMiP81mSlZDNACFLQ+1DIpBQxc17HJpmPJG0mUtUBsgHYolwqYHJ10VboA/Gqw2JL3BnYVXWek9JVxIXwW6mKTm8YoZJZfPEgrp5AU73mBnGy/6iVMKl47wgMbJhrTtAa/SDh1XadXMOPlcWQwIon2vjcmFRlD0P8sHlC5srU1O4r78lEN0vs/GzecHxIERDtkg2d//ipaRp0i8=;YNjlXoxi9TD519D2x+P8gA=="
+secured: "RsxlUdX3IUcG64IYcVUGUFERq9xu6cHuJPS6cRvZ4WAd4VTvKZvwVfjYI8qX9cgU/ZtXktBDd10gQB31pKkiqfBlsRAiNwKS1Yd6Yog3rO5loEf7bV7MqsCY1mF2AXHoE3/f5MiMFGltWiScjco9d5WqBK9ZvGChmq+ICGBCNk27qiucn+/E7Y5VNLZLyejsgS9H0vHqTuJNKgGHuw2miWqNXNT1kq6x51A4Hy1IuRUnRDX+rRgf4xx441RSY8fhZUAf1hRnjrVf0XS1F3iva3i+Pxdl8cLAIXZJNRn4kvNuDqdd6tf++ySB/Ghy4i4kI3hjv/zEPagdO60x3Ai3Zj4UYqGcrssLejxWof7en2Q=;TkAHXD9v8TUjDr481IrrqQ=="
 ---
 

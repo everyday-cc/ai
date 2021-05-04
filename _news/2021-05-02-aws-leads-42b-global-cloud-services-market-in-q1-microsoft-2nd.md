@@ -54,34 +54,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Q1 cloud report: AWS leads, but Azure and G Cloud are on the warpath"
-    excerpt: "Canalys’ latest cloud infrastructure services report showed the cloud wars roiling as global spending grew 35 percent to US$41.8 billion in the first quarter of 2021, exceeding US$40 billion in a quarter for the first time."
-    publishedDateTime: 2021-04-29T22:00:00Z
-    webUrl: "https://www.crn.com.au/news/q1-cloud-report-aws-leads-but-azure-and-g-cloud-are-on-the-warpath-563991"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 56
-    images:
-      - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__News_20180927103014_crn-14_migration_iStock-825887856.jpeg"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Q1 cloud report: AWS leads, but Azure and Google Cloud are on the warpath"
-    excerpt: "Canalys’ latest cloud infrastructure services report showed the cloud wars roiling as global spending grew 35 percent to US$41.8 billion in the first quarter of 2021, exceeding US$40 billion in a quarter for the first time."
-    publishedDateTime: 2021-04-29T22:00:00Z
-    webUrl: "https://www.crn.com.au/news/q1-cloud-report-aws-leads-but-azure-and-g-cloud-are-on-the-warpath-563991"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 55
-    images:
-      - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__News_20180927103014_crn-14_migration_iStock-825887856.jpeg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Global cloud services market reaches US$42 billion in Q1 2021"
     excerpt: "Customer spending exceeded $40 billion a quarter for the first time in Q1, with total expenditure nearly $11 billion higher than in Q1 2020."
     publishedDateTime: 2021-04-30T13:38:00Z
@@ -112,6 +84,15 @@ related:
         width: 740
         height: 462
         isCached: true
+  - title: "Artificial Intelligence for Accounting Market size, Witness Highest Growth in near future by 2027 | Microsoft, Aws, Xero, Intuit, Sage"
+    excerpt: "The Artificial Intelligence for Accounting market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
+    publishedDateTime: 2021-05-03T03:21:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-for-accounting-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-aws-xero-intuit-sage/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 19
   - title: "Global cloud services market reaches US$42 billion in Q1 2021: Canalys"
     excerpt: "Cloud infrastructure services spending grew 35% to US$41.8 billion in the first quarter of 2021. The trend of using cloud services for data analytics and machine learning, data centre consolidation, application migration,"
     publishedDateTime: 2021-05-02T10:36:00Z

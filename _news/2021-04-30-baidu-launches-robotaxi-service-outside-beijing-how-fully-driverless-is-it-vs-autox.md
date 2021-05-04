@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/amp/"
 type: article
 quality: 95
-heat: -1
-published: false
+heat: 225
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Will Launch Driverless Robotaxis In Beijing This Week"
-    excerpt: "Baidu announced that it will open the first paid, driverless robotaxi service in China, starting Sunday, May 2."
-    publishedDateTime: 2021-04-29T22:59:00Z
-    webUrl: "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/"
-    ampWebUrl: "https://www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/04/29/baidu-will-launch-driverless-robotaxis-in-beijing-this-week/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b036c8c75d6a7c12b2c88%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Baidu to roll out fully automated self-driving taxi service in Beijing"
     excerpt: "Baidu's robotaxis will be hitting the streets of Beijing starting at Shougang Park, one of the venues for the 2022 Beijing Winter Olympics."
     publishedDateTime: 2021-04-30T01:29:00Z
@@ -196,6 +180,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/05/16x9/Baidu_Driverless_Taxi_AP.608ffe2e2a8d4.png?auto=format&fit=max&w=1200"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Baidu rolls out world-first autonomous taxi fleet in Beijing"
+    excerpt: "Chinese technology giant Baidu has rolled out the world’s first fleet of self-driving taxis over the weekend in Beijing, marking an important milestone for the autonomous driving industry."
+    publishedDateTime: 2021-05-04T12:48:00Z
+    webUrl: "https://performancedrive.com.au/baidu-rolls-out-world-first-autonomous-taxi-fleet-in-beijing-0423/"
+    type: article
+    provider:
+      name: PerformanceDrive
+      domain: performancedrive.com.au
+    quality: 39
+    images:
+      - url: "https://performancedrive.com.au/wp-content/uploads/2021/05/Baidu-Apollo-autonomous-robotaxi.jpg"
+        width: 934
+        height: 577
         isCached: true
   - title: "Baidu Launches Self-Driving Robotaxi Service, Ready for the 2022 Winter Olympics"
     excerpt: "Chinese users can hail a self-driving robotaxi to go about their business. The fully driverless Apollo Go service will first launch in Beijing's Shougang Park, one of the venues for the 2022 Beijing Winter Olympics,"
