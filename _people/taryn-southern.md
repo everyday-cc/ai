@@ -10,7 +10,7 @@ website: https://www.tarynsouthern.com/
 twitter:
   username: TarynSouthern
   url: https://twitter.com/TarynSouthern
-  followers: 66614
+  followers: 66619
 
 linkedin:
   url: https://www.linkedin.com/in/tarynsouthern/
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Taryn Southern"
 
-secured: "Kt7J6n9Du6FlbH6W3RKt2006CNZM01LSzQmTpMdDIC/+o/T0ckWOIe6s4UNsTUAA6AMc8OVouIn0p2TSXY3UTZymtx2fT3fludLenstPb23wKwoHlqZuyxYKQY34b9vHuN3gUyWCjj2/J7k8svAdseEE60t/ztYp5Fv5pntlGDYUvcsMSfZadtGWmMQAB8rYfBHtfWXg/BG4ZsnZEa6Q/Z30aGJmaZjBGRLsYLQsReJ7pSOf3PiKrc4oq0VPMvqcQGhG9fIcsNH1rmDZIMzq+EJwxjoyWrJJfuDlbg9oN2PQfGyAQsMpxqwUE9ogFVuwJUpGS42HOrlOUe0Gk6hofwfShC9xUveFIrx3hZfP12Kd1bPM8n0slWvZ29S+1JnxdpAONU+k/ox44Pw0Wf5+37Xu46qUNknLt1CEDbmObNE=;V209mRmD8gYEmMkRrR/r6g=="
+secured: "Tr5nDHl+3IeQP/hWdRZk0OhDrCDqYpXfd6GxTVOKYnUo7gCpQTJI5FMJwU9yniWEcWByTUWiNviECr/ojJ1F/hUrRnWcWZ+e/QD+N5WpQfZt7Dv4WvF0zMTcleUjBOeALkPk11x+XcqatLoP/YCCpTVVgzer4JlyGeuNrJREXa78v5lGPo9cDmDCfsP4cejQCldbrD5BB40F68QYkNfoVry5ri//Vs/UFBbQ8ymwJ6tP6m4svNKGaD0ZA5XYG9jFT4BZEHq1+TOSBDapjfJenjUxZeM+F3UdzYEISUACdmJmuH5196xVsrbm3Sg21Lh+nbBLWrwBQfYW46OazC1g38xk4AMmMer2AlM9zDT4Tgmf9aVbGsmgZqWUdQU0/BgYWvgkTW1SQT3AC42wpWwTA+BaTyXHDc3S/xmZqPdeBmA=;V8HG0vKFeZKi99Aeye/UsQ=="
 ---
 
