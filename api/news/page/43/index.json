@@ -2,6 +2,142 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-03-17-aws-announces-general-availability-of-amazon-ec2-x2gd-instances-powered-by-graviton2-processors.md",
+      "title": "AWS Announces General Availability of Amazon EC2 X2gd Instances Powered by Graviton2 Processors",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company, announced general availability of Amazon Elastic Compute Cloud",
+      "sourceUrl": null,
+      "webUrl": "https://www.hpcwire.com/off-the-wire/aws-announces-general-availability-of-amazon-ec2-x2gd-instances-powered-by-aws-designed-graviton2-processors/",
+      "originalUrl": "https://www.hpcwire.com/off-the-wire/aws-announces-general-availability-of-amazon-ec2-x2gd-instances-powered-by-aws-designed-graviton2-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-cnes-and-clemessy-develop-a-fluidic-systems-simulator-using-artificial-neural-networks.md",
+      "title": "CNES and Clemessy develop a fluidic systems simulator using artificial neural networks",
+      "excerpt": "The Centre national d’études spatiales (CNES) and Clemessy are currently working together to develop a fluidic systems simulator, using artificial neural networks. At the heart of their partnership is an objective: to optimise the filling of rocket tanks using artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.actuia.com/english/cnes-and-clemessy-develop-a-fluidic-systems-simulator-using-artificial-neural-networks/",
+      "originalUrl": "https://www.actuia.com/english/cnes-and-clemessy-develop-a-fluidic-systems-simulator-using-artificial-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Actu IA",
+        "domain": "actuia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-speak-freely-to-your-customers-this-translator-has-your-back.md",
+      "title": "Speak freely to your customers, this translator has your back",
+      "excerpt": "Vitra.ai’s platform can translate content to 50 different languages within minutes and at fraction of the regular cost Anyone with a social-media presence wonders ‘how many people did my content reach?’ Social media teams are scratching their heads ...",
+      "sourceUrl": null,
+      "webUrl": "https://outlookbusiness.com/enterprise/big-idea/speak-freely-to-your-customers-this-translator-has-your-back-6211",
+      "originalUrl": "https://outlookbusiness.com/enterprise/big-idea/speak-freely-to-your-customers-this-translator-has-your-back-6211",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlook Business",
+        "domain": "outlookbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-imagenet-database-blurs-images-used-for-facial-recognition-training-in-privacy-effort.md",
+      "title": "ImageNet database blurs images used for facial recognition training in privacy effort",
+      "excerpt": "The team behind ImageNet announced it has blurred the faces in its 1.5 million-image database, which has been used to train many facial recognition algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202103/imagenet-database-blurs-images-used-for-facial-recognition-training-in-privacy-effort",
+      "originalUrl": "https://www.biometricupdate.com/202103/imagenet-database-blurs-images-used-for-facial-recognition-training-in-privacy-effort",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-5-reasons-to-make-machine-learning-work-for-your-business.md",
       "title": "5 Reasons to Make Machine Learning Work for Your Business",
       "excerpt": "As machine-learning algorithms grow smarter and more organizations come around to the idea of integrating this powerful technology into their processes, it’s high time your enterprise thought about putting machine learning to work, too. One of the best ...",
@@ -805,142 +941,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-cy-wins-2021-best-robo-advisory-platform-fintech-breakthrough-award.md",
-      "title": "Cy Wins 2021 Best Robo Advisory Platform FinTech Breakthrough Award",
-      "excerpt": "The FinTech Breakthrough Awards is the premier awards program founded ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.. Chang-Hyeon Kim, Managing Director at JE.. Formula E Korea E-Prix 2020 Press Conference Rolls ...",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=437708",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=437708",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-new-research-reveals-publishers-missing-out-on-67-facebook-traffic-from-reshares.md",
-      "title": "New Research Reveals Publishers Missing Out on +67% Facebook Traffic From Reshares",
-      "excerpt": "Publishers who reshare their existing content on Facebook achieve 67% additional clicks on average, reveals new research published today by Echobox, the AI-powered social",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/new-research-reveals-publishers-missing-out-on-67-facebook-traffic-from-reshares/article_205f218d-4a41-5495-93aa-f3c2ff37d282.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/new-research-reveals-publishers-missing-out-on-67-facebook-traffic-from-reshares/article_205f218d-4a41-5495-93aa-f3c2ff37d282.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-critical-evaluation-of-deep-neural-networks-for-wrist-fracture-detection-scientific-reports.md",
-      "title": "Critical evaluation of deep neural networks for wrist fracture detection | Scientific Reports",
-      "excerpt": "Wrist Fracture is the most common type of fracture with a high incidence rate. Conventional radiography (i.e. X-ray imaging) is used for wrist fracture detection routinely, but occasionally fracture delineation poses issues and an additional confirmation by computed tomography (CT) is needed for diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-85570-2",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-85570-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T03:58:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-gbt-commences-research-of-probabilistic-neural-network-pnn-algorithms-and-techniques-for.md",
-      "title": "GBT Commences Research of Probabilistic Neural Network (PNN) Algorithms and Techniques for ...",
-      "excerpt": "GBT Technologies Inc. (OTC PINK: GTCH) (“GBT” or the “Company”) is researching Probabilistic Neural Network (PNN) algorithms and techniques for Kirlian research. PNN is a supervised artificial neural network,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-integrated-circuits-c180ccd69a4a0dab5923fd3a600e87c8",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-integrated-circuits-c180ccd69a4a0dab5923fd3a600e87c8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -64,7 +64,7 @@ related:
     provider:
       name: Actu IA
       domain: actuia.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://www.actuia.com/wp-content/uploads/2021/04/segmentation.png"
         width: 800

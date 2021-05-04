@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improv
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Hawaii bank’s new mobile app uses artificial intelligence to customize experience"
-    excerpt: "The bank’s customers can now store information from all of their accounts in one place ― even accounts that aren’t with First Hawaiian."
-    publishedDateTime: 2021-04-29T11:13:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2021/04/28/hawaii-banks-new-mobile-app-uses-artificial-intelligence-customize-experience/"
+  - title: "AI to drive next wave of efficiency and customer delight in the retail industry"
+    excerpt: "Cloud and AI continue to drive innovation to build differentiation while helping to reduce operational costs for retailers."
+    publishedDateTime: 2021-05-03T03:26:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-to-drive-next-wave-of-efficiency-and-customer-delight-in-the-retail-industry/82364115"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-to-drive-next-wave-of-efficiency-and-customer-delight-in-the-retail-industry/82364115"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-to-drive-next-wave-of-efficiency-and-customer-delight-in-the-retail-industry/82364115"
     type: article
     provider:
-      name: KHNL
-      domain: hawaiinewsnow.com
-    quality: 64
+      name: India Times
+      domain: indiatimes.com
+    quality: 53
     images:
-      - url: "https://www.hawaiinewsnow.com/resizer/qnK-drDKcAbnOzSkAlsdwmuXVG0=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/DQMW54J6QNBCRIZBL4X2EWBGY4.jpeg"
-        width: 1200
-        height: 1147
+      - url: "https://etimg.etb2bimg.com/thumb/msid-82364115,imgsize-358297,width-800,height-434,overlay-etcio/ai-to-drive-next-wave-of-efficiency-and-customer-delight-in-the-retail-industry.jpg"
+        width: 800
+        height: 434
         isCached: true
 
 secured: "MgsoX6mhB3EfTKKFwR4bhLssnAgPNRLloKgs0DjhE8fXo1FjZ9HyhQEiR/GFGR854E+xdj4UqWbvsxJa5fSpRnDWOpw88hs8xE8MIa+59y5SuGnUXrYqKdlVCKEU887BrqT63TSlBV0sf+lKtHB51obt7S98gbVpKogNyidpF8oFb44ebuEo7A/w4O5jvlrer5WwE35jJ82fUAAFrKDRubDpyJiEUvwmg4eRElXc1H4XvVDAeaf6kBBDpMyvHd8Xw6o2PWbxDNLhFJ+LZY5YG9Oe4VzcgDvyidPq/oyb8QN/GPdEYr1KUX7+CXxGpdNo5Yes8LADw8hqVsGX1x3iBCEIj9ggRrUeNdDiNQdlkfsHzjWHSNWTy2sfA+vu8eJxj3wOfkt3qaW/e9g6qdQFi1Jk+4LQMPtdI7NI/z6zNBGMsP2pYemWk7t7GApxr5XGiZXUKFCnNrRcZF1RkHHnU1NAWBQVUukVWe5JcJoPnSz5Z97g7un02LK3BEZ+vimzq+QE8HwyrR2rV2IJhXzDSw==;UK3IrZSzlJCg845P7Oqaxg=="

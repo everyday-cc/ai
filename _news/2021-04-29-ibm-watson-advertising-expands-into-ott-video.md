@@ -25,28 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Watson Advertising Accelerator Expands to Bring AI to Fast-Growing OTT Media and Streaming Landscape"
-    excerpt: "IBM today announced the expansion of IBM Watson Advertising Accelerator for OTT and video, designed to help marketers move beyond contextual relevance alone. While compatible with most streaming platforms,"
-    publishedDateTime: 2021-04-29T13:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and"
+  - title: "Artificial Intelligence Drug R&D Market Is Booming Worldwide | IBM Watson, BioXel, Insilico Medicine"
+    excerpt: "Our report will be revised to address COVID-19 effects on the Global Artificial Intelligence Drug R&D Market. Click to get Global Artificial Intelligence Drug R&D Market Research Sample PDF Copy Here @: jcmarketresearch."
+    publishedDateTime: 2021-05-01T09:37:00Z
+    webUrl: "https://ksusentinel.com/2021/05/01/artificial-intelligence-drug-rd-market-is-booming-worldwide-ibm-watson-bioxel-insilico-medicine/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
-  - title: "IBM Watson Advertising Accelerator expands to OTT"
-    excerpt: "IBM has confirmed the expansion of its AI technology IBM Watson Advertising Accelerator for OTT and video, designed to help marketers move beyond contextual rel"
-    publishedDateTime: 2021-05-03T23:03:00Z
-    webUrl: "https://advanced-television.com/2021/05/04/ibm-watson-advertising-accelerator-expands-to-ott/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 39
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 41
     images:
-      - url: "https://advanced-television.com/wp-content/uploads/2019/06/IBM_logoR_blue60_RGB.jpg"
-        width: 2967
-        height: 1975
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/download-70-780x470.png"
+        width: 780
+        height: 470
         isCached: true
 
 secured: "cU9HTHf+gIkbMP5e1mHpZ9bMCuEJcOu9nLec/dk4mJD+GREW/DNG37CuxJ5TMyamBqbjU+HCH9qCNjTAQNnAMbeG6H4wnujdJvaidNISfg6SAjyF/+/TUaz79RDYiKSwPRrvYWiDtVf2QhhY0tjtCnvvqQLPQSPhRbC7+ZGsPnOOrt+z/g4kJrhMeliYavesWoE4TZtYpr1fg9CgB5tJ1rkOOOTTDwDe+Bx6DUgjOb6rWKBnxZFFaCYHDtow4hTb65AL3iVrm5sT0wKnqhOCx9gDKsJoZoQAWlKm+LodtNgfgGNfv2F8cQxlqNcCCwNRPpZed5dYY7OqgaDBz3nD9Mqpwi8R4MTMzEmd9NGVqL9W3Fp6qRGBIeYyIVsvS3rwgLhmkm3KFHcXrq9a1ulgLBM73YSoPNgyF10ZmODcl2ujRqxMqCJCFUvfD9YsxMP4vyU4IoiYGQEQFZa9vfVRJVZCOmS9Cre4b19Slv0hWp2Gzo9zZIIttsdO18P3L1Zdudu6YEI9zyTCeCRlOgjpaQ==;9m7eViGaijRqm5uwwSDzJg=="

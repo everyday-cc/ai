@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-03T10:42:00Z
 originalUrl: "https://www.actuia.com/english/facebook-ai-announces-two-breakthroughs-related-to-computer-vision-and-supervised-learning/"
 webUrl: "https://www.actuia.com/english/facebook-ai-announces-two-breakthroughs-related-to-computer-vision-and-supervised-learning/"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.actuia.com/wp-content/uploads/2021/04/segmentation.png"
@@ -109,6 +110,6 @@ related:
         height: 400
         isCached: true
 
-secured: "oCvycL/1r9MsyjaloWViBuo3nx2C9cz9gYDLwj82yMIJFaAggsN3scBg+tX6ljAJQrzzEiUfuoLQ4Wk5H44iRXdoAi+QJU2/S1PLZCxCLXo1+YjzIndAHWXdlqpzVdfmCpqX2d1dLU1acpNqDwBOGLwXQyNCM97XQdlgZNpVCdWgULcEeDrBfk/znDIWdmsswscxnFwGGUqPWbCZ+WL0JIhfT5whPtl10lR7m2+L7Y1Ti597zPlA5wykqS09wJFWptD0zzyd8T+vU11mGJJ+ReqMdG67np7cQF+WpuKMxf3OAak24PDf7hDU6iU6neltKKI9Er5ENdDCIbz36/9Yo6YmS7lA6qKaGsBJUtDDDYo=;h8Ll3YdhJGeior80dZg2jw=="
+secured: "OyIgSwY05NMtRWK8NJjLd/HvVl1DRu3uEhSA/LvMFVZbgK+qtErAkWU0cjVqDVNUeO96QjnV54IFyPjDR2mLUZeZLAw5ODbDznpQcxrL3YkzftzRf6+AySX0bcUh86pM2PB/lSoUh+XMiVwr+piobmf0Y8kZ6y9duLG2ouErqIGxZ34OkhtPzgsc8s6hovNThpDeuVPMKSeNw3nK1Bv+hi1g4GSIVqt9+qAfwWcZwLWnAnJle1RW1rqaCDjYpSIbNbtZqauNAp1zsUwIwA6K8Yq5tKCE0v+CXqtAPg/1fU5o3uQ6ueYdGmPtDlFAcIIrqmxIviB6/UXpenoPbegZbsk/6cuUIXW19xLPS54dKG32WSpKppJeZQwq+5uC6X9+oU9EWipl30WWZPDsjMmzZpjjhr5aFeb85XjfR82KN15u+vuTM6jyzsHJ+j5fUwXbX07iAQ4u5Xu2DTR0isE3hOs039lVjR0bavd9kTn2wpNIqlaiYbav4cfj60rr9wuJ/9uelow88mKgcvWyuVwEpA==;LN3+yZN+b+2u5m3joPHXZQ=="
 ---
 

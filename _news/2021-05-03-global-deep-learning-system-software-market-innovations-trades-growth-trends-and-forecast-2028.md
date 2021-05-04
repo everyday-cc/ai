@@ -55,17 +55,6 @@ related:
         width: 576
         height: 324
         isCached: true
-  - title: "Worldwide Big Data Software Industry to 2026 - Featuring AWS, Cloudera and IBM Among Others - ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global big data software market reached a value of US$ 142."
-    publishedDateTime: 2021-04-29T12:09:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/b20860635/worldwide-big-data-software-industry-to-2026-featuring-aws-cloudera-and-ibm-among-others-researcha"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20860635"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20860635"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
   - title: "Global Natural Language Processing Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
     excerpt: "Over the past years more traffic have been attracted towards Natural Language Processing Market . According to different analysis, Natural Language Processing Market sales have a rate of XX% CAGR between 2020 and 2025."
     publishedDateTime: 2021-05-03T09:41:00Z

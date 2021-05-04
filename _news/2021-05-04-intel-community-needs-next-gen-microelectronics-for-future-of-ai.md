@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Intel Shows Us a Way to Use Artificial Intelligence to Boost Sales"
+    excerpt: "The post-Covid world has seen a major surge in digitalization of businesses as well as use of AI. This has created greater demand for upgradation and automation of the sales sphere. Intel’s effort at embracing automation of the sales process is something to watch out for at this juncture."
+    publishedDateTime: 2021-05-04T04:24:00Z
+    webUrl: "https://www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/"
+    ampWebUrl: "https://www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/?amp"
+    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/?amp"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 74
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Artificial-Intelligence-1.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Leveraging Data and AI to make your Enterprise Intelligent and Agile"
     excerpt: "Artificial intelligence is poised to unleash the next wave of digital disruption, and enterprises are using data as the backbone to harness this change. A successful program requires enterprises"
     publishedDateTime: 2021-04-29T19:21:00Z
@@ -54,22 +70,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2021/04/Copy-of-social-19.png"
         width: 862
         height: 824
-        isCached: true
-  - title: "Artificial intelligence is learning how to dodge space junk in orbit"
-    excerpt: "An AI-driven space debris-dodging system could soon replace expert teams dealing with growing numbers of orbital collision threats in the increasingly cluttered near-Earth environment. Every two weeks,"
-    publishedDateTime: 2021-04-29T11:05:00Z
-    webUrl: "https://www.space.com/AI-autonomous-space-debris-avoidance-esa"
-    ampWebUrl: "https://www.space.com/amp/AI-autonomous-space-debris-avoidance-esa"
-    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/AI-autonomous-space-debris-avoidance-esa"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ah4yZs5MTpbD6MRXyVk9Z6-480-80.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "Artificial Intelligence in Fintech Market size, Witness Highest Growth in near future by 2027 | Microsoft, Google, Salesforce, Ibm, Intel"
     excerpt: "The Artificial Intelligence in Fintech market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"

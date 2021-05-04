@@ -7,8 +7,8 @@ originalUrl: "https://www.finsmes.com/2021/05/path-robotics-raises-56m-in-fundin
 webUrl: "https://www.finsmes.com/2021/05/path-robotics-raises-56m-in-funding.html"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: finsmes.com
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Path Robotics bags USD 56M funding from Addition"
+    excerpt: "Path Robotics has recently announced to have raised funding worth USD 56 million in its latest Series B financing round led by Addition."
+    publishedDateTime: 2021-05-04T04:43:00Z
+    webUrl: "https://techstory.in/path-robotics-bags-usd-56m-funding-from-addition/"
+    ampWebUrl: "https://techstory.in/path-robotics-bags-usd-56m-funding-from-addition/amp/"
+    cdnAmpWebUrl: "https://techstory-in.cdn.ampproject.org/c/s/techstory.in/path-robotics-bags-usd-56m-funding-from-addition/amp/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 74
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/05/Path_Robotics_logo_Logo-scaled.jpg"
+        width: 2560
+        height: 1341
+        isCached: true
   - title: "Path Robotics Raises $56M to Build the Future of Manufacturing"
     excerpt: "Path Robotics, the Columbus-based AI Robotics company responsible for designing the world's first truly autonomous robotic welding system, today announced it received $56 million dollars in Series B funding,"
     publishedDateTime: 2021-05-03T12:00:00Z

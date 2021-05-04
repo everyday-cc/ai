@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Path Robotics bags USD 56M funding from Addition"
+    excerpt: "Path Robotics has recently announced to have raised funding worth USD 56 million in its latest Series B financing round led by Addition."
+    publishedDateTime: 2021-05-04T04:43:00Z
+    webUrl: "https://techstory.in/path-robotics-bags-usd-56m-funding-from-addition/"
+    ampWebUrl: "https://techstory.in/path-robotics-bags-usd-56m-funding-from-addition/amp/"
+    cdnAmpWebUrl: "https://techstory-in.cdn.ampproject.org/c/s/techstory.in/path-robotics-bags-usd-56m-funding-from-addition/amp/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 74
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/05/Path_Robotics_logo_Logo-scaled.jpg"
+        width: 2560
+        height: 1341
+        isCached: true
   - title: "Path Robotics Raises $56M in Funding"
     excerpt: "Path Robotics, a Columbus, OH-based AI Robotics company designing an autonomous robotic welding system, raised $56m in Series B funding"
     publishedDateTime: 2021-05-03T12:33:00Z

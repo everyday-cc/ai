@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Apple hires ex-Google AI scientist who resigned after colleagues' firings"
-excerpt: "Samy Bengio is expected to lead a new AI research unit at Apple under John Giannandrea, senior vice president of machine learning and AI strategy."
-publishedDateTime: 2021-05-04T03:17:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/articleshow/82381074.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/articleshow/82381074.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/amp_articleshow/82381074.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/amp_articleshow/82381074.cms"
+excerpt: "Bengio is expected to lead a new AI research unit at Apple under John Giannandrea, senior vice president of machine learning and AI strategy, two people familiar with the matter said."
+publishedDateTime: 2021-05-04T05:45:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/article34477343.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/article34477343.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/article34477343.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/article34477343.ece/amp/"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-253888,msid-82381084/file-photo-the-google-logo-is-displayed-outside-the-company-offices-in-new-york.jpg"
-    width: 600
-    height: 450
+  - url: "https://www.thehindu.com/sci-tech/technology/gp26kh/article34477427.ece/ALTERNATES/LANDSCAPE_615/apple-ai-researcherjfif"
+    width: 615
+    height: 384
     isCached: true
 
 related:
@@ -150,6 +150,6 @@ related:
         height: 400
         isCached: true
 
-secured: "VBC7/O4No/HlAi4AXQ4w+TtVyO8ztTHUBBR7/NcC8gnMRi9o3zi6yCjziHIXv+e1yJk9+7Cn/53SczTR0xk/L+dwNC40shzAjBG+us6stSxsh7aTG0sBWRFGdhiDOBwEqSnoiFetK8hn3dbucXZHqcXf+3SqToxxaVh3Bzy8mhvgTdVod5iO0ItXFER6fZbM7l6YOl+fvNc03HjJAj873PvlFtGiNbkpP+bXTL45f/EVASBjs6byJx+Foqy8JBg1aE9m+PEpiROPURNCHKJV3YTz57AUh4DXuVbI2WNnD0rYW7VHu80zOWPDqOezCPyYwf43qu6AYiHN/wzQoRF5L8K10wX7oxKjxY6wzdmeqmY=;TDo2a/Sxgr5TrePVpyGH3Q=="
+secured: "pDvwwBksCEjPhDRUBtPF7Gy4o3ISaAQ7aUcIndwezQbWGBA0PqRjuX9cvSl60BIqhKxwRtt5Ej4aZPp1kzoFUF5Nb3n+O2tsqIgvmLsQQlre9qP5GGt7Q2yA2l0HUs/39n7tsoGw9EQFh8bKc9F4ghYsQdbAOZkwvgVKXM63Z8Ro3nI+ltlBHb5oqKEYC3HWKJO3RIjasDY7CwPG5a9HWZlfOZq5pg/I8BstfQiPiK9Ltk4IBj3vBvFvaSs1T4IpY+8v+OYiToJXOwGczTN2OSPJTm9kxL2SfAZmRvc0Wcmib2MwXB/sVOQaL27L/pfdrGLVZ2OY2a+cBYkBzwOUY6k02mmKKD/gwqWLyhoQi+U=;ltX38UB+eXPs+J5RkuKT7A=="
 ---
 

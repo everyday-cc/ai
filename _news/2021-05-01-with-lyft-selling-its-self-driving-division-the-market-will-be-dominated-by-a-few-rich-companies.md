@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Self-driving cars coming to a slow lane near you, Government announces"
-    excerpt: "The UK Government has announced that it will be legal for motorists to go hands-free in self-driving cars later this year."
-    publishedDateTime: 2021-04-29T11:19:00Z
-    webUrl: "https://www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/"
-    ampWebUrl: "https://www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 44
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/04/GettyImages-168495211-ae2e539.gif?quality=90&crop=4px,51px,913px,393px&resize=960,413"
-        width: 960
-        height: 413
-        isCached: true
   - title: "UK signals self-driving cars could hit road this year"
     excerpt: "LONDON: Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel. The Department for Transport (DfT) said in a statement that it will allow hands-free driving in cars equipped with lane-keeping technology,"
     publishedDateTime: 2021-05-02T23:39:00Z

@@ -43,20 +43,6 @@ related:
         width: 754
         height: 494
         isCached: true
-  - title: "Shhhh, they’re listening – inside the coming voice-profiling revolution"
-    excerpt: "You decide to call a store that sells some hiking boots you’re thinking of buying. As you dial in, the computer of an artificial intelligence company hired by the store is activated. It retrieves its analysis of the speaking style you used when you phoned other companies the software firm services."
-    publishedDateTime: 2021-04-29T11:48:00Z
-    webUrl: "https://www.stgeorgeutah.com/news/archive/2021/04/29/prc-the-conversation-shhhh-theyre-listening-inside-the-coming-voice-profiling-revolution/"
-    type: article
-    provider:
-      name: St. George News
-      domain: stgeorgeutah.com
-    quality: 24
-    images:
-      - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/04/voiceprofiling-1290x726.jpg"
-        width: 1290
-        height: 726
-        isCached: true
 
 secured: "2rfE+qm+2/bI4hTXa8S/MeKVboKBAYZoz5ifcDk4OCxjDyKFXnElxOg8tgiURMgR4bsO6rPg9zdkVuDP7AmJjm68BAqHNbIiWqmE86mpsIH1OVeQRYVFlWV5UNFRdUqOBi+jk/6+8IdibaLwJ2d5lwY11TDY6VcXlnhRfUK/qrZRTn1PMYEdjQtHEF4pMUpExzUCS6u0mbh7bRKAXOiv6iS8aezLXV/0C+QFFfD+n6606kHJqHwzJifXHLqPZKUvpRcGBQQxYkiqM+8tkzcp2Pmf4yJy45yO0/Xo/7l7DmJcFlnSJpB62bUExkGi3/g/A+IjAnqILQzGj+W6o1Uhd8PiivKDmKydiu7zK7Ae39up6nwkuzyz5oLFe61Nyi9POQk+qjSOU6RuqlAFu+3iGKsqpHijjS8BOdByDuvkZtkCMB1+XYEcsdw+rSeenfL+5ZHCygkoSfansTTXRXc3npTZDvUZsAYAUI0Rg1qXkhc6wHmR0M177FoPQRMox1aH7nepTTC1NX+tyRVWD3sBpA==;8g797ABOTqDA47tfsGJ7pw=="
 ---

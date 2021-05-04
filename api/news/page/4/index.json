@@ -2,6 +2,144 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-29-ai-powered-cybersecurity-platform-vectra-ai-raises-130m.md",
+      "title": "AI-powered cybersecurity platform Vectra AI raises $130M",
+      "excerpt": "Vectra AI, an AI-powered cybersecurity platform, raised $130 million in a funding round that values the company at $1.2 billion post-money.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/",
+      "originalUrl": "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1171615768-1-e1619463823181.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/ai-powered-cybersecurity-platform-vectra-ai-raises-130m/amp/",
+      "publishedDateTime": "2021-04-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-hawaii-banks-new-mobile-app-uses-artificial-intelligence-to-customize-experience.md",
+      "title": "Hawaii bank’s new mobile app uses artificial intelligence to customize experience",
+      "excerpt": "The bank’s customers can now store information from all of their accounts in one place ― even accounts that aren’t with First Hawaiian.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hawaiinewsnow.com/2021/04/28/hawaii-banks-new-mobile-app-uses-artificial-intelligence-customize-experience/",
+      "originalUrl": "https://www.hawaiinewsnow.com/2021/04/28/hawaii-banks-new-mobile-app-uses-artificial-intelligence-customize-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hawaiinewsnow.com/resizer/qnK-drDKcAbnOzSkAlsdwmuXVG0=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/DQMW54J6QNBCRIZBL4X2EWBGY4.jpeg",
+          "width": 1200,
+          "height": 1147,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHNL",
+        "domain": "hawaiinewsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage.md",
+      "title": "Intangles Lab Pvt. Ltd. files Patent for machine learning solution for fuel pilferage",
+      "excerpt": "Intangles Lab, a leading digital twin solutions provider, announced today that it has filed a patent with the Indian Patent Office for Methods and Systems for Sub-Resolution Measurements in Fuel",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-121042900924_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-121042900924_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/29/full/20210429145104.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-121042900924_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-121042900924_1.html",
+      "publishedDateTime": "2021-04-29T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-cloud-storage-startup-wasabi-nabs-112m-plans-new-datacenters.md",
       "title": "Cloud storage startup Wasabi nabs $112M, plans new datacenters",
       "excerpt": "Cloud data storage company Wasabi today announced that it raised $112 million in series C financing, bringing its total raised to $219 million. The company says that the funding will be put toward expanding its network of resellers,",
@@ -1095,161 +1233,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-lyfts-sale-of-its-self-driving-tech-unit-to-toyota-for-550-million-moves-its-profit-timeline-up.md",
-      "title": "Lyft's sale of its self-driving tech unit to Toyota for $550 million moves its profit timeline up",
-      "excerpt": "The deal with Toyota's Woven Planet division will allow Lyft to hit its profitability target one quarter earlier, the company said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4",
-      "originalUrl": "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608731be3f0560001881c2a2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lyft-sells-self-driving-tech-unit-to-toyota-for-550-million-moves-up-profit-timeline-2021-4?amp",
-      "publishedDateTime": "2021-04-28T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-how-watson-assistant-helps-clients-stay-compliant-in-regulated-industries.md",
-      "title": "How Watson Assistant helps clients stay compliant in regulated industries",
-      "excerpt": "When selecting a conversational AI platform for use in a regulated industry, remember that cutting corners can have disastrous consequences. When virtual assistants aren’t developed and deployed with an eye toward regulatory compliance, customer experience will suffer. Even worse, your organization risks",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/watson-assistant-compliance-regulated-industries/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/watson-assistant-compliance-regulated-industries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC_48D_WA-_Managing_compliance_and_CX_in_regulated_industries_V2_2000x1006.png.png",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T06:00:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-the-current-state-of-the-healthcare-ai-revolution.md",
-      "title": "The Current State Of The Healthcare AI Revolution",
-      "excerpt": "With the global AI in healthcare market size expected to grow from just under $5 billion in 2020 to $45.2 billion by 2026, the investments and recent use cases for this technology are proof that AI is here to stay.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/28/the-current-state-of-the-healthcare-ai-revolution/amp/",
-      "publishedDateTime": "2021-04-28T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

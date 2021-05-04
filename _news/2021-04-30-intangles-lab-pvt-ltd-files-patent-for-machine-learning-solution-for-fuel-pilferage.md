@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/Articles/Business/20210429/37481
 webUrl: "https://news.webindia123.com/news/Articles/Business/20210429/3748195.html"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Intangles Lab Pvt. Ltd. files Patent for machine learning"
-    excerpt: "The patent covers the machine learning technology in Intangles fuel pilferage monitoring system that pinpoints the exact locations and quantities of fuel pilfe"
-    publishedDateTime: 2021-04-29T12:12:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269093480/intangles-lab-pvt-ltd-files-patent-for-machine-learning"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "GxluZivIRu5J9Fpnd7yfJnZfFA3SY8iNRlyXcA3Ey7U1+FrQ9p0mnqy10U4JxIjHn/0/A7tMtWeb+4E4IWf0R9nrSsh6rE1WtjXe4trv2YUFKMDv0HIxB3RDEK7apwmn0Zrlt0RjTtHE7CuHSsUSb2J5zKSfQ5NPwhuNCdtGZUVQJzuVZHnOZw+QfQSnI+zUtm0PtoyKCLrHkuQ8qSPhaOMS6dlypmE5ab7UrGXlMXcV28X4W/Ye1yrYGzHiaKvnmrZ16wkPqAZAgJL/61s9ok7+soADTtXGIgg0qjvqBBng6eywH7SDKs/MoUPi6avLKLHjde0/aKMILc65VheoNJNSCjMuXCHt7gS3szpU07k=;kjnnYSaWkuOiYt3YL45Gzw=="
 ---

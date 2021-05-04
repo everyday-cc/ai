@@ -63,17 +63,6 @@ related:
         width: 576
         height: 324
         isCached: true
-  - title: "Worldwide Big Data Software Industry to 2026 - Featuring AWS, Cloudera and IBM Among Others - ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global big data software market reached a value of US$ 142."
-    publishedDateTime: 2021-04-29T12:09:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/b20860635/worldwide-big-data-software-industry-to-2026-featuring-aws-cloudera-and-ibm-among-others-researcha"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20860635"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20860635"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
 
 secured: "tcQ8NmD3N7agKpw+v1g3JujXB8KBlV2Mkyd6CsSxjfRp0B9EFzPGg9Yz8EQpx4d8cilZXpU3sLLGWA45cMsMVKUCfJG6eyWQ1mHpXyrRD8/t1vfnF4ekikbIcuR9Ll7XWDIxYqHcVaocC8qJz9fqLKR7kN+kVs6+YW4Qnn/T4jFnfMR3nUjin8kRXp2n4gKwhGaDS42PH0KXSAMrWV3sF8ZcAhZC3C+glmNCq5PHGmZUWEAwmiHyDxjFt4fo0bfCE5dPZWOBPoQi6PqZAqUZZ1zZnYq7/OqBr7IcXuEBJe8b/AvH+YPCMYxmruhClQJJ71Bh8AYJnYo25MieaNJfgC/JFOu4ZRuJwgE5Xdo0nWw=;jecfuYJt472E51AHXBc/zQ=="
 ---

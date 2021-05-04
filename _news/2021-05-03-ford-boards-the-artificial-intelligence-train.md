@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial Intelligence can significantly improve Healthcare delivery"
-    excerpt: "Artificial Intelligence has brought a significant change in all the fields and its about time that medical prospects also inculcate AI to the best of its potential, says Suparna Systems, CEO, Satish Kumar."
-    publishedDateTime: 2021-04-29T12:14:00Z
-    webUrl: "https://www.business-standard.com/content/specials/artificial-intelligence-can-significantly-improve-healthcare-delivery-121042901089_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/specials/artificial-intelligence-can-significantly-improve-healthcare-delivery-121042901089_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/specials/artificial-intelligence-can-significantly-improve-healthcare-delivery-121042901089_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 74
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/29/full/1619698966-122.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "South and Central America Artificial Intelligence (AI) in Healthcare Market Future Prospects and Opportunity Assessment Upto 2027"
     excerpt: "The Business Market Insights provides you regional research analysis on South and Central America Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic"
     publishedDateTime: 2021-04-30T08:12:00Z

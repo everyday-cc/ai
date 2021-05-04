@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Self-driving cars coming to a slow lane near you, Government announces"
-    excerpt: "The UK Government has announced that it will be legal for motorists to go hands-free in self-driving cars later this year."
-    publishedDateTime: 2021-04-29T11:19:00Z
-    webUrl: "https://www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/"
-    ampWebUrl: "https://www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/self-driving-cars-coming-to-a-slow-lane-near-you-government-announces/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 44
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/04/GettyImages-168495211-ae2e539.gif?quality=90&crop=4px,51px,913px,393px&resize=960,413"
-        width: 960
-        height: 413
-        isCached: true
   - title: "With Lyft selling its self-driving division, the market will be dominated by a few rich companies"
     excerpt: "As the self-driving car industry shifts from hype to disillusionment, the market is slowly consolidating into a few very big players."
     publishedDateTime: 2021-05-01T14:40:00Z
