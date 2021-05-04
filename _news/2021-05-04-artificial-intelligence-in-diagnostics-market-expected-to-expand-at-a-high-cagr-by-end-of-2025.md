@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-04T01:01:00Z
 originalUrl: "https://menafn.com/1102016561/Artificial-Intelligence-In-Diagnostics-Market-Expected-to-Expand-at-a-High-CAGR-By-End-of-2025"
 webUrl: "https://menafn.com/1102016561/Artificial-Intelligence-In-Diagnostics-Market-Expected-to-Expand-at-a-High-CAGR-By-End-of-2025"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?501091"

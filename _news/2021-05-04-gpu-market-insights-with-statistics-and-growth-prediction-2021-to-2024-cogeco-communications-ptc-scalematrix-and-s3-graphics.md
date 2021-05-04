@@ -89,17 +89,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Global Workplace Services Market Report 2021: Integration of Artificial Intelligence (AI) to Revolutionize Workplace Services Business"
-    excerpt: "The \"Workplace Services Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Service Type, and Vertical,"
-    publishedDateTime: 2021-04-29T10:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/g20857902/global-workplace-services-market-report-2021-integration-of-artificial-intelligence-ai-to-revoluti"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20857902"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20857902"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
   - title: "Global Contact Center Intelligence Market 2021 Major Manufactures – AWS, Artificial Solutions, Avaya, Google"
     excerpt: "Global Contact Center Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comes as a handy source for readers, providing insight into sales, volumes, revenues in the Industry."
     publishedDateTime: 2021-05-03T10:22:00Z
@@ -161,6 +150,6 @@ related:
       domain: ksusentinel.com
     quality: 0
 
-secured: "EA5tzprmuxCwTyjujaQdloZg/d5OK+KVRcN2H6KlSvbFGU0mWgZoCjCXDHvjmvb2bCn5ddySeoZ0ibApz27Dvn6P+qHfsnGskZ4gAJEVxnBWQPIiAMVpV5RVithhU8j5ZW172caHvkQUhWD61AxK5TMzNNTdJHGZDABJs5ri2Kt3oBmXLrbbN9lKVyxTM97SqXK5peQkBBSEmmbUKGxzgNAe76/xRT8j9LJa91HUAgLs/m6ZIHHDGiza8VLPVDE72cPVOgombjdKn4s8wQ/J+myRrrLc8E2ZSAO9hust8bbOFEwD2F20rpSRJKnEtBhwlkIfIUU0dym9sI+YWS/pesqEWY1BZY9c8hzTj5ngYkk=;6+h3ZDXLPn7AJ8U9tAQ/dA=="
+secured: "PIldihpQUx3L0hdspHRdq9rXY2nzbTd0PszffxIPo4d0NDj3UE18Cpim5XDzyxB2OuDuhKc9IZXAF65q+u2mqs90fUbN1jzicgThgcRsBF2eOqPKBRrNNSvejfBKJIRpGZNrVVt6XkDqxIlG+cOPMzAfoc1tasHsv4R1DaRRp/HX4jMk90RxCjfKn53fmimORMUaR/2272HZn1t7EoDxqFH/41jEWf7iOMqZEgFOrOF3AcfVXf0J9wVpW638lHrNZfejg2lUNhSXPBDpvSozWgPbhBOGJ/2HY2t44z2a1Sk1SekgxETzcSAdctwuJ4aXGUh2cTWNWSne7OB7eHit0gurMCEO6tEuiUL1HoCEJWS3hsjrs8NMZrZkH2d8yzE/13ZCBBJA5JXOTtoMfYKIWUPqXqK3CE+kSCH5Qp/uklhaoQ8Sms5lq8BIWT5Jm0WhrWUa+BI3hFv9woll0G6auHtrgATi2uGviOtlJ5qw/szFdT405A9hZcZDbLLqEKIABdeLkS9WIBlmR6d3UohvUw==;ekrp2CtNFyuBQ38ts2V9og=="
 ---
 

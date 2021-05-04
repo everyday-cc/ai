@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -115,7 +115,7 @@
       "originalUrl": "https://thenextweb.com/news/a-scientist-created-emotion-recognition-ai-for-animals",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -553,19 +553,19 @@
     {
       "path": "_news/2021-04-26-apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale.md",
       "title": "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale",
-      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language",
+      "excerpt": "AppTek is trusted by some of the world's leading cloud and technology companies to power their conversational speech, text and image-based AI models through its managed data services program. To create the robust data sets required for these high-performing AI models,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale-301276928.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630",
-          "width": 880,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1496629/AppTek.jpg?p=facebook",
+          "width": 1614,
+          "height": 845,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -578,8 +578,8 @@
       "publishedDateTime": "2021-04-26T09:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -589,9 +589,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {

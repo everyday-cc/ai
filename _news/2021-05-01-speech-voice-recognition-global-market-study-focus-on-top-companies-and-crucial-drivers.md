@@ -69,6 +69,20 @@ related:
         width: 1066
         height: 600
         isCached: true
+  - title: "How one company built AI for staff retention"
+    excerpt: "Building artificial intelligence (AI) capabilities from the ground up can be daunting, but the analytics expertise of a University of Technology Sydney (UTS) team helped Australian HR software developer Elmo Software climb the steep learning curve to build AI that predicts when employees are likely to leave the company."
+    publishedDateTime: 2021-05-04T02:38:00Z
+    webUrl: "https://ia.acs.org.au/article/2021/how-one-company-built-ai-for-staff-retention.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 37
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/employee%20quitting.jpg"
+        width: 821
+        height: 462
+        isCached: true
 
 secured: "6apPGCcgZBhHmCl5QWIlTy+oizDebK81TbBVrjl7hL85a7olee+p7eZOI3+aLwYvovtZ17tDCBqUZ0X3ZlQBQV8LbRMD1c3/6oqYx/SekBt18Zo6Lb5Nl2QZEDlELGuEb5EP4Qvr1bwHErh5/BhGzznGRlC5daG/7hZOe0fBmLyWdQn3EeZd4MpffyJgXA7tCN2Lyw6v/jMfQVpPz5rEAS8A/OunnlRompSiSRdTw6YljinNHAkorEUHdyyUjC1MfG46R/2J7kxFn8G6gBGUYCP8+greNUSeuIetMNvFW5QZiftuOjLk816q3GW4Ym7euJIyBTyKdGIGdZVJjJMjtAfJKBDXZsc3g7uGompIKJ0=;mCAfVnxpZbbBwaIRtjZGug=="
 ---

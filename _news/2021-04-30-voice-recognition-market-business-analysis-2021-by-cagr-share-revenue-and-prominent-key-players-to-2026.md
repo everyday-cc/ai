@@ -89,17 +89,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Global Workplace Services Market Report 2021: Integration of Artificial Intelligence (AI) to Revolutionize Workplace Services Business"
-    excerpt: "The \"Workplace Services Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Service Type, and Vertical,"
-    publishedDateTime: 2021-04-29T10:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/g20857902/global-workplace-services-market-report-2021-integration-of-artificial-intelligence-ai-to-revoluti"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20857902"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20857902"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
   - title: "Global Contact Center Intelligence Market 2021 Major Manufactures – AWS, Artificial Solutions, Avaya, Google"
     excerpt: "Global Contact Center Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comes as a handy source for readers, providing insight into sales, volumes, revenues in the Industry."
     publishedDateTime: 2021-05-03T10:22:00Z

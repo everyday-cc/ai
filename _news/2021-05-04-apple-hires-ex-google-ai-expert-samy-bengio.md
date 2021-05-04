@@ -102,18 +102,52 @@ related:
         height: 628
         isCached: true
   - title: "Apple hires ex-Google AI scientist who resigned after colleagues' firings"
-    excerpt: "Apple Inc said on Monday it has hired former distinguished Google scientist Samy Bengio, who left the search giant amid turmoil in its artificial intelligence research department. Mr Bengio is expected to lead a new AI research unit at Apple under John Giannandrea,"
-    publishedDateTime: 2021-05-03T19:39:00Z
-    webUrl: "https://www.breakingnews.ie/business/update-1-apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings-1121211.html"
+    excerpt: "Samy Bengio is expected to lead a new AI research unit at Apple under John Giannandrea, senior vice president of machine learning and AI strategy."
+    publishedDateTime: 2021-05-04T03:17:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/articleshow/82381074.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/amp_articleshow/82381074.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings/amp_articleshow/82381074.cms"
     type: article
     provider:
-      name: BreakingNews.ie
-      domain: breakingnews.ie
-    quality: 38
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
     images:
-      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjFcXFwvMDRcXFwvMzAxMjIzMzJcXFwvMi42MTExNjc3LmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiN2NhYTY4ZTNhZWZhNDQ4NzhlMDYxZjIwZTBmMWRkZmY5OGM2YTNhOCJ9/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firings.jpg"
-        width: 1200
-        height: 627
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-253888,msid-82381084/file-photo-the-google-logo-is-displayed-outside-the-company-offices-in-new-york.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Apple hires ex-Google AI scientist Samy Bengio who resigned after colleagues' firings"
+    excerpt: "Bengio is expected to lead a new AI research unit at Apple under John Giannandrea, senior vice president of machine learning and AI strategy, two peop.."
+    publishedDateTime: 2021-05-04T03:16:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/apple-hires-ex-google-ai-scientist-samy-bengio-who-resigned-after-colleagues-firings/82381085"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/apple-hires-ex-google-ai-scientist-samy-bengio-who-resigned-after-colleagues-firings/82381085"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/apple-hires-ex-google-ai-scientist-samy-bengio-who-resigned-after-colleagues-firings/82381085"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 52
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-82381085,imgsize-59391,width-800,height-434,overlay-etcio/apple-hires-ex-google-ai-scientist-samy-bengio-who-resigned-after-colleagues-firings.jpg"
+        width: 800
+        height: 434
+        isCached: true
+  - title: "Apple Hires Ex-Google Artificial Intelligence Scientist Who Resigned After Colleagues' Firings"
+    excerpt: "Apple Inc said on Monday it has hired former distinguished Google scientist Samy Bengio, who left the search giant amid turmoil in its artificial intelligence research department."
+    publishedDateTime: 2021-05-04T03:30:00Z
+    webUrl: "https://www.ndtv.com/world-news/apple-hires-ex-google-artificial-intelligence-scientist-samy-bengio-who-resigned-after-colleagues-firings-2427545"
+    ampWebUrl: "https://www.ndtv.com/world-news/apple-hires-ex-google-artificial-intelligence-scientist-samy-bengio-who-resigned-after-colleagues-firings-2427545?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/apple-hires-ex-google-artificial-intelligence-scientist-samy-bengio-who-resigned-after-colleagues-firings-2427545?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 47
+    images:
+      - url: "https://c.ndtvimg.com/2021-04/o084hgn8_tim-cook-650_625x300_27_April_21.jpeg"
+        width: 650
+        height: 400
         isCached: true
 
 secured: "SXqBd+/rWj7Ki2tTQLDQX9A9PS5x9P/liWiRrVSyQ8o2Bp5j1VvpfZ/RySNEKVDulrHs3ZcR6m+EU89TSZyzZEuXfyYpFhtHgnxTvrlAICrPfw+qXNHXYk33CgKzGKyyv+7ZNGjIf6fHUm/bkCGpDNoPyR5ITPcqA13rUImQs5viowbH8ZrxQA56vi3CCKAD75SZIuyNKY8P8o0sIlaoR6+xgjG5WfcDZqYcDMslo+ovoWMQBRN+XLIixz8Fq27BymJyTn47kjDOBfAE1OX26pZUUJTXasUjR/rDLvfqycOTYA9+JYLOUtez1HcC7kNTtU+q7iFEkgq6dn1fH/L2/wN2mkA1shKtckvr3kIEUTTj+jsSazNpvhSw+R8/9C0KqXtc2cbcit1ETxIxANEaI4lOVPGIsQjexRLSPO5HuSMYMZtZpRzZxQ8BvkOPdwocVAR8v7MtSNQybszA+Nyic6OllY2GOefb/rFJst8OZHrWJlz5riWjtcSZ4wKhbTegPTDKOcwGJYjUHF9B5lNbGA==;2rjKMjYKAwoU7mcSpGV69g=="

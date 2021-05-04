@@ -39,20 +39,6 @@ related:
         width: 700
         height: 417
         isCached: true
-  - title: "FastMouse smart AI powered mouse allows you to use voice commands and dictate in over 100 languages"
-    excerpt: "If you are in the market for a compact, beginner friendly and affordable desktop CNC milling machine may be interested in the Comgrow ROBO which has"
-    publishedDateTime: 2021-04-29T09:55:00Z
-    webUrl: "https://www.geeky-gadgets.com/voice-mouse-29-04-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 25
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/04/voice-mouse-2021.jpg"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "7dm5xpY9UkS8qO/xtHsfsqPyN3ttA5OnHVRMPAvF5B1Flxq7RilpZSkFqxo1RaoYUEzIW576Gaa75/rNRkzlCJN+MwbjLp8DFUl2bZLu2UgnhH9APahAPAG8jnw3xsk/ui1TsVE5s3/aenhpzJtZJmrvFXsBdQst6JYo6ecO0oSSbgtcZUw+0fLHa9s5alB6ILE4SeICi404hbRF4rF5LiI39C8YqTG/5tBHSQftohJtCsTJpvKLfKyCr4GFAsCJuannvN590YYSEWBlyoZT+dmaGfDZ7qU01nFU7hS1wS6iRSPlZHndfddXrD47GrPPgfPBWr5tzFyFW33jzB0ImBM0/KtbHONltDtFClI8lW8=;8dCgyCrf0kT3jnCfgOzqZg=="
 ---

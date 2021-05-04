@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-22-9-investors-execs-and-founders-discuss-zagrebs-startup-potential.md",
+      "title": "9 investors, execs and founders discuss Zagreb’s startup potential",
+      "excerpt": "\"With the COVID-19 pandemic, it's easier to land remote jobs and stay in Zagreb, which will positively impact the Croatian startup ecosystem.\"",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/",
+      "originalUrl": "https://techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-513919973.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/amp/",
+      "publishedDateTime": "2021-04-21T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-members-of-googles-ethical-ai-team-reportedly-complained-about-harassment-and-bias-years-before-being-fired.md",
       "title": "Members of Google's ethical AI team reportedly complained about harassment and bias years before being fired",
       "excerpt": "Two of Google's most high-profile AI researchers reportedly raised concerns around bias, sexual harassment, and bullying before they were ousted.",
@@ -1121,50 +1172,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way.md",
-      "title": "Black Lives Matter could change facial recognition forever - if big tech doesn't stand in the way",
-      "excerpt": "Thailand's most updated English news website, thai news, thailand news, Bangkok thailand, aec,newspaper english, breaking news : The Nation",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationthailand.com/tech/30389554",
-      "originalUrl": "https://www.nationthailand.com/tech/30389554",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nationthailand.com/images/news/2020/06/13/30389554/800_dea51fcd7652ca1.jpg?v=1592029222",
-          "width": 675,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nationthailand",
-        "domain": "nationthailand.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

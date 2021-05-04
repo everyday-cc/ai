@@ -25,51 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "Gnarly Skateboarders Trying Dangerously To Hitch A Ride On Self-Driving Cars"
-    excerpt: "Skateboarders sometimes try to do bumper hitching, which is dangerous and should not be done, but the question is how will self-driving cars deal with those gnarly riders."
-    publishedDateTime: 2021-05-01T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/"
+  - title: "Elon Musk Shares Painfully Obvious Idea About the Difficulty of Self-Driving Cars"
+    excerpt: "Elon Musk, one of the wealthiest people on the planet, sent a tweet Thursday night about the real problem with self-driving cars. And as you can probably guess by now, it’s one of those things that sounds profound until you stop to think about it for three seconds."
+    publishedDateTime: 2021-04-30T15:00:00Z
+    webUrl: "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236"
+    ampWebUrl: "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 84
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b3cbc04d846306ea674dc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2275%26cropY1%3D0%26cropY2%3D1279"
-        width: 1200
-        height: 675
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/22f3a11838a74d9511c1a95958c0284f.jpg"
+        width: 800
+        height: 449
         isCached: true
-  - title: "Hyperdrive Daily: The Self-Driving Car Race Hardly Matters"
-    excerpt: "Welcome to the Hyperdrive daily briefing, decoding the revolution  reshaping the auto world, from EVs to self-driving cars and beyond."
-    publishedDateTime: 2021-04-30T11:31:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-04-30/hyperdrive-daily-the-self-driving-car-race-hardly-matters"
+  - title: "Elon Musk hypes Tesla Full Self-Driving Beta driving visualizations with new update"
+    excerpt: "Elon Musk is still hyping the upcoming release of Tesla’s Full Self-Driving beta and now claims that Tesla Autopilot/Full Self-Driving Beta are already ‘superhuman’ on the highway and getting close on city streets."
+    publishedDateTime: 2021-04-30T00:27:00Z
+    webUrl: "https://electrek.co/2021/04/29/elon-musk-hypes-tesla-full-self-driving-beta-driving-visualization-new-update/"
+    ampWebUrl: "https://electrek.co/2021/04/29/elon-musk-hypes-tesla-full-self-driving-beta-driving-visualization-new-update/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/29/elon-musk-hypes-tesla-full-self-driving-beta-driving-visualization-new-update/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: Electrek
+      domain: electrek.co
+    quality: 83
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWE7ospu7tSc/v0/1200x800.jpg"
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 800
+        height: 628
         isCached: true
-  - title: "Self-Driving Cars To Conveniently Haul Fancy Stores To Your Doorstep For Your Shopping Delight"
-    excerpt: "Self-driving cars will be used to haul around mobile stores, bringing the shops to your doorstep, which is quite convenient though presents some hefty challenges for AI."
-    publishedDateTime: 2021-04-29T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/29/self-driving-cars-to-conveniently-haul-fancy-stores-to-your-doorstep-for-your-shopping-delight/amp/"
+  - title: "Tesla’s Elon Musk on why self-driving cars are not mainstream yet"
+    excerpt: "Tesla CEO Elon Musk is giving a fresh update on his prediction for when self-driving cars will dominate the road."
+    publishedDateTime: 2021-04-30T16:57:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet"
+    ampWebUrl: "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606252c768cbbbf4ea56d79e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2460%26cropY1%3D124%26cropY2%3D1508"
-        width: 1200
-        height: 675
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/354b3471-ec18-4e0d-adf1-b9f9b9657488/c4e9132a-a8aa-4fdc-bdb0-496e44323a6b/1280x720/match/image.jpg?pubId=854081161001"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Self-Driving Cars: Can They Be Brought onto the Roads Safely?"
+    excerpt: "Can They Be Brought onto the Roads Safely? By shruthi sethu - One can also teach self-driving cars how to follow the highway code. This necessitates dissecting each rule in the"
+    publishedDateTime: 2021-04-30T11:18:00Z
+    webUrl: "https://www.cioreview.com/cioviewpoint/selfdriving-cars-can-they-be-brought-onto-the-roads-safely-nid-33447-cid-246.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/newsimages/705x485_4to2wNG3.jpg"
+        width: 705
+        height: 485
         isCached: true
 
 secured: "sIWFJXW6qKMoMWNXjNsYu6q5eO6snDmGX+SJRwAQdh4CEZPg4JbqOyklVWIqVp1viO8Y4m2kXqc+87Uofl2uKH/gs25Zt52KGIBYIO+aGYLBQObzEqFjdi6jLPo7/z+nv3xAdUfOdFE0QK1wKISWR/9rQWrG24ZwX9r+iJCg6bFyDwhytuSolQKSQ1tg6/7+hp5A4PTUqmG/gPN7/3x8+iMX6SczGZ8arVWYHcCH4N8UUJs/61uBYc66XBI3BnvRBqppSr9uFpGAxJ9xCiIbB8HEwrhcZTlQ4xmtB/OYdltqMxQD+INNvpWAccYlrKlN8rwR5sWqNpiuU/BayCjkH2pxSAZPhpDJKIFj/s2xkbs=;AtJ0Rq0IftCDSUvUOPQyyw=="

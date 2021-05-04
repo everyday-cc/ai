@@ -103,17 +103,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Global Workplace Services Market Report 2021: Integration of Artificial Intelligence (AI) to Revolutionize Workplace Services Business"
-    excerpt: "The \"Workplace Services Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Service Type, and Vertical,"
-    publishedDateTime: 2021-04-29T10:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/g20857902/global-workplace-services-market-report-2021-integration-of-artificial-intelligence-ai-to-revoluti"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20857902"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20857902"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
   - title: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights"
     excerpt: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights Posted on May 3 2021 5:25 AM Some of the key players in the military robots market such as Northrop Grumman Corporation (The U."
     publishedDateTime: 2021-05-03T08:52:00Z

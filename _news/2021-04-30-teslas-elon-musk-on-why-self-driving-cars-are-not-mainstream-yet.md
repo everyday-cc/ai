@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk: Tesla’s next Full Self-Driving Beta update ‘will blow your mind’"
-    excerpt: "Elon Musk now says that Tesla’s next Full Self-Driving Beta software update ‘will blow your mind’ and it’s only about two weeks away. Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through what it calls its “early access program”."
-    publishedDateTime: 2021-04-29T10:02:00Z
-    webUrl: "https://electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/"
-    ampWebUrl: "https://electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk Shares Painfully Obvious Idea About the Difficulty of Self-Driving Cars"
     excerpt: "Elon Musk, one of the wealthiest people on the planet, sent a tweet Thursday night about the real problem with self-driving cars. And as you can probably guess by now, it’s one of those things that sounds profound until you stop to think about it for three seconds."
     publishedDateTime: 2021-04-30T15:00:00Z
@@ -75,53 +59,33 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Volkswagen Will Develop In-House Self-Driving Chip to Compete With Tesla, Apple"
-    excerpt: "Although Tesla’s expensive and strictly in-house developed autonomous driving software has a long way to go to actually achieve self-driving, its German rival Volkswagen is going down the same path to build its own driverless capabilities."
-    publishedDateTime: 2021-04-30T20:13:00Z
-    webUrl: "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/"
-    ampWebUrl: "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/"
+  - title: "Self-Driving Cars: Can They Be Brought onto the Roads Safely?"
+    excerpt: "Can They Be Brought onto the Roads Safely? By shruthi sethu - One can also teach self-driving cars how to follow the highway code. This necessitates dissecting each rule in the"
+    publishedDateTime: 2021-04-30T11:18:00Z
+    webUrl: "https://www.cioreview.com/cioviewpoint/selfdriving-cars-can-they-be-brought-onto-the-roads-safely-nid-33447-cid-246.html"
     type: article
     provider:
-      name: Observer
-      domain: observer.com
-    quality: 72
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
     images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2021/04/GettyImages-1208585546.jpeg?quality=80&strip"
-        width: 6240
-        height: 4160
+      - url: "https://www.cioreview.com/newsimages/705x485_4to2wNG3.jpg"
+        width: 705
+        height: 485
         isCached: true
-  - title: "Elon Musk says new Tesla self-driving update is ‘superhuman’ — here’s why"
-    excerpt: "Elon Musk has been taking up the upcoming debuts of the Tesla Full Self-Driving beta, claiming that the tech is “superhuman” when it comes to driving on highways and “swiftly getting there for city streets."
-    publishedDateTime: 2021-04-30T18:27:00Z
-    webUrl: "https://www.tomsguide.com/news/elon-musk-says-new-tesla-self-driving-update-is-superhuman-heres-why"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/elon-musk-says-new-tesla-self-driving-update-is-superhuman-heres-why"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/elon-musk-says-new-tesla-self-driving-update-is-superhuman-heres-why"
+  - title: "Why fully self-driving cars on UK roads might be further away than you think"
+    excerpt: "The Government claims that cars with a form of technology considered legally self-driving could hit British roads by the end of the year, but truly autonomous vehicles are still some way off, finds Rh"
+    publishedDateTime: 2021-05-01T08:47:00Z
+    webUrl: "https://inews.co.uk/news/technology/uk-road-fully-self-driving-cars-2021-alks-system-autonomous-vehicle-981065"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 58
+      name: i
+      domain: inews.co.uk
+    quality: 21
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2wPjrnMvWcqe6ddLfVbevF-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Next full self-driving Beta update will 'blow your mind': Elon Musk"
-    excerpt: "The update has been delayed several times in the past but Musk says that Tesla is almost there with the new update."
-    publishedDateTime: 2021-04-30T07:40:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/next-full-self-driving-beta-update-will-blow-your-mind-elon-musk-41619765375048.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/next-full-self-driving-beta-update-will-blow-your-mind-elon-musk/amp-41619765375048.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/next-full-self-driving-beta-update-will-blow-your-mind-elon-musk/amp-41619765375048.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/04/30/600x338/2021-03-15T124301Z_688123841_RC2OBM9CQVY5_RTRMADP_3_TESLA-MUSK_1619693514844_1619768295465.JPG"
-        width: 600
-        height: 337
+      - url: "https://i.inews.co.uk/content/uploads/2021/04/SEI_76426762.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "ZtZAOJwHLV9VA+BXuQNXnp+7ZStBs2TQOo9NPSHeTgsDnO0Rs/DsTG620AMZP9frGj0jwpHtJsCTKvL6VA37NRZpZB/5fyWCHCipop4k9aH11OUJnhy6RolkVbC9BgZfScx5T3VQ4RCE6wyYOV1kdEQSV2gLOPVO4anzLBvr+T6MScGTFZEkjvVeg4YXbldYn9JQTkEkP0efh26SB/u/8keSWSBCz9GXSuMfDPHOga+HVlBe/w0SyLNnBc5XaZgPtDelRl2zCT+jmkwnjrDN3GnqK/Cnxs8gDPthsFQHWVgMHHRyIk8qtzcDR+/nreRFEwxDxMzbDMv28q0F7R6k1JQogGWV4eCKPfX4A4N7dzR9Y+okJK4aEYMz6jUEDJneI843KIznlETItuEyst5HNhdwFzXvDj/Tb/il7LzBo0rfITT4vNv79cK4YZIdx4OrLMxuXWjrOwuAd9Qz7V6OUuJ42mENGaal5mexBug4DsOyU3vRxv5Cb3D6J/o68hHemMNhb4SEHW9RQcclBiy0bQ==;32EsVsaaVv1eKmJkOqPb6g=="

@@ -2,6 +2,40 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-03-20-teslas-fully-self-driving-beta-would-fail-a-drivers-license-test.md",
+      "title": "Tesla’s “Fully Self Driving” Beta Would Fail A Driver’s License Test",
+      "excerpt": "YouTuber AI Addict posted a video of a drive through downtown San Jose in a Tesla Model 3 using the company’s “Full Self Driving” (FSD) Beta, according to Road and Track. In it, the semi ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/teslas-autopilot-beta-would-fail-drivers-license-test",
+      "originalUrl": "https://futurism.com/the-byte/teslas-autopilot-beta-would-fail-drivers-license-test",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/teslas-autopilot-beta-would-fail-drivers-license-test/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/teslas-autopilot-beta-would-fail-drivers-license-test/amp",
+      "publishedDateTime": "2021-03-20T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube.md",
       "title": "Help for Kids Falling Behind in Math—From AI-Powered Apps, Games and Even YouTube",
       "excerpt": "There is hope for parents during remote and hybrid learning in the form of problem solvers and virtual tutors.",
@@ -890,40 +924,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-scotland-uk-governments-tackle-biometrics-ethics-with-new-commissioners-report.md",
-      "title": "Scotland, UK governments tackle biometrics ethics with new Commissioners, report",
-      "excerpt": "Dr. Brian Plastow named the first Biometrics Commissioner for Scotland. UK Biometrics and Forensics Ethics Group releases annual report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202103/scotland-uk-governments-tackle-biometrics-ethics-with-new-commissioners-report",
-      "originalUrl": "https://www.biometricupdate.com/202103/scotland-uk-governments-tackle-biometrics-ethics-with-new-commissioners-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

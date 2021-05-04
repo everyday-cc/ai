@@ -2,6 +2,50 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-20-carnegie-learning-acquires-zorbits-math-to-strengthen-its-supplemental-software-offerings.md",
+      "title": "Carnegie Learning Acquires Zorbit's Math to Strengthen Its Supplemental Software Offerings",
+      "excerpt": "Carnegie Learning, a leader in artificial intelligence for education and formative assessment, announced today the acquisition of Zorbit's Math, a supplemental math software solution and curriculum that uses game-based adaptive learning to",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19757125.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19757125.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-autoshow-baidu-expects-to-supply-self-driving-system-to-1-mln-cars-in-3-5-years.md",
       "title": "AUTOSHOW-Baidu expects to supply self-driving system to 1 mln cars in 3-5 years",
       "excerpt": "SHANGHAI, April 19 (Reuters) - Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice ...",
@@ -1086,50 +1130,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-how-to-sharpen-machine-learning-with-smarter-management-of-edge-cases.md",
-      "title": "How to sharpen machine learning with smarter management of edge cases",
-      "excerpt": "Machine learning (ML) applications are transforming business strategy, popping up in every vertical and niche to convert huge datasets into valuable predictions that guide executives to make better business decisions, seize opportunities, and spot and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/how-sharpen-machine-learning-with-smarter-management-edge-cases-123494788/",
-      "originalUrl": "https://www.information-age.com/how-sharpen-machine-learning-with-smarter-management-edge-cases-123494788/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/04/how-sharpen-machine-learning-with-smarter-management-edge-cases.jpeg",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

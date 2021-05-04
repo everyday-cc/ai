@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/269093480/intangles-lab-pvt-lt
 webUrl: "https://www.bignewsnetwork.com/news/269093480/intangles-lab-pvt-ltd-files-patent-for-machine-learning"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intangles Lab Pvt. Ltd. files Patent for machine learning solution for fuel pilferage"
-    excerpt: "Intangles Lab, a leading digital twin solutions provider, announced today that it has filed a patent with the Indian Patent Office for Methods and Systems for Sub-Resolution Measurements in Fuel"
-    publishedDateTime: 2021-04-29T11:01:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-121042900924_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-121042900924_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/intangles-lab-pvt-ltd-files-patent-for-machine-learning-solution-for-fuel-pilferage-121042900924_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 52
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/29/full/20210429145104.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Intangles Lab Pvt. Ltd. files Patent for machine learning solution for fuel pilferage"
     excerpt: "Intangles Lab, a leading digital twin solutions provider, announced today that it has filed a patent with the Indian Patent Office for Methods and Systems for Sub-Resolution Measurements in Fuel Tanks,"
     publishedDateTime: 2021-04-29T21:44:00Z

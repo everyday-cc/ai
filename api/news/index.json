@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -400,58 +400,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-03-the-station-lyft-sells-its-self-driving-unit-uber-makes-a-big-product-push-and-revel-jumps-into-ride-hailing.md",
-      "title": "The Station: Lyft sells its self-driving unit, Uber makes a big product push and Revel jumps into ride-hailing",
-      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi there, new and returning readers. This is The Station,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/03/the-station-lyft-sells-its-self-driving-unit-uber-makes-a-big-product-push-and-revel-jumps-into-ride-hailing/",
-      "originalUrl": "https://techcrunch.com/2021/05/03/the-station-lyft-sells-its-self-driving-unit-uber-makes-a-big-product-push-and-revel-jumps-into-ride-hailing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/IMG_6107.jpeg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/03/the-station-lyft-sells-its-self-driving-unit-uber-makes-a-big-product-push-and-revel-jumps-into-ride-hailing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/03/the-station-lyft-sells-its-self-driving-unit-uber-makes-a-big-product-push-and-revel-jumps-into-ride-hailing/amp/",
-      "publishedDateTime": "2021-05-03T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-03-yandex-self-driving-group-clocks-7-million-autonomous-miles.md",
       "title": "Yandex Self-Driving Group Clocks 7 Million Autonomous Miles",
       "excerpt": "Yandex Self-Driving Group has driven seven million autonomous miles (11.5 million kilometers) since the team was founded in 2017, more than any other company has announced, save for Alphabet’s Waymo.",
@@ -512,7 +460,7 @@
       "originalUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -564,7 +512,7 @@
       "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1232,6 +1180,59 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars.md",
+      "title": "Gnarly Skateboarders Trying Dangerously To Hitch A Ride On Self-Driving Cars",
+      "excerpt": "Skateboarders sometimes try to do bumper hitching, which is dangerous and should not be done, but the question is how will self-driving cars deal with those gnarly riders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b3cbc04d846306ea674dc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2275%26cropY1%3D0%26cropY2%3D1279",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/",
+      "publishedDateTime": "2021-05-01T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

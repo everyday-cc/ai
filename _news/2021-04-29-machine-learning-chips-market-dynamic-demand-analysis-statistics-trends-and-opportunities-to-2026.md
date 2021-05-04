@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2277615/machine-learning-chips-market-dyn
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis"
 type: article
 quality: 61
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fashion Market Report 2021 (COVID-19 Analysis) Worldwide Market Trends, Opportunities and Forecast to 2026"
-    excerpt: "The AI in Fashion report actively includes insightful aspects relating to product innovations acquisitions and trends intended to assist market players shareholders and investors in making strategic decisions The report further breaks down the analysis for the major countries in"
-    publishedDateTime: 2021-04-29T09:27:00Z
-    webUrl: "https://www.openpr.com/news/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
-    ampWebUrl: "https://www.openpr.com/amp/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
-    images:
-      - url: "https://cdn.openpr.com/U/4/U429742956_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Global Deep Learning System Software Market Innovations, Trades, Growth Trends And Forecast 2028"
     excerpt: "The ‘Global Deep Learning System Software Market’ research report Published by the Market Research Inc, is an in-depth analysis of the latest developments, market size, status, upcoming technologies,"
     publishedDateTime: 2021-05-03T15:52:00Z

@@ -41,22 +41,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "AI in Fashion Market Report 2021 (COVID-19 Analysis) Worldwide Market Trends, Opportunities and Forecast to 2026"
-    excerpt: "The AI in Fashion report actively includes insightful aspects relating to product innovations acquisitions and trends intended to assist market players shareholders and investors in making strategic decisions The report further breaks down the analysis for the major countries in"
-    publishedDateTime: 2021-04-29T09:27:00Z
-    webUrl: "https://www.openpr.com/news/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
-    ampWebUrl: "https://www.openpr.com/amp/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277336/ai-in-fashion-market-report-2021-covid-19-analysis-worldwide"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
-    images:
-      - url: "https://cdn.openpr.com/U/4/U429742956_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Deep Learning Chipset Market Key Trends And Opportunity Areas |NVIDIA, Intel, IBM, Qualcomm, CEVA, etc"
     excerpt: "Key Growth Factors & Challenges, Segmentation & Regional Outlook, Top Industry Trends & Opportunities, Competition Analysis, COVID-19 Impact Analysis & Projected Recovery, and Market Sizing & Forecast."
     publishedDateTime: 2021-05-03T12:50:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/translate-all-automa
 webUrl: "https://aws.amazon.com/blogs/machine-learning/translate-all-automating-multiple-file-type-batch-translation-with-aws-cloudformation/"
 type: article
 quality: 98
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 768
     height: 385
     isCached: true
-
-related:
-  - title: "Tilde Launches a Translation Platform for Companies and Translators"
-    excerpt: "The new release of Tilde MT platform focuses on maximizing translation efficiency for translators, language service providers and small and large companies with the latest AI solutions. It includes secure translation UI,"
-    publishedDateTime: 2021-04-29T10:08:00Z
-    webUrl: "https://slator.com/press-releases/tilde-launches-a-translation-platform-for-companies-and-translators/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 24
-    images:
-      - url: "https://slator.com/assets/2021/04/Tilde-MT-Platform.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "bgX//l/l9XC8KwJ8fzLVA7b3ROULORCZMiKUmihhFanmvqmptqSFUWxwy3SXOTP1mu7rS36sCtS4uCT70wxAexChRoPLILmS7gXOT12okV4Xd4raRofW9GlX2XLxJLYUImxIJqH0iFINckqU6NW6KWIyje6B2sKXGxMnKHe1wx9iliLRI/ZaXx3tnNiLoeB3l28d8Dh2n4tqTG1gAXaK588Rh/bHOMF+TokHqhLUuuAP115RQxAIFnfHcMrlFzWAyIGVyUpgZsE+q74UM0GJPPvsOQyEiTmKfzfMZqLWZtyzFBCNKTsQ8iI6p3Q8btvO9BNyo3GDlY3H63Gbu692Vtw26RoVxcDevsGcLZlAbp8=;bl16oT3fYjWs/xtNaA+0Hw=="
 ---

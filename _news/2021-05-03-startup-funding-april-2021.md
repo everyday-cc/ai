@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/startup-funding-april-2021/"
 webUrl: "https://semiengineering.com/startup-funding-april-2021/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 679
     height: 611
     isCached: true
-
-related:
-  - title: "IoT, AI and Automation – April 2021"
-    excerpt: "At the heart of the development of AI appears to be a search for perfection. And it could be just as dangerous to humanity as the one that came from philosophical and pseudoscientific ideas of the 19th and early 20th centuries and led to the horrors of colonialism,"
-    publishedDateTime: 2021-04-29T10:44:00Z
-    webUrl: "https://business-reporter.co.uk/the-future-of-iot-ai-and-automation-april-2021/"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 41
-    images:
-      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/04/iStock-1220971882.jpg"
-        width: 1281
-        height: 818
-        isCached: true
 
 secured: "oX9o+oGtrNiNyu/Xnd8ot2+Pkrsh5NBI++csoiXTzuN/OqdnoiIK3usy10v3UgASE1n/Yich9eUgun0tbUTS9w2eari84zGQSqU8c3mzc3MbB/xBZEMd+x5GpmjvxJKVs4FHe8fRrQOWkCHc0VPlvXMVP4KBVD4BYtH9sDs8hHeLx954WmnuoOwyFtlBQFyNYP9js0mcVygjLHujjwZRq44nUa7FjY8lgTZhilAQTxyY+ThujO5MnIBEA1dd00WHT7MYD3mTWMyKHTos+vDvg3JGcvoQr6comriBLHphrkCQ2+JjxZpB990xj/oDPjsUc07HwOZAyEK+kffOn8mG4wmsVpk4TJSE/stOPuZkKcvq1tz0mSRPHUX9qBPx4jff1grdfao1c1huqvY57CieVKHwI1KoHk9ne/e7zGpwjjrp/ZbxLESbmxD4PArCDkuhLdcwoIGQFhMC2rFWsnqvcXfpBAhUJVUPYmt4sgdHOyEf4RVJe9U3nwd6XdFaDqBXB0cbDitdyK0nh4rqUlJtRQ==;mJLZtWQ/409kX+SveuF4UA=="
 ---
