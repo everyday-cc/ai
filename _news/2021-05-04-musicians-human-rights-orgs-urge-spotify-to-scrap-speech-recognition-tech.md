@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Musicians Ask Spotify to Promise It'll Never Use Its Creepy Speech-Recognition Patent"
+    excerpt: "Acoalition of more than 180 artists and human rights organizations has written Spotify a letter asking the company to publicly commit to abandoning its patented dystopian speech-recognition tech."
+    publishedDateTime: 2021-05-05T03:00:00Z
+    webUrl: "https://gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558"
+    ampWebUrl: "https://gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/de713433904ddf5ecc22008a805a49b8.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Spotify urged to rule out 'invasive' voice recognition tech"
     excerpt: "A coalition of musicians and human rights groups urged music streaming company Spotify on Tuesday to rule out possible use of a speech recognition tool it recently developed to suggest songs ..."
     publishedDateTime: 2021-05-04T15:42:00Z
@@ -56,6 +72,20 @@ related:
       - url: "https://smartcdn.prod.postmedia.digital/torontosun/wp-content/uploads/2021/02/SPOTIFY-scaled-e1613145141688.jpg?quality=100&strip=all"
         width: 2252
         height: 1689
+        isCached: true
+  - title: "Spotify urged to rule out ‘invasive’ voice recognition tech"
+    excerpt: "A coalition of musicians and human rights groups urged music streaming company Spotify on May 4 to rule out possible use of a speech recognition tool it recently developed to suggest songs – describing the technology as “creepy” and “invasive”."
+    publishedDateTime: 2021-05-05T03:32:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/05/05/spotify-urged-to-rule-out-invasive-voice-recognition-tech"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/05/05/1137699.jpg"
+        width: 1240
+        height: 826
         isCached: true
 
 secured: "3zs+Ybo0vEdlllpTs3jI4+xYrx25pzQ/IymKlEdPVWTqqdyB1K5n7LT2EtS1e5cqtQnIwhjQ7ehyg726mDgABxOeaxvWE9PJzNv3h6L4ugvqJp23jSd9WBCNJbkK0GPJHJE5ZCH9ofoMfyWn1kwx5QFFKjfyZEOtChEz9G0rmPxp61Vh853Jf50tAxiMFoLru6i03EfXq5coHenCNCV3mPXUdWjDYGt5XsL0NJjPeU3LLPQHF8WmQhqnig3e7h8vBas2uHwbPZz9lAnyiJAcIxNxDr4zJnh9d3XkUfrneHiC92TZkRnd/2BzRuw34vfXMzCYUlX/IdCLmMz0fxAXO/SgyRKcktQCw5X3Hos9FgH1hN9trFxrtihubIgkLJI2iyQpKWUcxJNOGhFuZiOEAbi+Nq4sbLunazMz7JwjsMy//5DpKq0UUcrj0+k1yRGXPD1OWyLN7ohhTq7TtKekmJTxUdZ1Im4a5VvfqXrNAVC1MIPY2aEAX2s/+tMuJw42+VEDXnrv85+mZcKYxR9iUw==;SRIwB9wMZfq35137cPTWew=="

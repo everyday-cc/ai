@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-04-12-microsofts-20-billion-ai-deal-will-shake-up-how-we-work.md",
+      "title": "Microsoft’s $20 Billion AI Deal Will Shake Up How We Work",
+      "excerpt": "The technology giant’s purchase of voice-recognition and AI specialist Nuance Communications puts it at the forefront of the next big wave of workplace innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-04-12/microsoft-s-20-billion-ai-deal-for-nuance-will-disrupt-the-future-of-work",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-04-12/microsoft-s-20-billion-ai-deal-for-nuance-will-disrupt-the-future-of-work",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBD4PW0rLEwQ/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution.md",
       "title": "‘AI needs 5G’: NVIDIA launches converged, AI-on-5G solution",
       "excerpt": "This is a 5G-connected data center on a card’ NVIDIA’s GPU Technology Conference kicks off today, and the company’s headlining announcements include the launch of its Arial A100 AI-on-5G products. According to Ronnie Vasishta,",
@@ -1055,49 +1107,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-this-fintech-has-already-tripled-in-2021-heres-why.md",
-      "title": "This Fintech Has Already Tripled in 2021 -- Here's Why",
-      "excerpt": "Fintech lender Upstart Holdings (NASDAQ:UPST) has only been a publicly traded company for a few months, but its performance has been nothing short of stunning. So far in 2021, the",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/11/this-fintech-has-already-tripled-in-2021-heres-why/",
-      "publishedDateTime": "2021-04-11T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

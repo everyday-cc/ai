@@ -6,6 +6,9 @@ publishedDateTime: 2021-05-04T21:54:00Z
 originalUrl: "https://www.telecompetitor.com/verizon-healthcare-initiatives-tap-private-5g-private-mec-ai-slicing/"
 webUrl: "https://www.telecompetitor.com/verizon-healthcare-initiatives-tap-private-5g-private-mec-ai-slicing/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: OTT

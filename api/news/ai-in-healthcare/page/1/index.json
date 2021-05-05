@@ -62,7 +62,7 @@
       "originalUrl": "https://www.openpr.com/news/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -238,10 +238,10 @@
     {
       "path": "_news/2021-04-29-artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing.md",
       "title": "Artificial Intelligence helps IVF patients avoid invasive embryo genetic testing",
-      "excerpt": "Life Whisperer, the fertility arm of AI healthcare company Presagen, has made a significant breakthrough in using",
+      "excerpt": "Stock quotes by finanzen.net SAN FRANCISCO, April 29, 2021 /PRNewswire/ -- Life Whisperer, the fertility arm of AI healthcare company Presagen, has made a significant breakthrough in using artificial intelligence to non-invasively help embryologists rank and select genetically healthy embryos in IVF.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/04/n20859826/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/n20859826/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing-1030364367",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing-1030364367",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -249,14 +249,23 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20859826",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20859826",
-      "publishedDateTime": "2021-04-29T04:47:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T06:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

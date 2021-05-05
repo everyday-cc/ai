@@ -2,19 +2,46 @@
 category: news
 title: "Anyone can use this powerful facial-recognition tool — and that's a problem"
 excerpt: "You probably haven't seen PimEyes, a mysterious facial-recognition search engine, but it may have spotted you."
-publishedDateTime: 2021-05-04T19:47:00Z
-originalUrl: "https://www.kmov.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_c709ac57-0918-5c11-87b7-c79dd90163b8.html"
-webUrl: "https://www.kmov.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_c709ac57-0918-5c11-87b7-c79dd90163b8.html"
+publishedDateTime: 2021-05-04T19:51:00Z
+originalUrl: "https://www.kctv5.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_edf49704-f7bd-5266-9009-4647981629f7.html"
+webUrl: "https://www.kctv5.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_edf49704-f7bd-5266-9009-4647981629f7.html"
+ampWebUrl: "https://www.kctv5.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_edf49704-f7bd-5266-9009-4647981629f7.amp.html"
+cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_edf49704-f7bd-5266-9009-4647981629f7.amp.html"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
-  name: KMOV
-  domain: kmov.com
+  name: KCTV News
+  domain: kctv5.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "HNNjbgFe8lT4LcLV3eaRPgGfSnLrNrwgs9bjcgfEhNwZsZNZB7NNhVVrwTWaIhBbRc1uJm/9Qnswdb4Q/ZuEO9YzXaJuD+ti7hfGX/dHKBw7qNXYentvx7z/t892b1cCY0c/aw0aPOCuoyWOczZCeJUY87+PNjbImnvrR8NHLohzeMPhc5YKpBcEyuAPNqsTDtQ1iCA72xo+gP6u6QTV4ii8Wty3x1Y0G4mJHFN+ZYDMLPaufuveZ8SmvWj2Qnb6rfm1p53OY3/xiBgudr0Wb5CnBd+554YK+zh68jf/EUai0Jsl69ucfSUfeDQZirRt1MwytOZuJXmtpmn41OL/VW8x5aTvgeCvPVMA8k6eCCMVfVZ1MaDqDt651bd1OH8ZVnyZ21rlBUlZxPYqLpt2ODfbJn9HmnkmA+kvsFB3BtAqSyHZDEW1Vibd5+dc8YcjIKh61REvro+ENwcRlah4Y5gXcQvWxlrfIPH2LORzcb6M5g3gkyvqLZ02VuB6j5/Nlv1odvoetaZT01f3zx2Axw==;GuLBorWHTkIeaZcI+mmwHg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/f/eb/feb4f981-318b-5ef3-bd61-4051cf8a391d/5ec3b52cd52ef.image.jpg?resize=1024%2C576"
+    width: 1024
+    height: 576
+    isCached: true
+
+related:
+  - title: "Are You Feeding a Powerful Facial Recognition Algorithm?"
+    excerpt: "Facial recognition technology has great potential to help law enforcement identify suspects. But collecting and storing data from online photos has raised concern among critics. Are You Feeding a Powerful Facial Recognition Algorithm?"
+    publishedDateTime: 2021-04-30T18:00:00Z
+    webUrl: "https://www.pbs.org/wgbh/nova/video/feeding-powerful-facial-recognition-algorithm/"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 39
+    images:
+      - url: "https://www.pbs.org/wgbh/nova/media/original_images/are-you-feeding-a-powerful-facial-recognition-algorithm-hero.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "P/FqPy4E6oI7l/eR/kKGj0e77yyhDZxv0tbUUbRmFTgZpfmZwDYIr8FWabwnXr1UI1dkBXRDcwG6CTB4NPvyD/0QjlI/i1c1BNAnTaaI+iejvIbGljRXePjWaLxGEkpcXjCamxl6nC7uOAJtVpmT2btt5tJppRy1S42WMa8A5uj5IARdwD+eNbIQfNetz/kVQdM2wkWsEPKSb6FJPG99FMhur1fqhzIgYEwT/pTT0YOfQY+3KKj7xEcYmTCHBfuAcH9fKiDUWRpINapmLSkrLpLo1EJTJWPKS3Lsq/6ooy7TWHcg6y81ImXkKU44hTk4nIpeDmPrO4O4zAZWJWKi5EQZlTpBQ9rMxnVLK+JhZvI=;6X/eWGrndoPQ0Fl2FJ7R5Q=="
 ---
 

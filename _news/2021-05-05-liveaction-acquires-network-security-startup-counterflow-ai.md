@@ -6,6 +6,9 @@ publishedDateTime: 2021-05-05T01:31:00Z
 originalUrl: "https://www.thefastmode.com/solution-vendors-m-a/19685-liveaction-acquires-network-security-startup-counterflow-ai"
 webUrl: "https://www.thefastmode.com/solution-vendors-m-a/19685-liveaction-acquires-network-security-startup-counterflow-ai"
 type: article
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: Deep
@@ -14,6 +17,65 @@ provider:
 topics:
   - AI
   - AI in Security
+
+related:
+  - title: "Microsoft open-sources Counterfit, an AI security risk assessment tool"
+    excerpt: "Microsoft's Counterfit toolkit aims to enable security teams to more easily test the robustness of AI systems both in and prior to production."
+    publishedDateTime: 2021-05-04T18:50:00Z
+    webUrl: "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/"
+    ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 121
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Microsoft buys speech recognition, conversational AI tech firm"
+    excerpt: "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion."
+    publishedDateTime: 2021-05-03T06:47:00Z
+    webUrl: "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 93
+    images:
+      - url: "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
+  - title: "Microsoft's new open-source tool could stop your AI from getting hacked"
+    excerpt: "Microsoft releases a tool to help organizations shore up AI systems against adversarial machine-learning attacks."
+    publishedDateTime: 2021-05-04T03:32:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+  - title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
+    excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
+    publishedDateTime: 2021-05-04T13:55:00Z
+    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9061/microsoft-launches-open-source-tool-counterfeit-to-prevent-ai"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/04/microsoft.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "jZUDzetlz95F4nHDgUdrklyDa6gX3TRiQSgSjLXB2fJwT7UHMJJp9SoQr2wOSKue4dS17MqwbDgs1/kiganbhg09YLn6ULmsQfTIiaTpG5jjeOx6pXMjsB/kFIhPqeVcorN2Urp/0x/iCn/WXgmv/I+m6g5otIrDP2/0iNi/Fq1EI0iGBiLU2HgBHwSAJKVoHLmXxyP2FQCkb/xIT+Toh3IJl3Yfc+bnatEnAA1FZrx7qcSQd56Ig1thAqVnQoBxJqjkHwDRWyyZIiMK9bbILGoKKDmxP/RjskIEEdBqPMIEuX+BdwBJupDNYJ9ZDL7fIRGCTLmHZHRbX4OODQ7qSnSsCW2EflW7/sPFg3CwtcWOq9b/Gr8+9pbsOykfSiP5OwYnZ71xYCn/vKFMwxmk+gUJSkPB+d2WoVFZFbkpS1krIUocHkifG3JRdCEB+k1ombmyywzrbl21b89hrf2HhyXr33XdCTCJfdye+VpSotM5S2HzjB17a+/Ub16htVD1HoYQ0+xPd9RrqH3kqxM0cg==;1fFO7jXse6zyt+xcVlcS7w=="
 ---

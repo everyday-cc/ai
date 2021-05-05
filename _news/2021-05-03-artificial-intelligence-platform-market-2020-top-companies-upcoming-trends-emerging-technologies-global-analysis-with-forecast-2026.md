@@ -18,87 +18,33 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
-    excerpt: "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,"
-    publishedDateTime: 2021-05-03T08:00:00Z
-    webUrl: "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026&source=139"
+  - title: "Computer Vision in Healthcare Industry Analysis and 2021 Future Trends"
+    excerpt: "According to the latest research study by Infinity Business Insights, the global Computer Vision in Healthcare Market was estimated at USD XX$ billion in 2021 and is forecast to cross USD XX$ billion by 2026,"
+    publishedDateTime: 2021-05-01T12:04:00Z
+    webUrl: "https://ksusentinel.com/2021/05/01/global-computer-vision-in-healthcare-market-top-10-key-players-in-2021-microsoft-us-nvidia-us-intel-us-xilinx-us-ibm-us/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: The Sentinel
+      domain: ksusentinel.com
     quality: 36
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?492978"
-        width: 398
-        height: 250
-        isCached: true
-  - title: "GPU Market Insights with statistics and Growth Prediction 2021 to 2024 | Cogeco Communications, PTC, ScaleMatrix, and S3 Graphics."
-    excerpt: "According to research report by Inc GPU market will surpass USD 80 billion by 2024 When compared from the perspective of data processing a GPU appears to be like a mega truck which can take over much"
-    publishedDateTime: 2021-05-04T01:24:00Z
-    webUrl: "https://www.openpr.com/news/2279204/gpu-market-insights-with-statistics-and-growth-prediction-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2279204/gpu-market-insights-with-statistics-and-growth-prediction-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2279204/gpu-market-insights-with-statistics-and-growth-prediction-2021"
+  - title: "Machine Learning in Healthcare Market Research Report 2021 Size, Share, Growth, Trends and Forecast 2026 | COVID-19 Impact Analysis"
+    excerpt: "May 04, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Machine Learning in"
+    publishedDateTime: 2021-05-04T09:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-research-report-2021-size-share-growth-trends-and-forecast-2026-covid-19-impact-analysis-2021-05-04"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
-    images:
-      - url: "https://cdn.openpr.com/U/5/U504657952_g.jpg"
-        width: 800
-        height: 479
-        isCached: true
-  - title: "Global Contact Center Intelligence Market 2021 Major Manufactures – AWS, Artificial Solutions, Avaya, Google"
-    excerpt: "Global Contact Center Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comes as a handy source for readers, providing insight into sales, volumes, revenues in the Industry."
-    publishedDateTime: 2021-05-03T10:22:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/global-contact-center-intelligence-market-2021-major-manufactures-aws-artificial-solutions-avaya-google/"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+  - title: "Global Natural Language Processing Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
+    excerpt: "Over the past years more traffic have been attracted towards Natural Language Processing Market . According to different analysis, Natural Language Processing Market sales have a rate of XX% CAGR between 2020 and 2025."
+    publishedDateTime: 2021-05-03T09:41:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/global-natural-language-processing-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 20
-    images:
-      - url: "https://cdn.etechgs.com/etechgs/wp-content/uploads/2017/10/How-Artificial-Intelligence-Improves-Contact-Center-Industry.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights"
-    excerpt: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights Posted on May 3 2021 5:25 AM Some of the key players in the military robots market such as Northrop Grumman Corporation (The U."
-    publishedDateTime: 2021-05-03T08:52:00Z
-    webUrl: "https://menafn.com/1102015536/Military-Robots-Market-Size-Growth-Revenue-Manufacturers-and-Forecast-Research-to-2020-2027Fortune-Business-Insights"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 14
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?315401"
-        width: 374
-        height: 250
-        isCached: true
-  - title: "Global Artificial Intelligence in IoT Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
-    excerpt: "The Artificial Intelligence in IoT market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence in IoT market report is a comprehensive research that focuses on the overall consumption structure,"
-    publishedDateTime: 2021-05-03T10:09:00Z
-    webUrl: "https://menafn.com/1102013484/Global-Artificial-Intelligence-in-IoT-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 5
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?50588"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "Exclusive Report Of Machine Learning as a Service (MlaaS) Market: Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin and Share 2028"
-    excerpt: "IndustryAndResearch research recently promoted a report on “Global & USA Machine Learning as a Service (MlaaS) Market Report Insight, Key Research Findings, Competative Landscape and Forecast 2021-2028” The report gives a comprehensive calculation of the Machine Learning as a Service (MlaaS) containing industry chain structure,"
-    publishedDateTime: 2021-05-03T13:50:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/exclusive-report-of-machine-learning-as-a-service-mlaas-market-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-share-2028/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
+    quality: 1
 
 secured: "uowx56X9bma+Ch0zZC0YGHJ9RUAZ2QfDsaaUelptASS3O/szj2prxaJ8ZuNLTSspSgbFsAg6qg6ZCbW54LOd7IHTBDsQU6lry6u7Mwmhch7jwqj0hHUAXb89ttOG0WYWflz9vL0tXXISyjlYzib3qxcAvlPe1iyhI+4FiyN23BdN3oobM3AtPD7DIYJuFG4ObRV0A72iP/PNhfhn3SsN5eS3BiDIbxVvq5gJv9xT67hOJmKpcokNTDiEakzeRrPiQl2qT68t68gjLUIv3iHU9VJ4yqcken1W2HHCIt625DAqLc63dyrnPoI9RdV6f0JkdPud4D5E2H7aGX29F1dNvNLQSJ0Ia5jLBpeyOen2r0w=;utEMHCP/1FqJztRVqMt9Dw=="
 ---

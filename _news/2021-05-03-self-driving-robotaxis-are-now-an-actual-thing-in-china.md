@@ -77,20 +77,6 @@ related:
         width: 671
         height: 480
         isCached: true
-  - title: "Baidu launches driverless fee-paying taxi service in Beijing"
-    excerpt: "Chinese internet giant Baidu this week said it would launch the country's first commercial self-driving taxi service in Beijing next month."
-    publishedDateTime: 2021-04-30T09:00:00Z
-    webUrl: "https://www.just-auto.com/news/baidu-launches-driverless-fee-paying-taxi-service-in-beijing_id201590.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 54
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Baidu launches China's first commercial driverless taxi service"
     excerpt: "Chinese search engine giant Baidu on Sunday started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public on a trial basis since last October but Sunday marked the first time that riders have needed to pay for it."
     publishedDateTime: 2021-05-04T10:00:00Z

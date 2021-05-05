@@ -83,6 +83,15 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 0
+  - title: "Speech Emotion Recognition Considering Nonverbal Vocalization in Affective Conversations"
+    excerpt: "In real-life communication, nonverbal vocalization such as laughter, cries or other emotion interjections, within an utterance play an important role for emotion expression. In previous studies, only few emotion recognition systems consider nonverbal vocalization,"
+    publishedDateTime: 2021-05-04T01:05:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9420285"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
 
 secured: "9nkWgU6eXoRUoStJNqGVWSXxYWCJd8YPkm3dcw1iYxaQcl9udO/9Aialofo24R7knTuRpV69Ams0w9/io0KN0q9YhVATCriUtsmJ7412woSZJavAHnoudnH2uLghDSp/u/HfQOKHA765nRyPPCp9Qi7uVzkiNQHNgz1zbhmT1L6OcrzuvrPZsrgsjZg+XWTYHFTBmokJ9tMmThQNQxkfyHhCsBma9kwCSVdJ+ApBLCRCceHMO+cgsvJtZnUMiYtBxxbmaZrfPibxvE1nFkD3+UoX7aSVeTEx9DkI/7B85VYvnHei8/s/oZ1N9CI1nUmgDYY5gUQeFgDzZcdxsigG0MwP78NRVgjum/lldzzjrprFNwM4zC+5kBH1b9tu7qugDZ0Q/nHlUuTCYEFZmC2vudaj8AtZn6yrsPj3TU5dbw1mYMvLmKwImKp30LXpDQzmK91mWhsGezBbZbCEnAvxFEFM0jFPDrlmhdCOSlNZp1P8bJXCkYL4WlrVFRY7fwvfMEEJjTid7bUrSUUS0BcMvQ==;Ta7gRJvRApHDm7FdMxaGYw=="
 ---

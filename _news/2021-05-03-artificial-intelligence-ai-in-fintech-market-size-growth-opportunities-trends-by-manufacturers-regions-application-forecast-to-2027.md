@@ -20,31 +20,22 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "South and Central America Artificial Intelligence (AI) in Healthcare Market Future Prospects and Opportunity Assessment Upto 2027"
-    excerpt: "The Business Market Insights provides you regional research analysis on South and Central America Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic"
-    publishedDateTime: 2021-04-30T08:12:00Z
-    webUrl: "https://www.openpr.com/news/2277918/south-and-central-america-artificial-intelligence-ai"
-    ampWebUrl: "https://www.openpr.com/amp/2277918/south-and-central-america-artificial-intelligence-ai"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277918/south-and-central-america-artificial-intelligence-ai"
+  - title: "Artificial Intelligence Chatbots Market - Detailed Survey On Key Trends, Leading Players & Revolutionary Opportunities 2027"
+    excerpt: "The new report on the Global Artificial Intelligence Chatbots Market includes far reaching subtleties containing bits of knowledge archive with respect to the significant driving organizations alongside offering the top to bottom features about the business strategies utilized by the"
+    publishedDateTime: 2021-05-04T16:53:00Z
+    webUrl: "https://www.openpr.com/news/2279817/artificial-intelligence-chatbots-market-detailed-survey"
+    ampWebUrl: "https://www.openpr.com/amp/2279817/artificial-intelligence-chatbots-market-detailed-survey"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2279817/artificial-intelligence-chatbots-market-detailed-survey"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 60
+    quality: 48
     images:
-      - url: "https://cdn.openpr.com/U/4/U430418845_g.jpg"
+      - url: "https://cdn.openpr.com/U/5/U504740133_g.jpg"
         width: 800
-        height: 420
+        height: 607
         isCached: true
-  - title: "Computer Vision in Healthcare Industry Analysis and 2021 Future Trends"
-    excerpt: "According to the latest research study by Infinity Business Insights, the global Computer Vision in Healthcare Market was estimated at USD XX$ billion in 2021 and is forecast to cross USD XX$ billion by 2026,"
-    publishedDateTime: 2021-05-01T12:04:00Z
-    webUrl: "https://ksusentinel.com/2021/05/01/global-computer-vision-in-healthcare-market-top-10-key-players-in-2021-microsoft-us-nvidia-us-intel-us-xilinx-us-ibm-us/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 36
 
 secured: "LCy932ZWmfLqE8i92iVqVyg/iD/G/8+godMMjsVv6S4YOeXzpDsYs32MFzd2VBfJZg0YJhppYTYIosj51e83to3mACAdMinR56IUdiUK9Wzd+5lEH2a0Sy2reMkPIxyl+3TahWonTwjP3A8s4SnK8i7sA/om/5GcDM7f/PK4eJGbTQSOPnPM5Z/qfQ6hQxLkdA763f+3UQ3qqLlO94/Uuic0WMfr9t4yJkGtwztQUrcCtd0BjLF79PbawNMm7IEpyfSgqZaLdKpmtzUwToUhjy8yqFe5TYS6R56ozXa7ir1E0Sd5mN/frwEqByLimu/6UMxktpqYNOom6bUShhUbEnIZFiUpVTEalen3pokmXns=;wwebZmRPzEbBxpk7QokroQ=="
 ---

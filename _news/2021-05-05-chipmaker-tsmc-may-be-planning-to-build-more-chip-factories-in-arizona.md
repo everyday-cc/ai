@@ -6,6 +6,9 @@ publishedDateTime: 2021-05-05T00:10:00Z
 originalUrl: "https://venturebeat.com/2021/05/04/chipmaker-tsmc-may-be-planning-to-build-more-chip-factories-in-arizona/"
 webUrl: "https://venturebeat.com/2021/05/04/chipmaker-tsmc-may-be-planning-to-build-more-chip-factories-in-arizona/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

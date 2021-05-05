@@ -38,6 +38,15 @@ related:
         width: 700
         height: 448
         isCached: true
+  - title: "Latest COVID-19 Impact Report on Artificial Intelligence in Agriculture Market"
+    excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed $6000 million by 2027, growing at a CAGR of 25.50% from 2020 to 2027."
+    publishedDateTime: 2021-05-04T09:26:00Z
+    webUrl: "https://ksusentinel.com/2021/05/04/latest-covid-19-impact-report-on-artificial-intelligence-in-agriculture-market/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 15
 
 secured: "StDG+360TMGnQiS1o9ZY7N6e9VhGObnKwQvX8hrbRX9fqXF3xjsUsloLq2PRPKAL3d1Nsj4KF9RcHT2E+mQPU9X5eXxgy6yjx44pIRa86ylhWNH+GRwT/QR4SK6+tSUQpD0qW378X9gTiq2CcOKJKe3NUugWQFG0NajkYHmSiL7B91OPdn5GkUOPSoPoa493GjH5J9A/R304jl7ZUbg5rKoQsgCFDYZL1ODmH4pOykdJCfZ3Jw4LV7X+nzL2JGA4fa/AJM+jXNALvKXpOfwDLLfPD7K+7QmvTS/d+GIWpzdP9mqFqs3IKBobez6RAhRHBngGLdhi0/JDPZHE/6YrxovtvQ+LC4Kwa7Nfa1UxZhXQMombFkTNvGM+/uf7gGh/SCWMSERQ1srB51PeeHydp62Z8mQffL9jZ+W9vKEwx1fFbpB6/KyltKP/qgeyhoW4BPwQdrYKwlmgTydlqskY8jvq1KLkYoL5dtT9VvMOVVe1LMW78sIPoBZQXZ4NefLk3iqrAEDfb/oaCHKuMQtwqQ==;263XMnIbBl1LJSv6fHg0yg=="
 ---

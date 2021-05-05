@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
-    excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
-    publishedDateTime: 2021-05-04T12:01:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1573748220/itpro/Microsoft_DW.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Microsoft buys speech recognition, conversational AI tech firm"
     excerpt: "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion."
     publishedDateTime: 2021-05-03T06:47:00Z
@@ -73,6 +57,29 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
+    excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
+    publishedDateTime: 2021-05-04T13:55:00Z
+    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9061/microsoft-launches-open-source-tool-counterfeit-to-prevent-ai"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/04/microsoft.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "LiveAction Acquires Network Security Startup CounterFlow AI"
+    excerpt: "LiveAction, the leader in network performance management, on Tuesday announced it has acquired CounterFlow AI, a leading network detection and response (NDR) provider. This acquisition will enable LiveAction’s current and future end customers and channel partners with a unified network performance monitoring and diagnostics (NPMD) platform that incorporates encrypted traffic analysis for security incident detection and response."
+    publishedDateTime: 2021-05-05T01:31:00Z
+    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/19685-liveaction-acquires-network-security-startup-counterflow-ai"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 34
 
 secured: "5N8fw8Nzy1lQPw8zK7LOadMQ7/xDySxzmOcoi+/IxIeulkWD1bibAMMXLye8+Do8E9zlqkVhlFEakzaA0xpCpcbLvuSr4c7w1EDA68lw2HmCQp19mi3Sq0bRjALcxAKQWoVvhO87VYmM3rwVHqMhhVdrfTgGESmog10lRbZcCay/2SnFDjHZwd5BCwGb6SYRHDjap0L7S3Fl9bXYK9ofKtl3o77CFpsnv3aeMx9qpKWpRq2tpzd56Lp8C1Xfg3YpewYrF0zB4E4lpVrhyTLZTSZMaj+IqWMjBA11YS9d177sdgCp1hR/q9DkVjYMOwdDUNkptRnFJ3m17lYLkQqNJlwfOHiJ+VL4eS3FmFC6CzP75RMF4TgL1JrriBuUzP/RBRhNbcK3FIWN09zrmKgzNmqIk6mj68Q9XKl02hiicFltgbt6Z4y9yCD5wkfCk7Vk6pZJQEu2BT0CLFXczQaMHzEQM67hhSAiukkqH2TFsrthy5t06K/1NFpTIR/vMWug6s+Aq7iuYzviaXY9VTEPJA==;dFdftyN9Iu3ceNZT4A3Wdg=="
 ---

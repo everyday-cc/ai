@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Inpixon acquires suite of Augmented Reality, computer vision and 3D mapping technologies from Visualix"
-    excerpt: "Inpixon, a company that uses technology to capture indoor data to create actionable intelligence, has this week announced the acquisition of a suite"
-    publishedDateTime: 2021-04-30T07:09:00Z
-    webUrl: "https://www.auganix.org/inpixon-acquires-suite-of-augmented-reality-computer-vision-and-3d-mapping-technologies-from-visualix/"
-    type: article
-    provider:
-      name: auganix
-      domain: auganix.org
-    quality: 23
-    images:
-      - url: "https://www.auganix.org/wp-content/uploads/2021/04/Inpixon-Visualix.jpg"
-        width: 887
-        height: 478
-        isCached: true
   - title: "Opinion: Don’t let your voice be usurped. Keep zoning decisions in Connecticut local"
     excerpt: "Sadly, a coordinated effort is presently underway to completely usurp and upend local control of zoning across Connecticut. Advocates for these sweeping changes are seeking to weaponize the legislative and judicial process in our state to achieve this desired outcome."
     publishedDateTime: 2021-05-02T10:00:00Z

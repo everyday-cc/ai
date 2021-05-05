@@ -1,34 +1,44 @@
 ---
 category: news
-title: "Campaigners call for Spotify to disavow ‘dangerous’ speech recognition patent"
-excerpt: "Campaigners have demanded that Spotify renounces a patent for speech recognition tech that recommends music based on a user's mood, gender, age, or accent."
-publishedDateTime: 2021-05-04T18:31:00Z
-originalUrl: "https://thenextweb.com/news/campaigners-demand-spotify-renounces-patent-for-voice-based-music-recommendations"
-webUrl: "https://thenextweb.com/news/campaigners-demand-spotify-renounces-patent-for-voice-based-music-recommendations"
+title: "Spotify urged to rule out ‘invasive’ voice recognition tech"
+excerpt: "A coalition of musicians and human rights groups urged music streaming company Spotify on May 4 to rule out possible use of a speech recognition tool it recently developed to suggest songs – describing the technology as “creepy” and “invasive”."
+publishedDateTime: 2021-05-05T03:32:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/05/05/spotify-urged-to-rule-out-invasive-voice-recognition-tech"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2021/05/05/spotify-urged-to-rule-out-invasive-voice-recognition-tech"
 type: article
-quality: 81
-heat: 121
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: The Next Web
-  domain: thenextweb.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-2021-05-04T164205.505.png&signature=c486bf4243cdaf77bc553e68b1d5ab74"
-    width: 1280
-    height: 640
+  - url: "https://apicms.thestar.com.my/uploads/images/2021/05/05/1137699.jpg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
+  - title: "Campaigners call for Spotify to disavow ‘dangerous’ speech recognition patent"
+    excerpt: "Campaigners have demanded that Spotify renounces a patent for speech recognition tech that recommends music based on a user's mood, gender, age, or accent."
+    publishedDateTime: 2021-05-04T18:31:00Z
+    webUrl: "https://thenextweb.com/news/campaigners-demand-spotify-renounces-patent-for-voice-based-music-recommendations"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 81
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-2021-05-04T164205.505.png&signature=c486bf4243cdaf77bc553e68b1d5ab74"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Musicians Ask Spotify to Promise It'll Never Use Its Creepy Speech-Recognition Patent"
     excerpt: "Acoalition of more than 180 artists and human rights organizations has written Spotify a letter asking the company to publicly commit to abandoning its patented dystopian speech-recognition tech."
     publishedDateTime: 2021-05-05T03:00:00Z
@@ -77,21 +87,7 @@ related:
         width: 2252
         height: 1689
         isCached: true
-  - title: "Spotify urged to rule out ‘invasive’ voice recognition tech"
-    excerpt: "A coalition of musicians and human rights groups urged music streaming company Spotify on May 4 to rule out possible use of a speech recognition tool it recently developed to suggest songs – describing the technology as “creepy” and “invasive”."
-    publishedDateTime: 2021-05-05T03:32:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/05/05/spotify-urged-to-rule-out-invasive-voice-recognition-tech"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/05/05/1137699.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
-secured: "drIV9Ija/YyKetdCPnIQdaIUN/nD3UT8aulYzYbUkAjvcXC1wS4lY0f4FeEXbHzGtBOzVjQ70tGRldQJ4x0tzDdjGDLM5NGSVmZ9oB8elovU2ZYgRYQ5bduo0/Z3xBdCy9kqMsWiEW9gnA1yoI+jHwyXrvdaf2UjTKya0fjm0C3OpD6hF+TWJTPxC9BHOFDnsNdx8V7yNDszKlbbCeplLpdIr2HzNCxUbEYYsMyLE+OIiSxhN4HsxqzUdEwTi8zx/meH6DEjN/UtwiQs/DjQGIbzJEaB02IT1n6ASQqEw6kMY3mX29clKdEJnh2OHZtjVNfMOXYf5aJtXAV2X3p4MiEwradPQK+Ol9s71ONTXdmmP3mQbONHuBDHp1VEzX0LMQ0Dzxc+kO3gq1CvmgyFPso50NAHk4pNUjWziCAKvCRba0PSXYVwD/KI8FxoNkdo6X/01ImTvmIHJ4wI6jfJOirfSsFlrgpH6Muf+ZgUP7J59a01En5xBXIt2q8m3InwnVhjgO8O/xmt+7IUBittog==;KcwIFwwFbcrUIJy9xddLOg=="
+secured: "W00f3UlLfgPm2oZIGsygEzvkNa7s/NeEptsOaNs+FSEbP67ERqJc16U0QKetsG9TtzTfPAlkUUd+PLFg9lj+uRpkludZmDEH/anRwxpbUifiWCYoGIvnUeSxV0PFa5R0gqv32cyj4Z2HoF0q5bTjYLfQP2dLMeoL7l4KWfWAP5XO9JVg4Ik3qpmYmOeu+pOcIJsniKCCpulBVREANMINHgOF2DZbUXqE+2PWCBiJ4lhSuBUpEiJ6JIKa5Os32uUp7yhtO/oYN0t7Ng3OolGJeLlMZm4rOhJD2K5P+xRRmtPCxb8R8bleXEgYFcf3MZDa7suLWQqX+UaKSBS79r4c1K09+x+IoUZMQwHHUkqXsNc=;+Xik1/F80q52D1gBjEqnrw=="
 ---
 

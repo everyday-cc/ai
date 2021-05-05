@@ -6,6 +6,9 @@ publishedDateTime: 2021-05-05T01:13:00Z
 originalUrl: "https://www.flightglobal.com/military-uavs/aerovironment-lays-out-vision-for-teaming-aerial-drones-and-robotic-vehicles/143596.article"
 webUrl: "https://www.flightglobal.com/military-uavs/aerovironment-lays-out-vision-for-teaming-aerial-drones-and-robotic-vehicles/143596.article"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Flightglobal

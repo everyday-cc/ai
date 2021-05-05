@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Edge AI Software Market Detail Analysis Focusing On Application, Types and Regional Outlook"
+    excerpt: "Edge AI Software Market includes Overview classification industry value price cost and gross profit It also covers types enterprises and applications To start with analytical view to complete information of Edge AI Software market It offers market view by regions"
+    publishedDateTime: 2021-05-04T10:07:00Z
+    webUrl: "https://www.openpr.com/news/2279484/global-edge-ai-software-market-detail-analysis-focusing"
+    ampWebUrl: "https://www.openpr.com/amp/2279484/global-edge-ai-software-market-detail-analysis-focusing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2279484/global-edge-ai-software-market-detail-analysis-focusing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
+    images:
+      - url: "https://cdn.openpr.com/U/5/U504614149_g.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
     excerpt: "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,"
     publishedDateTime: 2021-05-03T08:00:00Z
@@ -34,72 +50,10 @@ related:
       domain: menafn.com
     quality: 36
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?492978"
-        width: 398
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?902239"
+        width: 444
         height: 250
         isCached: true
-  - title: "GPU Market Insights with statistics and Growth Prediction 2021 to 2024 | Cogeco Communications, PTC, ScaleMatrix, and S3 Graphics."
-    excerpt: "According to research report by Inc GPU market will surpass USD 80 billion by 2024 When compared from the perspective of data processing a GPU appears to be like a mega truck which can take over much"
-    publishedDateTime: 2021-05-04T01:24:00Z
-    webUrl: "https://www.openpr.com/news/2279204/gpu-market-insights-with-statistics-and-growth-prediction-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2279204/gpu-market-insights-with-statistics-and-growth-prediction-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2279204/gpu-market-insights-with-statistics-and-growth-prediction-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
-    images:
-      - url: "https://cdn.openpr.com/U/5/U504657952_g.jpg"
-        width: 800
-        height: 479
-        isCached: true
-  - title: "Global Contact Center Intelligence Market 2021 Major Manufactures – AWS, Artificial Solutions, Avaya, Google"
-    excerpt: "Global Contact Center Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2026 comes as a handy source for readers, providing insight into sales, volumes, revenues in the Industry."
-    publishedDateTime: 2021-05-03T10:22:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/global-contact-center-intelligence-market-2021-major-manufactures-aws-artificial-solutions-avaya-google/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 20
-    images:
-      - url: "https://cdn.etechgs.com/etechgs/wp-content/uploads/2017/10/How-Artificial-Intelligence-Improves-Contact-Center-Industry.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights"
-    excerpt: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights Posted on May 3 2021 5:25 AM Some of the key players in the military robots market such as Northrop Grumman Corporation (The U."
-    publishedDateTime: 2021-05-03T08:52:00Z
-    webUrl: "https://menafn.com/1102015536/Military-Robots-Market-Size-Growth-Revenue-Manufacturers-and-Forecast-Research-to-2020-2027Fortune-Business-Insights"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 14
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?315401"
-        width: 374
-        height: 250
-        isCached: true
-  - title: "Artificial Intelligence Platform Market 2020 Top Companies, Upcoming Trends Emerging Technologies, Global Analysis with Forecast 2026"
-    excerpt: "The Global Artificial Intelligence Platform Market accounted for USD 2.34 billion in 2017 and is projected to grow at a CAGR of 31.2% the forecast period of 2020 to 2026. The research Insights proclaims the addition of another new report on account of the Artificial Intelligence Platform Market."
-    publishedDateTime: 2021-05-03T14:10:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-platform-market-2020-top-companies-upcoming-trends-emerging-technologies-global-analysis-with-forecast-2026/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
-  - title: "Exclusive Report Of Machine Learning as a Service (MlaaS) Market: Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin and Share 2028"
-    excerpt: "IndustryAndResearch research recently promoted a report on “Global & USA Machine Learning as a Service (MlaaS) Market Report Insight, Key Research Findings, Competative Landscape and Forecast 2021-2028” The report gives a comprehensive calculation of the Machine Learning as a Service (MlaaS) containing industry chain structure,"
-    publishedDateTime: 2021-05-03T13:50:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/exclusive-report-of-machine-learning-as-a-service-mlaas-market-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-share-2028/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
 
 secured: "NQD5UUSRfcD8G9PH9tHLbGrB3d19MwklSu9jq5iKwkU5XV8Z1TUm6xOWXxmcP1DzoJv7yRrmFyRlQiqbc5U7n7tLm9OUJHtUT7Pz2c4pyMTNl49fVJXoXjMdKtKngaRv2ELFgD7swSmO/RQ1rFEqrQ2Z/A8NIlF9zhsJYehg+eZxFuWVIW2xE/iYL3qaPRMXLoz+RU1+RrArzRWp/a6MDTXDGXHzmauOuIB45xoCFzhpcPpyhpkbz6ndslF1QBC6aS0pdH6FHhSn3fy1/r4q7VTP2TrDCkZJPN/DD4Vc1h2jIEiF8SbYhurZR2bXtQ2stZgLVkgKs9JltVgvB9Pbx4SFW+2P9+oFVtHE6hJvF0Y=;azvI1lLUWBrN4qYZKhaQSA=="
 ---

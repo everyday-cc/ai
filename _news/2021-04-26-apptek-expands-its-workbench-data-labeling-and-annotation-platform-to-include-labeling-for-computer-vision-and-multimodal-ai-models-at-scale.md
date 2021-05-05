@@ -5,6 +5,8 @@ excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Mach
 publishedDateTime: 2021-04-26T16:40:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute"
 webUrl: "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20796180"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20796180"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "XlEwqYnnCszQ7xqDsWpJnqk1TXMSlIhOrqvHsvdzkplkS6EplOTWArQTxqZV+sGiYE5rP18VnDFe7qoiy//+9JzR/aeYxQnOlVp91UfTl2p3cieRwSLQwmdsQRqjHmOKiyuA9iV1zY0wTnfccQAitMvDxPGMdvGtSALlXl79W+WtB9i26Bol1ki2mpul7esoFvPNxrwzLUM1U5YiH0qzXglW5+2sarlv2CHAl1JrWDltFqcGscn+ztlUY8S22ylrhun1VXBIcLMUEsVsduj8oExRX3YS4RGKPaxR0iTkQIbWy7wJIfZUCP9hulJltzRfATSEoOs0Q16d2cLxk7WTILepJypa8JVabhHj1sXc5ssYo2FYCEoHbVeBtEnU75bQereKfZFiUjI6VUJ+VWsIwHVKZZd3sF5N4PqYEidNCiB7zE2rCf68B+mQF505ecwxGFyIZRbcmpDtA/w89p463jhk4ickC6hBF1zLQXXxdXV2m3j6wY9unL1LSzPzdjhhQbqKgpyGVAEl32gUaQthQg==;NE4NYL57Ww6Odopd+oIC0Q=="
+images:
+  - url: "https://mma.prnewswire.com/media/1496629/AppTek.jpg"
+    width: 400
+    height: 286
+    isCached: true
+
+secured: "yQDTRIqYYcLfuR26GQGfvg8TsHL70PASfwlKzUAe+Txq0eM0D4THNwWZAE3AYwdMNsAq5L+PduwhpWf5b1x3jPbX+yscvLMmhTGfYajXtCqq5tPuK6BiVdgAv+591jFNL1CF8r7jcm1n7oARO+JaI/eKpjwYoDCTE3VxXNLxtkUxFd3AsJjWyqVGJA9PAajstbxz4k88A8rfqSOwZZNtoRKXVxQwLePGGcowjGdU0dg1KKvw3IoeHAr/StlsavCgAJDl7N4ZYJF578uAnt9J2ouio6z12wYMdtP8c+6a7yN+9MnxeqtagB4pBdv6QWMXIc4FUh4tMk2vNx+I1WSch8x1gdX9CNUi9U3jZZlNjAQ=;wYPXVMCn1zUG5eqCRj77TQ=="
 ---
 

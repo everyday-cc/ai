@@ -24,17 +24,6 @@ images:
     height: 220
     isCached: true
 
-related:
-  - title: "Global Natural Language Processing Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
-    excerpt: "Over the past years more traffic have been attracted towards Natural Language Processing Market . According to different analysis, Natural Language Processing Market sales have a rate of XX% CAGR between 2020 and 2025."
-    publishedDateTime: 2021-05-03T09:41:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/global-natural-language-processing-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 1
-
 secured: "OqQA0T68MRb9heOiquvT+1WG3DJQqTRopSpNJmHie0nTv9Bsn8rOSKHLTzCNDF9bhBM5rAHFgIFXSkqJGJRyjJcndzzu7R6r77tWurci7iM+tmgFGuhH84TTxzwrMCfj2Sc4vrLBIE3gIzFCohbBSfkSCzadQkyD1eDI8dcBg4fwA2L7shuRt80pRgCXn/xc1sxF4KOdSPK3/pMKiBUXgjaOhbHtypNUOlsrJrbFUhEfnMijlre3huOGLA5cnmsd86W8bhOftX4DxR0n6sqfPDOkDNKjav/jjcahhiqCMPTAvlbSUWcPS1BHgnUNjOxw28Oq+Lz9S94z+ov3fgrfsT8ybWa2z1O9KMHa4QyLJJs=;Uzz3B1WpViyBcZErmfDr2g=="
 ---
 

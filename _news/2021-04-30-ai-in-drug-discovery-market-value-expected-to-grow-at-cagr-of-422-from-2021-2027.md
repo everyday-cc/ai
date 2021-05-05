@@ -50,20 +50,6 @@ related:
         width: 846
         height: 635
         isCached: true
-  - title: "Top 6 AI-Powered Drug Discovery Tools In 2021"
-    excerpt: "AI has a lot of potential to enhance and accelerate drug discovery — the process of identifying potential medicines. In January 2020, British start-up Exscientia and Japanese pharmaceutical firm Sumitomo Dainippon Pharma used AI to develop a drug for OCD."
-    publishedDateTime: 2021-04-30T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-6-ai-powered-drug-discovery-tools-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/Untitled-design-6-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "rhDr3nNyNpA47O/CAidwUJFFry+3JXifzo0Zk1jdgJJy8n7d1NRq6QO7EcaX0+eZZP+8mklR3NpBg7MuXZHUMPmidSBwoRwPPpydg7CSNd4jB0vUeRdN5ifVd1/3W3urP3QfsBWE0LZIiDym9oQzLOt1JQPZ3YujXvX/pULdCCHBvO4qvPUSYVJXTDtD/2x6OToNVDIm3flzfhzaO67pBexKCeovtd851fF37BG6uVWvOkirpE+83vU7vtv7t6JB8W+xSBiEE1jsRg+O4Gy7JqmVIhQJy4ExCHsGKccmzG4a/DLipnEeHKuqNZnxt/+w40kSKWiiIUwGxIFD8u2lcGWCnF71H8rB9kJK5k2Bbm0=;8TTM/aLbJYt+PGZI55sO7w=="
 ---

@@ -40,20 +40,6 @@ related:
         width: 683
         height: 419
         isCached: true
-  - title: "Top 6 AI-Powered Drug Discovery Tools In 2021"
-    excerpt: "AI has a lot of potential to enhance and accelerate drug discovery — the process of identifying potential medicines. In January 2020, British start-up Exscientia and Japanese pharmaceutical firm Sumitomo Dainippon Pharma used AI to develop a drug for OCD."
-    publishedDateTime: 2021-04-30T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-6-ai-powered-drug-discovery-tools-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/Untitled-design-6-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI in Drug Discovery Market Value Expected to Grow at CAGR of 42.2% from 2021-2027"
     excerpt: "Whipsmartmi com offers Global Artificial Intelligence in Drug Discovery Market from its research database The AI in drug discovery industry is expected to grow USD 342 16 million at CAGR of 42 2 from 2021 to 2027 Browse complete report"
     publishedDateTime: 2021-04-30T12:15:00Z

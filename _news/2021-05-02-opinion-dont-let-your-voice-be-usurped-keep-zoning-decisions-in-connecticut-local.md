@@ -33,20 +33,6 @@ related:
         width: 2400
         height: 1435
         isCached: true
-  - title: "Inpixon acquires suite of Augmented Reality, computer vision and 3D mapping technologies from Visualix"
-    excerpt: "Inpixon, a company that uses technology to capture indoor data to create actionable intelligence, has this week announced the acquisition of a suite"
-    publishedDateTime: 2021-04-30T07:09:00Z
-    webUrl: "https://www.auganix.org/inpixon-acquires-suite-of-augmented-reality-computer-vision-and-3d-mapping-technologies-from-visualix/"
-    type: article
-    provider:
-      name: auganix
-      domain: auganix.org
-    quality: 23
-    images:
-      - url: "https://www.auganix.org/wp-content/uploads/2021/04/Inpixon-Visualix.jpg"
-        width: 887
-        height: 478
-        isCached: true
 
 secured: "bWWEHetwq3K9SFZp5SBvkNAl/UNo2vr4XXsx7u0O5e5mnNnhyN2ZpS4ANDFiPKYA1RRMWsC+wpi6k2gsQ5D4zQuL2Dv31bXKnK13YnQPI+/mE2rQNFPr5gLI9ZaIulKMHciUCP+yYM2MIjzLaXTvkH+L1nKsawWdvH7VmEAZt/s0O4GRV9osvio61FAN6PgWlCeWRr5IWMINNvynPgPTvCZB7vDdPaa2w8uKmEqd8bxO43xQ3fwfRvnXLmd3dnZOguX16EZObuni8RpscFvn+eXk3T3ysNfdV2WKUkWZww7vYJ77pkJAnYE6nBKzL2HNqi2LoTbm/KRZ/CEtZRKn2vp2lLXiBd6mIdp8z8PDeIRskFdwPlDX9iBi38M2tXqGLX5/ChVfT47aSITQ3LvnKHEIA6bLWLuzoiFbII+vD/fqgYQrcMaNdRG8SkGQr+ETccyXGZiGqiTPw9nqymd9UVh6NUoaSslMI3n7zp7Z67CMM51Z5IMxkSTSiTjedloQDXJWuJndhyqMMlSq3HdWYA==;bWRPH6ayqiu38y678Xo9Ng=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2021-05-05T01:05:00Z
 originalUrl: "https://guardian.ng/technology/technology-technology/24-unity-schools-for-national-robotics-championship/"
 webUrl: "https://guardian.ng/technology/technology-technology/24-unity-schools-for-national-robotics-championship/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Guardian Nigeria

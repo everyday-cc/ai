@@ -1,39 +1,31 @@
 ---
 category: news
-title: "Artificial Intelligence for Accounting Market size, Witness Highest Growth in near future by 2027 | Microsoft, Aws, Xero, Intuit, Sage"
-excerpt: "The Artificial Intelligence for Accounting market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
-publishedDateTime: 2021-05-03T03:21:00Z
-originalUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-for-accounting-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-aws-xero-intuit-sage/"
-webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-for-accounting-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-aws-xero-intuit-sage/"
+title: "AI in Fintech Market May See a Big Move | Major Giants Microsoft, Google, IBM"
+excerpt: "Stay up-to-date and exploit latest trends of AI in Fintech Market with latest edition released by AMA. AI in Fintech Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Global AI in Fintech industry with an attention on the Global market."
+publishedDateTime: 2021-05-01T10:59:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/269136641/ai-in-fintech-market-may-see-a-big-move--major-giants-microsoft-google-ibm"
+webUrl: "https://www.bignewsnetwork.com/news/269136641/ai-in-fintech-market-may-see-a-big-move--major-giants-microsoft-google-ibm"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 53
+heat: 113
+published: true
 
 provider:
-  name: The Sentinel
-  domain: ksusentinel.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Microsoft AI
 
+images:
+  - url: "https://cdn.bignewsnetwork.com/cus1620153330432.jpg"
+    width: 630
+    height: 420
+    isCached: true
+
 related:
-  - title: "AI in Fintech Market May See a Big Move | Major Giants Microsoft, Google, IBM"
-    excerpt: "Stay up-to-date and exploit latest trends of AI in Fintech Market with latest edition released by AMA. AI in Fintech Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Global AI in Fintech industry with an attention on the Global market."
-    publishedDateTime: 2021-05-01T10:59:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269136641/ai-in-fintech-market-may-see-a-big-move--major-giants-microsoft-google-ibm"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 53
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1620153330432.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Artificial Intelligence Software Market (COVID-19) to Witness Astonishing Growth by Forecast 2021-2027 |Baidu, Google, IBM, Microsoft, SAP, etc"
     excerpt: "Latest launched research on Global Artificial Intelligence Software Market, it provides detailed analysis with presentable graphs, charts and tables. This report covers an in depth study of the Artificial Intelligence Software Market size,"
     publishedDateTime: 2021-05-04T05:44:00Z
@@ -57,6 +49,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 20
+  - title: "Artificial Intelligence for Accounting Market size, Witness Highest Growth in near future by 2027 | Microsoft, Aws, Xero, Intuit, Sage"
+    excerpt: "The Artificial Intelligence for Accounting market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
+    publishedDateTime: 2021-05-03T03:21:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-for-accounting-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-aws-xero-intuit-sage/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 19
   - title: "Artificial Intelligence in Marketing Market to See Massive Growth by 2027 | IBM Corporation, Microsoft Corporation, General Vision and More"
     excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence in Marketing Market report is anticipated to perform more robustly in the coming years,"
     publishedDateTime: 2021-05-03T11:28:00Z
@@ -85,6 +86,6 @@ related:
       domain: ksusentinel.com
     quality: 7
 
-secured: "A/ttgPOwCSY8lQ0vSB2wvSTrnVoVAZj8gzaryTPyuQHQtPDAcVgv+EHJ7yBdWPnduXaWMNzE568mgo3AxVKhQipA3taS0OO5FUwScm5NktmUGXnFvbj9I1HInIFA3g8YgU8r3ITFlhOwgMz/2LvV3fUkEEmmPlMRUVvP9ss1FSyWI8dVY0v+kXYNCwX+it6fmYunU3sDbJBEJvkDEO3QF+qjQK5aiwjCh5UaiAjzLNMCIpHyQyt2QktludU5+DUxBIMwu74ppGZd7cs9aiHA2uWYx/D2tYObBKBqusgK+F91JUi0884BaJH+Jf9MLpSrMVjhddJx5D0BSjjVYaWH1DkrURd6VB0xtou8JrFmyJO1iswcqIJqATCNOhgiBwgrb+4JgajDYrK4PzFdtRPiFDK8OJA99oeoP7qUdXidCJrBAR6eut73IzYW+TTvc306CTOIOxwtRHSUcpz979x6hpUzrErT1+SeKFQCjvoQRGd3pmjsB+2yuzRMw9NVIo6HK8CU7TKEMIab9j3uYWwgng==;/7g/ZjpktWuzmLlW3gxLtA=="
+secured: "frxSB3H3VCcMOzxr14LGmps20M/itY0V2Gv1NANU4AfdW+xM67O1usq15sMZVQSDgZ/k7VlMXrHtCJIYQ01BZ9poXhec3PuuJEJ3RTTMD9D6Z+7JiVuNsMZh4Z8DU5aOjuva0EnulkAtAW9/qdtIAoSl4VLMuhcjXxnVOt6d6gNpT7yvgAQkZgq6Eyx3QEySbDMu+vwqeUWmpnf9UURwN2QIrEPMlkK3Fy3JL0epIlk0mnrLD+ruIiBG5/fQAGg5UfcK+zMQdiD7gKjf8Bv6leT+88v4fxYxbNFQe5uMB0el2bHYA6NdqMBBihkgmbPK+S2+5fs/my3i0U1e3yiwZ59MKG88Jyyc1m89d8pu6Gg=;IDrxsFB6s0KiTsIP8n1HmA=="
 ---
 

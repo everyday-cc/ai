@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "Gj5WiyMF5fQC4cQ6j8zcCGobWoKaqKmj+dSs1+kIjbg2D34X7Zgf9VYBYz70oOgJMaazwOe7Sw6Dm+oDjHBG+0PAgWCUq1ADYnA6a93N77PzzkYXxqwil67kOwGVRgvkG5B6e5/VpDMLiDrf5oU0uHGGvVDlgtbSHAG8u5hRnJbz1/LhBSzmtS16Gi1YQtNZdUFVVGJgbUSEDLNOzcQHIGQuVPzKfUxyA+5al0fkhjSC9r9LWmGsdBVbahZvoJ88prJtLgSPrI4Xoz3qpxrE+gNR3h2PiJEqIn2kJtPotxuGcvjBE26O8mRGETM+2ed96FGP3/LU8sAORp/K6382Y5GrZtGq+vVrc1d74Oa0fyw=;RQcEvyH9ek/4iyZKAQoJEQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1496689/Verista_horiz_full_color_Logo.jpg?p=facebook"
+    width: 2503
+    height: 1312
+    isCached: true
+
+secured: "XfxtS/yXFCWM3nxMfLtxptlSEa7OjZf/5nWwOAwpMKjyxDNI4iPX6bdyNcIcTxzi94dpmBUk9TRhym3kxl2qJnnSAr0Bz4PBHSaAZ1xOHTw8ahJK/JH5yNoy7JEZ4PZ+phOq9tdFJvGka0g0I/YED6onlCkzfU8AWUXC8jR1iVHXhMJ49n4Ea2NQRKOzAXqGcQbqTv0LOn3/Cakf+qoJAEFycUQAOzSR/bSdHRctoTCGQkRXEfyROZJBFRDUwtUTCosc6ap+QZFHpkbZDYuh1+4ctcvUOXuDcqLjaegTvJ4m6NWWu1Et9aVWhOh1fboqSUIhVs/JdTlLcz/K4nFtbVu5XFfmcHZPsLFk4nsFiq4=;r3874EONrADM8HHsBGgBbg=="
 ---
 

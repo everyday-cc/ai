@@ -59,20 +59,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Baidu launches driverless fee-paying taxi service in Beijing"
-    excerpt: "Chinese internet giant Baidu this week said it would launch the country's first commercial self-driving taxi service in Beijing next month."
-    publishedDateTime: 2021-04-30T09:00:00Z
-    webUrl: "https://www.just-auto.com/news/baidu-launches-driverless-fee-paying-taxi-service-in-beijing_id201590.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 54
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Self-driving robotaxis are now an actual ‘thing’ in China"
     excerpt: "Apart from enabling transport services during the upcoming Winter Olympics, Baidu plans to expand its robotaxis in more Chinese cities. With this move, the company is leaving its other Chinese competitors such as WeRide,"
     publishedDateTime: 2021-05-03T12:20:00Z

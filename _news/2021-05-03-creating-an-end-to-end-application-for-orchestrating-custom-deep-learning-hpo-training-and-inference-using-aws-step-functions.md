@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/"
 type: article
 quality: 93
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
     excerpt: "Time-series forecasting is one of the most active research topics in artificial intelligence. A still open gap in that literature is that statistical and ensemble learning approaches systematically present lower predictive performance than deep learning methods."
     publishedDateTime: 2021-05-04T16:11:00Z
     webUrl: "https://ieeexplore.ieee.org/document/9416768"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
+  - title: "Speech Emotion Recognition Considering Nonverbal Vocalization in Affective Conversations"
+    excerpt: "In real-life communication, nonverbal vocalization such as laughter, cries or other emotion interjections, within an utterance play an important role for emotion expression. In previous studies, only few emotion recognition systems consider nonverbal vocalization,"
+    publishedDateTime: 2021-05-04T01:05:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9420285"
     type: article
     provider:
       name: IEEE
