@@ -44,7 +44,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Bias Problem Needs More Academic Rigor, Less Hype"
+    excerpt: "We’re infatuated with AI. From smart chatbots to image recognition to self-driving cars, we’re absolutely enamored with the superpower-like"
+    publishedDateTime: 2021-05-04T23:06:00Z
+    webUrl: "https://www.datanami.com/2021/05/04/ai-bias-problem-needs-more-academic-rigor-less-hype/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/robot_dabbing_shutterstock_Andrey-Suslov.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
-secured: "VxlxdH+tIJjr/fCvpqa6jU3e3uXX0qTPwjwqAT6Hp9oru6d998F1IiU8YIbhczozk/ByxHEXD2GboTOkAeatCDZPMsXXa7OfewgXA9IwtVwygdq6xPCE9MShaWdcqjdI/+KTrpJ/md1qwhbWYQ6yZzLNMRpKo3eyGpPMiWYHOF8pQbKBfkYnSXuVescvTcfwXuS8NrIpZH6yEMaZ9yusSvZVCrzMhDld3yTHBBAHkSCqDWY4FT/pgBJQWdEB34ke7D2WaJ6LxdXt8AfZT1LcYdODXPPvRoLOTbXYANaPgfDCEu+hNFpDs/iaxd52hAGIZtJfypVuro4ChgUNrwmimwBXHUbe22QMIQPMNUpB1YY=;/fAyJa6+fpxvRhIAXyJWRw=="
+secured: "IqFCtDl7j0I9cOL0RnVAG4RAAPhnuWxcmPKvGLKsnbrdPWja/O2mbmkJhYi0jggI8Yy42lmpe2uV27VtlQ9nHg1HvGQWQ6l0fGJz2Xqzc0681NpXYVqumn2O8DNOpu4cusO/bD1c6T7yF03/Jpq81TDuTK+1QeINKhEaerrhJGdyh9RITV6PEP/5pbNV065Q6IRatz6aNSwK78CT/m+9lAgld3DFMmanv0mmlUNYDBtEBSgNP5Z2r0FdMw8vEhu2lNqhNJD2kbrmabL4l5WJlUO7Qo357AbfO6EYMD9Urh5hRiam5zt7QXEQxOawkZy5vpASEYIJekBWkC+OEPQvLfu1x0laM61YpJfHnE0VOqUjVDPcBrhQkKQLjNrpoq5+xB3s5v7urH7feqxSU43r98jF7eBkYHyXPnhw7+Tcfb9nNndS6MohOVKgP7c5iAKqGlJkLS1ocnp1Ivd2Y1tcT/tpHmsw74u5cSlyNGqSaJN0XxLZZQnBTcl6P49gmfNARlDXFLUYu8+zoZCC8FUI3w==;rrym7b0trr1OmAL1e0sX3g=="
 ---
 

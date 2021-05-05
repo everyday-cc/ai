@@ -2,26 +2,32 @@
 category: news
 title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
 excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
-publishedDateTime: 2021-05-04T16:20:00Z
-originalUrl: "https://www.techcentral.ie/microsoft-launches-open-source-tool-counterfeit-to-prevent-ai-hacking/"
-webUrl: "https://www.techcentral.ie/microsoft-launches-open-source-tool-counterfeit-to-prevent-ai-hacking/"
+publishedDateTime: 2021-05-04T12:01:00Z
+originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks"
+webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks"
+ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
 type: article
-quality: 54
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: Mozilla
-  domain: techcentral.ie
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.techcentral.ie/wp-content/uploads/2021/05/Microsoft_DW.jpg"
-    width: 620
-    height: 349
+  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1573748220/itpro/Microsoft_DW.jpg"
+    width: 1260
+    height: 710
     isCached: true
 
 related:
@@ -69,6 +75,6 @@ related:
       domain: zdnet.com
     quality: 84
 
-secured: "1yh/M3BDXAC7qgy2jn6ugC/o2FaIGR929HY3Q2JP57FKK5g2VfKOK4qtT32bkzFfk6fKPMRgarz3oQUxy2F2rY/Vt68J9POkaX9gHv5Esp7SPhSkMaURsrMNZo6yiz1NFZ6GEg3AGtIao0snw6Rq9PzFkNL0X19d+cafZkjKeSO7PsLWz8Tjm2E859SzCSeR6N5Ym1BMz618DXNqs+cBL+ULtWGGgrhl8VHmB7RW5EKa7BuAfDXbg+OEwtA20ea/ffMKAOecJAqGBzGBbLY5YtWf9Ge2z7YVUkb+cQS4NyYi77igPgtuuI8yIC3mfL1QeJQ2dgqJhLg+s8YcaFWmnqOKnTgoKVbHFCBUhZEARYU=;Ww2PpCvbUHHCabwmgSlpPQ=="
+secured: "mKAQgMOtPvMTd9zs6HWRjuQwi1I0NyU9q0NvpjnduddtO47D/C3Dl0PzVQ1kGKuiaNzE9OG1WmHMZZ6qZ6q3PbvPDo23Sl9B5kAnXvA/hbxcWFu/pETniLKJq/I+C37MgcFMsb/DIiOf8RNwxtC4eyrknBqZquJZOMwaQ/V0AZ2+VMCKJ4MV6xrvSrT/SLSQSqWdC3aSLuot4W9qdkxwlb8tLDO1jbu96Lp4g7wRD2Fw3lcMqZfq2ltr0HIKzijXnXqYjgrZcV1CpGGnbQ8FUjaDbA0/xbBiib9t49n5J4OT5QOmfXj5kv6hNOPjj5EdVeQIadNYmz3H12uSLIzubmDoWkproUkKa3r8KT5aa4M=;yyriqKNzYkfb1C5xftZfEw=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Fractal offers AI software on AWS, accelerating digital transformation with cloud AI"
 excerpt: "today announced general availability of Fractal's artificial intelligence (AI) solutions – Cuddle.ai, Concordia and Foresient - on Amazon Web Services (AWS). With this announcement, Fractal ..."
-publishedDateTime: 2021-04-13T10:06:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-301267443.html"
-webUrl: "https://www.prnewswire.com/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-301267443.html"
+publishedDateTime: 2021-04-13T10:25:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-894873416.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-894873416.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 315
     isCached: true
 
-secured: "nRU73Aa9+tnz6upHcdNyWYI4Xh99WXqeH+kZln5MxDz1AINLT8NlZNs5uEiSi9WyNrenXdmMH1QVk5dL2HXfJQOakFVmDetYPr3BiLxumtv3Mj9KVu+TM6TIuAoedBaVuKXIWCY87m2DxQ2QONdDikl6qCzSmbHevOg41aVik0lU3S0EEPrTv0JVTYjZlbiBAhXq+/M0QN2NRTvXzQcbr9Ykd3JRIykh7gumgmqaBh1zw2y8P4/swrxQG0wdQUaFKavtmwP8PLsHGMAAf+ciJ7nKBykt6M+PHqwK2elPZud5vjGPMvazAIAWQVQV14AjQqlaLsu9roIP/IGAZX64JwIy7c3RK1Mg3nfsOo/C1Cc=;mDDv0FmZC0hWio9b+7VAEQ=="
+secured: "tiyJMDcKh+ciVYYsfSCr7yiDuyRKCwm1dYyWf7+gO+ILNG7MVPVrNOcky0riqWtVxVo2eppUQOc7527kVKAY2JIE0TsF6nSfCB8zuIB2x0l7O9ZAxpgwIC6aWUuCMYVimNPHKrzd+VzicONZ6MGwrZP0WryZUjJw1IZcilws4U8jIMt3pX87+c1KqsRYB6n1cdzZZjLJ1Si0blCNjnwNTtsnDTe1k1Knr70T1DNCWJiRBqj5Mfyz8sWXBu0aQ75BXofu4mXpcX0mb1RPiioEEiMGDLJyx27RXjsMqScpqkLxvVPIzRkmKDgCv1TXhjaXsWGJprorNiKjae3/2KYeGbEEa3RLtIzSEs/fSZWi5ws=;5VaHnHH0gMcwY/BbXCmvwA=="
 ---
 

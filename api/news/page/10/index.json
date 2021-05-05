@@ -2,6 +2,110 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-23-best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business.md",
+      "title": "Best-selling biscuit brand leverages IBM hybrid cloud and AI to boost business",
+      "excerpt": "HR and procurement AI: IBM will use IBM Watson Studio to design a performance management framework, monitoring business processes and advocate for an appropriate product mix, faster planning and scheduling, and optimization of supply chain costs Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
+      "originalUrl": "https://www.techrepublic.com/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/23/cf57977a-339f-47ca-a9c3-232b140459b5/resize/1200x/6307c769b08bc1bb15ba9b3346faf9ff/parle.jpg",
+          "width": 1200,
+          "height": 963,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
+      "publishedDateTime": "2021-04-23T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-3-top-fintech-stocks-to-buy-now.md",
+      "title": "3 Top Fintech Stocks to Buy Now",
+      "excerpt": "Fintech stocks have been white-hot over the past year ... and Upstart tackles both with its AI-enhanced software. Rather than rely on traditional credit scores, which often exclude lots of potential borrowers that have good-but-not-quite-great credit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/",
+      "originalUrl": "https://www.fool.com/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F622366%2Fyoung-woman-holding-credit-card-and-smartphone-and-thinking-with-chin-on-fist-online-mobile-shopping-e-commerce.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/",
+      "publishedDateTime": "2021-04-23T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-pure-storage-flashblade-named-leader-in-gigaom-radar-report-for-high-performance-object-storage.md",
       "title": "Pure Storage FlashBlade Named Leader in GigaOm Radar Report for High-Performance Object Storage",
       "excerpt": "Pure Storage® (NYSE: PSTG), the IT pioneer that delivers storage as-a-service in a multi-cloud world, today announced that FlashBlade®",
@@ -1058,113 +1162,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-is-poor-data-quality-undermining-your-marketing-ai.md",
-      "title": "Is poor data quality undermining your marketing AI?",
-      "excerpt": "Inconsistent data quality and lack of data governance leave marketing teams struggling with data accuracy, consistency, and validity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/",
-      "originalUrl": "https://venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/shutterstock_350476919-e1513916353327.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/amp/",
-      "publishedDateTime": "2021-04-22T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21.md",
-      "title": "Microsoft details the latest developments in machine learning at GTC 21",
-      "excerpt": "With the rapid pace of change in AI and machine learning, it’s no surprise Microsoft had its usual strong presence at this year’s Nvidia GTC.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/",
-      "originalUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/",
-      "publishedDateTime": "2021-04-22T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "AI in Finance"
       ]
     }
   ],

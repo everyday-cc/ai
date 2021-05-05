@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/this-new-robotics-challenge-could-brin
 webUrl: "https://thenextweb.com/news/this-new-robotics-challenge-could-bring-us-closer-to-human-level-ai-syndication"
 type: article
 quality: 99
-heat: 101
+heat: 99
 published: true
 
 provider:

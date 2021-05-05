@@ -503,15 +503,15 @@
       "title": "False facial recognition sends innocent New Jersey man to jail",
       "excerpt": "New Jersey police arrested an innocent man on unlawful possession of a weapon, resisting arrest and aggravated assault charges after he was falsely identified by facial recognition technology. Law enforcement agencies across the country use facial recognition to generate leads on suspects,",
       "sourceUrl": null,
-      "webUrl": "https://www.wistv.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/",
-      "originalUrl": "https://www.wistv.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/",
+      "webUrl": "https://www.hawaiinewsnow.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/",
+      "originalUrl": "https://www.hawaiinewsnow.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.wistv.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG",
+          "url": "https://www.hawaiinewsnow.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG",
           "width": 1200,
           "height": 671,
           "title": null,
@@ -523,11 +523,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T13:35:00-07:00",
+      "publishedDateTime": "2021-04-29T12:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WIS TV",
-        "domain": "wistv.com",
+        "name": "KHNL",
+        "domain": "hawaiinewsnow.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -778,19 +778,19 @@
     {
       "path": "_news/2021-04-26-apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale.md",
       "title": "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale",
-      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today announced the expansion of its Workbench data labeling and annotation platform to include video labeling capabilities for computer vision models,",
+      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/n20796180/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-compute",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision/article_21164e92-9296-5a5f-89f0-d19a2c240916.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1496629/AppTek.jpg",
-          "width": 400,
-          "height": 286,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630",
+          "width": 880,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -798,13 +798,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20796180",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20796180",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-04-26T09:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -814,8 +814,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {

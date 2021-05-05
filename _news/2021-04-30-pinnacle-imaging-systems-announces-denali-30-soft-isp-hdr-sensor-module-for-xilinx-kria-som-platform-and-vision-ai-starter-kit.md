@@ -20,22 +20,6 @@ topics:
 
 related:
   - title: "Xilinx and DornerWorks Collaborate to Enable Next-Gen Machine Learning Solutions on Xilinx Kria SOM"
-    excerpt: "Not too long ago the path from algorithm to fielded machine learning ML model was a long and complex undertaking Those with access to a ML expert with a working knowledge of neural network deployment might have options but they"
-    publishedDateTime: 2021-04-30T06:31:00Z
-    webUrl: "https://www.openpr.com/news/2277765/xilinx-and-dornerworks-collaborate-to-enable-next-gen-machine"
-    ampWebUrl: "https://www.openpr.com/amp/2277765/xilinx-and-dornerworks-collaborate-to-enable-next-gen-machine"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277765/xilinx-and-dornerworks-collaborate-to-enable-next-gen-machine"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/U/4/U429771274_g.jpg"
-        width: 547
-        height: 312
-        isCached: true
-  - title: "Xilinx and DornerWorks Collaborate to Enable Next-Gen Machine Learning Solutions on Xilinx Kria SOM"
     excerpt: "Not too long ago, the path from algorithm to fielded machine learning (ML) model was a long and complex undertaking. Those with access to a ML expert with a working knowledge of neural network deployment might have options,"
     publishedDateTime: 2021-05-01T07:05:00Z
     webUrl: "https://www.pr.com/press-release/835660"

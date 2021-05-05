@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-ad
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 179
+published: true
 
 provider:
   name: VentureBeat
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Acquires Turbonomic To Build AIOps Tools"
-    excerpt: "IBM has agreed to acquire Turbonomic, a Boston-based company that provides tools to manage application and network performance."
-    publishedDateTime: 2021-04-30T05:44:00Z
-    webUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/"
-    ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/04/30/ibm-acquires-turbonomic-to-build-aiops-tools/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb66bc6da454c5792d7d9fa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4710%26cropY1%3D644%26cropY2%3D3293"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "IBM to acquire AIOps firm Turbonomic"
     excerpt: "The announcement follows IBM's recent acquisition of Instana, as well as the launch of IBM Cloud Pak for Watson AIOps, which automates IT operations with the help of artificial in"
     publishedDateTime: 2021-04-30T11:24:00Z
@@ -122,6 +106,20 @@ related:
       - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/01/iStock-458622753-1.jpg"
         width: 1254
         height: 836
+        isCached: true
+  - title: "Turbonomic Acquisition Will Add Depth to IBM AIOps Portfolio"
+    excerpt: "In a move aimed to expand the IBM performance management push, Big Blue has agreed to acquire Turbonomic in a deal reportedly worth more than $1.5 billion."
+    publishedDateTime: 2021-05-04T21:49:00Z
+    webUrl: "https://www.channelfutures.com/mergers-and-acquisitions/turbonomic-acquisition-will-add-depth-to-ibm-aiops-portfolio"
+    type: article
+    provider:
+      name: channelfutures
+      domain: channelfutures.com
+    quality: 39
+    images:
+      - url: "https://www.channelfutures.com/files/2020/07/Artificial-Intelligence-6.jpg"
+        width: 1000
+        height: 543
         isCached: true
   - title: "IBM acquires software firm Turbonomic for a reported $2bn"
     excerpt: "IBM has agreed to acquire software firm Turbonomic for a reported $1.5bn to $2bn. Financial details were not disclosed in the release from IBM but Reuters is reporting that the deal is worth between $1."

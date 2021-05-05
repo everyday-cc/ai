@@ -2,6 +2,94 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-04-13-microsoft-adds-speech-recognition.md",
+      "title": "Microsoft adds speech recognition",
+      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health ...",
+      "sourceUrl": null,
+      "webUrl": "https://journalgazette.net/business/20210413/microsoft-adds-speech-recognition",
+      "originalUrl": "https://journalgazette.net/business/20210413/microsoft-adds-speech-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Journal Gazette",
+        "domain": "journalgazette.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-neuralink-and-beyond-how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks.md",
+      "title": "Neuralink And Beyond- How Machine Learning Will Enable Technologies That Anticipate What The Brain Thinks",
+      "excerpt": "Brain-machine interfaces - or brain-computer interfaces, the terms are used interchangeably - are technologies designed to directly ‘‘plug’ into the nervous system: the brain, retinas in the eyes (which are actually a part of the brain itself),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/",
+      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606f78e1c80df8df6e0b0c6d%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/amp/",
+      "publishedDateTime": "2021-04-12T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-new-algorithm-can-predict-which-genes-cause-cancer.md",
       "title": "New algorithm can predict which genes cause cancer",
       "excerpt": "A team of researchers in Berlin combined a wide variety of data, analyzed it with \"Artificial Intelligence\" and identified numerous cancer genes. This opens up new perspectives for targeted cancer therapy in personalized medicine and for the development of ...",
@@ -990,93 +1078,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-more-than-the-sum-of-mutations-165-new-cancer-genes-identified-with-the-help-of-machine-learning.md",
-      "title": "More than the sum of mutations: 165 new cancer genes identified with the help of machine learning",
-      "excerpt": "A new algorithm can predict which genes cause cancer, even if their DNA sequence is not changed. A team of researchers in Berlin combined a wide variety of data, analyzed it with \"Artificial Intelligence\" and identified numerous cancer genes.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/morethanthes.jpg",
-          "width": 1000,
-          "height": 1300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-sum-mutations-cancer-genes-machine.amp",
-      "publishedDateTime": "2021-04-12T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-doubling-down-on-ai-microsoft-to-acquire-nuance-for-197b.md",
-      "title": "Doubling down on AI, Microsoft to acquire Nuance for $19.7B",
-      "excerpt": "Microsoft Corp. will pay $19.7 billion to acquire Nuance Communications Inc., a company that uses artificial intelligence to help physicians create medical notes faster. The hefty price tag of the transaction,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/04/12/doubling-ai-microsoft-acquire-nuance-19-7b/",
-      "originalUrl": "https://siliconangle.com/2021/04/12/doubling-ai-microsoft-acquire-nuance-19-7b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/microsoft.png",
-          "width": 768,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

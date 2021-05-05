@@ -200,7 +200,7 @@
       "originalUrl": "https://thenextweb.com/news/this-new-robotics-challenge-could-bring-us-closer-to-human-level-ai-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -252,7 +252,7 @@
       "originalUrl": "https://www.openpr.com/news/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -505,7 +505,7 @@
       "originalUrl": "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -956,6 +956,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-30-ibm-is-acquiring-turbonomic-to-advance-aiops-agenda.md",
+      "title": "IBM is acquiring Turbonomic to advance AIOps agenda",
+      "excerpt": "IBM is acquiring Turbonomic to extend the scope of its AIOps portfolio. This follows a series of acquisitions over the last several months.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/",
+      "originalUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Turbonomic8-intuitiveUX.gif?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/",
+      "publishedDateTime": "2021-04-30T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-elon-musk-shares-painfully-obvious-idea-about-the-difficulty-of-self-driving-cars.md",
       "title": "Elon Musk Shares Painfully Obvious Idea About the Difficulty of Self-Driving Cars",
       "excerpt": "Elon Musk, one of the wealthiest people on the planet, sent a tweet Thursday night about the real problem with self-driving cars. And as you can probably guess by now, it’s one of those things that sounds profound until you stop to think about it for three seconds.",
@@ -1165,7 +1217,7 @@
       "originalUrl": "https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1205,58 +1257,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-ais-ethical-issues-are-exacerbated-by-increasing-scale.md",
-      "title": "AI’s ethical issues are exacerbated by increasing scale",
-      "excerpt": "Tiernan Ray says AI has always carried the risk of abuses such as bias. The increasing scale of the field, however, in terms of the size of neural network models, the escaping compute budget, and the proliferation of generated content such as fake faces and fake writing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/ais-ethical-issues-are-exacerbated-by-increasing-scale/",
-      "originalUrl": "https://www.zdnet.com/video/ais-ethical-issues-are-exacerbated-by-increasing-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/04/29/c0df2498-b572-4614-ab39-dfa291102684/thumbnail/770x578/116643acf3953d9cd3021d90abf233c8/20210422-tiernan-karen-ai.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

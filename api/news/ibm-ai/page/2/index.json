@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-30-top-ai-companies-in-the-world-creating-massive-disruption.md",
+      "title": "Top AI Companies in the World Creating Massive Disruption",
+      "excerpt": "As AI has become a strong power in business, today’s top AI companies in the world are leaders of this growing technology. Let’s look at the best AI companies in the world playing a critical role in industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-ai-companies-in-the-world-creating-massive-disruption/",
+      "originalUrl": "https://www.analyticsinsight.net/top-ai-companies-in-the-world-creating-massive-disruption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-AI-Companies.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-from-iits-to-harvard-list-of-online-courses-offered-in-artificial-intelligence.md",
       "title": "From IITs to Harvard - List of Online Courses Offered in Artificial Intelligence",
       "excerpt": "Artificial Intelligence (AI) is one of the most sought-after courses of study for a long time and is expected to remain in trend for a couple of years to come. Students and working professionals who want to upskill in this emerging technology can pursue several online courses offered by IITs,",

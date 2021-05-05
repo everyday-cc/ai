@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3617001/extreme-ceo-talks-ai-au
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.amp.html"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

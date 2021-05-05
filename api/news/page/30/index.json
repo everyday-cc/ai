@@ -2,6 +2,91 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-04-04-deepminds-cofounder-partied-with-elon-musk-for-his-raucous-40th-birthday-party-on-the-orient-express-a-new-book-revealed.md",
+      "title": "DeepMind's cofounder partied with Elon Musk for his raucous 40th birthday party on the Orient Express, a new book revealed",
+      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% One of the cofounders of Google's buzzy in-house AI company DeepMind once partied with Elon Musk as the Tesla cofounder celebrated his birthday on board the Orient Express, a new book reveals. The Tesla CEO's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/deepmind-cofounder-elon-musk-tesla-orient-express-2021-4",
+      "originalUrl": "https://www.businessinsider.com/deepmind-cofounder-elon-musk-tesla-orient-express-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6065e812902281001950a93b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year.md",
+      "title": "Self-driving startup Argo AI is said to consider IPO this year",
+      "excerpt": "Argo AI, a self-driving startup that is backed by Ford Motor Co. (F) and Volkswagen (VWAGY), is reportedly considering an initial public offering as soon as this year.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year",
+      "originalUrl": "https://seekingalpha.com/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3678988-self-driving-startup-argo-ai-is-said-to-consider-ipo-this-year",
+      "publishedDateTime": "2021-04-03T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-advanced-baby-lung-simulator-with-real-time-artificial-intelligence.md",
       "title": "Advanced Baby Lung Simulator with Real-Time Artificial Intelligence",
       "excerpt": "high end baby lung simulator with real-time artificial intelligence. The input of an operator is needed to react to therapy provided by the trainer or learner with conventional, complex simulators ...",
@@ -1037,93 +1122,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally.md",
-      "title": "Karachi students introduce another version of mind-controlled prosthetic arm, not yet available globally.",
-      "excerpt": "Despite the students’ claim, mind-controlled prosthetics are nothing new, and a group of Pakistani engineers successfully created a similar robotic arm controlled by the brain, also as part of their final year project back in 2019. Some 30 disabled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techjuice.pk/karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally/",
-      "originalUrl": "https://www.techjuice.pk/karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techjuice.pk/wp-content/uploads/2021/04/Untitled.png",
-          "width": 1303,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techjuice.pk",
-        "domain": "techjuice.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-mit-robot-sees-hidden-objects-with-radio-waves.md",
-      "title": "MIT Robot Sees Hidden Objects with Radio Waves",
-      "excerpt": "The robot, known as RF-Grasp, has traditional cameras for object recognition. The camera is mounted to the bot’s mechanical grasper, giving it a good view of anything the hand might be trying to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
-      "originalUrl": "https://www.extremetech.com/extreme/321466-mit-robot-sees-hidden-objects-with-radio-waves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2021/04/rf-grasp.jpg",
-          "width": 672,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

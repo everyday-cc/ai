@@ -28,22 +28,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "'Can I see your parts list?' What AI's attempted chat-up lines tell us about computer-generated language"
-    excerpt: "Have you ever wondered what flirting with artificial intelligence would look like? Research scientist and engineer Janelle Shane has given us an idea by training a neural network – an algorithm loosely inspired by biological brain structures – to produce chat-up lines ."
-    publishedDateTime: 2021-04-30T05:11:00Z
-    webUrl: "https://menafn.com/1101996794/Can-I-see-your-parts-list-What-AIs-attempted-chat-up-lines-tell-us-about-computer-generated-language"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/updates/pr/2021-04/28/TC_5c41decf-9image_story.png"
-        width: 2245
-        height: 1587
-        isCached: true
-
 secured: "C89HRgjScfn4u3kDnZK9vNxDzxUOm2Gfx7UMJ5XwNH8V5lhixA9w7EWWU1UMbv+JF83lCVxphnPueJGGxfZrkqq1yyjobpEEhlQn0FIX7pqpJi7aTIBBqDJPl3q8oarOrp+3YxYI7jlENg67TYS+8lKErHq0bsxQ7oQVwkbnfT2ZvgqIsYUyvcwovCo+9x6TrbR60vwcrWQuCNZ8KzSRBG/PBDnwYWnYZZb5sI2UWqzfIt6K4s019jFiktNpjOU3UEolL8csNAek2v96V05nWvsO51kEWYal+Ce9Yeino4gUcxqU+ZQqqblE+2GMwCrvwllQ5ZMFuIgjg39oda37hmVt/vPyhaySFi3T6ZiN8BMKav32YqsrzoNvJlPL6mUfAka9r+Ha+vX4sf2iJtdX2HlysdSG3TfsYTsqRDrgxPz6jqNPOn+4o+/EkNQZ0Z8BfzNryfmwDmEIdSMiSOlYf2NGC5EDaLN1ygkgWW90om+fIh+Wt0BgDhQRSPKUGaWFSf3YcdJ4+3dYeqF0F662VQ==;bETXw0XqYaBFIL0ALGfrww=="
 ---
 

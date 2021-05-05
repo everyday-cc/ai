@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognizant/2021/05/04/want-to-boost-your
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognizant/2021/05/04/want-to-boost-your-returns-from-ai-follow-the-leaders/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

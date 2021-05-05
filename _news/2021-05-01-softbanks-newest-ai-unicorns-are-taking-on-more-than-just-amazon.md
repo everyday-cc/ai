@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newes
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:

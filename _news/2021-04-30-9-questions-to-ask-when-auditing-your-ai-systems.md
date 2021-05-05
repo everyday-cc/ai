@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/9-questions-to-ask-w
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/9-questions-to-ask-when-auditing-your-ai-systems/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

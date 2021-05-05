@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-30-china-publishes-draft-security-standard-on-facial-recognition.md",
+      "title": "China Publishes Draft Security Standard on Facial Recognition",
+      "excerpt": "On April 23, 2021, the National Information Security Standardization Technical Committee of China published a draft standard (in Chinese) on Security Requirements of Facial Recognition Data",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition",
+      "originalUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp",
+      "publishedDateTime": "2021-04-29T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-artificial-intelligence-what-about-its-ethical-deployment.md",
       "title": "Artificial Intelligence – what about its ethical deployment?",
       "excerpt": "While companies are making progress deploying artificial intelligence and machine learning, more than half of enterprises overestimate their levels of maturity in deploying responsible AI models.",
@@ -958,6 +1002,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-29-asml-riding-the-chip-wave.md",
+      "title": "ASML: Riding The Chip Wave",
+      "excerpt": "AI, IoT, 5G are driving a new wave for semiconductors. Chipmakers are spending billions to increase fab capacity in response to this structural uptrend in chip demand. A sizeable portion of that spending is expected to be on-chip equipment,",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4422340-asml-riding-chip-wave",
+      "originalUrl": "https://seekingalpha.com/article/4422340-asml-riding-chip-wave",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1247736623/medium_image_1247736623.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4422340-asml-riding-chip-wave",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4422340-asml-riding-chip-wave",
+      "publishedDateTime": "2021-04-29T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-elon-musk-teslas-next-full-self-driving-beta-update-will-blow-your-mind.md",
       "title": "Elon Musk: Tesla’s next Full Self-Driving Beta update ‘will blow your mind’",
       "excerpt": "Elon Musk now says that Tesla’s next Full Self-Driving Beta software update ‘will blow your mind’ and it’s only about two weeks away. Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through what it calls its “early access program”.",
@@ -1058,110 +1145,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-uk-prepares-to-conditionally-legalize-self-driving-cars.md",
-      "title": "UK prepares to conditionally legalize self-driving cars",
-      "excerpt": "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
-      "originalUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/5288f9f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2Fc6%2F228c4d91471c869f92b16e65a83c%2Fdepositphotos-181168354-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true",
-      "publishedDateTime": "2021-04-28T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says.md",
-      "title": "EU’s plan to woo chip manufacturers won’t work, Taiwan says",
-      "excerpt": "The EU may be interested in convincing Taiwan's chipmakers to build chips in Europe, but most chip production is expected to stay in Taiwan.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/Microchip-e1617299979361.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/amp/",
-      "publishedDateTime": "2021-04-28T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

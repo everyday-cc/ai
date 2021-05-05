@@ -55,6 +55,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-30-ibm-is-acquiring-turbonomic-to-advance-aiops-agenda.md",
+      "title": "IBM is acquiring Turbonomic to advance AIOps agenda",
+      "excerpt": "IBM is acquiring Turbonomic to extend the scope of its AIOps portfolio. This follows a series of acquisitions over the last several months.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/",
+      "originalUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Turbonomic8-intuitiveUX.gif?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/",
+      "publishedDateTime": "2021-04-30T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-ibm-acquires-turbonomic-to-build-aiops-tools.md",
       "title": "IBM Acquires Turbonomic To Build AIOps Tools",
       "excerpt": "IBM has agreed to acquire Turbonomic, a Boston-based company that provides tools to manage application and network performance.",
@@ -1312,49 +1364,6 @@
       "provider": {
         "name": "MD&M East",
         "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-top-ai-companies-in-the-world-creating-massive-disruption.md",
-      "title": "Top AI Companies in the World Creating Massive Disruption",
-      "excerpt": "As AI has become a strong power in business, today’s top AI companies in the world are leaders of this growing technology. Let’s look at the best AI companies in the world playing a critical role in industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-ai-companies-in-the-world-creating-massive-disruption/",
-      "originalUrl": "https://www.analyticsinsight.net/top-ai-companies-in-the-world-creating-massive-disruption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-AI-Companies.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
         "images": null,
         "publishers": null,
         "authors": null
