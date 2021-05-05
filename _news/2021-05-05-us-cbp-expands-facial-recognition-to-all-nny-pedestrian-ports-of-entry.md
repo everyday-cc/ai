@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. CBP expands facial recognition to all NNY pedestrian ports of entry"
-excerpt: "U.S. Customs and Border Patrol is expanding its facial recognition systems, and on Tuesday announced they have installed the technology at all pedestrian border crossings in northern"
-publishedDateTime: 2021-05-05T03:22:00Z
-originalUrl: "https://www.nny360.com/news/stlawrencecounty/u-s-cbp-expands-facial-recognition-to-all-nny-pedestrian-ports-of-entry/article_066fe4b2-2fff-53d4-aa7e-141ad45ff4db.html"
-webUrl: "https://www.nny360.com/news/stlawrencecounty/u-s-cbp-expands-facial-recognition-to-all-nny-pedestrian-ports-of-entry/article_066fe4b2-2fff-53d4-aa7e-141ad45ff4db.html"
+excerpt: "U.S. Customs and Border Patrol is expanding its facial recognition systems, and on Tuesday announced they have installed the technology at all pedestrian border crossings in Northern"
+publishedDateTime: 2021-05-05T10:32:00Z
+originalUrl: "https://www.nny360.com/news/nationandworld/u-s-cbp-expands-facial-recognition-to-all-nny-pedestrian-ports-of-entry/article_066fe4b2-2fff-53d4-aa7e-141ad45ff4db.html"
+webUrl: "https://www.nny360.com/news/nationandworld/u-s-cbp-expands-facial-recognition-to-all-nny-pedestrian-ports-of-entry/article_066fe4b2-2fff-53d4-aa7e-141ad45ff4db.html"
 type: article
 quality: 38
 heat: 38
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "1YH8I0mmyyGc10hrc7RL0HvY55TvFlsvkrBSUjR60GjstSdE+MmN+gnLufDWYVUCDP3BQpYopENLEqHelZ/r3keh+KehqyvjYTts3d+H+g5pHmICE5P3Wzk52E3n//Qj3Ftp6YdqWxVYrkTo61BaDr6jqS/nsL/LibscLxMoquccE2adKN6uEi3Ge6bPu0mPus/ABOTzkHwnjDsDYSR92xSCMkPekByf6xhC0Lq2VCUnx65Z8uh+wOrFXQQjkDC8IdkAFxH0o32atxG9leSKPNOcc9bEATYIE4v2wNs9jrGX+ktXcDfOSKC0nfjtsvrJNcpHdlj4+U/24isROitRvknlLv1tGm81qJL3lcjNiXDEueDSu3eQlsyFl/nMYq0qrrvVV5SlliUX5hYqtN2+9y1Hsb2IA2a3MXh3rwxKh3KFeahLH9wTSwR0KVseTNOMBSVoeMVNBZxxKF+IUVMdHE2D0LFOehM+UBtLEdsoKhXCLu+zKpdwcCEyaAXbX1WWRHfOydoqZPxV6ZM71GDeuA==;zKxD7ASg/lbP8+tPenB17A=="
+secured: "/2IpriVzE8BoyOelOMdUKGZCVj0E7I7wdqc0+95OF0SGf3MMkJoYCEA6qRxi/GhNjA6465XaTtlAm6Ve/LwlVWM186ZaZwA8trCEImctdjcP+BiE7G2tiDNZoHxRwaF3hDgm51Oq6MhMUeq8jtCbDItpz9B3vx0XFQMWl7U29FslJlr9x0Nw6Cp8kgxT99X7OLdeRFcAR7cs+gGoHpaKbs3MaWJb6xZ3EqzEzqD7dOXK998+VesBZ4sO/WRSxmjh5/oGwKMp3yZpJFAgd2Xq7zdvGGzvSM/mlb6GEcjb+q2cTVa6m2OYaFMxMRGjrtqfRsOXHEyEnDqptCMC4ML5sH6VsnJKaPTdU0i2L4i6AXE=;aw7ea2XK8ywICcW3uTRNZg=="
 ---
 

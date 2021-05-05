@@ -1,30 +1,29 @@
 ---
 category: news
-title: "Temple University Health System Selects ElectrifAi's Practical Artificial Intelligence Solutions to Improve Financial Performance and Reduce Risk"
-excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML)"
-publishedDateTime: 2021-05-05T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/temple-university-health-system-selects-electrifais-practical-artificial-intelligence-solutions-to-improve-financial-performance-and-reduce-risk-301284227.html"
-webUrl: "https://www.prnewswire.com/news-releases/temple-university-health-system-selects-electrifais-practical-artificial-intelligence-solutions-to-improve-financial-performance-and-reduce-risk-301284227.html"
+title: "Temple University Health System Selects ElectrifAi’s Practical Artificial Intelligence Solutions to Improve Financial Performance and Reduce Risk"
+excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, announced today its collaboration with Temple Health, which is a leading Philadelphia-based academic health system that is driving medical advances through clinical innovation,"
+publishedDateTime: 2021-05-05T12:37:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/temple-university-religion-health-technology-business-89aa3a0b8fb40220b8d959c48fed41ff"
+webUrl: "https://apnews.com/press-release/pr-newswire/temple-university-religion-health-technology-business-89aa3a0b8fb40220b8d959c48fed41ff"
 type: article
-quality: 19
-heat: 19
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "TXmlV0d65FIa3fXLbf8wtqTzouqokAX6KWOuhVNvzryDCN3Qjmly0XOUqxAtDE9OulgYw5ykZIHiEnqXCc9TZsJLFSjfLITyjtAIdrINhSB1imOI2e/9mY0BkQPP9uNXPGnvzXHoZ3rHjHS58GYI11xIjVkPEOOt3VcqUx3K3xldj2vie6F2GEYVrJVQ2KmeIBZVYclQ1o/qrHM3sQjAaS1EhE6W3Uj6kK2L5+no4iQJuHeFHRWvb0/38diHuVuLDyyCNqBl1S/bI/XCpNmcWvyXU2ofPHUv8oDIZ6zOooAJ/DbVJ3UberQ7jp9SzWx/uQ3fR9QaurcGpNMs3OZRqb1ZbyR3wES0zPkhyzDIcZk=;89lKa1JnDLRjde8IvDyLWQ=="
+secured: "Fe31+2+yY0klJPggpyHsM5MCGRRlS1TDGKuiyVYrxm+29+0Cm5cFusmBjdsHcwNyMd56bIqV8nqPHfW6B263rbLyi46vQ7nMmiPTsjWEJsmwP4kXoDIp0v/T+p3jsH76NCaHJ5PNkZDa+2MpkMwZrgyAokaEirmpjj/tuRK4Q8P1P3P7YAJN3DNT5JSsYCe4Vm1TdKC4PWamqf0bIBWri9tXlbvyWTdz8zE4AVkkcBPENiFLW8Cey7cMWjltsp5YoA1inqg7RJFjVORmcpGnmmLP8iRhiXGJl5d5wlvkAolEm0AtK95FbOFevoLS9QGmpeb3swlX436RYBTE0Wcwj8oCN00fy2TekI/otsQPLVU=;llxHiQd/Q1oCdYkgiossmg=="
 ---
 

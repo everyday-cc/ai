@@ -23,6 +23,17 @@ images:
     height: 595
     isCached: true
 
+related:
+  - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to new market research report \"Artificial Intelligence Market by Offering (Hardware, Software, Services), Technology (Machine Learning, Natural"
+    publishedDateTime: 2021-05-05T15:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52785014-artificial-intelligence-ai-market-worth-dollar-309-6-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 17
+
 secured: "PABQNLp17eb6iC0FFasRLDHkEIODWujJPam4e/c0hU3z9OVn7FHMZY4raYNQ/4bV0C7zS2lAzRZJax3isd5bMedsh2QCRtMrlU+HKDo2HudMi0awW0I3rEHUmfHZDOgEpxxH745mnVTTTs9HXEznnawikYVKf7BTre+pyLb0386uIuOsNJFM0xeDkEAnoH/yUAfP/QR6XKqW307W49Y2tng+do5/5Co3enzzb02dbP3qIZNNkk9HlIy+qBc90QONpP2ig+lO3BBjBm1Ly9fkAlST3CBDWnYknZhTSH47fcTMo9WVRjAwljXEApToYsHK4bOU2+YO/BxxRWh9XnEGOPzoc3YkNp/U9+ZX7jf6VgE=;0w14fN59ugmLX/uqx6Ur4Q=="
 ---
 

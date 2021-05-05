@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding AI In Our AI Brain Trust Leadership Series"
-    excerpt: "This blog is a continuation of the AI Brain Trust Leadership Series and explains key concepts for Board Directors and CEOs to understand regarding AI. Helpful references are provided to advance knowledge and competency,"
-    publishedDateTime: 2021-04-30T22:34:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/04/30/understanding-ai-in-our-ai-brain-trust-leadership-series/"
+  - title: "IT Pro 20/20: Understanding our complicated relationship with AI"
+    excerpt: "Welcome to issue 16 of IT Pro 20/20. This time we look at our strained, confusing, and often contentious relationship with artificial intelligence, and how that is shaping development. We’ve addressed some of the more concerning issues surrounding the eager rollout of the technology,"
+    publishedDateTime: 2021-05-05T14:26:00Z
+    webUrl: "https://www.cloudpro.co.uk/business-intelligence/9064/it-pro-2020-understanding-our-complicated-relationship-with-ai"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608c7f36c1ba92b0fee69491%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/05/it_pro_20-20_issue_16_teaser.jpeg"
+        width: 1490
+        height: 843
         isCached: true
 
 secured: "KbFaIN8lh411hbBCqqN4lrq3vLtChMFXj/aCP00LPKiY1StD1nbFwc+r+zynUDQVprGXNpQXUNP3mCpAXkpq76SHRwYT85myn0g5vLaXOdBB0Di5s/JAb6uuUMBQBKc8QeTnnmzObEy4Xh+s/PDu9Sz5KhC19FNBTJhGLXNsk1petW3Nb3N0VmbAy2Lx2gWhxGJdddPL6UqyNooOTn0HlHZksQUbMIKnxWRbht/thm30tV0tmIf1E0yFt2cv7u52eIefuFBFvnQ7WR8km2mQjf9Qs5Vl8We+SA1GRKEn0Ts1pkrPHizIsc3cxP/nAWQbIRXHXq0Gvb3K21ea9nIv9kTMoiqVwpwmpgUwmQTyRcnAbY+exeqBlTQME7s5yXcdg8sd+gfLoLkBruIfaqtbBX/KYz1CkdWmTfPS7YgbORjgciseBYQU2SMBmPC0hj1wSHh0eUylzwJ4w/pzJaX1m07mHoaQp2xPr1w11yrfnNHC3aEK9yfDRyfrQG+oDp/ZrxOA8eaoKTAh2vjnXsXuZg==;ebFy5luaYc0hP4ThbOG3qw=="

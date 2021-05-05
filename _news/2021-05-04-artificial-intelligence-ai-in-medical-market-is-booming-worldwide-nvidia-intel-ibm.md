@@ -56,6 +56,22 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "5 Entry-Level Marketing Projects for AI Newbies"
+    excerpt: "Marketing teams are increasingly turning to artificial intelligence (AI) to improve results, with marketers investing over $227 million in AI-based technologies in 2018 alone, according to Statista. Yet many companies have yet to use AI or have just started exploring it recently."
+    publishedDateTime: 2021-05-05T15:06:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/5-entry-level-marketing-projects-for-ai-newbies/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/5-entry-level-marketing-projects-for-ai-newbies/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/5-entry-level-marketing-projects-for-ai-newbies/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 74
+    images:
+      - url: "https://www.cmswire.com/-/media/0b9ddf7a31fc4dcc8f938ec905099756.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Intel Community Needs Next-Gen Microelectronics for Future of AI"
     excerpt: "IARPA wants “seedling” ideas that use a multidisciplinary approach that extends beyond traditional technological and scientific fields."
     publishedDateTime: 2021-05-03T17:41:00Z

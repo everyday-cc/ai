@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/269136641/ai-in-fintech-market
 webUrl: "https://www.bignewsnetwork.com/news/269136641/ai-in-fintech-market-may-see-a-big-move--major-giants-microsoft-google-ibm"
 type: article
 quality: 53
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 7
+  - title: "Artificial Intelligence Products Market to Witness Growth Acceleration by Top Key Players Like MicroStrategy, IBM Corporation, Google,Inc, Brighterion"
+    excerpt: "Artificial Intelligence Products Market is growing at a 33.12% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
+    publishedDateTime: 2021-05-05T10:16:00Z
+    webUrl: "https://ksusentinel.com/2021/05/05/artificial-intelligence-products-market-to-witness-growth-acceleration-by-top-key-players-like-microstrategy-ibm-corporation-googleinc-brighterion/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-Market-Research-16-P-58.png"
+        width: 552
+        height: 308
+        isCached: true
 
 secured: "8ttQuJvtoQ3f7rlxuMnTWTu9XUsju9him2G4qnOYw1hNK3oWzKWiJHPNPuYxZ8/+pFBa2VYCAvSAs3qc+nksLUNrKo/sBQWxohx/1noPD7Tr1KV3v54cdleQWvrmakW4uKK4437pNmhn+pCO0/xyshbhfumJg/pCz4rffw7P3gDrD15VKNGNpMZiFrJkFmP7jYIVpVvmj40CoMRyVhqSWQa5pzZbKA9MfcvpMOn0ReEXKI9/I1tEkth9NH0GYcntfkGwXNGF7KLqr2UGLU4fhiiTtKUjJYrLKfb4a2HuUUu+khOJkkC4mACRqJVQRVXlt05YpoQMk79OtEYzKinLbHtpMXcSCNwOJEUL9w2h2n9lbIC+b7uMG9XWhz8+7jY1+93cAvR1uPzw9W7+oAiZwP0ZziEqmQEKrBlMv6+2g9v9Tn8KOK4wU+5kj3S2nZ5tXBvdW5fem9d8dQWp/MlRZg5HNEa8BsfiOgH7TT9onU1RBwn4sXE6LWBryS0mM2yfZAAc1clFrP/QQR5KY8jYdw==;pQ0SpGg8YCm35nDTfJWrcw=="
 ---

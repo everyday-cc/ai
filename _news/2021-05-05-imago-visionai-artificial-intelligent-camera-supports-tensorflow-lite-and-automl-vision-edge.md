@@ -6,9 +6,9 @@ publishedDateTime: 2021-05-05T12:19:00Z
 originalUrl: "https://www.geeky-gadgets.com/artificial-intelligent-camera-05-05-2021/"
 webUrl: "https://www.geeky-gadgets.com/artificial-intelligent-camera-05-05-2021/"
 type: article
-quality: 60
-heat: 60
-published: false
+quality: 77
+heat: 77
+published: true
 
 provider:
   name: Geeky Gadgets
@@ -18,6 +18,7 @@ topics:
   - TensorFlow
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/05/artificial-intelligent-camera.jpg"
