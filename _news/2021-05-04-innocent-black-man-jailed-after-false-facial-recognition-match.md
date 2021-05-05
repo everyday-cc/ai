@@ -7,8 +7,8 @@ originalUrl: "https://www.trtworld.com/video/social-videos/innocent-black-man-ja
 webUrl: "https://www.trtworld.com/video/social-videos/innocent-black-man-jailed-after-false-facial-recognition-match/609145f43b0f87001e8e3263"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: TRT World
@@ -38,6 +38,20 @@ related:
       - url: "https://www.voiceofsandiego.org/wp-content/uploads/2021/04/Facial-Recognition_FINAL.png"
         width: 1800
         height: 1200
+        isCached: true
+  - title: "Sexism in Facial Recognition Technology"
+    excerpt: "Shreya Tewari provides an overview of recent work on facial recognition technology -- and calls for greater transparency. “Presenting AI with a diverse representation of datasets for it to learn from would be a great start in reversing the prevalent biases."
+    publishedDateTime: 2021-05-05T19:02:00Z
+    webUrl: "https://cyber.harvard.edu/story/2021-05/sexism-facial-recognition-technology"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
+    images:
+      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "vyulKxw6OqSjyaL/uxN3k83JFLKyJXznvxnCKsFYTwhxIZNEuTjeLgspxdVM2aCQ1TlXx5y89N0b1lQBcRwE7PDcvZWVunMAL9feGK+ZfOwCURv/+BDLUApPRt4EQ0Rr4rQQwSvRyGAmNh5wY7IvIByUEBzBWjU7MM+8TbgqKA6JVXLq+rc2cCB8j4tshMLS5avD3gKmCpYqxwlt++uJLVXDjY5WPhKVBr1LuGUW/heQsLNAaBWBqpI1WbiNpXswzixnS1KvCdo8qSDEgSFHVUwh782lStvX2eTx9FrWNkNYbibjJUPmq1zZEAZnQcN+9JV5RsG+VsAri1lZYxb+dOqAnmFI58RGRqFpOVYlvHg=;qEEpcPVq3qD4Oam4e8lRBg=="

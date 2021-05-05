@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-03-police-should-not-be-banned-from-using-facial-recognition-technology-says-uk-watchdog.md",
+      "title": "Police should not be banned from using facial recognition technology, says UK watchdog",
+      "excerpt": "Use of facial recognition by police should not be banned and instead left to the discretion of law enforcement rather than lawmakers, the UK’s new biometrics watchdog has said. Fraser Sampson, the newly appointed commissioner whose job it is to scrutinise how police and other authorities deploy biometrics and surveillance cameras on the public,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
+      "originalUrl": "https://www.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e1a06a9-7196-40d3-9855-7cf75aa5fa8b.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
+      "publishedDateTime": "2021-05-02T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating.md",
+      "title": "In a year of major shifts, the self-driving car market is consolidating",
+      "excerpt": "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/",
+      "originalUrl": "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/volkswagen-electric-car-id3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/",
+      "publishedDateTime": "2021-05-02T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-02-this-new-robotics-challenge-could-bring-us-closer-to-human-level-ai.md",
       "title": "This new robotics challenge could bring us closer to human-level AI",
       "excerpt": "Developing robots that can physically sense the world and interact with their environment is the realm of embodied artificial intelligence, one of the long-sought goals of AI scientists.",
@@ -1137,109 +1232,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-9-questions-to-ask-when-auditing-your-ai-systems.md",
-      "title": "9 questions to ask when auditing your AI systems",
-      "excerpt": "Auditing your AI and big data can be a challenge. But there are some questions to ask to get you on your way to compliance and governance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/",
-      "originalUrl": "https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/29/97cf2d45-3a8f-4f7e-a02e-5c5a699d6ad2/resize/1200x/d9622b2aa968ed3a9f556c28214c1296/shutterstock-1438802396.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/9-questions-to-ask-when-auditing-your-ai-systems/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/9-questions-to-ask-when-auditing-your-ai-systems/",
-      "publishedDateTime": "2021-04-30T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-ais-ethical-issues-are-exacerbated-by-increasing-scale.md",
-      "title": "AI’s ethical issues are exacerbated by increasing scale",
-      "excerpt": "Tiernan Ray says AI has always carried the risk of abuses such as bias. The increasing scale of the field, however, in terms of the size of neural network models, the escaping compute budget, and the proliferation of generated content such as fake faces and fake writing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/ais-ethical-issues-are-exacerbated-by-increasing-scale/",
-      "originalUrl": "https://www.zdnet.com/video/ais-ethical-issues-are-exacerbated-by-increasing-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/04/29/c0df2498-b572-4614-ab39-dfa291102684/thumbnail/770x578/116643acf3953d9cd3021d90abf233c8/20210422-tiernan-karen-ai.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

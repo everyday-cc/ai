@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-29-ibm-buys-turbonomic-to-build-out-aiops-tools.md",
+      "title": "IBM buys Turbonomic to build out AIOps tools",
+      "excerpt": "IBM has been acquiring companies at a rapid clip to help roll out hybrid cloud and AI automation tools. By Larry Dignan for Between the Lines | April 29, 2021 -- 15:00 GMT (08:00 PDT) | Topic: Cloud IBM said it will acquire Turbonomic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-buys-turbonomic-to-build-out-aiops-tools/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-buys-turbonomic-to-build-out-aiops-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/29/e0913226-8f33-41bc-ae6b-b5627bd38cfe/app-prioritization.gif",
+          "width": 550,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-build-out-aiops-tools/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-buys-turbonomic-to-build-out-aiops-tools/",
+      "publishedDateTime": "2021-04-29T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-uk-prepares-to-conditionally-legalize-self-driving-cars.md",
+      "title": "UK prepares to conditionally legalize self-driving cars",
+      "excerpt": "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
+      "originalUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/5288f9f/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2Fc6%2F228c4d91471c869f92b16e65a83c%2Fdepositphotos-181168354-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/automotive/uk-self-driving-car-laws/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/uk-self-driving-car-laws/?amp=true",
+      "publishedDateTime": "2021-04-28T22:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says.md",
       "title": "EU’s plan to woo chip manufacturers won’t work, Taiwan says",
       "excerpt": "The EU may be interested in convincing Taiwan's chipmakers to build chips in Europe, but most chip production is expected to stay in Taiwan.",
@@ -1130,101 +1234,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-ai-can-help-guide-our-return-to-the-workplace.md",
-      "title": "AI can help guide our return to the workplace",
-      "excerpt": "As companies around the world begin reopening offices, for example, AI can take on a pivotal new role in the workplace: supporting continuous management and maintenance of facilities. This means that intelligent systems could impact millions of workers who may never have imagined AI playing a role in managing their working environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/ai-can-help-guide-our-return-to-the-workplace",
-      "originalUrl": "https://www.techradar.com/news/ai-can-help-guide-our-return-to-the-workplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/ai-can-help-guide-our-return-to-the-workplace",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-can-help-guide-our-return-to-the-workplace",
-      "publishedDateTime": "2021-04-28T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-internal-emails-reveal-capitol-security-officials-dismissed-warnings-about-troubling-social-media-posts-before-january-6-riot.md",
-      "title": "Internal emails reveal Capitol security officials dismissed warnings about troubling social media posts before January 6 riot",
-      "excerpt": "Newly revealed internal emails show an outside group warned Capitol security officials one day before the January 6 insurrection about a series of troubling social media posts calling for people to storm the US Capitol and kill federal employees,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
-      "originalUrl": "https://www.msn.com/en-us/news/politics/internal-emails-reveal-capitol-security-officials-dismissed-warnings-about-troubling-social-media-posts-before-january-6-riot/ar-BB1g8x2R",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210413102700-us-capitol-riot-file-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
-      "publishedDateTime": "2021-04-28T03:16:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
-        "domain": "com/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

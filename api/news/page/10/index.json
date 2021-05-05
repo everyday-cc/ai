@@ -2,6 +2,136 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-26-microsoft-adds-new-azure-specializations-to-coursera.md",
+      "title": "Microsoft adds new Azure specializations to Coursera",
+      "excerpt": "The three new courses on the online learning platform cover Azure Fundamentals, AI Fundamentals and Data Fundamentals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-adds-new-azure-specializations-to-coursera/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-adds-new-azure-specializations-to-coursera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-new-azure-specializations-to-coursera/",
+      "publishedDateTime": "2021-04-26T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-hpe-why-mission-critical-storage-needs-more-intelligence.md",
+      "title": "HPE: Why mission-critical storage needs more intelligence",
+      "excerpt": "SPONSORED Storage is perhaps the most fiendishly complex part of enterprise IT, as the storage infrastructure has to meet the demands of a range of workloads with differing requirements for performance,",
+      "sourceUrl": null,
+      "webUrl": "https://blocksandfiles.com/2021/04/26/hpe-intelligent-data-platform/",
+      "originalUrl": "https://blocksandfiles.com/2021/04/26/hpe-intelligent-data-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blocksandfiles.com/wp-content/uploads/2021/04/shutterstock_colored_blocks.jpg",
+          "width": 1300,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "blocksandfiles",
+        "domain": "blocksandfiles.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-the-worlds-biggest-ai-chip-now-comes-stock-with-26-trillion-transistors.md",
+      "title": "The World’s Biggest AI Chip Now Comes Stock With 2.6 Trillion Transistors",
+      "excerpt": "The world’s biggest AI chip just doubled its specs—without adding an inch. The Cerebras Systems Wafer Scale Engine is about the size of a big dinner plate. All that surface area enables a lot more of everything,",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/",
+      "originalUrl": "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/04/WSE2-Dinner-Plate.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/amp/",
+      "publishedDateTime": "2021-04-25T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-the-eu-is-proposing-regulations-on-aiand-the-impact-on-healthcare-could-be-significant.md",
       "title": "The EU Is Proposing Regulations On AI—And The Impact On Healthcare Could Be Significant",
       "excerpt": "Regulatory frameworks regarding AI and healthcare generally will undoubtedly only continue to grow, especially as innovators attempt to solve increasingly difficult problems with technology.",
@@ -1059,145 +1189,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash.md",
-      "title": "Tesla owners warned of 'full self-driving' risks even before fatal crash",
-      "excerpt": "Tesla's \"full self-driving\" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns, clipped at least one curb ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.html",
-      "originalUrl": "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/5/39/5391c1d9-c758-5594-a62e-1b650d5d0199/6082f09709609.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html",
-      "cdnAmpWebUrl": "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html",
-      "publishedDateTime": "2021-04-23T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Atlanta",
-        "domain": "cbs46.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-facebook-ai-mcgill-u-mila-promote-translationese-to-boost-nmt-system-faithfulness.md",
-      "title": "Facebook AI, McGill U & Mila Promote ‘Translationese’ to Boost NMT System Faithfulness",
-      "excerpt": "This is a boom time for commercial applications of Neural Machine Translation (NMT), with the performance of multilingual systems rapidly advancing both in terms of translation quality and robustness to input perturbations such as spelling or grammatical errors.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/04/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-4/",
-      "originalUrl": "https://syncedreview.com/2021/04/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/04/image-103.png?fit=700%2C393&ssl=1",
-          "width": 700,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/04/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-4/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/04/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-4/amp/",
-      "publishedDateTime": "2021-04-23T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business.md",
-      "title": "Best-selling biscuit brand leverages IBM hybrid cloud and AI to boost business",
-      "excerpt": "HR and procurement AI: IBM will use IBM Watson Studio to design a performance management framework, monitoring business processes and advocate for an appropriate product mix, faster planning and scheduling, and optimization of supply chain costs Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
-      "originalUrl": "https://www.techrepublic.com/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/23/cf57977a-339f-47ca-a9c3-232b140459b5/resize/1200x/6307c769b08bc1bb15ba9b3346faf9ff/parle.jpg",
-          "width": 1200,
-          "height": 963,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/",
-      "publishedDateTime": "2021-04-23T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

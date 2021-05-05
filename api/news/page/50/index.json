@@ -2,6 +2,143 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-03-13-aav-elevates-gene-therapy-to-new-horizons.md",
+      "title": "AAV Elevates Gene Therapy to New Horizons",
+      "excerpt": "In this new GEN eBook sponsored by Thermo Fisher Scientific, we will explore various aspects of AAV bioproduction—looking at the challenges that many investigators face, and some of the novel solutions others have employed when ramping up viral production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/",
+      "originalUrl": "https://www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.genengnews.com/wp-content/uploads/2021/03/Getty_597972138_AdenoAssociatedViruses-scaled-e1615387965878.jpg",
+          "width": 1400,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/amp/",
+      "cdnAmpWebUrl": "https://www-genengnews-com.cdn.ampproject.org/c/s/www.genengnews.com/resources/ebooks/aav-elevates-gene-therapy-to-new-horizons/amp/",
+      "publishedDateTime": "2021-03-12T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-applications-of-artificial-intelligence-in-cardiovascular-imaging.md",
+      "title": "Applications of artificial intelligence in cardiovascular imaging",
+      "excerpt": "In this Review, Sermesant and colleagues discuss the applications of artificial intelligence (AI) in cardiovascular imaging and explain how pre-existing clinical knowledge can be included in AI methods to increase robustness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41569-021-00527-2",
+      "originalUrl": "https://www.nature.com/articles/s41569-021-00527-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41569-021-00527-2/MediaObjects/41569_2021_527_Fig1_HTML.png",
+          "width": 685,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-4-ways-to-use-ai-to-enhance-the-customer-experience.md",
+      "title": "4 Ways to Use AI to Enhance the Customer Experience",
+      "excerpt": "Global spending on AI is expected to double by 2024. AI is quickly becoming a cornerstone of customer service especially, but consumer sentiment is mixed. Fifty percent of customers believe ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/366465",
+      "originalUrl": "https://www.entrepreneur.com/article/366465",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1615325187-GettyImages-1206801125.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/366465",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366465",
+      "publishedDateTime": "2021-03-12T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-facebook-aims-to-advance-machine-learning-with-two-new-video-ai-projects.md",
       "title": "Facebook aims to advance machine learning with two new video AI projects",
       "excerpt": "Facebook relies on AI to perform tasks ranging from content ... This may dramatically advance research to teach machines to understand complex long-form actions in video.” Show your support ...",
@@ -941,144 +1078,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-softbank-backed-coupang-valued-at-109-billion-in-blockbuster-debut.md",
-      "title": "SoftBank-backed Coupang valued at $109 billion in blockbuster debut",
-      "excerpt": "Swedish telecoms operator Tele2 and Delivery Hero's foodora have joined forces on a pilot scheme for self-driving home deliveries by robot in... (Reuters) - Shares of Roblox Corp jumped on Thursday, building on the gaming platform's almost 55% rise on its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/softbank-backed-coupang-valued-at-109-bi-idUSKBN2B32LU",
-      "originalUrl": "https://www.reuters.com/news/picture/softbank-backed-coupang-valued-at-109-bi-idUSKBN2B32LU",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554568930&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH2A1KE",
-          "width": 810,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-deepmind-is-building-a-team-of-ai-researchers-in-new-york.md",
-      "title": "DeepMind is building a team of A.I. researchers in New York",
-      "excerpt": "DeepMind has already hired several intellectual heavyweights in New York. Rob Fergus, the co-founder of Facebook AI Research, is now helping rival DeepMind to build a team in New York. DeepMind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "originalUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1532564035",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "publishedDateTime": "2021-03-11T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-ai-in-the-arms-race-china-expected-to-surpass-us-military-capabilities-in-the-coming-decade.md",
-      "title": "AI in the Arms Race: China Expected to Surpass US Military Capabilities in the Coming Decade",
-      "excerpt": "The Chinese government’s growing demand for Artificial Intelligence (AI) has triggered a swell in tech companies moving to corner the market. Its surveillance – or more bluntly, spying – capabilities are not only on track to surpass American technology in the next five to ten years,",
-      "sourceUrl": null,
-      "webUrl": "https://cnsnews.com/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities",
-      "originalUrl": "https://cnsnews.com/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNSNews.com",
-        "domain": "cnsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

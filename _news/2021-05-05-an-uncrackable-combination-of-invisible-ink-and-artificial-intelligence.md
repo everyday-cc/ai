@@ -1,28 +1,30 @@
 ---
 category: news
 title: "An uncrackable combination of invisible ink and artificial intelligence"
-excerpt: "Researchers reporting in ACS Applied Materials & Interfaces have printed complexly encoded data with normal ink and a carbon nanoparticle-based invisible ink, requiring both UV light and a computer that has been taught the code to reveal the correct messages."
-publishedDateTime: 2021-05-05T12:00:00Z
-originalUrl: "https://www.acs.org/content/acs/en/pressroom/presspacs/2021/acs-presspac-may-5-2021/an-uncrackable-combination-of-invisible-ink-and-artificial-intelligence.html"
-webUrl: "https://www.acs.org/content/acs/en/pressroom/presspacs/2021/acs-presspac-may-5-2021/an-uncrackable-combination-of-invisible-ink-and-artificial-intelligence.html"
+excerpt: "Coded messages in invisible ink sound like something only found in espionage books, but in real life, they can have important security purposes. Yet, they can be cracked if their encryption is predictable."
+publishedDateTime: 2021-05-05T16:29:00Z
+originalUrl: "https://phys.org/news/2021-05-uncrackable-combination-invisible-ink-artificial.html"
+webUrl: "https://phys.org/news/2021-05-uncrackable-combination-invisible-ink-artificial.html"
+ampWebUrl: "https://phys.org/news/2021-05-uncrackable-combination-invisible-ink-artificial.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-uncrackable-combination-invisible-ink-artificial.amp"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: C&EN
-  domain: acs.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
 images:
-  - url: "https://www.acs.org/content/acs/en/pressroom/presspacs/2021/acs-presspac-may-5-2021/an-uncrackable-combination-of-invisible-ink-and-artificial-intelligence/_jcr_content/pressPacContent/columnsbootstrap/column1/image.img.jpg/1620139449617.jpg"
-    width: 400
-    height: 224
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/an-uncrackable-combina.jpg"
+    width: 417
+    height: 234
     isCached: true
 
-secured: "7sVDtpZIW7rQQNx3SzwEN6fq12o8jL1JAC+GxiU0XTEZXrATSpuSkGrMjEdPd3dGhF3xJMtGCMAYB6Bk3/NdRMEymp6411suG4iTtz1FldVXiwZ3cXaZp9+P8xeKXthbSkE5VSjVMcKguiL9U3vATSVyhrYq3VMsUEa7HK8HcF/72GDANB/Bhw9GAtMmKWtUNTqHd4P8vniCJpq4ay42EyDQ+B9piiTscgUHdcyOV7Mk+lPjQdBSy94If3f5CN2OEeKOIIVjP/GRVsoBKQo5DdxKXrcsma7Whg82qgqRwdhaMHFCSv7KofXlXVW8Khpi4cXHix++0ZHV3aKrSKHdmb4lwYmiWxnSK/6+QLcWwYQ=;BS8fRUZ8KY6YZch6aUPHGQ=="
+secured: "2tReQXa1Dv0WRqNJB87gkklDcow8sNxKwEwaKVZ430I/GWrI6Cn5mrK8Ue4w9bVtZmn5ZoVJtmTyzzWbrSPrrSQWZRAR66RNWq3pb+vLcHVv9bhy/7CPCgGFX503QPS4pqHk1CSvzepfxMX1EstMagPnbFxhJFVV/7Yc3pJt/nAqGqVqGLieajOlKWiW+3LdA8UrK6tX2pq+wgkdkUL69dbm0B8ZJDmSK9sl9cbFjHTS3luB9MSqlmjZDcSQIzKibAIgO+1bUfh5cqXbPsZF6t23V1aVcY2iYWKR5jejFvgcWAN0D3B4PFTduRaeW6cLPBl0VCMHhUGGkmgyGM3tu0LzRc+E6XLUrL2BaTNUPsk=;+E/KcB/eH7bOupgknxqXEQ=="
 ---
 

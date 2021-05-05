@@ -72,6 +72,15 @@ related:
         width: 660
         height: 295
         isCached: true
+  - title: "Securing APIs Demands Tracing And Machine Learning To Analyze Behaviors And Head Off Attacks"
+    excerpt: "The use of application programming interfaces (APIs) across cloud-native computing and digital business ecosystems has accelerated rapidly due to the COVID-19 pandemic."
+    publishedDateTime: 2021-05-05T18:25:00Z
+    webUrl: "https://seekingalpha.com/instablog/122491-dana-gardner/5587408-securing-apis-demands-tracing-and-machine-learning-to-analyze-behaviors-and-head-off-attacks"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 8
   - title: "Speech Emotion Recognition Considering Nonverbal Vocalization in Affective Conversations"
     excerpt: "In real-life communication, nonverbal vocalization such as laughter, cries or other emotion interjections, within an utterance play an important role for emotion expression. In previous studies, only few emotion recognition systems consider nonverbal vocalization,"
     publishedDateTime: 2021-05-04T01:05:00Z

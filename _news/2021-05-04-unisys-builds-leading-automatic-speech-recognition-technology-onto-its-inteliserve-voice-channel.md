@@ -3,8 +3,8 @@ category: news
 title: "Unisys Builds Leading Automatic Speech Recognition Technology onto its InteliServe™ Voice Channel"
 excerpt: "BLUE BELL, Pa., May 4, 2021 /PRNewswire/ -- (NYSE: UIS) today announced it has embedded voice recognition technology from PerVoice within InteliServe,™ the Unisys digital workplace services platform"
 publishedDateTime: 2021-05-04T11:58:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel/article_1088f719-b43a-5c02-8b1a-086463e8b6c2.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel/article_1088f719-b43a-5c02-8b1a-086463e8b6c2.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel/article_1088f719-b43a-5c02-8b1a-086463e8b6c2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel/article_1088f719-b43a-5c02-8b1a-086463e8b6c2.html"
 type: article
 quality: 26
 heat: 26
@@ -37,6 +37,6 @@ related:
       domain: scoop.co.nz
     quality: 18
 
-secured: "eUo1r3OSjbIEFnamBfCrI/cLI0eqOnY9ovU77VirgmuolhQ9OrnyK807aEGK5/4gXYUo56Be8JUBMPFAZTSAOsGxlwX6i3qzQ2+iSNlnPPH2xP1vnLcfmc1WPOrPYdwfKXY65QWG2X43Ti+zzHPRuqY76lKps52NkeA44lcV9T/I3J2t6hs0N06z4S/pVi9LV73mB+cTBbGa92ZgkB7o7T0nUxe8Y7/zCvG479F28XkzsKNv86nKPJOlBUF8PWRmNuM30WUA/qRPaDF05H1/5GCZNX8+pmrw9qqqSfPP88VPrMEzh8Jg09hOaTnJXNkoF72+p7qUNIhtVUNanfcJ9i+VDTCUIf7jtW/D84HMC3U=;AZpbuGrdA+LwGKGe3YZ8cw=="
+secured: "qBbYuwY6bepbsAt9Yu1AdDtZMMxlDxiz5cD1XtRWLKQOf/Q5H5tJGat2AhW0ydeC23tFeqxcQdSUQUUcB11M9g3CvFTPdfOqEF8OJO9tyjAQAm/IM8BLjq0iKT2856oqJw9ldXIBXdXp24xq1Z5O7WJFVR4sV+pjriRLuYaAKtxeqdHRKZEYvJFKTq224q4BQauxvUbRiTQdmE8rjpxG4cl90CWulCvUuxA9HXgiyuVwGL2g7Y7vpqHsEpm9QS64+q8XBDU1iZGEMsFsYShKClPpTAq9FLreqe41xhvyHnxVP5ASEO+253ji7VYrbP4R+RTFGhX8NTsKHKFRnv9dE8EKDNV3sUcwp6NM/tDYK3k=;togVx+gzGQBBLwxRplOkpQ=="
 ---
 

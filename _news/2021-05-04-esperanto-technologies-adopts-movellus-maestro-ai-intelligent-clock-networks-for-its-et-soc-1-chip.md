@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Esperanto Technologies Adopts Movellus Maestro AI, Intelligent Clock Networks for Its ET-SoC-1 Chip"
-excerpt: "Movellus, Inc. today announced that Esperanto Technologies has adopted Movellus' Maestro AI intelligent clocking solution for its"
-publishedDateTime: 2021-05-04T12:46:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/esperanto-technologies-adopts-movellus-maestro-ai-intelligent-clock-networks-for-its-et-soc-1-chip-301283155.html"
-webUrl: "https://www.prnewswire.com/news-releases/esperanto-technologies-adopts-movellus-maestro-ai-intelligent-clock-networks-for-its-et-soc-1-chip-301283155.html"
+excerpt: "Esperanto Technologies has adopted Movellus' Maestro AI intelligent clocking solution for its ET-SoC-1 chips. Esperanto develops high-performance, energy-efficient computing solutions based on RISC-V for Artificial Intelligence (AI),"
+publishedDateTime: 2021-05-04T13:03:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/esperanto-technologies-adopts-movellus-maestro-ai-intelligent-clock-networks-for-its-et-soc-1-chip-1030384332"
+webUrl: "https://markets.businessinsider.com/news/stocks/esperanto-technologies-adopts-movellus-maestro-ai-intelligent-clock-networks-for-its-et-soc-1-chip-1030384332"
 type: article
-quality: 40
-heat: 40
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1502257/Movellus_Esperanto.jpg?p=facebook"
-    width: 1198
-    height: 628
-    isCached: true
-
-secured: "2Be+nvkgSZfNpEPBxmEgx0OQQyQdM7RpcfMgu1YnCUOZ6pgXmGnLhL744OtcGsnJXLgEG1VCE6gBaYJW7NKzekiu46qxP3tznaknJcAb131iyeDc9yW7ny3w21bRdVqZ9lGqtca8ZvTPFrayx7RRpe11Phgbi2IkMTV5dmPnFNnmkSSra/jZ/FDaEVv5yj/7X6sf8En05J0MMDx1SKZxUNBQvcZyL5ZsxpYL0BpNH60d2NJSsTkJzKZKW43eiD+3Azay3+DbNWyzdCD8BRb9/PPSJKfJyueW+qrpo4QnCE8ekBJ/gqUdhJ3Ljz7yFLycl2gYjU8G+kwOKecjIzufvsaPPwOdqrA3366gOYrmJ2WJ3FKw2P70KD+C2XcV5UZ3S/M5fZErl3xlTZ5VIymmdEnWRLRYy+Le0WA2DONxspit7z8O31QKDv3uzVcWOfMTRAK8ZFsQsUhEE6MmwrIrH1tKIpriQdfiuBWUY4De3FEsrZhqEM6+YFX4RKdy/56D1aF3AlRpPvbn28v/pggX4w==;6MULdFgK9ctmkuZs5DBWaA=="
+secured: "LlXMWMXHEIhOs0qBoZFEmfYk/aOWTUTjS5RlEBbMg2FdusYf1op4N7WHF9VJ5cYv/x7Sch2nQMZJejBaes+sKf8uzQLYUD2d+414BJVTbvBa5J4qcxVFZPsU8ciQZOnbKwNHuseWN5AqYwmCeQetpElDxOXTXo+XiUxsv/tvwT523ChF3e0/8TbNKIYGY9ceVkBGKUbu14xh5Ok2eFSXX0pkS+bWVawRY7T1oxnvbZllGqJPTNLBaWh4ibOSSPid/5Qn/Yp9B2u1G0sG6AoRIuFocbGV0HK8BoowLZOu1H2U2KmF3VltcHkXEKWvwm9oEEISFVJ6pDy8y4ByyllhclmsAM2dF25ANo8Q+XSlu0c=;ZHiRvbAOK3NM7RKDOtgwmQ=="
 ---
 

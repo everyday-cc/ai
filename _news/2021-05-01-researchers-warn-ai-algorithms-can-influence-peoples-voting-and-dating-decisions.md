@@ -65,6 +65,15 @@ related:
         width: 660
         height: 295
         isCached: true
+  - title: "Securing APIs Demands Tracing And Machine Learning To Analyze Behaviors And Head Off Attacks"
+    excerpt: "The use of application programming interfaces (APIs) across cloud-native computing and digital business ecosystems has accelerated rapidly due to the COVID-19 pandemic."
+    publishedDateTime: 2021-05-05T18:25:00Z
+    webUrl: "https://seekingalpha.com/instablog/122491-dana-gardner/5587408-securing-apis-demands-tracing-and-machine-learning-to-analyze-behaviors-and-head-off-attacks"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 8
   - title: "Pay Attention to Evolution: Time Series Forecasting with Deep Graph-Evolution Learning"
     excerpt: "Time-series forecasting is one of the most active research topics in artificial intelligence. A still open gap in that literature is that statistical and ensemble learning approaches systematically present lower predictive performance than deep learning methods."
     publishedDateTime: 2021-05-04T16:11:00Z

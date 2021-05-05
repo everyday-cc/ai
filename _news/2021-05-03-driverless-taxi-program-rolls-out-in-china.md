@@ -41,20 +41,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Baidu's self-driving $5 taxis hit Beijing park in Olympic warm-up"
-    excerpt: "The Apollo Go service will be available starting Sunday in Shougang Park on the outskirts of Beijing -- one of the venues of the 2022 Winter Olympics. \"Introducing unmanned services is an indispensable stage for the commercialization of autonomous driving,"
-    publishedDateTime: 2021-05-01T01:30:00Z
-    webUrl: "https://asia.nikkei.com/Business/China-tech/Baidu-s-self-driving-5-taxis-hit-Beijing-park-in-Olympic-warm-up"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F6%252F9%252F3%252F33963963-5-eng-GB%252FCropped-161980631120210430N%2520Baidu%2520taxi.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "OmWj32iWgEfbC5vTnCfC33tKYKFmg7KXpJayKPcBsQX1fsFTD7ZVnD1L4NrxF1VTUCOnBIFBRQnavm7eqJBV6W7Qlq5yuWF0cEgM3kknZrn/YuWGSV4rPVaymTx8JajEQcjwJWy2m6xbAz6koqXQzzC1mSJq8mSa1y3k/5ARz1JfvUJTxGRWTojbYQhAir5r5PHFleU9Kx3tdLruZI4cMQPHXIqzr/Mqtjd7rDhBgv1Z9wETfMY98SwvCZx382voYmOZPCtZ8VDz9GnuHIe+V/4QSswvr+DBVXV38y+3dNixQo19FjETnRKEl4AsCO1bbhFHhvGKiJwC0qJcbm1m2G31AEXZSXMT/6x22xTNX7A=;wTHFTY8NjpQKwsZHy2fIag=="
 ---

@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-28-ai-can-help-guide-our-return-to-the-workplace.md",
+      "title": "AI can help guide our return to the workplace",
+      "excerpt": "As companies around the world begin reopening offices, for example, AI can take on a pivotal new role in the workplace: supporting continuous management and maintenance of facilities. This means that intelligent systems could impact millions of workers who may never have imagined AI playing a role in managing their working environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/ai-can-help-guide-our-return-to-the-workplace",
+      "originalUrl": "https://www.techradar.com/news/ai-can-help-guide-our-return-to-the-workplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/ai-can-help-guide-our-return-to-the-workplace",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-can-help-guide-our-return-to-the-workplace",
+      "publishedDateTime": "2021-04-28T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-internal-emails-reveal-capitol-security-officials-dismissed-warnings-about-troubling-social-media-posts-before-january-6-riot.md",
+      "title": "Internal emails reveal Capitol security officials dismissed warnings about troubling social media posts before January 6 riot",
+      "excerpt": "Newly revealed internal emails show an outside group warned Capitol security officials one day before the January 6 insurrection about a series of troubling social media posts calling for people to storm the US Capitol and kill federal employees,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
+      "originalUrl": "https://www.msn.com/en-us/news/politics/internal-emails-reveal-capitol-security-officials-dismissed-warnings-about-troubling-social-media-posts-before-january-6-riot/ar-BB1g8x2R",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210413102700-us-capitol-riot-file-0106-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
+      "publishedDateTime": "2021-04-28T03:16:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
+        "domain": "com/2021/04/28/politics/capitol-security-emails-social-media-riot/index.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health.md",
       "title": "Healthcare Artificial Intelligence Market May See Big Move | AiCure, APIXIO, Welltok, Cyrcadia Health",
       "excerpt": "Latest Study on Industrial Growth of COVID-19 Outbreak-Global Healthcare Artificial Intelligence Market 2019-2025.",
@@ -881,6 +976,40 @@
       ]
     },
     {
+      "path": "_news/2021-04-27-c-fer-technologies-and-onesoft-enter-into-a-technology-sharing-agreement-to-deliver-quantitative-risk-solutions-to-og-pipeline-operators.md",
+      "title": "C-FER Technologies and OneSoft Enter into a Technology Sharing Agreement to Deliver Quantitative Risk Solutions to O&G Pipeline Operators",
+      "excerpt": "EDMONTON, AB / ACCESSWIRE / April 27, 2021 / C-FER Technologies (1999) Inc. (\"C-FER\") and OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (\"OneSoft\")",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/04/ac20808203/c-fer-technologies-and-onesoft-enter-into-a-technology-sharing-agreement-to-deliver-quantitative-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/ac20808203/c-fer-technologies-and-onesoft-enter-into-a-technology-sharing-agreement-to-deliver-quantitative-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20808203",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20808203",
+      "publishedDateTime": "2021-04-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-unisoc-t618-is-designed-to-improve-the-imaging-ai-capabilities-of-the-terminal.md",
       "title": "UNISOC T618 Is Designed to Improve the Imaging & AI Capabilities of the Terminal",
       "excerpt": "UNISOC T618 is an 8-core architecture LTE chip that was launched in August 2019. And, it is based on 12nm process technology and consists of two 2.0 GHz Arm Cortex-A75 CPUs and six 1.8 GHz Arm Cortex-A55 processors.",
@@ -1058,152 +1187,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-xnfy-lab-announce-the-launch-of-an-ai-generated-fashion.md",
-      "title": "XNFY Lab Announce the Launch of an AI Generated Fashion",
-      "excerpt": "A powerful and adaptable technology to revolutionize digital brand content and start a new era in the upcycling of garmentsVIANA DO CASTELO,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030347886",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030347886",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus.md",
-      "title": "Apple will focus on machine learning, AI jobs in new NC campus",
-      "excerpt": "Apple's new campus and engineering hub in North Carolina will focus on machine learning, artificial intelligence, and software engineering.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/",
-      "originalUrl": "https://venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/apple-will-focus-on-machine-learning-ai-jobs-in-new-nc-campus/amp/",
-      "publishedDateTime": "2021-04-26T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first.md",
-      "title": "Why Will The Next Successful Startup Out Of The COVID-19 Era Be AI-First?",
-      "excerpt": "As world is dealing with the massive impact of COVID-19, entrepreneurs are busy at work, springing up new businesses that can bring back the economy. With Artificial Intelligence becoming ubiquitous today,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/",
-      "originalUrl": "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60875898e93f124f08227ace%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4071%26cropY1%3D164%26cropY2%3D2454",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjitsinghdang/2021/04/26/why-will-the-next-successful-startup-out-of-the-covid-19-era-be-ai-first/amp/",
-      "publishedDateTime": "2021-04-26T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-10-advanced-satellites-illuminated-by-computer-vision-are-changing-how-we-see-the-world.md",
+      "title": "Advanced satellites illuminated by computer vision are changing how we see the world",
+      "excerpt": "Satellite imagery, computer vision and deep learning technology are driving applications that protect wildlife, keep people safe and enable more efficient growth.",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/articles/2021/04/09/satellites-computer-vision.aspx",
+      "originalUrl": "https://gcn.com/articles/2021/04/09/satellites-computer-vision.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Federal-programs/weathersatellite.png",
+          "width": 760,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-body-temperature-scanning-facial-recognition-device-sales-boom-in-singapore.md",
       "title": "Body temperature-scanning facial recognition device sales boom in Singapore",
       "excerpt": "The need to reopen from shutdowns due to the pandemic is driving demand for facial recognition devices that scan for body temperatures.",
@@ -1326,41 +1369,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-deep-learning-in-computer-vision-market-will-grow-at-massive-cagr-5565-for-the-forecast-period-2027.md",
-      "title": "Deep Learning in Computer Vision Market will grow at Massive CAGR 55.65% for the forecast period 2027",
-      "excerpt": "Deep learning is an intense machine learning tool which indicates extraordinary execution in several fields. The best accomplishments of deep learning are protest acknowledgment with Convolutional Neural Networks (CNNs). CNNs’ principle control ...",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/25/deep-learning-in-computer-vision-market-swot-analysis-emerging-trends-key-players-accenture-applariat-inc-ca-technologies-heroku-ibm-and-more-future-scope-forecast-2027/",
-      "originalUrl": "https://ksusentinel.com/2021/03/25/deep-learning-in-computer-vision-market-swot-analysis-emerging-trends-key-players-accenture-applariat-inc-ca-technologies-heroku-ibm-and-more-future-scope-forecast-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

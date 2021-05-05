@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Machine learning accelerates cosmological simulations"
-excerpt: "The technique, published in Proceedings of the National Academy of Sciences, brings together machine learning, high-performance computing and astrophysics -- and will help usher in a new era of high-resolution cosmology simulations. The U.S. National ..."
+excerpt: "The technique, published in Proceedings of the National Academy of Sciences, brings together machine learning, high-performance computing and astrophysics -- and will help usher in a new era of high-resolution cosmology simulations."
 publishedDateTime: 2021-05-05T17:02:00Z
-originalUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302666&org=NSF"
-webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302666&org=NSF"
+originalUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302666"
+webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302666"
 type: article
 quality: 39
 heat: -1
@@ -37,6 +37,6 @@ related:
       domain: phys.org
     quality: 39
 
-secured: "9d8U4v75xoYCsINsAsdj6ikhmHrdqcMzu1/tH8KPjYzJpM350S9s9K7DNK8LHfNzXHs28g1VjYYl7KJgHAi2T3s3ewiHMd2cKbp/phqaO62y7HaU1vyKumavYiLk1911JQ1huAW3dE9lBbxOao3vqP0wffXo3DzNYzl9y1pXHeLdRXRiSt1U+HVvFzlRsF1jDlA6ImBxJP/rv2pCUFwFfwRe2OofnzqUsGbYm0TtlOJqGn3Se7FDRTd8psSXrnsmRYqoJuH1NDCjw47+R9MAhtay7R8UVmE4y7duP9Ba8wn/TxKXrjPKlTSzHGHof/YjloipoZYM7UmG5UWmwjlfRH6tiog3vrWGtf8aw5kBjEE=;tbvnnYAnZ1es7+OlGh9K1A=="
+secured: "EiQBGkEZE0CvYG67aT12R3xUbuRqrh0q+NCAh1b/7nr1+rhQe6Wlqfh3jEkS5bLifHw80QGxQ+PFzkHY43DOau0sEX0TwFi0l+fGHpBSKHkQfIIJSJUvaOC94YCkN4qrygJXQeceRAHE6Vp8FuoR2BZ7CtxS5/aMdv1YK57N1RfKFJvJ1HKd2nVIV2DzB4f1MTB0YTaGuNoy4tNJHET/ESDF4FpuaM6cCRrwBH6//pEO1ZHxPqVRDWbiVyOJDKb788EQrse3kdJkVj2zBKs5rGforwfIQpUAhM3Sx0Lqje+NZgVQ/vsh0xxCQ73xfQo11i1mZ4YnNOas2lJUrcyx9ykegYSHBJ7VEGIgmuXrdhA=;8RunZvTvlbrGS3/ampih6A=="
 ---
 

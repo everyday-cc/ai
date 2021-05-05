@@ -1,20 +1,30 @@
 ---
 category: news
 title: "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud"
-excerpt: "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT resources across development, test and production environments"
-publishedDateTime: 2021-04-29T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities-for-hybrid-cloud/article_9df25060-b19f-5a3e-8425-12b9f44f903c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities-for-hybrid-cloud/article_9df25060-b19f-5a3e-8425-12b9f44f903c.html"
+excerpt: "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT"
+publishedDateTime: 2021-04-29T15:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-secured: "unYdDENqD09CPvnX7xHF88Kl/ZmuOZZEhG1nFI4wCLcd0eaaRunH9F4N1uD1gn+wlyYM1NZgg0pIxLUGH120CbWW04zvB9pyR8DinMNYtcLQgTGMKd7CLKYq3xrAj8vtks4pKdzCZ8DKyPnLb24V4BSsCKLBgirt8rql4DCU0MC/c65gj3OAvuMoGbXSjDFGVlsZulvpKPfBVxMGD5eJUelB3XjOK5QtS+Y1qnzEJBDUJrf1WDNKivrmull+hhil4YmkYDF3zRRSWlMqUqUdz7fsjHwD+K1vK/iVvqhzo6mrbIreloPSwB9/qqsrg0l8T8vrUb6HQMy8FUOAM4+z0Ah8LUlPwq62iiYt5K5jjGLRkvGTdlLbezdpvOu/9rlq54A8hWzHQKkqmhnbffRcPmZNfmsWWOPAMsUzmTv1BP/ZcwSzxrKx2ZYo4kmaFoX8ew9NaFIpSDr18pwAYoVPM3Cf/NsxQhRkQNtvk8D6UvU2nizCHnjdb2EUNJ4nw7CCJ3WjBVBEYjUVbjGH/VuVrQ==;iZmed0/kqbX7pFl4HDrkwg=="
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
+
+secured: "D+pibdHUk52BLk8PQfKVloC8b5I5MlmPAl85PGFYp1AoFSyhgkW3fDAIrYqnja3WpttDQlhOFzciGoDnqleiFq4ObpjRAwn74hV/0o73IqvG6uiUIYNwdF9d5xDEmZA7syYIslT2o1t16R9dZSEWbAazLPrBXDDTDJIm8vwP8z7vXh90owuebMU7XolksZ7WbuqGZHh15mHscKEc3pcyA9IbE2qU+5dafGgoEkSWWANtwXBR9LhVp0zIhU+lbde1yjCfPJKnicdU5alITqb4UC+e64HXpl97Qiu3dd+MxYBuBlkCD/HmzeiqJ7I+P3sz+7oh7mEm5h6Q/s/CrLUAc+0O3gZ9lKHpM+caUkApkjE=;ETufuB8/eUT6kGh9r1AGSw=="
 ---
 

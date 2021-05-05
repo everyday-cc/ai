@@ -2,6 +2,135 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-04-02-lounge-lab-unveils-aris-capsule-based-ice-cream-robot-customizable-with-10-flavors-and-3-shapes.md",
+      "title": "LOUNGE LAB Unveils 'ARIS', Capsule-Based Ice Cream Robot Customizable with 10 Flavors and 3 Shapes",
+      "excerpt": "About LOUNGE LAB INC. LOUNGE LAB is a retail tech start-up founded based on \"We Augment Space with Technology.\" Currently, we are operating a robot-barista collaboration cafe, LOUNGE'X, and an AI-based unmanned store. Dr. Hwang Sungjae is our CEO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/04/ac20464632/lounge-lab-unveils-aris-capsule-based-ice-cream-robot-customizable-with-10-flavors-and-3-shapes",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/ac20464632/lounge-lab-unveils-aris-capsule-based-ice-cream-robot-customizable-with-10-flavors-and-3-shapes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/638740/image-20210402192307-1.jpeg",
+          "width": 900,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20464632",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20464632",
+      "publishedDateTime": "2021-04-02T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-heres-how-cognitive-computing-is-reshaping-financial-services-industry.md",
+      "title": "Here's How Cognitive Computing is Reshaping Financial Services Industry",
+      "excerpt": "Here's How Cognitive Computing is Reshaping Financial Services Industry By cio review - Businesses can collect knowledge from such sources and make decisions based on highly comprehensive information by",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/heres-how-cognitive-computing-is-reshaping-financial-services-industry-nid-33275-cid-166.html",
+      "originalUrl": "https://www.cioreview.com/news/heres-how-cognitive-computing-is-reshaping-financial-services-industry-nid-33275-cid-166.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cioreview.com/Rank_subcat_images/om0k2Master-logo.jpg",
+          "width": 478,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-top-20-valuable-and-innovative-ai-companies-in-the-world.md",
+      "title": "Top 20 Valuable and Innovative AI Companies in the World",
+      "excerpt": "The company is offering a plethora of AI products including Natural language processing (NLP) models, TensorFlow, AI smart home products and AI-based Cloud applications. The company recently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/top-20-valuable-and-innovative-ai-companies-in-the-world-929529/",
+      "originalUrl": "https://www.insidermonkey.com/blog/top-20-valuable-and-innovative-ai-companies-in-the-world-929529/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2016/12/23032054/31-robot-763525_1280.jpg",
+          "width": 1280,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-karachi-students-introduce-another-version-of-mind-controlled-prosthetic-arm-not-yet-available-globally.md",
       "title": "Karachi students introduce another version of mind-controlled prosthetic arm, not yet available globally.",
       "excerpt": "Despite the students’ claim, mind-controlled prosthetics are nothing new, and a group of Pakistani engineers successfully created a similar robotic arm controlled by the brain, also as part of their final year project back in 2019. Some 30 disabled ...",
@@ -966,135 +1095,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-microsoft-scores-2188-billion-ai-headset-contract.md",
-      "title": "Microsoft scores $21.88 billion AI headset contract",
-      "excerpt": "Software king of the world Microsoft has won a contract to sell the US Army augmented reality headsets based on its HoloLens product and backed by Azure cloud computing services. The contract could be worth up to $21.88 billion over ten years. Over the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/ai/52619-microsoft-scores-21-88-billion-ai-headset-contract",
-      "originalUrl": "https://www.fudzilla.com/news/ai/52619-microsoft-scores-21-88-billion-ai-headset-contract",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/3def5e615fa7d22a56df00013c7d454e_L.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-what-are-ethics-of-artificial-intelligence-three-reasons-to-learn-basics.md",
-      "title": "What are ethics of artificial intelligence? Three reasons to learn basics",
-      "excerpt": "The ethics of artificial intelligence are relevant to all of us, often in ways we do not realise, and learning the basics now is a good idea. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.miragenews.com/what-are-ethics-of-artificial-intelligence-538500/",
-      "originalUrl": "https://www.miragenews.com/what-are-ethics-of-artificial-intelligence-538500/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg",
-          "width": 1416,
-          "height": 829,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Armed robbery in Revesby",
-        "domain": "miragenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-driverless-vehicle-developer-horiba-mira-welcomes-mods-66bn-military-tech-pledge.md",
-      "title": "Driverless vehicle developer Horiba MIRA welcomes MoD's £6.6bn military tech pledge",
-      "excerpt": "Horiba MIRA leads the world in developing next generation of driverless and intelligent civilian and military vehicles",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-live.co.uk/technology/driverless-vehicle-developer-horiba-mira-20287658",
-      "originalUrl": "https://www.business-live.co.uk/technology/driverless-vehicle-developer-horiba-mira-20287658",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.business-live.co.uk/incoming/article17958124.ece/ALTERNATES/s615/0_HORIBA-MIRA-VIKING-ALMRS-SPTA-2jpg-VIKIN.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business-live.co.uk/technology/driverless-vehicle-developer-horiba-mira-20287658.amp",
-      "cdnAmpWebUrl": "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/driverless-vehicle-developer-horiba-mira-20287658.amp",
-      "publishedDateTime": "2021-03-31T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "business-live",
-        "domain": "business-live.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

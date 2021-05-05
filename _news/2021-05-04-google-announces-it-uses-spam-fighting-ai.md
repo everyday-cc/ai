@@ -9,8 +9,8 @@ ampWebUrl: "https://www.searchenginejournal.com/google-spam-fighting-ai/405682/a
 cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/google-spam-fighting-ai/405682/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Search Engine Journal
@@ -37,6 +37,20 @@ related:
     quality: 39
     images:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-942954932.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "White House Announces Website to Advance Artificial Intelligence"
+    excerpt: "The new website will serve as a connection point to ongoing activities that will advance US leadership in artificial intelligence research and development."
+    publishedDateTime: 2021-05-05T16:17:00Z
+    webUrl: "https://healthitanalytics.com/news/white-house-announces-website-to-advance-artificial-intelligence"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
         width: 690
         height: 400
         isCached: true

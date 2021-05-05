@@ -24,7 +24,7 @@ related:
   - title: "Unisys Builds Leading Automatic Speech Recognition Technology onto its InteliServe™ Voice Channel"
     excerpt: "BLUE BELL, Pa., May 4, 2021 /PRNewswire/ -- (NYSE: UIS) today announced it has embedded voice recognition technology from PerVoice within InteliServe,™ the Unisys digital workplace services platform"
     publishedDateTime: 2021-05-04T11:58:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel/article_1088f719-b43a-5c02-8b1a-086463e8b6c2.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/unisys-builds-leading-automatic-speech-recognition-technology-onto-its-inteliserve-voice-channel/article_1088f719-b43a-5c02-8b1a-086463e8b6c2.html"
     type: article
     provider:
       name: WFMZ-TV

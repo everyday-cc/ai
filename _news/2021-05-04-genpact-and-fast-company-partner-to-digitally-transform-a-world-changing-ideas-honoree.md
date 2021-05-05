@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/genpact-and-fast-c
 webUrl: "https://www.fastcompany.com/apply/world-changing-ideas"
 type: article
 quality: 144
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fast Company's 2021 World Changing Ideas Awards Distinguishes IDX Privacy with Honorable Mention in Apps Category"
+    excerpt: "IDX, the leading consumer privacy platform and data breach services provider, announced the mobile app of its flagship product, IDX Privacy, has received an honorable mention in Fast Company's World Changing Ideas Awards."
+    publishedDateTime: 2021-05-05T14:12:00Z
+    webUrl: "https://www.fastcompany.com/apply/world-changing-ideas"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
+    images:
+      - url: "https://images.fastcompany.net/image/upload/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fast Company Names AMP Robotics AI Platform a 2021 World Changing Ideas Finalist"
     excerpt: "The artificial intelligence (AI) platform developed by AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and recycling industry, has been recognized as a finalist in two categories—“AI and Data” and “Best World Changing Idea North America”—of Fast Company’s 2021 World Changing Ideas Awards."
     publishedDateTime: 2021-05-05T10:32:00Z
