@@ -40,17 +40,6 @@ related:
         width: 683
         height: 419
         isCached: true
-  - title: "AI in Drug Discovery Market Value Expected to Grow at CAGR of 42.2% from 2021-2027"
-    excerpt: "Whipsmartmi com offers Global Artificial Intelligence in Drug Discovery Market from its research database The AI in drug discovery industry is expected to grow USD 342 16 million at CAGR of 42 2 from 2021 to 2027 Browse complete report"
-    publishedDateTime: 2021-04-30T12:15:00Z
-    webUrl: "https://www.openpr.com/news/2278135/ai-in-drug-discovery-market-value-expected-to-grow-at-cagr-of-42-2"
-    ampWebUrl: "https://www.openpr.com/amp/2278135/ai-in-drug-discovery-market-value-expected-to-grow-at-cagr-of-42-2"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2278135/ai-in-drug-discovery-market-value-expected-to-grow-at-cagr-of-42-2"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
 
 secured: "low/3XeO8Xeyb0d2GC5LduJRNAlQCnebayOqVpr/kX0iNTuiaBW+EMp4UTyaX2+L1mod1MpEbInnqufnCVcTUKBHNtOW72gAGxC1JfvqzY9XsFWLkGiEZqJdxz7rO9geTVfb/Vy9F/1I6DjpLIJs3faPMHfoOeTIRPiML3Uj0e5+QEopHJ5YVbd/uIDFzkhNIqv9n94HnH1KPaPcdTyGuvGE7+4yJXeCaGyF17JMHrnOnGYbq709TWDM8e73ojCYgwGclNmk1QHzvUTPT/0EVRk7DAkDcm+nDqmmPmZY8qR3WmijTr3OQhdq8GkESIDW6tmsX4THYGGf7t53BLGjuue8mlTR0QXI/a6d2SW4EtM=;UTCiUdN2Fzs0D55+ANMavA=="
 ---

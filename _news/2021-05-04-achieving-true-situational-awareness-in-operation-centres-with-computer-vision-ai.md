@@ -48,20 +48,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
-  - title: "Wolfestone Group Launches Innovative, AI-Powered Online Captioning Service"
-    excerpt: "Wolfestone Group announces the launch of DrCaptions, an innovative new AI-powered online captioning service. Wolfestone Group expands its service offering to encompass translation and localisation services,"
-    publishedDateTime: 2021-04-30T12:30:00Z
-    webUrl: "https://slator.com/press-releases/wolfestone-group-launches-innovative-ai-powered-online-captioning-service/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 37
-    images:
-      - url: "https://slator.com/assets/2021/04/Untitled-design-2.png"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Kanverse.ai Introduces Next-Generation Cognitive Automation Platform and Launches Intelligent Document Processing Product (IDP)"
     excerpt: "Kanverse.ai, a cognitive automation company, has announced the global launch of the Datolite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Kanverse IDP is built on Kanverse Cognitive Automation platform."
     publishedDateTime: 2021-05-04T08:30:00Z

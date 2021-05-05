@@ -38,6 +38,20 @@ related:
         width: 700
         height: 448
         isCached: true
+  - title: "President Alvi stresses deploying Artificial Intelligence to predict COVID-19 like epidemics"
+    excerpt: "President Dr. Arif Alvi underscored the need for acquiring the help of medical professionals in the fields of public health and artificial intelligence to analyze various datasets and predict outbreaks of epidemics at the national level."
+    publishedDateTime: 2021-05-05T04:48:00Z
+    webUrl: "https://www.techjuice.pk/president-alvi-stresses-deploying-artificial-intelligence-to-predict-covid-19-like-epidemics/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 28
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/05/President-Telehealth.jpeg"
+        width: 696
+        height: 391
+        isCached: true
   - title: "Latest COVID-19 Impact Report on Artificial Intelligence in Agriculture Market"
     excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed $6000 million by 2027, growing at a CAGR of 25.50% from 2020 to 2027."
     publishedDateTime: 2021-05-04T09:26:00Z

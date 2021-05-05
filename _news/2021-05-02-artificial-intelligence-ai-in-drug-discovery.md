@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2278458/artificial-intelligence-ai-in-dru
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
         width: 846
         height: 635
         isCached: true
-  - title: "AI in Drug Discovery Market Value Expected to Grow at CAGR of 42.2% from 2021-2027"
-    excerpt: "Whipsmartmi com offers Global Artificial Intelligence in Drug Discovery Market from its research database The AI in drug discovery industry is expected to grow USD 342 16 million at CAGR of 42 2 from 2021 to 2027 Browse complete report"
-    publishedDateTime: 2021-04-30T12:15:00Z
-    webUrl: "https://www.openpr.com/news/2278135/ai-in-drug-discovery-market-value-expected-to-grow-at-cagr-of-42-2"
-    ampWebUrl: "https://www.openpr.com/amp/2278135/ai-in-drug-discovery-market-value-expected-to-grow-at-cagr-of-42-2"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2278135/ai-in-drug-discovery-market-value-expected-to-grow-at-cagr-of-42-2"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
 
 secured: "ZvqHIjf8/jTL8fIyNtgY4MdQdZ6HYbc+yzmy7Ej9iXdnnPtNWAwIpyshTxZfES0zilKn3q571LWhjEOdA30O+Oh7WtDiRFmsody71eDh2x3JZkS2uMEfKXNr5LH8mYJAiDAgD4VHDeT2etGMlaoXwvN7f0C/KiICdZY3TauYWKLAfX4NRNniQ0dP19Iq0iztAUxXXhUJ1v9D0VSAEN1ISkZG0O1vZO0FWFNF/GzbtOLjVUgMsbzfDVPbp4JDSEexHuwo451vCl6Gt/zAF3barK6g2N8+hLkHmyzGJoehTun39IC+nbHo0SCzka5jFUNyZ7RDsP4CZFThoik3QrQJFpY54AowCPIxBGn6G4Loyfr+UtJnWFpX3JTcjguBh/EKbHhbgx0tKkVg4Y5ADD7BOPkbGHwpvqxdRPiYH/SwBtJWLyXU0yrQLfvfUybIe7bxznIjvAwfB38Ut3e6zl+QzLWnICtx19N+5Fit1vaXgNuuudFxdQI5XBypalQVHmlOuHe2mrsFF3LQuLDwKA6iAg==;NNeaE4p1EsvKyg65EDm6Ww=="
 ---

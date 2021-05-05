@@ -51,6 +51,15 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving"
+    excerpt: "Argo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company (NYSE: F) and Volkswagen AG (OTC: VWAGY), announced that it has"
+    publishedDateTime: 2021-05-05T05:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving-10095636"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "Ford-backed Argo sees new sensor as key for self-driving cars"
     excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, has developed a sensor it believes will be key to commercializing autonomous transportation in cities, suburbs and on the highway."
     publishedDateTime: 2021-05-04T13:34:00Z

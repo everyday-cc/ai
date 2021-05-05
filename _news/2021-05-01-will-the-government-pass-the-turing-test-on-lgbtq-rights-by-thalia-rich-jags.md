@@ -7,7 +7,7 @@ originalUrl: "https://www.thisislocallondon.co.uk/youngreporter/19272869.will-go
 webUrl: "https://www.thisislocallondon.co.uk/youngreporter/19272869.will-government-pass-turing-test-lgbtq-rights/"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 910
     height: 512
     isCached: true
-
-related:
-  - title: "Amazon’s AI Guru Is So Totally Over the Turing Test"
-    excerpt: "You might think that Rohit Prasad would be a big fan of the Turing test, the venerated method to determine whether computers are as smart as humans. As the VP and head scientist of Amazon Alexa AI, Prasad has been instrumental in getting people to communicate with machines."
-    publishedDateTime: 2021-04-30T13:00:00Z
-    webUrl: "https://www.wired.com/story/plaintext-amazon-ai-guru-over-the-turing-test/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
 
 secured: "OkwM7GGlzdQzQGJQ9B+h5U69b55pLbt5BlJFJdcXj3ChUEA9fGGyb0E5lrCstK0ZO+eVUiw8I3vhpRvFGDTqKI6RrM4Ru+wnOn1r1DF6n1WVnJe0vGEWCEsUBp9W7FF6jEnSTRZaCEJNqBDJ4hfWcZO4HFggxydjm9plVOv6Wv7hmz+6ZMWnU5FSaCV4TsStJ/tqwqv0fttYV8wQ61CxJbNVuWd9RQIkd9nTebks/jUOBX/GLAu13uDqDHhDAldyyncO8KALntZfTMr3r1ftqWZYI2lBmXM+ar/QhlnJdnftwj0poCmJ4UpLTAL5QGcmmyEi+eaqg8Wqrut1pdhlZeIqejB3Ri5hbBn8mD1jZps=;sOOphDWCax9CqonTYmsK5g=="
 ---

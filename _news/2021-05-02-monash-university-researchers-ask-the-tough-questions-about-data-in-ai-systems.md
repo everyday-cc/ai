@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/monash-university-researchers-asking-t
 webUrl: "https://www.zdnet.com/video/monash-university-researchers-asking-the-tough-questions-about-data-in-ai-systems/"
 type: article
 quality: 63
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 770
     height: 578
     isCached: true
-
-related:
-  - title: "9 questions to ask when auditing your AI systems"
-    excerpt: "Auditing your AI and big data can be a challenge. But there are some questions to ask to get you on your way to compliance and governance."
-    publishedDateTime: 2021-04-30T12:30:00Z
-    webUrl: "https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/9-questions-to-ask-when-auditing-your-ai-systems/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/9-questions-to-ask-when-auditing-your-ai-systems/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/29/97cf2d45-3a8f-4f7e-a02e-5c5a699d6ad2/resize/1200x/d9622b2aa968ed3a9f556c28214c1296/shutterstock-1438802396.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "1np/ojzcHMWVcoxgF3OMryrgItJ2KQ/6MH1fRdODPyn34aCBaHzZ/Pjt5OK7cWsvTA/SQdhGANAmonErilEzZ2LJ49Os9Sb1XYq0qW4nMLEvTB4HBnIhsGW+QYbfXTXzFlPmdAEM7aKEnt9AKk9RGWJJqQVhx7A+aYhTSC1FDAxp5sQV3tFnjW6GNidzpMZJRNNMmjANTt2eD60AxqaoSl05nzfJXywSTqE9Y3IBvGnSw35c3cLqzAiwjOu+wrvZD7AgNGXz6JBtUrcAt1Xl1aSbPxvhh7OO1g0ztZcKYOhM/N/BXrHkzvAYgBOgSq3goprpFbRA0/bVNlGdV4IUsakONLD6Mwn5OjRD4HPvqwvRKY/ojBMjUqBWTqI68amlzl8ndNoG9hO0iYt2lXHjwzRgJXAsgSE4KflFr9PVVGQ6h1U6EhQN5hn8jHVmFZPxV2LgpC+xvW/msDDY/5ohZ9o2TdkPwYrQhfo28hToDWaf9hKLsrY8vq8DJoc5e+tJMcNHa6ElkBfBSddrjeIwiw==;Oek+lMdXvoYAy66nWGm8cw=="
 ---

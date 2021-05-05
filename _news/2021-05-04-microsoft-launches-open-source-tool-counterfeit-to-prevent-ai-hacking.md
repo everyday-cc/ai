@@ -2,26 +2,32 @@
 category: news
 title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
 excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
-publishedDateTime: 2021-05-04T13:55:00Z
-originalUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9061/microsoft-launches-open-source-tool-counterfeit-to-prevent-ai"
-webUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9061/microsoft-launches-open-source-tool-counterfeit-to-prevent-ai"
+publishedDateTime: 2021-05-04T12:01:00Z
+originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks"
+webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks"
+ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
 type: article
-quality: 54
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: Cloud Pro
-  domain: cloudpro.co.uk
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/04/microsoft.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1573748220/itpro/Microsoft_DW.jpg"
+    width: 1260
+    height: 710
     isCached: true
 
 related:
@@ -78,6 +84,6 @@ related:
       domain: thefastmode.com
     quality: 34
 
-secured: "93vYZERRqbrsUsPko/R6Q9gqp/HEb8Vem8oWAGAJzUq1k0aUQtam8yr76zki1ZQYNqqd5qCCil9k3JxvBWNw1K4L5sK7Hmu7QeQtIZu1/+VaQsQ2N0ZPuQ//M+E0spCgciK/PIyj7q6lHOlJtnPLmhzMEnv30i3XAIdMuMVe8zEHog732NmO2ActZJtC32vNAswDJiOhaZPn+REPTkm9gtqPWTHl5Ynon4Z0ep9H6Qp2quAd+eIe4mUI7Cf+4cC7WCA8ci2FI7h8vWCUT0wX8OouR8uTcPFf0d49AfB1HMlzlDAE72N4DFf0Lh7j2GPzzHP3IErcP7bVznKOrhdFUQAYJk1RV8CKptgj85bjRUo=;yecKTfh5pOlKXdT7MlL30g=="
+secured: "Q9M5mV4Yg9HFPeyynYPfJc1OKLuCRL+weOkoM3omvuMSnEpPk0ef9uAgl52yLViWBoVDwTH1n53hTUImV5zKa9XSksvzObXf9TsqYkvMU1rfiKhLJTM41NHdKYCkniX6gsDrLOc9KrHMFixTOSFEyfa0NoSUkWR2qnS/wrjp47M4vsSxrb/OpMVh4zINAWmM/wWKMQTeYeYUSXEN2rAIm/ScR7f7bU3vZNxlb+SvGnH6+rJlEyRgq5NR1/bvLA4EJ/I9sKAzoi0jyyPEDdk2v89nZhIhJmZgDpftNJ5OQqnxawsgfRuMI6Rn3spW9EkOlQZ1PwBIfEqsQeyGtv4cbzcuFazJF/xLx5HASSB31+U=;zOkAf9O/zyK7pxBBDIOUJA=="
 ---
 

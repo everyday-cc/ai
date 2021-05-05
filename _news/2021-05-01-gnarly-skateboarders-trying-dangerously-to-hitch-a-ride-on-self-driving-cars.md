@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboard
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Hyperdrive Daily: The Self-Driving Car Race Hardly Matters"
-    excerpt: "Welcome to the Hyperdrive daily briefing, decoding the revolution  reshaping the auto world, from EVs to self-driving cars and beyond."
-    publishedDateTime: 2021-04-30T11:31:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-04-30/hyperdrive-daily-the-self-driving-car-race-hardly-matters"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWE7ospu7tSc/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "933YELukfRs3vxPqxeWDb9H7XAyTnBkDz1zSC8287mTqY0Nt88fWduh3c+wWpkBsbtM4O0/v1LOtHQXTp9OkPzQH0FaveT0da5otppLqy1bsthVViD7schauqrn3CeW6jZora7uVieX6mefHXhpfC9JKPeYE7CxUe/F1kXuosAWWF0HXaEsyk1FLwxYSZrq/d/B7z+m7wotsDUw93FTjkrCHAAQQgOZ4MAXbTfmzaUmpPaseavUz/iWgOuy7LkqQUjTFaOa+tt4bpBMicoNf1zVg0z/SwgHUoo1zlPwUgORD8ECtT0cNN0sOtxL5mJlbqrBE+rMusG+NeKxJJGnhaBdBrW8P9+tjx2ibPyHQgQX6HLH/K/6Cru3j+osCbl70UQTEx9NEe642mRpo6S+ymPR2bm9fAGwsaQ7+5UnR+tyAPZHwwuHlM6SXoCmUWdgmWJuourxpT0M38oDOTn3w5gnoihUsxkF/fHlWy/JzOkSsiCBpgxmfSkZn28nLConZwxTZbKT3dOeOvlVnuol5aw==;LA3T8rLJMKU3W6PVAE0tAw=="
 ---

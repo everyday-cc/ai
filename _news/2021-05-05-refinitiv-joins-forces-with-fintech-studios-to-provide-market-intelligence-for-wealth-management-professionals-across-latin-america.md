@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Refinitiv teams up with FinTech Studios for Latin American wealth management push"
-    excerpt: "Refinitiv today announced a new strategic agreement with FinTech Studios, an AI-based news, market intelligence and analytics provider, to provide industry, local and regional news, and research to wealth management professionals across Latin America and beyond."
-    publishedDateTime: 2021-05-04T17:03:00Z
-    webUrl: "https://www.finextra.com/pressarticle/87433/refinitiv-teams-up-with-fintech-studios-for-latin-american-wealth-management-push"
+  - title: "iBooster Presents LinkedIn Boost Solution for the Fintech Market"
+    excerpt: "Professionals in the financial technology industry can use the service to reach their target network and connections. Several campaign packages"
+    publishedDateTime: 2021-05-04T16:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibooster-presents-linkedin-boost-solution-for-the-fintech-market-10095438"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "PBW7Q9RH30Pn/ZCsxDJf/lPK1FOg/Tx11zQGKupAL4zv3sEsexf5i7n2G5lBn0wKCH48hjHgoCDfSE4n9iyY4IblR39Z50qLrJajEtKLnQc+R0w4sqG5u5C0SgP3XxUGQ9RqXAY8Zl83o3Rb8jS44aNUvdSVEZVON8ODIcdyEuwkCo+6sbMnn/aeoNz3zUJNwIQ4KyKYMXoRjqp/iExnUpvgFBtyymSiuWqqY+jUBtLec2rw41RQ8KaNYa6xVm0fHi0JnOxdi1mfomIkOjqDlQjPCs2sHYRCErBn7xCqFe8l0SWPANsektZdx5vQTmkOammmQbUMFCTEZ0dw/uQQav3nDsTtT7a3gPOpupkpq0ZDYm3p2bHinCnhKEwkttBmLAYy917ofuVAwwmhMFozY9BAhPXgmtaUIF5UvNqv0duYhXlAFWvl4qPJ6KGs1D8fY8IB+vpXZf2ndWlUFDSO1DaS+q58NIuHzxICIQp8SR5BMNTGkEHkqv8sWRgjYGR7axdyj21De4NYq8m4I2CdPA==;SAc/VsihBP8MGoACuhM3Ow=="
 ---

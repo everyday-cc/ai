@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
+    excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
+    publishedDateTime: 2021-05-04T12:01:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1573748220/itpro/Microsoft_DW.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Microsoft buys speech recognition, conversational AI tech firm"
     excerpt: "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion."
     publishedDateTime: 2021-05-03T06:47:00Z
@@ -62,20 +78,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
-    excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
-    publishedDateTime: 2021-05-04T13:55:00Z
-    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9061/microsoft-launches-open-source-tool-counterfeit-to-prevent-ai"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/04/microsoft.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "jZUDzetlz95F4nHDgUdrklyDa6gX3TRiQSgSjLXB2fJwT7UHMJJp9SoQr2wOSKue4dS17MqwbDgs1/kiganbhg09YLn6ULmsQfTIiaTpG5jjeOx6pXMjsB/kFIhPqeVcorN2Urp/0x/iCn/WXgmv/I+m6g5otIrDP2/0iNi/Fq1EI0iGBiLU2HgBHwSAJKVoHLmXxyP2FQCkb/xIT+Toh3IJl3Yfc+bnatEnAA1FZrx7qcSQd56Ig1thAqVnQoBxJqjkHwDRWyyZIiMK9bbILGoKKDmxP/RjskIEEdBqPMIEuX+BdwBJupDNYJ9ZDL7fIRGCTLmHZHRbX4OODQ7qSnSsCW2EflW7/sPFg3CwtcWOq9b/Gr8+9pbsOykfSiP5OwYnZ71xYCn/vKFMwxmk+gUJSkPB+d2WoVFZFbkpS1krIUocHkifG3JRdCEB+k1ombmyywzrbl21b89hrf2HhyXr33XdCTCJfdye+VpSotM5S2HzjB17a+/Ub16htVD1HoYQ0+xPd9RrqH3kqxM0cg==;1fFO7jXse6zyt+xcVlcS7w=="
 ---

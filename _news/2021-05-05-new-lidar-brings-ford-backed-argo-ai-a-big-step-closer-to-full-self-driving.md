@@ -1,28 +1,25 @@
 ---
 category: news
-title: "Ford-backed Argo sees new sensor as key for self-driving cars"
-excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, has developed a sensor it believes will be key to commercializing autonomous transportation in cities, suburbs and on the highway."
-publishedDateTime: 2021-05-04T13:34:00Z
-originalUrl: "https://www.autonews.com/mobility-report/ford-backed-argo-sees-new-sensor-key-self-driving-cars"
-webUrl: "https://www.autonews.com/mobility-report/ford-backed-argo-sees-new-sensor-key-self-driving-cars"
+title: "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving"
+excerpt: "Argo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company (NYSE: F) and Volkswagen AG (OTC: VWAGY), announced that it has"
+publishedDateTime: 2021-05-05T05:40:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving-10095636"
+webUrl: "https://markets.businessinsider.com/news/stocks/new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving-10095636"
 type: article
-quality: 24
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
   - AI
-
-images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO1-MAIN_i.jpg"
-    width: 800
-    height: 600
-    isCached: true
 
 related:
   - title: "Argo AI Readies Its Own Lidar Sensor For Ford Automated Vehicles"
@@ -66,15 +63,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
-  - title: "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving"
-    excerpt: "Argo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company (NYSE: F) and Volkswagen AG (OTC: VWAGY), announced that it has"
-    publishedDateTime: 2021-05-05T05:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving-10095636"
+  - title: "Ford-backed Argo sees new sensor as key for self-driving cars"
+    excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, has developed a sensor it believes will be key to commercializing autonomous transportation in cities, suburbs and on the highway."
+    publishedDateTime: 2021-05-04T13:34:00Z
+    webUrl: "https://www.autonews.com/mobility-report/ford-backed-argo-sees-new-sensor-key-self-driving-cars"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO1-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Ford-Backed Argo Sees New Sensor as Key to Self-Driving Cars"
     excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, has developed a sensor it believes will be key to commercializing autonomous transportation in cities, suburbs and on the highway."
     publishedDateTime: 2021-05-04T17:03:00Z
@@ -90,6 +92,6 @@ related:
         height: 630
         isCached: true
 
-secured: "uhCm0XSOrwm/39VIWw3llIfOzDRJ5Ych8UQl/RSjfIhOXjyvZ7OJICzvDDft6bg8EzTHF/luvMuhtp3PwFGoqYv+USX7mgQ8jMiN7Jl6SX3EyYtw5DCKSdEEyZvguhyiWEy8tnMZlrTBX/ohSK7zCCMukSxgoQBUNFQRWnYwnigPwa2t5zD/3zouUzemsgAw6nIYVTaQGYrcCjxyDBh1YhsNVCP8kfyAQgftCU54uwd/V3mFVzEL/hl4QzBNrtZ8UYmUEMi9o+rIYGwjJ8Wl3sllHdjM9PFrSDvltVPp4Z+1eQjWipCDZR9XWG49M7VngX1yOHJeKVTJRK+R4KE6ITJqmQ51YkWGoV6DN+4aBQz687/Ws6iAmaia4QYJ1DQzcvWreNYLxHgOaryijp1YBN3w2AfQkbL9lgHFzdN7tzfDXhuPDRB29z35bEmzRdDKmGRecDTSqRVbd3I3qrgO9AnhDJIbgsxJzQHfxV0Yb2e2at8k/vgg1C2AQ44dFGZNto6C+LBYWKc5C4jOssUXmg==;CoKF9VWeytBmD588C4/DgA=="
+secured: "evSTjiRWNTnlb9LApgwBXyyVqwegYkkqqhf7izT8erh8lmWAMxqx1Cdo/oyB/xaZKEZ5J0U0I11XOqnrsL29zLJSEYr8yObK5BM+kcKsgqv/H9O/OKqKr4cVuZIAIh9QFHC9O3aPiQeQSJtEz0Kmawvk3KN9L8CeJdw8m0MjL7XT+OB1c+IxqvM3GU2PmfOMTsIGgvKfOZw2G6RzXEAPnRVLUL2VrXOpZ97l0nRzHuAhDG/CCKkB4+sEXtWhAArOFCfVnQFd7fDAbSyV6/ZovqpMOAwQKWFPSMgFQ9jrR8QKtBR6z+ZJ9kcX+0iGk/2fCFYKe+LxFawE+nQqlF2Lv1QuSMnVvYql08Mq9W9XG7I=;+GPmcrGK4glcx0v9o9mLMg=="
 ---
 

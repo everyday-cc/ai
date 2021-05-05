@@ -33,6 +33,20 @@ related:
         width: 700
         height: 448
         isCached: true
+  - title: "President Alvi stresses deploying Artificial Intelligence to predict COVID-19 like epidemics"
+    excerpt: "President Dr. Arif Alvi underscored the need for acquiring the help of medical professionals in the fields of public health and artificial intelligence to analyze various datasets and predict outbreaks of epidemics at the national level."
+    publishedDateTime: 2021-05-05T04:48:00Z
+    webUrl: "https://www.techjuice.pk/president-alvi-stresses-deploying-artificial-intelligence-to-predict-covid-19-like-epidemics/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 28
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/05/President-Telehealth.jpeg"
+        width: 696
+        height: 391
+        isCached: true
   - title: "University of Utah, ARUP AND TECHCYTE Develop NanoSpot.AI, A New Ultra-Fast Test For COVID-19 Antibodies"
     excerpt: "ARUP Laboratories, and Techcyte Inc. forma partnership to develop an easy-to-administer SARS-CoV-2 antibody test that produces results within minutes."
     publishedDateTime: 2021-05-03T21:14:00Z

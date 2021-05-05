@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-th
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/354b3471-ec18-4e0d-adf1-b9f9b9657488/c4e9132a-a8aa-4fdc-bdb0-496e44323a6b/1280x720/match/image.jpg?pubId=854081161001"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Self-Driving Cars: Can They Be Brought onto the Roads Safely?"
-    excerpt: "Can They Be Brought onto the Roads Safely? By shruthi sethu - One can also teach self-driving cars how to follow the highway code. This necessitates dissecting each rule in the"
-    publishedDateTime: 2021-04-30T11:18:00Z
-    webUrl: "https://www.cioreview.com/cioviewpoint/selfdriving-cars-can-they-be-brought-onto-the-roads-safely-nid-33447-cid-246.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_4to2wNG3.jpg"
-        width: 705
-        height: 485
         isCached: true
   - title: "Why fully self-driving cars on UK roads might be further away than you think"
     excerpt: "The Government claims that cars with a form of technology considered legally self-driving could hit British roads by the end of the year, but truly autonomous vehicles are still some way off, finds Rh"

@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Self-Driving Cars: Can They Be Brought onto the Roads Safely?"
-    excerpt: "Can They Be Brought onto the Roads Safely? By shruthi sethu - One can also teach self-driving cars how to follow the highway code. This necessitates dissecting each rule in the"
-    publishedDateTime: 2021-04-30T11:18:00Z
-    webUrl: "https://www.cioreview.com/cioviewpoint/selfdriving-cars-can-they-be-brought-onto-the-roads-safely-nid-33447-cid-246.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_4to2wNG3.jpg"
-        width: 705
-        height: 485
-        isCached: true
 
 secured: "sIWFJXW6qKMoMWNXjNsYu6q5eO6snDmGX+SJRwAQdh4CEZPg4JbqOyklVWIqVp1viO8Y4m2kXqc+87Uofl2uKH/gs25Zt52KGIBYIO+aGYLBQObzEqFjdi6jLPo7/z+nv3xAdUfOdFE0QK1wKISWR/9rQWrG24ZwX9r+iJCg6bFyDwhytuSolQKSQ1tg6/7+hp5A4PTUqmG/gPN7/3x8+iMX6SczGZ8arVWYHcCH4N8UUJs/61uBYc66XBI3BnvRBqppSr9uFpGAxJ9xCiIbB8HEwrhcZTlQ4xmtB/OYdltqMxQD+INNvpWAccYlrKlN8rwR5sWqNpiuU/BayCjkH2pxSAZPhpDJKIFj/s2xkbs=;AtJ0Rq0IftCDSUvUOPQyyw=="
 ---

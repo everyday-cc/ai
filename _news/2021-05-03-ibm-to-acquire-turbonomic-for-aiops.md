@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IBM to acquire AIOps firm Turbonomic"
-    excerpt: "The announcement follows IBM's recent acquisition of Instana, as well as the launch of IBM Cloud Pak for Watson AIOps, which automates IT operations with the help of artificial in"
-    publishedDateTime: 2021-04-30T11:24:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic"
-    ampWebUrl: "https://www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/359393/ibm-to-acquire-turbonomic?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1619780773/itpro/shutterstock_ibm_stripes.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "An IBM exec says the $1.5 billion purchase of AI firm Turbonomic will supercharge its hybrid cloud push as it fights off Amazon and Microsoft"
     excerpt: "This latest deal is part of IBM's push to reinvent itself as a modern company and double down on hybrid cloud, IBM VP Rob Thomas told Insider."
     publishedDateTime: 2021-04-30T18:36:00Z
@@ -88,20 +72,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/ibm-cloud-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "IBM to acquire Turbonomic with AIOps dominance squarely in its sights"
-    excerpt: "IBM is to acquire Turbonomic, a Boston-based APM software provider, to help organisations with their AIOps initiatives."
-    publishedDateTime: 2021-04-30T12:21:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/apr/30/ibm-to-acquire-turbonomic-with-aiops-dominance-squarely-in-its-sights/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 39
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/01/iStock-458622753-1.jpg"
-        width: 1254
-        height: 836
         isCached: true
   - title: "Turbonomic Acquisition Will Add Depth to IBM AIOps Portfolio"
     excerpt: "In a move aimed to expand the IBM performance management push, Big Blue has agreed to acquire Turbonomic in a deal reportedly worth more than $1.5 billion."
