@@ -86,6 +86,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "A Quick Introduction to Microsoft Azure Purview"
+    excerpt: "One of the newest solutions aiming to ease these orchestration woes is Microsoft Azure Purview, a cloud platform-as-a-service (PaaS) that provides a unified view of data sources across an organization."
+    publishedDateTime: 2021-05-05T16:45:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 74
+    images:
+      - url: "https://www.cmswire.com/-/media/80ae800a4aae4fed8d9beae1edf83e7b.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "LiveAction Acquires Network Security Startup CounterFlow AI"
     excerpt: "LiveAction, the leader in network performance management, on Tuesday announced it has acquired CounterFlow AI, a leading network detection and response (NDR) provider. This acquisition will enable LiveAction’s current and future end customers and channel partners with a unified network performance monitoring and diagnostics (NPMD) platform that incorporates encrypted traffic analysis for security incident detection and response."
     publishedDateTime: 2021-05-05T01:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Honolulu airport rolls out facial recognition technology"
+    excerpt: "Honolulu’s Daniel K. Inouye International Airport has launched the Simplified Arrival Program in an effort to streamline the international arrival process."
+    publishedDateTime: 2021-05-05T17:32:00Z
+    webUrl: "https://www.bizjournals.com/pacific/news/2021/05/05/airport-rolls-out-facial-recognition-tech.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "QcV/CwWd11juZ4VjbF1plr6dWUHq46OdJLpWyj+ORwpUS3060C5NCvZQwwZkojhMDZfv6su2dM88Pd7fxeV7/+DNp551WkPyGyfOgdZWUEkQsEKax/6qBIMf/bZWF74KPuUUwnOt199TwljSdB61J97qJto/xWM6zjruVdEXAghg6pDtdyWGMvEuNT0bjes2ano5rIIky75lEGW57j3O1PQqu9xXyaH1zFnNFlGipF9KejePrYEkU3xhq18SLgHm0ypgaMLstjvtNIqOboYvd8lsAFe77MFZfk1REetsAvw8KpDMLfsUR7Fqkl4/LHsnCfJaeTO8yZYrP2CH4mE4boXP4+7SaR6gYuXYnYnCnZGf6bGs7uTfl6GM26OQqmstfCEvilYT7F5PjWLTpXO+CuKawvM5E3UVXCtyqHSWTeqlsf9OU3BuoTC9zFi50u7We5gf4aNyFsfDLWlkNijzOy2KgNtnbkxOfpIpGmQWXaRZ01HrubrWY3L5fcxffAWK012b6xxWx/jSKV2TFpVcyA==;xe+k7AtUYVB/xxrqm2B4XQ=="
 ---

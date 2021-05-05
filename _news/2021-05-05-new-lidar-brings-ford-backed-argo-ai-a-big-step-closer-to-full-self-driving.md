@@ -77,6 +77,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
+  - title: "Self-driving technology company Argo AI makes lidar breakthrough"
+    excerpt: "Comment Now! Argo AI, the self-driving technology company backed by Ford and Volkswagen Group, claims to have overcome one of the main challenges"
+    publishedDateTime: 2021-05-05T15:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1132154_self-driving-technology-company-argo-ai-makes-lidar-breakthrough"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/argo-ai-lidar-technology_100790998_h.jpg"
+        width: 1920
+        height: 1002
+        isCached: true
   - title: "Ford-Backed Argo Sees New Sensor as Key to Self-Driving Cars"
     excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, has developed a sensor it believes will be key to commercializing autonomous transportation in cities, suburbs and on the highway."
     publishedDateTime: 2021-05-04T17:03:00Z

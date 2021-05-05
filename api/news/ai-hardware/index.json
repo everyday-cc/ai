@@ -1068,10 +1068,10 @@
     {
       "path": "_news/2021-04-23-eurotech-announces-dynacor-40-36-a-rugged-hpec-system-for-transportation-5g-and-ai-at-the-edge.md",
       "title": "Eurotech Announces DynaCOR 40-36 - A Rugged, HPEC System for Transportation, 5G and AI At the Edge",
-      "excerpt": "Eurotech (eurotech.com), a NVIDIA Preferred OEM Partner, long-time leading provider of embedded computing systems and leader in Internet of Things (IoT) enablement, announces its newest liquid cooled HPEC system for 5G services,",
+      "excerpt": "“The DynaCOR 40-36 sets a new record for AI performance in truly rugged applications” said Pierfrancesco Zuccato, Senior Product Manager at Eurotech. “It is a great platform for the most computation intense inference models and supports double ...",
       "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/175262/",
-      "originalUrl": "https://www.newswiretoday.com/news/175262/",
+      "webUrl": "https://www.newswiretoday.com/news/175262/Eurotech-Announces-DynaCOR-40-36-A-Rugged-HPEC-System-for-Transportation-5G-and-AI-At-the-Edge/",
+      "originalUrl": "https://www.newswiretoday.com/news/175262/Eurotech-Announces-DynaCOR-40-36-A-Rugged-HPEC-System-for-Transportation-5G-and-AI-At-the-Edge/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1081,7 +1081,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T21:17:00-07:00",
+      "publishedDateTime": "2021-04-22T22:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newswire Today",
@@ -1198,36 +1198,27 @@
     {
       "path": "_news/2021-04-22-nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers.md",
       "title": "NVIDIA Sets AI Inference Records, Introduces A30 and A10 GPUs for Enterprise Servers",
-      "excerpt": "SANTA CLARA, Calif., (GLOBE NEWSWIRE) -- NVIDIA today announced that its AI inference platform, newly expanded with NVIDIA (R) A30 and A10 GPUs for mainstream servers, has achieved record-setting performance across every category on the latest release of MLPerf.",
+      "excerpt": "NVIDIA today announced that its AI inference platform, newly expanded with NVIDIA ® A30 and A10 GPUs for mainstream servers, has achieved record-setting performance across every category on the latest release of MLPerf.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-2021-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-2021-04-21",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-1030329802",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-1030329802",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T10:00:00-07:00",
+      "publishedDateTime": "2021-04-21T12:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

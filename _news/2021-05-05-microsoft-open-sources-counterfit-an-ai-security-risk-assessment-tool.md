@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/"
 type: article
 quality: 121
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "A Quick Introduction to Microsoft Azure Purview"
+    excerpt: "One of the newest solutions aiming to ease these orchestration woes is Microsoft Azure Purview, a cloud platform-as-a-service (PaaS) that provides a unified view of data sources across an organization."
+    publishedDateTime: 2021-05-05T16:45:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 74
+    images:
+      - url: "https://www.cmswire.com/-/media/80ae800a4aae4fed8d9beae1edf83e7b.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "DICT supports iTrain Asia Microsoft AI training for women data scientists"
     excerpt: "The Department of Information and Communications Technology (DICT), through its ICT Industry Development Bureau (IIDB), supports iTrain Asia’s initiative that provides free Microsoft-sponsored (Artificial Intelligence) AI training to women data scientists."
     publishedDateTime: 2021-05-05T10:59:00Z

@@ -89,6 +89,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "Self-driving technology company Argo AI makes lidar breakthrough"
+    excerpt: "Comment Now! Argo AI, the self-driving technology company backed by Ford and Volkswagen Group, claims to have overcome one of the main challenges"
+    publishedDateTime: 2021-05-05T15:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1132154_self-driving-technology-company-argo-ai-makes-lidar-breakthrough"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/argo-ai-lidar-technology_100790998_h.jpg"
+        width: 1920
+        height: 1002
+        isCached: true
   - title: "Argo develops in-house lidar sensor for self-driving cars"
     excerpt: "Argo Lidar is a new sensor introduced by Argo AI designed to accelerate the commercialization of autonomous delivery and ride-hailing services. The lidar sensor detects difficult-to-see objects from far away and works with Argo’s self-driving system (SDS) that is capable of 360° of awareness day or night and can safely drive on city streets,"
     publishedDateTime: 2021-05-05T13:03:00Z

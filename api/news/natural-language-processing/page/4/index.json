@@ -2,6 +2,74 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-19-skidmore-college-blocks-recognition-of-progressive-zionists-club.md",
+      "title": "Skidmore College Blocks Recognition of Progressive Zionists Club",
+      "excerpt": "Skidmore College denied recognition of a progressive Zionists club on March 13. The Algemeiner reported that the club, Progressive Zionists for Peace (PZP), was told by Skidmore’s Club Affairs Committee that their application for a trial period was not accepted due to concerns “that a dialogue focused club with one perspective being conveyed could be troublesome” and that the club needs to “try to either gain more diverse perspectives before becoming a club focused on dialogue or reframe the mission to be more advocate focused with a specific stance.",
+      "sourceUrl": null,
+      "webUrl": "https://jewishjournal.com/news/334381/skidmore-college-blocks-recognition-of-progressive-zionists-club/",
+      "originalUrl": "https://jewishjournal.com/news/334381/skidmore-college-blocks-recognition-of-progressive-zionists-club/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jewish Journal",
+        "domain": "jewishjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-how-conversational-ai-can-help-efficiently-disseminate-covid-19-vaccines.md",
+      "title": "How Conversational AI can help efficiently disseminate Covid-19 vaccines",
+      "excerpt": "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
+      "originalUrl": "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-925-million-voice-recognition-startup-pindrop-just-acquired-competitor-next-caller-to-accelerate-its-path-to-an-ipo.md",
       "title": "$925 million voice recognition startup Pindrop just acquired competitor Next Caller to accelerate its path to an IPO",
       "excerpt": "CEO Vijay Balasubramaniyan told Insider the acquisition brings Pindrop closer to an IPO, which the company is planning in the next two years.",
@@ -1129,101 +1197,6 @@
         "name": "CNSNews.com",
         "domain": "cnsnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-hugging-face-raises-40-million-for-its-natural-language-processing-library.md",
-      "title": "Hugging Face raises $40 million for its natural language processing library",
-      "excerpt": "Hugging Face has raised a $40 million Series B funding round — Addition is leading the round. The company has been building an open source library for natural language processing (NLP) technologies. You can find the Transformers library on GitHub — it has 42,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/",
-      "originalUrl": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-cisco-adds-real-time-translation-to-webex-video-meetings.md",
-      "title": "Cisco Adds Real-Time Translation to Webex Video Meetings",
-      "excerpt": "Audio is automatically translated into text for each participant using a choice of over 100 different languages.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/video-conferencing-software/132192/cisco-adds-real-time-translation-to-webex-video-meetings",
-      "originalUrl": "https://uk.pcmag.com/video-conferencing-software/132192/cisco-adds-real-time-translation-to-webex-video-meetings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/c/cisco-adds/cisco-adds-real-time-translation-to-webex-video-meetings_b818.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

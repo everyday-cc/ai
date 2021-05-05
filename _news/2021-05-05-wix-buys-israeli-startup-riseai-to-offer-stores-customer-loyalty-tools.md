@@ -58,6 +58,22 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Wix.com buys Rise.ai to add gift cards to e-commerce platform"
+    excerpt: "Wix.com, which helps small businesses build and operate websites, said on Wednesday it bought Israeli startup Rise.ai to extend its platform to include gift and loyalty cards and rewards and referrals."
+    publishedDateTime: 2021-05-05T13:08:00Z
+    webUrl: "https://www.metro.us/wix-com-buys-rise-ai-to/"
+    ampWebUrl: "https://www.metro.us/wix-com-buys-rise-ai-to/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/wix-com-buys-rise-ai-to/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 57
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH440TU-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "8bUhPF4waqRbOjqDQl5IlSP++vPcUv0xQgbtA1DTiX0SxxiYpcZik/Wi7GyjF26p3gZHbV2DLAyJuETzvVqM1CH82Uiy7kU6qtntkwnv8R1GEB8zIaPst1LEtzLZfLMUgEE5Act5j8vjWWsyl6fftdjxBLmvtVL94b1d7ZgpFWfIbPmKCzqJ/19N1EqfhJtweqzcuMJhXgTR7QOi8ZzYvUnecHbYaoni4i7scpenV2aT5aFTZ/XVz/OZxaTQbCInwHIu5Hq3wThZGocuz3YWttWZ1roHT751Szn5ugyCWQr/JxB71PMLeZ8j6EhEPyMlAjAmONfxRPMwEyyyMQisxJOPg++NRDWZ55DqmQ66YCTYeoChIo/DLM+ix3zotdk3c76JJyEB8TDgTlfjHJnHczsnPkDZcTJsxh/FrnuFqQxosQDTh6dLV5YD0ve2J98E5TRwJoCXDwsYWW2K7OJPvHDcQw5JJC+zWw8bOBU57FXHiXGVeEdvUiZU5aESsV/YTfK69AT8bmsYbuV7lKAONA==;U7UOGyDqTruTrHsr5yr3pg=="
 ---

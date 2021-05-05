@@ -2,6 +2,163 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-29-eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says.md",
+      "title": "EU’s plan to woo chip manufacturers won’t work, Taiwan says",
+      "excerpt": "The EU may be interested in convincing Taiwan's chipmakers to build chips in Europe, but most chip production is expected to stay in Taiwan.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/",
+      "originalUrl": "https://venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/Microchip-e1617299979361.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/amp/",
+      "publishedDateTime": "2021-04-28T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india.md",
+      "title": "InnovationRx: Artificial Intelligence 50; Plus Covid Treatments In India",
+      "excerpt": "W hile some industries were devastated by the Covid-19 pandemic, funding kept flowing to startups using artificial intelligence to solve business challenges. Several healthcare companies made the annual Forbes AI 50 list,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/",
+      "originalUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608a05213e5ebbca00f583aa%2F0x0.jpg",
+          "width": 1200,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/amp/",
+      "publishedDateTime": "2021-04-28T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-membership-inference-attacks-detect-data-used-to-train-machine-learning-models.md",
+      "title": "Membership inference attacks detect data used to train machine learning models",
+      "excerpt": "In membership inference attacks, the adversary can work back from the machine learning algorithm to discover the training data used.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/",
+      "originalUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/deepfakes-e1619655593693.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/amp/",
+      "publishedDateTime": "2021-04-28T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-when-artists-and-machine-intelligence-come-together.md",
       "title": "When artists and machine intelligence come together",
       "excerpt": "Throughout history, from photography to video to hypertext, artists have pushed the expressive limits of new technologies, and artificial intelligence is no exception. At I/O 2019, Google Research and Google Arts &amp; Culture launched the Artists + Machine Intelligence Grants, providing a range of support",
@@ -1068,154 +1225,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health.md",
-      "title": "Healthcare Artificial Intelligence Market May See Big Move | AiCure, APIXIO, Welltok, Cyrcadia Health",
-      "excerpt": "Latest Study on Industrial Growth of COVID-19 Outbreak-Global Healthcare Artificial Intelligence Market 2019-2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health-2021-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health-2021-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-amazon-releases-deepracer-software-in-open-source.md",
-      "title": "Amazon releases DeepRacer software in open source",
-      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year.md",
-      "title": "‘Self-driving’ cars could get green light for use on UK motorways this year",
-      "excerpt": "Automated lane-keeping systems likely to be allowed only when traffic is moving slowly",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year",
-      "originalUrl": "https://www.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/94d7138351039ada10b40e6fad51eeb0e34f9100/0_0_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3e88a6f9f477ee4aeb92d71379969444",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year",
-      "publishedDateTime": "2021-04-27T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

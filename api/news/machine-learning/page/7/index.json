@@ -2,6 +2,41 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-13-google-acquires-neural-network-startup-to-improve-speech-and-image-recognition-software.md",
+      "title": "Google acquires neural network startup to improve speech and image recognition software",
+      "excerpt": "Recently, Krizhevsky and Sutskever, who will both be moving to Google, developed a system that dramatically improved the state of the art in object recognition. “This is a wonderful opportunity ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/2013/03/13/google-speech-recognition-dnnresearch-373125/",
+      "originalUrl": "https://bgr.com/2013/03/13/google-speech-recognition-dnnresearch-373125/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-deep-learning-in-machine-vision-market-swot-analysis-by-key-players-iflytek-navinfo-nvidia.md",
       "title": "Deep Learning in Machine Vision Market Swot Analysis By Key Players: IFLYTEK, NavInfo, NVIDIA",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 12, 2021 (Market Insight Reports) -- The Global Deep Learning in Machine Vision Market Report provides a holistic evaluation of the market for the forecast period (2020 ...",
@@ -1255,50 +1290,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-on-premises.md",
-      "title": "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises",
-      "excerpt": "Microsoft senior program manager Saurya Das demonstrated this feature with Azure Machine Learning Studio during a recorded Ignite conference session. The user of the Studio portal can connect to any Kubernetes cluster made accessible through Azure Arc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterknowledge.com/microsoft/azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-premises",
-      "originalUrl": "https://www.datacenterknowledge.com/microsoft/azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-premises",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/jeremy%20winter%20microsoft.jpg",
-          "width": 827,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-05T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Data Center Knowledge",
-        "domain": "datacenterknowledge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

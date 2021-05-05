@@ -20,6 +20,22 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "Machine learning accelerates cosmological simulations"
+    excerpt: "The technique, published in Proceedings of the National Academy of Sciences, brings together machine learning, high-performance computing and astrophysics -- and will help usher in a new era of high-resolution cosmology simulations. The U.S. National ..."
+    publishedDateTime: 2021-05-05T17:02:00Z
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302666&org=NSF"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 39
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/ai_cosmology_f.jpg"
+        width: 350
+        height: 220
+        isCached: true
+
 secured: "XxZKg4ZYA6er9wEGB2n/BMBoxq8wzapDItX9nTS2g4aX8UuCuRl4XBX+w86iNaKluTGUs04IGIpijdxvtUU88UBV1IsP4GfLoVK559VmR+awp7+ytVQoOvxnJMRKTWf1pc2nFIQ4DrpnmubBOBBaLKy1LcdhtwanfQ/lF8D01ah/wneefssjPz0XebIOvOWKf0UqQa9VA0Ni9gv9ayhrmJMjMvLlVVAabGVSmxF2/T2QXVHgybD5RR/VErSvI3c6JSLVPQJPG0H72/OqpdtvR2RaXDawvmaEPa9GsYxoLGqIcs0oJKyETZ+du8WeOiSN33mPafJiR/eh3Et/LoZmG6REQ9kzmrVxUw0qOX3pmmw=;92X5i+ZutZ5NT4KjXncxbg=="
 ---
 

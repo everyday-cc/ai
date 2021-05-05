@@ -2,6 +2,152 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-29-artificial-intelligence-what-about-its-ethical-deployment.md",
+      "title": "Artificial Intelligence – what about its ethical deployment?",
+      "excerpt": "While companies are making progress deploying artificial intelligence and machine learning, more than half of enterprises overestimate their levels of maturity in deploying responsible AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.philstar.com/the-freeman/cebu-business/2021/04/30/2094815/artificial-intelligence-what-about-its-ethical-deployment",
+      "originalUrl": "https://www.philstar.com/the-freeman/cebu-business/2021/04/30/2094815/artificial-intelligence-what-about-its-ethical-deployment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.philstar.com/photos/2021/04/29/meralco-pasay-substation_2021-04-29_16-50-43755_thumbnail.jpg",
+          "width": 686,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.philstar.com/the-freeman/cebu-business/2021/04/30/2094815/artificial-intelligence-what-about-its-ethical-deployment/amp/",
+      "cdnAmpWebUrl": "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/the-freeman/cebu-business/2021/04/30/2094815/artificial-intelligence-what-about-its-ethical-deployment/amp/",
+      "publishedDateTime": "2021-04-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "philstar.com",
+        "domain": "philstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-wealthfront-releases-a-new-self-driving-money-feature-to-make-saving-easier.md",
+      "title": "Wealthfront releases a new 'Self-Driving Money' feature to make saving easier",
+      "excerpt": "Wealthfront's new Self-Driving Money feature lets customers take a hands-off approach to saving, and it could potentially be more effective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/select/wealthfront-autopilot-self-driving-money-review/",
+      "originalUrl": "https://www.cnbc.com/select/wealthfront-autopilot-self-driving-money-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106875922-1619707567064-gettyimages-951355782-kk0047-1143-2.jpeg?v=1619708028",
+          "width": 6720,
+          "height": 4480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/select/wealthfront-autopilot-self-driving-money-review/",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/select/wealthfront-autopilot-self-driving-money-review/",
+      "publishedDateTime": "2021-04-29T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-as-an-investor-how-do-you-know-what-ai-products-to-invest-in.md",
+      "title": "As An Investor, How Do You Know What AI Products To Invest In?",
+      "excerpt": "As An Investor, How Do You Know What AI Products To Invest In? Answer by Haomiao Huang, Investor at Kleiner Perkins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/",
+      "originalUrl": "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60874940e6628fc24d0cf72e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/amp/",
+      "publishedDateTime": "2021-04-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities-for-hybrid-cloud.md",
       "title": "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud",
       "excerpt": "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT resources across development, test and production environments",
@@ -1017,163 +1163,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says.md",
-      "title": "EU’s plan to woo chip manufacturers won’t work, Taiwan says",
-      "excerpt": "The EU may be interested in convincing Taiwan's chipmakers to build chips in Europe, but most chip production is expected to stay in Taiwan.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/Microchip-e1617299979361.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says/amp/",
-      "publishedDateTime": "2021-04-28T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india.md",
-      "title": "InnovationRx: Artificial Intelligence 50; Plus Covid Treatments In India",
-      "excerpt": "W hile some industries were devastated by the Covid-19 pandemic, funding kept flowing to startups using artificial intelligence to solve business challenges. Several healthcare companies made the annual Forbes AI 50 list,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/",
-      "originalUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608a05213e5ebbca00f583aa%2F0x0.jpg",
-          "width": 1200,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2021/04/28/innovationrx-artificial-intelligence-50-plus-covid-treatments-in-india/amp/",
-      "publishedDateTime": "2021-04-28T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-membership-inference-attacks-detect-data-used-to-train-machine-learning-models.md",
-      "title": "Membership inference attacks detect data used to train machine learning models",
-      "excerpt": "In membership inference attacks, the adversary can work back from the machine learning algorithm to discover the training data used.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/deepfakes-e1619655593693.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/amp/",
-      "publishedDateTime": "2021-04-28T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

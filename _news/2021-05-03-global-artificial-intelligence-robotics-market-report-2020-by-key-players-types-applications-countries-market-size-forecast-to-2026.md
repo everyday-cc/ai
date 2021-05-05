@@ -2,9 +2,9 @@
 category: news
 title: "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
 excerpt: "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,"
-publishedDateTime: 2021-05-03T08:00:00Z
-originalUrl: "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026&source=139"
-webUrl: "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026&source=139"
+publishedDateTime: 2021-05-03T03:24:00Z
+originalUrl: "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
+webUrl: "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
 type: article
 quality: 36
 heat: -1
@@ -19,8 +19,8 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?902239"
-    width: 444
+  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+    width: 300
     height: 250
     isCached: true
 
@@ -126,6 +126,6 @@ related:
       domain: ksusentinel.com
     quality: 1
 
-secured: "JCAbKbiDvc1XIM5kElNV14YCiCd36CEFJhfPGrjjkU/HJ/G6D8Z6PIwxxTHyTQxfDWDMTqhTLztrPBlyO1AJfeqcOO4wliXgyHYjuL4d9QkvaPvwt34EPtbSBdm/QJ8bjVfY6StKx6l5NFlS0T0Rl7zyZczROlZ8rSFBL8flaT23sF8myy5HPyzzDctSY/A2BV4oYCafrDhVu7wHWs/kcSWfgHHn5E3iCrbqIJI9gyB1VNaMngNC3n0a1+6U0TtwVPt3ksgA/2KafLikuWltrlIlNWPJopcIQJ3zn7NItfhm3mhnz4AZT3h/KLmv2tGH3T9rphCh055aiK3fMoaHBV5WDi1m269Gu6XgBvCYOV2baJxCbBWOI8WAMFMq9Mn8qbWsDOOlMBcbPhxNU6Jh5TJ9pEcJrjpSpYuSeL8AQKBplxj44njGGryA1Y8C3FKN3JgJ0G3y1piKnnyfEtIHHsvtRHcfjE27O5829GXRSjhQ7ljGxb9y8DMryL1xGgJBEUbsE/mLT45DEkuHyBtVGw==;GTJ1VW+6EZak5jm9HhpJCw=="
+secured: "0RZ2Evkk+temT1/Df0l39w9NlbnheicPo49ofh1SxwGnuF8xCh0xhJfk3/QU9w4Y0CXJ8MYsKVDDzcnia6zh8be3KtZdWhRiW5eq1nAbpllScPhogLTxswdjqjLZAAEzJ3LtYVnWqWtySa6aphu5fP1ZxfBkyCBwyir8LjSpRJaC4bexIdw/dRDo54Dv/oLEEIn0ij7phZoGUFoaoScDxeKvMOArmFat6Ah1OySUDMYCigHexjEzmtpEtnoD2epTbKn0Rr3ZuoSFl8zP9heKOl1Rym9hI6mEquZ82Bq3NGQ9hg4LY3NQuB+kaZ2pYWUyybHeoUFM6sY9liMo0ACLU8Echdw0kXVsuq8NVOtWf5o=;8swStzqdu+h/pK6kSrNJ2Q=="
 ---
 

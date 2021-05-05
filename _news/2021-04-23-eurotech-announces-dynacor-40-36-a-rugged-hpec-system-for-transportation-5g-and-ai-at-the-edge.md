@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Eurotech Announces DynaCOR 40-36 - A Rugged, HPEC System for Transportation, 5G and AI At the Edge"
-excerpt: "Eurotech (eurotech.com), a NVIDIA Preferred OEM Partner, long-time leading provider of embedded computing systems and leader in Internet of Things (IoT) enablement, announces its newest liquid cooled HPEC system for 5G services,"
-publishedDateTime: 2021-04-23T04:17:00Z
-originalUrl: "https://www.newswiretoday.com/news/175262/"
-webUrl: "https://www.newswiretoday.com/news/175262/"
+excerpt: "“The DynaCOR 40-36 sets a new record for AI performance in truly rugged applications” said Pierfrancesco Zuccato, Senior Product Manager at Eurotech. “It is a great platform for the most computation intense inference models and supports double ..."
+publishedDateTime: 2021-04-23T05:13:00Z
+originalUrl: "https://www.newswiretoday.com/news/175262/Eurotech-Announces-DynaCOR-40-36-A-Rugged-HPEC-System-for-Transportation-5G-and-AI-At-the-Edge/"
+webUrl: "https://www.newswiretoday.com/news/175262/Eurotech-Announces-DynaCOR-40-36-A-Rugged-HPEC-System-for-Transportation-5G-and-AI-At-the-Edge/"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "oB+PpueM3CqNTogVEA2qLtJMTIyka1U6N19paE4GDu+YU+61Ap3FAEZznMM5hBgwuf72vvmlpwYjy2cTTaox8MqtIjo2i+4VvEHTQ9e5gI7MrOn9tH0sSmmcv1A6AGPdKVJDjWNWvqd8HyT4BofqnjdmYmTLlwpN+cvCWmbcxwg4FgzyCLM3Four/LwmV39IKkxwXzhyWeVCZk0TjN3z2NgDDAl+uPQVwi64hcwNtMKc/zOeT0JC+mz962EbWlOOgIsI63wcGFiYrfcBdHuqmn1V+Ygm6oRhkK0975YhZhQ+gCqM/5/fq8LgRyeR8SW/yYNymEERZms97raaAT5lU62IWdZ0Bh58A/t3a7zYnxi4Ou1676Ylmv3OJjKW/GB6QYZ9nzU0Vq9OgO2vWoj06rYTQIHcNMa82otlNiIoISgKVe9lF4NMkWyzE9DadU2aWZirAnUP3no0uojpqJk3F0GZlhlrzY3t1MnD7e3LJvLAX/NPT+H7MyOoYX3HsBqtX/CV7KXJvqihO3RiFaHwTA==;+KDDzWgTg/1H+YOPQ4jH7w=="
+secured: "+fhyaULX5AG4yFxZcbzQDUVySfwWD/DY4+ZYP891AmDbJhl1i8Xw/6FssYv0KfzfKwNekKci8tqosJDmcLuUqAbMzP/xPWChyR0IAXfseWgq645VuuAdkGVuycU+EQ4sFI5gX42Xmw8WwOr0jWHEn7TTZktg4h/lGPDvnsJMexiQkRiMvhtKvo+rHWF1FSyw+n72QAWMRFz6/b1eTb65/7pRFF+bPDp5OzxhZiS5CA/0SbjllSZYMiiR7Vj7pWk+OurSSb5xMlGayWAk6IGHxW1VnHr+2ZKYhLs9yUrT/OKvW7eD5zgu6Nmqxd27wCRFZEkyUx14uQ38MGvXWkM3VXzVbzUJbDODrNh47yUMsbnHWP+HBTtX+MXcs91Bv9BXw5/QD4j+xxjpy8NU90BAYm56CPqcDpbRvAphMq4p/SDmCYzYm2Y8H9WM7GpALahhH5YImxUusSUYyKeXaQT+VsV6p2h0WCjVeWNtHWuuMyDYxolAfPKOK2/3y9//KCc7XnL0QbA+apzVCIs+a839nw==;nz6QkDN//5ECM0K1+2NKFw=="
 ---
 

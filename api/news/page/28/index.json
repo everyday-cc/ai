@@ -2,6 +2,145 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-04-07-like-us-deep-learning-networks-prefer-a-human-voice.md",
+      "title": "Like Us, Deep Learning Networks Prefer a Human Voice",
+      "excerpt": "This study opens up new research questions on the role of label representations for object recognition. Credit: Creative Machines Lab/ Columbia Engineering",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/like-us-deep-learning-networks-prefer-a-human-voice-347433",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/like-us-deep-learning-networks-prefer-a-human-voice-347433",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/like-us-deep-learning-networks-prefer-a-human-voice-347433.jpg?cb=20210407",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-overjet-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups.md",
+      "title": "Overjet Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups",
+      "excerpt": "\"Our industry-leading dental artificial intelligence empowers dentists and insurance providers ... (\"MINDCURE\" or the \"Company\") a leader in advanced proprietary technology for psychedelic therapy, is pleased to announce that it has entered into a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19736935.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19736935.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-acorns-new-fintech-target-is-debt-management-with-acquisition-of-pillar.md",
+      "title": "Acorns’ new fintech target is debt management with acquisition of Pillar",
+      "excerpt": "Popular saving and investing app Acorns has acquired Pillar, an AI-powered startup built to help manage student loan debt, in its second acquisition of 2021. New York-based Pillar helps consumers optimize their debt payments by focusing first on student loans.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/",
+      "originalUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Header-Image-3-2.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/",
+      "publishedDateTime": "2021-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock.md",
       "title": "Singapore-based retail analytics company Trax raises $640M Series E led by SoftBank Vision Fund 2 and BlackRock",
       "excerpt": "The Singapore-based company announced today that it has raised $640 million in Series E funding to expand its products, which combine computer vision and cloud-based software to help brick-and ...",
@@ -1056,137 +1195,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend.md",
-      "title": "5 Top Advanced ML Stocks Poised to Gain From Automation Trend",
-      "excerpt": "Moreover, Microsoft, currently carrying a Zacks Rank #2 (Buy), offers ML-based ML.NET open-source cross-platform, Azure Machine Learning service, AutoML tools, Cognitive API Services, Azure Machine Learning Studio, to name a few. With these solutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend-2021-04-06",
-      "originalUrl": "https://www.nasdaq.com/articles/5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend-2021-04-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-how-financial-brands-can-use-ai-and-data-to-offer-more-personalized-services.md",
-      "title": "How Financial Brands Can Use AI and Data To Offer More Personalized Services",
-      "excerpt": "Perhaps no field is so perfectly suited to incorporate the potential of artificial intelligence (AI) as financial services.",
-      "sourceUrl": null,
-      "webUrl": "https://dataconomy.com/2021/04/how-financial-brands-ai-data-personalized-services/",
-      "originalUrl": "https://dataconomy.com/2021/04/how-financial-brands-ai-data-personalized-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dataconomy.com/wp-content/uploads/2021/04/how-financial-brands-ai-data-personalized-services.jpg",
-          "width": 1920,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dataconomy.com",
-        "domain": "dataconomy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-quantum-computing-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players.md",
-      "title": "Quantum Computing Market 2020-2028 Financial Insights Business Growth Strategies with Top Key Players",
-      "excerpt": "On the basis of Application as, the global Quantum Computing market is segregated as, Optimization, Machine Learning, and Material Simulation ... Google Inc. (US), River Lane Research Availability Services among others operating in the Quantum Computing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/quantum-computing-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players-2021-04-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/quantum-computing-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players-2021-04-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
