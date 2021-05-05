@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "replydotai"
   url: "https://twitter.com/replydotai"
-  followers: 1493
+  followers: 1494
 
 size: 11-50 employees
 yearFounded: 2016
