@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-05T08:20:00Z
 originalUrl: "https://www.datacenterdynamics.com/en/analysis/how-retailers-are-embracing-artificial-intelligence/"
 webUrl: "https://www.datacenterdynamics.com/en/analysis/how-retailers-are-embracing-artificial-intelligence/"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AWS AI
   - AI
   - AI in Robotics
+  - Microsoft AI
 
 related:
   - title: "New AI Tool Offers Subtitling and Dubbing Alternative"

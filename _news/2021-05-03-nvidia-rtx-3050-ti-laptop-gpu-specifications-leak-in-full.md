@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/nz/amp/news/nvidia-rtx-3050-ti-laptop-gpu-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 480
     height: 270
     isCached: true
+
+related:
+  - title: "Nvidia RTX 3050 Ti Mobile GPU Specs Massively Leaked"
+    excerpt: "The Nvidia RTX GeForce 3050 Ti is the rumored entry-level mobile graphics card anticipated to be available in affordable devices."
+    publishedDateTime: 2021-05-05T10:30:00Z
+    webUrl: "https://www.ibtimes.com/nvidia-rtx-3050-ti-mobile-gpu-specs-massively-leaked-3193324"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/14/geforce-rtx-30-series-laptops-ultimate-play_0.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "UD6C6CtqRiU+iOWEZQkpeqs9HJxF6kE2IaYvHjHEDc2EiBwnwOBNpaQcJRboVtC7riEYNcoNZkz4TkB1ygEWlKWCPp/3sEzMxOq+48g0v0buLMepvjQxahoBQT4vfNycIApszaAW6gitUFObfbcRj1rfhCQ/oJKHs3lq9OKgHr41DUYz+B2Nkxm6CYosboI/b9wHLyKJn6diM6dLMJezr/LVRrvj1uqJXXUxaJojsgZxN7hhbPD2SKgh5zHCbGJ9NWTPhIZb2f5K3TPVcLtNJoQ7x1RCPy4knChP5L5W3Jxf4ipfGXJTJV5xcUxl5Cf0q32EWXiCLwyWuH8x36E7kEYGkaq6XnAtDdS5LPRTYBM=;KiWD9wkJZkNLAOuVy961eA=="
 ---

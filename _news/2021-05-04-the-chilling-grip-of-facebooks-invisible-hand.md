@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tech Behind DINO, Facebook’s Open-Source ML Model For Computer Vision"
+    excerpt: "Our model can discover and segment objects in an image or a video with absolutely no supervision, said researchers at Facebook AI."
+    publishedDateTime: 2021-05-05T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/tech-behind-dino-facebooks-open-source-ml-model-for-computer-vision/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 58
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-23.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Give Facebook Data Access or Pay"
     excerpt: "Apple iOS 14.5 requires all apps to ask for permission before data is shared. Facebook and Instagram have notices that if you do not share your data with them"
     publishedDateTime: 2021-05-04T16:51:00Z

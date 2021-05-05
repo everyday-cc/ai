@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/73f29ba/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fdb%2F7d%2F24c099b84f4c91c3d81fc93e68e3%2Fab-050321-face-2.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facial recognition technology approved at New York border crossings"
+    excerpt: "A new technology has been approved for several border crossings with Canada. U.S. Customs and Border Protection announced on Tuesday the expansion of biometric facial comparison technology to all crossings at the northern New York ports of entry."
+    publishedDateTime: 2021-05-05T11:55:00Z
+    webUrl: "https://www.wcax.com/2021/05/05/facial-recognition-technology-approved-at-new-york-border-crossings/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 39
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/Yetxk8tUGfJEZm5d0I4LEOVkqck=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MALGXNQ7MBADNBO3R3VTNX7IEU.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "QcV/CwWd11juZ4VjbF1plr6dWUHq46OdJLpWyj+ORwpUS3060C5NCvZQwwZkojhMDZfv6su2dM88Pd7fxeV7/+DNp551WkPyGyfOgdZWUEkQsEKax/6qBIMf/bZWF74KPuUUwnOt199TwljSdB61J97qJto/xWM6zjruVdEXAghg6pDtdyWGMvEuNT0bjes2ano5rIIky75lEGW57j3O1PQqu9xXyaH1zFnNFlGipF9KejePrYEkU3xhq18SLgHm0ypgaMLstjvtNIqOboYvd8lsAFe77MFZfk1REetsAvw8KpDMLfsUR7Fqkl4/LHsnCfJaeTO8yZYrP2CH4mE4boXP4+7SaR6gYuXYnYnCnZGf6bGs7uTfl6GM26OQqmstfCEvilYT7F5PjWLTpXO+CuKawvM5E3UVXCtyqHSWTeqlsf9OU3BuoTC9zFi50u7We5gf4aNyFsfDLWlkNijzOy2KgNtnbkxOfpIpGmQWXaRZ01HrubrWY3L5fcxffAWK012b6xxWx/jSKV2TFpVcyA==;xe+k7AtUYVB/xxrqm2B4XQ=="

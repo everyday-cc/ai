@@ -7,7 +7,7 @@ originalUrl: "https://www.waste360.com/business/fast-company-names-amp-robotics-
 webUrl: "https://www.waste360.com/business/fast-company-names-amp-robotics-ai-platform-2021-world-changing-ideas-finalist"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Fast Company Names AMP Robotics AI Platform a 2021 World Changing Ideas Finalist"
+    excerpt: "The artificial intelligence (AI) platform developed by AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and recycling industry, has been recognized as a finalist in two categories—“AI and Data” and “Best World Changing Idea North America”—of Fast Company’s 2021 World Changing Ideas Awards."
+    publishedDateTime: 2021-05-05T10:32:00Z
+    webUrl: "https://www.financialbuzz.com/fast-company-names-amp-robotics-ai-platform-a-2021-world-changing-ideas-finalist/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 44
   - title: "Fast Company Names nference as 2021 World Changing Ideas Finalist in AI and Data"
     excerpt: "CAMBRIDGE, Mass., May 4, 2021 /PRNewswire/ -- nference, the AI-driven health technology company, today announced that it has been named as a finalist in the Fast Company World Changing Ideas Awards in the AI and Data category for its flagship software,"
     publishedDateTime: 2021-05-04T11:22:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.imittelstand.de/themen/presse_software.html?boxid=1056
 webUrl: "https://www.imittelstand.de/themen/presse_software.html?boxid=1056722"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "Veritone Now Supports AWS for Media & Entertainment Initiative"
-    excerpt: "Artificial Intelligence-as-a-sales aid pioneer Veritone is now offering support for a new AWS initiative that is designed to enhance Veritone’s AI-enabled applications to provide new ways for business and content creators to find,"
-    publishedDateTime: 2021-04-30T18:30:00Z
-    webUrl: "https://www.rbr.com/veritone-aws/"
-    type: article
-    provider:
-      name: Radio & Television Business Report
-      domain: rbr.com
-    quality: 54
-    images:
-      - url: "https://www.rbr.com/wp-content/uploads/RBRimage.png"
-        width: 345
-        height: 450
-        isCached: true
 
 secured: "lFBON5fnPBcrNd/7acXX/Zwh1jRsutR0tQWlKTbcBU9Wj70x3yXMV7M5lgEHKDeLFD88sHPs/j2BEaSBMD4RbJ8vU3Z8TXwme2PcRS+G47TDM9yK2ZlPr1NSRq+cKiiOMQ2ERGZCkFScnLPRY9Py9JSKEq4mSApBjbC82wUIUc+mfEFbHKkJ2MQI59D4hS8PuxUkro/huqp5zzLOoO/bHwSIcFXSgejWxkyF8L1NfFu2eZmwI5SUMmYkzpr4f5T7tG0ybA6PRsJfGA6rGqQTzBo62NA/1TD2GOmKWurl+c7ii3eU/+eNAoZiloiO+NM0YZjwtlpjvMPFxQExxSHB72oig99EtCINjq0dgMJHC2I=;PLCaSDG75JfbQbKmJd6+DQ=="
 ---

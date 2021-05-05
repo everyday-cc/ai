@@ -78,6 +78,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "DICT supports iTrain Asia Microsoft AI training for women data scientists"
+    excerpt: "The Department of Information and Communications Technology (DICT), through its ICT Industry Development Bureau (IIDB), supports iTrain Asia’s initiative that provides free Microsoft-sponsored (Artificial Intelligence) AI training to women data scientists."
+    publishedDateTime: 2021-05-05T10:59:00Z
+    webUrl: "https://pia.gov.ph/news/articles/1074354"
+    ampWebUrl: "https://pia.gov.ph/news/articles/1074354.amp"
+    cdnAmpWebUrl: "https://pia-gov-ph.cdn.ampproject.org/c/s/pia.gov.ph/news/articles/1074354.amp"
+    type: article
+    provider:
+      name: Gov
+      domain: pia.gov.ph
+    quality: 73
+    images:
+      - url: "https://files.pia.gov.ph/opengraph/2021/05/05/dict-file-photo-05052021-2.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "jZUDzetlz95F4nHDgUdrklyDa6gX3TRiQSgSjLXB2fJwT7UHMJJp9SoQr2wOSKue4dS17MqwbDgs1/kiganbhg09YLn6ULmsQfTIiaTpG5jjeOx6pXMjsB/kFIhPqeVcorN2Urp/0x/iCn/WXgmv/I+m6g5otIrDP2/0iNi/Fq1EI0iGBiLU2HgBHwSAJKVoHLmXxyP2FQCkb/xIT+Toh3IJl3Yfc+bnatEnAA1FZrx7qcSQd56Ig1thAqVnQoBxJqjkHwDRWyyZIiMK9bbILGoKKDmxP/RjskIEEdBqPMIEuX+BdwBJupDNYJ9ZDL7fIRGCTLmHZHRbX4OODQ7qSnSsCW2EflW7/sPFg3CwtcWOq9b/Gr8+9pbsOykfSiP5OwYnZ71xYCn/vKFMwxmk+gUJSkPB+d2WoVFZFbkpS1krIUocHkifG3JRdCEB+k1ombmyywzrbl21b89hrf2HhyXr33XdCTCJfdye+VpSotM5S2HzjB17a+/Ub16htVD1HoYQ0+xPd9RrqH3kqxM0cg==;1fFO7jXse6zyt+xcVlcS7w=="
 ---

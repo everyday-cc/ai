@@ -32,19 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "University of Toronto startup draws on AI, linguistics to power facial animation in video games"
-    excerpt: "JALI Research, which grew out of research in U of T's department of computer science, has developed a suite of tools that power hyper-realistic"
-    publishedDateTime: 2021-04-30T19:02:00Z
-    webUrl: "https://www.miragenews.com/university-of-toronto-startup-draws-on-ai-552745/"
+  - title: "Predictive analytics startup Pecan.ai raises $35M to boost AI adoption"
+    excerpt: "Pecan.ai, a startup developing a platform for predictive analytics, has raised $35 million in equity financing."
+    publishedDateTime: 2021-05-05T11:00:00Z
+    webUrl: "https://venturebeat.com/2021/05/05/predictive-analytics-startup-pecan-ai-raises-35m-to-boost-ai-adoption/"
+    ampWebUrl: "https://venturebeat.com/2021/05/05/predictive-analytics-startup-pecan-ai-raises-35m-to-boost-ai-adoption/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/05/predictive-analytics-startup-pecan-ai-raises-35m-to-boost-ai-adoption/amp/"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 25
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
-        width: 640
-        height: 423
+      - url: "https://venturebeat.com/wp-content/uploads/2017/02/bigdata.shutterstock_363791543.jpg?w=1200&strip=all"
+        width: 1000
+        height: 620
         isCached: true
 
 secured: "1xyP7vKmykrG9El/qfcWCKOTjxlepFmmppm/vTtjFX1DXDro+0boqd20NOMKPGIRfh4q6GMYlMSmqwgaxLcPYEJwicpRVkpJkT7ia0SsalObBFoTIgukyASKRvXretWblu5UYgnUQAWhEn4lksRTR5KrGfSwTeJpc6nZ0wCjNXYidbCiVK6/f56kvOmZvklyXhozGuHjBmnMaQ93vas9csnIRawEjvnDd87ESYgGfxpW8d1iNGUc0JhM0JCFoyvRLqYBf8YExuLGNcqnAU8W+yOdCOdlz0Y1RkvoRbN1C1GJ5/bKbF1a6To8N2/eUCP8oMeDkhn9K4nYScdW9YOkchN3rEFDzrSfjFpwGqucLQJWbzhMZHxn1EhANrciELPzN9TbdhUi3lq5IS2Cto97lZvXth+C7iCMLVDqnV85NVCwlkbUuvC8XXS2hNCx143dc8yojxT/ZeQRh/Wo3wZO6F9UCLsgQlryhYr+RK4jNsvQJBDZv/ydnZE06+uZilc1twdWsBOJkl00akapC5AyeQ==;nXxZWzwqz4mERJOYTRNIrw=="

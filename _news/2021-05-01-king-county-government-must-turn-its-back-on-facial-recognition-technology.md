@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition technology approved at New York border crossings"
+    excerpt: "A new technology has been approved for several border crossings with Canada. U.S. Customs and Border Protection announced on Tuesday the expansion of biometric facial comparison technology to all crossings at the northern New York ports of entry."
+    publishedDateTime: 2021-05-05T11:55:00Z
+    webUrl: "https://www.wcax.com/2021/05/05/facial-recognition-technology-approved-at-new-york-border-crossings/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 39
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/Yetxk8tUGfJEZm5d0I4LEOVkqck=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MALGXNQ7MBADNBO3R3VTNX7IEU.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "QEhD0K75gHsKtmvcQBT1SowgyA8Yo88kJm15xVDI0/O2lrGmsGX5zcSgM7gm/1GR9UfGGnJb6jMw6EG0mw8Zqzixj7pp/NBpg2UWPhxucz3sRdIk9vZybrTmNQj2n3Grx+QkriIoVrRf/UBLzDgHaTTg2B+OtPxtJsBM2MublkbNFdcwd4F1gAGPngrX33NqTD8nimFwhHspNY7MeNyoRnx8rb+0JQSrmbuIB/ILnSw6knBL6Ypa8aI3Mj3RhxV13nvX96Oft/nNYPz85XtWWkSWVal1Yc1Fvirc9HFpElEwdAAVTyPJ8Oz97OueMWA6RcrWfESqyCed9UMk3bQZm572NwizF85xbdp5cCH/9zYdEJBe68BN5SvmpmwLdBec/6CwkBahLN5L1K8INfFOspzA40ubI1sF1r+sA/poXjWEmPQAvgNLraratnvFb9GP9hsVv58LZUFhC0u5npjZFrdv4K+bVWOe4VPTdHAOC2WQYoNzcOhQR1TTF5wN/Am69Tyq/i1y9AgGy3Bia4rwhQ==;bRMOGr5wcO2TyJul7va7Bw=="
 ---

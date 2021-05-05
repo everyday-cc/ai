@@ -18,24 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Computer Vision in Healthcare Industry Analysis and 2021 Future Trends"
-    excerpt: "According to the latest research study by Infinity Business Insights, the global Computer Vision in Healthcare Market was estimated at USD XX$ billion in 2021 and is forecast to cross USD XX$ billion by 2026,"
-    publishedDateTime: 2021-05-01T12:04:00Z
-    webUrl: "https://ksusentinel.com/2021/05/01/global-computer-vision-in-healthcare-market-top-10-key-players-in-2021-microsoft-us-nvidia-us-intel-us-xilinx-us-ibm-us/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 36
-  - title: "Machine Learning in Healthcare Market Research Report 2021 Size, Share, Growth, Trends and Forecast 2026 | COVID-19 Impact Analysis"
-    excerpt: "May 04, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Machine Learning in"
-    publishedDateTime: 2021-05-04T09:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-research-report-2021-size-share-growth-trends-and-forecast-2026-covid-19-impact-analysis-2021-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
   - title: "Deep Analysis of Machine Learning as a Service (MLaaS) Market Future Growth with Technology and Current Trends 2021 to 2026"
     excerpt: "Market was published by The Research Insights to understand the comprehensive setup of Machine Learning as a Service (MLaaS)Market industries. Efficient qualitative and quantitative investigation techniques have been used to examine the data perfectly."
     publishedDateTime: 2021-05-05T08:26:00Z
@@ -45,15 +27,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 8
-  - title: "Global Natural Language Processing Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
-    excerpt: "Over the past years more traffic have been attracted towards Natural Language Processing Market . According to different analysis, Natural Language Processing Market sales have a rate of XX% CAGR between 2020 and 2025."
-    publishedDateTime: 2021-05-03T09:41:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/global-natural-language-processing-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 1
 
 secured: "uowx56X9bma+Ch0zZC0YGHJ9RUAZ2QfDsaaUelptASS3O/szj2prxaJ8ZuNLTSspSgbFsAg6qg6ZCbW54LOd7IHTBDsQU6lry6u7Mwmhch7jwqj0hHUAXb89ttOG0WYWflz9vL0tXXISyjlYzib3qxcAvlPe1iyhI+4FiyN23BdN3oobM3AtPD7DIYJuFG4ObRV0A72iP/PNhfhn3SsN5eS3BiDIbxVvq5gJv9xT67hOJmKpcokNTDiEakzeRrPiQl2qT68t68gjLUIv3iHU9VJ4yqcken1W2HHCIt625DAqLc63dyrnPoI9RdV6f0JkdPud4D5E2H7aGX29F1dNvNLQSJ0Ia5jLBpeyOen2r0w=;utEMHCP/1FqJztRVqMt9Dw=="
 ---

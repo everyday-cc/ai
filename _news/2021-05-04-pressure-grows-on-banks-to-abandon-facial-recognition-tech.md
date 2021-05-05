@@ -52,6 +52,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Facial recognition technology approved at New York border crossings"
+    excerpt: "A new technology has been approved for several border crossings with Canada. U.S. Customs and Border Protection announced on Tuesday the expansion of biometric facial comparison technology to all crossings at the northern New York ports of entry."
+    publishedDateTime: 2021-05-05T11:55:00Z
+    webUrl: "https://www.wcax.com/2021/05/05/facial-recognition-technology-approved-at-new-york-border-crossings/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
+    quality: 39
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/Yetxk8tUGfJEZm5d0I4LEOVkqck=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MALGXNQ7MBADNBO3R3VTNX7IEU.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "MsEcC9Bh/f5NovTXMoFDtAqbM22c7jZZoaDVsr35/XZSI5spwh7GGHcJ6rp8gA67SZkDeF83FStJ9g6L5sKOGAfRNWnmIqui3Jab8oK8zzRvBvSmYYS9vU8adiCOO0zuO+byQfkxhIm5xW6a+fSwZsKhKUQ+egDuzCNkWeT77d5WxvgQ2FVZCkn06GZ/7GX3I00Be8gLOh3ll4dgOsNhdLAd2ZrbunwYysW9CbMsO2cEqBWIvS1yOBkuzPedx61nb+3+F0Xi7wkk9etMatIrFhDHNAnS7wSRf3L+gmLrSu7Q2ZbVPQhtYOYBuyvXEaP1oWBvsjE6HPJAPLhnDvrLZOdXFUfce3MclElY8Cm3M9gw+BiUEBxpVOC9PHt/LsAkB9akdWQ0J3r/eT2XuyjXTlR+EuimwvKa6HS3jvjS7w3hbHSuaSLjLlSQqn8sz9NYIhvM5/QiDE8c3w37JaIM0gG66vBJCWUcodewSWG/O06umF8lD1k1gDjBv5UUm01czWZpRBgOo1qpJL/SgYGCSg==;kO9vq4E2gCJ8IjRopOLR9g=="
 ---

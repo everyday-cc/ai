@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/05/give-facebook-data-access-or-p
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/05/give-facebook-data-access-or-pay.html"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tech Behind DINO, Facebook’s Open-Source ML Model For Computer Vision"
+    excerpt: "Our model can discover and segment objects in an image or a video with absolutely no supervision, said researchers at Facebook AI."
+    publishedDateTime: 2021-05-05T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/tech-behind-dino-facebooks-open-source-ml-model-for-computer-vision/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 58
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-23.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The chilling grip of Facebook’s invisible hand"
     excerpt: "Big Tech cannot be a neutral arbiter of what political speech is acceptable or not acceptable. But private companies like Facebook are using their growing, terrifying, and largely unchecked power to determine who gets to speak and who gets to be heard."
     publishedDateTime: 2021-05-03T19:43:00Z

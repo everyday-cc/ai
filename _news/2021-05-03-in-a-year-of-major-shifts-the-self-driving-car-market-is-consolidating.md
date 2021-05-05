@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-sel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "2 Top Self-Driving Car Stocks to Buy in 2021"
+    excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."
+    publishedDateTime: 2021-05-05T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
 
 secured: "LflOD1tkWRB5xAXemexZHaZDdg0ko0PP56vjfRiTxTRPItkZir5pKn4fulQE4ckEM6wExvGclCLWLbxa73yLgt3QiC5qpkENyVZFNpK43pDGrJ4yR3lM+//6HVRRVzuPEV8TGAYiY3upS2fNPPm5B7jF3BU/T/wZJM3AhOfEXUOOiA22VahBRSwm0tADUHlQRsxKNFUfA1FkPf/cWPdvuN7vFf7T2hqg1zNYlblvMrxqlm6ad8sPn7xQFT9BrGQRw6ch/LVhAG0/2WIxcwq+V91KpuLMKr4UfOapw1NEJWoznHUzFPGmAcYTOZKa4B8xCN2M0Wr3UHS43OlYWMnG2Fe/DjMMNjfruOHnVK3ZVxcz+HeOWN3gozKs5R2kEjeW20trzruDIzZ9piDRWSaz5lBWyXN0qYpGR1L1RrBYMJupuQJvQrcq14ICm771rlcH8zjyPaRdH5JTgdieoemUE3SQUqVdbFjfSLn0V/Vzx+GO25ctIF12MMGopWhC+1COsdq2BwGsDM+yQ7C2GgjGgA==;nXRzgTACPdOoHa5cjmRJ9g=="
 ---

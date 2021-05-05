@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tech Behind DINO, Facebook’s Open-Source ML Model For Computer Vision"
+    excerpt: "Our model can discover and segment objects in an image or a video with absolutely no supervision, said researchers at Facebook AI."
+    publishedDateTime: 2021-05-05T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/tech-behind-dino-facebooks-open-source-ml-model-for-computer-vision/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 58
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-23.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Give Facebook Data Access or Pay"
     excerpt: "Apple iOS 14.5 requires all apps to ask for permission before data is shared. Facebook and Instagram have notices that if you do not share your data with them"
     publishedDateTime: 2021-05-04T16:51:00Z
@@ -73,6 +87,6 @@ related:
         height: 630
         isCached: true
 
-secured: "yOjJkNw+mG+92uYSOt+ukFHywCiLyGUpVN7Dv2ZHAppZkPvBkwZX00MAgGsYPgQ3lFjPnrUb38PRjfqeRWrrQtufptAPEPL9zt52f5wJZF1iuzfnBx4VNBYfSqi4M8ILp/n77oO+XbMkmiSsBw7Md5hMdmFZLQqLLkXbBVzpapFnkylum3nZOPm/0gbjN73NNamYcyMnkfwcC1XikJp67J6SusJXxpF21Io/s6E99Jg7HY22Me+BpaA6QD7AXU4hTtahQ/1trcOEIgHgoOuZnyknjpRUAMgb0uWiPoYuk+NsGYm6A1pk20pUSf3kgoouwB/3G+fNOq6W+oWKylPXHomZc0XeGb2KkTZGbPn+U2o=;r0mNsGluqb8OAAb+5dYbqQ=="
+secured: "C+nEpFIt1c/jaSOQGuvq9jdZdfGfVT2iRAjZPCJMCf0NHDTbfNx/DqNm+vT0Pg0srdc6JOyJ5yZfjHxI08ft9KbndBpbMYsTTHMR0it6HkIj9DSvP0lFLVmOwSOcoE2/BaVC5cw+jG/g4nuUMYYU6zJ7UwYzqdPZKS0zVm1OLgJva9vOWcxw5spVtcZE0gE11SSwsdjz6z26LZB/LjJ+g1csdjV2gQVOy8jzRhDz6LZ3udq4aDqSMXOMJlsGosISqcPgcap9zXbzQeIZVS9YsZDI4f5CosG7pLLv9+R52lFwEV1xXWx38N4QI58TfyJ7EfZjm86izBxKUOeLbG/MRMb1xjvUnFxXDphziPN3vuw6sQh+AfjD1+mfYjoMeRUxCYvQq4goE1zFfjiaknmlGuk8smkaW1U7ljrURW1oSJtjpKhVJBhp0x5+B6/KaZ3DOVDUzbG/luD6K895RCAvKaf8vbEjU34XggboTSP++LSt8Kid3E0AnlDwMshpyYSOoPB0Z9Q9peoWMzJmqkIFOA==;bLrtMyLvSEpnvkmS03uk8Q=="
 ---
 

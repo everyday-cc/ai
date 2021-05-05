@@ -40,6 +40,22 @@ related:
         width: 683
         height: 419
         isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Report To 2031"
+    excerpt: "Visiongain has published a new report on Artificial Intelligence AI in Drug Discovery Market Report 2021 2031 Forecasts by Technology Machine Learning Other Technologies by Application Drug Optimisation Repurposing Preclinical Testing Others by Therapeutic Area Oncology Neurodegenerative Diseases Cardiovascular Diseases"
+    publishedDateTime: 2021-05-05T11:28:00Z
+    webUrl: "https://www.openpr.com/news/2280274/artificial-intelligence-ai-in-drug-discovery-market-report"
+    ampWebUrl: "https://www.openpr.com/amp/2280274/artificial-intelligence-ai-in-drug-discovery-market-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2280274/artificial-intelligence-ai-in-drug-discovery-market-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/5/U505634361_g.jpg"
+        width: 500
+        height: 334
+        isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market"
     excerpt: "Allied Market Research published a new report titled Artificial Intelligence in BFSI Market By Offerings Hardware Software and Services Solution Chatbots Fraud Detection Prevention Anti Money Laundering Customer Relationship Management Data Analytics Prediction and Others Technology Deep Learning Querying Method"
     publishedDateTime: 2021-05-03T19:47:00Z

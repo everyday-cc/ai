@@ -8,8 +8,8 @@ webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot
 ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/amp/"
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/amp/"
 type: article
-quality: 75
-heat: 75
+quality: 77
+heat: 77
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Computer Vision
   - AI
   - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
@@ -27,6 +28,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "LXFWUSp4aPxlC0Y9XCiHuOfYVVTaRA2QhkBSpjE1L7+9KcWny2brwD/aPctMhDyoWXDrjtxyETUNjD4fQfUF7bYRFaU7BAtnBpWHt/U6qufktGbvBrDMcwGFaRgKBT/TpJ1nVAyfHDwC+bOT4wneLN1jeivb8tMTA1jORcKtqbQ/nBFVjtXEQHGY1MOTIZ6ZcdKKvJlh9qKSkywkujjBDJwpnpFqJXI3Vw7oeJmOXD14WazOL6Piba2wlzpOjz9miz9yH8k9tFv2UTcYu4uxmv0GipRFW7XfbQAXYZfGz/wayD1TSXgg8hMlChnF4Sab0mV0mjkpcjndNI87Q7NITL6X7pQ/rFp2S6+8ANOap20=;P/Cx21FVrDEoJ+pOIhFKlQ=="
+secured: "LP1V+73qBEtxS3O3bWr6uwbFs564KBpxioCd6DGNJmZEGoGi15DRkU16SU0+Ee1eqo8sAOXyAHuaR/f/Ql3aZ0Ijaxsxq7ug2EJrFW2+0dYbbc/r5Af9R2o865RxiyHqDkXOk98uSVlVd3cTG5Lqx/lTEf4VrK+w/Qy8HL4CLMsyflGE/u1xSezNvjf+WEJI1Lu5ksVLu0TeP6B16cdE9D17UXfjqK2HCphKxXb1/TvBYs4TqT/SvLWQlG/EF4SNKZORSu/YDipU4kgvAdnl0aO7mwiJBxB1QpfObP8yXxousDNemXH1x3dGmPi8HPlDRPXN2DI1pSRniYNgRNVEhdszMcmbP36jsTEgdvDh+mjf6iJQBjkSblu8kCP9K6B0bd4V9ecxkS1cRazu7MK0CncnwgAu2RjAVlMt0F4qEXn0F3l+R4RGj8wTB6lA7ttz2SCKE5L4EEBo6VL6jaxwGH3t87bG1lQuLbv6NkI0h56StQLpYVrzkuHdnrjy82FxPDJfp9Rc8S7U45J+t41sow==;w0e+mGeq2I9/ZwV2Oj7nWw=="
 ---
 
