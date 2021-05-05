@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-05-trifo-lucy-robot-vacuum-review-eyes-that-prioritize-security-over-cleaning.md",
+      "title": "Trifo Lucy Robot Vacuum review: Eyes that prioritize security over cleaning",
+      "excerpt": "The Trifo Lucy is a highly anticipated robot vacuum that not only vacuums but can also double as a useful security camera for the home when you're not there.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/smart-home-reviews/trifo-lucy-robot-vacuum-review/",
+      "originalUrl": "https://www.digitaltrends.com/smart-home-reviews/trifo-lucy-robot-vacuum-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/smart-home-reviews/trifo-lucy-robot-vacuum-review/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/smart-home-reviews/trifo-lucy-robot-vacuum-review/?amp",
+      "publishedDateTime": "2021-05-05T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition.md",
       "title": "POLITICO AI: Decoded: Robot law — Helsinki wants to be Europe’s smartest — China on facial recognition",
       "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
@@ -254,7 +298,7 @@
       "originalUrl": "https://www.waste360.com/business/fast-company-names-amp-robotics-ai-platform-2021-world-changing-ideas-finalist",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -867,8 +911,8 @@
       "title": "Case Study: Autonomous Earthmoving Robots",
       "excerpt": "A new San Francisco-based startup develops AI guidance systems to transform heavy equipment into fully autonomous robots. Their guidance systems are deployed today across the $1 trillion earthmoving industry.",
       "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/article/2021/04/case-study-autonomous-earthmoving-robots/16745",
-      "originalUrl": "https://www.roboticstomorrow.com/article/2021/04/case-study-autonomous-earthmoving-robots/16745",
+      "webUrl": "https://www.roboticstomorrow.com/content.php?post=16745",
+      "originalUrl": "https://www.roboticstomorrow.com/content.php?post=16745",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1390,49 +1434,6 @@
       "provider": {
         "name": "WDSU",
         "domain": "wdsu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-leader-in-ai-research-introduces-object-manipulation-in-robotics-testing-scenario.md",
-      "title": "Leader in AI Research Introduces Object Manipulation in Robotics Testing Scenario",
-      "excerpt": "The Allen Institute for AI (AI2) announced the 3.0 release of its embodied artificial intelligence framework AI2-THOR, which adds active object manipulation to its already impressive testing framework.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af",
-      "originalUrl": "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

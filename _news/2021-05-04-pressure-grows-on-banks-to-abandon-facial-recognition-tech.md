@@ -41,17 +41,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "King County government must turn its back on facial recognition technology"
-    excerpt: "Whatever other concerns we might have about facial recognition technology — it poses a serious threat to our privacy and particularly to that of marginalized populations and communities."
-    publishedDateTime: 2021-04-30T20:51:00Z
-    webUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/"
-    ampWebUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Facial recognition technology approved at New York border crossings"
     excerpt: "A new technology has been approved for several border crossings with Canada. U.S. Customs and Border Protection announced on Tuesday the expansion of biometric facial comparison technology to all crossings at the northern New York ports of entry."
     publishedDateTime: 2021-05-05T11:55:00Z

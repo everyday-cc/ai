@@ -45,6 +45,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Musicians, including RATM's Tom Morello, urge Spotify never to use patented voice recognition tech"
+    excerpt: "Spotify’s patent, granted on January 12, describes analyzing users’ voice and background noise to detect their mood and social setting, such as whether they are in"
+    publishedDateTime: 2021-05-05T12:37:00Z
+    webUrl: "https://www.techspot.com/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 60
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-14-image-28.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "Musicians, human rights orgs urge Spotify to scrap speech recognition tech"
     excerpt: "A coalition of musicians and human rights groups are urging Spotify to publicly commit to never implementing or monetizing the speech recognition technology it has developed."
     publishedDateTime: 2021-05-04T15:28:00Z
@@ -76,6 +92,20 @@ related:
       - url: "https://smartcdn.prod.postmedia.digital/torontosun/wp-content/uploads/2021/02/SPOTIFY-scaled-e1613145141688.jpg?quality=100&strip=all"
         width: 2252
         height: 1689
+        isCached: true
+  - title: "Spotify responds to protests against speech-recognition patent"
+    excerpt: "Earlier this year, a controversy broke out over a Spotify patent involving using speech recognition technology to analyse a listener’s “emotional state, gender, age, or accent” and recommend them music accordingly."
+    publishedDateTime: 2021-05-05T13:14:00Z
+    webUrl: "https://musically.com/2021/05/05/spotify-responds-to-protests-against-speech-recognition-patent/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 39
+    images:
+      - url: "https://musically.com/wp-content/uploads/2018/04/spotify-gramercy.jpg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Spotify urged to rule out ‘invasive’ voice recognition tech"
     excerpt: "A coalition of musicians and human rights groups urged music streaming company Spotify on May 4 to rule out possible use of a speech recognition tool it recently developed to suggest songs – describing the technology as “creepy” and “invasive”."

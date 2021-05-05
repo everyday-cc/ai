@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-05-10-business-models-that-reimagine-the-value-creation-of-ai-and-ml.md",
+      "title": "10 Business Models That Reimagine The Value Creation Of AI And ML",
+      "excerpt": "Every day we read about some new AI breakthrough. AI is omnipresent in our everyday lives whether we use mobile devices, wearables or voice assistants or stream our favorite shows. Enterprises control the epicenter of the AI economy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60915bc5768c20e9478f008b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/",
+      "publishedDateTime": "2021-05-05T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool.md",
       "title": "Microsoft open-sources Counterfit, an AI security risk assessment tool",
       "excerpt": "Microsoft's Counterfit toolkit aims to enable security teams to more easily test the robustness of AI systems both in and prior to production.",
@@ -1381,49 +1434,6 @@
       "provider": {
         "name": "openpr.com",
         "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-cognitive-collaboration-market-is-anticipated-to-witness-massive-demand-by-2027-cisco-us-microsoft-us-slack-technologies-us.md",
-      "title": "Cognitive Collaboration Market is Anticipated to Witness Massive Demand By 2027 | Cisco (US), Microsoft (US), Slack Technologies (US)",
-      "excerpt": "The Global Cognitive Collaboration Market is expected to witness a CAGR of xx% over the forecast period 2021-2027 and is expected to reach US$ xx million in 2027, from US$ xx million in 2021. The assessment provides a 360° view and insights,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/19/cognitive-collaboration-market-is-anticipated-to-witness-massive-demand-by-2027-cisco-us-microsoft-us-slack-technologies-us/",
-      "originalUrl": "https://ksusentinel.com/2021/04/19/cognitive-collaboration-market-is-anticipated-to-witness-massive-demand-by-2027-cisco-us-microsoft-us-slack-technologies-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jumbonews.co.uk/wp-content/uploads/2021/03/istock-1155230435.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
         "images": null,
         "publishers": null,
         "authors": null

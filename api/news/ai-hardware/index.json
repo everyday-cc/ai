@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-05-us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again.md",
+      "title": "US chip startups, long shunned in favor of internet bets, stir excitement again",
+      "excerpt": "The enthusiasm for chip startups is mostly a result of the need, by companies using AI software, for special-purpose processors that can efficiently run machine-learning algorithms requiring huge trov",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again/articleshow/82405999.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again/articleshow/82405999.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-635726,msid-82406019/chip.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again/amp_articleshow/82405999.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again/amp_articleshow/82405999.cms",
+      "publishedDateTime": "2021-05-05T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-ibm-details-planned-2-nanometer-chip-process.md",
       "title": "IBM details planned 2-nanometer chip process",
       "excerpt": "During a press conference, IBM detailed its 2-nanometer chip process, which it expects will come into production in the next several years.",
@@ -233,49 +276,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-nestle-driving-innovation-through-ai-and-other-disruptive-tech.md",
-      "title": "Nestle: Driving Innovation through AI and other Disruptive Tech",
-      "excerpt": "Nestle leverages disruptive technologies like AI, machine learning, blockchain, and advanced data analytics to enhance business growth. The brand uses data analytics and artificial intelligence to drive personalized customer engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/",
-      "originalUrl": "https://www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/nestle.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/?amp",
-      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/?amp",
-      "publishedDateTime": "2021-05-03T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {

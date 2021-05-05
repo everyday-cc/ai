@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Argo develops in-house lidar sensor for self-driving cars"
+    excerpt: "Argo Lidar is a new sensor introduced by Argo AI designed to accelerate the commercialization of autonomous delivery and ride-hailing services. The lidar sensor detects difficult-to-see objects from far away and works with Argo’s self-driving system (SDS) that is capable of 360° of awareness day or night and can safely drive on city streets,"
+    publishedDateTime: 2021-05-05T13:03:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16678/argo-develops-in-house-lidar-sensor-for-self-driving-cars"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "evSTjiRWNTnlb9LApgwBXyyVqwegYkkqqhf7izT8erh8lmWAMxqx1Cdo/oyB/xaZKEZ5J0U0I11XOqnrsL29zLJSEYr8yObK5BM+kcKsgqv/H9O/OKqKr4cVuZIAIh9QFHC9O3aPiQeQSJtEz0Kmawvk3KN9L8CeJdw8m0MjL7XT+OB1c+IxqvM3GU2PmfOMTsIGgvKfOZw2G6RzXEAPnRVLUL2VrXOpZ97l0nRzHuAhDG/CCKkB4+sEXtWhAArOFCfVnQFd7fDAbSyV6/ZovqpMOAwQKWFPSMgFQ9jrR8QKtBR6z+ZJ9kcX+0iGk/2fCFYKe+LxFawE+nQqlF2Lv1QuSMnVvYql08Mq9W9XG7I=;+GPmcrGK4glcx0v9o9mLMg=="
 ---

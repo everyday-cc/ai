@@ -41,17 +41,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "King County government must turn its back on facial recognition technology"
-    excerpt: "Whatever other concerns we might have about facial recognition technology — it poses a serious threat to our privacy and particularly to that of marginalized populations and communities."
-    publishedDateTime: 2021-04-30T20:51:00Z
-    webUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/"
-    ampWebUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Pressure grows on banks to abandon facial recognition tech"
     excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."
     publishedDateTime: 2021-05-03T18:50:00Z
@@ -67,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "rJTpYKG8GCfxeaheq8S0WL/KqCAQwMHylHlMEqmUbl1jSStb1n7zfzRSBJ9bwZMzpKslBstbtRv1IYyh+QVHC4po09rWJvrAVhTDRpjxzqL7kCZh2XiJP5JeyJl0+Ek9rXKjt0UWEwz9IX2vzY+V/c+zlkP2kaFY68aMkElTIkiTEaq8RjRyqeueci721hXw+L3Ggtgtf/b2TSELRzlJ2euAxuDriEHRfwkAJ9Ip40eVnMdxiRecxTu250GcOofa9q8f2elBFb0FJLXkehSpiUexr2RaTWZ1YhekltYAWRw9smY7cBr9hlMGgeFaTXz4ZtVQhjJgUmjwFEaaDKOYgpCaQvDvRd7GrkKN01ILozo=;GZVPb77w0xuGAAaKaaKkGw=="
+secured: "/u5AeA6CM4TNPDRfJZqwM4pbbTK+6Wdq4zaGvApFgDbrjfTXt67gDZBLrYXyy1J2Zif2iJIKDEdkp22/5EC2lVL1P9PispaiaubTBKB5jtJ+DLEZXJ337x+qyzrcjpUzgtKHWSN/P1lfgUeG8ljdOCtoZVMrOGxqColDEQqJYnz5ooNd0aA1ajLM+F720GlVlqQ240DxVLxBUEgEKO9WgfiM3vCyQp0qrielQJEt4q0cSLTKtkiMFqbP1LlUvUKz8RBbehbKu7uEUtPPvV+So98CcCpZ1s+OrCogS4loNelVwSq0gqi9VRx3HON0yZy4dIdU9/NeRMFhwDQ/AiGvO8eBNIifA0bNTaIVxcQRnmhjcK7eF1L8aubjNbiSoyAzBT2ngTiCMNKIduXzdMj1L8AmxefrKp3lrcYZsDos4WaOtIO1P1CPgVGRv7arrZ1UO+lsJF+Zf9F4keN3QO1nRn0RitRi7XQq/OkCypsqQF/72yLnSCWlEP2drR76BXqnfdDj1S0DVJNRIaSdrBwRxQ==;S8URbPJ0QAhG7lbPApHs0Q=="
 ---
 

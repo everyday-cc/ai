@@ -9,8 +9,8 @@ ampWebUrl: "https://www.analyticsinsight.net/nestle-driving-innovation-through-a
 cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Analytics Insight
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Innovative AI solutions in the wind power industry"
-    excerpt: "Today, many industries try to implement AI technologies in their business to solve the issues they are facing and the wind power industry is not an exception. Nowadays, wind energy was the source of about 8."
-    publishedDateTime: 2021-04-30T20:22:00Z
-    webUrl: "https://knowtechie.com/innovative-ai-solutions-in-the-wind-power-industry/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 37
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/04/windfarm-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Business Reporter: Banks to gain a competitive advantage with the AI-driven business monitoring technology increasingly leveraged in fintech"
     excerpt: "Traditional BI is being enhanced with automated business monitoring to lower costs and improve customer experienceLONDON, May 5, 2021"
     publishedDateTime: 2021-05-05T09:13:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Case Study: Autonomous Earthmoving Robots"
 excerpt: "A new San Francisco-based startup develops AI guidance systems to transform heavy equipment into fully autonomous robots. Their guidance systems are deployed today across the $1 trillion earthmoving industry."
 publishedDateTime: 2021-04-29T12:50:00Z
-originalUrl: "https://www.roboticstomorrow.com/article/2021/04/case-study-autonomous-earthmoving-robots/16745"
-webUrl: "https://www.roboticstomorrow.com/article/2021/04/case-study-autonomous-earthmoving-robots/16745"
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=16745"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=16745"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 340
     isCached: true
 
-secured: "IH87q+gwXtEfRD8x+xarA/+sJ2U+62ny5NEkZ002d04tMFuFMpka2ysX4lzM+f7J+poKeFSnZYPQyh1fnebnIcuVxtFX5574DIiPZ64JTRZBiNNQ1ah4UxQZyoYQezVwc6Zyhhc0CTvjoP1h74kChZmHftwpehghvONsb6IqpQo8VqRNC5qC7p3FhyFzIuHhDKJ3O/bCs06LMdlKgLc9iyXejkQcQ/S74piRElPvrI7HuNc0/fF44NtT7zo2fkZuajgxagnMstdkfAzDPy9y7pqoYUKgIqwHXA7EUNQgmYPj2I+ajBjHL3Vv0S4dL9s338uQgqE6xfld8QLIhdXEY0fT/cVWBUd9457h89oOPSFzSpf9sn1eqz/lt+yuq5urS1JiuNvZ0E9TMaJbAK8g0e/8kLBR+WQsEj7/uDZr638rtr5zAiSbS41IDZvVCFUwrPm66DR8+Izot0yPkA892MevEcTqsPGpNNPQTDskcZS8jzr61mVzKY5IlEuZw/I3SE9rzG4BsknAK5vdwgdDIQ==;Ro3LNaX+SFPqZI8dPcjp+Q=="
+secured: "nlRliCCLQ4gfrtbUvB3uHzutL+KYafKTjFxVPjNa02VqHhuOa6kB8CCjlOrzd5nYmgvp/HSEg41lLAWHiNzN8jwOib6UwoOPXpiotcYjU641nlIVIx30aEemWmvjoOIH3h1HdjoZMOZVYhf9MSYPdm0oHR5jU7r00Otl+KOaMtXyiq9K+b5ToC+sHshTXitBMLsoZ6ZoWs7TAg/GLSUwRjzSauht6PAKvwrY7Me6WDhyZxtORrRm0VP9HoC2pBbK27BOpduGzxMtf6L34PFPAgNSWB15Gfyn3JR58mEfygx7k8kBij88aZqy5Mw73jt+PKzeYYYWySz54Sa6eIp8eGXpwhiJLO1eHgOkLtrk7UA=;+1CHpkSsadaZD7EDKdB78Q=="
 ---
 

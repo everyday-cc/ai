@@ -55,6 +55,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Musicians, including RATM's Tom Morello, urge Spotify never to use patented voice recognition tech"
+    excerpt: "Spotify’s patent, granted on January 12, describes analyzing users’ voice and background noise to detect their mood and social setting, such as whether they are in"
+    publishedDateTime: 2021-05-05T12:37:00Z
+    webUrl: "https://www.techspot.com/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 60
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-14-image-28.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "Musicians, human rights orgs urge Spotify to scrap speech recognition tech"
     excerpt: "A coalition of musicians and human rights groups are urging Spotify to publicly commit to never implementing or monetizing the speech recognition technology it has developed."
     publishedDateTime: 2021-05-04T15:28:00Z
@@ -86,6 +102,20 @@ related:
       - url: "https://smartcdn.prod.postmedia.digital/torontosun/wp-content/uploads/2021/02/SPOTIFY-scaled-e1613145141688.jpg?quality=100&strip=all"
         width: 2252
         height: 1689
+        isCached: true
+  - title: "Spotify responds to protests against speech-recognition patent"
+    excerpt: "Earlier this year, a controversy broke out over a Spotify patent involving using speech recognition technology to analyse a listener’s “emotional state, gender, age, or accent” and recommend them music accordingly."
+    publishedDateTime: 2021-05-05T13:14:00Z
+    webUrl: "https://musically.com/2021/05/05/spotify-responds-to-protests-against-speech-recognition-patent/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 39
+    images:
+      - url: "https://musically.com/wp-content/uploads/2018/04/spotify-gramercy.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "ZxGsdhJ52kN8yCWvOIQ/0SMPjaWPPkL4wWUz057TjJW7pbzDYaXKzZ93/XXD/pRI8voahTq/Y9Oo+d328KBiGgwoHLLkao1jpdCqsq+eNjqzADirUHjZYcw7+yr3JAwvV1ArR7jrBUaI0xcCidGTw3tSkymFHedWehV4F+mtCsOtVY4ikhdaORt0LsXvBRoGzGiuLtiPkNKIXcq4Jxu2r3S5goK5A+OnD6+JREsRqbd1MujJQYvQ8hq1slPcXnp+u45M9oG56tm0xJrWSfBfHK/RJHVgkDb2n1br+UVdPZ7BLM6em1YU5gei6yH2Y+TukosDWv8dJjxZ195W7NetnK7HMcPOpYn4rPOworfYHULhcsVEbyVSRsTZZuz6PlropTDkjigj2rGTeMQAq7x0j27AFk8UPBN9LgNlfh/oC/J4x4CjRnE8e7Q1lL13tBEW5sLMLLOPcZkPH7BbByDWt9s3biV3Yt5AdM90dYvuOqbOwP1bSkGxP7D/kUeU3kwvJZezkeONWwFu3fCNoAUDOA==;JWztBUtwAiZ2Wwj07ghB7Q=="

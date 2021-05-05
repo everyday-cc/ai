@@ -20,6 +20,22 @@ topics:
   - AI
   - AI in Robotics
 
+related:
+  - title: "Scurri among world’s top start-ups helping retailers rebuild from Covid"
+    excerpt: "Scurri, the cloud-based software provider that connects and optimises the eCommerce ordering, shipping, and delivery process has been named among the top 40 retail tech start-ups operating globally Week World Retail Congress’ (RWRC) second annual Discovery report,"
+    publishedDateTime: 2021-05-05T12:20:00Z
+    webUrl: "https://www.retailtimes.co.uk/scurri-among-worlds-top-start-ups-helping-retailers-rebuild-from-covid/"
+    type: article
+    provider:
+      name: Retail Times
+      domain: retailtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.retailtimes.co.uk/wp-content/uploads/2021/05/image1-5-600x305.png"
+        width: 600
+        height: 305
+        isCached: true
+
 secured: "3IQ8kaHtouABiWlh5BI/QiYYqM0ddgrMkALEcGqwYTOdZP6sSZVxin2AYDpWbFWbOtqxnbBhKe1bNS4k4eenXAz2mmeyVw5TWKHihPbVmGj6FVfNmJN6T/j8VfPvU9ZPSI1F6KprxUE7o5Egs4TpkmzJRSfgCKRuIfRw5i1IIeAp0v/rQrF0AM4RfH85svBc45S1ZLDvQKJxCkFKWEMg5STqzpz3wrWdOvXHMG48vqp470/4nAP737GIzDc5x57cH5DdnG8iCzpjPmSkLWFdcl7qdpszOhoicceFQXj+CkGeH6234ppGuKUII9p9eu6LTp7kAc6sHwJN51qw8wPT1vt6tGQRbSSqSZ9O8+APDew=;ueE1zQYRPfliejZ7hasotw=="
 ---
 

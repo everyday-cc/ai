@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-m
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/"
 type: article
-quality: 104
-heat: 114
+quality: 106
+heat: 116
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60915bc5768c20e9478f008b%2F0x0.jpg"
@@ -41,6 +42,6 @@ related:
       domain: techstory.in
     quality: 33
 
-secured: "AGA+sQMHh72q6zQBSlb2B4B7o0v+N9p0Av+ZwB367QYK3hhz0KwZFBqQnmzuEYXw2fd1srZ3vye8tshDtMBd2rzddrEnCwiWVOlZJlk1OVYuYNhC2fBNIWw5RIJAp0nqEGJJeAeDzVIeBlVEH0Q29FiTsdA86gMeehLMmibV9EXAe82+fOWNJxMyYrXDonlD182qjZVWdO35sYeXGm+NkhQvAkDPO/CjYj5FbJkPjafEW2pGQVdPaex3g41HWmmuqT4174GNznsMT6S009TVnZ6ODh2WThGo05JvqoTLK+n7nCr1ZGFF3VLCpZK+MXxJHbfi8na2d1EusK+ljA9myO7gy8prrwF7p45nE0s+G0A=;RvMmTEX0/UMmpmnrbCnqjA=="
+secured: "rnKno6XcN6ubCE1ylyWIWLaZ6rAk5UpTzWj2Dta66OdA9EBh10vK80GlTGjM8PClKga+bgpZh1dxm3V9iPyZeo3Z4P89SZs5bYUi+Su5hlcOPBKPU84BQZFwSlVTSOXnkZXYqVipngaXr6MfBADQhqc+AqQ8bSGe33kD6hkQEnbYopqLlWV4jAbkkV1/3nIqzl27O2zlUlhwBywYgXQGXaGcb8xa71dswaUi4hGZ8Sh/yYXnevjJ6FRaEHAsdHjuGgO7JwUDSzLo9VZLr4BmpWHFp8AwqTvOQenSOXV+valKE6dVD/vNqfH57sfCXGem92jUD2YF+LhXUtte7OINVCVpl+Btxc2DAf/3u3VehnmEnoq/5VSVZV70qcHD7N9Wq/n+rKE7Tgp1xQL4nim378CrgeEIvCRfB0/k9IGPNCQwmbsxsJQXexovQwtDlgZah07KUPK8/DTnRCAiQcidbus+V9hm6zBnRIPoRkEGYYcAyLutlRyYMdyuNyGzYf+r6swFlZq6e56pkbyl8dWleg==;2+R0CkQky9Q5kOxvuYRrvA=="
 ---
 

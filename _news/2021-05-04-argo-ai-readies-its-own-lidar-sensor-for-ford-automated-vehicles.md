@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Argo develops in-house lidar sensor for self-driving cars"
+    excerpt: "Argo Lidar is a new sensor introduced by Argo AI designed to accelerate the commercialization of autonomous delivery and ride-hailing services. The lidar sensor detects difficult-to-see objects from far away and works with Argo’s self-driving system (SDS) that is capable of 360° of awareness day or night and can safely drive on city streets,"
+    publishedDateTime: 2021-05-05T13:03:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16678/argo-develops-in-house-lidar-sensor-for-self-driving-cars"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "xnfnXA2CxDmYDTaG1Fp/eDfAh0E7sQVNTN/ISWqeSe2XZcg6GwCanjhBpZuUvI9yk+356D4+X6Yl8gtwZ9AznuTC9n2lXlaKK29jKOoawPPCyk6qwnVA5vSRs2bdUFgD0ZVq7xadHdvY/eokBOO5byaeZqbKVz4WgCFSxr6rJOz797U4eUsBociXRuAq5J0BHZ0v60BHrNogs+WMUurAvK+pijG6nG1WLQP/5593pQZ5eC5RYsAsHwm2JlmzV6M/6Xl075zlGvjv1YbcsbhEXuClFZitk3eNWb4eYxe9WGV1xl31DImYVCZ7JDCIDWxeRLiLT3+QMvbGAldPPQeK/gr90mtnJIHqJ+iz5m+BTSc=;z/CsNjsiwIxzoo1FOIMGSA=="
 ---

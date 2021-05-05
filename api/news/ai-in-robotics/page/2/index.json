@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-22-leader-in-ai-research-introduces-object-manipulation-in-robotics-testing-scenario.md",
+      "title": "Leader in AI Research Introduces Object Manipulation in Robotics Testing Scenario",
+      "excerpt": "The Allen Institute for AI (AI2) announced the 3.0 release of its embodied artificial intelligence framework AI2-THOR, which adds active object manipulation to its already impressive testing framework.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af",
+      "originalUrl": "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-5-robotics-stocks-that-will-make-your-life-easier.md",
       "title": "5 Robotics Stocks That Will Make Your Life Easier",
       "excerpt": "Robotics stocks are also part of this trend, which will transform the way we live for the better. According to one report, the robotics market will increase to $176.8 billion by 2025 from $76.6 billion in 2020,",
@@ -1299,49 +1342,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-hacklet-105-more-mind-and-brain-hacks.md",
-      "title": "Hacklet 105 – More Mind And Brain Hacks",
-      "excerpt": "[Angeliki] even went on to create a Mind-Controlled Robotic Xylophone based on this project. Next is [Stuart Longland] who hopes to protect brains with Improved Helmets. Traumatic Brain Injury ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/04/30/hacklet-105-more-mind-and-brain-hacks/",
-      "originalUrl": "https://hackaday.com/2016/04/30/hacklet-105-more-mind-and-brain-hacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2014/11/hacklet-featured-image1.png",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

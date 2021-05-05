@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359405
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359405/apple-hires-google-ai-veteran-samy-bengio?amp"
 type: article
 quality: 106
-heat: 256
+heat: 266
 published: true
 
 provider:
@@ -135,6 +135,20 @@ related:
       - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/Siri-iOS-14.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Apple hires Google AI veteran Bengio amid ethics controversy"
+    excerpt: "Apple has hired former Google artificial intelligence (AI) scientist Samy Bengio following his departure from the company after controversy engulfed the Google Brain division. Bengio will lead a new AI research division at Apple and will report to senior vice president of machine learning and AI strategy John Giannandrea,"
+    publishedDateTime: 2021-05-05T10:58:00Z
+    webUrl: "https://www.techcentral.ie/apple-hires-google-ai-veteran-bengio-amid-ethics-controversy/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 56
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2016/12/Apple_Store.jpg"
+        width: 620
+        height: 352
         isCached: true
   - title: "Apple hires ex-Google AI scientist Samy Bengio who resigned after colleagues' firings"
     excerpt: "Bengio is expected to lead a new AI research unit at Apple under John Giannandrea, senior vice president of machine learning and AI strategy, two peop.."

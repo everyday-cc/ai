@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "King County government must turn its back on facial recognition technology"
-    excerpt: "Whatever other concerns we might have about facial recognition technology — it poses a serious threat to our privacy and particularly to that of marginalized populations and communities."
-    publishedDateTime: 2021-04-30T20:51:00Z
-    webUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/"
-    ampWebUrl: "https://www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/king-county-government-must-turn-its-back-on-facial-recognition-technology/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Pressure grows on banks to abandon facial recognition tech"
     excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."
     publishedDateTime: 2021-05-03T18:50:00Z

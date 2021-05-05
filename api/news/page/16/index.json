@@ -2,6 +2,290 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-04-20-autoshow-baidu-expects-to-supply-self-driving-system-to-1-mln-cars-in-3-5-years.md",
+      "title": "AUTOSHOW-Baidu expects to supply self-driving system to 1 mln cars in 3-5 years",
+      "excerpt": "SHANGHAI, April 19 (Reuters) - Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice ...",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/autoshow-shanghai-baidu-idCNL1N2MB06V",
+      "originalUrl": "https://cn.reuters.com/article/autoshow-shanghai-baidu-idCNL1N2MB06V",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559010206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3I04N",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2MB06V",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2MB06V",
+      "publishedDateTime": "2021-04-20T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-how-communicators-can-help-address-ethical-ai-risks.md",
+      "title": "How Communicators Can Help Address Ethical AI Risks",
+      "excerpt": "Fortunately, as communications specialists, we can work cross-functionally to evaluate AI-powered products or services, determine if they have ethical risks and champion actions to manage them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb3ff457ad853db35f0dbc5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/amp/",
+      "publishedDateTime": "2021-04-20T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-uk-drone-startup-seesai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights.md",
+      "title": "UK drone startup sees.ai gets go ahead to trial beyond-visual-line-of-sight (BVLOS) flights",
+      "excerpt": "The U.K.’s Civil Aviation Authority (CAA) has given the go ahead to local startup sees.ai, which is developing a beyond-visual-line-of-sight (BVLOS) command & control solution to aid data capture for industrial use-cases,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/",
+      "originalUrl": "https://techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Screenshot-2021-04-20-at-12.07.18.png?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/amp/",
+      "publishedDateTime": "2021-04-20T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-exclusive-why-a-us-hospital-and-oil-company-turned-to-facial-recognition.md",
+      "title": "EXCLUSIVE-Why a U.S. hospital and oil company turned to facial recognition",
+      "excerpt": "Deployments of facial recognition from Israeli startup AnyVision show how the surveillance software has gained adoption across the United States even as regulatory and ethical debates about it rage. April 20 (Reuters) - Deployments of facial recognition from Israeli startup AnyVision show how the surveillance software has gained adoption across the United States even as regulatory and ethical debates about it rage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/exclusive-why-a-u.s.-hospital-and-oil-company-turned-to-facial-recognition-2021-04-20",
+      "originalUrl": "https://www.nasdaq.com/articles/exclusive-why-a-u.s.-hospital-and-oil-company-turned-to-facial-recognition-2021-04-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-python-is-devouring-data-science.md",
+      "title": "Python is devouring data science",
+      "excerpt": "Someone once said that Python’s data science training wheels would increasingly lead to the R language. Boy, was he wrong.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html",
+      "originalUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/04/dna-research-science-medical-advancement-101334656-100264916-large.jpg",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.amp.html",
+      "publishedDateTime": "2021-04-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-ibm-ceo-arvind-krishnas-turnaround-plan-starting-to-bear-fruit.md",
+      "title": "IBM CEO Arvind Krishna’s turnaround plan starting to bear fruit",
+      "excerpt": "including Cloud and Cognitive Software, which saw a sales increase of 3.8% from a year earlier to $5.4 billion. The Global Business Services unit, which includes consulting, and the Systems unit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit-11618887491651.html",
+      "originalUrl": "https://www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit-11618887491651.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/04/20/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618887618624_1618887633680.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit/amp-11618887491651.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit/amp-11618887491651.html",
+      "publishedDateTime": "2021-04-20T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-status-global-outlook-and-forecast-2020-2025.md",
       "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Size, Status, Global Outlook and Forecast 2020-2025",
       "excerpt": "The Global Artificial Intelligence and Robotics in Aerospace and Defense Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2020-2025. The Artificial Intelligence and Robotics in Aerospace and Defense Market report is a valuable source of insightful data for business strategists.",
@@ -846,274 +1130,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-saudi-aramco-accelerates-employee-expertise-with-conversational-ai-and-enterprise-search.md",
-      "title": "Saudi Aramco accelerates employee expertise with conversational AI and enterprise search",
-      "excerpt": "IBM Watson Discovery reduces research time for scientists by up to 75% Agents using IBM Watson Assistant chatbot handle calls 10% faster In this time of unprecedented change, Saudi Aramco has fully committed to automating the most arduous of their manual processes. By adopting AI-infused workflows and",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-expertise-ai/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-expertise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-58_Tech-M-Blog_Leadspace.png",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T06:00:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-ambow-education-expands-partnership-with-amazon-in-artificial-intelligence-training-for-teachers.md",
-      "title": "Ambow Education Expands Partnership with Amazon in Artificial Intelligence Training for Teachers",
-      "excerpt": "Ambow Education Holding Ltd. (\"Ambow\" or \"the Company\") (NYSE American: AMBO), China's leading provider of educational and career enhancement",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
-      "originalUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/pr-newswire_500_4_966.jpg?itok=n0UX2udW",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp",
-      "publishedDateTime": "2021-04-19T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-unity-dramatically-reduces-ai-training-time-budgets-with-launch-of-synthetic-datasets.md",
-      "title": "Unity Dramatically Reduces AI Training Time, Budgets With Launch of Synthetic Datasets",
-      "excerpt": "Unity today announced the availability of Unity Computer Vision Datasets aimed to reduce the cost of developing computer vision applications, and more quickly train AI for the Manufacturing, Retail, and Security industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210419005099/en/Unity-Dramatically-Reduces-AI-Training-Time-Budgets-With-Launch-of-Synthetic-Datasets",
-      "originalUrl": "https://www.businesswire.com/news/home/20210419005099/en/Unity-Dramatically-Reduces-AI-Training-Time-Budgets-With-Launch-of-Synthetic-Datasets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-cognitive-collaboration-market-is-anticipated-to-witness-massive-demand-by-2027-cisco-us-microsoft-us-slack-technologies-us.md",
-      "title": "Cognitive Collaboration Market is Anticipated to Witness Massive Demand By 2027 | Cisco (US), Microsoft (US), Slack Technologies (US)",
-      "excerpt": "The Global Cognitive Collaboration Market is expected to witness a CAGR of xx% over the forecast period 2021-2027 and is expected to reach US$ xx million in 2027, from US$ xx million in 2021. The assessment provides a 360° view and insights,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/19/cognitive-collaboration-market-is-anticipated-to-witness-massive-demand-by-2027-cisco-us-microsoft-us-slack-technologies-us/",
-      "originalUrl": "https://ksusentinel.com/2021/04/19/cognitive-collaboration-market-is-anticipated-to-witness-massive-demand-by-2027-cisco-us-microsoft-us-slack-technologies-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jumbonews.co.uk/wp-content/uploads/2021/03/istock-1155230435.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-one-board-all-platforms-zf-drives-vehicle-intelligence-with-proai-supercomputer.md",
-      "title": "One Board, All Platforms: ZF Drives Vehicle Intelligence with ProAI Supercomputer",
-      "excerpt": "The intelligence of future vehicles will be controlled by a few extremely powerful central computers. They will run the computationally intensive software functions that control critical vehicle domains.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9/gallery/0688ef5568afb07678a025399c868311",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9/gallery/0688ef5568afb07678a025399c868311",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-want-to-get-along-with-robots-pretend-theyre-animals.md",
-      "title": "Want to Get Along With Robots? Pretend They’re Animals",
-      "excerpt": "Robotics ethicist Kate Darling surveys our history with animals—in work, war, and companionship—to show how we might develop similar relationships with robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/",
-      "originalUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/607a36b98b8cd2f789408f30/master/pass/science_robot_876959718.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/want-to-get-along-with-robots-pretend-theyre-animals/amp",
-      "publishedDateTime": "2021-04-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

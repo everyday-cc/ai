@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improv
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/amp/"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: CMS Wire
@@ -26,51 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to Track How Customers Feel — In Real Time"
-    excerpt: "Even if they provide a positive score, customers often reveal their true thoughts and feelings in the open-ended comment boxes typically provided at the end of surveys, and AI can help companies make use of this valuable data to better predict customer behavior."
-    publishedDateTime: 2021-05-04T12:15:00Z
-    webUrl: "https://hbr.org/2021/05/using-ai-to-track-how-customers-feel-in-real-time"
-    ampWebUrl: "https://hbr.org/amp/2021/05/using-ai-to-track-how-customers-feel-in-real-time"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/using-ai-to-track-how-customers-feel-in-real-time"
+  - title: "Wix acquires Rise.ai to bolster its customer re-engagement offerings"
+    excerpt: "Rise.ai's software aims to help merchants optimize their online commerce offerings through customized gift cards and other customer re-engagement tactics."
+    publishedDateTime: 2021-05-05T06:01:00Z
+    webUrl: "https://www.zdnet.com/article/wix-acquires-rise-ai-to-bolster-its-customer-re-engagement-offerings/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/wix-acquires-rise-ai-to-bolster-its-customer-re-engagement-offerings/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wix-acquires-rise-ai-to-bolster-its-customer-re-engagement-offerings/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/05/05/4cf56c8d-7dea-44b9-b145-0ec8e6c128f1/wix-ecommerce-2.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Wix buys Israeli startup Rise.ai to offer stores customer-loyalty tools"
+    excerpt: "Tel Aviv based-startup, set up in 2015, is a developer of software that allows merchants to re-engage with customers using gift cards, rewards and referrals"
+    publishedDateTime: 2021-05-05T13:05:00Z
+    webUrl: "https://www.timesofisrael.com/wix-buys-israeli-startup-rise-ai-to-offer-stores-customer-loyalty-tools/"
+    ampWebUrl: "https://www.timesofisrael.com/wix-buys-israeli-startup-rise-ai-to-offer-stores-customer-loyalty-tools/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/wix-buys-israeli-startup-rise-ai-to-offer-stores-customer-loyalty-tools/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
     quality: 57
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/05/May21_04_1210361415.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI to drive next wave of efficiency and customer delight in the retail industry"
-    excerpt: "Cloud and AI continue to drive innovation to build differentiation while helping to reduce operational costs for retailers."
-    publishedDateTime: 2021-05-03T03:26:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-to-drive-next-wave-of-efficiency-and-customer-delight-in-the-retail-industry/82364115"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-to-drive-next-wave-of-efficiency-and-customer-delight-in-the-retail-industry/82364115"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-to-drive-next-wave-of-efficiency-and-customer-delight-in-the-retail-industry/82364115"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 53
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-82364115,imgsize-358297,width-800,height-434,overlay-etcio/ai-to-drive-next-wave-of-efficiency-and-customer-delight-in-the-retail-industry.jpg"
-        width: 800
-        height: 434
-        isCached: true
-  - title: "3 Keys for Unlocking AI in Government, According to the Experts"
-    excerpt: "How can civilian and defense agencies begin to reap the benefits of AI? At a recent virtual event, government and industry leaders came together to discuss just that. Here’s what they had to say"
-    publishedDateTime: 2021-05-04T17:05:00Z
-    webUrl: "https://www.govexec.com/assets/3-keys-unlocking-ai-government-according-experts.pdf"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 37
-    images:
-      - url: "https://cdn.govexec.com/media/screen_shot_2021-05-04_at_10.00.38_am.png"
-        width: 649
-        height: 839
+      - url: "https://static.timesofisrael.com/www/uploads/2021/05/Wix-eCommerce-3-e1620216580457-640x400.png"
+        width: 640
+        height: 400
         isCached: true
 
 secured: "MgsoX6mhB3EfTKKFwR4bhLssnAgPNRLloKgs0DjhE8fXo1FjZ9HyhQEiR/GFGR854E+xdj4UqWbvsxJa5fSpRnDWOpw88hs8xE8MIa+59y5SuGnUXrYqKdlVCKEU887BrqT63TSlBV0sf+lKtHB51obt7S98gbVpKogNyidpF8oFb44ebuEo7A/w4O5jvlrer5WwE35jJ82fUAAFrKDRubDpyJiEUvwmg4eRElXc1H4XvVDAeaf6kBBDpMyvHd8Xw6o2PWbxDNLhFJ+LZY5YG9Oe4VzcgDvyidPq/oyb8QN/GPdEYr1KUX7+CXxGpdNo5Yes8LADw8hqVsGX1x3iBCEIj9ggRrUeNdDiNQdlkfsHzjWHSNWTy2sfA+vu8eJxj3wOfkt3qaW/e9g6qdQFi1Jk+4LQMPtdI7NI/z6zNBGMsP2pYemWk7t7GApxr5XGiZXUKFCnNrRcZF1RkHHnU1NAWBQVUukVWe5JcJoPnSz5Z97g7un02LK3BEZ+vimzq+QE8HwyrR2rV2IJhXzDSw==;UK3IrZSzlJCg845P7Oqaxg=="

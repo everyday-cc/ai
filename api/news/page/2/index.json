@@ -2,6 +2,340 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-04-want-to-boost-your-returns-from-ai-follow-the-leaders.md",
+      "title": "Want To Boost Your Returns From AI? Follow The Leaders",
+      "excerpt": "To accelerate the ways and means of extracting business value from AI, organizations should learn how and where leaders are making headway.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognizant/2021/05/04/want-to-boost-your-returns-from-ai-follow-the-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/cognizant/2021/05/04/want-to-boost-your-returns-from-ai-follow-the-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606303122fb985e531b89f10%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2825%26cropY1%3D84%26cropY2%3D1674",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognizant/2021/05/04/want-to-boost-your-returns-from-ai-follow-the-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognizant/2021/05/04/want-to-boost-your-returns-from-ai-follow-the-leaders/amp/",
+      "publishedDateTime": "2021-05-04T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-it-pro-2020-understanding-our-complicated-relationship-with-ai.md",
+      "title": "IT Pro 20/20: Understanding our complicated relationship with AI",
+      "excerpt": "Welcome to issue 16 of IT Pro 20/20. This time we look at our strained, confusing, and often contentious relationship with artificial intelligence, and how that is shaping development. We’ve addressed some of the more concerning issues surrounding the eager rollout of the technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1619787080/itpro/IT_Pro_20-20_Issue_16_teaser.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359414/it-pro-2020-understanding-our-complicated-relationship?amp",
+      "publishedDateTime": "2021-05-04T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-new-ai-tool-offers-subtitling-and-dubbing-alternative.md",
+      "title": "New AI Tool Offers Subtitling and Dubbing Alternative",
+      "excerpt": "The system, from the U.K.’s Flawless, is designed to create lip-synced versions of movies and other content in multiple languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/#!",
+      "originalUrl": "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2021/05/MSDFEGO_EC005-1620027677.jpeg?w=1024",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/amp/",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/amp/",
+      "publishedDateTime": "2021-05-04T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets.md",
+      "title": "What Exactly Is Artificial Intelligence? (Hint: It’s All About The Datasets)",
+      "excerpt": "What we can do—and what we’ve already done—with AI and AI applications is incredible. But there are still some major limitations and challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6091592599841fa0bc244389%2F0x0.jpg",
+          "width": 1200,
+          "height": 886,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/amp/",
+      "publishedDateTime": "2021-05-04T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-genpact-and-fast-company-partner-to-digitally-transform-a-world-changing-ideas-honoree.md",
+      "title": "Genpact and Fast Company Partner to Digitally Transform a World Changing Ideas Honoree",
+      "excerpt": "Genpact(NYSE: G), a global professional services firm focused on delivering digital transformation, today announced a partnership with Fast C",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/apply/world-changing-ideas",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/genpact-and-fast-company-partner-to-digitally-transform-a-world-changing-ideas-honoree-1030385367",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-ibm-details-planned-2-nanometer-chip-process.md",
+      "title": "IBM details planned 2-nanometer chip process",
+      "excerpt": "During a press conference, IBM detailed its 2-nanometer chip process, which it expects will come into production in the next several years.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/",
+      "originalUrl": "https://venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/amp/",
+      "publishedDateTime": "2021-05-04T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-experts-develop-artificial-intelligence-to-monitor-water-quality-more-effectively.md",
+      "title": "Experts develop artificial intelligence to monitor water quality more effectively",
+      "excerpt": "Artificial intelligence that enhances remote monitoring of water bodies—highlighting quality shifts due to climate change or pollution—has been developed by researchers at the University of Stirling.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-05-experts-artificial-intelligence-quality-effectively.html",
+      "originalUrl": "https://phys.org/news/2021-05-experts-artificial-intelligence-quality-effectively.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/water.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-05-experts-artificial-intelligence-quality-effectively.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-experts-artificial-intelligence-quality-effectively.amp",
+      "publishedDateTime": "2021-05-04T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-defining-a-role-for-ai-ethics-in-national-security.md",
       "title": "Defining a role for AI ethics in national security",
       "excerpt": "We spoke with Mariarosaria Taddeo, an associate professor and senior research fellow at the Oxford Internet Institute and Dstl Ethics Fellow at the Alan Turing Institute working on digital and AI ethics about two recent reports from the UK and the US on using AI in national defence and security.",
@@ -158,7 +492,7 @@
       "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -209,7 +543,7 @@
       "originalUrl": "https://www.waste360.com/business/fast-company-names-amp-robotics-ai-platform-2021-world-changing-ideas-finalist",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -252,7 +586,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359405/apple-hires-google-ai-veteran-samy-bengio",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 266,
       "tags": null,
       "images": [
         {
@@ -862,334 +1196,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-extreme-ceo-talks-ai-automation-chip-shortages.md",
-      "title": "Extreme CEO talks AI, automation, chip shortages",
-      "excerpt": "Extreme CEO Ed Meyercord says its tools that incorporate automation, AI, and ML can help IT catch more problems earlier and head them off before they hit the network.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.html",
-      "originalUrl": "https://www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/network_security_automation_artificial_intelligence_endpoints_integrated_connections_by_blue_planet_studio_gettyimages-1250576928_cso_2400x1600-100851256-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3617001/extreme-ceo-talks-ai-automation-chip-shortages.amp.html",
-      "publishedDateTime": "2021-05-03T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-use-ai-thinking-to-improve-customer-experience.md",
-      "title": "Use AI Thinking to Improve Customer Experience",
-      "excerpt": "In fact the prepackaged tools are not the most helpful thing about AI for your CX. The thinking that goes into designing and building AI systems is itself the most powerful tool for reexamining your customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/",
-      "originalUrl": "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/d77db01721c34f25ba03e16f39da3e1d.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/amp/",
-      "publishedDateTime": "2021-05-03T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-yandex-self-driving-group-clocks-7-million-autonomous-miles.md",
-      "title": "Yandex Self-Driving Group Clocks 7 Million Autonomous Miles",
-      "excerpt": "Yandex Self-Driving Group has driven seven million autonomous miles (11.5 million kilometers) since the team was founded in 2017, more than any other company has announced, save for Alphabet’s Waymo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608c16ccf518acfd55532183%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/05/03/yandex-self-driving-group-clocks-7-million-autonomous-miles/amp/",
-      "publishedDateTime": "2021-05-03T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-3-big-myths-of-ai-and-machine-learning-debunked.md",
-      "title": "3 Big Myths Of AI And Machine Learning Debunked",
-      "excerpt": "Artificial Intelligence and machine learning can give your business decision-making processes a massive upgrade. Here’s what you really need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/",
-      "originalUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6086f7034b0844a0abeea8ad%2F0x0.jpg%3FcropX1%3D542%26cropX2%3D3795%26cropY1%3D0%26cropY2%3D2441",
-          "width": 1199,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/",
-      "publishedDateTime": "2021-05-03T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-why-most-ai-writing-cant-get-its-facts-straight.md",
-      "title": "Why Most AI Writing Can’t Get Its Facts Straight",
-      "excerpt": "The brute force approach to artificial intelligence writing still works better on fiction than on factual, data-based reporting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLQ9BIC_W478/v1/1200x935.jpg",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-ibm-to-acquire-turbonomic-for-aiops.md",
-      "title": "IBM to acquire Turbonomic for AIOps",
-      "excerpt": "It complements IBM's recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/",
-      "originalUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg",
-          "width": 736,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/",
-      "publishedDateTime": "2021-05-03T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-nestle-driving-innovation-through-ai-and-other-disruptive-tech.md",
-      "title": "Nestle: Driving Innovation through AI and other Disruptive Tech",
-      "excerpt": "Nestle leverages disruptive technologies like AI, machine learning, blockchain, and advanced data analytics to enhance business growth. The brand uses data analytics and artificial intelligence to drive personalized customer engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/",
-      "originalUrl": "https://www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/nestle.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/?amp",
-      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/?amp",
-      "publishedDateTime": "2021-05-03T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

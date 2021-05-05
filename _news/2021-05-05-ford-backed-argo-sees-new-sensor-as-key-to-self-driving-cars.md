@@ -89,6 +89,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "Argo develops in-house lidar sensor for self-driving cars"
+    excerpt: "Argo Lidar is a new sensor introduced by Argo AI designed to accelerate the commercialization of autonomous delivery and ride-hailing services. The lidar sensor detects difficult-to-see objects from far away and works with Argo’s self-driving system (SDS) that is capable of 360° of awareness day or night and can safely drive on city streets,"
+    publishedDateTime: 2021-05-05T13:03:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16678/argo-develops-in-house-lidar-sensor-for-self-driving-cars"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "JFVX8xu53BH54/mddY5YkQJlZxOq+n2uqsLXUg8Ii8EAVfRPk3K7ZYUCSCG5DXeSfVbPNV/M32Cviq+7PlEnhHwhr1yXC+sitRHBV2i/TlB3Ho3sN6BRCVSpQ1UrxRNmZOnCBa1p9aiPIZQfMJST8zWUTiywiGN8avMfA/p6JqrPAlpHcv0egPIfXjYd5OQMn1vee8z4pyUpu7RerzvaEfDflpSjmoLIMnQmUI0/yjG0B4H3o6t+x/pL0Vv/jUFdamhLEzmDMZcRgUIm2oHoUIvz5zbeLIH4Z2R1uP8vNLc+1CIFRkbR4vBJoJ3hWFB0KD7e6YZYpbIroppQ+7MsmbclvASNie6ktJW5nyG9kawQ/HRQmTsOLY+nLpBmBYcbHeJqAifiMrAXigl4HXH0sDEDmU4AWLknYEZh68e8TnZCRlFYOZAQ9I6S786zSMXpY3UGPI0gNyXhkf6UUX/C8EKEp6z6xlYtDdsCxw9NsT8vyNRxYCbTT4Umyxh+np6Wzn0BMEAnpAv3nrdEwfy1mQ==;AQ8X5vtVo7bIMUQeNQ9RLg=="
 ---
