@@ -41,7 +41,16 @@ related:
         width: 1024
         height: 577
         isCached: true
+  - title: "How retailers are embracing artificial intelligence"
+    excerpt: "Many retailers look towards more investment in artificial intelligence to make shopping both online and in-store smarter. Machine learning and AI were cited as the emerging technologies that would have the greatest impact in the industry over the next year,"
+    publishedDateTime: 2021-05-05T08:20:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/analysis/how-retailers-are-embracing-artificial-intelligence/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 36
 
-secured: "z5J4Cis056f1hT8TC2sB/t0mz/cEDpShvt0KEuDQhD26PZHhTb2s+oNjuBJMY9J4lPgw/ix8Z8BD54ZdgMzhuxu0DrIBdrIpHJne2UCZG7ifmO46/Mj/RielOkSgMRSqNe85sL81i4uRB+UQsHbpkVYHe34WVbZSdfFxQxxapLLzoqhNGAcesZoSfiWAMOs+cSMUBQXWiKqhqgR2EPoBEGiFeQZ59L9v7ZFnksuFJQUd2OwuPMAwN5x1sUMvLMQ17GxfU0BYgHtSy5iFa0QGlu9zaKLjvR1MNiO0mKFcsvH1NPrYVWaq81Xa1fy2IJG+1YWemKskH2mHi+0absEf7Y2iq4/5dp621de8ZzOlYZI=;mvFt3xaWZPyPAOJIMRypiQ=="
+secured: "zo8PesW3izsOBhUwuqPdnYo3nOwlNMqApqJZxCimNFRAKR1WOcYrdVsDiMSkXiemSWJr2Y9tgswZYnNYTmL+nQxsUEvGvSev/IsNFfVYMHiQ3v1g1DnmAQl23GB7LsiGAoVun3W1ZkVCLZw00BuanN7PTTlfopnJDBRYTf5K4964lIE5s6h79dR68pjqh0IuZQQGLvCMMR1pw2M4l2i7cIbW3XCofpsGzYdj5QtKrNkXj41FSvptSGzqdTqESCsNKtkPep797PEmIJGKG7Inu8JkZJ7Oxp0ZFVhyTbMvvYN4psTBdzZ0KFzWbOwlFb7Fa19Nfphg7vz471mllLargJ7AB5CwyrQlU48iyIFbwdW3SWjnwAeHY25ZiiI40Nh9KoJyfynMI73ZTnXKKUyu0YF9zhdVyfXe7+XMmJ6Ow8yNGMCmLEWp/7DXGOgtmgp8B9UCXUQO53EbGEQz1ZisOGRoNV9PSY5KkQx42relQu4sDRNJ3nvmbpmIjpCA3BuSo+DBurdJXc0TM6LJM9Qfeg==;JyyK7fwGdd630H0/hdcDLg=="
 ---
 

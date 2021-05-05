@@ -43,6 +43,20 @@ related:
         width: 587
         height: 532
         isCached: true
+  - title: "All The Machine Learning Libraries Open-Sourced By Facebook Ever"
+    excerpt: "Today, corporations like Google, Facebook and Microsoft have been dominating tools and deep learning frameworks that AI researchers use globally. Many of their open-source libraries are now gaining popularity on GitHub,"
+    publishedDateTime: 2021-05-05T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-the-machine-learning-libraries-open-sourced-by-facebook-ever/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-24.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Facebook Announces ZionEX Platform for Training AI Models with 12 Trillion Parameters"
     excerpt: "A team of scientists at Facebook AI Research (FAIR) announced a system for training deep-learning recommendation models (DLRM) using PyTorch on a custom-built AI hardware platform, ZionEX. Using this system,"
     publishedDateTime: 2021-05-04T13:05:00Z

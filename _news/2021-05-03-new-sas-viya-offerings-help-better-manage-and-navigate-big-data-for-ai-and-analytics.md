@@ -43,13 +43,13 @@ related:
         height: 308
         isCached: true
   - title: "Former Google Energy CTO Joins AI Startup Olea Edge Analytics"
-    excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Ben Wilson as Chief Operating Officer. Wilson, the former Chief Technology Officer - Energy at Google,"
-    publishedDateTime: 2021-05-04T06:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210504005282/former-google-energy-cto-joins-ai-startup-olea-edge-analytics"
+    excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Ben Wilson as Chief Operating Officer. Wilson, the former Chief Technology Officer – Energy at Google,"
+    publishedDateTime: 2021-05-04T11:00:00Z
+    webUrl: "https://www.financialbuzz.com/former-google-energy-cto-joins-ai-startup-olea-edge-analytics/"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 17
 
 secured: "+lAKWgH8E66g1x+RYeaN3+jFVFPSFCifcT5PUWb40DPFDvXA0XdWWv+VTRDMYNmnOMSZrliBqepq+uiGYxt75UEQZmeGdT0I8qiJr3K2wtpSAJAA1MOuohBswBKHpvqIqs2ZSKzqK+6BFk4fmFFFhfgOVCznPVTmp/ubXQdEsUeJD0rGfub7L+B9TCjd+QVBsanlQTqQvYg9RIF5CPfNTs9JoNa3944SG/gcyHy6QWSAZgpRhZRrhjTJYGrwu2F2EUbzCCUJVJCWhjjkSh2NLQUDePELKBgx2oxb4CnG5xOFF9ynuOzGoQGIShIrku76b+TqgZewlpw8vhHaZaPQVXzUxaEMMidirYzSuQHq8TY=;YFmybleFoObPEJc4TgYTvg=="

@@ -40,6 +40,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Business Reporter: Banks to gain a competitive advantage with the AI-driven business monitoring technology increasingly leveraged in fintech"
+    excerpt: "Traditional BI is being enhanced with automated business monitoring to lower costs and improve customer experienceLONDON, May 5, 2021"
+    publishedDateTime: 2021-05-05T09:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/business-reporter-banks-to-gain-a-competitive-advantage-with-the-ai-driven-business-monitoring-technology-increasingly-leveraged-in-fintech-1030389304"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
 
 secured: "noLyhL6cRdXYXfwaYuErd6BNkP3v4XE2VAA/TLZM6D6AFBy+W9RsamU8h0tp+cS40u/iWo1eXsRkCyKc/ilCoNDNg/K0Wi77SwBsLxjDjetH4oYq0cpxMHbfdDENPOVNAqQ05e6RWcK0mk3kdsXpS2fZOl3IC7KUtboLZDX0lPgANVUitkQpupVpxA6UhwS0m7tONF2A10tjaegDUJ1CTKuVsY/J6zvRPg5pK5F9bOstEM0tzZbccaWlLGu1IRC+po0EujwVyP1bt3fId4YkUYyVEzswQOwryhHhuH4oohSIuNUuj/eACYoiqN/UtxoYVECgS+CczeNYWsd2SKaXlJPAEjcN+w6nZLizsCKZjPuZPCvjND5XBFS4xfQzT8mXnnOBnJ6ZwOxlVMYWPxa7I52Iy4RWiJnW7ARNpHXHXkPvEf8eh8VrpEse8puK73GKW8foCBcEzQOOnhquCnxF1GIM9rXJqJI/16S2NW1zeUMn3jKfmtxHpzhAk25UQBrGSfnDkf/Z5jZvcHZ6m8IRTw==;/TUvqPKebnpT6WjkhLz6gw=="
 ---

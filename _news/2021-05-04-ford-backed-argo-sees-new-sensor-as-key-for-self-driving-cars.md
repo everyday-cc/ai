@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Ford-backed Argo sees new sensor as key for self-driving cars"
+title: "Ford-Backed Argo Sees New Sensor as Key for Self-Driving Cars"
 excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, has developed a sensor it believes will be key to commercializing autonomous transportation in cities, suburbs and on the highway."
-publishedDateTime: 2021-05-04T13:34:00Z
-originalUrl: "https://www.autonews.com/mobility-report/ford-backed-argo-sees-new-sensor-key-self-driving-cars"
-webUrl: "https://www.autonews.com/mobility-report/ford-backed-argo-sees-new-sensor-key-self-driving-cars"
+publishedDateTime: 2021-05-04T11:00:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-05-04/ford-backed-argo-sees-new-sensor-as-key-for-self-driving-cars"
+webUrl: "https://www.bloomberg.com/news/articles/2021-05-04/ford-backed-argo-sees-new-sensor-as-key-for-self-driving-cars"
 type: article
-quality: 24
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO1-MAIN_i.jpg"
-    width: 800
-    height: 600
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCW5ADrpNGcg/v0/1200x800.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -90,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "uhCm0XSOrwm/39VIWw3llIfOzDRJ5Ych8UQl/RSjfIhOXjyvZ7OJICzvDDft6bg8EzTHF/luvMuhtp3PwFGoqYv+USX7mgQ8jMiN7Jl6SX3EyYtw5DCKSdEEyZvguhyiWEy8tnMZlrTBX/ohSK7zCCMukSxgoQBUNFQRWnYwnigPwa2t5zD/3zouUzemsgAw6nIYVTaQGYrcCjxyDBh1YhsNVCP8kfyAQgftCU54uwd/V3mFVzEL/hl4QzBNrtZ8UYmUEMi9o+rIYGwjJ8Wl3sllHdjM9PFrSDvltVPp4Z+1eQjWipCDZR9XWG49M7VngX1yOHJeKVTJRK+R4KE6ITJqmQ51YkWGoV6DN+4aBQz687/Ws6iAmaia4QYJ1DQzcvWreNYLxHgOaryijp1YBN3w2AfQkbL9lgHFzdN7tzfDXhuPDRB29z35bEmzRdDKmGRecDTSqRVbd3I3qrgO9AnhDJIbgsxJzQHfxV0Yb2e2at8k/vgg1C2AQ44dFGZNto6C+LBYWKc5C4jOssUXmg==;CoKF9VWeytBmD588C4/DgA=="
+secured: "Sq9ZdiqLdVObAKxCIlr2qsvkxPXZEzHVBue08IEx2MonXEjsSYBcugEHG6im02ZI0IbjJAHiUQFzvmPizaqkHp8RoiSsqlz84MgsM/Ha0zKFvHa0jVEumbR/pN6ViWfGWf257MeBhfm3B6cmnP1N8e7fcLGuytPKfNi0HR+XV/HJx5z1oK03tN1Pn7STp84+F+/7CIGf8GTTrKdX+8JLZRevzeSwn/Mv2nKGVxZi6cfdLSsgVxOqujFbZk5Ud+2YOtZZjobD0G/86wB1RUKHWzlF9BGp96CQk3gquiiGsmXdpUZgpn+7xqPmqC0QLZkVwkOQYb4MbNNF9cq8kOOwxsUGYcfCm0BV3/SB1aTIsok=;bmtVEedoH1mN2253xmY/tQ=="
 ---
 

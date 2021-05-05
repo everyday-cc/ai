@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202105/biometric-apps-to-benefit-a
 webUrl: "https://www.biometricupdate.com/202105/biometric-apps-to-benefit-as-xilinx-aondevices-edge-impulse-work-on-speeding-up-edge-ai"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "New Partnership to Bring Face-based Biometric Security to IoT Devices"
-    excerpt: "Canaan and Cathay Tri-Tech will be working together to develop new IoT devices with facial recognition capabilities"
-    publishedDateTime: 2021-04-30T15:43:00Z
-    webUrl: "https://mobileidworld.com/new-partnership-bring-face-based-biometric-security-iot-devices-74202104/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 41
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
-        width: 359
-        height: 400
-        isCached: true
-  - title: "UK Commissioner defends face biometrics use by police as practical necessity"
-    excerpt: "Police have no choice but to use facial recognition, along with any other technologies that can help them fight crime, says Fraser Sampson."
-    publishedDateTime: 2021-05-03T23:27:00Z
-    webUrl: "https://www.biometricupdate.com/202105/uk-commissioner-defends-face-biometrics-use-by-police-as-practical-necessity"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
 
 secured: "Ag6FYK2+jpfx4UYNDcWaU7WQsURzHF1UU5nskiwpt5yorp6xxtgcahBAQSDD3l5donxKhnC8A7bHL6Qk0zyreBDWAs1oScAVEdwa2OZ+jbq9uj+rlAWZAKWzj/mzh0p/pjipV51DTPpL4iRZu+yDFbGRZWqInpUSWwMj9dt9fNwUZ5Xt8Sv1IRlVT37Peo9gQhntwT31hg3gS5I7/kFAoP/S9jNujBbt6p5Wn3ukC8Vsf718cbC04shSsMigWM3J266k2Ilbp/IHvAl3nhk1XbsFFfI15hmLGlRyo4JdKzK7PFw7t49rhB4kIyzvqgx04shuvNFdcWUI00UtsXS4PoGibflaTvNE3f+8xUV4kbj2eTh4YAZRk52jk3heHzFRLQCV+uOmriNvcA9j2AEJQbS1AXaLXZzKG4LKedywL7mypVW9f+x92FS4W/DwQEkGUmdX6Aq1LNGG9iak1rVN2JbnvH8GWWWsSUexeMCniNmTpDVNC242vwB84deVeKAHkJwaYiux0sn/y7VJnuJ+rw==;yCJUJTFmGO0S5xUUPf+3Bw=="
 ---

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Former Google Energy CTO Joins AI Startup Olea Edge Analytics"
-excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Ben Wilson as Chief Operating Officer. Wilson, the former Chief Technology Officer - Energy at Google,"
-publishedDateTime: 2021-05-04T06:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210504005282/former-google-energy-cto-joins-ai-startup-olea-edge-analytics"
-webUrl: "https://www.morningstar.com/news/business-wire/20210504005282/former-google-energy-cto-joins-ai-startup-olea-edge-analytics"
+excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Ben Wilson as Chief Operating Officer. Wilson, the former Chief Technology Officer – Energy at Google,"
+publishedDateTime: 2021-05-04T11:00:00Z
+originalUrl: "https://www.financialbuzz.com/former-google-energy-cto-joins-ai-startup-olea-edge-analytics/"
+webUrl: "https://www.financialbuzz.com/former-google-energy-cto-joins-ai-startup-olea-edge-analytics/"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI
@@ -47,6 +47,6 @@ related:
         height: 308
         isCached: true
 
-secured: "5JelifvlM6cbTpnKD3jt0qa0kTXXn+7Fwb+aLjNfvTk8/osDFW3ZdyW+I1JygtaQE5hr4tmQfkp/YovMJut+gZoDcaXUoB66xPFx3INq20s2rnPm0isyCN8dwaoejunDuytQOGCww+HChE3be4MMR7uiPrqtR3EKSE+IaBIj5FLSNLDllhMkcXWB3TbgPTeRFJ7vEvY/i7caq7bp52wJd1yiDzkKj/JZz9NzmkOEYEu5SZaIsQUzCXTzRCCrndTH4mWzHKTPZ5+JdelVeIJvUW/G58m3woUQ83JYaMKaiAOffSABA/QWnEgk4vMBcLuDOEbFO80yhb/7zdtZWLLaMRutzSGePs2WYLFuHTdvNvc=;fgRA8l5yFc1OTnw1gE9F2g=="
+secured: "1UpCpphkP4VRM5BR4cMoA+nY/vYn7WaqSSd6gAqt0vBWuv/ifoAz66o6w0lZCEW2s+jZPmfwTDHnxDOp9J4x2F9oPJ3T8KsEfi9s1j15GZttK6KFrtv3u+F+STSxFd/QA+6IZfbu9zesjj9HjnH1fMKF6bb+ocMVyoMdWPoFmBzEhLhYfhNFSZaJX+aWp6VgQZF2keFgcv94V1DG7/L+tzNoJOiDqJFtNp9MYONgHC+mQ/FRHMQygieDYroSqM4/3D6dMN646opfylNfCFu4f6C/P/cUPAFQhRi8lGYZCduRPKPInHBQ7soiPGxZb8v4dDg45y6dPhXiaf4eBLsSbyqo31ojxS9084Mm4X9KzXE=;dLeF86d8vgfVbisxado3QQ=="
 ---
 

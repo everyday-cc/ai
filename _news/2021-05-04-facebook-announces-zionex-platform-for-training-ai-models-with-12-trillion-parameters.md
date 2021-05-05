@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "All The Machine Learning Libraries Open-Sourced By Facebook Ever"
+    excerpt: "Today, corporations like Google, Facebook and Microsoft have been dominating tools and deep learning frameworks that AI researchers use globally. Many of their open-source libraries are now gaining popularity on GitHub,"
+    publishedDateTime: 2021-05-05T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-the-machine-learning-libraries-open-sourced-by-facebook-ever/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-24.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "KDsCwH+1xccEMQWn6q4QJO5EYVEBvpcrZ2QksdXjACmIXJ2uFkI2U/4xSUWA5A89IBOMphHZQ0RijsKSyCZZJvHTYuw9B3MH1FpOJfu3npHzccy2HvC6MyGoyICgjjKvhyaZxbi4BcuZbrg0wOUhFGNw2RlMyS5qY0zKl7trTrBXdPU54hGzv4wUl/EKsrjTmxjbT3D8FRAT2jTyfb5xq52nyR3O4VrSfSKYA+GKbid5v2eVRsseExbD6gyHAGVcWpwmlwGoX1CMWiu9kfPdo/dIboMA3LkwaOGKyWDA08bVkX1wi+bIMrYYSiqBxQDUwsTk9FfteUpZMCydwBoxuOFxcgjFo3GhHOcVmXJ7Zpo=;gSW82436x8jUmytXi1XHxw=="
 ---

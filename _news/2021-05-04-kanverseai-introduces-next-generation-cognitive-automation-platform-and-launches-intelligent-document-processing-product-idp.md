@@ -70,6 +70,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "Kanverse.ai Introduces Next-Generation Cognitive Automation Platform and Launches Intelligent Document Processing Product (IDP)"
+    excerpt: "Kanverse.ai, a cognitive automation company, has announced the global launch of the Datolite release of its patent-pending AI-powered Intelligent Docu"
+    publishedDateTime: 2021-05-04T17:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210504005868/en/Kanverse.ai-Introduces-Next-Generation-Cognitive-Automation-Platform-and-Launches-Intelligent-Document-Processing-Product-IDP"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "h2zmsNhkaEBm2+jz9KeKcqfoXtH8UNBzujOrRkKgpufiD/w4TIYnvdm7N9nwWsW3/tF/7JOHTwFsL0qi9ymu0uW2Rsvm2yOKaFHeXJHPnT1vT80q0fjpY7eMwZg+2WF2hEbYXgNOdAoUKp8tfFyPyx+9IRLdL+hHf+Dd/2Vk1wv+aDjMNrz8zmkzvIzZK6Nj0KhgdfI/x0O2w2vhZ+43Fo+rvVVN6Nj6Vx1wNvYfjeEA71obw+1a+0lTWvllK1c+VcUydaDYk36ZlwUxZMq2xot0UhhkcgxMV7cx5zqmHiLKWkI2UX6EDJIR0yYIj9Lqa+Y9mF7enG/Owvo1NFF6yAptYY20HOFb1hTItmcuQDE=;D9eRelN/0djhsOT+csO5PQ=="
 ---

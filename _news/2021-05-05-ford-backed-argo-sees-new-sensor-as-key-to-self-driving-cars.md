@@ -57,6 +57,20 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Ford-Backed Argo Sees New Sensor as Key for Self-Driving Cars"
+    excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, has developed a sensor it believes will be key to commercializing autonomous transportation in cities, suburbs and on the highway."
+    publishedDateTime: 2021-05-04T11:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-05-04/ford-backed-argo-sees-new-sensor-as-key-for-self-driving-cars"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCW5ADrpNGcg/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving"
     excerpt: "A rgo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company and Volkswagen AG , announced that it has developed a new lidar sensor system with enough range t"
     publishedDateTime: 2021-05-04T15:34:00Z
@@ -75,20 +89,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "Ford-backed Argo sees new sensor as key for self-driving cars"
-    excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, has developed a sensor it believes will be key to commercializing autonomous transportation in cities, suburbs and on the highway."
-    publishedDateTime: 2021-05-04T13:34:00Z
-    webUrl: "https://www.autonews.com/mobility-report/ford-backed-argo-sees-new-sensor-key-self-driving-cars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO1-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "JFVX8xu53BH54/mddY5YkQJlZxOq+n2uqsLXUg8Ii8EAVfRPk3K7ZYUCSCG5DXeSfVbPNV/M32Cviq+7PlEnhHwhr1yXC+sitRHBV2i/TlB3Ho3sN6BRCVSpQ1UrxRNmZOnCBa1p9aiPIZQfMJST8zWUTiywiGN8avMfA/p6JqrPAlpHcv0egPIfXjYd5OQMn1vee8z4pyUpu7RerzvaEfDflpSjmoLIMnQmUI0/yjG0B4H3o6t+x/pL0Vv/jUFdamhLEzmDMZcRgUIm2oHoUIvz5zbeLIH4Z2R1uP8vNLc+1CIFRkbR4vBJoJ3hWFB0KD7e6YZYpbIroppQ+7MsmbclvASNie6ktJW5nyG9kawQ/HRQmTsOLY+nLpBmBYcbHeJqAifiMrAXigl4HXH0sDEDmU4AWLknYEZh68e8TnZCRlFYOZAQ9I6S786zSMXpY3UGPI0gNyXhkf6UUX/C8EKEp6z6xlYtDdsCxw9NsT8vyNRxYCbTT4Umyxh+np6Wzn0BMEAnpAv3nrdEwfy1mQ==;AQ8X5vtVo7bIMUQeNQ9RLg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.cioapplications.com/news/tredence-introduces-ml-works-
 webUrl: "https://www.cioapplications.com/news/tredence-introduces-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-nid-7609.html"
 type: article
 quality: 50
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
+    quality: 0
+  - title: "Kanverse.ai Introduces Next-Generation Cognitive Automation Platform and Launches Intelligent Document Processing Product (IDP)"
+    excerpt: "Kanverse.ai, a cognitive automation company, has announced the global launch of the Datolite release of its patent-pending AI-powered Intelligent Docu"
+    publishedDateTime: 2021-05-04T17:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210504005868/en/Kanverse.ai-Introduces-Next-Generation-Cognitive-Automation-Platform-and-Launches-Intelligent-Document-Processing-Product-IDP"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "apcD2t3DuE0ITyEbkApqFqh8VqLG24oXfjmNGFWzvE7TAVFEsQkwLNgufeqYWJ97l8h3eoUy9PkbmPa2Y8c6bPLsZmfqH51liL14QGCVoiS6Cd9xainyVJPESeki/y6R5mpzpC0fnFp9DRNzlq9o/AP2QIVqrEE3jeblfOtc5kEEpATDquClW6+1Lsv//B5tH7qzNZAbaJJJ4iHV26oi/rJlWa/zji7DbkftwX/zZQ5NrQDwufkww8iGt3voowBPMTXEEozhzo91/EPUOCDOsvv1tII/0nnNLnmMvwLpqHwm53EpsvROuaBfmluW3ejlqhzvmmPhzQnq9ymv70KZ2q2ccHLB3bjKE7oD+N429ALh0dCyjn7l4Xv8ywgYiBGwFbT84GAyiKcJnD8T1cyi1OjrN7CrFg9qd7mQDpuDCAiyrj/waTTTAAFp2sEB9L7XgcsGvglv4OqtHqHPW7aK4imdRocXjpzjpW1NsMl9X+fMMF9qRTStDluYvs0yr5eqNb5dKKts9OqW8x3gLmO2tg==;C0n4Pb35KVFABDxpyhWJjg=="

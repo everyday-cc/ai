@@ -24,17 +24,6 @@ images:
     height: 792
     isCached: true
 
-related:
-  - title: "Responsible artificial intelligence for disaster risk management: working group summary"
-    excerpt: "This document is intended to help practitioners and project managers working in disaster risk ensure that the deployment of artificial intelligence (AI), and machine learning (ML) in particular, is done in a manner that is both effective and responsible."
-    publishedDateTime: 2021-04-30T15:15:00Z
-    webUrl: "https://www.preventionweb.net/publications/view/77574"
-    type: article
-    provider:
-      name: Prevention Web
-      domain: preventionweb.net
-    quality: 9
-
 secured: "2EmkSY8yKZOslKjlTzcGbJcqXayjiI4VxdtpbivysoVJ5kDnHqxiGj/qAUajysjWuVkQ7qQ7gOzMjA98+KnSYOUz4LxPs5ziArLkQ5tHtQgX2cJ9NfmNJtU2LAd4vgWj2TRIsn4K4SQckf17dUTtcgxDIzveS6XDdSrLYGr0siOm61li8RuOqZ7/KLq+J5Sb3vo1kcV9yAB5pZZlp2ISCQT88O6dJF5DcNSA7KhknjyPE4RJiq99LX3X/zAlEnRtFfTTVPV74rsK7Q7yfp1GCUvxv+NzijIeGVGWvWZ+H66rSevSDLxXEUkoqvGWr61S7E7GTxZSiJf6bVAYsSX2ynWxsG7E4jwdhQbcgati/WI=;W2PHFmot8zsyBUQXwAuo1w=="
 ---
 

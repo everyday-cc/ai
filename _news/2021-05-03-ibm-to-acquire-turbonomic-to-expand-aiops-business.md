@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM is acquiring Turbonomic to advance AIOps agenda"
-    excerpt: "IBM is acquiring Turbonomic to extend the scope of its AIOps portfolio. This follows a series of acquisitions over the last several months."
-    publishedDateTime: 2021-04-30T15:40:00Z
-    webUrl: "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/"
-    ampWebUrl: "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/Turbonomic8-intuitiveUX.gif?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "IBM to acquire Turbonomic for AIOps"
     excerpt: "It complements IBM's recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT."
     publishedDateTime: 2021-05-03T13:45:00Z
@@ -94,34 +78,6 @@ related:
       - url: "https://www.channelfutures.com/files/2020/07/Artificial-Intelligence-6.jpg"
         width: 1000
         height: 543
-        isCached: true
-  - title: "IBM acquires software firm Turbonomic for a reported $2bn"
-    excerpt: "IBM has agreed to acquire software firm Turbonomic for a reported $1.5bn to $2bn. Financial details were not disclosed in the release from IBM but Reuters is reporting that the deal is worth between $1."
-    publishedDateTime: 2021-04-30T15:03:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4030683/ibm-acquires-software-firm-turbonomic-reported-usd2bn"
-    type: article
-    provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 24
-    images:
-      - url: "https://www.channelweb.co.uk/api/v1/wps/04412d9/50da5ff3-2a9a-4dd4-a156-b5da280a4625/3/ibm-building-large-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
-  - title: "IBM to Buy Turbonomic"
-    excerpt: "IBM (NYSE: IBM) is to acquire Turbonomic, a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
-    publishedDateTime: 2021-04-30T16:30:00Z
-    webUrl: "https://www.finsmes.com/2021/04/ibm-to-buy-turbonomic.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
-        width: 2700
-        height: 1411
         isCached: true
 
 secured: "BWXOULlZ5RNMV2ipiZgvce4cYIb31qwrvPCT5bptdsV+2sJxxdtic374KLs5Iskm9gA3pk40amBbWwLteezVjHFJKidTGYY7d0bDaWsnVfEi2rPKhYxteue9YbVFKmPQRBHmgoaKC/qhpVdXlJxV7eKEMv2HG7YlvDgLd8Z/Z0e3HYaWFu5Eo+6TWU/w8ngRG2+S1PcjkNL99IfOZ4wofJA1+AkmvDrRGQpmygaKR7QJLcC3k+isUbCAeX+r9hblgTHkG+BHL/8rzlRKhHzEj/r09Tu1Jv9g4arOeWiWTMxPGdfg7cr7JQwdjw6w2OUnmE8TIeOEIBTB8pIjyjo28wRymYfO8FTRqEWeh0WpqU0=;Y40RjTqbi6N0BbO7PHJaiw=="
