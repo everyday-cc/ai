@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "maximumqai"
   url: "https://twitter.com/maximumqai"
-  followers: 475
+  followers: 474
 
 size: 11-50 employees
 yearFounded: 2013
