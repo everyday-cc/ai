@@ -2,7 +2,7 @@
 name: "Clarify Health Solutions"
 overview: "Clarify Health provides the breakthrough technology and analytics platform to personalize and optimize patient care journeys. Our purpose-built solutions - developed by a world-class team of data scientists and engineers from the financial services industry, top clinical operations experts, and logistics specialists - are transforming healthcare processes and workflows. Clarify delivers actionable insights that enable physicians, health systems, payers, and life sciences organizations to deliver better care today and evolve for a value-based world."
 type: "profile"
-heat: 50
+heat: 41
 
 website: https://www.clarifyhealth.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=j4LXE1HWZBk"
 
-secured: "1EPxgTTzd4XQuGnuaHWPcXqJjIzOCU5xdkE22D6fXnbJq43CGXdHBLUMS6mWDiaDIlFRrM1uoL9WumPXlGg37jEGQrZDqQx9ozOHq5BFTqoKe6nA+wDm1Ozk/1W8CX2VOTyxZjZbBxgK0OPCQS2p6XNbFw9lGzT1M+mjpiRHDr7pQKHiIDAKYo3RiEqp1gdkOIPDQDYvOkk4i9cTt8rq7ottcgDKpCsqI8RYasorCb72LH1QJQD7DI08E1beEWsp/nC+Qw0Oqq1nPQSH8oCuumeD2V7WRReUFhIb856tTxAt+kFLDU3z3H8bJWtwNiN7JIRvxgakfn/P1cItFl5TNoHGcMMc/zSbuwQNWE6dA2hLYulzJirL+r1JCpaASjl8erCrEBp5H7xIK0lTL2x9Rg==;/oinpOjRGBFjvAZzLyHfHg=="
+secured: "Zrr0hUgFprLoJ+K43Ol63lbYYALA3lNeB+WZ9pYHNt+ZkFbJ+LlxUX2qRVYDJK02xzxJx4uiX2a2z9JyMzGIH666Mn4z+YLwiCOuFJoIPn8gT61XnpPouW7JmTMW6Ff+FFKnWdUsp/BrnxP1fSFSQRl8IX5cMPnLgTWqyqr2X+N8zSC5e36xDCkrXI3QgyD7Cl9CzJjrmtmYfa4A49dImu/vA132daQdECX7BJbR5qVQwErHGdXlZn5Riau/84m0YiL9tv9F7iCalwXKuBh5gOTB5bFX+AFo+KcBJKtOedIC/k/FqnIQ68HTAw759+83AQ1wEIlAdpUINKwW4gkwn+j/3jNwCdSfkMqiguXGu9Z15rBnppXxa5NdgZapbqkR5ujSlw6t7Kc1b/RTNK1QOg==;GZacojDIgS0Eq7mLG9nc5g=="
 ---
 
