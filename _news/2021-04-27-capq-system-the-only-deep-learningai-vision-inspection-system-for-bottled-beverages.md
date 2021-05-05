@@ -1,26 +1,20 @@
 ---
 category: news
 title: "CAPQ™ System: The Only Deep Learning/AI Vision Inspection System for Bottled Beverages"
-excerpt: "The CAPQTM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level inspection. The CAPQ System uses AI-powered deep learning software to recognize what a “good” capped bottle is supposed to look like and can deliver a dramatic reduction in false-rejects,"
-publishedDateTime: 2021-04-27T16:10:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de"
+excerpt: "FISHERS, Ind., April 27, 2021 /PRNewswire/ -- The CAPQ TM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level ..."
+publishedDateTime: 2021-04-27T14:05:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages-301277179.html"
+webUrl: "https://www.prnewswire.com/news-releases/capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages-301277179.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "fbaQ3xQgEimDSK92wRvdaHi1EUVFlir/Q3eKUKHGoseIQCGbPaz/wu/W4ebbsWPLyH9zu53syiUX4ve+CDiSmLj3Xo67FwYu0W6HLASxJFWx9UCJCCjmG+tFQQbAWZZi8cIkr37sBZ8xGMVENWapHFVcPzgrzJUsd/U8azo+JQH6LzEMe4Mnqjya3mTmIHf7gw6efMzV1H8VEZ7AAadc5Mv2rarAMXOHSceKTGsp6UcvqhjEs4LBiI0oTk8YHZ1BX5G25PlqSJxk+ku5I8pSXWVGmSuna9ANEXlDGSC/6jaqasbTHzRQRn5+1v7juUefXk/T2x4mbufDnx0+s5TLvfPmteEuReLfZZXATUgihSA=;qfP89fMMWpCJHpuwfFxQCA=="
+secured: "Gj5WiyMF5fQC4cQ6j8zcCGobWoKaqKmj+dSs1+kIjbg2D34X7Zgf9VYBYz70oOgJMaazwOe7Sw6Dm+oDjHBG+0PAgWCUq1ADYnA6a93N77PzzkYXxqwil67kOwGVRgvkG5B6e5/VpDMLiDrf5oU0uHGGvVDlgtbSHAG8u5hRnJbz1/LhBSzmtS16Gi1YQtNZdUFVVGJgbUSEDLNOzcQHIGQuVPzKfUxyA+5al0fkhjSC9r9LWmGsdBVbahZvoJ88prJtLgSPrI4Xoz3qpxrE+gNR3h2PiJEqIn2kJtPotxuGcvjBE26O8mRGETM+2ed96FGP3/LU8sAORp/K6382Y5GrZtGq+vVrc1d74Oa0fyw=;RQcEvyH9ek/4iyZKAQoJEQ=="
 ---
 

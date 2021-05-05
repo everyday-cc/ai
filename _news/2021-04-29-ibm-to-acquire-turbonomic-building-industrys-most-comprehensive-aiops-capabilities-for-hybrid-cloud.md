@@ -1,20 +1,20 @@
 ---
 category: news
 title: "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud"
-excerpt: "IBM today announced a definitive agreement to acquire Turbonomic, an Application Resource Management and Network Performance Management software provider based in Boston, MA. The acquisition will provide businesses with full stack application observability and management to assure performance and minimize costs using AI to optimize resources–"
+excerpt: "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT resources across development, test and production environments"
 publishedDateTime: 2021-04-29T15:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities"
-webUrl: "https://www.nasdaq.com/press-release/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities-for-hybrid-cloud/article_9df25060-b19f-5a3e-8425-12b9f44f903c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities-for-hybrid-cloud/article_9df25060-b19f-5a3e-8425-12b9f44f903c.html"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "/JQMJCO1iXQjFWsgt4fEn+WZ9onU7M2iMI12jgQ+3eqt+6Yi+yjDlg4LFNj4yzJ2IzTXbf2U3AuFtvgB0Ja3MHKOeKIIehV70tdRr4QOddSvmusm0XmFXn3PFq1OpnfjgvShob+Ojv6G+lH9ZYgcNiuyIUnZuefoxrN99ebqPawDfJf5sLyouwBSud3yK4KZSA5oE0Y8hhKoQuC8AV1s9MPHf9c5TtddHcBmr2FnRvduSuiCSAuV9kJrsWFDYdCcHMZsU0zq4Mc7XDU+uRdIGIqM0kaTN1NGN6GZh3BpQNkd+EXp0kGx3lJ8NxavrnS+c9kYMMRPncTrnXMpNgtHD3KGgSiIdr184PXsZnPbp3M=;vDHQOtpgUCvVa4fogquuoQ=="
+secured: "unYdDENqD09CPvnX7xHF88Kl/ZmuOZZEhG1nFI4wCLcd0eaaRunH9F4N1uD1gn+wlyYM1NZgg0pIxLUGH120CbWW04zvB9pyR8DinMNYtcLQgTGMKd7CLKYq3xrAj8vtks4pKdzCZ8DKyPnLb24V4BSsCKLBgirt8rql4DCU0MC/c65gj3OAvuMoGbXSjDFGVlsZulvpKPfBVxMGD5eJUelB3XjOK5QtS+Y1qnzEJBDUJrf1WDNKivrmull+hhil4YmkYDF3zRRSWlMqUqUdz7fsjHwD+K1vK/iVvqhzo6mrbIreloPSwB9/qqsrg0l8T8vrUb6HQMy8FUOAM4+z0Ah8LUlPwq62iiYt5K5jjGLRkvGTdlLbezdpvOu/9rlq54A8hWzHQKkqmhnbffRcPmZNfmsWWOPAMsUzmTv1BP/ZcwSzxrKx2ZYo4kmaFoX8ew9NaFIpSDr18pwAYoVPM3Cf/NsxQhRkQNtvk8D6UvU2nizCHnjdb2EUNJ4nw7CCJ3WjBVBEYjUVbjGH/VuVrQ==;iZmed0/kqbX7pFl4HDrkwg=="
 ---
 
