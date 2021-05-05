@@ -38,6 +38,22 @@ related:
         height: 800
         isCached: true
   - title: "Baidu rolls out paid driverless taxi service in Beijing"
+    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ..."
+    publishedDateTime: 2021-05-02T13:15:00Z
+    webUrl: "https://www.clickorlando.com/business/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/"
+    ampWebUrl: "https://www.clickorlando.com/business/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/business/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/?outputType=amp"
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/WMXRBGYDIJCRTPWB3H64POBTJA.jpg"
+        width: 5000
+        height: 3333
+        isCached: true
+  - title: "Baidu rolls out paid driverless taxi service in Beijing"
     excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China."
     publishedDateTime: 2021-05-02T17:28:00Z
     webUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html"

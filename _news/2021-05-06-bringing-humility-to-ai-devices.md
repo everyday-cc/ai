@@ -8,8 +8,8 @@ webUrl: "https://bloncampus.thehindubusinessline.com/b-learn/bringing-humility-t
 ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-learn/bringing-humility-to-ai-devices/article34492422.ece/amp/"
 cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-learn/bringing-humility-to-ai-devices/article34492422.ece/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://bloncampus.thehindubusinessline.com/b-learn/article34492420.ece/ALTERNATES/LANDSCAPE_615/blocThinking-robot"
@@ -26,6 +27,6 @@ images:
     height: 384
     isCached: true
 
-secured: "Do8iejNDp/SLAQ5c98fEIVi671WIEgb9PXID1a7pL9qiXJexzjOM/i/c1pR3cm7MV9RIQgxAMLSZT6RiXXmGPaXpvHZg7vlu2iCdHFj7hDcDlvWoTA5wOD0/E/sw2vgzebkTC7naw2ynIzYV0AUdFKJPytn+4QPB9gAKlcEEbytW2b2mkH2NP0MtQKRc/Tuc+lLQN+iRPywFoGUCCcdWxRysJTXXk7vl4MuwbD02wdxukY2IqeLBWSatzCrA66dNnVwJDW/kBDY4XD3pwA5PuzonZMYKarTguRK8/JF0nY1nG4qpMBxjZPgdL2ahnSbpPmLwFdEB6DOuD7zRyRCfbBXw3yVHdJYoiiOaJ3pDq4k=;n2zbzwKllY3DOqFs7Z4tFw=="
+secured: "cHMxREvxF8wcrO9fSYxSFxcWJzvHqDaI+JTDAgL/QfvKUnIQvIHG3tCCsBgWV3gYOPBshM4i3BzcpH1XqZW5/ZH1k+Sb5enEbxqZlbesVAJ8+nplpMxMzXoMwD9nehuKZAjlEewGtI03JSQ9ythsdsSUlNeOyyihMuMXPtikWSiH2l/pq/EBIjJ38DLjZOvJQKn86NRlPwN/UJC+YMRhDpolGwTFmMGQnurDwBF0oY633kJ4adM3uYXMGgX5WSiGcUsEXcjyLucTvqeymaFNGXC3dX4/cybuTE4inl/FrwD9YIoo5OKzG/N5yh3NJSXpA7ag9bzFlNOLMbf9QtCLOJznn+Ca7YoPW1d9h2Xch1RuS55p9S+DwNV1V1VIUKkhWf85U/qBaPKR+rZSuOSlOoo0JF++LiF+L6TmjM5jZuEs36CexIyhjcCvvFtVmZLBgdotzGP5G0ARIOuKckDXN3CHzgzyjrDTXnWONk2SgiZskFljaQ10X6dLtgg8rlfJ6ZRk7Fx4wAeraoAwcTI+aw==;MDFbchVWeG3Nw/VFyK+zmQ=="
 ---
 

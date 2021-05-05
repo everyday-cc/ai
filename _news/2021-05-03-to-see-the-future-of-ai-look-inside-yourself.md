@@ -29,7 +29,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 57
+    quality: 61
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/james-barr-L_f7x_Uv5Qs-unsplash.jpg?w=3000"
         width: 3000

@@ -25,6 +25,22 @@ images:
     height: 977
     isCached: true
 
+related:
+  - title: "AI-based pathology predicts origins for cancers of unknown primary"
+    excerpt: "A deep-learning-based algorithm uses routinely acquired histology slides to provide a differential diagnosis for the origin of the primary tumour for complicated cases of metastatic tumours and cancers of unknown primary origin."
+    publishedDateTime: 2021-05-05T20:10:00Z
+    webUrl: "https://www.nature.com/articles/s41586-021-03512-4?error=cookies_not_supported&code=6eef7f02-03a3-46e0-a029-a0db866e3c88"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41586-021-03512-4/MediaObjects/41586_2021_3512_Fig2_HTML.png"
+        width: 312
+        height: 280
+        isCached: true
+
 secured: "226S2cwbViob2A+rjke9jG4Cfc4nyeZYhUstiRluukjcaVHIzhOxiHLczvWpPNgpm4GRRhW8QD2kmBzT1B5jDFs/5ezNu/iRuauwbAIC53SeuDnrmkOOOzqMUEIR4f223M68FEo/oXWW+EeLeDkCC5E5u0c1ahgla0ojlIdMDjUjIGnIurF2kAxzDL9qcKObIXWTSahAAfYSVniC977VVfilxn63SAGEXdw0GkTw5Hkgu4Gk+xGXjrtMecFx4eNnE7w0FMfAHw0eBQdMOW1LYwobueAxTVt0LyeURls1B177xAmQtVd8yfee44cB7kWUsBfMT7vwH1Bkc1esctxDWr86H7YcfT6eZHUXfLuI9cmT/1VanufIxCnrnj2JZu4TfcrGME5K7ajdP3BhWFLkMmgVO4OSwbbW/nAaSZbh+FJ7Du262Ozl5MKxQkcw/8UGIMZlGNj6bTwb1Nlz1CqC98dNe23HFTQ8ZfYSSl++QJRiX8+M+D5gjmKcJ6WbesMU3ne9JPZa56CXdZCFXJ6TIA==;n5NqP2NSSQsRIerbJGSH6Q=="
 ---
 

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Start and Scale your Intelligent Automation Journey with AI Powered E-Workers"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2021-05-02T21:00:00Z
-originalUrl: "https://www.computerworld.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers"
-webUrl: "https://www.computerworld.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers"
+excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+publishedDateTime: 2021-05-03T13:15:00Z
+originalUrl: "https://www.cio.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers"
+webUrl: "https://www.cio.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: CIO
+  domain: cio.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "J5BZKwF+thDikCbQHdHxOoG0zRYdNO8pW6RFmonNKJiutw3UP4saB1negwXmPY1bUsh+81ApiHi8WUgu3IvhZp7xzwMrgR1esWj8cvTo5fmTklb6FB0QBDdg9djSopcSoqOw1jjL5fjJghEuX34T12hVXOZ+KbXQv8HMrYkOzbDvRb5MlfVick2WRmxxD3s6PZk5FuI+bgFFohtzUIT25H3za0K6swhDnn+TVc+ZzuJbZQEBp3T3PoDa7jACPQWPzzj0NV8GODYcR2XJ0SHNg1vlDCv3WYaos89q4LlfP2i828ut13BNIOKnozqZhE+zzszS4OHVa9aBEXjv1O92wwWQCEv9XBAhm+95P+VJbT4=;OZBPJF5Xo8ExiedFXz6fhQ=="
+secured: "UJYW7UqZEp3Rr++42yRcWunwVNhGrEJFgcX8c+v8FUFyDkoOTyZXrQFuo0XsMh3KcOL3bHp8IaAWP6ml3h8PfbESoQhKwEWbvTcBSHhdP75jEu076XhQTqA/P6ir0I4LWow60c8SpDBCSinzGCIuRBiXKlqxqc7DMX0TU3dr50++9S939jwVVDIyxMJWdz+Bx6OPar9Xi9ErHEvWchBAIOCQsK0g/qD8u1TSSijTRg9ueKBc4lk0lmny6CObu1mViy1npFAPJBn7alrxZSLK87KJqhnZBWvOtvOc22C/YBGC7dbA66JVcoqsYyRcG/dnIEZUMwSDhzCG4FOKAMKUHxksSjlcnA2nh7zaE12HS60=;oqpFaf41xVky4SIp/I49Qw=="
 ---
 

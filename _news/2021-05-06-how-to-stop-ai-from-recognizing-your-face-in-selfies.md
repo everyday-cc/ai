@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/05/05/1024613/stop-ai-recognizing
 ampWebUrl: "https://www.technologyreview.com/2021/05/05/1024613/stop-ai-recognizing-your-face-selfies-machine-learning-facial-recognition-clearview/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/05/1024613/stop-ai-recognizing-your-face-selfies-machine-learning-facial-recognition-clearview/amp/"
 type: article
-quality: 57
-heat: 77
+quality: 61
+heat: 81
 published: true
 
 provider:
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/james-barr-L_f7x_Uv5Qs-unsplash.jpg?w=3000"
@@ -50,6 +52,6 @@ related:
       domain: chron.com
     quality: 19
 
-secured: "x1WkwzCcdB0JC60q+Whb7+QG1pvyDLvZkT6Hb1JvqmakE43N/Io0odph6UNCHWUYQ1qFknR/wZlErfRIJGIGsuaF6WAnOkj4N9WvEtnM4babNEcECnRUbDyjQGqJQpR1ypr0BsnPpLKxqr8ZznAuKpjaV1Y08/1EiM1MAek6RDw41xXtIefWFQdlxBZuztfjb/RMrcQzYhJkH3i7ml3r6djizTGn86072hizTsp26zyGIo82yilVv2KQxz6TzVT6KLQocHfOZuYTAP6X3rmyNH3EiwWmol3N43nSZDnRWceQ8u+hPCnn1pYemtcG1a5E2muPjinDI/xNCO5BpcQ5khCvKqSgrQ739O7HDzPX0pg=;4WuX5tJCwAjZUJrIUL4yNA=="
+secured: "vNMR/KQKlynFGjXy/Ja96lGljT7Xjq+eQzTQrnzJRisjhPh5rnDcIXnAyvEcY5ThszQETTnzeToRhIQ3CAwDW8/9APwDUFdD9Ft3IC+CfOS24XYjAsRgRABoePT9YtKrakGsa2kZyeqzNmMPouRGtSkxFtM22/+aGbhIPf3DAbWQw113g5XQdVCTJdSFpQDnLscvGv+06ZAamue5YHB5Ih1GsECB037AVLilyVVqK6iA4nHPPV5TMEdSLBWE7TVGivRdR0il4P+dcRWXoKqdC5MAWszsi+9J1F77nGJeyZUPVxlfGP6Klk6z6A+aLpGcpc37UH+rFDNHzSW46OBS3K9AVx5pLFQ8h9pH6SE86sVGVuZukcSq+ikc6KEf5Hw+FEeGVosuZ9nbdUzQWWwOPiTa3PIQNICjrghT7ShgwJDNprpNXSt4FbM9gDXVrv2xH+7N25c+7jwNyj/uirhY3C0Q9jCNPkiYx9YBqVTAUjll7X9LdTM1m2/vOAS4MDP/NQOb76mJzICZg5g09fxAFw==;Sg83Nako+4XC8ez6bf1P+w=="
 ---
 

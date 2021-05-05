@@ -43,20 +43,6 @@ related:
         width: 1440
         height: 1210
         isCached: true
-  - title: "The neural mechanism of autonomous learning uncovered by researchers at IBEC"
-    excerpt: "An international team led by SPECS Lab at the Institute for Bioengineering of Catalonia (IBEC) reveals how the brain improves through self-supervised learning. Researchers also propose a novel brain-based solution to solve a fundamental challenge in artificial intelligence: how machines could learn without direct supervision."
-    publishedDateTime: 2021-05-01T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/ifbo-tnm050121.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 21
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/263684_web.jpg"
-        width: 1440
-        height: 1210
-        isCached: true
 
 secured: "dqAXsOtpz7K+t394jxJeh+pKbU2ARCOk6FSFjKQTxaKTc1xEv3iR3e28dF4zaoQswjomfeaJoM9z2qw497K6PBTqxVAtdjpj7VrrA79euuympN2cie5J1qCvfU7u1JjqTg5FIb5wjnH07ny65xY17jtol0AtS8FDh1+urmTmrYdgJDGol+DOWMiA1RHGuMiUnWk+iWcAx37FWl90mlgwXZdO9BrZ0QXgffa9F+dCfIyY9m40MrIhoL+HNQv61di5EOjARjdvny/tptd+VtOwYZi/0hUFFh9oMLocYeM9eIcyUeRkwWKwUeDmXCU8ilf+qBrTjIFArph+IoJ51bnPWzlE3ukR2FiNdfoEetOfA1s=;j1h1VMlDiQXdOvgxtGMwUA=="
 ---

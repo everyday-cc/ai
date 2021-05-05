@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/kansascity/news/2021/05/05/cambrian-te
 webUrl: "https://www.bizjournals.com/kansascity/news/2021/05/05/cambrian-tech-finds-new-use-case-for-its-tech.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "GM CEO Mary Barra wants to sell personal autonomous vehicles using Cruise’s self-driving tech by 2030"
+    excerpt: "GM CEO Mary Barra sees the automaker selling personal autonomous vehicles by the end of the decade by leveraging technology from its self-driving subsidiary Cruise, according to comments made during the company’s Wednesday earnings call."
+    publishedDateTime: 2021-05-05T20:57:00Z
+    webUrl: "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/"
+    ampWebUrl: "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 59
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2017/01/gettyimages-629982546.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "2Mtqn2Q7q0Bh0MzgGi57WIrjyTN8PZQ44wo9Q6oDOazSgldcvmCWnf2nC21l2FOglyafvXcv2btlEqDVAZQKFogy+d+Zrbvq9pCkE28zAUY3rwKfZ1uB8npQ860699qHi0CQ6gDdeRHjZBzxXwFRcoxP283dHnNvwRyTrONBLeFCaVE2Tmltn9/BOVomqtG+FpKzHFpP0TnqS8gtk0YEl1wfQVl1Wlf2s08uo6ZdFIqGH3Iq/+6L43KQ3tSokThvZnhbM/KhNF3IjIu4t09av1Imts/bfr2ZfYcYStW8yydftn9ltBL8V1tn1oBdEFql1QR3asdUXWjCpW0xTj+d3w1/7UjbO9D5uRAwuaWEVJzlm0o5K0OVBrUyw3RNtGHVXyxrimvG2baY7+dvD4WD2THg7tFKtB6K/vXOYE9VfYLGgcshwv0rl3/sxSi9rNb70bxdHyMA8kRczhAlePYRnor90iAE05OAc/H75fsXOuLYzyF0eDhMCD5sUiAnS3I9LFQn7wcGOXwDbAI7YVRWCw==;K8dVo/sgCRNmv433o4fxUw=="
 ---

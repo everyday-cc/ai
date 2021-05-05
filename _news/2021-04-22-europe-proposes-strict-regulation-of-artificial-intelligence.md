@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Europe proposes strict regulation of artificial intelligence"
-excerpt: "In a first-of-its-kind policy, the draft rules outline how companies and governments can use a technology seen as one of the most significant, but ethically fraught, scientific breakthroughs in recent memory."
-publishedDateTime: 2021-04-21T21:31:00Z
-originalUrl: "https://www.bostonglobe.com/2021/04/21/business/europe-proposes-strict-regulation-artificial-intelligence/"
-webUrl: "https://www.bostonglobe.com/2021/04/21/business/europe-proposes-strict-regulation-artificial-intelligence/"
-ampWebUrl: "https://www.bostonglobe.com/2021/04/21/business/europe-proposes-strict-regulation-artificial-intelligence/?outputType=amp"
-cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/21/business/europe-proposes-strict-regulation-artificial-intelligence/?outputType=amp"
+excerpt: "The European Union unveiled strict rules to govern the use of artificial intelligence, a first-of-its-kind policy that outlines how companies and governments can use a technology seen as a significant,"
+publishedDateTime: 2021-04-21T23:03:00Z
+originalUrl: "https://www.seattletimes.com/business/europe-proposes-strict-regulation-of-artificial-intelligence/"
+webUrl: "https://www.seattletimes.com/business/europe-proposes-strict-regulation-of-artificial-intelligence/"
+ampWebUrl: "https://www.seattletimes.com/business/europe-proposes-strict-regulation-of-artificial-intelligence/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/europe-proposes-strict-regulation-of-artificial-intelligence/?amp=1"
 type: article
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "naE5PyvUdUadaRwfKXQNUA6CiztHXwPakHfzTP4aKfubqY+x/zHI4aw1eeh/p/bhHMqrEPCOgB727sLhhoF+llo1oHLYQy4KvRNlANVh31jdy4KElJs5SrKEJPjwFK+vVxcaUAOPOL/7JPB4+lJnCcPdmrbH5MLK8UgO6CPeyOdPMNMtUiHZfmKXmRx3/Jxkb5j1ciwz0vo3j1DSCsaCL0EJ0RKo+sE/ie8AWYCRoTGkFplxXIXU5klVkwsWV1Lz2bfxukkEAVGY1R/RmI/XhHFZCNRHCsnx/Ljb4+vSG3Wr1AD4C9fxT9w65re0cRlHsaOJAPKclJIkIoAizpulBHbGaIh+BCGAGgQSygibh0hwMnbUM+HX2OD/r/c/FzOcYpQ+0kFwLmwa3RmCDSsZ1ncI2nDrv9o3aHc3q4ZJL4LQVeWpasNYM9am1Scu2yqD2mtvf46WGtNFda9oEZ4pA0CgMsaEFVjicez4NqGlagWQisL0AiFF8Wuu/RKzbqfJVzGy1uNaXo5cRusjOA0eOw==;yYv7iLKk2Wlnlr+bERa8EA=="
+secured: "W9Azye3pS69pNtxPJeivAtGUlAl52QIuqtb9S9kCNgd+1M7SWNkfxnZWYevdpLlZLQISye9wRem/RpDWHMkdm+9G9WMfPUURto3yeW4MG9WaUZ4Unl5PRDYM3yRWMZIDWuSawZ4O3qFkLkJqQx6WNEpnNEtrntlKHaP6PTYlbPrSJas+88CkH0ILrRhPcbTrsJl6wqmvlK8yYxWGDaHq8O3norVTItVvOcJkAQZrMbPymSRZ0/emKFYY4OKBCli8MIaWrcjJr3ixkiHBnEGS5fzHLddgTztdCX9hq5S2cyfGvmkBRB6rIi5gIHeX/kPSdSZ/CmKWck7XWWeidibE8VrrtR3XeXNnA8Y3d476ecbhKTWuTM1lsjvvO2sZQz3gzCw6Nk2YfaqyT5TupOgS/n9LW5bFSy3a5gnidbTjGx1f7479WZm2O8MBaXRVr1xoDY7W8Usb2Y8XFwOXLhzyFcW8bL/B27TRF66BhO6vx0dhu36aTkT8x+OcIwPHMcsELOUim9O3um/NXMgyV2sdig==;q7D6KL+pwWaDp5Q9YeT07g=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Baidu rolls out paid driverless taxi service in Beijing"
+    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ..."
+    publishedDateTime: 2021-05-02T13:15:00Z
+    webUrl: "https://www.clickorlando.com/business/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/"
+    ampWebUrl: "https://www.clickorlando.com/business/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/business/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/?outputType=amp"
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/WMXRBGYDIJCRTPWB3H64POBTJA.jpg"
+        width: 5000
+        height: 3333
+        isCached: true
   - title: "Baidu launches China’s first self-driving taxi service"
     excerpt: "These taxis have been named Apollo ‘robotaxis’ and around 10 of them have been deployed in an area of 3 square kilometers around Shougang Park in western Beijing. * Each Apollo robotaxi ride costs about 30 yuan (Rs."
     publishedDateTime: 2021-05-03T13:11:00Z

@@ -21,35 +21,21 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "New AI Tool Offers Subtitling and Dubbing Alternative"
-    excerpt: "The system, from the U.K.’s Flawless, is designed to create lip-synced versions of movies and other content in multiple languages."
-    publishedDateTime: 2021-05-04T14:41:00Z
-    webUrl: "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/#!"
-    ampWebUrl: "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/amp/"
-    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/amp/"
+  - title: "Machine-learning text adventure AI Dungeon is now being censored and users are furious"
+    excerpt: "When Nick Walton created AI Dungeon 2 two years ago, he had no idea that it would take off as it did. Within days of launching"
+    publishedDateTime: 2021-05-05T20:37:00Z
+    webUrl: "https://www.techspot.com/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html"
     type: article
     provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 59
+      name: TechSpot
+      domain: techspot.com
+    quality: 81
     images:
-      - url: "https://www.hollywoodreporter.com/wp-content/uploads/2021/05/MSDFEGO_EC005-1620027677.jpeg?w=1024"
-        width: 1024
-        height: 577
-        isCached: true
-  - title: "New AI Tool Offers Subtitling and Dubbing Alternative"
-    excerpt: "The system, from the U.K.’s Flawless, is designed to create lip-synced versions of movies and other content in multiple languages."
-    publishedDateTime: 2021-05-04T21:41:00Z
-    webUrl: "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 39
-    images:
-      - url: "https://www.hollywoodreporter.com/wp-content/uploads/2021/05/MSDFEGO_EC005-1620027677.jpeg?w=1024"
-        width: 1024
-        height: 577
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-05-image-31.jpg"
+        width: 2560
+        height: 1300
         isCached: true
 
 secured: "4PkkbuuicUcBTZ1EWGkEY0dgNc0lDmLfRrWWwuzQm2hwQdBgCxnOz7iBuJQXhGGhpJ3lpODoOCzuJiv/NXVFXyFBszrwiqpXHe6O+59XgkWZ1CGpyHMdL2fsOKDchvoCITIqrN6ANKDKVomWivZNyUZ071bF7R1m5hnkTq/f8siDEmNFmXnejGZk2T+qlo5wh2pxIEUsWCTH9Mdc7UepcDi8iNer30zcct6byx9tmhxy2xRTK8fcpYC9g6U5k2UWIMd9HYUCz2EoNje05nW1FUa8FCJigq+ZmjM4LMKcNpzyrxaFB54eXs5E/dB7qxX4XzGKq9zM30Xc1G6wHdDDy6PHIjbEP6d/Gt65gC9+nxJ+8e1xQ8mXTgsG+fYurEs+ty7En6v0mLmSW5SVkLtIpb/M+eVCkPZ/J1+KmAuInNA+E8wuuYmEZGBGJNnXA7E0Uu05BfN7jlYxPUcoDvAACTz9Ob7Wqngs/AEg0nyd1IpyH3T+DAS/NDoIAoqtahSyVnp3scX/h/I+zvF+iNLlDw==;hEdeG8+F86DLCUbK3eZcKg=="

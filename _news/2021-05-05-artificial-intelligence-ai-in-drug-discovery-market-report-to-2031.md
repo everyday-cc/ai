@@ -59,20 +59,6 @@ related:
         width: 790
         height: 466
         isCached: true
-  - title: "Gaming the system – Artificial Intelligence (AI) Hackers"
-    excerpt: "THE formal definition of a hack is something that a system allows, but that is unintended and unanticipated by the systems designers. Note the details – hacking is not cheating per se. It’s following the rules,"
-    publishedDateTime: 2021-05-01T03:36:00Z
-    webUrl: "https://www.fijitimes.com/gaming-the-system-artificial-intelligence-ai-hackers/"
-    type: article
-    provider:
-      name: Fiji Times
-      domain: fijitimes.com
-    quality: 52
-    images:
-      - url: "https://www.fijitimes.com/wp-content/uploads/2021/05/GettyImages-1194430863_1170x878.jpg"
-        width: 846
-        height: 635
-        isCached: true
 
 secured: "Rt2KXUZBi+cB6aP7z5pM6dQxNV/oA67YaZwYib/brNDhLDx4RTdfiG7sei+EQObXJ8H4cbSZBJqT4qGBEC+OwBFbtFfEERlZ+qM2rND/S4KMhzXPNpGFVKlbkB4T7hq6HIzdG7LUzOOZYHkT650hNPsb2oBwhhA3qwvUKvBCnlL+aAInNLCrFAgnrvsVuxm5THm+ZozZmztOsT5arpOgWJ2T/pItW+nZW49DKs7ZrNMN+rQ5z8NlohyW+bumrXrduXD/9S4ihfVv/Udby1ljS7dy4FgpwXdmo2Ug8+R2dl1etNv6L/st0Zkn4Y+nWUKiqlnEXe47Ryyyy/kVQUSyHqd2PSqMv8vcTERRcR6u5PIaWMZAmedM0Ey1bSWpyb8ncm75MOCDKsbYcinVJN/RoaliOhNL5MVY0/7hnXeGUIRCn+uSXBV/FRjUA0h+bWZINkEyY63GWS6ory6nDKA8B0nNK/jbjMClyDiEOEUBbs8GjLPS4jqVOl/sQc5k8Ob5SHsaKbrBUz3DjETgNg4Z1g==;eZl08PXkQ45xt1hkjyf9iQ=="
 ---
