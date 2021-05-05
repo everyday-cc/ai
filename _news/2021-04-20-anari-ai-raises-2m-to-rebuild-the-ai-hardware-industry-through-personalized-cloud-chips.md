@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Anari AI Raises $2M to Rebuild the AI Hardware Industry Through Personalized Cloud Chips"
-excerpt: "Anari AI, an AI chip factory in the cloud, today announced it has raised $2 million in seed funding led by Earlybird, with participation from Acequia Capital, Serbian Entrepreneurs, and Eric Ries, author and founder of The Lean Startup. The new funding ..."
-publishedDateTime: 2021-04-20T12:40:00Z
-originalUrl: "https://www.thedailytimes.com/business/anari-ai-raises-2m-to-rebuild-the-ai-hardware-industry-through-personalized-cloud-chips/article_174b4dd3-a41c-54c7-8c87-c2856f75fd47.html"
-webUrl: "https://www.thedailytimes.com/business/anari-ai-raises-2m-to-rebuild-the-ai-hardware-industry-through-personalized-cloud-chips/article_174b4dd3-a41c-54c7-8c87-c2856f75fd47.html"
+excerpt: "Anari AI raised $2 million in seed funding led by Earlybird VC, to rebuild the AI hardware industry from scratch."
+publishedDateTime: 2021-04-20T11:59:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210420005700/en/Anari-AI-Raises-2M-to-Rebuild-the-AI-Hardware-Industry-Through-Personalized-Cloud-Chips"
+webUrl: "https://www.businesswire.com/news/home/20210420005700/en/Anari-AI-Raises-2M-to-Rebuild-the-AI-Hardware-Industry-Through-Personalized-Cloud-Chips"
 type: article
 
 provider:
-  name: thedailytimes.com
-  domain: thedailytimes.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/6/bd/6bd55c4a-e4c3-5b22-9be1-08b5a436aaed/607ec30381710.image.jpg?crop=1858%2C1045%2C62%2C0&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
-    height: 630
-    isCached: true
-
-secured: "+ZZpE/A9bBr7Lc0ogUQtEUj1pDzQ8Qa9uui4DXzuuJvSC10OWrfZ0AtLrpP3raw4AAwtC9avlFrmycRHn237LkzF3NG84ZT3wUBULMnndjZg6Rg/sEe5pDO9jb77aKxP/0nCYlggiKSXsEBeMc13z36KyZjadHZzj17GiEumXZZSonkOge2u+kCdJZI3h/UmH8xixLszBX3ps+pvaXS1anmrX4KlR3p153VrWneTk1Wdk6svHHVsAQQT2oimYVwcl4njvlhp2IGn85m6RHQrR0zPrmUJ1N8njtoIDUHI+Kj91cM58E5p9P7402l5Aa9TgSafxn+Q13tUHBsW6fsM9dRxrumJoXZZdWAXtK3VA4s=;VDbTRcqhDwwAA+MifjLP5A=="
+secured: "Vc+Obck+/69hh3unct4x/j451xNEAvYhopzxWRLw7prtyhyB6toVjajJc1uVYYHKo1FPQ8rbtIxt8/ghOXTRSfdm/SrQQUwXo4WkyFxzWUUQkQ5r0b1Fs7LbkuOnH5uilVheVPoN0LEOQO5sfKsjA+4s6n6IAGG30qpijIN/ZtWkB4RkNUO140wyCdAJ4IcHy76Bl5TJCw3CUhJuQQkYcvVmiKiVSx4BUB6TkAf2bWcNhWAw/hx1m9ayY7Sh4pSDdaphL3Rcr6WWCneP6juTB3m6e6ILktdF/iAiD1hXgN+/gQSdMqMezb/O3HdO5amwzXJPvxVKNzB7N2eN/AkGUt4dI+eSZw8FMMzIRF5D8/ONGW6a8VaapKjZa9FgE5Ki7mrhqVQS25UM08XubaYw7/zGPTtFIqngNXbtxMaYcmkfuP7qL2edCbPOwjuPOYCr5/dhOd6RTiZp+XPC7r2ebx1TKCkNqgtSSxjUsv8edFxZssgmZa9Vhj2N/4V1McxVlqa7a4uxv4ciDbI4UN6M+Q==;E9x0WHf/9cBVzfc5u2gMpg=="
 ---
 

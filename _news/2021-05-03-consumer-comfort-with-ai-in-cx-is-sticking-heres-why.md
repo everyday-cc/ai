@@ -56,20 +56,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "What the Arrival of AI Hardware Means for Your Data Center"
-    excerpt: "Nvidia DGX systems – essentially AI supercomputers – are large, powerful, and gold colored. People that would have to support them in their data centers were worried about the hardware’s power density and intimidated by the presence of InfiniBand (an interconnect technology from the supercomputer world)."
-    publishedDateTime: 2021-04-30T13:32:00Z
-    webUrl: "https://www.datacenterknowledge.com/machine-learning/what-arrival-ai-hardware-means-your-data-center"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 37
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/nvidia%20dgx-2%20gpu%20view_0_0.jpg"
-        width: 5333
-        height: 3000
-        isCached: true
 
 secured: "K78IHxXt476sqFrInum6qdHS44Zzdw7SZMYPIpPjfkb+OMZX0LnNrMcVDdr8r5JijvgaVaWNlmBcHgmxmh42Lo1tHztz5+xK+eiNwyL73KSKMGg00RdcOwaIfO31SaanAQcpC/0KudwjX/5qM8+f8qNZPFdxg8qvDWFo5RYyYkniWxhyfH3bLyYVuYqlDTS2RyRN33yODX6l+g302iiFKUYNC7mi2QsFoCnkO0bXCSJ4VRuVGQB7iQVTvN4szs6lotZgCtp1+Mbhzy3ozrGHkZZBwCXbkkXui4hugmjzMzkCP/DBthMo3iNqeeeXAVfV6mqQlG3ibpRqi5neIMi4EqyUwrwbM4x/jSpl6cAU8Pc=;thkksYLF+3Pi46eJ95H+JQ=="
 ---

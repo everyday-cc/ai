@@ -50,6 +50,20 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Facebook AI announces two breakthroughs related to computer vision and supervised learning"
+    excerpt: "Facebook AI announcedat the end of last week two discoveries considered as major in artificial intelligence and computer vision. These models are the result of a collaboration with Inria and several academic institutions."
+    publishedDateTime: 2021-05-03T10:42:00Z
+    webUrl: "https://www.actuia.com/english/facebook-ai-announces-two-breakthroughs-related-to-computer-vision-and-supervised-learning/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 46
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/04/segmentation.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Kanverse.ai Introduces Next-Generation Cognitive Automation Platform and Launches Intelligent Document Processing Product (IDP)"
     excerpt: "Kanverse.ai, a cognitive automation company, has announced the global launch of the Datolite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Kanverse IDP is built on Kanverse Cognitive Automation platform."
     publishedDateTime: 2021-05-04T08:30:00Z

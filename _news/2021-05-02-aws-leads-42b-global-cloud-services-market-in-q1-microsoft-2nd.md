@@ -54,22 +54,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "MYCOM OSI’s Assurance Cloud Service launches on Microsoft Azure"
-    excerpt: "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs), today announced the launch of its Assurance Cloud Service™ (ACS) on Microsoft Azure."
-    publishedDateTime: 2021-04-30T13:54:00Z
-    webUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/"
-    ampWebUrl: "https://www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/mycom-osi-s-assurance-cloud-service-launches-on-microsoft-azure-41394/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 74
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "WcAFvAK1BUxAMix5OZh5aoRKj7Akn5mZSKnh/czmsfahhY24cKWlMFF+6VzVbquVTIMzH1Gg9IZCMaHqSJUBksbbPthIIpMLg0F6viFFpOKAnViKQ4guy6ZWIabw0D/AEU0oyuOIVWxO+5r9X7xuynpHsaCrNQIAaD9aIstS9YYR79RPZuj90MtFGaA0lnke9u+wwLSe1ZakBpZ4ofFZGbohF0WfbbUU1w6tKNLpAJu+XpQ2mY9IG5jkIIL9nN8TCu8Xk7oERsWBnCtCKl0T52Fkg5SV0VFOcWBbJNp4FyrdjgVZeCklhPV5AcmlS0FXsdsqdydakPJn1vL/ioYANFQGBEJl9OAzsUSKox+lm8s=;LawZDwmXdzixPBglXonwJw=="
 ---

@@ -72,15 +72,6 @@ related:
         width: 660
         height: 295
         isCached: true
-  - title: "Feature Engineering and Deep Learning for Stereo Matching Under Adverse Driving Conditions"
-    excerpt: "Stereo matching is a challenging research topic in driving assistance systems. Existing stereo matching methods work well under normal day-light conditions. However, they fail to operate under adverse driving conditions,"
-    publishedDateTime: 2021-04-30T15:01:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9417865"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 9
   - title: "Speech Emotion Recognition Considering Nonverbal Vocalization in Affective Conversations"
     excerpt: "In real-life communication, nonverbal vocalization such as laughter, cries or other emotion interjections, within an utterance play an important role for emotion expression. In previous studies, only few emotion recognition systems consider nonverbal vocalization,"
     publishedDateTime: 2021-05-04T01:05:00Z

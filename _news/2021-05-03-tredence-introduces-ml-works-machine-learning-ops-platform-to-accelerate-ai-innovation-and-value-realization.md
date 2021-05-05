@@ -7,7 +7,7 @@ originalUrl: "https://www.cioapplications.com/news/tredence-introduces-ml-works-
 webUrl: "https://www.cioapplications.com/news/tredence-introduces-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-nid-7609.html"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.sourcesecurity.com/img/virtual-events/612/computer-vision-920.jpg"
         width: 612
         height: 355
+        isCached: true
+  - title: "Facebook AI announces two breakthroughs related to computer vision and supervised learning"
+    excerpt: "Facebook AI announcedat the end of last week two discoveries considered as major in artificial intelligence and computer vision. These models are the result of a collaboration with Inria and several academic institutions."
+    publishedDateTime: 2021-05-03T10:42:00Z
+    webUrl: "https://www.actuia.com/english/facebook-ai-announces-two-breakthroughs-related-to-computer-vision-and-supervised-learning/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 46
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/04/segmentation.png"
+        width: 800
+        height: 400
         isCached: true
   - title: "Minerva Intelligence announces Webinar for its DRIVER AI Mining & Exploration software"
     excerpt: "CNW/ - Minerva Intelligence Inc. (TSXV: MVAI) (\"Minerva\" or \"the Company\"), an artificial intelligence company focused on knowledge engineering, is pleased to announce a new webinar on May 6, coinciding with the Company's launching of its state-of-the-art DRIVER software,"

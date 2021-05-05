@@ -26,21 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "Volkswagen Will Develop In-House Self-Driving Chip to Compete With Tesla, Apple"
-    excerpt: "Although Tesla’s expensive and strictly in-house developed autonomous driving software has a long way to go to actually achieve self-driving, its German rival Volkswagen is going down the same path to build its own driverless capabilities."
-    publishedDateTime: 2021-04-30T20:13:00Z
-    webUrl: "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/"
-    ampWebUrl: "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/"
+  - title: "Tesla’s Elon Musk on why self-driving cars are not mainstream yet"
+    excerpt: "Tesla CEO Elon Musk is giving a fresh update on his prediction for when self-driving cars will dominate the road."
+    publishedDateTime: 2021-04-30T16:57:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet"
+    ampWebUrl: "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet.amp"
     type: article
     provider:
-      name: Observer
-      domain: observer.com
-    quality: 72
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 74
     images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2021/04/GettyImages-1208585546.jpeg?quality=80&strip"
-        width: 6240
-        height: 4160
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/354b3471-ec18-4e0d-adf1-b9f9b9657488/c4e9132a-a8aa-4fdc-bdb0-496e44323a6b/1280x720/match/image.jpg?pubId=854081161001"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Gnarly Skateboarders Trying Dangerously To Hitch A Ride On Self-Driving Cars"
+    excerpt: "Skateboarders sometimes try to do bumper hitching, which is dangerous and should not be done, but the question is how will self-driving cars deal with those gnarly riders."
+    publishedDateTime: 2021-05-01T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b3cbc04d846306ea674dc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2275%26cropY1%3D0%26cropY2%3D1279"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Elon Musk says new Tesla self-driving update is ‘superhuman’ — here’s why"
+    excerpt: "Elon Musk has been taking up the upcoming debuts of the Tesla Full Self-Driving beta, claiming that the tech is “superhuman” when it comes to driving on highways and “swiftly getting there for city streets."
+    publishedDateTime: 2021-04-30T18:27:00Z
+    webUrl: "https://www.tomsguide.com/news/elon-musk-says-new-tesla-self-driving-update-is-superhuman-heres-why"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/elon-musk-says-new-tesla-self-driving-update-is-superhuman-heres-why"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/elon-musk-says-new-tesla-self-driving-update-is-superhuman-heres-why"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 58
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2wPjrnMvWcqe6ddLfVbevF-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "j2wnTcOJj+bdMVnKxlyG2ljs2niyFSr4nC8K0SaAFWYSWdXc2MyCU/O0iMt84b81Q+u8wqj3kdF1R9F8w1elQx4udQi+zlW2vSgAI542YX8+yfpm39gigzPnaIIzIBwAoqpsxsEIwGaPShjrsNhTpAbw6LFhAWORtW/LdPKqCfAqz+y5gRuUSBg6ANOpor/APZMscxmeqbEU3u+Kf0ubSexomzhbDRnVGlJGDalhzGVFPkD86ZPquL2GMleEx6OgxjpnPVKATCeqyY0h5njlaZAF95JrmNYPiAwalUrmVwQywxcVAUv5BnJ3Pe//7K5Y+G6uoQsckMZSFBttSUZvIG3QqaRy5uMa3kC2rl5mpLaDIgEpxI3XnZhObCHh2Wbgbi5zJMzsvb4WqSoXeCNYbUn8jFO6rPKbPMCdP52x2ub7ih7Sm/3Ili/oU7cYrXCVCCcNsvWqQvcbCZ4t3sigaRCsaSBLawaOPFLHEAXg7lyz2MXNahNYhns0iAm80RtVA9AgYjPAsOqDt6K5hCWoRw==;28rEEvlXeAK9Q+UPZFReVA=="

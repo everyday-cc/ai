@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tomsguide.com/amp/news/elon-musk-says-new-tesla-self-dri
 cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/elon-musk-says-new-tesla-self-driving-update-is-superhuman-heres-why"
 type: article
 quality: 58
-heat: 58
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,54 @@ images:
     width: 480
     height: 270
     isCached: true
+
+related:
+  - title: "Tesla’s Elon Musk on why self-driving cars are not mainstream yet"
+    excerpt: "Tesla CEO Elon Musk is giving a fresh update on his prediction for when self-driving cars will dominate the road."
+    publishedDateTime: 2021-04-30T16:57:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet"
+    ampWebUrl: "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 74
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/354b3471-ec18-4e0d-adf1-b9f9b9657488/c4e9132a-a8aa-4fdc-bdb0-496e44323a6b/1280x720/match/image.jpg?pubId=854081161001"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Gnarly Skateboarders Trying Dangerously To Hitch A Ride On Self-Driving Cars"
+    excerpt: "Skateboarders sometimes try to do bumper hitching, which is dangerous and should not be done, but the question is how will self-driving cars deal with those gnarly riders."
+    publishedDateTime: 2021-05-01T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b3cbc04d846306ea674dc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2275%26cropY1%3D0%26cropY2%3D1279"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VW plans to design own computer chips for self-driving cars, just like Tesla"
+    excerpt: "VW Group will only design its computer chips and then outsource production to an existing supplier, in the same way that Tesla outsources production of its chips to Samsung. The a"
+    publishedDateTime: 2021-05-03T12:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1132123_vw-plans-to-design-own-computer-chips-for-self-driving-cars-just-like-tesla"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 53
+    images:
+      - url: "https://images.hgmsites.net/hug/volkswagen-self-driving-car-prototype-testing-in-hamburg-germany--april-3-2019_100696985_h.jpg"
+        width: 1920
+        height: 1163
+        isCached: true
 
 secured: "t0BkSmGotUAMS348QcDPsJI/cyhMbB0E5GEqDPs3BrZEOemvY+n9PCumyd1sZHxu1Fru6INY/xrbVCHTxPqQwYODnWBqEzCccifSjjo+sUGQjhr3Atz+33DpMSWzdy7ReZ7HEjCW/7gzUVGdQa88kdZo9e61bX0lJKIb/I3aE/ur0RhaOsbf7C7mvtF5KWkf7gnqAzYJfxOh6a6cVTUtLKCs8xgKDuRCxSzHvfmPR1wzsDK4Ew8gdr3XleCkuODBHWv0owk3jal7opmUuKDWV/c82NmEKH05Nj7VPWftF+qry9Yxf58+F0ARFEN0hbRB0P22Ah6jSKCN9YeE//G4lV1FoTiFQW+1wKxnFxWBh0pjI9RDM+ejz67aL/aZzyTAejlmL26gU23qKhHZ4vQVozWJYA8HfKLYzj86KeCkqLl9+Ps3d1EQY3R6jt9DfzwSrT6sJxycVrzqCzoZSNhdzaz2uwyquWc1L4j+C4chs4SNntC6d0zRVbr186Rl/l/R2ZA0clBExOgT99kQkz8Kpw==;fKqtkjDStDUrtPS0d7f7zg=="
 ---

@@ -40,6 +40,22 @@ related:
         width: 683
         height: 419
         isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market"
+    excerpt: "Allied Market Research published a new report titled Artificial Intelligence in BFSI Market By Offerings Hardware Software and Services Solution Chatbots Fraud Detection Prevention Anti Money Laundering Customer Relationship Management Data Analytics Prediction and Others Technology Deep Learning Querying Method"
+    publishedDateTime: 2021-05-03T19:47:00Z
+    webUrl: "https://www.openpr.com/news/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 72
+    images:
+      - url: "https://cdn.openpr.com/U/5/U503568929_g.jpg"
+        width: 790
+        height: 466
+        isCached: true
 
 secured: "low/3XeO8Xeyb0d2GC5LduJRNAlQCnebayOqVpr/kX0iNTuiaBW+EMp4UTyaX2+L1mod1MpEbInnqufnCVcTUKBHNtOW72gAGxC1JfvqzY9XsFWLkGiEZqJdxz7rO9geTVfb/Vy9F/1I6DjpLIJs3faPMHfoOeTIRPiML3Uj0e5+QEopHJ5YVbd/uIDFzkhNIqv9n94HnH1KPaPcdTyGuvGE7+4yJXeCaGyF17JMHrnOnGYbq709TWDM8e73ojCYgwGclNmk1QHzvUTPT/0EVRk7DAkDcm+nDqmmPmZY8qR3WmijTr3OQhdq8GkESIDW6tmsX4THYGGf7t53BLGjuue8mlTR0QXI/a6d2SW4EtM=;UTCiUdN2Fzs0D55+ANMavA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2278458/artificial-intelligence-ai-in-dru
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in BFSI Market"
+    excerpt: "Allied Market Research published a new report titled Artificial Intelligence in BFSI Market By Offerings Hardware Software and Services Solution Chatbots Fraud Detection Prevention Anti Money Laundering Customer Relationship Management Data Analytics Prediction and Others Technology Deep Learning Querying Method"
+    publishedDateTime: 2021-05-03T19:47:00Z
+    webUrl: "https://www.openpr.com/news/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 72
+    images:
+      - url: "https://cdn.openpr.com/U/5/U503568929_g.jpg"
+        width: 790
+        height: 466
+        isCached: true
   - title: "Gaming the system – Artificial Intelligence (AI) Hackers"
     excerpt: "THE formal definition of a hack is something that a system allows, but that is unintended and unanticipated by the systems designers. Note the details – hacking is not cheating per se. It’s following the rules,"
     publishedDateTime: 2021-05-01T03:36:00Z

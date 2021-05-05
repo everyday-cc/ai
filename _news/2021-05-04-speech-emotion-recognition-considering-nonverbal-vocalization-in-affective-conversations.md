@@ -72,15 +72,6 @@ related:
         width: 660
         height: 295
         isCached: true
-  - title: "Feature Engineering and Deep Learning for Stereo Matching Under Adverse Driving Conditions"
-    excerpt: "Stereo matching is a challenging research topic in driving assistance systems. Existing stereo matching methods work well under normal day-light conditions. However, they fail to operate under adverse driving conditions,"
-    publishedDateTime: 2021-04-30T15:01:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9417865"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 9
   - title: "Pay Attention to Evolution: Time Series Forecasting with Deep Graph-Evolution Learning"
     excerpt: "Time-series forecasting is one of the most active research topics in artificial intelligence. A still open gap in that literature is that statistical and ensemble learning approaches systematically present lower predictive performance than deep learning methods."
     publishedDateTime: 2021-05-04T16:11:00Z

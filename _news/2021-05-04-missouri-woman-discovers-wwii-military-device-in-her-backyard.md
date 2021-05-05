@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/us/wwii-style-mortar-found-in-mis
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/us/wwii-style-mortar-found-in-missouri-yard-trd/index.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Bombshell discovery: Missouri couple finds World War II-era Japanese mortar in yard"
+    excerpt: "A Missouri woman gardening in her backyard made an explosive discovery on Saturday. Fortunately, the bomb didn’t go off."
+    publishedDateTime: 2021-05-05T02:59:00Z
+    webUrl: "https://www.wsoctv.com/news/trending/bombshell-discovery-missouri-couple-finds-world-war-ii-era-japanese-mortar-yard/YPKUGSD6PNHODHKHQEPDUBDR6M/"
+    ampWebUrl: "https://www.wsoctv.com/news/trending/bombshell-discovery-missouri-couple-finds-world-war-ii-era-japanese-mortar-yard/YPKUGSD6PNHODHKHQEPDUBDR6M/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/trending/bombshell-discovery-missouri-couple-finds-world-war-ii-era-japanese-mortar-yard/YPKUGSD6PNHODHKHQEPDUBDR6M/?outputType=amp"
+    type: article
+    provider:
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 38
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/OFEEWPMPQVEDLJW6I235S36MUU.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ThmkiNMp29dZc13nvFkiCI5FgfM/cTmX0C4NhCwILRTTwh6yCrzxemiL4qOXrpaSzEJ9gPBGc64csrGOIERDIj7pu6T8NBrRcIo0pW13RIP8aCGWHAMrF+OegqJrjC/dF0o9YHaESRyPKBfHwPq7Ze/uJCeaCxSw5JO61NlGRZRtAAgmPrgH5vSAPJgDAJmKWI++GsLpe+pRWXpVMtjK3GK6BfeMyTjXsWdgyF7FEinb9Uy+e9+g9XPvJZMBaNwzOxo6tNeEdl5LvbbSg7BjIp1Aa2HrHkZDW/974gDAOsdTnu7JAxRjOrrnvuMDfQZkC0WDPQuhJ8PwONZyXQMEBqsB+H2oRbWbpq8Nm2tFnleL6TiDJ47sEvCYc0HA/Td4GSz4DID7zmYv+zPbApLBXZU3hqK9rsqeW1dnQcO4M/4VdJressJwxS7Qx2Ta3MxjpfxhMN234K+mTyjiPRMEZ2bGNaY+QCPLX33sdXef2qPFKTaLEgxp1Y/GZlNFTq52Y2ENgL+ZWJ9rrTWDDFMW+Q==;G2jNie1ZQkA+a6Uk0hWV2w=="
 ---

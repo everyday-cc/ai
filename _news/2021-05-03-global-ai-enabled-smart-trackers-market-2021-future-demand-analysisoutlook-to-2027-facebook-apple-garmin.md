@@ -25,105 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook details self-supervised AI that can segment images and videos"
-    excerpt: "Facebook's DINO, an AI system, can train a model to segment an image or video without training on a labeled dataset."
-    publishedDateTime: 2021-04-30T14:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/"
-    ampWebUrl: "https://venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/amp/"
+  - title: "Machine Learning Artificial Intelligence Market Impact and Recovery Analysis Report Anki, CloudMinds, Deepmind, Google, Facebook"
+    excerpt: "The technology uses machine learning and deep learning tools to offer related results to the users. These tools such as recommendation engines, search algorithms, and adtech neural networks exploit sensitive data of the user."
+    publishedDateTime: 2021-05-04T02:43:00Z
+    webUrl: "https://ksusentinel.com/2021/05/04/machine-learning-artificial-intelligence-market-impact-and-recovery-analysis-report-anki-cloudminds-deepmind-google-facebook/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 50
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-4-25-780x470.png"
+        width: 780
+        height: 470
         isCached: true
-  - title: "Facebook’s DINO enables self-supervised learning for computer vision AI"
-    excerpt: "Facebook Inc.’s artificial intelligence research team today announced more breakthroughs, this time in the areas of self-supervised learning and semi. Self-supervised learning in AI, also known as unsupervised learning,"
-    publishedDateTime: 2021-04-30T14:00:00Z
-    webUrl: "https://siliconangle.com/2021/04/30/facebooks-dino-enables-self-supervised-learning-computer-vision-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/bxSlslyg.jpeg"
-        width: 1848
-        height: 1112
-        isCached: true
-  - title: "Facebook AI announces two breakthroughs related to computer vision and supervised learning"
-    excerpt: "Facebook AI announcedat the end of last week two discoveries considered as major in artificial intelligence and computer vision. These models are the result of a collaboration with Inria and several academic institutions."
-    publishedDateTime: 2021-05-03T10:42:00Z
-    webUrl: "https://www.actuia.com/english/facebook-ai-announces-two-breakthroughs-related-to-computer-vision-and-supervised-learning/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 46
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/04/segmentation.png"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Give Facebook Data Access or Pay"
-    excerpt: "Apple iOS 14.5 requires all apps to ask for permission before data is shared. Facebook and Instagram have notices that if you do not share your data with them"
-    publishedDateTime: 2021-05-04T16:51:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/05/give-facebook-data-access-or-pay.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/05/give-facebook-data-access-or-pay.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/05/give-facebook-data-access-or-pay.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 44
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/05/givedataorpayFB.jpeg"
-        width: 587
-        height: 532
-        isCached: true
-  - title: "The chilling grip of Facebook’s invisible hand"
-    excerpt: "Big Tech cannot be a neutral arbiter of what political speech is acceptable or not acceptable. But private companies like Facebook are using their growing, terrifying, and largely unchecked power to determine who gets to speak and who gets to be heard."
-    publishedDateTime: 2021-05-03T19:43:00Z
-    webUrl: "https://therealnews.com/the-chilling-grip-of-facebooks-invisible-hand"
-    ampWebUrl: "https://therealnews.com/the-chilling-grip-of-facebooks-invisible-hand"
-    cdnAmpWebUrl: "https://therealnews-com.cdn.ampproject.org/c/s/therealnews.com/the-chilling-grip-of-facebooks-invisible-hand"
-    type: article
-    provider:
-      name: The Real News Network
-      domain: therealnews.com
-    quality: 44
-    images:
-      - url: "https://therealnews.com/wp-content/uploads/2021/05/Untitled-design-6.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Facebook Announces ZionEX Platform for Training AI Models with 12 Trillion Parameters"
-    excerpt: "A team of scientists at Facebook AI Research (FAIR) announced a system for training deep-learning recommendation models (DLRM) using PyTorch on a custom-built AI hardware platform, ZionEX. Using this system,"
-    publishedDateTime: 2021-05-04T13:05:00Z
-    webUrl: "https://www.infoq.com/news/2021/05/facebook-zionex-training/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 34
-    images:
-      - url: "https://res.infoq.com/news/2021/05/facebook-zionex-training/en/headerimage/facebook-zionex-training-header-1619958418824.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facebook reimagines self-supervised learning in Computer vision AI with DINO"
-    excerpt: "Facebook makes a breakthrough in self-supervised learning method with DINO and semi-supervised learning method with PAWS."
-    publishedDateTime: 2021-05-02T09:21:00Z
-    webUrl: "https://techstory.in/facebook-reimagines-self-supervised-learning-in-computer-vision-ai-with-dino/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 33
 
 secured: "G70zK41PKamj/xSS6TzbE1ZtQ4JBJnkoXVvCRd+aC7FXY/IrQiF9ywJS7606fa8WAdiVNx13GRz6XLoOaHqN4rxq/pL8k2kwcVH/i5wN8iumnGyR6iv8d6STOGIiIqHf8BXezRmQXd6jFA387CkmqUDwXJWKIwhqtzFuA0+pO8o2jx+i+G+bxgEGJDHy98LhIczc1A5Vh3HiM6NqMLIkCAdKAH2CytDuDIUYDQsX9MCO518DWpRu5Q1CemwirGjajLdH7fS/I7uREW9IR2gli+APnq56f3PUXi0S5Jh06OhlP161jOQzRDkUPRroDAHGsisi8jD1DX+a4uNJy1Mo2ESI0daSsZG+9OCH5ML9/agTb420Pcgh2Kn/cZDLQ90ZMjrbGWbShMwwa19N5Wu7eXohRCMU9cJNMezuBbb9f/YfhpAIeeO7TwbCdctFyPCrAWOg4gn66ED/RNLrfpHJI/kmA0p6HgMvedCT6enTkXJWmUQmF4gcA1OCmfefMRc4sK1MWeDDg3GdcNVLbfyJcg==;qEQULW70J+6IEiiw0BdJeg=="
 ---
