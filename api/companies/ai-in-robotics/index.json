@@ -23,7 +23,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 80741
+        "followers": 80749
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -82,7 +82,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 71359
+        "followers": 71363
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -142,7 +142,7 @@
       "twitter": {
         "username": "SkydioHQ",
         "url": "https://twitter.com/SkydioHQ",
-        "followers": 11128
+        "followers": 11125
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -359,7 +359,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 40376
+        "followers": 40374
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -1300,11 +1300,6 @@
       "crunchbase": {
         "url": "https://www.crunchbase.com/organization/bright-machines"
       },
-      "twitter": {
-        "username": "bright_machines",
-        "url": "https://twitter.com/bright_machines",
-        "followers": 716
-      },
       "size": "201-500 employees",
       "yearFounded": 2018,
       "locations": [
@@ -1634,7 +1629,7 @@
       "twitter": {
         "username": "StarshipRobots",
         "url": "https://twitter.com/StarshipRobots",
-        "followers": 10446
+        "followers": 10448
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
