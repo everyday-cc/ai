@@ -15,12 +15,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
-    isCached: true
-
-secured: "iQrrkcc9kqShAxaoYqscFMNaeM8JoeCYNsLwedrGCnGHS7PLBmPz3LdmFRf0qJWLPj91bYXDaJqPFLj5Yk5Zblw5uNGgOPmuJe3Cu83QBf4WKotu8qhoPDsTtyPijp57QyBR4b67yqZ+7edqBt6jU5lxLT/Lq4xIObpFBodKE1/5D9sb8gS6bEt6AxNOfRbxsD+uv+6rGYf1av1Mu/h1Q6gGrZBM7HH/3GHeQCFrBaTbeFhgQZY6vm3zemBCMWZKlJP0m17Xt/LLPN6YWyHlbcZRaQ3dGMZKzhw1EX86wiYoioGughbyRMLMa+Liyu4Y4/hEcj/uwSFv04ykfhPXY0xvYn10x1YjMmyNarbszZg=;L8t49Nau1OdBX+vDqlFMDw=="
+secured: "fFk4PfgmGtLv8kVOIDZmsYtBHcj3jOvaZ43cORDC6+xEs97isehxRJswNEAa073rgZWtUq77SKqSvM42D2oNDKsg+fiOajm/q+sKu61Kt4LwEO1GzpgpbhFjNGtUVsJOYhYysWReYk/CSE/exZZ/a1uLq0YkufT224ChVr1JAxGalHDzh4Sr+7oPyqhOzvtJXeL/+2lA1pLZAXXSLrYxIyAvr91UvKPMt2rkvkWrIqnUTUxQe4NMqq+TzrgfqKZDoyqUHoo2HReBZBmtwNCtCZwPnUGZAOyteqrrSzCG/3ROPZxVRl/ZAIj45nz4GPoCBhSZwXnr89qXwrwt25zHDbK6/672HcgyVEQmQeF6OUE=;DTcd7D5DmY6RZ9UZoxM9GQ=="
 ---
 

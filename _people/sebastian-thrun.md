@@ -21,7 +21,7 @@ website: https://t.co/rlrjbh9s51
 twitter:
   username: SebastianThrun
   url: https://twitter.com/SebastianThrun
-  followers: 77218
+  followers: 77217
 
 googleScholar:
   url: https://scholar.google.com/citations?user=7K34d7cAAAAJ
@@ -41,6 +41,6 @@ images:
     isCached: true
     title: "Sebastian Thrun"
 
-secured: "3Xs57RmJZozqwwjSiM3OniEnsFqSHpSFkPPOv/Z1lo7x7tTk9AsDxxAvauYPrnxNVds2SfAqFCQSE+rrEAsdwauXsqZmVAUZrk0bgf+fTbbFdOc7H5yVbqQmRNvO7xI075vdKnR+SZIN+BK/l5U6hvICLE3mJq/gxHha1Hlxv8kTduFTQNvsozC2VaNunU1ITrRsr9GpywybWSPLCLVQk/dRfNbdo1bo6/VR3h+MADog5r9Q/2cvjmCqpggDb0va4wOhz2SzS+C4AaHxfaTQRea+CTu6r/kld5Ds3ocq1KsX/mcJ57ssJngkZ7AKXjG1zvza4XaDdq8bYcenbnWKhXSeCD5uSuyN/OI4xPfQljqhkiUG8/i2Nt5hio9FLo6Mi0wal0UvmMRRFrZ8s2k6GiW++KrygXym9DOiIoxJL4o=;84M7u7L68S9wMhFAK2CNVw=="
+secured: "BGTHdkXkzZWXh2JVe9+bb1V5D7xJGGJ3IjzL2Zu+FXmQsutkb3IenhJdehqgkcUnplzHMIWMdpXJX4ZhOislfPIt95bBIR2evSq73X7PDV20mKCHqN+IguVHIlMMrJ9dPHNzUSDBE4N9kui6+ouIDTJ//vQxQhrTQu5mv3THTZYqg4OUtE2IZUrx3QjwlT/r4Z004+CpO4/RyehwDgtjdYQiSntGgMwuwNdWSx30j3H1b2JtGENLX0Vu3e+kwsokmpnT8ZpIC8jHj/Xp2sKcTGLhtVGzyZAqdmP9YSiStJxB7E8L7KwilWJC6XXt3sG6bFGUOhhIpBZQq/JOu+f2xmHJ7QZ+sAPb4BmcY4M9n8XWDPLQ1ke/fJxQdzLcHrAcoKg5ANq/QS6E0+4FaqYEe/Q8yvh0zWwKZ8Z/ENqMz8s=;vYhEdu04WqdMHaokkzqO4w=="
 ---
 
