@@ -24,6 +24,17 @@ images:
     height: 512
     isCached: true
 
+related:
+  - title: "IBM – The ‘AI effect’ headlines IBM Think 2021 as enterprises emerge from coronaconomy"
+    excerpt: "After the success of its game show win, IBM doubled down on expanding Watson’s intelligent capabilities to benefit business and humanity.   “I am truly inspired by our ability to apply science and technology to solve real-world problems,"
+    publishedDateTime: 2021-05-05T20:26:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_ibm/ibm-the-ai-effect-headlines-ibm-think-2021-as-enterprises-emerge-from-coronaconomy/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 11
+
 secured: "TwrbAf50w9GJrnuksaskOPFG5vn9uBjFEwrxsOeD/NSeR65xPHPbdcySKgTAWyHAQq6Pxyu7WJonCC0EiaCob6W79ELq2PNodYtceDpLkpJwawyPInMoFsleOBdrH2vYnJdihGpnZMFeZsnft8Vw6CA/Yuc1ZEVK3/jQ/ULFRMbGAn52J0u4+63IYPtQ3gC+TTnnFVlLERm0rTU0pEkgHQk8UXQPNbOAtds7sMDW/St+VkpEsxsWMRFhOuUSAvLNNRCvwdqN6mGhD2u/NzyxdDUjA7Ly/xOW2Hxgdmq+FRbXXDn09/zk1+TUOZTWgfIe3YKRSRf3/FD2igE7ZH0CtDJDAeScvlkxJGL5tOnu3bmbA1E1CDGlOoq5tvQY/QqLO0lZl7+JTQjv+/H+n9w2jB865vXV0/gCxC/j7aTbaLw74cpqL6q3IXZTKyBWMmB/cIvHZPhYopAHPftwOVv2etRU8MDWTjX1TiyQxI+AqR/Xw+lIN1GB1S3aMup7QJNXWJYfxquHgwWfozARg+jpKw==;nNOZ7ym7+Z6vqs0EmVZHFA=="
 ---
 

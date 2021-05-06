@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-04-intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales.md",
+      "title": "Intel Shows Us a Way to Use Artificial Intelligence to Boost Sales",
+      "excerpt": "The post-Covid world has seen a major surge in digitalization of businesses as well as use of AI. This has created greater demand for upgradation and automation of the sales sphere. Intel’s effort at embracing automation of the sales process is something to watch out for at this juncture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/",
+      "originalUrl": "https://www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Artificial-Intelligence-1.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/?amp",
+      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/?amp",
+      "publishedDateTime": "2021-05-03T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-undercooked-fast-food-burgers-are-toast-with-robot-ai.md",
       "title": "Undercooked fast food burgers are toast with robot AI",
       "excerpt": "The company that invented the robotic fry cook has a new standalone AI for fast food restaurants. Here's why it's a smart play.",
@@ -1192,49 +1235,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-police-should-not-be-banned-from-using-facial-recognition-technology-says-uk-watchdog.md",
-      "title": "Police should not be banned from using facial recognition technology, says UK watchdog",
-      "excerpt": "Use of facial recognition by police should not be banned and instead left to the discretion of law enforcement rather than lawmakers, the UK’s new biometrics watchdog has said. Fraser Sampson, the newly appointed commissioner whose job it is to scrutinise how police and other authorities deploy biometrics and surveillance cameras on the public,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
-      "originalUrl": "https://www.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e1a06a9-7196-40d3-9855-7cf75aa5fa8b.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92",
-      "publishedDateTime": "2021-05-02T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

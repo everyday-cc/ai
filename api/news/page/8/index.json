@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-29-cloud-storage-startup-wasabi-nabs-112m-plans-new-datacenters.md",
+      "title": "Cloud storage startup Wasabi nabs $112M, plans new datacenters",
+      "excerpt": "Cloud data storage company Wasabi today announced that it raised $112 million in series C financing, bringing its total raised to $219 million. The company says that the funding will be put toward expanding its network of resellers,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/29/cloud-storage-startup-wasabi-nabs-112m-plans-new-datacenters/",
+      "originalUrl": "https://venturebeat.com/2021/04/29/cloud-storage-startup-wasabi-nabs-112m-plans-new-datacenters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/0547ec33-b067-4aeb-b618-fe3d8377e738.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/29/cloud-storage-startup-wasabi-nabs-112m-plans-new-datacenters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/cloud-storage-startup-wasabi-nabs-112m-plans-new-datacenters/amp/",
+      "publishedDateTime": "2021-04-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-asml-riding-the-chip-wave.md",
       "title": "ASML: Riding The Chip Wave",
       "excerpt": "AI, IoT, 5G are driving a new wave for semiconductors. Chipmakers are spending billions to increase fab capacity in response to this structural uptrend in chip demand. A sizeable portion of that spending is expected to be on-chip equipment,",
@@ -1145,57 +1196,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-saas-provider-boostupai-nabs-6m-to-support-revenue-operations.md",
-      "title": "Saas provider BoostUp.ai nabs $6M to support revenue operations",
-      "excerpt": "BoostUp.ai picks up $6 million to further adoption of its revenue operations platform that unifies sales, marketing, and customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/BoostUp.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/saas-provider-boostup-ai-nabs-6m-to-support-revenue-operations/amp/",
-      "publishedDateTime": "2021-04-28T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

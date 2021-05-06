@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-06-training-privacy-key-to-artificial-intelligence-use-post-covid.md",
+      "title": "Training, Privacy Key to Artificial Intelligence Use Post-COVID",
+      "excerpt": "Artificial intelligence became a key public health tool during COVID-19, but its continued use will require increased training and privacy protections.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/training-privacy-key-to-artificial-intelligence-use-post-covid",
+      "originalUrl": "https://healthitanalytics.com/news/training-privacy-key-to-artificial-intelligence-use-post-covid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue.md",
+      "title": "How Genworth built a serverless ML pipeline on AWS using Amazon SageMaker and AWS Glue",
+      "excerpt": "This post is co-written with Liam Pearson, a Data Scientist at Genworth Mortgage Insurance Australia Limited. Genworth Mortgage Insurance Australia Limited is a leading provider of lenders mortgage insurance (LMI) in Australia; their shares are traded on Australian Stock Exchange as ASX: GMA. Genworth",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/23/1-2928-Architecture.jpg",
+          "width": 800,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T09:23:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round.md",
       "title": "Lightmatter’s photonic AI ambitions light up an $80M B round",
       "excerpt": "AI is fundamental to many products and services today, but its hunger for data and computing cycles is bottomless. Lightmatter plans to leapfrog Moore’s law with its ultra-fast photonic chips specialized for AI work,",
@@ -829,58 +926,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-05-automate-multi-modality-parallel-data-labeling-workflows-with-amazon-sagemaker-ground-truth-and-aws-step-functions.md",
-      "title": "Automate multi-modality, parallel data labeling workflows with Amazon SageMaker Ground Truth and AWS Step Functions",
-      "excerpt": "This is the first in a two-part series on the Amazon SageMaker Ground Truth hierarchical labeling workflow and dashboards. In Part 1, we look at creating multi-step labeling workflows for hierarchical label taxonomies using AWS Step Functions. In Part 2 (coming soon), we look at how to build dashboards",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-multi-modality-parallel-data-labeling-workflows-with-amazon-sagemaker-ground-truth-and-aws-step-functions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-multi-modality-parallel-data-labeling-workflows-with-amazon-sagemaker-ground-truth-and-aws-step-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/04/10-2563.jpg",
-          "width": 800,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T14:53:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-06-considerations-for-implementing-aiml-in-your-business.md",
       "title": "Considerations for Implementing AI/ML in Your Business",
       "excerpt": "Business technology changes constantly, and every solution we implement has a lifespan. You may have been a Microsoft shop for the past thirty years, but your company is not currently operating on Win",
@@ -1172,58 +1217,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages.md",
-      "title": "Speech recognition system trains on radio archive to learn Niger Congo languages",
-      "excerpt": "Researchers at Stanford and GNCode created a new dataset and model trained from radio archives of 'low-resource' African languages.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/05/speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages/",
-      "originalUrl": "https://venturebeat.com/2021/05/05/speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/05/speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/05/speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages/amp/",
-      "publishedDateTime": "2021-05-05T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

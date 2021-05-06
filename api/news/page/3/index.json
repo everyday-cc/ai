@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-05-zammo-unfurls-conversational-ai-integration-service.md",
+      "title": "Zammo unfurls conversational AI integration service",
+      "excerpt": "Zammo.ai launched a platform for integrating a diverse range of conversational AI technologies across a workflow.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/",
+      "originalUrl": "https://venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/Zammo-UI-Builder.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/amp/",
+      "publishedDateTime": "2021-05-04T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool.md",
       "title": "Microsoft open-sources Counterfit, an AI security risk assessment tool",
       "excerpt": "Microsoft's Counterfit toolkit aims to enable security teams to more easily test the robustness of AI systems both in and prior to production.",
@@ -1173,49 +1224,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales.md",
-      "title": "Intel Shows Us a Way to Use Artificial Intelligence to Boost Sales",
-      "excerpt": "The post-Covid world has seen a major surge in digitalization of businesses as well as use of AI. This has created greater demand for upgradation and automation of the sales sphere. Intel’s effort at embracing automation of the sales process is something to watch out for at this juncture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/",
-      "originalUrl": "https://www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Artificial-Intelligence-1.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/?amp",
-      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/?amp",
-      "publishedDateTime": "2021-05-03T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

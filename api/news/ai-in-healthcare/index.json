@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-06-training-privacy-key-to-artificial-intelligence-use-post-covid.md",
+      "title": "Training, Privacy Key to Artificial Intelligence Use Post-COVID",
+      "excerpt": "Artificial intelligence became a key public health tool during COVID-19, but its continued use will require increased training and privacy protections.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/training-privacy-key-to-artificial-intelligence-use-post-covid",
+      "originalUrl": "https://healthitanalytics.com/news/training-privacy-key-to-artificial-intelligence-use-post-covid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health.md",
       "title": "What We Can Learn From AI Healthcare Initiatives Like Watson Health",
       "excerpt": "Healthcare professionals aren't going to rely on AI as a decision-maker. Rather, they might use AI analysis as a tool integrated into their workflow.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1342,50 +1386,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-carnegie-learning-acquires-zorbits-math-to-strengthen-its-supplemental-software-offerings.md",
-      "title": "Carnegie Learning Acquires Zorbit's Math to Strengthen Its Supplemental Software Offerings",
-      "excerpt": "Carnegie Learning, a leader in artificial intelligence for education and formative assessment, announced today the acquisition of Zorbit's Math, a supplemental math software solution and curriculum that uses game-based adaptive learning to",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19757125.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19757125.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

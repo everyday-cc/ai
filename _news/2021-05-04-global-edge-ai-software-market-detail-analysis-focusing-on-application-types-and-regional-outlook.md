@@ -49,6 +49,20 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 9
+  - title: "Machine Learning in Medicine Market by Manufacturers, Regions, Type and Application, Forecast To 2026 – Google, Bio Beats, Jvion, Lumiata, DreaMed"
+    excerpt: "A recent research study on the global Machine Learning in Medicine market presented by Zeal Insider offers a detailed analysis of key market players, market revenue, market segments, share, and geographic regions."
+    publishedDateTime: 2021-05-06T15:42:00Z
+    webUrl: "https://ksusentinel.com/2021/05/06/machine-learning-in-medicine-market-by-manufacturers-regions-type-and-application-forecast-to-2026-google-bio-beats-jvion-lumiata-dreamed/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 1
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/01/research-reports-market-17-1-780x400.jpeg"
+        width: 780
+        height: 400
+        isCached: true
 
 secured: "NTJEi/vxo7vRSxtQP7EaO4yOHl4gKMpkybRCw8Uilc1FBvMWHVcPjolu02IgbYKEwQLQL3im0XgyGmMlfqG77CBc7wGRZTJZ+dbBBLnXnqE0Hu5XAcTw7D22N1vMZqKlrNdZWpAUroADFzrgFlH03b3L/hhaiK1GYB9nLfSM6CzWtgDzSw7+SXR5ZKx7oGntoTbgP0RNS8HH9m67FAqwBMzx56pAIvdFsdl5gHa+w1jGtDLRExIDiIpwZuSkcmPjKAyXrxLkzHROl4SGWGpi4XeLpYki54YE6ZsyWt/45JWJ7dkzKbLJOiSbDrRRyAfZ63CiENV3C8n233Aqiy3gOgyKDIaZmsPDzEu0fkj/VTA=;31BJ++Xh1egm89cyO5FZgA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/what-we-ca
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/05/what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health/amp/"
 type: article
 quality: 121
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI is ready to take on a massive healthcare challenge"
+    excerpt: "Shortening the diagnostic journey and reducing the associated costs was, until recently, a moonshot challenge, but is now within reach. Technology and AI advances are combining to make genetic testing accessible."
+    publishedDateTime: 2021-05-06T17:33:00Z
+    webUrl: "https://techcrunch.com/2021/05/06/ai-is-ready-to-take-on-a-massive-healthcare-challenge/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-482179767.jpg?w=600"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Verizon Healthcare Initiatives Tap Private 5G, Private MEC, AI, Slicing"
     excerpt: "Verizon is seeing a great deal of interest in private 5G core networks and private multi-access edge computing (MEC) on the part of healthcare providers. Telecompetitor discussed this and other trends impacting Verizon healthcare initiatives – involving network slicing,"
     publishedDateTime: 2021-05-04T21:54:00Z

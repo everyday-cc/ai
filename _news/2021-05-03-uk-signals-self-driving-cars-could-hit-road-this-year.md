@@ -52,6 +52,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
+  - title: "GM is going all-in on self-driving vehicles and wants to sell them by 2030"
+    excerpt: "GM’s CEO, Mary Barra, says that the company will be producing fully autonomous vehicles for consumer use before the end of this decade. According to CNBC, Barra revealed this in a call with investors earlier this week."
+    publishedDateTime: 2021-05-06T17:09:00Z
+    webUrl: "https://knowtechie.com/gm-is-going-all-in-on-self-driving-vehicles-and-wants-to-sell-them-by-2030/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 22
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/05/gm-super-cruise-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "We20LTl7pDQeiV2+Jlp3vd+0CDqOcuvhtzZyJkhiywsd5UbU4jFuBGIOvPvBUldszUfRoqQWx1apMUmlfZ45JK0N9qWuONTWTTv+y4NYG6AzOFFyu7tA8d51shhzEMNKGjih55hMZv8ruUHeM09CHZygXt35bfKbuae+7v+Va894heWTHB8JRhb/jnwDrUQdSyxzNyD+AfgLBGrRKEjSpJ/JFuoHhrjiLSxE5NhujtBiiX/CGLfmuBMQ8/f034QkdwdzMWCR+PRlVMYfphA1UKgnTv7K59drMmEH0xQA77I51uHSXEWElOVBp2G1cQ3eNZnoWxHVI3gZCTPpYCUkUMQwbc6bxVjNvsOzhLwORlc=;fJwjRixaGyB2BuiX+PIheg=="
 ---

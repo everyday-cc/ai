@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-sel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
+  - title: "GM is going all-in on self-driving vehicles and wants to sell them by 2030"
+    excerpt: "GM’s CEO, Mary Barra, says that the company will be producing fully autonomous vehicles for consumer use before the end of this decade. According to CNBC, Barra revealed this in a call with investors earlier this week."
+    publishedDateTime: 2021-05-06T17:09:00Z
+    webUrl: "https://knowtechie.com/gm-is-going-all-in-on-self-driving-vehicles-and-wants-to-sell-them-by-2030/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 22
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/05/gm-super-cruise-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "LflOD1tkWRB5xAXemexZHaZDdg0ko0PP56vjfRiTxTRPItkZir5pKn4fulQE4ckEM6wExvGclCLWLbxa73yLgt3QiC5qpkENyVZFNpK43pDGrJ4yR3lM+//6HVRRVzuPEV8TGAYiY3upS2fNPPm5B7jF3BU/T/wZJM3AhOfEXUOOiA22VahBRSwm0tADUHlQRsxKNFUfA1FkPf/cWPdvuN7vFf7T2hqg1zNYlblvMrxqlm6ad8sPn7xQFT9BrGQRw6ch/LVhAG0/2WIxcwq+V91KpuLMKr4UfOapw1NEJWoznHUzFPGmAcYTOZKa4B8xCN2M0Wr3UHS43OlYWMnG2Fe/DjMMNjfruOHnVK3ZVxcz+HeOWN3gozKs5R2kEjeW20trzruDIzZ9piDRWSaz5lBWyXN0qYpGR1L1RrBYMJupuQJvQrcq14ICm771rlcH8zjyPaRdH5JTgdieoemUE3SQUqVdbFjfSLn0V/Vzx+GO25ctIF12MMGopWhC+1COsdq2BwGsDM+yQ7C2GgjGgA==;nXRzgTACPdOoHa5cjmRJ9g=="
 ---

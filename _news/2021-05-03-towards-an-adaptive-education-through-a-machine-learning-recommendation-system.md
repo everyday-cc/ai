@@ -19,17 +19,6 @@ topics:
   - AI
   - AI in Education
 
-related:
-  - title: "CAREER: Time-Aware Multi-Objective Recommendation in Online Learning Environments"
-    excerpt: "ABSTRACT Online education is playing an increasingly essential role in workforce training, skill development, and life-long learning. Given the scale of online learning systems an"
-    publishedDateTime: 2021-05-02T00:41:00Z
-    webUrl: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2047500"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 0
-
 secured: "/FXJCyVDxTy9VLUj4/cW4RfZzTxgUlbim3lxIXUQp79uJt2N/1vDsP5EGK6SZ8qnfS4oB56D5ZknHe2D8XrRwtZLMK2l14wOpEhBQqg9EVwx4JjsR26nj4hr7UhOl7EDZ4ORHGLWJB4eq2bN3FX+6SfpBWbgr1sNVKcP9Qd2pjcq2qhxncV0IBkjUesCCSulqUHiu89vb2ETys9C74RP1yanYyBIusSJJlwPW3mtgavYnPpOxHDQ0eEH6yCq8Zvp5Gyf86J7iyrW1AMJP58pmcy83+iSmOEbxSnhnPYFf5QPGbonfOAWl5u+5cSqOJJW4Io0zTVZOwiZ0B6HrOVoyyYihEsRGYMmmtT/gJiJDMI=;0r1mE9UUeSHsJRgzuSMhyA=="
 ---
 

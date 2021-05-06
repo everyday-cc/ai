@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-06-how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue.md",
+      "title": "How Genworth built a serverless ML pipeline on AWS using Amazon SageMaker and AWS Glue",
+      "excerpt": "This post is co-written with Liam Pearson, a Data Scientist at Genworth Mortgage Insurance Australia Limited. Genworth Mortgage Insurance Australia Limited is a leading provider of lenders mortgage insurance (LMI) in Australia; their shares are traded on Australian Stock Exchange as ASX: GMA. Genworth",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/23/1-2928-Architecture.jpg",
+          "width": 800,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T09:23:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-considerations-for-implementing-aiml-in-your-business.md",
       "title": "Considerations for Implementing AI/ML in Your Business",
       "excerpt": "Business technology changes constantly, and every solution we implement has a lifespan. You may have been a Microsoft shop for the past thirty years, but your company is not currently operating on Win",
@@ -1388,50 +1441,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights.md",
-      "title": "Machine learning security vulnerabilities are a growing threat to the web, report highlights",
-      "excerpt": "Security industry needs to tackle nascent AI threats before it’s too late. As machine learning (ML) systems become a staple of everyday life, the security threats they entail wi",
-      "sourceUrl": null,
-      "webUrl": "https://portswigger.net/daily-swig/machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights",
-      "originalUrl": "https://portswigger.net/daily-swig/machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://portswigger.net/cms/images/20/7c/f2c9-twittercard-210427-ai-machine-learning-body-text.jpg",
-          "width": 506,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://portswigger.net/daily-swig/amp/machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights",
-      "cdnAmpWebUrl": "https://portswigger-net.cdn.ampproject.org/c/s/portswigger.net/daily-swig/amp/machine-learning-security-vulnerabilities-are-a-growing-threat-to-the-web-report-highlights",
-      "publishedDateTime": "2021-04-27T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PortSwigger",
-        "domain": "portswigger.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
       ]
     }
   ],
