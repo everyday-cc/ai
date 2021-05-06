@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/269136641/ai-in-fintech-market
 webUrl: "https://www.bignewsnetwork.com/news/269136641/ai-in-fintech-market-may-see-a-big-move--major-giants-microsoft-google-ibm"
 type: article
 quality: 53
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Global Artificial Intelligence in Accounting Market 2025: Top Key Players AWS, Microsoft, Intuit, Xero, Sage, UiPath and others"
+    excerpt: "The report released by Zion Market Research on Global Artificial Intelligence in Accounting Market covers the broad strategic framework of dynamics of the global market. The report is a comprehensive study of current and future growth aspects."
+    publishedDateTime: 2021-05-05T23:52:00Z
+    webUrl: "https://ksusentinel.com/2021/05/05/global-artificial-intelligence-in-accounting-market-2025-top-key-players-aws-microsoft-intuit-xero-sage-uipath-and-others/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 23
   - title: "Artificial Intelligence Platform Market size, Witness Highest Growth in near future by 2027 | Google, Baidu, Ibm, Microsoft, Sap"
     excerpt: "The Artificial Intelligence Platform market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
     publishedDateTime: 2021-05-03T04:19:00Z

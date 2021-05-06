@@ -40,20 +40,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Sexism in Facial Recognition Technology"
-    excerpt: "Shreya Tewari provides an overview of recent work on facial recognition technology -- and calls for greater transparency. “Presenting AI with a diverse representation of datasets for it to learn from would be a great start in reversing the prevalent biases."
-    publishedDateTime: 2021-05-05T19:02:00Z
-    webUrl: "https://cyber.harvard.edu/story/2021-05/sexism-facial-recognition-technology"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "tzQWogY+aWLExYx18y5RyIaEhoIYDI/2ddVfvfHNW/QmtTGYfiqlFUbd3kq1zo8OxMm1i8p5pFX8zYWlefQgTdR409YkzVlrQyxo52B8Pd+3HkUIrp6iMzPH6w8+wAlIuRVTBR6X4Lj/9dIbEiMT70q/09ItHGq2rMswdzkU2SKXnZ23k2OP2JpabZZuMOcljhdd9NLKave+VAwt4W4QsG88SkTM0ygPtlkRqQ4f6BnfjWnfDDCXzMugy5gWJ6yBI40JyPkxL7+c3iBzGPdMR2UZgktvixI6tVktkBgwH9U17l6SlqJN+mbI4ob1qD9U7kGFb9f99QgSBfpt9PbL9pcBLzxic9k+8vV3mLSqCFeLP6NtgO8BHplr7XaNTC4oXzqSLmyUaBblCsXNqUv7iET/kAg2fjdIu9u3qsTasX+iXI90Y3pFRks9/LkKtHa0wWQmj3oOZSCK8yEg1sFn1BjGIF1FRWg5pi0MnyoACNftqTmPicASaqfykBMD2FeA9IDPxz25Kx1xC+206p57Sw==;YE3VuGgVzL6HqRlbn08Ucw=="
 ---

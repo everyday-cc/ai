@@ -25,45 +25,64 @@ images:
     isCached: true
 
 related:
-  - title: "Police should not be banned from using facial recognition technology, says UK watchdog"
-    excerpt: "Use of facial recognition by police should not be banned and instead left to the discretion of law enforcement rather than lawmakers, the UK’s new biometrics watchdog has said. Fraser Sampson, the newly appointed commissioner whose job it is to scrutinise how police and other authorities deploy biometrics and surveillance cameras on the public,"
-    publishedDateTime: 2021-05-03T04:00:00Z
-    webUrl: "https://www.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
-    ampWebUrl: "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
+  - title: "Facial Recognition as a Legislative Issue"
+    excerpt: "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
+    publishedDateTime: 2021-05-05T23:48:00Z
+    webUrl: "https://patch.com/virginia/reston/facial-recognition-legislative-issue"
+    ampWebUrl: "https://patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 51
+      name: Patch
+      domain: patch.com
+    quality: 59
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e1a06a9-7196-40d3-9855-7cf75aa5fa8b.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://patch.com/img/cdn20/users/60146/20210505/074823/styles/patch_image/public/jcots___05194516171.png?width=984"
+        width: 984
+        height: 738
         isCached: true
-  - title: "Facial recognition technology approved at New York border crossings"
-    excerpt: "A new technology has been approved for several border crossings with Canada. U.S. Customs and Border Protection announced on Tuesday the expansion of biometric facial comparison technology to all crossings at the northern New York ports of entry."
-    publishedDateTime: 2021-05-05T11:55:00Z
-    webUrl: "https://www.wcax.com/2021/05/05/facial-recognition-technology-approved-at-new-york-border-crossings/"
+  - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
+    excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
+    publishedDateTime: 2021-05-05T03:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/05/05/7209494a-ad56-11eb-82c1-896aca955bb9_story.html"
     type: article
     provider:
-      name: WCAX3
-      domain: wcax.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 39
     images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/Yetxk8tUGfJEZm5d0I4LEOVkqck=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MALGXNQ7MBADNBO3R3VTNX7IEU.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OELWHZVNKYI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Honolulu airport rolls out facial recognition technology"
-    excerpt: "Honolulu’s Daniel K. Inouye International Airport has launched the Simplified Arrival Program in an effort to streamline the international arrival process."
-    publishedDateTime: 2021-05-05T17:32:00Z
-    webUrl: "https://www.bizjournals.com/pacific/news/2021/05/05/airport-rolls-out-facial-recognition-tech.html"
+  - title: "Sexism in Facial Recognition Technology"
+    excerpt: "Shreya Tewari provides an overview of recent work on facial recognition technology -- and calls for greater transparency. “Presenting AI with a diverse representation of datasets for it to learn from would be a great start in reversing the prevalent biases."
+    publishedDateTime: 2021-05-05T19:02:00Z
+    webUrl: "https://cyber.harvard.edu/story/2021-05/sexism-facial-recognition-technology"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
+    images:
+      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Gender recognition application reduced to £5"
+    excerpt: "THE cost to apply for a gender recognition certificate has been reduced to £5, the government has confirmed. The £140 fee for how a person changes their legal gender will be reduced to single figures from today to ensure that the process is more affordable for transgender people."
+    publishedDateTime: 2021-05-04T12:51:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/gender-recognition-application-reduced-ps5"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 24
+    images:
+      - url: "https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MsEcC9Bh/f5NovTXMoFDtAqbM22c7jZZoaDVsr35/XZSI5spwh7GGHcJ6rp8gA67SZkDeF83FStJ9g6L5sKOGAfRNWnmIqui3Jab8oK8zzRvBvSmYYS9vU8adiCOO0zuO+byQfkxhIm5xW6a+fSwZsKhKUQ+egDuzCNkWeT77d5WxvgQ2FVZCkn06GZ/7GX3I00Be8gLOh3ll4dgOsNhdLAd2ZrbunwYysW9CbMsO2cEqBWIvS1yOBkuzPedx61nb+3+F0Xi7wkk9etMatIrFhDHNAnS7wSRf3L+gmLrSu7Q2ZbVPQhtYOYBuyvXEaP1oWBvsjE6HPJAPLhnDvrLZOdXFUfce3MclElY8Cm3M9gw+BiUEBxpVOC9PHt/LsAkB9akdWQ0J3r/eT2XuyjXTlR+EuimwvKa6HS3jvjS7w3hbHSuaSLjLlSQqn8sz9NYIhvM5/QiDE8c3w37JaIM0gG66vBJCWUcodewSWG/O06umF8lD1k1gDjBv5UUm01czWZpRBgOo1qpJL/SgYGCSg==;kO9vq4E2gCJ8IjRopOLR9g=="
 ---

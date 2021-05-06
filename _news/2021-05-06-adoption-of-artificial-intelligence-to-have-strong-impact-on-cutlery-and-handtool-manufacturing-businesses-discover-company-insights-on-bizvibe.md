@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Adoption of Artificial Intelligence to Have Strong Impact on Cutlery and Handtool Manufacturing Businesses | Discover Company Insights on BizVibe"
-excerpt: "BizVibe has identified the adoption of artificial intelligence as a major trend for the cutlery and handtool manufacturing"
+excerpt: "BizVibe has identified the adoption of artificial intelligence as a major trend for the cutlery and handtool manufacturing industry. Manufacturers are adopting artificial intelligence to reduce equipment downtime,"
 publishedDateTime: 2021-05-05T21:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/adoption-of-artificial-intelligence-to-have-strong-impact-on-cutlery-and-handtool-manufacturing-businesses--discover-company-insights-on-bizvibe-301284377.html"
-webUrl: "https://www.prnewswire.com/news-releases/adoption-of-artificial-intelligence-to-have-strong-impact-on-cutlery-and-handtool-manufacturing-businesses--discover-company-insights-on-bizvibe-301284377.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/n20978016/adoption-of-artificial-intelligence-to-have-strong-impact-on-cutlery-and-handtool-manufacturing-bu"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/n20978016/adoption-of-artificial-intelligence-to-have-strong-impact-on-cutlery-and-handtool-manufacturing-bu"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20978016"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20978016"
 type: article
-quality: 0
-heat: 0
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1501965/Cutlery_and_Handtool_Manufacturing_T4.jpg?p=facebook"
-    width: 1279
-    height: 670
+  - url: "https://mma.prnewswire.com/media/1501965/Cutlery_and_Handtool_Manufacturing_T4.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "Q2vq3qHMNO9t0+QZHzMvPSUVErfVOoj4Epnkj9SKH0EeGFVQ/Y0xlu07CueXcTDbzPTsxhVbNyHnpgrbAnv8If/2MD4gKWls2Zj1b1cmtHPBCOXQZCXNYurs82jqZuHtAMmBfPMJVrsyRyUuneEFswRw3GR9N6ymFT5wFnnkcJyfggvu8UD0WUl0gOkLQy8l/OKhZgIf2pWp1AtoBuCz6qmaY3RB5ScCscVOuGnUXjcv5+ClGEbutublWR7HxWWADB/6cQ/JeZpUMR1vwwy44K1QnC1p7x5ooAGPfUa3StBgvck+CRrhvozXdZrTdySh3h+0mU+Y4+l8rr56Tao8BKoFG8VHbpg16XKJVYNSVh8=;yOyhN0mnVskDJRfjl35q7w=="
+secured: "Tw6buK6sdTp66Wv7fHcC/1vmlIya+yiNExnFIjWAc697KYFevNJC8B9mYD8QyRK11ATV5yGg9ZSvS6ZU7cr0bFnpSIChf4U27v29qkK6+GpqeDmgNr248DuBQJNt7wUDX5m7hW9v/hgVsz2EQ7wtz+yUERCFyQeJjnVD03YfNxSxnsPCZJ3NmtTnXL4cBEpxaJhik2/2irlhdZn9XzGoXgLP6PTDvfqJuYi1KbmBQ9UNrlaJSMuQaKMS0wpreH/zrgzBVWFAxjR2+LsDZ2JDrR8b2+2pmOk/appEufy2NGQKouPIvnz6RpxeFilkj78K/8nsuEhkoT1QA9AKStsxglpU39TuDCJ4iyayztTlzLY=;B9TEzXLTVmtaC38s4/R2Yw=="
 ---
 

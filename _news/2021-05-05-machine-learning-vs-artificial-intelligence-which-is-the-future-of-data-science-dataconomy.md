@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-05T12:56:01Z
 originalUrl: "https://dataconomy.com/2021/05/machine-learning-vs-artificial-intelligence-future-data-science/"
 webUrl: "https://dataconomy.com/2021/05/machine-learning-vs-artificial-intelligence-future-data-science/"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://dataconomy.com/wp-content/uploads/2021/05/machine-learning-vs-artificial-intelligence-future-data-science.jpg"

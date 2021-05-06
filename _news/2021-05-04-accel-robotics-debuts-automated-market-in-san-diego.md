@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Accel Robotics Launches Autonomous 'Valet Market' Store With Last Step™ Delivery in San Diego"
-    excerpt: "Stock quotes by finanzen.net SAN DIEGO, May 4, 2021 /PRNewswire/ -- Accel Robotics, a leading startup for checkout-free retail solutions powered by computer vision and artificial intelligence, today announced the soon-to-be-open Valet Market,"
-    publishedDateTime: 2021-05-04T12:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/accel-robotics-launches-autonomous-valet-market-store-with-last-step-delivery-in-san-diego-1030383908"
+  - title: "East Village gets futuristic grocery store designed by Accel Robotics"
+    excerpt: "A futuristic grocery store is opening in East Village on the ground floor of the luxury high-rise apartment complex Vantage Pointe. The new store, called Valet Market, was designed by local tech startup Accel Robotics,"
+    publishedDateTime: 2021-05-05T22:06:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village?_amp=true"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 74
     images:
-      - url: "https://mma.prnewswire.com/media/1498388/Valet_Market1.jpg"
-        width: 400
-        height: 300
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f633c89/2147483647/strip/true/crop/7757x5139+0+16/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1d%2F31%2F67973aa641aca4def504b293b770%2Fveo-1.jpeg"
+        width: 320
+        height: 212
         isCached: true
 
 secured: "YA/+R1OOIuBF9kBTcMgUV1GkAfuRkA/OuYi5qg6iu5uI7LwDu2saZKTXLiNLTww0XtL0yMxyKPXDF17ieEkx5nj19optFY4mPZxpySvu3P5k24dOPVA/6uapJN/5QVmUEF/kVcDQdwbHDoODZVC+8XnqiU80tPHEEYMQ2+vAQKsF4kNFHISBmM61clHJWTQzYW/xxM9MRjNcf+FoWXG8BoZESMiJfx+deOyJEnmZtmTEEva9+neCQOuz9u92c5tImfTvDpa7erTd1CygYxuV81I8AJG2F3jjvSlEfz4+TRA19w3Gl9uXit9MjjOejXuc2/egiEYPcYR40UAGs9K23lGpNWCJ35Iz7f+2UHXwxFQ=;9p0IYWVfgMhv+3Gn++hUFg=="

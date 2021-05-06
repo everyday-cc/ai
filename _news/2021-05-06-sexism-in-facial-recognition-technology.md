@@ -25,33 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Innocent Black man jailed after false facial recognition match"
-    excerpt: "All the latest stories from around the world designed for your social feed. Like, Share and comment"
-    publishedDateTime: 2021-05-04T13:20:00Z
-    webUrl: "https://www.trtworld.com/video/social-videos/innocent-black-man-jailed-after-false-facial-recognition-match/609145f43b0f87001e8e3263"
+  - title: "Facial Recognition as a Legislative Issue"
+    excerpt: "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
+    publishedDateTime: 2021-05-05T23:48:00Z
+    webUrl: "https://patch.com/virginia/reston/facial-recognition-legislative-issue"
+    ampWebUrl: "https://patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
     type: article
     provider:
-      name: TRT World
-      domain: trtworld.com
-    quality: 54
+      name: Patch
+      domain: patch.com
+    quality: 59
     images:
-      - url: "https://cdni0.trtworld.com/w640/h360/q75/104699_FacialRecgonitionBiasYTB_1620133514949.jpg"
-        width: 640
-        height: 360
+      - url: "https://patch.com/img/cdn20/users/60146/20210505/074823/styles/patch_image/public/jcots___05194516171.png?width=984"
+        width: 984
+        height: 738
         isCached: true
-  - title: "San Diego Held Back Materials Sought by Congress on Facial Recognition"
-    excerpt: "In 2017, the House Committee on Oversight and Reform wanted to learn more about San Diego's use of facial recognition technology. The city’s response downplayed internal concerns over the program and withheld a number of reports showing how prevalent it really was."
-    publishedDateTime: 2021-05-03T11:00:00Z
-    webUrl: "https://www.voiceofsandiego.org/topics/government/san-diego-held-back-materials-sought-by-congress-on-facial-recognition/"
+  - title: "Pressure grows on banks to abandon facial recognition tech"
+    excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."
+    publishedDateTime: 2021-05-03T18:50:00Z
+    webUrl: "https://www.americanbanker.com/news/pressure-grows-on-banks-to-abandon-facial-recognition-tech"
     type: article
     provider:
-      name: Voice of San Diego
-      domain: voiceofsandiego.org
-    quality: 41
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
     images:
-      - url: "https://www.voiceofsandiego.org/wp-content/uploads/2021/04/Facial-Recognition_FINAL.png"
-        width: 1800
-        height: 1200
+      - url: "https://arizent.brightspotcdn.com/dims4/default/73f29ba/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fdb%2F7d%2F24c099b84f4c91c3d81fc93e68e3%2Fab-050321-face-2.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
+    excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
+    publishedDateTime: 2021-05-05T03:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/05/05/7209494a-ad56-11eb-82c1-896aca955bb9_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OELWHZVNKYI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Gender recognition application reduced to £5"
+    excerpt: "THE cost to apply for a gender recognition certificate has been reduced to £5, the government has confirmed. The £140 fee for how a person changes their legal gender will be reduced to single figures from today to ensure that the process is more affordable for transgender people."
+    publishedDateTime: 2021-05-04T12:51:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/gender-recognition-application-reduced-ps5"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 24
+    images:
+      - url: "https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "x/Mi3pdVWsV1Wv69L4U3SYGdFQQQ2x0mPSNj5QfV6ChNlY7yUE//JijQb+Pt/lX+0tJ1DhjGn6M/B3BE6ZYHcObQ+2Xvh9QwOHC/9c/WVRpLe5EPXz8P9oZJPX3BiQBm0ES8xfhLA2ZxrbiRvrX403ypKWXSvSg9cv3597TnuZqXeCOOi37ZuNpwp13oqqy4wAM5jO2FqFagoWHEuSQceMovYUrrvauJgNRu/5Jh/FQByB36YIomPVtvLHaKyRmD/UhPNg43AGTQE+AvuR0A7EzWmimdXeC9J6IvWY3edbndNz9LjTierevS72jLUKezSr1dKTKkrBY0bX1xy7d+e9AqTRnJOZXK1hwYkyXjgrw=;uNkPWjTStFVzitwk2svwOw=="

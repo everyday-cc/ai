@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Baidu rolls out paid driverless taxi service in Beijing"
-excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ..."
-publishedDateTime: 2021-05-02T13:15:00Z
-originalUrl: "https://www.clickorlando.com/business/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/"
-webUrl: "https://www.clickorlando.com/business/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/"
-ampWebUrl: "https://www.clickorlando.com/business/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/?outputType=amp"
-cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/business/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/?outputType=amp"
+excerpt: "Chinese tech giant Baidu has rolled out its paid driverless taxi service ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding ..."
+publishedDateTime: 2021-05-02T16:40:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
+webUrl: "https://abcnews.go.com/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Click Orlando
-  domain: clickorlando.com
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/WMXRBGYDIJCRTPWB3H64POBTJA.jpg"
-    width: 5000
-    height: 3333
+  - url: "https://s.abcnews.com/images/Business/WireAP_dacbbcc8fdee407a886411a4b2db2efc_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -168,6 +168,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "uxMs/NpMkVN0BEwMIxMpWrQzQbsnr9gsnkZoNzaR5ZX1V2NUtjpO+xKAvvvLM+PTaw57DAU7vu1gtTBkT4cgLOpz0vfaLAnrXNsBKtSoSJGPK1l24fAmpPwbHPS3uU0xvD+OQVAfl1YE8QFOrusM948U00MB5b7H4jzHpT00Z5w9vJxTPipE77G8ehwtOTgt34pv/lTCVPL5FcH2YoAQL1on7813NEcGP3/EmNB3XNngp4VaDDoQWCYOI8MXuz4ZIlwRl9r1C/jzhhxcys32nYprXHHUPrM0ScmA7BCFVyznIx5Ip7gc9owS/ria7Gxh6Ph6wjD2Mv+zE7cQWkTEflNlIR8IiCeeULoCTtHtBE4=;nIdvwt7TYFk+8lMNLvWyrw=="
+secured: "GiaUU+gw43Zu6WHSZXzE5eIwyEqwtgT0cQIljIcXYbXMp0fqGmxMxmm6T9r3eh9fm8ZAh48N4nFANBGyGMWonJGnOzwTOwLE8+dcjikPpzXHUeUtXXXWLbegFMLOBBw22YT/XMgC2yIK5jFTxchI6ax/0kNuV/wzmXsryWzya5Z+K8xanfSmE4DmPjuhOzHTMf4zMi3q50UgDdXEisUyZPXmgr6e3mu6t54achXVjhTdzgmaHYZ96AvDeyV9Yk3YYezl5lU4xLuOFzPcyiYlF3CAUvwzP4aH5HIvNGvSPCqjptFrU8RzkIHwoR0R94kpEl3d+MagEmcsU82Zs1K0CW37gqgZlZ34QiZCqWZu2X0=;tQpH/owEz36irYqWL45yIA=="
 ---
 
