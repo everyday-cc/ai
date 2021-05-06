@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence for Telecommunications Applications Market Size, Share, Value, and Competitive Landscape 2021-2026"
+    excerpt: "The Artificial Intelligence for Telecommunications Applications market report provides a detailed analysis of global"
+    publishedDateTime: 2021-05-05T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-telecommunications-applications-market-size-share-value-and-competitive-landscape-2021-2026-2021-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial convolution neural network techniques and applications for lung nodule detection"
     excerpt: "We have developed a double-matching method and an artificial visual neural network technique for lung nodule detection. This neural network technique is generally applicable to the recognition of medical image pattern in gray scale imaging."
     publishedDateTime: 2021-05-05T23:37:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/"
 type: article
 quality: 93
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers Warn: AI Algorithms Can Influence People’s Voting and Dating Decisions"
-    excerpt: "Researchers highlight need for public education on impact of algorithms. In a new series of experiments, artificial intelligence (A.I.) algorithms were able to influence people's preferences for fictitious political candidates or potential romantic partners,"
-    publishedDateTime: 2021-05-01T11:55:00Z
-    webUrl: "https://scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/"
-    ampWebUrl: "https://scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 55
-    images:
-      - url: "https://scitechdaily.com/images/AI-Algorithms-Dating-Decisions-777x520.jpg"
-        width: 777
-        height: 520
-        isCached: true
   - title: "Live Demonstration: A Neural Processor for AI Acceleration"
     excerpt: "In this demonstration, we present AB9 SoC system, a single-chip solution for AI application. It provides the reconfigurable and programmable architecture to support the general computations for a variety of neural networks."
     publishedDateTime: 2021-05-04T06:11:00Z

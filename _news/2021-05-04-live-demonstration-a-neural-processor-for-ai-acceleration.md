@@ -33,22 +33,6 @@ related:
         width: 800
         height: 458
         isCached: true
-  - title: "Researchers Warn: AI Algorithms Can Influence People’s Voting and Dating Decisions"
-    excerpt: "Researchers highlight need for public education on impact of algorithms. In a new series of experiments, artificial intelligence (A.I.) algorithms were able to influence people's preferences for fictitious political candidates or potential romantic partners,"
-    publishedDateTime: 2021-05-01T11:55:00Z
-    webUrl: "https://scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/"
-    ampWebUrl: "https://scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/researchers-warn-ai-algorithms-can-influence-peoples-voting-and-dating-decisions/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 55
-    images:
-      - url: "https://scitechdaily.com/images/AI-Algorithms-Dating-Decisions-777x520.jpg"
-        width: 777
-        height: 520
-        isCached: true
   - title: "Boosted Genetic Algorithm Using Machine Learning for Traffic Control Optimization"
     excerpt: "Traffic control optimization is a challenging task for various traffic centers around the world and the majority of existing approaches focus only on developing adaptive methods for normal (recurrent) traffic conditions."
     publishedDateTime: 2021-05-06T03:44:00Z

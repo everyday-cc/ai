@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Healthcare Industry Analysis and 2021 Future Trends"
-    excerpt: "According to the latest research study by Infinity Business Insights, the global Computer Vision in Healthcare Market was estimated at USD XX$ billion in 2021 and is forecast to cross USD XX$ billion by 2026,"
-    publishedDateTime: 2021-05-01T12:04:00Z
-    webUrl: "https://ksusentinel.com/2021/05/01/global-computer-vision-in-healthcare-market-top-10-key-players-in-2021-microsoft-us-nvidia-us-intel-us-xilinx-us-ibm-us/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 36
   - title: "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
     excerpt: "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,"
     publishedDateTime: 2021-05-03T08:00:00Z

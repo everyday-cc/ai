@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-23-alluxio-advances-analytics-and-ai-with-nvidia-accelerated-computing.md",
+      "title": "Alluxio Advances Analytics and AI with NVIDIA Accelerated Computing",
+      "excerpt": "This is the case for both analytics pipelines and AI / Machine Learning (ML) pipelines. Benefits from GPU acceleration for an end-to-end pipeline are limited if data access dominates the execution time. GPU-based processing drives higher data access ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-science-scott-mcclellan-cloud-computing-open-source-software-b37172100a5402dda830de1c753045a5",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-science-scott-mcclellan-cloud-computing-open-source-software-b37172100a5402dda830de1c753045a5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-flex-logix-raises-55m-to-design-ai-chips-for-edge-enterprise-applications.md",
       "title": "Flex Logix raises $55M to design AI chips for edge enterprise applications",
       "excerpt": "Flex Logix, a startup developing AI accelerator hardware, has raised $55 million to bring its chips to market.",
@@ -1260,49 +1294,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support.md",
-      "title": "VMware-Nvidia Alliance Expands With New vSphere GPU Support",
-      "excerpt": "VMware and Nvidia have expanded their alliance to make it easier for enterprises to run GPU-accelerated AI applications in existing data center infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/data-center/vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support",
-      "originalUrl": "https://www.crn.com/news/data-center/vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0267-11c18f8af132-eca68eef49b0-1000/vmware-nvidia-ai-ready-platform.jpg",
-          "width": 610,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,93 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-04-12-microsoft-to-buy-nuance-in-a-197b-deal-to-expand-healthcare-ai-cloud-capabilities.md",
+      "title": "Microsoft to buy Nuance in a $19.7B deal to expand healthcare AI, cloud capabilities",
+      "excerpt": "Nuance provides AI expertise and customer engagement solutions across interactive voice response (IVR), virtual assistants, and digital and biometric solutions. Microsoft plans to combine these capabilities with its cloud, including Azure, Teams ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercehealthcare.com/tech/microsoft-to-buy-nuance-for-nearly-20b-to-expand-healthcare-ai-cloud-capabilities",
+      "originalUrl": "https://www.fiercehealthcare.com/tech/microsoft-to-buy-nuance-for-nearly-20b-to-expand-healthcare-ai-cloud-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercehealthcare/1618238863/452292684-5a3b047ae73a1.jpg/452292684-5a3b047ae73a1.jpg?aH.519AnpRSf0BhCSyFD1DPvjxYYII3f",
+          "width": 5237,
+          "height": 3054,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fierce Healthcare",
+        "domain": "fiercehealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-machine-learning-at-speed-with-in-network-aggregation.md",
+      "title": "Machine learning at speed with in-network aggregation",
+      "excerpt": "Inserting lightweight optimization code in high-speed network devices has enabled a KAUST-led collaboration to increase the speed of machine learning on parallelized computing systems five-fold.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-04-machine-in-network-aggregation.html",
+      "originalUrl": "https://techxplore.com/news/2021-04-machine-in-network-aggregation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/6074316c36198.jpg",
+          "width": 722,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-04-machine-in-network-aggregation.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-machine-in-network-aggregation.amp",
+      "publishedDateTime": "2021-04-12T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-microsoft-in-talks-to-buy-ai-speech-recognition-provider-nuance-communications.md",
       "title": "Microsoft in talks to buy AI speech recognition provider Nuance Communications",
       "excerpt": "Microsoft is in advanced talks to buy AI speech recognition company Nuance Communications, according to Bloomberg sources. The deal being mooted places a value on Nuance of approx $56 a share, giving Nuance a value of about $16 billion. Nuance provides ...",
@@ -1028,112 +1115,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-black-women-ai-and-overcoming-historical-patterns-of-abuse.md",
-      "title": "Black women, AI, and overcoming historical patterns of abuse",
-      "excerpt": "The Abuse and Misogynoir Playbook is part of the State of AI report from the Montreal AI Ethics Institute and was compiled by MIT professors in response to Google’s treatment of Gebru ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/",
-      "originalUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AM_Playbook_Final_with-authors-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/",
-      "publishedDateTime": "2021-04-10T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars.md",
-      "title": "Barring Those Gearhead Enthusiasts From Tinkering With Self-Driving Cars",
-      "excerpt": "Those vaunted gearheads are going to be barred from tinkering with self-driving cars and won't be allowed to do any under-the-hood wonderment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605e41af621a72060b9d9140%2F0x0.jpg%3FcropX1%3D55%26cropX2%3D1419%26cropY1%3D16%26cropY2%3D963",
-          "width": 1200,
-          "height": 833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/10/barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars/amp/",
-      "publishedDateTime": "2021-04-10T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

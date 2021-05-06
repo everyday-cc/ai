@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-05
 webUrl: "https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1790
         height: 1332
         isCached: true
+  - title: "Watch as a robot takes over the task of hairbrushing"
+    excerpt: "The MIT CSAIL hair-brushing robot features a robotic arm, a sensorized hairbrush, a camera and machine vision. According to the researchers, a corresponding mathematical model enables the robot to determine how to untangle the hair and feedback from the sensorized brush determines how much pressure to apply to the hair to untangle it without inflicting pain on the subject."
+    publishedDateTime: 2021-05-06T04:02:00Z
+    webUrl: "https://insights.globalspec.com/article/16492/watch-as-a-robot-takes-over-the-task-of-hairbrushing"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
 
 secured: "GIKP/0OhsBCSsaWD/A4DV/g8VfCBd9ttmrmKvh3e1R0Kh2rzIO/VG8HeGbVmmVkEDZ6PAP+neB6nycZxkIev/Xyx4ZQnpPdoj4gNv1a/rRu8KlSQ3qfr4OGIMhmN2Lo3aflCkG3eCxlTUWurHxV+rou7yY4RjM2kCybTIuubpVRGrjbSNxOjiztO3itasnok2LjTmnLAqra/6wwEEJdSv+DiX2fB7ToEgSNKSyQ5zk2sivBc6vJ0Lg58wdqYWoVOHfnzhu6Ui5Tdg6hxV2nzADYpsZUcRYU3nFD3hScGida//8An/ocHwq98RGEYIxW1H5r31Mn+xLDJo3JB50psnwaEfdoUOBtNYWWQ6YfSGT00oo06dAJFbkLRdRjzUPog5s6WM9t2/Gpaga/hbENZSiZRyL5DsSimHVEUfGFDavtxHCHki07P1rs5xfilCzpXPkQSHppw5RIRAPSFa+aVeCJoOMhHgOcbK9yGwhqlqREDJKH5pF8sYDY1/Af9WW+3hspdm7g3MXVVG7OmDnjaPw==;DnetE7PYt50D0Qw+B3d4bg=="
 ---

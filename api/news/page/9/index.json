@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-27-announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch.md",
+      "title": "Announcing the AWS DeepComposer Chartbusters challenges 2021 season launch",
+      "excerpt": "We’re back with two new challenges for the AWS DeepComposer Chartbusters 2021 season! Chartbusters is a global challenge in which developers use AWS DeepComposer to create original compositions and compete in monthly challenges to showcase their machine learning (ML) and generative artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenges-2021-season-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/27/2-Track1.jpg",
+          "width": 800,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T14:22:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-formation-launches-ai-driven-sales-offer-optimization-platform.md",
+      "title": "Formation launches AI-driven sales offer optimization platform",
+      "excerpt": "Marketing tech company Formation released a tool that helps companies to send out millions of product offers to consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/",
+      "originalUrl": "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/amp/",
+      "publishedDateTime": "2021-04-27T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-global-artificial-intelligence-chip-market-analysis-featuring-industry-top-key-players-by-2026.md",
       "title": "Global Artificial Intelligence Chip Market Analysis Featuring Industry Top Key Players By 2026",
       "excerpt": "Global Artificial Intelligence Chip Market Analysis, 2020 research report depicts a deep-dive market analysis of statistics of Global Artificial Intelligence Chip market which consists of regional and country-wise market size,",
@@ -1088,110 +1192,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m.md",
-      "title": "Lyft sells self-driving unit to Toyota’s Woven Planet for $550M",
-      "excerpt": "Ride-hailing company Lyft has sold off its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million, the latest in a string of acquisitions spurred by the cost and lengthy timelines to commercialize autonomous vehicle technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
-      "originalUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 374,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024",
-          "width": 1024,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
-      "publishedDateTime": "2021-04-26T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-microsoft-offers-new-azure-specializations-and-scholarships-through-coursera.md",
-      "title": "Microsoft offers new Azure specializations and scholarships through Coursera",
-      "excerpt": "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,110 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-27-lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m.md",
+      "title": "Lyft sells self-driving unit to Toyota’s Woven Planet for $550M",
+      "excerpt": "Ride-hailing company Lyft has sold off its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million, the latest in a string of acquisitions spurred by the cost and lengthy timelines to commercialize autonomous vehicle technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
+      "originalUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 374,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024",
+          "width": 1024,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
+      "publishedDateTime": "2021-04-26T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-microsoft-offers-new-azure-specializations-and-scholarships-through-coursera.md",
+      "title": "Microsoft offers new Azure specializations and scholarships through Coursera",
+      "excerpt": "The new partnership focuses on bringing further opportunities for skilling in Azure, with three new specializations on offer. Scholarships for these specializations are provided as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-offers-new-azure-specializations-and-scholarships-through-coursera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1619469968_microsoft_coursera_logo_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-apptek-expands-its-workbench-data-labeling-and-annotation-platform-to-include-labeling-for-computer-vision-and-multimodal-ai-models-at-scale.md",
       "title": "AppTek Expands its Workbench Data Labeling and Annotation Platform to Include Labeling for Computer Vision and Multimodal AI Models at Scale",
       "excerpt": "AppTek is trusted by some of the world's leading cloud and technology companies to power their conversational speech, text and image-based AI models through its managed data services program. To create the robust data sets required for these high-performing AI models,",
@@ -1093,101 +1197,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline.md",
-      "title": "You need to be constantly exploring the data in your AI pipeline",
-      "excerpt": "AI algorithms will do most of the heavy lifting, but if humans aren't doing critical upfront work on the data, your models will fall short.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/",
-      "originalUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/data.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/25/you-need-to-be-constantly-exploring-the-data-in-your-ai-pipeline/amp/",
-      "publishedDateTime": "2021-04-25T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-computer-vision-in-healthcare-market-analysis-status-and-global-outlook-2021-to-2026.md",
-      "title": "Computer Vision in Healthcare Market Analysis, Status and Global Outlook 2021 to 2026",
-      "excerpt": "Latest Research Report on “ Computer Vision in Healthcare Market size | Industry Segment by Applications (Medical Imaging , Surgery and Othe",
-      "sourceUrl": null,
-      "webUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853",
-      "originalUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.express-journal.com/img/img-14.png",
-          "width": 1042,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express-journal.com/computer-vision-in-healthcare-market-386853/amp",
-      "cdnAmpWebUrl": "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/computer-vision-in-healthcare-market-386853/amp",
-      "publishedDateTime": "2021-04-25T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "express-journal",
-        "domain": "express-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

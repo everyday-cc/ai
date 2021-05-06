@@ -2,6 +2,84 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-20-anari-ai-raises-2m-to-rebuild-the-ai-hardware-industry-through-personalized-cloud-chips.md",
+      "title": "Anari AI Raises $2M to Rebuild the AI Hardware Industry Through Personalized Cloud Chips",
+      "excerpt": "Anari AI raised $2 million in seed funding led by Earlybird VC, to rebuild the AI hardware industry from scratch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210420005700/en/Anari-AI-Raises-2M-to-Rebuild-the-AI-Hardware-Industry-Through-Personalized-Cloud-Chips",
+      "originalUrl": "https://www.businesswire.com/news/home/20210420005700/en/Anari-AI-Raises-2M-to-Rebuild-the-AI-Hardware-Industry-Through-Personalized-Cloud-Chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-carnegie-learning-acquires-zorbits-math-to-strengthen-its-supplemental-software-offerings.md",
+      "title": "Carnegie Learning Acquires Zorbit's Math to Strengthen Its Supplemental Software Offerings",
+      "excerpt": "Carnegie Learning, a leader in artificial intelligence for education and formative assessment, announced today the acquisition of Zorbit's Math, a supplemental math software solution and curriculum that uses game-based adaptive learning to",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19757125.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19757125.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-facial-authentication-for-vaccination-not-the-same-as-facial-recognition-nandan-nilekani.md",
       "title": "Facial authentication for vaccination not the same as facial recognition: Nandan Nilekani",
       "excerpt": "Aadhaar-based facial authentication used for vaccination drive is not the same as facial recognition, Nandan Nilekani said during Microsoft India’s ExpertSpeak event on Tuesday. Nilekani is the ...",
@@ -1051,83 +1129,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-why-transformer-model-for-natural-language-processing.md",
-      "title": "Why Transformer Model for Natural Language Processing?",
-      "excerpt": "Natural Language Processing models have a varied range of applications in every possible field. A transformer model is a remarkable innovation that’s made NLP look lot easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/",
-      "originalUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Natural-Language-Processing.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/?amp",
-      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/why-transformer-model-for-natural-language-processing/?amp",
-      "publishedDateTime": "2021-04-19T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-artificial-intelligence-in-healthcare-market.md",
-      "title": "Artificial Intelligence in Healthcare Market",
-      "excerpt": "This report studies the Artificial Intelligence in Healthcare Market size, industry status and forecast, competition landscape and growth opportunity. This research report categorizes the Artificial Intelligence in Healthcare Market by companies,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/19/artificial-intelligence-in-healthcare-market-2021-global-insights-on-trends-covid-19-impact-analysis-regulatory-landscape-growth-opportunities-mergers-acquisitions-and-future-outlook-intel/",
-      "originalUrl": "https://ksusentinel.com/2021/04/19/artificial-intelligence-in-healthcare-market-2021-global-insights-on-trends-covid-19-impact-analysis-regulatory-landscape-growth-opportunities-mergers-acquisitions-and-future-outlook-intel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

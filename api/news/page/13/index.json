@@ -2,6 +2,102 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-23-nvidia-crushes-latest-artificial-intelligence-benchmarking-tests.md",
+      "title": "NVIDIA Crushes Latest Artificial Intelligence Benchmarking Tests",
+      "excerpt": "Goodson dives deeper as in its third round of submissions, MLCommons released results for MLPerf Inference v1.0.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6081e85001858f30506843b4%2F0x0.png",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/amp/",
+      "publishedDateTime": "2021-04-22T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-university-of-alaska-anchorage-today-ai-webinar-will-explore-the-development-of-self-driving-vehicles.md",
+      "title": "University Of Alaska Anchorage: TODAY: AI Webinar Will Explore The Development Of Self-Driving Vehicles",
+      "excerpt": "By 2019, many car and technology companies had implemented autonomous car programs, and Google's Waymo launched the world's first commer",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/alaska/anchorage/university-alaska-anchorage-today-ai-webinar-will-explore-development-self-driving",
+      "originalUrl": "https://patch.com/alaska/anchorage/university-alaska-anchorage-today-ai-webinar-will-explore-development-self-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-build-an-event-based-tracking-solution-using-amazon-lookout-for-vision.md",
       "title": "Build an event-based tracking solution using Amazon Lookout for Vision",
       "excerpt": "Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV). With Amazon Lookout for Vision, manufacturing companies can increase quality and reduce operational costs by quickly identifying differences in images of",
@@ -1068,101 +1164,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-ai-chatbot-maker-juji-jumps-into-higher-education.md",
-      "title": "AI chatbot maker Juji jumps into higher education",
-      "excerpt": "Juji co-founder Michelle Zhou said her company’s chatbots are more flexible and their models come pre-trained for higher education customers.",
-      "sourceUrl": null,
-      "webUrl": "https://edscoop.com/ai-chatbot-juji-higher-education/",
-      "originalUrl": "https://edscoop.com/ai-chatbot-juji-higher-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-media-es/2021/04/21190612/GettyImages-1146444386-1.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edscoop.com/ai-chatbot-juji-higher-education/?amp",
-      "cdnAmpWebUrl": "https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/ai-chatbot-juji-higher-education/?amp",
-      "publishedDateTime": "2021-04-21T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "edscoop.com",
-        "domain": "edscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-5-ai-tools-that-can-think-and-write-like-humans.md",
-      "title": "5 AI tools that can think and write like humans",
-      "excerpt": "These five tools can actually think and write just like humans! (Or at least they can passably get you started.) It would have been hard to miss the buzz around AI-powered text generation, and in spheres like content marketing a host of tools are now broadly used for day-to-day tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/5-ai-tools-that-can-think-and-write-like-humans/",
-      "originalUrl": "https://www.zdnet.com/article/5-ai-tools-that-can-think-and-write-like-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/04/21/45ffa5a8-1862-401b-bbae-10b455bb8b58/wordsmith.png",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-ai-tools-that-can-think-and-write-like-humans/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-ai-tools-that-can-think-and-write-like-humans/",
-      "publishedDateTime": "2021-04-21T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

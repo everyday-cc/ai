@@ -2,6 +2,92 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-04-15-global-artificial-intelligence-in-medical-imaging-market.md",
+      "title": "Global Artificial Intelligence in Medical Imaging Market",
+      "excerpt": "Added a New Report on Artificial intelligence in medical imaging Market Report the combination of best industry insight practical solutions talent solutions and latest technology have been used The market report is a comprehensive study of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2270936/global-artificial-intelligence-in-medical-imaging-market",
+      "originalUrl": "https://www.openpr.com/news/2270936/global-artificial-intelligence-in-medical-imaging-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U415772049_g.jpg",
+          "width": 696,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2270936/global-artificial-intelligence-in-medical-imaging-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270936/global-artificial-intelligence-in-medical-imaging-market",
+      "publishedDateTime": "2021-04-15T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise.md",
+      "title": "Gurobi Teams Up With Lityx To Accelerate The Adoption Of Mathematical Optimization Across The Enterprise",
+      "excerpt": "This combination of Lityx’s user-friendly, cutting-edge AutoML platform with Gurobi’s best-of-breed solver will give users across the enterprise (including data scientists and business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise/article_51f1e4a0-7f35-50f1-bb86-df59c14a0bec.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise/article_51f1e4a0-7f35-50f1-bb86-df59c14a0bec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-cruises-head-of-artificial-intelligence-wants-the-autonomous-car-startup-to-be-defined-by-its-ai-innovation.md",
       "title": "Cruise's head of artificial intelligence wants the autonomous-car startup to be defined by its AI innovation",
       "excerpt": "Hussein Mehanna thinks machine learning is going to set Cruise apart, and he told Insider how companies could become \"AI natives\" in the future.",
@@ -1066,83 +1152,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-nvidia-partners-with-uber-volkswagen-in-self-driving-technology.md",
-      "title": "Nvidia partners with Uber, Volkswagen in self-driving technology",
-      "excerpt": "LAS VEGAS: Nvidia Corp will partner with Uber Technologies Inc and Volkswagen AG as the graphics chipmaker's artificial intelligence ... in San Francisco by rival Waymo alleging trade secret ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2018/01/08/nvidia-partners-with-uber-volkswagen-in-self-driving-technology/",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2018/01/08/nvidia-partners-with-uber-volkswagen-in-self-driving-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-state-farm-taps-object-recognition-with-carcapture-app.md",
-      "title": "State Farm taps object recognition with CarCapture app",
-      "excerpt": "State Farm is leveraging object recognition technology and partnering with Edmunds.com to launch the CarCapture mobile application that allows users to snap a photo of the back of a car and instantly receive detailed information. Consumers will be able to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html",
-      "originalUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketing Dive",
-        "domain": "marketingdive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

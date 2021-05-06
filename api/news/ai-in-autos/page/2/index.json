@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-23-well-ai-got-quite-the-talking-to-this-week.md",
+      "title": "Well, AI got quite the talking to this week",
+      "excerpt": "The Federal Trade Commission told companies to hold themselves accountable for their algorithms or “be ready for the FTC to do it for you.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu/",
+      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketplace.org/wp-content/uploads/2021/04/ai-ft-img.jpg?fit=740%2C416",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu?amp",
+      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu?amp",
+      "publishedDateTime": "2021-04-23T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash.md",
       "title": "Tesla owners warned of 'full self-driving' risks even before fatal crash",
       "excerpt": "Tesla's \"full self-driving\" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns, clipped at least one curb ...",
@@ -1281,58 +1324,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-better-buy-baidu-vs-alibaba.md",
-      "title": "Better Buy: Baidu vs. Alibaba",
-      "excerpt": "Last September, I declared Alibaba ( NYSE:BABA) was a better buy than Baidu ( NASDAQ:BIDU). I claimed that the strength of Alibaba's core commerce business, the narrowing losses at its cloud division,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F621359%2Fgettyimages-970600792-1.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/16/better-buy-baidu-vs-alibaba/",
-      "publishedDateTime": "2021-04-16T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

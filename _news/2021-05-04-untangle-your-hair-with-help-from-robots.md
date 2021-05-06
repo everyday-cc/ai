@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 680
         isCached: true
+  - title: "Watch as a robot takes over the task of hairbrushing"
+    excerpt: "The MIT CSAIL hair-brushing robot features a robotic arm, a sensorized hairbrush, a camera and machine vision. According to the researchers, a corresponding mathematical model enables the robot to determine how to untangle the hair and feedback from the sensorized brush determines how much pressure to apply to the hair to untangle it without inflicting pain on the subject."
+    publishedDateTime: 2021-05-06T04:02:00Z
+    webUrl: "https://insights.globalspec.com/article/16492/watch-as-a-robot-takes-over-the-task-of-hairbrushing"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
 
 secured: "kSJsoZ56LmWWmpFbBBuqvY+HMp12yX83GPhpnuVT9UWX+cLKtJB6pqTYQeP2F/reETJrJaL8zTUQHO8swcXQP0gz+w6j66ph4Hj8VUwr+9n339KD/6CVVWgRLc9D2izddc2R7PWCy0kqkBHoKA3jvVyL1U1+dVYHh3K1/043ZJqUUOeXTsm2iYsGgUrIfGiH7WEDwfWzFGsS+PyxPb1FEouRgUMSWGlC1/FYpJwhCnJ5mlCLkw5fGa8tuExtYyUJoYhtS9Yh3FIzSn37Aoan6nDO67Nlyl2/vyq6CGVGNYSRI+MgKMk5SOJLlV8vaZxcYnrRnUeA/gLVeOFOknJKSo6bEPMvUR/fvBYaRfFSyjnyOtHPFeC4jVV2hqJXt1r+BVtMi/BIdOmZxDwZC8eAxsF5rJGM78xCoNBDTExXQHKw6p4DZMasUgFabeqUbYnlfRc2yeg/RBwvPeQWWYBh1i2ITNCg1o2irGHvPL9EAXyPDCUwLQEgjDcclclv7CjW9x61VmhpiUKheJwCgNI7kg==;AtuVd6mOO0crtjgal0Aerg=="
 ---

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-04-innocent-black-man-jailed-after-false-facial-recognition-match.md",
+      "title": "Innocent Black man jailed after false facial recognition match",
+      "excerpt": "All the latest stories from around the world designed for your social feed. Like, Share and comment",
+      "sourceUrl": null,
+      "webUrl": "https://www.trtworld.com/video/social-videos/innocent-black-man-jailed-after-false-facial-recognition-match/609145f43b0f87001e8e3263",
+      "originalUrl": "https://www.trtworld.com/video/social-videos/innocent-black-man-jailed-after-false-facial-recognition-match/609145f43b0f87001e8e3263",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdni0.trtworld.com/w640/h360/q75/104699_FacialRecgonitionBiasYTB_1620133514949.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TRT World",
+        "domain": "trtworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-defining-a-role-for-ai-ethics-in-national-security.md",
       "title": "Defining a role for AI ethics in national security",
       "excerpt": "We spoke with Mariarosaria Taddeo, an associate professor and senior research fellow at the Oxford Internet Institute and Dstl Ethics Fellow at the Alan Turing Institute working on digital and AI ethics about two recent reports from the UK and the US on using AI in national defence and security.",
@@ -718,7 +761,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -1156,58 +1199,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025.md",
-      "title": "Artificial Intelligence In Diagnostics Market Expected to Expand at a High CAGR By End of 2025",
-      "excerpt": "Artificial Intelligence In Diagnostics analyze relationships between prevention or treatment techniques and patient outcomes. These AI diagnostic tools support operational initiatives that increase cost saving,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025-2021-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025-2021-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

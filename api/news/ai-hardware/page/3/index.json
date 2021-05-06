@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-12-nvidia-unveils-grace-a-high-performance-arm-server-cpu-for-use-in-big-ai-systems.md",
+      "title": "NVIDIA Unveils Grace: A High-Performance Arm Server CPU For Use In Big AI Systems",
+      "excerpt": "Dubbed Grace – after Grace Hopper, the computer programming pioneer and US Navy rear admiral – the CPU is NVIDIA’s latest stab at more fully vertically integrating their hardware stack by being able to offer a high-performance CPU alongside their regular GPU wares.",
+      "sourceUrl": null,
+      "webUrl": "https://www.anandtech.com/show/16610/nvidia-unveils-grace-a-highperformance-arm-server-cpu-for-use-in-ai-systems",
+      "originalUrl": "https://www.anandtech.com/show/16610/nvidia-unveils-grace-a-highperformance-arm-server-cpu-for-use-in-ai-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.anandtech.com/doci/16610/Image%20-%20Grace_678x452.jpg",
+          "width": 678,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AnandTech",
+        "domain": "anandtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-cloudera-and-nvidia-accelerate-data-analytics-and-ai-in-the-cloud.md",
       "title": "Cloudera and NVIDIA Accelerate Data Analytics and AI in the Cloud",
       "excerpt": "Cloudera, (NYSE: CLDR), the enterprise data cloud company, today announced that Cloudera Data Platform (CDP) will integrate NVIDIA RAPIDS-accelerated Apache Spark 3.0 libraries, intended to enable enterprises to accelerate data pipelines and improve performance of data and ML workflows.",
@@ -1334,40 +1377,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-alluxio-advances-analytics-and-ai-with-nvidia-accelerated-computing.md",
-      "title": "Alluxio Advances Analytics and AI with NVIDIA Accelerated Computing",
-      "excerpt": "This is the case for both analytics pipelines and AI / Machine Learning (ML) pipelines. Benefits from GPU acceleration for an end-to-end pipeline are limited if data access dominates the execution time. GPU-based processing drives higher data access ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-science-scott-mcclellan-cloud-computing-open-source-software-b37172100a5402dda830de1c753045a5",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-science-scott-mcclellan-cloud-computing-open-source-software-b37172100a5402dda830de1c753045a5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

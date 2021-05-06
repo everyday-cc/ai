@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-06-tesla-supplier-delta-electronics-invests-7m-in-ai-chip-startup-kneron.md",
+      "title": "Tesla supplier Delta Electronics invests $7M in AI chip startup Kneron",
+      "excerpt": "Despite a persistent semiconductor shortage that is disrupting the global automotive industry, investors remain bullish on the chips used to power next-generation vehicles. Kneron, a startup that develops semiconductors to give devices artificial intelligence capabilities by using edge computing,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/",
+      "originalUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/kneron-e1610971717245.jpg?w=839",
+          "width": 839,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/delta-electronics-kneron/amp/",
+      "publishedDateTime": "2021-05-05T21:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-service-robotics-market-analysis-segments-growth-and-value-chain-2021-2024-irobot-corporation-softbank-robotics.md",
       "title": "Service Robotics Market Analysis, Segments, Growth and Value Chain 2021 – 2024 | iRobot Corporation, Softbank Robotics",
       "excerpt": "The emergence of IoT and artificial intelligence and subsequent rise in demand for advanced robotics solutions is driving the service robotics market share over the projected timeframe Robotics systems in numerous application segments ranging from household to industrial are witnessing",
@@ -588,7 +641,7 @@
       "originalUrl": "https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1167,59 +1220,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-10-business-models-that-reimagine-the-value-creation-of-ai-and-ml.md",
-      "title": "10 Business Models That Reimagine The Value Creation Of AI And ML",
-      "excerpt": "Every day we read about some new AI breakthrough. AI is omnipresent in our everyday lives whether we use mobile devices, wearables or voice assistants or stream our favorite shows. Enterprises control the epicenter of the AI economy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60915bc5768c20e9478f008b%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/",
-      "publishedDateTime": "2021-05-05T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],

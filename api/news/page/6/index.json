@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-30-baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing.md",
+      "title": "Baidu to roll out fully automated self-driving taxi service in Beijing",
+      "excerpt": "Baidu's robotaxis will be hitting the streets of Beijing starting at Shougang Park, one of the venues for the 2022 Beijing Winter Olympics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
+      "originalUrl": "https://www.zdnet.com/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/30/eb7f4669-5ff8-4dff-9f4e-225845d30363/baidu-apollo-2.jpg",
+          "width": 3792,
+          "height": 2528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
+      "publishedDateTime": "2021-04-29T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-baidu-launches-robotaxi-service-outside-beijing-how-fully-driverless-is-it-vs-autox.md",
       "title": "Baidu Launches Robotaxi Service Outside Beijing. How ‘Fully Driverless’ Is It Vs. AutoX?",
       "excerpt": "Baidu, the leading search engine in China, has launched a robotaxi service in Shougang Park - an industrial park on the outskirts of Beijing which will be a site for the 2023 winter Olympics. How does it compare with AutoX's offering and is it the first?",
@@ -1160,49 +1212,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-computer-vision-in-ai-the-data-needed-to-succeed.md",
-      "title": "Computer vision in AI: The data needed to succeed",
-      "excerpt": "Developing the capacity to annotate massive volumes of data while maintaining quality is a function of the model development lifecycle that enterprises often underestimate. It’s resource intensive and requires specialized expertise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
-      "originalUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/VA5_Laptop_1200.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
-      "publishedDateTime": "2021-04-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

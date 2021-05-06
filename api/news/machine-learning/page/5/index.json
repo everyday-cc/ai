@@ -2,6 +2,41 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-30-insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy.md",
+      "title": "inSearchX Partners with Strategic Visions Using Machine Learning to Help Customers Find their Ideal Car With Uncanny Accuracy",
+      "excerpt": "Startup inSearchX and advisory services firm Strategic Vision announce they have partnered to deliver an exciting vehicle-matching technology that pairs new vehicle shoppers with their ideal vehicle match.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy/",
+      "originalUrl": "https://www.financialbuzz.com/insearchx-partners-with-strategic-visions-using-machine-learning-to-help-customers-find-their-ideal-car-with-uncanny-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-a-rundown-top-programming-languages-in-machine-learning-in-2021.md",
       "title": "A Rundown: Top Programming Languages in Machine Learning in 2021",
       "excerpt": "Python is a widely-used language, however, it is the essential choice for the greater part of its users because of the arrival of TensorFlow and a wide selection of other libraries Python is the most ideal choice for amateurs in the field. There are a ...",
@@ -1210,40 +1245,6 @@
       "provider": {
         "name": "IET",
         "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-deep-learning-enables-accurate-diagnosis-of-novel-coronavirus-covid-19-with-ct-images.md",
-      "title": "Deep learning Enables Accurate Diagnosis of Novel Coronavirus (COVID-19) with CT images",
-      "excerpt": "A deep learning-based CT diagnosis system was developed to identify patients with COVID-19. The experimental results showed that our model can accurately identify the COVID-19 patients from the healthy with an AUC of 0.99, recall (sensitivity) of 0.93 ...",
-      "sourceUrl": null,
-      "webUrl": "https://ieeexplore.ieee.org/document/9376253",
-      "originalUrl": "https://ieeexplore.ieee.org/document/9376253",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IEEE",
-        "domain": "ieee.org",
         "images": null,
         "publishers": null,
         "authors": null

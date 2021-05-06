@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-06-tesla-supplier-delta-electronics-invests-7m-in-ai-chip-startup-kneron.md",
+      "title": "Tesla supplier Delta Electronics invests $7M in AI chip startup Kneron",
+      "excerpt": "Despite a persistent semiconductor shortage that is disrupting the global automotive industry, investors remain bullish on the chips used to power next-generation vehicles. Kneron, a startup that develops semiconductors to give devices artificial intelligence capabilities by using edge computing,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/",
+      "originalUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/kneron-e1610971717245.jpg?w=839",
+          "width": 839,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/delta-electronics-kneron/amp/",
+      "publishedDateTime": "2021-05-05T21:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-yandex-self-driving-group-clocks-7-million-autonomous-miles.md",
       "title": "Yandex Self-Driving Group Clocks 7 Million Autonomous Miles",
       "excerpt": "Yandex Self-Driving Group has driven seven million autonomous miles (11.5 million kilometers) since the team was founded in 2017, more than any other company has announced, save for Alphabet’s Waymo.",
@@ -1422,49 +1475,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-well-ai-got-quite-the-talking-to-this-week.md",
-      "title": "Well, AI got quite the talking to this week",
-      "excerpt": "The Federal Trade Commission told companies to hold themselves accountable for their algorithms or “be ready for the FTC to do it for you.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2021/04/ai-ft-img.jpg?fit=740%2C416",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu?amp",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/well-ai-got-quite-the-talking-to-this-week-warnings-regulations-ftc-eu?amp",
-      "publishedDateTime": "2021-04-23T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

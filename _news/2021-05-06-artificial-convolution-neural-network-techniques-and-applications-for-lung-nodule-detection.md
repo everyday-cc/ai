@@ -35,6 +35,20 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Global Artificial Intelligence for Telecommunications Applications Market Size, Share, Value, and Competitive Landscape 2021-2026"
+    excerpt: "The Artificial Intelligence for Telecommunications Applications market report provides a detailed analysis of global"
+    publishedDateTime: 2021-05-05T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-telecommunications-applications-market-size-share-value-and-competitive-landscape-2021-2026-2021-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "CrzuRyrN8oVtRUEOtgXIhOisG1wCYL2aWz6GGj31K2CJNpVZUguGAUQwaGD4B24QhiS5kfEdmkY9KEZVmOASWTF/lc8XaaWYh2V8bin75bohLqz65onbXsmRHvOGQ5Qlvz97EOFILXP5WehlzvP8zeuA/I3P2Vxsm31LfTpuf+Kiscs3VhOZ0Kq8Tlo7uUEh0hINlaUvYiNra3m+ocCD2fOZOEhJxVy1rHbpDpq3OHPF9JNWyT5WEBiAzr9fF0Db31WULYeT+hRkXRW/UAsaTinctOgVC/Rfx7M6kl8K0D+TNKpfG4tTjr5awkDMbIX2QDzzr4lACDni/9cy9n/ZTtxhSLfRNMEVjix0u3kxIpc=;VMCXUpgw4t84ewpU1c1dBw=="
 ---
