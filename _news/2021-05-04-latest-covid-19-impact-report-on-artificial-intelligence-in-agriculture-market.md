@@ -33,20 +33,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Artificial Intelligence Powers Rapid COVID-19 Antibody Test"
-    excerpt: "University of Utah researchers have developed a fast, easy-to-administer COVID-19 antibody test powered by artificial intelligence."
-    publishedDateTime: 2021-05-04T16:42:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-powers-rapid-covid-19-antibody-test"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/84055911-artificial-intelligence-automation-infographic-background.jpg"
-        width: 700
-        height: 448
-        isCached: true
   - title: "President Alvi stresses deploying Artificial Intelligence to predict COVID-19 like epidemics"
     excerpt: "President Dr. Arif Alvi underscored the need for acquiring the help of medical professionals in the fields of public health and artificial intelligence to analyze various datasets and predict outbreaks of epidemics at the national level."
     publishedDateTime: 2021-05-05T04:48:00Z

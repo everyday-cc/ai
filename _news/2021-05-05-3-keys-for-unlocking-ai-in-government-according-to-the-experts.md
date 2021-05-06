@@ -7,7 +7,7 @@ originalUrl: "https://www.govexec.com/assets/3-keys-unlocking-ai-government-acco
 webUrl: "https://www.govexec.com/assets/3-keys-unlocking-ai-government-according-experts.pdf"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 649
     height: 839
     isCached: true
+
+related:
+  - title: "The federal government gets a central AI website in AI.gov"
+    excerpt: "The National Artificial Intelligence Initiative Office compiled all government activities advancing the effort on a single website launched Wednesday. AI.gov features recent AI reports and news across agencies;"
+    publishedDateTime: 2021-05-06T18:35:00Z
+    webUrl: "https://www.ai.gov/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 137
+    images:
+      - url: "https://www.ai.gov/wp-content/uploads/2021/02/National-AI-Office-Seal.png"
+        width: 4092
+        height: 4092
+        isCached: true
 
 secured: "sndm8FqnrRGh2RopnSLFxdVEWND1rvNOXjVz+4yv34RPcmcpEntHO7iCaTKaNr2oFNTxbThIV1Wq5UAhbzU/DG9gwoEoYf/dsBveChHW5ZeLREYSEAqG8aSaVfI4cetzJyyTtjMG+Qm80UYPPiu9zYvJ2o2NzFjAgTP+IS6TczNY6mYE+PNnT8fY4uIwI5C4zSJXdC69SmxmmA8QLAVSHXfM1tfrlFJIoXQ1Hbr074wY2KUa3njhICOp+5yHfNhQ8arDruYZGGjLfyodY9oq/hOd3GxEhc58u2KLoQjA68QHwit+YFHN4iNjYf2HVUGu7MEFnKCnBNJZYNDI9KTpPbHnwN49mX1kKyIEpMjHAjUcK0VIg00LNilBbpNxQR7BsqRh7sdmPEEKm0zr4ssN3F0cj6jL9MAENIEuQrHGbjkd2kwqsHeqy0bRspBm46NZW72G+0ux2ZMug6hq19fWDTzaBhs/KwSEdLYDom9kPDtHiZeXUHeYl9OZ3i0Co750d0aciCAO8D/v3oqGyv/2vg==;TLHZZ0Zta3+AMycKLp+w1A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/states-push-back-facia
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/states-push-back-facial-recognition-police-77510175"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "States push back against use of facial recognition technology by police"
+    excerpt: "I think people are just freaked out, and rightfully so, about this technology,” said Freddy Martinez, director of Lucy Parsons Labs, a Chicago nonprofit that specializes in citizens' digital rights."
+    publishedDateTime: 2021-05-06T18:45:00Z
+    webUrl: "https://www.mahoningmatters.com/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
+    ampWebUrl: "https://www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
+    cdnAmpWebUrl: "https://www-mahoningmatters-com.cdn.ampproject.org/c/s/www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
+    type: article
+    provider:
+      name: mahoningmatters
+      domain: mahoningmatters.com
+    quality: 74
+    images:
+      - url: "https://www.vmcdn.ca/f/files/mahoningmatters/images/facial-recognition.jpeg;w=640;h=422;mode=crop"
+        width: 640
+        height: 422
+        isCached: true
   - title: "Innocent Black man jailed after false facial recognition match"
     excerpt: "All the latest stories from around the world designed for your social feed. Like, Share and comment"
     publishedDateTime: 2021-05-04T13:20:00Z

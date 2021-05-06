@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-07-covid-era-education-tech-narrowed-college-learning-gap-for-poor-minorities.md",
+      "title": "Covid-era Education Tech Narrowed College Learning Gap for Poor, Minorities",
+      "excerpt": "The demand for artificial intelligence and machine-learning skills, for example, is expected to grow by 71 percent per year through 2025, according to a recent study by the business analytics firm Burning Glass Technologies. And online education tends to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355",
+      "originalUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1789945/online-learning-unlv.jpg",
+          "width": 2500,
+          "height": 1729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355?amp=1",
+      "publishedDateTime": "2021-05-06T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue.md",
       "title": "How Genworth built a serverless ML pipeline on AWS using Amazon SageMaker and AWS Glue",
       "excerpt": "This post is co-written with Liam Pearson, a Data Scientist at Genworth Mortgage Insurance Australia Limited. Genworth Mortgage Insurance Australia Limited is a leading provider of lenders mortgage insurance (LMI) in Australia; their shares are traded on Australian Stock Exchange as ASX: GMA. Genworth",
@@ -106,7 +159,7 @@
       "originalUrl": "https://www.techspot.com/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -395,51 +448,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-05-tech-behind-dino-facebooks-open-source-ml-model-for-computer-vision.md",
-      "title": "Tech Behind DINO, Facebook’s Open-Source ML Model For Computer Vision",
-      "excerpt": "Our model can discover and segment objects in an image or a video with absolutely no supervision, said researchers at Facebook AI.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/tech-behind-dino-facebooks-open-source-ml-model-for-computer-vision/",
-      "originalUrl": "https://analyticsindiamag.com/tech-behind-dino-facebooks-open-source-ml-model-for-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-23.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-05-05-getting-started-with-deep-learning-using-tensorflow-keras.md",
       "title": "Getting Started With Deep Learning Using TensorFlow Keras",
       "excerpt": "Deep Learning is a subset of Machine learning. It was developed to have an architecture and functionality similar to that of a human brain.",
@@ -651,7 +659,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -853,7 +861,7 @@
       "originalUrl": "https://www.cioapplications.com/news/tredence-introduces-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-nid-7609.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1403,19 +1411,19 @@
     {
       "path": "_news/2021-04-27-capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages.md",
       "title": "CAPQ™ System: The Only Deep Learning/AI Vision Inspection System for Bottled Beverages",
-      "excerpt": "FISHERS, Ind., April 27, 2021 /PRNewswire/ -- The CAPQ TM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level ...",
+      "excerpt": "The CAPQTM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level inspection. The CAPQ System uses AI-powered deep learning software to recognize what a “good” capped bottle is supposed to look like and can deliver a dramatic reduction in false-rejects,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages-301277179.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages-301277179.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1496689/Verista_horiz_full_color_Logo.jpg?p=facebook",
-          "width": 2503,
-          "height": 1312,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1425,11 +1433,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T07:05:00-07:00",
+      "publishedDateTime": "2021-04-27T09:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,274 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-03-13-4-ways-to-use-ai-to-enhance-the-customer-experience.md",
+      "title": "4 Ways to Use AI to Enhance the Customer Experience",
+      "excerpt": "Global spending on AI is expected to double by 2024. AI is quickly becoming a cornerstone of customer service especially, but consumer sentiment is mixed. Fifty percent of customers believe ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/366465",
+      "originalUrl": "https://www.entrepreneur.com/article/366465",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1615325187-GettyImages-1206801125.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/366465",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366465",
+      "publishedDateTime": "2021-03-12T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-facebook-aims-to-advance-machine-learning-with-two-new-video-ai-projects.md",
+      "title": "Facebook aims to advance machine learning with two new video AI projects",
+      "excerpt": "Facebook relies on AI to perform tasks ranging from content ... This may dramatically advance research to teach machines to understand complex long-form actions in video.” Show your support ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/03/12/facebook-aims-advance-machine-learning-two-new-video-ai-projects/",
+      "originalUrl": "https://siliconangle.com/2021/03/12/facebook-aims-advance-machine-learning-two-new-video-ai-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/skatefb.png",
+          "width": 1200,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-insights-on-the-ai-in-computer-vision-global-market-to-2027-by-component-end-user-and-region.md",
+      "title": "Insights on the AI in Computer Vision Global Market to 2027 - by Component, End-user and Region",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, March 12, 2021 /PRNewswire/ -- The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-computer-vision-global-market-to-2027-by-component-end-user-and-region-1030179693",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-computer-vision-global-market-to-2027-by-component-end-user-and-region-1030179693",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T07:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.md",
+      "title": "AIICT with AWS offers new Certified Artificial Intelligence Professional course",
+      "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new Certified Artificial Intelligence Professional course, jointly developed with Amazon Web Services (AWS). The new course is aimed at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itwire.com/freelancer-sp-720/aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.html",
+      "originalUrl": "https://www.itwire.com/freelancer-sp-720/aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itwire.com/media/k2/items/cache/e750cc282c5a3b7cf7d307fee6b8d38d_M.jpg",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-super-recognizers-some-people-excel-at-both-face-and-voice-recognition.md",
+      "title": "Super-recognizers: Some people excel at both face and voice recognition",
+      "excerpt": "Similar findings have also been discovered for voice recognition. The condition \"phonagnosia\" describes those who struggle to recognize the voices of their friends and family. But whether or not ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-03-super-recognizers-people-excel-voice-recognition.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-super-recognizers-people-excel-voice-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/superrecogni.jpg",
+          "width": 926,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-super-recognizers-people-excel-voice-recognition.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-super-recognizers-people-excel-voice-recognition.amp",
+      "publishedDateTime": "2021-03-12T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-facebooks-ar-vision-is-a-contextual-ai-powered-interface.md",
+      "title": "Facebook’s AR Vision is a Contextual AI-Powered Interface",
+      "excerpt": "Virtual reality (VR) might be Facebook’s main commercial focus when it comes to immersive technology at the moment but the company is heavily investing in an augmented reality (AR) future. Today, Facebook Reality Labs (FRL) has given another teasing look into its vision,",
+      "sourceUrl": null,
+      "webUrl": "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/",
+      "originalUrl": "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vrfocus.com/wp-content/uploads/2021/03/Facebook_AR-Glasses.jpg",
+          "width": 711,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/amp/",
+      "cdnAmpWebUrl": "https://www-vrfocus-com.cdn.ampproject.org/c/s/www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/amp/",
+      "publishedDateTime": "2021-03-12T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VRFocus",
+        "domain": "vrfocus.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-rit-researchers-helping-to-develop-artificial-intelligence-systems-capable-of-playing-starcraft-ii.md",
       "title": "RIT researchers helping to develop artificial intelligence systems capable of playing 'Starcraft II'",
       "excerpt": "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II.",
@@ -828,255 +1096,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-ai-in-the-arms-race-china-expected-to-surpass-us-military-capabilities-in-the-coming-decade.md",
-      "title": "AI in the Arms Race: China Expected to Surpass US Military Capabilities in the Coming Decade",
-      "excerpt": "The Chinese government’s growing demand for Artificial Intelligence (AI) has triggered a swell in tech companies moving to corner the market. Its surveillance – or more bluntly, spying – capabilities are not only on track to surpass American technology in the next five to ten years,",
-      "sourceUrl": null,
-      "webUrl": "https://cnsnews.com/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities",
-      "originalUrl": "https://cnsnews.com/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNSNews.com",
-        "domain": "cnsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-how-one-employees-exit-shook-google-and-the-ai-industry.md",
-      "title": "How one employee's exit shook Google and the AI industry",
-      "excerpt": "Timnit Gebru, then co-leader of the ethical AI team at Google, sent a private message on Twitter to Emily Bender, a computational linguistics professor at the University of Washington.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/03/11/tech/google-ai-ethics-future/index.html",
-      "originalUrl": "https://www.cnn.com/2021/03/11/tech/google-ai-ethics-future/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210311052956-google-headquarters-mountain-view-ca-2020-stock-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/11/tech/google-ai-ethics-future/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/tech/google-ai-ethics-future/index.html",
-      "publishedDateTime": "2021-03-11T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-hugging-face-raises-40-million-for-its-natural-language-processing-library.md",
-      "title": "Hugging Face raises $40 million for its natural language processing library",
-      "excerpt": "Hugging Face has raised a $40 million Series B funding round — Addition is leading the round. The company has been building an open source library for natural language processing (NLP) technologies. You can find the Transformers library on GitHub — it has 42,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/",
-      "originalUrl": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-azure-gm-joins-ocp-board.md",
-      "title": "Azure GM Joins OCP Board",
-      "excerpt": "The Open Compute Project Foundation (OCP) announced that Microsoft Azure GM Zaid Kahn will hold a seat on its board. Kahn replaces Kushagra Vaid, who has served over the past year. Vaid had been engaged with OCP since 2014 and previously served on the OCP Incubation Committee for several years.",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/03/azure-gm-joins-ocp-board/",
-      "originalUrl": "https://insidehpc.com/2021/03/azure-gm-joins-ocp-board/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-ai-moves-to-the-edge.md",
-      "title": "AI Moves to the Edge",
-      "excerpt": "In general, for IP video cameras, common video analytic features like object recognition, zone detection, number plate recognition are now available as AI algorithms embedded within the camera itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21211053/ai-moves-to-the-edge",
-      "originalUrl": "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21211053/ai-moves-to-the-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/03/GettyImages_1170174496.603d38e9b9b20.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-using-the-power-of-artificial-intelligence-to-detect-disease.md",
-      "title": "Using the power of artificial intelligence to detect disease",
-      "excerpt": "A large international collaboration, led by A/Prof Xiu Ying Wang and Prof Manuel Graeber of the University of Sydney, has developed an innovative, advanced artificial intelligence (AI) application, PathoFusion,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg",
-          "width": 1920,
-          "height": 1897,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.amp",
-      "publishedDateTime": "2021-03-11T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

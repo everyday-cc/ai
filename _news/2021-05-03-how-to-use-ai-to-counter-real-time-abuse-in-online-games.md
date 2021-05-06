@@ -55,6 +55,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "How Ally uses AI to approve auto loans"
+    excerpt: "The digital-only bank has adopted machine learning to process loans faster, more accurately and with better fraud detection than in the past."
+    publishedDateTime: 2021-05-05T22:12:00Z
+    webUrl: "https://www.americanbanker.com/news/how-ally-uses-ai-to-approve-auto-loans"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/c978157/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb0%2F8c%2F91418d8643adbff96a74a4f99b09%2Fab-050521-ally-2.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7dm5xpY9UkS8qO/xtHsfsqPyN3ttA5OnHVRMPAvF5B1Flxq7RilpZSkFqxo1RaoYUEzIW576Gaa75/rNRkzlCJN+MwbjLp8DFUl2bZLu2UgnhH9APahAPAG8jnw3xsk/ui1TsVE5s3/aenhpzJtZJmrvFXsBdQst6JYo6ecO0oSSbgtcZUw+0fLHa9s5alB6ILE4SeICi404hbRF4rF5LiI39C8YqTG/5tBHSQftohJtCsTJpvKLfKyCr4GFAsCJuannvN590YYSEWBlyoZT+dmaGfDZ7qU01nFU7hS1wS6iRSPlZHndfddXrD47GrPPgfPBWr5tzFyFW33jzB0ImBM0/KtbHONltDtFClI8lW8=;8dCgyCrf0kT3jnCfgOzqZg=="
 ---

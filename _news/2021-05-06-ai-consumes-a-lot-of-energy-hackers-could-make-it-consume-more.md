@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/05/06/1024654/ai-energy-hack-adve
 ampWebUrl: "https://www.technologyreview.com/2021/05/06/1024654/ai-energy-hack-adversarial-attack/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/06/1024654/ai-energy-hack-adversarial-attack/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/taylor-vick-M5tzZtFCOfs-unsplash.jpg?w=3000"
@@ -25,6 +26,6 @@ images:
     height: 1684
     isCached: true
 
-secured: "lo9qY+hiqHo3Gx0XWIZA1UMeWzCQVVa9KZkTS7tg6FgnVQahcYnpZQubNI47iPF6REw93CrrSDgYOzXnA3qQT2yEg2Ae9yNzCPrTwceDj+A4xK/gaKW8bJVNI6LoD+p1nEvDaZdQrUMxBVFzIJeArDs6WX93tVcRaiQSe7RpVagqJjTfOYV5q58HM/BEb1ni8JhMF04rW7ev5ThyHr1WyG6RVpl2l6n68GF47tiiLnSSDCgte7U/EGpu9glSGjBhIFzZZnbVs6xrkFFCdp/4CW1YdA9awB2gEMrtXJ+AsUFb6eAQ9BscaVOu6xvMwsAtac8cl3a/dQD0vLWgivjyU1H0XVW/C/O2dEIS9hV5jb8=;MUcSRmn6U444s9VjgUuSeQ=="
+secured: "dF1HS5Cbd+m6/nt741KFNfHgYkjtM/NUwcN0E4Phyjhi0hWMCRVc+pyuJY3h9gslTdmC3PIOYD/8J1QVEVViZQUa/A+32pqIusj0yHb8Ym8kUxi1RY/c4aW56Od4tmJuofQYF1JqLtT58knnboFsmNmEhSRXPuNr3m9meCYXRqlbIa0oxPCEJzjR5sudoVfMdgYP+L8YjQFv5oLvBWVqIHIy235LIUMqdU4uPIRNZYkzcE86nOsB9shNXgIEeF2HXZGjDNYejgQkg3NxyOn+OqZa4jJnyVtSvwH/IGCOpXtgWKZkhckE9SpICI3KyEtmkqEKTLtdn3uM1TnZEtXJ4Je2MwiXwsLApNf5jlZFFxnZLaudBa+N43r03a0T5uQ4cfOVpbPbP2WqYjzUXIaKRKPRCyRAqmObtQmdNSO4bwJx360xl9sh2xkTYjO8t/MXVgkT6PxiTodMKOgAY4UAyQ/IDZOwumIL796ayi18kRbGmZn0ngDxRoj1Ysj1Ht0D+704BLQ1BzCRDCkE/acgUQ==;leHTaFTEP58nMpCriJEitA=="
 ---
 

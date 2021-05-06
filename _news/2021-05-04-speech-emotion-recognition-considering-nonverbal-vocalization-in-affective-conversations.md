@@ -60,6 +60,20 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 8
+  - title: "RSIP Vision Launches an Advanced AI-Based Tool for Prostate MRI and Ultrasound Registration Enabling Precise Navigation in Key Procedures"
+    excerpt: "RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, announced today a new prostate MRI-to-ultrasound registration tool. The tool’s fully automated,"
+    publishedDateTime: 2021-05-06T13:03:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/rsip-vision-launches-an-advanced-ai-based-tool-for-prostate-mri-and-ultrasound-registration-enabling/article_2c3e8c00-703c-5a1b-be78-38d4762c804e.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 6
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/5/65/565ea177-550c-544f-92e5-0b6eaa23ab66/6093ec330765f.image.jpg?resize=702%2C630"
+        width: 702
+        height: 630
+        isCached: true
   - title: "Pay Attention to Evolution: Time Series Forecasting with Deep Graph-Evolution Learning"
     excerpt: "Time-series forecasting is one of the most active research topics in artificial intelligence. A still open gap in that literature is that statistical and ensemble learning approaches systematically present lower predictive performance than deep learning methods."
     publishedDateTime: 2021-05-04T16:11:00Z

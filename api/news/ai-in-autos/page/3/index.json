@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-19-baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years.md",
+      "title": "Baidu expects to supply self-driving system to 1 million cars in 3-5 years",
+      "excerpt": "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/03/Baidu-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp",
+      "publishedDateTime": "2021-04-18T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-baidu-expects-to-supply-self-driving-system-to-one-million-cars-in-three-to-five-years.md",
       "title": "Baidu expects to supply self-driving system to one million cars in three to five years",
       "excerpt": "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday.Li Zhenyu, senior corporate vice president at Baidu,",
@@ -1301,49 +1344,6 @@
       "provider": {
         "name": "Insider Monkey",
         "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-travelcenters-of-america-opens-6th-wisconsin-store.md",
-      "title": "TravelCenters of America opens 6th Wisconsin store",
-      "excerpt": "Golden Oil Osseo Truck Stop off I-94, between Madison and Minneapolis, is converting to a TA Express through a franchise agreement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/news/press-release/21160910/travelcenters-of-america-opens-6th-wisconsin-store",
-      "originalUrl": "https://www.fleetowner.com/news/press-release/21160910/travelcenters-of-america-opens-6th-wisconsin-store",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/04/16x9/dreamstime_l_109107157.607449e2b6375.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/training-privacy-key-to-artific
 webUrl: "https://healthitanalytics.com/news/training-privacy-key-to-artificial-intelligence-use-post-covid"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Powers Rapid COVID-19 Antibody Test"
-    excerpt: "University of Utah researchers have developed a fast, easy-to-administer COVID-19 antibody test powered by artificial intelligence."
-    publishedDateTime: 2021-05-04T16:42:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-powers-rapid-covid-19-antibody-test"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/84055911-artificial-intelligence-automation-infographic-background.jpg"
-        width: 700
-        height: 448
-        isCached: true
   - title: "President Alvi stresses deploying Artificial Intelligence to predict COVID-19 like epidemics"
     excerpt: "President Dr. Arif Alvi underscored the need for acquiring the help of medical professionals in the fields of public health and artificial intelligence to analyze various datasets and predict outbreaks of epidemics at the national level."
     publishedDateTime: 2021-05-05T04:48:00Z
@@ -64,6 +50,6 @@ related:
       domain: ksusentinel.com
     quality: 15
 
-secured: "qQS+M5+rEbFhHxoRihDlDglxNwVS+yr/luT0ALdUeEIyQg1vCetxwdBBLigasG5JPU+M2tSlBV7eyaUH9/N1GIxer+Oie1zkK0VNaliHypVqmeeds5535saj6M5/W3lK2SqkghuBmmWcnBdqF0mIA2ElQ9CiURDHMXLSVNEdy1VkTM+vNTuLMcQ5OBQjgzRtvmUthFUNfLNI6AWcAY6/gPYssfen1sCgvHsaZsiC/F6CIhtC6Ve5g/DJK9EEt5uvQDwIHxTxFuVs6D833N5x7Vai0rvtcXaIEYcZss/VGo/hiwYmX7LDAyJ2ltkox4amqsIUA+oXagkyc7N06YgRGh4YUdRMgNLvXMe6fIMz7sE=;M3N0svrmctUjqwN911MO7w=="
+secured: "6FFAS6U9iW3MfN2mQ9oE/f9L5vqcy5gB8NLW7T8tA6qz00UPTgZdUbiAJRk9lxmF0pw//nq/kbIQF94+zt4Vz4n2JPY/JBbIM8KBc4xv4unvl2dvX5D/svr5TsrVbAe30BULBkf9z/Vpaq50fTZMNAGDv4ZkwV0hnj+KXjsJssrhS2ERWWF38B7MOwBVq+xdYwXeerLOZzaWmqB39jj3jf4xFl6ZZdMowL9LqjcStNbbsSfI7B78Tl6OI4Mp3dgOokbluX8QWlBcWEWLPnWPorH52yr9wcdEe996krwXURv7sql+G3864azmrJwsTKP+cj7nhUJtCt3cgq4wZPgIk0HCcHTFUbinupxJvX43CMrJg2pCvOZDl8X2i2BaGX/0as3Hu2PVv4GdoVB8904lbIpHTFF40JeWYFBoD5Kd6TH8A8XjN5qsZsteQ5WWDe8CcLsteB6Rk4S2AMZg3o2n6+n4PzHLr88cYXcPsrNpS0aG9BogcXxYNTLwqGvYEqNnerS/0SBa9KCO2typj7N9jA==;j4IJuUDn+72ogLA24r0tWg=="
 ---
 

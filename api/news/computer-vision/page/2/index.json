@@ -2,26 +2,35 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-22-deep-neural-networks-see-same-as-humans-but-differently-iisc-study.md",
-      "title": "Deep neural networks see same as humans but differently: IISc study",
-      "excerpt": "\"Therefore, even though these neural networks and the human brain carry out the same object recognition tasks, the steps followed by the two are very different.\" Their study also finds that ...",
+      "path": "_news/2021-04-22-iisc-research-aims-at-improving-computer-deep-network.md",
+      "title": "IISc research aims at improving computer deep network",
+      "excerpt": "Therefore, even though these neural networks and the human brain carry out the same object recognition tasks, the steps followed by the two are very different.”The study provides hints to what ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/deep-neural-networks-see-same-as-humans-but-differently-iisc-study-news-national-veweOucfbehjg.html",
-      "originalUrl": "https://www.sify.com/news/deep-neural-networks-see-same-as-humans-but-differently-iisc-study-news-national-veweOucfbehjg.html",
+      "webUrl": "https://www.newindianexpress.com/cities/bengaluru/2021/apr/22/iisc-research-aims-at-improving-computer-deep-network-2293191.html",
+      "originalUrl": "https://www.newindianexpress.com/cities/bengaluru/2021/apr/22/iisc-research-aims-at-improving-computer-deep-network-2293191.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/9/14/w600X390/IISC.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.sify.com/news/deep-neural-networks-see-same-as-humans-but-differently-iisc-study-news-national-veweOucfbehjg.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/deep-neural-networks-see-same-as-humans-but-differently-iisc-study-news-national-veweOucfbehjg.html",
-      "publishedDateTime": "2021-04-22T03:19:00-07:00",
+      "ampWebUrl": "https://www.newindianexpress.com/cities/bengaluru/2021/apr/22/iisc-research-aims-at-improving-computer-deep-network-2293191.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/bengaluru/2021/apr/22/iisc-research-aims-at-improving-computer-deep-network-2293191.amp",
+      "publishedDateTime": "2021-04-21T19:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

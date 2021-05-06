@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-pe
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechCrunch
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Autonomous Future: GM expects to offer self-driving vehicles this decade"
+    excerpt: "General Motors CEO Mary Barra says she expects the automaker to offer self-driving vehicles in the next 10 years. “Later in the decade"
+    publishedDateTime: 2021-05-06T19:22:00Z
+    webUrl: "https://www.collisionrepairmag.com/gm-expects-to-offer-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Collision Repair Magazine
+      domain: collisionrepairmag.com
+    quality: 23
+    images:
+      - url: "https://www.collisionrepairmag.com/wp-content/uploads/2021/05/gm.png"
+        width: 775
+        height: 375
+        isCached: true
   - title: "OP's Cambrian Tech finds new use case for its technology: self-driving vehicles"
     excerpt: "Cambrian Tech’s augmented reality tool has been used to visualize how new flooring and paint colors will look in a space. Now it’s finding a new use case for its technology in the self-driving vehicles market."
     publishedDateTime: 2021-05-05T19:01:00Z

@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 588
         isCached: true
+  - title: "Light-based AI chip startup Lightmatter raises $80M round backed by GV"
+    excerpt: "MIT spinout Lightmatter Inc. today announced that it has raised another $80 million in funding to finance the development and commercialization of its optical artificial intelligence chips, which use photons to perform calculations."
+    publishedDateTime: 2021-05-06T17:30:00Z
+    webUrl: "https://siliconangle.com/2021/05/06/light-based-ai-chip-startup-lightmatter-raises-80m-round-backed-gv/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/lightmatter.jpg"
+        width: 1000
+        height: 583
+        isCached: true
 
 secured: "/OCIb/2zPjZgiLGigfpfO2o4hEMOjq/7u7tY0vVo2zpiW98x5PSSBClirNonHHq9khkNlmJcKZiDz9yiJtwkAsY2KWg4DbXqWIwX+qFIAZOJofFEg319uFwvkz5a2PhlDRFATHUREYfVOmC/LwmbrdJFBroRolpZm0T3ufYjz1FDeEk4BRCQECD/KsxtqlgiIij6jctYXzJLRv/8/OgQ/cFgAMYiZNaWhLdDY2WA42vc3YT8EqZVM4orsz7G+DbGaL8oJHPoyaCiLcj9XoKMyv66Zd+U6M9NasZIK6BiTjBEmW2K1TE1AQSfThzfGY7U+zlhVYjth+/xzs+JP9QJQUAeCuBDcDrXEa0UwdP3Jvbpj0I7DTaFeHi6OTajsL/I53LIANBxYiHt/4fYSI8LPc18vkrI5yQu8CuFW+IRCV/ZQc+nM2z0uIdbLpKusuP3mLDXw8ww78OEd/U3S4+XSYQLKE+XWeG70UfNMIe6S1TvZLoDlDw0B87KVvQzOw20/qsN0942v/z/WHC5UzgzuA==;IxBY8vUisNgNblp3wRfptA=="
 ---

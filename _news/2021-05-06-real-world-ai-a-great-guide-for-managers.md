@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-gr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

@@ -41,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "States push back against use of facial recognition technology by police"
+    excerpt: "I think people are just freaked out, and rightfully so, about this technology,” said Freddy Martinez, director of Lucy Parsons Labs, a Chicago nonprofit that specializes in citizens' digital rights."
+    publishedDateTime: 2021-05-06T18:45:00Z
+    webUrl: "https://www.mahoningmatters.com/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
+    ampWebUrl: "https://www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
+    cdnAmpWebUrl: "https://www-mahoningmatters-com.cdn.ampproject.org/c/s/www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
+    type: article
+    provider:
+      name: mahoningmatters
+      domain: mahoningmatters.com
+    quality: 74
+    images:
+      - url: "https://www.vmcdn.ca/f/files/mahoningmatters/images/facial-recognition.jpeg;w=640;h=422;mode=crop"
+        width: 640
+        height: 422
+        isCached: true
   - title: "States push back against facial recognition"
     excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
     publishedDateTime: 2021-05-05T22:31:00Z

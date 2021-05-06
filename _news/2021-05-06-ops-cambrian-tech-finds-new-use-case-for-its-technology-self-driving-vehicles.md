@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Autonomous Future: GM expects to offer self-driving vehicles this decade"
+    excerpt: "General Motors CEO Mary Barra says she expects the automaker to offer self-driving vehicles in the next 10 years. “Later in the decade"
+    publishedDateTime: 2021-05-06T19:22:00Z
+    webUrl: "https://www.collisionrepairmag.com/gm-expects-to-offer-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Collision Repair Magazine
+      domain: collisionrepairmag.com
+    quality: 23
+    images:
+      - url: "https://www.collisionrepairmag.com/wp-content/uploads/2021/05/gm.png"
+        width: 775
+        height: 375
+        isCached: true
 
 secured: "2Mtqn2Q7q0Bh0MzgGi57WIrjyTN8PZQ44wo9Q6oDOazSgldcvmCWnf2nC21l2FOglyafvXcv2btlEqDVAZQKFogy+d+Zrbvq9pCkE28zAUY3rwKfZ1uB8npQ860699qHi0CQ6gDdeRHjZBzxXwFRcoxP283dHnNvwRyTrONBLeFCaVE2Tmltn9/BOVomqtG+FpKzHFpP0TnqS8gtk0YEl1wfQVl1Wlf2s08uo6ZdFIqGH3Iq/+6L43KQ3tSokThvZnhbM/KhNF3IjIu4t09av1Imts/bfr2ZfYcYStW8yydftn9ltBL8V1tn1oBdEFql1QR3asdUXWjCpW0xTj+d3w1/7UjbO9D5uRAwuaWEVJzlm0o5K0OVBrUyw3RNtGHVXyxrimvG2baY7+dvD4WD2THg7tFKtB6K/vXOYE9VfYLGgcshwv0rl3/sxSi9rNb70bxdHyMA8kRczhAlePYRnor90iAE05OAc/H75fsXOuLYzyF0eDhMCD5sUiAnS3I9LFQn7wcGOXwDbAI7YVRWCw==;K8dVo/sgCRNmv433o4fxUw=="
 ---
