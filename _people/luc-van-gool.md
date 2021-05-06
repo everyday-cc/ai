@@ -13,7 +13,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=TwMib_QAAAAJ
-  citations: 145030
+  citations: 145088
 
 topics:
   - AI

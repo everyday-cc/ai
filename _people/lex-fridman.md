@@ -18,11 +18,11 @@ website: https://lexfridman.com/
 twitter:
   username: LexFridman
   url: https://twitter.com/LexFridman
-  followers: 619542
+  followers: 619610
 
 googleScholar:
   url: https://scholar.google.com/citations?user=wZH_N7cAAAAJ
-  citations: 1912
+  citations: 1916
 
 topics:
   - AI
