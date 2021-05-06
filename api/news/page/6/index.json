@@ -2,6 +2,353 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-30-facebook-details-self-supervised-ai-that-can-segment-images-and-videos.md",
+      "title": "Facebook details self-supervised AI that can segment images and videos",
+      "excerpt": "Facebook's DINO, an AI system, can train a model to segment an image or video without training on a labeled dataset.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/",
+      "originalUrl": "https://venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/facebook-details-self-supervised-ai-that-can-segment-images-and-videos/amp/",
+      "publishedDateTime": "2021-04-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues.md",
+      "title": "NVIDIA warns gamers to update GPU drivers due to security issues",
+      "excerpt": "NVIDIA has reportedly found a few security vulnerabilities that may affect the popular GPU models in the market - and has released an update to fix it.",
+      "sourceUrl": null,
+      "webUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/",
+      "originalUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/03/Nvidia-GeForce-Hotfix.jpg",
+          "width": 600,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp",
+      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp",
+      "publishedDateTime": "2021-04-30T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-9-questions-to-ask-when-auditing-your-ai-systems.md",
+      "title": "9 questions to ask when auditing your AI systems",
+      "excerpt": "Auditing your AI and big data can be a challenge. But there are some questions to ask to get you on your way to compliance and governance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/",
+      "originalUrl": "https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/29/97cf2d45-3a8f-4f7e-a02e-5c5a699d6ad2/resize/1200x/d9622b2aa968ed3a9f556c28214c1296/shutterstock-1438802396.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/9-questions-to-ask-when-auditing-your-ai-systems/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/9-questions-to-ask-when-auditing-your-ai-systems/",
+      "publishedDateTime": "2021-04-30T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-ais-ethical-issues-are-exacerbated-by-increasing-scale.md",
+      "title": "AI’s ethical issues are exacerbated by increasing scale",
+      "excerpt": "Tiernan Ray says AI has always carried the risk of abuses such as bias. The increasing scale of the field, however, in terms of the size of neural network models, the escaping compute budget, and the proliferation of generated content such as fake faces and fake writing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/ais-ethical-issues-are-exacerbated-by-increasing-scale/",
+      "originalUrl": "https://www.zdnet.com/video/ais-ethical-issues-are-exacerbated-by-increasing-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/04/29/c0df2498-b572-4614-ab39-dfa291102684/thumbnail/770x578/116643acf3953d9cd3021d90abf233c8/20210422-tiernan-karen-ai.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-how-your-voice-can-help-spot-fraud.md",
+      "title": "How Your Voice Can Help Spot Fraud",
+      "excerpt": "It’s a newish field,” said Nigel Cannings, CTO and founder of Intelligent Voice. “We’re trying to detect fraud using indicators of deception.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b689bd48145be176050b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1106%26cropY1%3D89%26cropY2%3D628",
+          "width": 1106,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/amp/",
+      "publishedDateTime": "2021-04-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter.md",
+      "title": "From Coral Reefs To Assembly Lines, Computer Vision Gives New View On How To Work Smarter",
+      "excerpt": "Once a thing of science fiction, the vast uses for computer vision technology are now clear. Advancements in artificial intelligence (AI) over the past 10 years have helped scientists develop computer vision technology – an AI application that allows computers to “see” their surroundings and make these visual inputs actionable with 99% accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608ace495cdafc942f2b2c8a%2F0x0.jpg",
+          "width": 1200,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/amp/",
+      "publishedDateTime": "2021-04-30T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-samsung-launches-jet-bot-ai-robot-vacuum-cleaner.md",
+      "title": "Samsung Launches Jet Bot AI Robot Vacuum Cleaner",
+      "excerpt": "Samsung unveiled its AI-powered Bespoke Jet Bot Robot Vacuum cleaner in Korea. Building upon the design of currently available",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/",
+      "originalUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2021/04/608bcadab1525.png",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/amp/",
+      "publishedDateTime": "2021-04-30T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-global-artificial-intelligence-ai-robots-market-industries-significant-growth-analysis-and-future-sales-demand.md",
       "title": "Global Artificial Intelligence (AI) Robots Market Industries Significant Growth Analysis and Future Sales Demand",
       "excerpt": "Global Artificial Intelligence 40AI41 Robots Market Industries Significant Growth Analysis and Future Sales Demand",
@@ -893,343 +1240,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-how-ai-is-mishandled-to-become-a-cybersecurity-risk.md",
-      "title": "How AI is Mishandled to Become a Cybersecurity Risk",
-      "excerpt": "While infosec specialists use AI for benign purposes, threat actors mishandle it to orchestrate real-world attacks. At this point, it is hard to say who is winning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cybersecurity-risk/",
-      "originalUrl": "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cybersecurity-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/04/AI.threats.cybersecurity2.png",
-          "width": 748,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-annotate-dense-point-cloud-data-using-sagemaker-ground-truth.md",
-      "title": "Annotate dense point cloud data using SageMaker Ground Truth",
-      "excerpt": "Autonomous vehicle companies typically use LiDAR sensors to generate a 3D understanding of the environment around their vehicles. For example, they mount a LiDAR sensor on their vehicles to continuously capture point-in-time snapshots of the surrounding 3D environment. The LiDAR sensor output is a sequence",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/annotate-dense-point-cloud-data-using-sagemaker-ground-truth/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/annotate-dense-point-cloud-data-using-sagemaker-ground-truth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/28/7-Voxel-Mean-Downsampling.jpg",
-          "width": 700,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T11:19:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-plus-one-robotics-raised-33m-from-investors.md",
-      "title": "Plus One Robotics raised $33M from investors",
-      "excerpt": "The funding round is the latest win for Plus One Robotics after strong growth throughout 2020. This year, it doubled the size of its Port San Antonio facilities. The funding will help the 44-employee company expand its operations in the United States and Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/business/article/San-Antonio-robotics-company-expanding-16132998.php",
-      "originalUrl": "https://www.expressnews.com/business/article/San-Antonio-robotics-company-expanding-16132998.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/17/63/26/20919720/5/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php",
-      "cdnAmpWebUrl": "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/business/amp/San-Antonio-robotics-company-expanding-16132998.php",
-      "publishedDateTime": "2021-04-29T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-china-publishes-draft-security-standard-on-facial-recognition.md",
-      "title": "China Publishes Draft Security Standard on Facial Recognition",
-      "excerpt": "On April 23, 2021, the National Information Security Standardization Technical Committee of China published a draft standard (in Chinese) on Security Requirements of Facial Recognition Data",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition",
-      "originalUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/china-publishes-draft-security-standard-facial-recognition?amp",
-      "publishedDateTime": "2021-04-29T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-artificial-intelligence-what-about-its-ethical-deployment.md",
-      "title": "Artificial Intelligence – what about its ethical deployment?",
-      "excerpt": "While companies are making progress deploying artificial intelligence and machine learning, more than half of enterprises overestimate their levels of maturity in deploying responsible AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.philstar.com/the-freeman/cebu-business/2021/04/30/2094815/artificial-intelligence-what-about-its-ethical-deployment",
-      "originalUrl": "https://www.philstar.com/the-freeman/cebu-business/2021/04/30/2094815/artificial-intelligence-what-about-its-ethical-deployment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.philstar.com/photos/2021/04/29/meralco-pasay-substation_2021-04-29_16-50-43755_thumbnail.jpg",
-          "width": 686,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.philstar.com/the-freeman/cebu-business/2021/04/30/2094815/artificial-intelligence-what-about-its-ethical-deployment/amp/",
-      "cdnAmpWebUrl": "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/the-freeman/cebu-business/2021/04/30/2094815/artificial-intelligence-what-about-its-ethical-deployment/amp/",
-      "publishedDateTime": "2021-04-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "philstar.com",
-        "domain": "philstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-wealthfront-releases-a-new-self-driving-money-feature-to-make-saving-easier.md",
-      "title": "Wealthfront releases a new 'Self-Driving Money' feature to make saving easier",
-      "excerpt": "Wealthfront's new Self-Driving Money feature lets customers take a hands-off approach to saving, and it could potentially be more effective.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/select/wealthfront-autopilot-self-driving-money-review/",
-      "originalUrl": "https://www.cnbc.com/select/wealthfront-autopilot-self-driving-money-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106875922-1619707567064-gettyimages-951355782-kk0047-1143-2.jpeg?v=1619708028",
-          "width": 6720,
-          "height": 4480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/select/wealthfront-autopilot-self-driving-money-review/",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/select/wealthfront-autopilot-self-driving-money-review/",
-      "publishedDateTime": "2021-04-29T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-as-an-investor-how-do-you-know-what-ai-products-to-invest-in.md",
-      "title": "As An Investor, How Do You Know What AI Products To Invest In?",
-      "excerpt": "As An Investor, How Do You Know What AI Products To Invest In? Answer by Haomiao Huang, Investor at Kleiner Perkins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/",
-      "originalUrl": "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60874940e6628fc24d0cf72e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2021/04/29/as-an-investor-how-do-you-know-what-ai-products-to-invest-in/amp/",
-      "publishedDateTime": "2021-04-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

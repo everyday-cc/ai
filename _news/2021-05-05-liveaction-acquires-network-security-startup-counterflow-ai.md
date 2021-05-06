@@ -110,6 +110,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer"
+    excerpt: "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to"
+    publishedDateTime: 2021-05-06T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer-301285543.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 66
+    images:
+      - url: "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg?p=facebook"
+        width: 799
+        height: 419
+        isCached: true
 
 secured: "jZUDzetlz95F4nHDgUdrklyDa6gX3TRiQSgSjLXB2fJwT7UHMJJp9SoQr2wOSKue4dS17MqwbDgs1/kiganbhg09YLn6ULmsQfTIiaTpG5jjeOx6pXMjsB/kFIhPqeVcorN2Urp/0x/iCn/WXgmv/I+m6g5otIrDP2/0iNi/Fq1EI0iGBiLU2HgBHwSAJKVoHLmXxyP2FQCkb/xIT+Toh3IJl3Yfc+bnatEnAA1FZrx7qcSQd56Ig1thAqVnQoBxJqjkHwDRWyyZIiMK9bbILGoKKDmxP/RjskIEEdBqPMIEuX+BdwBJupDNYJ9ZDL7fIRGCTLmHZHRbX4OODQ7qSnSsCW2EflW7/sPFg3CwtcWOq9b/Gr8+9pbsOykfSiP5OwYnZ71xYCn/vKFMwxmk+gUJSkPB+d2WoVFZFbkpS1krIUocHkifG3JRdCEB+k1ombmyywzrbl21b89hrf2HhyXr33XdCTCJfdye+VpSotM5S2HzjB17a+/Ub16htVD1HoYQ0+xPd9RrqH3kqxM0cg==;1fFO7jXse6zyt+xcVlcS7w=="
 ---

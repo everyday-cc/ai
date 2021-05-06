@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Which Trends are Set to Transform the Status of Indian Fintech in 2021?"
+    excerpt: "Fintech solutions are grasping companies from different sectors of India with its current trends through AI machine learning algorithms. Companies must focus on these trends to capture the market efficiently."
+    publishedDateTime: 2021-05-06T12:34:00Z
+    webUrl: "https://www.analyticsinsight.net/which-trends-are-set-to-transform-the-status-of-indian-fintech-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 24
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Fintech-1.jpg"
+        width: 904
+        height: 504
+        isCached: true
   - title: "Artificial Intelligence in Fintech Market size, Witness Highest Growth in near future by 2027 | Microsoft, Google, Salesforce, Ibm, Intel"
     excerpt: "The Artificial Intelligence in Fintech market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
     publishedDateTime: 2021-05-03T06:19:00Z

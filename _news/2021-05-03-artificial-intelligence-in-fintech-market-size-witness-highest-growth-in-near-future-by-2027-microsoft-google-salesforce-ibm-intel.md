@@ -35,6 +35,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Which Trends are Set to Transform the Status of Indian Fintech in 2021?"
+    excerpt: "Fintech solutions are grasping companies from different sectors of India with its current trends through AI machine learning algorithms. Companies must focus on these trends to capture the market efficiently."
+    publishedDateTime: 2021-05-06T12:34:00Z
+    webUrl: "https://www.analyticsinsight.net/which-trends-are-set-to-transform-the-status-of-indian-fintech-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 24
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Fintech-1.jpg"
+        width: 904
+        height: 504
+        isCached: true
 
 secured: "ZCySDlRbcJ4Tj4GlYz4nTGSLe8CpIty56aHfzucJGOGcE+nOsMuPpuDgokHiiM/f0YO9CrFRBz4yXv1YuVlwm51nMdTnJtVATOmwFy9oDGnyiaw8uGy8N23B4uKzrrXzRjla6HJKcmaQ4Q3sj7YZoayHotyvhUxjwBZShtWb9/8N9G/Jsx19tL6UGEbp53I9uqHPzHErODtJ7bGKK4bynGE1Hb2FXHuxxi9OV8glx6OLkwnLvf8k+AA1pK3xxsE1EqlXDJqsoyrEo0dqYwE16QRWMa2ukQGwTS5T9Rt7LUM3CnDUuM3Ig6rl/3RU6WUxyOcRyh6KffDBFgIbsKqKlJEEkM9c7as3dy9f7GCunNf2vuVCzVP7Wlu9KuP0eqmxdL6c685lzwpExXa1kZ5fb6v01g996vNKVO3UlqVb+b3yGIAcZYtT+yZFvJdc+7KjMw6evaohilDZ6cJLfG6BxcsjnPgG2y3PPh7voc665ynng3NZ4mHIzDhWFCsM7BtJfSVMPkpvH+M+ZreTgPG1/Q==;DouUV7MsSCUH66pE1cHsrw=="
 ---

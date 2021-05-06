@@ -54,6 +54,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
+    excerpt: "Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft"
+    publishedDateTime: 2021-05-06T12:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "WcAFvAK1BUxAMix5OZh5aoRKj7Akn5mZSKnh/czmsfahhY24cKWlMFF+6VzVbquVTIMzH1Gg9IZCMaHqSJUBksbbPthIIpMLg0F6viFFpOKAnViKQ4guy6ZWIabw0D/AEU0oyuOIVWxO+5r9X7xuynpHsaCrNQIAaD9aIstS9YYR79RPZuj90MtFGaA0lnke9u+wwLSe1ZakBpZ4ofFZGbohF0WfbbUU1w6tKNLpAJu+XpQ2mY9IG5jkIIL9nN8TCu8Xk7oERsWBnCtCKl0T52Fkg5SV0VFOcWBbJNp4FyrdjgVZeCklhPV5AcmlS0FXsdsqdydakPJn1vL/ioYANFQGBEJl9OAzsUSKox+lm8s=;LawZDwmXdzixPBglXonwJw=="
 ---

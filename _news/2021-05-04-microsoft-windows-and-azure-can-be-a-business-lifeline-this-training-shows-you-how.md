@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
 type: article
 quality: 112
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.sify.com/uploads/AWS_ians_vewiSKhedjcdd.jpg"
         width: 700
         height: 466
+        isCached: true
+  - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
+    excerpt: "Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft"
+    publishedDateTime: 2021-05-06T12:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
     excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"

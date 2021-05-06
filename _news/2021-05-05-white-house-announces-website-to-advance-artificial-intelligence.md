@@ -4,11 +4,11 @@ title: "White House Announces Website to Advance Artificial Intelligence"
 excerpt: "The new website will serve as a connection point to ongoing activities that will advance US leadership in artificial intelligence research and development."
 publishedDateTime: 2021-05-05T16:17:00Z
 originalUrl: "https://healthitanalytics.com/news/white-house-announces-website-to-advance-artificial-intelligence"
-webUrl: "https://healthitanalytics.com/news/white-house-announces-website-to-advance-artificial-intelligence"
+webUrl: "https://www.ai.gov/"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 137
+heat: 147
+published: true
 
 provider:
   name: Analytics
@@ -16,12 +16,11 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
-    width: 690
-    height: 400
+  - url: "https://www.ai.gov/wp-content/uploads/2021/03/INNOVATION.png"
+    width: 366
+    height: 250
     isCached: true
 
 related:
@@ -41,21 +40,7 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "CMS Announces Winners of Artificial Intelligence Challenge"
-    excerpt: "ClosedLoop.ai was the winner and Geisinger was the runner-up in CMS's Artificial Intelligence Health Outcomes Challenge."
-    publishedDateTime: 2021-05-03T14:55:00Z
-    webUrl: "https://healthitanalytics.com/news/cms-announces-winners-of-artificial-intelligence-challenge"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-942954932.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
-secured: "shvMREJKw5k36F0YG0dNJjzk1x8VjfZUg7HRkXcw3+V+GJTRvL89iFutMbjF19US0+Hpt8UkYJubQT6FGMerkJf7nMOl6m3d5NfRNxKvHsmJVzAWfr0WJvSHboUYIh/Sp/rBLLzEScvqMyDmQPdWeYO4O8ytnQ6S70sZoZK02GU/HJpZX5FBj7EeDyVfT31/XpfyNJcIWEHYhep2UYOW3FcLHjweQ0VVvQLuAaHCjlQeOa+ffKPZ5Xd7fTuQxh+WQBRDKonZZtHDisqZPy5x+alC8GJCrKCLhPiwxEzqiv151bu99wT8AM+8iQnTKeEXQ5bJugMRLbgsiFJ4elVja3m6O0XIisJQbkrJ8Cos+K0yXVioEuflZTzq2SfOGWmH+s+Z4CbaugJ/qmCCGqYZlzLZuwiwrQExT0P1V9jHf+piN/Tz0X/XVPVSza94B+UNmzjiwHFUhcve3umIxxvwiVTLKpJi3h9R8ujJx+HLwi2Rjcms+OkLO4O09rN9w7Ws3AiVjNTW3sEq+CqgUtqyHA==;bAT3aDJyAjOny3Oui6k0Fw=="
+secured: "UAYd//Own794eYIXSGw9DLfzhROdQV8mgjAJnqMlpBfUvbbgwTBoxvRc5StHtOIE1PffFo8kb7LSmShbJxEK6fULTLckS7FopRvggSDYFOiFxfBjOg/JtCmaPfqyRtnO+E+t8DJ8J9X1+z0Ab/5jf+/fic7sfo3Opn8n14FwK+US3W0v/G/to+ZHegb3a6l9zwEQei7MB//9JAGFNh+wwOOaz78UHnodiGFrrHPlfXaY/fmEl6o/Jg44wtZsOOlVfAWMt6duIetkkRWP9B1Ds/583cIVw7dLkcJJPW0ZbgNQznhpfmuy22yTK9JlRrZjly1OH+I3XPPbkzTqgTpJi/07Blqy5E1LMPKFYdmE3RI=;vcVcIRE12R49Mxc/EFA0Qw=="
 ---
 

@@ -102,6 +102,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer"
+    excerpt: "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to"
+    publishedDateTime: 2021-05-06T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer-301285543.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 66
+    images:
+      - url: "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg?p=facebook"
+        width: 799
+        height: 419
+        isCached: true
   - title: "LiveAction Acquires Network Security Startup CounterFlow AI"
     excerpt: "LiveAction, the leader in network performance management, on Tuesday announced it has acquired CounterFlow AI, a leading network detection and response (NDR) provider. This acquisition will enable LiveAction’s current and future end customers and channel partners with a unified network performance monitoring and diagnostics (NPMD) platform that incorporates encrypted traffic analysis for security incident detection and response."
     publishedDateTime: 2021-05-05T01:31:00Z

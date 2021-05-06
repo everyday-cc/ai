@@ -54,6 +54,17 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Machine Learning as a Service MLaaS Market size is expected to grow at an annual average of 43 during 2021 2027 Machine learning is a computing technique that gives computers the ability to learn and modify analytic functions when"
+    publishedDateTime: 2021-05-06T12:44:00Z
+    webUrl: "https://www.openpr.com/news/2281028/machine-learning-as-a-service-mlaas-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2281028/machine-learning-as-a-service-mlaas-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2281028/machine-learning-as-a-service-mlaas-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
   - title: "Global Deep Learning System Software Market Innovations, Trades, Growth Trends And Forecast 2028"
     excerpt: "The ‘Global Deep Learning System Software Market’ research report Published by the Market Research Inc, is an in-depth analysis of the latest developments, market size, status, upcoming technologies,"
     publishedDateTime: 2021-05-03T15:52:00Z

@@ -64,6 +64,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
+  - title: "Machine Learning as a Service (MLaaS) Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Machine Learning as a Service MLaaS Market size is expected to grow at an annual average of 43 during 2021 2027 Machine learning is a computing technique that gives computers the ability to learn and modify analytic functions when"
+    publishedDateTime: 2021-05-06T12:44:00Z
+    webUrl: "https://www.openpr.com/news/2281028/machine-learning-as-a-service-mlaas-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2281028/machine-learning-as-a-service-mlaas-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2281028/machine-learning-as-a-service-mlaas-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
   - title: "Global Artificial Intelligence in Accounting Market 2025: Top Key Players AWS, Microsoft, Intuit, Xero, Sage, UiPath and others"
     excerpt: "The report released by Zion Market Research on Global Artificial Intelligence in Accounting Market covers the broad strategic framework of dynamics of the global market. The report is a comprehensive study of current and future growth aspects."
     publishedDateTime: 2021-05-05T23:52:00Z

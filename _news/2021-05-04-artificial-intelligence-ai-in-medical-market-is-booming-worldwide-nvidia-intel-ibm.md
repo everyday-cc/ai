@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-ai-in-m
 webUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-ai-in-medical-market-is-booming-worldwide-nvidia-intel-ibm/"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -24,33 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Chipset Market Key Trends And Opportunity Areas |NVIDIA, Intel, IBM, Qualcomm, CEVA, etc"
-    excerpt: "Key Growth Factors & Challenges, Segmentation & Regional Outlook, Top Industry Trends & Opportunities, Competition Analysis, COVID-19 Impact Analysis & Projected Recovery, and Market Sizing & Forecast."
-    publishedDateTime: 2021-05-03T12:50:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/deep-learning-chipset-market-key-trends-and-opportunity-areas-nvidia-intel-ibm-qualcomm-ceva-etc/"
+  - title: "How AI is helping Nvidia improve U.S. Postal Service delivery"
+    excerpt: "Nvidia says it's helping the U.S. Postal Service to expedite and improve the reliability of mail delivery using AI."
+    publishedDateTime: 2021-05-06T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/"
+    ampWebUrl: "https://venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/amp/"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 23
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://marketsresearchreport.com/wp-content/uploads/2021/01/2.jpg"
-        width: 576
-        height: 324
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/Postal-worker-e1620240510105.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market is Ready for Speedy Growth | Players – Intel Corporation, IBM Corporation, Google, Inc.."
-    excerpt: "The Artificial Intelligence In Healthcare Market is expected to grow at a CAGR of 8.7% and is poised to reach US$XX Billion by 2027 as compared to US$XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report."
-    publishedDateTime: 2021-05-04T14:55:00Z
-    webUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-in-healthcare-market-is-ready-for-speedy-growth-players-intel-corporation-ibm-corporation-google-inc/"
+  - title: "Nvidia Initiated Outperform as Baird Sees AI Dominance"
+    excerpt: "Nvidia is poised to dominate [artificial intelligence] computing, the most transformational technology,' Baird said, initiating the stock at outperform."
+    publishedDateTime: 2021-05-05T18:01:00Z
+    webUrl: "https://thestreet.com/investing/nvidia-stock-initiated-outperform-baird"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-stock-initiated-outperform-baird"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-stock-initiated-outperform-baird"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 23
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/Key-Questions-Answered-in-Report-1-1.jpg"
-        width: 573
-        height: 595
+      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgwODAxNjAyODM4MzQwNjk2/tslive-th-0505.jpg"
+        width: 620
+        height: 349
         isCached: true
 
 secured: "Nk6U2zzQJCeizH9Yk97tkLsothPBLLBmTsPUAzSkQwCSBJw6mL7gh6mcSqLRlALZoEayY0Rx9eg/Hfu2D+L5L7F8t9VI3fJNiPRJ3MyITwgYOwI9FMl1voDZHdpDfbJnGSp3QD6J52CcSl0+MXMtY9DaUJobHGFWwCRFo2NsLYPF2gCvGEyLYFeBiaKIA5Zj2IWPj8OynJVXnYpdP9Oy360H0xI66LNfAutSMUTTJz2j2SpUydQIS7UlOLSZfH+msUgqV1IBdYekALcKQLHEH8SVdMZPCVfP1Ydd/wLGMdsjNoFeRwnhZIGY0+OPx9G5REGQuKvwdwddEiarqwl8jVZ74V+crpNXQeja20o1mU8ATBtqZwsQ2Q24qwwG1lFAMCWXxrtgn8lyVTmuHwNLiZ3WsnZ9Vcca6pfZcWYuiLfIwPEKuUPTlKcLqrOvLDP7IDqLHBbWNz0dv3fLJppha+UQ2ZO+buZkyTF6w36pQrWErClJOG6xja9/l5iPFwvXJPLuwih6yqi/uTN+NhWvrg==;MivE0mCWdXiq+ZCBSI0SKA=="

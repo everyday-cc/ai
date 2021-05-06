@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/video/events/how-to-build-compliance-into-ai-p
 webUrl: "https://www.wsj.com/video/events/how-to-build-compliance-into-ai-projects/C551F757-57C3-4317-B799-22AE672561BB.html"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Insights into black box of artificial intelligence"
+    excerpt: "At many banks, insurance companies and online retailers, self-learning computer algorithms are used to make decisions that have major consequences"
+    publishedDateTime: 2021-05-06T11:18:00Z
+    webUrl: "https://www.miragenews.com/insights-into-black-box-of-artificial-555689/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
+        width: 640
+        height: 423
+        isCached: true
   - title: "General Motors is Using Artificial Intelligence to Build its Future Vehicles"
     excerpt: "Artificial intelligence and self-driving cars are often discussed together in the field of technology. General Motors is imagining a future of lighter, powerful, and customizable vehicles motivated by"
     publishedDateTime: 2021-05-06T09:00:00Z
