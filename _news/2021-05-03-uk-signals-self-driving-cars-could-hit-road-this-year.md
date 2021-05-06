@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "With Lyft selling its self-driving division, the market will be dominated by a few rich companies"
-    excerpt: "As the self-driving car industry shifts from hype to disillusionment, the market is slowly consolidating into a few very big players."
-    publishedDateTime: 2021-05-01T14:40:00Z
-    webUrl: "https://thenextweb.com/news/with-lyft-selling-its-self-driving-division-the-market-will-be-dominated-by-a-few-rich-companies"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 41
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fself-driving-lyft.jpg&signature=5d2df59184d62d65fa5b8cdee35cbf0d"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "2 Top Self-Driving Car Stocks to Buy in 2021"
     excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."
     publishedDateTime: 2021-05-05T11:00:00Z

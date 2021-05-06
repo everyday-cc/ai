@@ -9,7 +9,7 @@ ampWebUrl: "https://patch.com/virginia/reston/amp/29486387/facial-recognition-as
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -122,6 +122,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "King County considers ban on facial recognition technology"
+    excerpt: "The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff’s office."
+    publishedDateTime: 2021-05-06T06:08:00Z
+    webUrl: "https://www.king5.com/article/tech/king-county-considers-ban-on-facial-recognition-tech/281-e50f4478-81d7-4108-8926-9f906c3c29a9"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 19
 
 secured: "K4CZ5VOsyLGo39c7YytuWCPm4Ft8+GiXKRbmkELRhPbT0kF0yO1EW0qAxulNvL4/7AnDmxJTBYXllOdtxQ9L4Cw3GA64TpZEqMhAMbWTufUQN/95n7cF8FpOEFHMxc1NPRviw3By7TMsRLIm6+4uiwfjoTHFz8pWBZDieco9Mp8b6I2joEs8eaYxNAlqKgUDkztcNbPZu/iITu32THet3YX+y92dGeOZDexxn/yvyYXEInN24uQovhjOUE/U0rHV7yq1TWxxBqw5ULgT6lqCkcMO4oI9aWlF8LGVsu5FgFyH42WEfHjSbCvf0V69gnq9C5AgRUY31kLglSAWlOmgsqzxRljqlB9SHRPepUlsw5jVvrDjcUjxjOhv5yqQ1sIgqHlfrh/LvSvSkNrBDLufdDgIw2UyIYO1dJ8lbvP9KkFeIBTplMuUR02ywg50fc8tulxTQfrl7GU75e7+1yRGVnmsytMpp7OfuDOHjX4c+AbAsoG5bYJhP9u3HBAJTs3UTPqayz0grBiPw6et7QXQDg==;QEAcQ2RNyogJ0dm8bNPurg=="
 ---

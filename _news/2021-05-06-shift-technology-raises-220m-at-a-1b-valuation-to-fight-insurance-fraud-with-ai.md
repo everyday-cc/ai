@@ -6,6 +6,9 @@ publishedDateTime: 2021-05-06T06:37:00Z
 originalUrl: "https://techcrunch.com/2021/05/05/shift-technology-raises-220m-at-a-1b-valuation-to-fight-insurance-fraud-with-ai/"
 webUrl: "https://techcrunch.com/2021/05/05/shift-technology-raises-220m-at-a-1b-valuation-to-fight-insurance-fraud-with-ai/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: TechCrunch

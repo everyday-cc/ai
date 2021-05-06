@@ -34,15 +34,6 @@ related:
         width: 530
         height: 751
         isCached: true
-  - title: "A Reinforcement Learning Empowered Feedback Control System for Industrial Internet of Things"
-    excerpt: "The rapid development of the Industrial Internet of Things (IIoT) enables IIoT devices to offload their computation-intensive tasks to nearby edges via wireless Base Stations (BSs) and thus relieve their resource constraints."
-    publishedDateTime: 2021-05-01T13:37:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9419715"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
 
 secured: "2CC5gD1eLJ2ux4OMD9JhmbJVi+SuOxtsCo+lRUSC5tnrpfIgBbz0Ow0Kox0CkGK9DsKrQO3fUcS3BD+dqSIWpSmmwu11E2+7d7X3CjfVx3Ga9nI864PRBV3LP6P4fbbrr8NN9fELm6U4XJTDorGrb/ZPsGfYCP2/lORe5F2zQt62InUtId6yJI9bJm7qmG341KubdPC73GERuqVAzKUHO3all0H+r5/zdgYoBs7lK5wzpl4UaTWiIaksfqbouAoXoXSn74mzkcmjWI+XCVmbEZ7kEiA53AiE0JlRAPV8RWJBIKlw91N+DMKb+zAJHk7WoYTz9dM2nZY2Whi7kg4lTIscSXLltBLJX3OU+u6q8z8=;ilI9IZBSdUl+goKRR1BfHw=="
 ---

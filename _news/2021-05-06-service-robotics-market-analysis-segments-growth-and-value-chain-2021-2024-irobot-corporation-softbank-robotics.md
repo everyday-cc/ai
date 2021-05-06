@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2280651/service-robotics-market-analysis-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2280651/service-robotics-market-analysis-segments-growth-and-value"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 19
+  - title: "Machine Learning in Manufacturing Market Outlook 2021, Witness Highest Growth in near future by 2028 | Intel, IBM, Siemens, GE, Google, Microsoft"
+    excerpt: "Global Machine Learning in Manufacturing Market 2021 by major players, regions, type and application, forecast to 2028. This market report includes a forecast for 2021 and ending in 2028 with a collection of crucial information such as supply-demand ratio,"
+    publishedDateTime: 2021-05-06T05:24:00Z
+    webUrl: "https://ksusentinel.com/2021/05/06/machine-learning-in-manufacturing-market-outlook-2021-witness-highest-growth-in-near-future-by-2028-intel-ibm-siemens-ge-google-microsoft/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "7oJr6wypONY5iktLYvTlUuqmA9Z/05NHhd88IyIGr9UgAkoh3Zxd+UHXaJtGTK43fEc0BXHjIgv4rWmZPdJ67n81tGy/UihUW7/FFBLM1uWoEv4YvVFAbM48y2pSY+ZXUvIJ/LXeeCKQOupHIKfepwjhRjKmwARVfwqQX9QbQwDs2dXlZ+IfXqpkXYQV+3WyOpJYiXGyZOUteui2C4QgOU3l7X+ECpTdqGoCg2hLjJyKM/2/x26N2GN+9KDdj1jl5Whc3+DOwfRWm+mYW29Ax8dL+SvOQwbTRdwg9R4sM8u2YbIvllpJ5NQhsUyQIflDey/YoK1TI9WDmbQyvHJaJm3PbiJHoFIZZj83mee3UaU=;VYIwdouvuriDllRZ4b8bPw=="
 ---

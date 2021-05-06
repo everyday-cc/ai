@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Computer Vision Is Changing Residential Property Management"
-excerpt: "Lanthorn.ai, a Video Analytics Company, and Uptimo, a Real Estate Management Company, announced today a collaboration agreement to bring"
+excerpt: "Lanthorn.ai, a Video Analytics Company, and Uptimo, a Real Estate Management Company, announced today a collaboration agreement to bring AI solutions into property management. Property management is an essential service facilitating the balance in the rental housing market."
 publishedDateTime: 2021-04-27T12:39:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/computer-vision-is-changing-residential-property-management-301277675.html"
-webUrl: "https://www.prnewswire.com/news-releases/computer-vision-is-changing-residential-property-management-301277675.html"
+originalUrl: "https://www.marketwatch.com/press-release/computer-vision-is-changing-residential-property-management-2021-04-27"
+webUrl: "https://www.marketwatch.com/press-release/computer-vision-is-changing-residential-property-management-2021-04-27"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1496604/Lanthorn_Logo.jpg?p=facebook"
-    width: 1600
-    height: 838
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "WiylheWh2syabi8wEAJ4ojFg7vCLOZsDONfEZcuqIadBtlPt7RDgiKuBBKA2N6jZxnWgy/DA2oLlxEkJnig+gEdR9uz4nCg+GmIBk2vZhBEq1hqFD7kYkHlqlnOtjHkPgyT42cuAcqgdc6hQWxDfjVnyf1BcEV8eX+agRTIatjkUrKNFUKow9TrwRDtVYDbFG3WYi1iLiIMEOhxQblwWnUNh/Kj3k3k/R69gw+qxFkxvwCKJ4Y2HmKsVrYgyXKM41UL0nu5Yvh4/qm2ZKO+536rdwAOftPcc4sUa30oln07IfF9jv1AnMTQRhNyLD84NYQBAwxJfLScQQrI2EBJ2Rr67mlNXB0fs4Zv2U791VUTgNuTHVhgtZrn441fpc0h9tf4AeTp7dO3eV6twUiNhbBRpvM78pU2uDcguEpyozZu007xQOHloYqEOrWU0vPuIrQUrI0ktXLFl+AMB6YaH/bHkZC9cpzlHF9bRa7hYKrr/Wh8EADmwuTira7+pXmUYz8VvV6F1XCA8FAzvzm614A==;y77lO7E7lJD61pFSgI3AOw=="
+secured: "FJy5+Mk/YDlAqf2Mzac4zylv1Y6pBkKdGFCTjh696LnDIkxy5fTB2kth8/fmvXJsGGEiht/vRMWhJzDIkN665ENMQNCbdtndbjsublPwjz8JyfqSmZ46o9HqDdVdzwdUoAtxwXtoSWe42RQatgnVIaMqhMm2/ZgE+sJzQTgogSpJMJ1ICK9V7Y1NXG1ELlTgt12Y2P07T81Pr372N7gliruuHRJ2iq/R7QR/jhx2iqyLYbRhfAP0PutOLV3UTA/WvOr1dpsePyJa6jx8Uue+OGTcYHI4D411arttTcOPHOcMITV1pInjd9m8SvfPaTvxVB6/h4tK0M1cVkhl9ml9CrefokzZbv+/P65H8YauJr4=;Wv8geuHLovHFq+fgISRwjw=="
 ---
 

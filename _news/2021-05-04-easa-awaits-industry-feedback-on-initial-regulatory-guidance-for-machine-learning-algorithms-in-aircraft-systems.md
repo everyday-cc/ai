@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Reinforcement Learning Empowered Feedback Control System for Industrial Internet of Things"
-    excerpt: "The rapid development of the Industrial Internet of Things (IIoT) enables IIoT devices to offload their computation-intensive tasks to nearby edges via wireless Base Stations (BSs) and thus relieve their resource constraints."
-    publishedDateTime: 2021-05-01T13:37:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9419715"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
   - title: "Algorithms in the Financial Services industry - The right choice for the right problem"
     excerpt: "Usually these algorithms  work with a cost function which needs to be optimized, but it is difficult to know if a local minimum or the absolute minimum is reached. Nonetheless all rules are clearly defined and given enough processing (calculation) power an exact result can be obtained."
     publishedDateTime: 2021-05-03T21:51:00Z

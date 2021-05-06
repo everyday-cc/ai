@@ -6,6 +6,9 @@ publishedDateTime: 2021-05-06T06:00:00Z
 originalUrl: "https://www.reuters.com/article/autos-einride-funding-idUSL1N2MS185"
 webUrl: "https://www.reuters.com/article/autos-einride-funding-idUSL1N2MS185"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Reuters

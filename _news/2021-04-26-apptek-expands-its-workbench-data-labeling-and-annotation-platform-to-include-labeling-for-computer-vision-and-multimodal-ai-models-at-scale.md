@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "VbjQ53t9dqELqUNaWDAH4n5oMzCXiWF09RQQirYBnsVSoEZI1Xj95Yy3fCqiFMI22MvxTTjEEHIVjOk9M0TzS4q2ZKuDDN55iOm5A+HunPGjY/12sINsfaT476o2FEj+rFfTHKdvJzmgPCZhA1ceRoRurjGnLTOVhPDJ7Ubok3He3u28EHg0fKsS29HXfeA+5re4oOLWqem6wXDdLyT/VSfw7El2NqNyt+FbUZZriWCr1gIom/uFmQwsTsNHYGJ8DOxjw9w96CKdjJcJXlKvI+rAagy1vsW0qG37RAA57poGUAMiwI2aXT/IzFZnPUG+XjwQo98AtPKL6dSKns+hN6qSqHy0UzNjgiQAjhIMA5uV9CKohN7WChYp3VPGKMBa72pb8bwsHz7oqj3IE3mKG1fKJJFnRUYi8hqqse8+dqgmQ3mWUeRELXIqHOFFmvbfdjwj4ZWMO3aeCtgBeDMiu1mRrdAoJddDyG4JJarInhYV0I0tfB3TiyBpP1fiLJ8xbB/3iazjZVxz37pTXIr3Fw==;heYDShWvijJPQxCIj1s5oQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1496629/AppTek.jpg?p=facebook"
+    width: 1614
+    height: 845
+    isCached: true
+
+secured: "Lj0iCMxUvhkGQbBixKOEO59OKsj/EUc7FHtT0SX3AKS8KRfvxIol6B+S15eEGqd3w1IlLE4HW0A6I9NfnM3bT9aSwbKA96fQHhAUcm87TNxBSGnS254Jq/olUvWvSFFx1esGTi6a9tEqKeTZtiPVX0SCdiqlmyOCfUIJ3j7qaueK4B9a1fFXdaGZbu/PuFyIAQGXx6ml18E/50gl22b8qX0i5lnPStc/opqSLYjXp+feIe+ImYnR6nQI7dvFJOt6/+tIQW1O/z3SbaxACwLVESTi8WBBMAdZgjtOiMD9LT6UaJ4KSIV6I2MFZoOICTztOIbycK+BcitycMMem6oCqvv3S9cMhWFLgt8zpeW3ZoM=;A9vFzbGlsOrsKN0fBP0PtA=="
 ---
 

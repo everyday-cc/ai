@@ -51,20 +51,6 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 14
-  - title: "Development of Spectroscopic Sensor System for an IoT Application of Adulteration Identification on Milk Using Machine Learning"
-    excerpt: "Adulteration in milk is a common scenario for gaining extra profit, which may cause severe harmful effects on humans. The qualitative spectroscopic technique provides a better solution for detecting the toxic contents of milk and foodstuffs."
-    publishedDateTime: 2021-05-01T14:58:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9393967"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 11
-    images:
-      - url: "https://ieeexplore.ieee.org/ielx7/6287639/9312710/9393967/graphical_abstract/access-gagraphic-3070558.jpg"
-        width: 660
-        height: 295
-        isCached: true
   - title: "Securing APIs Demands Tracing And Machine Learning To Analyze Behaviors And Head Off Attacks"
     excerpt: "The use of application programming interfaces (APIs) across cloud-native computing and digital business ecosystems has accelerated rapidly due to the COVID-19 pandemic."
     publishedDateTime: 2021-05-05T18:25:00Z

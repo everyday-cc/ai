@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/the-syqel-ai-powered-music-visualizer-
 webUrl: "https://thenextweb.com/news/the-syqel-ai-powered-music-visualizer-gives-your-music-a-whole-new-dimension"
 type: article
 quality: 64
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Generate immersive visuals for your music with SYQEL’s AI-powered software"
-    excerpt: "The SYQEL Lite Plan gives users lifetime access to intuitive software that provides a massive library of visuals to accompany your music during playback.."
-    publishedDateTime: 2021-05-01T15:02:00Z
-    webUrl: "https://www.engadget.com/syqel-lite-plan-145505393.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 65
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-04/a464a5d0-a91c-11eb-afff-7d91c1665797"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "gcOYFuotNoN2K2bZppuF07t0roEAjg8F27eg7jvuCoMRdF40NGDxlKeZ+hto2gX7qOMY4IC9+uqQpre6RXltRpZB0PBM29kFvotfEm09UdjqRUhf38lOB5n0yn1jSZWI/5MC/ZnLZ12V3sPpoPZfmaGQ7cU0CZI5Ku0ZAfoHEgE1/FNfqEwhV8gPCqSG9mktVxky+4KZWx4Emkfp11/vqAjB6T4Mak7Ch3fdlLkxurA1UeVvVaFwoR4YVx7ImcC6zpXmIRpl/I4085ppN3ANJrB65YKgIjL7GA4FgAOYg4Fkt6MjYQIHUBjEvSboUAOJdX/1Ki9aFe5r7X9OlJ71K6XBG1yD9o1BYlr8Lbv6HqXuhC7hpinFsQXGMeAgxzrfV7JuTaS+Pckyea7LN9nsbFfaE8y6H/kBi9a6RL/qieYziJ/3e1o64oFBod9lCGbI16sl2UPvkJBkU+7ZXeXDcQbfWZkzu1O48NqbJF7A04Qj/a7rYz1W+KryCCezY21OyaJuUpw7070mny1yzy8rTg==;N1YOq54qkSRzR4ui71G7eQ=="
 ---

@@ -23,6 +23,17 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "Music Ally startup files: Loudly wants to create ‘Roblox for music’"
+    excerpt: "Originally, Berlin-based music tech startup Loudly’s aim was to build a platform that let users quickly remix songs with the help of its AI. One swift pivot later, and Loudly now offers online creators brand-new,"
+    publishedDateTime: 2021-05-06T07:11:00Z
+    webUrl: "https://musically.com/2021/05/06/music-ally-startup-files-loudly-wants-to-create-roblox-for-music/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 2
+
 secured: "2macJ5CEbMCL+SeY0VWPmkViYPZD1bJIY7JQzWSI2GFeAixgh6krhdC7l4JaFC0j9gsOy+8ZjfvOAqnQJZu5X0aVQDoP3n0s8Ex4/jOsiHGE1P/9b+JC1JBJ6JjtcM3BaVRpQWV+/KD2Tk8gU9mrkD7Dt0ydaGZwGNc4ZndhbKrzIvo4dRG0ugzIC7bi/ohPRSKYWsu0TzrvR6VnGMozk8m5Mk6Mg3x8uDXT7dY09FvaD2sCbiibps4cZjg9QIlRbUDDWoNkokPY8ClUYD5L28h4OMM1EqT17DCcLWhqrEEcPKzIkmqlWGltAneM1/+jJF1ZZOCb6i0FtJJyDQjNKGnwV8SNNtEwoH8mRmbtq5E=;9jO6I7qzqrmbzjzRksrDXQ=="
 ---
 

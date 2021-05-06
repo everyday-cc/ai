@@ -122,6 +122,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "King County considers ban on facial recognition technology"
+    excerpt: "The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff’s office."
+    publishedDateTime: 2021-05-06T06:08:00Z
+    webUrl: "https://www.king5.com/article/tech/king-county-considers-ban-on-facial-recognition-tech/281-e50f4478-81d7-4108-8926-9f906c3c29a9"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 19
 
 secured: "KrtqSoLRNAeM6uFsfZ/8tw2VqEoGhVWPhIeqyUbcPqPi8DzuCFDoWPGR7AvgsaTk81ZuOqlx/hYnIVwd1SXEmp4b1s8TpLYqwTzWcuQYdPEd+ba36fkXVaki7ha+MbzJB9WU8nY/oK9Y0zRbz6ZNI40URAUjH9oEmqWR3kXEihpNE5GYl2M9sfyNNA8ulw/dU7XPI8rngnUToAGcsM5hBBeTO8BJHXRO6qXxMBICwI6xUFLd9JesCiF/7vgVu54gVnml7Yc2ZqKAiB+j1hiKkaDx5IQHZJV9Qlgd/Ov9rmLCRHqb2nzlHU2uy6tc2waFasZ0nDVXTfWO7gbMsNyn1zNUTXI7doIZu78iyYyutBNdwuanryIWfeiO94sNLfGNQl0ycItlx0prjzWmyGOdLGAjzc555/RbiDNxD+XdakyzI9gi2ZvEFil3rlFALMnpwGLq3WXlGtenYHrEo5mlJ7rYbZYDGdTpFFyfzh2GJMIPrvrS2p6JcNh0vrQdpC6zApBPkSgbvSuxRGTqhe9aig==;gDhCMqXRqGXprkwumsVbcA=="
 ---

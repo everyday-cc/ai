@@ -25,36 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Madras to offer Free Online Course on Artificial Intelligence - Check details, how to register"
-    excerpt: "IIT Madras is going to offer free online course on Artificial Intelligence in association with National Programme on Technology Enhanced Learning. Candidates can check here for details and steps to register."
-    publishedDateTime: 2021-05-04T07:13:00Z
-    webUrl: "https://www.timesnownews.com/education/article/iit-madras-to-offer-free-online-course-on-artificial-intelligence-check-details-how-to-register/752619"
-    ampWebUrl: "https://www.timesnownews.com/amp/education/article/iit-madras-to-offer-free-online-course-on-artificial-intelligence-check-details-how-to-register/752619"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/education/article/iit-madras-to-offer-free-online-course-on-artificial-intelligence-check-details-how-to-register/752619"
+  - title: "Intel Shows Us a Way to Use Artificial Intelligence to Boost Sales"
+    excerpt: "The post-Covid world has seen a major surge in digitalization of businesses as well as use of AI. This has created greater demand for upgradation and automation of the sales sphere. Intel’s effort at embracing automation of the sales process is something to watch out for at this juncture."
+    publishedDateTime: 2021-05-04T04:24:00Z
+    webUrl: "https://www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/"
+    ampWebUrl: "https://www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/?amp"
+    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/?amp"
     type: article
     provider:
-      name: timesnownews.com
-      domain: timesnownews.com
-    quality: 58
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 74
     images:
-      - url: "https://imgk.timesnownews.com/story/Artificial_Intelligence_IANS_0.jpg?tr=w-400,h-300,fo-auto"
-        width: 400
-        height: 300
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Artificial-Intelligence-1.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "IIT Madras to Offer Free Online Course on Artificial Intelligence Soon on NPTEL"
-    excerpt: "IIT Madras will soon invite applications for a 12-week free online course on artificial intelligence, which will be made available on the NPTEL platform"
-    publishedDateTime: 2021-05-03T13:26:00Z
-    webUrl: "https://www.dqindia.com/iit-madras-offer-free-online-course-artificial-intelligence-soon-nptel/"
-    ampWebUrl: "https://www.dqindia.com/iit-madras-offer-free-online-course-artificial-intelligence-soon-nptel/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-offer-free-online-course-artificial-intelligence-soon-nptel/amp/"
+  - title: "Intel Community Needs Next-Gen Microelectronics for Future of AI"
+    excerpt: "IARPA wants “seedling” ideas that use a multidisciplinary approach that extends beyond traditional technological and scientific fields."
+    publishedDateTime: 2021-05-03T17:41:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/05/intel-community-needs-next-gen-microelectronics-future-ai/173766/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 53
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
-        width: 600
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/05/03/computer_education_training_class_picture_id1210738055/open-graph.jpg"
+        width: 400
         height: 400
         isCached: true
 
