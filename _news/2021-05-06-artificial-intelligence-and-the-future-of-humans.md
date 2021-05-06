@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-06T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg"
@@ -45,6 +46,6 @@ related:
         height: 900
         isCached: true
 
-secured: "Kif4T85/d+ziEw2hsKSSSrUGjn7XfJRf8zUOXeD4S9NyNlBZ5RfDdFMdZVoqIBbAd1EoZrPjH3dorMkiMfNrZ+8gYcxfhXapOvRq7HxTi61NRuxtgXyn/6WeORBpFc5K5Cl93A8Yr+WmkdvbcEXr5GEf/A1UZ+eJBNhWspiacR9cesJpLJzfK4z/sb7I+ZyIxDu8AxkU9jm8F7gpZ6rn2mrmsl3Ugy1XeVH+xwFGn7PG2fTztQsJh9D7lBYCdvhHCXN4FPBz7D+nZPboCO1c2prPNKl3ZU7/KpYP4Z7PcKBnZWrt+f31oi93lXi/gOrCWt/3bqxqGfp49LKfpQfD7s9K3pMbd8HZcz+mvqhrr2Q=;yxiZyveYcEqSS3aPZ2kL0A=="
+secured: "9c0RFCGwsdsnCPAk08l398G2/s70n5yx5DZuw5XuxysXP7DxklCPVsVJiyT5v6OQlinafbaQqlZgjloeNv2m8pnyHro6FDo8urX5287u8gPw214VesoxcS1vIrMEswyYhcphflvX3soxb7du+Acb9DNenQ9HEdGcWFzh9sWEFu/JSk9TFMxtWphuhqHO/GXmOV9A52xRZpLuepTVZrFp7TjUv4rWttfU4Ni3emhZRhWu+Ipr8xXfyBc0jNrtkb+O9Z3Dz+FwNIaVEvTgm4mkUImJAsazquzjF7ABO5mKypyBPNwHk4iwVWIe/rWxzu/TtU90bZ9VW/MJpBgOZtyJYAhk3yRsuhKhZGHaGhkEb8Lf6IUZb5XFAlUNVCw0K020Kj3yUtgZj/gCgmaKiRvvQvMIA4Tz7/2tDW6lPLywQ3Wz4Bx/iXSUGwF98w3b2A9yk0WBeOl9uUZdDTPw3RgHghcbtekAl9Pxn3bgWKjLRxMTd33qL//mO0MaJhuFhbOHF/nC3YW8Mn6NdfTbGcan0A==;X5+ors57uPko1oHnsvafrQ=="
 ---
 

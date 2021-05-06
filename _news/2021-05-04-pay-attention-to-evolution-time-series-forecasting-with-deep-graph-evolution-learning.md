@@ -60,20 +60,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 8
-  - title: "RSIP Vision Launches an Advanced AI-Based Tool for Prostate MRI and Ultrasound Registration Enabling Precise Navigation in Key Procedures"
-    excerpt: "RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, announced today a new prostate MRI-to-ultrasound registration tool. The tool's fully automated,"
-    publishedDateTime: 2021-05-06T13:14:00Z
-    webUrl: "https://www.lelezard.com/en/news-19790648.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 6
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Speech Emotion Recognition Considering Nonverbal Vocalization in Affective Conversations"
     excerpt: "In real-life communication, nonverbal vocalization such as laughter, cries or other emotion interjections, within an utterance play an important role for emotion expression. In previous studies, only few emotion recognition systems consider nonverbal vocalization,"
     publishedDateTime: 2021-05-04T01:05:00Z

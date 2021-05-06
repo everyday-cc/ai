@@ -41,20 +41,6 @@ related:
         width: 984
         height: 738
         isCached: true
-  - title: "Gender recognition application reduced to £5"
-    excerpt: "THE cost to apply for a gender recognition certificate has been reduced to £5, the government has confirmed. The £140 fee for how a person changes their legal gender will be reduced to single figures from today to ensure that the process is more affordable for transgender people."
-    publishedDateTime: 2021-05-04T12:51:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/gender-recognition-application-reduced-ps5"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 24
-    images:
-      - url: "https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "CReiEA5y6aI0MFDDDoLv543MRCvRhN++Fkopzk8pfvRZuIs+UorlM7RtVbW50cm/GuYJHdmDqgD34Y9Ivs5KeiapGyFjINpb+4bPFG1btjpKBup6FyMpz5LcV9FDRGyq0rABto6FISWtYc6hPRRjutAPmxqwJwHndwJdh2mErcBjBKMVhYwY4yOX0khNb4+uuRx6mqqfENny//zirD08pjYhLJrY8E7wbE6xl2KyJ3kQg14kD0DqETwoT6ror0Lo1jNn9Y3F9bMiBm5z4EK/JxzvX+qcUwB5l9u/G4Q36VmoCEVAP4wCk5npLKs5lX9TESU0e1fuCdz5hZzvMJBtKlhGX7Iu1kZDJsr/9wOBm5rGGoT9F9MJUxjMLi2LO3pjWgQqI27c/SXtOITPgMnLiivvbgK7aJAEDYJdqxpeK+fdNdydQqc0t5OAFi06AouG8XKVDBhtMvGyGCQUnrWaBUrY6gGtn/eG87QBBSbdxGlXMzULFxExaUpM6fSta4Vpx1LmyZd36jnatLo6TA6nnw==;CpEXPQj2iUwRe65Hk4/5Lg=="
 ---

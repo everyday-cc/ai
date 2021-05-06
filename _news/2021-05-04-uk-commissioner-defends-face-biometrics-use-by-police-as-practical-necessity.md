@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202105/uk-commissioner-defends-fac
 webUrl: "https://www.biometricupdate.com/202105/uk-commissioner-defends-face-biometrics-use-by-police-as-practical-necessity"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1600
     height: 1035
     isCached: true
+
+related:
+  - title: "Voice biometrics partnerships revealed by Aculab, LumenVox"
+    excerpt: "Aculab voice biometric engine, VoiSentry, integrated into the UCHU HUB platform. LumenVox partners with SpinSci on biometric patient engagement solutions."
+    publishedDateTime: 2021-05-06T15:36:00Z
+    webUrl: "https://www.biometricupdate.com/202105/voice-biometrics-partnerships-revealed-by-aculab-lumenvox"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
+        width: 768
+        height: 513
+        isCached: true
 
 secured: "Ei3CpDLDgcjdh+0u+bvQBn+84UQkhFKQV9sw/TDLa99PT6RXbLEkra+rmhU91QBK/R5ItFvQ1FiLxN9eeCv18Q4igCBUM7KJIJ0NARVNGulpOBBgKAgrOyWOddxd0Lp3OfHE/p/5eimILSD3ZvEMVaByI9YZUhvMSIm6liMgm4384d/pbjyM4WShkeGWS6aL0TGIpvfzTe9qaKQSfzJiIKK6V4CTm4h5XCTQOVEw+Lo+FsAn+OaNaujvnO8Dxk09ph7fMMRkLYzPvWURJYxGxqTqJ79ILrxI/7mdm6mk0jkdqeAO3w4xYoUwG8Myfuq9/8EAwZJFZzmY18fuvJAMJLazocrElJr0EVlm91pi/Ao=;CbA9kPp6yIWkHPS8xPctLg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2021-05-06/self-d
 webUrl: "https://money.usnews.com/investing/news/articles/2021-05-06/self-driving-startup-aeva-says-its-sensor-can-detect-vehicles-over-500m-away"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,38 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Pioneering study explores passengers' experiences of self-driving cars in winter conditions"
+    excerpt: "Trust, safety and security are the most important factors affecting passengers' attitudes towards self-driving cars. Younger people felt their personal security to be significantly better than older people."
+    publishedDateTime: 2021-05-06T14:47:00Z
+    webUrl: "https://techxplore.com/news/2021-05-explores-passengers-self-driving-cars-winter.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-explores-passengers-self-driving-cars-winter.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-explores-passengers-self-driving-cars-winter.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 34
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/googleselfdr.png"
+        width: 680
+        height: 451
+        isCached: true
+  - title: "Self-driving auto manufacturing seeks Israel’s hi-tech experience"
+    excerpt: "For instance, the American multinational, Intel Corporation, has its Israeli subsidiary, Mobileye, headquartered in Jerusalem, focused on developing self-driving cars and advanced driver-assistance systems."
+    publishedDateTime: 2021-05-03T07:51:00Z
+    webUrl: "https://blogs.timesofisrael.com/self-driving-auto-manufacturing-seeks-israels-hi-tech-experience/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 24
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/users/anton-lucanus1568610412-400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "LKEPngiwD/SjNcfTwXXmsPhlLg0fHJXpbS6+D9KvUWLqKBju/+hYrPGnE9PWGimIOt90SZlLRFYodCCPCeDb4I/rTkAYTtSqWy6kD+ldMNoiPYR8KCUKnRxNxrTf+W20MYdp2lrs4+QIHPzkoLylnfO45r8JGPzu9mWnmD/Hcvc7Txu93jwyuO4KwvD2PKehVHJK+jRYzru4TFfzo3ya4WC3RxzXaruJQGCP84HFUb5lS7CEbKpGPmKQKHmMA7V0I/La5SQ+iLCi3Dir6DuhxtkfWW7hEiU5yuJxeqFBvqMBIInDf13tb58R8frw9HFTqfTR3SUrzWmb/78rzOeAp9JjRd5sFZ58JQgtbI/rqpT1Ze+KmgFdgW7+nJXg4d6Z7qYuaw0UYYfqQqla+WFbgcnyeEcZAOuplTQjTkbM/N1x9dg2Tblg5ipqGac1U1zkXMwEfR3+piS0FkN+uyEkQJA1F7ALOMuZyuocU4Xtyes08ABit5aSwKGkZZB8fzoDx7inRtMh9RZbECasDRt2vg==;+hK4RL9uQ/wdtJE8ay5aZQ=="
 ---

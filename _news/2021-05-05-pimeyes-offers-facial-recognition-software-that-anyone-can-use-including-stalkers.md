@@ -150,6 +150,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Facial Recognition Software Fuels Growing Concerns in State Legislatures"
+    excerpt: "Lawmakers in at least 20 states are weighing curbs on police use of facial recognition, citing concerns of accuracy, invasion of privacy, racial bias and civil rights abuses."
+    publishedDateTime: 2021-05-06T15:16:00Z
+    webUrl: "https://thecrimereport.org/2021/05/06/facial-recognition-software-fuels-growing-concerns-in-state-legislatures/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 38
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
+        width: 720
+        height: 393
+        isCached: true
   - title: "King County considers ban on facial recognition technology"
     excerpt: "The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff’s office."
     publishedDateTime: 2021-05-06T06:08:00Z

@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition as a Legislative Issue"
-    excerpt: "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
-    publishedDateTime: 2021-05-05T23:48:00Z
-    webUrl: "https://patch.com/virginia/reston/facial-recognition-legislative-issue"
-    ampWebUrl: "https://patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
+  - title: "Blurred lines in face recognition"
+    excerpt: "Face recognition has come on apace from a cliched trope of science fiction to a reality of the modern world with widespread use in photography databases, social media, and the security world. However,"
+    publishedDateTime: 2021-05-06T14:37:00Z
+    webUrl: "https://techxplore.com/news/2021-05-blurred-lines-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-blurred-lines-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-blurred-lines-recognition.amp"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
+      name: techxplore.com
+      domain: techxplore.com
     quality: 59
     images:
-      - url: "https://patch.com/img/cdn20/users/60146/20210505/074823/styles/patch_image/public/jcots___05194516171.png?width=984"
-        width: 984
-        height: 738
-        isCached: true
-  - title: "Ken Plum: Facial recognition as a legislative issue"
-    excerpt: "One of the side-effects of the quarantine has been the difficulty of recognizing others after months of not seeing each other in person."
-    publishedDateTime: 2021-05-06T11:14:00Z
-    webUrl: "https://augustafreepress.com/ken-plum-facial-recognition-as-a-legislative-issue/"
-    type: article
-    provider:
-      name: Augusta Free Press
-      domain: augustafreepress.com
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/augustafreepress.com/wp-content/uploads/2019/05/ken-plum.jpg?fit=337%2C225&#038;ssl=1"
-        width: 337
-        height: 225
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/recognition.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "OflpbFPOKTxyyDkWg5cgH44159kSMjkosfyRFNY0gG2wimofRpvw6Bc+y1rR3mJJLxC+5xi6QV+b5teg36Cx8uDlpQSrgEy9ngKymXqHxEE61k+QHNtMNw+4Cp4I2nY6cH58PPlgLXekA1oc11knhSItHSfh9G1ltXMsnX3Boo0o/KPB9r5YWAH6qrPE5N7IWHfjcWbRvfoukxAFlxskuMF2zKfMqElPlMFvQuyPt9isj0e4GjPYe2Lcamq4wNfxDEyu9B6R6XIu1DDkEOfa0HrKCDk4TKv4WXexJ/oCDdM3+rjHFYeJmdJVYVWGaVd7Om7W9pE3cYmBzBwYa68Tg/Us7cK1H2kWj+RuufWf1IM=;vOY8hYAgSu/oc+BhJu/3sw=="

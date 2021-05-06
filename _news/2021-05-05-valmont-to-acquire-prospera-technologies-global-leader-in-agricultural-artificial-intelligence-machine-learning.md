@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Valmont to Acquire Prospera Technologies, Global Leader in Agricultural Artificial Intelligence & Machine Learning"
-excerpt: "Valmont Industries, Inc. (NYSE: VMI), a leading global provider of engineered products and services for infrastructure and irrigation equipment and se"
-publishedDateTime: 2021-05-05T16:03:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210505005364/en/Valmont-to-Acquire-Prospera-Technologies-Global-Leader-in-Agricultural-Artificial-Intelligence-Machine-Learning"
-webUrl: "https://www.businesswire.com/news/home/20210505005364/en/Valmont-to-Acquire-Prospera-Technologies-Global-Leader-in-Agricultural-Artificial-Intelligence-Machine-Learning"
+excerpt: "Valmont Industries, Inc., a leading global provider of engineered products and services for infrastructure and irrigation equipment and services for agriculture, today announced it has entered into a definitive agreement to acquire Prospera Technologies Inc."
+publishedDateTime: 2021-05-05T12:03:00Z
+originalUrl: "https://www.nasdaq.com/press-release/valmont-to-acquire-prospera-technologies-global-leader-in-agricultural-artificial"
+webUrl: "https://www.nasdaq.com/press-release/valmont-to-acquire-prospera-technologies-global-leader-in-agricultural-artificial"
 type: article
-quality: 14
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
@@ -37,6 +37,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "oQAj2pAWOUA1x9e+L5osWOzQSJpJLnEeRwT2W7xKRbI+WPW2x/KTmS/bVwuPO/5lQ4L0RS08K1Ftgs5g22IimtDP6NHLn5dqb4ufMsC0fA/dioAc56F36jmEp9Zh7+4biyNzv6QUo00cs26N/wrJ5Xyd8hU7cqOBEc+18mM0ugk9ZtkynXQv6LZMaNzC39gVEJlTRZ2/ZNiv1tNLH1CXGTilvFsLL2rhLruKX6RjvMkYvWXlV1OUqG06GaFiy5VLIIkSAFjFTNtWq3+K+uYEMxUwmauaYxY+m/mcI4tVL2vLNFT3PjV9Uo9KUIUtTtK+b6S+fRFN7Bn5Gmszx0KUPCetjYUdAHAtbPISi2VGxQU=;ZaohDvklXLw2BHMFth7OTQ=="
+secured: "ImxoLHQzST2vuv3MeDFvKqSxtbV+/oDvhOzSuIoECWYtiwNcrTHNq4aePj4evIEeBwFjHBFDgTxFHpNUhGiWW7DYqb8cBycsVUgAB/14/c5JaO1jQnai1rJ8mFGKyxDwbGBXiSWQpfam1W0A347WY27E22oooX3sn7kuTYo/Qntd3tcUb5IoiOnsbe1zYVxvGBBx5umd138xk77vnm/WfKWoDM8FEm87Ksf8cj26BzYce7JY+ajoAzeDS9HWTL2A6W5t78F6wWr/noPCRhSTLn7/lqRvIMedIDf9X5QOg8icuET8J1LJ6EG021Ca+kntZVhwucmgxEFJ885CrMQvex3Qf8tmvchsiCreCUbbrRU=;XM5izmVJgcK66FTmhnJzCQ=="
 ---
 

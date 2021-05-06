@@ -135,6 +135,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Facial Recognition Software Fuels Growing Concerns in State Legislatures"
+    excerpt: "Lawmakers in at least 20 states are weighing curbs on police use of facial recognition, citing concerns of accuracy, invasion of privacy, racial bias and civil rights abuses."
+    publishedDateTime: 2021-05-06T15:16:00Z
+    webUrl: "https://thecrimereport.org/2021/05/06/facial-recognition-software-fuels-growing-concerns-in-state-legislatures/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 38
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
+        width: 720
+        height: 393
+        isCached: true
   - title: "PimEyes offers facial recognition software that anyone can use, including stalkers"
     excerpt: "Facial recognition is a very powerful AI technology that has businesses interested in its application, and many people are concerned about how it can be weaponized against normal people. Typically, the tech is locked behind high paywalls or available only as an internal tool."
     publishedDateTime: 2021-05-05T15:19:00Z

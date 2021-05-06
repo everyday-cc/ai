@@ -39,7 +39,16 @@ related:
         width: 1200
         height: 448
         isCached: true
+  - title: "BRIEF—Dyno Therapeutics raises $100 million for gene therapies"
+    excerpt: "AI-driven gene therapy specialist Dyno Therapeutics has raised $100 million in a series A financing led by investment company Andreessen Horowitz. The firm said it would use the money to expand its CapsidMap platform,"
+    publishedDateTime: 2021-05-06T15:51:00Z
+    webUrl: "https://www.thepharmaletter.com/in-brief/brief-dyno-therapeutics-raises-100-million-for-gene-therapies"
+    type: article
+    provider:
+      name: The Pharma Letter
+      domain: thepharmaletter.com
+    quality: 19
 
-secured: "GKB7Q6jyOvZMJRL/PYl/wD4GXzv4myMkvuAIT8zDU7xrPZGs8KVewg0oekREBgjvfsb0gPgjPtfLZfX1LTHcrlMIMkqNm+gnVqSHX6vBl0AXO3OIm+3q5osXi60UqyWdn72Cs7uYHKa9pHvvFpb4cZU7QqddOLdmPB8ljh+9IRRWADNmYhazvgotJsWv8rZ1EbwN9PGKxgXPploFe7d9OXhMKNzAWEHS84Ihja+vZ1oaAaXQYsH2B1n7gskAL0ywbJl9BuJilvn55MtNJKL2/4gv8sxs5G7OxyZgtsq7hLpKtQOeKg+8AY29Mze+7pFFzn7pcN49wb+Jvc4yvYBoNuQVrO/RTpZcY6UeOUWNwpQ=;jfVwNgbNuP6gyVU7gugOQw=="
+secured: "SUmiEyf62dH3BJ8+wZUhpWHQdjsGHHXRoCYEa+Wpyv9d9mhVPHs2A8KOG0YXxl9el30pUul1ZGbsrosgaaORT81MbwbqWsJaEkuReEsxx3QpgTEq8OI6RYlZpg4EQqhC9mIn19ONaQNppfug1pH3dXy5c30emmV13ZYzlQzDJHpmdF/7/HYXAB6iyD69el3RexRInj5x1tBTeaiS15BfvoAmYcZwu8ZhO4x6LBxNZS29jMkSBP1aIokEqJJ7tJdDphskJ+DaM/S8wH982RuctnOvwLlpCOX4xFeSN2HpO0QNCSenr3aNWbXXghJInSLNbhlcOJ8BuwQ2sWaxbQobnMH13t+xl3Dplv30cPzB+DKgdWrFH2B5ki2ABEDODbZTZuEhgW2neBl8ljnWRCZswqE2mjlDRbhNa+FPsmgQnUyyYsRlf0rtNlY4frw3dSbNY+AxkON/oViwy+ViS3/gy6A5vPR/L8Jr8128OJAWw4vYPMf7j44TmrbR2lCqKXTQo+JoKz76uINbwhE7CH9huw==;/hNK8a7QTKGrOAMWWU5P3Q=="
 ---
 

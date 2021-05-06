@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Music production app djay Pro AI gets major update to AI-powered mixing tools"
+    excerpt: "Thanks to a significant overhaul, music production app djay Pro AI allows users to make fully AI-powered DJ sets on their iPhone or iPad."
+    publishedDateTime: 2021-05-06T14:18:00Z
+    webUrl: "https://appleinsider.com/articles/21/05/06/music-production-app-djay-pro-ai-gets-major-update-to-ai-powered-mixing-tools"
+    ampWebUrl: "https://appleinsider.com/articles/21/05/06/music-production-app-djay-pro-ai-gets-major-update-to-ai-powered-mixing-tools/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/05/06/music-production-app-djay-pro-ai-gets-major-update-to-ai-powered-mixing-tools/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 56
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/41860-81207-yea-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "General Motors is Using Artificial Intelligence to Build its Future Vehicles"
     excerpt: "Artificial intelligence and self-driving cars are often discussed together in the field of technology. General Motors is imagining a future of lighter, powerful, and customizable vehicles motivated by"
     publishedDateTime: 2021-05-06T09:00:00Z

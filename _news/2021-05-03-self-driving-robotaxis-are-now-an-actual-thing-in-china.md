@@ -112,7 +112,7 @@ related:
   - title: "Baidu launches China's first commercial driverless taxi service"
     excerpt: "Chinese search engine giant Baidu on Sunday started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public on a trial basis since last October but Sunday marked the first time that riders have needed to pay for it."
     publishedDateTime: 2021-05-04T10:00:00Z
-    webUrl: "https://motorauthority.com/news/1132139_baidu-launches-china-s-first-commercial-driverless-taxi-service"
+    webUrl: "https://www.motorauthority.com/news/1132139_baidu-launches-china-s-first-commercial-driverless-taxi-service"
     type: article
     provider:
       name: Motor Authority
