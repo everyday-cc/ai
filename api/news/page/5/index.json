@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-03-re-humanizing-the-contact-center-with-ai.md",
+      "title": "Re-Humanizing The Contact Center With AI",
+      "excerpt": "In the end, it’s important to remember that the decisions you make now on your technology will impact you years down the line.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60428b8f3fbc741bf8ae1c13%2F0x0.jpg",
+          "width": 737,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/amp/",
+      "publishedDateTime": "2021-05-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-the-us-navy-needs-missile-launchersa-cheap-robot-could-be-just-the-thing.md",
       "title": "The U.S. Navy Needs Missile Launchers—A Cheap Robot Could Be Just The Thing",
       "excerpt": "The U.S. Navy is about to lose a big chunk of the vertical missile cells that give it a firepower advantage over any potential foe.",
@@ -158,7 +209,7 @@
       "originalUrl": "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1196,58 +1247,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-how-the-global-chip-shortage-could-impact-your-business.md",
-      "title": "How the global chip shortage could impact your business",
-      "excerpt": "It will likely take at least 18-24 months to stabilize the supply chain. Until then, many companies will be affected (some more, some less).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/",
-      "originalUrl": "https://venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-10161933.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/how-the-global-chip-shortage-could-impact-your-business/amp/",
-      "publishedDateTime": "2021-04-30T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

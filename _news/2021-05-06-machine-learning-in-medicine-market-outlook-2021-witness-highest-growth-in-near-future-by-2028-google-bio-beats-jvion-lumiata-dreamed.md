@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/06/machine-learning-in-medicine-ma
 webUrl: "https://ksusentinel.com/2021/05/06/machine-learning-in-medicine-market-outlook-2021-witness-highest-growth-in-near-future-by-2028-google-bio-beats-jvion-lumiata-dreamed-healint/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,35 @@ images:
     height: 225
     isCached: true
 
-secured: "qBi0XDcbIvimjQPjF+TxrvjA7Yhgb4gcH/ZlalJIttu5Ua27JZRvMRwE7ZT9Doe/VxBt2BxXWNUtRrTby+wwlj0U+yUl3YESV7OnXI4GVGlLv0KvQKhVU71cjlgLTpOvPHopau/ue8DOrYMarnBh5h6d1VvB5GUBUVPRXhRRbxbTVsm+hM8fSyv5R8t4+DzY+yA+/QDjk1W9L+1tpVTVRRmRD7y/EaKlKJseqxCV2p5C1bWWVCAN5WhjfA3GLbOz+IKf5M0RmLl3LXo1KbYNoxEdAsRFmK1jDh/XJ6vS4bXV5VAsqqDXAZmuMy8HRvLi84mCIwr5IL0sMA1NcPiXaFP/9ZdCu82dWBIp+4el1OA=;LcAPpFIMX5k/mdWAGRlaRA=="
+related:
+  - title: "Artificial Intelligence Platform Market size, Witness Highest Growth in near future by 2027 | Google, Baidu, Ibm, Microsoft, Sap"
+    excerpt: "The Artificial Intelligence Platform market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
+    publishedDateTime: 2021-05-03T04:19:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-platform-market-size-witness-highest-growth-in-near-future-by-2027-google-baidu-ibm-microsoft-sap/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 20
+  - title: "Artificial Intelligence Market to Eyewitness Huge Growth by IBM Corporation, Microsoft Corporation, General Vision, Enlitic, Inc."
+    excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence Market report is anticipated to perform more robustly in the coming years, and its potential will steer the market to be positioned between the world’s most remunerative industries."
+    publishedDateTime: 2021-05-03T11:28:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-market-to-eyewitness-huge-growth-by-ibm-corporation-microsoft-corporation-general-vision-enlitic-inc/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 7
+  - title: "AI in Smartphone and Wearable Market size, Witness Highest Growth in near future by 2027 | Lenovo, Apple, Xiaomi, Samsung, Huawei,"
+    excerpt: "The study report on the global AI in Smartphone and Wearable Market 2021 gives a detailed and good size analysis which consists in a comprehensive view of the global industry contains the recent trend in addition to the forecasted magnitude of global business with admire service and products."
+    publishedDateTime: 2021-05-04T02:56:00Z
+    webUrl: "https://ksusentinel.com/2021/05/04/ai-in-smartphone-and-wearable-market-size-witness-highest-growth-in-near-future-by-2027-lenovo-apple-xiaomi-samsung-huawei/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
+
+secured: "1NCBPxLkhFAn2eYqTkou2JXJOWRw2xEpNVEG96QxKydpv8B1H8zf0c2x7caIb0aFNYi/6bKdwBznLgyxzQkWobiFN3sWaI545rXN9P0nDovYpo8aGgK1aL6s+2fGqDdQjqD94bvb79OGus33vBAkIQFq83sjPFwibP8i4H9fOqmleNtkVOmFzBiLP4N5FcKm3s8pb+upL3rkrYn2c0/mmtJpgMlNcUvN7zTm31aad/e4mupzSYw+BaZbB8RaPvKmfCiAaS/abh3VPBc9vpMj/84kgw86F1ybvoZFAP80UCc9dYQ1DWLDvLYV2xLTZcs1DB0nF8Ocw6Buis3qo+uN17asfjY+dLTlrDSk/rivhvHc+GQeoRBh9PfvyQjDuKqYOswSZ6PZYliOZ+br4e1wID/X0VjbNI4dMEtGNZALLB2CfGZKBxcDXUj8oyku9LDm7a2JYQW2cshawilVPyNS6IpZLxBiZe+Sls4uaNemJPckwSeeGgLmcVrZueSf+Rg4cHcDj99B+M2ONd2mlDVeAA==;v5MvXq7tigj1lxpBcdmHUA=="
 ---
 

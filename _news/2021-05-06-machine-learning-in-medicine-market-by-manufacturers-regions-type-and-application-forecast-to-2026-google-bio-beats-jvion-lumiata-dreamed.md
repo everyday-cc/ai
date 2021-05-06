@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,"
+    publishedDateTime: 2021-05-03T03:24:00Z
+    webUrl: "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?842651"
+        width: 485
+        height: 249
+        isCached: true
   - title: "Artificial convolution neural network techniques and applications for lung nodule detection"
     excerpt: "We have developed a double-matching method and an artificial visual neural network technique for lung nodule detection. This neural network technique is generally applicable to the recognition of medical image pattern in gray scale imaging."
     publishedDateTime: 2021-05-05T23:37:00Z
@@ -64,6 +78,20 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 9
+  - title: "Global Artificial Intelligence in IoT Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The Artificial Intelligence in IoT market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence in IoT market report is a comprehensive research that focuses on the overall consumption structure,"
+    publishedDateTime: 2021-05-03T10:09:00Z
+    webUrl: "https://menafn.com/1102013484/Global-Artificial-Intelligence-in-IoT-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?50588"
+        width: 333
+        height: 250
+        isCached: true
 
 secured: "v96n9Yt4cHtNj1pNJmwhH1aGgI5aoV4iqpWvEdL4Cc3Il+/qV+2JzTlBvhonKiJcDptpBorGxgyr5SCFLEi/zGQeIRblCbN48Qk2OyZe72Xmmf23fDCFEig4yV3rJhpP/bvXs/Qcun2wtm1tUjBQDQnfQaYkSLV1HWrYjy3SF77/pFDXbzn2i18tDvryMPmMEEDOciDJvSddk1/2NYXeI8jpijKcYjd1/wk/ZWbN4Rj9+dqLvLQV6vOY+BT5P7Y9EufzbwJGLJFzPcug00T8AlUAAWnWv4PfGAHMXk9RF0lQicecCfdKSKmpOltpzMmii8MUj/ZwoTP3iUj56XxjY1Dhvz7zG5xVqG2xWW5HBvjlR3ooHOBmxA/ey5HpBtidh+nDfjZChI/PZQnTbmhgcu4XhOqQ3Yw4njah4Dd/K04D+zMECbxkxGm+LC1HgmHOltwRPS8K9UDSwkUzCP13E+Slui9N1hjEnbOuh9aiLTfLOE/aoltLyp8Ki19g2Kysy5EduJJnqP64CMsfgx5ntA==;YZ9jPCB40icosxaROi4qpQ=="
 ---

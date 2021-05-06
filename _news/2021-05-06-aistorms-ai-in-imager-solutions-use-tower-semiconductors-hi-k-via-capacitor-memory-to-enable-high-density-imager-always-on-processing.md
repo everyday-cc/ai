@@ -2,27 +2,21 @@
 category: news
 title: "AIStorm’s AI-in-Imager Solutions Use Tower Semiconductor’s Hi-K VIA Capacitor Memory To Enable High-Density Imager, Always-On Processing"
 excerpt: "AIStorm and Tower Semiconductor announced that AIStorm’s new AI-in-imager products will feature AIStorm’s electron multiplication architecture and Tower’s Hi-K VIA capacitor memory, instead of digital calculations,"
-publishedDateTime: 2021-05-06T09:46:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/middle-east-business-technology-2d2b1f8946ac4e8e963ec5e8fa426901"
-webUrl: "https://apnews.com/press-release/business-wire/middle-east-business-technology-2d2b1f8946ac4e8e963ec5e8fa426901"
+publishedDateTime: 2021-05-06T13:45:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210506005304/en/AIStorm’s-AI-in-Imager-Solutions-Use-Tower-Semiconductor’s-Hi-K-VIA-Capacitor-Memory-To-Enable-High-Density-Imager-Always-On-Processing"
+webUrl: "https://www.businesswire.com/news/home/20210506005304/en/AIStorm’s-AI-in-Imager-Solutions-Use-Tower-Semiconductor’s-Hi-K-VIA-Capacitor-Memory-To-Enable-High-Density-Imager-Always-On-Processing"
 type: article
-quality: 6
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "AIStorm’s AI-in-Imager Solutions Use Tower Semiconductor’s Hi-K VIA Capacitor Memory ..."
@@ -40,6 +34,6 @@ related:
         height: 450
         isCached: true
 
-secured: "o1F/lsvpukebG7MrXxZ8whzrBSvJ+FeZBn7XD2bZm3Ja1yJazE8e8m35a3NBHCdkxAMBDB5moaLGiY+48PcdGUn92LTDhqooTtF2SmmbjUdD5bfmHM7PzqrfncANW14JCfq7ArGiA6GuxK2n02XCeLwrC5U9Ox7E2TN1mMR4SjUTahEidkt48217/9XLVrGecEkZtDrNeH83tDKYpdcvRV60VobMKRZ2LEpaAd7tZGXAFBix+ikBNQ+aSjAcwfXMEXIg6io336a+RWRKZ/O7CKBCBP4PjpVCDPN7YL/TvFM41b0F2vLeXy/jKM2KEuBj58SRNOOzy5vxOdZTT+wl4TKlLlVhDkxpyW4YFuKHPSU=;3xxrunsLUjXg14J8b7CW2Q=="
+secured: "WDyQtw+1kPeYmApghHuQf71aDWLQOWtZrmfTjBboJkwuG1GJpb1Xok/TbdQkOL5qSgCkmzlqvrFCYLVoMKaO/H/KSYSNs+rhhFWucEuOKkmgfbrox8cAEieKSxUSQntDuKuZcMBr+p4nBMssCqKnSd4Qx0+67gIN6wouPG3OYP513sQvYJgzFc1hIPOOQqKzu59e7n9QFeNk5/jnCjfMmAlwrM8obVEKmK7Z/2BtHaGljBRQLFNN2R4iFEWlrG1zK+jT3s4ft446B5Mkm2vXFlSj2oTE13MAd72dCImQL3qeiFvMgajjm+DFoyeQUdYG5gEeL3Iywf8QMYsOJhAE/KZvjrvYpPeyBp19BHmCI48=;tMByJrGPUIjMDXrdXYvHKg=="
 ---
 

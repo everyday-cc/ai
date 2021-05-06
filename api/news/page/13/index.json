@@ -2,6 +2,40 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-23-video-see-how-a-self-driving-car-perceives-the-world.md",
+      "title": "Video: See how a self-driving car perceives the world",
+      "excerpt": "Motional has partnered with Derq to test how driverless technology reacts to a broader view of the world from a bird’s eye view. Derq, an artificial intelligence and vehicle-to-everything (V2X) vendor,",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/16635/video-see-how-a-self-driving-car-perceives-the-world",
+      "originalUrl": "https://electronics360.globalspec.com/article/16635/video-see-how-a-self-driving-car-perceives-the-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031.md",
       "title": "Machine Learning as a Service (MLaaS) Market 2021 Rising Latest Advancements, Growing Demands and Business Opportunities by 2031",
       "excerpt": "Market.us adopted a multidisciplinary detain during the pandemic era to focus on the revolutionary trends, growth and industry statistics along with the development of the Global Machine Learning as a Service (MLaaS) Market.",
@@ -1132,49 +1166,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-university-of-alaska-anchorage-today-ai-webinar-will-explore-the-development-of-self-driving-vehicles.md",
-      "title": "University Of Alaska Anchorage: TODAY: AI Webinar Will Explore The Development Of Self-Driving Vehicles",
-      "excerpt": "By 2019, many car and technology companies had implemented autonomous car programs, and Google's Waymo launched the world's first commer",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/alaska/anchorage/university-alaska-anchorage-today-ai-webinar-will-explore-development-self-driving",
-      "originalUrl": "https://patch.com/alaska/anchorage/university-alaska-anchorage-today-ai-webinar-will-explore-development-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

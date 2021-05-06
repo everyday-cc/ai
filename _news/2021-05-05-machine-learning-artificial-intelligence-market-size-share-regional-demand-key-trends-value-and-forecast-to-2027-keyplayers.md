@@ -20,6 +20,34 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Machine Learning in Healthcare Market Research Report 2021 Size, Share, Growth, Trends and Forecast 2026 | COVID-19 Impact Analysis"
+    excerpt: "May 04, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Machine Learning in"
+    publishedDateTime: 2021-05-04T09:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-research-report-2021-size-share-growth-trends-and-forecast-2026-covid-19-impact-analysis-2021-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fintech Market Size 2021 Report Contains Top Manufacturer Share, Business Revenue and Industry Overview till 2026"
+    excerpt: "May 06, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “AI in Fintech Market” has"
+    publishedDateTime: 2021-05-06T10:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-2021-report-contains-top-manufacturer-share-business-revenue-and-industry-overview-till-2026-2021-05-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size | Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
     excerpt: "Global Artificial Intelligence in Healthcare Market Report 2020 comes with the extensive industry analysis of development components, patterns, flows"
     publishedDateTime: 2021-05-05T10:26:00Z
@@ -36,29 +64,20 @@ related:
         width: 1044
         height: 625
         isCached: true
-  - title: "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
-    excerpt: "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,"
-    publishedDateTime: 2021-05-03T08:00:00Z
-    webUrl: "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026&source=139"
+  - title: "Artificial Intelligence Software Market (COVID-19) to Witness Astonishing Growth by Forecast 2021-2027 |Baidu, Google, IBM, Microsoft, SAP, etc"
+    excerpt: "Latest launched research on Global Artificial Intelligence Software Market, it provides detailed analysis with presentable graphs, charts and tables. This report covers an in depth study of the Artificial Intelligence Software Market size,"
+    publishedDateTime: 2021-05-04T05:44:00Z
+    webUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-software-market-covid-19-to-witness-astonishing-growth-by-forecast-2021-2027-baidu-google-ibm-microsoft-sap-etc/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 33
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://marketsresearchreport.com/wp-content/uploads/2021/01/13.jpg"
+        width: 576
+        height: 324
         isCached: true
-  - title: "Machine Learning in Healthcare Market Research Report 2021 Size, Share, Growth, Trends and Forecast 2026 | COVID-19 Impact Analysis"
-    excerpt: "May 04, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Machine Learning in"
-    publishedDateTime: 2021-05-04T09:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-research-report-2021-size-share-growth-trends-and-forecast-2026-covid-19-impact-analysis-2021-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
   - title: "Machine Learning as a Service (MLaaS) Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Machine Learning as a Service MLaaS Market size is expected to grow at an annual average of 43 during 2021 2027 Machine learning is a computing technique that gives computers the ability to learn and modify analytic functions when"
     publishedDateTime: 2021-05-06T12:44:00Z
@@ -84,15 +103,43 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Global Artificial Intelligence in Accounting Market 2025: Top Key Players AWS, Microsoft, Intuit, Xero, Sage, UiPath and others"
-    excerpt: "The report released by Zion Market Research on Global Artificial Intelligence in Accounting Market covers the broad strategic framework of dynamics of the global market. The report is a comprehensive study of current and future growth aspects."
-    publishedDateTime: 2021-05-05T23:52:00Z
-    webUrl: "https://ksusentinel.com/2021/05/05/global-artificial-intelligence-in-accounting-market-2025-top-key-players-aws-microsoft-intuit-xero-sage-uipath-and-others/"
+  - title: "Global AI Enabled Smart Trackers Market 2021 Future Demand, Analysis,Outlook to 2027 Facebook, Apple, Garmin"
+    excerpt: "The AI Enabled Smart Trackers Market – Global industry Analysis, Size, Share, Growth, Trends and Forecast, 2021–2027 report provides AN analysis of the AI Enabled Smart Trackers Marketplace for the period 2021–2027,"
+    publishedDateTime: 2021-05-03T01:27:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/global-ai-enabled-smart-trackers-market-2021-future-demand-analysisoutlook-to-2027-facebook-apple-garmin/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 23
+    quality: 20
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Calibre-Research-17.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "Latest COVID-19 Impact Report on Artificial Intelligence in Agriculture Market"
+    excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed $6000 million by 2027, growing at a CAGR of 25.50% from 2020 to 2027."
+    publishedDateTime: 2021-05-04T09:26:00Z
+    webUrl: "https://ksusentinel.com/2021/05/04/latest-covid-19-impact-report-on-artificial-intelligence-in-agriculture-market/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 15
+  - title: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights"
+    excerpt: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights Posted on May 3 2021 5:25 AM Some of the key players in the military robots market such as Northrop Grumman Corporation (The U."
+    publishedDateTime: 2021-05-03T08:52:00Z
+    webUrl: "https://menafn.com/1102015536/Military-Robots-Market-Size-Growth-Revenue-Manufacturers-and-Forecast-Research-to-2020-2027Fortune-Business-Insights"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?315401"
+        width: 374
+        height: 250
+        isCached: true
   - title: "Booming Growth in Natural Language Processing Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players"
     excerpt: "Business Science Technology World Booming Growth in Natural Language Processing Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players The Natural L"
     publishedDateTime: 2021-05-05T16:50:00Z
@@ -107,20 +154,15 @@ related:
         width: 780
         height: 400
         isCached: true
-  - title: "Global Artificial Intelligence in IoT Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
-    excerpt: "The Artificial Intelligence in IoT market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence in IoT market report is a comprehensive research that focuses on the overall consumption structure,"
-    publishedDateTime: 2021-05-03T10:09:00Z
-    webUrl: "https://menafn.com/1102013484/Global-Artificial-Intelligence-in-IoT-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
+  - title: "Deep Analysis of Machine Learning as a Service (MLaaS) Market Future Growth with Technology and Current Trends 2021 to 2026"
+    excerpt: "Market was published by The Research Insights to understand the comprehensive setup of Machine Learning as a Service (MLaaS)Market industries. Efficient qualitative and quantitative investigation techniques have been used to examine the data perfectly."
+    publishedDateTime: 2021-05-05T08:26:00Z
+    webUrl: "https://ksusentinel.com/2021/05/05/deep-analysis-of-machine-learning-as-a-service-mlaas-market-future-growth-with-technology-and-current-trends-2021-to-2026/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 5
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?50588"
-        width: 333
-        height: 250
-        isCached: true
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 8
   - title: "Global Artificial Intelligence (AI) in Media and Entertainment Market SWOT Analysis,Key Indicators,Forecast 2027 : IBM Corporation"
     excerpt: "MR Accuracy Reports recently introduced new title on “Artificial Intelligence (AI) in Media and Entertainment Market : Global Industry Analysis, Size, Share, Growth, Trends, and"
     publishedDateTime: 2021-05-05T05:00:00Z
@@ -139,6 +181,47 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 1
+  - title: "Artificial Intelligence Platform Market 2020 Top Companies, Upcoming Trends Emerging Technologies, Global Analysis with Forecast 2026"
+    excerpt: "The Global Artificial Intelligence Platform Market accounted for USD 2.34 billion in 2017 and is projected to grow at a CAGR of 31.2% the forecast period of 2020 to 2026. The research Insights proclaims the addition of another new report on account of the Artificial Intelligence Platform Market."
+    publishedDateTime: 2021-05-03T14:10:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-platform-market-2020-top-companies-upcoming-trends-emerging-technologies-global-analysis-with-forecast-2026/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
+  - title: "Exclusive Report Of Machine Learning as a Service (MlaaS) Market: Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin and Share 2028"
+    excerpt: "IndustryAndResearch research recently promoted a report on “Global & USA Machine Learning as a Service (MlaaS) Market Report Insight, Key Research Findings, Competative Landscape and Forecast 2021-2028” The report gives a comprehensive calculation of the Machine Learning as a Service (MlaaS) containing industry chain structure,"
+    publishedDateTime: 2021-05-03T13:50:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/exclusive-report-of-machine-learning-as-a-service-mlaas-market-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-share-2028/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
+  - title: "Worldwide Video Analytics Industry to 2026 - Featuring Agent Video Intelligence, Aventura Technologies and IBM Among Others - ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global video analytics market exhibited growth during 2015-2020."
+    publishedDateTime: 2021-05-04T10:54:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-656c50b19e044699b96393097299fbe1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Facial Recognition System Market 2020- Impact of COVID-19, Future Growth Analysis and Challenges | Ayonix Corporation, Cognitec, Biometric Companies"
+    excerpt: "A latest published report on Facial Recognition System market provides you with the key analysis of the market and gives a detailed overview of the market dynamics that are influential to the Facial Recognition System market growth trends."
+    publishedDateTime: 2021-05-05T10:31:00Z
+    webUrl: "https://ksusentinel.com/2021/05/05/facial-recognition-system-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-ayonix-corporation-cognitec-biometric-companies/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "WkQAueaOeyS7yVp/wUq2gTPTFkRz20gCEchXfA/2QPfqT2Tx7IQ/IoOe9iQD8wnXzyOG1FiqZyWMsa+A0CEHPKyoI7AZgKUKtpUcXmvOakc+9QLHwAh1rnhEQFrjVMkiu0O6c86WcKGpxWBQhUoAWIqbv9xnIj3vn9Su/twtaOuj0Q4WclkthcZHnCuSUFjmXuVOqDdIPhRuXp9jabuFEoLap6Rppf7kON6HWdTcFTRfo9y+SQwABnUC+zJzHRTgyhZg4BxrVzzKScmvtdAusV2oVcyD6YZQodUUbRUXFf/YmgRWhwgHdl6mavM2TAHY9ykPvp1GLHuRaadvB2rROdn/meVV/9JbVBMHyimxtShe6bxzIzR2tH2HAv1TY9q/bIowHXTDACqGMmS03RVV9U6vRxHHa5+2LhVPPjgQW9EPfUKIsFcaIWLsCjYX4nH+GvplcA5cB8nnkkZ4928unTUE1zUSdD+yxWKeRZYcXQJs0+oY/YtaRp07DdiQRcJOhLAeKNZuK90EyXW6U4kANQ==;5FhD+++K/mUT0pSIXTuvtQ=="
 ---

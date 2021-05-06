@@ -129,6 +129,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Baidu rolls out paid driverless taxi service in Beijing"
+    excerpt: "Chinese tech giant Baidu has rolled out its paid driverless taxi service ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding ..."
+    publishedDateTime: 2021-05-03T21:27:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449117"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 54
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_dacbbcc8fdee407a886411a4b2db2efc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "China Gets World’s First Self-Driving Taxis"
     excerpt: "Chinese tech giant Baidu has launched the world’s first self-driving taxis in China. This not only makes China the first"
     publishedDateTime: 2021-05-03T09:30:00Z

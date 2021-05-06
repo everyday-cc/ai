@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-28-leaked-ai-report-could-hint-at-future-for-us-regulation.md",
+      "title": "Leaked AI report could hint at future for US regulation",
+      "excerpt": "Greg Nichols tells Karen Roby that the EU takes lead on AI regulation, trying to stay ahead of evolving tech. Read more:",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/leaked-ai-report-could-hint-at-future-for-us-regulation/",
+      "originalUrl": "https://www.zdnet.com/video/leaked-ai-report-could-hint-at-future-for-us-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/04/28/22576f2a-6f91-4323-9769-d49b34e7519f/thumbnail/770x578/532ac0654882d8c6e3da1eecfd091578/20210428-greg-karen-leaked.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-increasing-use-of-facial-recognition-technology-in-china-faces-backlash-from-city-governments.md",
       "title": "Increasing use of facial recognition technology in China faces backlash from city governments",
       "excerpt": "After being highlighted for misuse on China’s annual Consumer Protection Gala in March, several cities in China are tightening the enforcement of regulations on facial recognition.",
@@ -1173,57 +1224,6 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-legal-management-startup-clio-nabs-110m-to-expand-its-platform.md",
-      "title": "Legal management startup Clio nabs $110M to expand its platform",
-      "excerpt": "Clio, a legal management startup founded in 2007, has raised $110 million, valuing the company at $1.6 billion post-money.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/27/legal-management-startup-clio-nabs-110m-to-expand-its-platform/",
-      "originalUrl": "https://venturebeat.com/2021/04/27/legal-management-startup-clio-nabs-110m-to-expand-its-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/ba9f7ef0-e3bb-44dd-b5e3-683b58150177-e1619131884575.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/27/legal-management-startup-clio-nabs-110m-to-expand-its-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/legal-management-startup-clio-nabs-110m-to-expand-its-platform/amp/",
-      "publishedDateTime": "2021-04-27T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

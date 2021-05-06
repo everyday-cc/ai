@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-07-its-time-to-train-professional-ai-risk-managers.md",
+      "title": "It’s time to train professional AI risk managers",
+      "excerpt": "With European regulations underway that will mandate AI safety, businesses around the world will face AI audits.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/06/its-time-to-train-professional-ai-risk-managers/",
+      "originalUrl": "https://venturebeat.com/2021/05/06/its-time-to-train-professional-ai-risk-managers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1252396964.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/06/its-time-to-train-professional-ai-risk-managers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/its-time-to-train-professional-ai-risk-managers/amp/",
+      "publishedDateTime": "2021-05-06T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-covid-era-education-tech-narrowed-college-learning-gap-for-poor-minorities.md",
       "title": "Covid-era Education Tech Narrowed College Learning Gap for Poor, Minorities",
       "excerpt": "The demand for artificial intelligence and machine-learning skills, for example, is expected to grow by 71 percent per year through 2025, according to a recent study by the business analytics firm Burning Glass Technologies. And online education tends to ...",
@@ -248,50 +299,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-training-privacy-key-to-artificial-intelligence-use-post-covid.md",
-      "title": "Training, Privacy Key to Artificial Intelligence Use Post-COVID",
-      "excerpt": "Artificial intelligence became a key public health tool during COVID-19, but its continued use will require increased training and privacy protections.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/training-privacy-key-to-artificial-intelligence-use-post-covid",
-      "originalUrl": "https://healthitanalytics.com/news/training-privacy-key-to-artificial-intelligence-use-post-covid",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg",
-          "width": 690,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
