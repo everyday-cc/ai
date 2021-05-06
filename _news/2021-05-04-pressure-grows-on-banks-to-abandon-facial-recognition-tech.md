@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition as a Legislative Issue"
-    excerpt: "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
-    publishedDateTime: 2021-05-05T23:48:00Z
-    webUrl: "https://patch.com/virginia/reston/facial-recognition-legislative-issue"
-    ampWebUrl: "https://patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
+  - title: "States push back against use of facial recognition by police"
+    excerpt: "State lawmakers across the U.S. are reconsidering the tradeoffs of facial recognition technology amid civil rights and racial bias concerns"
+    publishedDateTime: 2021-05-06T01:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/states-push-back-facial-recognition-police-77510175"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/states-push-back-facial-recognition-police-77510175"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/states-push-back-facial-recognition-police-77510175"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 59
+      name: ABC
+      domain: abcnews.go.com
+    quality: 74
     images:
-      - url: "https://patch.com/img/cdn20/users/60146/20210505/074823/styles/patch_image/public/jcots___05194516171.png?width=984"
-        width: 984
-        height: 738
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fc4dc822c6d9438ca4519a37c6a01ab4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Innocent Black man jailed after false facial recognition match"
+    excerpt: "All the latest stories from around the world designed for your social feed. Like, Share and comment"
+    publishedDateTime: 2021-05-04T13:20:00Z
+    webUrl: "https://www.trtworld.com/video/social-videos/innocent-black-man-jailed-after-false-facial-recognition-match/609145f43b0f87001e8e3263"
+    type: article
+    provider:
+      name: TRT World
+      domain: trtworld.com
+    quality: 54
+    images:
+      - url: "https://cdni0.trtworld.com/w640/h360/q75/104699_FacialRecgonitionBiasYTB_1620133514949.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "States push back against facial recognition"
     excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
@@ -54,6 +68,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/7/10/710fa621-1921-553e-884c-d6a95b7ff98f/60932b6a52c86.image.jpg?resize=1050%2C630"
         width: 1050
         height: 630
+        isCached: true
+  - title: "San Diego Held Back Materials Sought by Congress on Facial Recognition"
+    excerpt: "In 2017, the House Committee on Oversight and Reform wanted to learn more about San Diego's use of facial recognition technology. The city’s response downplayed internal concerns over the program and withheld a number of reports showing how prevalent it really was."
+    publishedDateTime: 2021-05-03T11:00:00Z
+    webUrl: "https://www.voiceofsandiego.org/topics/government/san-diego-held-back-materials-sought-by-congress-on-facial-recognition/"
+    type: article
+    provider:
+      name: Voice of San Diego
+      domain: voiceofsandiego.org
+    quality: 41
+    images:
+      - url: "https://www.voiceofsandiego.org/wp-content/uploads/2021/04/Facial-Recognition_FINAL.png"
+        width: 1800
+        height: 1200
         isCached: true
   - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
     excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
@@ -108,19 +136,19 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Gender recognition application reduced to £5"
-    excerpt: "THE cost to apply for a gender recognition certificate has been reduced to £5, the government has confirmed. The £140 fee for how a person changes their legal gender will be reduced to single figures from today to ensure that the process is more affordable for transgender people."
-    publishedDateTime: 2021-05-04T12:51:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/gender-recognition-application-reduced-ps5"
+  - title: "PimEyes offers facial recognition software that anyone can use, including stalkers"
+    excerpt: "Facial recognition is a very powerful AI technology that has businesses interested in its application, and many people are concerned about how it can be weaponized against normal people. Typically, the tech is locked behind high paywalls or available only as an internal tool."
+    publishedDateTime: 2021-05-05T15:19:00Z
+    webUrl: "https://knowtechie.com/pimeyes-offers-facial-recognition-software-that-anyone-can-use-including-stalkers/"
     type: article
     provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 24
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 33
     images:
-      - url: "https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png"
-        width: 1200
-        height: 630
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/03/facial-recognition-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "King County considers ban on facial recognition technology"
     excerpt: "The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff’s office."

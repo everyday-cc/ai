@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "These BMW art cars were designed by robots"
+    excerpt: "As you’ll well know, BMW loves its art cars. And to put it mildly, we’re rather fond of them too. Click these blue words for a little retrospective to see what we’re on about.Only thing is, BMW’s art cars are usually designed and painted by,"
+    publishedDateTime: 2021-05-06T11:11:00Z
+    webUrl: "https://www.topgear.com/car-news/modified/these-bmw-art-cars-were-designed-robots"
+    ampWebUrl: "https://www.topgear.com/car-news/modified/these-bmw-art-cars-were-designed-robots?amp"
+    cdnAmpWebUrl: "https://www-topgear-com.cdn.ampproject.org/c/s/www.topgear.com/car-news/modified/these-bmw-art-cars-were-designed-robots?amp"
+    type: article
+    provider:
+      name: Top Gear
+      domain: topgear.com
+    quality: 59
+    images:
+      - url: "https://www.topgear.com/sites/default/files/styles/16x9_1280w/public/images/news-article/2021/05/2036a8881e337efd49340cd0d04cafbc/p90420036_highres_the-ultimate-ai-mast.jpg?itok=NF_x8g6m"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "BMW’s Latest Art Cars Were Created With Artificial Intelligence"
     excerpt: "Art cars have been around for decades, but BMW is giving them a high-tech makeover as they’ve unveiled “The Ultimate AI Masterpiece.” As the name suggests, the cars were created with artificial intelligence and they’ll debut as part of a virtual art installation in conjunction with Frieze New York 2021."
     publishedDateTime: 2021-05-05T20:02:00Z

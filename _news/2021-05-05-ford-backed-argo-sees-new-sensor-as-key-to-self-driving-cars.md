@@ -110,6 +110,20 @@ related:
         width: 1920
         height: 1002
         isCached: true
+  - title: "Ford & Volkswagen-backed Argo AI Develops an Advanced Lidar Sensor for Self-driving Vehicles"
+    excerpt: "Argo AI, the Pittsburgh-based developer of autonomous driving technology backed by Ford Motor Co and Volkswagen, announced on Tuesday the development of a new, advanced lidar sensor for self-driving vehicles called “Argo Lidar."
+    publishedDateTime: 2021-05-06T00:00:00Z
+    webUrl: "https://www.futurecar.com/4597/Ford-&-Volkswagen-backed-Argo-AI-Develops-an-Advanced-Lidar-Sensor-for-Self-driving-Vehicles"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 28
+    images:
+      - url: "https://img.futurecar.com/202105/05/l_60933339b6931.jpeg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Argo develops in-house lidar sensor for self-driving cars"
     excerpt: "Argo Lidar is a new sensor introduced by Argo AI designed to accelerate the commercialization of autonomous delivery and ride-hailing services. The lidar sensor detects difficult-to-see objects from far away and works with Argo’s self-driving system (SDS) that is capable of 360° of awareness day or night and can safely drive on city streets,"
     publishedDateTime: 2021-05-05T13:03:00Z

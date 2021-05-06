@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/us-chip-startups-long-sh
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again/amp_articleshow/82405999.cms"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 56
+  - title: "AI Chip start-ups interesting Wall Street"
+    excerpt: "Nvidia rivals  The cocaine nose-jobs of Wall Street are starting to get interested in chip startups lured by their promises of AI and special-purpose processors that can efficiently run machine-learning algorithms."
+    publishedDateTime: 2021-05-06T10:57:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52823-ai-chip-start-ups-interesting-wall-street"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bfacbf37c0cc85d7fb0e6f20e5aa02ba_L.jpg"
+        width: 620
+        height: 416
+        isCached: true
 
 secured: "ftAvajqSpVPhnA+poYhPss6++EHhjpTr3ygHnBetSo34+F33gNuFayVAO+8UCqDzztC8T50ovPRA4Vv5D8o5TeD6pBPE/urPVbdiqkcs+UMH0GdtsQdr+jm6o8ZSsrdJ90GrN2JMIaQfNFfX9oNHZA4RdKgc22s1q8+X5AD8X/q/EuRJeadQ4hL6qDBWv5qstnPbrlz+S1IJzuB5/U3vEzlui48Te7g/WTlARwzMEePIVz4XsmiPykBXmtKr50W7dHlEVoUTZVC7ZDF/BhOlUkf3FF39eOhLwFi+rI2JunX6Hp1VTWH3/LiKwm7gOgfM/+wrkRUyfzLsWr2yXq0qh94bD6rGXDqhEAZ5GkyQDxE=;/PkH9QHScwJ9t02dNfIqDw=="
 ---

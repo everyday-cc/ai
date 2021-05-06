@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humaniz
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
         width: 1280
         height: 960
+        isCached: true
+  - title: "Connecting Manufacturers with Artificial Intelligence"
+    excerpt: "Increasingly manufacturers are asking the question “What can Artificial Intelligence do for me and my business?”– perhaps you have even asked that yourself."
+    publishedDateTime: 2021-05-06T11:09:00Z
+    webUrl: "https://www.themanufacturer.com/articles/connecting-manufacturers-artificial-intelligence/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: themanufacturer.com
+    quality: 37
+    images:
+      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/05/06115257/Cimlogic-AI-blog.jpg"
+        width: 1783
+        height: 772
         isCached: true
 
 secured: "6le+A6glTTSBkTIVhblI2vbI+V4L5FzWQ6Z+7yX012xsPfR/vuzPQzJRTVOJKt4kbFA7u6LHC+20PD2V8Y1bjgwK5kHS0tjSL284mMC9J+DmsfQap1PfwSjE/y5nQyJo3t7e0LojPsdFLZzpAW44Y9pniw+UaexcdIbjUUsEtCT4VW5pfVlE49N1wBVdMrJGELWiF6CdlntMKjCmQ8ql/KzryumybS7/+EbL2gT2OAsSNTi8fxDL7IXXh9zrgdekCrJk90rMzetjrCQ/vnkndO3wHZLyxAvHsrif6pvNSLtS5CzzNVLPO5PoYAnVEawt8mNhkgmZlyShOZnk/Cr/ewUK4lIgNuKLcd88MnNGyA60qbvaA6h7tIqycAaJE10vK0kwqI1iJ4/u/A6tIL0qi7JbCAznBUnhyzfIvN2AN0OZ2XGjuyBA0HgK1uBwWCJqW1PUpD4GsPVgg0T6u5gx4+bcSaElTxgK0CTxWfL4m356FzNdgAPaYpYp6ygJW/bMwXScoJSEB+eyh4Y2Z2g3tw==;qZAX+xQH+fUJPNup02+etw=="

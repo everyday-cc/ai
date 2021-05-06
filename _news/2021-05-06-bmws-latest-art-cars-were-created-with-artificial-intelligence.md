@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2021/05/bmws-latest-art-cars-were-created-
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/05/bmws-latest-art-cars-were-created-with-artificial-intelligence/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "These BMW art cars were designed by robots"
+    excerpt: "As you’ll well know, BMW loves its art cars. And to put it mildly, we’re rather fond of them too. Click these blue words for a little retrospective to see what we’re on about.Only thing is, BMW’s art cars are usually designed and painted by,"
+    publishedDateTime: 2021-05-06T11:11:00Z
+    webUrl: "https://www.topgear.com/car-news/modified/these-bmw-art-cars-were-designed-robots"
+    ampWebUrl: "https://www.topgear.com/car-news/modified/these-bmw-art-cars-were-designed-robots?amp"
+    cdnAmpWebUrl: "https://www-topgear-com.cdn.ampproject.org/c/s/www.topgear.com/car-news/modified/these-bmw-art-cars-were-designed-robots?amp"
+    type: article
+    provider:
+      name: Top Gear
+      domain: topgear.com
+    quality: 59
+    images:
+      - url: "https://www.topgear.com/sites/default/files/styles/16x9_1280w/public/images/news-article/2021/05/2036a8881e337efd49340cd0d04cafbc/p90420036_highres_the-ultimate-ai-mast.jpg?itok=NF_x8g6m"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "BMW Uses Artificial Intelligence to Create Its Latest Art Car. Robots Can Draw"
     excerpt: "BMW's tradition of making art cars is going to turn 40 next year, but the German company's involvement in cultural activities predates that by ten more years."
     publishedDateTime: 2021-05-05T15:35:00Z

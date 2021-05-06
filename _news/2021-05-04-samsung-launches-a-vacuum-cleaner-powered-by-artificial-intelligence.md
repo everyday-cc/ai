@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "New Samsung Tech Makes Chips Faster & More Power-Efficient"
+    excerpt: "Samsung has developed a new I-Cube4 chip packaging technology that could significantly improve the speed and power-efficiency of semiconductor chips."
+    publishedDateTime: 2021-05-06T11:30:00Z
+    webUrl: "https://www.androidheadlines.com/2021/05/samsung-i-cube4-packaging-tech-chips-faster-power-efficient.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/05/samsung-i-cube4-packaging-tech-chips-faster-power-efficient.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/05/samsung-i-cube4-packaging-tech-chips-faster-power-efficient.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/05/Samsung_I-Cube4_technology-1.jpg"
+        width: 1000
+        height: 719
+        isCached: true
   - title: "Samsung develops advanced chip packaging tech"
     excerpt: "The world's largest memory chip maker said its next-generation 2.5D packaging technology, Interposer-Cube4 (I-Cube4), is expected to be widely used in.."
     publishedDateTime: 2021-05-06T05:31:00Z

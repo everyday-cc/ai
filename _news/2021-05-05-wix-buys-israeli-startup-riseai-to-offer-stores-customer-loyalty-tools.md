@@ -74,6 +74,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Wix Acquires Israelis Startup Rise.ai To Extend Wix eCommerce Platform"
+    excerpt: "Wix aims to provide a full solution for merchants to manage re-engagement activities for customers, to increase customer spending and repurchases."
+    publishedDateTime: 2021-05-06T11:05:00Z
+    webUrl: "https://nocamels.com/2021/05/wix-rise-ai-ecommerce-platform/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/wix.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "8bUhPF4waqRbOjqDQl5IlSP++vPcUv0xQgbtA1DTiX0SxxiYpcZik/Wi7GyjF26p3gZHbV2DLAyJuETzvVqM1CH82Uiy7kU6qtntkwnv8R1GEB8zIaPst1LEtzLZfLMUgEE5Act5j8vjWWsyl6fftdjxBLmvtVL94b1d7ZgpFWfIbPmKCzqJ/19N1EqfhJtweqzcuMJhXgTR7QOi8ZzYvUnecHbYaoni4i7scpenV2aT5aFTZ/XVz/OZxaTQbCInwHIu5Hq3wThZGocuz3YWttWZ1roHT751Szn5ugyCWQr/JxB71PMLeZ8j6EhEPyMlAjAmONfxRPMwEyyyMQisxJOPg++NRDWZ55DqmQ66YCTYeoChIo/DLM+ix3zotdk3c76JJyEB8TDgTlfjHJnHczsnPkDZcTJsxh/FrnuFqQxosQDTh6dLV5YD0ve2J98E5TRwJoCXDwsYWW2K7OJPvHDcQw5JJC+zWw8bOBU57FXHiXGVeEdvUiZU5aESsV/YTfK69AT8bmsYbuV7lKAONA==;U7UOGyDqTruTrHsr5yr3pg=="
 ---

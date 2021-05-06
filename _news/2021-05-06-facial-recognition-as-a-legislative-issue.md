@@ -9,7 +9,7 @@ ampWebUrl: "https://patch.com/virginia/reston/amp/29486387/facial-recognition-as
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
 type: article
 quality: 59
-heat: 139
+heat: 79
 published: true
 
 provider:
@@ -27,86 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "States push back against facial recognition"
-    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
-    publishedDateTime: 2021-05-05T22:31:00Z
-    webUrl: "https://www.goskagit.com/townnews/politics/states-push-back-against-facial-recognition/article_94ac551c-7088-5cbd-baf1-84a418fe2e87.html/"
+  - title: "Ken Plum: Facial recognition as a legislative issue"
+    excerpt: "One of the side-effects of the quarantine has been the difficulty of recognizing others after months of not seeing each other in person."
+    publishedDateTime: 2021-05-06T11:14:00Z
+    webUrl: "https://augustafreepress.com/ken-plum-facial-recognition-as-a-legislative-issue/"
     type: article
     provider:
-      name: Skagit Valley Herald
-      domain: goskagit.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/7/10/710fa621-1921-553e-884c-d6a95b7ff98f/60932b6a52c86.image.jpg?resize=1050%2C630"
-        width: 1050
-        height: 630
-        isCached: true
-  - title: "Pressure grows on banks to abandon facial recognition tech"
-    excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."
-    publishedDateTime: 2021-05-03T18:50:00Z
-    webUrl: "https://www.americanbanker.com/news/pressure-grows-on-banks-to-abandon-facial-recognition-tech"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
+      name: Augusta Free Press
+      domain: augustafreepress.com
     quality: 39
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/73f29ba/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fdb%2F7d%2F24c099b84f4c91c3d81fc93e68e3%2Fab-050321-face-2.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
-    excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
-    publishedDateTime: 2021-05-05T03:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/05/05/7209494a-ad56-11eb-82c1-896aca955bb9_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OELWHZVNKYI6XAWBRFVMVFK3XE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "King County Council delays vote on facial recognition ban"
-    excerpt: "The Metropolitan King County Council delayed a vote on a groundbreaking facial recognition ban, citing a need to do additional outreach and research on the policy's effects."
-    publishedDateTime: 2021-05-06T01:14:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-  - title: "Sexism in Facial Recognition Technology"
-    excerpt: "Shreya Tewari provides an overview of recent work on facial recognition technology -- and calls for greater transparency. “Presenting AI with a diverse representation of datasets for it to learn from would be a great start in reversing the prevalent biases."
-    publishedDateTime: 2021-05-05T19:02:00Z
-    webUrl: "https://cyber.harvard.edu/story/2021-05/sexism-facial-recognition-technology"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "States limiting police use of facial recognition tech"
-    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
-    publishedDateTime: 2021-05-05T22:33:00Z
-    webUrl: "https://www.lockportjournal.com/news/states-limiting-police-use-of-facial-recognition-tech/article_95f9516f-bbd7-54b9-9f42-2881fd9cea8f.html"
-    type: article
-    provider:
-      name: Lockport Union-Sun & Journal
-      domain: lockportjournal.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/assets/v3/editorial/8/00/8007df1c-1184-5d00-802c-44b6f4ef71e5/60931ff7b4896.image.jpg?resize=800%2C533"
-        width: 800
-        height: 533
+      - url: "https://i1.wp.com/augustafreepress.com/wp-content/uploads/2019/05/ken-plum.jpg?fit=337%2C225&#038;ssl=1"
+        width: 337
+        height: 225
         isCached: true
   - title: "Gender recognition application reduced to £5"
     excerpt: "THE cost to apply for a gender recognition certificate has been reduced to £5, the government has confirmed. The £140 fee for how a person changes their legal gender will be reduced to single figures from today to ensure that the process is more affordable for transgender people."
@@ -122,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "King County considers ban on facial recognition technology"
-    excerpt: "The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff’s office."
-    publishedDateTime: 2021-05-06T06:08:00Z
-    webUrl: "https://www.king5.com/article/tech/king-county-considers-ban-on-facial-recognition-tech/281-e50f4478-81d7-4108-8926-9f906c3c29a9"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 19
 
 secured: "K4CZ5VOsyLGo39c7YytuWCPm4Ft8+GiXKRbmkELRhPbT0kF0yO1EW0qAxulNvL4/7AnDmxJTBYXllOdtxQ9L4Cw3GA64TpZEqMhAMbWTufUQN/95n7cF8FpOEFHMxc1NPRviw3By7TMsRLIm6+4uiwfjoTHFz8pWBZDieco9Mp8b6I2joEs8eaYxNAlqKgUDkztcNbPZu/iITu32THet3YX+y92dGeOZDexxn/yvyYXEInN24uQovhjOUE/U0rHV7yq1TWxxBqw5ULgT6lqCkcMO4oI9aWlF8LGVsu5FgFyH42WEfHjSbCvf0V69gnq9C5AgRUY31kLglSAWlOmgsqzxRljqlB9SHRPepUlsw5jVvrDjcUjxjOhv5yqQ1sIgqHlfrh/LvSvSkNrBDLufdDgIw2UyIYO1dJ8lbvP9KkFeIBTplMuUR02ywg50fc8tulxTQfrl7GU75e7+1yRGVnmsytMpp7OfuDOHjX4c+AbAsoG5bYJhP9u3HBAJTs3UTPqayz0grBiPw6et7QXQDg==;QEAcQ2RNyogJ0dm8bNPurg=="
 ---

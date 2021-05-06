@@ -96,6 +96,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
+  - title: "Ford & Volkswagen-backed Argo AI Develops an Advanced Lidar Sensor for Self-driving Vehicles"
+    excerpt: "Argo AI, the Pittsburgh-based developer of autonomous driving technology backed by Ford Motor Co and Volkswagen, announced on Tuesday the development of a new, advanced lidar sensor for self-driving vehicles called “Argo Lidar."
+    publishedDateTime: 2021-05-06T00:00:00Z
+    webUrl: "https://www.futurecar.com/4597/Ford-&-Volkswagen-backed-Argo-AI-Develops-an-Advanced-Lidar-Sensor-for-Self-driving-Vehicles"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 28
+    images:
+      - url: "https://img.futurecar.com/202105/05/l_60933339b6931.jpeg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Ford-Backed Argo Sees New Sensor as Key to Self-Driving Cars"
     excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, has developed a sensor it believes will be key to commercializing autonomous transportation in cities, suburbs and on the highway."
     publishedDateTime: 2021-05-04T17:03:00Z

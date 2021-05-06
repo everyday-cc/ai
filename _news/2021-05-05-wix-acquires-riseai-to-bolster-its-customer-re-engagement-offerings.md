@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/wix-acquires-rise-ai-to-bol
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wix-acquires-rise-ai-to-bolster-its-customer-re-engagement-offerings/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH440TU-BASEIMAGE.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Wix Acquires Israelis Startup Rise.ai To Extend Wix eCommerce Platform"
+    excerpt: "Wix aims to provide a full solution for merchants to manage re-engagement activities for customers, to increase customer spending and repurchases."
+    publishedDateTime: 2021-05-06T11:05:00Z
+    webUrl: "https://nocamels.com/2021/05/wix-rise-ai-ecommerce-platform/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/wix.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "UfIpBNXgvLsg4w9JB0Rx6HxPhPtEEIcpOJ7cXTs9RDgJ1MnYfXSolpVzrmU3XSnLMUQ5vAbqSw220DOWuI3yJmqVCz0VeXSG5xS//Do0KpCGmM8gxl/WyFb4S/1aA0Bt0gDr8dQSS8xuBzF2iUfqVn+aBi8Ns/E9JCXBozn0vZI9sg6WR0VDAZjHCOkn7JHJvj8O8q2ZdUkC2AT0IpAO6WwWK+K+1EXtPfDhwxPmsBVy2Vlcaznvy7pLOfUmEFjOedssqi2A36JR2xAccwMFX8XgcnMQ0UGp0rRryKdMAYBPTvGz9CHPQP4ezzcwJlVchxJwicMRPRfvCQBg9sloRxrS2qRzY4cc99/8mPW4u+A=;x28waijl9y3RP9sEGpexdQ=="

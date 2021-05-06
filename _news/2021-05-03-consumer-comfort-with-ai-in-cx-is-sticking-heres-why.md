@@ -56,6 +56,20 @@ related:
         width: 740
         height: 493
         isCached: true
+  - title: "Connecting Manufacturers with Artificial Intelligence"
+    excerpt: "Increasingly manufacturers are asking the question “What can Artificial Intelligence do for me and my business?”– perhaps you have even asked that yourself."
+    publishedDateTime: 2021-05-06T11:09:00Z
+    webUrl: "https://www.themanufacturer.com/articles/connecting-manufacturers-artificial-intelligence/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: themanufacturer.com
+    quality: 37
+    images:
+      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/05/06115257/Cimlogic-AI-blog.jpg"
+        width: 1783
+        height: 772
+        isCached: true
 
 secured: "K78IHxXt476sqFrInum6qdHS44Zzdw7SZMYPIpPjfkb+OMZX0LnNrMcVDdr8r5JijvgaVaWNlmBcHgmxmh42Lo1tHztz5+xK+eiNwyL73KSKMGg00RdcOwaIfO31SaanAQcpC/0KudwjX/5qM8+f8qNZPFdxg8qvDWFo5RYyYkniWxhyfH3bLyYVuYqlDTS2RyRN33yODX6l+g302iiFKUYNC7mi2QsFoCnkO0bXCSJ4VRuVGQB7iQVTvN4szs6lotZgCtp1+Mbhzy3ozrGHkZZBwCXbkkXui4hugmjzMzkCP/DBthMo3iNqeeeXAVfV6mqQlG3ibpRqi5neIMi4EqyUwrwbM4x/jSpl6cAU8Pc=;thkksYLF+3Pi46eJ95H+JQ=="
 ---

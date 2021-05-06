@@ -452,6 +452,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-22-tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash.md",
+      "title": "Tesla owners warned of 'full self-driving' risks even before fatal crash",
+      "excerpt": "Washington, DC (CNN Business)Tesla's \"full self-driving\" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/04/21/tech/tesla-full-self-driving-launch/index.html",
+      "originalUrl": "https://www.cnn.com/2021/04/21/tech/tesla-full-self-driving-launch/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210419101209-tesla-autopilot-crash-tx-0417-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/21/tech/tesla-full-self-driving-launch/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/tech/tesla-full-self-driving-launch/index.html",
+      "publishedDateTime": "2021-04-21T16:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-europe-proposes-strict-regulation-of-artificial-intelligence.md",
       "title": "Europe proposes strict regulation of artificial intelligence",
       "excerpt": "The European Union unveiled strict rules to govern the use of artificial intelligence, a first-of-its-kind policy that outlines how companies and governments can use a technology seen as a significant,",
@@ -808,6 +860,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-21-tesla-autopilot-critics-say-deadly-crash-is-reminder-that-self-driving-cars-arent-a-reality-yet.md",
+      "title": "Tesla Autopilot critics say deadly crash is reminder that self-driving cars aren't a reality yet",
+      "excerpt": "The perception that self-driving cars can really operate themselves without driver involvement is worrying automotive watchdogs, who say that some Americans have grown dangerously confident in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/cars/2021/04/20/tesla-autopilot-crash-what-can-cant-self-driving-cars-do/7283027002/",
+      "originalUrl": "https://www.usatoday.com/story/money/cars/2021/04/20/tesla-autopilot-crash-what-can-cant-self-driving-cars-do/7283027002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7283027002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7283027002",
+      "publishedDateTime": "2021-04-20T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-ishares-robotics-and-artificial-intelligence-etf-built-for-the-future.md",
       "title": "iShares Robotics and Artificial Intelligence ETF: Built For The Future",
       "excerpt": "Shares Robotics And Artificial Intelligence ETF - While the potential for growth is phenomenal, risks like significant foreign exposure and regulatory action are something to keep an eye on",
@@ -1120,6 +1215,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-19-who-will-win-the-self-driving-race-here-are-eight-possibilities.md",
+      "title": "Who will win the self-driving race? Here are eight possibilities",
+      "excerpt": "The self-driving technology industry is in a strange state right now. A number of companies have been pouring millions of dollars into self-driving technology for years, and many of them have ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2021/04/who-will-win-the-self-driving-race-here-are-8-possibilities/",
+      "originalUrl": "https://arstechnica.com/cars/2021/04/who-will-win-the-self-driving-race-here-are-8-possibilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-927875630-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years.md",
       "title": "Baidu expects to supply self-driving system to 1 million cars in 3-5 years",
       "excerpt": "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu ...",
@@ -1193,144 +1340,6 @@
         "name": "The Edge",
         "domain": "theedgemarkets.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-fatal-tesla-crash-in-texas-believed-to-be-driverless.md",
-      "title": "Fatal Tesla Crash in Texas Believed to Be Driverless",
-      "excerpt": "U.S. safety regulators are probing crashes involving Teslas, suspecting the company’s Autopilot system might be involved. WSJ’s Robert Wall reports on how some motorists may mistakenly think ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
-      "originalUrl": "https://www.wsj.com/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-326717/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/fatal-tesla-crash-in-texas-believed-to-be-driverless-11618766363",
-      "publishedDateTime": "2021-04-18T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-2-killed-in-driverless-tesla-car-crash-officials-say.md",
-      "title": "2 Killed in Driverless Tesla Car Crash, Officials Say",
-      "excerpt": "Artificial Intelligence Microsoft Technology Economy Real Estate Sports Seahawks Huskies Cougars Kraken High Schools Mariners Sounders Snow Sports Geoff Baker Matt Calkins Larry Stone Bob Condotta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/2-killed-in-driverless-tesla-car-crash-officials-say/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/2-killed-in-driverless-tesla-car-crash-officials-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/nation-world/2-killed-in-driverless-tesla-car-crash-officials-say/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/2-killed-in-driverless-tesla-car-crash-officials-say/?amp=1",
-      "publishedDateTime": "2021-04-18T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-autonomous-truck-developer-tusimple-plans-driverless-road-test-this-year.md",
-      "title": "Autonomous-Truck Developer TuSimple Plans Driverless Road Test This Year",
-      "excerpt": "based Werner Enterprises Inc. and Green Bay, Wis.-based Schneider National Inc. Mr. Lu said the driverless pilot program would move customer freight, and that the company was working closely with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/autonomous-truck-developer-tusimple-plans-driverless-road-test-this-year-11618528979",
-      "originalUrl": "https://www.wsj.com/articles/autonomous-truck-developer-tusimple-plans-driverless-road-test-this-year-11618528979",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-325863/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/autonomous-truck-developer-tusimple-plans-driverless-road-test-this-year-11618528979",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/autonomous-truck-developer-tusimple-plans-driverless-road-test-this-year-11618528979",
-      "publishedDateTime": "2021-04-16T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

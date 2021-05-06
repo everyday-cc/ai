@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/curiosity-powers-s
 webUrl: "https://markets.businessinsider.com/news/stocks/curiosity-powers-sas-biggest-brand-move-in-20-years-1030390237"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 400
     height: 214
     isCached: true
+
+related:
+  - title: "Curiosity Powers SAS’ Biggest Brand Move in 20 Years"
+    excerpt: "Curiosity is transformative. It enables humans to ask bold questions and sparks innovation. Curiosity is also the heartbeat driving SAS’ new brand campaign, “Curiosity Forever.” The company unveiled the multi-year campaign designed to reintroduce SAS as the world’s analytics leader in advance of its popular AI and analytics conference,"
+    publishedDateTime: 2021-05-06T08:03:00Z
+    webUrl: "https://www.businesswireindia.com/curiosity-powers-sas-biggest-brand-move-in-20-years-72872.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 4
 
 secured: "SP3b/27NoXSiY+0xgUCZ9zCejMvLN37YqlaBNewvSGPYkTITzfVCSsRJGNX2TSgoNu9d4X/q5haTQach0iuC5AMlO0vkAtO08IACqkhYqsEoU5wSTQ18nHkk5GVkIqYVR9ODihLivCNBgq3Frc3hNdPgaF/Y0U+EBC7tAlJ0OnlV1n8Y9eFmTKl0qPFL+KOb13pwwFQy6dpiOlcHLoOj2HoVp/Si1XIGl64V5ubH5P7HjiyYn4EbacyoMlaGVNEKEwq/1nUdxz9Z66acZ22GjZWuy8z1pfiVzVKYfZweaeJ678VKevrJ39GPP+Y5mtpk4ErQivDp/vHXDTW2CiLcu2g7CRmKYbf6EqvQZUgfYpXyDm06rAvuLxS9q0Dk6is12WAeOtObKVgOW7oBu3i07eq4pBDYmxIYBX4CJHDLSGB1AJWJ1405SEq091i19MalHMkT/s4b503HlXlG5OWex1gDI8n4Xwa9ePP9KvkDLXK14rodhTzWMQ33PKHEw7GXVGysaIf3lpFNmtWzU0P66w==;5UOYG5GMLL/dqtNsM/xxoQ=="
 ---

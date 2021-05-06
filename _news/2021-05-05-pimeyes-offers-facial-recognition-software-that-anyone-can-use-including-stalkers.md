@@ -25,22 +25,140 @@ images:
     isCached: true
 
 related:
-  - title: "Anyone can use this powerful facial-recognition tool — and that's a problem"
-    excerpt: "You probably haven't seen PimEyes, a mysterious facial-recognition search engine, but it may have spotted you."
-    publishedDateTime: 2021-05-04T19:51:00Z
-    webUrl: "https://www.kctv5.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_edf49704-f7bd-5266-9009-4647981629f7.html"
-    ampWebUrl: "https://www.kctv5.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_edf49704-f7bd-5266-9009-4647981629f7.amp.html"
-    cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_edf49704-f7bd-5266-9009-4647981629f7.amp.html"
+  - title: "States push back against use of facial recognition by police"
+    excerpt: "State lawmakers across the U.S. are reconsidering the tradeoffs of facial recognition technology amid civil rights and racial bias concerns"
+    publishedDateTime: 2021-05-06T01:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/states-push-back-facial-recognition-police-77510175"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/states-push-back-facial-recognition-police-77510175"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/states-push-back-facial-recognition-police-77510175"
     type: article
     provider:
-      name: KCTV News
-      domain: kctv5.com
-    quality: 42
+      name: ABC
+      domain: abcnews.go.com
+    quality: 74
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/f/eb/feb4f981-318b-5ef3-bd61-4051cf8a391d/5ec3b52cd52ef.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fc4dc822c6d9438ca4519a37c6a01ab4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
+  - title: "Innocent Black man jailed after false facial recognition match"
+    excerpt: "All the latest stories from around the world designed for your social feed. Like, Share and comment"
+    publishedDateTime: 2021-05-04T13:20:00Z
+    webUrl: "https://www.trtworld.com/video/social-videos/innocent-black-man-jailed-after-false-facial-recognition-match/609145f43b0f87001e8e3263"
+    type: article
+    provider:
+      name: TRT World
+      domain: trtworld.com
+    quality: 54
+    images:
+      - url: "https://cdni0.trtworld.com/w640/h360/q75/104699_FacialRecgonitionBiasYTB_1620133514949.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "States push back against facial recognition"
+    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
+    publishedDateTime: 2021-05-05T22:31:00Z
+    webUrl: "https://www.goskagit.com/townnews/politics/states-push-back-against-facial-recognition/article_94ac551c-7088-5cbd-baf1-84a418fe2e87.html/"
+    type: article
+    provider:
+      name: Skagit Valley Herald
+      domain: goskagit.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/7/10/710fa621-1921-553e-884c-d6a95b7ff98f/60932b6a52c86.image.jpg?resize=1050%2C630"
+        width: 1050
+        height: 630
+        isCached: true
+  - title: "San Diego Held Back Materials Sought by Congress on Facial Recognition"
+    excerpt: "In 2017, the House Committee on Oversight and Reform wanted to learn more about San Diego's use of facial recognition technology. The city’s response downplayed internal concerns over the program and withheld a number of reports showing how prevalent it really was."
+    publishedDateTime: 2021-05-03T11:00:00Z
+    webUrl: "https://www.voiceofsandiego.org/topics/government/san-diego-held-back-materials-sought-by-congress-on-facial-recognition/"
+    type: article
+    provider:
+      name: Voice of San Diego
+      domain: voiceofsandiego.org
+    quality: 41
+    images:
+      - url: "https://www.voiceofsandiego.org/wp-content/uploads/2021/04/Facial-Recognition_FINAL.png"
+        width: 1800
+        height: 1200
+        isCached: true
+  - title: "Pressure grows on banks to abandon facial recognition tech"
+    excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."
+    publishedDateTime: 2021-05-03T18:50:00Z
+    webUrl: "https://www.americanbanker.com/news/pressure-grows-on-banks-to-abandon-facial-recognition-tech"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/73f29ba/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fdb%2F7d%2F24c099b84f4c91c3d81fc93e68e3%2Fab-050321-face-2.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
+    excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
+    publishedDateTime: 2021-05-05T03:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/05/05/7209494a-ad56-11eb-82c1-896aca955bb9_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OELWHZVNKYI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "King County Council delays vote on facial recognition ban"
+    excerpt: "The Metropolitan King County Council delayed a vote on a groundbreaking facial recognition ban, citing a need to do additional outreach and research on the policy's effects."
+    publishedDateTime: 2021-05-06T01:14:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+  - title: "Sexism in Facial Recognition Technology"
+    excerpt: "Shreya Tewari provides an overview of recent work on facial recognition technology -- and calls for greater transparency. “Presenting AI with a diverse representation of datasets for it to learn from would be a great start in reversing the prevalent biases."
+    publishedDateTime: 2021-05-05T19:02:00Z
+    webUrl: "https://cyber.harvard.edu/story/2021-05/sexism-facial-recognition-technology"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
+    images:
+      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "States limiting police use of facial recognition tech"
+    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
+    publishedDateTime: 2021-05-05T22:33:00Z
+    webUrl: "https://www.lockportjournal.com/news/states-limiting-police-use-of-facial-recognition-tech/article_95f9516f-bbd7-54b9-9f42-2881fd9cea8f.html"
+    type: article
+    provider:
+      name: Lockport Union-Sun & Journal
+      domain: lockportjournal.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/assets/v3/editorial/8/00/8007df1c-1184-5d00-802c-44b6f4ef71e5/60931ff7b4896.image.jpg?resize=800%2C533"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "King County considers ban on facial recognition technology"
+    excerpt: "The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff’s office."
+    publishedDateTime: 2021-05-06T06:08:00Z
+    webUrl: "https://www.king5.com/article/tech/king-county-considers-ban-on-facial-recognition-tech/281-e50f4478-81d7-4108-8926-9f906c3c29a9"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 19
 
 secured: "78on4spYWMb+ugvfakQ6V2YqOy0+Rk9DiRwE5igkVdRjjOgy58xXditrlQiD63syVSP/aKPbPTvkW8MzksDjYx5CaYJFuPB82P3bcXmMV2yxKA+nJ9noZ3PksvYdt6EsjlllBojQLYrUyeHyVxHNAnqk4Icd28NHSWARzKRkm3xZILNYkMKMPUMtFFtD0LPDmoBsXfqymHVn2gJkdakGWcwcDJr8rRJLAbyhf7+YJMhg3TsTy6DJXlbloi4atu41/G8OAByoE1Gqki6vGdkIdulqy4a+AxtJbPFQD/WyYDBEH5gLGTBg0OW6tvrYL43qhutn3oL4cu9o0Vrck2NW2hSpoa1Qitvonb70LTVecqU=;4kua1KEA8GtZ5hv/qWbz4A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/opinion-feds-should-reel-in-tesla-s
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/opinion-feds-should-reel-in-tesla-self-driving-car-industry?_amp=true"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Experts rank Amazon's self-driving unit, Tesla, Waymo, and 12 other power players in the world of autonomy"
-    excerpt: "Waymo was once again a winner in Guidehouse Insight's ranking of the top autonomous-vehicle companies. Tesla was not."
-    publishedDateTime: 2021-05-01T18:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-tesla-zoox-waymo-aurora-cruise-argo-ai-self-driving-2021-4-1030373548"
+  - title: "VW plans to design own computer chips for self-driving cars, just like Tesla"
+    excerpt: "VW Group will only design its computer chips and then outsource production to an existing supplier, in the same way that Tesla outsources production of its chips to Samsung. The a"
+    publishedDateTime: 2021-05-03T12:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1132123_vw-plans-to-design-own-computer-chips-for-self-driving-cars-just-like-tesla"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 53
     images:
-      - url: "https://images2.markets.businessinsider.com/608b2ae934af8d001859a07e?format=jpeg"
-        width: 790
-        height: 445
+      - url: "https://images.hgmsites.net/hug/volkswagen-self-driving-car-prototype-testing-in-hamburg-germany--april-3-2019_100696985_h.jpg"
+        width: 1920
+        height: 1163
         isCached: true
 
 secured: "XQJuxamoYmkpwRdQ7OewhBXrZ4e+XEJWWREtBNsHWoZipkXJeeL3m62/LjAmDIesIyBrRPCqiBDcvLTeKFm38euahKuVjtuBWaeDtwS7TiQHfeZ88U97qDyBMN8loNCkOefhH+PfArBhKdC5awsFf+Jh8Ui1zqLM06wtrvx7LeQEqtOfUZrjQQiPBQxBuDEGzdODDoomULjdNHkVgr7C1ixQuHA1fQM/M/4O6g6hSOeA1FCbN5L9QddjJPoXcKpn3HYYTc8whyHfBIDr2Ap/biWin1U/wr8DG0Fw9S+WJb7vrvplBLt9YaVo+bLAHy8Sbo385x07qKb7CyzJAi1xCY5OI7j/g9/pFT6PM2NbplrklN3smtw5DhmcZqzI42Wnp0ahRqQImN08LwVAOZY+vZOmLoWsW7UY2UCFgAl1jvY08sJEncVfa67DIO3dvGKE+gjMlGGIqBv2xj1mKHVHNi1G5Jkvn9LH30oYe1BAHN7EuNWDzCggBaTX3pzN8A+blcUBB9glopkgP2+BH0ouYg==;QpKS4tBuwT4NOQYqqzSJlg=="

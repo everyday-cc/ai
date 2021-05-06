@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       - url: "https://images.hgmsites.net/hug/argo-ai-lidar-technology_100790998_h.jpg"
         width: 1920
         height: 1002
+        isCached: true
+  - title: "Ford & Volkswagen-backed Argo AI Develops an Advanced Lidar Sensor for Self-driving Vehicles"
+    excerpt: "Argo AI, the Pittsburgh-based developer of autonomous driving technology backed by Ford Motor Co and Volkswagen, announced on Tuesday the development of a new, advanced lidar sensor for self-driving vehicles called “Argo Lidar."
+    publishedDateTime: 2021-05-06T00:00:00Z
+    webUrl: "https://www.futurecar.com/4597/Ford-&-Volkswagen-backed-Argo-AI-Develops-an-Advanced-Lidar-Sensor-for-Self-driving-Vehicles"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 28
+    images:
+      - url: "https://img.futurecar.com/202105/05/l_60933339b6931.jpeg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Ford-Backed Argo Sees New Sensor as Key to Self-Driving Cars"
     excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, has developed a sensor it believes will be key to commercializing autonomous transportation in cities, suburbs and on the highway."
