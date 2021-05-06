@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Baidu rolls out paid driverless taxi service in Beijing"
+title: "Baidu Rolls Out Paid Driverless Taxi Service in Beijing"
 excerpt: "Chinese tech giant Baidu has rolled out its paid driverless taxi service ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding ..."
-publishedDateTime: 2021-05-02T16:40:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
-webUrl: "https://abcnews.go.com/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
+publishedDateTime: 2021-05-02T13:15:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing"
+webUrl: "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing"
+ampWebUrl: "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing?context=amp"
 type: article
-quality: 74
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/Business/WireAP_dacbbcc8fdee407a886411a4b2db2efc_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Baidu launches China's first paid robotaxi service"
@@ -74,6 +72,22 @@ related:
       - url: "https://i.brecorder.com/large/2021/05/608ff54f4dc66.jpg"
         width: 671
         height: 480
+        isCached: true
+  - title: "Tech giant rolls out first driverless taxi service in China"
+    excerpt: "Chinese tech giant Baidu has rolled out a driverless taxi service in Beijing ... Kelly Wang and her husband, who work in the artificial intelligence industry, said they had a smooth riding ..."
+    publishedDateTime: 2021-05-03T07:05:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-40280129.html"
+    ampWebUrl: "https://www.irishexaminer.com/business/technology/arid-40280129.html?type=amp"
+    cdnAmpWebUrl: "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/business/technology/arid-40280129.html?type=amp"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 59
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/4882/2441468_2_googlediscover_2.59530907.jpg.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Self-driving robotaxis are now an actual ‘thing’ in China"
     excerpt: "Apart from enabling transport services during the upcoming Winter Olympics, Baidu plans to expand its robotaxis in more Chinese cities. With this move, the company is leaving its other Chinese competitors such as WeRide,"
@@ -168,6 +182,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "GiaUU+gw43Zu6WHSZXzE5eIwyEqwtgT0cQIljIcXYbXMp0fqGmxMxmm6T9r3eh9fm8ZAh48N4nFANBGyGMWonJGnOzwTOwLE8+dcjikPpzXHUeUtXXXWLbegFMLOBBw22YT/XMgC2yIK5jFTxchI6ax/0kNuV/wzmXsryWzya5Z+K8xanfSmE4DmPjuhOzHTMf4zMi3q50UgDdXEisUyZPXmgr6e3mu6t54achXVjhTdzgmaHYZ96AvDeyV9Yk3YYezl5lU4xLuOFzPcyiYlF3CAUvwzP4aH5HIvNGvSPCqjptFrU8RzkIHwoR0R94kpEl3d+MagEmcsU82Zs1K0CW37gqgZlZ34QiZCqWZu2X0=;tQpH/owEz36irYqWL45yIA=="
+secured: "io2z64Xtf6WNdtWrgYh60rpjnjbuPOT1Bhkk2ayoJm04du/d0ANbkxGaEa+WGvNUSF4GPK1C3A7uLR7KqH6i2GaJi67vI/RjUkzbNTPF9fdhFSMglOl7PGAfkcG+uXzxDts8hxQiV1h4VNGTN3yZslCR4xk0n9HrTpCBBnNRUCwej4lVchSfho9ddKbExncp8yn8E5u83nVu/su2s6uZoYpDxDwBhc/L79VoglT6+3WRMcRqvQIcPRkJU6iwQhi7yPxKAu2eSQUjhqTW/67R6tBzPZQQ1fwXH7zJX87bqyKj3X00npBVxH640iNtP1ZpJZSfthpsAL1j5Kc1PtjA6L9cHdsyt1hDYk56+XEyccw=;TRzGvHkT8Irz6jA2pEWMzQ=="
 ---
 

@@ -69,6 +69,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "King County Council delays vote on facial recognition ban"
+    excerpt: "The Metropolitan King County Council delayed a vote on a groundbreaking facial recognition ban, citing a need to do additional outreach and research on the policy's effects."
+    publishedDateTime: 2021-05-06T01:14:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "Sexism in Facial Recognition Technology"
     excerpt: "Shreya Tewari provides an overview of recent work on facial recognition technology -- and calls for greater transparency. “Presenting AI with a diverse representation of datasets for it to learn from would be a great start in reversing the prevalent biases."
     publishedDateTime: 2021-05-05T19:02:00Z
@@ -82,6 +93,20 @@ related:
       - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
         width: 1000
         height: 500
+        isCached: true
+  - title: "States limiting police use of facial recognition tech"
+    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
+    publishedDateTime: 2021-05-05T22:33:00Z
+    webUrl: "https://www.lockportjournal.com/news/states-limiting-police-use-of-facial-recognition-tech/article_95f9516f-bbd7-54b9-9f42-2881fd9cea8f.html"
+    type: article
+    provider:
+      name: Lockport Union-Sun & Journal
+      domain: lockportjournal.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/assets/v3/editorial/8/00/8007df1c-1184-5d00-802c-44b6f4ef71e5/60931ff7b4896.image.jpg?resize=800%2C533"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "OflpbFPOKTxyyDkWg5cgH44159kSMjkosfyRFNY0gG2wimofRpvw6Bc+y1rR3mJJLxC+5xi6QV+b5teg36Cx8uDlpQSrgEy9ngKymXqHxEE61k+QHNtMNw+4Cp4I2nY6cH58PPlgLXekA1oc11knhSItHSfh9G1ltXMsnX3Boo0o/KPB9r5YWAH6qrPE5N7IWHfjcWbRvfoukxAFlxskuMF2zKfMqElPlMFvQuyPt9isj0e4GjPYe2Lcamq4wNfxDEyu9B6R6XIu1DDkEOfa0HrKCDk4TKv4WXexJ/oCDdM3+rjHFYeJmdJVYVWGaVd7Om7W9pE3cYmBzBwYa68Tg/Us7cK1H2kWj+RuufWf1IM=;vOY8hYAgSu/oc+BhJu/3sw=="

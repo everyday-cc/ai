@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-bei
 cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Fox 5 NY
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "First fleet of driverless taxis is launching in Beijing with rides costing $4.60"
+    excerpt: "One rider who works in the artificial intelligence industry praised the ... Not everyone was convinced driverless cars are such a great idea, though. 'We've all had experiences such as other ..."
+    publishedDateTime: 2021-05-03T16:54:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9537961/First-fleet-driverless-taxis-launching-Beijing-rides-costing-4-60.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9537961/amp/First-fleet-driverless-taxis-launching-Beijing-rides-costing-4-60.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9537961/amp/First-fleet-driverless-taxis-launching-Beijing-rides-costing-4-60.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 54
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/05/03/16/42518182-0-image-a-9_1620055274466.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Driverless Taxi Program Rolls Out in China"
     excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in Beijing,"
     publishedDateTime: 2021-05-03T13:47:00Z

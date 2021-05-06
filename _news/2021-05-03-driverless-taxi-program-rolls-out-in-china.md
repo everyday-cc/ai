@@ -41,6 +41,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "First fleet of driverless taxis is launching in Beijing with rides costing $4.60"
+    excerpt: "One rider who works in the artificial intelligence industry praised the ... Not everyone was convinced driverless cars are such a great idea, though. 'We've all had experiences such as other ..."
+    publishedDateTime: 2021-05-03T16:54:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9537961/First-fleet-driverless-taxis-launching-Beijing-rides-costing-4-60.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9537961/amp/First-fleet-driverless-taxis-launching-Beijing-rides-costing-4-60.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9537961/amp/First-fleet-driverless-taxis-launching-Beijing-rides-costing-4-60.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 54
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/05/03/16/42518182-0-image-a-9_1620055274466.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "OmWj32iWgEfbC5vTnCfC33tKYKFmg7KXpJayKPcBsQX1fsFTD7ZVnD1L4NrxF1VTUCOnBIFBRQnavm7eqJBV6W7Qlq5yuWF0cEgM3kknZrn/YuWGSV4rPVaymTx8JajEQcjwJWy2m6xbAz6koqXQzzC1mSJq8mSa1y3k/5ARz1JfvUJTxGRWTojbYQhAir5r5PHFleU9Kx3tdLruZI4cMQPHXIqzr/Mqtjd7rDhBgv1Z9wETfMY98SwvCZx382voYmOZPCtZ8VDz9GnuHIe+V/4QSswvr+DBVXV38y+3dNixQo19FjETnRKEl4AsCO1bbhFHhvGKiJwC0qJcbm1m2G31AEXZSXMT/6x22xTNX7A=;wTHFTY8NjpQKwsZHy2fIag=="
 ---

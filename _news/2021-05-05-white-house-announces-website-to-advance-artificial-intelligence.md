@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-05T16:17:00Z
 originalUrl: "https://healthitanalytics.com/news/white-house-announces-website-to-advance-artificial-intelligence"
 webUrl: "https://healthitanalytics.com/news/white-house-announces-website-to-advance-artificial-intelligence"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"

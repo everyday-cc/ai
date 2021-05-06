@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboard
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/01/gnarly-skateboarders-trying-dangerously-to-hitch-a-ride-on-self-driving-cars/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Why fully self-driving cars on UK roads might be further away than you think"
-    excerpt: "The Government claims that cars with a form of technology considered legally self-driving could hit British roads by the end of the year, but truly autonomous vehicles are still some way off, finds Rh"
-    publishedDateTime: 2021-05-01T08:47:00Z
-    webUrl: "https://inews.co.uk/news/technology/uk-road-fully-self-driving-cars-2021-alks-system-autonomous-vehicle-981065"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 21
-    images:
-      - url: "https://i.inews.co.uk/content/uploads/2021/04/SEI_76426762.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "933YELukfRs3vxPqxeWDb9H7XAyTnBkDz1zSC8287mTqY0Nt88fWduh3c+wWpkBsbtM4O0/v1LOtHQXTp9OkPzQH0FaveT0da5otppLqy1bsthVViD7schauqrn3CeW6jZora7uVieX6mefHXhpfC9JKPeYE7CxUe/F1kXuosAWWF0HXaEsyk1FLwxYSZrq/d/B7z+m7wotsDUw93FTjkrCHAAQQgOZ4MAXbTfmzaUmpPaseavUz/iWgOuy7LkqQUjTFaOa+tt4bpBMicoNf1zVg0z/SwgHUoo1zlPwUgORD8ECtT0cNN0sOtxL5mJlbqrBE+rMusG+NeKxJJGnhaBdBrW8P9+tjx2ibPyHQgQX6HLH/K/6Cru3j+osCbl70UQTEx9NEe642mRpo6S+ymPR2bm9fAGwsaQ7+5UnR+tyAPZHwwuHlM6SXoCmUWdgmWJuourxpT0M38oDOTn3w5gnoihUsxkF/fHlWy/JzOkSsiCBpgxmfSkZn28nLConZwxTZbKT3dOeOvlVnuol5aw==;LA3T8rLJMKU3W6PVAE0tAw=="
 ---

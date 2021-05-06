@@ -29,7 +29,7 @@ related:
   - title: "AI-based pathology predicts origins for cancers of unknown primary"
     excerpt: "A deep-learning-based algorithm uses routinely acquired histology slides to provide a differential diagnosis for the origin of the primary tumour for complicated cases of metastatic tumours and cancers of unknown primary origin."
     publishedDateTime: 2021-05-05T20:10:00Z
-    webUrl: "https://www.nature.com/articles/s41586-021-03512-4?error=cookies_not_supported&code=6eef7f02-03a3-46e0-a029-a0db866e3c88"
+    webUrl: "https://www.nature.com/articles/s41586-021-03512-4"
     type: article
     provider:
       name: Nature

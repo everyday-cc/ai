@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-05T12:37:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/temple-university-religion-health-technology-business-89aa3a0b8fb40220b8d959c48fed41ff"
 webUrl: "https://apnews.com/press-release/pr-newswire/temple-university-religion-health-technology-business-89aa3a0b8fb40220b8d959c48fed41ff"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Finance
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
