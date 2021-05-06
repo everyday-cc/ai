@@ -21,93 +21,33 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "AI in Fintech Market May See a Big Move | Major Giants Microsoft, Google, IBM"
-    excerpt: "Stay up-to-date and exploit latest trends of AI in Fintech Market with latest edition released by AMA. AI in Fintech Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Global AI in Fintech industry with an attention on the Global market."
-    publishedDateTime: 2021-05-01T10:59:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269136641/ai-in-fintech-market-may-see-a-big-move--major-giants-microsoft-google-ibm"
+  - title: "Service Robotics Market Analysis, Segments, Growth and Value Chain 2021 – 2024 | iRobot Corporation, Softbank Robotics"
+    excerpt: "The emergence of IoT and artificial intelligence and subsequent rise in demand for advanced robotics solutions is driving the service robotics market share over the projected timeframe Robotics systems in numerous application segments ranging from household to industrial are witnessing"
+    publishedDateTime: 2021-05-06T02:06:00Z
+    webUrl: "https://www.openpr.com/news/2280651/service-robotics-market-analysis-segments-growth-and-value"
+    ampWebUrl: "https://www.openpr.com/amp/2280651/service-robotics-market-analysis-segments-growth-and-value"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2280651/service-robotics-market-analysis-segments-growth-and-value"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 53
+      name: openpr.com
+      domain: openpr.com
+    quality: 65
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1620153330432.jpg"
-        width: 630
-        height: 420
+      - url: "https://cdn.openpr.com/U/5/U506224062_g.jpg"
+        width: 800
+        height: 479
         isCached: true
-  - title: "Artificial Intelligence Software Market (COVID-19) to Witness Astonishing Growth by Forecast 2021-2027 |Baidu, Google, IBM, Microsoft, SAP, etc"
-    excerpt: "Latest launched research on Global Artificial Intelligence Software Market, it provides detailed analysis with presentable graphs, charts and tables. This report covers an in depth study of the Artificial Intelligence Software Market size,"
-    publishedDateTime: 2021-05-04T05:44:00Z
-    webUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-software-market-covid-19-to-witness-astonishing-growth-by-forecast-2021-2027-baidu-google-ibm-microsoft-sap-etc/"
+  - title: "Healthcare Artificial Intelligence Market: Business overview, Upcoming Trends and Top Company Analysis Forecast - 2027"
+    excerpt: "The Healthcare Artificial Intelligence Market size was over USD 1 7 billion in 2019 and is estimated to grow at 43 CAGR between 2021 and 2027 Artificial intelligence AI is the creation of unique systems using algorithms and software that"
+    publishedDateTime: 2021-05-05T09:20:00Z
+    webUrl: "https://www.openpr.com/news/2280163/healthcare-artificial-intelligence-market-business"
+    ampWebUrl: "https://www.openpr.com/amp/2280163/healthcare-artificial-intelligence-market-business"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2280163/healthcare-artificial-intelligence-market-business"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 33
-    images:
-      - url: "https://marketsresearchreport.com/wp-content/uploads/2021/01/13.jpg"
-        width: 576
-        height: 324
-        isCached: true
-  - title: "Global Artificial Intelligence in Accounting Market 2025: Top Key Players AWS, Microsoft, Intuit, Xero, Sage, UiPath and others"
-    excerpt: "The report released by Zion Market Research on Global Artificial Intelligence in Accounting Market covers the broad strategic framework of dynamics of the global market. The report is a comprehensive study of current and future growth aspects."
-    publishedDateTime: 2021-05-05T23:52:00Z
-    webUrl: "https://ksusentinel.com/2021/05/05/global-artificial-intelligence-in-accounting-market-2025-top-key-players-aws-microsoft-intuit-xero-sage-uipath-and-others/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 23
-  - title: "Artificial Intelligence Platform Market size, Witness Highest Growth in near future by 2027 | Google, Baidu, Ibm, Microsoft, Sap"
-    excerpt: "The Artificial Intelligence Platform market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
-    publishedDateTime: 2021-05-03T04:19:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-platform-market-size-witness-highest-growth-in-near-future-by-2027-google-baidu-ibm-microsoft-sap/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 20
-  - title: "Artificial Intelligence for Accounting Market size, Witness Highest Growth in near future by 2027 | Microsoft, Aws, Xero, Intuit, Sage"
-    excerpt: "The Artificial Intelligence for Accounting market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
-    publishedDateTime: 2021-05-03T03:21:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-for-accounting-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-aws-xero-intuit-sage/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
-  - title: "Artificial Intelligence Voice Market Boom Ensues | iFlyTek, Google, Apple, Microsoft, Nuance, Facebook"
-    excerpt: "Download Free Sample Copy of ‘ Artificial Intelligence Voice market’ Report @  Key Segments Studied in the Global Artificial Intelligence Voice Market A combination of factors, including COVID-19 containment situation,"
-    publishedDateTime: 2021-05-02T15:54:00Z
-    webUrl: "https://ksusentinel.com/2021/05/02/artificial-intelligence-voice-market-boom-ensues-iflytek-google-apple-microsoft-nuance-facebook/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 18
-  - title: "Artificial Intelligence Market to Eyewitness Huge Growth by IBM Corporation, Microsoft Corporation, General Vision, Enlitic, Inc."
-    excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence Market report is anticipated to perform more robustly in the coming years, and its potential will steer the market to be positioned between the world’s most remunerative industries."
-    publishedDateTime: 2021-05-03T11:28:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-market-to-eyewitness-huge-growth-by-ibm-corporation-microsoft-corporation-general-vision-enlitic-inc/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 7
-  - title: "Artificial Intelligence Products Market to Witness Growth Acceleration by Top Key Players Like MicroStrategy, IBM Corporation, Google,Inc, Brighterion"
-    excerpt: "Artificial Intelligence Products Market is growing at a 33.12% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
-    publishedDateTime: 2021-05-05T10:16:00Z
-    webUrl: "https://ksusentinel.com/2021/05/05/artificial-intelligence-products-market-to-witness-growth-acceleration-by-top-key-players-like-microstrategy-ibm-corporation-googleinc-brighterion/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-Market-Research-16-P-58.png"
-        width: 552
-        height: 308
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
 
 secured: "+Zh88AtmBPXE++mi4YrWAZluFgqpdC4Ji5M9x9x/QrfgR6wErYl2N79NxIuzW4hxMpq+taJG3ki0jaJ0NEqbSbGbI81zDSmgMmEpno+hIdq8Xpa0m0yXJTMe28a1pzXqJKKjcO7npKiPqm/lCkf/GGCMw5e/DXRV8GdX2Et+ZL/5oobS7C1CIQpmgflgMaI+bFp0Ykxu+nxSoWuO/r5oNsOxQ/bzviMI81j16pVyfoc+qkluM8FtiW9VaFbnB9K8z27o06BxTwWnVcdW10L8dSIyx14YUHfq9n0J9X/TUcIloJNcg8vdfLiJ79Un/P+PIifFNlp4McAbWis1P5v8I25mfkF6b5XoXJv4g43EAJA=;n/t9/36XDRPkrtvwfPvb0w=="
 ---

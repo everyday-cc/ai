@@ -117,6 +117,17 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Spotify Urged To Abandon Speech Patent Over Privacy Issues"
+    excerpt: "More than 180 musicians and human rights organizations are pressing Spotify to publicly disavow a speech recognition patent, saying it raises many privacy and inequality concerns and that the music streaming provider's assertion that it has \"no plans\" to implement this technology isn't enough."
+    publishedDateTime: 2021-05-06T03:04:00Z
+    webUrl: "https://www.law360.com/articles/1380457/spotify-urged-to-abandon-speech-patent-over-privacy-issues"
+    ampWebUrl: "https://www.law360.com/amp/articles/1380457"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1380457"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
 
 secured: "C8qYEgKatidRcbTcQljb+3tkfkne78DGJW7WNUYqPhi0jOpZeSrKolpawwj47NEniB0yN+h02/Q49YXN1DhPwA5DGmOosS3Hz3DfoJYZF05WJfdwhh8Xp4m9U4QxhnbsT5VdJkq7MWnbd1UCl6MikugXIj69EcxK6bZ3k/IeEms68z2+AH+mQPLwdDbHv0yBhZYQeAztwr94njEHTYcSb+1xVVXfL7+9m6jsk5fIxPQsZF4cAYndNvEFQGS4QMoxEag4PNEV1rNT2ymHfxJ0abpHyLDQzASfaFBmwB7zr/FF1Ub9mkn1FxI/MFUiDGNfvZmsDu1Zf3l9aGdsMjchAqWoXvdcv/R3YuD4WHptCcYpwUp0d3aeXjsP2ZktPIdFBg82kKg97Ipr78PDmYYmbZYBXstsWSgakRCe6d1zVygSsOnvXZH5ddlLseK+fTh9MrQIj2nC+dAauPDMLxT5n4PeOlLO2rVJ5or83XdniP8TZOgRYF10KKwEqjss+zua2C0xg2CiL6jZ6+hg+qf0nw==;cEDdPrCg9KbXkC14JBuDuQ=="
 ---

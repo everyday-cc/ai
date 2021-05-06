@@ -37,6 +37,20 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "States push back against facial recognition"
+    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
+    publishedDateTime: 2021-05-05T22:31:00Z
+    webUrl: "https://www.goskagit.com/townnews/politics/states-push-back-against-facial-recognition/article_94ac551c-7088-5cbd-baf1-84a418fe2e87.html/"
+    type: article
+    provider:
+      name: Skagit Valley Herald
+      domain: goskagit.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/7/10/710fa621-1921-553e-884c-d6a95b7ff98f/60932b6a52c86.image.jpg?resize=1050%2C630"
+        width: 1050
+        height: 630
+        isCached: true
   - title: "Pressure grows on banks to abandon facial recognition tech"
     excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."
     publishedDateTime: 2021-05-03T18:50:00Z

@@ -58,6 +58,15 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 19
+  - title: "Boosted Genetic Algorithm Using Machine Learning for Traffic Control Optimization"
+    excerpt: "Traffic control optimization is a challenging task for various traffic centers around the world and the majority of existing approaches focus only on developing adaptive methods for normal (recurrent) traffic conditions."
+    publishedDateTime: 2021-05-06T03:44:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9408242"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 14
   - title: "Development of Spectroscopic Sensor System for an IoT Application of Adulteration Identification on Milk Using Machine Learning"
     excerpt: "Adulteration in milk is a common scenario for gaining extra profit, which may cause severe harmful effects on humans. The qualitative spectroscopic technique provides a better solution for detecting the toxic contents of milk and foodstuffs."
     publishedDateTime: 2021-05-01T14:58:00Z

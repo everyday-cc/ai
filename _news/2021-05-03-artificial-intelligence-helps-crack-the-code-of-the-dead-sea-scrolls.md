@@ -8,8 +8,8 @@ webUrl: "https://scitechdaily.com/artificial-intelligence-helps-crack-the-code-o
 ampWebUrl: "https://scitechdaily.com/artificial-intelligence-helps-crack-the-code-of-the-dead-sea-scrolls/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-helps-crack-the-code-of-the-dead-sea-scrolls/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scitechdaily.com/images/Handwriting-Analysis-of-Dead-Sea-Scrolls.jpg"

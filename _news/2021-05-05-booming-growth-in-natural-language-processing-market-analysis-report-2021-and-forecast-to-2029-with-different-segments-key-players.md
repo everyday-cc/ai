@@ -73,17 +73,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
-  - title: "Healthcare Artificial Intelligence Market: Business overview, Upcoming Trends and Top Company Analysis Forecast - 2027"
-    excerpt: "The Healthcare Artificial Intelligence Market size was over USD 1 7 billion in 2019 and is estimated to grow at 43 CAGR between 2021 and 2027 Artificial intelligence AI is the creation of unique systems using algorithms and software that"
-    publishedDateTime: 2021-05-05T09:20:00Z
-    webUrl: "https://www.openpr.com/news/2280163/healthcare-artificial-intelligence-market-business"
-    ampWebUrl: "https://www.openpr.com/amp/2280163/healthcare-artificial-intelligence-market-business"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2280163/healthcare-artificial-intelligence-market-business"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
   - title: "Global Deep Learning System Software Market Innovations, Trades, Growth Trends And Forecast 2028"
     excerpt: "The ‘Global Deep Learning System Software Market’ research report Published by the Market Research Inc, is an in-depth analysis of the latest developments, market size, status, upcoming technologies,"
     publishedDateTime: 2021-05-03T15:52:00Z
@@ -98,6 +87,15 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Global Artificial Intelligence in Accounting Market 2025: Top Key Players AWS, Microsoft, Intuit, Xero, Sage, UiPath and others"
+    excerpt: "The report released by Zion Market Research on Global Artificial Intelligence in Accounting Market covers the broad strategic framework of dynamics of the global market. The report is a comprehensive study of current and future growth aspects."
+    publishedDateTime: 2021-05-05T23:52:00Z
+    webUrl: "https://ksusentinel.com/2021/05/05/global-artificial-intelligence-in-accounting-market-2025-top-key-players-aws-microsoft-intuit-xero-sage-uipath-and-others/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 23
   - title: "Machine Learning Artificial intelligence Market Size, Share, Regional Demand, Key Trends, Value and Forecast to 2027 | KeyPlayers"
     excerpt: "Our \"Machine Learning Artificial intelligence Market\" report is a comprehensive research that provides information on Machine Learning Artificial intelligence market size, trends, growth, cost structure,"
     publishedDateTime: 2021-05-05T11:06:00Z

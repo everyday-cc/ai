@@ -40,6 +40,17 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "States push back against use of facial recognition by police"
+    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness of video surveillance is leading some state lawmakers"
+    publishedDateTime: 2021-05-06T00:49:00Z
+    webUrl: "https://www.seattletimes.com/business/states-push-back-against-use-of-facial-recognition-by-police/"
+    ampWebUrl: "https://www.seattletimes.com/business/states-push-back-against-use-of-facial-recognition-by-police/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/states-push-back-against-use-of-facial-recognition-by-police/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
 
 secured: "tzQWogY+aWLExYx18y5RyIaEhoIYDI/2ddVfvfHNW/QmtTGYfiqlFUbd3kq1zo8OxMm1i8p5pFX8zYWlefQgTdR409YkzVlrQyxo52B8Pd+3HkUIrp6iMzPH6w8+wAlIuRVTBR6X4Lj/9dIbEiMT70q/09ItHGq2rMswdzkU2SKXnZ23k2OP2JpabZZuMOcljhdd9NLKave+VAwt4W4QsG88SkTM0ygPtlkRqQ4f6BnfjWnfDDCXzMugy5gWJ6yBI40JyPkxL7+c3iBzGPdMR2UZgktvixI6tVktkBgwH9U17l6SlqJN+mbI4ob1qD9U7kGFb9f99QgSBfpt9PbL9pcBLzxic9k+8vV3mLSqCFeLP6NtgO8BHplr7XaNTC4oXzqSLmyUaBblCsXNqUv7iET/kAg2fjdIu9u3qsTasX+iXI90Y3pFRks9/LkKtHa0wWQmj3oOZSCK8yEg1sFn1BjGIF1FRWg5pi0MnyoACNftqTmPicASaqfykBMD2FeA9IDPxz25Kx1xC+206p57Sw==;YE3VuGgVzL6HqRlbn08Ucw=="
 ---

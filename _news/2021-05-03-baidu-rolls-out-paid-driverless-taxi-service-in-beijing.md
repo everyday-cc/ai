@@ -43,17 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Baidu Rolls Out Paid Driverless Taxi Service in Beijing"
+  - title: "Baidu rolls out paid driverless taxi service in Beijing"
     excerpt: "Chinese tech giant Baidu has rolled out its paid driverless taxi service ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding ..."
-    publishedDateTime: 2021-05-02T13:15:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing?context=amp"
+    publishedDateTime: 2021-05-02T16:40:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 84
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 74
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_dacbbcc8fdee407a886411a4b2db2efc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Baidu launches China’s first self-driving taxi service"
     excerpt: "These taxis have been named Apollo ‘robotaxis’ and around 10 of them have been deployed in an area of 3 square kilometers around Shougang Park in western Beijing. * Each Apollo robotaxi ride costs about 30 yuan (Rs."
     publishedDateTime: 2021-05-03T13:11:00Z
@@ -169,15 +174,6 @@ related:
         width: 728
         height: 300
         isCached: true
-  - title: "Baidu’s self-driving US$5 taxis hit Beijing park in Olympic warm-up"
-    excerpt: "BEIJING: Baidu, the Chinese tech company known for its search engine, has passed its driver’s test and will debut its fleet of autonomous taxis to the public this weekend in what will be China’s first paid self-driving service with no one behind the wheel."
-    publishedDateTime: 2021-05-01T09:45:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/05/01/baidus-self-driving-us5-taxis-hit-beijing-park-in-olympic-warm-up/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "WBrsIIn/Oa9CKsTik5UGHCDF+8ecXpBLcI12GFPBGHqHX3G0hdssVF4qmgL6AZ/pby2BjlIERCq1GdkUwuApLroEbSVLZC/6npos4dmHcsTQjjCN9LP8m8Q12W07oM1yqWwmXrHovUdPPEE+F4Vu4ju+44CYDKv3QZ9RjyX2WcYYmoRfUfm0g96NHvfHJTa/ii1kY0pVzl+JKWQ9rfAf1kpsYv80+RhGDKEStdMHl+xCDKmEMlhP33yYzV53zjFM5QepLzqTIrZgSaDQrpM6Q38FGG2no6Jmdw82Q1nTURVhtMjISGmwbUYvJpLF+hJAQOE52uWH6xnw2RmVNxmyPpbxwifBdjgq63bpJjZWYUKNZLB0Wg0eXHU5Ulsko77TnNS5h6nSQQT9I7AxfmOYhxb2tHhCLdutxtd9cg1jwzF3batTmnuWMTXchVcWBF4NxuBDQFWGKMgqFpmV0MXd52bDQOTgLnq4lN71MyfCk/L7HLVeZpfwSUWYNVgJS4uCKyRDSKA5+Rl6tbG8G51d4w==;iZw3I4s3SyFGXqG61wFvhg=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "States push back against facial recognition"
+    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
+    publishedDateTime: 2021-05-05T22:31:00Z
+    webUrl: "https://www.goskagit.com/townnews/politics/states-push-back-against-facial-recognition/article_94ac551c-7088-5cbd-baf1-84a418fe2e87.html/"
+    type: article
+    provider:
+      name: Skagit Valley Herald
+      domain: goskagit.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/7/10/710fa621-1921-553e-884c-d6a95b7ff98f/60932b6a52c86.image.jpg?resize=1050%2C630"
+        width: 1050
+        height: 630
+        isCached: true
   - title: "Pressure grows on banks to abandon facial recognition tech"
     excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."
     publishedDateTime: 2021-05-03T18:50:00Z
@@ -109,6 +123,6 @@ related:
         height: 630
         isCached: true
 
-secured: "RHc08d2s0SYsnnfOLLCsO3lTAJjNC+eBx5vMxSzwXi4SvQFqNMxUWkGUzk+Z9IUSCVN04fDAbdOivDecAlDr0pc1gyYAv/JGOCYDQD/DEHC+E3pv0a8/K6D1gPAr8lL7EIknKsAYyMfwVQIfNDQ+3QCMZBgtHA2nGmd5p+D3YN08h3nNzj6R2/2exOPmglVNrv5Yd1TGGXyBAnWZAuWc03Yonh9dgNNJFo4T1Wqr6NyPrljuLarKzcdCcrIdETskgD3Od6ALlI6qZs/2KgFaQ9bjt8DDunzm7aUh9StrAKvnQ2U0IGFxcA/kHcNfsHBkhBtCju2mqSXD+QPbqk5OA+VfyCRUZE8ZXVAnuTQMcvc=;6umHHD2eSVtpGN2iNXoP+Q=="
+secured: "E6rNYG2KjYrVuhoJuc/hWP491lLQ8QAtFjam4tmsR/2+oz/ekwpQ/zg4Xa4qjp4mYdTQxCsqV2y2r9jcL7RXvnu+TKi1InwCWV5sVlaznwYDjChYecZN7CaSugAUkjuq62o1b7iIB0X5BmVaywBsufqc+xvfljVzz5CawpTo12gQfnJOiqZ5erzD9+RSzILHJ1AUX+vGsB75mp8+Tv5wMQv9V7OEPTijEA+9Bhhn1Z0dh+ECzEEwz8dU/7PiTtVGc4McY2fy6G4xBUxYamuAGglLnpUFdW+SEpX3hQpoMQ6VxJGrF5rbwRrDu1/DyKAO4end3iCZyB3DtDJyRLlW5j3Xk+ABnwLotAYcve6n8H/bX/1eCnc782U1xxjRwd5gm5Jd+g/yYu+kQ27ysUUc1/1wWM6COnd7zDaLTT/9bglT8RMdO54iK3fUzC2UJNnB4sedpZX8usbeOkccoNq/Tcr++1eVS/xTkqJLG8MSL38e5az4n5yIApagRodeq93ZftvBe9uQPsxf/GoUcENoRw==;7cOnoTE+C1jC5RvfeyMVLg=="
 ---
 

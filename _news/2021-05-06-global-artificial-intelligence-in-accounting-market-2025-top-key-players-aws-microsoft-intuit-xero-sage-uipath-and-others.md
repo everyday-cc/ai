@@ -20,93 +20,123 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "AI in Fintech Market May See a Big Move | Major Giants Microsoft, Google, IBM"
-    excerpt: "Stay up-to-date and exploit latest trends of AI in Fintech Market with latest edition released by AMA. AI in Fintech Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Global AI in Fintech industry with an attention on the Global market."
-    publishedDateTime: 2021-05-01T10:59:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269136641/ai-in-fintech-market-may-see-a-big-move--major-giants-microsoft-google-ibm"
+  - title: "Artificial Intelligence in Healthcare Market Size | Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
+    excerpt: "Global Artificial Intelligence in Healthcare Market Report 2020 comes with the extensive industry analysis of development components, patterns, flows"
+    publishedDateTime: 2021-05-05T10:26:00Z
+    webUrl: "https://www.express-journal.com/artificial-intelligence-in-healthcare-market-393333"
+    ampWebUrl: "https://www.express-journal.com/artificial-intelligence-in-healthcare-market-393333/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/artificial-intelligence-in-healthcare-market-393333/amp"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 53
+      name: express-journal
+      domain: express-journal.com
+    quality: 44
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1620153330432.jpg"
-        width: 630
-        height: 420
+      - url: "https://www.express-journal.com/img/img-3.png"
+        width: 1044
+        height: 625
         isCached: true
-  - title: "Artificial Intelligence Software Market (COVID-19) to Witness Astonishing Growth by Forecast 2021-2027 |Baidu, Google, IBM, Microsoft, SAP, etc"
-    excerpt: "Latest launched research on Global Artificial Intelligence Software Market, it provides detailed analysis with presentable graphs, charts and tables. This report covers an in depth study of the Artificial Intelligence Software Market size,"
-    publishedDateTime: 2021-05-04T05:44:00Z
-    webUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-software-market-covid-19-to-witness-astonishing-growth-by-forecast-2021-2027-baidu-google-ibm-microsoft-sap-etc/"
+  - title: "Computer Vision in Healthcare Industry Analysis and 2021 Future Trends"
+    excerpt: "According to the latest research study by Infinity Business Insights, the global Computer Vision in Healthcare Market was estimated at USD XX$ billion in 2021 and is forecast to cross USD XX$ billion by 2026,"
+    publishedDateTime: 2021-05-01T12:04:00Z
+    webUrl: "https://ksusentinel.com/2021/05/01/global-computer-vision-in-healthcare-market-top-10-key-players-in-2021-microsoft-us-nvidia-us-intel-us-xilinx-us-ibm-us/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 33
+    quality: 36
+  - title: "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,"
+    publishedDateTime: 2021-05-03T08:00:00Z
+    webUrl: "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026&source=139"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
     images:
-      - url: "https://marketsresearchreport.com/wp-content/uploads/2021/01/13.jpg"
-        width: 576
-        height: 324
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Artificial Intelligence Platform Market size, Witness Highest Growth in near future by 2027 | Google, Baidu, Ibm, Microsoft, Sap"
-    excerpt: "The Artificial Intelligence Platform market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
-    publishedDateTime: 2021-05-03T04:19:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-platform-market-size-witness-highest-growth-in-near-future-by-2027-google-baidu-ibm-microsoft-sap/"
+  - title: "Machine Learning in Healthcare Market Research Report 2021 Size, Share, Growth, Trends and Forecast 2026 | COVID-19 Impact Analysis"
+    excerpt: "May 04, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Machine Learning in"
+    publishedDateTime: 2021-05-04T09:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-research-report-2021-size-share-growth-trends-and-forecast-2026-covid-19-impact-analysis-2021-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+  - title: "Global Deep Learning System Software Market Innovations, Trades, Growth Trends And Forecast 2028"
+    excerpt: "The ‘Global Deep Learning System Software Market’ research report Published by the Market Research Inc, is an in-depth analysis of the latest developments, market size, status, upcoming technologies,"
+    publishedDateTime: 2021-05-03T15:52:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/global-deep-learning-system-software-market-innovations-trades-growth-trends-and-forecast-2028/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 20
-  - title: "Artificial Intelligence for Accounting Market size, Witness Highest Growth in near future by 2027 | Microsoft, Aws, Xero, Intuit, Sage"
-    excerpt: "The Artificial Intelligence for Accounting market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
-    publishedDateTime: 2021-05-03T03:21:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-for-accounting-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-aws-xero-intuit-sage/"
+    quality: 26
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/shutterstock_400002673-15-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Booming Growth in Natural Language Processing Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players"
+    excerpt: "Business Science Technology World Booming Growth in Natural Language Processing Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players The Natural L"
+    publishedDateTime: 2021-05-05T16:50:00Z
+    webUrl: "https://ksusentinel.com/2021/05/05/booming-growth-in-natural-language-processing-market-analysis-report-2021-and-forecast-to-2029-with-different-segments-key-players-2/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 19
-  - title: "Artificial Intelligence in Marketing Market to See Massive Growth by 2027 | IBM Corporation, Microsoft Corporation, General Vision and More"
-    excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence in Marketing Market report is anticipated to perform more robustly in the coming years,"
-    publishedDateTime: 2021-05-03T11:28:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-in-marketing-market-to-see-massive-growth-by-2027-ibm-corporation-microsoft-corporation-general-vision-and-more/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
-  - title: "Artificial Intelligence Voice Market Boom Ensues | iFlyTek, Google, Apple, Microsoft, Nuance, Facebook"
-    excerpt: "Download Free Sample Copy of ‘ Artificial Intelligence Voice market’ Report @  Key Segments Studied in the Global Artificial Intelligence Voice Market A combination of factors, including COVID-19 containment situation,"
-    publishedDateTime: 2021-05-02T15:54:00Z
-    webUrl: "https://ksusentinel.com/2021/05/02/artificial-intelligence-voice-market-boom-ensues-iflytek-google-apple-microsoft-nuance-facebook/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 18
-  - title: "Artificial Intelligence Market to Eyewitness Huge Growth by IBM Corporation, Microsoft Corporation, General Vision, Enlitic, Inc."
-    excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence Market report is anticipated to perform more robustly in the coming years, and its potential will steer the market to be positioned between the world’s most remunerative industries."
-    publishedDateTime: 2021-05-03T11:28:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-market-to-eyewitness-huge-growth-by-ibm-corporation-microsoft-corporation-general-vision-enlitic-inc/"
+    quality: 9
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/01/research-reports-market-11-780x400.jpeg"
+        width: 780
+        height: 400
+        isCached: true
+  - title: "Machine Learning Artificial intelligence Market Size, Share, Regional Demand, Key Trends, Value and Forecast to 2027 | KeyPlayers"
+    excerpt: "Our \"Machine Learning Artificial intelligence Market\" report is a comprehensive research that provides information on Machine Learning Artificial intelligence market size, trends, growth, cost structure,"
+    publishedDateTime: 2021-05-05T11:06:00Z
+    webUrl: "https://ksusentinel.com/2021/05/05/machine-learning-artificial-intelligence-market-size-share-regional-demand-key-trends-value-and-forecast-to-2027-keyplayers/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 7
-  - title: "Artificial Intelligence Products Market to Witness Growth Acceleration by Top Key Players Like MicroStrategy, IBM Corporation, Google,Inc, Brighterion"
-    excerpt: "Artificial Intelligence Products Market is growing at a 33.12% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
-    publishedDateTime: 2021-05-05T10:16:00Z
-    webUrl: "https://ksusentinel.com/2021/05/05/artificial-intelligence-products-market-to-witness-growth-acceleration-by-top-key-players-like-microstrategy-ibm-corporation-googleinc-brighterion/"
+  - title: "Global Artificial Intelligence in IoT Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The Artificial Intelligence in IoT market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence in IoT market report is a comprehensive research that focuses on the overall consumption structure,"
+    publishedDateTime: 2021-05-03T10:09:00Z
+    webUrl: "https://menafn.com/1102013484/Global-Artificial-Intelligence-in-IoT-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?50588"
+        width: 333
+        height: 250
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Media and Entertainment Market SWOT Analysis,Key Indicators,Forecast 2027 : IBM Corporation"
+    excerpt: "MR Accuracy Reports recently introduced new title on “Artificial Intelligence (AI) in Media and Entertainment Market : Global Industry Analysis, Size, Share, Growth, Trends, and"
+    publishedDateTime: 2021-05-05T05:00:00Z
+    webUrl: "https://ksusentinel.com/2021/05/05/global-artificial-intelligence-ai-in-media-and-entertainment-market-swot-analysiskey-indicatorsforecast-2027-ibm-corporation/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 0
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-Market-Research-16-P-58.png"
-        width: 552
-        height: 308
-        isCached: true
+    quality: 2
+  - title: "Global Natural Language Processing Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
+    excerpt: "Over the past years more traffic have been attracted towards Natural Language Processing Market . According to different analysis, Natural Language Processing Market sales have a rate of XX% CAGR between 2020 and 2025."
+    publishedDateTime: 2021-05-03T09:41:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/global-natural-language-processing-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 1
 
 secured: "BMhEVjUP9sYy5P61GhM8+w8BDRJd+9Gl2P1B7rNnAdNVjLB0oJoGmk/WOg3+xJCUrdNceR1TaEg9MHtlGids8dFY1UtBX/Qa2c7HBRL8QNGwJjRnzCnNXktJA/4kctdQDjTWhNE0OX5BizJlpD72V+H4M6b61nX2GN5N9evRZb2fFKWGY+kYoYRlmxcC0HSym3zPLKx9uYU1aM2Jzz3zRO+fX25+busbPf/ZubTepFVh1Ybfaa8hN0w2e7WUBuKrZnazv1ui5U//4U49XaE1v96RPHPQqS0fE3UJTLN5+zg0ADOrGOPJdktmjQnI8uJuLFUt2GYIzczXc2TUoI4Npv0oXvMoK6fyS9dwgFBtS/Y=;KeO1Du9cIPVrk7MoLSkXgQ=="
 ---

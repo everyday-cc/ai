@@ -64,6 +64,15 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 19
+  - title: "Boosted Genetic Algorithm Using Machine Learning for Traffic Control Optimization"
+    excerpt: "Traffic control optimization is a challenging task for various traffic centers around the world and the majority of existing approaches focus only on developing adaptive methods for normal (recurrent) traffic conditions."
+    publishedDateTime: 2021-05-06T03:44:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9408242"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 14
   - title: "Securing APIs Demands Tracing And Machine Learning To Analyze Behaviors And Head Off Attacks"
     excerpt: "The use of application programming interfaces (APIs) across cloud-native computing and digital business ecosystems has accelerated rapidly due to the COVID-19 pandemic."
     publishedDateTime: 2021-05-05T18:25:00Z
