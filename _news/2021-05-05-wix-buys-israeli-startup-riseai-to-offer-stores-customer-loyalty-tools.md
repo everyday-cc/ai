@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Wix.com buys Rise.ai to add gift cards to e-commerce platform"
+    excerpt: "Wix.com, which helps small businesses build and operate websites, said on Wednesday it bought Israeli startup Rise.ai to extend its platform to include gift and loyalty cards and rewards and referrals."
+    publishedDateTime: 2021-05-05T13:08:33Z
+    webUrl: "https://www.reuters.com/technology/wixcom-buys-riseai-add-gift-cards-e-commerce-platform-2021-05-05/"
+    type: article
+    provider:
+      name: reuters.com/technology/wixcom-buys-riseai-add-gift-cards-e-commerce-platform-2021-05-05/
+      domain: reuters.com/technology/wixcom-buys-riseai-add-gift-cards-e-commerce-platform-2021-05-05/
+    quality: 137
+    images:
+      - url: "https://www.reuters.com/resizer/mFsTeRDVaZSBYyNQyRZ_iS3Nexg=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/I7D3O47K3ZMMHFQA6RFCBWCIHI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Wix acquires Rise.ai to bolster its customer re-engagement offerings"
     excerpt: "Rise.ai's software aims to help merchants optimize their online commerce offerings through customized gift cards and other customer re-engagement tactics."
     publishedDateTime: 2021-05-05T06:01:00Z
@@ -41,38 +55,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/05/05/4cf56c8d-7dea-44b9-b145-0ec8e6c128f1/wix-ecommerce-2.png"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Use AI Thinking to Improve Customer Experience"
-    excerpt: "In fact the prepackaged tools are not the most helpful thing about AI for your CX. The thinking that goes into designing and building AI systems is itself the most powerful tool for reexamining your customer experience."
-    publishedDateTime: 2021-05-03T14:43:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/"
-    ampWebUrl: "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 57
-    images:
-      - url: "https://www.cmswire.com/-/media/d77db01721c34f25ba03e16f39da3e1d.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Wix.com buys Rise.ai to add gift cards to e-commerce platform"
-    excerpt: "Wix.com, which helps small businesses build and operate websites, said on Wednesday it bought Israeli startup Rise.ai to extend its platform to include gift and loyalty cards and rewards and referrals."
-    publishedDateTime: 2021-05-05T13:08:00Z
-    webUrl: "https://www.metro.us/wix-com-buys-rise-ai-to/"
-    ampWebUrl: "https://www.metro.us/wix-com-buys-rise-ai-to/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/wix-com-buys-rise-ai-to/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 57
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH440TU-BASEIMAGE.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Wix Acquires Israelis Startup Rise.ai To Extend Wix eCommerce Platform"
     excerpt: "Wix aims to provide a full solution for merchants to manage re-engagement activities for customers, to increase customer spending and repurchases."

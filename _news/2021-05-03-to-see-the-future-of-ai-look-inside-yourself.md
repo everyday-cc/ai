@@ -35,6 +35,22 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Use AI Thinking to Improve Customer Experience"
+    excerpt: "In fact the prepackaged tools are not the most helpful thing about AI for your CX. The thinking that goes into designing and building AI systems is itself the most powerful tool for reexamining your customer experience."
+    publishedDateTime: 2021-05-03T14:43:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 57
+    images:
+      - url: "https://www.cmswire.com/-/media/d77db01721c34f25ba03e16f39da3e1d.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Micro Focus lists four ways how to start testing AI"
     excerpt: "Machine learning operations, a new practice in the space enterprise, is on the rise, according to Micro Focus. This practice is helping “develop, deploy, and monitor” data models, and it is predicted that the market for this solution will grow to US$4 billion in 2025,"
     publishedDateTime: 2021-05-04T02:07:00Z

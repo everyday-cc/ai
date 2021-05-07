@@ -27,60 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "In a year of major shifts, the self-driving car market is consolidating"
-    excerpt: "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market."
-    publishedDateTime: 2021-05-02T19:15:00Z
-    webUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/"
-    ampWebUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
+  - title: "That Turtle Smashing Through A Windshield Striking A Florida Mom Is A Valuable Lesson For AI Self-Driving Cars"
+    excerpt: "News out of Florida indicates that a turtle burst through the front windshield of a car, fortunately all are okay, and we can thusly glean lessons learned for self-driving cars."
+    publishedDateTime: 2021-05-06T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/06/that-turtle-smashing-through-a-windshield-striking-a-florida-mom-is-a-valuable-lesson-for-self-driving-cars/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 49
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/volkswagen-electric-car-id3.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6091cc0ffdfcf393d849edfe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2416%26cropY1%3D57%26cropY2%3D1416"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "UK signals self-driving cars could hit road this year"
-    excerpt: "LONDON: Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel. The Department for Transport (DfT) said in a statement that it will allow hands-free driving in cars equipped with lane-keeping technology,"
-    publishedDateTime: 2021-05-02T23:39:00Z
-    webUrl: "https://www.brecorder.com/news/40089625"
-    ampWebUrl: "https://www.brecorder.com/news/amp/40089625"
-    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40089625"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 44
-    images:
-      - url: "https://i.brecorder.com/large/2021/05/608f218dbd5dc.jpg"
-        width: 784
-        height: 480
-        isCached: true
-  - title: "2 Top Self-Driving Car Stocks to Buy in 2021"
-    excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."
-    publishedDateTime: 2021-05-05T11:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
-  - title: "GM is going all-in on self-driving vehicles and wants to sell them by 2030"
-    excerpt: "GM’s CEO, Mary Barra, says that the company will be producing fully autonomous vehicles for consumer use before the end of this decade. According to CNBC, Barra revealed this in a call with investors earlier this week."
-    publishedDateTime: 2021-05-06T17:09:00Z
-    webUrl: "https://knowtechie.com/gm-is-going-all-in-on-self-driving-vehicles-and-wants-to-sell-them-by-2030/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 22
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/05/gm-super-cruise-1000x600.jpg"
-        width: 1000
-        height: 600
+        height: 675
         isCached: true
 
 secured: "rA/zPjkUize7YRZ09Qdz+doCCaKcd5LTgqkFd+yVw28FIagkfKjAa43e3dK0UXDNFXSQyDXnW46kl/DWXE4fT3/5csN03IZlsX14XeVkdjRF6ESDLpqMB7YgBPbLroQUkiW57GKoymWVFR0I4E7rGVFLSJhI1AflYdFx814K+82+NQn2j/et2FwCYyTUPUAMt4NzDPMmULzfTukGaMI+RFt26bizaPkVDZ7MbfnAf57+Zw+VhEKrfasNQfz96eqLsc9WdJWAE2NZAgnDjU/zqBSpIHaXij2UkmmY0HjG63HciRoiD6Ht8QuIfnbpwo1XpGZyhs6Fvrvg6J/Vcza7nXUEHFVOWEZVWh4QL/3/oIvfaua1BSod0ONA++Vy+hqGRKBCUGaixGkbF1+oiR+lHhTYauwtM2gbwp233e0r0rwQdz40HuU3tbvXvp4KsE2eBlh/3bL/6g3hkqZxJ5QbyTFRYf9A9nQzblbLMeVbtX+1nbTxaawFFIDdCvKg2zmkyX3RsBzgERA+X+5SR0vmfg==;+ZSS8BXTG8JHSQ/vscM5Bw=="

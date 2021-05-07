@@ -62,6 +62,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 24
+  - title: "Study: Examining self-driving cars in winter"
+    excerpt: "A new study from the University of Eastern Finland claims it is the first in the world to examine passengers’ experiences in self-driving cars under winter conditions. The study explored how passengers felt about self-driving cars in Helsinki,"
+    publishedDateTime: 2021-05-07T12:48:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16690/study-examining-self-driving-cars-in-winter"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "LKEPngiwD/SjNcfTwXXmsPhlLg0fHJXpbS6+D9KvUWLqKBju/+hYrPGnE9PWGimIOt90SZlLRFYodCCPCeDb4I/rTkAYTtSqWy6kD+ldMNoiPYR8KCUKnRxNxrTf+W20MYdp2lrs4+QIHPzkoLylnfO45r8JGPzu9mWnmD/Hcvc7Txu93jwyuO4KwvD2PKehVHJK+jRYzru4TFfzo3ya4WC3RxzXaruJQGCP84HFUb5lS7CEbKpGPmKQKHmMA7V0I/La5SQ+iLCi3Dir6DuhxtkfWW7hEiU5yuJxeqFBvqMBIInDf13tb58R8frw9HFTqfTR3SUrzWmb/78rzOeAp9JjRd5sFZ58JQgtbI/rqpT1Ze+KmgFdgW7+nJXg4d6Z7qYuaw0UYYfqQqla+WFbgcnyeEcZAOuplTQjTkbM/N1x9dg2Tblg5ipqGac1U1zkXMwEfR3+piS0FkN+uyEkQJA1F7ALOMuZyuocU4Xtyes08ABit5aSwKGkZZB8fzoDx7inRtMh9RZbECasDRt2vg==;+hK4RL9uQ/wdtJE8ay5aZQ=="
 ---

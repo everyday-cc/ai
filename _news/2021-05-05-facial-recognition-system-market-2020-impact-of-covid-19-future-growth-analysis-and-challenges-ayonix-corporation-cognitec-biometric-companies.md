@@ -207,20 +207,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 0
-  - title: "Worldwide Video Analytics Industry to 2026 - Featuring Agent Video Intelligence, Aventura Technologies and IBM Among Others - ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global video analytics market exhibited growth during 2015-2020."
-    publishedDateTime: 2021-05-04T10:54:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-656c50b19e044699b96393097299fbe1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Z5fNRt+yzGvedWJYf0Ky2AB9SzEwPbnHJmsdJy56zNVp8azt3AhTnwVoujkd4gTaUJKu0XaXyakI3E3iao6/Sey/K9xLKf0JkwnvTzqhmSW54efaG7YPADaBq4c8e4p92LSQhqE3ml975ydI+FSM4dsQM8JNLst+50pLJhEkRTpxO18JKNovlOlKoMxUd87sl7c7dqJlYkgpqzctGW5ThMMb9E0IE4xV1xsHMxoh3f5zAlDR0Ai8bZBtc+YOX74BoVrWyIKoy+/j0SG8AlNFHyaPMe3IZZHck1UwX0PWLPAcmvjYAg8IuQOgpTR0SZ2x14vYubX+MtiFfVmXDQiL1ciQYGTSRN3bxHlHDaYxcrY=;3kHHWJYEZ3smOpx4wpqKTA=="
 ---

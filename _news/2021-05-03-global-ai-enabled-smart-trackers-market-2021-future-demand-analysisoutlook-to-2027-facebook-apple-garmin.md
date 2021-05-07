@@ -199,20 +199,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 0
-  - title: "Worldwide Video Analytics Industry to 2026 - Featuring Agent Video Intelligence, Aventura Technologies and IBM Among Others - ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global video analytics market exhibited growth during 2015-2020."
-    publishedDateTime: 2021-05-04T10:54:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-656c50b19e044699b96393097299fbe1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Facial Recognition System Market 2020- Impact of COVID-19, Future Growth Analysis and Challenges | Ayonix Corporation, Cognitec, Biometric Companies"
     excerpt: "A latest published report on Facial Recognition System market provides you with the key analysis of the market and gives a detailed overview of the market dynamics that are influential to the Facial Recognition System market growth trends."
     publishedDateTime: 2021-05-05T10:31:00Z

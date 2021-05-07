@@ -33,6 +33,15 @@ related:
         width: 800
         height: 458
         isCached: true
+  - title: "4 Stocks to Watch Amid Rising Adoption of Machine Learning"
+    excerpt: "Machine learning (“ML”) has been gaining precedence over the ... Microsoft Corporation MSFT provides it Azure platform for ML, allowing developers to build, train and deploy ML models. The company currently has a Zacks Rank #2. The Zacks Consensus ..."
+    publishedDateTime: 2021-05-07T12:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-stocks-to-watch-amid-rising-adoption-of-machine-learning-2021-05-07"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 51
   - title: "Live Demonstration: A Neural Processor for AI Acceleration"
     excerpt: "In this demonstration, we present AB9 SoC system, a single-chip solution for AI application. It provides the reconfigurable and programmable architecture to support the general computations for a variety of neural networks."
     publishedDateTime: 2021-05-04T06:11:00Z
@@ -74,15 +83,6 @@ related:
         width: 702
         height: 630
         isCached: true
-  - title: "Speech Emotion Recognition Considering Nonverbal Vocalization in Affective Conversations"
-    excerpt: "In real-life communication, nonverbal vocalization such as laughter, cries or other emotion interjections, within an utterance play an important role for emotion expression. In previous studies, only few emotion recognition systems consider nonverbal vocalization,"
-    publishedDateTime: 2021-05-04T01:05:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/9420285"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
 
 secured: "y7PDuHLbMnVQfCso9EcjIeVYmWJ9mAybwOlPRVPpCgxRGMeqtxF7u3b6FZcNkwNj8TCx9EO+GPFLVhiOJ6mRQAldMSiMMANixdlbJo2pPlgBSLEM96dkLaQyKRDw6WOX4Vb7y1Ef8fylgeWu4nkZOjC+hsl6/mK7k8QuIoWO7e+WrZIZR+4zCb21DT/iVoEjP9QJ3OPAPI98GZ5L6mVmzVB8oCdx+91an/4tMbcolJiHt/pMPnMK7fTljQ3CUL/5ivW7xEo+VlAuYHnry/0THBrb4lAxCjJ+KlntEt2RKIAQR4l6ETQS6OPSPfgJXmjD1vkVFKuYZ1+JpLr4JxDiuyep8Gl7GoS7rwHppO2s6Hg=;W2tu58YLKe+FLyQsQQzZ4Q=="
 ---

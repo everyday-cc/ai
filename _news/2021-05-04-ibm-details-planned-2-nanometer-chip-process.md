@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
         height: 209
+        isCached: true
+  - title: "IBM unveils world’s first 2-nanometer chip technology"
+    excerpt: "Global business services provider–IBM has made a breakthrough in semiconductor design and process with the development of the world’s first chip with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
+    publishedDateTime: 2021-05-07T13:07:00Z
+    webUrl: "https://www.the-star.co.ke/business/kenya/2021-05-07-ibm-unveils-worlds-first-2-nanometer-chip-technology/"
+    type: article
+    provider:
+      name: The Star
+      domain: the-star.co.ke
+    quality: 39
+    images:
+      - url: "https://lh3.googleusercontent.com/kdBSZ7hbGK7yYR4SA2V9KEhUbkLT_p6K6-FGGUA_jGFwYJiyc4mX6v6VVgNfrRCkt8hK-6iLpKlyQAXGt1RtCjXvzDXZERGtwcWl8cdQUQ=s1000"
+        width: 1000
+        height: 605
         isCached: true
 
 secured: "geM+coBXQt08PN2BqShcTmYLiWkuVlDgozTIO35Q5tP29Knn5k8TPinsY4nQvSQX12jANDjyqcf4lrJo5WQlQJg8qvZZNaeeU2CeNKCba6WrnmvfI/JjNId1TVSwvFxLOptqM2ABfWJL8/aHrQ3KOt0H7P9wVNXYMFPF3944DnxMruUrJmmKCaqqy8JnWb36JWyN1Q/EZ7TwMNvuRDKXUskhqLmazhWHBNFUWnkR3+S8FQqBlGledzg4ac/S8hn5peFA+7tWb7gSvWAOaXzISsiOe/+LmIQf4q5gZtf1xu+B/44okSxEXDkZBAolTehgwnAd+a0JX3vP2wnYwNq/3R1+n99JmAF8+JP9R+zBmHGChyUpm0IFx6qN8O7GapOQp2LykOLmPS7N0PO60ar1W+bjSj0mEwX9LN/NtjEQ8GHgPQMLMzGb9K9k/hAWr+1C942Dps+w75t4rEDpuMaDY1KvO3gDitC+MKIDegROaWNn1aqfHU1WPDPN1fMzXJsigBG4qUle0d3bBHR3xxzt7w==;EnedwRDku49jBWymBKVoNA=="

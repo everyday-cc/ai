@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Advancing sports analytics through AI research"
+    excerpt: "Sports analytics is in the midst of a remarkably important era, offering interesting opportunities for AI researchers and sports leaders alike."
+    publishedDateTime: 2021-05-07T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 89
+    images:
+      - url: "https://lh3.googleusercontent.com/JKprmpmVTL_QABFZY5EoG-OpZBrglfRpIKdvT96pMv88ofnfgGkT2o4LdrTct_1HxboB9Oc8_h9-IEq6JQc0nizeJWIRPKSG4yX-x6QYa6ClA-8VIHU"
+        width: 512
+        height: 288
+        isCached: true
   - title: "New SAS Viya offerings help better manage and navigate big data for AI and analytics"
     excerpt: "Diverse and complex data environments create a challenge for organizations seeking to operationalize analytics to enable the best business decisions. Global analytics leader SAS continues to enhance its powerful,"
     publishedDateTime: 2021-05-03T12:04:00Z
@@ -59,6 +73,20 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/4fc8c450308w.jpg"
         width: 450
         height: 308
+        isCached: true
+  - title: "Worldwide Video Analytics Industry to 2026 - Featuring Agent Video Intelligence, Aventura Technologies and IBM Among Others - ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global video analytics market exhibited growth during 2015-2020."
+    publishedDateTime: 2021-05-04T10:54:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-656c50b19e044699b96393097299fbe1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "1UpCpphkP4VRM5BR4cMoA+nY/vYn7WaqSSd6gAqt0vBWuv/ifoAz66o6w0lZCEW2s+jZPmfwTDHnxDOp9J4x2F9oPJ3T8KsEfi9s1j15GZttK6KFrtv3u+F+STSxFd/QA+6IZfbu9zesjj9HjnH1fMKF6bb+ocMVyoMdWPoFmBzEhLhYfhNFSZaJX+aWp6VgQZF2keFgcv94V1DG7/L+tzNoJOiDqJFtNp9MYONgHC+mQ/FRHMQygieDYroSqM4/3D6dMN646opfylNfCFu4f6C/P/cUPAFQhRi8lGYZCduRPKPInHBQ7soiPGxZb8v4dDg45y6dPhXiaf4eBLsSbyqo31ojxS9084Mm4X9KzXE=;dLeF86d8vgfVbisxado3QQ=="

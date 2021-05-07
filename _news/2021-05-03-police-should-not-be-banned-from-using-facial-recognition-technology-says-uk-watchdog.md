@@ -155,18 +155,18 @@ related:
         height: 533
         isCached: true
   - title: "Massachusetts Pioneers Rules For Police Use Of Facial Recognition Tech"
-    excerpt: "Massachusetts is implementing its first state-wide rules for police using controversial facial recognition systems. But not all privacy advocates agree that regulation is the right step."
-    publishedDateTime: 2021-05-07T10:25:00Z
-    webUrl: "https://www.wbur.org/npr/982709480/massachusetts-pioneers-rules-for-police-use-of-facial-recognition-tech"
+    excerpt: "Massachusetts lawmakers passed one of the first state-wide restrictions of facial recognition as part of a sweeping police reform law. The new law sets limits on how police use the technology in criminal investigations."
+    publishedDateTime: 2021-05-07T12:57:00Z
+    webUrl: "https://www.wabe.org/massachusetts-pioneers-rules-for-police-use-of-facial-recognition-tech-2/"
     type: article
     provider:
-      name: WBUR
-      domain: wbur.org
+      name: WABE
+      domain: wabe.org
     quality: 39
     images:
-      - url: "http://media.npr.org/assets/img/2021/04/29/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg?s=6"
-        width: 948
-        height: 710
+      - url: "https://www.wabe.org/wp-content/uploads/2021/05/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047-710x355.jpg"
+        width: 710
+        height: 355
         isCached: true
   - title: "Facial Recognition Software Fuels Growing Concerns in State Legislatures"
     excerpt: "Lawmakers in at least 20 states are weighing curbs on police use of facial recognition, citing concerns of accuracy, invasion of privacy, racial bias and civil rights abuses."

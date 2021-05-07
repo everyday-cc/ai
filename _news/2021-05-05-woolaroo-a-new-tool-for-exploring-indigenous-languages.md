@@ -8,8 +8,8 @@ webUrl: "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool
 ampWebUrl: "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/amp/"
 type: article
-quality: 94
-heat: 104
+quality: 194
+heat: 204
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         height: 512
         isCached: true
 
-secured: "B4RfCwCluS4B9yzUEJJEHrrZCGGcCHdgh91G2dS6iHvt5gpe9BwmN7T+0u/Xz9k5ef9OwOvf/OzaKm+ZGGzQ8OWsHm4rzKqZjE3EHShQtWg4kvX7wzzUxkvN7WRFiP5FslnP0H7ggu0mrHHChzC7xXEH//hWLgXoGSUCBu2ftLyPioa5cLQmaFo1UKjeJR3O2op6H/CIRVG6iPWejK2CT9tBsv6CzJ36Dzi5NNvIdQLLA7HQvESJKaF14kePBkOaeMHfxk9LMaAt+ePTA62Vs0yJjDEjqT9moc7fsw9vDfTmwSQ2+r/N1qA75W+WgFUUgqcXGwD8SpqmjUi30Rm4v/3RwZdbt3Z8LBC2UtpU67E=;lHuRRPgnEb9s7//JRZoBwA=="
+secured: "odQbKwXneOopkkKTSZTYy01+O6WNrpRzYfjJ3OaSPBuFh0gJH+qo/LKreNgz+aCYeebFCSQkgFJ5bn19Gr66BOfHCEDTixwytcmZVUwiYIx30fJrAzR4+1vOM5yoVbuyEFWwq6EFLbuSlgGSlmPNEwHw6eLPQq6152nVHfIkhmn+qgbEvK2J3bHh37i8v8Y3LCCNtQNatXG0qah48wzaULt2j5Z8jcLHkMgXQtK39dRfzwgMBLxVrsyrVKhjuczg9eg+QkS5NwVODkgA1RcSx4yOgY0i3GV1JDemLBbl8aMDI5uPJPKTqqJcYl0tYBjK1/oHTFkSikNqQJzXPFH/iK4ajrQbZfto2xbd83UEo3qLLUoyhKSt6W2b8a3QFxcm;6yHmBHuzGuwM+MGtT6JX8w=="
 ---
 

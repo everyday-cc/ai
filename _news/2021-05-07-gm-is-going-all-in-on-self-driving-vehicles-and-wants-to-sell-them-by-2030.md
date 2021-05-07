@@ -25,63 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "In a year of major shifts, the self-driving car market is consolidating"
-    excerpt: "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market."
-    publishedDateTime: 2021-05-02T19:15:00Z
-    webUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/"
-    ampWebUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
+  - title: "GM CEO Mary Barra wants to sell personal autonomous vehicles using Cruise’s self-driving tech by 2030"
+    excerpt: "GM CEO Mary Barra sees the automaker selling personal autonomous vehicles by the end of the decade by leveraging technology from its self-driving subsidiary Cruise, according to comments made during the company’s Wednesday earnings call."
+    publishedDateTime: 2021-05-05T20:57:00Z
+    webUrl: "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/"
+    ampWebUrl: "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/volkswagen-electric-car-id3.jpg?w=1200&strip=all"
-        width: 1200
+      - url: "https://techcrunch.com/wp-content/uploads/2017/01/gettyimages-629982546.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Tesla’s self-driving tech may still have some ground to cover"
+    excerpt: "A memo from California’s DMV reveals that self-driving Tesla cars aren’t likely to reach Level 5 autonomy by the end of the year."
+    publishedDateTime: 2021-05-07T09:20:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/tesla-dmv-memo-self-driving"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/05/AdobeStock_343869056_Editorial_Use_Only.jpeg"
+        width: 800
         height: 600
         isCached: true
-  - title: "UK signals self-driving cars could hit road this year"
-    excerpt: "LONDON: Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel. The Department for Transport (DfT) said in a statement that it will allow hands-free driving in cars equipped with lane-keeping technology,"
-    publishedDateTime: 2021-05-02T23:39:00Z
-    webUrl: "https://www.brecorder.com/news/40089625"
-    ampWebUrl: "https://www.brecorder.com/news/amp/40089625"
-    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40089625"
+  - title: "Autonomous Future: GM expects to offer self-driving vehicles this decade"
+    excerpt: "General Motors CEO Mary Barra says she expects the automaker to offer self-driving vehicles in the next 10 years. “Later in the decade"
+    publishedDateTime: 2021-05-06T19:22:00Z
+    webUrl: "https://www.collisionrepairmag.com/gm-expects-to-offer-self-driving-vehicles/"
     type: article
     provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 44
+      name: Collision Repair Magazine
+      domain: collisionrepairmag.com
+    quality: 23
     images:
-      - url: "https://i.brecorder.com/large/2021/05/608f218dbd5dc.jpg"
-        width: 784
-        height: 480
+      - url: "https://www.collisionrepairmag.com/wp-content/uploads/2021/05/gm.png"
+        width: 775
+        height: 375
         isCached: true
-  - title: "Get ready for self-driving cars"
-    excerpt: "Once again, New York City has been bested by a for-hire vehicle operator taking advantage of the city’s laws to their own benefit, flooding our streets with even more non-medallion taxi services at the expense of tens of thousands of medallion owner-operators who played by the rules,"
-    publishedDateTime: 2021-05-07T09:00:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-oped-get-ready-for-self-driving-cars-20210507-xy3knvooqnazlceqtq7qc5c7qa-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-get-ready-for-self-driving-cars-20210507-xy3knvooqnazlceqtq7qc5c7qa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-get-ready-for-self-driving-cars-20210507-xy3knvooqnazlceqtq7qc5c7qa-story.html?outputType=amp"
+  - title: "OP's Cambrian Tech finds new use case for its technology: self-driving vehicles"
+    excerpt: "Cambrian Tech’s augmented reality tool has been used to visualize how new flooring and paint colors will look in a space. Now it’s finding a new use case for its technology in the self-driving vehicles market."
+    publishedDateTime: 2021-05-05T19:01:00Z
+    webUrl: "https://www.bizjournals.com/kansascity/news/2021/05/05/cambrian-tech-finds-new-use-case-for-its-tech.html"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 44
-    images:
-      - url: "https://www.nydailynews.com/resizer/aSDwZ8rwwZT2QdGe9ax8L_4nmOs=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XZ3HTVUBUZH3TDNLBHWDMFCYRA.jpg"
-        width: 1200
-        height: 786
-        isCached: true
-  - title: "2 Top Self-Driving Car Stocks to Buy in 2021"
-    excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."
-    publishedDateTime: 2021-05-05T11:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "nKUwoDDWt3rbd5XZj6Gq3j5ope8OHoz5pLXN3Mm+gcjAl5aXSfj5NPWi+cfewuqluiOBD/1q/oDXtugYSyOxi7frW045WcvwQQ74iEDkzin27TRTptlTL/MhUgqaHgRS9pS/yFA2Ao7JqVCIXDOsuQAWb4/r1lR4MTBiz+AUBB7uxku+/ktAPeKSkf6mds2n7V4sADfkIm6WB/sRWvHZZw1SIr1AMwrOVtklvEkwfizKv9Eex18qc0hDqfr/oDUYJUP9ga3GpFfi5Xzs7PzRnh4QF0Pv8aSQF5YxAM5nIabaZyoQYhT/wZXjSM15LeGH4HuMrMZKE5J5tfahTk6ylCuiFZJII6QvfPdgnx0AIQkbdqBzlOuym+MklYeF4fjIdHcRsavpESafaUdSpHFRCuqjyNgDI/Qelwn6LmrqoSdmrrNliKFmVQdIkKVl5EyW4SfkK3KLfw143Kn6NNISeA1K+/Swpq+ovBBcenom3PVx9Tivg3xN2Zinua8iX9kcke/QGZ29AepQmlIVeF9q5w==;urug2UMmgOkVqRjyrhdi6g=="
 ---

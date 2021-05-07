@@ -19,67 +19,51 @@ topics:
   - AI
 
 related:
-  - title: "In a year of major shifts, the self-driving car market is consolidating"
-    excerpt: "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market."
-    publishedDateTime: 2021-05-02T19:15:00Z
-    webUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/"
-    ampWebUrl: "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/"
+  - title: "Opinion: Feds Should Reel in Tesla, Self-Driving Car Industry"
+    excerpt: "In April, an allegedly self-driving Tesla burst into flames after crashing into a tree in Texas. Two passengers died in the wreckage. Federal authorities should consider regulating the autonomous vehicle industry now."
+    publishedDateTime: 2021-05-05T21:26:00Z
+    webUrl: "https://www.govtech.com/products/opinion-feds-should-reel-in-tesla-self-driving-car-industry"
+    ampWebUrl: "https://www.govtech.com/products/opinion-feds-should-reel-in-tesla-self-driving-car-industry?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/opinion-feds-should-reel-in-tesla-self-driving-car-industry?_amp=true"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/volkswagen-electric-car-id3.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b66013f/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F16%2F16%2Fb0332760cd376d7902f685657e31%2Fshutterstock-171883982.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "UK signals self-driving cars could hit road this year"
-    excerpt: "LONDON: Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel. The Department for Transport (DfT) said in a statement that it will allow hands-free driving in cars equipped with lane-keeping technology,"
-    publishedDateTime: 2021-05-02T23:39:00Z
-    webUrl: "https://www.brecorder.com/news/40089625"
-    ampWebUrl: "https://www.brecorder.com/news/amp/40089625"
-    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40089625"
+  - title: "Tesla may not achieve full self-driving technology this year: Report"
+    excerpt: "The electric carmaker Tesla Inc said to a California regulator that it may not be able to achieve full self-driving technology by the end of this year. This was confirmed by a memo by the California Department of Motor Vehicles (DMV), according to a report ..."
+    publishedDateTime: 2021-05-07T07:25:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report-41620364503654.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
     type: article
     provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 44
+      name: hindustantimes.com
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://i.brecorder.com/large/2021/05/608f218dbd5dc.jpg"
-        width: 784
-        height: 480
+      - url: "https://images.hindustantimes.com/auto/img/2021/05/07/600x338/2020-02-24T232822Z_1_LYNXNPEG1N25J_RTROPTP_3_TESLA-GIGAFACTORY_1583211250743_1620367537971.JPG"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Get ready for self-driving cars"
-    excerpt: "Once again, New York City has been bested by a for-hire vehicle operator taking advantage of the city’s laws to their own benefit, flooding our streets with even more non-medallion taxi services at the expense of tens of thousands of medallion owner-operators who played by the rules,"
-    publishedDateTime: 2021-05-07T09:00:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-oped-get-ready-for-self-driving-cars-20210507-xy3knvooqnazlceqtq7qc5c7qa-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-get-ready-for-self-driving-cars-20210507-xy3knvooqnazlceqtq7qc5c7qa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-get-ready-for-self-driving-cars-20210507-xy3knvooqnazlceqtq7qc5c7qa-story.html?outputType=amp"
+  - title: "VW plans to design own computer chips for self-driving cars, just like Tesla"
+    excerpt: "VW Group will only design its computer chips and then outsource production to an existing supplier, in the same way that Tesla outsources production of its chips to Samsung. The a"
+    publishedDateTime: 2021-05-03T12:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1132123_vw-plans-to-design-own-computer-chips-for-self-driving-cars-just-like-tesla"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 44
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 53
     images:
-      - url: "https://www.nydailynews.com/resizer/aSDwZ8rwwZT2QdGe9ax8L_4nmOs=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XZ3HTVUBUZH3TDNLBHWDMFCYRA.jpg"
-        width: 1200
-        height: 786
-        isCached: true
-  - title: "GM is going all-in on self-driving vehicles and wants to sell them by 2030"
-    excerpt: "GM’s CEO, Mary Barra, says that the company will be producing fully autonomous vehicles for consumer use before the end of this decade. According to CNBC, Barra revealed this in a call with investors earlier this week."
-    publishedDateTime: 2021-05-06T17:09:00Z
-    webUrl: "https://knowtechie.com/gm-is-going-all-in-on-self-driving-vehicles-and-wants-to-sell-them-by-2030/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 22
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/05/gm-super-cruise-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://images.hgmsites.net/hug/volkswagen-self-driving-car-prototype-testing-in-hamburg-germany--april-3-2019_100696985_h.jpg"
+        width: 1920
+        height: 1163
         isCached: true
 
 secured: "HbPIPQTYDcIB2Tjg6F+H75fZW3xKtAwCW3FaJqKB3HB0RvOy/39QBfx3EHIe+ZIrkTBhdfZUExdm2ulngYWYKoQWI4Er6+Obvm9uuGKjLKLNhAzrYNpnrQ9P4NDwXQLALLa65CcFHeYyV7ipwm2w9Mzzda9GV61SFpqtKp1ai6ilXvdGELenY8UW9yZV84CamO2F1xcb9fRSciCoyi8Wjod+WOvUDPugABIcRCeNxC+Ncn8thSkcS3SeQxf2lkWIKorHeKxAHQ2K/SPIACvPZLPF/d/f85EyfMLIUkBDkCsXPI3HQeV9qxA+B4AoWcwCmoTfXuuTBKVGSwZXSQGA27FKCqBN3AzW8KHj2MbfHWk=;4+/BPorZjjN23deexm4fJQ=="

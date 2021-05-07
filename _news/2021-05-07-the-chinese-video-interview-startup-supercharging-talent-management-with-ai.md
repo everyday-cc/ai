@@ -42,20 +42,6 @@ related:
         width: 737
         height: 489
         isCached: true
-  - title: "Consumer Comfort With AI in CX is Sticking — Here’s Why"
-    excerpt: "As AI adoption grew, consumers experienced greater exposure to and confidence in the technology, which has fundamentally shaped their perspectives today. The pandemic didn’t create an interim reliance on AI-powered CX,"
-    publishedDateTime: 2021-05-02T19:05:00Z
-    webUrl: "https://customerthink.com/consumer-comfort-with-ai-in-cx-is-sticking-heres-why/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Connecting Manufacturers with Artificial Intelligence"
     excerpt: "Increasingly manufacturers are asking the question “What can Artificial Intelligence do for me and my business?”– perhaps you have even asked that yourself."
     publishedDateTime: 2021-05-06T11:09:00Z

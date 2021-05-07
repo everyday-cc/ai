@@ -56,20 +56,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Consumer Comfort With AI in CX is Sticking — Here’s Why"
-    excerpt: "As AI adoption grew, consumers experienced greater exposure to and confidence in the technology, which has fundamentally shaped their perspectives today. The pandemic didn’t create an interim reliance on AI-powered CX,"
-    publishedDateTime: 2021-05-02T19:05:00Z
-    webUrl: "https://customerthink.com/consumer-comfort-with-ai-in-cx-is-sticking-heres-why/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "NICE Revolutionizes Contact Center Recording with the Launch of InterACT, the Industry's Only AI-Powered Agile Recording Solution"
     excerpt: "NICE today announced it is transforming the way contact centers manage interaction recording with the launch of InterACT. A new AI-powered recording solution, InterACT automates end-to-end recording decisioning processes,"
     publishedDateTime: 2021-05-07T10:42:00Z

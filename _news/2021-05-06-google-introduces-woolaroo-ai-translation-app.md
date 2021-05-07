@@ -35,7 +35,7 @@ related:
     provider:
       name: Google
       domain: blog.google
-    quality: 94
+    quality: 194
     images:
       - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/woolaroo_yugambeh.max-1300x1300.jpg"
         width: 1280

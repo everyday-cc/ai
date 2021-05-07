@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Advancing sports analytics through AI research"
+    excerpt: "Sports analytics is in the midst of a remarkably important era, offering interesting opportunities for AI researchers and sports leaders alike."
+    publishedDateTime: 2021-05-07T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 89
+    images:
+      - url: "https://lh3.googleusercontent.com/JKprmpmVTL_QABFZY5EoG-OpZBrglfRpIKdvT96pMv88ofnfgGkT2o4LdrTct_1HxboB9Oc8_h9-IEq6JQc0nizeJWIRPKSG4yX-x6QYa6ClA-8VIHU"
+        width: 512
+        height: 288
+        isCached: true
   - title: "New SAS Viya offerings help better manage and navigate big data for AI and analytics"
     excerpt: "Diverse and complex data environments create a challenge for organizations seeking to operationalize analytics to enable the best business decisions. Global analytics leader SAS continues to enhance its powerful,"
     publishedDateTime: 2021-05-03T12:04:00Z
@@ -61,6 +75,20 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 17
+  - title: "Worldwide Video Analytics Industry to 2026 - Featuring Agent Video Intelligence, Aventura Technologies and IBM Among Others - ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global video analytics market exhibited growth during 2015-2020."
+    publishedDateTime: 2021-05-04T10:54:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-656c50b19e044699b96393097299fbe1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "mBYMfA04HWPMYzdBkwIkqAh2bJpTLEKYCosIl7gBoKv+QrUS1nqhbBXms6tLiKL3TaINKTTHsKdmd1cT13KeAwY7svekfYxOlXXrcQ+x7a7C5xensNCvTifqK8hNUGBNdqyrhJ0LvldkKoVLcHRkHPfaCi5aA64VeZ78fw78w966pTl05qAHH92b6pp56xAMO1pkjZciqXQPY2cgPotK5EznvCBwdp9fkrAJ+GHPE4DZYBbJhpMdYF2tvOmIMCFTY93iFlUFqQP8KGeOYpq8k5i3K6wkZUSUNmQDPAcwRwRRLXx55OAVlInv2YdgajmZv0huKHp7ZFoYhMoZx/Zxo0MheDN0wLYPf5eoA66z17iayqvWM3Y7tuOSVtVNGbAsRUfMYu9YZeSU9rbXcL5XkWqlvGKpLZ/y5jl9gBNKpeLov5vxHsKSc1X61UtAvXzV41FcjPhT7rnkJ1aAVwnCjC2zmwWGoNfWk+cpo0d6Cd2LCtf7jaswWF8L6oUe0kxkbL8JWx0U1m52GDXqo4l65A==;kM4u02azCdHiOo/HK4vQsg=="
 ---

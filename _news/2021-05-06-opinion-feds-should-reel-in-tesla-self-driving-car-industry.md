@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/opinion-feds-should-reel-in-tesla-s
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/opinion-feds-should-reel-in-tesla-self-driving-car-industry?_amp=true"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1920
         height: 1163
         isCached: true
+  - title: "2 Top Self-Driving Car Stocks to Buy in 2021"
+    excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."
+    publishedDateTime: 2021-05-05T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
 
 secured: "XQJuxamoYmkpwRdQ7OewhBXrZ4e+XEJWWREtBNsHWoZipkXJeeL3m62/LjAmDIesIyBrRPCqiBDcvLTeKFm38euahKuVjtuBWaeDtwS7TiQHfeZ88U97qDyBMN8loNCkOefhH+PfArBhKdC5awsFf+Jh8Ui1zqLM06wtrvx7LeQEqtOfUZrjQQiPBQxBuDEGzdODDoomULjdNHkVgr7C1ixQuHA1fQM/M/4O6g6hSOeA1FCbN5L9QddjJPoXcKpn3HYYTc8whyHfBIDr2Ap/biWin1U/wr8DG0Fw9S+WJb7vrvplBLt9YaVo+bLAHy8Sbo385x07qKb7CyzJAi1xCY5OI7j/g9/pFT6PM2NbplrklN3smtw5DhmcZqzI42Wnp0ahRqQImN08LwVAOZY+vZOmLoWsW7UY2UCFgAl1jvY08sJEncVfa67DIO3dvGKE+gjMlGGIqBv2xj1mKHVHNi1G5Jkvn9LH30oYe1BAHN7EuNWDzCggBaTX3pzN8A+blcUBB9glopkgP2+BH0ouYg==;QpKS4tBuwT4NOQYqqzSJlg=="
 ---

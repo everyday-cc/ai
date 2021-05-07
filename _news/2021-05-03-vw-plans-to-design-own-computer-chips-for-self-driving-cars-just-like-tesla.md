@@ -58,6 +58,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "2 Top Self-Driving Car Stocks to Buy in 2021"
+    excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."
+    publishedDateTime: 2021-05-05T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
 
 secured: "j2wnTcOJj+bdMVnKxlyG2ljs2niyFSr4nC8K0SaAFWYSWdXc2MyCU/O0iMt84b81Q+u8wqj3kdF1R9F8w1elQx4udQi+zlW2vSgAI542YX8+yfpm39gigzPnaIIzIBwAoqpsxsEIwGaPShjrsNhTpAbw6LFhAWORtW/LdPKqCfAqz+y5gRuUSBg6ANOpor/APZMscxmeqbEU3u+Kf0ubSexomzhbDRnVGlJGDalhzGVFPkD86ZPquL2GMleEx6OgxjpnPVKATCeqyY0h5njlaZAF95JrmNYPiAwalUrmVwQywxcVAUv5BnJ3Pe//7K5Y+G6uoQsckMZSFBttSUZvIG3QqaRy5uMa3kC2rl5mpLaDIgEpxI3XnZhObCHh2Wbgbi5zJMzsvb4WqSoXeCNYbUn8jFO6rPKbPMCdP52x2ub7ih7Sm/3Ili/oU7cYrXCVCCcNsvWqQvcbCZ4t3sigaRCsaSBLawaOPFLHEAXg7lyz2MXNahNYhns0iAm80RtVA9AgYjPAsOqDt6K5hCWoRw==;28rEEvlXeAK9Q+UPZFReVA=="
 ---

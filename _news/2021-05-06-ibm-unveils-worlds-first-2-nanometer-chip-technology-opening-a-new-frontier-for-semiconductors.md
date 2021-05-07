@@ -40,7 +40,21 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 84
+  - title: "IBM unveils world’s first 2-nanometer chip technology"
+    excerpt: "Global business services provider–IBM has made a breakthrough in semiconductor design and process with the development of the world’s first chip with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
+    publishedDateTime: 2021-05-07T13:07:00Z
+    webUrl: "https://www.the-star.co.ke/business/kenya/2021-05-07-ibm-unveils-worlds-first-2-nanometer-chip-technology/"
+    type: article
+    provider:
+      name: The Star
+      domain: the-star.co.ke
+    quality: 39
+    images:
+      - url: "https://lh3.googleusercontent.com/kdBSZ7hbGK7yYR4SA2V9KEhUbkLT_p6K6-FGGUA_jGFwYJiyc4mX6v6VVgNfrRCkt8hK-6iLpKlyQAXGt1RtCjXvzDXZERGtwcWl8cdQUQ=s1000"
+        width: 1000
+        height: 605
+        isCached: true
 
-secured: "wKTjiMjXCjpeAfnTUsrTZxM/cKdcObGBK31LWHJFYxEdmDHr6ntxRPjcevFxuFN0QyDVO+17yPCyBk/0sjlWtFqa3oR89JvzgL9iw4MMESldh1+bbViMGuVdcMkZGr2XG5zuxDyW3MwNCrb86CBIy6VWMOCN6FaBK5UJpsmrV5oABnVdKVWrCkSD/tfyFU1rJg1JgdDo5vcb5p9jEczvqT9+xj9awOEqaNIzXsqs72H3h6RvQDZhIHG56EOPFJmWPukwyjcOXSaVzB4OLg84lgtiP2BfEnru4xqarmUq1ohwz1aASCu9/q81/FTlsPWUapFAU/dc2F/W4RzodZOjerxV36wJ61htH7DREWx+T8A=;oV24THZvFXAaYRfQ6o9yyw=="
+secured: "Wzzm4SddDjFxeZVW4y/XUUY8Ny80Gnhto2uomi2qumwAg5U06EK3/MSthSXZspXBtsjAm9rdwY6TtEaltN9EqlHSQT5OC7a/R6TySxKbpgokwjHNGxocEDH2W4IsEZNgCtbmKGTHldnYIJYrTLUuZ86cBdHm5hKeVkaqXSxwsTSj4wnMfAd4QDcPyXZv89PEJ3KuRyNAtHQ6OOvQzr9Bf5bRpISPFyb7hRI245N/XIBDBzcikup1CJj53ClpurnRT4IeqhDGznDxKaHnkl+BMlBaOSzFJr66J4tv2fNLqYqgY1C/i3wIhZPU3F3AkkuKKCwbSlEkcbf7dK3Qzti+A11IJkNjHI9dzDtoiq9TpdbL5i8QuikAYbCPOvw7dVcUoksFZWLqA7hk/1eC3eraR5YeldpnpX4oxrZ4/EXyQ6CqH3Wh3lVfcn2dlgG6ComkZWv/JMM0IrOhjUnMzz5/XlCahEv+7uphli5+mUJTLZVm3tsf7M9qaoFOR+FpqJCEwuJv8ALkE3WjnJJHLuDM1g==;aWP3RwLE5hKYWEAL9kyetA=="
 ---
 

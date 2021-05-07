@@ -26,68 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "Wix acquires Rise.ai to bolster its customer re-engagement offerings"
-    excerpt: "Rise.ai's software aims to help merchants optimize their online commerce offerings through customized gift cards and other customer re-engagement tactics."
-    publishedDateTime: 2021-05-05T06:01:00Z
-    webUrl: "https://www.zdnet.com/article/wix-acquires-rise-ai-to-bolster-its-customer-re-engagement-offerings/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/wix-acquires-rise-ai-to-bolster-its-customer-re-engagement-offerings/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wix-acquires-rise-ai-to-bolster-its-customer-re-engagement-offerings/"
+  - title: "How to stop AI from recognizing your face in selfies"
+    excerpt: "A number of AI researchers are pushing back and developing ways to make sure AIs can’t learn from personal data. Two of the latest are being presented this week at ICLR, a leading AI conference. “I don't like people taking things from me that they're not supposed to have,"
+    publishedDateTime: 2021-05-05T19:13:00Z
+    webUrl: "https://www.technologyreview.com/2021/05/05/1024613/stop-ai-recognizing-your-face-selfies-machine-learning-facial-recognition-clearview/"
+    ampWebUrl: "https://www.technologyreview.com/2021/05/05/1024613/stop-ai-recognizing-your-face-selfies-machine-learning-facial-recognition-clearview/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/05/1024613/stop-ai-recognizing-your-face-selfies-machine-learning-facial-recognition-clearview/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/05/05/4cf56c8d-7dea-44b9-b145-0ec8e6c128f1/wix-ecommerce-2.png"
-        width: 1920
-        height: 1080
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/james-barr-L_f7x_Uv5Qs-unsplash.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "Wix buys Israeli startup Rise.ai to offer stores customer-loyalty tools"
-    excerpt: "Tel Aviv based-startup, set up in 2015, is a developer of software that allows merchants to re-engage with customers using gift cards, rewards and referrals"
-    publishedDateTime: 2021-05-05T13:05:00Z
-    webUrl: "https://www.timesofisrael.com/wix-buys-israeli-startup-rise-ai-to-offer-stores-customer-loyalty-tools/"
-    ampWebUrl: "https://www.timesofisrael.com/wix-buys-israeli-startup-rise-ai-to-offer-stores-customer-loyalty-tools/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/wix-buys-israeli-startup-rise-ai-to-offer-stores-customer-loyalty-tools/amp/"
+  - title: "Micro Focus lists four ways how to start testing AI"
+    excerpt: "Machine learning operations, a new practice in the space enterprise, is on the rise, according to Micro Focus. This practice is helping “develop, deploy, and monitor” data models, and it is predicted that the market for this solution will grow to US$4 billion in 2025,"
+    publishedDateTime: 2021-05-04T02:07:00Z
+    webUrl: "https://itwire.com/business-it/micro-focus-lists-four-ways-how-to-start-testing-ai.html"
     type: article
     provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 57
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2021/05/Wix-eCommerce-3-e1620216580457-640x400.png"
-        width: 640
-        height: 400
-        isCached: true
-  - title: "Wix.com buys Rise.ai to add gift cards to e-commerce platform"
-    excerpt: "Wix.com, which helps small businesses build and operate websites, said on Wednesday it bought Israeli startup Rise.ai to extend its platform to include gift and loyalty cards and rewards and referrals."
-    publishedDateTime: 2021-05-05T13:08:00Z
-    webUrl: "https://www.metro.us/wix-com-buys-rise-ai-to/"
-    ampWebUrl: "https://www.metro.us/wix-com-buys-rise-ai-to/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/wix-com-buys-rise-ai-to/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 57
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH440TU-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Wix Acquires Israelis Startup Rise.ai To Extend Wix eCommerce Platform"
-    excerpt: "Wix aims to provide a full solution for merchants to manage re-engagement activities for customers, to increase customer spending and repurchases."
-    publishedDateTime: 2021-05-06T11:05:00Z
-    webUrl: "https://nocamels.com/2021/05/wix-rise-ai-ecommerce-platform/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
+      name: ITWire
+      domain: itwire.com
     quality: 37
     images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/wix.jpg"
-        width: 1200
-        height: 675
+      - url: "https://itwire.com/media/k2/items/cache/d83f7ef34c6c66bfbc8690a69d288c85_M.jpg"
+        width: 375
+        height: 250
         isCached: true
+  - title: "To See the Future of AI, Look Inside Yourself"
+    excerpt: "There are warnings from top-level scientists about a future in which computers become so advanced that they will leap into autonomy. Freed to make their own decisions the way humans do, AI machines conceivably might create catastrophes like starting a war."
+    publishedDateTime: 2021-05-03T07:39:00Z
+    webUrl: "https://www.chron.com/news/article/To-See-the-Future-of-AI-Look-Inside-Yourself-16146625.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
 
 secured: "MgsoX6mhB3EfTKKFwR4bhLssnAgPNRLloKgs0DjhE8fXo1FjZ9HyhQEiR/GFGR854E+xdj4UqWbvsxJa5fSpRnDWOpw88hs8xE8MIa+59y5SuGnUXrYqKdlVCKEU887BrqT63TSlBV0sf+lKtHB51obt7S98gbVpKogNyidpF8oFb44ebuEo7A/w4O5jvlrer5WwE35jJ82fUAAFrKDRubDpyJiEUvwmg4eRElXc1H4XvVDAeaf6kBBDpMyvHd8Xw6o2PWbxDNLhFJ+LZY5YG9Oe4VzcgDvyidPq/oyb8QN/GPdEYr1KUX7+CXxGpdNo5Yes8LADw8hqVsGX1x3iBCEIj9ggRrUeNdDiNQdlkfsHzjWHSNWTy2sfA+vu8eJxj3wOfkt3qaW/e9g6qdQFi1Jk+4LQMPtdI7NI/z6zNBGMsP2pYemWk7t7GApxr5XGiZXUKFCnNrRcZF1RkHHnU1NAWBQVUukVWe5JcJoPnSz5Z97g7un02LK3BEZ+vimzq+QE8HwyrR2rV2IJhXzDSw==;UK3IrZSzlJCg845P7Oqaxg=="
 ---
