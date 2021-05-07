@@ -42,7 +42,21 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Industry Should Start Working On Artificial Intelligence, Data Science Seriously: Sanjay Dhotre"
+    excerpt: "The government is keen on utilising the latest technologies like artificial intelligence (AI), machine-to-machine communications and data science, and the industry should start working on them seriously for achieving the goal of Aatmanirbhar Bharat,"
+    publishedDateTime: 2021-05-07T05:07:00Z
+    webUrl: "https://www.ndtv.com/education/industry-should-start-working-on-ai-m2m-data-science-seriously-for-aatmanirbhar-bharat-dhotre"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 25
+    images:
+      - url: "https://cache.careers360.mobi/media/presets/1280X948/article_images/2021/5/7/rsz_screenshot_2021-05-07_at_103034_am.png"
+        width: 860
+        height: 636
+        isCached: true
 
-secured: "QlMXBoNiaEy1yodcuJtRwD4/hdcBFMX7NONRjhyAP4asxpseoc8e3bVFIfc2Jcwnr5zgdmzBj4s8vkD6FdCMnB7k4qWJUQcLeDaqajf6Qj2p4hRO307iaSSLlJxeFRPRqqOsvcZWeeFsoJNX0LPEEohVvuuskHT5xZLVh2ygB4FUs0FFGKbZfWPorGKLOX6PWwaLB3dOdEp0Th2OZp6UnkaaEW5EizAW2bkhki5xJholoOnRmVJHg/nXuvji2h9axQ659TQNOIiJg77eHT2izul4CXJ8YgKrNWfFJVz7Gm7CaDhppXVGpDhuPdOk8dNT8AfXJSMvzW/pQKsjOepjUgGH3vF178OeqO5swDdyq3o=;Si98K0LAoHSmNljd7fPcqg=="
+secured: "jCUqkgGA3LcSsjAH7mybVfwAAe9onUMdfhv+zPHXvSjNxt6kjpWbMk7OVM5ZwOBuTLWMc2cKV72BX+fl7PyXpZk/oS3ILAuqvdB3YDN0Sm6oGcGezM6ExqDgpYL2YL505Hfq/8OXNEgbF0nSWfeoi0L38K4ubognfqygOQpL6BdaS5XLkagqHCmL82GZP88kOxYC2Cu4ublfPbq3HhNigB7vnMZqTyU4jtCERjorNu3uvjLUuoO9z0JkTJMWP5majyXCCoA864ALgXDFAmgITSpHewGURXdArmuIDz+PskqqXOSaKWJb+LxI4QHDvrT+uEWp/GhLQuImjZzYZvrTLQmvKP3cFrcx03XtK70200E7la8upWjiPgnGaGqrD2wF2n7d9nK5PSgZZIEmPQeKR8uoR5U457WSnH1aoYPSZVcc2ZLGN8AIOTo3y0uqjP601xy2D0BeEI80bomE04nNeQYYDDSEQ8JXOYZHgxzqjtKNAF7cGebPHxNoiJ080502E12asb2i2z4+W3JKbjq6EQ==;aMqP56sj3GL1WX1nU0PLkg=="
 ---
 

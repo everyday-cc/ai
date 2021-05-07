@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "WIMI Hologram Cloud’s AI Vision Creates Holographic Communication and Takes the Lead in the 5G Field, AR Becomes a Digital Transformation Weapon"
+    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AI Vision Creates Holographic Communication and Takes the Lead in the 5G Field, AR Becomes a Digital Transformation Weapon”."
+    publishedDateTime: 2021-05-05T00:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/wimi-hologram-clouds-ai-vision-creates-holographic-communication-and-takes-the-lead-in-the-5g-field-ar-becomes-a-digital-transformation-weapon"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 2
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/Trump-Twitter-16-9-AFP-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "L1OpZKF885lrYzfCGQ6O/6nVDWxu0mrOrEXARyiO80y9X7+wQafMXpvUcLlW0dYQeIj6CDNSlQkp54l5X2YASi7EVQrNSpTa4zWBd1aNNngMN/mtVl33Od07pSBNcwfL8zJ88efMXoH0ismZGgU1/J7y/axBDsPqJaFK/AVJYnGGjyMDTAV2ceAc9Wb5AoGoe2dCzNQOmX3FCnkq663m4uCXXWzqDUAOaMZj9XcQ/KVtOHN5sa7NL1cIjyTkOOhwHZ7b7loR3WGdYi8qYUDy1A5SYhmG/XgONCmaaDlF5ojtM8Dd9yjTO7ub3PJIRZrPE/0MBCYRGPfoav5h/7YxldHqLm9nhKfeLeuWY/WHCGY=;PnpcdXhUvFR2CSGSTPaoHw=="
 ---

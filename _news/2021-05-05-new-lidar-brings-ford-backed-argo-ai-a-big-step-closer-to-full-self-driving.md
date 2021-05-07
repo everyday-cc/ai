@@ -1,26 +1,34 @@
 ---
 category: news
 title: "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving"
-excerpt: "Argo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company (NYSE: F) and Volkswagen AG (OTC: VWAGY), announced that it has"
-publishedDateTime: 2021-05-05T05:40:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving-10095636"
-webUrl: "https://markets.businessinsider.com/news/stocks/new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving-10095636"
+excerpt: "Argo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company and Volkswagen AG , announced that it has developed a new lidar sensor system with enough range to"
+publishedDateTime: 2021-05-04T19:34:00Z
+originalUrl: "https://www.fool.com/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/"
+webUrl: "https://www.fool.com/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/"
 type: article
-quality: 47
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: The Motley Fool
+  domain: fool.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624703%2Fargo-ai-public-road-testing-in-pittsburgh-pa_2-scaled.jpg&w=1200&op=resize"
+    width: 1200
+    height: 844
+    isCached: true
 
 related:
   - title: "Argo AI Readies Its Own Lidar Sensor For Ford Automated Vehicles"
@@ -130,6 +138,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "E5PaxdBDWZWgzJvziFdd3cK9hC4dJvGO7QZJBoXLX7SKDfIgOZEJz+3/TKiJNp5V/Iol01ECkrZ0qgHzfRxVatvBooLt+XlTTtCZQEcZamijQH+LzJTAHZk0ItnhAKzCKiPTaoPn1eZ+/jVA+aKu40VGbv+y1t74a24PkB7H2gNjairW30qF7pZqAyS2vYFubl7uON0ofTyMA51OFgBW8BzVCrHXJTOMvy3PuWRMaifXn/OwbYhGlJGZaAsK+YJlnwbRctBzlu6OQHoT4qARUoElNIVUgO1HydxCrwSRB11aMbgBkpldnooO/tlpbG12aO3qx2edGDkfEL+BwDFRL0kGr3x/Uyc9EFbaOYWI0mI=;vTNOvC9bgRuEgwhTRgqXrw=="
+secured: "sL2YCICcLR6GAtEYKve+sPlaZKxf3z+vcVQESLolCY9lrKsHRqcfaEPgKP4VGZaSkSYV/g88ixx9sh6OlVN0dpb6SNirqix4IOPeO7qO4CTSCAjpT6/sSCWVve1POCNZjiW1OCJoRVOsNRSL/9qAnnacBbfWU7Awu8Z4QBiPy1XWoGwM3eiFbTm18gTnWIUnpjpBfbyEhJXTOa7UrbY0+9G3qmCEYrFTtz2iQp/qfC9ehx7Fd7tMVSCQ+Oenpaxs1wJiB0R5brDaiuczPEvBGAblD9UQUUjj5ags+8zTxRcbcZCAE+geH134Z6/6MO9zilCZCL5eU34L/0Rk+v9x3UpQu0WkWUn6PP4srioTaa4=;D2ssnzf1HrURT+SzUtJiYg=="
 ---
 

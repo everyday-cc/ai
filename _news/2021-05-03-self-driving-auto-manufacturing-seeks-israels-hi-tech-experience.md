@@ -50,6 +50,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 31
+  - title: "Pioneering study explores passengers' experiences of self-driving cars in winter conditions"
+    excerpt: "Trust, safety and security are the most important factors affecting passengers' attitudes towards self-driving cars. Younger people felt their personal security to be significantly better than older people."
+    publishedDateTime: 2021-05-06T22:33:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210506105406.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 24
 
 secured: "HKCPf9A51DrzQCDWdcC8tTlmWc3hg3fI3j0P1RcK5vPiGUGsXVIBPlLzh8aK4vRUEKliHN7l2I29jO6eEtpa+ihou+wI155NLDTfTKpS/lTQ87xIN+tGpQD4dEVhyQG5K5a0g5jBVpGBIWk0eCQ8c1N8ykljnzJxauBJydePIMd+rzIhyTd3COxLiTvbTnEb2XM0KiHVrNjDHVfk6d2d8NgjA411l8EHfP1FS+t1z6y3//wkHh1F/ms3XHh+C0e0wmoAccemRrQzfftE48nucec9NkKF5j2e7hnxqOmIt2HZyEpsd0jHNUc2L2RhewWDESdhrszu0JZATcxutPq5AgQG4kTqGaPw5fM1XbhhATw=;LNekIsFe26r5NDk5BbyiQg=="
 ---

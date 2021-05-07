@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-07T00:22:00Z
 originalUrl: "https://www.biometricupdate.com/202105/new-facial-recognition-tools-and-defences-for-data-and-privacy-protection"
 webUrl: "https://www.biometricupdate.com/202105/new-facial-recognition-tools-and-defences-for-data-and-privacy-protection"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
