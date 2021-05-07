@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-techn
 webUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-technology-business-842669af98364c64b33d2b4511563a91"
 type: article
 quality: 54
-heat: 85
+heat: 84
 published: true
 
 provider:

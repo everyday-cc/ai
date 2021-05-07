@@ -57,17 +57,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
-    excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
-    publishedDateTime: 2021-05-02T05:10:00Z
-    webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
-    ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-news-vfcfkOceghcde.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 56
 
 secured: "eeJfrMfoZ4G3LDHfWjcv84nba0qxFJUTSxuZ5rCscr1cNChC/xoSm1k7PjaQSMdlsVU3bxOEQevhuiWORDrn6UDTF45U5QxVUYS6iABwKpeBjhK/NfTCwcTA4XcDkdvs4KJ21ZixNPgpk+5cdIiD+3JILgZIvqINrbj3okRK6TzgrQcmwGtEBrS2BdEHb8qI5SDu2Co+i3V0IbMsAmaFE/Y8RsSCDtrppdbQV1TkjFDLzjBzlBinHuNBK2MbWiT6duHCYzteMbhbfC3vmvWVlFYEvwCmqygOBLBiXPnSCIg0VRvSu+4GQDgSn7Y0DdrdCMSXNQrNkQu4z+6aYQrPXFDMFLDlH0cnQV3GXAYlT2w=;2zFnim0v57j7zJAHoeaRhg=="
 ---

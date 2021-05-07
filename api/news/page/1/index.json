@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-07-proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance.md",
+      "title": "Proper data hygiene critical as enterprises focus on AI governance",
+      "excerpt": "AI use raises pressures to understand the provenance of data. That means greater AI governance will be needed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/",
+      "originalUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/amp/",
+      "publishedDateTime": "2021-05-06T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-its-time-to-train-professional-ai-risk-managers.md",
       "title": "It’s time to train professional AI risk managers",
       "excerpt": "With European regulations underway that will mandate AI safety, businesses around the world will face AI audits.",
@@ -165,7 +216,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -933,6 +984,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-06-facial-recognition-as-a-legislative-issue.md",
+      "title": "Facial Recognition as a Legislative Issue",
+      "excerpt": "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/virginia/reston/facial-recognition-legislative-issue",
+      "originalUrl": "https://patch.com/virginia/reston/facial-recognition-legislative-issue",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/60146/20210505/074823/styles/patch_image/public/jcots___05194516171.png?width=984",
+          "width": 984,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue",
+      "publishedDateTime": "2021-05-05T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-how-adobes-ethics-committee-helps-manage-ai-bias.md",
       "title": "How Adobe’s Ethics Committee Helps Manage AI Bias",
       "excerpt": "Review boards can help companies mitigate some of the risks associated with using artificial intelligence, an Adobe executive said Wednesday at The Wall Street Journal’s Risk & Compliance Forum.",
@@ -981,6 +1075,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-uber-shows-smallest-quarterly-loss-in-its-history-thanks-to-sale-of-self-driving-unit-delivery-continues-to-dominate.md",
+      "title": "Uber shows smallest quarterly loss in its history thanks to sale of self-driving unit; delivery continues to dominate",
+      "excerpt": "Uber Technologies Inc.'s business continued to recover in the first quarter as COVID-19 restrictions eased, and the sale of its self-driving unit",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/uber-shows-smallest-quarterly-loss-in-history-thanks-to-sale-of-self-driving-unit-delivery-continues-to-dominate-11620247247",
+      "originalUrl": "https://www.marketwatch.com/story/uber-shows-smallest-quarterly-loss-in-history-thanks-to-sale-of-self-driving-unit-delivery-continues-to-dominate-11620247247",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-334181/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/uber-shows-smallest-quarterly-loss-in-history-thanks-to-sale-of-self-driving-unit-delivery-continues-to-dominate-11620247247",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/uber-shows-smallest-quarterly-loss-in-history-thanks-to-sale-of-self-driving-unit-delivery-continues-to-dominate-11620247247",
+      "publishedDateTime": "2021-05-05T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1085,143 +1231,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-east-village-gets-futuristic-grocery-store-designed-by-accel-robotics.md",
-      "title": "East Village gets futuristic grocery store designed by Accel Robotics",
-      "excerpt": "A futuristic grocery store is opening in East Village on the ground floor of the luxury high-rise apartment complex Vantage Pointe. The new store, called Valet Market, was designed by local tech startup Accel Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village",
-      "originalUrl": "https://www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/f633c89/2147483647/strip/true/crop/7757x5139+0+16/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1d%2F31%2F67973aa641aca4def504b293b770%2Fveo-1.jpeg",
-          "width": 320,
-          "height": 212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village?_amp=true",
-      "cdnAmpWebUrl": "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village?_amp=true",
-      "publishedDateTime": "2021-05-05T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Diego Union-Tribune",
-        "domain": "sandiegouniontribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-real-world-ai-a-great-guide-for-managers.md",
-      "title": "Real World AI: A Great Guide For Managers",
-      "excerpt": "A Practical Guide for Responsible Machine Learning does not fall within either category. Then again, the authors include Alyssa Simpson Rochwerger, who is a director of product at Blue Shield of California,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609311ae6b34dfaf46f70578%2F0x0.jpg",
-          "width": 471,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/amp/",
-      "publishedDateTime": "2021-05-05T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-considerations-for-implementing-aiml-in-your-business.md",
-      "title": "Considerations for Implementing AI/ML in Your Business",
-      "excerpt": "Business technology changes constantly, and every solution we implement has a lifespan. You may have been a Microsoft shop for the past thirty years, but your company is not currently operating on Win",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business",
-      "originalUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/considerations-implementing-aiml-your-business?amp",
-      "publishedDateTime": "2021-05-05T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

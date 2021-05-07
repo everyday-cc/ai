@@ -2,6 +2,137 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-04-06-haptic-feedback-smart-glove-as-a-creative-human-machine-interface-hmi-for-virtualaugmented-reality-applications.md",
+      "title": "Haptic-feedback smart glove as a creative human-machine interface (HMI) for virtual/augmented reality applications",
+      "excerpt": "We also perform haptic mechanical stimulation via piezoelectric chips to realize the augmented HMI. The smart glove achieves object recognition using machine learning technique, with an accuracy of 96%. Through the integrated demonstration of ...",
+      "sourceUrl": null,
+      "webUrl": "https://advances.sciencemag.org/content/6/19/eaaz8693.full",
+      "originalUrl": "https://advances.sciencemag.org/content/6/19/eaaz8693.full",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://advances.sciencemag.org/content/6/19/eaaz8693/F1.large.jpg",
+          "width": 1400,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science",
+        "domain": "sciencemag.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach.md",
+      "title": "Intel Sets Ice Lake Apart From AMD EPYC With AI, Systems Approach",
+      "excerpt": "Intel launches its third-gen Xeon Scalable CPUs, code-named Ice Lake, saying they are faster than AMD's latest EPYC Milan chips in certain workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/components-peripherals/intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach",
+      "originalUrl": "https://www.crn.com/news/components-peripherals/intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0268-11fa0f99b4e0-e1b195cc181a-1000/intel-ice-lake.jpg",
+          "width": 610,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-real-or-fake-robot-uses-ai-to-find-waldo.md",
+      "title": "Real Or Fake? Robot Uses AI To Find Waldo",
+      "excerpt": "A Logitech c525 webcam captures images, which are processed by the Pi with OpenCV, then sent to Google’s cloud-based AutoML Vision service. AutoML is trained with numerous images of Waldo ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/08/30/real-or-fake-robot-uses-ai-to-find-waldo/",
+      "originalUrl": "https://hackaday.com/2018/08/30/real-or-fake-robot-uses-ai-to-find-waldo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/08/waldo-bot.png",
+          "width": 1691,
+          "height": 871,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition.md",
       "title": "NIWC Atlantic Wins Big in Joint Artificial Intelligence Robotics Competition",
       "excerpt": "Atlantic swept the top five places in the Amazon Web Services (AWS) DeepRacer First Annual Army-Navy Competition.",
@@ -985,119 +1116,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-flowaste-using-computer-vision-to-see-an-end-to-food-waste.md",
-      "title": "FloWaste: Using computer vision to see an end to food waste",
-      "excerpt": "Irishman Rian Mc Donnell has brought his food tech start-up to Chicago to help his chances of tackling the global issue of food waste.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/start-ups/flowaste-food-waste-computer-vision-machine-learning-trinity-engineering",
-      "originalUrl": "https://www.siliconrepublic.com/start-ups/flowaste-food-waste-computer-vision-machine-learning-trinity-engineering",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2021/04/headshot_landscape.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-artificial-intelligence-market-report-by-industry-trends-and-leading-key-players-forecast-to-2026.md",
-      "title": "artificial intelligence market Report By Industry Trends And Leading Key Players Forecast To 2026",
-      "excerpt": "The prominent players in the Global artificial intelligence market are Intel (US), NVIDIA (US), Xilinx (US), Samsung (South Korea), Facebook (US), Micron Technology (US), IBM (US), Google (US), Microsoft (US), and AWS (US). Whipsmart MI provides fact-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2265732/artificial-intelligence-market-report-by-industry-trends",
-      "originalUrl": "https://www.openpr.com/news/2265732/artificial-intelligence-market-report-by-industry-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2265732/artificial-intelligence-market-report-by-industry-trends",
-      "publishedDateTime": "2021-04-05T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-natural-language-processing-for-healthcare-and-life-sciences-market-achieves-a-new-milestone-microsoft-google-ibm-3m.md",
-      "title": "Natural Language Processing For Healthcare And Life Sciences Market Achieves a New Milestone | Microsoft, Google, IBM, 3M",
-      "excerpt": "Natural Language Processing For Healthcare And Life Sciences market is segmented by company, region (country), by Type, and by Application. Players, stakeholders, and other participants in the global Natural Language Processing For Healthcare And Life ...",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/05/natural-language-processing-for-healthcare-and-life-sciences-market-achieves-a-new-milestone-microsoft-google-ibm-3m/",
-      "originalUrl": "https://ksusentinel.com/2021/04/05/natural-language-processing-for-healthcare-and-life-sciences-market-achieves-a-new-milestone-microsoft-google-ibm-3m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-04T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
       ]
     }
   ],

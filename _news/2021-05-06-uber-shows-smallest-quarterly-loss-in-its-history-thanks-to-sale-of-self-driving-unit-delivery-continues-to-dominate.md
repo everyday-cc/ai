@@ -9,8 +9,8 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/uber-shows-smallest-quarterly-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/uber-shows-smallest-quarterly-loss-in-history-thanks-to-sale-of-self-driving-unit-delivery-continues-to-dominate-11620247247"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: MarketWatch
@@ -40,6 +40,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 2
+  - title: "Uber shows smallest quarterly loss in history thanks to sale of self-driving unit, delivery continues to dominate"
+    excerpt: "Uber lost $108 million in the first quarter after losing nearly $3 billion in the same quarter a year ago, with the $1.6 billion sale of its self-driving unit accounting for much of the progress as ride-hailing looks to rebound,"
+    publishedDateTime: 2021-05-05T15:40:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20210505793/uber-shows-smallest-quarterly-loss-in-history-thanks-to-sale-of-self-driving-unit-delivery-continues-to-dominate"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "QHPQ8vfl9y72moTViVd9zHB02hPF0dQjt/LskWwLhRSutVmh6/GqAnp4Il8zkOhACjDY1gaYSIAW9pbm0DlpQPnh6ADCwvgJgBXHgrIv7xRhI7RRM00o+XO+LuW7eehOmCkcDVBjoLiVyZsX2geSFXlTpMMUpVVGXiO2JoWg3HnVQLc1bfmI7TTe42hKd9NXz/trR9AyU8jFFQ6DnWha5PyB8JPvy+bDFMp3yQFyekZ2nNShlkef/8RP/WyVoPJhXJqUp9/mifWpVPwSw1ql2GePWiXNA/Sespi3FxRTi527HWJbVPPSoBhlFypuRocR9tAMjmrpZCAa0wBph6VKoQv9sufdH8xpDJOr8iHfU/0VpqfWeHhs0ab6FkFdGJTip0dr+Kh9E6BQNhVzcom8Jy0E4PI940eo3oz2GidZ5G/HjSZiYmD2oxjTk4//F5gsTth4sfPX2+28aNj5bKqjZlIhASrzil2FMN2jzItpHm+S6Za2SZk4YvAX9DlmSjHCKvi7f7umjvMbYYEsPPwoCA==;jNrwPQ1G4rGrA7VVrMqh8w=="
 ---

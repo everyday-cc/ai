@@ -9,8 +9,8 @@ ampWebUrl: "https://patch.com/virginia/reston/amp/29486387/facial-recognition-as
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Patch
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "EU Proposes Heavy Regulation of “High Risk” Artificial Intelligence as Activists Call for Facial Recognition Ban"
+    excerpt: "EU officials are considering wide-ranging regulation that would include heavy restrictions on a range of 'high risk' AI applications; a leaked document also indicates that a facial recognition ban is being proposed."
+    publishedDateTime: 2021-05-06T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/eu-proposes-heavy-regulation-of-high-risk-artificial-intelligence-as-activists-call-for-facial-recognition-ban/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/eu-proposes-heavy-regulation-of-high-risk-artificial-intelligence-as-activists-call-for-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/eu-proposes-heavy-regulation-of-high-risk-artificial-intelligence-as-activists-call-for-facial-recognition-ban/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 53
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/05/eu-proposes-heavy-regulation-of-high-risk-artificial-intelligence-as-activists-call-for-facial-recognition-ban_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Ken Plum: Facial recognition as a legislative issue"
     excerpt: "One of the side-effects of the quarantine has been the difficulty of recognizing others after months of not seeing each other in person."
     publishedDateTime: 2021-05-06T11:14:00Z
