@@ -40,6 +40,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 84
+  - title: "IBM Meets New Chip Milestone with 2 Nanometer Chip Technology"
+    excerpt: "IBM is making a breakthrough in semiconductor design and process with the development of the world's first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
+    publishedDateTime: 2021-05-07T16:00:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Meets-New-Chip-Milestone-with-2-Nanometer-Chip-Technology-146759.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IBM unveils world’s first 2-nanometer chip technology"
     excerpt: "Global business services provider–IBM has made a breakthrough in semiconductor design and process with the development of the world’s first chip with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
     publishedDateTime: 2021-05-07T13:07:00Z

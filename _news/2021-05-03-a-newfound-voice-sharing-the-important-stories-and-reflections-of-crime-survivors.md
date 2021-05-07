@@ -26,22 +26,6 @@ images:
     height: 617
     isCached: true
 
-related:
-  - title: "Indigenous Voice: Overwhelming support for constitutional enshrinement"
-    excerpt: "Vast majority of public submissions published to date in response to the Indigenous Voice Interim Report support a referendum on an Indigenous Voice"
-    publishedDateTime: 2021-05-03T00:13:00Z
-    webUrl: "https://www.miragenews.com/indigenous-voice-overwhelming-support-for-553118/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 24
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
-        width: 700
-        height: 417
-        isCached: true
-
 secured: "HO3PQpMrYwOjSm2eU8UfclPrYScBF1/8r2wGooekK1BLrHZn/qrIcA4+IQ/VPJg+kuKscmlsiSRv0uDX2naGGGB/0d7yvbp6BMm5NLK+7rhY6Ncr9CLnn0bGIPgLSNiibtN3KHI5DGGG8USDZDxYMjdOoSV+etQEny1jRbPHirPjxQC12JcJJ+JN6XOh6ebnwHrY2Wgffn/qEnOfeJmgWe2Tu3vPBS9NSwnLNkEJT2TZ66INMevCNTTD4pvvUrH6UuCksZk3QT+4XVh1pNPfNVJ1M/UwBiDD4BBkpO2vWgvWLbRoX/NNeRosVv4NNeEwUKOJptX+pZs4zKn1HqALLPovUSRHm7bqF859Yna8DG4=;81ON3b6RvW7mmOAl86UIaQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/minerva-intelligen
 webUrl: "https://markets.businessinsider.com/news/stocks/minerva-intelligence-announces-webinar-for-its-driver-ai-mining-exploration-software-1030385127"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,33 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Tredence Introduces ML Works, Machine Learning Ops Platform to Accelerate AI Innovation and Value Realization"
-    excerpt: "Tredence, a leading AI engineering and analytics services company, is driving innovation in artificial intelligence with the launch of its state-of-the-art machine learning operations platform, ML Works."
-    publishedDateTime: 2021-05-03T08:10:00Z
-    webUrl: "https://www.cioapplications.com/news/tredence-introduces-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-nid-7609.html"
+  - title: "Zonar Named Winner in Business Intelligence Group's 2021 Excellence in Customer Service and Artificial Intelligence Excellence Awards"
+    excerpt: "Zonar, the leader in smart fleet technology, today announced it has been named an award winner in the Business Intelligence Group's 2021 Excellence in"
+    publishedDateTime: 2021-05-03T16:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zonar-named-winner-in-business-intelligence-groups-2021-excellence-in-customer-service-and-artificial-intelligence/article_9f407de3-fdf1-5a8d-b5c6-124fce29d631.html"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 50
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 6
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/p5efr450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "Achieving true situational awareness in operation centres with computer vision & AI"
-    excerpt: "Security, Transportation and Emergency Operation Centres are all processing more and more video content and as the number of video sources increases, operators monitoring these camera feeds need"
-    publishedDateTime: 2021-05-04T08:15:00Z
-    webUrl: "https://www.sourcesecurity.com/virtual-security-events/achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 48
-    images:
-      - url: "https://www.sourcesecurity.com/img/virtual-events/612/computer-vision-920.jpg"
-        width: 612
-        height: 355
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kanverse.ai Introduces Next-Generation Cognitive Automation Platform and Launches Intelligent Document Processing Product (IDP)"
     excerpt: "Kanverse.ai, a cognitive automation company, has announced the global launch of the Datolite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Kanverse IDP is built on Kanverse Cognitive Automation platform."

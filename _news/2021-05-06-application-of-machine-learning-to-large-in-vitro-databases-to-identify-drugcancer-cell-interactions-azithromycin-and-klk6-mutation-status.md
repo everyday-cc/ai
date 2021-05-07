@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41388-021-01807-4"
 webUrl: "https://www.nature.com/articles/s41388-021-01807-4"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence–enabled electrocardiograms for identification of patients with low ejection fraction: a pragmatic, randomized clinical trial"
-    excerpt: "In a pragmatic, cluster-randomized clinical trial, use of an AI algorithm for interpretation of electrocardiograms in primary care practices increased the frequency at which impaired heart function was diagnosed."
-    publishedDateTime: 2021-05-06T17:44:00Z
-    webUrl: "https://www.nature.com/articles/s41591-021-01335-4"
+  - title: "Changing The World With Breakthrough AI Innovation In The Age Of Regulation And Cancel Culture"
+    excerpt: "World in 2021 has seemingly gone mad with censorship, over regulations, and so called “cancel  culture. ”  So, how can disruptive startups circumvent these new developments, and continue to innovate and create economic growth with AI?"
+    publishedDateTime: 2021-05-07T17:02:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/"
+    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 2
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-021-01335-4/MediaObjects/41591_2021_1335_Fig1_HTML.png"
-        width: 458
-        height: 685
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60956c575c3928d3e701c7a3%2F0x0.jpg"
+        width: 1200
+        height: 759
         isCached: true
+  - title: "Nestle: Driving Innovation through AI and other Disruptive Tech"
+    excerpt: "Nestle leverages disruptive technologies like AI, machine learning, blockchain, and advanced data analytics to enhance business growth. The brand uses data analytics and artificial intelligence to drive personalized customer engagement."
+    publishedDateTime: 2021-05-03T13:28:00Z
+    webUrl: "https://www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/"
+    ampWebUrl: "https://www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/?amp"
+    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/?amp"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 59
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/nestle.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Tredence Introduces ML Works, Machine Learning Ops Platform to Accelerate AI Innovation and Value Realization"
+    excerpt: "Tredence, a leading AI engineering and analytics services company, is driving innovation in artificial intelligence with the launch of its state-of-the-art machine learning operations platform, ML Works."
+    publishedDateTime: 2021-05-03T08:10:00Z
+    webUrl: "https://www.cioapplications.com/news/tredence-introduces-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-nid-7609.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 50
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/p5efr450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "How Tough Conditions and Contested Communication Are Forcing the US Military To Reinvent AI"
+    excerpt: "Those miracle apps on your phone are powered by cloud computing and high-bandwidth data transfer. What does AI look like when those features are missing?"
+    publishedDateTime: 2021-05-05T18:17:00Z
+    webUrl: "https://www.defenseone.com/technology/2021/05/how-tough-conditions-and-contested-communication-are-forcing-us-military-reinvent-ai/173833/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 29
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2021/05/05/6421263/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Announcing Fiddler AI's Strategic Collaboration with In-Q-Tel and Participation in FinRegLab Research"
+    excerpt: "Over the course of Fiddler's two and a half years, we've taken the time and effort to build strong partnerships"
+    publishedDateTime: 2021-05-06T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/n20996644/announcing-fiddler-ais-strategic-collaboration-with-in-q-tel-and-participation-in-finreglab-resear"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20996644"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20996644"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
 
 secured: "eI1so19vsqZYvvQqOJH/zmm98amRW/Rt77zVWy/AFaF6EBAqiGTZeJBVjgUcmgYTxAUseqPzVWicNMOPa47G54uEnoXsRoDtpU51IoGGqid31zrywa9rcU8ALdw2W3XDDmb+fO/zli65SlPwq9FF3+DyurbiBI1iBUBDA8rJ7wY8xl9Irn/VTv80Y0hef7CstkihkxKGnR5J1FFKB9ehxsmE+8BKFjMtUvnZcY9Km1xHpcZx63FxIJczzh1/RC5Ird8dvc54K3e1nsif29OKqKUSedmdb816TID3cM59I+9Efl6wySKwekSH1psceq3TKolFxDL5kn2Qlpt3fDlbDHi6RJgjs6HpNQ4ocYpbAwKpSWzV2mXyXml7uQfwHS7JHFFEPWj2XAH9R8hlkfQNFxmEzLpHaBms/DTY5fLdLuQhKEPVPa4nO6ShwQoExkGQSYSH/HW9z+M/KgAbzavZEcNGa8XqXLcUK5x9WBvObSiDwm5wD5kAlAxpNxMNg62hx8NKH6SArPZpOUVnPkCw3w==;2f2Jrp9wFd3MMfAO4y4C1Q=="
 ---

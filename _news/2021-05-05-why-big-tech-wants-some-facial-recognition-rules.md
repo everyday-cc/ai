@@ -80,6 +80,20 @@ related:
       name: KING5
       domain: king5.com
     quality: 19
+  - title: "National Association of School Nurses Announces May 12th as School Nurse Recognition Day"
+    excerpt: "Wednesday, May 12, is National School Nurse Day, an opportunity to acknowledge and thank school nurses for all they do to support the health and learning of adolescents and children across our country."
+    publishedDateTime: 2021-05-07T17:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/health-coronavirus-pandemic-3e774f535edae8e7333abea068059102"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "OIt8tx6c7qDVbrfRn3NOWK0zRO2Ey1vF1WPj0qDZ9j46Lv5hL4D5vZgRjKaKm9MiRBFJBmvVZVQCMEko1mAYjO4+VJS1eVbNa9DmQkXsS4SU8hACRHVrB3UWMMaW8jMCHK4YtodoMKV2zAl1z4DNPHHp4t4rMk+cs9qIf5aiorgG2dny/yMYpDvCalenlAZZVc0482s4bCH2m0eU3zHE3dUIV8UTzoigCkjfkmSGMd8xFyDvNyr5LQQxdqGgxpLLY6BsKkhqbP9w/1wosgVQEYyytYg7MSzYaqI4mfgJX7sWGhiAwEOpQ4U9SVDkjogpnsGLXnfSkcVIbnR+28eQoJR8HumMR0FoR8G+8u3vVE4u4AAjvfCSYbth/7k9ODVrzLv/q5dU6is5HWuyyAQIUH5re2Fv1jsTUDexEgAKj2qcnpN/xlAvj2p8p1bvapGLIoiEGkD+RaLbPcB476n6XO8hIpANDekXOzsUiiAEQvHqe3H7xB26Pmf1ca9kcVHMfkWG/yW8fS3X1Rr+QsCCNw==;+kofy0HbY9LsTusoAsXiMA=="
 ---

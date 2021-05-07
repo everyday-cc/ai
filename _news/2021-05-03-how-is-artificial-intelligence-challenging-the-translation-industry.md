@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Toyota AI Ventures and May Mobility will talk the future of the transportation industry on Extra Crunch Live"
+    excerpt: "Besides a passion for progress in the mobility space, what do Toyota AI Ventures’ Jim Adler, May Mobility’s Nina Grooms Lee and May’s Edwin Olson have in common? All three of them are joining us on an upcoming episode of Extra Crunch Live."
+    publishedDateTime: 2021-05-07T17:10:00Z
+    webUrl: "https://techcrunch.com/2021/05/07/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/"
+    ampWebUrl: "https://techcrunch.com/2021/05/07/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 68
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/ECL-2021-05-12-1-1.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Summary of the Artificial Intelligence in Transportation Market Report"
     excerpt: "The Artificial Intelligence in Transportation Market is expected to grow at a CAGR of 6.6% and is poised to reach US$XX Billion by 2027 as compared to US$XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report our experts have examined the market from a 360 degree perspective thereby producing a report which is definitely going to impact your business decisions."
     publishedDateTime: 2021-05-04T11:13:00Z

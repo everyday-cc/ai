@@ -50,6 +50,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "IBM Meets New Chip Milestone with 2 Nanometer Chip Technology"
+    excerpt: "IBM is making a breakthrough in semiconductor design and process with the development of the world's first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
+    publishedDateTime: 2021-05-07T16:00:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Meets-New-Chip-Milestone-with-2-Nanometer-Chip-Technology-146759.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "GhRO1aQTTZ7iZYPJtI8lIO3a7X4gc+Ekcz2x2qYQooiG/0V4dKiqg0pxnG5hYdFWuXLVZyb7guJKAXjMDD5IH4M0UlRUH1AUabNfoManS0UVFogprcYKY/8HXVE8AlLOXKJjtU7jidEjv+vkmyTVt9pXaVGgNWUCF1FekT4mWGhZx4RDjemEBpgln1UdTGZbLuRC0H4s9eKGANqOYpyAw6n04UZBioBPSd8ZiIe83SEk1welrxjfwWpCudJZYBCsWkNpk1Bfbiyn92TxWmG08MYU4F+bygQdEWZjtnLCv3Zng92iGc3CxN6AmAPb0Iuzf9ourNw9asV5kOKa/Lll24QrVvYQLUN49HhJqVO/3WI=;m4zcVCPqcEh667ZpN2VjSA=="
 ---

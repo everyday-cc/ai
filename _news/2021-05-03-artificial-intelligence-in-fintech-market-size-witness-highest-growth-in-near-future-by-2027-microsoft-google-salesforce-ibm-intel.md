@@ -35,6 +35,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Business Reporter: Banks to gain a competitive advantage with the AI-driven business monitoring technology increasingly leveraged in fintech"
+    excerpt: "Traditional BI is being enhanced with automated business monitoring to lower costs and improve customer experienceLONDON, May 5, 2021"
+    publishedDateTime: 2021-05-05T09:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/business-reporter-banks-to-gain-a-competitive-advantage-with-the-ai-driven-business-monitoring-technology-increasingly-leveraged-in-fintech-1030389304"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
   - title: "Which Trends are Set to Transform the Status of Indian Fintech in 2021?"
     excerpt: "Fintech solutions are grasping companies from different sectors of India with its current trends through AI machine learning algorithms. Companies must focus on these trends to capture the market efficiently."
     publishedDateTime: 2021-05-06T12:34:00Z

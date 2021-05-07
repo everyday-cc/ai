@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/05/dyno-therapeutics-closes-100m-seri
 webUrl: "https://www.finsmes.com/2021/05/dyno-therapeutics-closes-100m-series-a-financing.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dyno Therapeutics Closes $100 Million Series A Financing Led by Andreessen Horowitz to Accelerate AI‑powered Gene Therapy Platform"
+    excerpt: "Dyno is making AAV gene therapies more effective, safer, more manufacturable and applicable to more diseases, and will expand capacity to meet partnership demand CAMBRIDGE, Mass.--(BUSINESS WIRE)--Dyno Therapeutics,"
+    publishedDateTime: 2021-05-06T12:04:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-05-06/dyno-therapeutics-closes-100-million-series-a-financing-led-by-andreessen-horowitz-to-accelerate-ai"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
   - title: "BRIEF—Dyno Therapeutics raises $100 million for gene therapies"
     excerpt: "AI-driven gene therapy specialist Dyno Therapeutics has raised $100 million in a series A financing led by investment company Andreessen Horowitz. The firm said it would use the money to expand its CapsidMap platform,"
     publishedDateTime: 2021-05-06T15:51:00Z
@@ -34,15 +48,6 @@ related:
       name: The Pharma Letter
       domain: thepharmaletter.com
     quality: 19
-  - title: "Dyno Therapeutics Closes $100 Million Series A Financing Led by Andreessen Horowitz to Accelerate AIpowered Gene Therapy Platform"
-    excerpt: "Dyno Therapeutics, Inc., a biotechnology company applying artificial intelligence (AI) to gene therapy, today announced a $100 million Series A financing led by Andreessen Horowitz, with participation from a select syndicate of new investors including Casdin Capital,"
-    publishedDateTime: 2021-05-06T11:00:00Z
-    webUrl: "https://www.financialbuzz.com/dyno-therapeutics-closes-100-million-series-a-financing-led-by-andreessen-horowitz-to-accelerate-aipowered-gene-therapy-platform/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 5
 
 secured: "SUmiEyf62dH3BJ8+wZUhpWHQdjsGHHXRoCYEa+Wpyv9d9mhVPHs2A8KOG0YXxl9el30pUul1ZGbsrosgaaORT81MbwbqWsJaEkuReEsxx3QpgTEq8OI6RYlZpg4EQqhC9mIn19ONaQNppfug1pH3dXy5c30emmV13ZYzlQzDJHpmdF/7/HYXAB6iyD69el3RexRInj5x1tBTeaiS15BfvoAmYcZwu8ZhO4x6LBxNZS29jMkSBP1aIokEqJJ7tJdDphskJ+DaM/S8wH982RuctnOvwLlpCOX4xFeSN2HpO0QNCSenr3aNWbXXghJInSLNbhlcOJ8BuwQ2sWaxbQobnMH13t+xl3Dplv30cPzB+DKgdWrFH2B5ki2ABEDODbZTZuEhgW2neBl8ljnWRCZswqE2mjlDRbhNa+FPsmgQnUyyYsRlf0rtNlY4frw3dSbNY+AxkON/oViwy+ViS3/gy6A5vPR/L8Jr8128OJAWw4vYPMf7j44TmrbR2lCqKXTQo+JoKz76uINbwhE7CH9huw==;/hNK8a7QTKGrOAMWWU5P3Q=="
 ---

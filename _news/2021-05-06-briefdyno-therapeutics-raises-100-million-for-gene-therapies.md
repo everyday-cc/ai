@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Dyno Therapeutics Closes $100 Million Series A Financing Led by Andreessen Horowitz to Accelerate AI‑powered Gene Therapy Platform"
+    excerpt: "Dyno is making AAV gene therapies more effective, safer, more manufacturable and applicable to more diseases, and will expand capacity to meet partnership demand CAMBRIDGE, Mass.--(BUSINESS WIRE)--Dyno Therapeutics,"
+    publishedDateTime: 2021-05-06T12:04:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-05-06/dyno-therapeutics-closes-100-million-series-a-financing-led-by-andreessen-horowitz-to-accelerate-ai"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
   - title: "Dyno Therapeutics Closes $100M Series A Financing"
     excerpt: "Dyno Therapeutics, Inc., a Cambridge, Mass.-based biotechnology company applying artificial intelligence (AI) to gene therapy, raised $100m in Series A financing"
     publishedDateTime: 2021-05-06T12:57:00Z
@@ -33,15 +47,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Dyno Therapeutics Closes $100 Million Series A Financing Led by Andreessen Horowitz to Accelerate AIpowered Gene Therapy Platform"
-    excerpt: "Dyno Therapeutics, Inc., a biotechnology company applying artificial intelligence (AI) to gene therapy, today announced a $100 million Series A financing led by Andreessen Horowitz, with participation from a select syndicate of new investors including Casdin Capital,"
-    publishedDateTime: 2021-05-06T11:00:00Z
-    webUrl: "https://www.financialbuzz.com/dyno-therapeutics-closes-100-million-series-a-financing-led-by-andreessen-horowitz-to-accelerate-aipowered-gene-therapy-platform/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 5
 
 secured: "MLqtNfcZ9NpAwP4lom+XzD4VwZQLFwdXPrlJUG2cPBzUV0NVAuHLHUnIVm3JI1zoE4e4CKMXKL8r1jQ8fBYxfYYtf1Z5vUdoi8TG5usyt9TRERKwp3GNuGyoWgE7Ax/pJhMfd9ADMe3wm+Fy4GgT9RkHmIqfOyEbm94Ir5mXkEFZ6hC7hltP0qOZpTyE7NQlRezEYSPD85cclFA1mRjgz/HpaxShBMkgx9HFygLADTyLofLSFMS3L0ZHhlHL8E73re7m6zLu4/04xndicy8rV/j3BrjdYRDb3ehdDou9DISJJcTmF9b4aHnk56/eTb8VLfwgPXcYKR4iOrOgiSalEq5yr3DS2F1Ja4Wj4NmuY4U=;k5Ec/ILDLOmws0T+xtQsvg=="
 ---

@@ -183,18 +183,18 @@ related:
         height: 510
         isCached: true
   - title: "Massachusetts Pioneers Rules For Police Use Of Facial Recognition Tech"
-    excerpt: "Massachusetts lawmakers passed one of the first state-wide restrictions of facial recognition as part of a sweeping police reform law. The new law sets limits on how police use the technology in criminal investigations."
-    publishedDateTime: 2021-05-07T12:57:00Z
-    webUrl: "https://www.wabe.org/massachusetts-pioneers-rules-for-police-use-of-facial-recognition-tech-2/"
+    excerpt: "Massachusetts is implementing its first state-wide rules for police using controversial facial recognition systems. But not all privacy advocates agree that regulation is the right step."
+    publishedDateTime: 2021-05-07T16:31:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=982709480"
     type: article
     provider:
-      name: WABE
-      domain: wabe.org
+      name: Capital Public Radio
+      domain: capradio.org
     quality: 39
     images:
-      - url: "https://www.wabe.org/wp-content/uploads/2021/05/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047-710x355.jpg"
-        width: 710
-        height: 355
+      - url: "https://media.npr.org/assets/img/2021/04/29/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg?s=6"
+        width: 948
+        height: 710
         isCached: true
   - title: "PimEyes offers facial recognition software that anyone can use, including stalkers"
     excerpt: "Facial recognition is a very powerful AI technology that has businesses interested in its application, and many people are concerned about how it can be weaponized against normal people. Typically, the tech is locked behind high paywalls or available only as an internal tool."

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Massachusetts Pioneers Rules For Police Use Of Facial Recognition Tech"
-excerpt: "Massachusetts lawmakers passed one of the first state-wide restrictions of facial recognition as part of a sweeping police reform law. The new law sets limits on how police use the technology in criminal investigations."
-publishedDateTime: 2021-05-07T12:57:00Z
-originalUrl: "https://www.wabe.org/massachusetts-pioneers-rules-for-police-use-of-facial-recognition-tech-2/"
-webUrl: "https://www.wabe.org/massachusetts-pioneers-rules-for-police-use-of-facial-recognition-tech-2/"
+excerpt: "Massachusetts is implementing its first state-wide rules for police using controversial facial recognition systems. But not all privacy advocates agree that regulation is the right step."
+publishedDateTime: 2021-05-07T16:31:00Z
+originalUrl: "https://www.capradio.org/news/npr/story?storyid=982709480"
+webUrl: "https://www.capradio.org/news/npr/story?storyid=982709480"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WABE
-  domain: wabe.org
+  name: Capital Public Radio
+  domain: capradio.org
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.wabe.org/wp-content/uploads/2021/05/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047-710x355.jpg"
-    width: 710
-    height: 355
+  - url: "https://media.npr.org/assets/img/2021/04/29/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg?s=6"
+    width: 948
+    height: 710
     isCached: true
 
 related:
@@ -211,6 +211,6 @@ related:
         height: 600
         isCached: true
 
-secured: "tdAIjVTDurO/0WsKhesLJApxVEMpzLP0R45Y/z9OoXcD0Qn3bU7k6VlwbmNAsn6Ct0tZeHTr2CMBqKA5KUvCSz3QeFh1kxL94rv6bRU8AfCkbCKZW7CygN403T9aYGM/QS1o6wNMvNcFQG4qCtaHczYND1lcya5mUW9XDOaCXTStigYrmEYy1k3TtH1ElO5tbjCzeay5WdRssBJ19VSj4JJjsM+zk7pRgJPoFmhqlmqeYy10fk6P90NaBbToS+WADeb+fJyVhBFi2T7jPcTyUHyqr6uM7+mQR8cFEbuuARFArZNokxHSI+DTir7LYTy3taV9UqRhjJytT2ZKL8TrxhDZ0VlvRevm4pRCM2zjUo51y44lqwkoUV2vL+a2NbAT9zRMBVf0fTWodaY64lcCctnXHIXd5aMKn0C9Lc2uVIGDHuJmYKWWSXM//5+NxPxGW/Dp2bsBU123ik+f73YKolGzX3WpF5Xd8ORfcy8X+p7gkdZjAYqcaFq9lFapNM9dkkSM0Lc+weGEdtXxeIlUaw==;SV+CliPxfIRh+BYnqWLSBw=="
+secured: "iByuzROUEFJNGCMRq04K5i27X+Fbij0DBacERT2F+kmORLw3i7VfL2lANla3KBGlI/vTAafYeHCGVboCnB/Y7MvUuIcfusi3T0a7SbWqBZsQ8XN3mUm55IZNP1S2PiHJuOrvR8SJM2Qgb7VNl9nCaPfGyuYm4ah7XilMvnqECYDnx2MHgsJ9ipzaXzGu+Op79f/2vEHPIIs1z712cgNbAWWxiv+XJvAgKpYx7iaAuSh14KI0WAhhjFRQMWwJorDaVukYBb4+Zhg000FJw/CJpX2Mog5X7nrtPQhBo5kt+BG0RtsjsOcpumOHAY225i2HreeFYQs1q1eN14ciHCwlAglngAOLreI9UBj0p5Qz3jM=;HDQSVJ7YZw7QACx/zQPDnw=="
 ---
 

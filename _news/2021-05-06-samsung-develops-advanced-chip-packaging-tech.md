@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung develops an innovative I-Cube4 chip packaging technology: Faster & Efficient"
+    excerpt: "Amidst the global chip shortage, leading chipmaker Samsung has announced a new chip packaging technology. Potentially, the new technology could yield more efficient and faster chips using an innovative chip-packing technique."
+    publishedDateTime: 2021-05-07T04:08:00Z
+    webUrl: "https://www.gizmochina.com/2021/05/07/samsung-develops-innovative-i-cube4-chip-packaging-technology/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 62
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/05/samsung.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "New Samsung Tech Makes Chips Faster & More Power-Efficient"
     excerpt: "Samsung has developed a new I-Cube4 chip packaging technology that could significantly improve the speed and power-efficiency of semiconductor chips."
     publishedDateTime: 2021-05-06T11:30:00Z
@@ -43,20 +57,15 @@ related:
         width: 1000
         height: 719
         isCached: true
-  - title: "Samsung Launches A Vacuum Cleaner Powered By Artificial Intelligence"
-    excerpt: "In recent news, Samsung released an AI-powered vacuum cleaner called the Bespoke Jet Bot Robot Vacuum cleaner which features enhanced capabilities for object recognition and utilizes AI technology for better maneuvering and recognizing the house."
-    publishedDateTime: 2021-05-04T07:34:00Z
-    webUrl: "https://www.techjuice.pk/samsung-launches-a-vacuum-cleaner-powered-by-artificial-intelligence/"
+  - title: "OP's Cambrian Tech finds new use case for its technology: self-driving vehicles"
+    excerpt: "Cambrian Tech’s augmented reality tool has been used to visualize how new flooring and paint colors will look in a space. Now it’s finding a new use case for its technology in the self-driving vehicles market."
+    publishedDateTime: 2021-05-05T19:01:00Z
+    webUrl: "https://www.bizjournals.com/kansascity/news/2021/05/05/cambrian-tech-finds-new-use-case-for-its-tech.html"
     type: article
     provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 41
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/05/cats-13.jpg"
-        width: 1000
-        height: 563
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "AFxfSwqJaq1Y91/igNk6tsvISPF2Rqyit3arehca7vtHN8048f0ykhI0bfffaYm+Uqx22yg7RYQzFTkysuwh9ZwZ6TNFT/hU94JkDZ0/0u3I2yg/rgtlmpwBGX7agCd1HL1puvTeG8KVYPE8wW/DG9NA9mW/xYJjS2YHzcA9/QhjeICXTfosmLVbHOzeyf6a6ORRpXUdL4gkScEABqo3HlseFtTW1LKWuyz4S7voQzx0iF8GgQv1/zBqUCwlUbNUxd9ZUm4p0ZewMLoSHkrEdzC/ct21KFcXLYCkF/z2OK8oRrQv9Sg3Lzc0wmxgsimjcob8QesdsHWo4ijopdLntk46gcz6OvNNQZSdgx8D4wg=;8/G0W+8oi9c48SUjLe3hVg=="
 ---

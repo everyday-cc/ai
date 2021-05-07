@@ -7,7 +7,7 @@ originalUrl: "https://www.sourcesecurity.com/virtual-security-events/achieving-t
 webUrl: "https://www.sourcesecurity.com/virtual-security-events/achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.html"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -25,47 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Tredence Introduces ML Works, Machine Learning Ops Platform to Accelerate AI Innovation and Value Realization"
-    excerpt: "Tredence, a leading AI engineering and analytics services company, is driving innovation in artificial intelligence with the launch of its state-of-the-art machine learning operations platform, ML Works."
-    publishedDateTime: 2021-05-03T08:10:00Z
-    webUrl: "https://www.cioapplications.com/news/tredence-introduces-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-nid-7609.html"
+  - title: "Software AG’s TrendMiner 2021.R2 Release Puts Machine Learning and AI in the Hands of Operational Experts"
+    excerpt: "Democratization of Machine Learning Makes Operational Experts More Flexible To Improve and Predict Process and Asset Performance; New TrendMiner Multi-Variate Anomaly Detection Mo"
+    publishedDateTime: 2021-05-06T22:06:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/software-ag-science-business-technology-software-d75404601076298855513a810c67d6b6"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 50
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/p5efr450308.jpg"
-        width: 450
-        height: 308
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Minerva Intelligence announces Webinar for its DRIVER AI Mining & Exploration software"
-    excerpt: "CNW/ - Minerva Intelligence Inc. (TSXV: MVAI) (\"Minerva\" or \"the Company\"), an artificial intelligence company focused on knowledge engineering, is pleased to announce a new webinar on May 6, coinciding with the Company's launching of its state-of-the-art DRIVER software,"
-    publishedDateTime: 2021-05-04T13:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/minerva-intelligence-announces-webinar-for-its-driver-ai-mining-exploration-software-1030385127"
+  - title: "SDAIA Signs Memorandum of Cooperation with IQVIA to Support Artificial Intelligence Solutions in Health Field"
+    excerpt: "The Saudi Data and Artificial Intelligence Authority (SDAIA), represented by its innovative arm the National Center for Artificial Intelligence, and IQVIA signed a memorandum of joint cooperation in the field of the health sector to explore opportunities of mutual interest and support innovation in the field of health data in the Kingdom of Saudi Arabia."
+    publishedDateTime: 2021-05-04T20:06:00Z
+    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2225368"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-  - title: "Kanverse.ai Introduces Next-Generation Cognitive Automation Platform and Launches Intelligent Document Processing Product (IDP)"
-    excerpt: "Kanverse.ai, a cognitive automation company, has announced the global launch of the Datolite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Kanverse IDP is built on Kanverse Cognitive Automation platform."
-    publishedDateTime: 2021-05-04T08:30:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210504005868/kanverseai-introduces-next-generation-cognitive-automation-platform-and-launches-intelligent-document-processing-product-idp"
+      name: spa.gov.sa
+      domain: spa.gov.sa
+    quality: 33
+    images:
+      - url: "https://www.spa.gov.sa/galupload/normal/202105/DST_1553528_2426991_41_1_2021050422460905.jpg"
+        width: 1133
+        height: 600
+        isCached: true
+  - title: "A Local Computing Cell and 6T SRAM-Based Computing-in-Memory Macro With 8-b MAC Operation for Edge AI Chips"
+    excerpt: "This article presents a computing-in-memory (CIM) structure aimed at improving the energy efficiency of edge devices running multi-bit multiply-and-accumulate (MAC) operations. The proposed scheme includes a 6T SRAM-based CIM (SRAM-CIM) macro capable of: 1) weight-bitwise MAC (WbwMAC) operations to expand the sensing margin and improve the readout accuracy for high-precision MAC operations;"
+    publishedDateTime: 2021-05-03T13:09:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9416993"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
-  - title: "Kanverse.ai Introduces Next-Generation Cognitive Automation Platform and Launches Intelligent Document Processing Product (IDP)"
-    excerpt: "Kanverse.ai, a cognitive automation company, has announced the global launch of the Datolite release of its patent-pending AI-powered Intelligent Docu"
-    publishedDateTime: 2021-05-04T17:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210504005868/en/Kanverse.ai-Introduces-Next-Generation-Cognitive-Automation-Platform-and-Launches-Intelligent-Document-Processing-Product-IDP"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: IEEE
+      domain: ieee.org
+    quality: 16
 
 secured: "7w/kYwtVH0cU0q1F8CJdmXoBN4ToUdihdyHW+5dZ4fyiZ1b2rmk7MjnQwoXDXQ8sruNYJibJGH6ggV4zCd28czeKOXEwTyUi2GJmEUT0u0DPt1LtXV5NIHL/TR3XC/6bETXnelRj/XCcyC92cAC/p+pM2ndZWRyZ3kI1ea3XIsvpFe1uQ3fOcWP0eHS3RL6bqLFxJPA4ARIC9twM5AZJi1Hm3Wx9Gk9DtaAjE3oZyZjvpHs8Hr3jvMuyaw5Q3DW5mUMfEYCG5QP3Lg2oT75toSMQjbvXGAkpSn4Y+gdhvvKRTUFiz/pl9XSCuJLUA6f8UP4PDR6cAhluemLuAu2PcVVRE4Jrz+ECpEdmMYQsAej5K4OtRlthxGg5Ge6XMl1th/FNOasi6XMpYrTy7pN5n59tLkkYHd5h/XE2HhmXKLJNuJdic8C6rtyDwV/tPiZP9fuxzYHBZeocE03mCm2WGfPVysh87WrKvDunI1uN0mGWK1YMa41WvMvEYIsXK0tW3YeZzGTutwyq7RBg/hJd5w==;ORVqHnPZBJFgi1+FgsZpiA=="
 ---

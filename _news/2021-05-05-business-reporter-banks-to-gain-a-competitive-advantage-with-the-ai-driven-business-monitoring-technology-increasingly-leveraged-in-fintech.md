@@ -23,22 +23,45 @@ topics:
   - AI
 
 related:
-  - title: "Nestle: Driving Innovation through AI and other Disruptive Tech"
-    excerpt: "Nestle leverages disruptive technologies like AI, machine learning, blockchain, and advanced data analytics to enhance business growth. The brand uses data analytics and artificial intelligence to drive personalized customer engagement."
-    publishedDateTime: 2021-05-03T13:28:00Z
-    webUrl: "https://www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/"
-    ampWebUrl: "https://www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/?amp"
-    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/?amp"
+  - title: "Fintech: A Major Driving Force of Business in 2021"
+    excerpt: "With the rapid flow of venture capitalist money, the business sector is shifting to the Fintech ecosystem. All businesses are enhancing customer experience using Fintech management through real-time data analytics."
+    publishedDateTime: 2021-05-03T17:30:00Z
+    webUrl: "https://www.analyticsinsight.net/fintech-a-major-driving-force-of-business-in-2021/"
+    ampWebUrl: "https://www.analyticsinsight.net/fintech-a-major-driving-force-of-business-in-2021/?amp"
+    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/fintech-a-major-driving-force-of-business-in-2021/?amp"
     type: article
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 59
+    quality: 44
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/nestle.jpg"
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Fintech.jpg"
         width: 900
         height: 500
         isCached: true
+  - title: "Which Trends are Set to Transform the Status of Indian Fintech in 2021?"
+    excerpt: "Fintech solutions are grasping companies from different sectors of India with its current trends through AI machine learning algorithms. Companies must focus on these trends to capture the market efficiently."
+    publishedDateTime: 2021-05-06T12:34:00Z
+    webUrl: "https://www.analyticsinsight.net/which-trends-are-set-to-transform-the-status-of-indian-fintech-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 24
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Fintech-1.jpg"
+        width: 904
+        height: 504
+        isCached: true
+  - title: "Artificial Intelligence in Fintech Market size, Witness Highest Growth in near future by 2027 | Microsoft, Google, Salesforce, Ibm, Intel"
+    excerpt: "The Artificial Intelligence in Fintech market report gives an in-depth analysis of the variables and drivers of market development, geographies have been exclusively examined in terms of parameters such as production,"
+    publishedDateTime: 2021-05-03T06:19:00Z
+    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-in-fintech-market-size-witness-highest-growth-in-near-future-by-2027-microsoft-google-salesforce-ibm-intel/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 1
 
 secured: "QiPQUAgNkrLElmZWSMxhkOvsn7fbSOke+zEDb+obOKIROp9wnjGXxf1SLmJBFMAqurs2QLzmGA1F4TgR7KcJLWnxYlkCmFrGtke/fB3eSmWJZXi8TnY7KQJxTWMBlxiDLgzB4czVzaNEBXRgN8PV7rl0rbGfv3RygyqHVvlFu3vpRee9bEXAwQc6Cf+mox79GTy6JOjo2vEilE1a229MM2LzzveBkqQQayUzFXcnnIigR/Y+N5gewkFB7+/4+knnVFx6mzhAss13Hw7KDXQmbdTwes5v/licAlcmomZtd61qJKtbPLuIr0uFuu2+iZ34srVJjJAN5u6qNMQOlkRnqLx1et0+KeMNM9YafTHFF4U=;y0+Sw9VcJ9Fvse2xOrI+IQ=="
 ---
