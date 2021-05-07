@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla’s self-driving tech may still have some ground to cover"
-    excerpt: "A memo from California’s DMV reveals that self-driving Tesla cars aren’t likely to reach Level 5 autonomy by the end of the year."
-    publishedDateTime: 2021-05-07T09:20:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/tesla-dmv-memo-self-driving"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/05/AdobeStock_343869056_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Autonomous Future: GM expects to offer self-driving vehicles this decade"
     excerpt: "General Motors CEO Mary Barra says she expects the automaker to offer self-driving vehicles in the next 10 years. “Later in the decade"
     publishedDateTime: 2021-05-06T19:22:00Z
@@ -62,20 +48,6 @@ related:
       - url: "https://www.collisionrepairmag.com/wp-content/uploads/2021/05/gm.png"
         width: 775
         height: 375
-        isCached: true
-  - title: "GM is going all-in on self-driving vehicles and wants to sell them by 2030"
-    excerpt: "GM’s CEO, Mary Barra, says that the company will be producing fully autonomous vehicles for consumer use before the end of this decade. According to CNBC, Barra revealed this in a call with investors earlier this week."
-    publishedDateTime: 2021-05-06T17:09:00Z
-    webUrl: "https://knowtechie.com/gm-is-going-all-in-on-self-driving-vehicles-and-wants-to-sell-them-by-2030/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 22
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/05/gm-super-cruise-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "2Mtqn2Q7q0Bh0MzgGi57WIrjyTN8PZQ44wo9Q6oDOazSgldcvmCWnf2nC21l2FOglyafvXcv2btlEqDVAZQKFogy+d+Zrbvq9pCkE28zAUY3rwKfZ1uB8npQ860699qHi0CQ6gDdeRHjZBzxXwFRcoxP283dHnNvwRyTrONBLeFCaVE2Tmltn9/BOVomqtG+FpKzHFpP0TnqS8gtk0YEl1wfQVl1Wlf2s08uo6ZdFIqGH3Iq/+6L43KQ3tSokThvZnhbM/KhNF3IjIu4t09av1Imts/bfr2ZfYcYStW8yydftn9ltBL8V1tn1oBdEFql1QR3asdUXWjCpW0xTj+d3w1/7UjbO9D5uRAwuaWEVJzlm0o5K0OVBrUyw3RNtGHVXyxrimvG2baY7+dvD4WD2THg7tFKtB6K/vXOYE9VfYLGgcshwv0rl3/sxSi9rNb70bxdHyMA8kRczhAlePYRnor90iAE05OAc/H75fsXOuLYzyF0eDhMCD5sUiAnS3I9LFQn7wcGOXwDbAI7YVRWCw==;K8dVo/sgCRNmv433o4fxUw=="

@@ -25,59 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "GM CEO Mary Barra wants to sell personal autonomous vehicles using Cruise’s self-driving tech by 2030"
-    excerpt: "GM CEO Mary Barra sees the automaker selling personal autonomous vehicles by the end of the decade by leveraging technology from its self-driving subsidiary Cruise, according to comments made during the company’s Wednesday earnings call."
-    publishedDateTime: 2021-05-05T20:57:00Z
-    webUrl: "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/"
-    ampWebUrl: "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/"
+  - title: "Tesla is more cautious about Full Self-Driving timeline with regulators than the public, based on new memo"
+    excerpt: "Tesla is being a little more cautious about its Full Self-Driving timeline with regulators than with the public, according to a newly released memo from a meeting between Tesla and the California DMV."
+    publishedDateTime: 2021-05-07T14:09:00Z
+    webUrl: "https://electrek.co/2021/05/07/tesla-cautious-full-self-driving-timeline-regulators-public-new-memo/"
+    ampWebUrl: "https://electrek.co/2021/05/07/tesla-cautious-full-self-driving-timeline-regulators-public-new-memo/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/07/tesla-cautious-full-self-driving-timeline-regulators-public-new-memo/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 59
+      name: Electrek
+      domain: electrek.co
+    quality: 71
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2017/01/gettyimages-629982546.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Tesla’s self-driving tech may still have some ground to cover"
-    excerpt: "A memo from California’s DMV reveals that self-driving Tesla cars aren’t likely to reach Level 5 autonomy by the end of the year."
-    publishedDateTime: 2021-05-07T09:20:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/tesla-dmv-memo-self-driving"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/05/AdobeStock_343869056_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Autonomous Future: GM expects to offer self-driving vehicles this decade"
-    excerpt: "General Motors CEO Mary Barra says she expects the automaker to offer self-driving vehicles in the next 10 years. “Later in the decade"
-    publishedDateTime: 2021-05-06T19:22:00Z
-    webUrl: "https://www.collisionrepairmag.com/gm-expects-to-offer-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Collision Repair Magazine
-      domain: collisionrepairmag.com
-    quality: 23
-    images:
-      - url: "https://www.collisionrepairmag.com/wp-content/uploads/2021/05/gm.png"
-        width: 775
-        height: 375
-        isCached: true
-  - title: "OP's Cambrian Tech finds new use case for its technology: self-driving vehicles"
-    excerpt: "Cambrian Tech’s augmented reality tool has been used to visualize how new flooring and paint colors will look in a space. Now it’s finding a new use case for its technology in the self-driving vehicles market."
-    publishedDateTime: 2021-05-05T19:01:00Z
-    webUrl: "https://www.bizjournals.com/kansascity/news/2021/05/05/cambrian-tech-finds-new-use-case-for-its-tech.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "nKUwoDDWt3rbd5XZj6Gq3j5ope8OHoz5pLXN3Mm+gcjAl5aXSfj5NPWi+cfewuqluiOBD/1q/oDXtugYSyOxi7frW045WcvwQQ74iEDkzin27TRTptlTL/MhUgqaHgRS9pS/yFA2Ao7JqVCIXDOsuQAWb4/r1lR4MTBiz+AUBB7uxku+/ktAPeKSkf6mds2n7V4sADfkIm6WB/sRWvHZZw1SIr1AMwrOVtklvEkwfizKv9Eex18qc0hDqfr/oDUYJUP9ga3GpFfi5Xzs7PzRnh4QF0Pv8aSQF5YxAM5nIabaZyoQYhT/wZXjSM15LeGH4HuMrMZKE5J5tfahTk6ylCuiFZJII6QvfPdgnx0AIQkbdqBzlOuym+MklYeF4fjIdHcRsavpESafaUdSpHFRCuqjyNgDI/Qelwn6LmrqoSdmrrNliKFmVQdIkKVl5EyW4SfkK3KLfw143Kn6NNISeA1K+/Swpq+ovBBcenom3PVx9Tivg3xN2Zinua8iX9kcke/QGZ29AepQmlIVeF9q5w==;urug2UMmgOkVqRjyrhdi6g=="
 ---

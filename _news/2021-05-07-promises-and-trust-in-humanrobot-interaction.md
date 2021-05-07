@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41598-021-88622-9"
 webUrl: "https://www.nature.com/articles/s41598-021-88622-9"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 685
     height: 337
     isCached: true
-
-related:
-  - title: "Robotics Interoperability: A Solution to the Communication Issues of Diverse Mobile Robot Fleets"
-    excerpt: "Meili Robots. As robotic fleets become more diverse and autonomous in both industrial settings and public spaces, it is now more important than ever to raise awareness of the wide variety of issues that can arise due to the lack of interoperability."
-    publishedDateTime: 2021-05-02T21:37:00Z
-    webUrl: "https://www.ien.eu/article/robotics-interoperability-a-solution-to-the-communication-issues-of-diverse-mobile-robot-fleets/"
-    type: article
-    provider:
-      name: ien.eu
-      domain: www.ien.eu
-    quality: 41
-    images:
-      - url: "https://www.ien.eu/uploads/tx_etim/Meili_Whitepaper.jpg"
-        width: 750
-        height: 750
-        isCached: true
 
 secured: "cKgJSVOwdlOkzKT2zbW4l7TnrqK3yxKa5IGEyNSQnwoymIG5xe7yvVjeYFy0CKhP4w6hTaXDprETWY7Hku3Th0QWCFCjcli4snElTpouFE29+MBaSeoHHvxq7i2XdT0a0Q0SmxclFVKOA1hiAadyjl4cS9eRfjAGkeJ3rkXQCsQWKNtN3xSV2gEbPxJdDMxMRqI3FKToLc+5UuKG6EJfPie+HGLg1mvw0SF1smzLAMa/LrQukuNPSBgp04FK35mjbuNbHkwdMYI3+jff+FHOb5910AT4clKMNHS6/tyohOnnJbAMAqNr6luUtsogww/uKBWlWAP5DuUcP7TXHaky7VMDef+ibCYR2lK9ZTLv5EASVdBt6f875zHAHWxHKUEYDCOqXft1pWmJQaRZ7QbRReNIHJFEcFIYcPIbp6mYIBLHrsyiEycvyaO5XFxPq5bErv4f1dlhhWoJe695YVDRSF5Rb8VSCemyIijJJagRW3n6KIO6HZzg5GMqwAEuNsD/YO9tgcGUrp+jHPL+2xypEw==;7YAeLNaNu+gaOoAQHj5O6w=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Dyno Therapeutics Closes $100 Million Series A Financing Led by Andreessen Horowitz to Accelerate AI‑powered Gene Therapy Platform"
-excerpt: "Dyno is making AAV gene therapies more effective, safer, more manufacturable and applicable to more diseases, and will expand capacity to meet partnership demand CAMBRIDGE, Mass.--(BUSINESS WIRE)--Dyno Therapeutics,"
-publishedDateTime: 2021-05-06T12:04:00Z
-originalUrl: "https://www.pharmiweb.com/press-release/2021-05-06/dyno-therapeutics-closes-100-million-series-a-financing-led-by-andreessen-horowitz-to-accelerate-ai"
-webUrl: "https://www.pharmiweb.com/press-release/2021-05-06/dyno-therapeutics-closes-100-million-series-a-financing-led-by-andreessen-horowitz-to-accelerate-ai"
+title: "Dyno Therapeutics Closes $100 Million Series A Financing Led by Andreessen Horowitz to Accelerate AIpowered Gene Therapy Platform"
+excerpt: "Dyno Therapeutics, Inc., a biotechnology company applying artificial intelligence (AI) to gene therapy, today announced a $100 million Series A financing led by Andreessen Horowitz, with participation from a select syndicate of new investors including Casdin Capital,"
+publishedDateTime: 2021-05-06T11:00:00Z
+originalUrl: "https://www.financialbuzz.com/dyno-therapeutics-closes-100-million-series-a-financing-led-by-andreessen-horowitz-to-accelerate-aipowered-gene-therapy-platform/"
+webUrl: "https://www.financialbuzz.com/dyno-therapeutics-closes-100-million-series-a-financing-led-by-andreessen-horowitz-to-accelerate-aipowered-gene-therapy-platform/"
 type: article
-quality: 24
-heat: 24
+quality: 5
+heat: -1
 published: false
 
 provider:
-  name: PharmiWeb
-  domain: pharmiweb.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-    width: 1200
-    height: 448
-    isCached: true
 
 related:
   - title: "Dyno Therapeutics Closes $100M Series A Financing"
@@ -49,6 +43,6 @@ related:
       domain: thepharmaletter.com
     quality: 19
 
-secured: "QviAf5CsmYo6JcsfQ9U3T5tPZ3A7FCT6DqWdFUSRQW0eSwkMK9qVP8HbEdXStkBhD9aGZE955LxeqFZ8NuzcMKRypKgwGe8++ZkYgz+6evEqJAtYdxSH/fHMbOMvDeycZ7LSwLHfkk1lwfopsCsPVMUPTBF/QpCk7Vns9rdK6R8OjOQbqy3dTp4VMu8hURnmWNKoIN8f7Iy8yzY9VL28orNCxr8ct+xS+6S2HmoRAAmKJD4fPI9HzVBVmasTSsN5IxlOTaMczDNv4IYrAqKJnY+6NmMNdFzvcQBhovCZiCBR3TTr6BqnJwcGZ58+1I848g+x+vGey3ItP9kIrCHW194CYi6o5EwkD98DJX/FlJo=;uxDDfzCevlP8w5rqfQkvnQ=="
+secured: "W6WzQBri8FZzZQ86l1SFlLdweOpJUg6HgZLrsfXTPdocQPeTlpD6fEAXnl9Y/JHY71JmACFqwyMqOPM/+K5o6sjEKJz6BoVVwODsh7WkqvLawXoJ5V64+88LhL9g448sjNOWtFignnd/hoAdm0QAKejJZLOPxNhRLqZEm1KMpR0z2d1Xh8VwYGWZrkkCmdB1OJISHKF+kgUY1GOt9F5aMK7M14bFjWp/Gyl/k9hyv3BWqFI+WVJi4LymRUI21ucQJUVtd5GjI1rG9P3mh7LcLfp1gGhI6+xpFHJ7wdMX8Y57QdxfVgp8tFNZDZPWgq4S45Ys7n6BB2aXsqXd13v6APdt5mZpUDP+kU+nqGQNsF4=;BwRCleiCYhAR30J9T78nnQ=="
 ---
 

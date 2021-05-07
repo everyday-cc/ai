@@ -41,34 +41,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla’s self-driving tech may still have some ground to cover"
-    excerpt: "A memo from California’s DMV reveals that self-driving Tesla cars aren’t likely to reach Level 5 autonomy by the end of the year."
-    publishedDateTime: 2021-05-07T09:20:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/tesla-dmv-memo-self-driving"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/05/AdobeStock_343869056_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "GM is going all-in on self-driving vehicles and wants to sell them by 2030"
-    excerpt: "GM’s CEO, Mary Barra, says that the company will be producing fully autonomous vehicles for consumer use before the end of this decade. According to CNBC, Barra revealed this in a call with investors earlier this week."
-    publishedDateTime: 2021-05-06T17:09:00Z
-    webUrl: "https://knowtechie.com/gm-is-going-all-in-on-self-driving-vehicles-and-wants-to-sell-them-by-2030/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 22
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/05/gm-super-cruise-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "OP's Cambrian Tech finds new use case for its technology: self-driving vehicles"
     excerpt: "Cambrian Tech’s augmented reality tool has been used to visualize how new flooring and paint colors will look in a space. Now it’s finding a new use case for its technology in the self-driving vehicles market."
     publishedDateTime: 2021-05-05T19:01:00Z

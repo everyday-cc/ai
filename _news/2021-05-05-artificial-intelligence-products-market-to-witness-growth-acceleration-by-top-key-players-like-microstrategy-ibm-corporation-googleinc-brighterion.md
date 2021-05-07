@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/05/artificial-intelligence-product
 webUrl: "https://ksusentinel.com/2021/05/05/artificial-intelligence-products-market-to-witness-growth-acceleration-by-top-key-players-like-microstrategy-ibm-corporation-googleinc-brighterion/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 552
     height: 308
     isCached: true
+
+related:
+  - title: "Industrial Machine Vision Lens Market to See Incredible Growth By 2026"
+    excerpt: "Industrial Machine Vision Lens Market is predicted to grow with a CAGR of 6.1% over the forecast period by generating a revenue of $9,537.4 million by 2026. Industrial Machine Vision Lens are a form of technology that would allow a computer system to examine,"
+    publishedDateTime: 2021-05-07T13:25:00Z
+    webUrl: "https://ksusentinel.com/2021/05/07/industrial-machine-vision-lens-market-to-see-incredible-growth-by-2026/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 24
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/6-12.png"
+        width: 628
+        height: 385
+        isCached: true
 
 secured: "lajJLFKJMZUgxyMj6R7fP7dRTb5KglwHqy9ETrdoV5ZoiEkZT3feuV+zOab4uPNZ8rbQAhNxGtWtRjYtUXx/AGwFQdQvFVItYYfKkLJdF9zDc5wfEbt7uui1pML/r4xyoTlCpMr0Nj3JOgtFz8N1k87VOKRxwf9foETp9dy0Tq4bWu9UlCNIJmGA9RJRNlRw1+tC1ZrWZlFp87rcPBdH3CtDAT0SSzy8LfcTWYboO3jhw1ZT7j/sOsM0Fj9V6lytwhuL9Uf+feg5qXO+PttAOTMVaB5BqOvwuIknXDoAdwK/54N/Dm/o103SvPp6Jpx045gC56ubRhvx0zSt61y6wtEW0qGHreEfku6OtzeMOIgHZ3W0SG6wvLVLqQNdb8dCXBqlQjky9Qzpvbc3w75y6vTYfctu4SeBa/0F4mglZM5V6lLrSwlthIMNrP7VvAgAqX9Xb6i5hjtPZj7RmvebQp+iHqcd4hF4KSpM2n0llxt6uqAcftRwX7Gdvm8CAQhyNyd+OZfffCsN0dlFd9s8Jg==;zp0lrlcHa0wkqYOvHjYJhw=="
 ---

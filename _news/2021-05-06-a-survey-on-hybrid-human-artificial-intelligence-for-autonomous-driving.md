@@ -26,7 +26,7 @@ related:
     provider:
       name: soton.ac.uk
       domain: soton.ac.uk
-    quality: 30
+    quality: 32
     images:
       - url: "https://secure.ecs.soton.ac.uk/heights/heights-image-400.php?imgid=news_6934_img&anchor=CM"
         width: 400

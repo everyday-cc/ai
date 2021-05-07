@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-07T11:47:00Z
 originalUrl: "https://www.ecs.soton.ac.uk/news/6934"
 webUrl: "https://www.ecs.soton.ac.uk/news/6934"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://secure.ecs.soton.ac.uk/heights/heights-image-400.php?imgid=news_6934_img&anchor=CM"

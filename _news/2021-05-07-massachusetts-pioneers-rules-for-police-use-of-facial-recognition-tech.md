@@ -168,6 +168,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Massachusetts OKs Curbs on Police Use of Facial Recognition"
+    excerpt: "As part of its new police reform law, Massachusetts lawmakers have passed one of the first state-wide restrictions on law enforcement use of facial recognition technologies. Under the law, police must have a court order before they can compare images to the database of photos and names."
+    publishedDateTime: 2021-05-07T14:19:00Z
+    webUrl: "https://thecrimereport.org/2021/05/07/massachusetts-oks-curbs-on-police-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
+        width: 343
+        height: 510
+        isCached: true
   - title: "Facial Recognition Software Fuels Growing Concerns in State Legislatures"
     excerpt: "Lawmakers in at least 20 states are weighing curbs on police use of facial recognition, citing concerns of accuracy, invasion of privacy, racial bias and civil rights abuses."
     publishedDateTime: 2021-05-06T15:16:00Z
@@ -197,6 +211,6 @@ related:
         height: 600
         isCached: true
 
-secured: "UOYjQ3rHGXRsPDlwRfLAt2c9RzcKXMO97gv3ukeqsMS2Uzkr7Lh/OEXdi1YjW0quC1qQ1VLAkHOWA0w6bmTNpUiuYIDHScuixl5bFF/wi6KWeL/L/Yhxi9SoTLx2t441CINIeGrvJIgJ8kNT9Ua7HJ+IzdZwUG4mcGsbzlxIdbuKsRblZh2slVEQyJqA9lEgGACUmlX9IT10FLAD6AjD7KbQ8/j9UjzHVB4R0B8MzUAG15kbMzWfHJTn1RvB5BgRb8MRkFJnUxDCLUnisEg8JEkVSNbFOda9dsGSOHzgRc1g1Z6c3XKszPQ3TQKKpd8WzF+QWKaXKpDnVa6fZfRi81qyjPAQqXiAapNFIC58Yh8=;nArS4Ijbk+zKmle2mQKwdQ=="
+secured: "tdAIjVTDurO/0WsKhesLJApxVEMpzLP0R45Y/z9OoXcD0Qn3bU7k6VlwbmNAsn6Ct0tZeHTr2CMBqKA5KUvCSz3QeFh1kxL94rv6bRU8AfCkbCKZW7CygN403T9aYGM/QS1o6wNMvNcFQG4qCtaHczYND1lcya5mUW9XDOaCXTStigYrmEYy1k3TtH1ElO5tbjCzeay5WdRssBJ19VSj4JJjsM+zk7pRgJPoFmhqlmqeYy10fk6P90NaBbToS+WADeb+fJyVhBFi2T7jPcTyUHyqr6uM7+mQR8cFEbuuARFArZNokxHSI+DTir7LYTy3taV9UqRhjJytT2ZKL8TrxhDZ0VlvRevm4pRCM2zjUo51y44lqwkoUV2vL+a2NbAT9zRMBVf0fTWodaY64lcCctnXHIXd5aMKn0C9Lc2uVIGDHuJmYKWWSXM//5+NxPxGW/Dp2bsBU123ik+f73YKolGzX3WpF5Xd8ORfcy8X+p7gkdZjAYqcaFq9lFapNM9dkkSM0Lc+weGEdtXxeIlUaw==;SV+CliPxfIRh+BYnqWLSBw=="
 ---
 

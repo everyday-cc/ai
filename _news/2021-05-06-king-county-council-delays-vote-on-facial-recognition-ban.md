@@ -153,6 +153,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Massachusetts OKs Curbs on Police Use of Facial Recognition"
+    excerpt: "As part of its new police reform law, Massachusetts lawmakers have passed one of the first state-wide restrictions on law enforcement use of facial recognition technologies. Under the law, police must have a court order before they can compare images to the database of photos and names."
+    publishedDateTime: 2021-05-07T14:19:00Z
+    webUrl: "https://thecrimereport.org/2021/05/07/massachusetts-oks-curbs-on-police-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
+        width: 343
+        height: 510
+        isCached: true
   - title: "Massachusetts Pioneers Rules For Police Use Of Facial Recognition Tech"
     excerpt: "Massachusetts lawmakers passed one of the first state-wide restrictions of facial recognition as part of a sweeping police reform law. The new law sets limits on how police use the technology in criminal investigations."
     publishedDateTime: 2021-05-07T12:57:00Z
