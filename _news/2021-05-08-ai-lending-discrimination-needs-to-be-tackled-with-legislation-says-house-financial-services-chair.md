@@ -1,0 +1,68 @@
+---
+category: news
+title: "AI Lending Discrimination Needs To Be Tackled With Legislation Says House Financial Services Chair"
+excerpt: "We cannot wait for (federal financial regulatory agencies) to do better. We have to force better,” she told a Financial Services AI Task Force hearing."
+publishedDateTime: 2021-05-07T18:29:00Z
+originalUrl: "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/"
+webUrl: "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/"
+ampWebUrl: "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/amp/"
+type: article
+quality: 73
+heat: 93
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60958549f4ace557ee2a1fc5%2F0x0.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Why subscription services could be the future of AI"
+    excerpt: "The Artificial Intelligence revolution (AI) is upon us. From being the stuff of relatively recent science fiction to being a commonplace of online interaction (think customer service chatbots and targeted advertising),"
+    publishedDateTime: 2021-05-07T16:06:00Z
+    webUrl: "https://techbullion.com/why-subscription-services-could-be-the-future-of-ai/"
+    ampWebUrl: "https://techbullion.com/why-subscription-services-could-be-the-future-of-ai/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-subscription-services-could-be-the-future-of-ai/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/05/subscription-services-ai.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Upcoming House Financial Services Committee Hearings to Include Discussions on SPACs, AI , Big Banks & More"
+    excerpt: "The House Committee on Financial Services has disseminated the May 2021 calendar of hearings that cover a wide range of financial services issues. As has been previously reported, this coming Thursday (May 6),"
+    publishedDateTime: 2021-05-03T17:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/174900-upcoming-house-financial-services-committee-hearings-to-include-discussions-on-spacs-ai-big-banks-more/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/174900-upcoming-house-financial-services-committee-hearings-to-include-discussions-on-spacs-ai-big-banks-more/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/174900-upcoming-house-financial-services-committee-hearings-to-include-discussions-on-spacs-ai-big-banks-more/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/04/House-Financial-Services-Committee-300x239.jpg"
+        width: 300
+        height: 239
+        isCached: true
+
+secured: "44kDUpWzrjCW35DyF/TLPLXVeaThMphEDl/19/QWh+OFtnuLK9ucIuy7vKn0M0wnT7ndFM9CYj3veQjf+tD2AcquQgw6slaGN+Y2YHVUgJLIPYA47bXwkTE6Sa985R86i47px/m+5crCE1wIVHeGFKn2MOtqn2+/Dqxy83W4bubD1gfDMt69ktuRxW5XUKNkSQRHy5Jn3L5Z3YF8YN9UGwE2WFP9WgLeNKL4cC8i1iKagtVH9FTAEh+nuTE35J/DWEjITz1xEvaMe0NtF9BaQtLvBrRXFr7TNkn4w0arHF4rJt912AFxP5BT98Fl7ZaquexbUKEmSI8MsM00/5N+Vqv19BgU/BOVuGdklCOw0Ek=;Gw/l0sJncSfQDLkcjRWNsA=="
+---
+

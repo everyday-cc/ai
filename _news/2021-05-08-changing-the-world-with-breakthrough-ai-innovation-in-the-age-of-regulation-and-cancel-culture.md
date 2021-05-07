@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world
 ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/"
 type: article
-quality: 77
-heat: 127
+quality: 79
+heat: 129
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60956c575c3928d3e701c7a3%2F0x0.jpg"
@@ -101,6 +102,6 @@ related:
         height: 438
         isCached: true
 
-secured: "cRfz+yUotpeabNO3GpPgy6lStrbXQIE0VKU8Ta9gobXGAfiopyZukp0SUCO7yoRpW6BZy4QY/GxB79JoJS/LVoGNjxIJlKNI4vgta3bUVvqqN4ubEU6qc+ObTXuEStqsG+clg6XJpANfcFzPU6lWVj32vM9MmPbQd0GZ7WZrwgJONO1yj/k6UhypfSjpxVnO5dcmdFH0xhX+kCNr+6kwKaFtXfgnBbtEfYPWoiF3TLWqPSKf3IwhineAwMrcUfixFw7ApTEJscPbL6ecYqKel2xmRUASMhGKiYYfHFzi2jmFmCkG6cYVvE0zheCXqk4ey3hmrUYGJn4ve+qvLTXJLkUyOVw5QxmoBO4S8Fne56o=;y4mPRFneztuUF1wypNFHIw=="
+secured: "c8mr+m3wRjO6EzoSJJbXAc1heZjTtNanDo9y01sgvTBELLMhNClhkJ6KWezWwihdLUtLSZ9x01boEkmXiCQ4MfwVGdZlFQ/2MEHkPQP+rtk2S02S9Xpna6zrMAN9D3skPHQ9qk+S0uxy1dRfdyHoVZ+iwkgK4CRCtvfnR/1JCXIwE/sRuBzaXn0ycbVQ3lxxYG60DW4xBobdN2opKwumk7xRWBU0as2Z2Xi1HK0F5SDsumTHUitHXZF0bUCPbUoHNg4awjPGVSRwbYcL7q7jY5xJdBDUti9yo/Nv/2ZmIvXW3oDUhFIkR/5XJnYikreR8F+CAITEnZR90jp/oFtHZpftnUCLxQbA4vqCLltOnBrkEVlq3lddrnVkFK4k1JV8O/T1ywuXZ5GnDEf6iP3sS7RvV4D2IMo8NitBABXu1eHEfMZBV+Gx4/oMNBhaKkulEaLpVdysst10OTImC83IlCImgEBYhOpSPxHdST2uUutNuVYjTM597KSy1ohFhdMROo4HDR/oI/DJ7xUvrbdbtQ==;BLfJJj7ulVYXye0FaYB4Tw=="
 ---
 

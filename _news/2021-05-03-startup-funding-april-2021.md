@@ -40,6 +40,22 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "The 15 Largest Global Startup Funding Rounds of April 2021"
+    excerpt: "Everything you need to need to know about the largest global startup funding rounds of April 2021; broken down by industry, stage, investors, and"
+    publishedDateTime: 2021-05-07T19:51:00Z
+    webUrl: "https://www.alleywatch.com/2021/05/global-startup-funding-top-largest-april-2021-vc/"
+    ampWebUrl: "https://www.alleywatch.com/2021/05/global-startup-funding-top-largest-april-2021-vc/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/05/global-startup-funding-top-largest-april-2021-vc/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 42
+    images:
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/01/2021-NYC-TECH-INFLUENCERS.jpg"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "oX9o+oGtrNiNyu/Xnd8ot2+Pkrsh5NBI++csoiXTzuN/OqdnoiIK3usy10v3UgASE1n/Yich9eUgun0tbUTS9w2eari84zGQSqU8c3mzc3MbB/xBZEMd+x5GpmjvxJKVs4FHe8fRrQOWkCHc0VPlvXMVP4KBVD4BYtH9sDs8hHeLx954WmnuoOwyFtlBQFyNYP9js0mcVygjLHujjwZRq44nUa7FjY8lgTZhilAQTxyY+ThujO5MnIBEA1dd00WHT7MYD3mTWMyKHTos+vDvg3JGcvoQr6comriBLHphrkCQ2+JjxZpB990xj/oDPjsUc07HwOZAyEK+kffOn8mG4wmsVpk4TJSE/stOPuZkKcvq1tz0mSRPHUX9qBPx4jff1grdfao1c1huqvY57CieVKHwI1KoHk9ne/e7zGpwjjrp/ZbxLESbmxD4PArCDkuhLdcwoIGQFhMC2rFWsnqvcXfpBAhUJVUPYmt4sgdHOyEf4RVJe9U3nwd6XdFaDqBXB0cbDitdyK0nh4rqUlJtRQ==;mJLZtWQ/409kX+SveuF4UA=="
 ---

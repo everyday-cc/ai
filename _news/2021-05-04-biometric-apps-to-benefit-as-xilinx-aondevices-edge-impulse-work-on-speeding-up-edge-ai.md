@@ -24,22 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Sensory announces privacy-focused voice biometric assistant"
-    excerpt: "The new, privacy-focused voice biometric assistant runs completely on device to avoid concerns around cloud data storage and processing."
-    publishedDateTime: 2021-05-06T19:41:00Z
-    webUrl: "https://www.biometricupdate.com/202105/sensory-announces-privacy-focused-voice-biometric-assistant"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162655/voice-biometrics-large1.jpg"
-        width: 1600
-        height: 700
-        isCached: true
-
 secured: "Ag6FYK2+jpfx4UYNDcWaU7WQsURzHF1UU5nskiwpt5yorp6xxtgcahBAQSDD3l5donxKhnC8A7bHL6Qk0zyreBDWAs1oScAVEdwa2OZ+jbq9uj+rlAWZAKWzj/mzh0p/pjipV51DTPpL4iRZu+yDFbGRZWqInpUSWwMj9dt9fNwUZ5Xt8Sv1IRlVT37Peo9gQhntwT31hg3gS5I7/kFAoP/S9jNujBbt6p5Wn3ukC8Vsf718cbC04shSsMigWM3J266k2Ilbp/IHvAl3nhk1XbsFFfI15hmLGlRyo4JdKzK7PFw7t49rhB4kIyzvqgx04shuvNFdcWUI00UtsXS4PoGibflaTvNE3f+8xUV4kbj2eTh4YAZRk52jk3heHzFRLQCV+uOmriNvcA9j2AEJQbS1AXaLXZzKG4LKedywL7mypVW9f+x92FS4W/DwQEkGUmdX6Aq1LNGG9iak1rVN2JbnvH8GWWWsSUexeMCniNmTpDVNC242vwB84deVeKAHkJwaYiux0sn/y7VJnuJ+rw==;yCJUJTFmGO0S5xUUPf+3Bw=="
 ---
 

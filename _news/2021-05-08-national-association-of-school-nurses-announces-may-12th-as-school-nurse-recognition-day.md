@@ -1,27 +1,27 @@
 ---
 category: news
 title: "National Association of School Nurses Announces May 12th as School Nurse Recognition Day"
-excerpt: "Wednesday, May 12, is National School Nurse Day, an opportunity to acknowledge and thank school nurses for all they do to support the health and learning of adolescents and children across our country."
-publishedDateTime: 2021-05-07T17:24:00Z
-originalUrl: "https://apnews.com/press-release/newswire/health-coronavirus-pandemic-3e774f535edae8e7333abea068059102"
-webUrl: "https://apnews.com/press-release/newswire/health-coronavirus-pandemic-3e774f535edae8e7333abea068059102"
+excerpt: "Wednesday, May 12, is National School Nurse Day, an opportunity to acknowledge and thank school nurses for all they do to support the"
+publishedDateTime: 2021-05-07T19:31:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/national-association-of-school-nurses-announces-may-12th-as-school-nurse-recognition-day-301286835.html"
+webUrl: "https://www.prnewswire.com/news-releases/national-association-of-school-nurses-announces-may-12th-as-school-nurse-recognition-day-301286835.html"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -95,6 +95,6 @@ related:
       domain: king5.com
     quality: 19
 
-secured: "b2bG+IW2ZeLrd4oUZUuhRuGO5/6zxCFJ+3Y1x/gz1AZZdxkM7SPweSdYcfQxpcGqBaBI2ADEycpYI/IEhOfpEZX05wpj9HHCpmCY+NDkzOUIOAWMKzZ702Oo7vHfKoMlxxivQUkMOXezM9xWuCiwgG+RNByoaqGT3T9P26G1XkJD+XcqVDC3uwaYW8pESQvH4KbQFNFNQnw+r6oD/HFHh/rsXAuCM3p+8LEFLhVgVrMcx9nM7DDVE1T8Btwy7jUp8aMev+UIFy4juxsOYOA5tUu/KgjfX4s6zCy6cCw5P116ibrb+eIR5r/1Apfiz2ZwHGDXNmVRcjX4WRVDgFvE00vP/mRkBantn3JfMRwfxJE=;Av912cHrFVq524n2IXj+KA=="
+secured: "nI6KswgNLthuPxJUbd8zA+LyoEsToA932AVpOZ44Jd3SZSsok4kBhqeFz7LtfusTnKHouakaXBvnAh3IyuhIwRvK/j3ZDG+rN7CQ66E5XdxhgkhpGjSBMTcVIYspTGjCUJ6LVg77MvRGIf1bpKHD9f670GDLWGLJiXBo9WRyuerk/ovl/VTztMQtS6CAPqkcDtie2E07srcFJCAu5fDFeiFnThEoyq+z83ySe1erE7jUs6RNDbbu7feLh7pu+/8Ofdiejcizq228yBbGfgG3FOfit810IlbEDqxz8bxRDyh521YwHaemDlXvpS2Qt02nh3OXx5x614Vc6dB3YrIHv61hUkEJHXhGhw9P3BBET2A=;qRDPc+e6fCeJDmqyxz54OQ=="
 ---
 

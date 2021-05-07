@@ -42,15 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kanverse.ai Introduces Next-Generation Cognitive Automation Platform and Launches Intelligent Document Processing Product (IDP)"
-    excerpt: "Kanverse.ai, a cognitive automation company, has announced the global launch of the Datolite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Kanverse IDP is built on Kanverse Cognitive Automation platform."
-    publishedDateTime: 2021-05-04T08:30:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210504005868/kanverseai-introduces-next-generation-cognitive-automation-platform-and-launches-intelligent-document-processing-product-idp"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "CUvWdUC7pY0cYWL+D3QJ2jjlJYay4iccqApzKYxS54R+u1l70SyRQapvOmJSsySTNXh8+YKwQxdNecj/sixJdKgbqOGCTz7QRR7ZnToLB6jDaBuOB6aC7acbG1B1XBxwarAJtId3MQArAB4KU12DHf0etIW7UIrlsdbzR/R4U3vcTSRCj4JVb92GwOBleF6sGTLyyLM9Y4ysYvfTn5fn9s15HGqxBoqbhTRjdY5gASSwrpnf9f1PLV5U8Yt7GvPMEvS3XDqeY858cwssn5szKM7eN/P+QJX0vG9OwD9b5eWEn9KAxJZHBkjt3iERP73oAvS/0TeSMHA3FtJebaYwJgQfq4atMtB2NSDFH+Li0rQ=;MRTu7UaWSvO37RrQyTINOw=="
 ---

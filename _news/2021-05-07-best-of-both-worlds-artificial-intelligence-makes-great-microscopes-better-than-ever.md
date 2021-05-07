@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/best-of-both-worlds-artificial-intelligence
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/best-of-both-worlds-artificial-intelligence-makes-great-microscopes-better-than-ever/amp/"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -27,18 +27,36 @@ images:
 
 related:
   - title: "Artificial intelligence makes great microscopes better than ever"
-    excerpt: "Machine learning helps some of the best microscopes to see better, work faster, and process more data A representation of a neural network provides"
-    publishedDateTime: 2021-05-07T14:03:00Z
-    webUrl: "https://www.miragenews.com/artificial-intelligence-makes-great-microscopes-556478/"
+    excerpt: "To observe the swift neuronal signals in a fish brain, scientists have started to use a technique called light-field microscopy, which makes it possible to image such fast biological processes in 3D."
+    publishedDateTime: 2021-05-07T15:00:00Z
+    webUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.html"
+    ampWebUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://www.embl.org/news/wp-content/uploads/2021/04/Fischherz-FINAL1000x600.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Artificial intelligence can boost power, efficiency of even the best microscopes"
+    excerpt: "With the help of artificial intelligence, even already powerful microscopes can see better, faster and process more data."
+    publishedDateTime: 2021-05-07T19:00:00Z
+    webUrl: "https://www.upi.com/Science_News/2021/05/07/germany-artificial-intelligence-3D-microscopy/7341620393977/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/05/07/germany-artificial-intelligence-3D-microscopy/7341620393977/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/05/07/germany-artificial-intelligence-3D-microscopy/7341620393977/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/7341620393977/2021/1/16203947933016/v1.5/Artificial-intelligence-can-boost-power-efficiency-of-even-the-best-microscopes.jpg"
+        width: 649
+        height: 432
         isCached: true
 
 secured: "nBg7hzGuNZdMvvqOAgUFt8g49osNnmDtvTGEElkB9HdlUsQ+c6EXK6C1fdu3cr/Lbmfn97Leyi7J17hTXAeH/V2rEDkt7rphwKMU3IpOnJDVjDxo6ai1nfmkpAMNzzXO9hG2cT6Mk+HRFZxLw2vt9aK0gPmUhVD3Bn5iyEi2XMSvg4ThfXRmqJIgxodgbTtZCoR8MrWzElywKRkl1FJEFMcQXnnyzIvKbkz0Dx50G8z3VkLtoW7cs+Gj7Jf1J5FFf+tcXI9U9VHymA3oJ9hkBBDYWJGdnBiBqg4UlntuR6hycnv880HrKTPZUYDn1m9T2EFOy60/xyTVFQqj5oJobo17dDTZBApkWMj+L15GPd2RGBL7S0UALDsSMLYt3Qoza7KXcmTd/02x74zB5hr0D9+wicO74TYBObvppbgvhC4CYg+frf7uOluaE8UCvcsbBGX+/dbSpeEPAsbrVzUsLuAMigfixa6JzmyALqHgBFW0gJ3/p+kDoxBHdDGSrvzI1XwtxUVhnchlSfSsH+/Ucg==;W0Qvw8vGTYGnFY2oSzyxKw=="

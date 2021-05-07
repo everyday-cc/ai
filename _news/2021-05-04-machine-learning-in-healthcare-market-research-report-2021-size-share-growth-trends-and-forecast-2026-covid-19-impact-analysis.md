@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-heal
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-research-report-2021-size-share-growth-trends-and-forecast-2026-covid-19-impact-analysis-2021-05-04"
 type: article
 quality: 58
-heat: 218
+heat: 208
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       - url: "https://ksusentinel.com/wp-content/uploads/2021/03/shutterstock_400002673-15-390x220.jpg"
         width: 390
         height: 220
-        isCached: true
-  - title: "Global AI Enabled Smart Trackers Market 2021 Future Demand, Analysis,Outlook to 2027 Facebook, Apple, Garmin"
-    excerpt: "The AI Enabled Smart Trackers Market – Global industry Analysis, Size, Share, Growth, Trends and Forecast, 2021–2027 report provides AN analysis of the AI Enabled Smart Trackers Marketplace for the period 2021–2027,"
-    publishedDateTime: 2021-05-03T01:27:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/global-ai-enabled-smart-trackers-market-2021-future-demand-analysisoutlook-to-2027-facebook-apple-garmin/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 20
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/Calibre-Research-17.jpg"
-        width: 700
-        height: 400
         isCached: true
   - title: "Latest COVID-19 Impact Report on Artificial Intelligence in Agriculture Market"
     excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed $6000 million by 2027, growing at a CAGR of 25.50% from 2020 to 2027."

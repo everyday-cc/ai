@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Baidu rolls out paid driverless taxi service, AutoX completes 100 days of Robotaxi service in China"
+    excerpt: "Baidu has commenced paid services for the Apollo Robotaxis in China without a safety driver behind the steering wheel for the first time. The Baidu milestone coincided with another milestone by Alibaba-backed AutoX,"
+    publishedDateTime: 2021-05-07T15:22:00Z
+    webUrl: "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 70
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/05/baidu-robotaxi.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Baidu launches China’s first self-driving taxi service"
     excerpt: "These taxis have been named Apollo ‘robotaxis’ and around 10 of them have been deployed in an area of 3 square kilometers around Shougang Park in western Beijing. * Each Apollo robotaxi ride costs about 30 yuan (Rs."
     publishedDateTime: 2021-05-03T13:11:00Z

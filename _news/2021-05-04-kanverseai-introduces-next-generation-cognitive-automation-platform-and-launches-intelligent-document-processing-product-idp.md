@@ -19,38 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Minerva Intelligence announces Webinar for its DRIVER AI Mining & Exploration software"
-    excerpt: "CNW/ - Minerva Intelligence Inc. (TSXV: MVAI) (\"Minerva\" or \"the Company\"), an artificial intelligence company focused on knowledge engineering, is pleased to announce a new webinar on May 6, coinciding with the Company's launching of its state-of-the-art DRIVER software,"
-    publishedDateTime: 2021-05-04T13:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/minerva-intelligence-announces-webinar-for-its-driver-ai-mining-exploration-software-1030385127"
+  - title: "Build an intelligent search solution with automated content enrichment"
+    excerpt: "Unstructured data belonging to the enterprise continues to grow, making it a challenge for customers and employees to get the information they need. Amazon Kendra is a highly accurate intelligent search service powered by machine learning (ML). It helps you easily find the content you’re looking for,"
+    publishedDateTime: 2021-05-07T18:36:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-search-solution-with-automated-content-enrichment/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-  - title: "Zonar Named Winner in Business Intelligence Group's 2021 Excellence in Customer Service and Artificial Intelligence Excellence Awards"
-    excerpt: "Zonar, the leader in smart fleet technology, today announced it has been named an award winner in the Business Intelligence Group's 2021 Excellence in"
-    publishedDateTime: 2021-05-03T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zonar-named-winner-in-business-intelligence-groups-2021-excellence-in-customer-service-and-artificial-intelligence/article_9f407de3-fdf1-5a8d-b5c6-124fce29d631.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 6
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/13/2-Architecture2613.jpg"
+        width: 800
+        height: 321
         isCached: true
-  - title: "Kanverse.ai Introduces Next-Generation Cognitive Automation Platform and Launches Intelligent Document Processing Product (IDP)"
-    excerpt: "Kanverse.ai, a cognitive automation company, has announced the global launch of the Datolite release of its patent-pending AI-powered Intelligent Docu"
-    publishedDateTime: 2021-05-04T17:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210504005868/en/Kanverse.ai-Introduces-Next-Generation-Cognitive-Automation-Platform-and-Launches-Intelligent-Document-Processing-Product-IDP"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "h2zmsNhkaEBm2+jz9KeKcqfoXtH8UNBzujOrRkKgpufiD/w4TIYnvdm7N9nwWsW3/tF/7JOHTwFsL0qi9ymu0uW2Rsvm2yOKaFHeXJHPnT1vT80q0fjpY7eMwZg+2WF2hEbYXgNOdAoUKp8tfFyPyx+9IRLdL+hHf+Dd/2Vk1wv+aDjMNrz8zmkzvIzZK6Nj0KhgdfI/x0O2w2vhZ+43Fo+rvVVN6Nj6Vx1wNvYfjeEA71obw+1a+0lTWvllK1c+VcUydaDYk36ZlwUxZMq2xot0UhhkcgxMV7cx5zqmHiLKWkI2UX6EDJIR0yYIj9Lqa+Y9mF7enG/Owvo1NFF6yAptYY20HOFb1hTItmcuQDE=;D9eRelN/0djhsOT+csO5PQ=="
 ---
