@@ -37,7 +37,7 @@ related:
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 85
+    quality: 87
     images:
       - url: "https://etimg.etb2bimg.com/thumb/msid-82453508,imgsize-54466,width-800,height-434,overlay-ethealthworld/drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays.jpg"
         width: 800

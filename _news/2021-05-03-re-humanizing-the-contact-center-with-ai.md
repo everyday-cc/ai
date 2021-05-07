@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humaniz
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/05/06115257/Cimlogic-AI-blog.jpg"
         width: 1783
         height: 772
+        isCached: true
+  - title: "NICE Revolutionizes Contact Center Recording with the Launch of InterACT, the Industry's Only AI-Powered Agile Recording Solution"
+    excerpt: "NICE today announced it is transforming the way contact centers manage interaction recording with the launch of InterACT. A new AI-powered recording solution, InterACT automates end-to-end recording decisioning processes,"
+    publishedDateTime: 2021-05-07T10:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-19792748.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 10
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "6le+A6glTTSBkTIVhblI2vbI+V4L5FzWQ6Z+7yX012xsPfR/vuzPQzJRTVOJKt4kbFA7u6LHC+20PD2V8Y1bjgwK5kHS0tjSL284mMC9J+DmsfQap1PfwSjE/y5nQyJo3t7e0LojPsdFLZzpAW44Y9pniw+UaexcdIbjUUsEtCT4VW5pfVlE49N1wBVdMrJGELWiF6CdlntMKjCmQ8ql/KzryumybS7/+EbL2gT2OAsSNTi8fxDL7IXXh9zrgdekCrJk90rMzetjrCQ/vnkndO3wHZLyxAvHsrif6pvNSLtS5CzzNVLPO5PoYAnVEawt8mNhkgmZlyShOZnk/Cr/ewUK4lIgNuKLcd88MnNGyA60qbvaA6h7tIqycAaJE10vK0kwqI1iJ4/u/A6tIL0qi7JbCAznBUnhyzfIvN2AN0OZ2XGjuyBA0HgK1uBwWCJqW1PUpD4GsPVgg0T6u5gx4+bcSaElTxgK0CTxWfL4m356FzNdgAPaYpYp6ygJW/bMwXScoJSEB+eyh4Y2Z2g3tw==;qZAX+xQH+fUJPNup02+etw=="

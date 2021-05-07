@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/06/its-time-to-train-professional-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/its-time-to-train-professional-ai-risk-managers/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2021/05/May21_04_1210361415.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Ford boards the Artificial intelligence train"
-    excerpt: "Ford and AI. Robots already play a significant role in assembling the parts of the vehicle at a Ford Transmission Plant based in Livonia, and now with the addition of artificial i"
-    publishedDateTime: 2021-05-02T17:28:00Z
-    webUrl: "https://techstory.in/ford-boards-the-artificial-intelligence-train/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 54
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/05/industryweek_2512_bmwbestfitdoors.png"
-        width: 768
-        height: 432
         isCached: true
 
 secured: "/wsUnMIZbjJX/Tum4I3JUED/TFdY/961v65Fapawhjuwlq/VqgwoiYFdlXa17+2nGYAR0e1OLw25EmPLiVegrExj3aru7vsIRRTMaEkiqu90wKG8gZqi9hweoOlr4dm3jIiV/5OGVdTvKvf77EAJ7Zry0pcwpyDDJ5A7XXgUsybKT4jLw0uP/7XrInxr09Kcgg0FjV0DU61ro8m0GG1JoSwxdrqEcfPRnGMNJrszlH9Ffz/3RlCgo3QrIrCFYZzO16LWb3EZalpL6K85RT1XJlNfke/zKAOYrNzrcpc3e2RC1CHmIP5nO3TBwCp5JjYl0yUHLtd4/HIrSTtakr51iZHRmBaS1Z1qvvFwR206r6RAvhMJhJf98x2UuNvePS8lIZk+0BOGpbwreQ9vihckpIwdp9BqqyCY/mm4LMn23WS72LRM8oGqaQ0KLh5+7CezbZz8b9zbGm1zEopgrMepRolEIq3OZedNJYz2xMNdW4XwMTdm7qmoxmVJriBwinx0jMaIWx3UODcghu4lKKXMYA==;xszw/2yUchQVbf7klSFWlg=="

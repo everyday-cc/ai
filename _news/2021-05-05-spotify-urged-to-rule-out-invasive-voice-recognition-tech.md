@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Spotify urged to rule out ‘invasive’ voice recognition tech"
-excerpt: "A coalition of musicians and human rights groups urged music streaming company Spotify on May 4 to rule out possible use of a speech recognition tool it recently developed to suggest songs – describing the technology as “creepy” and “invasive”."
-publishedDateTime: 2021-05-05T03:32:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/05/05/spotify-urged-to-rule-out-invasive-voice-recognition-tech"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2021/05/05/spotify-urged-to-rule-out-invasive-voice-recognition-tech"
+title: "Spotify urged to rule out 'invasive' voice recognition tech"
+excerpt: "A coalition of musicians and human rights groups urged music streaming company Spotify on Tuesday to rule out possible use of a speech recognition tool it recently developed to suggest songs - describing the technology as \"creepy\" and \"invasive\"."
+publishedDateTime: 2021-05-04T19:44:00Z
+originalUrl: "https://www.reuters.com/article/us-tech-music-privacy-idUSKBN2CL1K9"
+webUrl: "https://www.reuters.com/article/us-tech-music-privacy-idUSKBN2CL1K9"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CL1K9"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CL1K9"
 type: article
-quality: 24
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2021/05/05/1137699.jpg"
-    width: 1240
-    height: 826
-    isCached: true
 
 related:
   - title: "Campaigners call for Spotify to disavow ‘dangerous’ speech recognition patent"
@@ -129,6 +129,6 @@ related:
       domain: law360.com
     quality: 24
 
-secured: "ZxGsdhJ52kN8yCWvOIQ/0SMPjaWPPkL4wWUz057TjJW7pbzDYaXKzZ93/XXD/pRI8voahTq/Y9Oo+d328KBiGgwoHLLkao1jpdCqsq+eNjqzADirUHjZYcw7+yr3JAwvV1ArR7jrBUaI0xcCidGTw3tSkymFHedWehV4F+mtCsOtVY4ikhdaORt0LsXvBRoGzGiuLtiPkNKIXcq4Jxu2r3S5goK5A+OnD6+JREsRqbd1MujJQYvQ8hq1slPcXnp+u45M9oG56tm0xJrWSfBfHK/RJHVgkDb2n1br+UVdPZ7BLM6em1YU5gei6yH2Y+TukosDWv8dJjxZ195W7NetnK7HMcPOpYn4rPOworfYHULhcsVEbyVSRsTZZuz6PlropTDkjigj2rGTeMQAq7x0j27AFk8UPBN9LgNlfh/oC/J4x4CjRnE8e7Q1lL13tBEW5sLMLLOPcZkPH7BbByDWt9s3biV3Yt5AdM90dYvuOqbOwP1bSkGxP7D/kUeU3kwvJZezkeONWwFu3fCNoAUDOA==;JWztBUtwAiZ2Wwj07ghB7Q=="
+secured: "RUGcKR27sK56DUCTyjok30AYthOiaegh+bNBRPTWInp/Stjl4DIZShij5YG+rlba8aU/Y+8UYZaKJLAEs7c6nDrHiWVfmay77RCHURzHILkCPg+MxMg5jC/pX4JnO39sDps7+dmQnRS4D7D5BRfGfCzuqN98/I0RxczdXe68Svrtjakf60cwe66e7f+DpFzzK9HFtkTicnXnIckZFwFGeTVyWv7XqoCdcYnra33XgH+TpNSo5wEJ6ZM7n4XIRihqohKDbarKs9b1GHzAQ3vEMTIxbnuGN176Gph//YAyH36XXBmBTGb6p4y7DIPGKwY2TA1swyKWXKT406R0ogV58lLRM+qSdXR88GZ6XunpQ5k=;Nw86K7vqoD+I1d4oSoVcFw=="
 ---
 

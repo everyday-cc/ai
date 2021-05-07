@@ -84,6 +84,17 @@ related:
         height: 551
         isCached: true
   - title: "Spotify urged to rule out 'invasive' voice recognition tech"
+    excerpt: "A coalition of musicians and human rights groups urged music streaming company Spotify on Tuesday to rule out possible use of a speech recognition tool it recently developed to suggest songs - describing the technology as \"creepy\" and \"invasive\"."
+    publishedDateTime: 2021-05-04T19:44:00Z
+    webUrl: "https://www.reuters.com/article/us-tech-music-privacy-idUSKBN2CL1K9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CL1K9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CL1K9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+  - title: "Spotify urged to rule out 'invasive' voice recognition tech"
     excerpt: "A coalition of musicians and human rights groups urged music streaming company Spotify on Tuesday to rule out possible use of a speech recognition tool it recently developed to suggest songs ..."
     publishedDateTime: 2021-05-04T15:42:00Z
     webUrl: "https://torontosun.com/technology/spotify-urged-to-rule-out-invasive-voice-recognition-tech"
@@ -112,20 +123,6 @@ related:
       - url: "https://musically.com/wp-content/uploads/2018/04/spotify-gramercy.jpg"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Spotify urged to rule out ‘invasive’ voice recognition tech"
-    excerpt: "A coalition of musicians and human rights groups urged music streaming company Spotify on May 4 to rule out possible use of a speech recognition tool it recently developed to suggest songs – describing the technology as “creepy” and “invasive”."
-    publishedDateTime: 2021-05-05T03:32:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/05/05/spotify-urged-to-rule-out-invasive-voice-recognition-tech"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/05/05/1137699.jpg"
-        width: 1240
-        height: 826
         isCached: true
 
 secured: "aemfH8Ci7AKnsI0abjdUwwHG/LbqkChnN+MdnS6dtaDKiYoUBaRIDJ9VQDU8drxhbkNRCIBsGhMn234mhanETU6sJOQeQUnkna1PTRzxOvMv6pMgouH/BDlYRtidkd14Y/4YYZB12Bm8o3JZmPKppQbhnEH8zex/9jeEVXCeUwyQhhXLyp6Om+MMTNMNS0KzvknyQEuF8VXC1QqK8oYIncE/32qOijrNJCQXNTTvbkomi6kek50JM2FzolJNTo6gtt4DTGUdtb+6JNve5nneR5E/4F+LKrwb+Xh3Rd62VKzf1enAPkSnGxEZfZiG1aApxwAL7s/JmXq/ou/8kHBut5nC6UD/oHYC5HoSqXgVkFA=;FA9j6PseehydFwILRVDSkA=="

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Baidu rolls out paid driverless taxi service in Beijing"
-    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China."
-    publishedDateTime: 2021-05-02T17:28:00Z
-    webUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/baidu-rolls-out-paid-d.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Tech giant rolls out first driverless taxi service in China"
     excerpt: "Chinese tech giant Baidu has rolled out a driverless taxi service in Beijing ... Kelly Wang and her husband, who work in the artificial intelligence industry, said they had a smooth riding ..."
     publishedDateTime: 2021-05-03T07:05:00Z

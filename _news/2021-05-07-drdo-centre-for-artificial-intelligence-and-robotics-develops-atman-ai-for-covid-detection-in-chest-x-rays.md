@@ -8,8 +8,8 @@ webUrl: "https://health.economictimes.indiatimes.com/news/health-it/drdo-centre-
 ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays/82453508"
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays/82453508"
 type: article
-quality: 85
-heat: 95
+quality: 87
+heat: 97
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://etimg.etb2bimg.com/thumb/msid-82453508,imgsize-54466,width-800,height-434,overlay-ethealthworld/drdo-centre-for-artificial-intelligence-and-robotics-develops-atman-ai-for-covid-detection-in-chest-x-rays.jpg"
@@ -44,6 +45,6 @@ related:
         height: 667
         isCached: true
 
-secured: "dAD3fiGpdmhvk8l0BdEU3t18fIpaWMbosTUAf+wQ/iAyVJJVbJs6XwzWapOkmsxPOlsri5Xoi43EPrYFHiICroIaZEwIAoevcZcG+eupF+mKwEYlWVsE8FxysFbiLLrG4Cq9IyFAEAffsDoV7y8BpVhT6OwBKUTt8w7qHIcesKSeeEeGADwA//uhRKXbbIuyDw5L1dvVAvMbP5RPJ257SRWvoBvZ4OQu9Xizh8UNqyiw4OuNnPaQWjCiu4JzMXhUSXd3k+0cTh2V5Z7B6/blKmgX5gINPQtm4oYrV1HMS1HL83kOZcITs06jGLM4l0MFclizTXWOj8uIH7KjPqktVvvnwOklgCqgjSsaVZyB2Z4=;P1yZX/5MwteJYKYU/23SAA=="
+secured: "DG1k1IkdyYDHuGOVTND/NdDE8GiiCzt32wQvVDwcO/N8J29tcuR2Bx1IkxBZ6kefzTPJ6dau6dujkMtyjuPzYVpVzuhCGlxAJ/SVMbJftpVs2cVsJtSK5mXStMFR0iahYswFkQTHCZyi3v+rkw30CEmpvnJPEnfusOC4d9GVJPQQ7oCv73uvizzAhip2+HT76PwyBR+JNAIOSaN0nI+dKx2ItnkjN8lC2Vl684JJeLOo2URCaXbQNDr2Kp3J2M9GgWAxaCf7aVxpE3qwWCuckqvHr5r1QHdthp2A5ela1FDGHWq8PuL3TKKMMEvbZxH5vf6Kqs9ppsNr45NCGLLBS6b83GKIoM8a/aJdi9vk4H/NhEFnmrkapgZMjDkGfBuASr5h/xDQaZz3TzMeXr0k7T3J7sSLIHHpey6D+z5UMqURdvCT1aDtngRqe7fuRhaySiLYd85xcJQVdQFXevpuZ2gNgNvUkYX/wxTniC/bOJWVCkX5CbreuKal/OCsjVYM3DrB0jKB+x7uvhKiusGHNA==;f7pzEDsvm3VLdrW2w4j7fg=="
 ---
 

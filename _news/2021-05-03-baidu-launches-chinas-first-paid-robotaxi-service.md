@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-auto
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/?amp=true"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu rolls out paid driverless taxi service in Beijing"
-    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China."
-    publishedDateTime: 2021-05-02T17:28:00Z
-    webUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/baidu-rolls-out-paid-d.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Baidu launches China’s first self-driving taxi service"
     excerpt: "These taxis have been named Apollo ‘robotaxis’ and around 10 of them have been deployed in an area of 3 square kilometers around Shougang Park in western Beijing. * Each Apollo robotaxi ride costs about 30 yuan (Rs."
     publishedDateTime: 2021-05-03T13:11:00Z

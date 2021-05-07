@@ -1,20 +1,30 @@
 ---
 category: news
 title: "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud"
-excerpt: "IBM today announced a definitive agreement to acquire Turbonomic, an Application Resource Management and Network Performance Management software provider based in Boston, MA. The acquisition will provide businesses with full stack application observability and management to assure performance and minimize costs using AI to optimize resources–"
-publishedDateTime: 2021-04-29T15:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities"
-webUrl: "https://www.nasdaq.com/press-release/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities"
+excerpt: "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT"
+publishedDateTime: 2021-04-29T15:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-secured: "1IYMx4e/AHE2UPpCjnZ/BDtXXufimVfD/qSqDskAw0C/STn3HX221uu5qgew0qu4pKJ41HiyTLoWhE7Woe+PyiI7ixDbLF4i7dMM8fsQ/V6zc68SxQWlf3pI139dnCPwy1jy++y95YOa6NhKWbbJu3ziJtHdPXrnmPt3Dpr+KHuMjtuN4o6w6Y7NaxXROl9BX6s9SPuL/qr/I1tydQhpAEhLvOGxLPLn9L79xO6PuILzAF/B34RCYeV75RaVJ5sw2feH+WqiVNH/OSaHCdgzQxq68YeUw0q29eZjITNSPQHapBa3dJnczcGZhNtJZair2+5MMaj4dlQHzpumLVZ8f4Gpcv89ACmS9j6ury5QFtw=;L2AWsBoCZWhdJ4BiGQNKiw=="
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
+
+secured: "avY58oRkYCv2i5lJBL3P14k72f04iDTEbgOBnunsCMNGssNxaX62szWnG9IzHc6uqj6fm6VSDHQHMW6vNrEHlKyTxaX8LO7Nbq5Sdwjz1o8cnDPHwvi3CINvXvwu175dvXPQDgXQk6rArSQXo2y9ydPH21pYWn21/FGBOxsUkhefDSNWS2NW1+PnqXSxRXc8Gdoq8syA72JtvyHcXhFcJDAsKcmqv++I0adJdIeXWjpk/Gnyli+b0d4P07h4QnbW2VKjDX2SWKSjjlFVCc5NXZSNEGiOeNY7wQxn2HBgiit+qxR8nGlrkQEXHPP4Q48/590Ib+oqVgbikKmQ7mwcVIiZe3cN9TEInJRLJn3GJkk=;zbTthu/qTabZ6JwltcVepQ=="
 ---
 

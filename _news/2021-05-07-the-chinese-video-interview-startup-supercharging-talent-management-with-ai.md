@@ -70,6 +70,20 @@ related:
         width: 1783
         height: 772
         isCached: true
+  - title: "NICE Revolutionizes Contact Center Recording with the Launch of InterACT, the Industry's Only AI-Powered Agile Recording Solution"
+    excerpt: "NICE today announced it is transforming the way contact centers manage interaction recording with the launch of InterACT. A new AI-powered recording solution, InterACT automates end-to-end recording decisioning processes,"
+    publishedDateTime: 2021-05-07T10:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-19792748.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 10
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "udsJRvVlvkiDKIYZ2FmvRye6P1RRbLAug8A0UX7LjXADHMyo7WDOamodfo2Og+kzNGAO8t45PB9C7OmnrFy/W/pwCrN1j86q23CkfHG/eEnMZVtPA+5J0vTZaBaRRaeMq35YC547W7H8s60cTUm1cDQJeHeCDXSqKvRdPXS435+bge8uzIhcePQyJmV1Z8iBKZkLQKvNjCg/1rqiJmEY9R7uEDADqjEXNGQCtN7nSQPQ0FkV6UnJPMEXNzrTbeHyAg6vF9WpslDBKvZkF9r93c4MxABE/wYXAdlA4OFdSI3iSUBgPyAdUd2TJ6+vpiv7dlkvlAnXT530+8SGE6uc7J2Fnl96tkkABgwrMwJJAt+wIFUnoy5liKQ10iAPPGiTco6VayfTNhAdw0YzWzQayvaf6+ID8b6OdMdRoot0juPSCb01+NVnzNJ1UFUfem7PoMdMHZ0Zd0v0ylzJFbYlc/dxZ3g6bUqDamiNZhnjgEsdJttjwNksXgV8zABm9UxVwy5fOjfBaMRM+CE7/mci4Q==;HqeOtzAbTPSdbjan/JZXbA=="
 ---

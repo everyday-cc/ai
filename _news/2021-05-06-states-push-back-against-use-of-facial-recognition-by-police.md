@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/States-push-back-against-use-of-facia
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -153,6 +153,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/assets/v3/editorial/8/00/8007df1c-1184-5d00-802c-44b6f4ef71e5/60931ff7b4896.image.jpg?resize=800%2C533"
         width: 800
         height: 533
+        isCached: true
+  - title: "Massachusetts Pioneers Rules For Police Use Of Facial Recognition Tech"
+    excerpt: "Massachusetts is implementing its first state-wide rules for police using controversial facial recognition systems. But not all privacy advocates agree that regulation is the right step."
+    publishedDateTime: 2021-05-07T10:25:00Z
+    webUrl: "https://www.wbur.org/npr/982709480/massachusetts-pioneers-rules-for-police-use-of-facial-recognition-tech"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 39
+    images:
+      - url: "http://media.npr.org/assets/img/2021/04/29/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg?s=6"
+        width: 948
+        height: 710
         isCached: true
   - title: "Facial Recognition Software Fuels Growing Concerns in State Legislatures"
     excerpt: "Lawmakers in at least 20 states are weighing curbs on police use of facial recognition, citing concerns of accuracy, invasion of privacy, racial bias and civil rights abuses."

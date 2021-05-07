@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 633
         isCached: true
-  - title: "Ford boards the Artificial intelligence train"
-    excerpt: "Ford and AI. Robots already play a significant role in assembling the parts of the vehicle at a Ford Transmission Plant based in Livonia, and now with the addition of artificial i"
-    publishedDateTime: 2021-05-02T17:28:00Z
-    webUrl: "https://techstory.in/ford-boards-the-artificial-intelligence-train/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 54
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/05/industryweek_2512_bmwbestfitdoors.png"
-        width: 768
-        height: 432
-        isCached: true
 
 secured: "FfFUBjh8vHVcaqFpXVWc1pTyyz7CfGePce26NQsIUFdc3DCEIFHQFWyTNlwyuLrhMUo3i3V0uai9KH3PR7xd3srLd3BfQMet5XAqJN4ju5ZI5ivpFopRoOd69PngKaW4Bvu8DlrsghZSWL84pYu3zWq/KYNLmtWh2v1+CeMlj/Ap1LdZIXyLzmI6kjdfdaDnymFRZCehzgf2PSG4jsmzxow4XfpPGfJN4aXUp+hjNqoZqAqMRtLtVEADCruBqC/vFZAaal8RrLkFB874HIdaS495CNx2QFw/kA9svaVUdi/DSYLOgfQ+tIwB+GHH1+uJjjLJMYGRwQueGDA5ce5JaKFbyzyCf/4j4EBfwaFqjSO57ckt513+MTpyU1ukagYVjkS5/8OtwMAilqEgJFgOQOUeyHjEoINS9nJSffqT5+r8Yd9cLxaTXO2CMVmDj4EPAeEBDMLnomcecr6GFoO8laBzrTyuNvs0hkA7Jlty0H1ACGjd61C/4Yf6l++vuXhzRpy4olVoSUCq/EKaGvQqUQ==;HjhNqJ164Fzgalj+noQT2g=="
 ---

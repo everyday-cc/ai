@@ -1,27 +1,31 @@
 ---
 category: news
-title: "IBM Unveils World’s First 2 Nanometer Chip Technology, Opening a New Frontier for Semiconductors"
-excerpt: "IBM (NYSE: IBM) today unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
-publishedDateTime: 2021-05-06T10:11:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-f792d8ab208a181a00d1b2a331d01536"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-f792d8ab208a181a00d1b2a331d01536"
+title: "IBM Unveils World's First 2 Nanometer Chip Technology, Opening a New Frontier for Semiconductors"
+excerpt: "IBM (NYSE: IBM) today unveiled a breakthrough in semiconductor design and process with the development of the world's first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
+publishedDateTime: 2021-05-06T10:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-world-s-first-2-nanometer-chip-technology-opening-a-new-frontier-for-semiconductors-1030395307"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-world-s-first-2-nanometer-chip-technology-opening-a-new-frontier-for-semiconductors-1030395307"
 type: article
-quality: 26
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -37,6 +41,6 @@ related:
       domain: venturebeat.com
     quality: 84
 
-secured: "V336c7ureCCUE8iY48VEAthOVIy2BUuDYEVC+8EBn5aAP2fjJYdhpZaf6gvD0fGhSoR4Rv1sRhU694GcyDryY9eEuT3+ALiU2Y6DQRDg+GtwvlfgOVJnLvYCkcX5rf5f+q2cojJKBNbofIPFFkxt08YAg8zxXxLfxdw90o8WGpK1yHS9tPVdbSieEVJC1QH9JF13gYUTeOkJY2ykY19HgOALtw/YMkCRdX1X2qurxQXJpAsVtLKKh3yQBtIOlVs+hGN1giu7Bx/udbtZyLRHFz59IBUN9Mnzxocf+FfFgGwqNncoIetJMS+yQLtNyqt/KIMD47z9m3F1RgCprpJO2WXr9p/ayeo+bffTfTiJLVQ=;do5jva6XnVGkUhSYxVxSYQ=="
+secured: "wKTjiMjXCjpeAfnTUsrTZxM/cKdcObGBK31LWHJFYxEdmDHr6ntxRPjcevFxuFN0QyDVO+17yPCyBk/0sjlWtFqa3oR89JvzgL9iw4MMESldh1+bbViMGuVdcMkZGr2XG5zuxDyW3MwNCrb86CBIy6VWMOCN6FaBK5UJpsmrV5oABnVdKVWrCkSD/tfyFU1rJg1JgdDo5vcb5p9jEczvqT9+xj9awOEqaNIzXsqs72H3h6RvQDZhIHG56EOPFJmWPukwyjcOXSaVzB4OLg84lgtiP2BfEnru4xqarmUq1ohwz1aASCu9/q81/FTlsPWUapFAU/dc2F/W4RzodZOjerxV36wJ61htH7DREWx+T8A=;oV24THZvFXAaYRfQ6o9yyw=="
 ---
 
