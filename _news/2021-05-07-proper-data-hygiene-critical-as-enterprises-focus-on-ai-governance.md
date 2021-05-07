@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-ente
 ampWebUrl: "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "zNG4Mr9oT0NHmgbDduGhe7f52wMSBdwo7U5xJaDRK2I43hQys8/MBxdxf4gGXTquZq3sCZ0Fm5n2sRlyF1REc6/C+4y4OzPOPl8Vp+ub8UYWnlda2JRLh/hAZIIyspzYhqe3OfZTZJipdLl/7GGE/MRgrcNCs1jMM5vfHK3o2tBAl1lyQdtSqZxPLR0x5sMQ2pLQUjJ0Fj1AMknW8cCzuDC5UK7t+M5CLO2xR1vkQ5puZnhLOBnqqoNb1ziMPKGl1yeuks/jL8JnYNIPAhhk5Nfg5LrTRPLLuNaHSXu28IcDN2YNDDLJTwVtb6VTH9ia4Xty1Fb6x6iCWMRMpUXJsuWnJxpSu/jZEV6NNGOLoeU=;vELNiwETpdTwb8WEgqTsRw=="
+secured: "b3NrhwNQ3o8mJZb/40r8zMUE/2OsKUhJAc4rnW2mpL5C82tjPVsg5MNBVxh/oOG8q76nAfJUmc5IVrXOBSvD4Uah9Q7Cj11iT7i2VXhR9cpbAi+tIDFGmQXzHY41Njicph3JyB0lC4gYKFuL9TZ42t6BvS052XSWbrxFUeDn6Zwhe3VBYQoesPjcoO9R7Ykmc3bis11z10o3lotEjWM05MNzLMuwvXNjV0LzLFS02DFxA8JO9LQmbrPT6nSczNDK4mgk/HJsqknMN6I3nlVgezb2J25F606ent+kvdwCjUBNhB32H7zA5IdYXUgQZTUxEqamPjlyjrVV7N+opOfsh+x8LMi39V7MeND9uLCCJdrMuMi77GMyYrFdpASBhh7fAdztw0jj9lsVmP+CHcsQ6mD/I6BcWIPynwlER0kpX/AMqPANc0mizRtbIHWFNLRbbfbhAmasOxYYeySuyH+OhXb8VBmE1f03KCqmsTDTtZ+ywo1gFilCSlh9WbqhF+ruXwentOKr7uELg//MY9bz1Q==;vN5n60wLJ3wQ3MkyXx7eyQ=="
 ---
 

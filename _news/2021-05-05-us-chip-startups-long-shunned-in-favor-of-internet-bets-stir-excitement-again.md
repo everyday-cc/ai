@@ -1,29 +1,33 @@
 ---
 category: news
-title: "US chip startups, long shunned in favor of internet bets, stir excitement again"
-excerpt: "The enthusiasm for chip startups is mostly a result of the need, by companies using AI software, for special-purpose processors that can efficiently run machine-learning algorithms requiring huge trov"
-publishedDateTime: 2021-05-05T11:52:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again/articleshow/82405999.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again/articleshow/82405999.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again/amp_articleshow/82405999.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again/amp_articleshow/82405999.cms"
+title: "U.S. chip startups, long shunned in favor of internet bets, stir excitement again"
+excerpt: "Silicon Valley venture capitalists, long focused on software and internet companies, are again pouring money into the semiconductor industry, lured by the promise of a new generation of artificial-intelligence chips that could challenge incumbents like Intel Corp and"
+publishedDateTime: 2021-05-05T14:57:00Z
+originalUrl: "https://www.reuters.com/article/venture-capital-semiconductors-funding-idINKBN2CM10S"
+webUrl: "https://www.reuters.com/article/venture-capital-semiconductors-funding-idINKBN2CM10S"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2CM10S"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2CM10S"
 type: article
-quality: 70
-heat: 90
+quality: 99
+heat: 119
 published: true
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-635726,msid-82406019/chip.jpg"
-    width: 600
-    height: 450
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210505&t=2&i=1560981592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH440J4"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -51,6 +55,6 @@ related:
         height: 416
         isCached: true
 
-secured: "ftAvajqSpVPhnA+poYhPss6++EHhjpTr3ygHnBetSo34+F33gNuFayVAO+8UCqDzztC8T50ovPRA4Vv5D8o5TeD6pBPE/urPVbdiqkcs+UMH0GdtsQdr+jm6o8ZSsrdJ90GrN2JMIaQfNFfX9oNHZA4RdKgc22s1q8+X5AD8X/q/EuRJeadQ4hL6qDBWv5qstnPbrlz+S1IJzuB5/U3vEzlui48Te7g/WTlARwzMEePIVz4XsmiPykBXmtKr50W7dHlEVoUTZVC7ZDF/BhOlUkf3FF39eOhLwFi+rI2JunX6Hp1VTWH3/LiKwm7gOgfM/+wrkRUyfzLsWr2yXq0qh94bD6rGXDqhEAZ5GkyQDxE=;/PkH9QHScwJ9t02dNfIqDw=="
+secured: "0Wb/HYuePIp+V8RV/kwLTj9D17u/1zNj5bEmXOzfHmUf6ZP1whHmlyeHNlh+6Wwl8WkmmPC6AtCTx8bv0mrN306DN7GmRaVaLnixYAQOQkgo1yEtk2NO3kgsnn8Nl0F1QWQyZ82kRQEwS9ZJ7CMrDiT55N+f5jaJ91D1mVkOvG0r2sN1ArYAsl3ubQefh1MQSVE0H/cC26SUJEYiZSyju8eJX4s2hyZ1BkpshwHX6NOHM3X2ECbSQdnAm7zYG1dokQ0Y4213esHic8c1uEch/cdJ9043aSIuabtmUXQ9muSAchVQvihIZ43mMZzvFxu7EJKQFkEne4jdMgsN4zyE0qdkKUlvBklnWDNSI8PiSF4=;6Xp+qrru6ytfcDDLqniPJg=="
 ---
 

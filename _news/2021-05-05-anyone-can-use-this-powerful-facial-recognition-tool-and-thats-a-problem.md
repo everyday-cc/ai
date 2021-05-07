@@ -43,7 +43,21 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New facial recognition tools and defences for data and privacy protection"
+    excerpt: "New tools have been developed to help consumers protect their privacy or data, either from or with facial recognition technology."
+    publishedDateTime: 2021-05-07T00:22:00Z
+    webUrl: "https://www.biometricupdate.com/202105/new-facial-recognition-tools-and-defences-for-data-and-privacy-protection"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
 
-secured: "/+WfRiZANrwS2xmyMTJgz0xtfZTC9IIU4cLUCb9rhDWAX8ey/ou0TbrlC5ZF17OLIM5NYBUMOWc/65kc4rp290zMWC+ff/4DkeT06YiCcUxWxizjIriWVcZKRjmggBrwB7S40Cxx1iiT1drLscwAEEVaJuloawtR4lxbyC1mnlsW2O3SebwsW9hc/FLEKokHUu81NzrXn1TUthPrXqYLwmdHSpbBVmvDAJfu1Gy5K3tzPEwQZUV86riaO9/AbiYo2mUdnYFbH4YKZOz3ItK1blyZTDfzHYU/o7Q02u300NpTsQje0adE9uyfjD9KL8JawWrhsfNxou0vzHGNnyzwRumEEMWOqj+URv6WaEwqCCI=;16Pgi06ibBLwjtnDrCm7sA=="
+secured: "gxhfKvtJTtPoWusF96VFJFR4qTOEDAklhNCO4uUVmX6kmAmj7BPJZJPS1zDWxtI54C5hdTbkuVLIU/m+kV0D/gpBoLZxS89L7BLTEqn4iX/pUpigvdTzrK7JIWzMGV6vWmh5FUpsRBKr/p7auWJVzS5wnzJfGD8VMsIYRHTauyMOx4SmH/eOeohIrUR1oF/zEoTlAJZUY3JNlASIVp6RQGcvDh+0AI4zoxu8DlhluxCWUTyArIjZx9FheQfX02+yb6yHVRsFnG1hLYKds0EA2QGQwiUbZCQJy5AYGdnevdQUsZauXH57RVk/HvoUAE+Kp5RbbdywIZn04Fsw51Zqi4XVK5ur+Z937HB8GhIP0MjNcH6lejWy37B5VbM/5XeT6fEt+l/2qv4MXXlp8OhQapUn6EJMqLnfzksXFqvCHYKdIF7aHdKHEnlgEoaceuuvMURTJHzo2s+Mhwgk5789gGGo9AZBJW0CdbsMxGawNH93ooIt0Q6TgoHFfJfy4aS8sT75y06eaLe+kkrvTGx9Ew==;JUFMEXGgaG4b8ZLVrU3noQ=="
 ---
 

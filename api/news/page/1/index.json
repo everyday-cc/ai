@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -455,6 +456,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem.md",
+      "title": "Anyone can use this powerful facial recognition tool — and that's a problem",
+      "excerpt": "If you upload a picture of your face to PimEyes' website, it will immediately show you any pictures of yourself that the company has found around the internet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/sci-tech/anyone-can-use-this-powerful-facial-recognition-tool-and-that-s-a-problem-1.5416549",
+      "originalUrl": "https://www.ctvnews.ca/sci-tech/anyone-can-use-this-powerful-facial-recognition-tool-and-that-s-a-problem-1.5416549",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/national/sci-tech/2021/5/6/1_5416549/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2021/5/6/1_5416549.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2021/5/6/1_5416549.html",
+      "publishedDateTime": "2021-05-06T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1180,57 +1224,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live.md",
-      "title": "Toyota AI Ventures and May Mobility will talk the future of the transportation industry on Extra Crunch Live",
-      "excerpt": "Besides a passion for progress in the mobility space, what do Toyota AI Ventures’ Jim Adler, May Mobility’s Nina Grooms Lee and Edwin Olson have in common? All three of them are joining us on an upcoming episode of Extra Crunch Live.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/05/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/",
-      "originalUrl": "https://techcrunch.com/2021/05/05/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/ECL-2021-05-12-1-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/05/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/amp/",
-      "publishedDateTime": "2021-05-05T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

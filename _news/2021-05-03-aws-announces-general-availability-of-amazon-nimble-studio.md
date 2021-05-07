@@ -33,15 +33,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AWS Announces General Availability of Amazon Nimble Studio"
-    excerpt: "Nimble Studio makes it easy to set up a content production studio in hours, scale capacity based on demand, and render content faster and more cost-effectively Anjekumi, CalState University, Evil Eye Pictures,"
-    publishedDateTime: 2021-05-02T08:07:00Z
-    webUrl: "https://menafn.com/1102010717/AWS-Announces-General-Availability-of-Amazon-Nimble-Studio&source=30"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
   - title: "AWS Announces General Availability of Amazon FinSpace"
     excerpt: "New purpose-built analytics service reduces the time it takes FSI organizations to find, prepare, and analyze data from months to minutes"
     publishedDateTime: 2021-05-03T23:11:00Z

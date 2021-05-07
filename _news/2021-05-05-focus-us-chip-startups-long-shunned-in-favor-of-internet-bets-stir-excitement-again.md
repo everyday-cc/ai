@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "US chip startups, long shunned in favor of internet bets, stir excitement again"
-    excerpt: "The enthusiasm for chip startups is mostly a result of the need, by companies using AI software, for special-purpose processors that can efficiently run machine-learning algorithms requiring huge trov"
-    publishedDateTime: 2021-05-05T11:52:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again/articleshow/82405999.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again/amp_articleshow/82405999.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again/amp_articleshow/82405999.cms"
+  - title: "U.S. chip startups, long shunned in favor of internet bets, stir excitement again"
+    excerpt: "Silicon Valley venture capitalists, long focused on software and internet companies, are again pouring money into the semiconductor industry, lured by the promise of a new generation of artificial-intelligence chips that could challenge incumbents like Intel Corp and"
+    publishedDateTime: 2021-05-05T14:57:00Z
+    webUrl: "https://www.reuters.com/article/venture-capital-semiconductors-funding-idINKBN2CM10S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2CM10S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2CM10S"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 70
+      name: Reuters
+      domain: reuters.com
+    quality: 99
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-635726,msid-82406019/chip.jpg"
-        width: 600
-        height: 450
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210505&t=2&i=1560981592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH440J4"
+        width: 817
+        height: 545
         isCached: true
   - title: "AI Chip start-ups interesting Wall Street"
     excerpt: "Nvidia rivals  The cocaine nose-jobs of Wall Street are starting to get interested in chip startups lured by their promises of AI and special-purpose processors that can efficiently run machine-learning algorithms."

@@ -58,6 +58,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
+    excerpt: "Competition in Australia is heating up among Microsoft Azure providers, with local players challenging the global giants, ISG (Nasdaq:III) says."
+    publishedDateTime: 2021-05-07T00:20:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210506006308/en/Rising-Demand-in-Australia-Intensifying-Competition-Among-Microsoft-Azure-Providers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 28
 
 secured: "CrwwWPR0/utNbIcZUREDk1x17fJMwibLoj+dT7ItD4dqlQVyeeDURF9pa/Ve0NWZBWhncdROnyEN698lK03Ma4oLxLhaC0WrTxyUDWXtavIPccsMhFKcmttUiWpr3vVnttVrZvP0AmXvFjfLLB3zVNBXfBTT3zoqofM2pE+/hHUyd3wfxCDMXj2o+TimQe+VIgM1X/8rAyOnEZZuPdTiQaoZru1RJkcaQnVbkbOJYabXnnIZT0OKCctp+S2oRSJ2gNJtc34fqnYOCUXHPMWDYv7pHKGm5YJEurO3+Jyat1Fga1YiOhq6dfHJyzGPx7dMqxkOxUy3pU2YZKvHafgvSss+XxcEKLPfVlQqSvTEEa2DD/mFSqLTc+X3MbD80OID4ayXnCV9p545R7uM28u9y0+K3AebLhg9Kh9HN8kNmnVP3IXdyGaCRBtTVYqtf43/D2xSoRbZ06vbhgSTHNISqEfhx2kG7h1YgaaT275bKVpm44zluepTFtyssVXs8yReZwtQXSGtiKAd6NzihTb5HQ==;gvFxTm3C71TpemY1NOsvyQ=="
 ---

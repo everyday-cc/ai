@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/genpact-and-fast-c
 webUrl: "https://www.fastcompany.com/apply/world-changing-ideas"
 type: article
 quality: 144
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://images.fastcompany.net/image/upload/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fast Company names Amp Robotics a 2021 World-Changing Ideas finalist"
+    excerpt: "Amp Robotics Corp. , a waste and recycling robotics company based in Denver, has been recognized as a finalist in Fast Company’s 2021 World-Changing Ideas Awards. The awards honor the businesses, policies,"
+    publishedDateTime: 2021-05-07T01:01:00Z
+    webUrl: "https://www.wastetodaymagazine.com/article/amp-robotics-world-finalist/"
+    type: article
+    provider:
+      name: Waste Today
+      domain: wastetodaymagazine.com
+    quality: 54
+    images:
+      - url: "http://www.wastetodaymagazine.com/fileuploads/image/2021/05/06/MixedPlasticsNNAIImage04-002.jpg?w=736&h=414&mode=crop"
+        width: 736
+        height: 414
         isCached: true
   - title: "Fast Company Names AMP Robotics AI Platform a 2021 World Changing Ideas Finalist"
     excerpt: "The artificial intelligence (AI) platform developed by AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and recycling industry, has been recognized as a finalist in two categories—“AI and Data” and “Best World Changing Idea North America”—of Fast Company’s 2021 World Changing Ideas Awards."

@@ -1,28 +1,39 @@
 ---
 category: news
 title: "Hill International and Everguard.ai Partner to Advance Artificial Intelligence (AI) in Improving Construction Jobsite Safety"
-excerpt: "Hill International and Everguard.ai announced today they are bringing best-in-class technologies – including artificial intelligence (AI)"
-publishedDateTime: 2021-05-06T22:50:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/hill-international-and-everguardai-partner-to-advance-artificial-intelligence-ai-in-improving-construction-jobsite-safety-301286262.html"
-webUrl: "https://www.prnewswire.com/news-releases/hill-international-and-everguardai-partner-to-advance-artificial-intelligence-ai-in-improving-construction-jobsite-safety-301286262.html"
+excerpt: "Hill International and Everguard.ai announced today they are bringing best-in-class technologies – including artificial intelligence (AI) and sensor fusion – to construction companies focused on improving worker health and safety."
+publishedDateTime: 2021-05-06T22:52:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-01f85fdc161949c34fbc006d44ee0809"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-01f85fdc161949c34fbc006d44ee0809"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1505204/Hill_International_Logo.jpg?p=facebook"
-    width: 629
-    height: 331
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "djx7NuWXsOycBATnnhPWwK8yZvFdy8ZS3QSwTLtFWVdoMXRvGiVg5muJtMp3Vpds2TzmRTz4Ex3EvPRfBwl5SVcmf2vCnS69K5FjWi72Fj9KQEOfAwMD/Lb9N0mDj7LYmua6fWxCDbbAYoMHEEQz6JwNtwkmCHsXYPXEU5jvKh0Sc5BC0QQUZdsFJ+lNmF927g8pkMogBZ0f7UbB3DiY0IlCxvueQ8uxBH31clff5X/X5mTHINw6TqrE9ca8/OXHlC1WNwDlntzZEcsKz8kRdIiau2CsCES3mnjv8pAl08gIa0rGs/msgSaekI7WCgo6RGdhh4KVd3mLJFvoHCGzJSunfVfUrF3umz9z19tbni8=;GgESTRfrEVerZ0ARTRgAkw=="
+related:
+  - title: "Procore Acquires Construction Artificial Intelligence Company, INDUS.AI"
+    excerpt: "Procore Technologies, Inc., a leading provider of construction management software, today announced it has acquired INDUS.AI, makers of an artificial intelligence-powered analytics platform for the construction industry."
+    publishedDateTime: 2021-05-06T12:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210506005132/procore-acquires-construction-artificial-intelligence-company-indusai"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 32
+
+secured: "Vn6ASNBTc2Xv4Z+Zu26VRskdZu+Pb7uhRWtLFvDKKID29tzrYqqPyNw/4fXZII4LIUMzQoAhGNanXUiu2nSovCvc8XTJQcOVQ2gt+g15bFs3K0nTqlEyBW3IgUSiAvqvlvr9cHypNjofmAs7jBkaf6raSTFrp5eubo1B3SBrl5xW9TLBQVcy1D7c5UzCxwhPnO0u4Q1s1oafUQO3XprOUw34H6LaY1mDCFXwmEkqVDDY8S+oiy4uB3Si2eGqnHQw1MLgYg7ncSipcGmgPLuYpklzOXPxaZS1VV1IUiuKws5dq+N8l120GDw186yHoYR+iO3m6r7798Qwu0VcKVJvRzNMyDLzaGqqzJk/uLkdX4M=;lmrVVBC9AaolKv7PnVPMZA=="
 ---
 
