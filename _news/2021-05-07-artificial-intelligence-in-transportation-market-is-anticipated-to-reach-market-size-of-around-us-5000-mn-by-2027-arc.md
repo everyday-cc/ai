@@ -27,6 +27,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Machine Learning in Medical Imaging Market is thriving worldwide by 2027 | Top Key Players like Zebra, Arterys, Aidoc, MaxQ AI, Google, Tencent"
+    excerpt: "Machine Learning in Medical Imaging Market is growing at high CAGR during the forecast period 2021–2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
+    publishedDateTime: 2021-05-07T13:45:00Z
+    webUrl: "https://ksusentinel.com/2021/05/07/machine-learning-in-medical-imaging-market-is-thriving-worldwide-by-2027-top-key-players-like-zebra-arterys-aidoc-maxq-ai-google-tencent/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 18
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Machine-Learning-in-Medical-Imaging-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
+
 secured: "l7c5zZ1c0rvzq3MmFi6mZUb/v+iY6mGukT88C5PIDLKJz8EUNDTu7rDERqBBBZR24wMmimk/MEnIOdIB5unUR1yfxf8lhX+8T6k9pTQNOEg4GKUCx487nQAy5/fLYamjursECqhtcbecpNxl7/xP26AwYrXOcy41gpSiUo4FC9JqypnGK34H/gRWqpBYYZpfay15hA+cIx2EHB40r7bB4YMFfsUQAC4SGKvtsqMp64D4ABZv87Z+4k4oy+cbSEqxh16x+XGU/29say4bWBIuAWvkkNOn/bRooJB0JWFgLrgBfnw0fMGQwbAhNSlZpFmjNVTKwxHUUqiRrXBtyGshgJ6wY5eSBD5qF7L5kI6YVJY=;u/FEj/evgXyzbZVusWycSQ=="
 ---
 

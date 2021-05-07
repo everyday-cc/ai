@@ -71,22 +71,6 @@ related:
         width: 1050
         height: 630
         isCached: true
-  - title: "Police should not be banned from using facial recognition technology, says UK watchdog"
-    excerpt: "Use of facial recognition by police should not be banned and instead left to the discretion of law enforcement rather than lawmakers, the UK’s new biometrics watchdog has said. Fraser Sampson, the newly appointed commissioner whose job it is to scrutinise how police and other authorities deploy biometrics and surveillance cameras on the public,"
-    publishedDateTime: 2021-05-03T04:00:00Z
-    webUrl: "https://www.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
-    ampWebUrl: "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 51
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e1a06a9-7196-40d3-9855-7cf75aa5fa8b.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "San Diego Held Back Materials Sought by Congress on Facial Recognition"
     excerpt: "In 2017, the House Committee on Oversight and Reform wanted to learn more about San Diego's use of facial recognition technology. The city’s response downplayed internal concerns over the program and withheld a number of reports showing how prevalent it really was."
     publishedDateTime: 2021-05-03T11:00:00Z

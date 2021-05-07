@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 115
 published: true
 
 provider:

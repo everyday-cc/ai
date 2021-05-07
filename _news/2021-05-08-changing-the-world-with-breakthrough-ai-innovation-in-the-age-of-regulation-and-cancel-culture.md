@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world
 ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/"
 type: article
-quality: 79
-heat: 129
+quality: 81
+heat: 131
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Facebook AI
   - AI
   - AI Ethics
+  - Microsoft AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60956c575c3928d3e701c7a3%2F0x0.jpg"

@@ -20,6 +20,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Facial Recognition System Market 2020- Impact of COVID-19, Future Growth Analysis and Challenges | Ayonix Corporation, Cognitec, Biometric Companies"
+    excerpt: "A latest published report on Facial Recognition System market provides you with the key analysis of the market and gives a detailed overview of the market dynamics that are influential to the Facial Recognition System market growth trends."
+    publishedDateTime: 2021-05-05T10:31:00Z
+    webUrl: "https://ksusentinel.com/2021/05/05/facial-recognition-system-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-ayonix-corporation-cognitec-biometric-companies/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
+
 secured: "aUksAHT5+XLFKz3kOZVSVaznj99pcO1IxDZKMlxWZj1nASWexzdpi7oaceSO/19nwS+WWPM34zQ594wCVUJ9wUTzORGSCL1IdxgKhz+PORlVX8t+5xcABwKhy3q277JEB+kF18qQOchQrDe66s+K6OhJvPxuWKyF4JtiTBfIvO5ne72DaF2gg+bqEj0HZfhKBOKKm5qgZzsdKsp5UcTukkj0ZR822zYtEK6P1nWdq0+Q1y8XD5bNNoFlNcfDTqWAhB2G9GGXCbKWrIx3eVfBKs5ZuUodLzmY3Zwqsr4KvOarCxb9YSVNpEu7+p1YW1ib1JKAC2Xa8vypri4hClOH+8dg4C70qw75VCCoear2HUE=;89E4XSG0G2nFc9L9czucJg=="
 ---
 

@@ -1,30 +1,20 @@
 ---
 category: news
 title: "IBM to Acquire Turbonomic Building Industry's Most Comprehensive AIOps Capabilities for Hybrid Cloud"
-excerpt: "Addition of Turbonomic will enable businesses to assure application performance using AI and cut costs by optimizing the deployment of IT"
-publishedDateTime: 2021-04-29T15:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-turbonomic-building-industry-s-most-comprehensive-aiops-capabilities-for-hybrid-cloud-1030365857"
+excerpt: "IBM today announced a definitive agreement to acquire Turbonomic, an Application Resource Management and Network Performance Management software provider based in Boston, MA. The acquisition will provide businesses with full stack application observability and management to assure performance and minimize costs using AI to optimize resources–"
+publishedDateTime: 2021-04-29T15:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities"
+webUrl: "https://www.nasdaq.com/press-release/ibm-to-acquire-turbonomic-building-industrys-most-comprehensive-aiops-capabilities"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
-    isCached: true
-
-secured: "1U376Jwf32nErntw7to9SlXaxXE07KD0pG8EmRaxUrAfezdV7zVsQ0TvlY95b+mB7y3sup1YDcwMWHGj9TnwXXgNsqbyY7LSzihHMjIH50G2+RzaXFcItpbuRL7oVs5b6NZBlMSlJtE2G0Kdj3XZyQP6bwUVx548qmjUqnexOYvtfGJUDYVNke2CI1jPIYKGNyrSdrZiDDgL/1b6W3cToDd74jp+0QOQnVwsyHoLehZeQpT57va6o7HCNZ3J6UbcncDoQXpmctxYt77lSdeous2IN3c0Qm6MwM9fjhZT9l0/ZBjHAUpPTfQkVkNFN/PKHK5qckFiS8geKjzaTIBdOaN7bJP9ToWHkomN9AMMYwDHMG2kiqJ5U+afkDIXxynKxKITgy5aKrajiyaA4ZEY48+fZTMLyE3FhijkBJzXygf0NMTwE0ahQ+yDOElh4ggEdHm7tcQehpCfoemM/svm/K5qXkdPiSSyMHkDBX/n34kRA5j2pEf2SPfI1JAB7n9Sb7uoCGf+jLOZBFgaWZ4rEQ==;WQhJy03GeZtN+44h/Ip9ZQ=="
+secured: "Pzrcrbnvm6L4jkJyznuTuUhG4/sTsdClt64BBg6zLqeOStT9bCv79JoYyu1AQAOqSExeJIJ0ZXSgZlNRpJoPO0b8qjxnsyTHFQ4WZIZE0iFKWEQxbbPY+DghDc8v4Ju99Iaa+w2SX2ePdCM7FsZaD8catk1MkrLI/JeisUiDIMR/yhjDBHqJ4voGxpGg9GNmWrtC6uiN4cwp9MMtKXyMmlhlCwDNOmiZSdr7ha8wrnSz4UpkswMpWrRhk9Tfjj5D+5R1evmV2URu425X127hnhJCNpZI3N+zIJWdO0+KzVRYQOmJV8KpJSLlhlC1D60KdVMt1ckyFWZJ6lrCitUiDZu1Stx+LuADcu4G6Qzf7EY=;xFn+V1IulAY2S3QlZS/iMw=="
 ---
 

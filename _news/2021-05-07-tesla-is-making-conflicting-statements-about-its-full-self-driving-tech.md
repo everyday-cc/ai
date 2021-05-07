@@ -178,6 +178,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
+  - title: "Elon Musk's own executives admit to the California DMV that he is exaggerating about Tesla's capability to achieve full self-driving technology by the end of 2021"
+    excerpt: "In a memo with the California DMV, Tesla's executives privately admitted that Elon Musk is exaggerating about all of the company's cars to have full self-driving technology"
+    publishedDateTime: 2021-05-07T21:50:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9555211/Tesla-admits-California-DMV-Elon-Musk-exaggerating-self-driving-cars.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9555211/amp/Tesla-admits-California-DMV-Elon-Musk-exaggerating-self-driving-cars.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9555211/amp/Tesla-admits-California-DMV-Elon-Musk-exaggerating-self-driving-cars.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 13
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/05/07/21/42711690-0-image-a-48_1620420313240.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "P7kf+XOqkpzi3LZJi9RX2DGJh27rppUEHmN5NHV+nuIPGfXSyjKmatieiJFLx3sH4edaROY9eFubHDz9r1d9FPgX0cAxr3FtIDS97tkmm/0MloPTsc7ImAzQCvL9V0sZewWIDBWcRxNLgABKnG35TZpAiXzGiUDhEBkthWjXmWUH9HcHAU08km+vF2EjfQ7zSGO9yMsQ9zXJ0TFQXcRxXjpa2OhL9jymntGAwduhkMLeVvBKf+P3FVvNU/7Il0kmhsfE9dpZ2/+OzdP0YraKMx0qo3ceW2/k4pL9WEHTh+CQkKQp0+BuAUxwSrNZMfZYNjtU9tdZuk37VOGqFUpK41wkOOotUums6vJ54g+xJc1duRlPNh2ugHZ4UqMI0X4j/EAHZCsqdkydrK4bZ8t9GzJ0tuEXEbfW9btkjZeN0AONauDiP//Ha4ToU/8zTAX/+YWcs7tZpeagPLCrSAqwR+4+x5GNG5Gw5d5jqHbPgzDfVf5vApIz6Tq3M+vuVH+cuQ/Zjra97kAImSMjvE5RUg==;iTTTpIdRUy6z3SC5ik+pZg=="
 ---
