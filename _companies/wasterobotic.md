@@ -2,7 +2,7 @@
 name: "Waste Robotics"
 overview: "We offer intelligent recycling robots as either equipment purchase or as Robot as a Service (RaaS)."
 type: "profile"
-heat: 72
+heat: 50
 
 website: https://wasterobotic.com/
 
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=QbKA9uNgzYQ"
 
-secured: "uvCi95d8jwX/pd0mLmK2//OBVmtkaPBiI4UsSl0+EfonZ/Tbc4oK3l+ZpZUA5NLvuqwv8qLYkTu5SUP/V2wKNmWm7VAXTzGFug7xhHMf9h2YQs9EYw5zskpVq49wK2YnFC7yitSuKYOlS2cmTjZM4d9+x+SdAtCz2QOv1lMV/DShgrTfd63mC5D8ZO/enj2Xq2SHH4GMv9maoyss0vVjJpIFi3c5KCoG5xpoQCWWRhsKGYb7U3uDUMaynz2Do5AaTLhTXXXSGEJ3BEBBihPE+lAS3DyN/WEhI/CD0QK4DQfJwIQW+Q2e/mJbcnE9r8ugW6vrFTrX+1hgA+bYcQgfmsM6HooSyoHFo4jJIb/KF3UW7t8b40mM5JERGahkisroUIBdJDM9+GZVa2ofnDn9TA==;vZXUGFPZpeZ+qb7A8PSoNQ=="
+secured: "YJyaK6ENCJQ2tPG8NW64ihnsVENfGSz1lQrSTb9ufGthk3JwweijdQ6FzDYRbdufTgIhJLUSGHY1eOGkLUhGaJ6CjXc3fxaNwTnplJnAYIP3vY7xEkXLZJ3AvtUqdR1wkN8vwHra3Tdxrrp/3qM5bcgEcYaar4TtDBoAQ0cdf9/fTQEazts5JRE2vONfg+XIGEbhaMiC2ub7AVodzvHbMo6F0heQJamTKWjo3wiyLb/FXiqReWRB1tukN1xL8ffgGVQlBTgF/dt75Ytt8FtW+g7pVJwDiGQA5fo9/mwfRnrgbs9MaMwfScGbB4EPYIFV6liPnhbfy07RGBh/5ja/TADMqw/nsjyNdJOqGmuiXELEgpGWM/Vay4PEGG3hCTz7G92YToWu6L/r4SjQ1ygJ7Q==;BzL97Cjtr18q7sCm+brRzA=="
 ---
 

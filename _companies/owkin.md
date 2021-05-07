@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "owkinscience"
   url: "https://www.twitter.com/owkinscience"
-  followers: 2337
+  followers: 2338
 
 size: 51-200 employees
 yearFounded: 2016
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=JSdUHfUR5gg"
 
-secured: "MvS0LMf5gNTJbE2rwaX5brRlDi1DQkUmImfFErI/WuFnfU1qlRSAWSJOZ2738im6ktaPEXhTL//181xE2VHBXYO+NFSf7/Cm5Ugl8l4nFZ+qK2op0AvStB4ipnrKTJQkByhDB6q03QoC4IWbZR9xnlgEeCxp1VkWA4pmQKoMSN6Beti9fxzwkVDgtAmFXJgmYCqhDMkBwsp/y5WvrjG6wUyBuPhrGqYEfYqAYrB0MPvo7GKmRzKVbEQd+x0ue9XlohKGIitYaSk4b3hgsCdrkgWwKEw3FlJxzNzxgZbgZ2NDYfkvBWIYi+pbQikvqVHJKImajCJ/khTBQVkxDiSi3rE1BFxdYHLf8Y+0xnuAqNk8UvqgQP953OWQGc+0iMxUgyjqtigpOY3wqNmN36BqA+z56+l9AM1YA6sCQ5WBz/g=;i7fNWDRcSvh/sOG2xTDn0Q=="
+secured: "4QIf73gX7QwuUJT+lH6wyqHYP9p27NJkZedMSqbifHkJ+UgAsMnT+i23X5+DNEypu0B6ZJGO2P4ed2xMHMOzTP22vAAipv4J9L3IbGUL/vyIiH7iikPGGPG7sICbwi4RdrHsOouC9lEjLyGH7iNZrCoeji2s4sAjgkAxWRzwtAQ+1aR5TzBtPGQCQ/j0jSoOtN4zvxgyDPPiRCLYLdDMxmK7bXTBytorv5S4ymquCS8ZCLLa76m/jZbux3UITsWbwMpiGTohEiSDw81KKOBQPWVRqywDJaq4oPyg/mRgaan3OGlVtvKOISEwKrD54F1Azo16QNSeil2IaHTuCx4wgkKBXOipUSIJ86gSYle3JJyHyeoK5Zr6C9O1ABRXPGISL/8z8Q+UxK7jJhd/AtT2rO7tuFM/AIxjuwVWkBK3JeA=;qDFRZzUm+94X2l704YMoWg=="
 ---
 

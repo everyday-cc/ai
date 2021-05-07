@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 9325945
+  followers: 9328621
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "PNtWQVhRy90q5v/sPoIDyyhsTOpyq1YCHEPr0bSO5RlxjpleVBXQ9fYkXDfaFg/oPavrmJpttsgAzl+p9jrtNRVCDCZClFB4Rhn9pQ2LcIThIgY293ErQGXAh1/Y6aoN1ZFTD/5+an0xPdjk5Ykj9hlQV+5Y2FjWUxrKqDZjyQrAtwYtlKs+q7EugEiNDkBUc3MBU0n7MC/YxJK709c89/XMM5rrEVapnESquCA78empwn0fd/cPdVh3gopRSA/w3CpHDukDH5N7g9iNpIjfzs92xfdzmsXi4j8cqUxdy6chiZxPMmoTH6s18QL3usTzunfCotDRmXiez2VUVsgHXgwMkkRKdg/Ilbrc2Vqd8MMJ2e59xuSc9f0H4pnDIRK+pyMq5v38bbJSst3yHKNFKVxvNCksqTmiIgY2M4mbpyg=;L/cKqT+qeSewHikgvL2wgA=="
+secured: "WJg49/Qa1lVKOJIBZvhaEPdk6dfIE7ddmMoHm5lYcya8ehbOvwzQSVkXEcNS6wGlfCkkCGTDFpnE4ZXLhqGmdcnKL93kQ1Duy2Ao0GBGTxxtEjRNcgAJjh7DBTKG9ceRwkmAEyl5anlq/r3164KZOi4NsT6QTt0D9SxNDA6Krwlq/Ei4qTgImNDDXaU9leOPZeY9LwgbGAX4t7lSuPMStfIFWnokrtkIGIe8e/ENRExixCbJ8ulvKzcrH7L942FjzPlgF5AKdxSezLbQDQdMPjwxwVaxTwa2LAkYDx3Npe7SEN55dhPS0u/heYr2E6hH/zNfZr7ZK8864FI7AxmuzKJ9GrnBw8U7C1CSptOSlXxzas0JfQGAt9AWUdRk4MIDpDeihlJXX6CIdnWnbxlWkGyiCNy/2edzxKVWsCc5EtU=;93CsUuUOxXPDxE5T/RGydQ=="
 ---
 
