@@ -42,22 +42,6 @@ related:
         width: 737
         height: 489
         isCached: true
-  - title: "The human labor behind artificial intelligence"
-    excerpt: "Behind every artificial intelligence project is lot of intensive human labor. Marketplace speaks to data labelers in central China."
-    publishedDateTime: 2021-05-04T11:36:00Z
-    webUrl: "https://www.marketplace.org/2021/05/04/the-human-labor-behind-artificial-intelligence/"
-    ampWebUrl: "https://www.marketplace.org/2021/05/04/the-human-labor-behind-artificial-intelligence/amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2021/05/04/the-human-labor-behind-artificial-intelligence/amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 59
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/04/DSC02390.jpg?fit=740%2C493"
-        width: 740
-        height: 493
-        isCached: true
   - title: "Consumer Comfort With AI in CX is Sticking — Here’s Why"
     excerpt: "As AI adoption grew, consumers experienced greater exposure to and confidence in the technology, which has fundamentally shaped their perspectives today. The pandemic didn’t create an interim reliance on AI-powered CX,"
     publishedDateTime: 2021-05-02T19:05:00Z

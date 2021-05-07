@@ -41,6 +41,20 @@ related:
         width: 736
         height: 400
         isCached: true
+  - title: "Why Is IBM Acquiring This AIOps Firm?"
+    excerpt: "The Turbonomic acquisition will help IBM boost its full-stack application observability and management efforts."
+    publishedDateTime: 2021-05-07T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/why-is-ibm-acquiring-this-aiops-firm/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-37.jpg"
+        width: 1600
+        height: 1131
+        isCached: true
   - title: "IBM to acquire Turbonomic to expand AIOps business"
     excerpt: "IBM entered a definitive agreement to acquire Turbonomic, an Application Resource Management (ARM) and Network Performance Management (NPM) software provider based in Boston. The acquisition will provide businesses with full stack application observability and management to assure performance and minimise costs using AI to optimise resources – such as containers,"
     publishedDateTime: 2021-05-03T07:15:00Z

@@ -27,38 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Drug Discovery"
-    excerpt: "Artificial Intelligence AI in Drug Discovery Market Scenarios 2021 2028 This report is a data source that covers the industry s existing and future technical and financial knowledge through 2028 A thorough market review illuminates the threats market structures opportunities"
-    publishedDateTime: 2021-05-02T14:36:00Z
-    webUrl: "https://www.openpr.com/news/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021"
+  - title: "5 Entry-Level Marketing Projects for AI Newbies"
+    excerpt: "Marketing teams are increasingly turning to artificial intelligence (AI) to improve results, with marketers investing over $227 million in AI-based technologies in 2018 alone, according to Statista. Yet many companies have yet to use AI or have just started exploring it recently."
+    publishedDateTime: 2021-05-05T15:06:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/5-entry-level-marketing-projects-for-ai-newbies/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/5-entry-level-marketing-projects-for-ai-newbies/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/5-entry-level-marketing-projects-for-ai-newbies/amp/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
+      name: CMS Wire
+      domain: cmswire.com
     quality: 74
     images:
-      - url: "https://cdn.openpr.com/U/5/U502676851_g.jpg"
-        width: 683
-        height: 419
+      - url: "https://www.cmswire.com/-/media/0b9ddf7a31fc4dcc8f938ec905099756.ashx?mw=1024"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Market"
-    excerpt: "Allied Market Research published a new report titled Artificial Intelligence in BFSI Market By Offerings Hardware Software and Services Solution Chatbots Fraud Detection Prevention Anti Money Laundering Customer Relationship Management Data Analytics Prediction and Others Technology Deep Learning Querying Method"
-    publishedDateTime: 2021-05-03T19:47:00Z
-    webUrl: "https://www.openpr.com/news/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends"
+  - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to new market research report \"Artificial Intelligence Market by Offering (Hardware, Software, Services), Technology (Machine Learning, Natural"
+    publishedDateTime: 2021-05-05T15:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52785014-artificial-intelligence-ai-market-worth-dollar-309-6-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 72
-    images:
-      - url: "https://cdn.openpr.com/U/5/U503568929_g.jpg"
-        width: 790
-        height: 466
-        isCached: true
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 17
 
 secured: "Rt2KXUZBi+cB6aP7z5pM6dQxNV/oA67YaZwYib/brNDhLDx4RTdfiG7sei+EQObXJ8H4cbSZBJqT4qGBEC+OwBFbtFfEERlZ+qM2rND/S4KMhzXPNpGFVKlbkB4T7hq6HIzdG7LUzOOZYHkT650hNPsb2oBwhhA3qwvUKvBCnlL+aAInNLCrFAgnrvsVuxm5THm+ZozZmztOsT5arpOgWJ2T/pItW+nZW49DKs7ZrNMN+rQ5z8NlohyW+bumrXrduXD/9S4ihfVv/Udby1ljS7dy4FgpwXdmo2Ug8+R2dl1etNv6L/st0Zkn4Y+nWUKiqlnEXe47Ryyyy/kVQUSyHqd2PSqMv8vcTERRcR6u5PIaWMZAmedM0Ey1bSWpyb8ncm75MOCDKsbYcinVJN/RoaliOhNL5MVY0/7hnXeGUIRCn+uSXBV/FRjUA0h+bWZINkEyY63GWS6ory6nDKA8B0nNK/jbjMClyDiEOEUBbs8GjLPS4jqVOl/sQc5k8Ob5SHsaKbrBUz3DjETgNg4Z1g==;eZl08PXkQ45xt1hkjyf9iQ=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "ECO V2 by Pangeanic: Deep Adaptive Machine Translation Document Translator and Anonymization Solution"
-excerpt: "Operations for instant API machine translation and document processing began in early 2019, when the platform also merged"
-publishedDateTime: 2021-05-06T20:53:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/eco-v2-by-pangeanic-deep-adaptive-machine-translation-document-translator-and-anonymization-solution-301286202.html"
-webUrl: "https://www.prnewswire.com/news-releases/eco-v2-by-pangeanic-deep-adaptive-machine-translation-document-translator-and-anonymization-solution-301286202.html"
+excerpt: "Operations for instant API machine translation and document processing began in early 2019, when the platform also merged Pangeanic's translation API."
+publishedDateTime: 2021-05-06T19:32:00Z
+originalUrl: "https://www.wboc.com/story/43837686/eco-v2-by-pangeanic-deep-adaptive-machine-translation-document-translator-and-anonymization-solution"
+webUrl: "https://www.wboc.com/story/43837686/eco-v2-by-pangeanic-deep-adaptive-machine-translation-document-translator-and-anonymization-solution"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WBOC
+  domain: wboc.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1504987/6ce23df92358c3c9ae7550808006.jpg?p=facebook"
-    width: 2270
-    height: 1188
+  - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: ieee.org
     quality: 32
 
-secured: "qkZdsLo2mk3OBXaogR00OZIGK8E6pwqucKJHRPaeJR4HZnDXV1ZeiLQA3Os8MLSatu5zd2YyUEclS8Xx5y+R7fANfx86oNkDv011rkJCxF1dREf2d+qXINPC6p01YlMWIdnm6IO3Si7qgkAvoEaytYdCBIXSgyvRE+Fzy4GRvLzzCex2EL6f34ycqGyGdFTMjBr1R4rxIXmQqlv/G76rNEkSJexEaqPAGv1x012eEj34fq+JfBskhh/PnQRx1WaQxsXDTbhIW5kwQ4BYhZDXp6zNuhA5Vr11XUcFPhtkDXv0FlHWVY4QehDAyGFeLDb4+/t/SkiwIObU42A7WFrg/sJaMQvQN6wzWDVc9SPv3EW/DDO8VPLn5Rdl7nY1RiqtDntbyrnqCX/WAFpE2W9d9DH+l7fakUcwpZOsQQVw16mx7/EQDmuI7qjhu4FWgpeQKHRpFbLR21h+QKrO9x5NZlsx0hi+hDn4lDgFUWNVyFL0JPn+oUWGespkvnwJhAaTZN+zDm3X4OJo9nq64zeyWw==;sOPJFdyYPvDqN2EGrTpPpA=="
+secured: "1NCMa5JFmlMUVkJ48sA/OTzcKsC0ee1vPq9cxV5wkmyB/UAsMLmfTOtTQNXp1c65NfmHHrDAwNb+i7aio5YDk2m3cW5Ds6nose8PQYKXpETD5a5y4i4ZZyj933Wbpfiy3YhA2gvwNXTNRg/PK21M3Jo0KvNdIcL2C2YdtuhkJ7Ylexa5bF6Mi6xzi5YX/JBMngmhDt7ILgcTa56yjJJ2VTAL1aixCBl4a/NnT/1t8cPZDK6okTCY13xeNTQxCEaogjX1iy2S+yrvtWpBHTmS05i9e8rpqH/jCv8DiPCXs7aQozDqrJWHzM5KltNavN4MCraebmaMh2ccZkEHbuPMtwqFHbcudAEiqfXm2VlbRNU=;/MNiMMXIX3G2tRzcOaU1tg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/products/opinion-feds-should-reel-in-tesla-s
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/opinion-feds-should-reel-in-tesla-self-driving-car-industry?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Government Technology
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla may not achieve full self-driving technology this year: Report"
+    excerpt: "The electric carmaker Tesla Inc said to a California regulator that it may not be able to achieve full self-driving technology by the end of this year. This was confirmed by a memo by the California Department of Motor Vehicles (DMV), according to a report ..."
+    publishedDateTime: 2021-05-07T07:25:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report-41620364503654.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
+    type: article
+    provider:
+      name: hindustantimes.com
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/05/07/600x338/2020-02-24T232822Z_1_LYNXNPEG1N25J_RTROPTP_3_TESLA-GIGAFACTORY_1583211250743_1620367537971.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "VW plans to design own computer chips for self-driving cars, just like Tesla"
     excerpt: "VW Group will only design its computer chips and then outsource production to an existing supplier, in the same way that Tesla outsources production of its chips to Samsung. The a"
     publishedDateTime: 2021-05-03T12:00:00Z

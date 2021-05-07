@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/21/05/g21007238/artificial-intel
 ampWebUrl: "https://amp.benzinga.com/amp/content/21007238"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21007238"
 type: article
-quality: 13
-heat: 13
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 secured: "66SSvjcK7deuTcrgUwY19/Do36sajhwdltK4M7UMt1T566jM50M1OTU9QtkDIy48kLUEzTjCn6Vj+yFpxkGeVpvgUD/24bpBoV3YyiHwJeQyjzcbUvHvybnLMsfFvqAS54ZkgwkBl8erawururYJ7UIWxiUuosTot/6AJDuhHYwIaRlktmhFbmqZHeIqT+lPHd0SSdnFeuXgwfZ2sANqZbLZwmEKM77opHDpvAhIt4fBj5CrVGtsgrISMFlyN55Z1QD4dh6pBuzHgnHLpQiFkILLUcKTji9cBhWCyZkmET+jdEVVrjmP5FFtACC2XMPJOoYgS12q8TJWsoexOyHE9URTEJ4qL1zMgwLhoidk26A=;DnEMDjy7Xp2gqSatS/P0pw=="
 ---

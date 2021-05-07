@@ -42,6 +42,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Tesla may not achieve full self-driving technology this year: Report"
+    excerpt: "The electric carmaker Tesla Inc said to a California regulator that it may not be able to achieve full self-driving technology by the end of this year. This was confirmed by a memo by the California Department of Motor Vehicles (DMV), according to a report ..."
+    publishedDateTime: 2021-05-07T07:25:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report-41620364503654.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
+    type: article
+    provider:
+      name: hindustantimes.com
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/05/07/600x338/2020-02-24T232822Z_1_LYNXNPEG1N25J_RTROPTP_3_TESLA-GIGAFACTORY_1583211250743_1620367537971.JPG"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "j2wnTcOJj+bdMVnKxlyG2ljs2niyFSr4nC8K0SaAFWYSWdXc2MyCU/O0iMt84b81Q+u8wqj3kdF1R9F8w1elQx4udQi+zlW2vSgAI542YX8+yfpm39gigzPnaIIzIBwAoqpsxsEIwGaPShjrsNhTpAbw6LFhAWORtW/LdPKqCfAqz+y5gRuUSBg6ANOpor/APZMscxmeqbEU3u+Kf0ubSexomzhbDRnVGlJGDalhzGVFPkD86ZPquL2GMleEx6OgxjpnPVKATCeqyY0h5njlaZAF95JrmNYPiAwalUrmVwQywxcVAUv5BnJ3Pe//7K5Y+G6uoQsckMZSFBttSUZvIG3QqaRy5uMa3kC2rl5mpLaDIgEpxI3XnZhObCHh2Wbgbi5zJMzsvb4WqSoXeCNYbUn8jFO6rPKbPMCdP52x2ub7ih7Sm/3Ili/oU7cYrXCVCCcNsvWqQvcbCZ4t3sigaRCsaSBLawaOPFLHEAXg7lyz2MXNahNYhns0iAm80RtVA9AgYjPAsOqDt6K5hCWoRw==;28rEEvlXeAK9Q+UPZFReVA=="
 ---

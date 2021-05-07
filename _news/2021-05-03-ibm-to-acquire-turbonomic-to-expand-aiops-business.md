@@ -49,6 +49,20 @@ related:
         width: 1000
         height: 543
         isCached: true
+  - title: "Why Is IBM Acquiring This AIOps Firm?"
+    excerpt: "The Turbonomic acquisition will help IBM boost its full-stack application observability and management efforts."
+    publishedDateTime: 2021-05-07T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/why-is-ibm-acquiring-this-aiops-firm/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-37.jpg"
+        width: 1600
+        height: 1131
+        isCached: true
 
 secured: "BWXOULlZ5RNMV2ipiZgvce4cYIb31qwrvPCT5bptdsV+2sJxxdtic374KLs5Iskm9gA3pk40amBbWwLteezVjHFJKidTGYY7d0bDaWsnVfEi2rPKhYxteue9YbVFKmPQRBHmgoaKC/qhpVdXlJxV7eKEMv2HG7YlvDgLd8Z/Z0e3HYaWFu5Eo+6TWU/w8ngRG2+S1PcjkNL99IfOZ4wofJA1+AkmvDrRGQpmygaKR7QJLcC3k+isUbCAeX+r9hblgTHkG+BHL/8rzlRKhHzEj/r09Tu1Jv9g4arOeWiWTMxPGdfg7cr7JQwdjw6w2OUnmE8TIeOEIBTB8pIjyjo28wRymYfO8FTRqEWeh0WpqU0=;Y40RjTqbi6N0BbO7PHJaiw=="
 ---
