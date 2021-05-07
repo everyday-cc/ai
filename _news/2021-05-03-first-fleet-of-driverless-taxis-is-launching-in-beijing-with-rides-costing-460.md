@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "You can now catch a fully driverless taxi in one part of China"
+    excerpt: "The driverless taxis are preparing for the Beijing Winter Olympics. We hear a lot about the American companies working on self-driving cars, but they’re not the only ones working on the tech. Baidu, China’s main search engine,"
+    publishedDateTime: 2021-05-03T17:00:00Z
+    webUrl: "https://knowtechie.com/you-can-now-catch-a-fully-driverless-taxi-in-one-part-of-china/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/05/baidu-self-driving-cars-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "n+a19bk+MkAnq0kWWicJFE+6jvUriD21BKn95tEsMztH4bv4npUZyzhPWxgY9oZnp2+HzzFh6yWBLOmfAhgf70KESRp1Dq81sycYPs58lKPOwb/R+m+U0DgLCsEollMsfJRMXxVkjRBp4pkZv8GziWlbw1K+THnDDP4dHhwRa1gM3DtWFGtqbscKgSA1EDWIkbd4LGmJt8Jk/mqVylSXM2X+vuj1r+O4v+sE4w2SZdn8EtjatI2lTVBZ/1of5LYXMbESTEeGdAd8jueYlJ//9veMzlU6jDtCQx1tBxMnCY9um6iTEJBiKQew44HISvMtSBPMlgwXQAM4rxIfhQH9q9XY4QDAv2IsJvDWFjiDgzU=;Dq1UuGsIRnFZFuQtYx3myg=="
 ---

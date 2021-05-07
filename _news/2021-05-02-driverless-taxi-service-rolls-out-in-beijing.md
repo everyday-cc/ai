@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-bei
 cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/05/16x9/Baidu_Driverless_Taxi_AP.608ffe2e2a8d4.png?auto=format&fit=max&w=1200"
         width: 1024
         height: 576
+        isCached: true
+  - title: "You can now catch a fully driverless taxi in one part of China"
+    excerpt: "The driverless taxis are preparing for the Beijing Winter Olympics. We hear a lot about the American companies working on self-driving cars, but they’re not the only ones working on the tech. Baidu, China’s main search engine,"
+    publishedDateTime: 2021-05-03T17:00:00Z
+    webUrl: "https://knowtechie.com/you-can-now-catch-a-fully-driverless-taxi-in-one-part-of-china/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/05/baidu-self-driving-cars-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "MbB0FiMMMIwzMrmkN2aV+KPfO2Kyvt4NevBQ+8MAq8aAuwkbJ6d8KTZrT6wskhLlzWM2U+Bo/COfywYHPTuwU/WHq6yHp4uGZnilB9NvBBLM5roHc/lVQHPxIYGAh/Gb2kuTtoJk0BMjjt7BcMUaYKRBO3Cx4vMahwSfVHgSA3+4wKPZZIQhnQK5yBLsNWnP1pdJsuFdf6QTEumuKOtp1YMbIDvnRxpHWlZfiosg5HpRgV6chXWzQLotXHgfHgM2i8Q/W/lKZMa8qxJt4s0j6cjHBV/1HteFR2EseKkmVKlkOTQHszK53ynJHMZ69yOyZj4YlMYIGdnfJPa/gFsg3yC5AiaUhz0jTGzSuUiXqReMBsUaaMOI6Zx76eRYVA2+hhFh5NO4xvuK4Ebg0CTq+NNLlVAT8ZCB2y4kJciGDtywqa6zbdDk1ba4LixnNePRJafNJuVbQpCMmfIwqsH3FzhE56arC5aBBvUccrGitwaiLuDgbSF856ThwJqzV4LWLQJNmVZEfg8dE1bhGmKg5A==;qxv1xjYKiXS8k3YxivMMXg=="

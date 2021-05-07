@@ -57,6 +57,29 @@ related:
         width: 1500
         height: 860
         isCached: true
+  - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
+    excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
+    publishedDateTime: 2021-05-05T03:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/05/05/7209494a-ad56-11eb-82c1-896aca955bb9_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OELWHZVNKYI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "King County considers ban on facial recognition technology"
+    excerpt: "The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff’s office."
+    publishedDateTime: 2021-05-06T06:08:00Z
+    webUrl: "https://www.king5.com/article/tech/king-county-considers-ban-on-facial-recognition-tech/281-e50f4478-81d7-4108-8926-9f906c3c29a9"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 19
 
 secured: "CReiEA5y6aI0MFDDDoLv543MRCvRhN++Fkopzk8pfvRZuIs+UorlM7RtVbW50cm/GuYJHdmDqgD34Y9Ivs5KeiapGyFjINpb+4bPFG1btjpKBup6FyMpz5LcV9FDRGyq0rABto6FISWtYc6hPRRjutAPmxqwJwHndwJdh2mErcBjBKMVhYwY4yOX0khNb4+uuRx6mqqfENny//zirD08pjYhLJrY8E7wbE6xl2KyJ3kQg14kD0DqETwoT6ror0Lo1jNn9Y3F9bMiBm5z4EK/JxzvX+qcUwB5l9u/G4Q36VmoCEVAP4wCk5npLKs5lX9TESU0e1fuCdz5hZzvMJBtKlhGX7Iu1kZDJsr/9wOBm5rGGoT9F9MJUxjMLi2LO3pjWgQqI27c/SXtOITPgMnLiivvbgK7aJAEDYJdqxpeK+fdNdydQqc0t5OAFi06AouG8XKVDBhtMvGyGCQUnrWaBUrY6gGtn/eG87QBBSbdxGlXMzULFxExaUpM6fSta4Vpx1LmyZd36jnatLo6TA6nnw==;CpEXPQj2iUwRe65Hk4/5Lg=="
 ---

@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "States push back against use of facial recognition by police"
-    excerpt: "State lawmakers across the U.S. are reconsidering the tradeoffs of facial recognition technology amid civil rights and racial bias concerns"
-    publishedDateTime: 2021-05-06T01:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/states-push-back-facial-recognition-police-77510175"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/states-push-back-facial-recognition-police-77510175"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/states-push-back-facial-recognition-police-77510175"
+    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness of video surveillance is leading some state lawmakers to hit the pause button."
+    publishedDateTime: 2021-05-05T23:31:00Z
+    webUrl: "https://www.chron.com/news/article/States-push-back-against-use-of-facial-16153766.php"
+    ampWebUrl: "https://www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 74
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fc4dc822c6d9438ca4519a37c6a01ab4_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "States push back against use of facial recognition technology by police"
     excerpt: "I think people are just freaked out, and rightfully so, about this technology,” said Freddy Martinez, director of Lucy Parsons Labs, a Chicago nonprofit that specializes in citizens' digital rights."
@@ -85,6 +85,22 @@ related:
         width: 1050
         height: 630
         isCached: true
+  - title: "Police should not be banned from using facial recognition technology, says UK watchdog"
+    excerpt: "Use of facial recognition by police should not be banned and instead left to the discretion of law enforcement rather than lawmakers, the UK’s new biometrics watchdog has said. Fraser Sampson, the newly appointed commissioner whose job it is to scrutinise how police and other authorities deploy biometrics and surveillance cameras on the public,"
+    publishedDateTime: 2021-05-03T04:00:00Z
+    webUrl: "https://www.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
+    ampWebUrl: "https://amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/79223f6e-a772-4e74-b256-88641a416f92"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 51
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e1a06a9-7196-40d3-9855-7cf75aa5fa8b.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "San Diego Held Back Materials Sought by Congress on Facial Recognition"
     excerpt: "In 2017, the House Committee on Oversight and Reform wanted to learn more about San Diego's use of facial recognition technology. The city’s response downplayed internal concerns over the program and withheld a number of reports showing how prevalent it really was."
     publishedDateTime: 2021-05-03T11:00:00Z
@@ -112,20 +128,6 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/73f29ba/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fdb%2F7d%2F24c099b84f4c91c3d81fc93e68e3%2Fab-050321-face-2.jpeg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
-    excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
-    publishedDateTime: 2021-05-05T03:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/05/05/7209494a-ad56-11eb-82c1-896aca955bb9_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OELWHZVNKYI6XAWBRFVMVFK3XE.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "King County Council delays vote on facial recognition ban"
     excerpt: "The Metropolitan King County Council delayed a vote on a groundbreaking facial recognition ban, citing a need to do additional outreach and research on the policy's effects."
@@ -180,15 +182,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "King County considers ban on facial recognition technology"
-    excerpt: "The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff’s office."
-    publishedDateTime: 2021-05-06T06:08:00Z
-    webUrl: "https://www.king5.com/article/tech/king-county-considers-ban-on-facial-recognition-tech/281-e50f4478-81d7-4108-8926-9f906c3c29a9"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 19
 
 secured: "E6rNYG2KjYrVuhoJuc/hWP491lLQ8QAtFjam4tmsR/2+oz/ekwpQ/zg4Xa4qjp4mYdTQxCsqV2y2r9jcL7RXvnu+TKi1InwCWV5sVlaznwYDjChYecZN7CaSugAUkjuq62o1b7iIB0X5BmVaywBsufqc+xvfljVzz5CawpTo12gQfnJOiqZ5erzD9+RSzILHJ1AUX+vGsB75mp8+Tv5wMQv9V7OEPTijEA+9Bhhn1Z0dh+ECzEEwz8dU/7PiTtVGc4McY2fy6G4xBUxYamuAGglLnpUFdW+SEpX3hQpoMQ6VxJGrF5rbwRrDu1/DyKAO4end3iCZyB3DtDJyRLlW5j3Xk+ABnwLotAYcve6n8H/bX/1eCnc782U1xxjRwd5gm5Jd+g/yYu+kQ27ysUUc1/1wWM6COnd7zDaLTT/9bglT8RMdO54iK3fUzC2UJNnB4sedpZX8usbeOkccoNq/Tcr++1eVS/xTkqJLG8MSL38e5az4n5yIApagRodeq93ZftvBe9uQPsxf/GoUcENoRw==;7cOnoTE+C1jC5RvfeyMVLg=="
 ---

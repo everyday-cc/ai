@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/education/news/industry-should-start-
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/news/industry-should-start-working-on-ai-m2m-data-science-seriously-dhotre-101620324069375-amp.html"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Industry should start working on AI, M2M, data science seriously for Aatmanirbhar Bharat: Dhotre"
+    excerpt: "The minister of state for communications and education also said the COVID-19 pandemic has shown people the importance of digital infrastructure."
+    publishedDateTime: 2021-05-07T02:48:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/industry-should-start-working-on-ai-m2m-data-science-seriously-for-aatmanirbhar-bharat-dhotre/82448719"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/industry-should-start-working-on-ai-m2m-data-science-seriously-for-aatmanirbhar-bharat-dhotre/82448719"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/industry-should-start-working-on-ai-m2m-data-science-seriously-for-aatmanirbhar-bharat-dhotre/82448719"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-82448719,imgsize-70922,width-800,height-434,overlay-ettelecom/industry-should-start-working-on-ai-m2m-data-science-seriously-for-aatmanirbhar-bharat-dhotre.jpg"
+        width: 800
+        height: 434
+        isCached: true
 
 secured: "uqBZDk18Z49SloX5mxCPNgg/pQiqzp1olmUUrMAyzKeV3nO0k0qIHO9xi76JQqWoV6IJMIlJQ+tKYOOyt1Qf+/I9erbbP5DJRDjFyQZ7AHV5D5IdSVEzqDDbOGOzcSTvM86Vtpc0mf4iGm4tMOmeDUK7f0obvH8WnuKlaQsQPo6LeQesYfBKsvYcjIHAyKXepWavtRL2RNg3qyYUQQfbZ2e9ViKnZGjjjeF11XUV5jFTC63yG8Reyk8r0i3muELoK/mjl3w/jdKNBVa0ntXVmYVaXeJ/407pr9RWfYHU0CGgtyVf1aor5/D6piPQcYR8JnNYGyuAuEPUmPaAnLWwhvntddtxi5oBZZLOh6JI5Z0d5y/KuPDSYTz9bss3GnvSdT2FBUlDaUg+5NeHHpjo+AvVy54k8Eevu4PnzcXxqk9phk87CrOXyGJlj8NoTD3ZnNgV4ELGHtrdyPxk/iRa3Ru96tt8hmI3e8YEjFdO06xJ4RKBxB09nFB+NyfIMAkmHWFm0u6ST41W9dxKEZjGeA==;Tuu/Gts99xkGJHNDCWTYqg=="
 ---

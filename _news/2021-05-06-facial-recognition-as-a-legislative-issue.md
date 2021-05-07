@@ -9,7 +9,7 @@ ampWebUrl: "https://patch.com/virginia/reston/amp/29486387/facial-recognition-as
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
         width: 1500
         height: 860
         isCached: true
+  - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
+    excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
+    publishedDateTime: 2021-05-05T03:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/05/05/7209494a-ad56-11eb-82c1-896aca955bb9_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OELWHZVNKYI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Ken Plum: Facial recognition as a legislative issue"
     excerpt: "One of the side-effects of the quarantine has been the difficulty of recognizing others after months of not seeing each other in person."
     publishedDateTime: 2021-05-06T11:14:00Z
@@ -57,6 +71,15 @@ related:
         width: 337
         height: 225
         isCached: true
+  - title: "King County considers ban on facial recognition technology"
+    excerpt: "The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff’s office."
+    publishedDateTime: 2021-05-06T06:08:00Z
+    webUrl: "https://www.king5.com/article/tech/king-county-considers-ban-on-facial-recognition-tech/281-e50f4478-81d7-4108-8926-9f906c3c29a9"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 19
 
 secured: "K4CZ5VOsyLGo39c7YytuWCPm4Ft8+GiXKRbmkELRhPbT0kF0yO1EW0qAxulNvL4/7AnDmxJTBYXllOdtxQ9L4Cw3GA64TpZEqMhAMbWTufUQN/95n7cF8FpOEFHMxc1NPRviw3By7TMsRLIm6+4uiwfjoTHFz8pWBZDieco9Mp8b6I2joEs8eaYxNAlqKgUDkztcNbPZu/iITu32THet3YX+y92dGeOZDexxn/yvyYXEInN24uQovhjOUE/U0rHV7yq1TWxxBqw5ULgT6lqCkcMO4oI9aWlF8LGVsu5FgFyH42WEfHjSbCvf0V69gnq9C5AgRUY31kLglSAWlOmgsqzxRljqlB9SHRPepUlsw5jVvrDjcUjxjOhv5yqQ1sIgqHlfrh/LvSvSkNrBDLufdDgIw2UyIYO1dJ8lbvP9KkFeIBTplMuUR02ywg50fc8tulxTQfrl7GU75e7+1yRGVnmsytMpp7OfuDOHjX4c+AbAsoG5bYJhP9u3HBAJTs3UTPqayz0grBiPw6et7QXQDg==;QEAcQ2RNyogJ0dm8bNPurg=="
 ---

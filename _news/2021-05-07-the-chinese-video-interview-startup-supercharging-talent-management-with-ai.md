@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Consumer Comfort With AI in CX is Sticking — Here’s Why"
-excerpt: "As AI adoption grew, consumers experienced greater exposure to and confidence in the technology, which has fundamentally shaped their perspectives today. The pandemic didn’t create an interim reliance on AI-powered CX,"
-publishedDateTime: 2021-05-02T19:05:00Z
-originalUrl: "https://customerthink.com/consumer-comfort-with-ai-in-cx-is-sticking-heres-why/"
-webUrl: "https://customerthink.com/consumer-comfort-with-ai-in-cx-is-sticking-heres-why/"
+title: "The Chinese video interview startup supercharging talent management with AI"
+excerpt: "LeapIn makes AI video interviewing software that helps companies manage talent and hiring. How does its technology stack up?"
+publishedDateTime: 2021-05-07T02:00:00Z
+originalUrl: "https://technode.com/2021/05/07/leapin-the-chinese-video-interview-startup-supercharging-talent-management-with-ai/"
+webUrl: "https://technode.com/2021/05/07/leapin-the-chinese-video-interview-startup-supercharging-talent-management-with-ai/"
+ampWebUrl: "https://technode.com/2021/05/07/leapin-the-chinese-video-interview-startup-supercharging-talent-management-with-ai/"
+cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/05/07/leapin-the-chinese-video-interview-startup-supercharging-talent-management-with-ai/"
 type: article
-quality: 37
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: CustomerThink
-  domain: customerthink.com
+  name: TechNode
+  domain: technode.com
 
 topics:
   - AI
 
 images:
-  - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
-    width: 1280
-    height: 960
+  - url: "https://i1.wp.com/technode.com/wp-content/uploads/2021/04/bigstock-Asian-Job-Seeker-Being-Intervi-389639464-scaled.jpg?fit=2560%2C1707&ssl=1"
+    width: 2560
+    height: 1707
     isCached: true
 
 related:
@@ -56,21 +58,19 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "The Chinese video interview startup supercharging talent management with AI"
-    excerpt: "LeapIn makes AI video interviewing software that helps companies manage talent and hiring. How does its technology stack up?"
-    publishedDateTime: 2021-05-07T02:00:00Z
-    webUrl: "https://technode.com/2021/05/07/leapin-the-chinese-video-interview-startup-supercharging-talent-management-with-ai/"
-    ampWebUrl: "https://technode.com/2021/05/07/leapin-the-chinese-video-interview-startup-supercharging-talent-management-with-ai/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/05/07/leapin-the-chinese-video-interview-startup-supercharging-talent-management-with-ai/"
+  - title: "Consumer Comfort With AI in CX is Sticking — Here’s Why"
+    excerpt: "As AI adoption grew, consumers experienced greater exposure to and confidence in the technology, which has fundamentally shaped their perspectives today. The pandemic didn’t create an interim reliance on AI-powered CX,"
+    publishedDateTime: 2021-05-02T19:05:00Z
+    webUrl: "https://customerthink.com/consumer-comfort-with-ai-in-cx-is-sticking-heres-why/"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 55
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
     images:
-      - url: "https://i1.wp.com/technode.com/wp-content/uploads/2021/04/bigstock-Asian-Job-Seeker-Being-Intervi-389639464-scaled.jpg?fit=2560%2C1707&ssl=1"
-        width: 2560
-        height: 1707
+      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
+        width: 1280
+        height: 960
         isCached: true
   - title: "Connecting Manufacturers with Artificial Intelligence"
     excerpt: "Increasingly manufacturers are asking the question “What can Artificial Intelligence do for me and my business?”– perhaps you have even asked that yourself."
@@ -87,6 +87,6 @@ related:
         height: 772
         isCached: true
 
-secured: "K78IHxXt476sqFrInum6qdHS44Zzdw7SZMYPIpPjfkb+OMZX0LnNrMcVDdr8r5JijvgaVaWNlmBcHgmxmh42Lo1tHztz5+xK+eiNwyL73KSKMGg00RdcOwaIfO31SaanAQcpC/0KudwjX/5qM8+f8qNZPFdxg8qvDWFo5RYyYkniWxhyfH3bLyYVuYqlDTS2RyRN33yODX6l+g302iiFKUYNC7mi2QsFoCnkO0bXCSJ4VRuVGQB7iQVTvN4szs6lotZgCtp1+Mbhzy3ozrGHkZZBwCXbkkXui4hugmjzMzkCP/DBthMo3iNqeeeXAVfV6mqQlG3ibpRqi5neIMi4EqyUwrwbM4x/jSpl6cAU8Pc=;thkksYLF+3Pi46eJ95H+JQ=="
+secured: "LTjBFh6qtLMvRLdn+SarbbmYrgcSVIw8XwY9LxWCl8OflfObssCVCRq6ojVwssvOGaMWgEC7LG1ThYj0Tr3aqQRupVGSGvJo0yZccSYfrRaQnm5VSHXOUULIrbnKbAKtKvHNZSR927ti83EjSjF2M/S7CCslaSi42RPScZTKEfwfDKcff/EEOJ5jnjOhKnM5LLoViryyShAXW4g7QqnbLL55acv+ZiCndGUqcxWyaxl7Ua2OUvt1A9eMurYFkjbvkPfpDbo8jp1AUyQQdrLi0Ys3UQXxYeTxR2Ke0n7QSt5uvwo6IAiWlvgdvsw1VEfrHqbhqMtQipo7UIEfCeJriS8fu9rKANVkxyKOgYVV4+U=;wIsFrpc3iqCPJjirj6vCZg=="
 ---
 

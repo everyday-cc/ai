@@ -56,6 +56,22 @@ related:
         width: 740
         height: 493
         isCached: true
+  - title: "The Chinese video interview startup supercharging talent management with AI"
+    excerpt: "LeapIn makes AI video interviewing software that helps companies manage talent and hiring. How does its technology stack up?"
+    publishedDateTime: 2021-05-07T02:00:00Z
+    webUrl: "https://technode.com/2021/05/07/leapin-the-chinese-video-interview-startup-supercharging-talent-management-with-ai/"
+    ampWebUrl: "https://technode.com/2021/05/07/leapin-the-chinese-video-interview-startup-supercharging-talent-management-with-ai/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/05/07/leapin-the-chinese-video-interview-startup-supercharging-talent-management-with-ai/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 55
+    images:
+      - url: "https://i1.wp.com/technode.com/wp-content/uploads/2021/04/bigstock-Asian-Job-Seeker-Being-Intervi-389639464-scaled.jpg?fit=2560%2C1707&ssl=1"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Consumer Comfort With AI in CX is Sticking — Here’s Why"
     excerpt: "As AI adoption grew, consumers experienced greater exposure to and confidence in the technology, which has fundamentally shaped their perspectives today. The pandemic didn’t create an interim reliance on AI-powered CX,"
     publishedDateTime: 2021-05-02T19:05:00Z
