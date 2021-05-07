@@ -9,7 +9,7 @@ ampWebUrl: "https://m.femina.in/life/careers-and-money/future-calling-machine-le
 cdnAmpWebUrl: "https://m-femina-in.cdn.ampproject.org/c/s/m.femina.in/life/careers-and-money/future-calling-machine-learning-193650.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 980
     height: 514
     isCached: true
-
-related:
-  - title: "Graph Learning: A Survey"
-    excerpt: "Graphs are widely used as a popular representation of the network structure of connected data. Graph data can be found in a wide spectrum of application domains such as social systems, ecosystems, biological networks,"
-    publishedDateTime: 2021-05-02T16:01:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/9416834"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 4
 
 secured: "E8dYUMwI5oho0c5qB5790O057pW2Vb+AuDrvFGm2PkRRGJqageck8f3ebAvqlq72W7hhfcWZd1VCO5IKBQ5GKkcFlkJNvPohAIv66m+bzh0yha1ZvgMl7kRA8cjfZUAQnDddDBFD4LSzP82QyoxLL1xwizoJ60uWE00wwnxB+KXIfL7BhB97Tgi5t/M8UXX2PUL7Pw64trIuIg1rcz6AZpzqnPzcpFfvUTTZQ3NbxlU/lQcYTZce/RtAsOhDIdf04svRv8I5OxK8816AJuDbicxMWlrwUrFGR2fAsnmM13s8Q57wRZiSjcZxNj/S6MJaD1NJyMzxX7USYxpzywKMZxQIT69I5GTa7chL3iS06/Ko9mdcmJw9iXOWQvsqE4c0r8Eyoi65+SbUcQMF2ybr6ay6cxe4TrITi5WFfSTIfKT2OinwpnFvzvnDU6LYjejP9Xc2q2IZmp7Y0KL4X7/aJ/LbW67uZMLesHz1BRVVrBBSryNPC0n7LE1kQGUBepnOCbWR8af9IIgi3ll6sZZGrA==;7u0H4itLsGfHi3Ly58wruA=="
 ---

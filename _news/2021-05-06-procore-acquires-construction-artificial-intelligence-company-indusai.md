@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Procore Acquires Construction Artificial Intelligence Company, INDUS.AI"
+    excerpt: "Procore Technologies, Inc., a leading provider of construction management software, today announced it has acquired INDUS.AI, makers of an artificial intelligence-powered analytics platform for the construction industry."
+    publishedDateTime: 2021-05-07T08:54:00Z
+    webUrl: "https://www.financialbuzz.com/procore-acquires-construction-artificial-intelligence-company-indus-ai/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 32
   - title: "Hill International and Everguard.ai Partner to Advance Artificial Intelligence (AI) in Improving Construction Jobsite Safety"
     excerpt: "Hill International and Everguard.ai announced today they are bringing best-in-class technologies – including artificial intelligence (AI) and sensor fusion – to construction companies focused on improving worker health and safety."
     publishedDateTime: 2021-05-06T22:52:00Z

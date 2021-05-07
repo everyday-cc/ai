@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Anyone can use this powerful facial-recognition tool — and that's a problem"
+    excerpt: "You probably haven't seen PimEyes, a mysterious facial-recognition search engine, but it may have spotted you."
+    publishedDateTime: 2021-05-04T19:21:00Z
+    webUrl: "https://www.cnn.com/2021/05/04/tech/pimeyes-facial-recognition/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/tech/pimeyes-facial-recognition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/tech/pimeyes-facial-recognition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 72
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504123035-20210504-facial-recognition-photo-scraping-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Anyone can use this powerful facial recognition tool — and that's a problem"
     excerpt: "If you upload a picture of your face to PimEyes' website, it will immediately show you any pictures of yourself that the company has found around the internet."
     publishedDateTime: 2021-05-06T13:41:00Z
@@ -41,22 +57,6 @@ related:
       - url: "https://beta.ctvnews.ca/national/sci-tech/2021/5/6/1_5416549/_jcr_content/root/responsivegrid/image.coreimg.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Anyone can use this powerful facial-recognition tool — and that's a problem"
-    excerpt: "You probably haven't seen PimEyes, a mysterious facial-recognition search engine, but it may have spotted you."
-    publishedDateTime: 2021-05-04T19:51:00Z
-    webUrl: "https://www.kctv5.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_edf49704-f7bd-5266-9009-4647981629f7.html"
-    ampWebUrl: "https://www.kctv5.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_edf49704-f7bd-5266-9009-4647981629f7.amp.html"
-    cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_edf49704-f7bd-5266-9009-4647981629f7.amp.html"
-    type: article
-    provider:
-      name: KCTV News
-      domain: kctv5.com
-    quality: 42
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/f/eb/feb4f981-318b-5ef3-bd61-4051cf8a391d/5ec3b52cd52ef.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "+oJ4z0QG4DYAkbiUq1dWRFboSdZIiuNrRWiGCqfV8Twch+Sf6aQXa+LsbreGNf99eT4B0SFRpBqCRqShrZuYt96k9bRSxLKlCuXRzn1mjI0kBerwoEWyiJlkrRcC9SuG4j62BZZLt8CnRmHZ7xPrIAcIvxWBg972cUFeDL+v8ie36u2MwQ+PQkjS6gTEM/GeDspGVqZXlV7chyqFeeBT0WxvLmhCn5VKWXtcHfVH7jqTSgxp7pgnvPBBGOuLr9MQRwAd4W8JE40mUo5Fk2LVSvE2/lfu8dXmJk4qTUSkoQqh8PnLRBZb8kjP4RvKcL9XqSyhbfopiZa9MS/WDkLv3Y3AA2isnqPVvyqM+HI209v3sHUO6iTg7UA4zmBwWZqpEebS7ph6t0T/SPJKGL9MqeG+c//QDrIjSa6Cz3G5qeFwN6c+SPlv9cdfSiuORwmNs/snluMgJ0Be59Wctp9Mu7IVX077tEXJ6ONHoGNnrnSFL6i8joVrnhw7a97FzwnarJjlbDfvWTNBv98I35ZqoA==;fkJafMY/gO0yhiHk8SzopA=="

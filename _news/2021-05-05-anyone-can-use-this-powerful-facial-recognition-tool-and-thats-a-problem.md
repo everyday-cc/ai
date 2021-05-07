@@ -2,28 +2,32 @@
 category: news
 title: "Anyone can use this powerful facial-recognition tool — and that's a problem"
 excerpt: "You probably haven't seen PimEyes, a mysterious facial-recognition search engine, but it may have spotted you."
-publishedDateTime: 2021-05-04T19:51:00Z
-originalUrl: "https://www.kctv5.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_edf49704-f7bd-5266-9009-4647981629f7.html"
-webUrl: "https://www.kctv5.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_edf49704-f7bd-5266-9009-4647981629f7.html"
-ampWebUrl: "https://www.kctv5.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_edf49704-f7bd-5266-9009-4647981629f7.amp.html"
-cdnAmpWebUrl: "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/news/anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem/article_edf49704-f7bd-5266-9009-4647981629f7.amp.html"
+publishedDateTime: 2021-05-04T19:21:00Z
+originalUrl: "https://www.cnn.com/2021/05/04/tech/pimeyes-facial-recognition/index.html"
+webUrl: "https://www.cnn.com/2021/05/04/tech/pimeyes-facial-recognition/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/tech/pimeyes-facial-recognition/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/tech/pimeyes-facial-recognition/index.html"
 type: article
-quality: 42
-heat: -1
-published: false
+quality: 72
+heat: 92
+published: true
 
 provider:
-  name: KCTV News
-  domain: kctv5.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/assets/v3/editorial/f/eb/feb4f981-318b-5ef3-bd61-4051cf8a391d/5ec3b52cd52ef.image.jpg?resize=1024%2C576"
-    width: 1024
-    height: 576
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504123035-20210504-facial-recognition-photo-scraping-gfx-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -58,6 +62,6 @@ related:
         height: 499
         isCached: true
 
-secured: "gxhfKvtJTtPoWusF96VFJFR4qTOEDAklhNCO4uUVmX6kmAmj7BPJZJPS1zDWxtI54C5hdTbkuVLIU/m+kV0D/gpBoLZxS89L7BLTEqn4iX/pUpigvdTzrK7JIWzMGV6vWmh5FUpsRBKr/p7auWJVzS5wnzJfGD8VMsIYRHTauyMOx4SmH/eOeohIrUR1oF/zEoTlAJZUY3JNlASIVp6RQGcvDh+0AI4zoxu8DlhluxCWUTyArIjZx9FheQfX02+yb6yHVRsFnG1hLYKds0EA2QGQwiUbZCQJy5AYGdnevdQUsZauXH57RVk/HvoUAE+Kp5RbbdywIZn04Fsw51Zqi4XVK5ur+Z937HB8GhIP0MjNcH6lejWy37B5VbM/5XeT6fEt+l/2qv4MXXlp8OhQapUn6EJMqLnfzksXFqvCHYKdIF7aHdKHEnlgEoaceuuvMURTJHzo2s+Mhwgk5789gGGo9AZBJW0CdbsMxGawNH93ooIt0Q6TgoHFfJfy4aS8sT75y06eaLe+kkrvTGx9Ew==;JUFMEXGgaG4b8ZLVrU3noQ=="
+secured: "V5CvvqTng6zApmdh5hByCnNaXIW5xKh/cvJQRr3ym9bbT9fDk44wZFjo6GPVpve/MB3QcTZ8cYzl2g/X9if9pfViIdwYXGvRtgjxq6q2QK4wVL4ge7pKNx5zYjOrkeHk1TgsxJOc2Xxo+dEKT2uyqt5gVAWe/0pUQhE9lqXamivoqGAsQ+VFmMkR64oU0/8AwWOk6Zm7Uvm4yAahQCq4RmWBltRpV9FnWCG+uqDXrHYkokk5ZriUnvW4nfMaGR1I/ArfbhtyeE140/Z/RceSi6ylJQ1EQc9BLhLXtGv9DplV6R0Z0kTEQ5h4OirJzZpNgJjLJe/JXaS8nzNpAbdqOOXFV1TpVQyxyHJHK/UMVLo=;TtptUGzvtGLf+sHsxdCDjw=="
 ---
 

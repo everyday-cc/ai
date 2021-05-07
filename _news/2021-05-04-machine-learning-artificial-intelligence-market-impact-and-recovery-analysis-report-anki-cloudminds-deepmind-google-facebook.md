@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/04/machine-learning-artificial-int
 webUrl: "https://ksusentinel.com/2021/05/04/machine-learning-artificial-intelligence-market-impact-and-recovery-analysis-report-anki-cloudminds-deepmind-google-facebook/"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 780
     height: 470
     isCached: true
+
+related:
+  - title: "Now DeepMind is using AI to transform football"
+    excerpt: "The Alphabet-owned company is working with Liverpool to apply AI smarts to the high-stakes world of football tactics"
+    publishedDateTime: 2021-05-07T07:52:00Z
+    webUrl: "https://www.wired.co.uk/article/deepmind-football-liverpool-ai"
+    ampWebUrl: "https://www.wired.co.uk/article/deepmind-football-liverpool-ai/amp"
+    cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/deepmind-football-liverpool-ai/amp"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 74
+    images:
+      - url: "https://media.wired.co.uk/photos/60941e371d4c1b7d05a51325/master/pass/GettyImages-1277904311.jpg"
+        width: 3000
+        height: 2001
+        isCached: true
 
 secured: "BrKjP2HLxyKGYrRNCbaC5ov918ZKZO1nRP0jf0+YEZiYJU0lnDYSrsm6L+POdse+6d75ej6KRcabsr2JV+5HF92g60MsWODuX6pdSutf/3RjhjYWHLi+tan6onlDoSy5fsAkpt0NYm855RCSUbxCmW/qHdDQIYwHSK5rUwfRiQhHvIGIUokuGh/oU40C9otcyo/812rF5HGG3M119pE4I2L30jprt7ypP/ge6/2G1hfaYMC5VkU7JQYlmL93tLhcbYCcv/UqOijGiC2/n/D1j5jT4yjVFd4L6n1TKjq5/l7HE+LcgcISP7e1ogYe3kkjxzhCPADjeg85lyVgVp5niTA0fFvRW8Mkg6dpJYm/XcVjKj/DQlHrB6HvXdGsIUDZDannBRPskse///fvRKpaiqqPg/s/YoLeuA/q6XpZ8fK18fGZ6nvBagS3Fi1Oxlmjw9/DmJkiO9Ubi7ZYP7RALvHvTnIjEh1ZB5iopuV4RmDW5NIQBSr+TEw5eaSybup0z6LZkYIOVMIlEjFLsPXH+g==;0P66bEUrW+zkX8/ZbuGVSg=="
 ---

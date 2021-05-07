@@ -57,6 +57,22 @@ related:
         width: 784
         height: 480
         isCached: true
+  - title: "Get ready for self-driving cars"
+    excerpt: "Once again, New York City has been bested by a for-hire vehicle operator taking advantage of the city’s laws to their own benefit, flooding our streets with even more non-medallion taxi services at the expense of tens of thousands of medallion owner-operators who played by the rules,"
+    publishedDateTime: 2021-05-07T09:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-get-ready-for-self-driving-cars-20210507-xy3knvooqnazlceqtq7qc5c7qa-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-get-ready-for-self-driving-cars-20210507-xy3knvooqnazlceqtq7qc5c7qa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-get-ready-for-self-driving-cars-20210507-xy3knvooqnazlceqtq7qc5c7qa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 44
+    images:
+      - url: "https://www.nydailynews.com/resizer/aSDwZ8rwwZT2QdGe9ax8L_4nmOs=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XZ3HTVUBUZH3TDNLBHWDMFCYRA.jpg"
+        width: 1200
+        height: 786
+        isCached: true
   - title: "2 Top Self-Driving Car Stocks to Buy in 2021"
     excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."
     publishedDateTime: 2021-05-05T11:00:00Z

@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-10-why-self-driving-cars-are-designed-to-look-like-overgrown-toys.md",
+      "title": "Why self-driving cars are designed to look like overgrown toys",
+      "excerpt": "They’re here. Lyft passengers in Las Vegas can already hail a self-driving taxi. It’s one of the first times vehicles with no human behind the wheel are being tested on city streets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/",
+      "originalUrl": "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-driving-innovation-with-emotional-intelligence.md",
       "title": "Driving innovation with emotional intelligence",
       "excerpt": "Even as the world rapidly embraces more and more complex technologies like artificial intelligence (AI), it’s still the human ... breaking it down into five characteristics: Self-awareness: Recognizing and understanding your emotions, and how they ...",

@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Tesla’s self-driving tech may still have some ground to cover"
+    excerpt: "A memo from California’s DMV reveals that self-driving Tesla cars aren’t likely to reach Level 5 autonomy by the end of the year."
+    publishedDateTime: 2021-05-07T09:20:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/tesla-dmv-memo-self-driving"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/05/AdobeStock_343869056_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Autonomous Future: GM expects to offer self-driving vehicles this decade"
     excerpt: "General Motors CEO Mary Barra says she expects the automaker to offer self-driving vehicles in the next 10 years. “Later in the decade"
     publishedDateTime: 2021-05-06T19:22:00Z

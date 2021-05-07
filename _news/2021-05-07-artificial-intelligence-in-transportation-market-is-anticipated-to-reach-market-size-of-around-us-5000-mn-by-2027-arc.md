@@ -1,0 +1,32 @@
+---
+category: news
+title: "Artificial intelligence in transportation market is anticipated to reach market size of around US$ 5,000 Mn by 2027 | ARC"
+excerpt: "Artificial intelligence in transportation market is anticipated to reach market size of around US$ 5,000 Mn by 2027 and is anticipated to grow at a CAGR of around 15% in terms of revenue during the forecast period 2020 - 2027."
+publishedDateTime: 2021-05-07T07:59:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-is-anticipated-to-reach-market-size-of-around-us-5000-mn-by-2027-arc-2021-05-07"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-is-anticipated-to-reach-market-size-of-around-us-5000-mn-by-2027-arc-2021-05-07"
+type: article
+quality: 42
+heat: 42
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "l7c5zZ1c0rvzq3MmFi6mZUb/v+iY6mGukT88C5PIDLKJz8EUNDTu7rDERqBBBZR24wMmimk/MEnIOdIB5unUR1yfxf8lhX+8T6k9pTQNOEg4GKUCx487nQAy5/fLYamjursECqhtcbecpNxl7/xP26AwYrXOcy41gpSiUo4FC9JqypnGK34H/gRWqpBYYZpfay15hA+cIx2EHB40r7bB4YMFfsUQAC4SGKvtsqMp64D4ABZv87Z+4k4oy+cbSEqxh16x+XGU/29say4bWBIuAWvkkNOn/bRooJB0JWFgLrgBfnw0fMGQwbAhNSlZpFmjNVTKwxHUUqiRrXBtyGshgJ6wY5eSBD5qF7L5kI6YVJY=;u/FEj/evgXyzbZVusWycSQ=="
+---
+
