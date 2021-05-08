@@ -59,17 +59,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Microsoft's new open-source tool could stop your AI from getting hacked"
-    excerpt: "Microsoft releases a tool to help organizations shore up AI systems against adversarial machine-learning attacks."
-    publishedDateTime: 2021-05-04T03:32:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-new-open-source-tool-could-stop-your-ai-from-getting-hacked/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "DICT supports iTrain Asia Microsoft AI training for women data scientists"
     excerpt: "The Department of Information and Communications Technology (DICT), through its ICT Industry Development Bureau (IIDB), supports iTrain Asia’s initiative that provides free Microsoft-sponsored (Artificial Intelligence) AI training to women data scientists."
     publishedDateTime: 2021-05-05T10:59:00Z

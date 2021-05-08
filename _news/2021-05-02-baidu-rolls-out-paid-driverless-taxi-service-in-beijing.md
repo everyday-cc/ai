@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Baidu rolls out paid driverless taxi service in Beijing"
-excerpt: "BEIJING (AP) — Chinese tech giant Baidu rolled out its paid driverless taxi service ... who both work in the artificial intelligence industry, said they had a smooth riding experience."
-publishedDateTime: 2021-05-02T13:16:00Z
-originalUrl: "https://www.chron.com/news/article/Baidu-rolls-out-paid-driverless-taxi-service-in-16145433.php"
-webUrl: "https://www.chron.com/news/article/Baidu-rolls-out-paid-driverless-taxi-service-in-16145433.php"
-ampWebUrl: "https://www.chron.com/news/amp/Baidu-rolls-out-paid-driverless-taxi-service-in-16145433.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Baidu-rolls-out-paid-driverless-taxi-service-in-16145433.php"
+excerpt: "Chinese tech giant Baidu has rolled out its paid driverless taxi service ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding ..."
+publishedDateTime: 2021-05-02T16:40:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
+webUrl: "https://abcnews.go.com/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116"
 type: article
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.abcnews.com/images/Business/WireAP_dacbbcc8fdee407a886411a4b2db2efc_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "quvqx1aIanc8P2jEz/KaAxbo0QnqOBw7kgOiqgp3IfTtB4CtIRTY1PAb9OaxMOVQsFrlYBLlG8iXgnwcTuAiHZM2pwsoC0glqYyXK+AFf7fENO/+nYJfTznlURKw68c3121N0ddwDbzwXrInq3T8IbOsofjWmccWp0AlQShSNJVjBPdnCsZgVsjQta0VZN7yPPVcO6yhrd+t31E9wwlKLQZ1VcSW7zYLdxxtugL+8F/6OvXRftODLwnS0jyjc8aKc/uo6L5C1tYBDoFOdbmcSHSJAV69hXamMACRMUGAvMwnD78/iSzChWooz7lrapltS7GD1LZPZA9pl/DQ9zGvfVMRmIOBe5NXVqdT4a8rT8w=;TEH30j9/pxBt7ptIqoWEbw=="
+secured: "jhv+KwRvmrS+5s8FOiyxgY+f3QCzQJ0eCNUgYDx8rbWg7qeN8/jgbBbmu926Shm6uH+i3RYl4sTmOO9A6bM4b7V3nFUQQxWqIbNQeTSlfUCRLyHKmPXcAF+smUjejJkrIiTYJf/2bxAm6EP5QrZudXFqsQiH1KLKASChgbK9o7LVy0/94/mZBSDwcP5GGUlOyGmutWefy/PzGGUp8P3teA/Z77dEkQvVDQ2NGz1MZVG9TLJb7xvT+uH9tul7BwS6Dx2HdgdvoEl4RaNLFH9FwZDEUtuG1+FRwdrOZSEQsL0Ljfw6R40GQjt9xsvRf7vbLCaWjQKQZHzgygMHWODswBbT0w2AUMeeKdzX5eYOZh0=;D4nrcjrc1umXKdslTyEUug=="
 ---
 
