@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/05/protect-sensitive-data-ai
 webUrl: "https://www.ibm.com/blogs/watson/2021/05/protect-sensitive-data-ai/"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 2000
     height: 1007
     isCached: true
-
-related:
-  - title: "Speech Emotion Recognition Considering Nonverbal Vocalization in Affective Conversations"
-    excerpt: "In real-life communication, nonverbal vocalization such as laughter, cries or other emotion interjections, within an utterance play an important role for emotion expression. In previous studies, only few emotion recognition systems consider nonverbal vocalization,"
-    publishedDateTime: 2021-05-04T01:05:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/9420285"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
 
 secured: "Ms/70fi8Tu+R2Quo4nHbCkntsG2vrESpoN8tf3/oS7J6fHFwGuP30OTATPx+rgbjKLopI4/vgGlFmo60nlxGvZ46WPz4fo6qACGJIn0iG6Ul1JXchvPDT6awvAw/5XsD4AZSRDI8k8jTUAUjRdEKkyOx7Hf2KJga0LDPPAXVMzOSKtZyofXQPQRMLcNK7T6M0sxUAWWwbwKdVDFyb7eL/gCcFppToTmHxMaZgsAc2CO8KTBshuRGKs2QD6EwidDanUy/eBFXom3jqENpfo5aqSqllaULqp4nAGPRPJSUMU/Se8wnAH5NxQU546W0CJJFUnzNqX08ZLZRsZKa3hV3p14idbjaFTUOrGLgDEi1mYo=;MhH1qBjzbtE9O4I2xSDi2g=="
 ---
