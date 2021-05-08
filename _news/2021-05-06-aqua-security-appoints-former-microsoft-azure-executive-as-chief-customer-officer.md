@@ -101,20 +101,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Microsoft Leverages FPGAs for Real-Time AI"
-    excerpt: "Microsoft already enjoys a widely distributed FPGA infrastructure thanks to its data centers and services like its search engine ... of course, Microsoft's Cognitive Toolkit. When run on Intel Stratix 10 FPGAs Microsoft's Project Brainwave performed ..."
-    publishedDateTime: 2021-05-04T00:00:00Z
-    webUrl: "https://www.designnews.com/electronics-test/microsoft-leverages-fpgas-real-time-ai"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 54
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/Hot-Chips-Stratix-10-board-1-.jpg"
-        width: 1044
-        height: 403
-        isCached: true
   - title: "LiveAction Acquires Network Security Startup CounterFlow AI"
     excerpt: "LiveAction, the leader in network performance management, on Tuesday announced it has acquired CounterFlow AI, a leading network detection and response (NDR) provider. This acquisition will enable LiveAction’s current and future end customers and channel partners with a unified network performance monitoring and diagnostics (NPMD) platform that incorporates encrypted traffic analysis for security incident detection and response."
     publishedDateTime: 2021-05-05T01:31:00Z

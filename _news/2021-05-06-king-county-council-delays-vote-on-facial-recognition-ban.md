@@ -125,15 +125,15 @@ related:
         isCached: true
   - title: "Massachusetts Pioneers Rules For Police Use Of Facial Recognition Tech"
     excerpt: "Massachusetts is implementing its first state-wide rules for police using controversial facial recognition systems. But not all privacy advocates agree that regulation is the right step."
-    publishedDateTime: 2021-05-07T16:31:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=982709480"
+    publishedDateTime: 2021-05-07T10:25:00Z
+    webUrl: "https://www.wbur.org/npr/982709480/massachusetts-pioneers-rules-for-police-use-of-facial-recognition-tech"
     type: article
     provider:
-      name: Capital Public Radio
-      domain: capradio.org
+      name: WBUR
+      domain: wbur.org
     quality: 39
     images:
-      - url: "https://media.npr.org/assets/img/2021/04/29/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg?s=6"
+      - url: "http://media.npr.org/assets/img/2021/04/29/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg?s=6"
         width: 948
         height: 710
         isCached: true

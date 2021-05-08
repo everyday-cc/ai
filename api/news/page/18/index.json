@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-21-ceo-of-softbank-backed-sambanova-explains-the-firms-approach-to-artificial-intelligence.md",
+      "title": "CEO of Softbank-backed SambaNova explains the firm's approach to artificial intelligence",
+      "excerpt": "Many companies are struggling to figure out how to hire teams in order to deploy artificial intelligence technology, says Rodrigo Liang, co-founder and CEO of SambaNova Systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/04/21/ceo-of-softbank-backed-sambanova-explains-the-firms-approach-to-ai.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/04/21/ceo-of-softbank-backed-sambanova-explains-the-firms-approach-to-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106870723-16189099913ED4-SBA-042021-RodrigoLiang.jpg?v=1618909991",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-ai-based-medical-image-analysis-market-outlook-2021-ge-healthcare-ibm-watson-health-philips-healthcare-samsung-medtronic.md",
       "title": "AI-based Medical Image Analysis Market Outlook 2021 – GE Healthcare, IBM Watson Health, Philips Healthcare, Samsung, Medtronic",
       "excerpt": "The Global AI-based Medical Image Analysis Market is expected to reach approximate CAGR of 5.3% by 2025. Click Here to Get Free Sample PDF Copy of Latest Research on AI-based Medical Image Analysis Market 2021 Before Purchase:  The prominent players in the Global AI-based Medical Image Analysis Market: GE Healthcare,",
@@ -1118,49 +1169,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-health-systems-embracing-ai-use-in-6-recent-tech-partnerships.md",
-      "title": "Health systems embracing AI use in 6 recent tech partnerships",
-      "excerpt": "Health systems are embracing the potential benefits of using artificial intelligence and data analytics in their healthcare model with these six recent tech partnerships. The following articles were published by Becker's Hospital Review in the last week: Rochester,",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/health-systems-embracing-ai-use-in-6-recent-tech-partnerships.html",
-      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/health-systems-embracing-ai-use-in-6-recent-tech-partnerships.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-03-12-facebooks-ar-vision-is-a-contextual-ai-powered-interface.md",
+      "title": "Facebook’s AR Vision is a Contextual AI-Powered Interface",
+      "excerpt": "Virtual reality (VR) might be Facebook’s main commercial focus when it comes to immersive technology at the moment but the company is heavily investing in an augmented reality (AR) future. Today, Facebook Reality Labs (FRL) has given another teasing look into its vision,",
+      "sourceUrl": null,
+      "webUrl": "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/",
+      "originalUrl": "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vrfocus.com/wp-content/uploads/2021/03/Facebook_AR-Glasses.jpg",
+          "width": 711,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/amp/",
+      "cdnAmpWebUrl": "https://www-vrfocus-com.cdn.ampproject.org/c/s/www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/amp/",
+      "publishedDateTime": "2021-03-12T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VRFocus",
+        "domain": "vrfocus.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-rit-researchers-helping-to-develop-artificial-intelligence-systems-capable-of-playing-starcraft-ii.md",
       "title": "RIT researchers helping to develop artificial intelligence systems capable of playing 'Starcraft II'",
       "excerpt": "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II.",
@@ -1034,49 +1077,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-using-the-power-of-artificial-intelligence-to-detect-disease.md",
-      "title": "Using the power of artificial intelligence to detect disease",
-      "excerpt": "A large international collaboration, led by A/Prof Xiu Ying Wang and Prof Manuel Graeber of the University of Sydney, has developed an innovative, advanced artificial intelligence (AI) application, PathoFusion,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg",
-          "width": 1920,
-          "height": 1897,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.amp",
-      "publishedDateTime": "2021-03-11T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

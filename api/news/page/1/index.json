@@ -164,7 +164,7 @@
       "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/bill-com-to-buy-expense-software-provider-divvy-for-2-5-billion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -600,6 +600,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-smart-breakthrough-uses-artificial-neural-networks-to-enhance-travel-behavior-research.md",
+      "title": "SMART breakthrough uses artificial neural networks to enhance travel behavior research",
+      "excerpt": "SMART researchers created a synthetic framework known as theory-based residual neural network, which combines discrete choice models and deep neural networks, to improve individual decision-making analysis used in travel behavior research.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/smart-breakthrough-uses-artificial-neural-networks-enhance-travel-behavior-research-0507",
+      "originalUrl": "https://news.mit.edu/2021/smart-breakthrough-uses-artificial-neural-networks-enhance-travel-behavior-research-0507",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202105/hong-kong-traffic-smart-mit-a1.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-07T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1205,57 +1257,6 @@
         "Machine Learning",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-researchers-say-this-combo-of-old-school-invisible-ink-and-ai-is-uncrackable.md",
-      "title": "Researchers say this combo of old-school invisible ink and AI is ‘uncrackable’",
-      "excerpt": "A team of researchers from the Harbin Institute of Technology in China have developed a system by which invisible ink and a basic cipher can be combined with relatively simple AI to create an ‘uncrackable’ offline encryption method.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/researchers-say-this-combo-of-old-school-invisible-ink-and-ai-is-uncrackable",
-      "originalUrl": "https://thenextweb.com/news/researchers-say-this-combo-of-old-school-invisible-ink-and-ai-is-uncrackable",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2Finvisink.jpg&signature=1f4f2b595684d396f7ea2e56bceec1a9",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

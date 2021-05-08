@@ -73,20 +73,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Apple hires ex-Google AI scientist"
-    excerpt: "Apple has hired former distinguished Google scientist Samy Bengio, who left the search giant amid turmoil in its artificial intelligence research department. Bengio is expected to lead a new AI research unit at Apple under John Giannandrea,"
-    publishedDateTime: 2021-05-03T23:53:00Z
-    webUrl: "https://www.itnews.com.au/news/apple-hires-ex-google-ai-scientist-564095"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20130418071733_apple+logo.jpg&w=480&c=0&s=1"
-        width: 480
-        height: 363
-        isCached: true
   - title: "Apple snatches Google’s AI expert"
     excerpt: "Welcome to ethics  Apple has hired former distinguished Google scientist Samy Bengio, who left the search giant amid turmoil in its artificial intelligence research department in a row about ethics. Bengio is expected to lead a new AI research unit at Apple under John Giannandrea,"
     publishedDateTime: 2021-05-04T09:58:00Z

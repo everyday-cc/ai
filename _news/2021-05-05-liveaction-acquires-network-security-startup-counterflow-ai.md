@@ -108,20 +108,6 @@ related:
         width: 799
         height: 419
         isCached: true
-  - title: "Microsoft Leverages FPGAs for Real-Time AI"
-    excerpt: "Microsoft already enjoys a widely distributed FPGA infrastructure thanks to its data centers and services like its search engine ... of course, Microsoft's Cognitive Toolkit. When run on Intel Stratix 10 FPGAs Microsoft's Project Brainwave performed ..."
-    publishedDateTime: 2021-05-04T00:00:00Z
-    webUrl: "https://www.designnews.com/electronics-test/microsoft-leverages-fpgas-real-time-ai"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 54
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/Hot-Chips-Stratix-10-board-1-.jpg"
-        width: 1044
-        height: 403
-        isCached: true
 
 secured: "jZUDzetlz95F4nHDgUdrklyDa6gX3TRiQSgSjLXB2fJwT7UHMJJp9SoQr2wOSKue4dS17MqwbDgs1/kiganbhg09YLn6ULmsQfTIiaTpG5jjeOx6pXMjsB/kFIhPqeVcorN2Urp/0x/iCn/WXgmv/I+m6g5otIrDP2/0iNi/Fq1EI0iGBiLU2HgBHwSAJKVoHLmXxyP2FQCkb/xIT+Toh3IJl3Yfc+bnatEnAA1FZrx7qcSQd56Ig1thAqVnQoBxJqjkHwDRWyyZIiMK9bbILGoKKDmxP/RjskIEEdBqPMIEuX+BdwBJupDNYJ9ZDL7fIRGCTLmHZHRbX4OODQ7qSnSsCW2EflW7/sPFg3CwtcWOq9b/Gr8+9pbsOykfSiP5OwYnZ71xYCn/vKFMwxmk+gUJSkPB+d2WoVFZFbkpS1krIUocHkifG3JRdCEB+k1ombmyywzrbl21b89hrf2HhyXr33XdCTCJfdye+VpSotM5S2HzjB17a+/Ub16htVD1HoYQ0+xPd9RrqH3kqxM0cg==;1fFO7jXse6zyt+xcVlcS7w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/bill-co
 webUrl: "https://www.finsmes.com/2021/05/bill-com-to-buy-divvy-for-2-5-billion.html"
 type: article
 quality: 122
-heat: 132
+heat: 133
 published: true
 
 provider:

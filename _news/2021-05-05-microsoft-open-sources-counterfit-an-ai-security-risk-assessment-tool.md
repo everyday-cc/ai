@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/"
 type: article
 quality: 121
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg?p=facebook"
         width: 799
         height: 419
-        isCached: true
-  - title: "Microsoft Leverages FPGAs for Real-Time AI"
-    excerpt: "Microsoft already enjoys a widely distributed FPGA infrastructure thanks to its data centers and services like its search engine ... of course, Microsoft's Cognitive Toolkit. When run on Intel Stratix 10 FPGAs Microsoft's Project Brainwave performed ..."
-    publishedDateTime: 2021-05-04T00:00:00Z
-    webUrl: "https://www.designnews.com/electronics-test/microsoft-leverages-fpgas-real-time-ai"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 54
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/Hot-Chips-Stratix-10-board-1-.jpg"
-        width: 1044
-        height: 403
         isCached: true
   - title: "LiveAction Acquires Network Security Startup CounterFlow AI"
     excerpt: "LiveAction, the leader in network performance management, on Tuesday announced it has acquired CounterFlow AI, a leading network detection and response (NDR) provider. This acquisition will enable LiveAction’s current and future end customers and channel partners with a unified network performance monitoring and diagnostics (NPMD) platform that incorporates encrypted traffic analysis for security incident detection and response."

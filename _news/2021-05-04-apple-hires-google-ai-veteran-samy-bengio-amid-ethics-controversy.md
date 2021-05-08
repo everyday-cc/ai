@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359405
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359405/apple-hires-google-ai-veteran-samy-bengio?amp"
 type: article
 quality: 106
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://c.ndtvimg.com/2021-04/o084hgn8_tim-cook-650_625x300_27_April_21.jpeg"
         width: 650
         height: 400
-        isCached: true
-  - title: "Apple hires ex-Google AI scientist"
-    excerpt: "Apple has hired former distinguished Google scientist Samy Bengio, who left the search giant amid turmoil in its artificial intelligence research department. Bengio is expected to lead a new AI research unit at Apple under John Giannandrea,"
-    publishedDateTime: 2021-05-03T23:53:00Z
-    webUrl: "https://www.itnews.com.au/news/apple-hires-ex-google-ai-scientist-564095"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20130418071733_apple+logo.jpg&w=480&c=0&s=1"
-        width: 480
-        height: 363
         isCached: true
   - title: "Apple snatches Google’s AI expert"
     excerpt: "Welcome to ethics  Apple has hired former distinguished Google scientist Samy Bengio, who left the search giant amid turmoil in its artificial intelligence research department in a row about ethics. Bengio is expected to lead a new AI research unit at Apple under John Giannandrea,"
