@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-pe
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechCrunch
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tall Tales By Your Grandparents About Walking Five Miles To School Will Instead Be About Using Self-Driving Cars For Your Kid’s Generation"
+    excerpt: "Walking five miles to school in the snow and uphill will become a new tale about being driven to school by self-driving cars."
+    publishedDateTime: 2021-05-08T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608cd9913ed92beb8a48a802%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2143%26cropY1%3D13%26cropY2%3D1219"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Autonomous Future: GM expects to offer self-driving vehicles this decade"
     excerpt: "General Motors CEO Mary Barra says she expects the automaker to offer self-driving vehicles in the next 10 years. “Later in the decade"
     publishedDateTime: 2021-05-06T19:22:00Z

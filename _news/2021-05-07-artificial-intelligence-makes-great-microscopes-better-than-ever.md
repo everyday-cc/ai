@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microsco
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -58,6 +58,29 @@ related:
         width: 777
         height: 466
         isCached: true
+  - title: "Artificial intelligence makes best microscopes even better"
+    excerpt: "During a recent study EMBL scientists combined artificial intelligence AI algorithms with two cutting-edge microscopy techniques an advancement that shortens"
+    publishedDateTime: 2021-05-08T15:44:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269329246/artificial-intelligence-makes-best-microscopes-even-better"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1620488160.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Artificial intelligence makes best microscopes better than ever"
+    excerpt: "During a recent study EMBL scientists combined artificial intelligence (AI) algorithms with two cutting-edge microscopy techniques, an advancement that shortens the time for image processing from days to mere seconds while ensuring that the resulting images are crisp and accurate."
+    publishedDateTime: 2021-05-08T15:14:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210508/3752805.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "NtLo/ULXP2Vm3nuGbKcSTW7femHCueVcBhEehlXivjbPc8HdXkH4gm286y5yHI9Q0tJfbSogxKPRS4ZzRKo84Cxguz+Aw0F252exJMMQHAwXISBwueszdNqEJ4EsPQOUSaYbwpKYUwiydfDnEv3qxNpUvl6k09h9jmvsRmraXncfX0we1LN/7EpxnxXqr7+ETSrebHBeKszRrJdFzwvu+A0VlFOYI4Gt/HEVlbR2s3q+TtajucCEH9prrMIb+1q8yCkum0EHo0g6P+T3mJHthVL451/XNkeGXvHwaVvD3wQwVL5AbskanYyjvVH3CLvnD2dqMa5N/tbh0zZKqtXY5NA1VBrKIUnJoxD7Vwxn8c/MYY8KhJSvn3U7e/Rpsawq42D1O3aiCH6lkWU5XUSiTXjADJkDjXDBGhDRo6bktEgJeO0cfl+dnbgkEJAS0zwqS5HqBqhCbpra2dOCciizs3C3rHuTYtL5uJGqik+Tdbv2nE5VCBkh9mn6XK99+Ck2XdFg/rsO/OLXnLjMviC4SQ==;2CHNPMEH/D5RB/H4kR8unA=="
 ---

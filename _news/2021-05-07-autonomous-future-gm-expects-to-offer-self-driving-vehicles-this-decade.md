@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Tall Tales By Your Grandparents About Walking Five Miles To School Will Instead Be About Using Self-Driving Cars For Your Kid’s Generation"
+    excerpt: "Walking five miles to school in the snow and uphill will become a new tale about being driven to school by self-driving cars."
+    publishedDateTime: 2021-05-08T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608cd9913ed92beb8a48a802%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2143%26cropY1%3D13%26cropY2%3D1219"
+        width: 1199
+        height: 675
+        isCached: true
 
 secured: "n2QmAJaeLGncAkLkZE5/xVl5xFwcuqdaceB9BhCEfginKqQqebhJ8iJk82hCQ+ddXALcC6b7Rg0/fTMyNrgFeCu70++yUu9gDQYhyOXilQ65ckXTJ2U1iRD2Vywd2I9ccfe6hafKF4ldzdmZ4lT2C8OTpqANp3KqLCuaRtY5gmOy5NV2WBAtFINghMxRVlQtqvlT5xIdp4Q3hp/V9QcWzDXsaodDFKDl+5do3Cng4Q8/OzEK/lS52FYs6oyXVhATZ5IERx8JLauXVEIfLE2e2i+X7reP5FNDeWups/rQwrrlzesDScERmlE/c+S3V4SdDQAfmPEfA7oaRlxat7vC68E1h49bSIr1jIIiVwgWwAc=;52bIKTZlotOJ7kqc1U+UyA=="
 ---

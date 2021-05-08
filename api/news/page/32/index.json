@@ -2,6 +2,58 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-04-07-this-is-the-most-powerful-artificial-intelligence-tool-in-the-world.md",
+      "title": "This Is the Most Powerful Artificial Intelligence Tool in the World",
+      "excerpt": "and in the field of robotics and vision. GPT-3 (Generative Pre-Training Transformer 3) is what is known as an autoregressive language model, which uses deep learning to produce texts that simulate human writing. Unlike most artificial intelligence systems ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/368843",
+      "originalUrl": "https://www.entrepreneur.com/article/368843",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1617656858-inteligencia-artificial1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/368843",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368843",
+      "publishedDateTime": "2021-04-07T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-politico-ai-decoded-queer-ai-oxford-on-ethics-the-people-vs-biometrics.md",
       "title": "POLITICO AI: Decoded: Queer AI — Oxford on ethics — The people vs. biometrics",
       "excerpt": "I also asked the director of Oxford University’s new AI ethics institute what keeps him up at night, and the Ada Lovelace Institute investigated what citizens think about biometrics. But first — here’s what we know so far about the European ...",
@@ -1134,49 +1186,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-charles-river-laboratories-signs-ai-pact-with-valence-discovery-to-boost-drug-discovery-work.md",
-      "title": "Charles River Laboratories signs AI pact with Valence Discovery to boost drug discovery work",
-      "excerpt": "Early-stage contract research organization Charles River Labs is delving deeper into artificial intelligence with a new pact inked ... RELATED: Charles River jumps into cell and gene therapy manufacturing with $875M Cognate buy This forms part of an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercebiotech.com/cro/charles-river-laboratories-signs-ai-pact-valence-discovery-to-boost-drug-discovery-work",
-      "originalUrl": "https://www.fiercebiotech.com/cro/charles-river-laboratories-signs-ai-pact-valence-discovery-to-boost-drug-discovery-work",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1617712776/CharlesRiver.jpg/CharlesRiver.jpg?hoBqjFfETTbtDeYGlv6reT1WxdkVxUrw",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

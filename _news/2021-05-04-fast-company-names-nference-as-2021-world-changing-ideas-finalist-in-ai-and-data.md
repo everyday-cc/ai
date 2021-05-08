@@ -23,19 +23,14 @@ topics:
 
 related:
   - title: "Fast Company Names AMP Robotics’ AI Platform a 2021 World Changing Ideas Finalist"
-    excerpt: "Proprietary artificial intelligence technology recognized in “AI & Data” and “Best World Changing Idea North America” categories"
-    publishedDateTime: 2021-05-04T11:43:00Z
-    webUrl: "https://www.waste360.com/business/fast-company-names-amp-robotics-ai-platform-2021-world-changing-ideas-finalist"
+    excerpt: "The artificial intelligence (AI) platform developed by AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and rec"
+    publishedDateTime: 2021-05-04T15:31:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210504005740/en/Fast-Company-Names-AMP-Robotics’-AI-Platform-a-2021-World-Changing-Ideas-Finalist"
     type: article
     provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 64
-    images:
-      - url: "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png"
-        width: 1540
-        height: 800
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 44
 
 secured: "3MUrbRQLQrNVMVXqk2pVqcL5zlX1lC4mQzwk8ye2Lxy0ZEL4DuJrj9jOci2dq+erJbQzc1WLeCLUQZsglWOq8zCglV0wXA5yOsZOFSt6sks4vbwxRBt8h0Nyr8/y0UwYi33h/oR0NhvPTVfR18PgrEWWqigZyRCi7miB9w/1klOVAPHp7uHnMlzAXU2Blbv0PgQYgFI36PRTYrcCR0Wfnv+RKLPirVK6DCAGljPipdk3F5KlQ8ivsXj3x3G3FyF6iUOxzMg/xPMDC2rDKx87JEANjRrb9viOaoZx0SMXF6FB/ByhtRe316hF1E36x8UgtS0jg5TX7AX83H7yr3nxfkfGJUmsszMFc6Bq4DWvOsE=;SMEnuqC5LzwuMXjQVNoJXw=="
 ---

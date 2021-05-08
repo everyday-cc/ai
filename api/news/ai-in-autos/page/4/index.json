@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-14-the-dangers-of-data-based-certainty.md",
+      "title": "The Dangers of Data-Based Certainty",
+      "excerpt": "Economists are rushing to embrace the use of big data in their research, while many policymakers think artificial intelligence offers scope for greater cost-effectiveness and better policy outcomes. But before we entrust more decisions to data-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.project-syndicate.org/commentary/machine-learning-artificial-intelligence-data-limitations-by-diane-coyle-2021-04",
+      "originalUrl": "https://www.project-syndicate.org/commentary/machine-learning-artificial-intelligence-data-limitations-by-diane-coyle-2021-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://webapi.project-syndicate.org/library/463bd8e9fb49604db99513230436f2ef.2-1-super.1.jpg",
+          "width": 1360,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Project Syndicate",
+        "domain": "project-syndicate.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-truckings-safer-self-driving-future-is-around-the-corner.md",
       "title": "Trucking’s safer, self-driving future is around the corner",
       "excerpt": "But they are setting the foundation for America’s driverless future ... there are a lot of miles that artificial intelligence could really bolster and help move goods through those corridors.",
@@ -1293,49 +1336,6 @@
       "provider": {
         "name": "business-live",
         "domain": "business-live.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-the-cpsc-digs-in-on-artificial-intelligence.md",
-      "title": "The CPSC Digs In on Artificial Intelligence",
-      "excerpt": "American households are increasingly connected internally through the use of artificially intelligent appliances.1 But who regulates the safety of those dishwashers, microwaves, refrigerators, an",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/cpsc-digs-artificial-intelligence",
-      "originalUrl": "https://www.natlawreview.com/article/cpsc-digs-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/cpsc-digs-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/cpsc-digs-artificial-intelligence?amp",
-      "publishedDateTime": "2021-03-31T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
         "images": null,
         "publishers": null,
         "authors": null

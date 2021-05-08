@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Fast Company Names AMP Robotics’ AI Platform a 2021 World Changing Ideas Finalist"
-excerpt: "Proprietary artificial intelligence technology recognized in “AI & Data” and “Best World Changing Idea North America” categories"
-publishedDateTime: 2021-05-04T11:43:00Z
-originalUrl: "https://www.waste360.com/business/fast-company-names-amp-robotics-ai-platform-2021-world-changing-ideas-finalist"
-webUrl: "https://www.waste360.com/business/fast-company-names-amp-robotics-ai-platform-2021-world-changing-ideas-finalist"
+excerpt: "The artificial intelligence (AI) platform developed by AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and rec"
+publishedDateTime: 2021-05-04T15:31:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210504005740/en/Fast-Company-Names-AMP-Robotics’-AI-Platform-a-2021-World-Changing-Ideas-Finalist"
+webUrl: "https://www.businesswire.com/news/home/20210504005740/en/Fast-Company-Names-AMP-Robotics’-AI-Platform-a-2021-World-Changing-Ideas-Finalist"
 type: article
-quality: 64
-heat: 74
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
-  name: Waste360
-  domain: waste360.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI
   - AI in Robotics
-
-images:
-  - url: "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png"
-    width: 1540
-    height: 800
-    isCached: true
+  - AI
 
 related:
   - title: "Fast Company Names nference as 2021 World Changing Ideas Finalist in AI and Data"
@@ -35,6 +29,6 @@ related:
       domain: businessinsider.com
     quality: 42
 
-secured: "3VUnFiP1BT+lXhtQ7JW9VcB+Dsz3UB1BTPN05tZkPnB0KzmYHuhPgxoAofNUOM7p0yLo5qvM01/Pnzncl4NyHfXGr/M/AA2qDHDWZogLcd6xy4iEzgpivideGWfIc5ONa4Qk/GMJwK47n+rPIzxsR+jdUnVoEicYi5dGTIr4uY3ARrS+Ec/Xu5VZN8xMV9h78HNIvzTcrE8PSojUVCqCUzjqh55xZbvokQwVbpaw+mpchVoBcfQtSV5ciKxOk8Gh0+JR60kH2wfZu0zSmWY8jFOxAeFyLNIc9lovpRMw9ux6bdy/HJxTtwM8AA9ukGicS4V1HM5yWFMv6QJNVBJdbKe0bh4DHgqQoh7t44DA6Zg=;Xfuttfvby5jIadxmivVTZA=="
+secured: "tsn9J8qFU4J3YbERaDw6TnF2Fdp1cHlN/3eymjV1zxBfJdsftNMKYtustWeUwKQOxhN0TiaCbh4Ahc3lohYuv8Q3ukTDsMVAlPQYxCuIcIym4Y8tnnU+aJ7TOS4HuSUyJkDlj37MItj9GY4MIdGYKPULuMJey/Sr27azzeIVxuHqV2SMnxj28KEWl4NRCuWmoDXhcOTDDhRZSHK7MEwXK6PcFuXqmRxmNI4TCVN0DWZ+25kHCf+eqtATv8Ae+m3ON4PbSlJBm1Xaib/eQRwuUjFUsKHeS/f6zVJ1btNgOo693vmLc6ahdkuxdGlsK19Jx8SHh+cdO8SGDsdQfu+VXqSnv/s9gscMO1PXnbET5uY=;KhbAm/rJAoEfa4yPumW6ow=="
 ---
 

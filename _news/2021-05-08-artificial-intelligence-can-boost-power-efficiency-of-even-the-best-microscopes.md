@@ -58,6 +58,29 @@ related:
         width: 777
         height: 466
         isCached: true
+  - title: "Artificial intelligence makes best microscopes even better"
+    excerpt: "During a recent study EMBL scientists combined artificial intelligence AI algorithms with two cutting-edge microscopy techniques an advancement that shortens"
+    publishedDateTime: 2021-05-08T15:44:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269329246/artificial-intelligence-makes-best-microscopes-even-better"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1620488160.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Artificial intelligence makes best microscopes better than ever"
+    excerpt: "During a recent study EMBL scientists combined artificial intelligence (AI) algorithms with two cutting-edge microscopy techniques, an advancement that shortens the time for image processing from days to mere seconds while ensuring that the resulting images are crisp and accurate."
+    publishedDateTime: 2021-05-08T15:14:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210508/3752805.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "hPIuNU94N/goBMZbsOS0duCJTx0AzmcNpH+yGJJwScdLFcdX65WK9xAvFeFNwE0mCjMaY8WCQp3NL+7S3dY3dEMxU//xGJD2Nd1iABfcAXZkr2uSp5PVA9DpCarlGCoTMej8PLO4TJaT9p9J3NlAkhK+WR8rcN25OyEQim3O7rz6cgYk+kptXiWsG4U/P9wBoMFghxi4h4ZgtUu/+UOdrv78mygAEdcbG5tEFE/i7Pl7SEInClyIUWFFv5CKiWJVekShwMmHdsoTuZ1LDj09HwzfU75Mnt0bkFpSKqcuLDd/wDx8xGy5W5W4BKwPfIIZuwaSY5xdFFfWhCrWIzZUZwiPGYRlLfgpywxffCmLGqy+O+RIIVFvstYjpapYgLETH7yci3elgZpVj+WQeSSc1N4ayS3I+WN/gsvna7eJrmMiqfA2oEhWyjUYqH8XOg0SFR/lngmIa3Q5gupnhdNnkRbl6MM9o8yKZFcXvTKz9Z2a5j7FEnrZWdePIROsDm5/Gc7eszK7AIhg3xf2ZAgzyw==;LsRgfhrj2OCm3itQlRFsaQ=="
 ---

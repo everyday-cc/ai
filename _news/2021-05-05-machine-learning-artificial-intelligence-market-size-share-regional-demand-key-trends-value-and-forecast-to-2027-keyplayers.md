@@ -36,6 +36,20 @@ related:
         width: 1044
         height: 625
         isCached: true
+  - title: "Artificial Intelligence in Construction Market to 2025 – Industry Trends, Share, Size, Growth, Opportunity and Forecasts"
+    excerpt: "Selbyville, Delaware, The Artificial Intelligence in Construction Market dynamics, forces, companies and trends"
+    publishedDateTime: 2021-05-05T18:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-to-2025-industry-trends-share-size-growth-opportunity-and-forecasts-2021-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Machine Learning as a Service MLaaS Market size is expected to grow at an annual average of 43 during 2021 2027 Machine learning is a computing technique that gives computers the ability to learn and modify analytic functions when"
     publishedDateTime: 2021-05-06T12:44:00Z

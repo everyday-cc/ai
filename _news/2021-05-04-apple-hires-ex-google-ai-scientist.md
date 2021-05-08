@@ -41,50 +41,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Apple hires ex-Google AI scientist who resigned after researcher firings"
-    excerpt: "AI scientist Samy Bengio, who resigned from Google after the firings of Timnit Gebru and Margaret Mitchell, has joined Apple."
-    publishedDateTime: 2021-05-03T21:40:00Z
-    webUrl: "https://venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/"
-    ampWebUrl: "https://venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/03/apple-hires-ex-google-ai-scientist-who-resigned-after-researcher-firings/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2015/07/2015-07-11T031525Z_1_LYNXNPEB6A02N_RTROPTP_3_USA-APPLE.jpg?w=1200&strip=all"
-        width: 728
-        height: 500
-        isCached: true
-  - title: "Apple hires yet another ex-Google AI leader"
-    excerpt: "Apple has hired Samy Bengio, a prominent AI researcher who previously worked at Google. Bengio will lead \"a new AI research unit\" within Apple, according to a recent report in Reuters. He is just the latest in a series of prominent AI leaders and workers Apple has hired away from the search giant."
-    publishedDateTime: 2021-05-03T21:59:00Z
-    webUrl: "https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/05/IRW_3731-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Yet another Google AI leader has defected to Apple"
-    excerpt: "Apple has hired Samy Bengio, a prominent AI researcher who previously worked at Google. Bengio will lead \"a new AI research unit\" within Apple, according to a recent report in Reuters. He is just the latest in a series of prominent AI leaders and workers Apple has hired away from the search giant."
-    publishedDateTime: 2021-05-03T21:59:00Z
-    webUrl: "https://arstechnica.com/gadgets/2021/05/apple-hires-yet-another-ex-google-ai-leader/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/05/IRW_3731-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Apple hires Google AI veteran Bengio amid ethics controversy"
     excerpt: "Apple has hired former Google artificial intelligence (AI) scientist Samy Bengio following his departure from the company after controversy engulfed the Google Brain division. Bengio will lead a new AI research division at Apple and will report to senior vice president of machine learning and AI strategy John Giannandrea,"
     publishedDateTime: 2021-05-05T10:58:00Z

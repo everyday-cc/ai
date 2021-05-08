@@ -37,6 +37,20 @@ related:
         width: 1044
         height: 625
         isCached: true
+  - title: "Artificial Intelligence in Construction Market to 2025 – Industry Trends, Share, Size, Growth, Opportunity and Forecasts"
+    excerpt: "Selbyville, Delaware, The Artificial Intelligence in Construction Market dynamics, forces, companies and trends"
+    publishedDateTime: 2021-05-05T18:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-to-2025-industry-trends-share-size-growth-opportunity-and-forecasts-2021-05-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in Accounting Market 2025: Top Key Players AWS, Microsoft, Intuit, Xero, Sage, UiPath and others"
     excerpt: "The report released by Zion Market Research on Global Artificial Intelligence in Accounting Market covers the broad strategic framework of dynamics of the global market. The report is a comprehensive study of current and future growth aspects."
     publishedDateTime: 2021-05-05T23:52:00Z

@@ -2,6 +2,40 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-03-14-skt-kakao-to-cooperate-in-ai-esg-intellectual-property.md",
+      "title": "SKT, Kakao to cooperate in AI, ESG, intellectual property",
+      "excerpt": "By Kim Bo-eun SK Telecom and Kakao unveiled a partnership Sunday to co-develop technology in artificial intelligence (AI) and create a fund for environmental, social and governanc",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-13T20:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-why-artificial-intelligence-might-not-win-a-war.md",
       "title": "Why Artificial Intelligence Might Not Win a War",
       "excerpt": "If neural networks and machine learning remain the dominant AI guiding technologies, the operational usefulness of AI in battle will be rather limited.",
@@ -1072,50 +1106,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-rit-researchers-helping-to-develop-artificial-intelligence-systems-capable-of-playing-starcraft-ii.md",
-      "title": "RIT researchers helping to develop artificial intelligence systems capable of playing 'Starcraft II'",
-      "excerpt": "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rit.edu/news/rit-researchers-helping-develop-artificial-intelligence-systems-capable-playing-starcraft-ii",
-      "originalUrl": "https://www.rit.edu/news/rit-researchers-helping-develop-artificial-intelligence-systems-capable-playing-starcraft-ii",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2021-03/Starcraft_2.jpg?itok=GLvmIZ6q",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rochester Institute of Technology",
-        "domain": "rit.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
