@@ -85,20 +85,6 @@ related:
         width: 1050
         height: 630
         isCached: true
-  - title: "San Diego Held Back Materials Sought by Congress on Facial Recognition"
-    excerpt: "In 2017, the House Committee on Oversight and Reform wanted to learn more about San Diego's use of facial recognition technology. The city’s response downplayed internal concerns over the program and withheld a number of reports showing how prevalent it really was."
-    publishedDateTime: 2021-05-03T11:00:00Z
-    webUrl: "https://www.voiceofsandiego.org/topics/government/san-diego-held-back-materials-sought-by-congress-on-facial-recognition/"
-    type: article
-    provider:
-      name: Voice of San Diego
-      domain: voiceofsandiego.org
-    quality: 41
-    images:
-      - url: "https://www.voiceofsandiego.org/wp-content/uploads/2021/04/Facial-Recognition_FINAL.png"
-        width: 1800
-        height: 1200
-        isCached: true
   - title: "King County Council delays vote on facial recognition ban"
     excerpt: "The Metropolitan King County Council delayed a vote on a groundbreaking facial recognition ban, citing a need to do additional outreach and research on the policy's effects."
     publishedDateTime: 2021-05-06T01:14:00Z

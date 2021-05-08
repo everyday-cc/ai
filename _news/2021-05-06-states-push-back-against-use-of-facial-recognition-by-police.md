@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/States-push-back-against-use-of-facia
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php"
 type: article
 quality: 74
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/7/10/710fa621-1921-553e-884c-d6a95b7ff98f/60932b6a52c86.image.jpg?resize=1050%2C630"
         width: 1050
         height: 630
-        isCached: true
-  - title: "San Diego Held Back Materials Sought by Congress on Facial Recognition"
-    excerpt: "In 2017, the House Committee on Oversight and Reform wanted to learn more about San Diego's use of facial recognition technology. The city’s response downplayed internal concerns over the program and withheld a number of reports showing how prevalent it really was."
-    publishedDateTime: 2021-05-03T11:00:00Z
-    webUrl: "https://www.voiceofsandiego.org/topics/government/san-diego-held-back-materials-sought-by-congress-on-facial-recognition/"
-    type: article
-    provider:
-      name: Voice of San Diego
-      domain: voiceofsandiego.org
-    quality: 41
-    images:
-      - url: "https://www.voiceofsandiego.org/wp-content/uploads/2021/04/Facial-Recognition_FINAL.png"
-        width: 1800
-        height: 1200
         isCached: true
   - title: "Pressure grows on banks to abandon facial recognition tech"
     excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."

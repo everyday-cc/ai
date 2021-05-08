@@ -138,20 +138,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Baidu Launches Self-Driving Robotaxi Service, Ready for the 2022 Winter Olympics"
-    excerpt: "Chinese users can hail a self-driving robotaxi to go about their business. The fully driverless Apollo Go service will first launch in Beijing's Shougang Park, one of the venues for the 2022 Beijing Winter Olympics,"
-    publishedDateTime: 2021-05-03T10:10:00Z
-    webUrl: "https://www.autoevolution.com/news/baidu-launches-self-driving-robotaxi-service-ready-for-the-2022-winter-olympics-160483.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 34
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/baidu-launches-self-driving-robotaxi-service-ahead-of-2022-winter-olympics-160483-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
 
 secured: "swwRzcrFQXON1AJoifMeHOrLghNKRDHwKv0JyKrsLgTIba7jkS52wmkjw6xyoqhA5XfhdJaY/Hv1H5UatG6punxe5M+JV7/GpQMeuzKet/ZIwq4ZEqc2MAJ6wz9FEErQBHX8w7ig/oixEXKc0PsdhboOF/nn/nQ6mhCTP3978euUaEfpug6zaAr92untfNnZy2pXpgM5hkIziIHz/EdBckUSJMX7XXE7iS3/GJVQHiNv6xRbj4YYRzvTIGmspsgu7Fg6Pe/MnbM44wTYYDTv/Cm9eAzBFcgvQveR5G2mpjbG0vf4/T2fVsvdEPjTQHczNLJH+HoXeGhjZBeSJV+q6FvW839bAKAi0TV/4CHLOoQ=;OSS3rdaj8RmFDxEHMPh8bw=="
 ---

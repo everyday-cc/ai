@@ -60,15 +60,6 @@ related:
         width: 780
         height: 400
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Size, Growth Opportunities, Trends by Manufacturers, Regions, Application & Forecast to 2027"
-    excerpt: "The information made available in the Artificial Intelligence (AI) in Fintech Market report will definitely facilitate to increase the knowledge and decision-making skills of the business, thus providing an immense opportunity for growth."
-    publishedDateTime: 2021-05-03T09:41:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-ai-in-fintech-market-size-growth-opportunities-trends-by-manufacturers-regions-application-forecast-to-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 2
 
 secured: "2Fv1fxCQrY2mBVNKCpQ1UUNhah6dIY9OoKV5xL09VqUlyzYkA/njAZ5xp21GtrQ7X3bLNF7QcIeaBz5dPjAJadNQmW1+m30wgClGSTqsFfFWtJIxnmHsRFkUmLRe0FjTsRLchzZ/4TAWtYpxZx7OmTnyw4UusrTQc/bc3IBvGkCpKYBDVTTi/eyrnOKzVlNefNbKhScUiA8EDRxqjPdW4ldwNRa9f3REkBHtdxD5mqGH7tHqgtPo8zf0ZiC2hc5gZOQml2zpsj/AVUHnuDfFg010VYBxoqjrejXD4oU6s2XQ4H21XeKs9OWgaB3TxbIZdV7+UOc1RFDdsKlBrEa37WzdefpKJWdTf2cqTrOtqxEuI9NZbClpE8HyOLMGjTiC6cnnmqhRv0ovnV79Fh/Sw52BrOwN9u4P+SnA7PWaOEzhn4iVvmxAIxZ5i9AMKwsEoPRDWV5GypFgtyEmtq9RQ74gNxSWJ5dn7tJMvyH0AGuABZZDQ1cte5drRDG3oAwY9gyhsDrwg7jVrgzzRiCS7Q==;MzSQbgcH6K+PekB0eYKfQA=="
 ---

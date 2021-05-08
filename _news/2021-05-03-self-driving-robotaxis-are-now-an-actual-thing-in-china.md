@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/self-driving-robotaxis-are-now-an-actu
 webUrl: "https://thenextweb.com/news/self-driving-robotaxis-are-now-an-actual-thing-in-china"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "China Gets World’s First Self-Driving Taxis"
-    excerpt: "Chinese tech giant Baidu has launched the world’s first self-driving taxis in China. This not only makes China the first"
-    publishedDateTime: 2021-05-03T09:30:00Z
-    webUrl: "https://propakistani.pk/2021/05/03/china-gets-worlds-first-self-driving-taxis/"
-    ampWebUrl: "https://propakistani.pk/2021/05/03/china-gets-worlds-first-self-driving-taxis/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/05/03/china-gets-worlds-first-self-driving-taxis/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 44
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/dacbbcc8fdee407a886411a4b2db2efc/800.jpeg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "dYRBohVhNZPAp8zIRpotYgXKQpKhwgoBri4CLni6KuflsLuW2L6+g6JeTjDWNtElzzqmgR/9VCcVI1rkWCpsVrHc1dCih9C5R5YlVUSbKa6gGe6sU6ab3BmvCpvhp8iPUkm5B1n3wgmn8wqhxY7HJaUG6OQDWjwZt0Vvgbp8idvlTyNHZonmbak2YbOVM5izCseVrClMUAgE8ODrNsDS0d4o8BfapdxvXRbbDA2aUDLuqH/bpAEVKATS4sedhdYp5+du+JgxE22jPMwDrRizOeZhYpW8WEyrsRcXQ2olU4sncyK6rD7TRAyw5QSK8jWD5pi5bdsP5SLC30Rtw9/GrtxJEUaCwoT9DLeFn/HPis7hXEFSr77On0/K6Pp6ZOAvp/F63ci1swEzxtK/VTvGKD449cC59cF2aPS/5HcXeyQsmbfS6jECTiDjmwEx0adDnSko6/7OoplUuQVWXuD8rq2hPgSJDCznGOa5njrSYrtPwMuMdYFgDXxZ2u6o9CeF9uTYD+x/VOT7OlDNwSp6gQ==;B9ZuLQ1xTt2NnIl1Ai8cFA=="
 ---

@@ -56,20 +56,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Facebook AI announces two breakthroughs related to computer vision and supervised learning"
-    excerpt: "Facebook AI announcedat the end of last week two discoveries considered as major in artificial intelligence and computer vision. These models are the result of a collaboration with Inria and several academic institutions."
-    publishedDateTime: 2021-05-03T10:42:00Z
-    webUrl: "https://www.actuia.com/english/facebook-ai-announces-two-breakthroughs-related-to-computer-vision-and-supervised-learning/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 46
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/04/segmentation.png"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Give Facebook Data Access or Pay"
     excerpt: "Apple iOS 14.5 requires all apps to ask for permission before data is shared. Facebook and Instagram have notices that if you do not share your data with them"
     publishedDateTime: 2021-05-04T16:51:00Z

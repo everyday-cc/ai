@@ -70,29 +70,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 23
-  - title: "Global Artificial Intelligence in IoT Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
-    excerpt: "The Artificial Intelligence in IoT market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence in IoT market report is a comprehensive research that focuses on the overall consumption structure,"
-    publishedDateTime: 2021-05-03T10:09:00Z
-    webUrl: "https://menafn.com/1102013484/Global-Artificial-Intelligence-in-IoT-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 5
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?50588"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "Global Natural Language Processing Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
-    excerpt: "Over the past years more traffic have been attracted towards Natural Language Processing Market . According to different analysis, Natural Language Processing Market sales have a rate of XX% CAGR between 2020 and 2025."
-    publishedDateTime: 2021-05-03T09:41:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/global-natural-language-processing-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 1
 
 secured: "WkQAueaOeyS7yVp/wUq2gTPTFkRz20gCEchXfA/2QPfqT2Tx7IQ/IoOe9iQD8wnXzyOG1FiqZyWMsa+A0CEHPKyoI7AZgKUKtpUcXmvOakc+9QLHwAh1rnhEQFrjVMkiu0O6c86WcKGpxWBQhUoAWIqbv9xnIj3vn9Su/twtaOuj0Q4WclkthcZHnCuSUFjmXuVOqDdIPhRuXp9jabuFEoLap6Rppf7kON6HWdTcFTRfo9y+SQwABnUC+zJzHRTgyhZg4BxrVzzKScmvtdAusV2oVcyD6YZQodUUbRUXFf/YmgRWhwgHdl6mavM2TAHY9ykPvp1GLHuRaadvB2rROdn/meVV/9JbVBMHyimxtShe6bxzIzR2tH2HAv1TY9q/bIowHXTDACqGMmS03RVV9U6vRxHHa5+2LhVPPjgQW9EPfUKIsFcaIWLsCjYX4nH+GvplcA5cB8nnkkZ4928unTUE1zUSdD+yxWKeRZYcXQJs0+oY/YtaRp07DdiQRcJOhLAeKNZuK90EyXW6U4kANQ==;5FhD+++K/mUT0pSIXTuvtQ=="
 ---

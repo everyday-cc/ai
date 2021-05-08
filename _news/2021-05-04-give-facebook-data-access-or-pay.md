@@ -57,20 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Facebook AI announces two breakthroughs related to computer vision and supervised learning"
-    excerpt: "Facebook AI announcedat the end of last week two discoveries considered as major in artificial intelligence and computer vision. These models are the result of a collaboration with Inria and several academic institutions."
-    publishedDateTime: 2021-05-03T10:42:00Z
-    webUrl: "https://www.actuia.com/english/facebook-ai-announces-two-breakthroughs-related-to-computer-vision-and-supervised-learning/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 46
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/04/segmentation.png"
-        width: 800
-        height: 400
-        isCached: true
   - title: "The chilling grip of Facebook’s invisible hand"
     excerpt: "Big Tech cannot be a neutral arbiter of what political speech is acceptable or not acceptable. But private companies like Facebook are using their growing, terrifying, and largely unchecked power to determine who gets to speak and who gets to be heard."
     publishedDateTime: 2021-05-03T19:43:00Z

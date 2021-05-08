@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/amp/"
 type: article
 quality: 79
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-23.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Facebook AI announces two breakthroughs related to computer vision and supervised learning"
-    excerpt: "Facebook AI announcedat the end of last week two discoveries considered as major in artificial intelligence and computer vision. These models are the result of a collaboration with Inria and several academic institutions."
-    publishedDateTime: 2021-05-03T10:42:00Z
-    webUrl: "https://www.actuia.com/english/facebook-ai-announces-two-breakthroughs-related-to-computer-vision-and-supervised-learning/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 46
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/04/segmentation.png"
-        width: 800
-        height: 400
         isCached: true
   - title: "Give Facebook Data Access or Pay"
     excerpt: "Apple iOS 14.5 requires all apps to ask for permission before data is shared. Facebook and Instagram have notices that if you do not share your data with them"

@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-s
 webUrl: "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/"
 type: article
 quality: 70
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -141,20 +141,6 @@ related:
       - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/05/baidu-self-driving-cars-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Baidu Launches Self-Driving Robotaxi Service, Ready for the 2022 Winter Olympics"
-    excerpt: "Chinese users can hail a self-driving robotaxi to go about their business. The fully driverless Apollo Go service will first launch in Beijing's Shougang Park, one of the venues for the 2022 Beijing Winter Olympics,"
-    publishedDateTime: 2021-05-03T10:10:00Z
-    webUrl: "https://www.autoevolution.com/news/baidu-launches-self-driving-robotaxi-service-ready-for-the-2022-winter-olympics-160483.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 34
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/baidu-launches-self-driving-robotaxi-service-ahead-of-2022-winter-olympics-160483-7.jpg"
-        width: 728
-        height: 300
         isCached: true
 
 secured: "PaE4SenqceAHuE5v0JDuo/U29LYSyQPJ2btxosAyjb9rPJYk5TJlv+vI2/WzgCqq1uxjOFzeJNkfekH3QkcoSoLk+KI8kyh6nCTdvibevk826yAyx3lJBTaX4H66CXy9Z4f3qICSEXSSmVi92+bRHhPVpM2G/6F25sIXJNh8XvV5yJOH8i9HglJ3gYG8KW1Ns5F65F4mp/yOK/KrkCQbs3YH23re8QEsyKwPg2yqf+0gAZ8fO/LgORvGzciGh/UL3BgYZGb12ZE0p60bG0lOkRAY8mZbSoDy/N+vF83n7MRLTxxnZIgd0TrCoJ8fcig/UPOW7IqIKkBOJRjdpLwM9MfZlCSZxyLenwBwt653+sw=;ZCSYeThhf0Qxbhi5eKlaRA=="

@@ -69,29 +69,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 7
-  - title: "Global Artificial Intelligence in IoT Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
-    excerpt: "The Artificial Intelligence in IoT market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence in IoT market report is a comprehensive research that focuses on the overall consumption structure,"
-    publishedDateTime: 2021-05-03T10:09:00Z
-    webUrl: "https://menafn.com/1102013484/Global-Artificial-Intelligence-in-IoT-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 5
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?50588"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "Global Natural Language Processing Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
-    excerpt: "Over the past years more traffic have been attracted towards Natural Language Processing Market . According to different analysis, Natural Language Processing Market sales have a rate of XX% CAGR between 2020 and 2025."
-    publishedDateTime: 2021-05-03T09:41:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/global-natural-language-processing-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 1
 
 secured: "yWakd841EJ4Y+x4qXSloLwRexBtZ84ITS+N/A/QR8Y0myc3181W0dbQZ6d/vQP2IB9m/SHKkt4aXgRLZ5iARbEV8JTb888pQEog42Cn7a+TJVWuUqfj9QvSpwKZ56oFEdPKDRcN5LL7XAVMhPNoZj3KrOQvnjh82U4pxqprDoq+dzGWSHmIaw7zmQjScZHPsiEgPV2m0YukcptbLHQcMO7D93WJN/BG08V0hCTLMdN/QzG4eQT1rEtreDd+0wgg847wEM5mCegnSPFwlJS7ZeyLeubPlS2iWY316Ib8s4k0yu+ycWdYU1puvUGPVteF9RJ655MS7MyP7fd8jxrWhcdgfO+D4HAYq6OIUId3gvBk=;YudQEOiA8TnD5VkKwNmCFg=="
 ---

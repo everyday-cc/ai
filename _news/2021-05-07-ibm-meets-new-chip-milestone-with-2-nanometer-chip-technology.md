@@ -36,20 +36,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 84
-  - title: "IBM Unveils World's First 2 Nanometer Chip Technology, Opening a New Frontier for Semiconductors"
-    excerpt: "IBM (NYSE: IBM) today unveiled a breakthrough in semiconductor design and process with the development of the world's first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
-    publishedDateTime: 2021-05-06T10:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-world-s-first-2-nanometer-chip-technology-opening-a-new-frontier-for-semiconductors-1030395307"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "IBM unveils world’s first 2-nanometer chip technology"
     excerpt: "Global business services provider–IBM has made a breakthrough in semiconductor design and process with the development of the world’s first chip with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
     publishedDateTime: 2021-05-07T13:07:00Z
@@ -77,6 +63,20 @@ related:
       - url: "https://www.capitalfm.co.ke/business/files/2021/05/IMG-20210507-WA0010.jpg"
         width: 1280
         height: 774
+        isCached: true
+  - title: "IBM Unveils World’s First 2 Nanometer Chip Technology, Opening a New Frontier for Semiconductors"
+    excerpt: "IBM (NYSE: IBM) today unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
+    publishedDateTime: 2021-05-06T10:11:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-f792d8ab208a181a00d1b2a331d01536"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "a9cU9546x2e7dpijSaSUHWWR1uyXbKEOKSaiXczPMGuwHhsIxv+lkKXgKto2ozzGLTBUpF5N1tb74k02p4gdNiaM3FOh+yBT8gge3JFoOlL1WQ24BCWczu290uq4veej8rue2InsJ6qVfmCcdJVC3e3o1uEDg2GEAVCDkSMUcoa8QkO2KlZxCjpUvZ8Bug7H6ihu+q08t0m4J+XSv1yS0qeWLEgY/Ka2HM69RyXa9ewFDrzCGAD6G43in9dIwAIyfR95MkKlXHwXamWqVFjjhI4gCRDrcR9ImoaQDy3gmdWGLhZNwBRSzYbcAqyyl5d/J+MSIAXO7g6xJNeO4sy/8pKh4gcWrd3LVUmUOXVXT3Q=;yxzTd+Fn3ZDaTDv5EuOmBg=="

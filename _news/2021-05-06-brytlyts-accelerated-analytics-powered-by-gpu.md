@@ -39,6 +39,22 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "Predictive analytics startup Pecan.ai raises $35M to boost AI adoption"
+    excerpt: "Pecan.ai, a startup developing a platform for predictive analytics, has raised $35 million in equity financing."
+    publishedDateTime: 2021-05-05T11:00:00Z
+    webUrl: "https://venturebeat.com/2021/05/05/predictive-analytics-startup-pecan-ai-raises-35m-to-boost-ai-adoption/"
+    ampWebUrl: "https://venturebeat.com/2021/05/05/predictive-analytics-startup-pecan-ai-raises-35m-to-boost-ai-adoption/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/05/predictive-analytics-startup-pecan-ai-raises-35m-to-boost-ai-adoption/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/02/bigdata.shutterstock_363791543.jpg?w=1200&strip=all"
+        width: 1000
+        height: 620
+        isCached: true
   - title: "New SAS Viya offerings help better manage and navigate big data for AI and analytics"
     excerpt: "Diverse and complex data environments create a challenge for organizations seeking to operationalize analytics to enable the best business decisions. Global analytics leader SAS continues to enhance its powerful,"
     publishedDateTime: 2021-05-03T12:04:00Z

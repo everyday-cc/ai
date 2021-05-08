@@ -1,31 +1,27 @@
 ---
 category: news
-title: "IBM Unveils World's First 2 Nanometer Chip Technology, Opening a New Frontier for Semiconductors"
-excerpt: "IBM (NYSE: IBM) today unveiled a breakthrough in semiconductor design and process with the development of the world's first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
-publishedDateTime: 2021-05-06T10:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-world-s-first-2-nanometer-chip-technology-opening-a-new-frontier-for-semiconductors-1030395307"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-world-s-first-2-nanometer-chip-technology-opening-a-new-frontier-for-semiconductors-1030395307"
+title: "IBM Unveils World’s First 2 Nanometer Chip Technology, Opening a New Frontier for Semiconductors"
+excerpt: "IBM (NYSE: IBM) today unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
+publishedDateTime: 2021-05-06T10:11:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-f792d8ab208a181a00d1b2a331d01536"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-f792d8ab208a181a00d1b2a331d01536"
 type: article
-quality: 56
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -83,6 +79,6 @@ related:
         height: 774
         isCached: true
 
-secured: "Wzzm4SddDjFxeZVW4y/XUUY8Ny80Gnhto2uomi2qumwAg5U06EK3/MSthSXZspXBtsjAm9rdwY6TtEaltN9EqlHSQT5OC7a/R6TySxKbpgokwjHNGxocEDH2W4IsEZNgCtbmKGTHldnYIJYrTLUuZ86cBdHm5hKeVkaqXSxwsTSj4wnMfAd4QDcPyXZv89PEJ3KuRyNAtHQ6OOvQzr9Bf5bRpISPFyb7hRI245N/XIBDBzcikup1CJj53ClpurnRT4IeqhDGznDxKaHnkl+BMlBaOSzFJr66J4tv2fNLqYqgY1C/i3wIhZPU3F3AkkuKKCwbSlEkcbf7dK3Qzti+A11IJkNjHI9dzDtoiq9TpdbL5i8QuikAYbCPOvw7dVcUoksFZWLqA7hk/1eC3eraR5YeldpnpX4oxrZ4/EXyQ6CqH3Wh3lVfcn2dlgG6ComkZWv/JMM0IrOhjUnMzz5/XlCahEv+7uphli5+mUJTLZVm3tsf7M9qaoFOR+FpqJCEwuJv8ALkE3WjnJJHLuDM1g==;aWP3RwLE5hKYWEAL9kyetA=="
+secured: "gbjiNdFLGufGafu48XutwSexfjpdWyDHN1QRUXbc7iltZzd5bEcuyKas0l8wRO38V0MrPfGqJeqyqS0rTFAUZWVpOO2vYmgQg5wi6eHIWlmBZsoFaqO1iwbl7RD9btJ+NDqlD8iFzusGeByRxgzmB+WhEGGNI6u2NaXj9YX4FtODURYIi+Z2PNVrOaWYjzy0REbS4riwDc2l4lkk23ZN6j0T1B/PfuvHhE+OXP22hEw72TmUga0FklMd8ZU4O9ZE6LSYIcBaBa/4SqHogV5Wp2vKQc/0jEfKCR1V1No6NQvlAzQtVHRMxBrNHNwxNn/q6f7YUbVJ3lgEezb2B0ieIIwfRxfOcY3/LfGei/Dz5sM=;YIQ7sCmEOh8ITPVJAsXF6g=="
 ---
 
