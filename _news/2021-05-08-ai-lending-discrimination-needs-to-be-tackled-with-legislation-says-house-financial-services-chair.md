@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2021/05/subscription-services-ai.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Upcoming House Financial Services Committee Hearings to Include Discussions on SPACs, AI , Big Banks & More"
-    excerpt: "The House Committee on Financial Services has disseminated the May 2021 calendar of hearings that cover a wide range of financial services issues. As has been previously reported, this coming Thursday (May 6),"
-    publishedDateTime: 2021-05-03T17:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/174900-upcoming-house-financial-services-committee-hearings-to-include-discussions-on-spacs-ai-big-banks-more/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/174900-upcoming-house-financial-services-committee-hearings-to-include-discussions-on-spacs-ai-big-banks-more/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/174900-upcoming-house-financial-services-committee-hearings-to-include-discussions-on-spacs-ai-big-banks-more/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/04/House-Financial-Services-Committee-300x239.jpg"
-        width: 300
-        height: 239
         isCached: true
 
 secured: "ShGCkgxy6NOzyg7GiUawER3HlSdKS71nYLm0BY4uPBSmnAEJSjd4DFZDVHrkWDwUEocb8kE1DGc34E+NXRSUUklOPzn/cpqjQxxHVU0VNkN78uDHXbHt2PDYuzlU/LNdUHVOwR1W29B0Oj0632UKj8omhCN9HND9eYmJhjmyHlOBoOCRWEQVmLg9mza+i6dsHvWQy7/9+fSABcfyHlgFb4z7HCfK2PLzsY9K5HVy7ttgZNS4OvVdhfhvsv8qnu9xmW5+uHpZGFkEPOkTYw/bpyv2mDBIFCzJitdm2ExNIjhM0ewEuS3SZ5kCQZPYsaJK74LiIjuTzUSZHJr/xeQDIqS9omwBS7nQPfn9dI1GePy+72S/Kyu+2DUpqLWbC3u9Kkg6jXJxlCuk/TwFjaMtKwY7AyZplRxSfuY3R22TLXei5mzJPkBWPZ4kmYEbG9PDUhZEU2FoW5/cG8lC9Pi07E8bwayWLJMduM/pZVq0XqrTkLtTOKiRrp+IT67dvvLrZAMFw8Tskawkmlp/DFgqtg==;61Gt94AWh5w9xv5yBZL3iQ=="

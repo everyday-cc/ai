@@ -85,20 +85,6 @@ related:
         width: 1050
         height: 630
         isCached: true
-  - title: "Pressure grows on banks to abandon facial recognition tech"
-    excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."
-    publishedDateTime: 2021-05-03T18:50:00Z
-    webUrl: "https://www.americanbanker.com/news/pressure-grows-on-banks-to-abandon-facial-recognition-tech"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/73f29ba/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fdb%2F7d%2F24c099b84f4c91c3d81fc93e68e3%2Fab-050321-face-2.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "King County Council delays vote on facial recognition ban"
     excerpt: "The Metropolitan King County Council delayed a vote on a groundbreaking facial recognition ban, citing a need to do additional outreach and research on the policy's effects."
     publishedDateTime: 2021-05-06T01:14:00Z
@@ -181,6 +167,6 @@ related:
         height: 600
         isCached: true
 
-secured: "hzspj9piI8xPMbVm+OWDMsFGYTjVzZlP7g1JpzalejxfKIRBaeWWdtRarIa1jhsf47B63QK3IbTcr2IQU/p42zdXQwU5C39QboJk72LW4ro3KewaAwOrJJTUQEWU88C5KMtBFfJ9gyK3q2WTCHWqhr/CzBlpJezUrBXBcyWbUE6UDemXdn/gQjGCV+MWAz88oGPHzw5vbOtWQ1Bzq8KluHtmwO3zGwLDbQvYCU0sXuF/XQ+EivrIFonAvI9jb92oL8nP6Nca3H88W3BoKyy4xZa2iOZEUCG6w8OVEqQ5BWi9A+X/9yCmLmfIsFl0yR1bTGoQgD7Msu1BAYLSvBFMnYiXHi68U41iqdvqVXNxepM=;lMYAGp1+0i++b5LMwfvbPQ=="
+secured: "zMkmkAmjoTXiDv6IEmTBWHOXU8y8ZhoK16a2zifNWhESat00vqg/Xp2rC5CHIOnrwvm51ZKxqxttAlw0cKX5RWwzfYfCqAFKXA9Xg54lV2cLNe04mSvJED1CGSlKyidTh5Gih53ZNh3HlB3Y6b/otuwRZn1vJpRb1iTh72En2rpZ/9eagu3hUi466lJZ/SbfT+da5QWi+r2pZAD4TWxqTitUp9aPdCnr/CA5L8KrUXfsjh0s5OWbynvqvdzNsPgze8Xnnsx4A7lvAcxrVpUMCU0sQdSD/lB52Td7T2qoogf9qcygjW3KSzCKnfYtdF3aqoGktW0KEtedvQNRXAv0xzbyX+oI/fPckE4gbTYFF/9XhFtd2LXdDSjPWZsLNzuXKiBie1cvz3Mz/prKWYAz4/wWT6z7qrrzD9aFvSAfFfXpiIw1PrmEA6ZRKot9JsGGwnxBfnL89VG7n2+LDEKSud70NSe6H0aYEmjRoYygfhR8vV6g53z7+IHmSjoXW96aHMS+I/UAQPVflKg1ukYHNQ==;BxHX8brUZ6Lu2QRBB4NHHw=="
 ---
 

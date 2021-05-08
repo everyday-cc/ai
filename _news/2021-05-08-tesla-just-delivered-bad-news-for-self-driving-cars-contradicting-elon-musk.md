@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’"
-excerpt: "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker."
-publishedDateTime: 2021-05-07T22:33:00Z
-originalUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/"
-webUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/"
-ampWebUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
+title: "Tesla just delivered bad news for self-driving cars — contradicting Elon Musk"
+excerpt: "Tesla CEO Elon Musk said the company was “highly confident” that its cars would achieve full Level 5 self-driving autonomy in 2021. It turns out that just 41 days later, one of the company’s engineers was offering a less optimistic timeline to California’s regulators."
+publishedDateTime: 2021-05-08T11:08:00Z
+originalUrl: "https://www.tomsguide.com/uk/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+webUrl: "https://www.tomsguide.com/uk/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+ampWebUrl: "https://www.tomsguide.com/uk/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
 type: article
-quality: 89
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Tom's Guide
+  domain: tomsguide.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1130604490.jpg?w=1024"
-    width: 1024
-    height: 683
+  - url: "https://cdn.mos.cms.futurecdn.net/qvy8QreeDhG4nSogtw2a3o-480-80.png"
+    width: 480
+    height: 264
     isCached: true
 
 related:
@@ -62,6 +58,22 @@ related:
       - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-371394.jpeg?width=600&crop=16:9"
         width: 600
         height: 338
+        isCached: true
+  - title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’"
+    excerpt: "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker."
+    publishedDateTime: 2021-05-07T22:33:00Z
+    webUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/"
+    ampWebUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1130604490.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
     excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted"
@@ -142,22 +154,6 @@ related:
       - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F05%2Fteslaselfdriving.jpg"
         width: 1200
         height: 619
-        isCached: true
-  - title: "Tesla just delivered bad news for self-driving cars — contradicting Elon Musk"
-    excerpt: "Tesla CEO Elon Musk said the company was “highly confident” that its cars would achieve full Level 5 self-driving autonomy in 2021. It turns out that just 41 days later, one of the company’s engineers was offering a less optimistic timeline to California’s regulators."
-    publishedDateTime: 2021-05-08T11:08:00Z
-    webUrl: "https://www.tomsguide.com/uk/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 56
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/qvy8QreeDhG4nSogtw2a3o-480-80.png"
-        width: 480
-        height: 264
         isCached: true
   - title: "Tesla engineer told California DMV that Elon Musk overstated self-driving capability"
     excerpt: "Elon’s tweet does not match engineering reality,' a DMV official wrote after debriefing a Tesla engineer who oversees autonomous driving development."
@@ -275,6 +271,6 @@ related:
         height: 382
         isCached: true
 
-secured: "ie6Ojas5DUaSpg+Kx1CAuDnOkg6edDMkYdcNKnMa6XnPaEdeE7QJNkcL+rL+hcM6514Tg7wKjn61MZrxeEXsGyPsNfTlAMi/bPBY5Ls1NA/pZ60bRON7LCGoLhRbovQJR0ErzF0u4+aRuYefG4XrVSH0lMENoMwC7sZTkIUEe1tkwAfDxj1TjaLALlKoq/py3jU2G6MaUTcuGMEaLVmAcZ4pwtxKPPqZPCqJlwAbzOTx6bhiFpQ+7Nw+v7JfE2tGPBy2jEJIJ3MWCfMPEwb+J7sLexuGQIG1lqs8MYl6HC2LoEWVVg7UClUR969YOVUlidWQjJGYbqY6HCe6bpDcchSnhgVhNMpvZPnFJrhf8/VoljUNiVTolgX4sheTQKtblaKs4oUwzEXPLW9G6RDXYzNoXufpV3ydkZJJu8x+oH59euzJEVK8VQOwCNHKJUrdrIegv6csXlaBbbQUW0vBArhD+tIf5mTa6EG/2rmdau4h7YV1SKPVmXtPTcUVC9mRI7a3CqKimtCVh82lmZjBiw==;bqXrXMxfy7fBL7I3BxDf7w=="
+secured: "e43n5wPAJ52miSUbPh2s47y8HUCshdzfV3tdOe0D58sTr/2GPUmYza/lDkubTYn7HQf/kLOcObyPTpLPtdZQbLTE4jxXHDkjOhlXvov8pCoOcpW+wW3nnz/4BV1GOra0Rx/e5vwTG6qZpPD+hEjziVZMGCkCsawSwn2aelPidZGdUigzCFVyj77Q8z5Camoap7sZZKBIGNv5JOFelbDC7CfeBGzYrZaecbOor0LP7ycAHMOPgOMt19959gWdTxHSgODXZHT9eixzqLvgidLQskBrQwOS0CSq1XdSHKF8Py4lTOsIc0DcSUYGQDKlY6bXKgC1aOc9/T3SAPwtwiP6CL73DUNAURrCjk8TSYKMB4w=;SDMfyZ4o92HwzekILlPdAw=="
 ---
 

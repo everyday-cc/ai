@@ -2,9 +2,9 @@
 category: news
 title: "Satellite Startup Tracks Ships' Radars and Radios From Space"
 excerpt: "Virginia-based startup HawkEye 360 has come up with a unique idea to bolster maritime domain awareness. The firm uses a constellation of small satellites to detect and locate the source of commercial radio frequency emissions – everything from VHF push-to-talk radios to maritime radar transmissions,"
-publishedDateTime: 2021-05-07T18:54:00Z
-originalUrl: "https://maritime-executive.com/article/satellite-startup-tracks-ships-radars-and-radios-from-space"
-webUrl: "https://maritime-executive.com/article/satellite-startup-tracks-ships-radars-and-radios-from-space"
+publishedDateTime: 2021-05-07T20:15:00Z
+originalUrl: "https://www.maritime-executive.com/index.php/article/satellite-startup-tracks-ships-radars-and-radios-from-space"
+webUrl: "https://www.maritime-executive.com/index.php/article/satellite-startup-tracks-ships-radars-and-radios-from-space"
 type: article
 quality: 24
 heat: 24
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://maritime-executive.com/media/images/PR2021/RF-analytics-off-west-africa-HawkEye-360.ab5367.jpg"
+  - url: "https://www.maritime-executive.com/media/images/article/Photos/Vessels_Large/container-ship-with-clouds-file-image.4c68c5.f62012.d439d7.jpg"
     width: 643
     height: 361
     isCached: true
 
-secured: "stMoqRjP5DCYQ2e+v/5yoMg+aDUlnVH7bLNOHt8XhgDhQrk/eQI6zHTbjsYHjDYv6xcOYIZDltggGK5zVWK+6IXmnyROqgWs6gA8HnDu9wj7Ry/McsJLUqMcMyKJ3GlQ8xUyhJYxg39k4IxPN4svOIc4zha/4qsyhhyiZW6DkuUWDrzN4vpghmSBGBPq+6BiGNwAOgl6NrVj9i7OJjSq2pjPiUw/ozVt/3ZtcRv8ORdXeF+BFHeJPxEpSZH+VOcvue5mS1wrkmDjqwQCBBpWA7i5p9R1zOoR8OMHwF1tZX45gaFy/rOOLyq9/LqzyIy4O2glyEZr24WEe/IwNI64bnuEJ84ikhO9W/vpal0QC8M=;r2+41G5TlqgEXZ55RHqa4A=="
+secured: "QsdpZWMr0mGZhptmYJSCVJGLBtG9E/n46GJ1ju1mHVYGgPZIoXFRhvvztgnSso8x2YAQLVI98vk1GY61lSTGH+S8uS492A/7uGYaUs5A+26MmNkuA2pFPgv8eraO7Q/nsq4PwNGD59mSV83kyXFsqYcbIJx1JKM0/m6YuIGXCaNlITuyB6c4Sjx6u/NdiNYUGYBh5MEjQsutka6eYRGTfW1XTqCajQ1HW2QEPa0cpUhkjlsw4ylNfseHzZy4Jx+86tqEWkZa47MB2VbcEHjg/yQ8P0BDFFClREd4pw/RWfWdADtjx0Db24EucEViGw61bjKQco2CgmiF7DrU0frolGL4wQ0IR2i0h75IgXGgiUU=;q0ILGJP31DF7wKG9Lb/v7g=="
 ---
 

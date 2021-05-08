@@ -131,6 +131,38 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Tesla Privately Admits Elon Musk Exaggerated ‘Full Self-Driving’ Cars"
+    excerpt: "Tesla’s Autopilot system has been exaggerated by Elon Musk, the company has admitted in a new memo. Back in February during an appearance on the Joe Rogan Experience podcast, Musk said, ‘I think Autopilot’s getting good enough that you won’t need to drive most of the time unless you really want to."
+    publishedDateTime: 2021-05-08T11:34:00Z
+    webUrl: "https://www.unilad.co.uk/technology/tesla-privately-admits-elon-musk-exaggerated-full-self-driving-cars/"
+    ampWebUrl: "https://www.unilad.co.uk/technology/tesla-privately-admits-elon-musk-exaggerated-full-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/tesla-privately-admits-elon-musk-exaggerated-full-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 59
+    images:
+      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F05%2Fteslaselfdriving.jpg"
+        width: 1200
+        height: 619
+        isCached: true
+  - title: "Tesla just delivered bad news for self-driving cars — contradicting Elon Musk"
+    excerpt: "Tesla CEO Elon Musk said the company was “highly confident” that its cars would achieve full Level 5 self-driving autonomy in 2021. It turns out that just 41 days later, one of the company’s engineers was offering a less optimistic timeline to California’s regulators."
+    publishedDateTime: 2021-05-08T11:08:00Z
+    webUrl: "https://www.tomsguide.com/uk/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/qvy8QreeDhG4nSogtw2a3o-480-80.png"
+        width: 480
+        height: 264
+        isCached: true
   - title: "Tesla engineer told California DMV that Elon Musk overstated self-driving capability"
     excerpt: "Elon’s tweet does not match engineering reality,' a DMV official wrote after debriefing a Tesla engineer who oversees autonomous driving development."
     publishedDateTime: 2021-05-07T15:32:00Z

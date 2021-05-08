@@ -19,70 +19,48 @@ topics:
   - AI
 
 related:
-  - title: "Creating an end-to-end application for orchestrating custom deep learning HPO, training, and inference using AWS Step Functions"
-    excerpt: "Amazon SageMaker&nbsp;hyperparameter tuning provides a built-in solution for scalable training and hyperparameter optimization (HPO). However, for some applications (such as those with a preference of different HPO libraries or customized HPO features), we need custom machine learning (ML) solutions"
-    publishedDateTime: 2021-05-03T17:33:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/"
+  - title: "Achieving true situational awareness in operation centres with computer vision & AI"
+    excerpt: "Security, Transportation and Emergency Operation Centres are all processing more and more video content and as the number of video sources increases, operators monitoring these camera feeds need"
+    publishedDateTime: 2021-05-04T08:15:00Z
+    webUrl: "https://www.sourcesecurity.com/virtual-security-events/achieving-true-situational-awareness-in-operation-centres-with-computer-vision-ai.html"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 93
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 48
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/12/1-Flowchart.jpg"
-        width: 800
-        height: 458
+      - url: "https://www.sourcesecurity.com/img/virtual-events/612/computer-vision-920.jpg"
+        width: 612
+        height: 355
         isCached: true
-  - title: "4 Stocks to Watch Amid Rising Adoption of Machine Learning"
-    excerpt: "Machine learning (“ML”) has been gaining precedence over the ... Microsoft Corporation MSFT provides it Azure platform for ML, allowing developers to build, train and deploy ML models. The company currently has a Zacks Rank #2. The Zacks Consensus ..."
-    publishedDateTime: 2021-05-07T12:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-stocks-to-watch-amid-rising-adoption-of-machine-learning-2021-05-07"
+  - title: "Software AG’s TrendMiner 2021.R2 Release Puts Machine Learning and AI in the Hands of Operational Experts"
+    excerpt: "Democratization of Machine Learning Makes Operational Experts More Flexible To Improve and Predict Process and Asset Performance New TrendMiner Multi-Variate Anomaly Detection Model Automatically Detects Deviations From Desired Operational Behavior Self-Service Integration With webMethods."
+    publishedDateTime: 2021-05-06T22:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/software-ags-trendminer-2021-r2-release-puts-machine-learning-and-ai-in-the-hands-of-operational-experts"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
-  - title: "Boosted Genetic Algorithm Using Machine Learning for Traffic Control Optimization"
-    excerpt: "Traffic control optimization is a challenging task for various traffic centers around the world and the majority of existing approaches focus only on developing adaptive methods for normal (recurrent) traffic conditions."
-    publishedDateTime: 2021-05-06T03:44:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/9408242"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 14
-  - title: "Securing APIs Demands Tracing And Machine Learning To Analyze Behaviors And Head Off Attacks"
-    excerpt: "The use of application programming interfaces (APIs) across cloud-native computing and digital business ecosystems has accelerated rapidly due to the COVID-19 pandemic."
-    publishedDateTime: 2021-05-05T18:25:00Z
-    webUrl: "https://seekingalpha.com/instablog/122491-dana-gardner/5587408-securing-apis-demands-tracing-and-machine-learning-to-analyze-behaviors-and-head-off-attacks"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 8
-  - title: "RSIP Vision Launches an Advanced AI-Based Tool for Prostate MRI and Ultrasound Registration Enabling Precise Navigation in Key Procedures"
-    excerpt: "RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, announced today a new prostate MRI-to-ultrasound registration tool. The tool’s fully automated,"
-    publishedDateTime: 2021-05-06T13:03:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/rsip-vision-launches-an-advanced-ai-based-tool-for-prostate-mri-and-ultrasound-registration-enabling/article_2c3e8c00-703c-5a1b-be78-38d4762c804e.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 6
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/5/65/565ea177-550c-544f-92e5-0b6eaa23ab66/6093ec330765f.image.jpg?resize=702%2C630"
-        width: 702
-        height: 630
+      - url: "https://www.accesswire.com/users/newswire/images/645569/trendminer-trendhub-TM-logo.jpg"
+        width: 2500
+        height: 1563
         isCached: true
-  - title: "Pay Attention to Evolution: Time Series Forecasting with Deep Graph-Evolution Learning"
-    excerpt: "Time-series forecasting is one of the most active research topics in artificial intelligence. A still open gap in that literature is that statistical and ensemble learning approaches systematically present lower predictive performance than deep learning methods."
-    publishedDateTime: 2021-05-04T16:11:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9416768"
+  - title: "SDAIA Signs Memorandum of Cooperation with IQVIA to Support Artificial Intelligence Solutions in Health Field"
+    excerpt: "The Saudi Data and Artificial Intelligence Authority (SDAIA), represented by its innovative arm the National Center for Artificial Intelligence, and IQVIA signed a memorandum of joint cooperation in the field of the health sector to explore opportunities of mutual interest and support innovation in the field of health data in the Kingdom of Saudi Arabia."
+    publishedDateTime: 2021-05-04T20:06:00Z
+    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2225368"
     type: article
     provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
+      name: spa.gov.sa
+      domain: spa.gov.sa
+    quality: 33
+    images:
+      - url: "https://www.spa.gov.sa/galupload/normal/202105/DST_1553528_2426991_41_1_2021050422460905.jpg"
+        width: 1133
+        height: 600
+        isCached: true
 
 secured: "u3goXi7oR1OPCqMILYxucsLFGYOpb0POCotiqafjf6o6FOMKC8AD2H4t0243Zz5BlHBy9oDtj0bVVtXmEkofvHdRQ7+sw0X9uGSav6/jeqK30wiKrUbHOLSGVW3sJfdsoK2p7a2+zH5+2puGmJy4gnkvLaR30D65nKMgJISu43rVD5SoOKDfnkU9vUtyDXKzNSKPLMZxPalyTzXFGvEY5iVshOIqP8mldtQR0a4Vz/11Cj6q9FZ/BjaHtrkw0LLB5uqk0JUkxqQsw8105SBKAbfXWNkwRX/SjyM+v+xtU1rvm12/NPopdV7vMzaZX0XfLXMqmPzhNWUDHC7iKa4SOh6mcnWUagZQOplQA09wn8U=;CntEIoUczepnCfguPOeJxQ=="
 ---

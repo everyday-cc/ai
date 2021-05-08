@@ -9,7 +9,7 @@ ampWebUrl: "https://www.analyticsinsight.net/intel-shows-us-a-way-to-use-artific
 cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/intel-shows-us-a-way-to-use-artificial-intelligence-to-boost-sales/?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Community Needs Next-Gen Microelectronics for Future of AI"
-    excerpt: "IARPA wants “seedling” ideas that use a multidisciplinary approach that extends beyond traditional technological and scientific fields."
-    publishedDateTime: 2021-05-03T17:41:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/05/intel-community-needs-next-gen-microelectronics-future-ai/173766/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/05/03/computer_education_training_class_picture_id1210738055/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "How Ally uses AI to approve auto loans"
     excerpt: "The digital-only bank has adopted machine learning to process loans faster, more accurately and with better fraud detection than in the past."
     publishedDateTime: 2021-05-05T22:12:00Z

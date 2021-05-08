@@ -25,65 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Creating an end-to-end application for orchestrating custom deep learning HPO, training, and inference using AWS Step Functions"
-    excerpt: "Amazon SageMaker&nbsp;hyperparameter tuning provides a built-in solution for scalable training and hyperparameter optimization (HPO). However, for some applications (such as those with a preference of different HPO libraries or customized HPO features), we need custom machine learning (ML) solutions"
-    publishedDateTime: 2021-05-03T17:33:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/"
+  - title: "Avesha Announces Vision for AI-based Automation for Multi-cluster & Multi-cloud deployments"
+    excerpt: "Avesha, the world's first AI-based technology platform that enables enterprises to build and scale applications faster with the freedom to deploy anywhere, announced"
+    publishedDateTime: 2021-05-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/avesha-announces-vision-for-ai-based-automation-for-multi-cluster-multi-cloud-deployments/article_67ce65ac-0f41-557e-99ad-19870030bafb.html"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 93
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 29
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/12/1-Flowchart.jpg"
-        width: 800
-        height: 458
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "4 Stocks to Watch Amid Rising Adoption of Machine Learning"
-    excerpt: "Machine learning (“ML”) has been gaining precedence over the ... Microsoft Corporation MSFT provides it Azure platform for ML, allowing developers to build, train and deploy ML models. The company currently has a Zacks Rank #2. The Zacks Consensus ..."
-    publishedDateTime: 2021-05-07T12:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-stocks-to-watch-amid-rising-adoption-of-machine-learning-2021-05-07"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
-  - title: "Live Demonstration: A Neural Processor for AI Acceleration"
-    excerpt: "In this demonstration, we present AB9 SoC system, a single-chip solution for AI application. It provides the reconfigurable and programmable architecture to support the general computations for a variety of neural networks."
-    publishedDateTime: 2021-05-04T06:11:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9401074"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 19
-  - title: "Boosted Genetic Algorithm Using Machine Learning for Traffic Control Optimization"
-    excerpt: "Traffic control optimization is a challenging task for various traffic centers around the world and the majority of existing approaches focus only on developing adaptive methods for normal (recurrent) traffic conditions."
-    publishedDateTime: 2021-05-06T03:44:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/9408242"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 14
-  - title: "Securing APIs Demands Tracing And Machine Learning To Analyze Behaviors And Head Off Attacks"
-    excerpt: "The use of application programming interfaces (APIs) across cloud-native computing and digital business ecosystems has accelerated rapidly due to the COVID-19 pandemic."
-    publishedDateTime: 2021-05-05T18:25:00Z
-    webUrl: "https://seekingalpha.com/instablog/122491-dana-gardner/5587408-securing-apis-demands-tracing-and-machine-learning-to-analyze-behaviors-and-head-off-attacks"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 8
-  - title: "Pay Attention to Evolution: Time Series Forecasting with Deep Graph-Evolution Learning"
-    excerpt: "Time-series forecasting is one of the most active research topics in artificial intelligence. A still open gap in that literature is that statistical and ensemble learning approaches systematically present lower predictive performance than deep learning methods."
-    publishedDateTime: 2021-05-04T16:11:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9416768"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
 
 secured: "F3yEjVdoIADYM9pzPEEX+xFijKQ2jWsL2uMRnmgdfq9hzG6mTzfZA3BbfBp7kpEKh8Ndb2jUuQT0dujvUIuVeEqw1EU2OVT6S53sXvVGWmpMpOY2y73J8/jz5jt4t3RzLhFXjloCI3Ejj6fyZrTZE7ZNcrEPc+FxT31uulWtjqMTcli0KHrW/rwRRoMHvcuQHOxSzf61js10dHVaoiPy5XR1JrhST+wUt7iTUrbemFRGPeCAC1nKSe38X/bwG2EVaDPeI0KqyUa/AOu3b6kjnd9pLVCkMU2/LQgLQjj72Dyjv9iXfRPNOHZ4y1lCB0XTzA9WVhjb+yHMagmWCgHItatfAI3LeMr368Ry7/WTk1v33HYsuqNok+md5xhRqI1CYnqb3CXEp3oQ5HAnNrPABNOijhQXrE6CH0gx2uQNqHdxEfyYIma5aD+xjZfglI3K3ciODsKr6vrq7UPabDTc6xpXyTo+EKWpqxxi5KW1xqnoF4bumJG9hnt72LhJXG40jvCfC8PEUmMjPOvFQh2EOA==;Q1qYrfArVdAsJ1Pi/bkcCg=="
 ---

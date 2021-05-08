@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/which-trends-are-set-to-transform
 webUrl: "https://www.analyticsinsight.net/which-trends-are-set-to-transform-the-status-of-indian-fintech-in-2021/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 904
     height: 504
     isCached: true
-
-related:
-  - title: "Fintech: A Major Driving Force of Business in 2021"
-    excerpt: "With the rapid flow of venture capitalist money, the business sector is shifting to the Fintech ecosystem. All businesses are enhancing customer experience using Fintech management through real-time data analytics."
-    publishedDateTime: 2021-05-03T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/fintech-a-major-driving-force-of-business-in-2021/"
-    ampWebUrl: "https://www.analyticsinsight.net/fintech-a-major-driving-force-of-business-in-2021/?amp"
-    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/fintech-a-major-driving-force-of-business-in-2021/?amp"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 44
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Fintech.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Business Reporter: Banks to gain a competitive advantage with the AI-driven business monitoring technology increasingly leveraged in fintech"
-    excerpt: "Traditional BI is being enhanced with automated business monitoring to lower costs and improve customer experienceLONDON, May 5, 2021"
-    publishedDateTime: 2021-05-05T09:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/business-reporter-banks-to-gain-a-competitive-advantage-with-the-ai-driven-business-monitoring-technology-increasingly-leveraged-in-fintech-1030389304"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
 
 secured: "zKFTkP9J3JgKao/qeUTJlKCVP+bLPc+dNTHqB1/bCe8VZjljXaMZUfqUdnL+9qeekiWBolqdpm2RhPtJ8NWOW7qBt2fZhnzPgVVfkn1Aw2LqyJSxNFkAz7HBsRWxScrvBfRrUR7Dta3p5k+UOKSWLq6Ql67Mgpjz+LuZ44v+k+ns9XyjTQS4DbNJduMG8cIz6GyqYrE2IQyKiEFbCj5CBN5t+VnhfQE9B8sdrgxBFJ0d/as5SZ0wRgLS7Az+dAcmEg9LGkWgkv7hO1fMnnkoZh9zB+0igKmeheJVVMNVzt3ZsYltPi2fkugYTXG5yQ02hTjLzspHgmi8TtyEd8fc/XMVzfBRpottLtCCCwnEKO6sDmUSWscI6XYuebYVSG9EbVS7EQJ+UdOFESnvwbHtAa86h2PotEZ+VwGS81QVcw2dannUs/5Nxnco6tCMWlgeTVKeV2vjABkIgceooNvJ9/NizjRjNM1Cs7vl+0DQSfHELIMivxMzfyeBRojSLZmyvGQTxNBgc/IF/mH07NS28g==;uNd/Z96Ca5DRcGws2esYkQ=="
 ---

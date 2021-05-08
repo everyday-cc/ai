@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Diagnostic accuracy of current machine learning classifiers for age-related macular degeneration: a systematic review and meta-analysis"
+    excerpt: "The objective of this study was to systematically review and meta-analyze the diagnostic accuracy of current machine learning classifiers for age-related macular degeneration (AMD). Artificial intelligence diagnostic algorithms can automatically detect and diagnose AMD through training data from large sets of fundus or OCT images."
+    publishedDateTime: 2021-05-06T00:00:00Z
+    webUrl: "https://www.nature.com/articles/s41433-021-01540-y"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 7
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-021-01540-y/MediaObjects/41433_2021_1540_Fig1_HTML.png"
+        width: 533
+        height: 685
+        isCached: true
   - title: "Artificial intelligence–enabled electrocardiograms for identification of patients with low ejection fraction: a pragmatic, randomized clinical trial"
     excerpt: "In a pragmatic, cluster-randomized clinical trial, use of an AI algorithm for interpretation of electrocardiograms in primary care practices increased the frequency at which impaired heart function was diagnosed."
     publishedDateTime: 2021-05-06T17:44:00Z

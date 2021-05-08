@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/States-push-back-against-use-of-facia
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/7/10/710fa621-1921-553e-884c-d6a95b7ff98f/60932b6a52c86.image.jpg?resize=1050%2C630"
         width: 1050
-        height: 630
-        isCached: true
-  - title: "Pressure grows on banks to abandon facial recognition tech"
-    excerpt: "Citing the risk of bias and misidentification, cities and civil liberties groups are calling more loudly for a ban on the use of face scans."
-    publishedDateTime: 2021-05-03T18:50:00Z
-    webUrl: "https://www.americanbanker.com/news/pressure-grows-on-banks-to-abandon-facial-recognition-tech"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/73f29ba/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fdb%2F7d%2F24c099b84f4c91c3d81fc93e68e3%2Fab-050321-face-2.jpeg"
-        width: 1200
         height: 630
         isCached: true
   - title: "King County Council delays vote on facial recognition ban"

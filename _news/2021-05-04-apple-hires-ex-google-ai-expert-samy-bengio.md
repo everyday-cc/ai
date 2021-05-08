@@ -101,36 +101,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Apple Hires Scientist Bengio, Who Left Google in Wake of AI Woes"
-    excerpt: "Apple Inc. said it hired Samy Bengio, a respected research scientist who ended his 14-year career at Google after the company made the controversial decision to oust two women researchers who reported to him."
-    publishedDateTime: 2021-05-03T18:32:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-05-03/apple-hires-scientist-bengio-who-left-google-in-wake-of-ai-woes"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivHE7MywTBuI/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Apple hires former Google Brain scientist to lead new AI research unit"
-    excerpt: "Apple has hired former Google distinguished scientist Samy Bengio, according to a new report from Reuters. Bengio led Google’s artificial intelligence ethics group up until last month, when he departed amid a broader shakeup on the team."
-    publishedDateTime: 2021-05-03T18:08:00Z
-    webUrl: "https://9to5mac.com/2021/05/03/apple-hires-former-google-brain-scientist-to-lead-new-ai-research-unit/"
-    ampWebUrl: "https://9to5mac.com/2021/05/03/apple-hires-former-google-brain-scientist-to-lead-new-ai-research-unit/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/05/03/apple-hires-former-google-brain-scientist-to-lead-new-ai-research-unit/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/Siri-iOS-14.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Apple hires Google AI veteran Bengio amid ethics controversy"
     excerpt: "Apple has hired former Google artificial intelligence (AI) scientist Samy Bengio following his departure from the company after controversy engulfed the Google Brain division. Bengio will lead a new AI research division at Apple and will report to senior vice president of machine learning and AI strategy John Giannandrea,"
     publishedDateTime: 2021-05-05T10:58:00Z
