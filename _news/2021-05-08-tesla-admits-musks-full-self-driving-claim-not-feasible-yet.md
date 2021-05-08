@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
-excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted"
-publishedDateTime: 2021-05-08T08:58:00Z
-originalUrl: "https://www.thestatesman.com/technology/tesla-admits-musks-full-self-driving-claim-not-feasible-yet-1502966699.html"
-webUrl: "https://www.thestatesman.com/technology/tesla-admits-musks-full-self-driving-claim-not-feasible-yet-1502966699.html"
-ampWebUrl: "https://www.thestatesman.com/technology/tesla-admits-musks-full-self-driving-claim-not-feasible-yet-1502966699.html/amp"
-cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/tesla-admits-musks-full-self-driving-claim-not-feasible-yet-1502966699.html/amp"
+excerpt: "Tesla vehicles are far from reaching a level of autonomy often described by Musk on social media, according to an internal memo obtained by"
+publishedDateTime: 2021-05-08T13:53:00Z
+originalUrl: "https://www.khaleejtimes.com/business/auto/tesla-admits-musks-full-self-drivingrsquo-claim-not-feasible-yet"
+webUrl: "https://www.khaleejtimes.com/business/auto/tesla-admits-musks-full-self-drivingrsquo-claim-not-feasible-yet"
+ampWebUrl: "https://amp.khaleejtimes.com/business/auto/tesla-admits-musks-full-self-drivingrsquo-claim-not-feasible-yet"
+cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/auto/tesla-admits-musks-full-self-drivingrsquo-claim-not-feasible-yet"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Statesman
-  domain: thestatesman.com
+  name: Khaleej Times
+  domain: khaleejtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thestatesman.com/wp-content/uploads/2021/05/iStock-Tesla-ModelX-1024x683.jpg"
-    width: 1024
-    height: 683
+  - url: "https://amp.khaleejtimes.com/storyimage/KT/20210508/ARTICLE/210509167/AR/0/AR-210509167.jpg&NCS_modified=20210508151113&MaxH=225&imageVersion=16by9"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -271,6 +271,6 @@ related:
         height: 382
         isCached: true
 
-secured: "b+1kFXqLmxF71U2pCHCOfRGwee2Wh2ckn5sfg5TgMVXTyj/ADZqpXxtDMM9ZFDeXlxt10fBJyT9iuFYLTqUUCntkIpQBCoJfX/TtYgDSRPiWSYFY6kb2aHClXLDUVzC3WVmpuiUgoZThmw1/XLAsiTSxEH6CIT8JdXa7Q0cINB4jYzI8zGVvNGvvd17m/Szi5rcszWWhzchNsflnqTQq8TbP5k6Etdi2K4mVGH6Rpz1ILAich9wPRIXuqvI36EBm+9QKnyXSaDF5PxuekMQQj2trbhTArSVQ19RR9Euzumrr5dpfxcGyO7y7OM6/XOqDXmpEGF+RkfcI8Ya8eVxlbqLr100h50B7NJXjzgnltA8=;vvsBxqTTPbZUsCNt02ubnw=="
+secured: "mxHVKlbSD0JJLFKuRom/SkwAwtu1MUiXJI7vQNxMT3hg4g7yjMhjpl+2fD9lH9y8v3KJFUWHH6peMg6iANK8tQWDIlWLv+j4+HHlDLXGOM8C+3FPhaFw5AZnm3NPkZbekI/z1eHxlZ9WqswghgTUqwsEbbpO0RZ2Xq5QKreZ0CFHZ4LUfsY8PQEwiHfGpGocjTNDuntIPAKKIDJW52JN74zj9zWwFb+5Ng3JKoCB/SWuudi27ykztyADN0VIyKJ52K1qkDCALt7Js9xx3pw4fX/+Ux1PRznjgIcC11lmHLB+J2ukB0ptNLhuAy7Dh13bKO2SmvPQV6KpFanii+CBKrlA3G8XoRUnGZhGhAYTWCM=;hjNc3x+8sC2c7hUjZwP0iA=="
 ---
 

@@ -2,6 +2,127 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-03-23-boostedai-integrates-esg-data-into-machine-learning-platform-boosted-insights.md",
+      "title": "Boosted.ai Integrates ESG Data into Machine Learning Platform Boosted Insights",
+      "excerpt": "Boosted.ai, the leading distributed machine learning platform for global investment professionals ... asset owners, global banks, and financial technology companies in the world. OWL is dedicated to helping clients make a positive impact by empowering ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-toronto-financial-services-investment-management-a76cc6f13c35462199bcc4a6a7ac3727",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-toronto-financial-services-investment-management-a76cc6f13c35462199bcc4a6a7ac3727",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-alluxio-advances-analytics-and-ai-with-nvidia-accelerated-computing.md",
+      "title": "Alluxio Advances Analytics and AI with NVIDIA Accelerated Computing",
+      "excerpt": "This is the case for both analytics pipelines and AI / Machine Learning (ML) pipelines. Benefits from GPU acceleration for an end-to-end pipeline are limited if data access dominates the execution time. GPU-based processing drives higher data access ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-science-scott-mcclellan-cloud-computing-open-source-software-b37172100a5402dda830de1c753045a5",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-science-scott-mcclellan-cloud-computing-open-source-software-b37172100a5402dda830de1c753045a5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-monash-university-researchers-asking-the-tough-questions-about-data-in-ai-systems.md",
+      "title": "Monash University researchers asking the tough questions about data in AI systems",
+      "excerpt": "Topic: Innovation Researchers from Melbourne's Monash University have developed a framework they say could be used to provide greater transparency into the type of data being fed into artificial intelligence (AI) systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/",
+      "originalUrl": "https://www.zdnet.com/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution.md",
       "title": "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution",
       "excerpt": "a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS turnkey ...",
@@ -897,119 +1018,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube.md",
-      "title": "Help for Kids Falling Behind in Math—From AI-Powered Apps, Games and Even YouTube",
-      "excerpt": "There is hope for parents during remote and hybrid learning in the form of problem solvers and virtual tutors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
-      "originalUrl": "https://www.wsj.com/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
-      "publishedDateTime": "2021-03-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-3795-from-2020-2026.md",
-      "title": "Artificial Intelligence & Advanced Machine learning market is expected to grow at a CAGR of 37.95% from 2020-2026",
-      "excerpt": "According to BlueWeave Consulting, The global Artificial Intelligence market & Advanced Machine has reached USD 29.8 Billion in 2019 and projected to reach USD 281.24 Billion by 2026 and anticipated to grow with a CAGR of 37.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/20/artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-37-95-from-2020-2026/",
-      "originalUrl": "https://ksusentinel.com/2021/03/20/artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-37-95-from-2020-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-20T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-healthcare-providers-determine-how-to-best-use-ultrafast-5g.md",
-      "title": "Healthcare providers determine how to best use ultrafast 5G",
-      "excerpt": "A small number of healthcare organizations in recent years have struck partnerships with telecommunications companies to try out 5G—the newest generation of wireless internet—for an expansive roster of innovative tech projects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernhealthcare.com/operations/healthcare-providers-determine-how-best-use-ultrafast-5g",
-      "originalUrl": "https://www.modernhealthcare.com/operations/healthcare-providers-determine-how-best-use-ultrafast-5g",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modern Healthcare",
-        "domain": "modernhealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

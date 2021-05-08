@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-06-east-village-gets-futuristic-grocery-store-designed-by-accel-robotics.md",
+      "title": "East Village gets futuristic grocery store designed by Accel Robotics",
+      "excerpt": "A futuristic grocery store is opening in East Village on the ground floor of the luxury high-rise apartment complex Vantage Pointe. The new store, called Valet Market, was designed by local tech startup Accel Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village",
+      "originalUrl": "https://www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/f633c89/2147483647/strip/true/crop/7757x5139+0+16/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1d%2F31%2F67973aa641aca4def504b293b770%2Fveo-1.jpeg",
+          "width": 320,
+          "height": 212,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village?_amp=true",
+      "cdnAmpWebUrl": "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village?_amp=true",
+      "publishedDateTime": "2021-05-05T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Diego Union-Tribune",
+        "domain": "sandiegouniontribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-real-world-ai-a-great-guide-for-managers.md",
       "title": "Real World AI: A Great Guide For Managers",
       "excerpt": "A Practical Guide for Responsible Machine Learning does not fall within either category. Then again, the authors include Alyssa Simpson Rochwerger, who is a director of product at Blue Shield of California,",
@@ -1174,57 +1217,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-it-began-as-an-ai-fueled-dungeon-game-it-got-much-darker.md",
-      "title": "It Began As an AI-Fueled Dungeon Game. It Got Much Darker",
-      "excerpt": "The game touted its use of the GPT-3 text generator. Then the algorithm started to generate disturbing stories, including sex scenes involving children.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/",
-      "originalUrl": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6091ff24317d6dd323f25581/master/pass/business_gpt3_ai-dungeon.jpg",
-          "width": 1688,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/amp",
-      "publishedDateTime": "2021-05-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

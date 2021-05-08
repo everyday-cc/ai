@@ -76,20 +76,20 @@ related:
         height: 683
         isCached: true
   - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
-    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted"
-    publishedDateTime: 2021-05-08T08:58:00Z
-    webUrl: "https://www.thestatesman.com/technology/tesla-admits-musks-full-self-driving-claim-not-feasible-yet-1502966699.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/tesla-admits-musks-full-self-driving-claim-not-feasible-yet-1502966699.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/tesla-admits-musks-full-self-driving-claim-not-feasible-yet-1502966699.html/amp"
+    excerpt: "Tesla vehicles are far from reaching a level of autonomy often described by Musk on social media, according to an internal memo obtained by"
+    publishedDateTime: 2021-05-08T13:53:00Z
+    webUrl: "https://www.khaleejtimes.com/business/auto/tesla-admits-musks-full-self-drivingrsquo-claim-not-feasible-yet"
+    ampWebUrl: "https://amp.khaleejtimes.com/business/auto/tesla-admits-musks-full-self-drivingrsquo-claim-not-feasible-yet"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/auto/tesla-admits-musks-full-self-drivingrsquo-claim-not-feasible-yet"
     type: article
     provider:
-      name: The Statesman
-      domain: thestatesman.com
+      name: Khaleej Times
+      domain: khaleejtimes.com
     quality: 74
     images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/05/iStock-Tesla-ModelX-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://amp.khaleejtimes.com/storyimage/KT/20210508/ARTICLE/210509167/AR/0/AR-210509167.jpg&NCS_modified=20210508151113&MaxH=225&imageVersion=16by9"
+        width: 400
+        height: 225
         isCached: true
   - title: "Elon Musk's 'self-driving' claim do not match engineering reality, says Tesla"
     excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
@@ -271,6 +271,6 @@ related:
         height: 382
         isCached: true
 
-secured: "e43n5wPAJ52miSUbPh2s47y8HUCshdzfV3tdOe0D58sTr/2GPUmYza/lDkubTYn7HQf/kLOcObyPTpLPtdZQbLTE4jxXHDkjOhlXvov8pCoOcpW+wW3nnz/4BV1GOra0Rx/e5vwTG6qZpPD+hEjziVZMGCkCsawSwn2aelPidZGdUigzCFVyj77Q8z5Camoap7sZZKBIGNv5JOFelbDC7CfeBGzYrZaecbOor0LP7ycAHMOPgOMt19959gWdTxHSgODXZHT9eixzqLvgidLQskBrQwOS0CSq1XdSHKF8Py4lTOsIc0DcSUYGQDKlY6bXKgC1aOc9/T3SAPwtwiP6CL73DUNAURrCjk8TSYKMB4w=;SDMfyZ4o92HwzekILlPdAw=="
+secured: "MmYmErtAmGkv5xce2WYOehgRwOFLvYpnfVVnxt8Pw0iTMDCSqLfTUmZ+GatMIr5bCQ4+XYAYn4AbtN2aGffvnIfjFf8DszxFlVgC5VxqCvi4FWv27hddt4QY6JkmwrA0l1XKLUA1nj4+ycrr0ZbLNCWII54WnxbBc7DXO0N5qjtrYa0yv8G9/Sg6jcfmWjlGNmoziVqxAzzt9NimI5pAoDjBPfGJD0kyEw/2pnAN8VAVNEcgugIwquSdwlnIirtRDQWIAM6tmGRvZ/wviBJmfOuiGSMtzx/SF2knWnIeSFhuEXS5b/iRl6L6XKDiE0VI60dysjTuJ3OCimdbOl6vAUawm/tOpmysu39euOqT4E6jHK5oyOC9P8+7wYDIALsaBqtOVlOZgJNXHn4RU6N0HnPOzufgx6zt9Wekt8jgMulGd6IFuJbHX3JOD8oAPwKsItcNQdeI1XqM6/9kJkm8SMKlFwBQxLnDAR4V5DsmE2r0eESaEw0w/Clk6KgkdCefAlq60Qvh0eNjiiBjHj+gGA==;JopNgUG+rpyF7afuS83/Vw=="
 ---
 

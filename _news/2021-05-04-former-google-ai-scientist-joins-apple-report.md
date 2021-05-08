@@ -57,20 +57,6 @@ related:
         width: 728
         height: 500
         isCached: true
-  - title: "Apple hires former Googler Samy Bengio to head AI research unit"
-    excerpt: "Apple has reportedly hired former Googler Samy Bengio to head a new AI research unit with John Giannandrea, Apple's senior vice president of machine learning and AI strategy. Apple has not commented."
-    publishedDateTime: 2021-05-03T19:54:00Z
-    webUrl: "https://www.neowin.net/news/apple-hires-former-googler-samy-bengio-to-head-ai-research-unit/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 69
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620085457_1580301538_apple_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Apple hires yet another ex-Google AI leader"
     excerpt: "Apple has hired Samy Bengio, a prominent AI researcher who previously worked at Google. Bengio will lead \"a new AI research unit\" within Apple, according to a recent report in Reuters. He is just the latest in a series of prominent AI leaders and workers Apple has hired away from the search giant."
     publishedDateTime: 2021-05-03T21:59:00Z
@@ -98,22 +84,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/05/IRW_3731-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Apple hires ex-Google AI expert Samy Bengio"
-    excerpt: "Apple has hired Samy Bengio, a former AI scientist who resigned in protest of Google's firing of two employees, to lead a new AI team under John Giannandrea."
-    publishedDateTime: 2021-05-03T19:19:00Z
-    webUrl: "https://appleinsider.com/articles/21/05/03/apple-hires-ex-google-ai-expert-samy-bengio"
-    ampWebUrl: "https://appleinsider.com/articles/21/05/03/apple-hires-ex-google-ai-expert-samy-bengio/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/05/03/apple-hires-ex-google-ai-expert-samy-bengio/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/41788-81061-AI-3-xl.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Apple hires Google AI veteran Bengio amid ethics controversy"
     excerpt: "Apple has hired former Google artificial intelligence (AI) scientist Samy Bengio following his departure from the company after controversy engulfed the Google Brain division. Bengio will lead a new AI research division at Apple and will report to senior vice president of machine learning and AI strategy John Giannandrea,"

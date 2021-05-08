@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-03-ibm-to-acquire-turbonomic-for-aiops.md",
+      "title": "IBM to acquire Turbonomic for AIOps",
+      "excerpt": "It complements IBM's recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/",
+      "originalUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg",
+          "width": 736,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/",
+      "publishedDateTime": "2021-05-03T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025.md",
+      "title": "Artificial Intelligence In Diagnostics Market Expected to Expand at a High CAGR By End of 2025",
+      "excerpt": "Artificial Intelligence In Diagnostics analyze relationships between prevention or treatment techniques and patient outcomes. These AI diagnostic tools support operational initiatives that increase cost saving,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025-2021-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025-2021-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-no-code-ai-company-obviously-ai-announces-36m-in-seed-funding-from-tmv-b-capital-group-and.md",
       "title": "No-code AI company Obviously AI, announces $3.6m in seed funding from TMV, B Capital Group and ...",
       "excerpt": "Today, Obviously AI - a no-code tool that enables anyone to build and run AI models in minutes, without writing code - announced it is building on its launch in 2020 and moving out of beta, with a total funding of $3.",
@@ -349,49 +444,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-03-global-artificial-intelligence-robotics-market-report-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026.md",
-      "title": "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026",
-      "excerpt": "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026&source=139",
-      "originalUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026&source=139",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?301606",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-03-baidu-launches-chinas-first-paid-robotaxi-service.md",
       "title": "Baidu launches China's first paid robotaxi service",
       "excerpt": "Chinese technology giant Baidu has launched what is says is the country's first commercial robotaxi service, which will see its Apollo self-driving vehicles shuttle paying customers around Beijing's Shougang Park without a safety driver onboard.",
@@ -492,6 +544,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-global-artificial-intelligence-robotics-market-report-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026.md",
+      "title": "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026",
+      "excerpt": "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026",
+      "originalUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-02T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1125,110 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe.md",
-      "title": "Intel CEO seeks $10B subsidy to build a chip factory in Europe",
-      "excerpt": "Intel CEO Pat Gelsinger may be asking for as much as $10 billion in subsidies to build a new foundry in Europe to ease the chip shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/",
-      "originalUrl": "https://venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/05/model-n-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 745,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/intel-ceo-seeks-10b-subsidy-to-build-a-chip-factory-in-europe/amp/",
-      "publishedDateTime": "2021-04-30T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-research-a-market-where-consumers-can-pay-for-privacy-is-emerging.md",
-      "title": "Research: A market where consumers can pay for privacy is emerging",
-      "excerpt": "There is a hidden market for privacy, with consumers eager to pay a premium to protect their personal information online, new research shows.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/30/research-a-market-where-consumers-can-pay-for-privacy-is-emerging/",
-      "originalUrl": "https://venturebeat.com/2021/04/30/research-a-market-where-consumers-can-pay-for-privacy-is-emerging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/compliance.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/30/research-a-market-where-consumers-can-pay-for-privacy-is-emerging/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/research-a-market-where-consumers-can-pay-for-privacy-is-emerging/amp/",
-      "publishedDateTime": "2021-04-30T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

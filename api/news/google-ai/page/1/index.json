@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-07-now-deepmind-is-using-ai-to-transform-football.md",
-      "title": "Now DeepMind is using AI to transform football",
-      "excerpt": "The Alphabet-owned company is working with Liverpool to apply AI smarts to the high-stakes world of football tactics",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/deepmind-football-liverpool-ai",
-      "originalUrl": "https://www.wired.co.uk/article/deepmind-football-liverpool-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/60941e371d4c1b7d05a51325/master/pass/GettyImages-1277904311.jpg",
-          "width": 3000,
-          "height": 2001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.co.uk/article/deepmind-football-liverpool-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/deepmind-football-liverpool-ai/amp",
-      "publishedDateTime": "2021-05-07T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-07-advancing-sports-analytics-through-ai-research.md",
       "title": "Advancing sports analytics through AI research",
       "excerpt": "Sports analytics is in the midst of a remarkably important era, offering interesting opportunities for AI researchers and sports leaders alike.",
@@ -246,6 +203,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-05-deepmind-extends-hunt-for-the-worlds-best-ai-researchers-to-toronto.md",
+      "title": "DeepMind extends hunt for the world’s best A.I. researchers to Toronto",
+      "excerpt": "The company posted a job ad for a research scientist in Toronto on its website last week and confirmed that it plans to build a small team in the city.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/companies-get-creative-in-hunt-for-ai-talent-11620302400",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/deepmind-extends-hunt-for-the-world-e2-80-99s-best-ai-researchers-to-toronto/ar-BB1gnHIb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-334603/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wsj.com/articles/companies-get-creative-in-hunt-for-ai-talent-11620302400",
+        "domain": "wsj.com/articles/companies-get-creative-in-hunt-for-ai-talent-11620302400",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-getting-started-with-deep-learning-using-tensorflow-keras.md",
       "title": "Getting Started With Deep Learning Using TensorFlow Keras",
       "excerpt": "Deep Learning is a subset of Machine learning. It was developed to have an architecture and functionality similar to that of a human brain.",
@@ -299,7 +299,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359405/apple-hires-google-ai-veteran-samy-bengio",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 226,
       "tags": null,
       "images": [
         {

@@ -72,22 +72,6 @@ related:
         width: 587
         height: 532
         isCached: true
-  - title: "The chilling grip of Facebook’s invisible hand"
-    excerpt: "Big Tech cannot be a neutral arbiter of what political speech is acceptable or not acceptable. But private companies like Facebook are using their growing, terrifying, and largely unchecked power to determine who gets to speak and who gets to be heard."
-    publishedDateTime: 2021-05-03T19:43:00Z
-    webUrl: "https://therealnews.com/the-chilling-grip-of-facebooks-invisible-hand"
-    ampWebUrl: "https://therealnews.com/the-chilling-grip-of-facebooks-invisible-hand"
-    cdnAmpWebUrl: "https://therealnews-com.cdn.ampproject.org/c/s/therealnews.com/the-chilling-grip-of-facebooks-invisible-hand"
-    type: article
-    provider:
-      name: The Real News Network
-      domain: therealnews.com
-    quality: 44
-    images:
-      - url: "https://therealnews.com/wp-content/uploads/2021/05/Untitled-design-6.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "All The Machine Learning Libraries Open-Sourced By Facebook Ever"
     excerpt: "Today, corporations like Google, Facebook and Microsoft have been dominating tools and deep learning frameworks that AI researchers use globally. Many of their open-source libraries are now gaining popularity on GitHub,"
     publishedDateTime: 2021-05-05T09:30:00Z

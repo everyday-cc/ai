@@ -25,22 +25,6 @@ images:
     height: 1333
     isCached: true
 
-related:
-  - title: "How a startup beat health care heavyweights to win Medicare’s AI contest"
-    excerpt: "ClosedLoop.ai bested 300 rivals with a system capable of forecasting adverse health events by crunching an array of data on patients."
-    publishedDateTime: 2021-05-03T19:29:00Z
-    webUrl: "https://www.statnews.com/2021/05/03/how-a-startup-beat-health-care-heavyweights-to-win-medicares-ai-contest/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 38
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/05/AdobeStock_349244257-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
-
 secured: "PC5ewVfCrB17M23sMldbXzVfgqDmP7HGkTI/tFfa/QaDXdVW/azKJaLON2+rrCe6eEAjjZjKWp5AYNGShn1zwA5bwqZK+P16IfNpZXPn67BIwArEykHsx+1h3om9+f/Iho0CHWwdZr5r2gYPn5yh7dbPI+k9241q+X6EitMvL/ANXL/N1hoPEeAU9CD/bBhMQPFfLAzvgtXR7WWr4tc8iy8ddeuozRL25Ii3A+cZoLnoYJhvUnOdyWQZpLiFC3LIdvLja8PKzHdPscZFqUwR4aS9Np7+g5u19/q+aS0ciwlIuP74IhtVMP94Kfstoqm+AUft9E93Y5F1IXwc5iulhlCEmlHCaGi4I33hp3gR38k=;tjOnDrVKaKRIdg7IsjsAzw=="
 ---
 

@@ -72,22 +72,6 @@ related:
         width: 587
         height: 532
         isCached: true
-  - title: "The chilling grip of Facebook’s invisible hand"
-    excerpt: "Big Tech cannot be a neutral arbiter of what political speech is acceptable or not acceptable. But private companies like Facebook are using their growing, terrifying, and largely unchecked power to determine who gets to speak and who gets to be heard."
-    publishedDateTime: 2021-05-03T19:43:00Z
-    webUrl: "https://therealnews.com/the-chilling-grip-of-facebooks-invisible-hand"
-    ampWebUrl: "https://therealnews.com/the-chilling-grip-of-facebooks-invisible-hand"
-    cdnAmpWebUrl: "https://therealnews-com.cdn.ampproject.org/c/s/therealnews.com/the-chilling-grip-of-facebooks-invisible-hand"
-    type: article
-    provider:
-      name: The Real News Network
-      domain: therealnews.com
-    quality: 44
-    images:
-      - url: "https://therealnews.com/wp-content/uploads/2021/05/Untitled-design-6.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Facebook Announces ZionEX Platform for Training AI Models with 12 Trillion Parameters"
     excerpt: "A team of scientists at Facebook AI Research (FAIR) announced a system for training deep-learning recommendation models (DLRM) using PyTorch on a custom-built AI hardware platform, ZionEX. Using this system,"
     publishedDateTime: 2021-05-04T13:05:00Z
