@@ -41,20 +41,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "How To Use AI To Counter Real-Time Abuse In Online Games"
-    excerpt: "According to an ADL report, 81 percent of US adults -- aged 18 to 45 -- encountered harassment while playing online games in 2020."
-    publishedDateTime: 2021-05-03T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-to-use-ai-to-counter-real-time-abuse-in-online-games/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/design-for-ai.jpg"
-        width: 1600
-        height: 1131
-        isCached: true
   - title: "How Ally uses AI to approve auto loans"
     excerpt: "The digital-only bank has adopted machine learning to process loans faster, more accurately and with better fraud detection than in the past."
     publishedDateTime: 2021-05-05T22:12:00Z

@@ -28,6 +28,20 @@ images:
 
 related:
   - title: "iBooster Presents LinkedIn Boost Solution for the Fintech Market"
+    excerpt: "Booster introduces LinkedIn Boost service to help increase profiles and brands of professionals in the fintech market and other industries. The company designs marketing strategies, with AI that runs everything,"
+    publishedDateTime: 2021-05-06T08:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ibooster-presents-linkedin-boost-solution-for-the-fintech-market-2021-05-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "iBooster Presents LinkedIn Boost Solution for the Fintech Market"
     excerpt: "Professionals in the financial technology industry can use the service to reach their target network and connections. Several campaign packages"
     publishedDateTime: 2021-05-04T16:56:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/ibooster-presents-linkedin-boost-solution-for-the-fintech-market-10095438"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-mu
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-musk-california/"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/05/07/600x338/2020-02-24T232822Z_1_LYNXNPEG1N25J_RTROPTP_3_TESLA-GIGAFACTORY_1583211250743_1620367537971.JPG"
         width: 600
         height: 338
-        isCached: true
-  - title: "VW plans to design own computer chips for self-driving cars, just like Tesla"
-    excerpt: "VW Group will only design its computer chips and then outsource production to an existing supplier, in the same way that Tesla outsources production of its chips to Samsung. The a"
-    publishedDateTime: 2021-05-03T12:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1132123_vw-plans-to-design-own-computer-chips-for-self-driving-cars-just-like-tesla"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 53
-    images:
-      - url: "https://images.hgmsites.net/hug/volkswagen-self-driving-car-prototype-testing-in-hamburg-germany--april-3-2019_100696985_h.jpg"
-        width: 1920
-        height: 1163
         isCached: true
   - title: "Tesla engineer told California DMV that Elon Musk overstated self-driving capability"
     excerpt: "Elon’s tweet does not match engineering reality,' a DMV official wrote after debriefing a Tesla engineer who oversees autonomous driving development."

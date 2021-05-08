@@ -588,6 +588,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-06-ibooster-presents-linkedin-boost-solution-for-the-fintech-market.md",
+      "title": "iBooster Presents LinkedIn Boost Solution for the Fintech Market",
+      "excerpt": "Booster introduces LinkedIn Boost service to help increase profiles and brands of professionals in the fintech market and other industries. The company designs marketing strategies, with AI that runs everything,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ibooster-presents-linkedin-boost-solution-for-the-fintech-market-2021-05-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ibooster-presents-linkedin-boost-solution-for-the-fintech-market-2021-05-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-gm-reports-strong-first-quarter-2021-results.md",
       "title": "GM Reports Strong First-Quarter 2021 Results",
       "excerpt": "General Motors Co. (NYSE: GM) today reported first-quarter earnings driven by strong price and mix performance in North America, strong credit and resid",
@@ -691,7 +743,7 @@
       "originalUrl": "https://www.openpr.com/news/2280651/service-robotics-market-analysis-segments-growth-and-value",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1162,49 +1214,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-considerations-for-implementing-aiml-in-your-business.md",
-      "title": "Considerations for Implementing AI/ML in Your Business",
-      "excerpt": "Business technology changes constantly, and every solution we implement has a lifespan. You may have been a Microsoft shop for the past thirty years, but your company is not currently operating on Win",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business",
-      "originalUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/considerations-implementing-aiml-your-business?amp",
-      "publishedDateTime": "2021-05-05T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

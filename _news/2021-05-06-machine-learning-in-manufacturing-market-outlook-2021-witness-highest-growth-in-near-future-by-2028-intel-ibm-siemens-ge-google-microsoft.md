@@ -47,15 +47,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
-  - title: "Artificial Intelligence in Marketing Market to See Massive Growth by 2027 | IBM Corporation, Microsoft Corporation, General Vision and More"
-    excerpt: "The market is being growing continuously since last decade. According to forecast analysis, the Artificial Intelligence in Marketing Market report is anticipated to perform more robustly in the coming years,"
-    publishedDateTime: 2021-05-03T11:28:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-in-marketing-market-to-see-massive-growth-by-2027-ibm-corporation-microsoft-corporation-general-vision-and-more/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
 
 secured: "gzJ1Yus4sev+18r9ASLKVlx1uJAEoYbYJVKsCk0DNqM+iBA4bAIL/cIaKfS7UglBr3KYCNbyxE0jW34FCKk8oDWVa3h2S53TMi4991rkdBCZGLnjsfX7+Ox17EGnc4YdS7Dwi+ZqOHmfEGFtwRjS9dgKYwNMagsU5Q/3CoPdZBzz79fKTFeXNCVhheXtvxxdtmRQi33LF18gAInsVhh00Uc7LVflyDLfGVIVg6nIfbeTgeXnMAfIbQYfZZDtHKEwUIJO5XnyYnW8/5hKiJ33eZmYPEL3WjQbr5OifPEE3oOI7oNmQID/guj9GXc7ea5YvQ//S5pt6r/H8Ipi8AFMIlcXcvU4FPeUbTWXbH6E1fb2Hy+WAMjn86SXfqLGJElJ1YKuE+XGxSvricteDdqhjtJZGLLYp1tdjjE7ORKQC+h5VFkkjEiDzbLMoyywyl1XMKbgjn8Orgigw7KLs4F+GXXBWAluPABHmUVAD/Cd/Jnxu1UJLT3bS3fResynQdKj4zSPnyucIMsgNUOBT47JSw==;bwfIlmRryryIxfqniRgisA=="
 ---

@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-05-getting-started-with-deep-learning-using-tensorflow-keras.md",
+      "title": "Getting Started With Deep Learning Using TensorFlow Keras",
+      "excerpt": "Deep Learning is a subset of Machine learning. It was developed to have an architecture and functionality similar to that of a human brain.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/deep-learning-using-tensorflow-keras/",
+      "originalUrl": "https://analyticsindiamag.com/deep-learning-using-tensorflow-keras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/2-1.png",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-blockchaincom-announces-acquisition-of-aix-assets.md",
       "title": "Blockchain.com Announces Acquisition of AiX Assets",
       "excerpt": "Blockchain.com, a leading cryptocurrency services provider, announced that the company has acquired assets of technology firm AiX.",
@@ -1197,58 +1242,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-accel-robotics-launches-autonomous-valet-market-store-with-last-step-delivery-in-san-diego.md",
-      "title": "Accel Robotics Launches Autonomous 'Valet Market' Store With Last Step™ Delivery in San Diego",
-      "excerpt": "Stock quotes by finanzen.net SAN DIEGO, May 4, 2021 /PRNewswire/ -- Accel Robotics, a leading startup for checkout-free retail solutions powered by computer vision and artificial intelligence, today announced the soon-to-be-open Valet Market,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/accel-robotics-launches-autonomous-valet-market-store-with-last-step-delivery-in-san-diego-1030383908",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/accel-robotics-launches-autonomous-valet-market-store-with-last-step-delivery-in-san-diego-1030383908",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1498388/Valet_Market1.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

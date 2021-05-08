@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-28-plus-one-robotics-raises-33m-for-human-robot-collaboration-software.md",
+      "title": "Plus One Robotics raises $33M for human-robot collaboration software",
+      "excerpt": "Plus One Robotics, a human-robot collaboration software company headquartered in San Antonio, has announced this week $33 million in Series B funding led by McRock Capital and Translink Capital, with participation from BMW i Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software",
+      "originalUrl": "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/04/8096899965_13b19b62d1_k.jpg",
+          "width": 2048,
+          "height": 1318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software/amp",
+      "publishedDateTime": "2021-04-28T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-tesla-is-becoming-more-of-an-artificial-intelligence-and-robotic-company-says-elon-musk.md",
+      "title": "Tesla is becoming more of an artificial intelligence and robotic company, says Elon Musk",
+      "excerpt": "Elon Musk made the argument that Tesla is going to be known more as an artificial intelligence and robotic company. For a while now, Musk has been pushing this idea that investors shouldn’t just see Tesla as an automaker and energy company,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/",
+      "originalUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/02/tesla-xray-2-e1455320423724.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/27/tesla-becoming-more-artificial-intelligence-robotic-company-elon-musk/amp/",
+      "publishedDateTime": "2021-04-27T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-robot-vacuum-with-triple-lidar-system-has-eyes-to-help-it-avoid-poop.md",
       "title": "Robot vacuum with triple lidar system has eyes to help it avoid poop",
       "excerpt": "With three lidar sensors–a wall sensor, a main sensor, and a front sensor — the 360 Smart Life Robot Vacuum can gauge the size of objects. The built-in artificial intelligence (A.I.) allows it to decide in real time whether to continue over an object ...",
@@ -1265,101 +1361,6 @@
         "name": "hrexecutive",
         "domain": "hrexecutive.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-robots-will-not-take-jobs-if-cios-start-preparing-the-workforce-now.md",
-      "title": "Robots will not take jobs — if CIOs start preparing the workforce now",
-      "excerpt": "On the whole, emerging technologies are \"unfolding gradually\" with time for companies and workers to adapt, MIT Sloan affiliates said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciodive.com/news/MIT-Sloan-CIO-symposium-future-work-automation/598329/",
-      "originalUrl": "https://www.ciodive.com/news/MIT-Sloan-CIO-symposium-future-work-automation/598329/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ciodive.com/user_media/cache/ab/f8/abf891e27d1a07668c053b648db45cc8.jpg",
-          "width": 770,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Dive",
-        "domain": "ciodive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-modular-mobile-robot-can-take-on-multiple-roles-at-construction-site.md",
-      "title": "Modular mobile robot can take on multiple roles at construction site",
-      "excerpt": "Austrian startup Printstones has been developing robotic 3D-printing robots since 2017, and has just pulled back the curtain on its latest prototype, a mobile multi-tasking construction bot called the Baubot.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/",
-      "originalUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0691c04/2147483647/strip/true/crop/3084x2056+106+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F89%2F84%2Fe6e51926454eaacd6abed52030a4%2Fstairs-1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/baubot-modular-mobile-construction-robot/?amp=true",
-      "publishedDateTime": "2021-04-13T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -91,20 +91,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "VW plans to design own computer chips for self-driving cars, just like Tesla"
-    excerpt: "VW Group will only design its computer chips and then outsource production to an existing supplier, in the same way that Tesla outsources production of its chips to Samsung. The a"
-    publishedDateTime: 2021-05-03T12:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1132123_vw-plans-to-design-own-computer-chips-for-self-driving-cars-just-like-tesla"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 53
-    images:
-      - url: "https://images.hgmsites.net/hug/volkswagen-self-driving-car-prototype-testing-in-hamburg-germany--april-3-2019_100696985_h.jpg"
-        width: 1920
-        height: 1163
-        isCached: true
   - title: "Tesla engineer told California DMV that Elon Musk overstated self-driving capability"
     excerpt: "Elon’s tweet does not match engineering reality,' a DMV official wrote after debriefing a Tesla engineer who oversees autonomous driving development."
     publishedDateTime: 2021-05-07T15:32:00Z

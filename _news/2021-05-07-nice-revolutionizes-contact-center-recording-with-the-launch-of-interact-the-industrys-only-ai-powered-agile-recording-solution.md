@@ -25,52 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Re-Humanizing The Contact Center With AI"
-    excerpt: "In the end, it’s important to remember that the decisions you make now on your technology will impact you years down the line."
-    publishedDateTime: 2021-05-03T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/03/re-humanizing-the-contact-center-with-ai/amp/"
+  - title: "Build an intelligent search solution with automated content enrichment"
+    excerpt: "Unstructured data belonging to the enterprise continues to grow, making it a challenge for customers and employees to get the information they need. Amazon Kendra is a highly accurate intelligent search service powered by machine learning (ML). It helps you easily find the content you’re looking for,"
+    publishedDateTime: 2021-05-07T18:36:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-search-solution-with-automated-content-enrichment/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60428b8f3fbc741bf8ae1c13%2F0x0.jpg"
-        width: 737
-        height: 489
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/13/2-Architecture2613.jpg"
+        width: 800
+        height: 321
         isCached: true
-  - title: "The Chinese video interview startup supercharging talent management with AI"
-    excerpt: "LeapIn makes AI video interviewing software that helps companies manage talent and hiring. How does its technology stack up?"
-    publishedDateTime: 2021-05-07T02:00:00Z
-    webUrl: "https://technode.com/2021/05/07/leapin-the-chinese-video-interview-startup-supercharging-talent-management-with-ai/"
-    ampWebUrl: "https://technode.com/2021/05/07/leapin-the-chinese-video-interview-startup-supercharging-talent-management-with-ai/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/05/07/leapin-the-chinese-video-interview-startup-supercharging-talent-management-with-ai/"
+  - title: "Kanverse.ai Introduces Next-Generation Cognitive Automation Platform and Launches Intelligent Document Processing Product (IDP)"
+    excerpt: "Kanverse.ai, a cognitive automation company, has announced the global launch of the Datolite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Kanverse IDP is built on Kanverse Cognitive Automation platform."
+    publishedDateTime: 2021-05-04T08:30:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210504005868/kanverseai-introduces-next-generation-cognitive-automation-platform-and-launches-intelligent-document-processing-product-idp"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 55
-    images:
-      - url: "https://i1.wp.com/technode.com/wp-content/uploads/2021/04/bigstock-Asian-Job-Seeker-Being-Intervi-389639464-scaled.jpg?fit=2560%2C1707&ssl=1"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Connecting Manufacturers with Artificial Intelligence"
-    excerpt: "Increasingly manufacturers are asking the question “What can Artificial Intelligence do for me and my business?”– perhaps you have even asked that yourself."
-    publishedDateTime: 2021-05-06T11:09:00Z
-    webUrl: "https://www.themanufacturer.com/articles/connecting-manufacturers-artificial-intelligence/"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: themanufacturer.com
-    quality: 37
-    images:
-      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/05/06115257/Cimlogic-AI-blog.jpg"
-        width: 1783
-        height: 772
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "LIZJ/bOLj3fCecmDLn4WQHj0Xlocw/UlGQPcq+JGFCkxEcNt5Qn/cq3hTmwIj1lraXaM/Pz2zJKCoQe4ZXOLGJm1prq4U1NnpiXpPXjUC+iBizV577zMrYfzVnS8Pr4vAkPPntsx0EpTb9ohYIS8NZX8oV7md5UyQro3LKCTz3JwIVIks37CZ/UpqRKR5MPtBCX56ZAQoiQWOl0JxpbexN7XakQkJeVKwZ2pzguDp1iyfzMPP2g5xCBZqnnBEofymyoSjkdZU5uMsi/35QHlehWxDWFsWhDxbxBL6R+g7JYXUv555pQwuRjFNvX+2bCSZaReVRTJyS2vMEN6FCg/bDlJqaOgqDEk4fi7O1YHFuw=;qbIjKGHRiYoWHUkPlTl3/A=="
 ---

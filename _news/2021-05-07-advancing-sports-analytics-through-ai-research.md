@@ -7,7 +7,7 @@ originalUrl: "https://deepmind.com/blog/article/advancing-sports-analytics-throu
 webUrl: "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai"
 type: article
 quality: 89
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
         width: 1000
         height: 620
         isCached: true
-  - title: "New SAS Viya offerings help better manage and navigate big data for AI and analytics"
-    excerpt: "Diverse and complex data environments create a challenge for organizations seeking to operationalize analytics to enable the best business decisions. Global analytics leader SAS continues to enhance its powerful,"
-    publishedDateTime: 2021-05-03T12:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-sas-viya-offerings-help-better-manage-and-navigate-big-data-for-ai-and-analytics-1030378017"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://mma.prnewswire.com/media/1500297/sas_viya_data_management.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Brytlyt’s Accelerated Analytics – powered by GPU"
     excerpt: "This featured whitepaper, \"Brytlyt's Accelerated Analytics - powered by GPU - Why today’s data-driven businesses need GPU acceleration,\" discusses the analytics challenges businesses are facing today,"
     publishedDateTime: 2021-05-06T12:35:00Z
@@ -72,20 +58,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2021/04/Accelerated-Analytics-Cover-Image.jpg"
         width: 646
         height: 907
-        isCached: true
-  - title: "How Artificial Intelligence is Revolutionizing Banking with Predictive Analytics"
-    excerpt: "Every day, artificial intelligence (AI) breaks new ground. As a result, it's no surprise that AI is quickly emerging as a critical innovation engine in banking operations. AI is expected to increase the banking and financial services industry by at least USD 1."
-    publishedDateTime: 2021-05-03T11:06:00Z
-    webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-revolutionizing-banking-with-predictive-analytics-nid-7631.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 32
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/4fc8c450308w.jpg"
-        width: 450
-        height: 308
         isCached: true
   - title: "Former Google Energy CTO Joins AI Startup Olea Edge Analytics"
     excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Ben Wilson as Chief Operating Officer. Wilson, the former Chief Technology Officer – Energy at Google,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://techstory.in/path-robotics-bags-usd-56m-funding-from-additio
 cdnAmpWebUrl: "https://techstory-in.cdn.ampproject.org/c/s/techstory.in/path-robotics-bags-usd-56m-funding-from-addition/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -27,29 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Path Robotics Raises $56M in Funding"
-    excerpt: "Path Robotics, a Columbus, OH-based AI Robotics company designing an autonomous robotic welding system, raised $56m in Series B funding"
-    publishedDateTime: 2021-05-03T12:33:00Z
-    webUrl: "https://www.finsmes.com/2021/05/path-robotics-raises-56m-in-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 69
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/03/beam-440x293.png"
-        width: 440
-        height: 293
-        isCached: true
-  - title: "Path Robotics Raises $56M to Build the Future of Manufacturing"
-    excerpt: "Path Robotics, the Columbus-based AI Robotics company responsible for designing the world's first truly autonomous robotic welding system, today announced it received $56 million dollars in Series B funding,"
-    publishedDateTime: 2021-05-03T12:00:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210503cl59305/path-robotics-raises-56m-to-build-the-future-of-manufacturing"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 49
   - title: "Path Robotics raises $56M for 'aggressive' expansion of AI-powered welding"
     excerpt: "Path Robotics Inc. has raised $56 million to perfect the engineering of its AI-driven autonomous welding robot and aggressively expand sales to manufacturers across the country. New York City VC firm Addition led the Series B round,"
     publishedDateTime: 2021-05-03T15:27:00Z

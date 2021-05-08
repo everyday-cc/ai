@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-search-solution-with-automated-content-enrichment/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "NICE Revolutionizes Contact Center Recording with the Launch of InterACT, the Industry's Only AI-Powered Agile Recording Solution"
+    excerpt: "NICE today announced it is transforming the way contact centers manage interaction recording with the launch of InterACT. A new AI-powered recording solution, InterACT automates end-to-end recording decisioning processes,"
+    publishedDateTime: 2021-05-07T10:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-19792748.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 10
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Kanverse.ai Introduces Next-Generation Cognitive Automation Platform and Launches Intelligent Document Processing Product (IDP)"
     excerpt: "Kanverse.ai, a cognitive automation company, has announced the global launch of the Datolite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Kanverse IDP is built on Kanverse Cognitive Automation platform."
     publishedDateTime: 2021-05-04T08:30:00Z
