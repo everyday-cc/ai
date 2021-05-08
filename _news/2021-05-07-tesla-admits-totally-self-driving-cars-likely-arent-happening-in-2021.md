@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-mu
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-musk-california/"
 type: article
 quality: 89
-heat: 199
+heat: 219
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1130604490.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Tesla admits Musk's 'full self-driving' claim not feasible yet"
+    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such c.."
+    publishedDateTime: 2021-05-08T07:26:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/cars/tesla-admits-musks-full-self-driving-claim-not-feasible-yet/82476896"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/cars/tesla-admits-musks-full-self-driving-claim-not-feasible-yet/82476896"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/cars/tesla-admits-musks-full-self-driving-claim-not-feasible-yet/82476896"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-82476896,imgsize-195404,width-800,height-434,overlay-etauto/tesla-admits-musk-s-full-self-driving-claim-not-feasible-yet.jpg"
+        width: 800
+        height: 434
         isCached: true
   - title: "Opinion: Feds Should Reel in Tesla, Self-Driving Car Industry"
     excerpt: "In April, an allegedly self-driving Tesla burst into flames after crashing into a tree in Texas. Two passengers died in the wreckage. Federal authorities should consider regulating the autonomous vehicle industry now."
@@ -170,6 +186,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/05/AdobeStock_343869056_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’ – TechCrunch"
+    excerpt: "What Tesla CEO Elon Musk says publicly in regards to the firm’s progress on a completely autonomous driving system doesn’t match up with “engineering actuality,” in line with a memo that summarizes a gathering between California regulators and workers on the automaker."
+    publishedDateTime: 2021-05-07T22:15:00Z
+    webUrl: "https://bestgamingpro.com/tesla-refutes-elon-musks-timeline-on-full-self-driving-techcrunch/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Tesla-refutes-Elon-Musks-timeline-on-‘full-self-driving-–-TechCrunch.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "2 Top Self-Driving Car Stocks to Buy in 2021"
     excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Tesla may not achieve full self-driving technology this year: Report"
-excerpt: "The electric carmaker Tesla Inc said to a California regulator that it may not be able to achieve full self-driving technology by the end of this year. This was confirmed by a memo by the California Department of Motor Vehicles (DMV), according to a report ..."
-publishedDateTime: 2021-05-07T07:25:00Z
-originalUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report-41620364503654.html"
-webUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report-41620364503654.html"
-ampWebUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
-cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
+title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’ – TechCrunch"
+excerpt: "What Tesla CEO Elon Musk says publicly in regards to the firm’s progress on a completely autonomous driving system doesn’t match up with “engineering actuality,” in line with a memo that summarizes a gathering between California regulators and workers on the automaker."
+publishedDateTime: 2021-05-07T22:15:00Z
+originalUrl: "https://bestgamingpro.com/tesla-refutes-elon-musks-timeline-on-full-self-driving-techcrunch/"
+webUrl: "https://bestgamingpro.com/tesla-refutes-elon-musks-timeline-on-full-self-driving-techcrunch/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: hindustantimes.com
-  domain: hindustantimes.com
+  name: bestgamingpro
+  domain: bestgamingpro.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.hindustantimes.com/auto/img/2021/05/07/600x338/2020-02-24T232822Z_1_LYNXNPEG1N25J_RTROPTP_3_TESLA-GIGAFACTORY_1583211250743_1620367537971.JPG"
+  - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Tesla-refutes-Elon-Musks-timeline-on-‘full-self-driving-–-TechCrunch.jpg"
     width: 600
-    height: 338
+    height: 400
     isCached: true
 
 related:
@@ -107,6 +105,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Tesla may not achieve full self-driving technology this year: Report"
+    excerpt: "The electric carmaker Tesla Inc said to a California regulator that it may not be able to achieve full self-driving technology by the end of this year. This was confirmed by a memo by the California Department of Motor Vehicles (DMV), according to a report ..."
+    publishedDateTime: 2021-05-07T07:25:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report-41620364503654.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
+    type: article
+    provider:
+      name: hindustantimes.com
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/05/07/600x338/2020-02-24T232822Z_1_LYNXNPEG1N25J_RTROPTP_3_TESLA-GIGAFACTORY_1583211250743_1620367537971.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Tesla engineer told California DMV that Elon Musk overstated self-driving capability"
     excerpt: "Elon’s tweet does not match engineering reality,' a DMV official wrote after debriefing a Tesla engineer who oversees autonomous driving development."
     publishedDateTime: 2021-05-07T15:32:00Z
@@ -183,20 +197,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’ – TechCrunch"
-    excerpt: "What Tesla CEO Elon Musk says publicly in regards to the firm’s progress on a completely autonomous driving system doesn’t match up with “engineering actuality,” in line with a memo that summarizes a gathering between California regulators and workers on the automaker."
-    publishedDateTime: 2021-05-07T22:15:00Z
-    webUrl: "https://bestgamingpro.com/tesla-refutes-elon-musks-timeline-on-full-self-driving-techcrunch/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 39
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Tesla-refutes-Elon-Musks-timeline-on-‘full-self-driving-–-TechCrunch.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "2 Top Self-Driving Car Stocks to Buy in 2021"
     excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."
     publishedDateTime: 2021-05-05T11:00:00Z
@@ -223,6 +223,6 @@ related:
         height: 382
         isCached: true
 
-secured: "Jq+uVTMHU6m3JSReJCEELwi/gedNeBwJqrQDKGzWgMQgDcMU7UvoVwvemqMM1ccooOl/OqnJtzDsEIEiD+nQA8cMk32NoM4SA+rQTaYty6r8QslLeEJZNfJirJMNSFvlfCxX50J3xemkoC7Tw9WM4ahABQv1j/65JAJou0ecCpaTsNrm92iAPPuws+VhRyr9WCOM44hTfokrDU/+V9bFkSKjsD7oc/igKEBuAjfQA/8TFCcW8bsEMajCjoS6lcl+yf93v26bEj+S2HiCZBwvxJXmI6REHd2dhQMcW3XJVusKfHiCY27w4DmWDYYJbftrpFnLv6iheDWV6kJWvP3b9BcvbVxvKiNwn9/m2Y/RW1783StfuiEYiC09vDhpqHBjh82uApHXIjkXNMRf/Cp+mFLh4G7AkL/E9SBkUqnZHLJkX+eNSM+stR/xaEsP5XAtyrpRIaiEejOIS/n6jd/QsqDwIBNQ/+B67o83GVZl4eA90RmMX3Aek5Qu+5hgipDxrdZBuJFDZ4TGFWXR5B0ngQ==;A6CJvzPzeMLRh4H96+F7Kg=="
+secured: "RvjuDBpSTP5EEadmj1MAUh813MfqicLJevOIJCcyw2Z8sxwp+kNDlPoxio6vcPU0NzqvoJqMk6l5+mK+FqjyDgGC3XIugoq7/0eu52oLJyYpCQIrlDug6GyQP8NiUBM32k9y97LFYTbTGhv0iAQzctCwOjq9ZLDcJuXCHcRMYENBqS+JvqYN75KA3VJ5RN3YvRXwxuIvfrMNZ9xxR62hMSPTrvNP8TT1QBwL2+pJwBZzCIvRajYp5FoPCt//0Zw6k9wdIoW/CC+vBff8DE4uv1EvyieY9cEFV+UE/ukwGMd+EvmVGM9yI7HGrdDC5UkZ6h4kmEHjT2wBqyf5GCsx//81oRf43OxMrb6wfN0i0sY=;UHIftE9W7zWAGDr5KR3XJA=="
 ---
 

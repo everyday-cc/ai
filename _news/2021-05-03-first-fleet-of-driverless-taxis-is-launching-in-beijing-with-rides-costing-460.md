@@ -41,22 +41,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Baidu launches China’s first self-driving taxi service"
-    excerpt: "These taxis have been named Apollo ‘robotaxis’ and around 10 of them have been deployed in an area of 3 square kilometers around Shougang Park in western Beijing. * Each Apollo robotaxi ride costs about 30 yuan (Rs."
-    publishedDateTime: 2021-05-03T13:11:00Z
-    webUrl: "https://www.brecorder.com/news/40089845"
-    ampWebUrl: "https://www.brecorder.com/news/amp/40089845"
-    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40089845"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 59
-    images:
-      - url: "https://i.brecorder.com/large/2021/05/608ff54f4dc66.jpg"
-        width: 671
-        height: 480
-        isCached: true
   - title: "Baidu launches China's first commercial driverless taxi service"
     excerpt: "Chinese search engine giant Baidu on Sunday started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public on a trial basis since last October but Sunday marked the first time that riders have needed to pay for it."
     publishedDateTime: 2021-05-04T10:00:00Z
@@ -96,20 +80,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "Driverless Taxi Program Rolls Out in China"
-    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in Beijing,"
-    publishedDateTime: 2021-05-03T13:47:00Z
-    webUrl: "https://www.manufacturing.net/automation/news/21404126/paid-driverless-taxi-program-rolls-out-in-china"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/05/16x9/Baidu_Driverless_Taxi_AP.608ffe2e2a8d4.png?auto=format&fit=max&w=1200"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Baidu rolls out world-first autonomous taxi fleet in Beijing"
     excerpt: "Chinese technology giant Baidu has rolled out the world’s first fleet of self-driving taxis over the weekend in Beijing, marking an important milestone for the autonomous driving industry."
     publishedDateTime: 2021-05-04T12:48:00Z

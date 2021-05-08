@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/gadfly/why-most-ai-writing-can-t-ge
 webUrl: "https://www.bloombergquint.com/gadfly/why-most-ai-writing-can-t-get-its-facts-straight"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Why Most AI Writing Can’t Get Its Facts Straight"
-    excerpt: "The brute force approach to artificial intelligence writing still works better on fiction than on factual, data-based reporting."
-    publishedDateTime: 2021-05-03T14:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 71
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLQ9BIC_W478/v1/1200x935.jpg"
-        width: 1200
-        height: 935
-        isCached: true
 
 secured: "F0tOrKj8EznANOM/6zvvdSQHyZpcmcf80sDxkQnMqyFrjXoecMWzXQcqzCNs300kiD+acFkP0pgRhNVnhkwoVxCFsCaORp71JPERjq4RZb1/SLm44PYBEoi6UyHuBkt6ZGR1JN1kUCpApFeBr2VFE7DIz+ecci1XLgxdsM+P/LU6v0r3aCkPHxxNbPlHC6piZTCAetSqgKKmaFlnIQHHQhGpPmQk4SRhCKCEOKOCEN0No4mfT74SZv3zyV5PfIc9e8PGNbWLqmVXmzjqJE4iCSzX7ZyO3DGeCBLpGmmsF5toW39R4eXOEItgzb5dWzh2IOGlyhiRRTfgb4eFddaNU6YWJXjyNKeqzwZ4HbrnH9U=;TMNHKqTJA0HvY3ftTQkXdg=="
 ---

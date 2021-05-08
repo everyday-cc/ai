@@ -19,33 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence In Diagnostics Market Expected to Expand at a High CAGR By End of 2025"
-    excerpt: "Artificial Intelligence In Diagnostics analyze relationships between prevention or treatment techniques and patient outcomes. These AI diagnostic tools support operational initiatives that increase cost saving,"
-    publishedDateTime: 2021-05-03T13:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-expected-to-expand-at-a-high-cagr-by-end-of-2025-2021-05-03"
+  - title: "PLM in Consumer Goods Market Promises Growth at 11.07% CAGR, as Automation and Machine Learning Drives 4.0 Manufacturing"
+    excerpt: "PLM in consumer goods market is undergoing a sea of change as covid 19 pandemic has boosted demand for daily essentials for consumers globally Furthermore the growth of e commerce and increased focus on quality manufacturing with highest efficiency can"
+    publishedDateTime: 2021-05-04T13:22:00Z
+    webUrl: "https://www.openpr.com/news/2279668/plm-in-consumer-goods-market-promises-growth-at-11-07-cagr-as"
+    ampWebUrl: "https://www.openpr.com/amp/2279668/plm-in-consumer-goods-market-promises-growth-at-11-07-cagr-as"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2279668/plm-in-consumer-goods-market-promises-growth-at-11-07-cagr-as"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Diagnostics Market Expected to Expand at a High CAGR By End of 2025"
-    excerpt: "Comserve / -- Competitive Analysis: NVIDIA Corporation (NVIDIA) (US), Intel Corporation (Intel) (US), IBM Corporation (IBM) (US), Google LLC (Google) (US), Microsoft Corporation (Microsoft) (US), Gene"
-    publishedDateTime: 2021-05-04T01:01:00Z
-    webUrl: "https://menafn.com/1102016561/Artificial-Intelligence-In-Diagnostics-Market-Expected-to-Expand-at-a-High-CAGR-By-End-of-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?501091"
-        width: 356
-        height: 250
+      - url: "https://cdn.openpr.com/U/5/U504491707_g.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "4iDkzeWH/HovBSsmFC7U4NVi4+OVPOvgvQLh/BAJJAFXGamsa0fyO1LlpzoLGOTDasChYQl4SElsD6tlkeT8SYI5icX4yEYH9Mlg8FoYtXPZwnmg03XYfTRpch6Jlu+eKUE2Ig8yXTYXj83HJGL3qeMKTob0w5HU86/AVXhh3O6zUu29NzG6p3iodgSCLLDzAx6yVStk03mdxNgWwWv44qUPDFTln/SyJpNYAu+2KyWDaE7pQNDj97KqjoYGhM/WQdZeezNPo8dmukaE5ZSiPIs83TN+lYh9klFwxG991rFuuGglMHjSfi28iuiBNNB3fzUpPgZbCaPlMxl1Q4s3LNKV2YBnavzg/TtEkPftKes=;W3cn4YW/YJol6m6QdIkCvQ=="

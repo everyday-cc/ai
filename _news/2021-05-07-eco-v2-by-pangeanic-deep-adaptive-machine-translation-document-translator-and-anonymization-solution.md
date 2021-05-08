@@ -7,7 +7,7 @@ originalUrl: "https://www.wboc.com/story/43837686/eco-v2-by-pangeanic-deep-adapt
 webUrl: "https://www.wboc.com/story/43837686/eco-v2-by-pangeanic-deep-adaptive-machine-translation-document-translator-and-anonymization-solution"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "Towards an Adaptive Education through a Machine Learning Recommendation System"
-    excerpt: "Educational institutions have a tremendous burden of handling students with low academic performance (At-risk students). Many approaches support this group of pupils, such as psychological therapy, a proper timetable for vulnerable pupils,"
-    publishedDateTime: 2021-05-03T14:09:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9415211"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 32
 
 secured: "9xNm8KWu7TSPc6b72Vs/3dq4yYB9lL18419zpjJFJ0SIQKeErXRSoO25bJk+HbBDzt08JSMVaryXioGjkGnQX+QzdV9+zHOyTizTcfYCHQh8HTjv34Qt4MYHiJgGXhS4JI0YNdOeqC5UsaJw5ADegFAbWfBRymvgDNaKWnJFF44+CH0ERLh4i3ZvxVct+SK/nbPTduwS5kXDqY7thiDvGYQpVtuHIBjuhFkIuqd4eUd8mVLmn/ZA8BL1T/+eu/NmX5bid00Uiqj51fz0XvVy6qC6dG/HkH/xpqe9prVPPRF5GeIZngSYqH5vLeEYZJ8PIM9OZXCWwo8IdxBBeBSiZL+9y7uuak+61cwujzosUiUm7YxS8jOFw1mBhgRDXWbeZSBqqiZuiV3Au/eCnYIOQfLCvzsiZQ6mvTZBygqHVwy/DDZ+VmdM/PM+7XXbWkP7TE16gpEi3K1qKkZeHZ6aDFJd6m/keiO52S13rnt/JcITs99ZDV0WFCvh1ki6ylk5eLVtK1qfkqLUpyBrz2hGJw==;DuBiiksVIEDmb7cMSnN/Kw=="
 ---

@@ -2,6 +2,83 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-03-19-automatic-lumen-detection-and-magnetic-alignment-control-for-magnetic-assisted-capsule-colonoscope-system-optimization.md",
+      "title": "Automatic lumen detection and magnetic alignment control for magnetic-assisted capsule colonoscope system optimization",
+      "excerpt": "We developed a magnetic-assisted capsule colonoscope system with integration of computer vision-based object detection and an alignment control scheme. Two convolutional neural ne",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-021-86101-9",
+      "originalUrl": "https://www.nature.com/articles/s41598-021-86101-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-ai-fintech-products-are-operating-at-scale-and-investor-interest-is-maturing.md",
+      "title": "AI fintech products are operating at scale and investor interest is maturing",
+      "excerpt": "Per a new dataset I spent this morning chewing on, VCs are firing cannons of capital into the AI startup world while exits reach new records.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/19/ai-fintech-products-are-operating-at-scale-and-investor-interest-is-maturing/",
+      "originalUrl": "https://techcrunch.com/2021/03/19/ai-fintech-products-are-operating-at-scale-and-investor-interest-is-maturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence.md",
       "title": "Researchers enhance Alzheimer's disease classification through artificial intelligence",
       "excerpt": "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain.",
@@ -853,74 +930,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation.md",
-      "title": "Proven Arabia strengthens commitment to AI and robotics innovation",
-      "excerpt": "Proven Arabia’s new AI and robotics-centered tech start-up Proven Solution to help automate business operations for customers in the Middle East and around the globe",
-      "sourceUrl": null,
-      "webUrl": "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation",
-      "originalUrl": "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp",
-      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp",
-      "publishedDateTime": "2021-03-18T17:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-deepmind-is-teaching-its-ai-to-navigate-cities-using-street-view-images.md",
-      "title": "DeepMind is teaching its AI to navigate cities using Street View images",
-      "excerpt": "Vaughn Highfield Associate EditorKnown as the tallest man in tech (something he’s never personally claimed to be), Vaughn writes about a broad range of technology, from VR worlds to startup ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphr.com/google/1008999/google-ai-human-navigate-city",
-      "originalUrl": "https://www.alphr.com/google/1008999/google-ai-human-navigate-city",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Alphr",
-        "domain": "alphr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

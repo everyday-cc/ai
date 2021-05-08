@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 759
         isCached: true
-  - title: "Nestle: Driving Innovation through AI and other Disruptive Tech"
-    excerpt: "Nestle leverages disruptive technologies like AI, machine learning, blockchain, and advanced data analytics to enhance business growth. The brand uses data analytics and artificial intelligence to drive personalized customer engagement."
-    publishedDateTime: 2021-05-03T13:28:00Z
-    webUrl: "https://www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/"
-    ampWebUrl: "https://www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/?amp"
-    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/nestle-driving-innovation-through-ai-and-other-disruptive-tech/?amp"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 59
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/nestle.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Announcing Fiddler AI's Strategic Collaboration with In-Q-Tel and Participation in FinRegLab Research"
     excerpt: "Over the course of Fiddler's two and a half years, we've taken the time and effort to build strong partnerships"
     publishedDateTime: 2021-05-06T18:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://gisuser.com/2021/05/top-8-challenges-of-artificial-intelli
 webUrl: "https://gisuser.com/2021/05/top-8-challenges-of-artificial-intelligence-in-2021-2/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 754
     height: 373
     isCached: true
-
-related:
-  - title: "CMS Announces Winners of Artificial Intelligence Challenge"
-    excerpt: "ClosedLoop.ai was the winner and Geisinger was the runner-up in CMS's Artificial Intelligence Health Outcomes Challenge."
-    publishedDateTime: 2021-05-03T14:55:00Z
-    webUrl: "https://healthitanalytics.com/news/cms-announces-winners-of-artificial-intelligence-challenge"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-942954932.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "gsflC4so0M7GWjluRtryJkZDxFketilIz/+WqfoVN6z8agsGE9mfirZnwA4TLWov8dJOByzPispNP8fqMGZXDA02rboXtnmvrxazLoK8zI/jWX30OKUZGBnpQC+A6F/UxVKGivpT1rO5RiXo6/5rxygj0cweztVFIDGqyL2PbjqI39BLFMVjUnG9EcREr9nr5/5bOtNASy/zxUg0NXS9D3HHItyJHdh8kHI3+ZjEJjc7WvmrEfgeF556Rf6+2wluPh1iwg/cOetzmzmKdULQT/lnCRNTSOpEk7MKHX+SqqU/prQphoWWmOgC4a0PlNksSrTLMF9Y1NsUw/Iwep4Baw+ONSn8r/DhQP75wLdPDKOMVZ+bkJB07Pt5kNAdlNggtxs6i8muHurwuSYyhNdiMX6KgRSp+RV+5ZY6Bx5EJdHphfl2y2f1gsY0veRLba5cWZfom7C1plY0+HxBEUJ8V1TFII0m+FEiUmZj189z8mzy5yn5PSNTRqf9YGHkxCPNGVHo5DLsmLL1ISjTwVsL4A==;1GL+QQ0OA2caHOeySlXQWg=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Tesla may not achieve full self-driving technology this year: Report"
-excerpt: "The electric carmaker Tesla Inc said to a California regulator that it may not be able to achieve full self-driving technology by the end of this year. This was confirmed by a memo by the California Department of Motor Vehicles (DMV), according to a report ..."
-publishedDateTime: 2021-05-07T07:25:00Z
-originalUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report-41620364503654.html"
-webUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report-41620364503654.html"
-ampWebUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
-cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
+title: "Tesla admits Musk's 'full self-driving' claim not feasible yet"
+excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such c.."
+publishedDateTime: 2021-05-08T07:26:00Z
+originalUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/cars/tesla-admits-musks-full-self-driving-claim-not-feasible-yet/82476896"
+webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/cars/tesla-admits-musks-full-self-driving-claim-not-feasible-yet/82476896"
+ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/cars/tesla-admits-musks-full-self-driving-claim-not-feasible-yet/82476896"
+cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/cars/tesla-admits-musks-full-self-driving-claim-not-feasible-yet/82476896"
 type: article
-quality: 59
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: hindustantimes.com
-  domain: hindustantimes.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.hindustantimes.com/auto/img/2021/05/07/600x338/2020-02-24T232822Z_1_LYNXNPEG1N25J_RTROPTP_3_TESLA-GIGAFACTORY_1583211250743_1620367537971.JPG"
-    width: 600
-    height: 338
+  - url: "https://etimg.etb2bimg.com/thumb/msid-82476896,imgsize-195404,width-800,height-434,overlay-etauto/tesla-admits-musk-s-full-self-driving-claim-not-feasible-yet.jpg"
+    width: 800
+    height: 434
     isCached: true
 
 related:
@@ -75,22 +75,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Tesla admits Musk's 'full self-driving' claim not feasible yet"
-    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such c.."
-    publishedDateTime: 2021-05-08T07:26:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/cars/tesla-admits-musks-full-self-driving-claim-not-feasible-yet/82476896"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/cars/tesla-admits-musks-full-self-driving-claim-not-feasible-yet/82476896"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/cars/tesla-admits-musks-full-self-driving-claim-not-feasible-yet/82476896"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-82476896,imgsize-195404,width-800,height-434,overlay-etauto/tesla-admits-musk-s-full-self-driving-claim-not-feasible-yet.jpg"
-        width: 800
-        height: 434
-        isCached: true
   - title: "Opinion: Feds Should Reel in Tesla, Self-Driving Car Industry"
     excerpt: "In April, an allegedly self-driving Tesla burst into flames after crashing into a tree in Texas. Two passengers died in the wreckage. Federal authorities should consider regulating the autonomous vehicle industry now."
     publishedDateTime: 2021-05-05T21:26:00Z
@@ -106,6 +90,22 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/b66013f/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F16%2F16%2Fb0332760cd376d7902f685657e31%2Fshutterstock-171883982.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "Tesla may not achieve full self-driving technology this year: Report"
+    excerpt: "The electric carmaker Tesla Inc said to a California regulator that it may not be able to achieve full self-driving technology by the end of this year. This was confirmed by a memo by the California Department of Motor Vehicles (DMV), according to a report ..."
+    publishedDateTime: 2021-05-07T07:25:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report-41620364503654.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/tesla-may-not-achieve-full-self-driving-technology-this-year-report/amp-41620364503654.html"
+    type: article
+    provider:
+      name: hindustantimes.com
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/05/07/600x338/2020-02-24T232822Z_1_LYNXNPEG1N25J_RTROPTP_3_TESLA-GIGAFACTORY_1583211250743_1620367537971.JPG"
+        width: 600
+        height: 338
         isCached: true
   - title: "Tesla engineer told California DMV that Elon Musk overstated self-driving capability"
     excerpt: "Elon’s tweet does not match engineering reality,' a DMV official wrote after debriefing a Tesla engineer who oversees autonomous driving development."
@@ -223,6 +223,6 @@ related:
         height: 382
         isCached: true
 
-secured: "Jq+uVTMHU6m3JSReJCEELwi/gedNeBwJqrQDKGzWgMQgDcMU7UvoVwvemqMM1ccooOl/OqnJtzDsEIEiD+nQA8cMk32NoM4SA+rQTaYty6r8QslLeEJZNfJirJMNSFvlfCxX50J3xemkoC7Tw9WM4ahABQv1j/65JAJou0ecCpaTsNrm92iAPPuws+VhRyr9WCOM44hTfokrDU/+V9bFkSKjsD7oc/igKEBuAjfQA/8TFCcW8bsEMajCjoS6lcl+yf93v26bEj+S2HiCZBwvxJXmI6REHd2dhQMcW3XJVusKfHiCY27w4DmWDYYJbftrpFnLv6iheDWV6kJWvP3b9BcvbVxvKiNwn9/m2Y/RW1783StfuiEYiC09vDhpqHBjh82uApHXIjkXNMRf/Cp+mFLh4G7AkL/E9SBkUqnZHLJkX+eNSM+stR/xaEsP5XAtyrpRIaiEejOIS/n6jd/QsqDwIBNQ/+B67o83GVZl4eA90RmMX3Aek5Qu+5hgipDxrdZBuJFDZ4TGFWXR5B0ngQ==;A6CJvzPzeMLRh4H96+F7Kg=="
+secured: "zvm7m2bmfISxAfHpqK5L9aCZV3m9cCVwgVfYaX7SkreMoETe7ynJ0Bw8+9jTfhVNPrZsKHmjiORv26Zy0QWC1QhjrjkKvpbcg+le4t4FkAZQQEetPc1rMHMqxzy3wbj1E1qYbBqoisMY+l1uMyhD/gqfcCcNlQxHvYsDygJ+MWQm4Fgy2YmJ4iCElBI/fKay2ntK8JL08cgEnHWecmqbSzWUt83/v/Tn25TdPKNWq4pVRDnQN93DoMdx79Y6IXOp52AKUsbN/TQ/MCX1p3iLXJBQZwUXbLi70ywYbz2zv3AP+d6ju6ltsAhSMYzI++c7NVi5CntxAZvEq6aqsQ8uqqjGDnYzoSiPPHFIQ8/ORNA=;hIaZsUcYVOMGcAbUBwTXKw=="
 ---
 

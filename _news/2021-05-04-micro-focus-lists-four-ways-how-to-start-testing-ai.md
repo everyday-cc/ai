@@ -40,22 +40,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Use AI Thinking to Improve Customer Experience"
-    excerpt: "In fact the prepackaged tools are not the most helpful thing about AI for your CX. The thinking that goes into designing and building AI systems is itself the most powerful tool for reexamining your customer experience."
-    publishedDateTime: 2021-05-03T14:43:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/"
-    ampWebUrl: "https://www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/use-ai-thinking-to-improve-customer-experience/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 57
-    images:
-      - url: "https://www.cmswire.com/-/media/d77db01721c34f25ba03e16f39da3e1d.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "0PyU2qOSbl+xrgUAdziow5N3kQGHPkmA5Ow/pzYT7FFn/o2DY0hshX/7XHEoJpxDGsj5EEbrsnJNkgSzsG9zXNYJvSku9A5R71FNThJ3N0yItEB6eWgIvZO0D8gZHs4t5CMEsBJrSWi7x3AulKTV7/Huw88mu/Yha6Hi/4NOkc4DBgxCE3BopBdWyOkfxXeKqc6SsqNLGRJkrREAgAMM4/8Uqflfw7sjJ3uUMjFi58+XCH/+dY2hMJk5X25QLXMdOnnBc4CWcYRCn142HuJCXBcNIpvEyTghNhUVCkeFsnPzo5OVy9qZ3Y7jhR2y/y+dG0LkmvVUNPUrqO7bdSKKenSGdAHMDr1S7GUZ4JfnqUNq7Ud/5dcTySPyMFZFc2LO8rNc6tLwclxY3+4TEPsIsC4IJSSLxCqmssbh+kCJ+FveA9QKh80raFBZfvHLbZiDPM9WR1wBETbU4N77PtBGoGYKNiCdzXJ4uHqmzHFY0vwzUEmTzu9qd9wNzHJoTl6Zph8yx7pMeZxttltdxqQzOA==;Vu6IWJIIkWH8cd6WH8uK5Q=="
 ---

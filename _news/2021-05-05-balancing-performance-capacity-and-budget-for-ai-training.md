@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 653
         isCached: true
+  - title: "Artificial Intelligence And The Future Of Humans"
+    excerpt: "AI will make most people better off, but its advances will also affect what it truly means to be human in the 21st century."
+    publishedDateTime: 2021-05-06T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg"
+        width: 1200
+        height: 836
+        isCached: true
 
 secured: "tdjEnW5k5FLDcYe/l3qoKCeHfQGmJ82xRx4CzQtx0STxThIKkmTwhb/JIkzrp5kGcDChobLEy8j+F1rzkpV3QWmAuCqN25LC7yEmIOqgq0Q4sskIVM+NKKoTHuJrjMqa9tZoFlsb1iIw1VJhqeeI3ol3RnkKNWwjD3NqcPX00tOXxsfcLxRaNWC3buU4j5GinbQtdjbEUP3vFHOX7QD6JwodtkMZMo79k7FAGBtv2SquYXoIWa8ZyvZRk7xXNmJdb8dEJGIgW8GAlYoCG01L6qBd+25crnomKrqZnMXP9/FCgYPtOTlPQl2aOi/qtOww3xneF5fLo8vvKLZeHyxgIus5nZU8ojaf7UWk0lUV8eX/uDzFfRJRNcixgW9I1bPpEZJL/nHuIFKtHS3zZtN2ByF7QCjLHDE/1o6Xf8Aw0kr4tYxxdOaBLUWLMuQ1h9Yb+iKHlJ450QgdHj+aFj7ZGT3BVSJgR0SKrt7gAlmkWHtcYup8p0baSCIR398mt0VB/4RsiUJTi3W6/sLl6qLnkA==;w3/xJP9EPI0q3HaINVhKew=="
 ---

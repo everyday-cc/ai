@@ -53,15 +53,6 @@ related:
         width: 1133
         height: 600
         isCached: true
-  - title: "A Local Computing Cell and 6T SRAM-Based Computing-in-Memory Macro With 8-b MAC Operation for Edge AI Chips"
-    excerpt: "This article presents a computing-in-memory (CIM) structure aimed at improving the energy efficiency of edge devices running multi-bit multiply-and-accumulate (MAC) operations. The proposed scheme includes a 6T SRAM-based CIM (SRAM-CIM) macro capable of: 1) weight-bitwise MAC (WbwMAC) operations to expand the sensing margin and improve the readout accuracy for high-precision MAC operations;"
-    publishedDateTime: 2021-05-03T13:09:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/9416993"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 16
 
 secured: "7w/kYwtVH0cU0q1F8CJdmXoBN4ToUdihdyHW+5dZ4fyiZ1b2rmk7MjnQwoXDXQ8sruNYJibJGH6ggV4zCd28czeKOXEwTyUi2GJmEUT0u0DPt1LtXV5NIHL/TR3XC/6bETXnelRj/XCcyC92cAC/p+pM2ndZWRyZ3kI1ea3XIsvpFe1uQ3fOcWP0eHS3RL6bqLFxJPA4ARIC9twM5AZJi1Hm3Wx9Gk9DtaAjE3oZyZjvpHs8Hr3jvMuyaw5Q3DW5mUMfEYCG5QP3Lg2oT75toSMQjbvXGAkpSn4Y+gdhvvKRTUFiz/pl9XSCuJLUA6f8UP4PDR6cAhluemLuAu2PcVVRE4Jrz+ECpEdmMYQsAej5K4OtRlthxGg5Ge6XMl1th/FNOasi6XMpYrTy7pN5n59tLkkYHd5h/XE2HhmXKLJNuJdic8C6rtyDwV/tPiZP9fuxzYHBZeocE03mCm2WGfPVysh87WrKvDunI1uN0mGWK1YMa41WvMvEYIsXK0tW3YeZzGTutwyq7RBg/hJd5w==;ORVqHnPZBJFgi1+FgsZpiA=="
 ---

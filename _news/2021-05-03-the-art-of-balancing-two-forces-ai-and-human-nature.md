@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/arunshastri/2021/05/03/the-art-of-balan
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/05/03/the-art-of-balancing-two-forces-ai-and-human-nature/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence And The Future Of Humans"
+    excerpt: "AI will make most people better off, but its advances will also affect what it truly means to be human in the 21st century."
+    publishedDateTime: 2021-05-06T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg"
+        width: 1200
+        height: 836
+        isCached: true
   - title: "Balancing Performance, Capacity, And Budget For AI Training"
     excerpt: "If the world was not a complex place, and if all machine learning training looked more or less the same, then there would only be one accelerator to goose"
     publishedDateTime: 2021-05-04T17:17:00Z

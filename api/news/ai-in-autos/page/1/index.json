@@ -10,7 +10,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-self-driving-cars-elon-musk-california/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -190,6 +190,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-self-driving-startup-aeva-says-its-sensor-can-detect-vehicles-over-500m-away.md",
+      "title": "Self-driving startup Aeva says its sensor can detect vehicles over 500m away",
+      "excerpt": "Self-driving sensor startup Aeva Technologies Inc, founded by former Apple Inc engineers, said on Thursday its sensor can detect other vehicles from beyond 500 meters and pedestrians from a distance of more than 350 meters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/aeva-tech-tech-idUSL1N2MT08I",
+      "originalUrl": "https://www.reuters.com/article/aeva-tech-tech-idUSL1N2MT08I",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210506&t=2&i=1561134006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH450KS",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2MT08I",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MT08I",
+      "publishedDateTime": "2021-05-06T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1401,50 +1453,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-aws-deepracer-follow-the-leader-ftl-sample-project.md",
-      "title": "AWS DeepRacer Follow the Leader (FTL) sample project",
-      "excerpt": "Learn to deploy an object detection model that enables the AWS DeepRacer device to identify and follow an object. - aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-      "originalUrl": "https://github.com/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/e7140ff7471f6a805315ad5fc43967a430dedc669bb4f709b5d77bf7972c5b36/aws-deepracer/aws-deepracer-follow-the-leader-sample-project",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T18:31:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

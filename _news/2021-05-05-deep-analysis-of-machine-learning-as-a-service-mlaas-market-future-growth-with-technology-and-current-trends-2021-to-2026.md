@@ -18,17 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Artificial Intelligence Platform Market 2020 Top Companies, Upcoming Trends Emerging Technologies, Global Analysis with Forecast 2026"
-    excerpt: "The Global Artificial Intelligence Platform Market accounted for USD 2.34 billion in 2017 and is projected to grow at a CAGR of 31.2% the forecast period of 2020 to 2026. The research Insights proclaims the addition of another new report on account of the Artificial Intelligence Platform Market."
-    publishedDateTime: 2021-05-03T14:10:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-platform-market-2020-top-companies-upcoming-trends-emerging-technologies-global-analysis-with-forecast-2026/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
-
 secured: "AOMU9gdgOIhjayRClM/6x7nh5nrtmg1jkBYwKYA+VcKMiJ8pOtbOrlM/OqN+vUXvUn7CVCqEK1tCjY1lupvoqwt2yLl9HDANKp56UvmazUlnt56QfE/jDCIcYJA5ZtlLL5ssQEpF+1tMTklOmBc8F5nIjd5a7EK46v3cIAqVlnRWcPDioqyU2NiP9R/SWfWXAXSyO+8DXpAKfU0m+pBM4fMIZRK9UKEkhVWwKFuHS+o+g467G2NV6re75QJuZvgKnag447dclMeTQOtRuyykpR1jSJfMA/ztjaT9bYsXDo0c8itBbxeMQs8isXrPld2D8cnXrb+9fB5NrtcDoBnVMPI3Gg25qGtoHsTFrwwfOzQOmLQ8KmyJqYvOZd70dqZNcsRJKdzDUuZoSw4NTByOGWufc+Mk7rxuqdNr/f+EW0BUgiPKf9GpIohd9FxkT5NCfsJhZMldJCKagi5PwWRlVwp5/KY7S7nW5OtQErwC7rL1aMzGdk/gDzXVkv71z3N2PBIHL+cwSbkqBYZ5tzqtUQ==;QaGqcivXjcXe8WRhtGfGUw=="
 ---
 
