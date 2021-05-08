@@ -34,7 +34,7 @@ related:
     provider:
       name: KXAN
       domain: kxan.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://www.kxan.com/wp-content/uploads/sites/40/2021/05/Health-care-worker.jpg?w=1280"
         width: 799

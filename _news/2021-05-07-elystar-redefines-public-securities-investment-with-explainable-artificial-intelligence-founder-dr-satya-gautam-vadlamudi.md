@@ -25,6 +25,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Elystar redefines Public Securities Investment with explainable Artificial Intelligence - Founder, Dr Satya Gautam Vadlamudi"
+    excerpt: "Recently developed Explainable Artificial Intelligence (XAI) technology tackles this issue by analyzing data to provide users with explanations for given issues and activities. Utilizing this technology to create investment strategies,"
+    publishedDateTime: 2021-05-08T00:44:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20210507/3752217.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 5
+
 secured: "9CHCYPLsEuMrVXszooOJjf0UnHAJnB77GTKvOh4OL01/dcybZTHSBcKUmily9sUhgvE9u+C6hJNU9rjd1elpsFAbvvGjBhXcyHr9g6krfQ83NHtUFx9id6aUyMPnfUsdAxlIFnfj7pVIUSyez85oRjyHxRbn/JORTho4rhV5gB4XsEwgyul+fkDlhAuhpciZm1oQ1ZZVJLSdHZqqC29jJrsIePbsR1kMLeof818x+p1uThxc7hrNgEMs2xpD+Srolbz3RnNaOLlwlRNEdAZgCm6svBIbDdGd6Ez041trnS6g6bwsAfkwUTKv5b+jOWykd8ctM3Jd96lVnqkS4JxEBXbXOsGqHiB7BxlMOz7xyK8=;lcvXsPsDKK1J6mktnmt8SQ=="
 ---
 

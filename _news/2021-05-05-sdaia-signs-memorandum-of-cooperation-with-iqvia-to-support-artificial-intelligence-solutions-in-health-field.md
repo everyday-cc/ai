@@ -39,18 +39,18 @@ related:
         height: 355
         isCached: true
   - title: "Software AG’s TrendMiner 2021.R2 Release Puts Machine Learning and AI in the Hands of Operational Experts"
-    excerpt: "Democratization of Machine Learning Makes Operational Experts More Flexible To Improve and Predict Process and Asset Performance; New TrendMiner Multi-Variate Anomaly Detection Mo"
-    publishedDateTime: 2021-05-06T22:06:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/software-ag-science-business-technology-software-d75404601076298855513a810c67d6b6"
+    excerpt: "Democratization of Machine Learning Makes Operational Experts More Flexible To Improve and Predict Process and Asset Performance New TrendMiner Multi-Variate Anomaly Detection Model Automatically Detects Deviations From Desired Operational Behavior Self-Service Integration With webMethods."
+    publishedDateTime: 2021-05-06T22:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/software-ags-trendminer-2021-r2-release-puts-machine-learning-and-ai-in-the-hands-of-operational-experts"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.accesswire.com/users/newswire/images/645569/trendminer-trendhub-TM-logo.jpg"
+        width: 2500
+        height: 1563
         isCached: true
   - title: "A Local Computing Cell and 6T SRAM-Based Computing-in-Memory Macro With 8-b MAC Operation for Edge AI Chips"
     excerpt: "This article presents a computing-in-memory (CIM) structure aimed at improving the energy efficiency of edge devices running multi-bit multiply-and-accumulate (MAC) operations. The proposed scheme includes a 6T SRAM-based CIM (SRAM-CIM) macro capable of: 1) weight-bitwise MAC (WbwMAC) operations to expand the sensing margin and improve the readout accuracy for high-precision MAC operations;"

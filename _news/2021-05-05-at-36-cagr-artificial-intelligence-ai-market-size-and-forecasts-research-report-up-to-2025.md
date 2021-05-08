@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-36-cagr-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/at-36-cagr-artificial-intelligence-ai-market-size-and-forecasts-research-report-up-to-2025-2021-05-05?tesla=y"
 type: article
 quality: 72
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights"
-    excerpt: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights Posted on May 3 2021 5:25 AM Some of the key players in the military robots market such as Northrop Grumman Corporation (The U."
-    publishedDateTime: 2021-05-03T08:52:00Z
-    webUrl: "https://menafn.com/1102015536/Military-Robots-Market-Size-Growth-Revenue-Manufacturers-and-Forecast-Research-to-2020-2027Fortune-Business-Insights"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 14
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?315401"
-        width: 374
-        height: 250
         isCached: true
   - title: "Booming Growth in Natural Language Processing Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players"
     excerpt: "Business Science Technology World Booming Growth in Natural Language Processing Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players The Natural L"

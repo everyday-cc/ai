@@ -54,15 +54,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 15
-  - title: "Artificial Intelligence in Agriculture Market Share to Cross USD 893.43 million in 2019"
-    excerpt: "Global Artificial Intelligence in Agriculture Market is estimated to grow from USD 893.43 million in 2019 to USD 8342.37 million in 2030 with a CAGR of 22.52%. Factors such as growing stress on the food supply chain due to exponentially increasing population,"
-    publishedDateTime: 2021-05-03T08:04:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-in-agriculture-market-share-to-cross-usd-893-43-million-in-2019/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 9
 
 secured: "YR2kv2S3sO2PNs4C/e/A8Rlw0Ccl7v9UlU9xHx0kddIU5EzeiC8N0MRzv++r6czuf0fP23cKC0QDjdH1kP9D/l6Xy5vbHyq2CSrMTQrlaKmBvecLYdZvBNiAStibNLP5tW8W4DogAOXJ4V4xFhu7tY0VpN2rvUV5aJIpbi2XzjHhELks5PRKAHw/6TabK39l5CVqggVTtY1BrdFlPgX6Dxw/K8jlQVLTGyoUbpwZT558cOWevCWxuasRSYb2pm/0vgt83go/94JbHeiKGQozcL/jKbejRdO/ElUjMhLYSvfK5tdleZB4ubiesqGcAglgHA+XQRzkGJDuBGh+K6LQn1fCb2cCspkcDr10UoIEdSY=;ZULFT/Y/aOnbcTn1JX9Tfw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/"
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-acquire-turbonomic-aiops/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1600
         height: 1131
         isCached: true
-  - title: "IBM to acquire Turbonomic to expand AIOps business"
-    excerpt: "IBM entered a definitive agreement to acquire Turbonomic, an Application Resource Management (ARM) and Network Performance Management (NPM) software provider based in Boston. The acquisition will provide businesses with full stack application observability and management to assure performance and minimise costs using AI to optimise resources – such as containers,"
-    publishedDateTime: 2021-05-03T07:15:00Z
-    webUrl: "https://www.telecompaper.com/news/ibm-to-acquire-turbonomic-to-expand-aiops-business--1381609"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "E2VF0BRIuDwUDBvEpj+VxdTWLTIfAW+Dq6V13gQCfRrMHOTeqrcECPR1y4Ojy0d4BCl101uNLhyRo7XRj5ny2Rj7davOXHP0gu5txKmNrVSj27abrDoGPcyDwov7fEf33maTbR2M3yvoO5byiKN3VM0fB12/KNSmBPpgiVJCELOdt6Ccmtb7KeeXPd3dn74CUBdBBHxEaspjA0nsmAkyLCFicsVmt3XqYIXHOvvNGZW2/pCVmhIKrSiT4RCHob5xozVWwurAsCNgpeodNfBESVPl572h+tAyQUAky+V2sucabIrm/iV/zduU04ArbXlWgHI+B3HUeTlX+mWFqjznnSQa2sjTfeJ0HTaEh0TqrXLOJ2wSE8NRAWSrjEKLD3Gi0vFav3nUTKkvoCp+OWLaaX4VJOSpODPkCKxSpI+5Ucs4dkz3spMD1vr9dvlkbLtGvAq/nzTUyqRHsI3/QslK4Got0isi1/whpGj/yLqS220Gm3UHl8kpDw051R12LTCmHnLpNhwTqShMrjKnN41HaA==;uERZJ+ftzy1MIPhIBFymPQ=="
 ---

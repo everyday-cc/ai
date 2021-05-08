@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Software AG’s TrendMiner 2021.R2 Release Puts Machine Learning and AI in the Hands of Operational Experts"
-excerpt: "Democratization of Machine Learning Makes Operational Experts More Flexible To Improve and Predict Process and Asset Performance; New TrendMiner Multi-Variate Anomaly Detection Mo"
-publishedDateTime: 2021-05-06T22:06:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/software-ag-science-business-technology-software-d75404601076298855513a810c67d6b6"
-webUrl: "https://apnews.com/press-release/accesswire/software-ag-science-business-technology-software-d75404601076298855513a810c67d6b6"
+excerpt: "Democratization of Machine Learning Makes Operational Experts More Flexible To Improve and Predict Process and Asset Performance New TrendMiner Multi-Variate Anomaly Detection Model Automatically Detects Deviations From Desired Operational Behavior Self-Service Integration With webMethods."
+publishedDateTime: 2021-05-06T22:28:00Z
+originalUrl: "https://www.digitaljournal.com/pr/software-ags-trendminer-2021-r2-release-puts-machine-learning-and-ai-in-the-hands-of-operational-experts"
+webUrl: "https://www.digitaljournal.com/pr/software-ags-trendminer-2021-r2-release-puts-machine-learning-and-ai-in-the-hands-of-operational-experts"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.accesswire.com/users/newswire/images/645569/trendminer-trendhub-TM-logo.jpg"
+    width: 2500
+    height: 1563
     isCached: true
 
 related:
@@ -63,6 +63,6 @@ related:
       domain: ieee.org
     quality: 16
 
-secured: "Yv2R2iVJsGeUQGAwskO2EglKNUixTpkxT/W1G0FZAl9Sm8AaJ/BXZesl829/JdraQEuYgPKp9RYokEHlx7qHUBZHvaqX1K4wW1vxHdjSFgd/xlksd3v6LjD5JbzICcKjxWBciwrf9AQhYzqsEMlyL2LAzW/PX8Nv9PzuG++8R1oDU5ZBSpWC1KjWX+1yBVt+0N6NlpPaLBubP0+lxWuuuypL+dXRb7lWFHyGMoecNLnw7rdbBBG0tvf9D3QP5xNHBqMVGvjk6J0Pyo4IDlHtPxCA+ixqRCjbZavn/lLE0QfYPur5gY5s6+xGzB4gEmdDsl7SmFSmB5KaRw4KvNChZGlNZPP02j4pH16UewpJCoA=;QPdSVcgYrGfE1VDG3d7yNQ=="
+secured: "r5xieehzx4rSnSYInZOH50UDYxKu3O3cmFobk9zhPp1YiYRQI+vB/oJE6CowaBlLgqS8ZXtdopw3fr/iGZ2BcNbMsR0CVg6OAOsrKGQRn+wEGbrbP+AKCT2URkURy4m/+cVjgfxutCv8MyMCf0WH/KpIfKeZKu4P8RV7E3in9A5PdMfr4FvVuHOTX27oLYi16Mg1f8/reLK5RAHO/iCACMwwCGtVVawtLiSSLviVmid2t+WccJWulpcrXCNELQQcynzG1ryHBdP9J6FHQZTee7yNR0May5wcYXIFQyf/x8XBYDLPkWlePp4Vx4GmeRj4w0QnDqxAOSEXJl06bTaDuq4FQyRpkrHEBn2baNl2mfg=;mVTTS5Iw8wZxbCofE2ktyA=="
 ---
 

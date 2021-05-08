@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Agriculture Market Share to Cross USD 893.43 million in 2019"
-    excerpt: "Global Artificial Intelligence in Agriculture Market is estimated to grow from USD 893.43 million in 2019 to USD 8342.37 million in 2030 with a CAGR of 22.52%. Factors such as growing stress on the food supply chain due to exponentially increasing population,"
-    publishedDateTime: 2021-05-03T08:04:00Z
-    webUrl: "https://ksusentinel.com/2021/05/03/artificial-intelligence-in-agriculture-market-share-to-cross-usd-893-43-million-in-2019/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 9
 
 secured: "66SSvjcK7deuTcrgUwY19/Do36sajhwdltK4M7UMt1T566jM50M1OTU9QtkDIy48kLUEzTjCn6Vj+yFpxkGeVpvgUD/24bpBoV3YyiHwJeQyjzcbUvHvybnLMsfFvqAS54ZkgwkBl8erawururYJ7UIWxiUuosTot/6AJDuhHYwIaRlktmhFbmqZHeIqT+lPHd0SSdnFeuXgwfZ2sANqZbLZwmEKM77opHDpvAhIt4fBj5CrVGtsgrISMFlyN55Z1QD4dh6pBuzHgnHLpQiFkILLUcKTji9cBhWCyZkmET+jdEVVrjmP5FFtACC2XMPJOoYgS12q8TJWsoexOyHE9URTEJ4qL1zMgwLhoidk26A=;DnEMDjy7Xp2gqSatS/P0pw=="
 ---

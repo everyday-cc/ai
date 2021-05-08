@@ -56,15 +56,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "To See the Future of AI, Look Inside Yourself"
-    excerpt: "There are warnings from top-level scientists about a future in which computers become so advanced that they will leap into autonomy. Freed to make their own decisions the way humans do, AI machines conceivably might create catastrophes like starting a war."
-    publishedDateTime: 2021-05-03T07:39:00Z
-    webUrl: "https://www.chron.com/news/article/To-See-the-Future-of-AI-Look-Inside-Yourself-16146625.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
 
 secured: "MgsoX6mhB3EfTKKFwR4bhLssnAgPNRLloKgs0DjhE8fXo1FjZ9HyhQEiR/GFGR854E+xdj4UqWbvsxJa5fSpRnDWOpw88hs8xE8MIa+59y5SuGnUXrYqKdlVCKEU887BrqT63TSlBV0sf+lKtHB51obt7S98gbVpKogNyidpF8oFb44ebuEo7A/w4O5jvlrer5WwE35jJ82fUAAFrKDRubDpyJiEUvwmg4eRElXc1H4XvVDAeaf6kBBDpMyvHd8Xw6o2PWbxDNLhFJ+LZY5YG9Oe4VzcgDvyidPq/oyb8QN/GPdEYr1KUX7+CXxGpdNo5Yes8LADw8hqVsGX1x3iBCEIj9ggRrUeNdDiNQdlkfsHzjWHSNWTy2sfA+vu8eJxj3wOfkt3qaW/e9g6qdQFi1Jk+4LQMPtdI7NI/z6zNBGMsP2pYemWk7t7GApxr5XGiZXUKFCnNrRcZF1RkHHnU1NAWBQVUukVWe5JcJoPnSz5Z97g7un02LK3BEZ+vimzq+QE8HwyrR2rV2IJhXzDSw==;UK3IrZSzlJCg845P7Oqaxg=="
 ---

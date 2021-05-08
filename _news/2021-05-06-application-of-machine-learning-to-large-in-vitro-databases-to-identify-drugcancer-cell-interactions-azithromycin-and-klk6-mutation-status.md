@@ -57,20 +57,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Tredence Introduces ML Works, Machine Learning Ops Platform to Accelerate AI Innovation and Value Realization"
-    excerpt: "Tredence, a leading AI engineering and analytics services company, is driving innovation in artificial intelligence with the launch of its state-of-the-art machine learning operations platform, ML Works."
-    publishedDateTime: 2021-05-03T08:10:00Z
-    webUrl: "https://www.cioapplications.com/news/tredence-introduces-ml-works-machine-learning-ops-platform-to-accelerate-ai-innovation-and-value-realization-nid-7609.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 50
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/p5efr450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "How Tough Conditions and Contested Communication Are Forcing the US Military To Reinvent AI"
     excerpt: "Those miracle apps on your phone are powered by cloud computing and high-bandwidth data transfer. What does AI look like when those features are missing?"
     publishedDateTime: 2021-05-05T18:17:00Z

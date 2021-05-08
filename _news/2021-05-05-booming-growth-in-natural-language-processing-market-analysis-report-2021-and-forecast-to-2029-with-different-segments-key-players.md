@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights"
-    excerpt: "Military Robots Market Size, Growth, Revenue, Manufacturers and Forecast Research to 2020-2027|Fortune Business Insights Posted on May 3 2021 5:25 AM Some of the key players in the military robots market such as Northrop Grumman Corporation (The U."
-    publishedDateTime: 2021-05-03T08:52:00Z
-    webUrl: "https://menafn.com/1102015536/Military-Robots-Market-Size-Growth-Revenue-Manufacturers-and-Forecast-Research-to-2020-2027Fortune-Business-Insights"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 14
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?315401"
-        width: 374
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market Size, Growth Opportunities, Trends by Manufacturers, Regions, Application & Forecast to 2027"
     excerpt: "The information made available in the Artificial Intelligence (AI) in Fintech Market report will definitely facilitate to increase the knowledge and decision-making skills of the business, thus providing an immense opportunity for growth."
     publishedDateTime: 2021-05-03T09:41:00Z

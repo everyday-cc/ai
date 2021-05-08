@@ -48,20 +48,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 31
-  - title: "Self-driving auto manufacturing seeks Israel’s hi-tech experience"
-    excerpt: "For instance, the American multinational, Intel Corporation, has its Israeli subsidiary, Mobileye, headquartered in Jerusalem, focused on developing self-driving cars and advanced driver-assistance systems."
-    publishedDateTime: 2021-05-03T07:51:00Z
-    webUrl: "https://blogs.timesofisrael.com/self-driving-auto-manufacturing-seeks-israels-hi-tech-experience/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 24
-    images:
-      - url: "https://static.timesofisrael.com/blogs/uploads/users/anton-lucanus1568610412-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Study: Examining self-driving cars in winter"
     excerpt: "A new study from the University of Eastern Finland claims it is the first in the world to examine passengers’ experiences in self-driving cars under winter conditions. The study explored how passengers felt about self-driving cars in Helsinki,"
     publishedDateTime: 2021-05-07T12:48:00Z

@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM Unveils World’s First 2 Nanometer Chip Technology"
+    excerpt: "IBM has unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip announced with 2 Kenya breaking news | Kenya news today |"
+    publishedDateTime: 2021-05-08T00:52:00Z
+    webUrl: "https://www.capitalfm.co.ke/business/2021/05/ibm-unveils-worlds-first-2-nanometer-chip-technology/"
+    type: article
+    provider:
+      name: Capital FM
+      domain: capitalfm.co.ke
+    quality: 39
+    images:
+      - url: "https://www.capitalfm.co.ke/business/files/2021/05/IMG-20210507-WA0010.jpg"
+        width: 1280
+        height: 774
+        isCached: true
 
 secured: "GhRO1aQTTZ7iZYPJtI8lIO3a7X4gc+Ekcz2x2qYQooiG/0V4dKiqg0pxnG5hYdFWuXLVZyb7guJKAXjMDD5IH4M0UlRUH1AUabNfoManS0UVFogprcYKY/8HXVE8AlLOXKJjtU7jidEjv+vkmyTVt9pXaVGgNWUCF1FekT4mWGhZx4RDjemEBpgln1UdTGZbLuRC0H4s9eKGANqOYpyAw6n04UZBioBPSd8ZiIe83SEk1welrxjfwWpCudJZYBCsWkNpk1Bfbiyn92TxWmG08MYU4F+bygQdEWZjtnLCv3Zng92iGc3CxN6AmAPb0Iuzf9ourNw9asV5kOKa/Lll24QrVvYQLUN49HhJqVO/3WI=;m4zcVCPqcEh667ZpN2VjSA=="
 ---

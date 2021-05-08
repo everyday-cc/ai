@@ -39,20 +39,6 @@ related:
         width: 680
         height: 451
         isCached: true
-  - title: "Self-driving auto manufacturing seeks Israel’s hi-tech experience"
-    excerpt: "For instance, the American multinational, Intel Corporation, has its Israeli subsidiary, Mobileye, headquartered in Jerusalem, focused on developing self-driving cars and advanced driver-assistance systems."
-    publishedDateTime: 2021-05-03T07:51:00Z
-    webUrl: "https://blogs.timesofisrael.com/self-driving-auto-manufacturing-seeks-israels-hi-tech-experience/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 24
-    images:
-      - url: "https://static.timesofisrael.com/blogs/uploads/users/anton-lucanus1568610412-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Pioneering study explores passengers' experiences of self-driving cars in winter conditions"
     excerpt: "Trust, safety and security are the most important factors affecting passengers' attitudes towards self-driving cars. Younger people felt their personal security to be significantly better than older people."
     publishedDateTime: 2021-05-06T22:33:00Z

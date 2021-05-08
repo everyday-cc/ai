@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/05/05/1024613/stop-ai-recogniz
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/05/1024613/stop-ai-recognizing-your-face-selfies-machine-learning-facial-recognition-clearview/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "To See the Future of AI, Look Inside Yourself"
-    excerpt: "There are warnings from top-level scientists about a future in which computers become so advanced that they will leap into autonomy. Freed to make their own decisions the way humans do, AI machines conceivably might create catastrophes like starting a war."
-    publishedDateTime: 2021-05-03T07:39:00Z
-    webUrl: "https://www.chron.com/news/article/To-See-the-Future-of-AI-Look-Inside-Yourself-16146625.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
 
 secured: "vNMR/KQKlynFGjXy/Ja96lGljT7Xjq+eQzTQrnzJRisjhPh5rnDcIXnAyvEcY5ThszQETTnzeToRhIQ3CAwDW8/9APwDUFdD9Ft3IC+CfOS24XYjAsRgRABoePT9YtKrakGsa2kZyeqzNmMPouRGtSkxFtM22/+aGbhIPf3DAbWQw113g5XQdVCTJdSFpQDnLscvGv+06ZAamue5YHB5Ih1GsECB037AVLilyVVqK6iA4nHPPV5TMEdSLBWE7TVGivRdR0il4P+dcRWXoKqdC5MAWszsi+9J1F77nGJeyZUPVxlfGP6Klk6z6A+aLpGcpc37UH+rFDNHzSW46OBS3K9AVx5pLFQ8h9pH6SE86sVGVuZukcSq+ikc6KEf5Hw+FEeGVosuZ9nbdUzQWWwOPiTa3PIQNICjrghT7ShgwJDNprpNXSt4FbM9gDXVrv2xH+7N25c+7jwNyj/uirhY3C0Q9jCNPkiYx9YBqVTAUjll7X9LdTM1m2/vOAS4MDP/NQOb76mJzICZg5g09fxAFw==;Sg83Nako+4XC8ez6bf1P+w=="
 ---

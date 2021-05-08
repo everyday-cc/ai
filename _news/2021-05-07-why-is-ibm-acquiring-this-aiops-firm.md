@@ -55,15 +55,6 @@ related:
         width: 1000
         height: 543
         isCached: true
-  - title: "IBM to acquire Turbonomic to expand AIOps business"
-    excerpt: "IBM entered a definitive agreement to acquire Turbonomic, an Application Resource Management (ARM) and Network Performance Management (NPM) software provider based in Boston. The acquisition will provide businesses with full stack application observability and management to assure performance and minimise costs using AI to optimise resources – such as containers,"
-    publishedDateTime: 2021-05-03T07:15:00Z
-    webUrl: "https://www.telecompaper.com/news/ibm-to-acquire-turbonomic-to-expand-aiops-business--1381609"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "hctj2/akt4f0IPMHL9qEmoq/erMKu3fphxZaQCMxUx4X1btKr17ZHlVSObyNOeUlpBqOGbVROnipb7PsJVTeHi+afUxjxvAszE4LVppHwYHHmkbAd+EJjTGdZZxoEM6rB7HhbKu7akhqUsPC6l7XiE3l2ALaP9d7rVJDGYDdVBgxrR0e0TZqNg+knAjb7wutF3LZrtURHbOPHInWOdVok4Eg7gpBs65g53Kg51//RsugwvGIv6H2RRDwhZHvCHiQfVo3orgzfrh3WvM4TTZdOA2Ekwpe5dLfqUpH65cQpaYP+hRQsYZLwyfk/NoRwM017v0i8DBwp/HhlulGnG7uj4RHA27jfwI9y9iO7N9Bm5Q=;/fxNPNaedUipxZVWCycu0Q=="
 ---

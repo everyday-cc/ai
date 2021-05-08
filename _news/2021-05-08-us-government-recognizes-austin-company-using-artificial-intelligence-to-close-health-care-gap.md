@@ -8,8 +8,8 @@ webUrl: "https://www.kxan.com/news/business/u-s-government-recognizes-austin-com
 ampWebUrl: "https://www.kxan.com/news/business/u-s-government-recognizes-austin-company-using-artificial-intelligence-to-close-health-care-gap/amp/"
 cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/business/u-s-government-recognizes-austin-company-using-artificial-intelligence-to-close-health-care-gap/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.kxan.com/wp-content/uploads/sites/40/2021/05/Health-care-worker.jpg?w=1280"
@@ -41,6 +42,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "0PflKpabch8CsWr12S1lAQOiCLKFKW3irwkCqHq6Kl+lsLKYeFesKS7DSCjry/RRMXkChslptg0r4D9FexdK5IBUrdJ0F9aCXVnSMErhZ0G7VGTgLH9Xtt3zJPg7U8743yuezS9ekejnJTiPIQNBaG5BSdARJBiQnzHkN8QE5i5prpv3eZiS6Ubg6uSGktj5w7SWdEpVbCpPp8EaGa2iwd3SgkrzClqo7Vc9i9j82OzK/TRJN715uIgKuID7x9wrKFrb65LYG22OjoativeI54bNopPhmF0NDjjhbVjm5+MCJVqIMYz6utwctAS3ghXcO3gjp0nqRXqZKq4c9F7sSM2DOZbLbjKP6xfIAx+CDJ0=;YJCThnB1lj+AiB9HbQVUAw=="
+secured: "SOmnLiZspuIRAjAbaRTsta3i7+Zags+2W5VWBdCqz2RRkdveyRPfjnrvGGg5T21ZbZwnFHHN0dR8EmZn2CxyuipU6VM7brqlvyR+IhoezkAfkGSdQj8kJYEY9r/cuxPKBECrB07Lqdyipunyw5gUQK91aTiJSix6UiYK2nIqilVl0+ODXF3oFFmCszJ5eVsXSfJNvt4Jbde9Txh3o6sE+0B1f9VWHFzkUQqs5lV8Z1j9oLPL79W12BW09M9lAiN75iUuNJ83pQvnWqhZdBa5ph4bv7sbZUlJ88j7JUdyfPn7IRq1Y7AYhTJPioNIuQaQeIwE1S/gbsvewWa9nhKHB6/AAkzN5y8uU3OEiFtw/sXgjV60DtMVclBvknoNioIkNz/G3vVV1HWAmqLOxybrwkwYdD6qOyqt+7Kh2IHqQfqDzUOaqbteAEqlSfH6Z5lb19XVvIDXkPT0MhNvJuzCcnwJTRcr3I2OSTukD0F1dPNnv80yvMq4MqFB995mlH5TRlIVjK+BaFCwmNqdRhnZ/Q==;lV4ol6Az0BfNxWetfgui6g=="
 ---
 

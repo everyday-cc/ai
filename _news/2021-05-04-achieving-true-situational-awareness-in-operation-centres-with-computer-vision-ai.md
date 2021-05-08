@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Software AG’s TrendMiner 2021.R2 Release Puts Machine Learning and AI in the Hands of Operational Experts"
-    excerpt: "Democratization of Machine Learning Makes Operational Experts More Flexible To Improve and Predict Process and Asset Performance; New TrendMiner Multi-Variate Anomaly Detection Mo"
-    publishedDateTime: 2021-05-06T22:06:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/software-ag-science-business-technology-software-d75404601076298855513a810c67d6b6"
+    excerpt: "Democratization of Machine Learning Makes Operational Experts More Flexible To Improve and Predict Process and Asset Performance New TrendMiner Multi-Variate Anomaly Detection Model Automatically Detects Deviations From Desired Operational Behavior Self-Service Integration With webMethods."
+    publishedDateTime: 2021-05-06T22:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/software-ags-trendminer-2021-r2-release-puts-machine-learning-and-ai-in-the-hands-of-operational-experts"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.accesswire.com/users/newswire/images/645569/trendminer-trendhub-TM-logo.jpg"
+        width: 2500
+        height: 1563
         isCached: true
   - title: "SDAIA Signs Memorandum of Cooperation with IQVIA to Support Artificial Intelligence Solutions in Health Field"
     excerpt: "The Saudi Data and Artificial Intelligence Authority (SDAIA), represented by its innovative arm the National Center for Artificial Intelligence, and IQVIA signed a memorandum of joint cooperation in the field of the health sector to explore opportunities of mutual interest and support innovation in the field of health data in the Kingdom of Saudi Arabia."
