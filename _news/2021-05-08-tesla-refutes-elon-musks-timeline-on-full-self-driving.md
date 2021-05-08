@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Tesla’s self-driving tech may still have some ground to cover"
-excerpt: "A memo from California’s DMV reveals that self-driving Tesla cars aren’t likely to reach Level 5 autonomy by the end of the year."
-publishedDateTime: 2021-05-07T09:20:00Z
-originalUrl: "https://www.siliconrepublic.com/machines/tesla-dmv-memo-self-driving"
-webUrl: "https://www.siliconrepublic.com/machines/tesla-dmv-memo-self-driving"
+title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’"
+excerpt: "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker."
+publishedDateTime: 2021-05-07T22:33:00Z
+originalUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/"
+webUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/"
+ampWebUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: SiliconRepublic
-  domain: siliconrepublic.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/05/AdobeStock_343869056_Editorial_Use_Only.jpeg"
-    width: 800
-    height: 600
+  - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1130604490.jpg?w=1024"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -56,22 +62,6 @@ related:
       - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-371394.jpeg?width=600&crop=16:9"
         width: 600
         height: 338
-        isCached: true
-  - title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’"
-    excerpt: "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker."
-    publishedDateTime: 2021-05-07T22:33:00Z
-    webUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/"
-    ampWebUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1130604490.jpg?w=1024"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Opinion: Feds Should Reel in Tesla, Self-Driving Car Industry"
     excerpt: "In April, an allegedly self-driving Tesla burst into flames after crashing into a tree in Texas. Two passengers died in the wreckage. Federal authorities should consider regulating the autonomous vehicle industry now."
@@ -181,6 +171,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Tesla’s self-driving tech may still have some ground to cover"
+    excerpt: "A memo from California’s DMV reveals that self-driving Tesla cars aren’t likely to reach Level 5 autonomy by the end of the year."
+    publishedDateTime: 2021-05-07T09:20:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/tesla-dmv-memo-self-driving"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/05/AdobeStock_343869056_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "2 Top Self-Driving Car Stocks to Buy in 2021"
     excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."
     publishedDateTime: 2021-05-05T11:00:00Z
@@ -207,6 +211,6 @@ related:
         height: 382
         isCached: true
 
-secured: "7JAp8icq6LZJxITGTqcrna/FyH/Gp55t5JgpLXqkWzPC9LW6Ce46gZbN8M9HsQ4zJSO2xAhMNirpGW4hXU7dl/4I1JPml/xpjToHAfurghYOEegcosi0HqU3oM8ZBkZL0Wya1mslBKU65cXBVOhRBBN9+HTEKJmCoxbRhypQAYaz49zDfiWNMBWAUOPF7qUNDcpOFLU1ErEPtnIovVqdO3ndipkSROvM2OqAHMd2stvfaFEXLLNyzadDpAE5h3oulfvvoqYxGnvgGMhiiam1i1gIEbMA1/iUqLjzqLcqqMDFDzb/X3023pNt9FC0CCCvlT0H9EN6iZZ/bs6VJVI8TCqOLtsTub+vzzIF2XrspCc=;8AL+rB/tpKQB8miASJ2nQQ=="
+secured: "Tji7ce/7iKFcSSlfKFAgj21LERZ++tjNDN2sTmqV4h8Erh/fgIFzeEvUH50AcC9ww2PGSWfxAhvG0d8j3zYWJAC6beHZ2wGXezKgExWLx+lB5rY0ky4/Wl7UgDCkALYemuB9A9V2hU31zFpQTyDSWfWARukTkuomYjJuyqHc42PbSNO+/waQorFdWDChKhc3drGS92/2IgW/PSPlvxCKt5IzgpK81lwGSQdcrDJ6DFVACqje5QGbRXRTsjFBOW7G+1YjYBLf++Kwozpa4irKfQmo8x89m2Cjt5PNKgxpNcX73Yv+4gReX7ahB61sDtHtzHXocI6hIc4hdtO4KyVgDd46O2Z9QISdh8l+cGklNgw=;KeAZueZYi6F6CGztYtJDMg=="
 ---
 

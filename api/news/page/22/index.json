@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-04-17-autonomous-truck-developer-tusimple-plans-driverless-road-test-this-year.md",
+      "title": "Autonomous-Truck Developer TuSimple Plans Driverless Road Test This Year",
+      "excerpt": "based Werner Enterprises Inc. and Green Bay, Wis.-based Schneider National Inc. Mr. Lu said the driverless pilot program would move customer freight, and that the company was working closely with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/autonomous-truck-developer-tusimple-plans-driverless-road-test-this-year-11618528979",
+      "originalUrl": "https://www.wsj.com/articles/autonomous-truck-developer-tusimple-plans-driverless-road-test-this-year-11618528979",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-325863/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/autonomous-truck-developer-tusimple-plans-driverless-road-test-this-year-11618528979",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/autonomous-truck-developer-tusimple-plans-driverless-road-test-this-year-11618528979",
+      "publishedDateTime": "2021-04-16T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-relay-therapeutics-acquires-ai-startup-for-85m.md",
       "title": "Relay Therapeutics acquires AI startup for $85M",
       "excerpt": "Relay Therapeutics, the Cambridge precision medicine company that raced onto the stock market last summer with one of the largest IPOs in the biotech industry, is looking to build out its data science capabilities.",
@@ -1083,40 +1135,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-synctera-signs-on-checkalt-and-socure-as-latest-partners-to-continue-building-out-fintech-as-a-service-offerings.md",
-      "title": "Synctera Signs on CheckAlt and Socure as Latest Partners to Continue Building out FinTech-as-a-Service Offerings",
-      "excerpt": "Synctera, a new solution for partnership banking at scale, today announced partnership agreements with CheckAlt, the largest independent lockbox and e",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210415005802/en/Synctera-Signs-on-CheckAlt-and-Socure-as-Latest-Partners-to-Continue-Building-out-FinTech-as-a-Service-Offerings",
-      "originalUrl": "https://www.businesswire.com/news/home/20210415005802/en/Synctera-Signs-on-CheckAlt-and-Socure-as-Latest-Partners-to-Continue-Building-out-FinTech-as-a-Service-Offerings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

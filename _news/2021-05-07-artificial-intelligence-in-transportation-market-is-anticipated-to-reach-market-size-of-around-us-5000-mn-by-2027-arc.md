@@ -36,7 +36,7 @@ related:
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 18
+    quality: 20
     images:
       - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Machine-Learning-in-Medical-Imaging-Market-780x470.jpg"
         width: 780

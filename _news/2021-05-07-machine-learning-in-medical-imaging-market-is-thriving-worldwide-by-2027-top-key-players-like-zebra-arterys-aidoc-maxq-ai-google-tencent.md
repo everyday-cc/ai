@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-07T13:45:00Z
 originalUrl: "https://ksusentinel.com/2021/05/07/machine-learning-in-medical-imaging-market-is-thriving-worldwide-by-2027-top-key-players-like-zebra-arterys-aidoc-maxq-ai-google-tencent/"
 webUrl: "https://ksusentinel.com/2021/05/07/machine-learning-in-medical-imaging-market-is-thriving-worldwide-by-2027-top-key-players-like-zebra-arterys-aidoc-maxq-ai-google-tencent/"
 type: article
-quality: 18
+quality: 20
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Machine-Learning-in-Medical-Imaging-Market-780x470.jpg"
@@ -40,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ejDDd05tmNl3jL67njjH0UIGg9GwGlOWF8f4CclyPgDiVgjJdGrSwUo2jq+fE/PRvjtQ+uPyZCPIEPHe6axkbwFazw/yc2uwVStaV+IUHRhfBzwoPT6xvelrgtQ9QFA189S2jDmBAf2jC/1r/clPAIER2pgH2oAnwU8G5j4FucdMTtIPMVFJ2vkHNBsu3j68hyI8Mny6kqv1XFDXJmTh1yZx3qeO2vJcUANI+9rr7g+IcKNQC9GyMQhLAhS6J5f3r88oIUuHnbZKsyMWkoZFD4T6XPZDvWqe0s6cKc7/46HV8WyXXmwBHDnRimS/qymGxNHTgKr5dtvlihW+Wmhllkm785ohtg+niCnMjW/O1Zg=;+czQ8XqzFY5TkfBkzuiecQ=="
+secured: "ed1gBsrcsiVkCD+O79QSROQmZXCD3ckuKaW++W0GB26C/Z4txQN26RaGJyuNHAM3WQnUuDxAXM1oIzA5K7gq2z2DbqAUo5AsUO1z6kkt0h4vaK/kg6LAjDxwv8oPnp2SQQGQtGOMcVOQy2EySi4Fgy/VWJAW60HGAMJDhOWPmlYXCL9o08UvJFjjwOOAk63EGNSb1oBtj9d5Q51Cp6P481woDulfunqm+vxObEK6hhdvaJUHo4einmKroNXP7bqHoQceupOUcv1Z6T4IXp4iqQlyaBFIA1cwFeMHtYkgpCZQFPg/EuMXGwCWVlwkOpXnZuQgjFDLW1c4GE5YNbFUtbhOikZoSTc4C83P+DdmyTuzcZFI/OxrCBkRxQqvLWLLX7w+ZqbDGJbAOcJ0L2VZIlgWneXfHDRL1wbU+9II9eOKO0rPc8pTzehSvXYinDVWG4AIBVJQP67q/z075Y9kl7e+itMqrluVOjHnA+mKNOYP/ABwjo2C4xAL2od4xtGBrfDLttWi8hnFwferW6iUpA==;tUB2tbQlawqNuzErVG8baA=="
 ---
 

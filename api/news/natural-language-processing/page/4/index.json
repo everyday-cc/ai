@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-19-ai-the-need-for-transparency-in-the-cybersecurity-industry.md",
+      "title": "AI: The need for transparency in the cybersecurity industry",
+      "excerpt": "Over the last decade, AI, once a far-fetched theme of old-school science ... When organizations publicize and share information, there are major social benefits. Language modeling and machine translation are two good examples of applications we’ve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/ai-the-need-for-transparency-in-the-cybersecurity-industry/",
+      "originalUrl": "https://www.itproportal.com/features/ai-the-need-for-transparency-in-the-cybersecurity-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/ai-the-need-for-transparency-in-the-cybersecurity-industry/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-the-need-for-transparency-in-the-cybersecurity-industry/",
+      "publishedDateTime": "2021-03-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-skidmore-college-blocks-recognition-of-progressive-zionists-club.md",
       "title": "Skidmore College Blocks Recognition of Progressive Zionists Club",
       "excerpt": "Skidmore College denied recognition of a progressive Zionists club on March 13. The Algemeiner reported that the club, Progressive Zionists for Peace (PZP), was told by Skidmore’s Club Affairs Committee that their application for a trial period was not accepted due to concerns “that a dialogue focused club with one perspective being conveyed could be troublesome” and that the club needs to “try to either gain more diverse perspectives before becoming a club focused on dialogue or reframe the mission to be more advocate focused with a specific stance.",
@@ -1173,40 +1207,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-ai-in-the-arms-race-china-expected-to-surpass-us-military-capabilities-in-the-coming-decade.md",
-      "title": "AI in the Arms Race: China Expected to Surpass US Military Capabilities in the Coming Decade",
-      "excerpt": "The Chinese government’s growing demand for Artificial Intelligence (AI) has triggered a swell in tech companies moving to corner the market. Its surveillance – or more bluntly, spying – capabilities are not only on track to surpass American technology in the next five to ten years,",
-      "sourceUrl": null,
-      "webUrl": "https://cnsnews.com/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities",
-      "originalUrl": "https://cnsnews.com/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNSNews.com",
-        "domain": "cnsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

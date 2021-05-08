@@ -2,6 +2,58 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-03-13-the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box.md",
+      "title": "The Chronicles of AI Ethics: The Man, The Machine, And The Black Box",
+      "excerpt": "Today, machine learning and artificial intelligence systems, trained by data, have become so effective that many of the largest and most well-respected companies in the world use them almost exclusively to make mission-critical business decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604bd86443a3827a0c59de0c%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/amp/",
+      "publishedDateTime": "2021-03-12T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content.md",
       "title": "Facebook AI boss Yann LeCun goes off in Twitter rant, blames talk radio for hate content",
       "excerpt": "Yann LeCun, Facebook’s world-renowned AI guru, had some problems with an article written about his company yesterday. So he did what any of us would do, he went on social media to air his grievances.",
@@ -1045,50 +1097,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-machine-learning-based-real-time-threat-detection-for-banks.md",
-      "title": "Machine Learning-Based Real-Time Threat Detection for Banks",
-      "excerpt": "The business impact of the COVID-19 pandemic continues to unfold worldwide for the financial services industry. The “new normal” has not only given rise",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/03/11/machine-learning-based-real-time-threat-detection-for-banks/",
-      "originalUrl": "https://www.datanami.com/2021/03/11/machine-learning-based-real-time-threat-detection-for-banks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/ML_robot_shutterstock_sdecoret.jpg",
-          "width": 600,
-          "height": 322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

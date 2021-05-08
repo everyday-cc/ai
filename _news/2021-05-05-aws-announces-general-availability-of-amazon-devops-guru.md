@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-techn
 webUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-technology-business-842669af98364c64b33d2b4511563a91"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Associated Press
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces General Availability of Amazon Nimble Studio"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Nimble Studio, a new service that enables customer"
-    publishedDateTime: 2021-05-03T05:58:00Z
-    webUrl: "https://www.businesswireindia.com/aws-announces-general-availability-of-amazon-nimble-studio-72783.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 34
   - title: "AWS Announces General Availability of Amazon FinSpace"
     excerpt: "New purpose-built analytics service reduces the time it takes FSI organizations to find, prepare, and analyze data from months to minutes"
     publishedDateTime: 2021-05-03T23:11:00Z

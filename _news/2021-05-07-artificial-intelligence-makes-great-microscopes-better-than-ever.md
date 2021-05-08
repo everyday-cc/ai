@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence makes great microscopes better than ever"
-excerpt: "Machine learning helps some of the best microscopes to see better, work faster, and process more data A representation of a neural network provides"
-publishedDateTime: 2021-05-07T14:03:00Z
-originalUrl: "https://www.miragenews.com/artificial-intelligence-makes-great-microscopes-556478/"
-webUrl: "https://www.miragenews.com/artificial-intelligence-makes-great-microscopes-556478/"
+excerpt: "To observe the swift neuronal signals in a fish brain, scientists have started to use a technique called light-field microscopy, which makes it possible to image such fast biological processes in 3D."
+publishedDateTime: 2021-05-07T15:00:00Z
+originalUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.html"
+webUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.html"
+ampWebUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.embl.org/news/wp-content/uploads/2021/04/Fischherz-FINAL1000x600.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc.jpg"
     width: 1000
     height: 600
     isCached: true
@@ -58,6 +59,6 @@ related:
         height: 466
         isCached: true
 
-secured: "2Q4gede1H+zLJDcK6rv06bzuXpTbSYRZqv5ubkmi9sRW0UhSFxQ39w4dhqlmorvnkV+cqyTy/rgbMIXukbnXvZu9PVqKlnVjcP8Dj3voxSSrj5YO4lZ+Nkf3i51h+qRreHDxeU53hgirc03z9yHwSzwy0iNoNUHG6CKbnMt0Rclf0iJYvnV49XGuIEnGUKtmRmzRqHIngCsDnlePTNKo2rxqDbfow0QnJr31lUt9wKV4FjdH4O4U5bks3RYC8vzwelw83xzPso++fmX7+20QtXthAxSp6Fc2e071TxFG3lMrsz7px7MAvXq7TE47gRSzodi1p/1bX1BRg+RGdCZ4g7Lg0PKZiBF4Caicw0zuAlA=;qQKWrLf3fKCYCl+GwHAX/Q=="
+secured: "FkSFsCcuPn4MKhgHeXR0yUqWA12Z4A/yBvel/RHAmvvLg8FZNF59RmMB7b57DMTJXae2GKlnmFMv6HXLigtrQOx1zLrdNzv6HaDhXVRimj2dQAwm6FfSyrESPWkHuGpYsVfZ8JysCB9c1RHXP5h3LYeSHS4rNDYC0B4fqap6zdNUNM966Ehi1POyy2TWJVCF9hPn/K7Bkze4Hc2Cbgh8UGvT78klMfdWSlMBw+A9Uofp9q2aJMpVhu+GDGL3ihYzBfpG8hboKyEFrdgMN8AQq0C+7XEC1YdVeJLIczAoDYlAF0L/YMj9HX1DSB00uez7bMh7D7XhztKMWmPLJmuhIM7XUgUiC2xf898ibQkgjgw=;MsZLxxGjUA9l4A8LiTcGUg=="
 ---
 

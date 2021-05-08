@@ -2,6 +2,57 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-03-25-artificial-intelligence-savant-and-wwii-hero-alan-turing-honored-on-uks-new-50-pound-note.md",
+      "title": "Artificial intelligence savant and WWII hero Alan Turing honored on UK's new 50-pound note",
+      "excerpt": "The rainbow flag is flying proudly Thursday above the Bank of England in the heart of London’s financial district to commemorate World War II codebreaker Alan Turing, the new face of Britain’s 50-pound note.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/alan-turing-honored-uk-50-pound-note-artificial-intelligence-wwii",
+      "originalUrl": "https://www.foxnews.com/world/alan-turing-honored-uk-50-pound-note-artificial-intelligence-wwii",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Chief_Cashier_Bank_Of_England_AP_1280x720.jpeg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/alan-turing-honored-uk-50-pound-note-artificial-intelligence-wwii.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/alan-turing-honored-uk-50-pound-note-artificial-intelligence-wwii.amp",
+      "publishedDateTime": "2021-03-25T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service.md",
       "title": "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service",
       "excerpt": "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of Microsoft, announced it will provide AiDANT,",
@@ -1031,57 +1082,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-food-supply-traceability-startup-ifoodds-nabs-15m.md",
-      "title": "Food supply traceability startup iFoodDS nabs $15M",
-      "excerpt": "FoodDS, a company offering food supply chain traceability software, has raised $15 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/24/food-supply-traceability-startup-ifoodds-nabs-15m/",
-      "originalUrl": "https://venturebeat.com/2021/03/24/food-supply-traceability-startup-ifoodds-nabs-15m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages_1075752640_smart_tomato.5eb416f20ad7e.jpg?w=800&resize=800%2C534&strip=all",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/24/food-supply-traceability-startup-ifoodds-nabs-15m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/24/food-supply-traceability-startup-ifoodds-nabs-15m/amp/",
-      "publishedDateTime": "2021-03-24T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

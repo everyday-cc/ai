@@ -218,7 +218,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -321,7 +321,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -363,49 +363,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-aws-announces-general-availability-of-amazon-devops-guru.md",
-      "title": "AWS Announces General Availability of Amazon DevOps Guru",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon DevOps Guru, a fully managed operations service that uses machine learning to make it easier for developers to improve application availability by automatically detecting operational issues and recommending specific actions for remediation.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/amazoncom-inc-technology-business-842669af98364c64b33d2b4511563a91",
-      "originalUrl": "https://apnews.com/press-release/business-wire/amazoncom-inc-technology-business-842669af98364c64b33d2b4511563a91",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -871,6 +828,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-new-ai-tool-offers-subtitling-and-dubbing-alternative.md",
+      "title": "New AI Tool Offers Subtitling and Dubbing Alternative",
+      "excerpt": "The system, from the U.K.’s Flawless, is designed to create lip-synced versions of movies and other content in multiple languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/#!",
+      "originalUrl": "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2021/05/MSDFEGO_EC005-1620027677.jpeg?w=1024",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/amp/",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/amp/",
+      "publishedDateTime": "2021-05-04T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },

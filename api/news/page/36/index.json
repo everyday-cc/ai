@@ -2,6 +2,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-04-01-ping-an-askbob-doctors-smart-imaging-model-for-diagnosis-of-pelvic-and-hip-injuries-is-a-breakthrough-for-artificial-intelligence.md",
+      "title": "Ping An AskBob Doctor's Smart Imaging Model for Diagnosis of Pelvic and Hip Injuries is a Breakthrough for Artificial Intelligence",
+      "excerpt": "In a research paper published in the international journal Nature Communications, the model is shown to overcome the limitation of other artificial intelligence (AI ... to continue offering our pelvic floor therapy across northern California.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19728461.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19728461.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-cincoze-gp-3000-is-a-new-high-performance-industrial-gpu-computer.md",
       "title": "Cincoze GP-3000 is a new high-performance industrial GPU computer",
       "excerpt": "Cincoze has introduced a new GPU computer in the form of the Cincoze GP-3000 for AI and machine vision applications, combining high-end computing performance, rich high-speed I/O, and harsh environment resilience to enable edge computing in the AIoT framework.",
@@ -1087,50 +1130,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-new-armv9-takes-on-security-and-ai.md",
-      "title": "New Armv9 takes on security and AI",
-      "excerpt": "Arm has launched its first new architecture in a decade, Armv9, which address security through a new confidential compute architecture (CCA) and the",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/new-armv9-takes-on-security-and-ai/",
-      "originalUrl": "https://www.embedded.com/new-armv9-takes-on-security-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2021/03/Armv9-features.jpg",
-          "width": 974,
-          "height": 649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

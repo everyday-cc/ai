@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How This Voice AI Startup Is Creating Human-Like Conversations"
-    excerpt: "For this week’s startup feature, Analytics India Magazine spoke to Abhimanyu, co-founder of Agara.ai, to understand how the company is providing real-time voice AI to automate the entire customer support function in enterprises."
-    publishedDateTime: 2021-05-03T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-voice-ai-startup-is-creating-human-like-conversations/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Abhimanyu-1.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "AI and Machine Learning Operationalization Software Market by Technology Innovations and Growth 2021"
     excerpt: "Top Leading Companies of Global AI & Machine Learning Operationalization Software Market are Algorithmia, Spell, Valohai Ltd, 5Analytics, Cognitivescale, Datatron Technologies, Acusense Technologies,"
     publishedDateTime: 2021-05-05T15:34:00Z

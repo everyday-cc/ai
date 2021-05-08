@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2021/05/07/germany-artificial-i
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/05/07/germany-artificial-intelligence-3D-microscopy/7341620393977/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: UPI.com
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence makes great microscopes better than ever"
+    excerpt: "To observe the swift neuronal signals in a fish brain, scientists have started to use a technique called light-field microscopy, which makes it possible to image such fast biological processes in 3D."
+    publishedDateTime: 2021-05-07T15:00:00Z
+    webUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.html"
+    ampWebUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Best of Both Worlds: Artificial Intelligence Makes Great Microscopes Better Than Ever"
     excerpt: "Machine learning helps some of the best microscopes to see better, work faster, and process more data. To observe the swift neuronal signals in a fish brain, scientists have started to use a technique called light-field microscopy,"
     publishedDateTime: 2021-05-07T15:00:00Z
@@ -41,20 +57,6 @@ related:
       - url: "https://scitechdaily.com/images/Fish-Heart-777x466.jpg"
         width: 777
         height: 466
-        isCached: true
-  - title: "Artificial intelligence makes great microscopes better than ever"
-    excerpt: "Machine learning helps some of the best microscopes to see better, work faster, and process more data A representation of a neural network provides"
-    publishedDateTime: 2021-05-07T14:03:00Z
-    webUrl: "https://www.miragenews.com/artificial-intelligence-makes-great-microscopes-556478/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://www.embl.org/news/wp-content/uploads/2021/04/Fischherz-FINAL1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "hPIuNU94N/goBMZbsOS0duCJTx0AzmcNpH+yGJJwScdLFcdX65WK9xAvFeFNwE0mCjMaY8WCQp3NL+7S3dY3dEMxU//xGJD2Nd1iABfcAXZkr2uSp5PVA9DpCarlGCoTMej8PLO4TJaT9p9J3NlAkhK+WR8rcN25OyEQim3O7rz6cgYk+kptXiWsG4U/P9wBoMFghxi4h4ZgtUu/+UOdrv78mygAEdcbG5tEFE/i7Pl7SEInClyIUWFFv5CKiWJVekShwMmHdsoTuZ1LDj09HwzfU75Mnt0bkFpSKqcuLDd/wDx8xGy5W5W4BKwPfIIZuwaSY5xdFFfWhCrWIzZUZwiPGYRlLfgpywxffCmLGqy+O+RIIVFvstYjpapYgLETH7yci3elgZpVj+WQeSSc1N4ayS3I+WN/gsvna7eJrmMiqfA2oEhWyjUYqH8XOg0SFR/lngmIa3Q5gupnhdNnkRbl6MM9o8yKZFcXvTKz9Z2a5j7FEnrZWdePIROsDm5/Gc7eszK7AIhg3xf2ZAgzyw==;LsRgfhrj2OCm3itQlRFsaQ=="

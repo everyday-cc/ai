@@ -46,20 +46,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "How is Artificial Intelligence Challenging the Translation Industry?"
-    excerpt: "Language is perhaps the most defining factor of humankind. What makes humans different from other animals on the planet is our ability to speak out and communicate via framed words and sentences. The language of a population is one of the most defining factors across countries and nationalities,"
-    publishedDateTime: 2021-05-03T06:21:00Z
-    webUrl: "https://www.fenews.co.uk/fevoices/67775-how-is-artificial-intelligence-challenging-the-translation-industry"
-    type: article
-    provider:
-      name: fenews.co.uk
-      domain: fenews.co.uk
-    quality: 39
-    images:
-      - url: "https://www.fenews.co.uk/images/user_images/ElizabethBaldridge/pexels-markus-winkler-4604607.jpg"
-        width: 3999
-        height: 2666
-        isCached: true
   - title: "Summary of the Artificial Intelligence in Transportation Market Report"
     excerpt: "The Artificial Intelligence in Transportation Market is expected to grow at a CAGR of 6.6% and is poised to reach US$XX Billion by 2027 as compared to US$XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report our experts have examined the market from a 360 degree perspective thereby producing a report which is definitely going to impact your business decisions."
     publishedDateTime: 2021-05-04T11:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/89571-machine-learning-text-advent
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html"
 type: article
 quality: 81
-heat: 92
+heat: 91
 published: true
 
 provider:

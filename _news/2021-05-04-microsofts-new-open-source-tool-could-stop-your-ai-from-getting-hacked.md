@@ -57,22 +57,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Microsoft buys speech recognition, conversational AI tech firm"
-    excerpt: "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion."
-    publishedDateTime: 2021-05-03T06:47:00Z
-    webUrl: "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 93
-    images:
-      - url: "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
   - title: "A Quick Introduction to Microsoft Azure Purview"
     excerpt: "One of the newest solutions aiming to ease these orchestration woes is Microsoft Azure Purview, a cloud platform-as-a-service (PaaS) that provides a unified view of data sources across an organization."
     publishedDateTime: 2021-05-05T16:45:00Z

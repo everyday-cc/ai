@@ -57,6 +57,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’"
+    excerpt: "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker."
+    publishedDateTime: 2021-05-07T22:33:00Z
+    webUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/"
+    ampWebUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1130604490.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Opinion: Feds Should Reel in Tesla, Self-Driving Car Industry"
     excerpt: "In April, an allegedly self-driving Tesla burst into flames after crashing into a tree in Texas. Two passengers died in the wreckage. Federal authorities should consider regulating the autonomous vehicle industry now."
     publishedDateTime: 2021-05-05T21:26:00Z

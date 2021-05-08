@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-03-03-pga-tour-signs-up-with-aws-looks-to-ai-as-engagement-driver.md",
-      "title": "PGA Tour signs up with AWS, looks to AI as engagement driver",
-      "excerpt": "This is the first instance CloudTech has seen of such nomenclature, and conveys an especially deep interest in products such as Amazon Rekognition. Like many other sporting clients, the PGA Tour will look to migrate its archives and annotate it – in this ...",
-      "sourceUrl": null,
-      "webUrl": "https://cloudcomputing-news.net/news/2021/mar/02/pga-tour-signs-up-with-aws-looks-to-ai-as-engagement-driver/",
-      "originalUrl": "https://cloudcomputing-news.net/news/2021/mar/02/pga-tour-signs-up-with-aws-looks-to-ai-as-engagement-driver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/03/steven-shircliff-N21z4eG8aKg-unsplash.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T04:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Computing",
-        "domain": "cloudcomputing-news.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-pga-tour-selects-aws-as-its-official-cloud-provider.md",
       "title": "PGA TOUR Selects AWS as Its Official Cloud Provider",
       "excerpt": "The TOUR will then use Amazon Rekognition (AWS’s deep learning service that makes it easy to add image and video analysis to applications) to automatically tag content with specific metadata ...",

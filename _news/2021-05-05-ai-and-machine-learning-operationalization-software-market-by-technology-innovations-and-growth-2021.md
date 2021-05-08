@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How This Voice AI Startup Is Creating Human-Like Conversations"
-    excerpt: "For this week’s startup feature, Analytics India Magazine spoke to Abhimanyu, co-founder of Agara.ai, to understand how the company is providing real-time voice AI to automate the entire customer support function in enterprises."
-    publishedDateTime: 2021-05-03T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-voice-ai-startup-is-creating-human-like-conversations/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Abhimanyu-1.png"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "+ctNal0jOOMsjzqQkxbDyms0NcJHu8b/VCeLLK3QDPi/Z3uo3I0os9Iaiz56YXKRJWhxcWXSWcafWI6m0a0DtEP+JNg7/208OC5BThJKY82NiP/WR6FvSzpXPfXWLXwUViZCRHXfk30XmqK4NNVixmQQs1BnfjbrBb5oVkOejcjTaiw1zosa2/60Ck70ZOR5XLcBQqhsJ//WwSHtqsriQ/+NtRNtvE2BwuF33fSRpmJAkE2FNVpxBvqwjnOPsvUiryjDx464CXuJk4jeLSKuytob7/YW8amzqf6yB1fwTSFtLYrI8y10O5ph1z2vu/fFRs42h+tVBQ30fqddx2qL8nBJuPoW3BU2K38GGDmtr8E=;lDCTjStL7i9lNYgpGHbhrQ=="
 ---

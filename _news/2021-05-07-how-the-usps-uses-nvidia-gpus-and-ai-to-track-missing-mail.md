@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-comp
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/?amp"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

@@ -2,6 +2,40 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-04-13-artificial-intelligence-in-transportation-market-to-see-explosive-growth-by-2026-magna-continental-alphabet.md",
+      "title": "Artificial Intelligence in Transportation Market to See Explosive Growth by 2026 | Magna, Continental, Alphabet",
+      "excerpt": "Latest added Global Artificial Intelligence in Transportation Market research study by AMA Research offers detailed outlook and elaborates market review till 2026. The market Study is segmented by key regions that are accelerating the marketization.",
+      "sourceUrl": null,
+      "webUrl": "https://industribune.net/news/48789/artificial-intelligence-in-transportation-market-to-see-explosive-growth-by-2026-magna-continental-alphabet/",
+      "originalUrl": "https://industribune.net/news/48789/artificial-intelligence-in-transportation-market-to-see-explosive-growth-by-2026-magna-continental-alphabet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indus Tribune",
+        "domain": "industribune.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-microsoft-buying-speech-recognition-firm-in-16b-deal.md",
       "title": "Microsoft buying speech recognition firm in $16B deal",
       "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health care industry through Nuance’s widely used medical dictation and transcription tools.",
@@ -1028,49 +1062,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-coinbase-expected-to-become-worth-more-than-bp.md",
-      "title": "Coinbase expected to become worth more than BP",
-      "excerpt": "Cambridge Quantum Computing, a company that makes software for quantum computers, announced that it has hired DeepMind’s former Senior Staff Research Scientist, Professor Stephen Clark ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/",
-      "originalUrl": "https://www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2021/03/24/TELEMMGLPICT000254079929_trans_NvBQzQNjv4BqOTom2IDArMR5JububTrAx-tnFTrpsYaAoL1DebmRBSo.jpeg",
-          "width": 2501,
-          "height": 1563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/12/alibaba-shares-soar-record-28bn-antitrust-fine-live-updates/amp/",
-      "publishedDateTime": "2021-04-12T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

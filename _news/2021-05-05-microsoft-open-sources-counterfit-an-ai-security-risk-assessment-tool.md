@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/amp/"
 type: article
 quality: 121
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1573748220/itpro/Microsoft_DW.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "Microsoft buys speech recognition, conversational AI tech firm"
-    excerpt: "The company will acquire Nuance Communications, an artificial intelligence and speech technology company, for $19.7 billion."
-    publishedDateTime: 2021-05-03T06:47:00Z
-    webUrl: "https://www.itweb.co.za/content/KzQenvjVkwVvZd2r"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjVkwVvZd2r"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 93
-    images:
-      - url: "https://lh3.googleusercontent.com/kIoPPgyY6wcVdckgwTKDSktLureMrWgVkFhIssWg1fOCCZMIIm9IGBlHml7xWdnHs4lxdQkscAGD0SVgEh08Fq4=w816-h428"
-        width: 761
-        height: 428
         isCached: true
   - title: "Microsoft's new open-source tool could stop your AI from getting hacked"
     excerpt: "Microsoft releases a tool to help organizations shore up AI systems against adversarial machine-learning attacks."
