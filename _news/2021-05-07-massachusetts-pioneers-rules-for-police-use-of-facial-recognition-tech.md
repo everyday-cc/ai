@@ -2,24 +2,24 @@
 category: news
 title: "Massachusetts Pioneers Rules For Police Use Of Facial Recognition Tech"
 excerpt: "Massachusetts is implementing its first state-wide rules for police using controversial facial recognition systems. But not all privacy advocates agree that regulation is the right step."
-publishedDateTime: 2021-05-07T10:25:00Z
-originalUrl: "https://www.wbur.org/npr/982709480/massachusetts-pioneers-rules-for-police-use-of-facial-recognition-tech"
-webUrl: "https://www.wbur.org/npr/982709480/massachusetts-pioneers-rules-for-police-use-of-facial-recognition-tech"
+publishedDateTime: 2021-05-07T16:31:00Z
+originalUrl: "https://www.capradio.org/news/npr/story?storyid=982709480"
+webUrl: "https://www.capradio.org/news/npr/story?storyid=982709480"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WBUR
-  domain: wbur.org
+  name: Capital Public Radio
+  domain: capradio.org
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "http://media.npr.org/assets/img/2021/04/29/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg?s=6"
+  - url: "https://media.npr.org/assets/img/2021/04/29/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg?s=6"
     width: 948
     height: 710
     isCached: true
@@ -181,6 +181,6 @@ related:
         height: 600
         isCached: true
 
-secured: "arki/rnU8oeXJsk1V64tSk2nDnMc9t4sAnfAYo1h2e4aeiHs+6WQ9kXQoVeWBvOMHJNkIq6zUoysrT6V6n9b4MvIespDbmwzaHeWDwD3CDi6KTMdW2oAFYPxMtLtjlho76T5soY2phF/+URB9WIGQj9P26GTBw1KA94SYLf7P7wrpnD7aeM1ze3qZzHbvNJpWz+LcMwdkfS7/7tkfoXZ0uWnyc6FrPjdJD2fDcWue0zHYX1Nu6MXz/bho3/vsXhfRo/xOeLHml9NRD4ruTknDJ1wWwFp3ZIcNJKEIylrPMWJZ5iist0Q2fXYHN7hS2pAsN3wucTZ6cBenrQJsrKWO6NJufqr5UU/0xtT83yz3z4=;H/c4xK/pdkl7vQ9xA2RXVw=="
+secured: "hzspj9piI8xPMbVm+OWDMsFGYTjVzZlP7g1JpzalejxfKIRBaeWWdtRarIa1jhsf47B63QK3IbTcr2IQU/p42zdXQwU5C39QboJk72LW4ro3KewaAwOrJJTUQEWU88C5KMtBFfJ9gyK3q2WTCHWqhr/CzBlpJezUrBXBcyWbUE6UDemXdn/gQjGCV+MWAz88oGPHzw5vbOtWQ1Bzq8KluHtmwO3zGwLDbQvYCU0sXuF/XQ+EivrIFonAvI9jb92oL8nP6Nca3H88W3BoKyy4xZa2iOZEUCG6w8OVEqQ5BWi9A+X/9yCmLmfIsFl0yR1bTGoQgD7Msu1BAYLSvBFMnYiXHi68U41iqdvqVXNxepM=;lMYAGp1+0i++b5LMwfvbPQ=="
 ---
 

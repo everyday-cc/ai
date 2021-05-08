@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Summary of the Artificial Intelligence in Transportation Market Report"
+    excerpt: "The Artificial Intelligence in Transportation Market is expected to grow at a CAGR of 6.6% and is poised to reach US$XX Billion by 2027 as compared to US$XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report our experts have examined the market from a 360 degree perspective thereby producing a report which is definitely going to impact your business decisions."
+    publishedDateTime: 2021-05-04T11:13:00Z
+    webUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-in-transportation-market-to-see-a-massive-growth-during-the-forecast-period-key-players-nvidia-corporation-deep-genomics/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 37
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/Key-Questions-Answered-in-Report-1-1.jpg"
+        width: 573
+        height: 595
+        isCached: true
   - title: "Machine Learning in Medical Imaging Market is thriving worldwide by 2027 | Top Key Players like Zebra, Arterys, Aidoc, MaxQ AI, Google, Tencent"
     excerpt: "Machine Learning in Medical Imaging Market is growing at high CAGR during the forecast period 2021–2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
     publishedDateTime: 2021-05-07T13:45:00Z

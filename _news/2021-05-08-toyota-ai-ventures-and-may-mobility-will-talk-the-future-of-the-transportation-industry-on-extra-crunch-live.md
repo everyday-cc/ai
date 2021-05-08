@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence And The Future Of Humans"
+    excerpt: "AI will make most people better off, but its advances will also affect what it truly means to be human in the 21st century."
+    publishedDateTime: 2021-05-06T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg"
+        width: 1200
+        height: 836
+        isCached: true
   - title: "Toyota AI Ventures and May Mobility will talk the future of the transportation industry on Extra Crunch Live"
     excerpt: "Besides a passion for progress in the mobility space, what do Toyota AI Ventures’ Jim Adler, May Mobility’s Nina Grooms Lee and Edwin Olson have in common? All three of them are joining us on an upcoming episode of Extra Crunch Live."
     publishedDateTime: 2021-05-05T22:10:00Z
@@ -46,19 +60,19 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Summary of the Artificial Intelligence in Transportation Market Report"
-    excerpt: "The Artificial Intelligence in Transportation Market is expected to grow at a CAGR of 6.6% and is poised to reach US$XX Billion by 2027 as compared to US$XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report our experts have examined the market from a 360 degree perspective thereby producing a report which is definitely going to impact your business decisions."
-    publishedDateTime: 2021-05-04T11:13:00Z
-    webUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-in-transportation-market-to-see-a-massive-growth-during-the-forecast-period-key-players-nvidia-corporation-deep-genomics/"
+  - title: "How Artificial Intelligence will Affect the Future of Work and Life?"
+    excerpt: "The influence of artificial intelligence in our daily life is no joke. With internet taking center stage, AI is evolving out routine to have personalization, with more machines and smart home applications."
+    publishedDateTime: 2021-05-05T09:29:00Z
+    webUrl: "https://www.analyticsinsight.net/how-artificial-intelligence-will-affect-the-future-of-work-and-life/"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
+      name: Analytics Insight
+      domain: analyticsinsight.net
     quality: 37
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/Key-Questions-Answered-in-Report-1-1.jpg"
-        width: 573
-        height: 595
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Artificial-Intelligence-3.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "diV7e7i6ErixD2B+g31kADFQN3qnc1obbBjj+BlQpP87K6rriexp1DUav5GXrE9UdFBPaPrpo0xpZ07O+FXkjPqtuykeOs26iL85qfGmervQpSqsqAdMn2wn8ALbwbiAamnxDaJR5Bf75icxW4DX1wDi/ayb5BSzLvrHYGDeiVyDLBBWyJa7PqojtwQNv0dDHOZXStltpalyWWORTOIC1O8zI63Kz+OqJpCesriSHi8TL67gp83+aks2RRNhT5NETpMgAdWnbVQFzmXo+XQz9zeHo5m3TdzvbC5luNdt8Xtpm8bMOgm9FKopu4q2mx6zIAaLZfVj/wnND7CfSfzJBYxEJCw6H8k4qhrIVmPkCmNvhjoGoKp+B7BnGexLho21PUUh9WHqcekh76nxSviqfEK+CC6mpJbmaQHVo5SnTnITueQcLsxsS7glfWGKl+xB4uoKrvXgsDF944+CZIxjvWtOG6+inQl5V75A16OJDvsBShvNp5mro0f/Ad39J74VsL/JXb934eLp+A4t7tYOvQ==;r3zL6+d05kC3tLflnxJsEg=="

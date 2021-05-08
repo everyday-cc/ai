@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Zonar Named Winner in Business Intelligence Group's 2021 Excellence in Customer Service and Artificial Intelligence Excellence Awards"
-    excerpt: "Zonar, the leader in smart fleet technology, today announced it has been named an award winner in the Business Intelligence Group's 2021 Excellence in"
-    publishedDateTime: 2021-05-03T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zonar-named-winner-in-business-intelligence-groups-2021-excellence-in-customer-service-and-artificial-intelligence/article_9f407de3-fdf1-5a8d-b5c6-124fce29d631.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 6
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Kanverse.ai Introduces Next-Generation Cognitive Automation Platform and Launches Intelligent Document Processing Product (IDP)"
     excerpt: "Kanverse.ai, a cognitive automation company, has announced the global launch of the Datolite release of its patent-pending AI-powered Intelligent Docu"
     publishedDateTime: 2021-05-04T17:30:00Z

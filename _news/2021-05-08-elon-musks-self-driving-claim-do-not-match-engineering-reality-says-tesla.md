@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Tesla is making conflicting statements about its full self-driving tech"
-excerpt: "Tesla Inc (NASDAQ:TSLA) told a regulator in California that its full self-driving technology might not be ready by the end of the year. However, that statement directly conflicts with what CEO Elon Musk said on the company’s fourth-quarter earnings call in January."
-publishedDateTime: 2021-05-07T13:36:00Z
-originalUrl: "https://www.entrepreneur.com/article/371394"
-webUrl: "https://www.entrepreneur.com/article/371394"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/371394"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371394"
+title: "Elon Musk's 'self-driving' claim do not match engineering reality, says Tesla"
+excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
+publishedDateTime: 2021-05-08T09:19:00Z
+originalUrl: "https://www.freepressjournal.in/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla"
+webUrl: "https://www.freepressjournal.in/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla"
+ampWebUrl: "https://m.freepressjournal.in/article/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla/a0c44003-d836-4fa6-bb5a-8a853d870443"
+cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla/a0c44003-d836-4fa6-bb5a-8a853d870443"
 type: article
-quality: 89
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Free Press Journal
+  domain: freepressjournal.in
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-371394.jpeg?width=600&crop=16:9"
-    width: 600
-    height: 338
+  - url: "https://gumlet.assettype.com/freepressjournal/2021-04/3c43e37a-d356-4d1d-927b-7c50b23b028c/TESLA_pexels_craig_adderley_2449452.jpg"
+    width: 5472
+    height: 3648
     isCached: true
 
 related:
@@ -46,6 +42,22 @@ related:
       - url: "https://www.cnet.com/a/img/-5LRj4YtyHQ7C5i8Ccr-6OJTotw=/2021/01/27/3847d537-713c-4f4a-8448-d4787dac6172/tesla-model-s-refresh-210-ogi.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tesla is making conflicting statements about its full self-driving tech"
+    excerpt: "Tesla Inc (NASDAQ:TSLA) told a regulator in California that its full self-driving technology might not be ready by the end of the year. However, that statement directly conflicts with what CEO Elon Musk said on the company’s fourth-quarter earnings call in January."
+    publishedDateTime: 2021-05-07T13:36:00Z
+    webUrl: "https://www.entrepreneur.com/article/371394"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/371394"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/371394"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 89
+    images:
+      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-371394.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
   - title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’"
     excerpt: "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker."
@@ -78,22 +90,6 @@ related:
       - url: "https://www.thestatesman.com/wp-content/uploads/2021/05/iStock-Tesla-ModelX-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Elon Musk's 'self-driving' claim do not match engineering reality, says Tesla"
-    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
-    publishedDateTime: 2021-05-08T09:19:00Z
-    webUrl: "https://www.freepressjournal.in/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla"
-    ampWebUrl: "https://m.freepressjournal.in/article/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla/a0c44003-d836-4fa6-bb5a-8a853d870443"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla/a0c44003-d836-4fa6-bb5a-8a853d870443"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 71
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-04/3c43e37a-d356-4d1d-927b-7c50b23b028c/TESLA_pexels_craig_adderley_2449452.jpg"
-        width: 5472
-        height: 3648
         isCached: true
   - title: "Opinion: Feds Should Reel in Tesla, Self-Driving Car Industry"
     excerpt: "In April, an allegedly self-driving Tesla burst into flames after crashing into a tree in Texas. Two passengers died in the wreckage. Federal authorities should consider regulating the autonomous vehicle industry now."
@@ -243,6 +239,6 @@ related:
         height: 382
         isCached: true
 
-secured: "P7kf+XOqkpzi3LZJi9RX2DGJh27rppUEHmN5NHV+nuIPGfXSyjKmatieiJFLx3sH4edaROY9eFubHDz9r1d9FPgX0cAxr3FtIDS97tkmm/0MloPTsc7ImAzQCvL9V0sZewWIDBWcRxNLgABKnG35TZpAiXzGiUDhEBkthWjXmWUH9HcHAU08km+vF2EjfQ7zSGO9yMsQ9zXJ0TFQXcRxXjpa2OhL9jymntGAwduhkMLeVvBKf+P3FVvNU/7Il0kmhsfE9dpZ2/+OzdP0YraKMx0qo3ceW2/k4pL9WEHTh+CQkKQp0+BuAUxwSrNZMfZYNjtU9tdZuk37VOGqFUpK41wkOOotUums6vJ54g+xJc1duRlPNh2ugHZ4UqMI0X4j/EAHZCsqdkydrK4bZ8t9GzJ0tuEXEbfW9btkjZeN0AONauDiP//Ha4ToU/8zTAX/+YWcs7tZpeagPLCrSAqwR+4+x5GNG5Gw5d5jqHbPgzDfVf5vApIz6Tq3M+vuVH+cuQ/Zjra97kAImSMjvE5RUg==;iTTTpIdRUy6z3SC5ik+pZg=="
+secured: "mdp0feB9VzYyJvE4FyPSUPMvGqvk2q+qlMYBW/B/Cb/sKETwVLVVcX2eu0VPTD/h4EXUP2QDboEHR7kFX2Wx9f2dcyzbhMSIjBu2x6P1IkJZJENXqkmIpO9+vvsowUEwzUrYO12yUWf58jcsXCduhzZfbHDmiJ48Eescm6DS8vvwFuGuwNHX74tr3NiOU5SDIOfVaxWaNR823xI0pGGNZfQZB0rOCb3e021EgoaBlNYzr8MDdHqGf4WZ8ZWio8Sx4qOiFMtuDgZFXV2cP0L9elLD/YN19wB6PufPMmMW86iUFPBWAYPIKAKFbDEb90iy6IMRw9lKj+pu77QovMIdRxwOCEyhAxgCfxiMVI5EYKk=;b/30pAt18Qk0/CrAF0G+zA=="
 ---
 

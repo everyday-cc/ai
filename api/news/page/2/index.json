@@ -544,6 +544,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-06-artificial-intelligence-and-the-future-of-humans.md",
+      "title": "Artificial Intelligence And The Future Of Humans",
+      "excerpt": "AI will make most people better off, but its advances will also affect what it truly means to be human in the 21st century.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-the-latest-hot-marketplace-material-bank-raises-100-million-to-source-architectural-and-construction-products-with-help-from-robots.md",
       "title": "The Latest Hot Marketplace, Material Bank, Raises $100 Million To Source Architectural And Construction Products — With Help From Robots",
       "excerpt": "Media entrepreneur Adam Sandow used his experience with design publications to create a marketplace for architectural and construction products. That startup, Material Bank, is now worth nearly $1 billion.",
@@ -1121,57 +1173,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live.md",
-      "title": "Toyota AI Ventures and May Mobility will talk the future of the transportation industry on Extra Crunch Live",
-      "excerpt": "Besides a passion for progress in the mobility space, what do Toyota AI Ventures’ Jim Adler, May Mobility’s Nina Grooms Lee and Edwin Olson have in common? All three of them are joining us on an upcoming episode of Extra Crunch Live.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/05/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/",
-      "originalUrl": "https://techcrunch.com/2021/05/05/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/ECL-2021-05-12-1-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/05/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/amp/",
-      "publishedDateTime": "2021-05-05T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
-excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
-publishedDateTime: 2021-05-04T12:01:00Z
-originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks"
-webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks"
-ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
-cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
+title: "Microsoft Leverages FPGAs for Real-Time AI"
+excerpt: "Microsoft already enjoys a widely distributed FPGA infrastructure thanks to its data centers and services like its search engine ... of course, Microsoft's Cognitive Toolkit. When run on Intel Stratix 10 FPGAs Microsoft's Project Brainwave performed ..."
+publishedDateTime: 2021-05-04T00:00:00Z
+originalUrl: "https://www.designnews.com/electronics-test/microsoft-leverages-fpgas-real-time-ai"
+webUrl: "https://www.designnews.com/electronics-test/microsoft-leverages-fpgas-real-time-ai"
 type: article
-quality: 104
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Design News
+  domain: designnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1573748220/itpro/Microsoft_DW.jpg"
-    width: 1260
-    height: 710
+  - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/Hot-Chips-Stratix-10-board-1-.jpg"
+    width: 1044
+    height: 403
     isCached: true
 
 related:
@@ -46,6 +40,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
+    excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
+    publishedDateTime: 2021-05-04T12:01:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1573748220/itpro/Microsoft_DW.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "Microsoft's new open-source tool could stop your AI from getting hacked"
     excerpt: "Microsoft releases a tool to help organizations shore up AI systems against adversarial machine-learning attacks."
@@ -104,20 +114,6 @@ related:
         width: 799
         height: 419
         isCached: true
-  - title: "Microsoft Leverages FPGAs for Real-Time AI"
-    excerpt: "Microsoft already enjoys a widely distributed FPGA infrastructure thanks to its data centers and services like its search engine ... of course, Microsoft's Cognitive Toolkit. When run on Intel Stratix 10 FPGAs Microsoft's Project Brainwave performed ..."
-    publishedDateTime: 2021-05-04T00:00:00Z
-    webUrl: "https://www.designnews.com/electronics-test/microsoft-leverages-fpgas-real-time-ai"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 54
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Design%20News/Hot-Chips-Stratix-10-board-1-.jpg"
-        width: 1044
-        height: 403
-        isCached: true
   - title: "LiveAction Acquires Network Security Startup CounterFlow AI"
     excerpt: "LiveAction, the leader in network performance management, on Tuesday announced it has acquired CounterFlow AI, a leading network detection and response (NDR) provider. This acquisition will enable LiveAction’s current and future end customers and channel partners with a unified network performance monitoring and diagnostics (NPMD) platform that incorporates encrypted traffic analysis for security incident detection and response."
     publishedDateTime: 2021-05-05T01:31:00Z
@@ -128,6 +124,6 @@ related:
       domain: thefastmode.com
     quality: 34
 
-secured: "DZejpaUoVw9JZkzHfdQ5Y+GBmMi5gLeF3eNFVw0PW/s+GfOTMll/SYcOq5/KgwfLE7ENVGfNilg0YKcSx9stkxv+LDircJyBLQDm9sV5YYpwa1VTpJa9DIfPipGid7xV4nNK8uyjeM12MprhOI2zI0L2vg3oawW1G5SVwdcrn78yva8mma7GPy6rf9EK308nBQAlpLY6NxS2+/DVbZkv/d9GUQC67bc4yoJ4i6TL/nLaSTL8/sesJFMjhWB9lauf3lAbiXsLDWpyxngZhDikmqL5Z92FQycRTAGYc2Lz1t3wssDWwctjiZBw1mmJF/XGdvn4jzBeDQMCNj9CFQ/dWz/GCoSdfaWUOPtv53DygLD8E7lRQ9PFXH/R6VggzTTFcs9w8wclpZly6UcZL0t5jpFayOP2eAXgj1+ExQDZ5spvanLKrXCPy4UMV1fLjx1s1XIh/t2m/840tgEZp1PZ6ylQtQzo+47FRn7+DzgeQaOFaL5ZP+3nXZofdllYCY5lBh70x69hiEtR1KN9RvEODg==;1vnFhD743JeF1FuQ3RTbpw=="
+secured: "BXOvIoDUVN6VznHdK3pJZlr2OXuTrtZpmKjb97/fg9f5cthLIFEszAFe7N+DqE02Kcpytl5mJ01by/2+wDOS5mxXHA0I5kTi1dawvVW9ASx78CPa4BY3pBOp0JJB0/6WCL0ENG81X6+WwzT3GJtcdg7wSyazdrlKpjleaQkrGQe7POpMAV8gSFSk4+keyf6ocayVRPOw/+1gjmYpItKxWeBIb63MKyfavu3x1VOAyItrFq88hdWmicrEvMksj/Z7ov0xMOihmug9Fy1QEQFQg6pQeOPrt5WZh30/tO2sZ6w9wC2XuCHPCzD79AA10Qh/1SxtSSE+NdaAnVa9rPUzeisVXuXTq3iCU76DbllfM44=;s0JOjTKjGbpQ0mA6YAPhQw=="
 ---
 

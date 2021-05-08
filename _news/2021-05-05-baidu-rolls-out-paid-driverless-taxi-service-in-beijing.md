@@ -35,22 +35,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "First fleet of driverless taxis is launching in Beijing with rides costing $4.60"
-    excerpt: "One rider who works in the artificial intelligence industry praised the ... Not everyone was convinced driverless cars are such a great idea, though. 'We've all had experiences such as other ..."
-    publishedDateTime: 2021-05-03T16:54:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9537961/First-fleet-driverless-taxis-launching-Beijing-rides-costing-4-60.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9537961/amp/First-fleet-driverless-taxis-launching-Beijing-rides-costing-4-60.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9537961/amp/First-fleet-driverless-taxis-launching-Beijing-rides-costing-4-60.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 54
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/05/03/16/42518182-0-image-a-9_1620055274466.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Baidu launches China's first commercial driverless taxi service"
     excerpt: "Chinese search engine giant Baidu on Sunday started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public on a trial basis since last October but Sunday marked the first time that riders have needed to pay for it."
     publishedDateTime: 2021-05-04T10:00:00Z
@@ -92,20 +76,6 @@ related:
       - url: "https://performancedrive.com.au/wp-content/uploads/2021/05/Baidu-Apollo-autonomous-robotaxi.jpg"
         width: 934
         height: 577
-        isCached: true
-  - title: "You can now catch a fully driverless taxi in one part of China"
-    excerpt: "The driverless taxis are preparing for the Beijing Winter Olympics. We hear a lot about the American companies working on self-driving cars, but they’re not the only ones working on the tech. Baidu, China’s main search engine,"
-    publishedDateTime: 2021-05-03T17:00:00Z
-    webUrl: "https://knowtechie.com/you-can-now-catch-a-fully-driverless-taxi-in-one-part-of-china/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/05/baidu-self-driving-cars-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "3gVLtzwN/rTtWfWNf1/raZi/jafMbN4AOVx47hLp/C9+PSloBoElwvvKIre7J6/UfXzWblceKOL0mBiIn1FraJ1Q6sTf2Ikh0E7CbPlwUbPECtoJASTmpbFWe+4XUOoOQjUbW/46P5hOLjgwAO0a2N8DcfesoiHSHZHytG+V6z6AJDprXK1cd3LLpudgmV5NnqamMa33tWO+viWRxA4+j6imQN7r4P6+0UbZDTn/kpFCGSxH585dxVxfTtITrU+xBPSdSRhFIvoMXj/FmKYb81vA/lJfoD6LY2Js+XPodeZF7pvcdNSkza8wFI1Cg5f6Gbgc39rk6tC4hfD54zR0gzN7hRL/5P0xkcvdvAC8Pr08DhTM1ctF5mVJtzJYL8/R+1IW1pnZKzTXqkQKtsP4GN+XHOquVmEDRJ4vOpol8Jpu3NXdX7VCDT/3hc719vS6pefKQlgvx7lBJw5ZA8CkStspGsZZvsmN+no4scAHVr//IvEWCU/pjKgMy1QKNufEnA6Pgc2LOfii5sZzWCKAvg==;00rt9VgZhMwQ+3ir+Bn1DA=="

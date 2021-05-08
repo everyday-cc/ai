@@ -75,21 +75,37 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Tesla admits Musk's 'full self-driving' claim not feasible yet"
-    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such c.."
-    publishedDateTime: 2021-05-08T07:26:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/cars/tesla-admits-musks-full-self-driving-claim-not-feasible-yet/82476896"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/cars/tesla-admits-musks-full-self-driving-claim-not-feasible-yet/82476896"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/cars/tesla-admits-musks-full-self-driving-claim-not-feasible-yet/82476896"
+  - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
+    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted"
+    publishedDateTime: 2021-05-08T08:58:00Z
+    webUrl: "https://www.thestatesman.com/technology/tesla-admits-musks-full-self-driving-claim-not-feasible-yet-1502966699.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/tesla-admits-musks-full-self-driving-claim-not-feasible-yet-1502966699.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/tesla-admits-musks-full-self-driving-claim-not-feasible-yet-1502966699.html/amp"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: The Statesman
+      domain: thestatesman.com
     quality: 74
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-82476896,imgsize-195404,width-800,height-434,overlay-etauto/tesla-admits-musk-s-full-self-driving-claim-not-feasible-yet.jpg"
-        width: 800
-        height: 434
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/05/iStock-Tesla-ModelX-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Elon Musk's 'self-driving' claim do not match engineering reality, says Tesla"
+    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
+    publishedDateTime: 2021-05-08T09:19:00Z
+    webUrl: "https://www.freepressjournal.in/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla"
+    ampWebUrl: "https://m.freepressjournal.in/article/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla/a0c44003-d836-4fa6-bb5a-8a853d870443"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla/a0c44003-d836-4fa6-bb5a-8a853d870443"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 71
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-04/3c43e37a-d356-4d1d-927b-7c50b23b028c/TESLA_pexels_craig_adderley_2449452.jpg"
+        width: 5472
+        height: 3648
         isCached: true
   - title: "Opinion: Feds Should Reel in Tesla, Self-Driving Car Industry"
     excerpt: "In April, an allegedly self-driving Tesla burst into flames after crashing into a tree in Texas. Two passengers died in the wreckage. Federal authorities should consider regulating the autonomous vehicle industry now."

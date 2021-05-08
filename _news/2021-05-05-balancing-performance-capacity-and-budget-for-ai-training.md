@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/05/04/balancing-performance-capaci
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/04/balancing-performance-capacity-and-budget-for-ai-training/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Art Of Balancing Two Forces: AI And Human Nature"
-    excerpt: "Our natural approach to problem-solving is additive: stir in more data, layer in more sophisticated modeling, think through solving the problem for every contingency. While that’s the first instinct,"
-    publishedDateTime: 2021-05-03T16:46:00Z
-    webUrl: "https://www.forbes.com/sites/arunshastri/2021/05/03/the-art-of-balancing-two-forces-ai-and-human-nature/"
-    ampWebUrl: "https://www.forbes.com/sites/arunshastri/2021/05/03/the-art-of-balancing-two-forces-ai-and-human-nature/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/05/03/the-art-of-balancing-two-forces-ai-and-human-nature/amp/"
+  - title: "Startup Vinculum Using Satellites and AI for Farm Planning and Financing"
+    excerpt: "A European venture called Vinculum has launched a pilot program in the coffee lands of Colombia using artificial intelligence and satellite data designed to help farmers mitigate production and"
+    publishedDateTime: 2021-05-04T17:27:00Z
+    webUrl: "https://dailycoffeenews.com/2021/05/04/startup-vinculum-using-satellites-and-ai-for-farm-planning-and-financing/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Daily Coffee News
+      domain: dailycoffeenews.com
+    quality: 36
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60901a9239f302147d640d3b%2F0x0.jpg"
-        width: 1200
-        height: 653
-        isCached: true
-  - title: "Artificial Intelligence And The Future Of Humans"
-    excerpt: "AI will make most people better off, but its advances will also affect what it truly means to be human in the 21st century."
-    publishedDateTime: 2021-05-06T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg"
-        width: 1200
-        height: 836
+      - url: "https://dailycoffeenews.com/wp-content/uploads/2021/05/vinculum-land-use.jpg"
+        width: 1240
+        height: 775
         isCached: true
 
 secured: "tdjEnW5k5FLDcYe/l3qoKCeHfQGmJ82xRx4CzQtx0STxThIKkmTwhb/JIkzrp5kGcDChobLEy8j+F1rzkpV3QWmAuCqN25LC7yEmIOqgq0Q4sskIVM+NKKoTHuJrjMqa9tZoFlsb1iIw1VJhqeeI3ol3RnkKNWwjD3NqcPX00tOXxsfcLxRaNWC3buU4j5GinbQtdjbEUP3vFHOX7QD6JwodtkMZMo79k7FAGBtv2SquYXoIWa8ZyvZRk7xXNmJdb8dEJGIgW8GAlYoCG01L6qBd+25crnomKrqZnMXP9/FCgYPtOTlPQl2aOi/qtOww3xneF5fLo8vvKLZeHyxgIus5nZU8ojaf7UWk0lUV8eX/uDzFfRJRNcixgW9I1bPpEZJL/nHuIFKtHS3zZtN2ByF7QCjLHDE/1o6Xf8Aw0kr4tYxxdOaBLUWLMuQ1h9Yb+iKHlJ450QgdHj+aFj7ZGT3BVSJgR0SKrt7gAlmkWHtcYup8p0baSCIR398mt0VB/4RsiUJTi3W6/sLl6qLnkA==;w3/xJP9EPI0q3HaINVhKew=="

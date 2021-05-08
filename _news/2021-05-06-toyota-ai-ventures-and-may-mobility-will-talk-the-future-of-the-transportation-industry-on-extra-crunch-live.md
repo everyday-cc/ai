@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/05/05/toyota-ai-ventures-and-may-mobilit
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/amp/"
 type: article
 quality: 68
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence And The Future Of Humans"
+    excerpt: "AI will make most people better off, but its advances will also affect what it truly means to be human in the 21st century."
+    publishedDateTime: 2021-05-06T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg"
+        width: 1200
+        height: 836
+        isCached: true
   - title: "Toyota AI Ventures and May Mobility will talk the future of the transportation industry on Extra Crunch Live"
     excerpt: "Besides a passion for progress in the mobility space, what do Toyota AI Ventures’ Jim Adler, May Mobility’s Nina Grooms Lee and May’s Edwin Olson have in common? All three of them are joining us on an upcoming episode of Extra Crunch Live."
     publishedDateTime: 2021-05-07T17:10:00Z
@@ -46,19 +60,19 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Summary of the Artificial Intelligence in Transportation Market Report"
-    excerpt: "The Artificial Intelligence in Transportation Market is expected to grow at a CAGR of 6.6% and is poised to reach US$XX Billion by 2027 as compared to US$XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report our experts have examined the market from a 360 degree perspective thereby producing a report which is definitely going to impact your business decisions."
-    publishedDateTime: 2021-05-04T11:13:00Z
-    webUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-in-transportation-market-to-see-a-massive-growth-during-the-forecast-period-key-players-nvidia-corporation-deep-genomics/"
+  - title: "How Artificial Intelligence will Affect the Future of Work and Life?"
+    excerpt: "The influence of artificial intelligence in our daily life is no joke. With internet taking center stage, AI is evolving out routine to have personalization, with more machines and smart home applications."
+    publishedDateTime: 2021-05-05T09:29:00Z
+    webUrl: "https://www.analyticsinsight.net/how-artificial-intelligence-will-affect-the-future-of-work-and-life/"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
+      name: Analytics Insight
+      domain: analyticsinsight.net
     quality: 37
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/Key-Questions-Answered-in-Report-1-1.jpg"
-        width: 573
-        height: 595
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Artificial-Intelligence-3.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "fzFALnKhRgm1tsJc68XfcgQX/Ox6TPj5Uu3VorXc00bGHjtJWld47JgWNdA1oHaSI9lmTNqz/HgIEFWXrHs9FWWXHs/4QK5FCIKbVcOaJhiCQdk/FxuCKNdOu6+SqTTPViZa38JtPmD/w58ByBhE9/xOsfGbpUmN5eE/NKk4pj4CILUbtYeJl15Y/UPQozykyhe3irmDrIk0G6MEiZwEVftSkA7K+FezMWvlB2DADcDxbFrbKLfOzr1CuwhAmUit2xLD72RNk44hFsU0a5tt5Y8hhVOSG4BCslvxOLrV4gjTVaRS5omtucQyosKQ5QoeP5pvfQkX9oPukCcszPCydTWrUb68vRJt8Tmm9NuZ1A10NMonkqE2OpOzGiPdL9pANnRScCRlAQ7uQdHbkXKA5jCBhNMPt9zHecZUpnAsFPA5b3kVpyRZq7nb/IrbzcGSU/LQn+TarOiPTvzoVMnTHJqpFWaHW7qN1oUnU3JTcw6gwA2oSxIf+vinJ2Pbgj20baY/q/mnIS1zomKnvsJWCA==;m6TnZSDxMepIyZzQzIYkiQ=="
