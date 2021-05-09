@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The maker of Flippy is now selling the software behind the robot"
-    excerpt: "Restaurants can now buy the technology that powers Flippy the automated fry cook—without the robot. Miso Robotics, the maker of Flippy, on Tuesday unveiled a software product called CookRight, which uses artificial intelligence and machine learning to guide kitchen workers at the grill."
-    publishedDateTime: 2021-05-04T09:00:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/technology/maker-flippy-now-selling-software-behind-robot"
-    ampWebUrl: "https://www.restaurantbusinessonline.com/amp/technology/maker-flippy-now-selling-software-behind-robot"
-    cdnAmpWebUrl: "https://www-restaurantbusinessonline-com.cdn.ampproject.org/c/s/www.restaurantbusinessonline.com/amp/technology/maker-flippy-now-selling-software-behind-robot"
-    type: article
-    provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 59
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-05/background/400x600/shutterstock_image_1620064252.jpg?CMLT3umtvWXJpXYM9BrsVKmy0Z15aRcs"
-        width: 400
-        height: 210
-        isCached: true
   - title: "Miso Robotics Releases Cooking Software for Restaurants"
     excerpt: "Miso Robotics Inc., developer of a burger-flipping robot called “Flippy,” announced May 4 that it will make the software behind its kitchen automation technology available to foodservice businesses as a standalone product."
     publishedDateTime: 2021-05-04T20:39:00Z

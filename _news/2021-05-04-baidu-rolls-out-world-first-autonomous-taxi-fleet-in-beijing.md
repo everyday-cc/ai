@@ -39,6 +39,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Driverless taxis to cancer drugs: Google's moonshots are serious business"
+    excerpt: "Alphabet could be underinvesting in the sustainability of its prosperous main business while overinvesting in adventurous sidelines."
+    publishedDateTime: 2021-05-09T01:41:00Z
+    webUrl: "https://www.business-standard.com/article/companies/google-s-main-business-could-use-some-moonshots-leonid-bershidsky-121050900072_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/google-s-main-business-could-use-some-moonshots-leonid-bershidsky-121050900072_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/google-s-main-business-could-use-some-moonshots-leonid-bershidsky-121050900072_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 58
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/09/full/1620523537-7541.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Baidu launches China's first commercial driverless taxi service"
     excerpt: "Chinese search engine giant Baidu on Sunday started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public on a trial basis since last October but Sunday marked the first time that riders have needed to pay for it."
     publishedDateTime: 2021-05-04T10:00:00Z

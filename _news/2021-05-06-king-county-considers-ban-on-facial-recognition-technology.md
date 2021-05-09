@@ -19,139 +19,79 @@ topics:
   - AI
 
 related:
-  - title: "States push back against use of facial recognition technology by police"
-    excerpt: "I think people are just freaked out, and rightfully so, about this technology,” said Freddy Martinez, director of Lucy Parsons Labs, a Chicago nonprofit that specializes in citizens' digital rights."
-    publishedDateTime: 2021-05-06T18:45:00Z
-    webUrl: "https://www.mahoningmatters.com/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
-    ampWebUrl: "https://www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
-    cdnAmpWebUrl: "https://www-mahoningmatters-com.cdn.ampproject.org/c/s/www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
+  - title: "Facial Recognition as a Legislative Issue"
+    excerpt: "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
+    publishedDateTime: 2021-05-05T23:48:00Z
+    webUrl: "https://patch.com/virginia/reston/facial-recognition-legislative-issue"
+    ampWebUrl: "https://patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
     type: article
     provider:
-      name: mahoningmatters
-      domain: mahoningmatters.com
-    quality: 74
+      name: Patch
+      domain: patch.com
+    quality: 59
     images:
-      - url: "https://www.vmcdn.ca/f/files/mahoningmatters/images/facial-recognition.jpeg;w=640;h=422;mode=crop"
-        width: 640
-        height: 422
+      - url: "https://patch.com/img/cdn20/users/60146/20210505/074823/styles/patch_image/public/jcots___05194516171.png?width=984"
+        width: 984
+        height: 738
         isCached: true
-  - title: "States push back against facial recognition"
-    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
-    publishedDateTime: 2021-05-05T22:31:00Z
-    webUrl: "https://www.goskagit.com/townnews/politics/states-push-back-against-facial-recognition/article_94ac551c-7088-5cbd-baf1-84a418fe2e87.html/"
+  - title: "EU Proposes Heavy Regulation of “High Risk” Artificial Intelligence as Activists Call for Facial Recognition Ban"
+    excerpt: "EU officials are considering wide-ranging regulation that would include heavy restrictions on a range of 'high risk' AI applications; a leaked document also indicates that a facial recognition ban is being proposed."
+    publishedDateTime: 2021-05-06T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/eu-proposes-heavy-regulation-of-high-risk-artificial-intelligence-as-activists-call-for-facial-recognition-ban/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/eu-proposes-heavy-regulation-of-high-risk-artificial-intelligence-as-activists-call-for-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/eu-proposes-heavy-regulation-of-high-risk-artificial-intelligence-as-activists-call-for-facial-recognition-ban/amp/"
     type: article
     provider:
-      name: Skagit Valley Herald
-      domain: goskagit.com
-    quality: 54
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 53
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/7/10/710fa621-1921-553e-884c-d6a95b7ff98f/60932b6a52c86.image.jpg?resize=1050%2C630"
-        width: 1050
-        height: 630
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/05/eu-proposes-heavy-regulation-of-high-risk-artificial-intelligence-as-activists-call-for-facial-recognition-ban_1500.jpg"
+        width: 1500
+        height: 860
         isCached: true
-  - title: "States push back against use of facial recognition by police"
-    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness of video surveillance is leading some state lawmakers"
-    publishedDateTime: 2021-05-06T00:49:00Z
-    webUrl: "https://www.seattletimes.com/business/states-push-back-against-use-of-facial-recognition-by-police/"
-    ampWebUrl: "https://www.seattletimes.com/business/states-push-back-against-use-of-facial-recognition-by-police/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/states-push-back-against-use-of-facial-recognition-by-police/?amp=1"
+  - title: "Why Big Tech Wants (Some) Facial Recognition Rules"
+    excerpt: "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some are making an exception for facial recognition software. The European Union and cities and states across the U."
+    publishedDateTime: 2021-05-05T03:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/05/05/7209494a-ad56-11eb-82c1-896aca955bb9_story.html"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
-  - title: "Facial recognition technology approved at New York border crossings"
-    excerpt: "A new technology has been approved for several border crossings with Canada. U.S. Customs and Border Protection announced on Tuesday the expansion of biometric facial comparison technology to all crossings at the northern New York ports of entry."
-    publishedDateTime: 2021-05-05T11:55:00Z
-    webUrl: "https://www.wcax.com/2021/05/05/facial-recognition-technology-approved-at-new-york-border-crossings/"
-    type: article
-    provider:
-      name: WCAX3
-      domain: wcax.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 39
     images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/Yetxk8tUGfJEZm5d0I4LEOVkqck=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MALGXNQ7MBADNBO3R3VTNX7IEU.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OELWHZVNKYI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Sexism in Facial Recognition Technology"
-    excerpt: "Shreya Tewari provides an overview of recent work on facial recognition technology -- and calls for greater transparency. “Presenting AI with a diverse representation of datasets for it to learn from would be a great start in reversing the prevalent biases."
-    publishedDateTime: 2021-05-05T19:02:00Z
-    webUrl: "https://cyber.harvard.edu/story/2021-05/sexism-facial-recognition-technology"
+  - title: "Ken Plum: Facial recognition as a legislative issue"
+    excerpt: "One of the side-effects of the quarantine has been the difficulty of recognizing others after months of not seeing each other in person."
+    publishedDateTime: 2021-05-06T11:14:00Z
+    webUrl: "https://augustafreepress.com/ken-plum-facial-recognition-as-a-legislative-issue/"
     type: article
     provider:
-      name: Harvard Medical School
-      domain: harvard.edu
+      name: Augusta Free Press
+      domain: augustafreepress.com
     quality: 39
     images:
-      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
-        width: 1000
-        height: 500
+      - url: "https://i1.wp.com/augustafreepress.com/wp-content/uploads/2019/05/ken-plum.jpg?fit=337%2C225&#038;ssl=1"
+        width: 337
+        height: 225
         isCached: true
-  - title: "States limiting police use of facial recognition tech"
-    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
-    publishedDateTime: 2021-05-05T22:33:00Z
-    webUrl: "https://www.lockportjournal.com/news/states-limiting-police-use-of-facial-recognition-tech/article_95f9516f-bbd7-54b9-9f42-2881fd9cea8f.html"
+  - title: "National Association of School Nurses Announces May 12th as School Nurse Recognition Day"
+    excerpt: "Wednesday, May 12, is National School Nurse Day, an opportunity to acknowledge and thank school nurses for all they do to support the health and learning of adolescents and children across our country."
+    publishedDateTime: 2021-05-07T17:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/health-coronavirus-pandemic-3e774f535edae8e7333abea068059102"
     type: article
     provider:
-      name: Lockport Union-Sun & Journal
-      domain: lockportjournal.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/assets/v3/editorial/8/00/8007df1c-1184-5d00-802c-44b6f4ef71e5/60931ff7b4896.image.jpg?resize=800%2C533"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Massachusetts OKs Curbs on Police Use of Facial Recognition"
-    excerpt: "As part of its new police reform law, Massachusetts lawmakers have passed one of the first state-wide restrictions on law enforcement use of facial recognition technologies. Under the law, police must have a court order before they can compare images to the database of photos and names."
-    publishedDateTime: 2021-05-07T14:19:00Z
-    webUrl: "https://thecrimereport.org/2021/05/07/massachusetts-oks-curbs-on-police-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
-        width: 343
-        height: 510
-        isCached: true
-  - title: "Massachusetts Pioneers Rules For Police Use Of Facial Recognition Tech"
-    excerpt: "Massachusetts is implementing its first state-wide rules for police using controversial facial recognition systems. But not all privacy advocates agree that regulation is the right step."
-    publishedDateTime: 2021-05-07T10:25:00Z
-    webUrl: "https://www.wbur.org/npr/982709480/massachusetts-pioneers-rules-for-police-use-of-facial-recognition-tech"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
-    images:
-      - url: "http://media.npr.org/assets/img/2021/04/29/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg?s=6"
-        width: 948
-        height: 710
-        isCached: true
-  - title: "Honolulu airport rolls out facial recognition technology"
-    excerpt: "Honolulu’s Daniel K. Inouye International Airport has launched the Simplified Arrival Program in an effort to streamline the international arrival process."
-    publishedDateTime: 2021-05-05T17:32:00Z
-    webUrl: "https://www.bizjournals.com/pacific/news/2021/05/05/airport-rolls-out-facial-recognition-tech.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
-  - title: "PimEyes offers facial recognition software that anyone can use, including stalkers"
-    excerpt: "Facial recognition is a very powerful AI technology that has businesses interested in its application, and many people are concerned about how it can be weaponized against normal people. Typically, the tech is locked behind high paywalls or available only as an internal tool."
-    publishedDateTime: 2021-05-05T15:19:00Z
-    webUrl: "https://knowtechie.com/pimeyes-offers-facial-recognition-software-that-anyone-can-use-including-stalkers/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 33
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/03/facial-recognition-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "rFnKjEQWnSgQ6GctYk0DlX1ow8VJ8MCyHAgL/r81+XDhOH+SCm5l1f5eFafWng1b9HaGxd8goCrYyPKdA3QzQjd0+B7zT15RPmOd6Z2Bk/JQwC7jx+vM4q6K8Gpvie/+b4DJzc7Ke3vplEWy4/sqEMoyVV4ZiKQQlxJhQD/vE9PHqqjKHWmXWh5eteLtQ3aHY75OmJSu2tQl+5mtIYpK+Ma7p1Tj7h6qdSUU80GhIMtcxPzoD3PbF9cfxxpm+WyzHmWjgoPLXvW86QMV+IzCgCMDMgjMb1kwZkb9ATLahkQM9pR9PBv5BXqRgB8PEQjh/RkZmRczqooNnLk4zBSEoyVSsAcaZZqHERey4ck4iTYnDW4XazqhcfsEOPUvTii+OTnyc0u+0qkSy819UVJTL+4IE5USm4CZ04gvtpHx1ADC9oB4rICtoNsw/UQzFp3m840YTjKfu/r033r7jqHEHGY9baMrS3pd00IiGq0wr99iL2YIfJNg//FzY8PoLqQwseGftDU9vInO+uYwSpFI8A==;ZzenIonJ+T1O8PnENNmzJg=="

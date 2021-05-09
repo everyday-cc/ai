@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s42256-021-00344-9"
 webUrl: "https://www.nature.com/articles/s42256-021-00344-9"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "http://diginomica.com/sites/default/files/images/2020-01/shutterstock-%20Antonov-Serg-1576515697.jpg"
         width: 3000
         height: 2000
-        isCached: true
-  - title: "Fighting algorithmic bias in artificial intelligence"
-    excerpt: "Julianna Photopoulos explores the issues of racial and gender bias in AI – and what physicists can do to recognize and tackle the problem"
-    publishedDateTime: 2021-05-04T08:22:00Z
-    webUrl: "https://physicsworld.com/a/fighting-algorithmic-bias-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 41
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2021/05/Photopoulos-artificial-intelligence-1310293181-iStock_imaginima.jpg"
-        width: 1200
-        height: 900
         isCached: true
 
 secured: "GWTnFz+7qewAO+q4lTDvrW0+kvUT9TNtRb84ppBKTyZ2z6OQSQdxrDaae3KH5MWM/ry4J7zRIFsHOrSddvvu7UF4Ep1ccB0wGYEIEaj2RLUVe4heVYBikUAh5QBqvX+DdZIOd7JB5bzCVwCtlt02x5Av5apVMj5FqO5JNy190vKAqwSA2mepBrbtv4xl/ckRsyVkQSkzBRcLyc6g3kgvnbC00+oB/4j0mNv0hSdMPzu7v8bGDE8/wR6Qh5HE4+uzC4rjkrH6fTjWGcDNvzGyJOcWvLoRhPyFb4WBkhUy5DxuMWYexc5mkCI2V3cAYyg61t4+XilV4P/kp8rdCSxagCSZ5aQh2lvy1FdntHybu1Sn2aDB8x0n6KsSwnIc+M6+VMUulscsvIKnebvyasE/24dVvVKOueSJm7wgI0SwuNBFy+msqBruBGhXe/7NDpD+GBIGZswFXPUrl2XvY3QaFdgvpMFYRLLaYxFQdR4e7nJylSBG8ztgFSt0IFCkh6ckHq9Y0esxHGaTsoUkktUhcw==;/A574o6+YksVwIu31wLX3g=="

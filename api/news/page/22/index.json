@@ -98,6 +98,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-18-best-free-artificial-intelligence-software-for-windows-10.md",
+      "title": "Best Free Artificial Intelligence software for Windows 10",
+      "excerpt": "TensorFlow is an open-source AI software. It is a great tool for learning and developing Machine Learning models. TensorFlow allows easy deployment of computation across a wide variety of platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thewindowsclub.com/artificial-intelligence-software-for-windows-10",
+      "originalUrl": "https://www.thewindowsclub.com/artificial-intelligence-software-for-windows-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thewindowsclub.com/wp-content/uploads/2021/04/Cortana-AI.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-2-killed-in-driverless-tesla-car-crash-officials-say.md",
       "title": "2 Killed in Driverless Tesla Car Crash, Officials Say",
       "excerpt": "Artificial Intelligence Microsoft Technology Economy Real Estate Sports Seahawks Huskies Cougars Kraken High Schools Mariners Sounders Snow Sports Geoff Baker Matt Calkins Larry Stone Bob Condotta ...",
@@ -1095,40 +1138,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-financial-standards-setter-to-focus-on-use-of-ai.md",
-      "title": "Financial Standards Setter To Focus On Use Of AI",
-      "excerpt": "A global standards-setting body for the prudential regulation of banks said on Friday that one of its main focuses for the year ahead will be on the role of artificial intelligence in the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-ai",
-      "originalUrl": "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1375927",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1375927",
-      "publishedDateTime": "2021-04-16T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

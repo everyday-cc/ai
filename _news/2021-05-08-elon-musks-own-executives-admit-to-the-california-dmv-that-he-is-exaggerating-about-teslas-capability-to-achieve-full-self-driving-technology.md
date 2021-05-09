@@ -158,9 +158,9 @@ related:
   - title: "Tesla just delivered bad news for self-driving cars — contradicting Elon Musk"
     excerpt: "Tesla CEO Elon Musk said the company was “highly confident” that its cars would achieve full Level 5 self-driving autonomy in 2021. It turns out that just 41 days later, one of the company’s engineers was offering a less optimistic timeline to California’s regulators."
     publishedDateTime: 2021-05-08T11:08:00Z
-    webUrl: "https://www.tomsguide.com/uk/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-    ampWebUrl: "https://www.tomsguide.com/uk/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+    webUrl: "https://www.tomsguide.com/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
     type: article
     provider:
       name: Tom's Guide
@@ -170,6 +170,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/qvy8QreeDhG4nSogtw2a3o-480-80.png"
         width: 480
         height: 264
+        isCached: true
+  - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
+    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self - driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
+    publishedDateTime: 2021-05-09T01:43:00Z
+    webUrl: "https://menafn.com/1102048356/Tesla-admits-Musks-full-self-driving-claim-not-feasible-yet"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "http://iansphoto.in/web/photoimages_new/400/2020/10/18/1763668c76c184b11fd739080dcc7beb.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Tesla's Full Self-driving Cars Year-End Achievement Remain Uncertain"
     excerpt: "According to a memo from the California Department of Motor Vehicles (DMV), Tesla Inc told a California regulator that it could not reach complete self-driving technology by the end of this year. During a January earnings conference call,"

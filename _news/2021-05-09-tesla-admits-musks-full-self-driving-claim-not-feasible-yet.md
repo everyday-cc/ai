@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Tesla's Full Self-driving Cars Year-End Achievement Remain Uncertain"
-excerpt: "According to a memo from the California Department of Motor Vehicles (DMV), Tesla Inc told a California regulator that it could not reach complete self-driving technology by the end of this year. During a January earnings conference call,"
-publishedDateTime: 2021-05-08T21:56:00Z
-originalUrl: "https://www.wrcbtv.com/story/43847893/teslaaposs-full-self45driving-cars-year45end-achievement-remain-uncertain"
-webUrl: "https://www.wrcbtv.com/story/43847893/teslaaposs-full-self45driving-cars-year45end-achievement-remain-uncertain"
+title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
+excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self - driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
+publishedDateTime: 2021-05-09T01:43:00Z
+originalUrl: "https://menafn.com/1102048356/Tesla-admits-Musks-full-self-driving-claim-not-feasible-yet"
+webUrl: "https://menafn.com/1102048356/Tesla-admits-Musks-full-self-driving-claim-not-feasible-yet"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: WRCB
-  domain: wrcbtv.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://PRSUBMITPRESSLIFESTYLE.images.worldnow.com/images/20725166_G.jpg"
-    width: 1280
-    height: 853
+  - url: "http://iansphoto.in/web/photoimages_new/400/2020/10/18/1763668c76c184b11fd739080dcc7beb.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -169,19 +169,19 @@ related:
         width: 480
         height: 264
         isCached: true
-  - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
-    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self - driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
-    publishedDateTime: 2021-05-09T01:43:00Z
-    webUrl: "https://menafn.com/1102048356/Tesla-admits-Musks-full-self-driving-claim-not-feasible-yet"
+  - title: "Tesla's Full Self-driving Cars Year-End Achievement Remain Uncertain"
+    excerpt: "According to a memo from the California Department of Motor Vehicles (DMV), Tesla Inc told a California regulator that it could not reach complete self-driving technology by the end of this year. During a January earnings conference call,"
+    publishedDateTime: 2021-05-08T21:56:00Z
+    webUrl: "https://www.wrcbtv.com/story/43847893/teslaaposs-full-self45driving-cars-year45end-achievement-remain-uncertain"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: WRCB
+      domain: wrcbtv.com
     quality: 54
     images:
-      - url: "http://iansphoto.in/web/photoimages_new/400/2020/10/18/1763668c76c184b11fd739080dcc7beb.jpg"
-        width: 400
-        height: 400
+      - url: "https://PRSUBMITPRESSLIFESTYLE.images.worldnow.com/images/20725166_G.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Tesla engineer told California DMV that Elon Musk overstated self-driving capability"
     excerpt: "Elon’s tweet does not match engineering reality,' a DMV official wrote after debriefing a Tesla engineer who oversees autonomous driving development."
@@ -299,6 +299,6 @@ related:
         height: 382
         isCached: true
 
-secured: "XU6rjrA6I19eVFzWdJs9DDsZ2Yab5qehBXO9Lesv6WkJXfviEpEy/qqZLhVATLuBKp90uoYDoMwhoyO19OQfa85hccOsSXP1n3sJHWc+Y+nHq2JO3uAc/C2/0NlgEQEQn2cUouRC18wDKqsLlNKgKNPeMxX3Q+mj1jntrWZY7wmMQRyCRq2Va/4ZHG6dqoFnup3tG3XigRo7JTgG8C6JMc4qCcw5GJkGnuwM+dnW7n/zvsOufQqmVQtLq+aZbidhRU2bV6ZoXyhOKo8vlNG5cCmEcs+ljq8PYvb//zXTk1OWuuIm0DpFcgWqSz+OtdTM4I6ZRFnSiq0oiJDj/gRKWhlcr2aBft2swlTGcbb6NCLjUpo1SCF6FNUaMlTZ6F5OlhW6Vi5lbq3dMfw04+GD/T3Y6cMQmbsAg9qr2tfvz1sUkM2BX9slrVPYHafmUWUtNRSP0YTZHCRTIbd1sgLV6hY9a5znW/Tzz1DBdJZ867LQBSgZmF3gXdmXaXYm94ealC8EAkllCMiBqXx1HJuV1Q==;Y2KvBPmjMFULo5yEHm8r/A=="
+secured: "Dh5Hrf0033L15FVSJc6EWqBvWlV2MQPxrXm3g3NnofuvMj2viMfgp2b1OVr0q4v5XpMPRJUOYdpvrXTEAT4vvPkkuy52TjMGVrTrEcDrEu/C1qJr+36KVJGjLcHlsM1amMtmF3bQoUNFD74vv7DRBjJCv85NNrKCcaN6/MJziHkOCovsL/A/enEOidVTXeTeRrzxJ2Xx4fqGj4GUBJ6P4poaKoohBmnBzGWz0H7XGh9/bgvf+r1wqYFPG/hviziNJf7OPQ2n3vkhq2a1w/F/i4CU8trA4dg3D3nAkb5O17V8o/dkATkEqKhv/IxYwkVP9WC1kKInauj7hzOcqQdM7Eg064GZWUul7sscpb4RUf8=;Yf4vCdYl7YZReWxMItrw8w=="
 ---
 

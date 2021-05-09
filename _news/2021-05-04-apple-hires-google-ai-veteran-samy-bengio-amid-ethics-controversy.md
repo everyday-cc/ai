@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359405
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359405/apple-hires-google-ai-veteran-samy-bengio?amp"
 type: article
 quality: 106
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://www.glamsham.com/wp-content/uploads/2021/05/554f42d76dedec3889a296f2d707122a-1.jpg"
         width: 400
         height: 276
-        isCached: true
-  - title: "Former Google AI Scientist Samy Bengio To Join Apple"
-    excerpt: "Samy Bengio worked at Google for 14 years. His exit comes a few months after the firing of two Google AI ethics researchers"
-    publishedDateTime: 2021-05-04T08:11:00Z
-    webUrl: "https://analyticsindiamag.com/former-google-ai-scientist-samy-bengio-to-join-apple/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2019/11/INDIAMSBA-GETPAID300x250.jpg"
-        width: 300
-        height: 250
         isCached: true
   - title: "Apple hires Google scientist to lead new AI unit"
     excerpt: "Apple said it has hired former distinguished Google scientist Samy Bengio, Reuters reports. Bengio is expected to lead a new AI research unit at Apple under John Giannandrea, senior vice president of machine learning and AI strategy,"

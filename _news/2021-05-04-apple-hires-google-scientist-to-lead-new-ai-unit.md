@@ -77,20 +77,6 @@ related:
         width: 400
         height: 276
         isCached: true
-  - title: "Former Google AI Scientist Samy Bengio To Join Apple"
-    excerpt: "Samy Bengio worked at Google for 14 years. His exit comes a few months after the firing of two Google AI ethics researchers"
-    publishedDateTime: 2021-05-04T08:11:00Z
-    webUrl: "https://analyticsindiamag.com/former-google-ai-scientist-samy-bengio-to-join-apple/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2019/11/INDIAMSBA-GETPAID300x250.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "QdaxcOf8jnmaFXDyQF+lsjcoEXG49PUkFCNMJgpkpe4d8hv9quzPu7y3D2wbNkfeXCwOggEI6OFvDUNOQBr8o3UqhGgzuMpnR8riVBjRb28pZPlDRjeoFMhPvnJcPCEGtJIbNb3xWpq59vQKoWVlsfqzWO8U+JKi6F2jS3U0+30zIIURTmsCZUhBtFx6v+PW5pWlaeSdYOn/ZKFOwxmKx16djbTINCH6nY8OXmov4ofmMznMRjoH4ZExBrok92tpLn01yX/nXIcxdmq3OoRGK25S85k7/T8mhQT43Ob/R1NFJsNMIGXfWAVhSk5d0g9fhY14D/yfNTh1ycVBY3KXPFuT4u0yQjcOo6wiuuDelyo=;vl6m9BXRNS97KLads2t4Dw=="
 ---

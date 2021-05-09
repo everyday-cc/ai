@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-search-solution-with-automated-content-enrichment/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Kanverse.ai Introduces Next-Generation Cognitive Automation Platform and Launches Intelligent Document Processing Product (IDP)"
-    excerpt: "Kanverse.ai, a cognitive automation company, has announced the global launch of the Datolite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Kanverse IDP is built on Kanverse Cognitive Automation platform."
-    publishedDateTime: 2021-05-04T08:30:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210504005868/kanverseai-introduces-next-generation-cognitive-automation-platform-and-launches-intelligent-document-processing-product-idp"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "927E2lsA+oPmjIjhWVhP9jBxhPk9+YfSHijikh/5WwH4249Ne0pfkqhlWD/OaFg1ZIzul/9Cg8wQnctwdY9Iju1w29fiZmI07vXW6Fp24xFCDPSJ2l3Ry4hrnYjmbcexyG1lbEZ3ON+IZP7RPipSAhmfAW1WSCBwW18coIt+pzkncaJlLM+0U1MT/chTHCsEHUSOWVi66gTLB1Bu1QL9QOA2WBCYcYEH4cB2iIMtFr4SshRKYz+KzXUQqegQ76Yuz/7MJyasNRwTuzf81rhYIAjok8gn8FqaoT2LjGPb11pl20IYwN3G0kBaKiWOlCy/WiUbf17f48JKW36zyxh7ex5hqcRlUm5j6TLUynWxph4=;LHG8z2eA+x515mYpyJZJqw=="
 ---

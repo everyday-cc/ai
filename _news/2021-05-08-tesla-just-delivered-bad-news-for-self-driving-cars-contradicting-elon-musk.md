@@ -3,10 +3,10 @@ category: news
 title: "Tesla just delivered bad news for self-driving cars — contradicting Elon Musk"
 excerpt: "Tesla CEO Elon Musk said the company was “highly confident” that its cars would achieve full Level 5 self-driving autonomy in 2021. It turns out that just 41 days later, one of the company’s engineers was offering a less optimistic timeline to California’s regulators."
 publishedDateTime: 2021-05-08T11:08:00Z
-originalUrl: "https://www.tomsguide.com/uk/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-webUrl: "https://www.tomsguide.com/uk/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-ampWebUrl: "https://www.tomsguide.com/uk/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+originalUrl: "https://www.tomsguide.com/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+webUrl: "https://www.tomsguide.com/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
 type: article
 quality: 56
 heat: -1
@@ -155,6 +155,20 @@ related:
         width: 1200
         height: 619
         isCached: true
+  - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
+    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self - driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
+    publishedDateTime: 2021-05-09T01:43:00Z
+    webUrl: "https://menafn.com/1102048356/Tesla-admits-Musks-full-self-driving-claim-not-feasible-yet"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "http://iansphoto.in/web/photoimages_new/400/2020/10/18/1763668c76c184b11fd739080dcc7beb.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Tesla's Full Self-driving Cars Year-End Achievement Remain Uncertain"
     excerpt: "According to a memo from the California Department of Motor Vehicles (DMV), Tesla Inc told a California regulator that it could not reach complete self-driving technology by the end of this year. During a January earnings conference call,"
     publishedDateTime: 2021-05-08T21:56:00Z
@@ -285,6 +299,6 @@ related:
         height: 382
         isCached: true
 
-secured: "MmYmErtAmGkv5xce2WYOehgRwOFLvYpnfVVnxt8Pw0iTMDCSqLfTUmZ+GatMIr5bCQ4+XYAYn4AbtN2aGffvnIfjFf8DszxFlVgC5VxqCvi4FWv27hddt4QY6JkmwrA0l1XKLUA1nj4+ycrr0ZbLNCWII54WnxbBc7DXO0N5qjtrYa0yv8G9/Sg6jcfmWjlGNmoziVqxAzzt9NimI5pAoDjBPfGJD0kyEw/2pnAN8VAVNEcgugIwquSdwlnIirtRDQWIAM6tmGRvZ/wviBJmfOuiGSMtzx/SF2knWnIeSFhuEXS5b/iRl6L6XKDiE0VI60dysjTuJ3OCimdbOl6vAUawm/tOpmysu39euOqT4E6jHK5oyOC9P8+7wYDIALsaBqtOVlOZgJNXHn4RU6N0HnPOzufgx6zt9Wekt8jgMulGd6IFuJbHX3JOD8oAPwKsItcNQdeI1XqM6/9kJkm8SMKlFwBQxLnDAR4V5DsmE2r0eESaEw0w/Clk6KgkdCefAlq60Qvh0eNjiiBjHj+gGA==;JopNgUG+rpyF7afuS83/Vw=="
+secured: "GOyu+wQjjDIpACo8TopPbUeRCBJAxWzSHzsJve02np1m3iK90OF95PZjE8qzwzMbZz1PYlOY70oykZorm1FyDeLiHkgY+O/RVtfwnMSDIyU4GUCZWRNFLofH91S4XK0EzV/5P10BLw7NIaeMAFazjTfG2cNGWl5aSJYjyZLojXnnk6aV1gXoglUTgd+6WbeCZPzmzg4Oi3kx9LmN9/bpRzkmiT1WGSbeEfANHBGEHPTjtQ3Yc5VgdP7iohUatJDzyS+9yONVPdeYCWjnKvDdYTaMZNMPBiGYk7GiQMkWJENdwCEV1YoX0qFwdGOiNXk/t2XGMzb97lQdDBbcHM6dT5yJbv9CyCcga56WBmBwbRc=;n/rZFbXGr7T7tyFnt2s7nw=="
 ---
 

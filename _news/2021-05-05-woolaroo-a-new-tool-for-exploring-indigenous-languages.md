@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-t
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/amp/"
 type: article
 quality: 194
-heat: 204
+heat: 205
 published: true
 
 provider:

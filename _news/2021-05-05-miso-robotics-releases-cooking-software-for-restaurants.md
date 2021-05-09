@@ -7,7 +7,7 @@ originalUrl: "https://labusinessjournal.com/news/2021/may/04/miso-robotics-relea
 webUrl: "https://labusinessjournal.com/news/2021/may/04/miso-robotics-releases-cooking-software-restaurant/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The maker of Flippy is now selling the software behind the robot"
-    excerpt: "Restaurants can now buy the technology that powers Flippy the automated fry cook—without the robot. Miso Robotics, the maker of Flippy, on Tuesday unveiled a software product called CookRight, which uses artificial intelligence and machine learning to guide kitchen workers at the grill."
-    publishedDateTime: 2021-05-04T09:00:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/technology/maker-flippy-now-selling-software-behind-robot"
-    ampWebUrl: "https://www.restaurantbusinessonline.com/amp/technology/maker-flippy-now-selling-software-behind-robot"
-    cdnAmpWebUrl: "https://www-restaurantbusinessonline-com.cdn.ampproject.org/c/s/www.restaurantbusinessonline.com/amp/technology/maker-flippy-now-selling-software-behind-robot"
-    type: article
-    provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 59
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-05/background/400x600/shutterstock_image_1620064252.jpg?CMLT3umtvWXJpXYM9BrsVKmy0Z15aRcs"
-        width: 400
-        height: 210
-        isCached: true
   - title: "Miso Robotics Rolls Out New AI Software For Grill Tracking"
     excerpt: "Pasadena-based robotics developer Miso Robotics rolled out a new product this morning, a new, artificial intelligence-driven product called CookRight. According to Miso Robotics, the new product runs independently of its \"Flippy\" robot,"
     publishedDateTime: 2021-05-04T13:27:00Z

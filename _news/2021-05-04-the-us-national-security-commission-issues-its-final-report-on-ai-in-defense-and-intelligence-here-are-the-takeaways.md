@@ -42,20 +42,6 @@ related:
         width: 546
         height: 685
         isCached: true
-  - title: "Fighting algorithmic bias in artificial intelligence"
-    excerpt: "Julianna Photopoulos explores the issues of racial and gender bias in AI – and what physicists can do to recognize and tackle the problem"
-    publishedDateTime: 2021-05-04T08:22:00Z
-    webUrl: "https://physicsworld.com/a/fighting-algorithmic-bias-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 41
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2021/05/Photopoulos-artificial-intelligence-1310293181-iStock_imaginima.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "2216XyerbUPQ5/+DP5ZYadjwa+lyhi0f4A6JvyumoTSuri4n/8ZZbG+WoctpJcPF0gBLLvGpP2vEk/UmP60c0/gjossKkRILUeLVoat8NMxDEITFQhlnQBtnX2qiBqXJA/bUsQ2W1qVkeyiYxLsprxi3c+9Ul6rWluLY29NrkLT5CbWDaQG478+MzajWiTxSDM3ACnqhhNHtwEY5sy0Btr9IR38PU+h9FrQg3afepFpK18N+OfgsloWt0Ht9hXIJJLkv0kAZ5ilPT0TI9uTvTpGFpbA/4WGUYKLiatFlRuMo3sKuPNBfFFerEyKJRRGZJMTuBw4cucpdjMhEsYQ/ROEBFO21w80im8b64+TNmMO17cnmb8a0Hj3jNP5rHWRj8HnJE/0P4YDYGMynARZ56CZme8YusYt7xwtRqRKBIy2KAO2Yf01IvYNvw6B40Ulpj27idpcMyt9h6O3+7CbpnrW8m5IBX4aM4ZwVA9fCP7BH9rxpAyOwRcky8jg4UC9fzVEfwoxjXtPAg0qFZNOylw==;RTpcimtveCEkUQLB1uMxcg=="
 ---

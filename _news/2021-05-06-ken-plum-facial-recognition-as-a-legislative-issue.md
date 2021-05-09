@@ -71,31 +71,15 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "King County Council delays vote on facial recognition ban"
-    excerpt: "The Metropolitan King County Council delayed a vote on a groundbreaking facial recognition ban, citing a need to do additional outreach and research on the policy's effects."
-    publishedDateTime: 2021-05-06T01:14:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/?amp=1"
+  - title: "King County considers ban on facial recognition technology"
+    excerpt: "The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff’s office."
+    publishedDateTime: 2021-05-06T06:08:00Z
+    webUrl: "https://www.king5.com/article/tech/king-county-considers-ban-on-facial-recognition-tech/281-e50f4478-81d7-4108-8926-9f906c3c29a9"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-  - title: "Facial Recognition Software Fuels Growing Concerns in State Legislatures"
-    excerpt: "Lawmakers in at least 20 states are weighing curbs on police use of facial recognition, citing concerns of accuracy, invasion of privacy, racial bias and civil rights abuses."
-    publishedDateTime: 2021-05-06T15:16:00Z
-    webUrl: "https://thecrimereport.org/2021/05/06/facial-recognition-software-fuels-growing-concerns-in-state-legislatures/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 38
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
-        width: 720
-        height: 393
-        isCached: true
+      name: KING5
+      domain: king5.com
+    quality: 19
   - title: "National Association of School Nurses Announces May 12th as School Nurse Recognition Day"
     excerpt: "Wednesday, May 12, is National School Nurse Day, an opportunity to acknowledge and thank school nurses for all they do to support the health and learning of adolescents and children across our country."
     publishedDateTime: 2021-05-07T17:24:00Z
