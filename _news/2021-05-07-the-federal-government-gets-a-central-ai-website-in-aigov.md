@@ -7,7 +7,7 @@ originalUrl: "https://www.fedscoop.com/naiio-launches-ai-website/"
 webUrl: "https://www.ai.gov/"
 type: article
 quality: 137
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Keys for Unlocking AI in Government, According to the Experts"
-    excerpt: "How can civilian and defense agencies begin to reap the benefits of AI? At a recent virtual event, government and industry leaders came together to discuss just that. Here’s what they had to say"
-    publishedDateTime: 2021-05-04T17:05:00Z
-    webUrl: "https://www.govexec.com/assets/3-keys-unlocking-ai-government-according-experts.pdf"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 37
-    images:
-      - url: "https://cdn.govexec.com/media/screen_shot_2021-05-04_at_10.00.38_am.png"
-        width: 649
-        height: 839
-        isCached: true
   - title: "Oxford Researchers Propose Framework for Governmental AI Projects"
     excerpt: "The increasing accessibility of AI is leading to growing adoption not just for enterprises, but also for governments, with applications ranging from urban"
     publishedDateTime: 2021-05-07T22:31:00Z

@@ -41,21 +41,21 @@ related:
         width: 1200
         height: 844
         isCached: true
-  - title: "Argo’s new lidar sensor could help Ford, VW deploy self-driving vehicles at scale"
-    excerpt: "Argo AI made its first acquisition as a young, newly backed self-driving vehicle startup. Now, Argo says its acquisition of lidar company Princeton Lightwave is paying off and is poised to help it deliver autonomous vehicles that can operate commercially on highways and in dense"
-    publishedDateTime: 2021-05-04T18:09:00Z
-    webUrl: "https://techcrunch.com/2021/05/04/argos-new-lidar-sensor-could-help-ford-vw-deploy-self-driving-vehicles-at-scale/"
-    ampWebUrl: "https://techcrunch.com/2021/05/04/argos-new-lidar-sensor-could-help-ford-vw-deploy-self-driving-vehicles-at-scale/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/04/argos-new-lidar-sensor-could-help-ford-vw-deploy-self-driving-vehicles-at-scale/amp/"
+  - title: "Ford-backed Argo sees new sensor as key for self-driving cars"
+    excerpt: "The new technology will be used for the self-driving system that will debut on Ford’s ride-hailing and delivery vehicles next year and on VW models in the middle of the decade."
+    publishedDateTime: 2021-05-09T10:23:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars-41620550983829.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars/amp-41620550983829.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars/amp-41620550983829.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
     images:
-      - url: "https://i.ytimg.com/vi/I_tYxMh3ddA/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://images.hindustantimes.com/auto/img/2021/05/09/600x338/2020-04-28T015539Z_1_LYNXNPEG3R03L_RTROPTP_3_AUTOSHOW-FRANKFURT_1588074593229_1620551501846.JPG"
+        width: 600
+        height: 338
         isCached: true
   - title: "Ford & Volkswagen-backed Argo AI Develops an Advanced Lidar Sensor for Self-driving Vehicles"
     excerpt: "Argo AI, the Pittsburgh-based developer of autonomous driving technology backed by Ford Motor Co and Volkswagen, announced on Tuesday the development of a new, advanced lidar sensor for self-driving vehicles called “Argo Lidar."

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ibooster-presents-linked
 webUrl: "https://www.marketwatch.com/press-release/ibooster-presents-linkedin-boost-solution-for-the-fintech-market-2021-05-06"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: MarketWatch
@@ -42,22 +42,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Banking-and-Fintech.jpeg"
         width: 1600
         height: 1066
-        isCached: true
-  - title: "Refinitiv Joins Forces With FinTech Studios to Provide Market Intelligence For Wealth Management Professionals Across Latin America"
-    excerpt: "Refinitiv, a provider of financial markets data and infrastructure that has served more than 40,000 institutions in over 190 countries, announced on Tuesday it has joined forces with FinTech Studios,"
-    publishedDateTime: 2021-05-04T17:56:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/174945-refinitiv-joins-forces-with-fintech-studios-to-provide-ai-news-market-intelligence-for-wealth-management-professionals-across-latin-america/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/174945-refinitiv-joins-forces-with-fintech-studios-to-provide-ai-news-market-intelligence-for-wealth-management-professionals-across-latin-america/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/174945-refinitiv-joins-forces-with-fintech-studios-to-provide-ai-news-market-intelligence-for-wealth-management-professionals-across-latin-america/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 14
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/North-America-South-America-Globe-World-greg-rosenke-unsplash-300x286.jpeg"
-        width: 300
-        height: 286
         isCached: true
 
 secured: "uFYXijB2zdVwBBYiWnp4ZqYti2/0OGvyLV9xneiBcOu5RM75m7KBHOyQle4+D1225WpiYEfV2r4rz6okmOxooyo+GWnqWRZAErUc9ktyjn3jajz3tIyRZgiKgpNmXhOS00Q4gck5IUGMWgNcTE+xyX48REqQ83keALGYDPh+jK42cqO+yyaRhKdw4d6elQFqKXERlvrDKGXm/5hK1q+hDCFJa3IyBsPqP+mF5OxfyEBaN5lo4llUgjvQ8gbHCpGfGlxYaVqHMJW022MuQNmCJU5eHoSbTUs0d346Mu108QlG+lYabVFjboyvetNt8mT1acZjWGRv8B3Zw1n3kY+37XuwlZrlRhZPAb/s32QOdUk=;2g45wmM4GWbO4eWpe7Yh8g=="

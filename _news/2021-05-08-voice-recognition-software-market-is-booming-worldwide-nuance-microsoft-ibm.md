@@ -1,22 +1,29 @@
 ---
 category: news
-title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
-excerpt: "Competition in Australia is heating up among Microsoft Azure providers, with local players challenging the global giants, ISG (Nasdaq:III) says."
-publishedDateTime: 2021-05-07T00:20:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210506006308/en/Rising-Demand-in-Australia-Intensifying-Competition-Among-Microsoft-Azure-Providers"
-webUrl: "https://www.businesswire.com/news/home/20210506006308/en/Rising-Demand-in-Australia-Intensifying-Competition-Among-Microsoft-Azure-Providers"
+title: "Voice Recognition Software Market is Booming Worldwide | Nuance, Microsoft, IBM"
+excerpt: "Latest released the research study on Global Voice Recognition Software Market, offers a detailed overview of the factors influencing the global business scope. Voice Recognition Software Market research report shows the latest market insights,"
+publishedDateTime: 2021-05-08T01:37:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/269313651/voice-recognition-software-market-is-booming-worldwide--nuance-microsoft-ibm"
+webUrl: "https://www.bignewsnetwork.com/news/269313651/voice-recognition-software-market-is-booming-worldwide--nuance-microsoft-ibm"
 type: article
-quality: 28
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
+  - Microsoft AI
+
+images:
+  - url: "https://icrowdnewswire.com/wp-content/uploads/2021/05/824-1620400907.ama-logo.png"
+    width: 300
+    height: 300
+    isCached: true
 
 related:
   - title: "A Quick Introduction to Microsoft Azure Purview"
@@ -79,21 +86,16 @@ related:
         width: 799
         height: 419
         isCached: true
-  - title: "Voice Recognition Software Market is Booming Worldwide | Nuance, Microsoft, IBM"
-    excerpt: "Latest released the research study on Global Voice Recognition Software Market, offers a detailed overview of the factors influencing the global business scope. Voice Recognition Software Market research report shows the latest market insights,"
-    publishedDateTime: 2021-05-08T01:37:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269313651/voice-recognition-software-market-is-booming-worldwide--nuance-microsoft-ibm"
+  - title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
+    excerpt: "Competition in Australia is heating up among Microsoft Azure providers, with local players challenging the global giants, ISG (Nasdaq:III) says."
+    publishedDateTime: 2021-05-07T00:20:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210506006308/en/Rising-Demand-in-Australia-Intensifying-Competition-Among-Microsoft-Azure-Providers"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/05/824-1620400907.ama-logo.png"
-        width: 300
-        height: 300
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 28
 
-secured: "+TJuJpQxoDFp5IjFfnkzWIhJBYYgbmrigtQZROMiR8WwyqO2pk6qeT6Lzp0HzeoWyTjHMox/TQZc/rsTkSR9UOnZTVkrJZ4UpsjUi3F2V53tQ5ljGduVxzm6NT0mEF7iTEmQd5Q7sBwbFDP1TohNumgqEOwHj57X02czsLYlMpMByfLzR7+P4zlvc7AwWMsxxtb8Qqfbf176YvDlznTJbG1U/LYKf1/ZXgQoIx2VgH9wE9tHrwD/fE85JB6HyLa12YFKwauLpgR0gQFgVQs0knjFh/eVRS1EJ112mbyLzEuisGRrul+wj/XxF3ChwXVW1uXD5BX0k9sD2x8dzNbJrIreDivHSW+SMnh4RJmZSXg=;yPlZXvc//Ip0khcBTkjXAA=="
+secured: "EoN94XqPCPUMLuYVWcPtsUY1CQf+zxoGRtMkIzDnAcfodXihhuhNRhzgNNaomVIMpdRMXobaVraKj5xUaxy1rmuQhAfQW+iyqoWPIpgnHMA9s+uD5/CnJbeIwP9nxpFLgjBwfU/MbzzNtphU7Gj2XQoNwolnq405f9ycQrqLxGuRvLuMINcvPJkzCpnA2ecv0eWbwBe0ICt2t+lnbLJxFzWestHL1lAJvjh3WAoZHACBKWEpimr4WxhPebqEy6+jAjgMDBf8095qI8I/w9S8SgP+aRrQikOQVPrjPappvJNLdT0fy/vCwkN1cX72ovUgr6RTGjHqhD+z6szntRIGhTbf5GjMzqNLekIWbxNVGQk=;YjrTN1Fflqs1xqVcg0v6lg=="
 ---
 

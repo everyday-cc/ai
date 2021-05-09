@@ -33,22 +33,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Tired of brushing your own hair? Now you can get a robot to do it for you"
-    excerpt: "Have you ever been stuck in the tangled doldrums of hair brushing and just found yourself thinking: “Boy, I could really use some help with this”?"
-    publishedDateTime: 2021-05-04T18:36:00Z
-    webUrl: "https://www.syfy.com/syfywire/robot-hair-brusher-robowig"
-    ampWebUrl: "https://www.syfy.com/syfywire/robot-hair-brusher-robowig?amp"
-    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/robot-hair-brusher-robowig?amp"
-    type: article
-    provider:
-      name: Syfy
-      domain: syfy.com
-    quality: 73
-    images:
-      - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/05/gettyimages-1173567620.jpg?offset-x=0"
-        width: 1200
-        height: 680
-        isCached: true
 
 secured: "8DM6KShP+iG5be55EfCrxJHBQqzCnIbdnY/YvNyYw44C50NtgHrCaUUnx35V7wzMeWZCcgbCMothaY257v2DvzybS4/FQ6hK9hPWYHXjdOo+GbVwG+DbwI+88Ms+NTAsRbcdV7MgWGDgGFIjX7gp4vsX1LWJIQYRxJf0prrRCh9Xk+Z9JZmf1L0VtjPTWTwc8vrGsSk5YW57FMsducuCdWKJpFynXY3xfW42PZkhPGFSo1GaPHuzy5PfZaAIcbX5Xm9bvMwckoTCuPUe8qyxguTbIF4/YGHnBdxhanPXAskf5hjZuHlP5g4Duo9LAezTwz+8Xz4JnTeQvWtpRYYNKcH8hze35/nqETYP+gong0PSUwv6Z1ILUyXkO4lHlce8qnkQYrTPkcT8U3zoOkj68hMSCOQTni+5txWXjCbEZu561tUPGn5A+8klefxD6xdtSSGViPDijG0C846zuYH/IdIxYJeK+T++tUgueAdk63Ai655TJOoYDSaNrqBlAxNAgH+k+Gz05oaq7CiEzueEMA==;/q2PghaTJNIfjqTKiuEKDA=="
 ---

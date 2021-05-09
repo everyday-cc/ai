@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558/amp"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Gizmodo
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Campaigners call for Spotify to disavow ‘dangerous’ speech recognition patent"
-    excerpt: "Campaigners have demanded that Spotify renounces a patent for speech recognition tech that recommends music based on a user's mood, gender, age, or accent."
-    publishedDateTime: 2021-05-04T18:31:00Z
-    webUrl: "https://thenextweb.com/news/campaigners-demand-spotify-renounces-patent-for-voice-based-music-recommendations"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 81
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-2021-05-04T164205.505.png&signature=c486bf4243cdaf77bc553e68b1d5ab74"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Musicians, including RATM's Tom Morello, urge Spotify never to use patented voice recognition tech"
     excerpt: "Spotify’s patent, granted on January 12, describes analyzing users’ voice and background noise to detect their mood and social setting, such as whether they are in"
     publishedDateTime: 2021-05-05T12:37:00Z

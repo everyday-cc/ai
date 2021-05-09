@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Refinitiv Joins Forces With FinTech Studios to Provide Market Intelligence For Wealth Management Professionals Across Latin America"
-    excerpt: "Refinitiv, a provider of financial markets data and infrastructure that has served more than 40,000 institutions in over 190 countries, announced on Tuesday it has joined forces with FinTech Studios,"
-    publishedDateTime: 2021-05-04T17:56:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/05/174945-refinitiv-joins-forces-with-fintech-studios-to-provide-ai-news-market-intelligence-for-wealth-management-professionals-across-latin-america/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/174945-refinitiv-joins-forces-with-fintech-studios-to-provide-ai-news-market-intelligence-for-wealth-management-professionals-across-latin-america/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/174945-refinitiv-joins-forces-with-fintech-studios-to-provide-ai-news-market-intelligence-for-wealth-management-professionals-across-latin-america/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 14
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/North-America-South-America-Globe-World-greg-rosenke-unsplash-300x286.jpeg"
-        width: 300
-        height: 286
-        isCached: true
 
 secured: "i5TP4F7rZXhiLgcG1AJPyf1VIPoDr+VyNzldqKcujk6Drm6uyNLRuNnOMHxx+I0pfjxRwCNdGPW6Tt0gIkpE/jjdRqVRpuIthpQtjPjBJ8hG43Ah1Uc+leIlvt7dW7RinFl8rDgFmid3M3IRJ/yvzxzQ4ILMJXjG4sFKuJYPnPiF41Sj3H4v45HM+taUG9yXGGk0ewFB3eaL9/7S3GrbXwRvKu+OsyjodlR7Ruik1/BFcZb7wzv/ZfD8PvkCaB1NuvaIPtoGeObBzjzoOI2uKIKaYYqSmatxRr9/o9xVPTL8wWbyMUpVfmFyuqNafGO1Fj7ljnwuw3HCfZCIPb3PqAhqUW7bLIvD0tbeyKRc+ruPHHlP4cyaHHE6RZKWksoeDVQReapGssdq1wDGyP7yGYiZB5wTFb/8sJv7B0HvByMZ53jCd6Y8EZhh0o4Pux4P1lDNKaF6zbb7DDm26tfd12cTRio9KYLgtNnM/yMygSEP8IzQK0TNA8eoykbh08czvRWU94q1vEg8m6LnsZFVLQ==;Fe9+ZBb+TrqvpCoiRxl8qw=="
 ---

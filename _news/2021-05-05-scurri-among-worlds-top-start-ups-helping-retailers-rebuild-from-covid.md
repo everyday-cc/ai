@@ -7,7 +7,7 @@ originalUrl: "https://www.retailtimes.co.uk/scurri-among-worlds-top-start-ups-he
 webUrl: "https://www.retailtimes.co.uk/scurri-among-worlds-top-start-ups-helping-retailers-rebuild-from-covid/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 600
     height: 305
     isCached: true
-
-related:
-  - title: "Olvin among world's top start-ups helping retailers rebuild from COVID"
-    excerpt: "Olvin has been named among the top 40 retail tech start-ups operating globally in Retail Week World Retail Congress' (RWRC)"
-    publishedDateTime: 2021-05-04T17:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/n20946055/olvin-among-worlds-top-start-ups-helping-retailers-rebuild-from-covid"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20946055"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20946055"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "eA4sFJAwDrZl24Tl6N7NnC96AjCO0QeI7XzHwfRmPPj5f2ULS1ZmXj+NZs02whbM8n8mONvMXmhKbonGv8VcCVKjlyPd/Q5uq/jHH+Ue2rYkS5R/3PCo/EJx2xvAMiytsAQwABP2Pk2u6T8w2+B9QWh4jd+lKP6fjdI7X9gWYlpxrQ+z/Z36RlVR9tuphRzvJmlDDCksHeL3PjBa6YN4y0tcui71fgtZqVU+uYpQr3oIG2GRtz0fTHhLno2Qjhm6O17qTeGs22TJ6MbxbF/5+CaAj563J2nDu45ehiIz2ds1reNqvzqut6jQquivW+6BOoqDDeo1Rp+dnhWennESFNyLhbz6XgLq/1PEn7a5jynEk3FXouF1/P68DkHQx2i7F8C8W6+yyXr0NjYo4of1efJb264botAY3EHegaKPbxmym3YtkP7J88gDmNBYdfPgEms5Yrn1Ql5sJeN0QdtJjYSBE+MNLaGJvswaGuBKlBRAdS2S38bVEdmqvKVW7ILR9Nr5KQwJFkAvBUDsD8ci0Q==;TJ4EtI5m73BDZ0OTCbI+vw=="
 ---
