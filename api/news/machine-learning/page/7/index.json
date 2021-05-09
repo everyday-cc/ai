@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-16-gbt-commences-research-of-probabilistic-neural-network-pnn-algorithms-and-techniques-for.md",
+      "title": "GBT Commences Research of Probabilistic Neural Network (PNN) Algorithms and Techniques for ...",
+      "excerpt": "GBT Technologies Inc. (OTC PINK: GTCH) (“GBT” or the “Company”) is researching Probabilistic Neural Network (PNN) algorithms and techniques for Kirlian research. PNN is a supervised artificial neural network,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-integrated-circuits-c180ccd69a4a0dab5923fd3a600e87c8",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-integrated-circuits-c180ccd69a4a0dab5923fd3a600e87c8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-aws-launches-deepracer-womens-league-for-female-students-to-learn-machine-learning.md",
       "title": "AWS launches DeepRacer Women’s League for female students to learn machine learning",
       "excerpt": "Participants can leverage AWS machine learning and AWS DeepRacer course modules and several enablement sessions planned during the event. AWS has launched DeepRacer Women’s League- India 2021, to bring together women students to learn machine learning ...",
@@ -1211,49 +1245,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-neural-network-clip-mirrors-human-brain-neurons-in-image-recognition.md",
-      "title": "Neural network CLIP mirrors human brain neurons in image recognition",
-      "excerpt": "Open AI, the research company founded by Elon Musk, has just discovered that their artificial neural network CLIP shows behavior strikingly similar to a human brain. This find has scientists hopeful for the future of AI networks' ability to identify images in a symbolic,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.html",
-      "originalUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/6047c07b01a40.jpg",
-          "width": 846,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp",
-      "publishedDateTime": "2021-03-09T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

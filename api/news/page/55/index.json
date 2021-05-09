@@ -2,6 +2,92 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-03-12-image-recognition-market-outlook-regional-growth-analysis-by-2025-with-predominant-players-honeywell-ltu-technologies-catchoom-panasonic.md",
+      "title": "Image Recognition Market Outlook, Regional Growth Analysis By 2025 With Predominant Players: Honeywell, LTU Technologies, Catchoom, Panasonic, Toshiba",
+      "excerpt": "QR/Barcode Recognition, Object Recognition, Optical Character Recognition, and Pattern Recognition. The 'object recognition segment dominated the market in 2016 and it is anticipated to lead the ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101739023/Image-Recognition-Market-Outlook-Regional-Growth-Analysis-By-2025-With-Predominant-Players-Honeywell-LTU-Technologies-Catchoom-Panasonic-Toshiba",
+      "originalUrl": "https://menafn.com/1101739023/Image-Recognition-Market-Outlook-Regional-Growth-Analysis-By-2025-With-Predominant-Players-Honeywell-LTU-Technologies-Catchoom-Panasonic-Toshiba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?608065",
+          "width": 436,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.md",
+      "title": "Self-driving robot delivery startup raises $4.2 million to expand in Ann Arbor",
+      "excerpt": "Ann Arbor-based delivery robot developer Refraction AI has raised $4.2 million in seed funding. The company in 2019 created the REV-1 robot, a lightweight, self-driving robot that delivers food and groceries to Ann Arbor residents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html",
+      "originalUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZNWLS3BI7ZEDVFLTNKGYKWCJLQ.JPG",
+          "width": 6192,
+          "height": 4128,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html?outputType=amp",
+      "publishedDateTime": "2021-03-11T11:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-apple-plans-to-build-its-own-self-driving-car.md",
       "title": "Apple plans to build its own self-driving car",
       "excerpt": "Apple’s talks with car manufacturers have fizzled out, reportedly leaving the company to take on the task of building its planned self-driving car itself.",
@@ -989,83 +1075,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-microsoft-edge-ai-kit-runs-linux-on-imx8m-and-adds-myriad-x-and-8mp-cam.md",
-      "title": "Microsoft edge AI kit runs Linux on i.MX8M and adds Myriad X and 8MP cam",
-      "excerpt": "Microsoft’s $349 “Azure Percept DK” edge AI kit runs Linux on an i.MX8M and works with Azure IoT services. The kit has a “Vision” module with a 0.7 TOPS Myriad X and an 8MP camera plus an an optional “Audio” module with a 4-mic array.",
-      "sourceUrl": null,
-      "webUrl": "https://linuxgizmos.com/microsoft-edge-ai-kit-runs-linux-on-i-mx8m-and-adds-myriad-x-and-8mp-cam/",
-      "originalUrl": "https://linuxgizmos.com/microsoft-edge-ai-kit-runs-linux-on-i-mx8m-and-adds-myriad-x-and-8mp-cam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T21:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "run Linux-based Opera TV",
-        "domain": "linuxgizmos.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-backplane-systems-technology-presents-neousyss-nuvo-8108gc-xl-edge-ai-gpu-computing-platform-with-nvidia-rtx-30-series.md",
-      "title": "Backplane Systems Technology Presents Neousys’s Nuvo-8108GC-XL Edge AI GPU Computing Platform with NVIDIA® RTX 30 Series",
-      "excerpt": "Backplane Systems Technology is proud to present Neousys’s Nuvo-8108GC-XL, an edge AI GPU computing platform supporting NVIDIA® RTX 30 Series GPU cards up to RTX 3080 and Intel® Xeon® E, 9th/ 8th-Gen Core™ processors. Featuring patented thermal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-neousyss-nuvo-8108gc-xl-edge-ai-gpu-computing-platform-with-nvidia-rtx-30-series/",
-      "originalUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-neousyss-nuvo-8108gc-xl-edge-ai-gpu-computing-platform-with-nvidia-rtx-30-series/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ferret.com.au/wp-content/uploads/2021/03/PR-Image-Neuosys-Nuvo-8108GC-XL.jpg",
-          "width": 1500,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T19:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ferret Australia's Manufacturing Industrial and Mining Directory",
-        "domain": "ferret.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

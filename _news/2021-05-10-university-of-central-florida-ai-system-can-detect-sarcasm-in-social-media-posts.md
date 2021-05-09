@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
-excerpt: "Computer science researchers at the University of Central Florida have developed a sarcasm detector. Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and services."
-publishedDateTime: 2021-05-07T15:14:00Z
-originalUrl: "https://techxplore.com/news/2021-05-artificial-intelligence-sarcasm-social-media.html"
-webUrl: "https://techxplore.com/news/2021-05-artificial-intelligence-sarcasm-social-media.html"
-ampWebUrl: "https://techxplore.com/news/2021-05-artificial-intelligence-sarcasm-social-media.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-artificial-intelligence-sarcasm-social-media.amp"
+title: "University of Central Florida AI System Can Detect Sarcasm in Social Media Posts"
+excerpt: "Computer science researchers including an Indian American at the University of Central Florida have developed an artificial intelligence-based sarcasm detector for posts on social media platforms."
+publishedDateTime: 2021-05-09T19:30:00Z
+originalUrl: "https://www.indiawest.com/news/technology/university-of-central-florida-ai-system-can-detect-sarcasm-in-social-media-posts/article_2ee7f5a6-b08c-11eb-ab8d-2b04793c3b1a.html"
+webUrl: "https://www.indiawest.com/news/technology/university-of-central-florida-ai-system-can-detect-sarcasm-in-social-media-posts/article_2ee7f5a6-b08c-11eb-ab8d-2b04793c3b1a.html"
 type: article
-quality: 51
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: India West
+  domain: indiawest.com
 
 topics:
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/datascience.jpg"
-    width: 1920
-    height: 1280
+  - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/6/3c/63c4900e-b08c-11eb-a984-3f9e8a97ded7/60977b8e36009.image.jpg?resize=945%2C599"
+    width: 945
+    height: 599
     isCached: true
 
 related:
@@ -41,6 +39,22 @@ related:
       - url: "https://s3.india.com/wp-content/uploads/2019/07/artificial-intelligence-stock-image.jpg"
         width: 805
         height: 537
+        isCached: true
+  - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
+    excerpt: "Computer science researchers at the University of Central Florida have developed a sarcasm detector. Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and services."
+    publishedDateTime: 2021-05-07T15:14:00Z
+    webUrl: "https://techxplore.com/news/2021-05-artificial-intelligence-sarcasm-social-media.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-artificial-intelligence-sarcasm-social-media.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-artificial-intelligence-sarcasm-social-media.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/datascience.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "This AI is a bit smarter"
     excerpt: "A sarcasm detector for social media posts means that it can correctly identify the emotion behind the text Computer science researchers including one of Indian-origin at the University of Central Flor"
@@ -70,21 +84,7 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "University of Central Florida AI System Can Detect Sarcasm in Social Media Posts"
-    excerpt: "Computer science researchers including an Indian American at the University of Central Florida have developed an artificial intelligence-based sarcasm detector for posts on social media platforms."
-    publishedDateTime: 2021-05-09T19:30:00Z
-    webUrl: "https://www.indiawest.com/news/technology/university-of-central-florida-ai-system-can-detect-sarcasm-in-social-media-posts/article_2ee7f5a6-b08c-11eb-ab8d-2b04793c3b1a.html"
-    type: article
-    provider:
-      name: India West
-      domain: indiawest.com
-    quality: 32
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/6/3c/63c4900e-b08c-11eb-a984-3f9e8a97ded7/60977b8e36009.image.jpg?resize=945%2C599"
-        width: 945
-        height: 599
-        isCached: true
 
-secured: "w0NYHXlibmxmB6UQEQkyNsR3HXFxmdfwX8Qf917hGLqozgOQmObxiHdTtqz5Cdhte9bg3hr4+BnKPWpPmKl00Gg43lnJxDI22yAkUbf28vTDN4H5cE66lFDD6ZkeNlk0spUxS21L1+35QpjfVsmO+voOk08ylPpcl2G1N0f/aFOmhMNmEV8gxG8FioRpdD1P7k8JU/75AoIM9vwMLVwz9Qg02NlQiFEVogk2bMbMnoL+tJeyb+hDu7vduZh4FNSFyqcz0znTsIledXG2fuTDWb/LVnjRK/YcHwzDbohsnBcpqeA4cA5F+ieTCtyMUgbFB/9z50voWFMFAwDX09WLKCY0ij/pWHFWoIDt1/FI9SAtYUXO5MjXHsKNtoSZPBey1IfFclfDUWJvicgdpfPNlPGa9EXf896hpUrltSdg8B/9Bo/tRmRKi4cunKmESjEo1lTODUM3Nf/juxztMQRBj+I2nmLqIC7zg8qn6VGvEXc9mxconnI3SKDPsloi5xMLFmCUc9mWgI0Km5fyV6YO8g==;4TgdrNupRUDum4sTaNoE0g=="
+secured: "ETHmpPVIloN4gTwcF/S3hDD7t71bspcLS72EWMcU//Fzw+prwyjc2gsKiXejqfY5feYzsa4+gIO97vKWVroB/HTEHjqEHaokN/eZaT/mLf8aaUBQWJ54XwK0oXn4awRyKjCcX26DKfshUFBZaurhn6K87qFF3MqVHCOw8BFZSsE9eEIPvs3hy3HaOCeZ3DWv0Yzd+Txj3DnZasjQzHrvzdyxBniT4oaDIjBf93T3Umni+iruE9vJknThiSoCDs1xDt9yMVRoNgTGBMQlznubopdm5Utj0Y4MceokHqeLmkOy6/xSWLU0wkbv0tbwpL3xemO2AFelYPcbv+2CSihSMV84fh6qJaqtNkpzuLk56pU=;xKwl8ADmRFdoijE/P2zzbw=="
 ---
 

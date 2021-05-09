@@ -9,7 +9,7 @@ ampWebUrl: "https://www.india.com/technology/say-what-this-ai-system-can-detect-
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/amp/"
 type: article
 quality: 57
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/264268_web.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "University of Central Florida AI System Can Detect Sarcasm in Social Media Posts"
+    excerpt: "Computer science researchers including an Indian American at the University of Central Florida have developed an artificial intelligence-based sarcasm detector for posts on social media platforms."
+    publishedDateTime: 2021-05-09T19:30:00Z
+    webUrl: "https://www.indiawest.com/news/technology/university-of-central-florida-ai-system-can-detect-sarcasm-in-social-media-posts/article_2ee7f5a6-b08c-11eb-ab8d-2b04793c3b1a.html"
+    type: article
+    provider:
+      name: India West
+      domain: indiawest.com
+    quality: 32
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/6/3c/63c4900e-b08c-11eb-a984-3f9e8a97ded7/60977b8e36009.image.jpg?resize=945%2C599"
+        width: 945
+        height: 599
         isCached: true
 
 secured: "OdZosEmqydE4N8m3NLlyblbvTxIRCBMixPBHFLwX3UOgn9mQ/FmPV3szdJJtk2zA9ZP9MK0DWXhDBU/QpLfqUq6phraNIQvS7lSSZzaP2S9FqY+bt2j/zwn32Eh64sGLqvW5MQAou5O4GJN3ji51OcZs836gFsuNkzIywV1Q6A4mN1R2dtX4MVdp9Mk1zzfPoqMDxMXFedCCV1bysBvsZYNqWZOR5zyEUED/LbS7vasiYq5meeaXMX4HKJj5yvRKs4SMee5jjQUjn1YBxLXnprKKuaXB5ydQW0F55lQPONsUsrxIMSo6flySCdYUV1P6LFjOWn7VvcHcQql94jyAm1sI7ZsWi6/nSWAsgareeWc9XKhNrEEm6DJUntYo6l4X4uPA1Rv3g3r3lMo8AFLCyoo8DRZcW+rfeOcxq+wD/S7S1mI/wThB8tUnv4D8hsq0g9zLbQavMpfbzCRFMR4o2OJelBcq/ku4Bukca80qi2adaxc+eRCjVmSfULh9zxQio/EWfp/NagVj2pbakIG20A==;SqYxtRjRVVvgFD0iRRnFMA=="

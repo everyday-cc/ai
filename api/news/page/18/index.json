@@ -2,6 +2,100 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-21-how-ibm-watson-is-helping-clients-build-trust-in-data-models-and-processes.md",
+      "title": "How IBM Watson is helping clients build trust in data, models and processes",
+      "excerpt": "Through my role as Chief AI Officer at IBM, I have the privilege of working with organizations to ensure they have a holistic approach to AI. We do that by helping businesses design AI strategies, set guiding principles, and infuse responsible AI products with intent and purpose throughout their business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/ibm-watson-trust-data-models-processes/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/ibm-watson-trust-data-models-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/1153_AI_Innovation_RC_Blog_Leadspace_990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T07:30:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-gpt-3-tech-startup-copysmith-secures-10-million-in-funding.md",
+      "title": "GPT-3 Tech Startup Copysmith Secures $10 Million in Funding",
+      "excerpt": "Copysmith, a startup that uses artificial intelligence (AI) for creative content generation, today announced a $10 million investment through a partnership with Harmony Ventures Labs (HVL) and funds advised by PSG.",
+      "sourceUrl": null,
+      "webUrl": "https://www.northwestgeorgianews.com/associated_press/business/gpt-3-tech-startup-copysmith-secures-10-million-in-funding/article_45e7d9b3-3b44-5d25-88c0-93aad455e4e4.html",
+      "originalUrl": "https://www.northwestgeorgianews.com/associated_press/business/gpt-3-tech-startup-copysmith-secures-10-million-in-funding/article_45e7d9b3-3b44-5d25-88c0-93aad455e4e4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rome News-Tribune",
+        "domain": "northwestgeorgianews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-research-team-training-artificial-intelligence-to-better-detect-small-objects.md",
       "title": "Research team training artificial intelligence to better detect small objects",
       "excerpt": "Artificial intelligence (AI) is good at recognizing a single bird in an image. Where it falls short is when it tries to identify hundreds of tiny birds in an aerial photo. Yi Shang, a professor in the University of Missouri College of Engineering,",
@@ -1053,104 +1147,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market Size Report, Trend, COVID19 Impact, Industry Outlook, Derive Growth, Share, Revenue Forecast to 2027",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T21:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware",
-        "AI in Healthcare",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-ai-algorithms-can-influence-peoples-voting-and-dating-decisions-in-experiments.md",
-      "title": "AI algorithms can influence people's voting and dating decisions in experiments",
-      "excerpt": "In a new series of experiments, artificial intelligence (A.I.) algorithms were able to influence people's preferences for fictitious political candidates or potential romantic partners, depending on whether recommendations were explicit or covert.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-04/p-aac041421.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-04/p-aac041421.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/262069_web.jpg",
-          "width": 720,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

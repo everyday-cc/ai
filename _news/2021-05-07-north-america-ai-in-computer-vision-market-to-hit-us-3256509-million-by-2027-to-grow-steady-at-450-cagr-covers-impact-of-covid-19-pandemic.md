@@ -1,28 +1,24 @@
 ---
 category: news
 title: "North America AI in Computer Vision Market to Hit US$ 32,565.09 million by 2027 to Grow Steady at 45.0% CAGR | Covers Impact of COVID-19 Pandemic"
-excerpt: "The AI in computer vision market in North America is expected to grow from US$ 1,761.21 million in 2019 to US$ 32,565.09 million by 2027; it is estimated to grow at a CAGR of 45.0% from 2020 to 2027."
-publishedDateTime: 2021-05-07T02:54:00Z
-originalUrl: "https://www.digitaljournal.com/pr/north-america-ai-in-computer-vision-market-to-hit-us-32565-09-million-by-2027-to-grow-steady-at-45-0-cagr-covers-impact-of-covid-19-pandemic"
-webUrl: "https://www.digitaljournal.com/pr/north-america-ai-in-computer-vision-market-to-hit-us-32565-09-million-by-2027-to-grow-steady-at-45-0-cagr-covers-impact-of-covid-19-pandemic"
+excerpt: "The AI in computer vision market in North America is expected to grow from US$ 1,761.21 million in 2019 to US$ 32,565.09 million by 2027; it is estimated to grow at a CAGR of"
+publishedDateTime: 2021-05-07T01:55:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/ab21006351/north-america-ai-in-computer-vision-market-to-hit-us-32-565-09-million-by-2027-to-grow-steady-at-"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21006351/north-america-ai-in-computer-vision-market-to-hit-us-32-565-09-million-by-2027-to-grow-steady-at-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21006351"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21006351"
 type: article
 quality: 17
 heat: 17
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/Trump-Twitter-16-9-AFP-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
 
 related:
   - title: "Facial Recognition System Market 2020- Impact of COVID-19, Future Growth Analysis and Challenges | Ayonix Corporation, Cognitec, Biometric Companies"
@@ -35,6 +31,6 @@ related:
       domain: ksusentinel.com
     quality: 0
 
-secured: "NtDcInVSDTaIYTIRNuGbrPapSBLJVP4X4dLP9JN0mDG3Zn9dL5d1Bz/jWNJumC8kYEucI7WJYaAnt4Jm00hbKl/V1n+LiRh31V7rZk3XP9O07wpaDVy5EcjGwDP1DqR7msTC+gZLfYRpqtzN57RA1BevglOrHhHcvzh0FuW94AH52ShOhFYW4BtvMDFpbG6imyWcPDF86nZ0MRyHX2ZJ4KkVnRAMmr06FgsKg1Im5xGWdSSqSTESTXlak/vd/Z0CCf5eYx3ae0IyYKA56Yh0co2Uf8psdHHmzbjmF53YFv1XGUoHn8naoNBqZ/mNgNNJm10m5GUsy7qbDuqgdR3uQ8i0zqirHXP4BaN6ZbEzn8o=;rxcbGIGYBaGXvazUYG1HTw=="
+secured: "DAuGqFYtUfmvSQ22Xz09Ro3VanPixa/7XE2lhSYAMN6D4HGV7X8nr5fxhIdKV4mjrDrp481SX4NyhEPV4wvPTt14dGmY8EQE8MrueZDymcPEVkjydXhNvnKdh+8eivnjr67MEhT+ISJA743tH0wg4mxy9MSxQQq9GnvPceL3BrztSwa3yaym3txmIHezATX1eNRqQzBA4AJJkqXboO2mE537fNQ/xdo7Sr259/Nwz/+mTHlYEWoOd05B/SP57xfzB9tTPkxd4Iww3XhFd7KzJuTAAju4OfGitPLXQq31XOMVwEFbdIDVGUlYUS7kRtlavWlV8qsOqGxbJ/LtvHhkGSJ/uZsLd7+UAJXhFnQRNFc=;Gt0SrzeBrtBl/JUqcJec4Q=="
 ---
 

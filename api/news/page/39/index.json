@@ -2,6 +2,93 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-03-30-will-ai-make-us-obsolete-kyna-premchandani-the-tiffin-girls-school.md",
+      "title": "Will AI make us obsolete? - Kyna Premchandani, The Tiffin Girls' School",
+      "excerpt": "AI does a vast amount of work which we as humans once did. This currently benefits us, allowing for greater efficiency, but will AI ever replace us? Artificial intelligence has begun to arise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisislocallondon.co.uk/youngreporter/19196781.will-ai-make-us-obsolete---kyna-premchandani/",
+      "originalUrl": "https://www.thisislocallondon.co.uk/youngreporter/19196781.will-ai-make-us-obsolete---kyna-premchandani/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thisislocallondon.co.uk/resources/images/12458944/",
+          "width": 500,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This is Local London",
+        "domain": "thisislocallondon.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-a-rundown-top-programming-languages-in-machine-learning-in-2021.md",
+      "title": "A Rundown: Top Programming Languages in Machine Learning in 2021",
+      "excerpt": "Python is a widely-used language, however, it is the essential choice for the greater part of its users because of the arrival of TensorFlow and a wide selection of other libraries Python is the most ideal choice for amateurs in the field. There are a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/a-rundown-top-programming-languages-in-machine-learning-in-2021/",
+      "originalUrl": "https://www.analyticsinsight.net/a-rundown-top-programming-languages-in-machine-learning-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Programming-Languages-in-Machine-Learning.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning.md",
       "title": "Cambridge Quantum Computing Pioneers Quantum Machine Learning Methods for Reasoning",
       "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... and is part of the Quantum Machine Learning division of CQC, headed by Dr. Mattia Fiorentini.",
@@ -1006,101 +1093,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move.md",
-      "title": "Computer vision software has the potential to reinvent the way cities move",
-      "excerpt": "The same frustrations have plagued urban roadways for decades. But technology is finally providing new ways to address the challenges of crowding, pollution and parking enforcement on city streets.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/",
-      "originalUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-951157764.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/amp/",
-      "publishedDateTime": "2021-03-26T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-watch-the-role-of-artificial-intelligence-in-auto-finance.md",
-      "title": "Watch: The role of artificial intelligence in auto finance",
-      "excerpt": "Auto lenders are turning to artificial intelligence (AI) and machine learning to increase efficiencies, improve customer service and expand marketing endeavors. Yet, incorporating new technology stacks poses challenges that financiers will need to navigate in order to take full advantage of the opportunities AI offers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/",
-      "originalUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autofinancenews.net/wp-content/uploads/2017/10/favicon-1.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/amp/",
-      "cdnAmpWebUrl": "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/amp/",
-      "publishedDateTime": "2021-03-26T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Auto Finance News",
-        "domain": "autofinancenews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

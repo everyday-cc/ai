@@ -2,6 +2,84 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-30-nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues.md",
+      "title": "NVIDIA warns gamers to update GPU drivers due to security issues",
+      "excerpt": "NVIDIA has reportedly found a few security vulnerabilities that may affect the popular GPU models in the market - and has released an update to fix it.",
+      "sourceUrl": null,
+      "webUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/",
+      "originalUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/03/Nvidia-GeForce-Hotfix.jpg",
+          "width": 600,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp",
+      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp",
+      "publishedDateTime": "2021-04-30T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-first-paid-robotaxi-service-in-china-to-begin-in-may.md",
+      "title": "First paid robotaxi service in China to begin in May",
+      "excerpt": "What is being called the first paid autonomous vehicle ride-hailing service will begin on May 2 in Beijing, China using driverless robotaxis from Chinese internet giant Baidu Inc. The fully autonomous Apollog Go Robotaxi service will have no safety driver behind the steering wheel and will be launched in Beijing’s Shougang Park—one of the venues for the 2022 Beijing Winter Olympics.",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/16662/first-paid-robotaxi-service-in-china-to-begin-in-may",
+      "originalUrl": "https://electronics360.globalspec.com/article/16662/first-paid-robotaxi-service-in-china-to-begin-in-may",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-9-questions-to-ask-when-auditing-your-ai-systems.md",
       "title": "9 questions to ask when auditing your AI systems",
       "excerpt": "Auditing your AI and big data can be a challenge. But there are some questions to ask to get you on your way to compliance and governance.",
@@ -1145,110 +1223,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-how-ai-is-mishandled-to-become-a-cybersecurity-risk.md",
-      "title": "How AI is Mishandled to Become a Cybersecurity Risk",
-      "excerpt": "While infosec specialists use AI for benign purposes, threat actors mishandle it to orchestrate real-world attacks. At this point, it is hard to say who is winning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cybersecurity-risk/",
-      "originalUrl": "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cybersecurity-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/04/AI.threats.cybersecurity2.png",
-          "width": 748,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-annotate-dense-point-cloud-data-using-sagemaker-ground-truth.md",
-      "title": "Annotate dense point cloud data using SageMaker Ground Truth",
-      "excerpt": "Autonomous vehicle companies typically use LiDAR sensors to generate a 3D understanding of the environment around their vehicles. For example, they mount a LiDAR sensor on their vehicles to continuously capture point-in-time snapshots of the surrounding 3D environment. The LiDAR sensor output is a sequence",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/annotate-dense-point-cloud-data-using-sagemaker-ground-truth/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/annotate-dense-point-cloud-data-using-sagemaker-ground-truth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/28/7-Voxel-Mean-Downsampling.jpg",
-          "width": 700,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T11:19:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

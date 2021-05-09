@@ -24,22 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Machine Learning in Medicine Market Outlook 2021, Witness Highest Growth in near future by 2028 | Google, Bio Beats, Jvion, Lumiata, DreaMed, Healint"
-    excerpt: "Global Machine Learning in Medicine Market 2021 by major players, regions, type and application, forecast to 2028. This market report includes a forecast for 2021 and ending in 2028 with a collection of crucial information such as supply-demand ratio,"
-    publishedDateTime: 2021-05-06T11:08:00Z
-    webUrl: "https://ksusentinel.com/2021/05/06/machine-learning-in-medicine-market-outlook-2021-witness-highest-growth-in-near-future-by-2028-google-bio-beats-jvion-lumiata-dreamed-healint/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
-    images:
-      - url: "https://www.mccourier.com/wp-content/uploads/2021/05/Mri-7-300x225.png"
-        width: 300
-        height: 225
-        isCached: true
-
 secured: "v96n9Yt4cHtNj1pNJmwhH1aGgI5aoV4iqpWvEdL4Cc3Il+/qV+2JzTlBvhonKiJcDptpBorGxgyr5SCFLEi/zGQeIRblCbN48Qk2OyZe72Xmmf23fDCFEig4yV3rJhpP/bvXs/Qcun2wtm1tUjBQDQnfQaYkSLV1HWrYjy3SF77/pFDXbzn2i18tDvryMPmMEEDOciDJvSddk1/2NYXeI8jpijKcYjd1/wk/ZWbN4Rj9+dqLvLQV6vOY+BT5P7Y9EufzbwJGLJFzPcug00T8AlUAAWnWv4PfGAHMXk9RF0lQicecCfdKSKmpOltpzMmii8MUj/ZwoTP3iUj56XxjY1Dhvz7zG5xVqG2xWW5HBvjlR3ooHOBmxA/ey5HpBtidh+nDfjZChI/PZQnTbmhgcu4XhOqQ3Yw4njah4Dd/K04D+zMECbxkxGm+LC1HgmHOltwRPS8K9UDSwkUzCP13E+Slui9N1hjEnbOuh9aiLTfLOE/aoltLyp8Ki19g2Kysy5EduJJnqP64CMsfgx5ntA==;YZ9jPCB40icosxaROi4qpQ=="
 ---
 

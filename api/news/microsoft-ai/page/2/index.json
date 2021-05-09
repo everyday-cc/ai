@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-22-akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing.md",
+      "title": "Akamai boosts traffic by 350% but keeps energy use flat thanks to edge computing",
+      "excerpt": "Content delivery network gets 23% of global power needs from green sources including two wind farms and one solar array in the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing/",
+      "originalUrl": "https://www.techrepublic.com/article/akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/13/c769bfe0-c3f3-4ec1-b376-3a25f2c66ba6/resize/1200x/475dd41c47a53de3dc2e908c23d3e2c2/gettyimages-1195482922.jpg",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/akamai-boosts-traffic-by-350-but-keeps-energy-use-flat-thanks-to-edge-computing/",
+      "publishedDateTime": "2021-04-22T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure.md",
       "title": "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure",
       "excerpt": "Integrated with Microsoft 365 (Microsoft Teams ... Sinequa for Azure integrates Azure Cognitive Services to enable organizations to ingest all of their enterprise data sources, transform that ...",
@@ -1259,49 +1311,6 @@
       "provider": {
         "name": "SiliconANGLE",
         "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-announces-purchase-of-nuance-ai-speech-firm-for-197-billion.md",
-      "title": "Microsoft Announces Purchase Of Nuance AI Speech Firm For $19.7 Billion",
-      "excerpt": "According to Microsoft’s blog post, the transaction has been approved by the Board of Directors of both companies and is expected to close by the end of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/microsoft-announces-purchase-of-nuance-communications-for-19-7-billion",
-      "originalUrl": "https://hothardware.com/news/microsoft-announces-purchase-of-nuance-communications-for-19-7-billion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/54796/content/microsoft-announces-purchase-of-nuance-communications-for-19-7-billion.jpg",
-          "width": 708,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/microsoft-announces-purchase-of-nuance-communications-for-19-7-billion",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-announces-purchase-of-nuance-communications-for-19-7-billion",
-      "publishedDateTime": "2021-04-12T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
         "images": null,
         "publishers": null,
         "authors": null
