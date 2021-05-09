@@ -2,6 +2,102 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-03-02-researchers-show-ai-chip-with-reduced-precision-training.md",
+      "title": "Researchers show AI chip with reduced precision training",
+      "excerpt": "At ISSCC, IBM Research presented a test chip which represents the hardware manifestation of its years of work on low-precision AI training and inference algorithms. The 7nm chip supports 16-bit and 8-bit training, as well as 4-bit and 2-bit inference (32 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/researchers-show-ai-chip-with-reduced-precision-training/",
+      "originalUrl": "https://www.embedded.com/researchers-show-ai-chip-with-reduced-precision-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2021/03/img20210312123321IBM-Brings-8-Bit-AI-Training-to-_4_w800_h814.jpg",
+          "width": 800,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-aws-reorganizes-deepracer-league-to-encourage-more-newbies.md",
+      "title": "AWS reorganizes DeepRacer League to encourage more newbies",
+      "excerpt": "AWS launched the DeepRacer League in 2018 as a fun way to teach developers machine learning, and it’s been building on the idea ever since. Today, it announced the latest league season with two ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/",
+      "originalUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-01-at-4.47.14-PM.jpg?w=1024",
+          "width": 1024,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/amp/",
+      "publishedDateTime": "2021-03-01T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-core-scientific-achieves-aws-high-performance-computing-competency-status.md",
       "title": "Core Scientific Achieves AWS High Performance Computing Competency Status",
       "excerpt": "BELLEVUE, Wash., March 1, 2021 – Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain that is led by CEO Kevin Turner, the former COO of Microsoft, announced today that it has achieved ...",

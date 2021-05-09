@@ -2,6 +2,92 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-22-iisc-research-aims-at-improving-computer-deep-network.md",
+      "title": "IISc research aims at improving computer deep network",
+      "excerpt": "Therefore, even though these neural networks and the human brain carry out the same object recognition tasks, the steps followed by the two are very different.”The study provides hints to what ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/cities/bengaluru/2021/apr/22/iisc-research-aims-at-improving-computer-deep-network-2293191.html",
+      "originalUrl": "https://www.newindianexpress.com/cities/bengaluru/2021/apr/22/iisc-research-aims-at-improving-computer-deep-network-2293191.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/9/14/w600X390/IISC.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/cities/bengaluru/2021/apr/22/iisc-research-aims-at-improving-computer-deep-network-2293191.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/bengaluru/2021/apr/22/iisc-research-aims-at-improving-computer-deep-network-2293191.amp",
+      "publishedDateTime": "2021-04-21T19:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-prosthetic-arm-can-sense-touch-move-with-wearers-thoughts.md",
+      "title": "Prosthetic Arm Can Sense Touch, Move with Wearer's Thoughts",
+      "excerpt": "The team published a paper on its work in the journal Science Robotics. Researchers tested the technology they developed for the LUKE Arm on Keven Walgamott, who lost his hand and part of his arm in an accident 17 years ago. Walgamott said he could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/materials-assembly/prosthetic-arm-can-sense-touch-move-wearers-thoughts",
+      "originalUrl": "https://www.designnews.com/materials-assembly/prosthetic-arm-can-sense-touch-move-wearers-thoughts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/prostheticarm_0.jpg",
+          "width": 973,
+          "height": 1028,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-ready-set-think-mind-controlled-drones-race-to-the-future.md",
       "title": "Ready, set, think! Mind-controlled drones race to the future",
       "excerpt": "Scientists have been able to detect brainwaves for more than a century, and mind-controlled technology already is helping paralyzed people move limbs or robotic prosthetics. But now the technology ...",
@@ -1069,102 +1155,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-dish-and-aws-form-strategic-collaboration-to-reinvent-5g-connectivity-and-innovation.md",
-      "title": "DISH and AWS Form Strategic Collaboration to Reinvent 5G Connectivity and Innovation",
-      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/dish-and-aws-form-strategic-collaboration-to-reinvent-5g-connectivity-and-innovation-2021-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/dish-and-aws-form-strategic-collaboration-to-reinvent-5g-connectivity-and-innovation-2021-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-black-lives-matter-could-change-facial-recognition-forever-if-big-tech-doesnt-stand-in-the-way.md",
-      "title": "Black Lives Matter could change facial recognition forever - if big tech doesn't stand in the way",
-      "excerpt": "Thailand's most updated English news website, thai news, thailand news, Bangkok thailand, aec,newspaper english, breaking news : The Nation",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationthailand.com/tech/30389554",
-      "originalUrl": "https://www.nationthailand.com/tech/30389554",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nationthailand.com/images/news/2020/06/13/30389554/800_dea51fcd7652ca1.jpg?v=1592029222",
-          "width": 675,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nationthailand",
-        "domain": "nationthailand.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

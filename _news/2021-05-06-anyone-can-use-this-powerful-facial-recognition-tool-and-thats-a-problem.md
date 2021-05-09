@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2021/5/6/1_5416549.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2021/5/6/1_5416549.html"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anyone can use this powerful facial-recognition tool — and that's a problem"
-    excerpt: "You probably haven't seen PimEyes, a mysterious facial-recognition search engine, but it may have spotted you."
-    publishedDateTime: 2021-05-04T19:21:00Z
-    webUrl: "https://www.cnn.com/2021/05/04/tech/pimeyes-facial-recognition/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/tech/pimeyes-facial-recognition/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/tech/pimeyes-facial-recognition/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 72
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504123035-20210504-facial-recognition-photo-scraping-gfx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "New facial recognition tools and defences for data and privacy protection"
     excerpt: "New tools have been developed to help consumers protect their privacy or data, either from or with facial recognition technology."
     publishedDateTime: 2021-05-07T00:22:00Z

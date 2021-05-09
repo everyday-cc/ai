@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anyone can use this powerful facial-recognition tool — and that's a problem"
-    excerpt: "You probably haven't seen PimEyes, a mysterious facial-recognition search engine, but it may have spotted you."
-    publishedDateTime: 2021-05-04T19:21:00Z
-    webUrl: "https://www.cnn.com/2021/05/04/tech/pimeyes-facial-recognition/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/tech/pimeyes-facial-recognition/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/tech/pimeyes-facial-recognition/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 72
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504123035-20210504-facial-recognition-photo-scraping-gfx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Anyone can use this powerful facial recognition tool — and that's a problem"
     excerpt: "If you upload a picture of your face to PimEyes' website, it will immediately show you any pictures of yourself that the company has found around the internet."
     publishedDateTime: 2021-05-06T13:41:00Z

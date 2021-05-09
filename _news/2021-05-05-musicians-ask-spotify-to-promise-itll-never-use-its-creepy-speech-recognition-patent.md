@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558/amp"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Spotify urged to rule out 'invasive' voice recognition tech"
-    excerpt: "A coalition of musicians and human rights groups urged music streaming company Spotify on Tuesday to rule out possible use of a speech recognition tool it recently developed to suggest songs - describing the technology as \"creepy\" and \"invasive\"."
-    publishedDateTime: 2021-05-04T19:44:00Z
-    webUrl: "https://www.reuters.com/article/us-tech-music-privacy-idUSKBN2CL1K9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CL1K9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CL1K9"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
   - title: "Spotify responds to protests against speech-recognition patent"
     excerpt: "Earlier this year, a controversy broke out over a Spotify patent involving using speech recognition technology to analyse a listener’s “emotional state, gender, age, or accent” and recommend them music accordingly."
     publishedDateTime: 2021-05-05T13:14:00Z

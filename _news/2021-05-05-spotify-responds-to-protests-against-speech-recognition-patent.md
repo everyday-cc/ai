@@ -57,17 +57,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Spotify urged to rule out 'invasive' voice recognition tech"
-    excerpt: "A coalition of musicians and human rights groups urged music streaming company Spotify on Tuesday to rule out possible use of a speech recognition tool it recently developed to suggest songs - describing the technology as \"creepy\" and \"invasive\"."
-    publishedDateTime: 2021-05-04T19:44:00Z
-    webUrl: "https://www.reuters.com/article/us-tech-music-privacy-idUSKBN2CL1K9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CL1K9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CL1K9"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
   - title: "Spotify Urged To Abandon Speech Patent Over Privacy Issues"
     excerpt: "More than 180 musicians and human rights organizations are pressing Spotify to publicly disavow a speech recognition patent, saying it raises many privacy and inequality concerns and that the music streaming provider's assertion that it has \"no plans\" to implement this technology isn't enough."
     publishedDateTime: 2021-05-06T03:04:00Z

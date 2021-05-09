@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-s
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars/amp-41620550983829.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving"
-    excerpt: "Argo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company and Volkswagen AG , announced that it has developed a new lidar sensor system with enough range to"
-    publishedDateTime: 2021-05-04T19:34:00Z
-    webUrl: "https://www.fool.com/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 87
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624703%2Fargo-ai-public-road-testing-in-pittsburgh-pa_2-scaled.jpg&w=1200&op=resize"
-        width: 1200
-        height: 844
-        isCached: true
   - title: "Self-driving technology company Argo AI makes lidar breakthrough"
     excerpt: "Comment Now! Argo AI, the self-driving technology company backed by Ford and Volkswagen Group, claims to have overcome one of the main challenges"
     publishedDateTime: 2021-05-05T15:45:00Z

@@ -2,6 +2,84 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-03-16-googles-secretive-x-lab-is-working-on-its-next-big-hit-here-are-some-of-the-bets-that-could-take-off-and-the-people-leading-them.md",
+      "title": "Google's secretive X lab is working on its next big hit. Here are some of the bets that could take off, and the people leading them.",
+      "excerpt": "X is home to some of Alphabet's weirdest and most ambitious ideas. Here are some that the lab is working on right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/the-projects-alphabet-x-secret-moonshot-lab-is-working-on-2020-10",
+      "originalUrl": "https://www.businessinsider.com/the-projects-alphabet-x-secret-moonshot-lab-is-working-on-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-aws-slips-a-bit-in-cloud-ai-developer-services-report.md",
+      "title": "AWS Slips a Bit in Cloud AI Developer Services Report",
+      "excerpt": "Amazon Web Services (AWS) was the clear leader in research firm Gartner's annual report on Cloud AI Developer Services. This year, not so much.",
+      "sourceUrl": null,
+      "webUrl": "https://virtualizationreview.com/articles/2021/03/15/gartner-cloud-aidev.aspx",
+      "originalUrl": "https://virtualizationreview.com/articles/2021/03/15/gartner-cloud-aidev.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virtualization Review",
+        "domain": "virtualizationreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect.md",
       "title": "Artificial Intelligence In 2021: Five Trends You May (or May Not) Expect",
       "excerpt": "Artificial Intelligence innovation continues with explosive growth in virtually all industries. We cover five trends to expect in AI in 2021.",
@@ -972,102 +1050,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-global-machine-learning-as-a-service-market-improvement-industry-evolutionary-analysis-orientation-forecast-to-2030-google-inc-ibm-corporation.md",
-      "title": "Global Machine Learning as a Service Market Improvement, Industry Evolutionary Analysis, Orientation, Forecast To 2030 | Google Inc, IBM Corporation",
-      "excerpt": "tie-ups and acquisition with other Machine Learning as a Service leading establishments, financial agreements which affect the Machine Learning as a Service market in recent years are analyzed. In addition, Machine Learning as a Service company long term ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-improvement-industry-evolutionary-analysis-orientation-forecast-to-2030-google-inc-ibm-corporation-2021-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-improvement-industry-evolutionary-analysis-orientation-forecast-to-2030-google-inc-ibm-corporation-2021-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-languagewire-launch-ai-driven-instant-translation-technology-for-enterprises.md",
-      "title": "LanguageWire Launch AI-driven Instant Translation Technology for Enterprises",
-      "excerpt": "LanguageWire today launched Translate, a new instant translation technology designed and engineered for professionals who appreciate managing content efficiently and require quality translations with enterprise-grade security.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/press-releases/languagewire-launch-ai-driven-instant-translation-technology-for-enterprises/",
-      "originalUrl": "https://slator.com/press-releases/languagewire-launch-ai-driven-instant-translation-technology-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/03/LanguageWire-Logo-900x600-CD.png",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

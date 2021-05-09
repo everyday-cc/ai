@@ -2,6 +2,111 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-26-this-researcher-says-ai-is-neither-artificial-nor-intelligent.md",
+      "title": "This Researcher Says AI Is Neither Artificial nor Intelligent",
+      "excerpt": "Kate Crawford, who holds positions at USC and Microsoft, says in a new book that even experts working on the technology misunderstand AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/researcher-says-ai-not-artificial-intelligent/",
+      "originalUrl": "https://www.wired.com/story/researcher-says-ai-not-artificial-intelligent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60830d45ccb11d7f69cb8196/master/pass/business_ai-atlas_630354458.jpg",
+          "width": 2400,
+          "height": 1602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/researcher-says-ai-not-artificial-intelligent/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/researcher-says-ai-not-artificial-intelligent/amp",
+      "publishedDateTime": "2021-04-26T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-the-ai-50-backstory.md",
+      "title": "The AI 50 Backstory",
+      "excerpt": "Very quickly I noticed that most “AI companies” had very little “AI” (real technology) or very little “company” (real business).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/",
+      "originalUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6086b8463c93f7863e620c1e%2F0x0.jpg",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/",
+      "publishedDateTime": "2021-04-26T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-how-york-university-provides-instant-personalized-self-service-to-50000-students.md",
       "title": "How York University provides instant, personalized self-service to 50,000 students",
       "excerpt": "York University needed to make a deeper personal connection with its students — all 50,000 of them. “One of the challenges for any large university is student satisfaction,” says William Gage, Associate Vice President, Teaching and Learning at York University. The university worked with IBM, using Watson",
@@ -1113,111 +1218,6 @@
         "AI Ethics",
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-explaining-why-explainable-ai-xai-is-needed-for-autonomous-vehicles-and-especially-self-driving-cars.md",
-      "title": "Explaining Why Explainable AI (XAI) Is Needed For Autonomous Vehicles And Especially Self-Driving Cars",
-      "excerpt": "Explainable AI (XAI) is going to be vital for Autonomous Vehicles (AVs) and will be first expected in self-driving cars, providing explanations about the driving journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/24/explaining-why-explainable-ai-xai-is-needed-for-autonomous-vehicles-and-especially-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/24/explaining-why-explainable-ai-xai-is-needed-for-autonomous-vehicles-and-especially-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6082010f8bc7d9fdc01c1409%2F0x0.jpg%3FcropX1%3D47%26cropX2%3D1677%26cropY1%3D43%26cropY2%3D960",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/24/explaining-why-explainable-ai-xai-is-needed-for-autonomous-vehicles-and-especially-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/24/explaining-why-explainable-ai-xai-is-needed-for-autonomous-vehicles-and-especially-self-driving-cars/amp/",
-      "publishedDateTime": "2021-04-24T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-ai-skills-are-a-problem-automl-can-help.md",
-      "title": "AI skills are a problem. AutoML can help",
-      "excerpt": "Commentary: As enterprises try to embrace AI, a lack of skilled resources holds them back, but AutoML may offer some hope. O'Reilly just released its annual AI Adoption in the Enterprise survey ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-skills-are-a-problem-automl-can-help/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-skills-are-a-problem-automl-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/14/b386c617-f485-4ea6-a15a-15f8aa2df175/resize/1200x/2951e8519179825379ff08f6d3e1bc9f/metamorworks-2.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-skills-are-a-problem-automl-can-help/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-skills-are-a-problem-automl-can-help/",
-      "publishedDateTime": "2021-04-24T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],
