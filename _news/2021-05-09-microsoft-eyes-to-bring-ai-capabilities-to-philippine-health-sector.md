@@ -1,29 +1,27 @@
 ---
 category: news
-title: "DICT supports iTrain Asia Microsoft AI training for women data scientists"
-excerpt: "The Department of Information and Communications Technology (DICT), through its ICT Industry Development Bureau (IIDB), supports iTrain Asia’s initiative that provides free Microsoft-sponsored (Artificial Intelligence) AI training to women data scientists."
-publishedDateTime: 2021-05-05T10:59:00Z
-originalUrl: "https://pia.gov.ph/news/articles/1074354"
-webUrl: "https://pia.gov.ph/news/articles/1074354"
-ampWebUrl: "https://pia.gov.ph/news/articles/1074354.amp"
-cdnAmpWebUrl: "https://pia-gov-ph.cdn.ampproject.org/c/s/pia.gov.ph/news/articles/1074354.amp"
+title: "Microsoft eyes to bring AI capabilities to Philippine health sector"
+excerpt: "MICROSOFT Philippines, Inc. is looking to bring conversational artificial intelligence (AI) capabilities to health-care institutions in the country to help them address their patients’ needs, its top official said."
+publishedDateTime: 2021-05-09T15:04:00Z
+originalUrl: "https://www.bworldonline.com/microsoft-eyes-to-bring-ai-capabilities-to-philippine-health-sector/"
+webUrl: "https://www.bworldonline.com/microsoft-eyes-to-bring-ai-capabilities-to-philippine-health-sector/"
 type: article
-quality: 73
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Gov
-  domain: pia.gov.ph
+  name: BusinessWorld
+  domain: bworldonline.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://files.pia.gov.ph/opengraph/2021/05/05/dict-file-photo-05052021-2.jpg"
-    width: 720
-    height: 480
+  - url: "https://www.bworldonline.com/wp-content/uploads/2021/03/Microsoft-032219.jpg"
+    width: 768
+    height: 419
     isCached: true
 
 related:
@@ -41,6 +39,22 @@ related:
     images:
       - url: "https://www.cmswire.com/-/media/80ae800a4aae4fed8d9beae1edf83e7b.ashx?mw=1024"
         width: 640
+        height: 480
+        isCached: true
+  - title: "DICT supports iTrain Asia Microsoft AI training for women data scientists"
+    excerpt: "The Department of Information and Communications Technology (DICT), through its ICT Industry Development Bureau (IIDB), supports iTrain Asia’s initiative that provides free Microsoft-sponsored (Artificial Intelligence) AI training to women data scientists."
+    publishedDateTime: 2021-05-05T10:59:00Z
+    webUrl: "https://pia.gov.ph/news/articles/1074354"
+    ampWebUrl: "https://pia.gov.ph/news/articles/1074354.amp"
+    cdnAmpWebUrl: "https://pia-gov-ph.cdn.ampproject.org/c/s/pia.gov.ph/news/articles/1074354.amp"
+    type: article
+    provider:
+      name: Gov
+      domain: pia.gov.ph
+    quality: 73
+    images:
+      - url: "https://files.pia.gov.ph/opengraph/2021/05/05/dict-file-photo-05052021-2.jpg"
+        width: 720
         height: 480
         isCached: true
   - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
@@ -71,20 +85,6 @@ related:
         width: 799
         height: 419
         isCached: true
-  - title: "Microsoft eyes to bring AI capabilities to Philippine health sector"
-    excerpt: "MICROSOFT Philippines, Inc. is looking to bring conversational artificial intelligence (AI) capabilities to health-care institutions in the country to help them address their patients’ needs, its top official said."
-    publishedDateTime: 2021-05-09T15:04:00Z
-    webUrl: "https://www.bworldonline.com/microsoft-eyes-to-bring-ai-capabilities-to-philippine-health-sector/"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 54
-    images:
-      - url: "https://www.bworldonline.com/wp-content/uploads/2021/03/Microsoft-032219.jpg"
-        width: 768
-        height: 419
-        isCached: true
   - title: "Voice Recognition Software Market is Booming Worldwide | Nuance, Microsoft, IBM"
     excerpt: "Latest released the research study on Global Voice Recognition Software Market, offers a detailed overview of the factors influencing the global business scope. Voice Recognition Software Market research report shows the latest market insights,"
     publishedDateTime: 2021-05-08T01:37:00Z
@@ -109,6 +109,6 @@ related:
       domain: businesswire.com
     quality: 28
 
-secured: "C8QTbSdopiBzxOtudXwxvBmRL0XB5pW9KMjXU23rma7a5Mc0xJk+9OT9smFoqcWN4m2edkJvjSS/6WPPMkCzwXS+l8oYVEQLSmjV3dlInUQjOk5eaRvTwP0Qqei5S65mU+I2YpGEruNtoSKW55qQ/eqF/eTnBUhjNwt1r8vvvLxa/4lLxEOlyR3VC2qr41BpAS9j/5K44dagNksZ7xmrDj9kXNHQLRWD9bCZ+ScJUb4iSe0NVNIBRDuC6Yq/cFPSr3PxvXNMoLafzOU5Bu/6EDwprpOUU9VDFbTGXREjDdW2DoWM9kM7yH0QvTnke2Ce7B5mnDFBeV6tvp5ec45My+nMKtrh3P7Qj0oJGjFkRmxVKpFp7Myw4BULCvpZ8jld4eZY61ddIxOhRGEvJQEVbEzrjcrHur9JHyhcJUr2A/PlPLtoUomv5tOfTT5GV5r+N6YaZFl+iaT2r1mY05rkzlMqQa2tv0Wjt+m5pGB74EmWfWbbh+sJ37cZuw6Kc61uReB7ag9PqZsfhF2gL0ZIcg==;RIAB2ncjfJU5B/l7H+hBHQ=="
+secured: "HeCXcJ0LO2V9DDatFjDfPxIuKO/n2cLqUzidHBLQXERDPWENJi24Q9oW9nJD8bfWZK1J6cWsInLPMkYLMzGHFH5+Fu4EvXiQb7JVXjNLImzHM2zygU/A29/dc5/dv7vlEiv6g1x1rj3H4zlzyOzLcylaipOuH9H43vydCm0MFSYJS5zQnAlWC9U9M1MmqQAu3MT/sJtg7zQyf0lH8zInZjb0m7/WxPlgmwGbqrB8CE0ka1ta6dpWjtro3K8aw934Y/i4zTkEBRYmYxTL66oRDepWgcGxe9+0Za6t/30TlmLueYz+y2cKRd2bbJi+aRNW8CO7Br/Irsf79zhzd9m2Vdw+DSv1hpm58EKe+jzLplw=;RxK2dzuLr69HHusdcSarug=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "At 42% CAGR, Latest Study explores the Artificial Intelligence (AI) for Telecommunication Market size, Witness Highest Growth in near future by 2025"
+    excerpt: "As moving to the next segment Artificial Intelligence (AI) for Telecommunication Market report also evaluates the key opportunities in the market and outlines the factors that are and will be driving the growth of the Artificial Intelligence (AI) for Telecommunication industry."
+    publishedDateTime: 2021-05-06T11:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-42-cagr-latest-study-explores-the-artificial-intelligence-ai-for-telecommunication-market-size-witness-highest-growth-in-near-future-by-2025-2021-05-06?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Media and Entertainment Market SWOT Analysis,Key Indicators,Forecast 2027 : IBM Corporation"
     excerpt: "MR Accuracy Reports recently introduced new title on “Artificial Intelligence (AI) in Media and Entertainment Market : Global Industry Analysis, Size, Share, Growth, Trends, and"
     publishedDateTime: 2021-05-05T05:00:00Z

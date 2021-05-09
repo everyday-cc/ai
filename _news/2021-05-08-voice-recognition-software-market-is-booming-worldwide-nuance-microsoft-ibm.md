@@ -86,6 +86,20 @@ related:
         width: 799
         height: 419
         isCached: true
+  - title: "Microsoft eyes to bring AI capabilities to Philippine health sector"
+    excerpt: "MICROSOFT Philippines, Inc. is looking to bring conversational artificial intelligence (AI) capabilities to health-care institutions in the country to help them address their patients’ needs, its top official said."
+    publishedDateTime: 2021-05-09T15:04:00Z
+    webUrl: "https://www.bworldonline.com/microsoft-eyes-to-bring-ai-capabilities-to-philippine-health-sector/"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 54
+    images:
+      - url: "https://www.bworldonline.com/wp-content/uploads/2021/03/Microsoft-032219.jpg"
+        width: 768
+        height: 419
+        isCached: true
   - title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
     excerpt: "Competition in Australia is heating up among Microsoft Azure providers, with local players challenging the global giants, ISG (Nasdaq:III) says."
     publishedDateTime: 2021-05-07T00:20:00Z

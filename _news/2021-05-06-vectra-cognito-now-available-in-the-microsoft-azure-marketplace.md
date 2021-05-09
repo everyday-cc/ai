@@ -71,6 +71,20 @@ related:
         width: 799
         height: 419
         isCached: true
+  - title: "Microsoft eyes to bring AI capabilities to Philippine health sector"
+    excerpt: "MICROSOFT Philippines, Inc. is looking to bring conversational artificial intelligence (AI) capabilities to health-care institutions in the country to help them address their patients’ needs, its top official said."
+    publishedDateTime: 2021-05-09T15:04:00Z
+    webUrl: "https://www.bworldonline.com/microsoft-eyes-to-bring-ai-capabilities-to-philippine-health-sector/"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 54
+    images:
+      - url: "https://www.bworldonline.com/wp-content/uploads/2021/03/Microsoft-032219.jpg"
+        width: 768
+        height: 419
+        isCached: true
   - title: "Voice Recognition Software Market is Booming Worldwide | Nuance, Microsoft, IBM"
     excerpt: "Latest released the research study on Global Voice Recognition Software Market, offers a detailed overview of the factors influencing the global business scope. Voice Recognition Software Market research report shows the latest market insights,"
     publishedDateTime: 2021-05-08T01:37:00Z

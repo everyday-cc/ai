@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-mi
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
     images:
       - url: "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg?p=facebook"
         width: 799
+        height: 419
+        isCached: true
+  - title: "Microsoft eyes to bring AI capabilities to Philippine health sector"
+    excerpt: "MICROSOFT Philippines, Inc. is looking to bring conversational artificial intelligence (AI) capabilities to health-care institutions in the country to help them address their patients’ needs, its top official said."
+    publishedDateTime: 2021-05-09T15:04:00Z
+    webUrl: "https://www.bworldonline.com/microsoft-eyes-to-bring-ai-capabilities-to-philippine-health-sector/"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 54
+    images:
+      - url: "https://www.bworldonline.com/wp-content/uploads/2021/03/Microsoft-032219.jpg"
+        width: 768
         height: 419
         isCached: true
   - title: "Voice Recognition Software Market is Booming Worldwide | Nuance, Microsoft, IBM"
