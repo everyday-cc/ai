@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-21-signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence.md",
+      "title": "Signia Reveals Hearing Aids With Wireless Earbud Technology And Artificial Intelligence",
+      "excerpt": "Signia is a major hearing aid manufacturer that has developed the Active and Active Pro hearables that bring the advantages offered by true wireless earbuds along with advanced hearing loss technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/04/21/signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/04/21/signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6080007309abd0fdccd42d0e%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/04/21/signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/04/21/signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-04-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-ceo-of-softbank-backed-sambanova-explains-the-firms-approach-to-artificial-intelligence.md",
       "title": "CEO of Softbank-backed SambaNova explains the firm's approach to artificial intelligence",
       "excerpt": "Many companies are struggling to figure out how to hire teams in order to deploy artificial intelligence technology, says Rodrigo Liang, co-founder and CEO of SambaNova Systems.",
@@ -1117,58 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-synthesia-raises-125m-for-ai-that-generates-avatar-videos.md",
-      "title": "Synthesia raises $12.5M for AI that generates avatar videos",
-      "excerpt": "Synthesia, a startup developing AI that can generate videos of avatars for marketing purposes, has raised $12.5 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/",
-      "originalUrl": "https://venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/maxresdefault-3-e1618843541929.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/amp/",
-      "publishedDateTime": "2021-04-20T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

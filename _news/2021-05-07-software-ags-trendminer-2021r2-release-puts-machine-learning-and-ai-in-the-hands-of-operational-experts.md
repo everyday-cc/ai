@@ -53,15 +53,6 @@ related:
         width: 1133
         height: 600
         isCached: true
-  - title: "Live Demonstration: A Neural Processor for AI Acceleration"
-    excerpt: "In this demonstration, we present AB9 SoC system, a single-chip solution for AI application. It provides the reconfigurable and programmable architecture to support the general computations for a variety of neural networks."
-    publishedDateTime: 2021-05-04T06:11:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9401074"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 19
 
 secured: "aGB51ZbCkBWlRWeCRGnufkJ/ubXEny4mACjuzOTX6ETaMPcQWej1U3dTR25xVBWvkIylM6S94rI0X5YgaCCr2nIUCoZninVv/NZRKRGnGpGkcEhVHniNynrW+dZy4Qr6/2peDP2jWOJ4necMPYUD6TsLXzGSU36z9DABrUTvWth1chAVaWShERGM4ymn3FBJuuApX61AjiOcFiO1IpUbSiUG+FQCKpICPqd5v9KDEwa+lG8sxPzGWCCS/ZL4UvrJcfyqwM7PdDxqd1SD4XXqzPU3UcOAR7s7iMu6im13d02ePqaWmN9htEwNk0eQRXT2DDkyrl+iT6vVBEmtCm4SQLZna3tHquu6u4lPQWgjBJSJo0qlCyibvyMJn80q7zBydf8wikGCCtZlueibEorpalrjNzD/P3m2mFg5YSesLUQPlzqtBDRgp2Z/q/UCr6DGGcViiu9uTUjXqvhCgRkoPvPimoWePG+kt3wfNmIaVQzuufCQ9pFj96yX910bFlkPtUcNuoey2eiQRX+KBsZWbA==;UDD35bBgz0y4yvz0ZCoGYA=="
 ---

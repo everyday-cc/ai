@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-09-us-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech.md",
+      "title": "U.S. Senate committee revised a draft bill to fund AI, quantum, biotech",
+      "excerpt": "The U.S. Senate will consider a revised technology research bill to invest $95 billion in AI, semiconductors, quantum computing, and biotech.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/",
+      "originalUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/congress.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/amp/",
+      "publishedDateTime": "2021-05-08T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-ai-is-turning-us-into-de-facto-cyborgs.md",
       "title": "AI is turning us into de facto cyborgs",
       "excerpt": "It is dangerous that society is outsourcing its thinking to algorithms that are not in our collective best interests.",
@@ -466,7 +518,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-self-driving-cars-elon-musk-california/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -1204,59 +1256,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-covid-era-education-tech-narrowed-college-learning-gap-for-poor-minorities.md",
-      "title": "Covid-era Education Tech Narrowed College Learning Gap for Poor, Minorities",
-      "excerpt": "The demand for artificial intelligence and machine-learning skills, for example, is expected to grow by 71 percent per year through 2025, according to a recent study by the business analytics firm Burning Glass Technologies. And online education tends to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355",
-      "originalUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1789945/online-learning-unlv.jpg",
-          "width": 2500,
-          "height": 1729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355?amp=1",
-      "publishedDateTime": "2021-05-06T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

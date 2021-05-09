@@ -171,6 +171,20 @@ related:
         width: 480
         height: 264
         isCached: true
+  - title: "Tesla's Full Self-driving Cars Year-End Achievement Remain Uncertain"
+    excerpt: "According to a memo from the California Department of Motor Vehicles (DMV), Tesla Inc told a California regulator that it could not reach complete self-driving technology by the end of this year. During a January earnings conference call,"
+    publishedDateTime: 2021-05-08T21:56:00Z
+    webUrl: "https://www.wrcbtv.com/story/43847893/teslaaposs-full-self45driving-cars-year45end-achievement-remain-uncertain"
+    type: article
+    provider:
+      name: WRCB
+      domain: wrcbtv.com
+    quality: 54
+    images:
+      - url: "https://PRSUBMITPRESSLIFESTYLE.images.worldnow.com/images/20725166_G.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Tesla admits Elon Musk is exaggerating about ‘full self-driving’ cars before end of year – reports"
     excerpt: "Communications between Tesla and the California Department of Motor Vehicles have revealed that billionaire Elon Musk may be overhyping the capabilities of his ‘Autopilot’ self-driving software."
     publishedDateTime: 2021-05-07T17:27:00Z

@@ -2,6 +2,60 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-04-11-black-women-ai-and-overcoming-historical-patterns-of-abuse.md",
+      "title": "Black women, AI, and overcoming historical patterns of abuse",
+      "excerpt": "The Abuse and Misogynoir Playbook is part of the State of AI report from the Montreal AI Ethics Institute and was compiled by MIT professors in response to Google’s treatment of Gebru ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/",
+      "originalUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AM_Playbook_Final_with-authors-2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/10/black-women-ai-and-historical-patterns-of-abuse/amp/",
+      "publishedDateTime": "2021-04-10T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-barring-those-gearhead-enthusiasts-from-tinkering-with-self-driving-cars.md",
       "title": "Barring Those Gearhead Enthusiasts From Tinkering With Self-Driving Cars",
       "excerpt": "Those vaunted gearheads are going to be barred from tinkering with self-driving cars and won't be allowed to do any under-the-hood wonderment.",
@@ -1185,49 +1239,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-ai-helps-zap-mosquito-larvae-before-they-become-a-problem.md",
-      "title": "AI helps zap mosquito larvae before they become a problem",
-      "excerpt": "WASHINGTON (Zenger News) — An Israeli startup with a unique solution for combating malaria is one of three finalists for the IBM Watson AI XPRIZE. The five-year global competition aims to ...",
-      "sourceUrl": null,
-      "webUrl": "https://news3lv.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
-      "originalUrl": "https://news3lv.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news3lv.com/resources/media/9007fd1c-1781-4825-9617-4af26f7143e2-medium16x9_SprayingstagnantwatersourceskillsdiseasecarryingmosquitolarvaeinGhana.ArbelVigodnyZZappMalaria.jpeg?1617898310418",
-          "width": 648,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news3lv.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
-      "cdnAmpWebUrl": "https://news3lv-com.cdn.ampproject.org/c/s/news3lv.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
-      "publishedDateTime": "2021-04-08T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News 3 Las Vegas",
-        "domain": "news3lv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

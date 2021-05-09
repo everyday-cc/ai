@@ -2,6 +2,40 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-03-16-critical-evaluation-of-deep-neural-networks-for-wrist-fracture-detection-scientific-reports.md",
+      "title": "Critical evaluation of deep neural networks for wrist fracture detection | Scientific Reports",
+      "excerpt": "Wrist Fracture is the most common type of fracture with a high incidence rate. Conventional radiography (i.e. X-ray imaging) is used for wrist fracture detection routinely, but occasionally fracture delineation poses issues and an additional confirmation by computed tomography (CT) is needed for diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-021-85570-2",
+      "originalUrl": "https://www.nature.com/articles/s41598-021-85570-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T03:58:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-gbt-commences-research-of-probabilistic-neural-network-pnn-algorithms-and-techniques-for.md",
       "title": "GBT Commences Research of Probabilistic Neural Network (PNN) Algorithms and Techniques for ...",
       "excerpt": "GBT Technologies Inc. (OTC PINK: GTCH) (“GBT” or the “Company”) is researching Probabilistic Neural Network (PNN) algorithms and techniques for Kirlian research. PNN is a supervised artificial neural network,",
@@ -958,49 +992,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-machine-learning-models-for-diagnosing-covid-19-are-not-yet-suitable-for-clinical-use.md",
-      "title": "Machine learning models for diagnosing COVID-19 are not yet suitable for clinical use",
-      "excerpt": "Systematic review finds that machine learning models for detecting and diagnosing COVID-19 from medical images have major flaws and biases, making them unsuitable for use in patients. However, researchers have suggested ways to remedy the problem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/uoc-mlm031221.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/uoc-mlm031221.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

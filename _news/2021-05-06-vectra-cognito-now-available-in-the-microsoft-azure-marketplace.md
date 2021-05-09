@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
-    excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
-    publishedDateTime: 2021-05-04T05:54:00Z
-    webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
-    ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 76
-    images:
-      - url: "https://www.sify.com/uploads/AWS_ians_vewiSKhedjcdd.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
     excerpt: "Competition in Australia is heating up among Microsoft Azure providers, with local players challenging the global giants, ISG (Nasdaq:III) says."
     publishedDateTime: 2021-05-07T00:20:00Z

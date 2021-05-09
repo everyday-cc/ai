@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-03-21-key-task-in-computer-vision-and-graphics-gets-a-boost.md",
+      "title": "Key task in computer vision and graphics gets a boost",
+      "excerpt": "A researcher has devised a way to speed up a fundamental task in computer vision and graphics known as non-rigid point set registration. Unlike previous registration techniques, the proposed method is computationally efficient even for large data sets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/03/210305100317.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/03/210305100317.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors.md",
       "title": "Self-Driving Cars Aiming To Change Our Most Favorite Of Car Colors",
       "excerpt": "Giving consideration to the painted car colors of today and what might occur with the advent of self-driving cars.",
@@ -899,40 +942,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-usc-scientists-say-artificial-intelligence-can-compute-formulas-for-successful-vaccines-against-covid-variants.md",
-      "title": "USC scientists say artificial intelligence can compute formulas for successful vaccines against COVID variants",
-      "excerpt": "USC researchers are looking for ways to stay one step ahead of COVID-19 variants with the help of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7.com/covid-vaccine-coronavirus-research-variants/10430584/",
-      "originalUrl": "https://abc7.com/covid-vaccine-coronavirus-research-variants/10430584/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/",
-      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/",
-      "publishedDateTime": "2021-03-19T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7",
-        "domain": "abc7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

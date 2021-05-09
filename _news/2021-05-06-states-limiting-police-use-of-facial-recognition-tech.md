@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "States push back against use of facial recognition by police"
-    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness of video surveillance is leading some state lawmakers to hit the pause button."
-    publishedDateTime: 2021-05-05T23:31:00Z
-    webUrl: "https://www.chron.com/news/article/States-push-back-against-use-of-facial-16153766.php"
-    ampWebUrl: "https://www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 74
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "States push back against use of facial recognition technology by police"
     excerpt: "I think people are just freaked out, and rightfully so, about this technology,” said Freddy Martinez, director of Lucy Parsons Labs, a Chicago nonprofit that specializes in citizens' digital rights."
     publishedDateTime: 2021-05-06T18:45:00Z
@@ -57,20 +41,6 @@ related:
         width: 640
         height: 422
         isCached: true
-  - title: "Innocent Black man jailed after false facial recognition match"
-    excerpt: "All the latest stories from around the world designed for your social feed. Like, Share and comment"
-    publishedDateTime: 2021-05-04T13:20:00Z
-    webUrl: "https://www.trtworld.com/video/social-videos/innocent-black-man-jailed-after-false-facial-recognition-match/609145f43b0f87001e8e3263"
-    type: article
-    provider:
-      name: TRT World
-      domain: trtworld.com
-    quality: 54
-    images:
-      - url: "https://cdni0.trtworld.com/w640/h360/q75/104699_FacialRecgonitionBiasYTB_1620133514949.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "States push back against facial recognition"
     excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
     publishedDateTime: 2021-05-05T22:31:00Z
@@ -85,17 +55,31 @@ related:
         width: 1050
         height: 630
         isCached: true
-  - title: "King County Council delays vote on facial recognition ban"
-    excerpt: "The Metropolitan King County Council delayed a vote on a groundbreaking facial recognition ban, citing a need to do additional outreach and research on the policy's effects."
-    publishedDateTime: 2021-05-06T01:14:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/?amp=1"
+  - title: "States push back against use of facial recognition by police"
+    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness of video surveillance is leading some state lawmakers"
+    publishedDateTime: 2021-05-06T00:49:00Z
+    webUrl: "https://www.seattletimes.com/business/states-push-back-against-use-of-facial-recognition-by-police/"
+    ampWebUrl: "https://www.seattletimes.com/business/states-push-back-against-use-of-facial-recognition-by-police/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/states-push-back-against-use-of-facial-recognition-by-police/?amp=1"
     type: article
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 54
+  - title: "Facial recognition technology approved at New York border crossings"
+    excerpt: "A new technology has been approved for several border crossings with Canada. U.S. Customs and Border Protection announced on Tuesday the expansion of biometric facial comparison technology to all crossings at the northern New York ports of entry."
+    publishedDateTime: 2021-05-05T11:55:00Z
+    webUrl: "https://www.wcax.com/2021/05/05/facial-recognition-technology-approved-at-new-york-border-crossings/"
+    type: article
+    provider:
+      name: WCAX3
+      domain: wcax.com
     quality: 39
+    images:
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/Yetxk8tUGfJEZm5d0I4LEOVkqck=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MALGXNQ7MBADNBO3R3VTNX7IEU.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Sexism in Facial Recognition Technology"
     excerpt: "Shreya Tewari provides an overview of recent work on facial recognition technology -- and calls for greater transparency. “Presenting AI with a diverse representation of datasets for it to learn from would be a great start in reversing the prevalent biases."
     publishedDateTime: 2021-05-05T19:02:00Z
@@ -138,20 +122,15 @@ related:
         width: 948
         height: 710
         isCached: true
-  - title: "Facial Recognition Software Fuels Growing Concerns in State Legislatures"
-    excerpt: "Lawmakers in at least 20 states are weighing curbs on police use of facial recognition, citing concerns of accuracy, invasion of privacy, racial bias and civil rights abuses."
-    publishedDateTime: 2021-05-06T15:16:00Z
-    webUrl: "https://thecrimereport.org/2021/05/06/facial-recognition-software-fuels-growing-concerns-in-state-legislatures/"
+  - title: "Honolulu airport rolls out facial recognition technology"
+    excerpt: "Honolulu’s Daniel K. Inouye International Airport has launched the Simplified Arrival Program in an effort to streamline the international arrival process."
+    publishedDateTime: 2021-05-05T17:32:00Z
+    webUrl: "https://www.bizjournals.com/pacific/news/2021/05/05/airport-rolls-out-facial-recognition-tech.html"
     type: article
     provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 38
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
-        width: 720
-        height: 393
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "PimEyes offers facial recognition software that anyone can use, including stalkers"
     excerpt: "Facial recognition is a very powerful AI technology that has businesses interested in its application, and many people are concerned about how it can be weaponized against normal people. Typically, the tech is locked behind high paywalls or available only as an internal tool."
     publishedDateTime: 2021-05-05T15:19:00Z
@@ -166,6 +145,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "King County considers ban on facial recognition technology"
+    excerpt: "The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff’s office."
+    publishedDateTime: 2021-05-06T06:08:00Z
+    webUrl: "https://www.king5.com/article/tech/king-county-considers-ban-on-facial-recognition-tech/281-e50f4478-81d7-4108-8926-9f906c3c29a9"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 19
 
 secured: "E6rNYG2KjYrVuhoJuc/hWP491lLQ8QAtFjam4tmsR/2+oz/ekwpQ/zg4Xa4qjp4mYdTQxCsqV2y2r9jcL7RXvnu+TKi1InwCWV5sVlaznwYDjChYecZN7CaSugAUkjuq62o1b7iIB0X5BmVaywBsufqc+xvfljVzz5CawpTo12gQfnJOiqZ5erzD9+RSzILHJ1AUX+vGsB75mp8+Tv5wMQv9V7OEPTijEA+9Bhhn1Z0dh+ECzEEwz8dU/7PiTtVGc4McY2fy6G4xBUxYamuAGglLnpUFdW+SEpX3hQpoMQ6VxJGrF5rbwRrDu1/DyKAO4end3iCZyB3DtDJyRLlW5j3Xk+ABnwLotAYcve6n8H/bX/1eCnc782U1xxjRwd5gm5Jd+g/yYu+kQ27ysUUc1/1wWM6COnd7zDaLTT/9bglT8RMdO54iK3fUzC2UJNnB4sedpZX8usbeOkccoNq/Tcr++1eVS/xTkqJLG8MSL38e5az4n5yIApagRodeq93ZftvBe9uQPsxf/GoUcENoRw==;7cOnoTE+C1jC5RvfeyMVLg=="
 ---

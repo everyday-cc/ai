@@ -40,6 +40,15 @@ related:
         width: 312
         height: 280
         isCached: true
+  - title: "Artificial intelligence system may improve diagnosis of complicated metastatic cancers"
+    excerpt: "To improve diagnosis for patients with complex metastatic cancers, especially those in low-resource settings, researchers have developed an artificial intelligence (AI) system that uses routinely acquired histology slides to accurately find the origins of metastatic tumors while generating a 'differential diagnosis,"
+    publishedDateTime: 2021-05-08T21:37:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210505113734.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 39
 
 secured: "226S2cwbViob2A+rjke9jG4Cfc4nyeZYhUstiRluukjcaVHIzhOxiHLczvWpPNgpm4GRRhW8QD2kmBzT1B5jDFs/5ezNu/iRuauwbAIC53SeuDnrmkOOOzqMUEIR4f223M68FEo/oXWW+EeLeDkCC5E5u0c1ahgla0ojlIdMDjUjIGnIurF2kAxzDL9qcKObIXWTSahAAfYSVniC977VVfilxn63SAGEXdw0GkTw5Hkgu4Gk+xGXjrtMecFx4eNnE7w0FMfAHw0eBQdMOW1LYwobueAxTVt0LyeURls1B177xAmQtVd8yfee44cB7kWUsBfMT7vwH1Bkc1esctxDWr86H7YcfT6eZHUXfLuI9cmT/1VanufIxCnrnj2JZu4TfcrGME5K7ajdP3BhWFLkMmgVO4OSwbbW/nAaSZbh+FJ7Du262Ozl5MKxQkcw/8UGIMZlGNj6bTwb1Nlz1CqC98dNe23HFTQ8ZfYSSl++QJRiX8+M+D5gjmKcJ6WbesMU3ne9JPZa56CXdZCFXJ6TIA==;n5NqP2NSSQsRIerbJGSH6Q=="
 ---

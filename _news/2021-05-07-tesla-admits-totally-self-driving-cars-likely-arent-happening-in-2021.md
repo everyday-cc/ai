@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-mu
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-musk-california/"
 type: article
 quality: 89
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -158,6 +158,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/qvy8QreeDhG4nSogtw2a3o-480-80.png"
         width: 480
         height: 264
+        isCached: true
+  - title: "Tesla's Full Self-driving Cars Year-End Achievement Remain Uncertain"
+    excerpt: "According to a memo from the California Department of Motor Vehicles (DMV), Tesla Inc told a California regulator that it could not reach complete self-driving technology by the end of this year. During a January earnings conference call,"
+    publishedDateTime: 2021-05-08T21:56:00Z
+    webUrl: "https://www.wrcbtv.com/story/43847893/teslaaposs-full-self45driving-cars-year45end-achievement-remain-uncertain"
+    type: article
+    provider:
+      name: WRCB
+      domain: wrcbtv.com
+    quality: 54
+    images:
+      - url: "https://PRSUBMITPRESSLIFESTYLE.images.worldnow.com/images/20725166_G.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Tesla engineer told California DMV that Elon Musk overstated self-driving capability"
     excerpt: "Elon’s tweet does not match engineering reality,' a DMV official wrote after debriefing a Tesla engineer who oversees autonomous driving development."

@@ -91,20 +91,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Apple Hires Former Google AI Scientist Samy Bengio Who Resigned After Colleagues' Firing"
-    excerpt: "Apple Inc. said that it hired AI scientist Bengio who will lead the new AI research unit and will work under former colleague John Giannandrea."
-    publishedDateTime: 2021-05-04T06:38:00Z
-    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/apple-hires-former-google-ai-scientist-samy-bengio-who-resigned-after-colleagues-firing.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 30
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/afo8pvqn9l9f9bza_1620108146.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
-        isCached: true
 
 secured: "QdaxcOf8jnmaFXDyQF+lsjcoEXG49PUkFCNMJgpkpe4d8hv9quzPu7y3D2wbNkfeXCwOggEI6OFvDUNOQBr8o3UqhGgzuMpnR8riVBjRb28pZPlDRjeoFMhPvnJcPCEGtJIbNb3xWpq59vQKoWVlsfqzWO8U+JKi6F2jS3U0+30zIIURTmsCZUhBtFx6v+PW5pWlaeSdYOn/ZKFOwxmKx16djbTINCH6nY8OXmov4ofmMznMRjoH4ZExBrok92tpLn01yX/nXIcxdmq3OoRGK25S85k7/T8mhQT43Ob/R1NFJsNMIGXfWAVhSk5d0g9fhY14D/yfNTh1ycVBY3KXPFuT4u0yQjcOo6wiuuDelyo=;vl6m9BXRNS97KLads2t4Dw=="
 ---

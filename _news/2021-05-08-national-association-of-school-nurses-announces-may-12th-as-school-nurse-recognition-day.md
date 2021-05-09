@@ -85,15 +85,31 @@ related:
         width: 337
         height: 225
         isCached: true
-  - title: "King County considers ban on facial recognition technology"
-    excerpt: "The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff’s office."
-    publishedDateTime: 2021-05-06T06:08:00Z
-    webUrl: "https://www.king5.com/article/tech/king-county-considers-ban-on-facial-recognition-tech/281-e50f4478-81d7-4108-8926-9f906c3c29a9"
+  - title: "King County Council delays vote on facial recognition ban"
+    excerpt: "The Metropolitan King County Council delayed a vote on a groundbreaking facial recognition ban, citing a need to do additional outreach and research on the policy's effects."
+    publishedDateTime: 2021-05-06T01:14:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/?amp=1"
     type: article
     provider:
-      name: KING5
-      domain: king5.com
-    quality: 19
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+  - title: "Facial Recognition Software Fuels Growing Concerns in State Legislatures"
+    excerpt: "Lawmakers in at least 20 states are weighing curbs on police use of facial recognition, citing concerns of accuracy, invasion of privacy, racial bias and civil rights abuses."
+    publishedDateTime: 2021-05-06T15:16:00Z
+    webUrl: "https://thecrimereport.org/2021/05/06/facial-recognition-software-fuels-growing-concerns-in-state-legislatures/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 38
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
+        width: 720
+        height: 393
+        isCached: true
 
 secured: "Q975jIh5elWAreCp8Op5kE0WNWvbq9sz9+9EAP0I1WYb9qaG26BYwh6JyRd4IhBTfwWm3VciXR6qXUvk8i4jEpuF+8wwOFkqH8o09KzhhHzlfktgAqUxXl8jLWik2O644/4MranUfmLbF9wsCon2+NpsSTPr3r+iINLG7R2wn+zpiMLLvug7klu/ml3fsVBvav2xYdXw6/P0P4PaqPjB9w+rycShTJKBat70WHCjzZr40ShIOWCCfpOoGEQai4g7XalQEBMuFK83UsUo0etpYaGrctpF1ezgUhP7Fro665OkovfXIaT4i/F7+GbDODgqBIJdd79mCTFZwu+T4PqvsqHP2Y6yaoa7AJ618YnjCA8=;s38a5HQ66rh3SF3CPQjdIA=="
 ---

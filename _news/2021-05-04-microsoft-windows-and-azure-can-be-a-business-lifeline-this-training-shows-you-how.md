@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/microsoft-windows-and-azure-can-be-a-business-lifeline-this-training-shows-you-how/amp/"
 type: article
 quality: 112
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS leads $42B global Cloud services market in Q1, Microsoft 2nd"
-    excerpt: "Amazon Web Services (AWS) was the leading cloud service provider with 32 per cent market share in Q1 2021, as cloud infrastructure services spending grew 35 per cent to $41.8 billion in the first quarter,"
-    publishedDateTime: 2021-05-04T05:54:00Z
-    webUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
-    ampWebUrl: "https://www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-leads-42b-global-cloud-services-market-in-q1-microsoft-2nd-news-topnews-vfefSNjjjicci.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 76
-    images:
-      - url: "https://www.sify.com/uploads/AWS_ians_vewiSKhedjcdd.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
     excerpt: "Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft"
     publishedDateTime: 2021-05-06T12:08:00Z

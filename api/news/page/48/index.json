@@ -2,6 +2,40 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-03-18-match-rhetoric-with-policy-on-ai.md",
+      "title": "‘Match rhetoric with policy’ on AI",
+      "excerpt": "They are just as likely to point to DeepMind’s use of AI to solve the protein folding problem (which, in short, is the ability to predict the shape of a protein from just looking at its constituent parts). A vastly improved understanding of the shape of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politics.co.uk/comment/2021/03/18/match-rhetoric-with-policy-on-ai/",
+      "originalUrl": "https://www.politics.co.uk/comment/2021/03/18/match-rhetoric-with-policy-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politics",
+        "domain": "politics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification.md",
       "title": "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification",
       "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification.",
@@ -869,39 +903,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-ai-model-optimization-startup-octoml-raises-28m-series-b-round.md",
-      "title": "AI model optimization startup OctoML raises $28M Series B round",
-      "excerpt": "Machine learning acceleration startup OctoML Inc. has secured yet more ... It works by fine-tuning AI models to run on specific chip architectures, and supports all manner of standard chips ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/03/17/ai-model-optimization-startup-octoml-raises-28m-series-b-round/",
-      "originalUrl": "https://siliconangle.com/2021/03/17/ai-model-optimization-startup-octoml-raises-28m-series-b-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
