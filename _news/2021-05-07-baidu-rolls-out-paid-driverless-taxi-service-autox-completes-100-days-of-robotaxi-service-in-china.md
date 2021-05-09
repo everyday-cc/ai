@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-s
 webUrl: "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Baidu rolls out paid driverless taxi service in Beijing"
-    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in Beijing,"
-    publishedDateTime: 2021-05-04T22:19:00Z
-    webUrl: "https://www.seattletimes.com/business/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/"
-    ampWebUrl: "https://www.seattletimes.com/business/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
 
 secured: "PaE4SenqceAHuE5v0JDuo/U29LYSyQPJ2btxosAyjb9rPJYk5TJlv+vI2/WzgCqq1uxjOFzeJNkfekH3QkcoSoLk+KI8kyh6nCTdvibevk826yAyx3lJBTaX4H66CXy9Z4f3qICSEXSSmVi92+bRHhPVpM2G/6F25sIXJNh8XvV5yJOH8i9HglJ3gYG8KW1Ns5F65F4mp/yOK/KrkCQbs3YH23re8QEsyKwPg2yqf+0gAZ8fO/LgORvGzciGh/UL3BgYZGb12ZE0p60bG0lOkRAY8mZbSoDy/N+vF83n7MRLTxxnZIgd0TrCoJ8fcig/UPOW7IqIKkBOJRjdpLwM9MfZlCSZxyLenwBwt653+sw=;ZCSYeThhf0Qxbhi5eKlaRA=="
 ---

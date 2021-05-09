@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/article/the-times-view-on-ai-dubbing-fo
 webUrl: "https://www.thetimes.co.uk/article/the-times-view-on-ai-dubbing-found-in-translation-8rcrhxf2r"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 685
     height: 385
     isCached: true
-
-related:
-  - title: "New AI Tool Offers Subtitling and Dubbing Alternative"
-    excerpt: "The system, from the U.K.’s Flawless, is designed to create lip-synced versions of movies and other content in multiple languages."
-    publishedDateTime: 2021-05-04T21:41:00Z
-    webUrl: "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 39
-    images:
-      - url: "https://www.hollywoodreporter.com/wp-content/uploads/2021/05/MSDFEGO_EC005-1620027677.jpeg?w=1024"
-        width: 1024
-        height: 577
-        isCached: true
 
 secured: "ND7cBrgj3VDVPgUZnWksPfF9HOToouGeUxNRkgJRtB0Upg6BEep6O1x7rKRllKOJnMD5apOqaeH6zU75L2zDaHWoBWx7AT7rmthnFcYLZZsviiahW1t+wn7UBiroT6fU2Zpbyu3+1agNNY8GNeAobsMiouO8AdLEuTZFyHkktoFEh8E2NWdqe/9T9ikZH9kqXmqcp11ZyU8JxTQJIvxzgPCaVO8iGysgYTtW3pbhnNZX9votbWXqJ3rFwhwQIAbH3Axx6GBGfya9qXJ9r/h/TJ8BCqyOE5MrIE/fSy4awo0v3MyRUVslY1AR4NbwnuwnxAiTbwVniNWQ/z4++/zVzS1ldjuhOexDGXSDasmZkFYKxfW81oddTJSkMVHjJrxqcqUabr9+3a9xrAdj9Dzg+LUKpv3CsnyKv9aNE3XeN+28uvfjbXe/FLLUNj0do1+1YFSIpSmIlEpFEfuxqCJVbvgrlAR+dikm7fhh0zPdsr6yjkc0eZ4KwMCitd4VwMhZ0onOidPrEL7lpzkIHbAenw==;kuZB1laAKrg0Oi7/OU/N5A=="
 ---

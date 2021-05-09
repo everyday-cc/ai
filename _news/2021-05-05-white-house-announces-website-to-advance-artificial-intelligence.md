@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/white-house-announces-website-t
 webUrl: "https://www.ai.gov/"
 type: article
 quality: 137
-heat: 148
+heat: 147
 published: true
 
 provider:

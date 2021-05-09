@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/08/ai-is-turning-us-into-de-facto-cy
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/08/ai-is-turning-us-into-de-facto-cyborgs/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 90
 published: true
 
 provider:

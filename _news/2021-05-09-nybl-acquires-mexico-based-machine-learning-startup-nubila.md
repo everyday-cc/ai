@@ -24,6 +24,19 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "nybl gets closer to taking AI to the people with its acquisition of Nubila"
+    excerpt: "Growth-focused acquisition will enhance the company’s R&D output with Nubila’s ML capabilities adding to nybl’s expertise in AI"
+    publishedDateTime: 2021-05-09T15:43:00Z
+    webUrl: "https://www.itp.net/emergent-tech/97675-nybl-gets-closer-to-take-ai-to-the-people-with-acquisition-of-nubila"
+    ampWebUrl: "https://www.itp.net/emergent-tech/97675-nybl-gets-closer-to-take-ai-to-the-people-with-acquisition-of-nubila?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/97675-nybl-gets-closer-to-take-ai-to-the-people-with-acquisition-of-nubila?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 35
+
 secured: "o6bqXSMPyqVLbTbK9mOOCTaEvD67a0FvTGlpEAKPIWYvvB8YICBsMxc4cfezHVD/HKNxV/PTCtwlBcaT5GlI54bRR/z8Jfeg8TxsBXtG5rTHFkw8OyBe7iloTM8ToX6gG2dNpe37qNHH2iCOfAKMBstEvleX24/kNr4DxL8d7QN+/C6sUQEUUPQhp+lVyM0FFEbmnUWH+EFpucIY8SR3p2YJF16WtYOPg97SEESLJRj8KzCIMRzRJnHnWOQb4kENXoTwVY6lYhiJHpofqI813PCf2m11P+gg2TD1mUriS5UgvSWvZOLablpOriBLXSqE3duzZODEQ0nPJ6Z3GaY07jJNbpO2OQy1E82/ryV70U1/7XHmDw2aIOM92epKXddhdIItj3c33XscDYgieMjESyht0LSI5p0yqKnFWlTqQb+ndDjPI/J6Ya8n3s1qfaeWw05koVp1lRMnnSQNk1b9+ynkOT0MbeHKrqrrIeGO1jB2XaxssGAb8iXriKMQ4dAVvACWH/AUI4H5RHO7/mAN3A==;JYQAsFhGHnVtjysfNgkkog=="
 ---
 

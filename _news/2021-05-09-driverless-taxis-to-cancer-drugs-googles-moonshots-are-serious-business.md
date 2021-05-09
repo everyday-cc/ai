@@ -41,17 +41,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Baidu rolls out paid driverless taxi service in Beijing"
-    excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in Beijing,"
-    publishedDateTime: 2021-05-04T22:19:00Z
-    webUrl: "https://www.seattletimes.com/business/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/"
-    ampWebUrl: "https://www.seattletimes.com/business/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
 
 secured: "BUFIXUGhT8q/9qRMwMM2gBcWVnqcEAijlh/ZEoEEITKpUutGSPw6cuQpcaNGoPInjLURZUVbo9bcMUK5gZg+7a0XQXIQUcQD5RPP1Indzw9cj6CO7F5Q3IIk9hVcB/tWR8eDvrrLlmS31NiieuSKzZE1ad1uW0W2S6AsN/4SrSosh/ZlIFkmpwPUmks7nq40GwuJK2M9MontEEyi1IJ2j0pJ0+yn3FIGByYAvKne4uej5J9UpjZX2IAsq+lKrBH247b352YsH+tDonXX/mWsrhJrvivN9/uyMqvY6CGa2iSefEpe8CyrZcgUOQAOCU9O9Ivt3QOhLlmYNlZOf3lTqEII3tMqj9shBEbnDYCRXAddRofjxG9oE2lYa7cQWiCGpCmPM3v/J4ie+adAAbLBO0xOQyf76DeP1GhDrQB9sw0bhR3t8ZGmEckSUeg27RBRKiWM4/391pr5rLpVdTmLUVI4T8XJ+3SofHFNwS2erOxElblpIvcj0Z+QqEMgRy9g70D76VsXNOt44wtf1UYR1A==;aOiV/y8KXjSVeDlNCEqWVQ=="
 ---
