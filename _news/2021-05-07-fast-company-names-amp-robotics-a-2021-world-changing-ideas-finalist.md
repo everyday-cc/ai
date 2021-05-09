@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Genpact and Fast Company Partner to Digitally Transform a World Changing Ideas Honoree"
-    excerpt: "Genpact(NYSE: G), a global professional services firm focused on delivering digital transformation, today announced a partnership with Fast C"
-    publishedDateTime: 2021-05-04T14:13:00Z
-    webUrl: "https://www.fastcompany.com/apply/world-changing-ideas"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 144
-    images:
-      - url: "https://images.fastcompany.net/image/upload/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fast Company's 2021 World Changing Ideas Awards Distinguishes IDX Privacy with Honorable Mention in Apps Category"
     excerpt: "IDX, the leading consumer privacy platform and data breach services provider, announced the mobile app of its flagship product, IDX Privacy, has received an honorable mention in Fast Company's World Changing Ideas Awards."
     publishedDateTime: 2021-05-05T14:12:00Z
@@ -53,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fast Company Names AMP Robotics’ AI Platform a 2021 World Changing Ideas Finalist"
+    excerpt: "The artificial intelligence (AI) platform developed by AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and rec"
+    publishedDateTime: 2021-05-04T15:31:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210504005740/en/Fast-Company-Names-AMP-Robotics’-AI-Platform-a-2021-World-Changing-Ideas-Finalist"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 44
   - title: "Fast Company Names AMP Robotics AI Platform a 2021 World Changing Ideas Finalist"
     excerpt: "The artificial intelligence (AI) platform developed by AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and recycling industry, has been recognized as a finalist in two categories—“AI and Data” and “Best World Changing Idea North America”—of Fast Company’s 2021 World Changing Ideas Awards."
     publishedDateTime: 2021-05-05T10:32:00Z

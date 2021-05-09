@@ -7,7 +7,7 @@ originalUrl: "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-of
 webUrl: "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI Tool Offers Subtitling and Dubbing Alternative"
-    excerpt: "The system, from the U.K.’s Flawless, is designed to create lip-synced versions of movies and other content in multiple languages."
-    publishedDateTime: 2021-05-04T14:41:00Z
-    webUrl: "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/#!"
-    ampWebUrl: "https://www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/amp/"
-    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/movies/movie-news/new-ai-tool-offers-subtitling-and-dubbing-alternative-4174196/amp/"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 59
-    images:
-      - url: "https://www.hollywoodreporter.com/wp-content/uploads/2021/05/MSDFEGO_EC005-1620027677.jpeg?w=1024"
-        width: 1024
-        height: 577
-        isCached: true
   - title: "The Times view on AI dubbing: Found in Translation"
     excerpt: "Until recently, the average monoglot Anglophone eager to enjoy the latest hot foreign language film or TV show was faced with a stark binary choice as to how best they might understand the dialogue"
     publishedDateTime: 2021-05-07T23:01:00Z

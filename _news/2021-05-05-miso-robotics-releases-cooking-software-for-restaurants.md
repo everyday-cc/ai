@@ -7,7 +7,7 @@ originalUrl: "https://labusinessjournal.com/news/2021/may/04/miso-robotics-relea
 webUrl: "https://labusinessjournal.com/news/2021/may/04/miso-robotics-releases-cooking-software-restaurant/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 670
     height: 446
     isCached: true
-
-related:
-  - title: "Miso Robotics Rolls Out New AI Software For Grill Tracking"
-    excerpt: "Pasadena-based robotics developer Miso Robotics rolled out a new product this morning, a new, artificial intelligence-driven product called CookRight. According to Miso Robotics, the new product runs independently of its \"Flippy\" robot,"
-    publishedDateTime: 2021-05-04T13:27:00Z
-    webUrl: "https://socaltech.com/miso_robotics_rolls_out_new_ai_software_for_grill_tracking/s-0081215.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 49
 
 secured: "LemaO18+3HRcyVXR6MmuEVVCDA/egat+t4CYzzSclt8AykrG0+92OBbFgMKl6hC9z9VYpDPngcJEkeGQYdOGQ/8buoRJAxu3bSq8+EgoQvkH2QZ8lbnWZznSTe/kWrpnxan8lsOiVm5sZ7yOqkkYc6/ve7Qe5yHIzU8O7qzhRJLc29SBzp3SIr/u9qwINaAwuAo1t03pSDg/wtjVTtEI4ltX+HdK6Ts/QjjXQGwMXwsv4EonOOlZNoFCSdAVPB5PqNVHNtoat4EPqr0yBoxQ6qU2YlH1EyvSZOUrx+zml+qJaxlwaEivigGs42iltmueq3FdxplB8O9gjZFIBcANusxU0qnYMwsHVVOFtBkXz8L9R0Jt78HeERwIS7l18QJyO06Kog6A0RCRfa/wNWcfRSjXldRUo0avNLqddRfxwNeEfj9ck5+qDqCId1NB3WVF4B/sZn+sr1trmZmyHJH+0yruMLHisjNV17zrT4N1My56QzynSZ3G2arfOLnSPH3F1w2BequIsYw7bRBhzqVKqA==;xHJ7kAwVrA6M2emNIIbnhA=="
 ---

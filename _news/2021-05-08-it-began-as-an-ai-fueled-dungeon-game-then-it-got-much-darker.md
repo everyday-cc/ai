@@ -3,8 +3,8 @@ category: news
 title: "It began as an AI-fueled dungeon game. Then it got much darker"
 excerpt: "Utah startup Latitude launched a pioneering online game called AI Dungeon that demonstrated a new form of human-machine collaboration. The company used text-generation technology from artificial intelligence company OpenAI to create a choose-your-own adventure game inspired by Dungeons & Dragons."
 publishedDateTime: 2021-05-08T10:50:00Z
-originalUrl: "https://arstechnica.com/gaming/2021/05/it-began-as-an-ai-fueled-dungeon-game-then-it-got-much-darker/?comments=1"
-webUrl: "https://arstechnica.com/gaming/2021/05/it-began-as-an-ai-fueled-dungeon-game-then-it-got-much-darker/?comments=1"
+originalUrl: "https://arstechnica.com/gaming/2021/05/it-began-as-an-ai-fueled-dungeon-game-then-it-got-much-darker/"
+webUrl: "https://arstechnica.com/gaming/2021/05/it-began-as-an-ai-fueled-dungeon-game-then-it-got-much-darker/"
 type: article
 quality: 67
 heat: -1
@@ -45,6 +45,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "ihuWr1j0/6ckB4dfAmWkriGmfT4ssJGO4f8qPNM5pEz2VlwhewmSYdVawaLmaiTRfHPZPFR7utgayNefVYNLeOSE2T4vi8zVp9zhoFuWysB4sXjQlYk6dRGrxMth9bP9wBwmJRwsGL/b39HGTYiDSPjueIoKOP6K2/OJLZCnKrKKnABAcc6GpM0MZpXp43aVepNJgpQDVrSUPUz5PAqDw2xNBGWUuxl60ruFdoR2pcES9gDs7hob0BMeUfXuRd4hXKtHP9H7ZTmNdENsa6xIoDWHriRCt/sjYlvMVYUQx7UReirgGJVxqCNnUVXj9ZkxVKjEs+wTd6k/11GaqgfSDJGZZ/0LmHlsHOJXdWfT7oE=;OPasc65WdBvRdx4lFm9lpQ=="
+secured: "hz7SNN31zIUOq84mJBv5GyNTv3CBC6eILfjvubVlEMk02/Z6es9zQR+UqFFzgYi96IpyJNtOsABLehwYjTixeKHkRkxR7Yr8PwcwYowE1B/iQgdrHahW+iXTn8Z+FbjvqWDBmepvo4bgwxrSRUXy+zVEOvbkIE8i/HJFN0iHOmx2wnrwUWL6Y86iHTa4AEzAue353FER5KxS0RfdhvxrvNSqj+W8+9B34BawMekyHUo5KE4f/PObb8AnZ4vOqJAoDAsBjmZbgojS6xgBPZBqRLvYT2ILNW+ECPC1N+n3vS1F5KPxkPJ8FvqQf9VzNOCKqsIEQMIwHsbMKzA715xtmfRGveq4FwLz73VXEwmxyUU=;K3ZJCh4kJLIHbSfIyrn3wQ=="
 ---
 

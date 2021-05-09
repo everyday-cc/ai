@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-05-artificial-intelligence-sarcasm-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-artificial-intelligence-sarcasm-social-media.amp"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Say What!? This AI System Can Detect Sarcasm in Social Media Posts"
+    excerpt: "Sarcasm isn't always easy to identify in conversation, so you can imagine it's pretty challenging for a computer programme to do it and do it well."
+    publishedDateTime: 2021-05-08T17:27:00Z
+    webUrl: "https://www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/"
+    ampWebUrl: "https://www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 57
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2019/07/artificial-intelligence-stock-image.jpg"
+        width: 805
+        height: 537
+        isCached: true
   - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
     excerpt: "Properly understanding and responding to customer feedback on Twitter, Facebook and other social media platforms is crucial for brands, and it may have just gotten a little easier thanks to research out of the University of Central Florida in Orlando."
     publishedDateTime: 2021-05-06T04:00:00Z

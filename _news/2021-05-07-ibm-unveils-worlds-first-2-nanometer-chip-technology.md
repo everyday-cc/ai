@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM details planned 2-nanometer chip process"
-    excerpt: "During a press conference, IBM detailed its 2-nanometer chip process, which it expects will come into production in the next several years."
-    publishedDateTime: 2021-05-04T14:00:00Z
-    webUrl: "https://venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/"
-    ampWebUrl: "https://venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
   - title: "IBM Meets New Chip Milestone with 2 Nanometer Chip Technology"
     excerpt: "IBM is making a breakthrough in semiconductor design and process with the development of the world's first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
     publishedDateTime: 2021-05-07T16:00:00Z
@@ -63,20 +52,6 @@ related:
       - url: "https://www.capitalfm.co.ke/business/files/2021/05/IMG-20210507-WA0010.jpg"
         width: 1280
         height: 774
-        isCached: true
-  - title: "IBM Unveils World’s First 2 Nanometer Chip Technology, Opening a New Frontier for Semiconductors"
-    excerpt: "IBM (NYSE: IBM) today unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
-    publishedDateTime: 2021-05-06T10:11:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-f792d8ab208a181a00d1b2a331d01536"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "GhRO1aQTTZ7iZYPJtI8lIO3a7X4gc+Ekcz2x2qYQooiG/0V4dKiqg0pxnG5hYdFWuXLVZyb7guJKAXjMDD5IH4M0UlRUH1AUabNfoManS0UVFogprcYKY/8HXVE8AlLOXKJjtU7jidEjv+vkmyTVt9pXaVGgNWUCF1FekT4mWGhZx4RDjemEBpgln1UdTGZbLuRC0H4s9eKGANqOYpyAw6n04UZBioBPSd8ZiIe83SEk1welrxjfwWpCudJZYBCsWkNpk1Bfbiyn92TxWmG08MYU4F+bygQdEWZjtnLCv3Zng92iGc3CxN6AmAPb0Iuzf9ourNw9asV5kOKa/Lll24QrVvYQLUN49HhJqVO/3WI=;m4zcVCPqcEh667ZpN2VjSA=="

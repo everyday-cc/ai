@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Genpact and Fast Company Partner to Digitally Transform a World Changing Ideas Honoree"
-    excerpt: "Genpact(NYSE: G), a global professional services firm focused on delivering digital transformation, today announced a partnership with Fast C"
-    publishedDateTime: 2021-05-04T14:13:00Z
-    webUrl: "https://www.fastcompany.com/apply/world-changing-ideas"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 144
-    images:
-      - url: "https://images.fastcompany.net/image/upload/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fast Company's 2021 World Changing Ideas Awards Distinguishes IDX Privacy with Honorable Mention in Apps Category"
     excerpt: "IDX, the leading consumer privacy platform and data breach services provider, announced the mobile app of its flagship product, IDX Privacy, has received an honorable mention in Fast Company's World Changing Ideas Awards."
     publishedDateTime: 2021-05-05T14:12:00Z
@@ -61,6 +47,15 @@ related:
         width: 736
         height: 414
         isCached: true
+  - title: "Fast Company Names AMP Robotics’ AI Platform a 2021 World Changing Ideas Finalist"
+    excerpt: "The artificial intelligence (AI) platform developed by AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and rec"
+    publishedDateTime: 2021-05-04T15:31:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210504005740/en/Fast-Company-Names-AMP-Robotics’-AI-Platform-a-2021-World-Changing-Ideas-Finalist"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 44
 
 secured: "1oL2soNYRBwjbGnVimC/fg5+q0gH0OfvB2GcnKVhvLijkLvk9VmFnpxK6PuGicv/XKMyxnDD5JnuWutPUhq7HaZ0Yu6dKdoVFiCDhbd6pQbjT1n+778ynNMW3/gSUk7FYTP6j31KZiESyh+Lv6EbQbMQFXI8uVy4T9hxPgZiL396olB3yZAqJ3BUNeZMjc5MC5dw/iTXRf6FUdATxv2aNRpCo2haA+CEtK52pdK8a5PruXwTSTFPzEGWR6Kwr5BMd85VXqgZEvsa0zrrRUCNtDiYCxj7d/gwrZ/4gXw1oqPwb9Zj7eQjWwfwGWYWxUWnful9w7/kuAWpSpsehX2GuVm1mIiiZp0resWZM6Swbac=;AO8ec8SjYHt3745s/9xYgA=="
 ---

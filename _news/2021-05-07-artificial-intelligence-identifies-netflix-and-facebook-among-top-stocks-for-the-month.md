@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/amp/"
 type: article
 quality: 79
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-24.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Facebook Announces ZionEX Platform for Training AI Models with 12 Trillion Parameters"
-    excerpt: "A team of scientists at Facebook AI Research (FAIR) announced a system for training deep-learning recommendation models (DLRM) using PyTorch on a custom-built AI hardware platform, ZionEX. Using this system,"
-    publishedDateTime: 2021-05-04T13:05:00Z
-    webUrl: "https://www.infoq.com/news/2021/05/facebook-zionex-training/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 34
-    images:
-      - url: "https://res.infoq.com/news/2021/05/facebook-zionex-training/en/headerimage/facebook-zionex-training-header-1619958418824.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "OT1mOjINbMNONkQGa6yE2+qcVyss06sZulslhXTy+hR8zCzoH5bCkHgCChlKOQNsWbtOawKqgBgejiXVeP4Cr5dYFYiSeNJvVXGGXN9raqXdD58gDIJtxaRsx585wVitgWEQibs9g9j7j9kQ1eZ5sym1I0bKotAZO8kAvEnn7UogpHKFOdLKU9vhJWtWmFNI7tHniwlIN5FFjL5XEy0Hrqxb6yURmiXYvxNY/3IRMWUdvhT6+V6i8z4+Y2NMXr2hHoVidufiNIhme2++pwtFE9lQBmfL+PrfnA8ZxjW1uuYGCmxAM6k/W0HLwPYneVQKi9+JigYMQO89Lp4jyh98s1nnkjcvrnH/OtZppV9mH042fs2O9WxCKUB42hhx+6pquLwFHK4JyOGovlceOJxL0DF8uGfRiAEf1YHQzfEyNeS6VaIsJykoxGcT2baqQDRTcyfXkq8boTgePcLOtAviQfMfoG1ww3Af5kAfv7/cJjBwIwX/5n30SIhrb+6rZEQyDbYrBmBJD2R3FPJUpZDbdA==;AOfLTh3uTbod7JpFqTCpPw=="

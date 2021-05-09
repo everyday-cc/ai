@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM details planned 2-nanometer chip process"
-    excerpt: "During a press conference, IBM detailed its 2-nanometer chip process, which it expects will come into production in the next several years."
-    publishedDateTime: 2021-05-04T14:00:00Z
-    webUrl: "https://venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/"
-    ampWebUrl: "https://venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/ibm-details-planned-2-nanometer-chip-process/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
   - title: "IBM Meets New Chip Milestone with 2 Nanometer Chip Technology"
     excerpt: "IBM is making a breakthrough in semiconductor design and process with the development of the world's first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
     publishedDateTime: 2021-05-07T16:00:00Z
@@ -63,20 +52,6 @@ related:
       - url: "https://lh3.googleusercontent.com/kdBSZ7hbGK7yYR4SA2V9KEhUbkLT_p6K6-FGGUA_jGFwYJiyc4mX6v6VVgNfrRCkt8hK-6iLpKlyQAXGt1RtCjXvzDXZERGtwcWl8cdQUQ=s1000"
         width: 1000
         height: 605
-        isCached: true
-  - title: "IBM Unveils World’s First 2 Nanometer Chip Technology, Opening a New Frontier for Semiconductors"
-    excerpt: "IBM (NYSE: IBM) today unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
-    publishedDateTime: 2021-05-06T10:11:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-f792d8ab208a181a00d1b2a331d01536"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "FF+WqKo6apFUm0d+hEtm1u3byPaqy5jj7gcXXzs+5StWifYkcOOr3Cl6xSM8it5HAOS2vnJXej9HtzqJznjVR0w1vGYIJ42QUGv664/UEySaLBDmS/TKl6yBJYAtk+3PlSJURFRBVKInjMaSADUdqBUP/mRfgW7IyJS7bftKZ4IuN7EuYYMUUFKhc7JrN8vyudHUQbIEVnpqnRvdgK7WyVlPb87o0HSZUTaueRbXm8+fEA+paewmMtVKsB2txasUz5UHqQkRfI8Tyz9ODWtRtoNYZbfUO3BoGQBM3YAuyayei+hJZlf7VzkvaVutYPkF+YT1H3dhkKk+JebEzrqKNSlYPWLNf9OacfCE9rO5U1s=;Rg167tE1wHC9mRr8+3HGGw=="

@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/fast-company-s-202
 webUrl: "https://www.fastcompany.com/apply/world-changing-ideas"
 type: article
 quality: 131
-heat: -1
-published: false
+heat: 161
+published: true
 
 provider:
   name: Business Insider
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Genpact and Fast Company Partner to Digitally Transform a World Changing Ideas Honoree"
-    excerpt: "Genpact(NYSE: G), a global professional services firm focused on delivering digital transformation, today announced a partnership with Fast C"
-    publishedDateTime: 2021-05-04T14:13:00Z
-    webUrl: "https://www.fastcompany.com/apply/world-changing-ideas"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 144
-    images:
-      - url: "https://images.fastcompany.net/image/upload/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fast Company names Amp Robotics a 2021 World-Changing Ideas finalist"
     excerpt: "Amp Robotics Corp. , a waste and recycling robotics company based in Denver, has been recognized as a finalist in Fast Company’s 2021 World-Changing Ideas Awards. The awards honor the businesses, policies,"
     publishedDateTime: 2021-05-07T01:01:00Z
@@ -56,6 +42,15 @@ related:
         width: 736
         height: 414
         isCached: true
+  - title: "Fast Company Names AMP Robotics’ AI Platform a 2021 World Changing Ideas Finalist"
+    excerpt: "The artificial intelligence (AI) platform developed by AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and rec"
+    publishedDateTime: 2021-05-04T15:31:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210504005740/en/Fast-Company-Names-AMP-Robotics’-AI-Platform-a-2021-World-Changing-Ideas-Finalist"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 44
   - title: "Fast Company Names AMP Robotics AI Platform a 2021 World Changing Ideas Finalist"
     excerpt: "The artificial intelligence (AI) platform developed by AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and recycling industry, has been recognized as a finalist in two categories—“AI and Data” and “Best World Changing Idea North America”—of Fast Company’s 2021 World Changing Ideas Awards."
     publishedDateTime: 2021-05-05T10:32:00Z

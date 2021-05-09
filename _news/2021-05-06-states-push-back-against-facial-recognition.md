@@ -57,20 +57,6 @@ related:
         width: 640
         height: 422
         isCached: true
-  - title: "Innocent Black man jailed after false facial recognition match"
-    excerpt: "All the latest stories from around the world designed for your social feed. Like, Share and comment"
-    publishedDateTime: 2021-05-04T13:20:00Z
-    webUrl: "https://www.trtworld.com/video/social-videos/innocent-black-man-jailed-after-false-facial-recognition-match/609145f43b0f87001e8e3263"
-    type: article
-    provider:
-      name: TRT World
-      domain: trtworld.com
-    quality: 54
-    images:
-      - url: "https://cdni0.trtworld.com/w640/h360/q75/104699_FacialRecgonitionBiasYTB_1620133514949.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "King County Council delays vote on facial recognition ban"
     excerpt: "The Metropolitan King County Council delayed a vote on a groundbreaking facial recognition ban, citing a need to do additional outreach and research on the policy's effects."
     publishedDateTime: 2021-05-06T01:14:00Z

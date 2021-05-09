@@ -53,20 +53,6 @@ related:
         width: 640
         height: 422
         isCached: true
-  - title: "Innocent Black man jailed after false facial recognition match"
-    excerpt: "All the latest stories from around the world designed for your social feed. Like, Share and comment"
-    publishedDateTime: 2021-05-04T13:20:00Z
-    webUrl: "https://www.trtworld.com/video/social-videos/innocent-black-man-jailed-after-false-facial-recognition-match/609145f43b0f87001e8e3263"
-    type: article
-    provider:
-      name: TRT World
-      domain: trtworld.com
-    quality: 54
-    images:
-      - url: "https://cdni0.trtworld.com/w640/h360/q75/104699_FacialRecgonitionBiasYTB_1620133514949.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "States push back against facial recognition"
     excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
     publishedDateTime: 2021-05-05T22:31:00Z

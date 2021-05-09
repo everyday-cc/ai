@@ -72,20 +72,6 @@ related:
         width: 587
         height: 532
         isCached: true
-  - title: "Facebook Announces ZionEX Platform for Training AI Models with 12 Trillion Parameters"
-    excerpt: "A team of scientists at Facebook AI Research (FAIR) announced a system for training deep-learning recommendation models (DLRM) using PyTorch on a custom-built AI hardware platform, ZionEX. Using this system,"
-    publishedDateTime: 2021-05-04T13:05:00Z
-    webUrl: "https://www.infoq.com/news/2021/05/facebook-zionex-training/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 34
-    images:
-      - url: "https://res.infoq.com/news/2021/05/facebook-zionex-training/en/headerimage/facebook-zionex-training-header-1619958418824.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "C+nEpFIt1c/jaSOQGuvq9jdZdfGfVT2iRAjZPCJMCf0NHDTbfNx/DqNm+vT0Pg0srdc6JOyJ5yZfjHxI08ft9KbndBpbMYsTTHMR0it6HkIj9DSvP0lFLVmOwSOcoE2/BaVC5cw+jG/g4nuUMYYU6zJ7UwYzqdPZKS0zVm1OLgJva9vOWcxw5spVtcZE0gE11SSwsdjz6z26LZB/LjJ+g1csdjV2gQVOy8jzRhDz6LZ3udq4aDqSMXOMJlsGosISqcPgcap9zXbzQeIZVS9YsZDI4f5CosG7pLLv9+R52lFwEV1xXWx38N4QI58TfyJ7EfZjm86izBxKUOeLbG/MRMb1xjvUnFxXDphziPN3vuw6sQh+AfjD1+mfYjoMeRUxCYvQq4goE1zFfjiaknmlGuk8smkaW1U7ljrURW1oSJtjpKhVJBhp0x5+B6/KaZ3DOVDUzbG/luD6K895RCAvKaf8vbEjU34XggboTSP++LSt8Kid3E0AnlDwMshpyYSOoPB0Z9Q9peoWMzJmqkIFOA==;bLrtMyLvSEpnvkmS03uk8Q=="
 ---

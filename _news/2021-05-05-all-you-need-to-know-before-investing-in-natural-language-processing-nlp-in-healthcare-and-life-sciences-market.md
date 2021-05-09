@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/05/all-you-need-to-know-before-inv
 webUrl: "https://ksusentinel.com/2021/05/05/all-you-need-to-know-before-investing-in-natural-language-processing-nlp-in-healthcare-and-life-sciences-market/"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 720
     height: 470
     isCached: true
-
-related:
-  - title: "Artificial Intelligence In Healthcare Market is Ready for Speedy Growth | Players – Intel Corporation, IBM Corporation, Google, Inc.."
-    excerpt: "The Artificial Intelligence In Healthcare Market is expected to grow at a CAGR of 8.7% and is poised to reach US$XX Billion by 2027 as compared to US$XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report."
-    publishedDateTime: 2021-05-04T14:55:00Z
-    webUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-in-healthcare-market-is-ready-for-speedy-growth-players-intel-corporation-ibm-corporation-google-inc/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 23
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/Key-Questions-Answered-in-Report-1-1.jpg"
-        width: 573
-        height: 595
-        isCached: true
 
 secured: "BrazjpFePWDZ/91E9OCfm4TaHOoHNCZuk5fzEi/WNqPns7zqmj6Dq0amMFzZiGWDmbMhgAOhqtj1Hu1sSsy4s33MekO1p+T8+JxvNCo+D2djCi7bCIioK4/xHjy8KoRc1yppSulq7T2MSYTtSdjbiKoF9F/4hsaPYZ0dHpDUeKceq9k+YgbQkd8FprOk8lp5lZ2+ljplIXY0XgXFewCHUQJiGlB+Yst4CAV7yH0Um/aA2g7jVynUM3XCHkaLSJxHI24QKEfRtg+008D8IyEGBhtFiAJQyPE3XMYdBb4Z0yECsnicPAURAdjiYRQRVlBpkvf7a3IFEmkeV7JJGGKFg3BnRNT/YF9BcPqoaq0UrOFxvXcfThplylPf9cg0g5rLPFh8Xk7Wshk68vpFMnyUnNRurPL4Jp/k3Ri0pOE3d8297+7n37eUFqcJmvuJ8G8jMSn5RDa9uOgFgsDePMtyu9qqi/t1wczssdIRr3DO9Slgv+8MDfluBeavh6XymPsevT1AjteDO2lyp1KWqMYThw==;q8h7Ry/pWtNUx/qI7j6/fQ=="
 ---

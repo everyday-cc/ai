@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210504005868/en/Kanverse.
 webUrl: "https://www.businesswire.com/news/home/20210504005868/en/Kanverse.ai-Introduces-Next-Generation-Cognitive-Automation-Platform-and-Launches-Intelligent-Document-Processing-Product-IDP"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Minerva Intelligence announces Webinar for its DRIVER AI Mining & Exploration software"
-    excerpt: "CNW/ - Minerva Intelligence Inc. (TSXV: MVAI) (\"Minerva\" or \"the Company\"), an artificial intelligence company focused on knowledge engineering, is pleased to announce a new webinar on May 6, coinciding with the Company's launching of its state-of-the-art DRIVER software,"
-    publishedDateTime: 2021-05-04T13:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/minerva-intelligence-announces-webinar-for-its-driver-ai-mining-exploration-software-1030385127"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
 
 secured: "CUvWdUC7pY0cYWL+D3QJ2jjlJYay4iccqApzKYxS54R+u1l70SyRQapvOmJSsySTNXh8+YKwQxdNecj/sixJdKgbqOGCTz7QRR7ZnToLB6jDaBuOB6aC7acbG1B1XBxwarAJtId3MQArAB4KU12DHf0etIW7UIrlsdbzR/R4U3vcTSRCj4JVb92GwOBleF6sGTLyyLM9Y4ysYvfTn5fn9s15HGqxBoqbhTRjdY5gASSwrpnf9f1PLV5U8Yt7GvPMEvS3XDqeY858cwssn5szKM7eN/P+QJX0vG9OwD9b5eWEn9KAxJZHBkjt3iERP73oAvS/0TeSMHA3FtJebaYwJgQfq4atMtB2NSDFH+Li0rQ=;MRTu7UaWSvO37RrQyTINOw=="
 ---
