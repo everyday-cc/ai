@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-21-elon-musks-driverless-dreams-take-hit-as-tesla-autopilot-accidents-pile-up.md",
+      "title": "Elon Musk's driverless dreams take hit as Tesla Autopilot accidents pile up",
+      "excerpt": "The car, a 2019 Model S Tesla, was manoeuvering a curve when it went off the road for about 100 feet and hit a tree at 11.25pm local time. The men’s wives had watched them leave just minutes before the collision,",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2021/04/20/200421_ZD_ELON_MUSK_PORTAL_trans_NvBQzQNjv4BqaypGtz_Zt6G5HZG2YLTIFpqon37PYiPSvTMVDwEnWaA.jpg",
+          "width": 1196,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/",
+      "publishedDateTime": "2021-04-20T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-companies-are-betting-big-on-autonomous-vehicles-but-looming-questions-over-chip-supply-and-safety-remain.md",
       "title": "Companies are betting big on autonomous vehicles but looming questions over chip supply and safety remain",
       "excerpt": "Walmart last week reaffirmed its commitment to a driverless delivery ecosystem by investing in a funding round for San Francisco-based AV startup Crusie that raised $2.75 billion, per CNBC. The investment comes five months after the two companies launched ...",
@@ -1332,59 +1375,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks.md",
-      "title": "This robot-run fund with a history of predicting Tesla price moves has just made these stock picks",
-      "excerpt": "An exchange-traded fund driven by artificial intelligence has correctly predicted Tesla price movements, and recently shared its most recent",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks-11618396980",
-      "originalUrl": "https://www.marketwatch.com/story/this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks-11618396980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-324370/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks-11618396980",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks-11618396980",
-      "publishedDateTime": "2021-04-14T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

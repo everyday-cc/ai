@@ -2,6 +2,92 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-03-24-natural-language-processing-nlp-market-by-new-business-developments-innovations-and-top-companies-a-forecast-to-2026.md",
+      "title": "Natural Language Processing (NLP) Market by New Business Developments, Innovations, And Top Companies â Forecast To 2026",
+      "excerpt": "In 2019, the global Natural Language Processing (NLP) market size was US$ 854.6 million and it is expected to reach US$ 3121.5 million by the end of 2026, with a CAGR of 20.1% during 2021-2026. Request a sample Report of Natural Language Processing (NLP) Market at:  The major vendors include 3M,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/03/26/latest-updated-report-on-global-label-applicators-market-2021-covid-19-impact-share-trend-segmentation-and-forecast-to-2028-weber-herma-primeras-label-take-a-label/?random-post=1",
+      "originalUrl": "https://ksusentinel.com/2021/03/26/latest-updated-report-on-global-label-applicators-market-2021-covid-19-impact-share-trend-segmentation-and-forecast-to-2028-weber-herma-primeras-label-take-a-label/?random-post=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-researchers-developed-an-ai-backpack-system-to-guide-vision-impaired-wearers.md",
+      "title": "Researchers developed an AI backpack system to guide vision-impaired wearers",
+      "excerpt": "The backpack uses a Luxonis OAK-D spatial camera, which has an on-chip edge AI processor and uses Intel's Movidius image processing tech. The 4K camera, which captures depth information as well as color images, is packed inside a vest or fanny pack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ai-backpack-system-visually-impaired-intel-university-of-georgia-150025561.html",
+      "originalUrl": "https://www.engadget.com/ai-backpack-system-visually-impaired-intel-university-of-georgia-150025561.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-03/8c6dde50-8cb2-11eb-a779-9989ea912ca8",
+          "width": 678,
+          "height": 391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network.md",
       "title": "Soft-bodied Robots More Efficient With New Deep Learning Neural Network",
       "excerpt": "Alexander Amini is co-lead author of the research along with Andrew Spielberg, both PhD students in MIT Computer Science and Artificial Intelligence Laboratory. The research was published in IEEE Robotics and Automation Letters with other co-authors ...",
@@ -1049,91 +1135,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions.md",
-      "title": "eMAM streamlines search and processing with AWS Media Intelligence solutions",
-      "excerpt": "Amazon Rekognition is a service adds powerful visual analysis. Amazon Transcribe is an AWS service converts speech-to-text. Amazon Translate is a neural machine translation service that delivers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/p20304553/emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/p20304553/emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20304553",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20304553",
-      "publishedDateTime": "2021-03-23T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-darpa-to-test-ai-controlled-jets-in-live-fly-dogfights-after-successful-simulations.md",
-      "title": "DARPA to test AI-controlled jets in live-fly dogfights after successful simulations",
-      "excerpt": "DARPA recently tested the algorithms in a simulated battle between two friendly F-16s armed with guns and missiles and a single enemy aircraft.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-23T161949.714-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/amp/",
-      "publishedDateTime": "2021-03-23T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

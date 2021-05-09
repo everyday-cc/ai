@@ -41,20 +41,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Untangle your hair with help from robots"
-    excerpt: "With rapidly growing demands on health care systems, nurses typically spend 18 to 40 percent of their time performing direct patient care tasks, oftentimes for many patients and with little time to spare."
-    publishedDateTime: 2021-05-04T11:16:00Z
-    webUrl: "https://techxplore.com/news/2021-05-untangle-hair-robots.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/untangle-your-hair-wit.jpg"
-        width: 1790
-        height: 1332
-        isCached: true
   - title: "Watch as a robot takes over the task of hairbrushing"
     excerpt: "The MIT CSAIL hair-brushing robot features a robotic arm, a sensorized hairbrush, a camera and machine vision. According to the researchers, a corresponding mathematical model enables the robot to determine how to untangle the hair and feedback from the sensorized brush determines how much pressure to apply to the hair to untangle it without inflicting pain on the subject."
     publishedDateTime: 2021-05-06T04:02:00Z

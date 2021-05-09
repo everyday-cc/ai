@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Noonum Accepted into EvoNexus Silicon Valley Fintech Incubator with Founding Partners of Franklin Templeton and Royal Bank of Canada"
-    excerpt: "The EvoNexus selection committee was impressed by Noonum's promising AI, solid team, solid technical foundation, and early customer traction. About 5% of applicants to the incubator make it to ..."
-    publishedDateTime: 2021-05-04T12:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/noonum-accepted-into-evonexus-silicon-valley-fintech-incubator-with-founding-partners-of-franklin-templeton-and-royal-bank-of-canada-1030384299"
+  - title: "NCFA Reveals Speakers and Agenda for Online FFCON21: Fintech and Financing Conference"
+    excerpt: "Fintech trends and innovations paving the way to mass adoption and scale TORONTO, ON / ACCESSWIRE /0 / The Fintech & Financing Conference and Expo (#FFCON21), Canada's premier Fintech conference organized by The National Crowdfunding & Fintech Association (NCFA),"
+    publishedDateTime: 2021-05-06T16:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 18
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/Trump-Twitter-16-9-AFP-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Technology Association of Georgia Announces First 100+ Speakers to Fintech South 2021 Lineup"
+    excerpt: "Technology Association of Georgia (TAG) announces the first 100+ speakers for Fintech South, the southeast’s largest event dedicated to financial innovation. A global exchange of insights and trends fueling tomorrow’s financial tech industry,"
+    publishedDateTime: 2021-05-05T11:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/georgia-technology-business-2af34f054b434fbe99e431fac22bb958"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "nQH10/AbwMGTtcVruLQ3zY1PfS+99swedmna6AjpK8jPgKdRqdJTzDJb9xZ+fDD0L+V9mk7qxRl2G+tsTuAdH1tvcjau6MGHqiHCDoPRfAmBy0FfVazOl0VVQhUM2Dz5sGYoZo8FqWS30CwgagspTrSU422xc3U3QCfr7qMwNJsYpruyeBpkXVMMGC6b1Kl5UGf6hkngKVLP5i3m4AwPwyn54ce1voCFYKLnbFE8rnWstlp85o0suwvdxCwdgJgMAd+8ynUZzj1Z87eV4WfrwC9zgRa95HFqgfvqZpH/jTcNehgBeuUbOoDn4YoAMlC3bM+127sXC0UZ9TWq37pqdmD4t1c9eWJ/6NoLkSpo5tM=;wpiOnUmgA8To9a/qZ/P8/g=="
 ---

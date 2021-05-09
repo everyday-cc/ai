@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Top Banking and Fintech Trends for 2021"
+    excerpt: "As opportunities open up in the fintech industry, some trends are continuing into 2021. Here are to banking and fintech trends for 2021 that may drive the financial services industry forward."
+    publishedDateTime: 2021-05-08T17:25:00Z
+    webUrl: "https://www.analyticsinsight.net/top-banking-and-fintech-trends-for-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Banking-and-Fintech.jpeg"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "Refinitiv Joins Forces With FinTech Studios to Provide Market Intelligence For Wealth Management Professionals Across Latin America"
     excerpt: "Refinitiv, a provider of financial markets data and infrastructure that has served more than 40,000 institutions in over 190 countries, announced on Tuesday it has joined forces with FinTech Studios,"
     publishedDateTime: 2021-05-04T17:56:00Z

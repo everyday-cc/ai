@@ -2,6 +2,111 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-03-3-big-myths-of-ai-and-machine-learning-debunked.md",
+      "title": "3 Big Myths Of AI And Machine Learning Debunked",
+      "excerpt": "Artificial Intelligence and machine learning can give your business decision-making processes a massive upgrade. Here’s what you really need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/",
+      "originalUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6086f7034b0844a0abeea8ad%2F0x0.jpg%3FcropX1%3D542%26cropX2%3D3795%26cropY1%3D0%26cropY2%3D2441",
+          "width": 1199,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/05/03/3-big-myths-of-ai-and-machine-learning-debunked/amp/",
+      "publishedDateTime": "2021-05-03T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-why-most-ai-writing-cant-get-its-facts-straight.md",
+      "title": "Why Most AI Writing Can’t Get Its Facts Straight",
+      "excerpt": "The brute force approach to artificial intelligence writing still works better on fiction than on factual, data-based reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-05-03/why-most-ai-writing-can-t-get-its-facts-straight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLQ9BIC_W478/v1/1200x935.jpg",
+          "width": 1200,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-ibm-to-acquire-turbonomic-for-aiops.md",
       "title": "IBM to acquire Turbonomic for AIOps",
       "excerpt": "It complements IBM's recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT.",
@@ -444,49 +549,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-03-global-artificial-intelligence-robotics-market-report-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026.md",
-      "title": "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026",
-      "excerpt": "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026&source=139",
-      "originalUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026&source=139",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-03-baidu-launches-chinas-first-paid-robotaxi-service.md",
       "title": "Baidu launches China's first paid robotaxi service",
       "excerpt": "Chinese technology giant Baidu has launched what is says is the country's first commercial robotaxi service, which will see its Apollo self-driving vehicles shuttle paying customers around Beijing's Shougang Park without a safety driver onboard.",
@@ -591,6 +653,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-03-global-artificial-intelligence-robotics-market-report-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026.md",
+      "title": "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026",
+      "excerpt": "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026",
+      "originalUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?76966",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-02T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating.md",
       "title": "In a year of major shifts, the self-driving car market is consolidating",
       "excerpt": "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market.",
@@ -630,49 +735,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu rolls out paid driverless taxi service in Beijing",
-      "excerpt": "Chinese tech giant Baidu has rolled out its paid driverless taxi service ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Business/WireAP_dacbbcc8fdee407a886411a4b2db2efc_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116",
-      "publishedDateTime": "2021-05-02T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -820,6 +882,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-02-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
+      "title": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing",
+      "excerpt": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
+      "originalUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing?context=amp",
+      "publishedDateTime": "2021-05-02T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1126,101 +1231,6 @@
         "AI",
         "AI in Sales",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-ai-in-fintech-market-may-see-a-big-move-major-giants-microsoft-google-ibm.md",
-      "title": "AI in Fintech Market May See a Big Move | Major Giants Microsoft, Google, IBM",
-      "excerpt": "Stay up-to-date and exploit latest trends of AI in Fintech Market with latest edition released by AMA. AI in Fintech Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide Global AI in Fintech industry with an attention on the Global market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/269136641/ai-in-fintech-market-may-see-a-big-move--major-giants-microsoft-google-ibm",
-      "originalUrl": "https://www.bignewsnetwork.com/news/269136641/ai-in-fintech-market-may-see-a-big-move--major-giants-microsoft-google-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1620153330432.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-01T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon.md",
-      "title": "SoftBank’s Newest AI Unicorns Are Taking On More Than Just Amazon",
-      "excerpt": "SoftBank is on the hunt for its next billion dollar IPO, seeking promising AI startups to bet big on. Meet two of its newest portfolio companies, Standard Cognition and Forward, and how they're leveraging artificial intelligence for market dominance in the post-pandemic world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608766c6e84ff10258227ace%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/05/01/softbanks-newest-ai-unicorns-are-taking-on-more-than-just-amazon/amp/",
-      "publishedDateTime": "2021-05-01T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

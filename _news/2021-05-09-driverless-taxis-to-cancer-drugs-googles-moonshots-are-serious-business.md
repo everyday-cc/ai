@@ -52,20 +52,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "Baidu rolls out world-first autonomous taxi fleet in Beijing"
-    excerpt: "Chinese technology giant Baidu has rolled out the world’s first fleet of self-driving taxis over the weekend in Beijing, marking an important milestone for the autonomous driving industry."
-    publishedDateTime: 2021-05-04T12:48:00Z
-    webUrl: "https://performancedrive.com.au/baidu-rolls-out-world-first-autonomous-taxi-fleet-in-beijing-0423/"
-    type: article
-    provider:
-      name: PerformanceDrive
-      domain: performancedrive.com.au
-    quality: 39
-    images:
-      - url: "https://performancedrive.com.au/wp-content/uploads/2021/05/Baidu-Apollo-autonomous-robotaxi.jpg"
-        width: 934
-        height: 577
-        isCached: true
 
 secured: "BUFIXUGhT8q/9qRMwMM2gBcWVnqcEAijlh/ZEoEEITKpUutGSPw6cuQpcaNGoPInjLURZUVbo9bcMUK5gZg+7a0XQXIQUcQD5RPP1Indzw9cj6CO7F5Q3IIk9hVcB/tWR8eDvrrLlmS31NiieuSKzZE1ad1uW0W2S6AsN/4SrSosh/ZlIFkmpwPUmks7nq40GwuJK2M9MontEEyi1IJ2j0pJ0+yn3FIGByYAvKne4uej5J9UpjZX2IAsq+lKrBH247b352YsH+tDonXX/mWsrhJrvivN9/uyMqvY6CGa2iSefEpe8CyrZcgUOQAOCU9O9Ivt3QOhLlmYNlZOf3lTqEII3tMqj9shBEbnDYCRXAddRofjxG9oE2lYa7cQWiCGpCmPM3v/J4ie+adAAbLBO0xOQyf76DeP1GhDrQB9sw0bhR3t8ZGmEckSUeg27RBRKiWM4/391pr5rLpVdTmLUVI4T8XJ+3SofHFNwS2erOxElblpIvcj0Z+QqEMgRy9g70D76VsXNOt44wtf1UYR1A==;aOiV/y8KXjSVeDlNCEqWVQ=="
 ---

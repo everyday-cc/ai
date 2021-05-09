@@ -117,7 +117,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -201,6 +201,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-top-tech-stocks-to-watch-right-now.md",
+      "title": "Top Tech Stocks To Watch Right Now",
+      "excerpt": "The company has five segments in the tech industry. It includes cloud and cognitive software and also global technology services. IBM stock currently trades at $141.25 as of 10:30 a.m. ET.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/top-stocks-to-watch-today-4-tech-stocks-to-consider-2021-05-03",
+      "originalUrl": "https://www.nasdaq.com/articles/top-stocks-to-watch-today-4-tech-stocks-to-consider-2021-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1390,49 +1424,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-global-cognitive-computing-market-2020-covid-19-impact-analysis-size-share-growth-trends-and-forecast-opportunities-to-2026.md",
-      "title": "Global Cognitive Computing Market 2020 COVID-19 Impact Analysis, Size, Share, Growth, Trends And Forecast Opportunities To 2026",
-      "excerpt": "Understand the influence of COVID-19 on the Cognitive Computing Market with our analysts monitoring the situation across the globe. Cognitive Computing Market analysis covering the period 2021 to 2026.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/21/global-cognitive-computing-market-2020-covid-19-impact-analysis-size-share-growth-trends-and-forecast-opportunities-to-2026/",
-      "originalUrl": "https://ksusentinel.com/2021/04/21/global-cognitive-computing-market-2020-covid-19-impact-analysis-size-share-growth-trends-and-forecast-opportunities-to-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mccourier.com/wp-content/uploads/2021/03/Market-Trends.jpg",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 680
         isCached: true
-  - title: "Untangle your hair with help from robots"
-    excerpt: "With rapidly growing demands on health care systems, nurses typically spend 18 to 40 percent of their time performing direct patient care tasks, oftentimes for many patients and with little time to spare."
-    publishedDateTime: 2021-05-04T11:16:00Z
-    webUrl: "https://techxplore.com/news/2021-05-untangle-hair-robots.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/untangle-your-hair-wit.jpg"
-        width: 1790
-        height: 1332
-        isCached: true
 
 secured: "8DM6KShP+iG5be55EfCrxJHBQqzCnIbdnY/YvNyYw44C50NtgHrCaUUnx35V7wzMeWZCcgbCMothaY257v2DvzybS4/FQ6hK9hPWYHXjdOo+GbVwG+DbwI+88Ms+NTAsRbcdV7MgWGDgGFIjX7gp4vsX1LWJIQYRxJf0prrRCh9Xk+Z9JZmf1L0VtjPTWTwc8vrGsSk5YW57FMsducuCdWKJpFynXY3xfW42PZkhPGFSo1GaPHuzy5PfZaAIcbX5Xm9bvMwckoTCuPUe8qyxguTbIF4/YGHnBdxhanPXAskf5hjZuHlP5g4Duo9LAezTwz+8Xz4JnTeQvWtpRYYNKcH8hze35/nqETYP+gong0PSUwv6Z1ILUyXkO4lHlce8qnkQYrTPkcT8U3zoOkj68hMSCOQTni+5txWXjCbEZu561tUPGn5A+8klefxD6xdtSSGViPDijG0C846zuYH/IdIxYJeK+T++tUgueAdk63Ai655TJOoYDSaNrqBlAxNAgH+k+Gz05oaq7CiEzueEMA==;/q2PghaTJNIfjqTKiuEKDA=="
 ---

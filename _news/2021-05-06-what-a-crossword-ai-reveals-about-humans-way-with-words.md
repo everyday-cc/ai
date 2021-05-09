@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/crossword-ai-humans-way-with-words/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/crossword-ai-humans-way-with-words/amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 2400
     height: 1350
     isCached: true
-
-related:
-  - title: "The human labor behind artificial intelligence"
-    excerpt: "Behind every artificial intelligence project is lot of intensive human labor. Marketplace speaks to data labelers in central China."
-    publishedDateTime: 2021-05-04T11:36:00Z
-    webUrl: "https://www.marketplace.org/2021/05/04/the-human-labor-behind-artificial-intelligence/"
-    ampWebUrl: "https://www.marketplace.org/2021/05/04/the-human-labor-behind-artificial-intelligence/amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2021/05/04/the-human-labor-behind-artificial-intelligence/amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 59
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/04/DSC02390.jpg?fit=740%2C493"
-        width: 740
-        height: 493
-        isCached: true
 
 secured: "x7+bBm4R0SU7vfLL6NPMOzJxj7yuswl/PG2/NR6DUY4JCLxukBGClmCHAFRmmF4BndqqmGpl29ODOmcAuMjQII2momCK+F6qmPGIDisNd89hiP3vtv8DVwUnDTU9/oeoM9D5IZ26oyd1JoUplR9SvZED3Ho8onf3SEMn3Som11H/I9A0zbXHYw0QaltN88NZsZ02oJapgUls2+0i7rRDbqbQfqgfaUcZJGbXDzwNUq+GXFqgVIBIrsth+GhV+o4RoRR2OsgghyfFVUde8kW2h8VjR7tX8pJC3eBJy+t4Fdlcqyq6f1rq8KKIsQkKRvmsfT0UixtyR9RPhrjxuPCuilnwVnMF1M7tkLSBa+6SHPtk9UQ7kZLrv5IH/DoEG9kkRc0d0BJzJJIOXMxgcQW0FVtUFKAUQ+o3V0yCVGOcPiA3ydUupsIfdf4AULGD7u2RwPKe7U7aUo4gWNddtdVI1xgn5IrC86ih14hZlAEh7hxjgZba16IL/o1s8NnGyrpAoqdbueGoqn3unIOnJBPTNA==;A18SJ7NtUrmCDLqL3vdo/g=="
 ---

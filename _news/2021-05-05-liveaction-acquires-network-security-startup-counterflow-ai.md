@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft launches open source tool Counterfeit to prevent AI hacking"
-    excerpt: "Microsoft has launched an open source tool to help developers assess the security of their machine learning systems. The Counterfit project, now available on GitHub, comprises a command-line tool and generic automation layer to allow developers to simulate cyber attacks against AI systems."
-    publishedDateTime: 2021-05-04T12:01:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359409/microsoft-open-source-counterfit-to-stop-ai-hacks?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1573748220/itpro/Microsoft_DW.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "A Quick Introduction to Microsoft Azure Purview"
     excerpt: "One of the newest solutions aiming to ease these orchestration woes is Microsoft Azure Purview, a cloud platform-as-a-service (PaaS) that provides a unified view of data sources across an organization."
     publishedDateTime: 2021-05-05T16:45:00Z

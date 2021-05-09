@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-05-blurred-lines-recognition.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-blurred-lines-recognition.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1920
     height: 1280
     isCached: true
-
-related:
-  - title: "Gender recognition application reduced to £5"
-    excerpt: "THE cost to apply for a gender recognition certificate has been reduced to £5, the government has confirmed. The £140 fee for how a person changes their legal gender will be reduced to single figures from today to ensure that the process is more affordable for transgender people."
-    publishedDateTime: 2021-05-04T12:51:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/gender-recognition-application-reduced-ps5"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 24
-    images:
-      - url: "https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ay0IdOiaJmxfhwEQLP4Jpb8eBUDUvPrSXzWYy0H0NoxrO6LisaSc+aBTn5KcUzJ96jEkUFsWulksrQRQax6Jpiq27nxBVE/T2sgpEUeqrqChoIWjIt2cYgcPGjxZUtRZrkf1ElWNQKgQ0gcclf7LygZkjnY4LhN629coK+G9kc0DJl2hBUp4uQpHQQ8Kl7munY4Rzm4mSHIXDQexnGmfHsS/tQRf60d1xpOaT5OjLfTeFvKGXClrDm6mp51Dt8XgIOy+7is0PobBGtBcOYaleY8bbzgIDhV9IvhkkVBmtyGZM6AQjqU3dkNy5++mdXHy3fesbI1/CXhHp+iWL1vQ/FOLBiW+g8/xehZMdaZ4Q5nJ+y58UXV10lWiIT4bKqsfXXpsCpp3qGU0Y3gjVcMCEI4V1aXKW+60oiFU5dfi/H4QYYVA+mBgKWeuc8yZRYjgabDASfRwUiwkuaLl405n1YTuRPBE5AA38HnrU7mTghhcwP17vWVUIJJg8DHGDzqVhyFqdHAuOr6MxiDzHhz4pg==;iaRv8sJFm33VcbQE8lWUSA=="
 ---

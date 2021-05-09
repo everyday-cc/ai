@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-28-trending-stocks-to-buy-now-4-faang-stocks-in-focus.md",
+      "title": "Trending Stocks To Buy Now? 4 FAANG Stocks In Focus",
+      "excerpt": "Do You Have These FAANG Stocks On Your List Of Trending Stocks To Buy Ahead Of May 2021? When it comes to the question of “what are the best stocks to invest in?”, FAANG stock",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/trending-stocks-to-buy-now-4-faang-stocks-in-focus-2021-04-28",
+      "originalUrl": "https://www.nasdaq.com/articles/trending-stocks-to-buy-now-4-faang-stocks-in-focus-2021-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-lyfts-sale-of-its-self-driving-tech-unit-to-toyota-for-550-million-moves-its-profit-timeline-up.md",
       "title": "Lyft's sale of its self-driving tech unit to Toyota for $550 million moves its profit timeline up",
       "excerpt": "The deal with Toyota's Woven Planet division will allow Lyft to hit its profitability target one quarter earlier, the company said.",
@@ -1362,49 +1396,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-elon-musks-driverless-dreams-take-hit-as-tesla-autopilot-accidents-pile-up.md",
-      "title": "Elon Musk's driverless dreams take hit as Tesla Autopilot accidents pile up",
-      "excerpt": "The car, a 2019 Model S Tesla, was manoeuvering a curve when it went off the road for about 100 feet and hit a tree at 11.25pm local time. The men’s wives had watched them leave just minutes before the collision,",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/",
-      "originalUrl": "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2021/04/20/200421_ZD_ELON_MUSK_PORTAL_trans_NvBQzQNjv4BqaypGtz_Zt6G5HZG2YLTIFpqon37PYiPSvTMVDwEnWaA.jpg",
-          "width": 1196,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/",
-      "publishedDateTime": "2021-04-20T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

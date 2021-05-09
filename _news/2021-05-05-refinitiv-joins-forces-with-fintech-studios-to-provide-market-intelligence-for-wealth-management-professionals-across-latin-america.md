@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Top Banking and Fintech Trends for 2021"
+    excerpt: "As opportunities open up in the fintech industry, some trends are continuing into 2021. Here are to banking and fintech trends for 2021 that may drive the financial services industry forward."
+    publishedDateTime: 2021-05-08T17:25:00Z
+    webUrl: "https://www.analyticsinsight.net/top-banking-and-fintech-trends-for-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Banking-and-Fintech.jpeg"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "iBooster Presents LinkedIn Boost Solution for the Fintech Market"
     excerpt: "Professionals in the financial technology industry can use the service to reach their target network and connections. Several campaign packages"
     publishedDateTime: 2021-05-04T16:56:00Z

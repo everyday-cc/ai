@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: The Motley Fool
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Argo AI Readies Its Own Lidar Sensor For Ford Automated Vehicles"
-    excerpt: "Argo AI, the automated driving system development partner of Ford and Volkswagen has revealed some details about its in-house developed lidar that will go onto Ford automated vehicles in 2022"
-    publishedDateTime: 2021-05-04T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/"
-    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Argo’s new lidar sensor could help Ford, VW deploy self-driving vehicles at scale"
     excerpt: "Argo AI made its first acquisition as a young, newly backed self-driving vehicle startup. Now, Argo says its acquisition of lidar company Princeton Lightwave is paying off and is poised to help it deliver autonomous vehicles that can operate commercially on highways and in dense"
     publishedDateTime: 2021-05-04T18:09:00Z

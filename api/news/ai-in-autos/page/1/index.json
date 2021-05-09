@@ -10,7 +10,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-self-driving-cars-elon-musk-california/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -419,6 +419,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-05-new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving.md",
+      "title": "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving",
+      "excerpt": "Argo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company and Volkswagen AG , announced that it has developed a new lidar sensor system with enough range to",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
+      "originalUrl": "https://www.fool.com/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624703%2Fargo-ai-public-road-testing-in-pittsburgh-pa_2-scaled.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
+      "publishedDateTime": "2021-05-04T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-yandex-self-driving-group-clocks-7-million-autonomous-miles.md",
       "title": "Yandex Self-Driving Group Clocks 7 Million Autonomous Miles",
       "excerpt": "Yandex Self-Driving Group has driven seven million autonomous miles (11.5 million kilometers) since the team was founded in 2017, more than any other company has announced, save for Alphabet’s Waymo.",
@@ -575,49 +627,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-02-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu rolls out paid driverless taxi service in Beijing",
-      "excerpt": "Chinese tech giant Baidu has rolled out its paid driverless taxi service ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Business/WireAP_dacbbcc8fdee407a886411a4b2db2efc_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/baidu-rolls-paid-driverless-taxi-service-beijing-77449116",
-      "publishedDateTime": "2021-05-02T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-02-driverless-taxi-service-rolls-out-in-beijing.md",
       "title": "Driverless taxi service rolls out in Beijing",
       "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China.",
@@ -648,6 +657,49 @@
         "name": "Fox 5 NY",
         "domain": "fox5ny.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-02-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
+      "title": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing",
+      "excerpt": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
+      "originalUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing?context=amp",
+      "publishedDateTime": "2021-05-02T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1419,40 +1471,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-trending-stocks-to-buy-now-4-faang-stocks-in-focus.md",
-      "title": "Trending Stocks To Buy Now? 4 FAANG Stocks In Focus",
-      "excerpt": "Do You Have These FAANG Stocks On Your List Of Trending Stocks To Buy Ahead Of May 2021? When it comes to the question of “what are the best stocks to invest in?”, FAANG stock",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/trending-stocks-to-buy-now-4-faang-stocks-in-focus-2021-04-28",
-      "originalUrl": "https://www.nasdaq.com/articles/trending-stocks-to-buy-now-4-faang-stocks-in-focus-2021-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

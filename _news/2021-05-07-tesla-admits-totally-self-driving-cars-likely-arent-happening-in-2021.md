@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-mu
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-musk-california/"
 type: article
 quality: 89
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2021-04/3c43e37a-d356-4d1d-927b-7c50b23b028c/TESLA_pexels_craig_adderley_2449452.jpg"
         width: 5472
         height: 3648
+        isCached: true
+  - title: "Tesla Autopilot director contradicts Musk’s self-driving timeline"
+    excerpt: "In January's Tesla earnings call, an analyst asked Elon Musk about his belief that Tesla would achieve Level 5 autonomy—jargon for a car that can drive itself in all situationsb"
+    publishedDateTime: 2021-05-07T18:38:00Z
+    webUrl: "https://arstechnica.com/cars/2021/05/tesla-autopilot-director-contradicts-musks-self-driving-timeline/?comments=1"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1206290117-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Opinion: Feds Should Reel in Tesla, Self-Driving Car Industry"
     excerpt: "In April, an allegedly self-driving Tesla burst into flames after crashing into a tree in Texas. Two passengers died in the wreckage. Federal authorities should consider regulating the autonomous vehicle industry now."

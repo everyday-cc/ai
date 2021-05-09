@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-s
 webUrl: "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/"
 type: article
 quality: 70
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "Baidu rolls out world-first autonomous taxi fleet in Beijing"
-    excerpt: "Chinese technology giant Baidu has rolled out the world’s first fleet of self-driving taxis over the weekend in Beijing, marking an important milestone for the autonomous driving industry."
-    publishedDateTime: 2021-05-04T12:48:00Z
-    webUrl: "https://performancedrive.com.au/baidu-rolls-out-world-first-autonomous-taxi-fleet-in-beijing-0423/"
-    type: article
-    provider:
-      name: PerformanceDrive
-      domain: performancedrive.com.au
-    quality: 39
-    images:
-      - url: "https://performancedrive.com.au/wp-content/uploads/2021/05/Baidu-Apollo-autonomous-robotaxi.jpg"
-        width: 934
-        height: 577
-        isCached: true
 
 secured: "PaE4SenqceAHuE5v0JDuo/U29LYSyQPJ2btxosAyjb9rPJYk5TJlv+vI2/WzgCqq1uxjOFzeJNkfekH3QkcoSoLk+KI8kyh6nCTdvibevk826yAyx3lJBTaX4H66CXy9Z4f3qICSEXSSmVi92+bRHhPVpM2G/6F25sIXJNh8XvV5yJOH8i9HglJ3gYG8KW1Ns5F65F4mp/yOK/KrkCQbs3YH23re8QEsyKwPg2yqf+0gAZ8fO/LgORvGzciGh/UL3BgYZGb12ZE0p60bG0lOkRAY8mZbSoDy/N+vF83n7MRLTxxnZIgd0TrCoJ8fcig/UPOW7IqIKkBOJRjdpLwM9MfZlCSZxyLenwBwt653+sw=;ZCSYeThhf0Qxbhi5eKlaRA=="
 ---

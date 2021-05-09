@@ -592,6 +592,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-05-new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving.md",
+      "title": "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving",
+      "excerpt": "Argo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company and Volkswagen AG , announced that it has developed a new lidar sensor system with enough range to",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
+      "originalUrl": "https://www.fool.com/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624703%2Fargo-ai-public-road-testing-in-pittsburgh-pa_2-scaled.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/",
+      "publishedDateTime": "2021-05-04T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-anyone-can-use-this-powerful-facial-recognition-tool-and-thats-a-problem.md",
       "title": "Anyone can use this powerful facial-recognition tool — and that's a problem",
       "excerpt": "You probably haven't seen PimEyes, a mysterious facial-recognition search engine, but it may have spotted you.",
@@ -652,7 +704,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/04/microsoft-open-sources-counterfit-an-ai-security-risk-assessment-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1203,58 +1255,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets.md",
-      "title": "What Exactly Is Artificial Intelligence? (Hint: It’s All About The Datasets)",
-      "excerpt": "What we can do—and what we’ve already done—with AI and AI applications is incredible. But there are still some major limitations and challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6091592599841fa0bc244389%2F0x0.jpg",
-          "width": 1200,
-          "height": 886,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/amp/",
-      "publishedDateTime": "2021-05-04T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Tesla just delivered bad news for self-driving cars — contradicting Elon Musk"
-excerpt: "Tesla CEO Elon Musk said the company was “highly confident” that its cars would achieve full Level 5 self-driving autonomy in 2021. It turns out that just 41 days later, one of the company’s engineers was offering a less optimistic timeline to California’s regulators."
-publishedDateTime: 2021-05-08T11:08:00Z
-originalUrl: "https://www.tomsguide.com/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-webUrl: "https://www.tomsguide.com/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+title: "Tesla Autopilot director contradicts Musk’s self-driving timeline"
+excerpt: "In January's Tesla earnings call, an analyst asked Elon Musk about his belief that Tesla would achieve Level 5 autonomy—jargon for a car that can drive itself in all situationsb"
+publishedDateTime: 2021-05-07T18:38:00Z
+originalUrl: "https://arstechnica.com/cars/2021/05/tesla-autopilot-director-contradicts-musks-self-driving-timeline/?comments=1"
+webUrl: "https://arstechnica.com/cars/2021/05/tesla-autopilot-director-contradicts-musks-self-driving-timeline/?comments=1"
 type: article
-quality: 56
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Tom's Guide
-  domain: tomsguide.com
+  name: Ars Technica
+  domain: arstechnica.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/qvy8QreeDhG4nSogtw2a3o-480-80.png"
-    width: 480
-    height: 264
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1206290117-760x380.jpg"
+    width: 760
+    height: 380
     isCached: true
 
 related:
@@ -107,20 +109,6 @@ related:
         width: 5472
         height: 3648
         isCached: true
-  - title: "Tesla Autopilot director contradicts Musk’s self-driving timeline"
-    excerpt: "In January's Tesla earnings call, an analyst asked Elon Musk about his belief that Tesla would achieve Level 5 autonomy—jargon for a car that can drive itself in all situationsb"
-    publishedDateTime: 2021-05-07T18:38:00Z
-    webUrl: "https://arstechnica.com/cars/2021/05/tesla-autopilot-director-contradicts-musks-self-driving-timeline/?comments=1"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1206290117-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Opinion: Feds Should Reel in Tesla, Self-Driving Car Industry"
     excerpt: "In April, an allegedly self-driving Tesla burst into flames after crashing into a tree in Texas. Two passengers died in the wreckage. Federal authorities should consider regulating the autonomous vehicle industry now."
     publishedDateTime: 2021-05-05T21:26:00Z
@@ -168,6 +156,22 @@ related:
       - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F05%2Fteslaselfdriving.jpg"
         width: 1200
         height: 619
+        isCached: true
+  - title: "Tesla just delivered bad news for self-driving cars — contradicting Elon Musk"
+    excerpt: "Tesla CEO Elon Musk said the company was “highly confident” that its cars would achieve full Level 5 self-driving autonomy in 2021. It turns out that just 41 days later, one of the company’s engineers was offering a less optimistic timeline to California’s regulators."
+    publishedDateTime: 2021-05-08T11:08:00Z
+    webUrl: "https://www.tomsguide.com/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/qvy8QreeDhG4nSogtw2a3o-480-80.png"
+        width: 480
+        height: 264
         isCached: true
   - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
     excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self - driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
@@ -313,6 +317,6 @@ related:
         height: 382
         isCached: true
 
-secured: "gHxxpwL1PSUwTzBxBaifiDy2pAe5gnnOwmRBBel6+63EgT/8XnS4uBzQrmmqWKAyrakrI3FC87ASEsMZU7wohm+a1M3zR7LwujKD9ZkXZnECMLBDh+XP4zUbmsBBqDyDfI0xi/Tq4YnUkeMIhWiDX1owOKlfsxj+C1ldl8nWBuxeP/YRVxkF1R8cFWnot/tFFHsKCNljRWF2jAG+OHyGQnt2yy4TSrqlzaAWMaUfrV5ENqgXI5ahaRQsScXSaA2qXVN5SUFkkGMKelaS/93+NAJNAKPMtKt6AHkwUUL51u41qF/1h2K8FfkpT2wIdTRhCZaMjvu5/Zs9ezTMpETcfJu7j0URRB9fd4Z0Y4QYMe09qlfnp68hcqddOoJv6A2GOU3n/+9Y1lca0fZ1foKRSLsIZtGAVFL6XaMjkFildTqbBubHgHH7/hIcFgfhdNxG2l+zFCsUijkmCLnYei7/BL6+Xt6C0ysJZpM1Im8lRHpyzmgph3cykCAEzWa7nX6jii8QFycauUkOCgMvBpIhUw==;ZdCxK4qZyx4NYb9jYTKmEw=="
+secured: "lIHmi72eOofZ2+dWuor5K2y9mov7lnjOGxqoTDkNnN+VMjdvIWnpuawLPaeboPAIvojcC/1g9us5ViGyBiTLoPdOrasLwT1exBQxYfRc44O7nJEe2IPqU87lVvCUuGJ/cWLPr5f+5gLq8kCu1LKXFM80YrNLMk/U0nKGQEROYor7RuhtmbmSkZjxjl/4MSILR4+Ul6Yo3Lip87rTZKu8QjTpHSLdymfKBr+cIG7IeRi/zXVuS7R0VZ6UWtqV3MAjOASHLQmvqzlNB75v5Qg2JCVnW6yK20Wsd0y9Zm6gFo2MJo2gdGBEaQp4LQqMxtoPpMN6bDO193oMhbMp6EsIQ4tXJQcPDOTdWXLxIDNgF6M=;qHeEwGxCb7oRi64G0+z2OA=="
 ---
 

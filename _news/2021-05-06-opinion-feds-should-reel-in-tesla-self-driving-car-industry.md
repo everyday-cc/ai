@@ -107,6 +107,20 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "Tesla Autopilot director contradicts Musk’s self-driving timeline"
+    excerpt: "In January's Tesla earnings call, an analyst asked Elon Musk about his belief that Tesla would achieve Level 5 autonomy—jargon for a car that can drive itself in all situationsb"
+    publishedDateTime: 2021-05-07T18:38:00Z
+    webUrl: "https://arstechnica.com/cars/2021/05/tesla-autopilot-director-contradicts-musks-self-driving-timeline/?comments=1"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1206290117-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Tesla may not achieve full self-driving technology this year: Report"
     excerpt: "The electric carmaker Tesla Inc said to a California regulator that it may not be able to achieve full self-driving technology by the end of this year. This was confirmed by a memo by the California Department of Motor Vehicles (DMV), according to a report ..."
     publishedDateTime: 2021-05-07T07:25:00Z
