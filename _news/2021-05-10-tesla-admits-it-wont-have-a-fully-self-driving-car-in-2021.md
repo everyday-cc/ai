@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’"
-excerpt: "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker."
-publishedDateTime: 2021-05-07T22:33:00Z
-originalUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/"
-webUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/"
-ampWebUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
+title: "Tesla Admits It Won’t Have A Fully Self-Driving Car In 2021"
+excerpt: "Reuters sources confirm that Tesla has informed California regulators that the company will not present a fully autonomous cars by the end of this year"
+publishedDateTime: 2021-05-09T18:00:00Z
+originalUrl: "https://oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.html"
+webUrl: "https://oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.html"
+ampWebUrl: "https://oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.amp.html"
+cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.amp.html"
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Crude Oil Prices
+  domain: oilprice.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1130604490.jpg?w=1024"
-    width: 1024
-    height: 683
+  - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2021-05-07_sag6zodjcw.jpg"
+    width: 718
+    height: 300
     isCached: true
 
 related:
@@ -62,6 +58,22 @@ related:
       - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-371394.jpeg?width=600&crop=16:9"
         width: 600
         height: 338
+        isCached: true
+  - title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’"
+    excerpt: "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker."
+    publishedDateTime: 2021-05-07T22:33:00Z
+    webUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/"
+    ampWebUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1130604490.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
     excerpt: "Tesla vehicles are far from reaching a level of autonomy often described by Musk on social media, according to an internal memo obtained by"
@@ -156,22 +168,6 @@ related:
       - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F05%2Fteslaselfdriving.jpg"
         width: 1200
         height: 619
-        isCached: true
-  - title: "Tesla Admits It Won’t Have A Fully Self-Driving Car In 2021"
-    excerpt: "Reuters sources confirm that Tesla has informed California regulators that the company will not present a fully autonomous cars by the end of this year"
-    publishedDateTime: 2021-05-09T18:00:00Z
-    webUrl: "https://oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.html"
-    ampWebUrl: "https://oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.amp.html"
-    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.amp.html"
-    type: article
-    provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 59
-    images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2021-05-07_sag6zodjcw.jpg"
-        width: 718
-        height: 300
         isCached: true
   - title: "Tesla just delivered bad news for self-driving cars — contradicting Elon Musk"
     excerpt: "Tesla CEO Elon Musk said the company was “highly confident” that its cars would achieve full Level 5 self-driving autonomy in 2021. It turns out that just 41 days later, one of the company’s engineers was offering a less optimistic timeline to California’s regulators."
@@ -333,6 +329,6 @@ related:
         height: 382
         isCached: true
 
-secured: "ie6Ojas5DUaSpg+Kx1CAuDnOkg6edDMkYdcNKnMa6XnPaEdeE7QJNkcL+rL+hcM6514Tg7wKjn61MZrxeEXsGyPsNfTlAMi/bPBY5Ls1NA/pZ60bRON7LCGoLhRbovQJR0ErzF0u4+aRuYefG4XrVSH0lMENoMwC7sZTkIUEe1tkwAfDxj1TjaLALlKoq/py3jU2G6MaUTcuGMEaLVmAcZ4pwtxKPPqZPCqJlwAbzOTx6bhiFpQ+7Nw+v7JfE2tGPBy2jEJIJ3MWCfMPEwb+J7sLexuGQIG1lqs8MYl6HC2LoEWVVg7UClUR969YOVUlidWQjJGYbqY6HCe6bpDcchSnhgVhNMpvZPnFJrhf8/VoljUNiVTolgX4sheTQKtblaKs4oUwzEXPLW9G6RDXYzNoXufpV3ydkZJJu8x+oH59euzJEVK8VQOwCNHKJUrdrIegv6csXlaBbbQUW0vBArhD+tIf5mTa6EG/2rmdau4h7YV1SKPVmXtPTcUVC9mRI7a3CqKimtCVh82lmZjBiw==;bqXrXMxfy7fBL7I3BxDf7w=="
+secured: "3H4ReubUz75n6GcyxHkrTUlxk6Ud7chbOuJMB2g3Q7gwb+YGUL2LvvWgVMqbJV46oOyc5l9bry/oZm8GWTESJrq2a1j6A3wgdeXdGhYrQdllquD4CkY1nkGw2ETSMf5kDO2CCa2QPpq4E/9p0igToUKwmuyZyUmq1ErTi9PQ1cLBojHjhIX4OyuEKm2oRUm3ioQaZxW1ePNWypBeGFAEjyeNM5v2U/zDXXAw7dujeRBPhsIPB+Xdm3ehwP11v+8WSTSC0PQimKqDZfKlmxTdZQVRzYhoNFHaXEp7L0a+EpPndr0mh56kHL0pl9WMzMfosrky0QnmyAKlqtNIunDg5k5vt7IBfh1JXF5GAFqIVOo=;eZ4jc9qDvztuqwlNZ7rMJA=="
 ---
 

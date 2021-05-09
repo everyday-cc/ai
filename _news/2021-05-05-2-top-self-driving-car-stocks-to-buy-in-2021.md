@@ -1,10 +1,10 @@
 ---
 category: news
 title: "2 Top Self-Driving Car Stocks to Buy in 2021"
-excerpt: "Image source: Tesla In February 2020, Tesla Director of Artificial Intelligence Andrej Karpathy ... By comparison, Alphabet's Waymo stated it had over 20 million miles of data in March 2020 ..."
-publishedDateTime: 2021-05-05T07:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251"
-webUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251"
+excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."
+publishedDateTime: 2021-05-05T11:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05"
+webUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05"
 type: article
 quality: 34
 heat: -1
@@ -161,6 +161,22 @@ related:
         width: 1200
         height: 619
         isCached: true
+  - title: "Tesla Admits It Won’t Have A Fully Self-Driving Car In 2021"
+    excerpt: "Reuters sources confirm that Tesla has informed California regulators that the company will not present a fully autonomous cars by the end of this year"
+    publishedDateTime: 2021-05-09T18:00:00Z
+    webUrl: "https://oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.html"
+    ampWebUrl: "https://oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.amp.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 59
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2021-05-07_sag6zodjcw.jpg"
+        width: 718
+        height: 300
+        isCached: true
   - title: "Tesla just delivered bad news for self-driving cars — contradicting Elon Musk"
     excerpt: "Tesla CEO Elon Musk said the company was “highly confident” that its cars would achieve full Level 5 self-driving autonomy in 2021. It turns out that just 41 days later, one of the company’s engineers was offering a less optimistic timeline to California’s regulators."
     publishedDateTime: 2021-05-08T11:08:00Z
@@ -312,6 +328,6 @@ related:
         height: 382
         isCached: true
 
-secured: "vWV/ZnstGQGDoDEI7mRJp1YuO+K5a9Aqf13T1J3kMT5PUuaBHlqneKVlIuNTlACiKtUsJhskI/pteD21BM/3psDl4zgg2PthKEG8uoJ0auBTwqJttSBF09tRYcnSNf74TuFDIPHs7ELzcWiCseK+bUiN86a7kyyqu9RhT6eYg/IAA38upkoJsdLLwnvyQvlAuY6GYeGiprXOKENJUALuFf44NJkjpk9MqP9nuTu/n4PAd3HmNEud24UZnLyiy2TPD3ETRK4pAGhmEEIAz6RelambCIgQ9Bly6VcXTgxw+aIar1IaBBTaau/91PRO7BN/hqcZ7zS5vgMg4qxVrVT4I1Jj+Hf1VM/VKwgmjVXBs+E=;IRnBscZSDCXDXVPM1TOt1Q=="
+secured: "89qsNwpAwuRZpwHwrji4rX/mcPQyDjgjUY5nqgpHl0+Vq0HkO2ambVplizOqVzmaKrOLyyIqwDxKRrL8faXD9IXbZmVkNPbACTt/mJz8c7kyolhz+4zXY5HNfUNnwlyR0VVpZcu/S+flN+PdsCpFvr/iOasgIK1t23ffXsg3qWOU0Qt8x07/2uD73tghiHvt6KZtBt63E+3rmEINAALGaaS9ssPaKCzAq02W5i3M3Ck1UUP6BSvNF31D/ce4bl4CKdfVsfQoZHmI1PAVCCpsFR9YOi7PF2WQyrmS3m6tcqkVe0t+HHVJES2TCQQ0OnYf1NToTVGKSPzG9HNd0e4jD6aajnlnbAFX23AYrrt6AGI=;Gu9QLCARjasrDJmbzNkUDg=="
 ---
 

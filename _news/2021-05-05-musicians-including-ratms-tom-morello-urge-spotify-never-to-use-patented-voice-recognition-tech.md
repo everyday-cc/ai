@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techspot.com/amp/news/89558-musicians-including-ratm-tom
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: TechSpot
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Musicians Ask Spotify to Promise It'll Never Use Its Creepy Speech-Recognition Patent"
-    excerpt: "Acoalition of more than 180 artists and human rights organizations has written Spotify a letter asking the company to publicly commit to abandoning its patented dystopian speech-recognition tech."
-    publishedDateTime: 2021-05-05T03:00:00Z
-    webUrl: "https://gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558"
-    ampWebUrl: "https://gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/de713433904ddf5ecc22008a805a49b8.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Spotify responds to protests against speech-recognition patent"
     excerpt: "Earlier this year, a controversy broke out over a Spotify patent involving using speech recognition technology to analyse a listener’s “emotional state, gender, age, or accent” and recommend them music accordingly."
     publishedDateTime: 2021-05-05T13:14:00Z

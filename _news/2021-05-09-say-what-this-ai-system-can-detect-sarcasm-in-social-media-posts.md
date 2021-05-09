@@ -9,7 +9,7 @@ ampWebUrl: "https://www.india.com/technology/say-what-this-ai-system-can-detect-
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/amp/"
 type: article
 quality: 57
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/datascience.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "This AI is a bit smarter"
+    excerpt: "A sarcasm detector for social media posts means that it can correctly identify the emotion behind the text Computer science researchers including one of Indian-origin at the University of Central Flor"
+    publishedDateTime: 2021-05-09T18:40:00Z
+    webUrl: "https://www.dailypioneer.com/2021/vivacity/this-ai-is-a-bit-smarter.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 37
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/this-ai-is-a-bit-smarter-2021-05-10.jpg"
+        width: 1000
+        height: 800
         isCached: true
   - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
     excerpt: "Properly understanding and responding to customer feedback on Twitter, Facebook and other social media platforms is crucial for brands, and it may have just gotten a little easier thanks to research out of the University of Central Florida in Orlando."

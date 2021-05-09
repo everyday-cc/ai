@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
-excerpt: "Properly understanding and responding to customer feedback on Twitter, Facebook and other social media platforms is crucial for brands, and it may have just gotten a little easier thanks to research out of the University of Central Florida in Orlando."
-publishedDateTime: 2021-05-06T04:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-05/uocf-rda050621.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uocf-rda050621.php"
+title: "This AI is a bit smarter"
+excerpt: "A sarcasm detector for social media posts means that it can correctly identify the emotion behind the text Computer science researchers including one of Indian-origin at the University of Central Flor"
+publishedDateTime: 2021-05-09T18:40:00Z
+originalUrl: "https://www.dailypioneer.com/2021/vivacity/this-ai-is-a-bit-smarter.html"
+webUrl: "https://www.dailypioneer.com/2021/vivacity/this-ai-is-a-bit-smarter.html"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/264268_web.jpg"
-    width: 720
-    height: 480
+  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/this-ai-is-a-bit-smarter-2021-05-10.jpg"
+    width: 1000
+    height: 800
     isCached: true
 
 related:
@@ -57,21 +56,21 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "This AI is a bit smarter"
-    excerpt: "A sarcasm detector for social media posts means that it can correctly identify the emotion behind the text Computer science researchers including one of Indian-origin at the University of Central Flor"
-    publishedDateTime: 2021-05-09T18:40:00Z
-    webUrl: "https://www.dailypioneer.com/2021/vivacity/this-ai-is-a-bit-smarter.html"
+  - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
+    excerpt: "Properly understanding and responding to customer feedback on Twitter, Facebook and other social media platforms is crucial for brands, and it may have just gotten a little easier thanks to research out of the University of Central Florida in Orlando."
+    publishedDateTime: 2021-05-06T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uocf-rda050621.php"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 33
     images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/this-ai-is-a-bit-smarter-2021-05-10.jpg"
-        width: 1000
-        height: 800
+      - url: "https://www.eurekalert.org/multimedia/pub/web/264268_web.jpg"
+        width: 720
+        height: 480
         isCached: true
 
-secured: "wLb7yMfbmCQUiijjxakCP0rycyj9mLR7jcELFrkfdzV+64CCJZeapGYkS33E023deJXIdQI+ULP+HiX0xtyJP3x7Y39guEOxc7BBHI5nJDQm2VFAjNdCQbEl4UC1HMEo38OxRQ//bx4JaFzkjBXou2O4cBjaA+wcSj/H+WVKOmcEE9S1PUZTVGi697R3TXlwIRQKpGiL3mqART75i5NOl+mdroX3+mLb51GsN54udT89QghX4WxOpZZdtPyOqNnj6anMq54ua2fv1F+lOsnZ1Ai0n4GIj+OEWABG9v0J21oYkZzzxoxlnF7HKklisdcRTOYM6FEkIjSuj14QO/0f5QTkuFd3NzWFMC6wnY22WqrN3TPvELqFmwXt+VEGpmmaqBUVsS2ZDQ+H/ECgH6sdepOX4Sx90EwHYI2NC/rGFAvlfdBvwrGlA1nidEfkNWQp139+t46939iqx25WkZobpJjD124S0kQtAQvZbCQ/hfpURti50VIgsXQnnIGLIrJeyjja9MJJ/7NjaVrPI0g02A==;Vg5csk+ACZWQGDukGAaPSg=="
+secured: "8ci7B7LAV7AwQZCG8V4QtlM8wwE7Owz+wORNh3BlLGOOR/aphESMKOjc0DNEJJHOvw8Lt6jwAG3HHBIGfRXqpEgBcp3xwTg8cL5cw6PGx6KjEfLCwP7r7ncyVyOgXwqelN7ToUEOSCekBVV1LvuBA12YBzWCIza7ZZg8kF3XTz0VTtS2mgUgOL8hm18z+oxQ6NBcSM485AEN6P8b/aJ6Ftpioj0T4MoBcORVEtwf46vzrYev4KnMcQ/cVOXw/P5Gl+iuAhbUM/+TFHODsJZKhIbcQMohlqriYWnHCE9a8nh5xkb8co5epTy1sJp27U2be1KvynaZsnCsu3c26R66JQ0EqTQLc5CypoNK4nm8Mk0=;s4N+HUjQAjqurGjZGI1zlw=="
 ---
 

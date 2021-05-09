@@ -169,6 +169,22 @@ related:
         width: 1200
         height: 619
         isCached: true
+  - title: "Tesla Admits It Won’t Have A Fully Self-Driving Car In 2021"
+    excerpt: "Reuters sources confirm that Tesla has informed California regulators that the company will not present a fully autonomous cars by the end of this year"
+    publishedDateTime: 2021-05-09T18:00:00Z
+    webUrl: "https://oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.html"
+    ampWebUrl: "https://oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.amp.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 59
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2021-05-07_sag6zodjcw.jpg"
+        width: 718
+        height: 300
+        isCached: true
   - title: "Tesla just delivered bad news for self-driving cars — contradicting Elon Musk"
     excerpt: "Tesla CEO Elon Musk said the company was “highly confident” that its cars would achieve full Level 5 self-driving autonomy in 2021. It turns out that just 41 days later, one of the company’s engineers was offering a less optimistic timeline to California’s regulators."
     publishedDateTime: 2021-05-08T11:08:00Z
@@ -288,9 +304,9 @@ related:
         height: 400
         isCached: true
   - title: "2 Top Self-Driving Car Stocks to Buy in 2021"
-    excerpt: "Image source: Tesla In February 2020, Tesla Director of Artificial Intelligence Andrej Karpathy ... By comparison, Alphabet's Waymo stated it had over 20 million miles of data in March 2020 ..."
-    publishedDateTime: 2021-05-05T07:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251"
+    excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."
+    publishedDateTime: 2021-05-05T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05"
     type: article
     provider:
       name: Nasdaq

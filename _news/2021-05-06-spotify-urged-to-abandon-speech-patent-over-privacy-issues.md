@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Musicians Ask Spotify to Promise It'll Never Use Its Creepy Speech-Recognition Patent"
-    excerpt: "Acoalition of more than 180 artists and human rights organizations has written Spotify a letter asking the company to publicly commit to abandoning its patented dystopian speech-recognition tech."
-    publishedDateTime: 2021-05-05T03:00:00Z
-    webUrl: "https://gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558"
-    ampWebUrl: "https://gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/de713433904ddf5ecc22008a805a49b8.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Musicians, including RATM's Tom Morello, urge Spotify never to use patented voice recognition tech"
     excerpt: "Spotify’s patent, granted on January 12, describes analyzing users’ voice and background noise to detect their mood and social setting, such as whether they are in"
     publishedDateTime: 2021-05-05T12:37:00Z
