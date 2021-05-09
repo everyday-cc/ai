@@ -2,7 +2,7 @@
 name: "Starship Technologies"
 overview: "Starship Technologies builds self-driving local delivery robots. We are disrupting a 2-trillion-dollar local deliveries industry."
 type: "profile"
-heat: 102
+heat: 92
 
 website: https://www.starship.xyz/
 
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "+EE+LhwESKUWr5TgPgo6049lK4ub8WFvp5DKmhSFHxMHKXyIefyp396ECyOuiQNHqs2O9rYvFBP31dZM56s5oDIavD8aMcD4QuNFGgpZ2nN8qkk6ZDEvn9k5o1nzT94/0dtQoYWFeepjXKnxjFUpe+fgw9hFrOUOHciesfMxNjMzhmsrNv0CZgaho+e64wi103ZeYG24i346Hy8RgLREmMJhHIEJ8GQd/UNFEaSU4gWOXlKDsZE6/S7qVPbwOghrpn1y0IhDaqhN/eYaUJDo9SBMljxh0cDMYiUb1YA7AJ3FKmWp+BFEYlDhJChL9uhkU2HBZoRZddcDe2O+PzPXEfSTKrGQvKNoelU0QkpMuyFtHjeRrUA2M6zvIEgEBsoUiieF4Btlh3tKNGGSMW7OxnUv7WKaE+ER7v8aiWJScGs=;6BS7ra2oNdCmzWsMEjuuUQ=="
+secured: "tOGNWxMtYY9Zl7cVYqq0eWvjxwWKG3lw0Wi+RKo+OJtrXEQSSYvEmIKw9MPetjTSBLm650iiqtppcmiTacQqyNh/dudIQ6g7YJUgeBEQLaPZdxGymq2hDiNnL0JC97ZmiUU1n63E3BHxS3/PhyzIipiWfns3/Q2VjJTUqv2BdIYysoGrVLh1/7V696JY3IkVZ51cjjBX6+4RkX+8lXMrIYN1ha3cCB6FA8f+C46zuzMX2IFIKNA7WnReaS4JBTDLaRNs539Un3CeFoAPxZvhIEuwwrQz8ROXPSg+xCCDzs7h6ylKE9rWJd+qQSAmMiuigaIDzR5EthZKLZhkdaSqZVx+5yea9U4J7xpzjTez8gYpZ9SMCCPQQ99lilHA1NoP90gcS/7y7hhYeEJUCTxjeOhDBL3EaFGX/fFWmFXyE3M=;eqfJqvnXyBj4461z1WqQAw=="
 ---
 

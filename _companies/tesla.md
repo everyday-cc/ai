@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 665
+heat: 699
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 9394884
+  followers: 9397745
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "WJg49/Qa1lVKOJIBZvhaEPdk6dfIE7ddmMoHm5lYcya8ehbOvwzQSVkXEcNS6wGlfCkkCGTDFpnE4ZXLhqGmdcnKL93kQ1Duy2Ao0GBGTxxtEjRNcgAJjh7DBTKG9ceRwkmAEyl5anlq/r3164KZOi4NsT6QTt0D9SxNDA6Krwlq/Ei4qTgImNDDXaU9leOPZeY9LwgbGAX4t7lSuPMStfIFWnokrtkIGIe8e/ENRExixCbJ8ulvKzcrH7L942FjzPlgF5AKdxSezLbQDQdMPjwxwVaxTwa2LAkYDx3Npe7SEN55dhPS0u/heYr2E6hH/zNfZr7ZK8864FI7AxmuzKJ9GrnBw8U7C1CSptOSlXxzas0JfQGAt9AWUdRk4MIDpDeihlJXX6CIdnWnbxlWkGyiCNy/2edzxKVWsCc5EtU=;93CsUuUOxXPDxE5T/RGydQ=="
+secured: "q/+82m4trpUi+YMnWtFWn5gvNiEvkEns5VNC15kEIUkuzO4m3qdoh/UXs6TGMVXAXJR1L+fFQPtBBxUQOn4VGDwZuoZP8RzdefUmU3/CTKYM1XKqkZFC3rxavkENQDNqGR7EC6xk4cAPOA0ljIHVFRb8SkxhQYld+acEIj0IsK36wSDweHcnFLcNQKEvMajqsviAOUyNFTaie9tQafPvmAYPtgUX7tXxgtdQ5i7WBO41d3GLiNKqaVfvPB1Vd2YWitIR1hAvXFpXhIz6sInmkQ7j5NiQkJTjguvAcEb5n3DWZKZu35xa7Nn7tzEvtARlx4lZe8gQcxzklhTM8n0Hkp+cxqNbyTCACWn0LOo+WEVf2fe41Flo9IN7sAkRWVEw0iZ6XcjemSO8v5zOtC2HBZFH3szzxiCSOeL17WrkWHU=;jxdlsDri137va9sobANWqw=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Sophia Genetics"
 overview: "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG"
 type: "profile"
-heat: 78
+heat: 50
 
 website: https://www.sophiagenetics.com
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=KSr8445vqPg"
 
-secured: "zBNbTP6bPzLXCynMaT+DGiBJurgi9TeL9/1987QxrJtwDVrkXDaCSisCA/K30Mqh2I5eKWL4bVZ2Fi7TFmTNF5y+1BOij/fOk3y5HwnUwQDgpbqBebX4a0W/pl7kTybopCtkw1KsZceCzSPqOsn4AGZQwkHvA8A/otVlXS8dEs1z5d/ZcjycMrkgq7uifj4hEvg79SW6bncaZ9n3Kz7D06YwE9ZokbFuKR5kDV/AxCDF2Zucf+fAnEgmJajpwrp5zz3nc0hNfpxkcHwB3GQFfBJbw/CMhTlqUh/RPj2QFMwdYr3500qFU5vHy013Ic4VKcwWH6+0DfLfDyHi1PQsnSB3gp1/Afp22nqezGoxdGH5Fq+/IBG+DwpwnQCcow98J4/VxZ+Sq/Fq4TeovWGrbt600A5MT808xg5+QUO/X1c=;V63kWbb3+/tD7qksYnjw0w=="
+secured: "Ug0Y2vJcL43hXvggOQpZm3kD+2/cJgD6yokdltVd5I1tYS3ievp//VbeGpvg21tEiwGOox4Cj7yoQ/geOIKKH0ueOYFuzayP37CMvtRjU6MvN642ze46Zwjk7L6kWX8mGkziopVURTZdf7GRugHuGJIGgedY/HD3RKrS5k9K+0Jb201tR/inozfVokn0/YEcCKcHEnjcsjWfCE9uzyAqGTpFEl7K+lJcjwKEW0Pdjh7AD2V2MsbgNvh35AMaSdd59jVjC8aAMb+wjPb9VD+vPdxhaaGvmGiZYrkSLmd3Rwv949+Lr5l3ZhPq+K3xqYQtNn6qhvQ4m/O0axE/ukR3/fcfQXSTnqKB8Jdy6To7uxuNf6yQHuR2gvUubH8fG8+Syzlrq7J3K/uFGhAXubPMj/DO4/mpoecth+Bjjez8g2Q=;lP4RrLpQdMHwIsNv37+CAA=="
 ---
 
