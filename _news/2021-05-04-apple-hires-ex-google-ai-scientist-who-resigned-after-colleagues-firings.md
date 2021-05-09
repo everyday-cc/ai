@@ -41,6 +41,43 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Apple hires Google AI veteran Bengio amid ethics controversy"
+    excerpt: "Apple has hired former Google artificial intelligence (AI) scientist Samy Bengio following his departure from the company after controversy engulfed the Google Brain division. Bengio will lead a new AI research division at Apple and will report to senior vice president of machine learning and AI strategy John Giannandrea,"
+    publishedDateTime: 2021-05-05T10:58:00Z
+    webUrl: "https://www.techcentral.ie/apple-hires-google-ai-veteran-bengio-amid-ethics-controversy/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 56
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2016/12/Apple_Store.jpg"
+        width: 620
+        height: 352
+        isCached: true
+  - title: "Former Google AI scientist joins Apple: Report"
+    excerpt: "A former Google Artificial Intelligence (AI) scientist Samy Bengio, who had resigned in protest of the firing of two employees,"
+    publishedDateTime: 2021-05-04T16:00:00Z
+    webUrl: "https://www.glamsham.com/world/technology/former-google-ai-scientist-joins-apple-report"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/05/554f42d76dedec3889a296f2d707122a-1.jpg"
+        width: 400
+        height: 276
+        isCached: true
+  - title: "Apple hires Google scientist to lead new AI unit"
+    excerpt: "Apple said it has hired former distinguished Google scientist Samy Bengio, Reuters reports. Bengio is expected to lead a new AI research unit at Apple under John Giannandrea, senior vice president of machine learning and AI strategy,"
+    publishedDateTime: 2021-05-04T11:10:00Z
+    webUrl: "https://www.telecompaper.com/news/apple-hires-google-scientist-to-lead-new-ai-unit--1381865"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "R6H4eeF3FZrf9GdkI6fyQrFaBwODl6iNfcBAqi5doKNnPuI7MnA+1mYRKRsrDmf+sfeRYmjAb7HUwuhUgmvvKUbTuxmZTULlNkhpngnTTw9mu/pW1K8jR9lsm4MiTi9RFXtI6syEZVvnuAGtEOtGLzcYinBmJjQzMFFd+eYjFUOdW4ShGO3CoGz5aKCcGPmc+YQAIOabOyJDZCDH7w5ku+5KsfzdIJPiGR7khQ9iwysJjG0qDVhGIOYuUHWi0IYjOD7Di/2clmeKkQNC1wNcIkiDI+dP03vQ2Z1Jl0YUydHTueFIBEfE6tYj3V4BYuOgVJGG0tt0tTj7P5Nf0O1bcaVBNGmacMPpBlh339QcitV8cpsNeRYwm1ydtDezw5IXDdc3fUFTVkQjv3V/y8KSY6cKSZ11stvqMRf1o2lLuiulbUmWHMJGD42Z3yYi+KDjQ55CredvcbXPi5Hb78GZgPkLqw1r5LnBrm+No+af7hRnL9RDg1J6N7b9D/kq9L0tmTuecFofcdZiFuOd9L9Ogw==;EqDmyFh+rFUkpzxbnSqWVw=="
 ---

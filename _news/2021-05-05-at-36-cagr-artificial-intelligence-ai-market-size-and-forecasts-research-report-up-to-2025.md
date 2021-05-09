@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-36-cagr-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/at-36-cagr-artificial-intelligence-ai-market-size-and-forecasts-research-report-up-to-2025-2021-05-05?tesla=y"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning in Healthcare Market Research Report 2021 Size, Share, Growth, Trends and Forecast 2026 | COVID-19 Impact Analysis"
-    excerpt: "May 04, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Machine Learning in"
-    publishedDateTime: 2021-05-04T09:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-research-report-2021-size-share-growth-trends-and-forecast-2026-covid-19-impact-analysis-2021-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Booming Growth in Natural Language Processing Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players"
     excerpt: "Business Science Technology World Booming Growth in Natural Language Processing Market Analysis Report 2021 and Forecast to 2029 with different segments, Key players The Natural L"
     publishedDateTime: 2021-05-05T16:50:00Z

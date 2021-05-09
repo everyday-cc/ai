@@ -7,7 +7,7 @@ originalUrl: "https://deepmind.com/blog/article/advancing-sports-analytics-throu
 webUrl: "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai"
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -58,29 +58,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2021/04/Accelerated-Analytics-Cover-Image.jpg"
         width: 646
         height: 907
-        isCached: true
-  - title: "Former Google Energy CTO Joins AI Startup Olea Edge Analytics"
-    excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Ben Wilson as Chief Operating Officer. Wilson, the former Chief Technology Officer – Energy at Google,"
-    publishedDateTime: 2021-05-04T11:00:00Z
-    webUrl: "https://www.financialbuzz.com/former-google-energy-cto-joins-ai-startup-olea-edge-analytics/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 17
-  - title: "Worldwide Video Analytics Industry to 2026 - Featuring Agent Video Intelligence, Aventura Technologies and IBM Among Others - ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global video analytics market exhibited growth during 2015-2020."
-    publishedDateTime: 2021-05-04T10:54:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-656c50b19e044699b96393097299fbe1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "LwdNAsFLx3y7PtPXyUemi94eT3U7CMCas7MBRaTvjQIk4dqhlq3I+ny3qEU3nUpWjfFiuNRIIBlIQEHN9UrhwHFvgms8fbZI7T97DHZEAsU2lnY/m6sKoBWTYC4AgAuUxfDWlZtpSQEbWItO9rxCuxYulW9DPzlES8D7vpTLePD6D1KLYF0sNFsIVHJTfVx0Lc6d8zztMCbkw5UsSHJL/mLuDBRGh9HdE+I/CQnwqULtLJ3CwEWjeb1sMZ1iIE5zzxlg/mI50xxJT5bQtjNHNnRM0nevyiEw6KZGLva+c9agJJ7j39RrrZwdRJ0WVYrHSq3+jh0i4coKJGkqnpGy4Jgdbf5ESFaSMfzWzRpk/08=;aIx5ihit8ZoKMCh3cSZsYQ=="

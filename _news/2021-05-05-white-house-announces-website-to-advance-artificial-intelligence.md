@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/white-house-announces-website-t
 webUrl: "https://www.ai.gov/"
 type: article
 quality: 137
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Announces it Uses Spam Fighting AI"
-    excerpt: "Artificial Intelligence offers \"unprecedented potential to revolutionize\" spam fighting. Blocks estimated 99% of spam from search results"
-    publishedDateTime: 2021-05-04T09:17:00Z
-    webUrl: "https://www.searchenginejournal.com/google-spam-fighting-ai/405682/"
-    ampWebUrl: "https://www.searchenginejournal.com/google-spam-fighting-ai/405682/amp/"
-    cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/google-spam-fighting-ai/405682/amp/"
-    type: article
-    provider:
-      name: Search Engine Journal
-      domain: searchenginejournal.com
-    quality: 57
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2021/05/google-ai-fights-spam-609103c60bdaf.jpg"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "To Advance AI We Need to Better Understand Human Intelligence, and Address These 4 Fallacies"
     excerpt: "Artificial intelligence has been all over headlines for nearly a decade, as systems have made quick progress in long-standing AI challenges like image recognition, natural language processing, and games."
     publishedDateTime: 2021-05-06T15:19:00Z

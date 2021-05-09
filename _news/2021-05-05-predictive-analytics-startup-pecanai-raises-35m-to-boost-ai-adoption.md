@@ -58,29 +58,6 @@ related:
         width: 646
         height: 907
         isCached: true
-  - title: "Former Google Energy CTO Joins AI Startup Olea Edge Analytics"
-    excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Ben Wilson as Chief Operating Officer. Wilson, the former Chief Technology Officer – Energy at Google,"
-    publishedDateTime: 2021-05-04T11:00:00Z
-    webUrl: "https://www.financialbuzz.com/former-google-energy-cto-joins-ai-startup-olea-edge-analytics/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 17
-  - title: "Worldwide Video Analytics Industry to 2026 - Featuring Agent Video Intelligence, Aventura Technologies and IBM Among Others - ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global video analytics market exhibited growth during 2015-2020."
-    publishedDateTime: 2021-05-04T10:54:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-656c50b19e044699b96393097299fbe1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "WShPK3Q9l/AukplpNashJ0b7Fzuaxmh0UFmQnYSNQ6bjoPz7FKA4njYCyqZqIpJ414F4dytnl+UBWd7XEhg3xxIw4vlUAe8yKvdweK0SZZPleRo49R0uSTo6VDUAwNp0SEOzOLjcdF2HUKNfzP1G9CKHDWMVROjDN+UiT223n6D/RIuIqmC9LPEtLjy4ZzIlYoeNDe9OHPMrVNVjuarIoBFiqx53Sv2HEagV+Xpy++7bSQseEZtKeXk/sbXVhkMn0HE9D4dEUUf1EEQbSRb7p3E6FHB/wf6kY7KpxF/WADCGhyAa4JuWqk1dHW6TCCy3mWuwTRc6rG1h8NCIENHq+qHwNXbhH6YdHFAFM+Shp8aXTudn3X+sU5aKOz5k8JG544y3lW4eIOxX/pkw0oV0RWnr2l93j2OjXCrjosJZwubBj7L9AIlX6r1f0nuMWONROrLVgykNxmggQruiIuWztjFiLdgg6KLXYNopGb5Pw9MsmK9MQ4ftf4yZHHi4JvRec1cKCzMfIF4WaGWDi6vxuQ==;3INooDvd0SrDB7ccZDiVIw=="
 ---

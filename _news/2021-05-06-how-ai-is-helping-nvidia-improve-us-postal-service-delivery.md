@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgwODAxNjAyODM4MzQwNjk2/tslive-th-0505.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Medical Market Is Booming Worldwide | NVIDIA, Intel, IBM"
-    excerpt: "Get Quick Free Sample Copy of Report @: jcmarketresearch.com/report-details/1299753/sample Key Companies/players: NVIDIA, Intel, IBM, Google, Microsoft, AWS, GE Healthcare, Siemens Healthineers, Medtronic The research covers the current & Future market size of the Global Artificial Intelligence (AI) in Medical market & its growth rates based on 8 year history data."
-    publishedDateTime: 2021-05-04T09:20:00Z
-    webUrl: "https://ksusentinel.com/2021/05/04/artificial-intelligence-ai-in-medical-market-is-booming-worldwide-nvidia-intel-ibm/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 43
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/download-11-1-780x470.png"
-        width: 780
-        height: 470
         isCached: true
 
 secured: "7FDSLD27aJ7wzNoARyCIODcU21pzsPNfYNzVYK4zCliunqsTXk0YuXAcxSvoRYT88FG4yujwmTvnojOLeMTfMVoBClohefMQCB15zEC66tSP7GJUf75IpEYKZ7b7OIttSRg0/LgrRLaLyYM+T3zgzkojfQf5+uSvsPMQ+znokg7PMcV3gXMLILlPrzP90YxX1ifhds+enPfCIOVZbYnSi+LEbfVCfDB3+jWRlJRgaHepQINfXDcdJZNxZcpJ/aBVukJLZPB+cIoyLiy1DA1iVJejX+WqSyGOMmMMWuhle7f9SItSDNE2NlwzWJ4/aOIqyP7EWzcfJNT/uC1yI+03IEYTmi60PSeqa/OjENmu++dWEju634TRy7pzi5+uXuSACnAzC9i3pG2r/i+df373l1WoeqPhaJuRdsBwa+WWx/v3Wl3NuNOmnLwFvqkbjDVY/DikyG40aPFRJuqXEJlWNZs2IGpAWrOwaXyW0J4Y4M3WLjwIH9Ewtm+pCXqeYc2hi3r5vaHae+44rO2tIX1oEg==;d6a7J41hzhKeuD2jTFB9GQ=="

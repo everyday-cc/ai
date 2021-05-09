@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-s
 webUrl: "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/"
 type: article
 quality: 70
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/09/full/1620523537-7541.jpg&width=1200"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Baidu launches China's first commercial driverless taxi service"
-    excerpt: "Chinese search engine giant Baidu on Sunday started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public on a trial basis since last October but Sunday marked the first time that riders have needed to pay for it."
-    publishedDateTime: 2021-05-04T10:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1132139_baidu-launches-china-s-first-commercial-driverless-taxi-service"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
-    images:
-      - url: "https://images.hgmsites.net/hug/baidus-apollo-go-driverless-taxi-service_100790898_h.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "Baidu rolls out paid driverless taxi service in Beijing"
     excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in Beijing,"

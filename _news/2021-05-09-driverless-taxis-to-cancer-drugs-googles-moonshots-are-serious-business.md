@@ -41,20 +41,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Baidu launches China's first commercial driverless taxi service"
-    excerpt: "Chinese search engine giant Baidu on Sunday started offering the first rides to commercial customers in its self-driving taxis. Known as Apollo Go, the service has been open to the public on a trial basis since last October but Sunday marked the first time that riders have needed to pay for it."
-    publishedDateTime: 2021-05-04T10:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1132139_baidu-launches-china-s-first-commercial-driverless-taxi-service"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
-    images:
-      - url: "https://images.hgmsites.net/hug/baidus-apollo-go-driverless-taxi-service_100790898_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Baidu rolls out paid driverless taxi service in Beijing"
     excerpt: "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in Beijing,"
     publishedDateTime: 2021-05-04T22:19:00Z
@@ -81,6 +67,6 @@ related:
         height: 577
         isCached: true
 
-secured: "BAs0mWj7VFD199bzP2S4GBCmENNx1UZvPBd8RTwuR3ksyANkCp1H8DkNIHIurooVsrs4W/C+/P97LHRoAB9sS5mwK8aeFfMoN+n0vv2KUddOOUyazHcgS+iFKotjoKkpFY4W2ouD8k0A/29hc4yNVeuLitkS1eqRFr6VoMB5N/tMVxSNl1qoKoWV0NCKdqonGz915n2Jt1oR6pSWDA4dKo1aoBEbsibLfWXU5ftJ2g5Y6im+ULSq1QQlOB6VdDosHJmnfvt2CpJynHgjfcao5R1853cYDHStunSzgrYnQNsSk9fbK969/oZGM0+qbVtkEz7sspDxLgkqN2f7hzEsd/T3tuH9l8oZQTym6k61GBs=;phnqX4Oa95+ATM71arqgOw=="
+secured: "BUFIXUGhT8q/9qRMwMM2gBcWVnqcEAijlh/ZEoEEITKpUutGSPw6cuQpcaNGoPInjLURZUVbo9bcMUK5gZg+7a0XQXIQUcQD5RPP1Indzw9cj6CO7F5Q3IIk9hVcB/tWR8eDvrrLlmS31NiieuSKzZE1ad1uW0W2S6AsN/4SrSosh/ZlIFkmpwPUmks7nq40GwuJK2M9MontEEyi1IJ2j0pJ0+yn3FIGByYAvKne4uej5J9UpjZX2IAsq+lKrBH247b352YsH+tDonXX/mWsrhJrvivN9/uyMqvY6CGa2iSefEpe8CyrZcgUOQAOCU9O9Ivt3QOhLlmYNlZOf3lTqEII3tMqj9shBEbnDYCRXAddRofjxG9oE2lYa7cQWiCGpCmPM3v/J4ie+adAAbLBO0xOQyf76DeP1GhDrQB9sw0bhR3t8ZGmEckSUeg27RBRKiWM4/391pr5rLpVdTmLUVI4T8XJ+3SofHFNwS2erOxElblpIvcj0Z+QqEMgRy9g70D76VsXNOt44wtf1UYR1A==;aOiV/y8KXjSVeDlNCEqWVQ=="
 ---
 
