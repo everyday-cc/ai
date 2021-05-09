@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/04/new-lidar-brings-ford-backed-argo-ai-a-big-step-cl/"
 type: article
 quality: 87
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "New Lidar Brings Ford-Backed Argo AI a Big Step Closer to Full Self-Driving"
-    excerpt: "A rgo AI, the Pittsburgh-based self-driving start-up funded by Ford Motor Company and Volkswagen AG , announced that it has developed a new lidar sensor system with enough range t"
-    publishedDateTime: 2021-05-04T15:34:00Z
-    webUrl: "https://www.nasdaq.com/articles/new-lidar-brings-ford-backed-argo-ai-a-big-step-closer-to-full-self-driving-2021-05-04"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
   - title: "Self-driving technology company Argo AI makes lidar breakthrough"
     excerpt: "Comment Now! Argo AI, the self-driving technology company backed by Ford and Volkswagen Group, claims to have overcome one of the main challenges"
     publishedDateTime: 2021-05-05T15:45:00Z
@@ -83,20 +74,6 @@ related:
       - url: "https://img.futurecar.com/202105/05/l_60933339b6931.jpeg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Ford-Backed Argo Sees New Sensor as Key to Self-Driving Cars"
-    excerpt: "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, has developed a sensor it believes will be key to commercializing autonomous transportation in cities, suburbs and on the highway."
-    publishedDateTime: 2021-05-04T17:03:00Z
-    webUrl: "https://www.bloombergquint.com/business/ford-backed-argo-sees-new-sensor-as-key-for-self-driving-cars"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 24
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Argo develops in-house lidar sensor for self-driving cars"
     excerpt: "Argo Lidar is a new sensor introduced by Argo AI designed to accelerate the commercialization of autonomous delivery and ride-hailing services. The lidar sensor detects difficult-to-see objects from far away and works with Argo’s self-driving system (SDS) that is capable of 360° of awareness day or night and can safely drive on city streets,"

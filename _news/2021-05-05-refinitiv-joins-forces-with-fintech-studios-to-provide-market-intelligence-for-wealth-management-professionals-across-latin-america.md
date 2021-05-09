@@ -55,15 +55,6 @@ related:
         width: 1600
         height: 1066
         isCached: true
-  - title: "iBooster Presents LinkedIn Boost Solution for the Fintech Market"
-    excerpt: "Professionals in the financial technology industry can use the service to reach their target network and connections. Several campaign packages"
-    publishedDateTime: 2021-05-04T16:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibooster-presents-linkedin-boost-solution-for-the-fintech-market-10095438"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "PBW7Q9RH30Pn/ZCsxDJf/lPK1FOg/Tx11zQGKupAL4zv3sEsexf5i7n2G5lBn0wKCH48hjHgoCDfSE4n9iyY4IblR39Z50qLrJajEtKLnQc+R0w4sqG5u5C0SgP3XxUGQ9RqXAY8Zl83o3Rb8jS44aNUvdSVEZVON8ODIcdyEuwkCo+6sbMnn/aeoNz3zUJNwIQ4KyKYMXoRjqp/iExnUpvgFBtyymSiuWqqY+jUBtLec2rw41RQ8KaNYa6xVm0fHi0JnOxdi1mfomIkOjqDlQjPCs2sHYRCErBn7xCqFe8l0SWPANsektZdx5vQTmkOammmQbUMFCTEZ0dw/uQQav3nDsTtT7a3gPOpupkpq0ZDYm3p2bHinCnhKEwkttBmLAYy917ofuVAwwmhMFozY9BAhPXgmtaUIF5UvNqv0duYhXlAFWvl4qPJ6KGs1D8fY8IB+vpXZf2ndWlUFDSO1DaS+q58NIuHzxICIQp8SR5BMNTGkEHkqv8sWRgjYGR7axdyj21De4NYq8m4I2CdPA==;SAc/VsihBP8MGoACuhM3Ow=="
 ---

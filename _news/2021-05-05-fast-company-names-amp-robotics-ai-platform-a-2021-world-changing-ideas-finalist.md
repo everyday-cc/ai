@@ -47,15 +47,6 @@ related:
         width: 736
         height: 414
         isCached: true
-  - title: "Fast Company Names AMP Robotics’ AI Platform a 2021 World Changing Ideas Finalist"
-    excerpt: "The artificial intelligence (AI) platform developed by AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and rec"
-    publishedDateTime: 2021-05-04T15:31:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210504005740/en/Fast-Company-Names-AMP-Robotics’-AI-Platform-a-2021-World-Changing-Ideas-Finalist"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 44
 
 secured: "1oL2soNYRBwjbGnVimC/fg5+q0gH0OfvB2GcnKVhvLijkLvk9VmFnpxK6PuGicv/XKMyxnDD5JnuWutPUhq7HaZ0Yu6dKdoVFiCDhbd6pQbjT1n+778ynNMW3/gSUk7FYTP6j31KZiESyh+Lv6EbQbMQFXI8uVy4T9hxPgZiL396olB3yZAqJ3BUNeZMjc5MC5dw/iTXRf6FUdATxv2aNRpCo2haA+CEtK52pdK8a5PruXwTSTFPzEGWR6Kwr5BMd85VXqgZEvsa0zrrRUCNtDiYCxj7d/gwrZ/4gXw1oqPwb9Zj7eQjWwfwGWYWxUWnful9w7/kuAWpSpsehX2GuVm1mIiiZp0resWZM6Swbac=;AO8ec8SjYHt3745s/9xYgA=="
 ---

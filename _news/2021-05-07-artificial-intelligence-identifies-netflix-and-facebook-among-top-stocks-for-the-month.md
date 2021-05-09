@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/amp/"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-23.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Give Facebook Data Access or Pay"
-    excerpt: "Apple iOS 14.5 requires all apps to ask for permission before data is shared. Facebook and Instagram have notices that if you do not share your data with them"
-    publishedDateTime: 2021-05-04T16:51:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/05/give-facebook-data-access-or-pay.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/05/give-facebook-data-access-or-pay.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/05/give-facebook-data-access-or-pay.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 44
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/05/givedataorpayFB.jpeg"
-        width: 587
-        height: 532
         isCached: true
   - title: "All The Machine Learning Libraries Open-Sourced By Facebook Ever"
     excerpt: "Today, corporations like Google, Facebook and Microsoft have been dominating tools and deep learning frameworks that AI researchers use globally. Many of their open-source libraries are now gaining popularity on GitHub,"

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ibooster-presents-linked
 webUrl: "https://www.marketwatch.com/press-release/ibooster-presents-linkedin-boost-solution-for-the-fintech-market-2021-05-06"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1600
         height: 1066
         isCached: true
-  - title: "iBooster Presents LinkedIn Boost Solution for the Fintech Market"
-    excerpt: "Professionals in the financial technology industry can use the service to reach their target network and connections. Several campaign packages"
-    publishedDateTime: 2021-05-04T16:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibooster-presents-linkedin-boost-solution-for-the-fintech-market-10095438"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Refinitiv Joins Forces With FinTech Studios to Provide Market Intelligence For Wealth Management Professionals Across Latin America"
     excerpt: "Refinitiv, a provider of financial markets data and infrastructure that has served more than 40,000 institutions in over 190 countries, announced on Tuesday it has joined forces with FinTech Studios,"
     publishedDateTime: 2021-05-04T17:56:00Z

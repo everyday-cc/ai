@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-bias-is-an-ongoin
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-bias-is-an-ongoing-problem-but-theres-hope-for-a-minimally-biased-future/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI is far from perfect, but it's improving"
-    excerpt: "Weeding out bias from AI is an ongoing endeavor, but one expert has hope for a bias-free future. Using edge intelligence can help the power grid, the environment, and create smart cities 7:06 The last"
-    publishedDateTime: 2021-05-04T15:51:00Z
-    webUrl: "https://www.techrepublic.com/videos/ai-is-far-from-perfect-but-its-improving/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/05/04/a450f184-16dc-4234-9724-c469662cf2fd/thumbnail/770x578/94cc3861a8ac059a02fdb99c216c6dfa/20210429-aibias-karen-fixed.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "AI Bias Problem Needs More Academic Rigor, Less Hype"
     excerpt: "We’re infatuated with AI. From smart chatbots to image recognition to self-driving cars, we’re absolutely enamored with the superpower-like"
     publishedDateTime: 2021-05-04T23:06:00Z

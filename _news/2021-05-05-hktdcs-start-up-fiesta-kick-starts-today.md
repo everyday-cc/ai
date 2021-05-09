@@ -38,6 +38,17 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 24
+  - title: "HKTDC's Start-up Fiesta kick-starts today"
+    excerpt: "Series of start-up programmes helps nurture local entrepreneursHONG KONG, May 5, 2021 - () - The Hong Kong Trade Development Council (HKTDC) today announced the"
+    publishedDateTime: 2021-05-09T07:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/a21025482/hktdcs-start-up-fiesta-kick-starts-today"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21025482"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21025482"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "fUMGcrWI9uxiwgRCplWw53/Zc6vxq9vkWUvNY+8wJMliuBRUMYiUP2eFlQGA07GOrtVUJwQClXajSF2DrJQzIZDRdhCC8PDMU81GK8etD23bKnk8wncZSlHNvxgoeEBqjIvtE1S8Y6sku7fDXfVL1EZ7hjodPe0MtZ3v/VViY4dIMCW93vEgOhvhRWI0Od4PAlMkrb+x2BRMOWTKDZs8z1XYpSN6xngoCiFydI7GxiWBvOQv/NlBWH0127Ff7MqphdrX7WB8N5E1Zax9AB/DH0hKADfKfQUaR9rIVee2ucoFIO007/fJRb7s7k0NyhKVuLQ8PcEh6KhXljtjd10bqkxUKvQ7OrlgfbEkY5dv2ag=;kkLwAHcPIGHjnF7XTDHXAQ=="
 ---

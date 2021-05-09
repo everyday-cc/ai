@@ -37,6 +37,17 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "HKTDC's Start-up Fiesta kick-starts today"
+    excerpt: "Series of start-up programmes helps nurture local entrepreneursHONG KONG, May 5, 2021 - () - The Hong Kong Trade Development Council (HKTDC) today announced the"
+    publishedDateTime: 2021-05-09T07:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/a21025482/hktdcs-start-up-fiesta-kick-starts-today"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21025482"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21025482"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "6GkvFqBxE93HFr2d6vRqoPJZFJ96H9Oni+ecrgWo247Ybqt4FoVblEakTOfFVd1m2ZCo6GvMDFc0xsKIFdFdSPkSHsOLKOfn38rD/Rkf1ZPdKsqlIQhOXEBfPZ/HGCNOOqNpGuCufsb5DeqwTBXcDp33pOYtecd7NAAtGZrXF/6saCxn/VWGzGwDE5A/3vtrEEAfld2DNb100j6iU1epEWvJnyZnz0L8C2fCpPSXo1P0yr1wQk5JXSYYXOyoXqtq2woTodaLoIEm5aQgXwg/iUd9Pfm+lfUIKBxYMPhma+SpmPvNnGbjxi5403Zc/SLeaoeLcNOfJPl7vPUYg3S1j4ov6q7/iHdDsj4OGKNK1SHIiyp1W2MFfAQ9ey8Cykh2jGKNhJru7nAMzXLx2QSTrUpsQmkOPZ7HIr71nbN3X7hmymVuA2xJj1+xDfvvR51JV218XI9uZRqkIUk/mzhJWyiwOp+dK30qyYwmmDti6CtIkKdyMnrrhbXWwqmRKevYeM00mphi3eVtdz/Wsg2Pjg==;r3RhomaStEdvktgkuijYug=="
 ---

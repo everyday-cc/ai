@@ -71,22 +71,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Musicians, human rights orgs urge Spotify to scrap speech recognition tech"
-    excerpt: "A coalition of musicians and human rights groups are urging Spotify to publicly commit to never implementing or monetizing the speech recognition technology it has developed."
-    publishedDateTime: 2021-05-04T15:28:00Z
-    webUrl: "https://thehill.com/policy/technology/551686-musicians-human-rights-orgs-urge-spotify-to-scrap-speech-recognition-tech"
-    ampWebUrl: "https://thehill.com/policy/technology/551686-musicians-human-rights-orgs-urge-spotify-to-scrap-speech-recognition-tech?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/551686-musicians-human-rights-orgs-urge-spotify-to-scrap-speech-recognition-tech?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 57
-    images:
-      - url: "https://thehill.com/sites/default/files/spotifylogo081717getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Spotify urged to rule out 'invasive' voice recognition tech"
     excerpt: "A coalition of musicians and human rights groups urged music streaming company Spotify on Tuesday to rule out possible use of a speech recognition tool it recently developed to suggest songs - describing the technology as \"creepy\" and \"invasive\"."
     publishedDateTime: 2021-05-04T19:44:00Z
@@ -98,22 +82,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 54
-  - title: "Spotify urged to rule out 'invasive' voice recognition tech"
-    excerpt: "A coalition of musicians and human rights groups urged music streaming company Spotify on Tuesday to rule out possible use of a speech recognition tool it recently developed to suggest songs ..."
-    publishedDateTime: 2021-05-04T15:42:00Z
-    webUrl: "https://torontosun.com/technology/spotify-urged-to-rule-out-invasive-voice-recognition-tech"
-    ampWebUrl: "https://torontosun.com/technology/spotify-urged-to-rule-out-invasive-voice-recognition-tech/wcm/b2232165-1eb4-4d8a-bb5a-cb3589cf11ba/amp/"
-    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/technology/spotify-urged-to-rule-out-invasive-voice-recognition-tech/wcm/b2232165-1eb4-4d8a-bb5a-cb3589cf11ba/amp/"
-    type: article
-    provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 44
-    images:
-      - url: "https://smartcdn.prod.postmedia.digital/torontosun/wp-content/uploads/2021/02/SPOTIFY-scaled-e1613145141688.jpg?quality=100&strip=all"
-        width: 2252
-        height: 1689
-        isCached: true
   - title: "Spotify Urged To Abandon Speech Patent Over Privacy Issues"
     excerpt: "More than 180 musicians and human rights organizations are pressing Spotify to publicly disavow a speech recognition patent, saying it raises many privacy and inequality concerns and that the music streaming provider's assertion that it has \"no plans\" to implement this technology isn't enough."
     publishedDateTime: 2021-05-06T03:04:00Z
