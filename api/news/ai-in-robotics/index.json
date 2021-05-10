@@ -54,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -180,49 +180,6 @@
       "provider": {
         "name": "Top Gear",
         "domain": "topgear.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-service-robotics-market-analysis-segments-growth-and-value-chain-2021-2024-irobot-corporation-softbank-robotics.md",
-      "title": "Service Robotics Market Analysis, Segments, Growth and Value Chain 2021 – 2024 | iRobot Corporation, Softbank Robotics",
-      "excerpt": "The emergence of IoT and artificial intelligence and subsequent rise in demand for advanced robotics solutions is driving the service robotics market share over the projected timeframe Robotics systems in numerous application segments ranging from household to industrial are witnessing",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2280651/service-robotics-market-analysis-segments-growth-and-value",
-      "originalUrl": "https://www.openpr.com/news/2280651/service-robotics-market-analysis-segments-growth-and-value",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U506224062_g.jpg",
-          "width": 800,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2280651/service-robotics-market-analysis-segments-growth-and-value",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2280651/service-robotics-market-analysis-segments-growth-and-value",
-      "publishedDateTime": "2021-05-05T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1433,6 +1390,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-promoting-artificial-intelligence-in-accounting-profession.md",
+      "title": "Promoting Artificial Intelligence in Accounting Profession",
+      "excerpt": "By Ugo Aliogo In a world driven by ground-breaking scientific innovations, research findings have shown that the advent of technological inventions has influenced the lives of human beings across",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/05/c701d120-technology-innovation.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/amp/",
+      "publishedDateTime": "2021-04-28T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -35,20 +35,6 @@ related:
         width: 389
         height: 250
         isCached: true
-  - title: "Armored Vehicle Market Size Worth USD 26.12 Billion by 2026; Contract Between OSHKOSH and U.S. Army to Accelerate Business Potential"
-    excerpt: "The global wheeled armored vehicles market size is projected to reach USD 26.12 billion by 2026, exhibiting a CAGR of"
-    publishedDateTime: 2021-05-05T09:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/armored-vehicle-market-size-worth-usd-2612-billion-by-2026-contract-between-oshkosh-and-us-army-to-accelerate-business-potential-2021-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "66SSvjcK7deuTcrgUwY19/Do36sajhwdltK4M7UMt1T566jM50M1OTU9QtkDIy48kLUEzTjCn6Vj+yFpxkGeVpvgUD/24bpBoV3YyiHwJeQyjzcbUvHvybnLMsfFvqAS54ZkgwkBl8erawururYJ7UIWxiUuosTot/6AJDuhHYwIaRlktmhFbmqZHeIqT+lPHd0SSdnFeuXgwfZ2sANqZbLZwmEKM77opHDpvAhIt4fBj5CrVGtsgrISMFlyN55Z1QD4dh6pBuzHgnHLpQiFkILLUcKTji9cBhWCyZkmET+jdEVVrjmP5FFtACC2XMPJOoYgS12q8TJWsoexOyHE9URTEJ4qL1zMgwLhoidk26A=;DnEMDjy7Xp2gqSatS/P0pw=="
 ---

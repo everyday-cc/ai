@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fast Company Names AMP Robotics AI Platform a 2021 World Changing Ideas Finalist"
-    excerpt: "The artificial intelligence (AI) platform developed by AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and recycling industry, has been recognized as a finalist in two categories—“AI and Data” and “Best World Changing Idea North America”—of Fast Company’s 2021 World Changing Ideas Awards."
-    publishedDateTime: 2021-05-05T10:32:00Z
-    webUrl: "https://www.financialbuzz.com/fast-company-names-amp-robotics-ai-platform-a-2021-world-changing-ideas-finalist/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 44
 
 secured: "jxi79g8qBxTzn0wo2vfpUtxejc9mKDq+5uykYKxtoCtmi2H7b9XUkkdELOVYUqHEUrqk+03iyit3WMSeAg8+Raf/Yuhp+hNkGHtNePK6iCIOYa1DMfoXvMtx/SdMi66m2s/NdYBEc03VKiZnA1wxHcw0m7JYd38uQkh/8fmi6TufDE29vUhbwKklmTpmJN11TK9hlcDseYiOOzZSlL/Xq1vgSZ7BgE2SaS+A5Gxv//owo9wypBn++76TOvmJVhqzstz3L9Wh7gYeBfef1E3TCtBghVTsSg6CtM27l6pErExjpy40w07YYRqMYZgyCWqYpc2nYM2H3e2xoBGgspgc5qsC9GgpmdqVf54L+6KdWI4=;jGl8XC24iG5z6Y1C8JWGlQ=="
 ---

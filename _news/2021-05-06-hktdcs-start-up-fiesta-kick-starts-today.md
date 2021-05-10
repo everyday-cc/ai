@@ -9,7 +9,7 @@ ampWebUrl: "https://m.scoop.co.nz/stories/WO2105/S00068/hktdcs-start-up-fiesta-k
 cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2105/S00068/hktdcs-start-up-fiesta-kick-starts-today.htm"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "HKTDC's Start-up Fiesta kick-starts today"
-    excerpt: "The Hong Kong Trade Development Council (HKTDC) today announced the launch of the inaugural Hong Kong Start-up Fiesta campaign that will run in May and June. Comprising a full range of activities"
-    publishedDateTime: 2021-05-05T11:00:00Z
-    webUrl: "https://www.asiaone.com/business/hktdcs-start-fiesta-kick-starts-today"
-    ampWebUrl: "https://www.asiaone.com/business/hktdcs-start-fiesta-kick-starts-today?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/hktdcs-start-fiesta-kick-starts-today?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 44
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/May2021/asiaone_default.jpg?itok=ePYeHevC"
-        width: 763
-        height: 509
-        isCached: true
   - title: "HKTDC's Start-up Fiesta kick-starts today"
     excerpt: "Series of start-up programmes helps nurture local entrepreneursHONG KONG, May 5, 2021 - () - The Hong Kong Trade Development Council (HKTDC) today announced the"
     publishedDateTime: 2021-05-09T07:59:00Z

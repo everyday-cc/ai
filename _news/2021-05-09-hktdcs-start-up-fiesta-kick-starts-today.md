@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "HKTDC's Start-up Fiesta kick-starts today"
-    excerpt: "The Hong Kong Trade Development Council (HKTDC) today announced the launch of the inaugural Hong Kong Start-up Fiesta campaign that will run in May and June. Comprising a full range of activities"
-    publishedDateTime: 2021-05-05T11:00:00Z
-    webUrl: "https://www.asiaone.com/business/hktdcs-start-fiesta-kick-starts-today"
-    ampWebUrl: "https://www.asiaone.com/business/hktdcs-start-fiesta-kick-starts-today?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/hktdcs-start-fiesta-kick-starts-today?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 44
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/May2021/asiaone_default.jpg?itok=ePYeHevC"
-        width: 763
-        height: 509
-        isCached: true
   - title: "HKTDC's Start-up Fiesta Kick-starts Today"
     excerpt: "The Hong Kong Trade Development Council (HKTDC) today announced the launch of the inaugural Hong Kong Start-up Fiesta campaign that will run in May and June. Comprising a full range of activities organised by the HKTDC and other organisations,"
     publishedDateTime: 2021-05-05T17:09:00Z

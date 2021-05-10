@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artifici
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/04/ECL-2021-05-12-1-1.jpg?w=1024"
         width: 1024
         height: 576
-        isCached: true
-  - title: "How Artificial Intelligence will Affect the Future of Work and Life?"
-    excerpt: "The influence of artificial intelligence in our daily life is no joke. With internet taking center stage, AI is evolving out routine to have personalization, with more machines and smart home applications."
-    publishedDateTime: 2021-05-05T09:29:00Z
-    webUrl: "https://www.analyticsinsight.net/how-artificial-intelligence-will-affect-the-future-of-work-and-life/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Artificial-Intelligence-3.jpg"
-        width: 900
-        height: 500
         isCached: true
 
 secured: "9c0RFCGwsdsnCPAk08l398G2/s70n5yx5DZuw5XuxysXP7DxklCPVsVJiyT5v6OQlinafbaQqlZgjloeNv2m8pnyHro6FDo8urX5287u8gPw214VesoxcS1vIrMEswyYhcphflvX3soxb7du+Acb9DNenQ9HEdGcWFzh9sWEFu/JSk9TFMxtWphuhqHO/GXmOV9A52xRZpLuepTVZrFp7TjUv4rWttfU4Ni3emhZRhWu+Ipr8xXfyBc0jNrtkb+O9Z3Dz+FwNIaVEvTgm4mkUImJAsazquzjF7ABO5mKypyBPNwHk4iwVWIe/rWxzu/TtU90bZ9VW/MJpBgOZtyJYAhk3yRsuhKhZGHaGhkEb8Lf6IUZb5XFAlUNVCw0K020Kj3yUtgZj/gCgmaKiRvvQvMIA4Tz7/2tDW6lPLywQ3Wz4Bx/iXSUGwF98w3b2A9yk0WBeOl9uUZdDTPw3RgHghcbtekAl9Pxn3bgWKjLRxMTd33qL//mO0MaJhuFhbOHF/nC3YW8Mn6NdfTbGcan0A==;X5+ors57uPko1oHnsvafrQ=="

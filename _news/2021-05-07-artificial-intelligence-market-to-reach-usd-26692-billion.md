@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Armored Vehicle Market Size Worth USD 26.12 Billion by 2026; Contract Between OSHKOSH and U.S. Army to Accelerate Business Potential"
-    excerpt: "The global wheeled armored vehicles market size is projected to reach USD 26.12 billion by 2026, exhibiting a CAGR of"
-    publishedDateTime: 2021-05-05T09:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/armored-vehicle-market-size-worth-usd-2612-billion-by-2026-contract-between-oshkosh-and-us-army-to-accelerate-business-potential-2021-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market to Reach USD 266.92 Billion by 2027; Increasing AI Technology Users to Spur Market Growth: Fortune Business Insights™"
     excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the market"
     publishedDateTime: 2021-05-07T05:25:00Z

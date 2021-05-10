@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-mac
 webUrl: "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/"
 type: article
 quality: 72
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://ksusentinel.com/wp-content/uploads/2021/05/6-12.png"
         width: 628
         height: 385
-        isCached: true
-  - title: "Artificial Intelligence Products Market to Witness Growth Acceleration by Top Key Players Like MicroStrategy, IBM Corporation, Google,Inc, Brighterion"
-    excerpt: "Artificial Intelligence Products Market is growing at a 33.12% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
-    publishedDateTime: 2021-05-05T10:16:00Z
-    webUrl: "https://ksusentinel.com/2021/05/05/artificial-intelligence-products-market-to-witness-growth-acceleration-by-top-key-players-like-microstrategy-ibm-corporation-googleinc-brighterion/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-Market-Research-16-P-58.png"
-        width: 552
-        height: 308
         isCached: true
   - title: "Machine Learning in Manufacturing Market Outlook 2021, Witness Highest Growth in near future by 2028 | Intel, IBM, Siemens, GE, Google, Microsoft"
     excerpt: "Global Machine Learning in Manufacturing Market 2021 by major players, regions, type and application, forecast to 2028. This market report includes a forecast for 2021 and ending in 2028 with a collection of crucial information such as supply-demand ratio,"

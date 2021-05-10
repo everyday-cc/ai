@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2CM10S"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2CM10S"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "FOCUS-U.S. chip startups, long shunned in favor of internet bets, stir excitement again"
-    excerpt: "Silicon Valley venture capitalists, long focused on software and internet companies, are again pouring money into the semiconductor industry, lured by the promise of a new generation of artificial-intelligence chips that could challenge incumbents like Intel Corp and Nvidia Corp."
-    publishedDateTime: 2021-05-05T10:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-u.s.-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again-2021"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 56
   - title: "AI Chip start-ups interesting Wall Street"
     excerpt: "Nvidia rivals  The cocaine nose-jobs of Wall Street are starting to get interested in chip startups lured by their promises of AI and special-purpose processors that can efficiently run machine-learning algorithms."
     publishedDateTime: 2021-05-06T10:57:00Z

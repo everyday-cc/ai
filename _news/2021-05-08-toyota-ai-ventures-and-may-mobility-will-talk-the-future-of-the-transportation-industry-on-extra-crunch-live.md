@@ -60,20 +60,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "How Artificial Intelligence will Affect the Future of Work and Life?"
-    excerpt: "The influence of artificial intelligence in our daily life is no joke. With internet taking center stage, AI is evolving out routine to have personalization, with more machines and smart home applications."
-    publishedDateTime: 2021-05-05T09:29:00Z
-    webUrl: "https://www.analyticsinsight.net/how-artificial-intelligence-will-affect-the-future-of-work-and-life/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Artificial-Intelligence-3.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "diV7e7i6ErixD2B+g31kADFQN3qnc1obbBjj+BlQpP87K6rriexp1DUav5GXrE9UdFBPaPrpo0xpZ07O+FXkjPqtuykeOs26iL85qfGmervQpSqsqAdMn2wn8ALbwbiAamnxDaJR5Bf75icxW4DX1wDi/ayb5BSzLvrHYGDeiVyDLBBWyJa7PqojtwQNv0dDHOZXStltpalyWWORTOIC1O8zI63Kz+OqJpCesriSHi8TL67gp83+aks2RRNhT5NETpMgAdWnbVQFzmXo+XQz9zeHo5m3TdzvbC5luNdt8Xtpm8bMOgm9FKopu4q2mx6zIAaLZfVj/wnND7CfSfzJBYxEJCw6H8k4qhrIVmPkCmNvhjoGoKp+B7BnGexLho21PUUh9WHqcekh76nxSviqfEK+CC6mpJbmaQHVo5SnTnITueQcLsxsS7glfWGKl+xB4uoKrvXgsDF944+CZIxjvWtOG6+inQl5V75A16OJDvsBShvNp5mro0f/Ad39J74VsL/JXb934eLp+A4t7tYOvQ==;r3zL6+d05kC3tLflnxJsEg=="
 ---

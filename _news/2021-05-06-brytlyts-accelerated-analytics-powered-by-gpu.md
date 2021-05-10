@@ -39,22 +39,6 @@ related:
         width: 512
         height: 288
         isCached: true
-  - title: "Predictive analytics startup Pecan.ai raises $35M to boost AI adoption"
-    excerpt: "Pecan.ai, a startup developing a platform for predictive analytics, has raised $35 million in equity financing."
-    publishedDateTime: 2021-05-05T11:00:00Z
-    webUrl: "https://venturebeat.com/2021/05/05/predictive-analytics-startup-pecan-ai-raises-35m-to-boost-ai-adoption/"
-    ampWebUrl: "https://venturebeat.com/2021/05/05/predictive-analytics-startup-pecan-ai-raises-35m-to-boost-ai-adoption/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/05/predictive-analytics-startup-pecan-ai-raises-35m-to-boost-ai-adoption/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/02/bigdata.shutterstock_363791543.jpg?w=1200&strip=all"
-        width: 1000
-        height: 620
-        isCached: true
 
 secured: "XxW8Zk+37loNRlbjZOqYgd9xy8sds6VKBd/IadkfuEW4WhhUJCQyoXnAQ0ql8nttWA0Y9yQlTcXyCTfmhsLh1TsvD8nl92+5fnhCu54f+EwApUk/ugTR4WE2uEr1HV/zM2kXkZJHk4gPi/tTlX1L5cKJktdqq3CZa5756Kjues+O1Zd4B2W1PBKZjMyniAIrXvwqsQIA/A0MhNpgFjVppPhXFiTsnCp/Mdr2XEhy296qQxrzzCiD3ZI2ZgsXbGFTBVi86VoOEretzL/F7GMTHBHGPJxcsVnLl5/Z8TQB87xeTlEaBBAWsNN3LLbo0cvikTWCtjmart5x2bxavOBFwVRCd0bTx08D8wXK72bsjIY=;HmGl0Nr/yCpgW34sIOK4zg=="
 ---

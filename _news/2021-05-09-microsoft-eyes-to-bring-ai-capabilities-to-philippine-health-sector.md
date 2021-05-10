@@ -41,22 +41,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "DICT supports iTrain Asia Microsoft AI training for women data scientists"
-    excerpt: "The Department of Information and Communications Technology (DICT), through its ICT Industry Development Bureau (IIDB), supports iTrain Asia’s initiative that provides free Microsoft-sponsored (Artificial Intelligence) AI training to women data scientists."
-    publishedDateTime: 2021-05-05T10:59:00Z
-    webUrl: "https://pia.gov.ph/news/articles/1074354"
-    ampWebUrl: "https://pia.gov.ph/news/articles/1074354.amp"
-    cdnAmpWebUrl: "https://pia-gov-ph.cdn.ampproject.org/c/s/pia.gov.ph/news/articles/1074354.amp"
-    type: article
-    provider:
-      name: Gov
-      domain: pia.gov.ph
-    quality: 73
-    images:
-      - url: "https://files.pia.gov.ph/opengraph/2021/05/05/dict-file-photo-05052021-2.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
     excerpt: "Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft"
     publishedDateTime: 2021-05-06T12:08:00Z

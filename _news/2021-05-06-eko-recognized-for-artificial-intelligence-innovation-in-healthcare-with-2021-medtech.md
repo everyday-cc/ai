@@ -24,22 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Top 10 Artificial Intelligence Innovation Trends to Watch Out For in 2021"
-    excerpt: "Artificial Intelligence has made a massive impact in the modern world. Here are the top 10 Artificial Intelligence (AI) innovation trends to watch out for in 2021."
-    publishedDateTime: 2021-05-05T11:01:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-innovation-trends-to-watch-out-for-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 38
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Top-10-Artificial-Intelligence-Innovation-Trends-to-Watch-Out-in-2021.jpg"
-        width: 900
-        height: 500
-        isCached: true
-
 secured: "WSjl+9lZE7nNGsJ/YmZ1c656f4Eh7tpMNbpyrZk4ZYgpc0RtVPetN14vVoUGuNHSPZ1XLaMhB+J9v4eEnrc8OPv83g86kivS7gKyzgwi3622yO/Blbxb5WnbZrqDBGYTG+qB2VhRYBR0NOpFFds8TlpxdzArL7Yt/76DDEpTeJ6z6wFZfXGrpw/H8yvJqlwxYB3C48NL7QKPzkh5Kp2knK85QCaMEkbIUnDzXkknfbJXylhZdxCybIsA+/FStCcvDU+ib6f/aZWBDG+91QWlyisYhelzzwZKNn7NMz7s4i2+//Mvj69mSrHC9QpGhIz6aIr009sf7XWwqGaq1TTEw68uKzzuqyQUS8fmLYlAF70=;RgUBfFcoPj7AfJSBho7D+Q=="
 ---
 

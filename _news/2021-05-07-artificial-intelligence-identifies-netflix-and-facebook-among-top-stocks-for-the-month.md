@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 79
 published: true
 
 provider:
@@ -28,36 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Tech Behind DINO, Facebook’s Open-Source ML Model For Computer Vision"
-    excerpt: "Our model can discover and segment objects in an image or a video with absolutely no supervision, said researchers at Facebook AI."
-    publishedDateTime: 2021-05-05T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/tech-behind-dino-facebooks-open-source-ml-model-for-computer-vision/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 58
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-23.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "All The Machine Learning Libraries Open-Sourced By Facebook Ever"
-    excerpt: "Today, corporations like Google, Facebook and Microsoft have been dominating tools and deep learning frameworks that AI researchers use globally. Many of their open-source libraries are now gaining popularity on GitHub,"
-    publishedDateTime: 2021-05-05T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/all-the-machine-learning-libraries-open-sourced-by-facebook-ever/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-24.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "OT1mOjINbMNONkQGa6yE2+qcVyss06sZulslhXTy+hR8zCzoH5bCkHgCChlKOQNsWbtOawKqgBgejiXVeP4Cr5dYFYiSeNJvVXGGXN9raqXdD58gDIJtxaRsx585wVitgWEQibs9g9j7j9kQ1eZ5sym1I0bKotAZO8kAvEnn7UogpHKFOdLKU9vhJWtWmFNI7tHniwlIN5FFjL5XEy0Hrqxb6yURmiXYvxNY/3IRMWUdvhT6+V6i8z4+Y2NMXr2hHoVidufiNIhme2++pwtFE9lQBmfL+PrfnA8ZxjW1uuYGCmxAM6k/W0HLwPYneVQKi9+JigYMQO89Lp4jyh98s1nnkjcvrnH/OtZppV9mH042fs2O9WxCKUB42hhx+6pquLwFHK4JyOGovlceOJxL0DF8uGfRiAEf1YHQzfEyNeS6VaIsJykoxGcT2baqQDRTcyfXkq8boTgePcLOtAviQfMfoG1ww3Af5kAfv7/cJjBwIwX/5n30SIhrb+6rZEQyDbYrBmBJD2R3FPJUpZDbdA==;AOfLTh3uTbod7JpFqTCpPw=="
 ---

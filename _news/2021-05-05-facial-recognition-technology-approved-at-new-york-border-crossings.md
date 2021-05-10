@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. CBP expands facial recognition to all NNY pedestrian ports of entry"
-    excerpt: "U.S. Customs and Border Patrol is expanding its facial recognition systems, and on Tuesday announced they have installed the technology at all pedestrian border crossings in Northern"
-    publishedDateTime: 2021-05-05T10:32:00Z
-    webUrl: "https://www.nny360.com/news/nationandworld/u-s-cbp-expands-facial-recognition-to-all-nny-pedestrian-ports-of-entry/article_066fe4b2-2fff-53d4-aa7e-141ad45ff4db.html"
-    type: article
-    provider:
-      name: NNY360
-      domain: nny360.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nny360.com/content/tncms/assets/v3/editorial/3/9c/39c5a022-0e41-5a46-b0b0-01c733126f27/6092186191fb6.image.jpg?resize=770%2C630"
-        width: 770
-        height: 630
-        isCached: true
   - title: "Honolulu airport rolls out facial recognition technology"
     excerpt: "Honolulu’s Daniel K. Inouye International Airport has launched the Simplified Arrival Program in an effort to streamline the international arrival process."
     publishedDateTime: 2021-05-05T17:32:00Z
