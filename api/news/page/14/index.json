@@ -2,6 +2,50 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-26-how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results.md",
+      "title": "How Nuance May Alter The Healthcare And AI Playing Field Aas Microsoft Reports Q3 Results",
+      "excerpt": "In Microsoft’s (NASDAQ: MSFT) last earnings conference call with analysts, CEO Satya Nadella opened with an upbeat and sweeping salvo on cloud platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/earnings/21/04/20793834/how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results",
+      "originalUrl": "https://www.benzinga.com/news/earnings/21/04/20793834/how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tickertapecdn.tdameritrade.com/assets/images/pages/md/2021-04-23-msft-chart.png",
+          "width": 1391,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20793834",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20793834",
+      "publishedDateTime": "2021-04-26T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-new-watson-capabilities-from-ibm-afford-trustworthy-ai-to-businesses.md",
       "title": "New Watson Capabilities From IBM Afford Trustworthy AI to Businesses",
       "excerpt": "Announcing new capabilities for its Watson business artificial-intelligence technology, Armonk, N.Y.-headquartered IBM revealed fresh approaches that it hopes will build trust in data and AI. According to its October 2020 survey,",
@@ -1135,58 +1179,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-ban-facial-recognition-in-europe-says-eu-privacy-watchdog.md",
-      "title": "Ban facial recognition in Europe, says EU privacy watchdog",
-      "excerpt": "Two days after the European Union unveiled draft rules on how to use AI in Europe, a privacy watchdog urged the EU to ban facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/",
-      "originalUrl": "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/4768764591_bac4a6d442_o.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/amp/",
-      "publishedDateTime": "2021-04-24T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -1,28 +1,24 @@
 ---
 category: news
 title: "WIMI Hologram Cloud Applies AR and AI Technology to Autonomous Car Driving, and the Holographic Smart Cockpit Makes Sci-Fi Movies Come True"
-excerpt: "Tailor Insight, the fintech market research organization, recently released a research report “WIMI Hologram Cloud Applies AR and AI Technology to Autonomous Car Driving, and the Holographic Smart Cockpit Makes Sci-Fi Movies Come True”."
-publishedDateTime: 2021-05-08T01:55:00Z
-originalUrl: "https://www.digitaljournal.com/pr/wimi-hologram-cloud-applies-ar-and-ai-technology-to-autonomous-car-driving-and-the-holographic-smart-cockpit-makes-sci-fi-movies-come-true"
-webUrl: "https://www.digitaljournal.com/pr/wimi-hologram-cloud-applies-ar-and-ai-technology-to-autonomous-car-driving-and-the-holographic-smart-cockpit-makes-sci-fi-movies-come-true"
+excerpt: "Tailor Insight, the fintech market research organization, recently released a research report “WIMI Hologram Cloud Applies AR and AI Technology"
+publishedDateTime: 2021-05-08T01:14:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/ab21022745/wimi-hologram-cloud-applies-ar-and-ai-technology-to-autonomous-car-driving-and-the-holographic-sm"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21022745/wimi-hologram-cloud-applies-ar-and-ai-technology-to-autonomous-car-driving-and-the-holographic-sm"
+ampWebUrl: "https://amp.benzinga.com/amp/content/21022745"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21022745"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/04/fb_image-3240-600x337.jpeg"
-    width: 600
-    height: 337
-    isCached: true
 
 related:
   - title: "WIMI Hologram Cloud Applies AR and AI Technology to Autonomous Car Driving, and the Holographic Smart Cockpit Makes Sci-Fi Movies Come True"
@@ -37,6 +33,6 @@ related:
       domain: benzinga.com
     quality: 7
 
-secured: "Eeyhg6YOjnekknYLhQPvtB0PfwqanOnXai3F6G9GElDyMV9azZv6DV549+fka3A5Zht/UxK0gVjvwGH4/ZO0hq2DOOP10UrnYktIjipJg0jsHbSQfvEQIrxEwpqCikfxH33kEWiAHJhDcPkQ+JTAOIueGmp4u6PZhFrNy7trfjtOlsznavRtx0RWvubotJ+OZJiNtUm/pEGZi9GZUHEghauthjuaUI3iDo9DHgnBTC26dbflBUa/somllKcNk+RWK7YF/sfm4GEWC3Wf+coT/JKmy2iKRECw2twdL9gNs2c2/2OvAFnntgfYvcTKntjBrjrUjnqJFggaMUrtqjWXcnJ5zvPowZGSzyonstIsbk3jEYK4vGo4ULplwT+5UnkNz3mQxeDZ20T0wTVzk8JaQbJGmRaJD0hSzAvMvFMpxwbEtC71PEI8Kyy5n71ZB8z2rPv7ryl90K5aribsJJ089YzHf56g8KyU8hti2zWTiyj07VTZKjNu/KU1eBox0vxnRqao1JJ2OSDWWTPo8L5e7Q==;pR5qZqBZRS+JjgMWBAQw5g=="
+secured: "V35ZBfsZEWYvBNGU4+oxeSW11vFX4k+w8+xP8V8uWBW7Fjtt+hZYxMSnjOYaLI1SO1/ripdiIg1DlwrKVWicogyZDTr4k799uIF1amBPzS7ydqjWAXpEK4E+N3X9gtTSoOdaH6PgyPaXOC2n/XxSzYgcub0rABA4TMPTYg4BV5jf3WUL0ShOPJoOt7RICQk21iGMCrlw0K/gbi7TqlYSvUJQOaeUnuzKbX69lF5RX3A1Iqdj4m+VLGmAyF/yZLXNZ21uN58vEM1aKYG07Qu7WWlMvd7A5i3Zr9SL1u2ljDlaCOeeuTMnstCteI4KA0KhJ3nRvm10ota5swJDdZtsK/xIrjgd7aKEcvikpkEAKCQ=;SSkJebDiXEIk/KtpuqPYiA=="
 ---
 

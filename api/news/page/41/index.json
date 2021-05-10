@@ -2,6 +2,58 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-03-27-report-apples-been-snapping-up-ai-firms-to-make-siri-smarter.md",
+      "title": "Report: Apple’s been snapping up AI firms to make Siri smarter",
+      "excerpt": "Apple was the leading buyer of AI companies between 2016 and 2020, and many of the acquisitions were focused on Siri, according to research by GlobalData.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/26/report-apples-been-snapping-up-ai-firms-to-make-siri-smarter/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/26/report-apples-been-snapping-up-ai-firms-to-make-siri-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/header-image-tim-cook-Apple-financials-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/26/report-apples-been-snapping-up-ai-firms-to-make-siri-smarter/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/26/report-apples-been-snapping-up-ai-firms-to-make-siri-smarter/amp/",
+      "publishedDateTime": "2021-03-26T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move.md",
       "title": "Computer vision software has the potential to reinvent the way cities move",
       "excerpt": "The same frustrations have plagued urban roadways for decades. But technology is finally providing new ways to address the challenges of crowding, pollution and parking enforcement on city streets.",
@@ -1080,58 +1132,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-this-is-the-tech-investing-trend-im-most-excited-about-right-now.md",
-      "title": "This Is the Tech Investing Trend I'm Most Excited About Right Now",
-      "excerpt": "including driverless cars, automated factories, wearables, chatbots, and cloud services. However, one common theme links most of these next-gen markets together: artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619166%2Fgettyimages-1267193955.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "publishedDateTime": "2021-03-25T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

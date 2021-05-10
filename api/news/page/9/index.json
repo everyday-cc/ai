@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-30-nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues.md",
+      "title": "NVIDIA warns gamers to update GPU drivers due to security issues",
+      "excerpt": "NVIDIA has reportedly found a few security vulnerabilities that may affect the popular GPU models in the market - and has released an update to fix it.",
+      "sourceUrl": null,
+      "webUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/",
+      "originalUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/03/Nvidia-GeForce-Hotfix.jpg",
+          "width": 600,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp",
+      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp",
+      "publishedDateTime": "2021-04-30T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-first-paid-robotaxi-service-in-china-to-begin-in-may.md",
       "title": "First paid robotaxi service in China to begin in May",
       "excerpt": "What is being called the first paid autonomous vehicle ride-hailing service will begin on May 2 in Beijing, China using driverless robotaxis from Chinese internet giant Baidu Inc. The fully autonomous Apollog Go Robotaxi service will have no safety driver behind the steering wheel and will be launched in Beijing’s Shougang Park—one of the venues for the 2022 Beijing Winter Olympics.",
@@ -1178,58 +1222,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-how-ai-is-mishandled-to-become-a-cybersecurity-risk.md",
-      "title": "How AI is Mishandled to Become a Cybersecurity Risk",
-      "excerpt": "While infosec specialists use AI for benign purposes, threat actors mishandle it to orchestrate real-world attacks. At this point, it is hard to say who is winning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cybersecurity-risk/",
-      "originalUrl": "https://www.eweek.com/security/how-ai-is-mishandled-to-become-a-cybersecurity-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/04/AI.threats.cybersecurity2.png",
-          "width": 748,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

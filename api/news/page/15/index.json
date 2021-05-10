@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-04-25-ban-facial-recognition-in-europe-says-eu-privacy-watchdog.md",
+      "title": "Ban facial recognition in Europe, says EU privacy watchdog",
+      "excerpt": "Two days after the European Union unveiled draft rules on how to use AI in Europe, a privacy watchdog urged the EU to ban facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/",
+      "originalUrl": "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/4768764591_bac4a6d442_o.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/amp/",
+      "publishedDateTime": "2021-04-24T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-25-waymos-leadership-shift-spotlights-self-driving-car-challenges.md",
       "title": "Waymo’s leadership shift spotlights self-driving car challenges",
       "excerpt": "Waymo's recent executive shuffle signals driverless technology has a ways to go before a robust self-driving car industry becomes reality.",
@@ -1120,58 +1172,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031.md",
-      "title": "Machine Learning as a Service (MLaaS) Market 2021 Rising Latest Advancements, Growing Demands and Business Opportunities by 2031",
-      "excerpt": "Market.us adopted a multidisciplinary detain during the pandemic era to focus on the revolutionary trends, growth and industry statistics along with the development of the Global Machine Learning as a Service (MLaaS) Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031-2021-04-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031-2021-04-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

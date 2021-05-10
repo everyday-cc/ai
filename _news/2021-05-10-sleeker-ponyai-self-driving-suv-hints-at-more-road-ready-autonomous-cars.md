@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "A Survey on Hybrid Human-Artificial Intelligence for Autonomous Driving"
-    excerpt: "With the continuous development of Artificial Intelligence (AI), autonomous driving has become a popular research area. AI enables the autonomous driving system to make a judgment, which makes studies on autonomous driving reaches a period of booming development."
-    publishedDateTime: 2021-05-06T02:32:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9423526"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 17
 
 secured: "2EYEXw6JJO/GglSwwqlWZNJQ0y8ND/c/NJj/CGCbex1JAP5iMGwqDihPQuESpwCrmF3CqhMBdcQpiNtSeaN2Ppy+1O0yB0msn8/FYV2QP8Gr/gBhdryVXTb8dvvLlzzqxwFLV0rdQgZjf7LTNp7EmYrDWq9eU2UkrpIer8NAUm7/kOLEK/hy/rDoFmtbKtTcJJdiFDmrc62e3Q6/OhQpVm/SVQ/Mt1IIpXbtaVHTp0MErGobs4P1PV248el7yjX/g3pYUO6vG5YgBgwxNJq8MKYu474XB1ZoF+qdGzPLGb1voJKl5SzEej6izzg+tqcOKebR1pMpe8ACRSFz1u5B9zN1NzSpph3ea/XT7lBHInkQR3SBIrf6SCRqTl4tDVJzmjsU2RICDUIaEyVM/fx1DgENJCzyRaBbbpVOFDwNW70tSDCgqBCp9h8obrbRfhtC0Afxq36exm4T+lR8o4c9ZD9ABG2By4kdWO9zsK1NrJ3kiAOsAS7jZktBqzf6mLATT+i5ZZ9gGLpncOg8xuiEZQ==;wvjJU23HxOs0XxdeLARpKA=="
 ---

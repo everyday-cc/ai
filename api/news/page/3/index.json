@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-07-artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month.md",
+      "title": "Artificial Intelligence Identifies Netflix And Facebook Among Top Stocks For The Month",
+      "excerpt": "Q.ai's AI systems have picked Top Tech Stocks, Top Consumer Stocks, Top Quality Value Stocks, Top Growth Stocks, and Top Dividend Stocks to help investors make the most of this month's markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60942fe187880209a11c4392%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/amp/",
+      "publishedDateTime": "2021-05-06T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-industry-should-start-working-on-ai-m2m-data-science-seriously-dhotre.md",
       "title": "Industry should start working on AI, M2M, data science seriously : Dhotre",
       "excerpt": "The government is keen on utilising latest technologies like artificial intelligence (AI), machine-to-machine communications and data science, and industry should start working on them seriously for achieving the goal of Aatmanirbhar Bharat,",
@@ -356,7 +407,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1181,58 +1232,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-machine-learning-text-adventure-ai-dungeon-is-now-being-censored-and-users-are-furious.md",
-      "title": "Machine-learning text adventure AI Dungeon is now being censored and users are furious",
-      "excerpt": "When Nick Walton created AI Dungeon 2 two years ago, he had no idea that it would take off as it did. Within days of launching",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
-      "originalUrl": "https://www.techspot.com/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-05-image-31.jpg",
-          "width": 2560,
-          "height": 1300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
-      "publishedDateTime": "2021-05-05T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-04-what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets.md",
+      "title": "What Exactly Is Artificial Intelligence? (Hint: It’s All About The Datasets)",
+      "excerpt": "What we can do—and what we’ve already done—with AI and AI applications is incredible. But there are still some major limitations and challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6091592599841fa0bc244389%2F0x0.jpg",
+          "width": 1200,
+          "height": 886,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/04/what-exactly-is-artificial-intelligence-hint-its-all-about-the-datasets/amp/",
+      "publishedDateTime": "2021-05-04T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-cms-announces-winner-of-artificial-intelligence-challenge.md",
       "title": "CMS Announces Winner of Artificial Intelligence Challenge",
       "excerpt": "ClosedLoop.ai was the winner and Geisinger was the runner-up in CMS's Artificial Intelligence Health Outcomes Challenge.",
@@ -1113,57 +1165,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience.md",
-      "title": "Appen combats skewed AI data to ensure end-users have the same experience",
-      "excerpt": "Training data provider Appen data just launched recently developed diverse training data sets for natural language processing initiatives in an effort to ensure end-users will receive the same experience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience/",
-      "originalUrl": "https://www.techrepublic.com/article/appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience/",
-      "publishedDateTime": "2021-05-03T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-06-machine-learning-text-adventure-ai-dungeon-is-now-being-censored-and-users-are-furious.md",
+      "title": "Machine-learning text adventure AI Dungeon is now being censored and users are furious",
+      "excerpt": "When Nick Walton created AI Dungeon 2 two years ago, he had no idea that it would take off as it did. Within days of launching",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
+      "originalUrl": "https://www.techspot.com/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-05-image-31.jpg",
+          "width": 2560,
+          "height": 1300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
+      "publishedDateTime": "2021-05-05T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-woolaroo-a-new-tool-for-exploring-indigenous-languages.md",
       "title": "Woolaroo: a new tool for exploring indigenous languages",
       "excerpt": "“Our dictionary doesn’t have a word for shoe” my Uncle Allan Lena said, so when kids ask him what to call it in Yugambeh, he’ll say “jinung gulli” - a foot thing.Uncle Allan Lena is a frontline worker in the battle to reteach the Yugambeh Aboriginal language to the children of southeast Queensland, Australia,",
@@ -1174,57 +1226,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-it-began-as-an-ai-fueled-dungeon-game-it-got-much-darker.md",
-      "title": "It Began As an AI-Fueled Dungeon Game. It Got Much Darker",
-      "excerpt": "The game touted its use of the GPT-3 text generator. Then the algorithm started to generate disturbing stories, including sex scenes involving children.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/",
-      "originalUrl": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6091ff24317d6dd323f25581/master/pass/business_gpt3_ai-dungeon.jpg",
-          "width": 1688,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-fueled-dungeon-game-got-much-darker/amp",
-      "publishedDateTime": "2021-05-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

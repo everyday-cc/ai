@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-03-30-redefining-what-a-map-can-be-with-new-information-and-ai.md",
+      "title": "Redefining what a map can be with new information and AI",
+      "excerpt": "Sixteen years ago, many of us held a printout of directions in one hand and the steering wheel in the other to get around— without information about the traffic along your route or details about when your favorite restaurant was open. Since then, we’ve been pushing the boundaries of what a map can do,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/",
+      "originalUrl": "https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-will-ai-make-us-obsolete-kyna-premchandani-the-tiffin-girls-school.md",
       "title": "Will AI make us obsolete? - Kyna Premchandani, The Tiffin Girls' School",
       "excerpt": "AI does a vast amount of work which we as humans once did. This currently benefits us, allowing for greater efficiency, but will AI ever replace us? Artificial intelligence has begun to arise ...",
@@ -1041,58 +1084,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-report-apples-been-snapping-up-ai-firms-to-make-siri-smarter.md",
-      "title": "Report: Apple’s been snapping up AI firms to make Siri smarter",
-      "excerpt": "Apple was the leading buyer of AI companies between 2016 and 2020, and many of the acquisitions were focused on Siri, according to research by GlobalData.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/26/report-apples-been-snapping-up-ai-firms-to-make-siri-smarter/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/26/report-apples-been-snapping-up-ai-firms-to-make-siri-smarter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/header-image-tim-cook-Apple-financials-1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/26/report-apples-been-snapping-up-ai-firms-to-make-siri-smarter/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/26/report-apples-been-snapping-up-ai-firms-to-make-siri-smarter/amp/",
-      "publishedDateTime": "2021-03-26T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

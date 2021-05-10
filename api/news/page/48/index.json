@@ -2,6 +2,49 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-03-19-ceo-of-fintech-lender-upstart-now-a-billionaire-after-shares-soar-89-in-one-day.md",
+      "title": "CEO Of Fintech Lender Upstart Now A Billionaire After Shares Soar 89% In One Day",
+      "excerpt": "Fresh off a blockbuster earnings report that shattered Wall Street expectations, shares of AI-enabled fintech lender Upstart Holdings skyrocketed Thursday, minting a new billionaire out of Dave Girouard,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/18/fintech-lender-upstart-billionaire/",
+      "originalUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/18/fintech-lender-upstart-billionaire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-facebook-is-developing-a-neural-wristband-for-interacting-with-ar-glasses.md",
       "title": "Facebook is developing a neural wristband for interacting with AR glasses",
       "excerpt": "The wristband, detailed today, is part of a broader project by the social network to create augmented reality glasses suitable for everyday use. Facebook argues that such glasses will require the ability to not only display content but also give users an easy way to interact with that content.",
@@ -896,40 +939,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-is-your-privacy-governance-ready-for-ai.md",
-      "title": "Is Your Privacy Governance Ready for AI?",
-      "excerpt": "Privacy has always meant minimizing the collection of data to what is “fit for purpose,” and then limiting the access and retention of that data only to what is required. Artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/sponsored/2021/03/is-your-privacy-governance-ready-for-ai",
-      "originalUrl": "https://hbr.org/sponsored/2021/03/is-your-privacy-governance-ready-for-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

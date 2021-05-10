@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-11-nurses-are-essential-to-ai-integration-in-healthcare.md",
+      "title": "‘Nurses Are Essential’ to AI Integration in Healthcare",
+      "excerpt": "Nurses are also crucial stakeholders as hospitals seek more uses for artificial intelligence and machine learning to deliver care.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-integration-healthcare",
+      "originalUrl": "https://healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-integration-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202105/AI.jpg?itok=lp3X--nF",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-integration-healthcare?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-integration-healthcare?amp",
+      "publishedDateTime": "2021-05-10T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-build-an-anomaly-detection-model-from-scratch-with-amazon-lookout-for-vision.md",
       "title": "Build an anomaly detection model from scratch with Amazon Lookout for Vision",
       "excerpt": "A common problem in manufacturing is verifying that products meet quality standards. You can use manual inspection on a subset of the products, but it’s usually not scalable enough to meet demand as production grows. In this post, I go through the steps of creating an end-to-end machine vision solution",
@@ -114,7 +157,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -217,7 +260,7 @@
       "originalUrl": "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -356,7 +399,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/analyzing-the-rise-of-deepfake-voice-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1191,57 +1234,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair.md",
-      "title": "AI Lending Discrimination Needs To Be Tackled With Legislation Says House Financial Services Chair",
-      "excerpt": "We cannot wait for (federal financial regulatory agencies) to do better. We have to force better,” she told a Financial Services AI Task Force hearing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/",
-      "originalUrl": "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60958549f4ace557ee2a1fc5%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/amp/",
-      "publishedDateTime": "2021-05-07T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

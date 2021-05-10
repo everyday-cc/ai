@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-04-23-machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031.md",
+      "title": "Machine Learning as a Service (MLaaS) Market 2021 Rising Latest Advancements, Growing Demands and Business Opportunities by 2031",
+      "excerpt": "Market.us adopted a multidisciplinary detain during the pandemic era to focus on the revolutionary trends, growth and industry statistics along with the development of the Global Machine Learning as a Service (MLaaS) Market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031-2021-04-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031-2021-04-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-facial-recognition-should-be-banned-eu-privacy-watchdog-says.md",
       "title": "Facial recognition should be banned, EU privacy watchdog says",
       "excerpt": "Facial recognition should be banned in Europe because of its “deep and non-democratic intrusion” into people’s private lives, EU privacy watchdog the European Data Protection Supervisor (EDPS) said on Friday.",
@@ -1114,49 +1166,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-university-of-alaska-anchorage-today-ai-webinar-will-explore-the-development-of-self-driving-vehicles.md",
-      "title": "University Of Alaska Anchorage: TODAY: AI Webinar Will Explore The Development Of Self-Driving Vehicles",
-      "excerpt": "By 2019, many car and technology companies had implemented autonomous car programs, and Google's Waymo launched the world's first commer",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/alaska/anchorage/university-alaska-anchorage-today-ai-webinar-will-explore-development-self-driving",
-      "originalUrl": "https://patch.com/alaska/anchorage/university-alaska-anchorage-today-ai-webinar-will-explore-development-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

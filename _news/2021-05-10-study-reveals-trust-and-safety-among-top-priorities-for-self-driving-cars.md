@@ -41,15 +41,6 @@ related:
         width: 1500
         height: 847
         isCached: true
-  - title: "A Survey on Hybrid Human-Artificial Intelligence for Autonomous Driving"
-    excerpt: "With the continuous development of Artificial Intelligence (AI), autonomous driving has become a popular research area. AI enables the autonomous driving system to make a judgment, which makes studies on autonomous driving reaches a period of booming development."
-    publishedDateTime: 2021-05-06T02:32:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9423526"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 17
 
 secured: "wZNOP/K4k1eGIknxUj5qSDaX6sO13fSRLqtJ7pCOop8K+8khr7ZBRDjG15CgQq9Hhv0jwY7ETr0RMc9U8xlhkSqQZ7pUs4sGOc6DCiWQNBY7RvwaQ3Yxrq9OI+uyQA10wK75xyFeTEbfhL5bPNdGL0c3UHMYEYTa8uLqN8QVuZYHnsTH3k7I0IySwEbUSuCUPrAPiqvhwmY6JSa8mhTCUYx2VY/yNdsYbsjtUf2ArQ3OKWH1Q1MVI+a3RdJ/7KHcp3aAP59eLM75OdlVDQNEiFZpnSdJ7ouMwGivh6ZVMi0i8Qv97iFeCv9iDvpgsi64uSv9BtGdgkGuli747kgMiVjXUVRAiielb2er5rXFvPg=;SNDoUNJWTBvxCvsMajg7KQ=="
 ---

@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-03-appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience.md",
+      "title": "Appen combats skewed AI data to ensure end-users have the same experience",
+      "excerpt": "Training data provider Appen data just launched recently developed diverse training data sets for natural language processing initiatives in an effort to ensure end-users will receive the same experience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience/",
+      "originalUrl": "https://www.techrepublic.com/article/appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/appen-combats-skewed-ai-data-to-ensure-end-users-have-the-same-experience/",
+      "publishedDateTime": "2021-05-03T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full.md",
       "title": "Nvidia RTX 3050 Ti laptop GPU specifications leak in full",
       "excerpt": "Full specifications for Nvidia’s upcoming RTX 3050 Ti mobile graphics card have allegedly shown up in the GPU-Z database ahead of its rumored launch later this month. As reported by Videocardz, somebody anonymously submitted specs for the so-called Nvidia RTX 3050 Ti to the GPU-Z validation database,",
@@ -293,58 +344,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers.md",
-      "title": "Start and Scale your Intelligent Automation Journey with AI Powered E-Workers",
-      "excerpt": "Organizations have realized the need for augmenting their human employees with AI to manage manual tasks, given the complexities of a post-Covid world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers",
-      "originalUrl": "https://www.infoworld.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -938,6 +937,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-03-start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers.md",
+      "title": "Start and Scale your Intelligent Automation Journey with AI Powered E-Workers",
+      "excerpt": "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers",
+      "originalUrl": "https://www.computerworld.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-02T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating.md",
       "title": "In a year of major shifts, the self-driving car market is consolidating",
       "excerpt": "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market.",
@@ -1167,49 +1209,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing",
-      "excerpt": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
-      "originalUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-02T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

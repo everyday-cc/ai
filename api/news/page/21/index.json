@@ -2,6 +2,50 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-04-20-brain-on-a-chip-would-need-little-training.md",
+      "title": "Brain-on-a-chip would need little training",
+      "excerpt": "A neural network that mimics the biology of the brain can be loaded onto a microchip for faster and more efficient artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-04-brain-on-a-chip.html",
+      "originalUrl": "https://techxplore.com/news/2021-04-brain-on-a-chip.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/607ec32ac8241.jpg",
+          "width": 722,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-04-brain-on-a-chip.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-brain-on-a-chip.amp",
+      "publishedDateTime": "2021-04-20T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-nano-dimension-acquires-machine-learningdeep-learning-leader-deepcuibe-for-40m-in-cash-and-30m-in-adss.md",
       "title": "Nano Dimension Acquires Machine Learning/Deep Learning Leader DeepCuibe For ~$40M In Cash And ~$30M In ADSs",
       "excerpt": "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst",
@@ -1059,58 +1103,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-survey-finds-talent-gap-is-slowing-enterprise-ai-adoption.md",
-      "title": "Survey finds talent gap is slowing enterprise AI adoption",
-      "excerpt": "According to an O'Reilly survey, enterprises are struggling to overcome a talent gap in data science, affecting their ability to adopt AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/",
-      "originalUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/amp/",
-      "publishedDateTime": "2021-04-19T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

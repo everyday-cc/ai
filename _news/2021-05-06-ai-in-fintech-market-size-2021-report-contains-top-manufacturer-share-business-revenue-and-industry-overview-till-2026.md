@@ -43,6 +43,15 @@ related:
         width: 904
         height: 504
         isCached: true
+  - title: "Global Artificial Intelligence in Security Market – Top Industry Segments Analyzed in Latest Research Report by MRS"
+    excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence in Security Market Analysis and Forecast 2020-2026. Latest updated report pub"
+    publishedDateTime: 2021-05-09T22:11:00Z
+    webUrl: "https://ksusentinel.com/2021/05/09/global-artificial-intelligence-in-security-market-top-industry-segments-analyzed-in-latest-research-report-by-mrs/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 12
 
 secured: "lHCpH5wg6XR2vUWkVbGIchI2Tbg9CksL+L6zJGuZ8ZaG5InyV4z09k662LrU2gDmaBXiGN2AHqf3jc6fyep56NgnYr8Jcm6ZA1g+p1l6r+5p1x883ee9O6ICfvNg+pNj7/8eeBDjwxSD2cGpKRLsMUMRcmP3OSEUUaM75pwxWHnqWMqdCIvGYq2z/eAYVfcNz/0dkJAywVOtvFintypD822150ZevztRXKGctYoSxKSSBywVLai5FCsMY8k8MqHayEwGp1R0mnB1EJeCbTFDE8L1YhMWKs9EEvFWNICC50TowP0KeAWWL/aVDvSPpWx46aHyp0OGjcIFZ6zHH2xuTv9mHEX9yNDMPrlB91nj9X0=;IyWUX88rwGdkbvlABFQNdg=="
 ---

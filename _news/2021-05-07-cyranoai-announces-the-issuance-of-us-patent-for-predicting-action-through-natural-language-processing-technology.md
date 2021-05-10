@@ -3,8 +3,8 @@ category: news
 title: "Cyrano.ai Announces the Issuance of U.S. Patent for Predicting Action Through Natural Language Processing Technology"
 excerpt: "Cyrano.ai, a pioneer in neurolinguistic artificial intelligence, today announced it has been issued Patent number 10984034, \"Dialogue management system with hierarchical classification"
 publishedDateTime: 2021-05-06T21:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/cyrano-ai-announces-the-issuance-of-u-s-patent-for-predicting-action-through-natural-language/article_257685bc-1d49-538a-9e38-e18c3bf17479.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/cyrano-ai-announces-the-issuance-of-u-s-patent-for-predicting-action-through-natural-language/article_257685bc-1d49-538a-9e38-e18c3bf17479.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cyrano-ai-announces-the-issuance-of-u-s-patent-for-predicting-action-through-natural-language/article_257685bc-1d49-538a-9e38-e18c3bf17479.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cyrano-ai-announces-the-issuance-of-u-s-patent-for-predicting-action-through-natural-language/article_257685bc-1d49-538a-9e38-e18c3bf17479.html"
 type: article
 quality: 31
 heat: 31
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3xUCT9j6H06gFyZK++O2EVzRlkS11Q2Ck1S1Yh1lczIcDNT5qj0bGamlFS3KsXaN+hu8EOEIwGB42O5samK4aPcF/7zkWlqruMe+1OXqFAcvVC8MnBFDd4HDvbEcU6Eyif7/48HlCBGVeg+62a9nktiE71i/RoAF+0387eA2nqoWWsbrr3SojxYkpMHVhkBK4IJbA+1zgnHfSoHVJSeGZnhIODDwtsyHq+fSNfpvxEb3VPZW6lAGJDOQv5TVqnlUQrgKT8L6EVhQEl0/VAuSxnhs953jjnfUQ1J1LQi+SVo/TA94/AQ4ZnqUOQOp6U35Cw4r24nJlBfel/XSV0gRnbk/7UeMBW2gnqVTsXtU2WQ=;srMLFQlzd/TAQivzg9kyhg=="
+secured: "UO/cl/b9QMaLslw3XKTyLNmIHQkKk0fifNK5yTkeGbnN8etYrLtNil5mjRzIj2kKUP4vUAB0XmJTbgyibCbU589AIdNRMkxhW9E1UNGBmmhnXFu/mhNaIXSNzdysHKKOuEWXjLHf73XmVKgZhYk5pr8RUr88CgPQ/fRCpIP2HR5NHuscU8FCg8I9V27MG62/Ov43+sZnTkJidci8HbkKkGttSnjPIyOBY5B58BsjgX87ZVP4cbY503y+JOFMiuSuCxpyrI5TAdiVJrLwJk+XZHbyBcKq+y8O/8wv8y6cfO0GUS4JnkqUC4L6kJIdWkVpHQM1E0Gx4ATLaXd7nQL9/a0dyjdw1vB3eQILr16ucZE=;kCAeIWnZ6GADaJjgrfB30w=="
 ---
 

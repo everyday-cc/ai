@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-22-birmingham-artificial-intelligence-tech-firm-secures-10-million-in-funding.md",
+      "title": "Birmingham artificial intelligence tech firm secures $10 million in funding",
+      "excerpt": "A Birmingham startup has secured $10 million in funding for its content generation business. Copysmith announced the investment through a partnership with Harmony Ventures Labs, and funds advised by PSG Equity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/business/2021/04/birmingham-artificial-intelligence-tech-firm-secures-10-million-in-funding.html",
+      "originalUrl": "https://www.al.com/business/2021/04/birmingham-artificial-intelligence-tech-firm-secures-10-million-in-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-gpt-3-tech-startup-copysmith-secures-10-million-in-funding.md",
       "title": "GPT-3 Tech Startup Copysmith Secures $10 Million in Funding",
       "excerpt": "Copysmith, a startup that uses artificial intelligence (AI) for creative content generation, today announced a $10 million investment through a partnership with Harmony Ventures Labs (HVL) and funds advised by PSG.",
@@ -1282,49 +1316,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-charles-river-laboratories-signs-ai-pact-with-valence-discovery-to-boost-drug-discovery-work.md",
-      "title": "Charles River Laboratories signs AI pact with Valence Discovery to boost drug discovery work",
-      "excerpt": "Early-stage contract research organization Charles River Labs is delving deeper into artificial intelligence with a new pact inked ... RELATED: Charles River jumps into cell and gene therapy manufacturing with $875M Cognate buy This forms part of an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercebiotech.com/cro/charles-river-laboratories-signs-ai-pact-valence-discovery-to-boost-drug-discovery-work",
-      "originalUrl": "https://www.fiercebiotech.com/cro/charles-river-laboratories-signs-ai-pact-valence-discovery-to-boost-drug-discovery-work",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1617712776/CharlesRiver.jpg/CharlesRiver.jpg?hoBqjFfETTbtDeYGlv6reT1WxdkVxUrw",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
