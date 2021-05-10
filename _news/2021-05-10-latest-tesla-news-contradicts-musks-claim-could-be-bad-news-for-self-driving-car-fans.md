@@ -121,22 +121,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Opinion: Feds Should Reel in Tesla, Self-Driving Car Industry"
-    excerpt: "In April, an allegedly self-driving Tesla burst into flames after crashing into a tree in Texas. Two passengers died in the wreckage. Federal authorities should consider regulating the autonomous vehicle industry now."
-    publishedDateTime: 2021-05-05T21:26:00Z
-    webUrl: "https://www.govtech.com/products/opinion-feds-should-reel-in-tesla-self-driving-car-industry"
-    ampWebUrl: "https://www.govtech.com/products/opinion-feds-should-reel-in-tesla-self-driving-car-industry?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/opinion-feds-should-reel-in-tesla-self-driving-car-industry?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/b66013f/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F16%2F16%2Fb0332760cd376d7902f685657e31%2Fshutterstock-171883982.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Tesla may not achieve full self-driving technology this year: Report"
     excerpt: "The electric carmaker Tesla Inc said to a California regulator that it may not be able to achieve full self-driving technology by the end of this year. This was confirmed by a memo by the California Department of Motor Vehicles (DMV), according to a report ..."
     publishedDateTime: 2021-05-07T07:25:00Z
@@ -318,6 +302,20 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Tesla-refutes-Elon-Musks-timeline-on-‘full-self-driving-–-TechCrunch.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Tesla admits that the ‘full’ in its Full Self-Driving autopilot is a lie"
+    excerpt: "Tesla's Autopilot is still Level 2, which denotes a semi-automated driving system that still needs constant supervision by a human driver."
+    publishedDateTime: 2021-05-10T15:26:00Z
+    webUrl: "https://knowtechie.com/tesla-admits-that-the-full-in-its-full-self-driving-autopilot-is-a-lie/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 38
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/04/consumer-reports-tesla-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Elon Musk's own executives admit to the California DMV that he is exaggerating about Tesla's capability to achieve full self-driving technology by the end of 2021"
     excerpt: "In a memo with the California DMV, Tesla's executives privately admitted that Elon Musk is exaggerating about all of the company's cars to have full self-driving technology"

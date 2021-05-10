@@ -25,20 +25,20 @@ images:
 
 related:
   - title: "Self-driving truck startup Plus to go public through $3.3 billion SPAC deal"
-    excerpt: "Reuters  Plus said on Monday it would go public through a merger with blank-check company Hennessy Capital Investment Corp. V in a deal that values the self-driving truck technology startup at $3.3 billion."
-    publishedDateTime: 2021-05-10T10:46:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/self-driving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/articleshow/82520521.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/self-driving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/amp_articleshow/82520521.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/self-driving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/amp_articleshow/82520521.cms"
+    excerpt: "Plus raised $200 million in a funding round, co-led by brokerage Guotai Junan International and private equity firm CPE."
+    publishedDateTime: 2021-05-10T14:02:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal-41620648675322.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/amp-41620648675322.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/amp-41620648675322.html"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Hindustan Times
+      domain: hindustantimes.com
     quality: 42
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-23624,msid-82520590/file-photo-a-truck-is-loaded-with-soybeans-at-a-farm-in-porto-nacional.jpg"
+      - url: "https://images.hindustantimes.com/auto/img/2021/05/10/600x338/Plus_truck_1620648920898_1620648928108.jpg"
         width: 600
-        height: 450
+        height: 337
         isCached: true
   - title: "Self-driving truck startup Plus to go public through $3.3 bln SPAC deal"
     excerpt: "Plus said on Monday it would go public through a merger with blank-check company Hennessy Capital Investment Corp. V HCIC.O in a deal that values the self-driving truck technology startup at $3.3 billion."
@@ -63,16 +63,7 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Self-driving truck startup forms safety partnership with insurance firm"
-    excerpt: "In a sign that autonomous trucking is moving closer to reality, TuSimple and Liberty Mutual Insurance have formed a partnership to assess comparative safety of self-driving trucks. Trucking is notoriously a dangerous occupation."
-    publishedDateTime: 2021-05-06T12:48:00Z
-    webUrl: "https://insights.globalspec.com/article/16516/self-driving-truck-startup-forms-safety-partnership-with-insurance-firm"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
-secured: "BSoElbjNKODQFwStHJYsMf1Tz/jWRewYOgj0DXA1/srX4UFfOjAf9trHbRTxUx+dL+TuL0DeVu5XmLMLalrbow++F8Lj4KG9qHWqn4k9mopLLlt+GaQh4nrsh+7x2E4IEvOsGC0vrnI9fEekLU7eGEDi2/PWHQbZ1E86z4tbVX7luoDualVs7b3ZcgDxbU1BWnBC2tlPGZn7FusqBnKfRnYgo7iyb7xfTSWAmD4+VC4L/WpB6bvW5ROycN4Yj6qWEOpQtXVFK5zi8mC404O4vgc2NoriCUWnbJKjNFe+T+57c9o3NidMlbXEmXQREQcvk3eZo4hSevyMvsmiC78hyE9Q6wZiOa0IglIMSAWAZiI=;lMkpJLbwSzkwIrc6xliq2w=="
+secured: "Evbc+I0j+zF+0s+rqQqvw7JyIlzloGbM1yaCf5Uip++xgwNguF+vkwFDFtElR6AtlnWh8ZpenoC46wj1ZebbU2hxNh6TQSkCVNQhVu+X7NLWeKoZp0ez1sSc7xJo8XmRIzivm9/omKd+dhZk413iy0EZVANKe8R0KpTJ4zCy0Szv1Zv/iewdDrP6TT9VPP9b0rKxCtKcbQwXQLrLx4AvIJP/cOgr/3t7GNR23ucgvgfJGq+mcLyFEfuPXGo/PUHlAdMtz5GLlYlYS5frcLw3UCrzFQjqksRanmBeKVJ6fOXInlrg2HeQkAWoz0Xlm1IxYE0l2gMpzMKyRarOa90fBRnIteHEdRetjRfCGxeipGqda0lL9EzNjKFH6L5ol1Fq+XvHwvdlcU4HOgxSRCHqutFRhvf4mZmKujfvYwnY2S7EflN1ZJimAErXvDEMSEgZDNtXMB8J6uTbrFfSYsAlhVHCQd7TlmwwD9ZAxSB7g/p1iP+NxgbYlvTy3hzw8fFUlF6Lvx3zK6Pm8UJ+wbgLdQ==;qRLDQR66hJfnEpMM6wYVEg=="
 ---
 

@@ -25,52 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Ford-backed Argo sees new sensor as key for self-driving cars"
-    excerpt: "The new technology will be used for the self-driving system that will debut on Ford’s ride-hailing and delivery vehicles next year and on VW models in the middle of the decade."
-    publishedDateTime: 2021-05-09T10:23:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars-41620550983829.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars/amp-41620550983829.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars/amp-41620550983829.html"
+  - title: "Sleeker Pony.ai self-driving SUV hints at more road-ready autonomous cars"
+    excerpt: "Autonomous car headgear keeps getting smaller, with Pony.ai revealing its latest self-driving car design and its much sleeker, Luminar-powered scanning hub. Far from the “upturned"
+    publishedDateTime: 2021-05-10T14:18:00Z
+    webUrl: "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/"
+    ampWebUrl: "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
+      name: SlashGear
+      domain: slashgear.com
+    quality: 88
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/05/09/600x338/2020-04-28T015539Z_1_LYNXNPEG3R03L_RTROPTP_3_AUTOSHOW-FRANKFURT_1588074593229_1620551501846.JPG"
-        width: 600
-        height: 338
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/05/Ponyai_Luminar_01-1.jpg"
+        width: 1500
+        height: 847
         isCached: true
-  - title: "Tall Tales By Your Grandparents About Walking Five Miles To School Will Instead Be About Using Self-Driving Cars For Your Kid’s Generation"
-    excerpt: "Walking five miles to school in the snow and uphill will become a new tale about being driven to school by self-driving cars."
-    publishedDateTime: 2021-05-08T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/amp/"
+  - title: "A Survey on Hybrid Human-Artificial Intelligence for Autonomous Driving"
+    excerpt: "With the continuous development of Artificial Intelligence (AI), autonomous driving has become a popular research area. AI enables the autonomous driving system to make a judgment, which makes studies on autonomous driving reaches a period of booming development."
+    publishedDateTime: 2021-05-06T02:32:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9423526"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608cd9913ed92beb8a48a802%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2143%26cropY1%3D13%26cropY2%3D1219"
-        width: 1199
-        height: 675
-        isCached: true
-  - title: "Texas A&M team seeks sponsors for self-driving auto race"
-    excerpt: "A team of students and employees from Texas A&M University is looking for sponsors to help it compete in a race with self-driving cars at the Indianapolis Motor Speedway."
-    publishedDateTime: 2021-05-10T05:00:00Z
-    webUrl: "https://theeagle.com/news/local/texas-a-m-team-seeks-sponsors-for-self-driving-auto-race/article_7668bb3e-b129-11eb-a481-27cad4fa5413.html"
-    type: article
-    provider:
-      name: The Eagle
-      domain: theeagle.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/7/66/7668bb3e-b129-11eb-a481-27cad4fa5413/6098833132f5a.preview.jpg?crop=648%2C365%2C0%2C141&resize=648%2C365&order=crop%2Cresize"
-        width: 648
-        height: 365
-        isCached: true
+      name: IEEE
+      domain: ieee.org
+    quality: 17
 
 secured: "wZNOP/K4k1eGIknxUj5qSDaX6sO13fSRLqtJ7pCOop8K+8khr7ZBRDjG15CgQq9Hhv0jwY7ETr0RMc9U8xlhkSqQZ7pUs4sGOc6DCiWQNBY7RvwaQ3Yxrq9OI+uyQA10wK75xyFeTEbfhL5bPNdGL0c3UHMYEYTa8uLqN8QVuZYHnsTH3k7I0IySwEbUSuCUPrAPiqvhwmY6JSa8mhTCUYx2VY/yNdsYbsjtUf2ArQ3OKWH1Q1MVI+a3RdJ/7KHcp3aAP59eLM75OdlVDQNEiFZpnSdJ7ouMwGivh6ZVMi0i8Qv97iFeCv9iDvpgsi64uSv9BtGdgkGuli747kgMiVjXUVRAiielb2er5rXFvPg=;SNDoUNJWTBvxCvsMajg7KQ=="
 ---

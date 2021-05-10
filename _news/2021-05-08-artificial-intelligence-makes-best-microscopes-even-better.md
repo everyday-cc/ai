@@ -72,6 +72,15 @@ related:
         width: 777
         height: 466
         isCached: true
+  - title: "Artificial intelligence makes great microscopes better than ever"
+    excerpt: "Collaboration between deep learning experts and microscopy experts leads to an significantly improved data-intensive light-field microscopy method by using AI and ground-truthing it with light-sheet microscopy."
+    publishedDateTime: 2021-05-08T21:54:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210508082949.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Artificial intelligence makes best microscopes better than ever"
     excerpt: "During a recent study EMBL scientists combined artificial intelligence (AI) algorithms with two cutting-edge microscopy techniques, an advancement that shortens the time for image processing from days to mere seconds while ensuring that the resulting images are crisp and accurate."
     publishedDateTime: 2021-05-08T15:14:00Z

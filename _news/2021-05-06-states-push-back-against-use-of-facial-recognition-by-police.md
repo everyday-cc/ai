@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/States-push-back-against-use-of-facia
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php"
 type: article
 quality: 74
-heat: 144
+heat: 124
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 640
         height: 422
         isCached: true
-  - title: "States push back against facial recognition"
-    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
-    publishedDateTime: 2021-05-05T22:31:00Z
-    webUrl: "https://www.goskagit.com/townnews/politics/states-push-back-against-facial-recognition/article_94ac551c-7088-5cbd-baf1-84a418fe2e87.html/"
-    type: article
-    provider:
-      name: Skagit Valley Herald
-      domain: goskagit.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/7/10/710fa621-1921-553e-884c-d6a95b7ff98f/60932b6a52c86.image.jpg?resize=1050%2C630"
-        width: 1050
-        height: 630
-        isCached: true
   - title: "King County Council delays vote on facial recognition ban"
     excerpt: "The Metropolitan King County Council delayed a vote on a groundbreaking facial recognition ban, citing a need to do additional outreach and research on the policy's effects."
     publishedDateTime: 2021-05-06T01:14:00Z
@@ -68,20 +54,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "States limiting police use of facial recognition tech"
-    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
-    publishedDateTime: 2021-05-05T22:33:00Z
-    webUrl: "https://www.lockportjournal.com/news/states-limiting-police-use-of-facial-recognition-tech/article_95f9516f-bbd7-54b9-9f42-2881fd9cea8f.html"
-    type: article
-    provider:
-      name: Lockport Union-Sun & Journal
-      domain: lockportjournal.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/assets/v3/editorial/8/00/8007df1c-1184-5d00-802c-44b6f4ef71e5/60931ff7b4896.image.jpg?resize=800%2C533"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Massachusetts OKs Curbs on Police Use of Facial Recognition"
     excerpt: "As part of its new police reform law, Massachusetts lawmakers have passed one of the first state-wide restrictions on law enforcement use of facial recognition technologies. Under the law, police must have a court order before they can compare images to the database of photos and names."
     publishedDateTime: 2021-05-07T14:19:00Z

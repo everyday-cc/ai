@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-genworth-built-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue/"
 type: article
 quality: 113
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/31/1-2434-Architecture.jpg"
         width: 800
         height: 580
-        isCached: true
-  - title: "Automate multi-modality, parallel data labeling workflows with Amazon SageMaker Ground Truth and AWS Step Functions"
-    excerpt: "This is the first in a two-part series on the Amazon SageMaker Ground Truth hierarchical labeling workflow and dashboards. In Part 1, we look at creating multi-step labeling workflows for hierarchical label taxonomies using AWS Step Functions. In Part 2 (coming soon), we look at how to build dashboards"
-    publishedDateTime: 2021-05-05T21:53:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-multi-modality-parallel-data-labeling-workflows-with-amazon-sagemaker-ground-truth-and-aws-step-functions/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/04/10-2563.jpg"
-        width: 800
-        height: 369
         isCached: true
 
 secured: "iSNuEK9pIQ0EatC+Q7VPpb88WBduGXBWXA9Fx0AIqEfw6a6W59vyRLT8zGkojGQDVcaQ9OjQVdKkY6538nBnN9RLAmr5jIjFvvPO7N8zlYxftwxIbx1Ndcz0FnCFpBSuQWW2/fUR/ARMHQYF/ux+n92hCeb4+6M2Whi6kJ/n9zk5u2Y/hCMkl4J1Jgp4If+gwokLRBQy9hALVJDOJylTkjiyA6q6NRlhVtA+vfXtmB3cnO0JfvzLwNyXKoVJy7MEsVJUdXuy8j2o1IlkYyFuI8qLJfFSrTuzv+B67IKqdzWkiu/FUIUAEjRFC3k/DotY4NBcifRZRLfQZ9ydnrmD02eIhLW+IC6OMfqv7uBzcxY=;aE9rh+XyT/seW71rsRdlMQ=="

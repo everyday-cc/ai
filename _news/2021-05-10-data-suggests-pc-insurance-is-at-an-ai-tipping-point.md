@@ -9,7 +9,7 @@ ampWebUrl: "https://www.propertycasualty360.com/2021/05/10/data-suggests-an-ai-t
 cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/05/10/data-suggests-an-ai-tipping-point-for-the-pc-insurance-economy/?amp=1"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Three ways the insurance industry can adopt AI responsibly"
+    excerpt: "Insurance companies that are able to rapidly adopt this technology in a responsible way will have the upper hand."
+    publishedDateTime: 2021-05-10T15:51:00Z
+    webUrl: "https://www.propertycasualty360.com/2021/05/10/three-ways-the-insurance-industry-can-adopt-ai-responsibly/"
+    ampWebUrl: "https://www.propertycasualty360.com/2021/05/10/three-ways-the-insurance-industry-can-adopt-ai-responsibly/?amp=1"
+    cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/05/10/three-ways-the-insurance-industry-can-adopt-ai-responsibly/?amp=1"
+    type: article
+    provider:
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
+    quality: 57
+    images:
+      - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2021/05/Artificial-intelligence.jpg-image620x372.jpg"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "5NdJM/SKhmL+YA3cpPxaippXKJNinXw6XG6LUJ7jPqx8y0gbfGnt1CXy0xQyBV4i1Jv94hRwTNykTzKF48otml3sQs5ZRqUUoNkgzIfqMGFphBm4dfjPgRZw0MiN9mLvUd60Q9rzjnoz9I/fykCjiRhtmcQacGKa6JDwSwNpOlhILdtM+KcP6yZCAr1pkEW1Tf+5EcqqY7dL/Ts3dIiTxscbdgaSTvgbLVg7FEYevvimK+otUFe9lD1miZ8o3lcEIQ/d1apZd9fJOtK7IkHufr4GrOqQlgb6ZMeEOsDv/aLLAqXIFdv5MzJptTaiUZvYputLBmhKU/UbFlLXoDC6QXewQV3jhwk8ADSL26bWFYImaS85g/MSQbOJKMU9md6kvRfUoJxmsPxAQ3xWvSex8K/0SoPSRWX1aJhRhyE4PSCDj90U9o//e8lpNzMek7GZX2F+EkFvfv2qD6mgvamEFKGls0HS3TckUjSFnOTWKdcwlRk7dKB9LOm3N5cB3C90BdlCdD1XZwuD80luYdpuxQ==;FezgkSKx4bbdJJZGD0wdZA=="
 ---

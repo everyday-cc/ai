@@ -9,8 +9,8 @@ ampWebUrl: "https://appleinsider.com/articles/21/05/06/music-production-app-djay
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/05/06/music-production-app-djay-pro-ai-gets-major-update-to-ai-powered-mixing-tools/amp/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: AppleInsider
@@ -27,34 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "How Ally uses AI to approve auto loans"
-    excerpt: "The digital-only bank has adopted machine learning to process loans faster, more accurately and with better fraud detection than in the past."
-    publishedDateTime: 2021-05-05T22:12:00Z
-    webUrl: "https://www.americanbanker.com/news/how-ally-uses-ai-to-approve-auto-loans"
+  - title: "Expert.ai adds emotion and style detection tools to natural language API"
+    excerpt: "Expert.ai added new tools to its natural language API to help AI developers detect emotions, behaviors, and styles in large-scale texts."
+    publishedDateTime: 2021-05-10T15:20:00Z
+    webUrl: "https://venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/"
+    ampWebUrl: "https://venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/amp/"
     type: article
     provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/c978157/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb0%2F8c%2F91418d8643adbff96a74a4f99b09%2Fab-050521-ally-2.jpeg"
-        width: 1200
-        height: 630
+      - url: "https://venturebeat.com/wp-content/uploads/2015/07/natural-language-processing.jpg?w=1200&strip=all"
+        width: 925
+        height: 611
         isCached: true
-  - title: "Dating app taps AI to block scammers"
-    excerpt: "I had been using dating apps like Tinder and Bumble,” he told Information Age, “but they had a lot of shortcomings, especially when it came to scammers and fake profiles on the platforms – and I experienced being catfished myself a few times."
-    publishedDateTime: 2021-05-10T06:13:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/dating-app-taps-ai-to-block-scammers.html"
+  - title: "Expert.ai Adds a New Layer of Human-like Understanding Capabilities to Its Natural Language API"
+    excerpt: "Expert.ai today announced advanced features enhancing analysis capabilities through its cloud-based natural language (NL) API. The new extension addresses one of the biggest challenges artificial intelligence developers face in the NL ecosystem – extracting emotions in large-scale texts and identifying stylometric data driving a complete fingerprint of content."
+    publishedDateTime: 2021-05-06T14:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/expert-ai-adds-a-new-layer-of-human-like-understanding-capabilities-to-its-natural-language-api-1030397108"
     type: article
     provider:
-      name: acs.org.au
-      domain: acs.org.au
+      name: Business Insider
+      domain: businessinsider.com
     quality: 37
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/online%20dating%20soulmate.jpg"
-        width: 821
-        height: 462
-        isCached: true
 
 secured: "w3Us4Lt7iEUy0a8vWUdus/NyZE1bS+XGNTbo+xS/An8OgTwpg38Fgxh6zeNZXLiuEReXDWzourBu1EblRXqBcgKRxCPG/rr/YXqv8Ds8cjtuuCNlIshl0tAwsZ69hQgiGeyDZjUJHQ9yA6ahvXo+CfomnH7x2iqdQEGpLWjTDX1dHlviU33oMLQphwARlQy5S/v487MtKI6znYFkhaXJk9e00rcevAu1lP3TIPumPIPg4dPVsnIFEyrKKGRoQwQgze7AaRdqVqnA3SbzOK1eO5imfRmMFeWCXLlEvb6FRLePyOmvWwRyWPC8MVLpErlMdGc2QVwRqXGdmG6liC2l9YSVDRkcyDEqhBPlbqGUvjlxjuwMiVc9WaR2BXSDX4jUE3/v1+MtDBb45qD0eYWQhiZCvkTbzAx/4FX3QhdaEuwvBYW1oZXvuSDTCQI/I7bSpUMiA6akX8ybJWQZglSTLZVv3Q7OIkbRulRa1BflB1smnOiCMCCf3Dul0caJH/rPPCSIyMP5EsaaXXfRiZ7KbA==;u5Cgunm1pCNUTqP3U5ZaPw=="
 ---

@@ -62,15 +62,6 @@ related:
         width: 458
         height: 685
         isCached: true
-  - title: "Investigation into an artificial neural network based on-line current controller for an HVDC transmission link"
-    excerpt: "An artificial neural network (ANN) based current controller for a HVDC transmission link is described in this paper. Different ANN architectures and activation functions (AFs) are investigated for this ANN controller."
-    publishedDateTime: 2021-05-05T22:13:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/627837/"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
 
 secured: "p9uCbADx9dx7XeC8XGcqp2uO2Nex7VWoinw1ZxMuD3PaVFwuiLoLvHXwHaJ7t5oe8s9ZL2vpz5q3WC6RKke1vixMDjsN2UXpH/W8iFMmX1i+BTUJ2NuafT3hrYNpczLB9i1Q8frjza8lR6+AxE9huPQAFX5ASVAhlcydViJZ4QA4Sl4j+V7S9pi6y3+c/0upvcklxHimv/ypJKWmOPHvzkt1eRIqMEGY7qRmp15unQsA3EkWwI/5/j9hXGfe8ZVF0oeY02fPfZECxNOdTmnlnAnmoCKzlJZUD+Pbk6SolsKm8CMaGsfw1KkSKCsPhlKFKnRb971LPWihBHjH8hQ2XreBCJ2l8eDdX7mwAWlmq5o=;u0ZmC2EF6Ip6sGkOXCu53A=="
 ---

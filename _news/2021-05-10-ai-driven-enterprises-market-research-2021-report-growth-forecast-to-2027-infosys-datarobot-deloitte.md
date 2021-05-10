@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence in Healthcare Markets to 2027: Robot Assisted Surgery Segment to Register the Highest Growth Rate - ResearchAndMarkets."
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component, Application, End User, and Geography\" report has been added to ResearchAndMarkets.com's offering. Robot Assisted ..."
+    publishedDateTime: 2021-05-10T14:11:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=466375"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 31
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Global Artificial Intelligence Market Gains Momentum DURING FORECAST PERIOD of 2021 to 2027 – MRS"
     excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence Market Analysis and Forecast 2020-2026. Latest updated report published by Ma"
     publishedDateTime: 2021-05-09T22:12:00Z

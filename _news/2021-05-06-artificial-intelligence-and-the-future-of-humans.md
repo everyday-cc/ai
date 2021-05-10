@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artifici
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/06/artificial-intelligence-and-the-future-of-humans/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota AI Ventures and May Mobility will talk the future of the transportation industry on Extra Crunch Live"
-    excerpt: "Besides a passion for progress in the mobility space, what do Toyota AI Ventures’ Jim Adler, May Mobility’s Nina Grooms Lee and Edwin Olson have in common? All three of them are joining us on an upcoming episode of Extra Crunch Live."
-    publishedDateTime: 2021-05-05T22:10:00Z
-    webUrl: "https://techcrunch.com/2021/05/05/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/"
-    ampWebUrl: "https://techcrunch.com/2021/05/05/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/toyota-ai-ventures-and-may-mobility-will-talk-the-future-of-the-transportation-industry-on-extra-crunch-live/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 68
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/04/ECL-2021-05-12-1-1.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Toyota AI Ventures and May Mobility will talk the future of the transportation industry on Extra Crunch Live"
     excerpt: "Besides a passion for progress in the mobility space, what do Toyota AI Ventures’ Jim Adler, May Mobility’s Nina Grooms Lee and May’s Edwin Olson have in common? All three of them are joining us on an upcoming episode of Extra Crunch Live."
     publishedDateTime: 2021-05-07T17:10:00Z

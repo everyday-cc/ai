@@ -44,20 +44,6 @@ related:
         width: 800
         height: 267
         isCached: true
-  - title: "Automate multi-modality, parallel data labeling workflows with Amazon SageMaker Ground Truth and AWS Step Functions"
-    excerpt: "This is the first in a two-part series on the Amazon SageMaker Ground Truth hierarchical labeling workflow and dashboards. In Part 1, we look at creating multi-step labeling workflows for hierarchical label taxonomies using AWS Step Functions. In Part 2 (coming soon), we look at how to build dashboards"
-    publishedDateTime: 2021-05-05T21:53:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-multi-modality-parallel-data-labeling-workflows-with-amazon-sagemaker-ground-truth-and-aws-step-functions/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/04/10-2563.jpg"
-        width: 800
-        height: 369
-        isCached: true
 
 secured: "tqyS+6nkczcqEyE1oJ74+zCXi2Fr6LdEgZ/biKdLDh/138nDMGPrIITzStDUC+NupNhv2FowEkvNQJaWA9eL0xQDKRKXMkk2oldduyytkVSPw00PWTv2ZgINC82tNbWoYMFyla4xKC9J7QzZe/dW4/VZtvJdy0oCUbKFGZw0L6jmxwIUL24A0gaPx+IaKwh33ApQ1RwP7T+E8sCntGrTpF9kg/mZAk+9OF6LjBQWTp5E3I2gA4ag9b8Q3EPjNfFMs4WIP+zGQJfvGm4yEaRvLtXdAPM0XIoW0mG72Tmp8hbMxDJ2N5MpQH500TmqaxAOS6tJzpXG105ucxdeHWx5CyAy1pNLbbdpRizMUbxKm5E=;hLR1utsLJW9JWDX6tQgobA=="
 ---
