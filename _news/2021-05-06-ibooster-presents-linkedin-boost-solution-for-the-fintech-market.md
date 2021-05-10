@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ibooster-presents-linked
 webUrl: "https://www.marketwatch.com/press-release/ibooster-presents-linkedin-boost-solution-for-the-fintech-market-2021-05-06"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Top Banking and Fintech Trends for 2021"
-    excerpt: "As opportunities open up in the fintech industry, some trends are continuing into 2021. Here are to banking and fintech trends for 2021 that may drive the financial services industry forward."
-    publishedDateTime: 2021-05-08T17:25:00Z
-    webUrl: "https://www.analyticsinsight.net/top-banking-and-fintech-trends-for-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Banking-and-Fintech.jpeg"
-        width: 1600
-        height: 1066
-        isCached: true
 
 secured: "uFYXijB2zdVwBBYiWnp4ZqYti2/0OGvyLV9xneiBcOu5RM75m7KBHOyQle4+D1225WpiYEfV2r4rz6okmOxooyo+GWnqWRZAErUc9ktyjn3jajz3tIyRZgiKgpNmXhOS00Q4gck5IUGMWgNcTE+xyX48REqQ83keALGYDPh+jK42cqO+yyaRhKdw4d6elQFqKXERlvrDKGXm/5hK1q+hDCFJa3IyBsPqP+mF5OxfyEBaN5lo4llUgjvQ8gbHCpGfGlxYaVqHMJW022MuQNmCJU5eHoSbTUs0d346Mu108QlG+lYabVFjboyvetNt8mT1acZjWGRv8B3Zw1n3kY+37XuwlZrlRhZPAb/s32QOdUk=;2g45wmM4GWbO4eWpe7Yh8g=="
 ---

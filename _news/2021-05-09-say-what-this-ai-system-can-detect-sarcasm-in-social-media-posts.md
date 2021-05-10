@@ -9,7 +9,7 @@ ampWebUrl: "https://www.india.com/technology/say-what-this-ai-system-can-detect-
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/say-what-this-ai-system-can-detect-sarcasm-in-social-media-posts-4650118/amp/"
 type: article
 quality: 57
-heat: 99
+heat: 100
 published: true
 
 provider:

@@ -42,6 +42,20 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Top 5 FinTech funding rounds – April 2021 (UK & Europe)"
+    excerpt: "Check out these five noteworthy European FinTech funding deals that took place in April 2021 – auxmoney, a European digital lending platform for consumer credit, has secured €250 million in investment from Citigroup and Chenavari Investment Managers."
+    publishedDateTime: 2021-05-10T07:37:00Z
+    webUrl: "https://ibsintelligence.com/top-5-fintech-funding-rounds-april-2021-uk-europe/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2016/04/this-week-s-top-funding-and-investment-stories-7611530725.jpg"
+        width: 950
+        height: 534
+        isCached: true
 
 secured: "uu4J0bSeeKXuP67DK82VOGyt1d/fepwdpdCjfmVHrplm9r8DAd7yYy8ypx8jSkac2tGTIOIhNlpSXfCmfeJ0eJ9sqKHyj+gRQ85ljMoio6X7FpuCgbCN5+tdZiNbQd7MmcQIiiaVL78a+yLZOkHgcPJijmgiK9raUqxki7eum6WUSiH6o58FXkTQpceGI0MqPaG1nZKi43XNZUVqflF7NJJPZP2+Km5dS4qAtnJifB4Bc4+CAj8pVxZjikNpikQnPov9kdE74KCAaeM0hdK/PjR6rFv0+7mHr0AxwNdGSc+WwFyrLoaT11rmmZpVRywo8Zdwg+47UUVrjLoTQbAd2kHy6O89mYa1U3TZQJgsBTc=;ExNcyCVnf+agd7WugoXd/w=="
 ---

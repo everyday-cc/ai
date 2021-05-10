@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/researchers-say-this-combo-of-old-scho
 webUrl: "https://thenextweb.com/news/researchers-say-this-combo-of-old-school-invisible-ink-and-ai-is-uncrackable"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: The Next Web
@@ -26,24 +26,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "An uncrackable combination of invisible ink and artificial intelligence"
-    excerpt: "Coded messages in invisible ink sound like something only found in espionage books, but in real life, they can have important security purposes. Yet, they can be cracked if their encryption is predictable."
-    publishedDateTime: 2021-05-05T16:29:00Z
-    webUrl: "https://phys.org/news/2021-05-uncrackable-combination-invisible-ink-artificial.html"
-    ampWebUrl: "https://phys.org/news/2021-05-uncrackable-combination-invisible-ink-artificial.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-uncrackable-combination-invisible-ink-artificial.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/an-uncrackable-combina.jpg"
-        width: 417
-        height: 234
-        isCached: true
 
 secured: "lfaY+i1ilkhOP+OlBonSxgDKRVqqPzwzN1LQXgzppmmhGbAn+5W0qSk5ubK1vGoKzbncwUuVGkJeOgKcZf5tWbtliHjNTIv1vtvN8myTZoG/vpUtW8D19gKhllgwqPh7UwlpvUsp3ca3NDCdVQ5nUpuZczNsJ4J43Dl++d4zYlyoo3ptyO6GJ3aTaUg3n2BTbd3BxiXWmRJBmjR14odFgcFLFZjz2xi7GILf/OgRdIX4wUZmwD6gDwqrXGIAwL0YyFw++KKDvyQdbuHO2B8VEbVUYUGTVz3CAM4TNqyaHEG7kyR3xpA2//Gwg2sf766VmV4Pr8pTtm+OPVF6ZCcOYvnEwyQW8RzR02YMinYt44Mr2PvdEqlEjkEgoPUyUMcCOificgccVBWdMhVlAXU2ah3UyZ62cwLd9W4ADYBRqWJewWcCiESwYFTtP191Vbw0zy45ZM+9Ri7N4KMGub9pophq089BfQUwWYkFb/tlcWLfRGtEx5tOo12d0i+mrJ3grD/34Zaqa0X+p8r53ngP3A==;LKtuBy2ynJccsKVzxUDCaQ=="
 ---

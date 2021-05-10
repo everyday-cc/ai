@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Uber shows smallest quarterly loss in history thanks to sale of self-driving unit, delivery continues to dominate"
-    excerpt: "Uber lost $108 million in the first quarter after losing nearly $3 billion in the same quarter a year ago, with the $1.6 billion sale of its self-driving unit accounting for much of the progress as ride-hailing looks to rebound,"
-    publishedDateTime: 2021-05-05T15:40:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210505793/uber-shows-smallest-quarterly-loss-in-history-thanks-to-sale-of-self-driving-unit-delivery-continues-to-dominate"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "5L2ak39bXq8PrSudTAe02FDz62h9i0BjwZjGsKGIY2UR4BJilBznRMl/NOOGIrojJYzYda/kWzEVKeE4s0R5LG/YAlFcJ1gyE7TPj3TUhdREiNiv/vsAFge9SYj0EBamZWFzvGpPyOPS85oRVK9LmG47zQNReaEKVfPvnkkTVbjOXfjHsZbhCvyArjEh0WbMXUBoapYophQc2Yt+hvWY/4sPWxIvwjnWRBrmsnzCI7c2HXd/78CFvDSlppg8EVjLYVQd9U+A4GBO6vxJCpgltjcdUfBXmVI+V2LXA2qoPjrw8KZXM50lNiwJj8Aj8ziUnJSEaovKHVw2JfagTebPdwRB5LUSSQ7W9pxmPRXvo1E=;gLXhgPkIs1U06cuFAc9UGg=="
 ---

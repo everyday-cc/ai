@@ -10,7 +10,7 @@
       "originalUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -362,58 +362,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-06-uber-shows-smallest-quarterly-loss-in-its-history-thanks-to-sale-of-self-driving-unit-delivery-continues-to-dominate.md",
-      "title": "Uber shows smallest quarterly loss in its history thanks to sale of self-driving unit; delivery continues to dominate",
-      "excerpt": "Uber Technologies Inc.'s business continued to recover in the first quarter as COVID-19 restrictions eased, and the sale of its self-driving unit",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/uber-shows-smallest-quarterly-loss-in-history-thanks-to-sale-of-self-driving-unit-delivery-continues-to-dominate-11620247247",
-      "originalUrl": "https://www.marketwatch.com/story/uber-shows-smallest-quarterly-loss-in-history-thanks-to-sale-of-self-driving-unit-delivery-continues-to-dominate-11620247247",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-334181/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/uber-shows-smallest-quarterly-loss-in-history-thanks-to-sale-of-self-driving-unit-delivery-continues-to-dominate-11620247247",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/uber-shows-smallest-quarterly-loss-in-history-thanks-to-sale-of-self-driving-unit-delivery-continues-to-dominate-11620247247",
-      "publishedDateTime": "2021-05-05T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-06-gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030.md",
       "title": "GM CEO Mary Barra wants to sell personal autonomous vehicles using Cruise’s self-driving tech by 2030",
       "excerpt": "GM CEO Mary Barra sees the automaker selling personal autonomous vehicles by the end of the decade by leveraging technology from its self-driving subsidiary Cruise, according to comments made during the company’s Wednesday earnings call.",
@@ -468,10 +416,10 @@
     {
       "path": "_news/2021-05-05-2-top-self-driving-car-stocks-to-buy-in-2021.md",
       "title": "2 Top Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data.",
+      "excerpt": "Image source: Tesla In February 2020, Tesla Director of Artificial Intelligence Andrej Karpathy ... By comparison, Alphabet's Waymo stated it had over 20 million miles of data in March 2020 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05",
-      "originalUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05",
+      "webUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251",
+      "originalUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -481,7 +429,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T04:00:00-07:00",
+      "publishedDateTime": "2021-05-05T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -591,6 +539,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-beijing-residents-can-take-driverless-taxis-for-just-330-per-ride.md",
+      "title": "Beijing residents can take driverless taxis – for just £3.30 per ride",
+      "excerpt": "Chinese tech giant Baidu has rolled out a driverless taxi service in Beijing ... Kelly Wang and her husband, who work in the artificial intelligence industry, said they had a smooth riding ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2021/05/03/bejings-residents-can-take-driverless-taxis-for-just-3-30-per-ride-14510171/",
+      "originalUrl": "https://metro.co.uk/2021/05/03/bejings-residents-can-take-driverless-taxis-for-just-3-30-per-ride-14510171/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2021/05/SEI_77312899.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2021/05/03/bejings-residents-can-take-driverless-taxis-for-just-3-30-per-ride-14510171/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/05/03/bejings-residents-can-take-driverless-taxis-for-just-3-30-per-ride-14510171/amp/",
+      "publishedDateTime": "2021-05-03T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

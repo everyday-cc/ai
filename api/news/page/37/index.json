@@ -2,6 +2,49 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-04-02-kintent-raises-4m-seed-round-to-simplify-cybersecurity-compliance-with-ai.md",
+      "title": "Kintent raises $4M seed round to simplify cybersecurity compliance with AI",
+      "excerpt": "They included Microsoft Azure Executive Vice President Jason Zander ... we immediately recognized the value of having an AI-enabled platform to unblock sales with a high-quality compliance ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/04/01/kintent-raises-4m-seed-round-simplify-cybersecurity-compliance-ai/",
+      "originalUrl": "https://siliconangle.com/2021/04/01/kintent-raises-4m-seed-round-simplify-cybersecurity-compliance-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/trustcloud.png",
+          "width": 867,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-april-fools-day-president-fuchs-announces-artificial-intelligence-will-replace-faculty-across-campus.md",
       "title": "April Fools' Day: President Fuchs announces artificial intelligence will replace faculty across campus",
       "excerpt": "“One of the core themes for this academic hub and artificial intelligence revolves around the concept of trustworthy AI,” Tighe said. AI will not replace certain human medical functions like physical therapy, nursing care and pharmacy care anytime ...",
@@ -1050,49 +1093,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-using-artificial-intelligence-to-discover-new-drug-treatments-science-next.md",
-      "title": "Using Artificial Intelligence To Discover New Drug Treatments: Science Next",
-      "excerpt": "In the fields of medicine and pharmacology, drugs have historically been discovered either by identifying active ingredients from traditional remedies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next",
-      "originalUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/6e23bb3/2147483647/strip/true/crop/1109x683+46+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwrkf%2Ffiles%2F202103%2FAI_AVPs.jpg",
-          "width": 880,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next?_amp=true",
-      "cdnAmpWebUrl": "https://www-wrkf-org.cdn.ampproject.org/c/s/www.wrkf.org/programs/2021-03-31/using-artificial-intelligence-to-discover-new-drug-treatments-science-next?_amp=true",
-      "publishedDateTime": "2021-03-31T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRKF",
-        "domain": "wrkf.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

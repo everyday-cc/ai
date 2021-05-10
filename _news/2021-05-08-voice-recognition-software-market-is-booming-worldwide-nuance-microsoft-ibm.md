@@ -26,73 +26,57 @@ images:
     isCached: true
 
 related:
-  - title: "A Quick Introduction to Microsoft Azure Purview"
-    excerpt: "One of the newest solutions aiming to ease these orchestration woes is Microsoft Azure Purview, a cloud platform-as-a-service (PaaS) that provides a unified view of data sources across an organization."
-    publishedDateTime: 2021-05-05T16:45:00Z
-    webUrl: "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/"
-    ampWebUrl: "https://www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/a-quick-introduction-to-microsoft-azure-purview/amp/"
+  - title: "Artificial Intelligence And Machine Learning Market to See Huge Growth | Microsoft Corporation, SAP SE, BaiduInc., IBM Corporation, BigMLInc."
+    excerpt: "Artificial Intelligence And Machine Learning Market is growing at a 42.26% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
+    publishedDateTime: 2021-05-09T19:26:00Z
+    webUrl: "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 74
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 72
     images:
-      - url: "https://www.cmswire.com/-/media/80ae800a4aae4fed8d9beae1edf83e7b.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-126-780x470.png"
+        width: 780
+        height: 470
         isCached: true
-  - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
-    excerpt: "Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft"
-    publishedDateTime: 2021-05-06T12:08:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
+  - title: "AI In Retail And E-Commerce Market Research Methods that Will Give You Proven Results | Study With AWS, IBM, SAP, Microsoft"
+    excerpt: "AI in retail and e-commerce is the main driver of growth through utility the growing popularity of smartphones and the convenience of buying everyday essentials and luxury goods from the comfort of home."
+    publishedDateTime: 2021-05-09T19:37:00Z
+    webUrl: "https://ksusentinel.com/2021/05/09/ai-in-retail-and-e-commerce-market-research-methods-that-will-give-you-proven-results-study-with-aws-ibm-sap-microsoft/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 45
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-Market-Research-13-3-127-780x470.png"
+        width: 780
+        height: 470
         isCached: true
-  - title: "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer"
-    excerpt: "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to"
-    publishedDateTime: 2021-05-06T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer-301285543.html"
+  - title: "Industrial Machine Vision Lens Market to See Incredible Growth By 2026"
+    excerpt: "Industrial Machine Vision Lens Market is predicted to grow with a CAGR of 6.1% over the forecast period by generating a revenue of $9,537.4 million by 2026. Industrial Machine Vision Lens are a form of technology that would allow a computer system to examine,"
+    publishedDateTime: 2021-05-07T13:25:00Z
+    webUrl: "https://ksusentinel.com/2021/05/07/industrial-machine-vision-lens-market-to-see-incredible-growth-by-2026/?bingParse"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 66
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg?p=facebook"
-        width: 799
-        height: 419
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/6-12.png"
+        width: 628
+        height: 385
         isCached: true
-  - title: "Microsoft eyes to bring AI capabilities to Philippine health sector"
-    excerpt: "MICROSOFT Philippines, Inc. is looking to bring conversational artificial intelligence (AI) capabilities to health-care institutions in the country to help them address their patients’ needs, its top official said."
-    publishedDateTime: 2021-05-09T15:04:00Z
-    webUrl: "https://www.bworldonline.com/microsoft-eyes-to-bring-ai-capabilities-to-philippine-health-sector/"
+  - title: "Machine Learning in Manufacturing Market Outlook 2021, Witness Highest Growth in near future by 2028 | Intel, IBM, Siemens, GE, Google, Microsoft"
+    excerpt: "Global Machine Learning in Manufacturing Market 2021 by major players, regions, type and application, forecast to 2028. This market report includes a forecast for 2021 and ending in 2028 with a collection of crucial information such as supply-demand ratio,"
+    publishedDateTime: 2021-05-06T05:24:00Z
+    webUrl: "https://ksusentinel.com/2021/05/06/machine-learning-in-manufacturing-market-outlook-2021-witness-highest-growth-in-near-future-by-2028-intel-ibm-siemens-ge-google-microsoft/"
     type: article
     provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 54
-    images:
-      - url: "https://www.bworldonline.com/wp-content/uploads/2021/03/Microsoft-032219.jpg"
-        width: 768
-        height: 419
-        isCached: true
-  - title: "Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers"
-    excerpt: "Competition in Australia is heating up among Microsoft Azure providers, with local players challenging the global giants, ISG (Nasdaq:III) says."
-    publishedDateTime: 2021-05-07T00:20:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210506006308/en/Rising-Demand-in-Australia-Intensifying-Competition-Among-Microsoft-Azure-Providers"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "lsJRpwwlS1N9MWj9YanxG+ZQYdos6ecLi6jj/3RF3F/E8sFh04Jo+cINJ+sushb4HNlz3GVo7Id/xKFg8Td5qunggy4PyF6MWynWG027tu0xaOb9LdHgXOqn21jkGWDvbiwXaPuAla/mU4PPwA6R5PurEWxw4TnSuqcip//G5Dy9uFhxidHwhWWUoZJR9OhBPZGeN7YcHXWgLHM1+c9jr+vrAUWZx98U30QGHw+FC3Jl0z/TFwhbjOn/uvW1X+gl+gNVVAKcwUEybriUFbO9z64CojvG300T0M0W/vTrbmH5q8/vHzz3B+uAxp7Yhtxy2rS449qlmoH8XOd/xUXQ86Pl24QiY4Kge3Acraad4UyBETHavmepPw+X8m2iXrsLx7t7+cOZDFWGas9nAIp5SdiVLHoCapCQCIOnmscKhyECOUeh8tF+kYD/bT6SBTQALL2X1+FBnmPet/lJgrlq39SPLEoeSFUPD7czfga4mI+eHPYlwyQwj0xR2JqTZxNTmX8QTGcRAbmXd3M8Nf53Aw==;upuWi+9hiYgOhW/2xHJOCw=="
 ---

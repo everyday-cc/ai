@@ -53,6 +53,20 @@ related:
         width: 780
         height: 470
         isCached: true
+  - title: "Voice Recognition Software Market is Booming Worldwide | Nuance, Microsoft, IBM"
+    excerpt: "Latest released the research study on Global Voice Recognition Software Market, offers a detailed overview of the factors influencing the global business scope. Voice Recognition Software Market research report shows the latest market insights,"
+    publishedDateTime: 2021-05-08T01:37:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269313651/voice-recognition-software-market-is-booming-worldwide--nuance-microsoft-ibm"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/05/824-1620400907.ama-logo.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Machine Learning in Manufacturing Market Outlook 2021, Witness Highest Growth in near future by 2028 | Intel, IBM, Siemens, GE, Google, Microsoft"
     excerpt: "Global Machine Learning in Manufacturing Market 2021 by major players, regions, type and application, forecast to 2028. This market report includes a forecast for 2021 and ending in 2028 with a collection of crucial information such as supply-demand ratio,"
     publishedDateTime: 2021-05-06T05:24:00Z

@@ -52,15 +52,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
-  - title: "AI and Machine Learning Operationalization Software Market by Technology Innovations and Growth 2021"
-    excerpt: "Top Leading Companies of Global AI & Machine Learning Operationalization Software Market are Algorithmia, Spell, Valohai Ltd, 5Analytics, Cognitivescale, Datatron Technologies, Acusense Technologies,"
-    publishedDateTime: 2021-05-05T15:34:00Z
-    webUrl: "https://ksusentinel.com/2021/05/05/ai-and-machine-learning-operationalization-software-market-by-technology-innovations-and-growth-2021/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
   - title: "Application of machine learning to large in vitro databases to identify drug–cancer cell interactions: azithromycin and KLK6 mutation status"
     excerpt: "Recent advances in machine learning promise to yield novel insights by interrogation of large datasets ranging from gene expression and mutation data to CRISPR knockouts and drug screens. We combined existing and new algorithms with available experimental data to identify potentially clinically relevant relationships to provide a proof of principle for the promise of machine learning in oncological drug discovery."
     publishedDateTime: 2021-05-05T17:47:00Z

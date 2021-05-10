@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/computers/ibm-2-nm-chips-transistors/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/ibm-2-nm-chips-transistors/?amp=true"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM unveils first 2nm chip"
+    excerpt: "IBM has unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip using nanometer (nm) nanosheet technology. Semiconductors, or computer chips, play critical roles in everything from computing,"
+    publishedDateTime: 2021-05-10T09:44:00Z
+    webUrl: "https://gadget.co.za/ibm-unveils-first-2nm-chip/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/05/IBM-Research-Albany-Exterior-1-1.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "IBM Unveils World’s First 2 Nanometer Chip Technology, Opening a New Frontier for Semiconductors"
     excerpt: "IBM (NYSE: IBM) today unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
     publishedDateTime: 2021-05-06T10:11:00Z

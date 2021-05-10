@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/States-push-back-against-use-of-facia
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -137,20 +137,6 @@ related:
       - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
         width: 720
         height: 393
-        isCached: true
-  - title: "PimEyes offers facial recognition software that anyone can use, including stalkers"
-    excerpt: "Facial recognition is a very powerful AI technology that has businesses interested in its application, and many people are concerned about how it can be weaponized against normal people. Typically, the tech is locked behind high paywalls or available only as an internal tool."
-    publishedDateTime: 2021-05-05T15:19:00Z
-    webUrl: "https://knowtechie.com/pimeyes-offers-facial-recognition-software-that-anyone-can-use-including-stalkers/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 33
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/03/facial-recognition-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "fXc1XTsJcc8X/NzD85XSGrlht3UQEIGFzyWD9Z8LjrOkPK4pRLhfs98J7f6O9azW9X9w4g9HfSYXMFEYKjOvRML6wx/vJM4AyjAuwxJ6UvK+e43CZQMbd8sStlQ8Iq8cU23z4oWhTRQFlf0Bbqrv54pCRkPiUeIhNfiGygrU43nwhGctdYPEHOgSm+cWBz22ZTW/x9EAP3lv+st0tkoc6t0h+GNJfBKeTOqfl9iEpIHYEvgouK5dSVzLOb99zk+/NuordCLvdC/hRlbiU10KawLT81OS1GlXAw5Mm5Q9fet46u8Wz+i/Y4XD1afAXVLBvCjyVk21R7Kglo3FEWdLey5bjFhoQ7T9wVx6RPYpOEdoqiNqi2FHNEe3N0kprRNIF8Q3Xs0bZgyfXcI7tjwCP+bCT5t01WsoUpNlqjYkUmpqRKqxjvDJ2+BHLDds9ytwLpZ75vxJ/1+tDaafqy1SrNd16y7ilpXpZOSY/NLM4bli+VI+49uBC2S5jEPrW5/X8t9SFzspfpea6TzESb0bZg==;64dvclXzBT+iQ6StjhFReA=="

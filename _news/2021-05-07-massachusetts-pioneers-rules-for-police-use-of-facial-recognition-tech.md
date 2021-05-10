@@ -138,20 +138,6 @@ related:
         width: 720
         height: 393
         isCached: true
-  - title: "PimEyes offers facial recognition software that anyone can use, including stalkers"
-    excerpt: "Facial recognition is a very powerful AI technology that has businesses interested in its application, and many people are concerned about how it can be weaponized against normal people. Typically, the tech is locked behind high paywalls or available only as an internal tool."
-    publishedDateTime: 2021-05-05T15:19:00Z
-    webUrl: "https://knowtechie.com/pimeyes-offers-facial-recognition-software-that-anyone-can-use-including-stalkers/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 33
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/03/facial-recognition-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "d7ZNdUk0ZmcXZklhoDTFkkdzuzE1A14GibTKFtujpfTasWgKPwT4C8UwHjjazGgOxaxRNfJ0p76Oya33++ut6MVJAgOU9unEJF4+RXY3u04Si4N1BzVVPHCLBhtNeiXHCO4anXBrKGKuD8/wCzt2E/pBHJXklwP04o7ldrlUYTecdk4qZBP62BeGJL8lkNLq3RFUc6QYRrNkdGHtDsNYLYXn+uZZ5jEtdSc4uAWg97O42b0lWsJ2BauDTZ+TDLDEwJ84JpH76J5FWoHs5+6P7nGv/jwH/6j/rPoTFoR3qWf5Gd+HEpLzfUtAa1kX29Buhv7spZeByS+O9e3lm6NdcCQlupf2MtKr4kEe4CZzZ6IwvFXlyjZUVpRVA4lftN5KlsCoN9di7vbAeuRwqqm/pSOZZ3F67H/N3EWyncAL2Du0KOE1YCc+oAJcXPS8gDObfzwYbU7RB3VuEJf/zPKhg9iX3vSs3uAPiqN+/ij2JVsd1SU1GHnRK7RqoKRGI69Lc3yTXDoJUhzfWULmb/8n8g==;hx97KUVgBWpq0dZk9vxvVg=="
 ---

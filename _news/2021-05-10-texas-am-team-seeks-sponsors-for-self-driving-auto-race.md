@@ -41,20 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Self-driving technology company Argo AI makes lidar breakthrough"
-    excerpt: "Comment Now! Argo AI, the self-driving technology company backed by Ford and Volkswagen Group, claims to have overcome one of the main challenges"
-    publishedDateTime: 2021-05-05T15:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1132154_self-driving-technology-company-argo-ai-makes-lidar-breakthrough"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/argo-ai-lidar-technology_100790998_h.jpg"
-        width: 1920
-        height: 1002
-        isCached: true
   - title: "Ford & Volkswagen-backed Argo AI Develops an Advanced Lidar Sensor for Self-driving Vehicles"
     excerpt: "Argo AI, the Pittsburgh-based developer of autonomous driving technology backed by Ford Motor Co and Volkswagen, announced on Tuesday the development of a new, advanced lidar sensor for self-driving vehicles called “Argo Lidar."
     publishedDateTime: 2021-05-06T00:00:00Z

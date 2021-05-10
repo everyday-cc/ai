@@ -41,20 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Self-driving technology company Argo AI makes lidar breakthrough"
-    excerpt: "Comment Now! Argo AI, the self-driving technology company backed by Ford and Volkswagen Group, claims to have overcome one of the main challenges"
-    publishedDateTime: 2021-05-05T15:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1132154_self-driving-technology-company-argo-ai-makes-lidar-breakthrough"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/argo-ai-lidar-technology_100790998_h.jpg"
-        width: 1920
-        height: 1002
-        isCached: true
   - title: "Texas A&M team seeks sponsors for self-driving auto race"
     excerpt: "A team of students and employees from Texas A&M University is looking for sponsors to help it compete in a race with self-driving cars at the Indianapolis Motor Speedway."
     publishedDateTime: 2021-05-10T05:00:00Z

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "iBooster Presents LinkedIn Boost Solution for the Fintech Market"
-    excerpt: "Booster introduces LinkedIn Boost service to help increase profiles and brands of professionals in the fintech market and other industries. The company designs marketing strategies, with AI that runs everything,"
-    publishedDateTime: 2021-05-06T08:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibooster-presents-linkedin-boost-solution-for-the-fintech-market-2021-05-06"
+  - title: "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign"
+    excerpt: "Expend, the AI-powered fintech startup changing the way businesses manage expenses and spending, has announced a great start to its crowdfunding campaign on Seedrs. The company is experiencing a strong growth period having performed well in the past turbulent year with revenue more than doubling,"
+    publishedDateTime: 2021-05-10T08:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1505737/Expend_Expense_Platform.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "i5TP4F7rZXhiLgcG1AJPyf1VIPoDr+VyNzldqKcujk6Drm6uyNLRuNnOMHxx+I0pfjxRwCNdGPW6Tt0gIkpE/jjdRqVRpuIthpQtjPjBJ8hG43Ah1Uc+leIlvt7dW7RinFl8rDgFmid3M3IRJ/yvzxzQ4ILMJXjG4sFKuJYPnPiF41Sj3H4v45HM+taUG9yXGGk0ewFB3eaL9/7S3GrbXwRvKu+OsyjodlR7Ruik1/BFcZb7wzv/ZfD8PvkCaB1NuvaIPtoGeObBzjzoOI2uKIKaYYqSmatxRr9/o9xVPTL8wWbyMUpVfmFyuqNafGO1Fj7ljnwuw3HCfZCIPb3PqAhqUW7bLIvD0tbeyKRc+ruPHHlP4cyaHHE6RZKWksoeDVQReapGssdq1wDGyP7yGYiZB5wTFb/8sJv7B0HvByMZ53jCd6Y8EZhh0o4Pux4P1lDNKaF6zbb7DDm26tfd12cTRio9KYLgtNnM/yMygSEP8IzQK0TNA8eoykbh08czvRWU94q1vEg8m6LnsZFVLQ==;Fe9+ZBb+TrqvpCoiRxl8qw=="

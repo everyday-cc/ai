@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "BMW Uses Artificial Intelligence to Create Its Latest Art Car. Robots Can Draw"
-    excerpt: "BMW's tradition of making art cars is going to turn 40 next year, but the German company's involvement in cultural activities predates that by ten more years."
-    publishedDateTime: 2021-05-05T15:35:00Z
-    webUrl: "https://www.autoevolution.com/news/bmw-uses-artificial-intelligence-to-create-its-latest-art-car-robots-can-draw-160656.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 50
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/bmw-uses-artificial-intelligence-to-create-its-latest-art-car-robots-can-draw-160656-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
 
 secured: "mlG+8sL4tjxIZ5qNn/MN154W6ZnLqHH6tBy+hW6tbitTkElm4cmfVzz5oo6HXpVcHTJFLpsFK/3oWRzCJJKldRK4HkASIWwsFWqcftGQxWGoEkhJ8tqMoOihAYIwjRXJ5U0cR8/Gzff6iyLjQ5MsbaPFr+R0r6ydhWHFp2KfBdSLckx4UXYctldjWZ+gu0YyXab0EGwVxk9qL8ZAFP+6P7L6fKesOc1NVRsVMZDSCGmgdlrX4fClNdpvtHzpRr7M7Coa8mswGB/3myS9uCUDKaMTFbiYViwd20TwJPYSBWghDePsnibglbYhR47/QTP+LvbXhHtPXzTVLG58kll474anW2sFhAndCSSHGQcAM//ADaZQE+Otz0ZcFbJWESx8MmTGHrBFIST8ruKzSSEYtTCm4Mu2DUjTUXLhRFUlqTwSb1khpdAFjutXk6olaAoeWQqjmfGYYP1x9ix0/2MV6neNGK4JTtN/qDpJRq76rvZfZc5KoLPwddbFxXyVwgPyoWwPIUyx3ojHCdBAF0ixCg==;bcYG2Tfq950B0mvf5gKqCA=="
 ---
