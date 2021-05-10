@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-10T05:30:00Z
 originalUrl: "https://analyticsindiamag.com/things-to-consider-before-building-a-computer-vision-model-using-automl/"
 webUrl: "https://analyticsindiamag.com/things-to-consider-before-building-a-computer-vision-model-using-automl/"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/Untitled-design-30.jpg"
@@ -24,6 +25,6 @@ images:
     height: 900
     isCached: true
 
-secured: "C7bbmVDLZyrnzVKLb+xc4kw1EzOIdABH9J7D7CkXJ5vZGe3dvgmd+gxbeNI7PMYyjsfnArRfJ/VgCvettxXRHO8LepzUhSj6x9zZe2wLNF2kbEGZEK57QDVW8XlLNtje9hJUC9FHm3qAmcR2S01EEQUjIn5hk8HfCYda7vz1F7H/H3EqPovI8ThmZlX01K1UYMuKhMBSwvZy2zCWmXNtQbB0/2Qh/p9Xc/+QJ0m9qvHXrX3pNCOCbJ8NBMtrjwrVRgR/mV26JKAmoukY3n4vc+vcxxf02WOk4iMIKjSIT15ml0IOcU7rekGdheaDeiNUWwYnNP3kcF7Ew5xrG8CB6poQlbZ7nTN3MxJOlavvMP0=;gnyoNAJ9baup821QonvfSg=="
+secured: "XVN3glSqSPlnUC4OVjC8/ZuqIw7wnolhJEVPNvkrzQV1K2QW03YFSjxhIRMevPAmia8EvSsjX7zMUwy1Qoe+C9He1Sz8jcfSh1QueTxMCRnujUCmbfGTm6IyRzZizIuX4q280ifF/83w7bbuGhjL+U32W+wB9xdsz/vFnl0Y+eXTCcb+p4dcZg0nX857a3XKjguAbsTwxZuyVSIWdcUHDzN4VbvLycxlPeNWPRCceuj5BThjr58olp6Qz46wgqbWOn1/QhC4YOTJObYUn69lEsstCeEuKmpVzVfCHUL/e2DkIiQqxTKDLioSgyPH63cPAk0YuypppTwcObVUaZnbp/Hpr+jFuCoct/BRm5WVlSlTRonMYlxKZA3Nu9naZhgx7SZhx8gxNpxcLEPyGvRCD9LMZ6tQpxR9aHP5luD+TO3wF17RBO9Rge90KQGGjL/03HUkdF/Lv7vB2WFvR1yZ9M4yfyZ64mXhsiygTLNXMgO9JVy+guKPaUI1+tHUZtU21A9Nz/AyrXknUWre3xPvMw==;34o2cIWIUkyHnibmsygU9g=="
 ---
 

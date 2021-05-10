@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence system may improve diagnosis of complicated metastatic cancers"
-    excerpt: "To improve diagnosis for patients with complex metastatic cancers, especially those in low-resource settings, researchers from the Mahmood Lab at the Brigham and Women's Hospital developed an artificial intelligence (AI) system that uses routinely acquired histology slides to accurately find the origins of metastatic tumors while generating a \"differential diagnosis,"
-    publishedDateTime: 2021-05-05T15:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-diagnosis-complicated-metastatic.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-diagnosis-complicated-metastatic.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-diagnosis-complicated-metastatic.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 49
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/58e378ef3aa34.jpg"
-        width: 1500
-        height: 977
-        isCached: true
   - title: "AI-based pathology predicts origins for cancers of unknown primary"
     excerpt: "A deep-learning-based algorithm uses routinely acquired histology slides to provide a differential diagnosis for the origin of the primary tumour for complicated cases of metastatic tumours and cancers of unknown primary origin."
     publishedDateTime: 2021-05-05T20:10:00Z

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-16-artificial-intelligence-boosts-alzheimers-disease-classification.md",
+      "title": "Artificial Intelligence Boosts Alzheimer’s Disease Classification",
+      "excerpt": "An artificial intelligence framework could help providers classify Alzheimer's disease with enhanced accuracy, potentially leading to earlier treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/artificial-intelligence-boosts-alzheimers-disease-classification",
+      "originalUrl": "https://healthitanalytics.com/news/artificial-intelligence-boosts-alzheimers-disease-classification",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-04-GettyImages-1003444920.png",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-cathvision-adds-us-profile-to-its-board-of-directors.md",
       "title": "CathVision adds US profile to its Board of Directors",
       "excerpt": "CathVision ApS, a medical device company developing a novel artificial intelligence therapeutic platform for cardiac electrophysiology procedures, is announcing a change to its Board of Directors. Meghna Eichelberger,",

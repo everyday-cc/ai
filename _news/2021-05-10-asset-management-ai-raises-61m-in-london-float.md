@@ -1,0 +1,28 @@
+---
+category: news
+title: "Asset management AI raises £6.1m in London float"
+excerpt: "A company aiming to bring accessible AI and data science solutions to the asset management industry has floated on the London Stock Exchange’s AIM market, raising £6.1 million. Insig AI provides bespoke web-based applications,"
+publishedDateTime: 2021-05-10T07:38:00Z
+originalUrl: "https://businesscloud.co.uk/asset-management-ai-raises-6-1m-in-london-float/"
+webUrl: "https://businesscloud.co.uk/asset-management-ai-raises-6-1m-in-london-float/"
+type: article
+quality: 37
+heat: 37
+published: false
+
+provider:
+  name: businesscloud
+  domain: businesscloud.co.uk
+
+topics:
+  - AI
+
+images:
+  - url: "https://businesscloud.co.uk/wp-content/uploads/2020/08/London.jpg"
+    width: 800
+    height: 500
+    isCached: true
+
+secured: "9icVyXfWmcJpjCfkwkBTVvSMdP4C8MOf9hQJAhW7BtfNchspItKENT5WFigNTKtAI2vZA7k93Tz7V7z2TJf4EFk88TwXl63toS6EpxFrn4E9iRerXNf/Al2QOE1jh8vMelpKldDdUWFwFg8fh1cNzzsfJNkP1nuQe3Xop0t2Neck2HyYBSOhv6BNPk9uAc9lGe7i11Rz4Jor8drLlFzjsaR6sOikQPRrqIfij45CZOOFbdHOc4KqbYF8QyLqj9EhkobD3fN7vE/d1ZrzJw4jYXtaK2A5zGUEJqSl5rH135EHPxAsTMh2X6klRKa4HB8LedDuLy0h8MvQlWqo6MIBo8cm+ms6mXcDLHJ3e6XqYp4=;uYpbxR8MdfuAJ9HYEW8BMw=="
+---
+

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "UNISOC T618 Is Designed to Improve the Imaging & AI Capabilities of the Terminal"
-excerpt: "UNISOC T618 is an 8-core architecture LTE chip that was launched in August 2019. And, it is based on 12nm process technology and consists of two 2.0 GHz Arm Cortex-A75 CPUs and six 1.8 GHz Arm Cortex-A55 processors."
-publishedDateTime: 2021-05-07T09:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-49a5879c9b41471383f719d22364e752"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-49a5879c9b41471383f719d22364e752"
+excerpt: "The composition of mobile phone processors is similar to the olive-shaped social structure, with few rich at the top or poor at the bottom, but a larg"
+publishedDateTime: 2021-05-07T13:02:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210507005213/en/UNISOC-T618-Is-Designed-to-Improve-the-Imaging-AI-Capabilities-of-the-Terminal"
+webUrl: "https://www.businesswire.com/news/home/20210507005213/en/UNISOC-T618-Is-Designed-to-Improve-the-Imaging-AI-Capabilities-of-the-Terminal"
 type: article
-quality: 34
-heat: 34
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "+m4/l3EMzcUx1l3K3SVBLzZgWYmM9JKJEcYWIbg8vJ1Z5JjXWVYNmtl+h+QwjhNPL0APwmQxZqCArTscy6632k8is1LdlAQqemEpGcAbml/9O0fWdB5yQ3gXHZuOZ+tr24+nLOMJ8EPAY6ZKDwj2QWq7WdqY0kXxB4z9CCHpVTqei1tlYI8K9+QeFEz9F6voKRI8A4ABd0gEUElziCAJkqqQkHWlOiew08ClxPbNY2jLoU0PLTej4VZElbkt2G5cd1ADSwMxw1+vrfjSZ0Q/GKwa5cMlMclH5QvyiyQjD5Tv/ZREZuX8Xi4FGhZ+kcZAKFt54/9JY+Iz4iBvUoAP00vWkcWB4hUmbeFShYoebRc=;fEcwhJJCZ5s3yVqdtdpjZQ=="
+secured: "+HefzmyQ2YQ2KJ51nXPAd5aYmXlw72rfTDdaCJtHItLZOxem6g0+79avEjxGRl6neKFOSiOvM2rDO6+AIDMk4P+7nlBZd0GRwM/70g9aA/EThgt0NNMrynHADNkRD46uDP7TSTIz5O2Nl0W9IUHuREU/nGiCf1mzAM6nVg4PaOtA6c3lmxdPdMl7OhMo8XpEArluji9k7BVUzNh5Vz9ThS8g7cxR4D9ncDq7qwJDd6SKwpAZcXFWXGSvtBgXG/ART3dGz20gB/HRG3+JGwwZL9G7LvrmuClzuEkeoyKbD7/JsD0XUJ1h37ysFWoMh91mCDKKMtQ249fuwPw7xPN7Kr4nY3fPiCpN39/J6f7X5d8=;um1pszmVSme6ACZfzLSc8A=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://appleinsider.com/articles/21/05/06/music-production-app-djay
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/05/06/music-production-app-djay-pro-ai-gets-major-update-to-ai-powered-mixing-tools/amp/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: AppleInsider
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to Build Compliance into AI Projects"
-    excerpt: "Dana Rao, General Counsel and Corporate Secretary at Adobe, presents a case study on how to incorporate AI into compliance projects."
-    publishedDateTime: 2021-05-05T14:05:00Z
-    webUrl: "https://www.wsj.com/video/events/how-to-build-compliance-into-ai-projects/C551F757-57C3-4317-B799-22AE672561BB.html"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "http://m.wsj.net/video/20210505/050521rc7casestudy/050521rc7casestudy_1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How Ally uses AI to approve auto loans"
     excerpt: "The digital-only bank has adopted machine learning to process loans faster, more accurately and with better fraud detection than in the past."
     publishedDateTime: 2021-05-05T22:12:00Z
@@ -55,33 +41,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Insights into black box of artificial intelligence"
-    excerpt: "At many banks, insurance companies and online retailers, self-learning computer algorithms are used to make decisions that have major consequences"
-    publishedDateTime: 2021-05-06T11:18:00Z
-    webUrl: "https://www.miragenews.com/insights-into-black-box-of-artificial-555689/"
+  - title: "Dating app taps AI to block scammers"
+    excerpt: "I had been using dating apps like Tinder and Bumble,” he told Information Age, “but they had a lot of shortcomings, especially when it came to scammers and fake profiles on the platforms – and I experienced being catfished myself a few times."
+    publishedDateTime: 2021-05-10T06:13:00Z
+    webUrl: "https://ia.acs.org.au/article/2021/dating-app-taps-ai-to-block-scammers.html"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 37
     images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
-        width: 640
-        height: 423
-        isCached: true
-  - title: "General Motors is Using Artificial Intelligence to Build its Future Vehicles"
-    excerpt: "Artificial intelligence and self-driving cars are often discussed together in the field of technology. General Motors is imagining a future of lighter, powerful, and customizable vehicles motivated by"
-    publishedDateTime: 2021-05-06T09:00:00Z
-    webUrl: "https://www.analyticsinsight.net/general-motors-is-using-artificial-intelligence-to-build-its-future-vehicles/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 36
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/ArtificialIntelligence.jpg"
-        width: 900
-        height: 500
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/online%20dating%20soulmate.jpg"
+        width: 821
+        height: 462
         isCached: true
 
 secured: "w3Us4Lt7iEUy0a8vWUdus/NyZE1bS+XGNTbo+xS/An8OgTwpg38Fgxh6zeNZXLiuEReXDWzourBu1EblRXqBcgKRxCPG/rr/YXqv8Ds8cjtuuCNlIshl0tAwsZ69hQgiGeyDZjUJHQ9yA6ahvXo+CfomnH7x2iqdQEGpLWjTDX1dHlviU33oMLQphwARlQy5S/v487MtKI6znYFkhaXJk9e00rcevAu1lP3TIPumPIPg4dPVsnIFEyrKKGRoQwQgze7AaRdqVqnA3SbzOK1eO5imfRmMFeWCXLlEvb6FRLePyOmvWwRyWPC8MVLpErlMdGc2QVwRqXGdmG6liC2l9YSVDRkcyDEqhBPlbqGUvjlxjuwMiVc9WaR2BXSDX4jUE3/v1+MtDBb45qD0eYWQhiZCvkTbzAx/4FX3QhdaEuwvBYW1oZXvuSDTCQI/I7bSpUMiA6akX8ybJWQZglSTLZVv3Q7OIkbRulRa1BflB1smnOiCMCCf3Dul0caJH/rPPCSIyMP5EsaaXXfRiZ7KbA==;u5Cgunm1pCNUTqP3U5ZaPw=="

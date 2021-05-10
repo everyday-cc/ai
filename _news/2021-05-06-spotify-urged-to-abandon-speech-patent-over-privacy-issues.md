@@ -9,7 +9,7 @@ ampWebUrl: "https://www.law360.com/amp/articles/1380457"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1380457"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Spotify responds to protests against speech-recognition patent"
-    excerpt: "Earlier this year, a controversy broke out over a Spotify patent involving using speech recognition technology to analyse a listener’s “emotional state, gender, age, or accent” and recommend them music accordingly."
-    publishedDateTime: 2021-05-05T13:14:00Z
-    webUrl: "https://musically.com/2021/05/05/spotify-responds-to-protests-against-speech-recognition-patent/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 39
-    images:
-      - url: "https://musically.com/wp-content/uploads/2018/04/spotify-gramercy.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "aemfH8Ci7AKnsI0abjdUwwHG/LbqkChnN+MdnS6dtaDKiYoUBaRIDJ9VQDU8drxhbkNRCIBsGhMn234mhanETU6sJOQeQUnkna1PTRzxOvMv6pMgouH/BDlYRtidkd14Y/4YYZB12Bm8o3JZmPKppQbhnEH8zex/9jeEVXCeUwyQhhXLyp6Om+MMTNMNS0KzvknyQEuF8VXC1QqK8oYIncE/32qOijrNJCQXNTTvbkomi6kek50JM2FzolJNTo6gtt4DTGUdtb+6JNve5nneR5E/4F+LKrwb+Xh3Rd62VKzf1enAPkSnGxEZfZiG1aApxwAL7s/JmXq/ou/8kHBut5nC6UD/oHYC5HoSqXgVkFA=;FA9j6PseehydFwILRVDSkA=="
 ---
