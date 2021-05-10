@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Accelerating Digital Transformation with a Services Approach Modern Cloud"
-    excerpt: "Cloud computing replaces upfront capital expenses with lower operational ones, which is instrumental in hastening digital transformation."
-    publishedDateTime: 2021-05-05T19:00:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=146566&pageNum=2"
+  - title: "Three Graduate Students in Communication Sciences and Disorders Awarded With Recognition for Program"
+    excerpt: "Samadhi Pusuba Devayalage, Kendra Ledbetter and Madeline Rudolph were recognized for excellence graduate program in communication sciences and disorders."
+    publishedDateTime: 2021-05-10T05:06:00Z
+    webUrl: "https://news.uark.edu/articles/56867/three-graduate-students-in-communication-sciences-and-disorders-awarded-with-recognition-for-program"
     type: article
     provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 23
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 9
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/137838-5_21jh.jpg-ORG.jpg"
-        width: 1200
-        height: 600
+      - url: "https://campusdata.uark.edu/resources/images/articles/2021-05-07_01-18-12-PMMyPost2.jpg"
+        width: 900
+        height: 900
         isCached: true
 
 secured: "L1OpZKF885lrYzfCGQ6O/6nVDWxu0mrOrEXARyiO80y9X7+wQafMXpvUcLlW0dYQeIj6CDNSlQkp54l5X2YASi7EVQrNSpTa4zWBd1aNNngMN/mtVl33Od07pSBNcwfL8zJ88efMXoH0ismZGgU1/J7y/axBDsPqJaFK/AVJYnGGjyMDTAV2ceAc9Wb5AoGoe2dCzNQOmX3FCnkq663m4uCXXWzqDUAOaMZj9XcQ/KVtOHN5sa7NL1cIjyTkOOhwHZ7b7loR3WGdYi8qYUDy1A5SYhmG/XgONCmaaDlF5ojtM8Dd9yjTO7ub3PJIRZrPE/0MBCYRGPfoav5h/7YxldHqLm9nhKfeLeuWY/WHCGY=;PnpcdXhUvFR2CSGSTPaoHw=="

@@ -49,6 +49,20 @@ related:
         width: 1363
         height: 568
         isCached: true
+  - title: "Artificial intelligence reduces the time to diagnose COVID-19 on CT scans by a third"
+    excerpt: "The technology reduces the time required to process the images by about 30 percent and helps to diagnose the disease faster."
+    publishedDateTime: 2021-05-10T06:09:00Z
+    webUrl: "https://www.mos.ru/en/news/item/89990073/"
+    type: article
+    provider:
+      name: mos
+      domain: www.mos.ru
+    quality: 32
+    images:
+      - url: "https://www.mos.ru/open-graph/v1/frontend/en/news/item/89990073/"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "CTOuirkErf1B7MLdv1nzkbpp+OudH0kzV8Vf9vG/k8vxasKZH5hWp1+qJT8E/XruTKeRIMPqkZHg4/jl09wQlMg6aA0JLwx1++o5SFE5GbYF6vKfIE1Jy6Vf/TPYRwFNyzl+zcNDps6rJUoY2vq8bx+FT57XmWGJbqB3GyYwic6T7LEcuAr3uJ4PMm2glWrJLE4ja5y+VgDrVfnIV5i85mddYBvgn29S1rnO+WaJe3sAaLj8WHiRI/MH3Lg3BRhHUIGNIiUH1zMpAqEK6CnM3hZ/lpQbOpukri30fBiNTspyh/MlXospoI4DS18p7P9jp9vWCpUcHV5S2iY41TZBsjSryGpciY93CG/d1VHnGhQ=;XN20C+aRBCELCF3wb6tMPw=="
 ---

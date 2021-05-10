@@ -7,7 +7,7 @@ originalUrl: "https://deepmind.com/blog/article/advancing-sports-analytics-throu
 webUrl: "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2021/04/Accelerated-Analytics-Cover-Image.jpg"
         width: 646
         height: 907
+        isCached: true
+  - title: "Pecan AI Raises $35M To Accelerate AI Adoption In Predictive Analytics"
+    excerpt: "This round brings Pecan AI's total financing to more than $50 million. and will allow the company to continue to expand global operations."
+    publishedDateTime: 2021-05-10T10:52:00Z
+    webUrl: "https://nocamels.com/2021/05/pecan-ai-predictive-analytics-series-b/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/pecan.jpg"
+        width: 1200
+        height: 750
         isCached: true
 
 secured: "LwdNAsFLx3y7PtPXyUemi94eT3U7CMCas7MBRaTvjQIk4dqhlq3I+ny3qEU3nUpWjfFiuNRIIBlIQEHN9UrhwHFvgms8fbZI7T97DHZEAsU2lnY/m6sKoBWTYC4AgAuUxfDWlZtpSQEbWItO9rxCuxYulW9DPzlES8D7vpTLePD6D1KLYF0sNFsIVHJTfVx0Lc6d8zztMCbkw5UsSHJL/mLuDBRGh9HdE+I/CQnwqULtLJ3CwEWjeb1sMZ1iIE5zzxlg/mI50xxJT5bQtjNHNnRM0nevyiEw6KZGLva+c9agJJ7j39RrrZwdRJ0WVYrHSq3+jh0i4coKJGkqnpGy4Jgdbf5ESFaSMfzWzRpk/08=;aIx5ihit8ZoKMCh3cSZsYQ=="

@@ -48,20 +48,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Voice Recognition Software Market is Booming Worldwide | Nuance, Microsoft, IBM"
-    excerpt: "Latest released the research study on Global Voice Recognition Software Market, offers a detailed overview of the factors influencing the global business scope. Voice Recognition Software Market research report shows the latest market insights,"
-    publishedDateTime: 2021-05-08T01:37:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269313651/voice-recognition-software-market-is-booming-worldwide--nuance-microsoft-ibm"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/05/824-1620400907.ama-logo.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Industrial Machine Vision Lens Market to See Incredible Growth By 2026"
     excerpt: "Industrial Machine Vision Lens Market is predicted to grow with a CAGR of 6.1% over the forecast period by generating a revenue of $9,537.4 million by 2026. Industrial Machine Vision Lens are a form of technology that would allow a computer system to examine,"
     publishedDateTime: 2021-05-07T13:25:00Z

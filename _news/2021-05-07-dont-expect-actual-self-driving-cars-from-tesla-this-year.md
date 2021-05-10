@@ -119,6 +119,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Latest Tesla News Contradicts Musk's Claim; Could Be Bad News For Self-Driving Car Fans"
+    excerpt: "Tesla intends to expand its full self-driving beta to more drivers In March, Musk claimed the FSD Beta has expanded to approximately 2,000 owners A memo reveals Musk is \"extrapolating on the rates of improvement\" A Tesla engineer has informed California regulators that the electric vehicle company might not have a fully self-driving vehicle ready for this year."
+    publishedDateTime: 2021-05-10T10:40:00Z
+    webUrl: "https://www.ibtimes.com/latest-tesla-news-contradicts-musks-claim-could-be-bad-news-self-driving-car-fans-3195720"
+    ampWebUrl: "https://www.ibtimes.com/latest-tesla-news-contradicts-musks-claim-could-be-bad-news-self-driving-car-fans-3195720?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/latest-tesla-news-contradicts-musks-claim-could-be-bad-news-self-driving-car-fans-3195720?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 66
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/22/tesla-is-facing-more-scrutiny-over-its-autopilot-AFP_98K63K.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Opinion: Feds Should Reel in Tesla, Self-Driving Car Industry"
     excerpt: "In April, an allegedly self-driving Tesla burst into flames after crashing into a tree in Texas. Two passengers died in the wreckage. Federal authorities should consider regulating the autonomous vehicle industry now."
     publishedDateTime: 2021-05-05T21:26:00Z

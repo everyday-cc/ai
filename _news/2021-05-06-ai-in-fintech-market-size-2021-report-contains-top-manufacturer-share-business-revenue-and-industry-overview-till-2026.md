@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-siz
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-2021-report-contains-top-manufacturer-share-business-revenue-and-industry-overview-till-2026-2021-05-06"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Neural Network Software New study: Market by 2027 insights shared in a detailed report"
-    excerpt: "This report on ‘Neural Network Software market’ provides the analysis on impact on Covid-19 on various business segments and country markets. The report also showcase market trends and forecast to 2027,"
-    publishedDateTime: 2021-05-05T18:03:00Z
-    webUrl: "https://ksusentinel.com/2021/05/05/neural-network-software-new-study-market-by-2027-insights-shared-in-a-detailed-report/"
+  - title: "Which Trends are Set to Transform the Status of Indian Fintech in 2021?"
+    excerpt: "Fintech solutions are grasping companies from different sectors of India with its current trends through AI machine learning algorithms. Companies must focus on these trends to capture the market efficiently."
+    publishedDateTime: 2021-05-06T12:34:00Z
+    webUrl: "https://www.analyticsinsight.net/which-trends-are-set-to-transform-the-status-of-indian-fintech-in-2021/"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 46
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 24
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/tip-2.png"
-        width: 650
-        height: 450
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Fintech-1.jpg"
+        width: 904
+        height: 504
         isCached: true
 
 secured: "lHCpH5wg6XR2vUWkVbGIchI2Tbg9CksL+L6zJGuZ8ZaG5InyV4z09k662LrU2gDmaBXiGN2AHqf3jc6fyep56NgnYr8Jcm6ZA1g+p1l6r+5p1x883ee9O6ICfvNg+pNj7/8eeBDjwxSD2cGpKRLsMUMRcmP3OSEUUaM75pwxWHnqWMqdCIvGYq2z/eAYVfcNz/0dkJAywVOtvFintypD822150ZevztRXKGctYoSxKSSBywVLai5FCsMY8k8MqHayEwGp1R0mnB1EJeCbTFDE8L1YhMWKs9EEvFWNICC50TowP0KeAWWL/aVDvSPpWx46aHyp0OGjcIFZ6zHH2xuTv9mHEX9yNDMPrlB91nj9X0=;IyWUX88rwGdkbvlABFQNdg=="

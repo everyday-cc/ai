@@ -2,6 +2,83 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-03-14-skt-kakao-to-cooperate-in-ai-esg-intellectual-property.md",
+      "title": "SKT, Kakao to cooperate in AI, ESG, intellectual property",
+      "excerpt": "By Kim Bo-eun SK Telecom and Kakao unveiled a partnership Sunday to co-develop technology in artificial intelligence (AI) and create a fund for environmental, social and governanc",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-13T20:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-why-artificial-intelligence-might-not-win-a-war.md",
+      "title": "Why Artificial Intelligence Might Not Win a War",
+      "excerpt": "If neural networks and machine learning remain the dominant AI guiding technologies, the operational usefulness of AI in battle will be rather limited.",
+      "sourceUrl": null,
+      "webUrl": "https://nationalinterest.org/blog/reboot/why-artificial-intelligence-might-not-win-war-180076",
+      "originalUrl": "https://nationalinterest.org/blog/reboot/why-artificial-intelligence-might-not-win-war-180076",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/NightTankFire.jpg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-13T19:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-items-filtered-by-date-march-2021.md",
       "title": "Items filtered by date: March 2021",
       "excerpt": "At present, Sunrise is rapidly deploying 5G networks for 150 cities/villages in Switzerland, which will be released in March this year. 5G will further enhance the user experience of Sunrise network,",
@@ -1028,93 +1105,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-rit-researchers-helping-to-develop-artificial-intelligence-systems-capable-of-playing-starcraft-ii.md",
-      "title": "RIT researchers helping to develop artificial intelligence systems capable of playing 'Starcraft II'",
-      "excerpt": "A team of Rochester Institute of Technology researchers that develops artificial intelligence systems capable of learning over time is putting its work to a unique new test: creating machines capable of playing the popular video game Starcraft II.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rit.edu/news/rit-researchers-helping-develop-artificial-intelligence-systems-capable-playing-starcraft-ii",
-      "originalUrl": "https://www.rit.edu/news/rit-researchers-helping-develop-artificial-intelligence-systems-capable-playing-starcraft-ii",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2021-03/Starcraft_2.jpg?itok=GLvmIZ6q",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rochester Institute of Technology",
-        "domain": "rit.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-professionals-complain-of-eye-problems-doctors-call-it-computer-vision-syndrome-read.md",
-      "title": "Professionals complain of eye problems; doctors call it ‘Computer Vision Syndrome’; read",
-      "excerpt": "Experts say the pandemic has lead to an increase in computer and mobile usage, leading to serious eye issues that range from visual fatigue, and headaches to more complicated problems, like dry eyes, blurred vision, double vision, irritation, watering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/health/professionals-complain-of-eye-problems-doctors-call-it-computer-vision-syndrome-read-224216",
-      "originalUrl": "https://www.tribuneindia.com/news/health/professionals-complain-of-eye-problems-doctors-call-it-computer-vision-syndrome-read-224216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/3/2021_3$largeimg_602738258.jpg",
-          "width": 660,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/health/professionals-complain-of-eye-problems-doctors-call-it-computer-vision-syndrome-read-224216",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/health/professionals-complain-of-eye-problems-doctors-call-it-computer-vision-syndrome-read-224216",
-      "publishedDateTime": "2021-03-12T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

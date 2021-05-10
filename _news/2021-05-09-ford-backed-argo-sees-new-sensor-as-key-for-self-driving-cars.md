@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ford & Volkswagen-backed Argo AI Develops an Advanced Lidar Sensor for Self-driving Vehicles"
-    excerpt: "Argo AI, the Pittsburgh-based developer of autonomous driving technology backed by Ford Motor Co and Volkswagen, announced on Tuesday the development of a new, advanced lidar sensor for self-driving vehicles called “Argo Lidar."
-    publishedDateTime: 2021-05-06T00:00:00Z
-    webUrl: "https://www.futurecar.com/4597/Ford-&-Volkswagen-backed-Argo-AI-Develops-an-Advanced-Lidar-Sensor-for-Self-driving-Vehicles"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 28
-    images:
-      - url: "https://img.futurecar.com/202105/05/l_60933339b6931.jpeg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Texas A&M team seeks sponsors for self-driving auto race"
     excerpt: "A team of students and employees from Texas A&M University is looking for sponsors to help it compete in a race with self-driving cars at the Indianapolis Motor Speedway."
     publishedDateTime: 2021-05-10T05:00:00Z

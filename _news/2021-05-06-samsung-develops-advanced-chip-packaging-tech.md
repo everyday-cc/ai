@@ -57,15 +57,6 @@ related:
         width: 1000
         height: 719
         isCached: true
-  - title: "OP's Cambrian Tech finds new use case for its technology: self-driving vehicles"
-    excerpt: "Cambrian Tech’s augmented reality tool has been used to visualize how new flooring and paint colors will look in a space. Now it’s finding a new use case for its technology in the self-driving vehicles market."
-    publishedDateTime: 2021-05-05T19:01:00Z
-    webUrl: "https://www.bizjournals.com/kansascity/news/2021/05/05/cambrian-tech-finds-new-use-case-for-its-tech.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "AFxfSwqJaq1Y91/igNk6tsvISPF2Rqyit3arehca7vtHN8048f0ykhI0bfffaYm+Uqx22yg7RYQzFTkysuwh9ZwZ6TNFT/hU94JkDZ0/0u3I2yg/rgtlmpwBGX7agCd1HL1puvTeG8KVYPE8wW/DG9NA9mW/xYJjS2YHzcA9/QhjeICXTfosmLVbHOzeyf6a6ORRpXUdL4gkScEABqo3HlseFtTW1LKWuyz4S7voQzx0iF8GgQv1/zBqUCwlUbNUxd9ZUm4p0ZewMLoSHkrEdzC/ct21KFcXLYCkF/z2OK8oRrQv9Sg3Lzc0wmxgsimjcob8QesdsHWo4ijopdLntk46gcz6OvNNQZSdgx8D4wg=;8/G0W+8oi9c48SUjLe3hVg=="
 ---

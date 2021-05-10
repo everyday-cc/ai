@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "IBM's newest chip can put 50bn transistors onto a fingernail"
+    excerpt: "More transistors on a chip also means processor designers have more options to improve capabilities for leading edge workloads like AI and cloud computing, as well as new pathways for hardware-enforced security and encryption. The potential benefits of ..."
+    publishedDateTime: 2021-05-10T11:18:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/ibms-newest-chip-can-put-50bn-transistors-onto-a-fingernail"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 54
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1620645231/widgetdocs/IBM_Research_2_nm_Wafer_cyfs78.jpg"
+        width: 750
+        height: 600
+        isCached: true
   - title: "IBM Unveils World’s First 2 Nanometer Chip Technology, Opening a New Frontier for Semiconductors"
     excerpt: "IBM (NYSE: IBM) today unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
     publishedDateTime: 2021-05-06T10:11:00Z
@@ -56,6 +70,6 @@ related:
         height: 450
         isCached: true
 
-secured: "sfRjseRZ2Ab/e2rd8MFxWgK7XcyoxYzQrK/K7Oz4JL04kd69biYh2g7mNFl96MpuQsPM/pwY/TIv6JM7chJGtzDK3MKZ5ECaFe5DIcVnud/V3y5QKzu7RXOifQLW4iFeB1yBOb27XbdRQvQTji1bXUUQYXsBJvxEZR0AjK06coNMzlF8aapQ7z5a4WIgN56/VbV/LnhgLseWxXQohV7lvXSDbxJIjiXQzTqwK6g/lsgMJgf6Dpg1ZnpzkC7sEuMfvRiQ4vak6fVj2r5w1KpnrO0jJXCe1748lsw6soWMFX9ITGTHtOnnDlHHkeXsVaG9U5FhZwDm3OVcNQ5PfZzqbuK2hdgAnk9TlqYLQsVuvM0=;rLcqge7A500WvfegaJUm2g=="
+secured: "OZn+ypAwmIvvGBhJ77E194gTunihi92QGjEtvIf4kluJXM9D9XZZxCvu1ftvNRB5kmV2an+q5zKPNcQoXNhnmCn2+dATp4muS55LHyqEl6KMrSCC0srhg/fN2K2myVpsB4e2ihhAGv3WC/a6W2UqG86ZLWk/S5JCznhho0X+3V4cDjn3/CimnrLpgVSl+lzkif7qOqsZilrA9eEyeJNEP0PMDmtifWmyAhjArJ5T7lQgBEFj1HXcjMzLks5UcgsTmPbR7vYlGK/wiaTYrKdaOg8vJcsRMvMJ16f/Q83thRrQqQ1mZU4EQ3O5avjfk/mLrzLZiUULIlziJjdPrHakshzvxILoDftvyV19aAN1l6DDSziJ+QpNOycKh2N0B2sQWyN3t4Tzu9QqIevPGUEEOr3mBZ8pxORM4BSZmWd0cLHIrF/U04jnKhgO3qjaFJ7CjOg3i0w2y1nN/BA+snaSroU5RP7JHz2O0GBBRCIUPJEtcAYKVrJhcs5izXTpKcmIvQ7vq4+QVSgk8mQBcSu0EA==;qMlhnGCb7ceaA739QsqrYA=="
 ---
 

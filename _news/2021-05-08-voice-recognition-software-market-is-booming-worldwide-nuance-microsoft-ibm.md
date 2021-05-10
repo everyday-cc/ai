@@ -26,52 +26,68 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence And Machine Learning Market to See Huge Growth | Microsoft Corporation, SAP SE, BaiduInc., IBM Corporation, BigMLInc."
-    excerpt: "Artificial Intelligence And Machine Learning Market is growing at a 42.26% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
-    publishedDateTime: 2021-05-09T19:26:00Z
-    webUrl: "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/"
+  - title: "Microsoft and Darktrace partner on AI-enhanced cloud security"
+    excerpt: "Microsoft has announced a new partnership with Cambridge-based AI startup Darktrace that aims to provide AI -enhanced cyber security to organisations transitioning to the cloud. The collaboration will focus on addressing security challenges in the “critical areas” of email security,"
+    publishedDateTime: 2021-05-10T11:09:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 72
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 121
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-126-780x470.png"
-        width: 780
-        height: 470
+      - url: "https://media.itpro.co.uk/image/upload/v1570816729/itpro/2018/10/securitybreach_shutterstock_432988318.jpg"
+        width: 1000
+        height: 679
         isCached: true
-  - title: "AI In Retail And E-Commerce Market Research Methods that Will Give You Proven Results | Study With AWS, IBM, SAP, Microsoft"
-    excerpt: "AI in retail and e-commerce is the main driver of growth through utility the growing popularity of smartphones and the convenience of buying everyday essentials and luxury goods from the comfort of home."
-    publishedDateTime: 2021-05-09T19:37:00Z
-    webUrl: "https://ksusentinel.com/2021/05/09/ai-in-retail-and-e-commerce-market-research-methods-that-will-give-you-proven-results-study-with-aws-ibm-sap-microsoft/"
+  - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
+    excerpt: "Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft"
+    publishedDateTime: 2021-05-06T12:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 45
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-Market-Research-13-3-127-780x470.png"
-        width: 780
-        height: 470
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Industrial Machine Vision Lens Market to See Incredible Growth By 2026"
-    excerpt: "Industrial Machine Vision Lens Market is predicted to grow with a CAGR of 6.1% over the forecast period by generating a revenue of $9,537.4 million by 2026. Industrial Machine Vision Lens are a form of technology that would allow a computer system to examine,"
-    publishedDateTime: 2021-05-07T13:25:00Z
-    webUrl: "https://ksusentinel.com/2021/05/07/industrial-machine-vision-lens-market-to-see-incredible-growth-by-2026/?bingParse"
+  - title: "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer"
+    excerpt: "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to"
+    publishedDateTime: 2021-05-06T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer-301285543.html"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 24
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 66
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/6-12.png"
-        width: 628
-        height: 385
+      - url: "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg?p=facebook"
+        width: 799
+        height: 419
         isCached: true
-  - title: "Machine Learning in Manufacturing Market Outlook 2021, Witness Highest Growth in near future by 2028 | Intel, IBM, Siemens, GE, Google, Microsoft"
-    excerpt: "Global Machine Learning in Manufacturing Market 2021 by major players, regions, type and application, forecast to 2028. This market report includes a forecast for 2021 and ending in 2028 with a collection of crucial information such as supply-demand ratio,"
-    publishedDateTime: 2021-05-06T05:24:00Z
-    webUrl: "https://ksusentinel.com/2021/05/06/machine-learning-in-manufacturing-market-outlook-2021-witness-highest-growth-in-near-future-by-2028-intel-ibm-siemens-ge-google-microsoft/"
+  - title: "Microsoft eyes to bring AI capabilities to Philippine health sector"
+    excerpt: "MICROSOFT Philippines, Inc. is looking to bring conversational artificial intelligence (AI) capabilities to health-care institutions in the country to help them address their patients’ needs, its top official said."
+    publishedDateTime: 2021-05-09T15:04:00Z
+    webUrl: "https://www.bworldonline.com/microsoft-eyes-to-bring-ai-capabilities-to-philippine-health-sector/"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 54
+    images:
+      - url: "https://www.bworldonline.com/wp-content/uploads/2021/03/Microsoft-032219.jpg"
+        width: 768
+        height: 419
+        isCached: true
+  - title: "Artificial Intelligence in Cyber Security Market Projected to Show Strong Growth | Amazon, Cylance Inc., Darktrace, IBM Corporation, Intel Corporation"
+    excerpt: "A latest statistical data titled as Global Artificial Intelligence in Cyber Security Market has been published by Infinity Business Insights. The report covers penetrative insights into distinctive market features such as recent trends which are comprehensively discussed in order to provide an in-depth analysis of the progress of the industries."
+    publishedDateTime: 2021-05-08T09:52:00Z
+    webUrl: "https://ksusentinel.com/2021/05/08/artificial-intelligence-in-cyber-security-market-projected-to-show-strong-growth-amazon-cylance-inc-darktrace-ibm-corporation-intel-corporation/"
     type: article
     provider:
       name: The Sentinel

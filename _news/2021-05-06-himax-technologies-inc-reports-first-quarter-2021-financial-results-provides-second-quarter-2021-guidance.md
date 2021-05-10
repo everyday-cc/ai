@@ -37,6 +37,15 @@ related:
         width: 555
         height: 555
         isCached: true
+  - title: "BioXcel Therapeutics Reports First Quarter 2021 Financial Results and Provides Business Update"
+    excerpt: "Granted FDA Breakthrough Therapy designation for BXCL501 for the acute treatment of agitation associated with dementia; registrational program"
+    publishedDateTime: 2021-05-10T11:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bioxcel-therapeutics-reports-first-quarter-2021-financial-results-and-provides-business-update-1030408520"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
 
 secured: "7M4Dns2LSA6UYErIbLOE0EsFToF4wucFHr58TW0bH2eL/YSkhBs9HZ8zsBbOvfpUUg7ey3l0F/NnIYFmt2N67MqVKndnpqhbRbYXiaxVUH1vUnCSuGTpKuCDH6fZwmZySIF/6oyAik2RK0kZy1+IL2nbjzMp33/FgcPFaAvltyNtGkbaf8VW45kiSsTAaKN1cjbifhod+TmjXG2wDFAIrO70kr8ZhMb0l+CI7xhRART40HIvLtYkk52/YxwxPta1hsLY+AN/uTozZjveBI3CeNS9nY297AxZshubMpLbjy7ZJtXiWjSCMQ8ewdSIvQFA0jQLFl5+8JXzE/m+UZnZRifmQilEsRlwl5eXT2Kl8r8=;kI7NOtLv1niTWDdqGLQWIQ=="
 ---

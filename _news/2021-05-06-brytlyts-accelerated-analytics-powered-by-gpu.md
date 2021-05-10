@@ -39,6 +39,20 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "Pecan AI Raises $35M To Accelerate AI Adoption In Predictive Analytics"
+    excerpt: "This round brings Pecan AI's total financing to more than $50 million. and will allow the company to continue to expand global operations."
+    publishedDateTime: 2021-05-10T10:52:00Z
+    webUrl: "https://nocamels.com/2021/05/pecan-ai-predictive-analytics-series-b/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/pecan.jpg"
+        width: 1200
+        height: 750
+        isCached: true
 
 secured: "XxW8Zk+37loNRlbjZOqYgd9xy8sds6VKBd/IadkfuEW4WhhUJCQyoXnAQ0ql8nttWA0Y9yQlTcXyCTfmhsLh1TsvD8nl92+5fnhCu54f+EwApUk/ugTR4WE2uEr1HV/zM2kXkZJHk4gPi/tTlX1L5cKJktdqq3CZa5756Kjues+O1Zd4B2W1PBKZjMyniAIrXvwqsQIA/A0MhNpgFjVppPhXFiTsnCp/Mdr2XEhy296qQxrzzCiD3ZI2ZgsXbGFTBVi86VoOEretzL/F7GMTHBHGPJxcsVnLl5/Z8TQB87xeTlEaBBAWsNN3LLbo0cvikTWCtjmart5x2bxavOBFwVRCd0bTx08D8wXK72bsjIY=;HmGl0Nr/yCpgW34sIOK4zg=="
 ---

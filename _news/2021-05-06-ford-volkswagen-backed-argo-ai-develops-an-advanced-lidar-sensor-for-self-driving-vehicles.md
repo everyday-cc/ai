@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ford-backed Argo sees new sensor as key for self-driving cars"
-    excerpt: "The new technology will be used for the self-driving system that will debut on Ford’s ride-hailing and delivery vehicles next year and on VW models in the middle of the decade."
-    publishedDateTime: 2021-05-09T10:23:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars-41620550983829.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars/amp-41620550983829.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars/amp-41620550983829.html"
+  - title: "Pony AI Selects Luminar’s Lidar For Next-Gen Automated Vehicle Fleet"
+    excerpt: "The reality is that most of those startups are never going to get a production program and by the end of this decade there will likely be fewer than 10 vendors supplying the whole industry."
+    publishedDateTime: 2021-05-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/samabuelsamid/2021/05/10/pony-ai-selects-luminar-iris-lidar-for-its-next-gen-automated-vehicle-fleet/"
+    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2021/05/10/pony-ai-selects-luminar-iris-lidar-for-its-next-gen-automated-vehicle-fleet/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/05/10/pony-ai-selects-luminar-iris-lidar-for-its-next-gen-automated-vehicle-fleet/amp/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/05/09/600x338/2020-04-28T015539Z_1_LYNXNPEG3R03L_RTROPTP_3_AUTOSHOW-FRANKFURT_1588074593229_1620551501846.JPG"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Texas A&M team seeks sponsors for self-driving auto race"
-    excerpt: "A team of students and employees from Texas A&M University is looking for sponsors to help it compete in a race with self-driving cars at the Indianapolis Motor Speedway."
-    publishedDateTime: 2021-05-10T05:00:00Z
-    webUrl: "https://theeagle.com/news/local/texas-a-m-team-seeks-sponsors-for-self-driving-auto-race/article_7668bb3e-b129-11eb-a481-27cad4fa5413.html"
-    type: article
-    provider:
-      name: The Eagle
-      domain: theeagle.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/7/66/7668bb3e-b129-11eb-a481-27cad4fa5413/6098833132f5a.preview.jpg?crop=648%2C365%2C0%2C141&resize=648%2C365&order=crop%2Cresize"
-        width: 648
-        height: 365
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60984c7211ebd457cbc94893%2F0x0.jpg"
+        width: 1200
+        height: 678
         isCached: true
 
 secured: "pkpdM2tjK3PI+n+8ueyYRZBj0StInAEQXjUdHtgRSSv4rX0eS6DXiggyVMoiA7fNuoalfQhjHudw10zK9mkuwIDUzpcynl275QD5mKRtzasgi+kBY7uwope+kccPQFFde3ZXQSQ9K2w0G+bV0t2A0Lnb+WP5BH5rjr4iHQvqMuAnTrKd8sxCplNJLBs1cX015wRyPfXNagi+gF2Rng18oT5ru+iX1t+aXDjTpWqBrDNA3vHKWgC2mAYzLXN234Main/l/WgP9yAk3cxvU2w2KjTQeiukB9IjCtj/0Vyxwp3LRyfo3RRLp44fcm1BoK2XUbPIiJJ/8oKl6DNsMOl+4ad2W73n7gC/5L7xoLtMuD0m/3ZHAzZ+gA1taR7U33tB3mUEAZyGZ6tRefL5QeZgs+6m8R8sDSN8iZ8f1ms+onmZoj/Sx7h1fu8YMjUN5zZ/fQ+mQk7N+cUiSqf24nYs6Ag0agb3NjjifJn3Z1O2W7xacyKkT6aHr96zUmy0TbmMGlC90LXegNikZ/88YczuFg==;LvV7c1ml1GuDSrEaQEozvQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/training-privacy-key-to-artific
 webUrl: "https://healthitanalytics.com/news/training-privacy-key-to-artificial-intelligence-use-post-covid"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2020/03/corona3.jpg?fit=682%2C284&zoom=2&quality=100&strip=all&ssl=1"
         width: 1363
         height: 568
+        isCached: true
+  - title: "Artificial intelligence reduces the time to diagnose COVID-19 on CT scans by a third"
+    excerpt: "The technology reduces the time required to process the images by about 30 percent and helps to diagnose the disease faster."
+    publishedDateTime: 2021-05-10T06:09:00Z
+    webUrl: "https://www.mos.ru/en/news/item/89990073/"
+    type: article
+    provider:
+      name: mos
+      domain: www.mos.ru
+    quality: 32
+    images:
+      - url: "https://www.mos.ru/open-graph/v1/frontend/en/news/item/89990073/"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Harnessing the Power of Smart and Connected Health to Tackle COVID-19: IoT, AI, Robotics, and Blockchain for a Better World"
     excerpt: "As COVID-19 hounds the world, the common cause of finding a swift solution to manage the pandemic has brought together researchers, institutions, governments, and society at large. The Internet of Things (IoT),"

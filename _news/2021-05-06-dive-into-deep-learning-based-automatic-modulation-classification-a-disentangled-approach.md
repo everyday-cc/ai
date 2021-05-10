@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Male infertility scoring using AI-assisted image classification requiring no programming"
+    excerpt: "A research group led by Dr. Hideyuki Kobayashi at Toho University Omori Medical Center in Tokyo developed an AI-assisted image classifier that provides scores for histological testis images of patients with azoospermia."
+    publishedDateTime: 2021-05-10T11:42:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-male-infertility-scoring-ai-assisted-image.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-male-infertility-scoring-ai-assisted-image.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-male-infertility-scoring-ai-assisted-image.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 48
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/male-infertility-scori-1.jpg"
+        width: 1309
+        height: 715
+        isCached: true
   - title: "A method for utilizing automated machine learning for histopathological classification of testis based on Johnsen scores"
     excerpt: "We examined whether a tool for determining Johnsen scores automatically using artificial intelligence (AI) could be used in place of traditional Johnsen scoring to support pathologists’ evaluations. Average precision,"
     publishedDateTime: 2021-05-10T00:15:00Z

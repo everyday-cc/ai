@@ -36,33 +36,21 @@ related:
         width: 1200
         height: 759
         isCached: true
-  - title: "How Tough Conditions and Contested Communication Are Forcing the US Military To Reinvent AI"
-    excerpt: "Those miracle apps on your phone are powered by cloud computing and high-bandwidth data transfer. What does AI look like when those features are missing?"
-    publishedDateTime: 2021-05-05T18:17:00Z
-    webUrl: "https://www.defenseone.com/technology/2021/05/how-tough-conditions-and-contested-communication-are-forcing-us-military-reinvent-ai/173833/"
+  - title: "Pushing Computing to the Edge With Innovative Microchip Design to Make AI Accessible in Real-Time"
+    excerpt: "Responding to artificial intelligence’s exploding demands on computer networks, Princeton University researchers in recent years have radically increased the speed and slashed the energy use of specialized AI systems."
+    publishedDateTime: 2021-05-10T11:22:00Z
+    webUrl: "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/"
+    ampWebUrl: "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/"
     type: article
     provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 29
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 46
     images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2021/05/05/6421263/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Application of machine learning to large in vitro databases to identify drug–cancer cell interactions: azithromycin and KLK6 mutation status"
-    excerpt: "Recent advances in machine learning promise to yield novel insights by interrogation of large datasets ranging from gene expression and mutation data to CRISPR knockouts and drug screens. We combined existing and new algorithms with available experimental data to identify potentially clinically relevant relationships to provide a proof of principle for the promise of machine learning in oncological drug discovery."
-    publishedDateTime: 2021-05-05T17:47:00Z
-    webUrl: "https://www.nature.com/articles/s41388-021-01807-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 4
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41388-021-01807-4/MediaObjects/41388_2021_1807_Fig1_HTML.png"
-        width: 685
-        height: 438
+      - url: "https://scitechdaily.com/images/New-Type-of-Neural-Net-Accelerator-Chip-777x421.jpg"
+        width: 777
+        height: 421
         isCached: true
 
 secured: "WDwbxUBiDb0oDni6ni+R6SwLrEk+CrQbUEgezdEbs7R0z/zt+IvT42OcMjGBOp7hNRVbcrk2172l7DnqcFB4NvXU5Bzx2hyOFbt+oxs2AsSVFr2sHTX8TRd3Cy+Iyc1vNmWDQY9qOUh6XMakSf9ws/oL3QbcpW/lfj8xvvG21VrxfLDvyv6aj5XSlJ5PMOxQ7coOLFD6AQgURXNGAQ1+kAXUb3dYjYMLP6Bug5GnRTjWugESR7ZcEYewYfNTzyzKpJ0wLPZefVDt+mr637/wjUpgBprmHXq+XCfUBQXruEvgX2H20zExC8QMCWcOUzvyASkQ6Vjfg+VNRl9nVAyJSu3LNp/ajdX64SxYfNcxysU=;z8OHFP9incOIubXo+wYLrA=="

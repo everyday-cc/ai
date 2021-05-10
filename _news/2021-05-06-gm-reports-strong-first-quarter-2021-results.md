@@ -7,7 +7,7 @@ originalUrl: "https://www.albawaba.com/business/pr/gm-reports-strong-first-quart
 webUrl: "https://investor.gm.com/news-releases/news-release-details/gm-reports-strong-first-quarter-2021-results"
 type: article
 quality: 122
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "BioXcel Therapeutics Reports First Quarter 2021 Financial Results and Provides Business Update"
+    excerpt: "Granted FDA Breakthrough Therapy designation for BXCL501 for the acute treatment of agitation associated with dementia; registrational program"
+    publishedDateTime: 2021-05-10T11:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bioxcel-therapeutics-reports-first-quarter-2021-financial-results-and-provides-business-update-1030408520"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
   - title: "Himax Technologies, Inc. Reports First Quarter 2021 Financial Results; Provides Second Quarter 2021 Guidance"
     excerpt: "Company Q1 2021 Revenues, Gross Margin and EPS all Exceed Guidance; Revenues, Gross Margin and EPS All Meet Its Pre-Announced Key Financial Results and Reached Record Highs Provides Q2 2021 Guidance: Revenues to Increase by 15%-20% sequentially,"
     publishedDateTime: 2021-05-06T10:12:00Z

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "IBM's newest chip can put 50bn transistors onto a fingernail"
+    excerpt: "More transistors on a chip also means processor designers have more options to improve capabilities for leading edge workloads like AI and cloud computing, as well as new pathways for hardware-enforced security and encryption. The potential benefits of ..."
+    publishedDateTime: 2021-05-10T11:18:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/ibms-newest-chip-can-put-50bn-transistors-onto-a-fingernail"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 54
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1620645231/widgetdocs/IBM_Research_2_nm_Wafer_cyfs78.jpg"
+        width: 750
+        height: 600
+        isCached: true
   - title: "IBM unveils first 2nm chip"
     excerpt: "IBM has unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip using nanometer (nm) nanosheet technology. Semiconductors, or computer chips, play critical roles in everything from computing,"
     publishedDateTime: 2021-05-10T09:44:00Z

@@ -68,20 +68,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "Sexism in Facial Recognition Technology"
-    excerpt: "Shreya Tewari provides an overview of recent work on facial recognition technology -- and calls for greater transparency. “Presenting AI with a diverse representation of datasets for it to learn from would be a great start in reversing the prevalent biases."
-    publishedDateTime: 2021-05-05T19:02:00Z
-    webUrl: "https://cyber.harvard.edu/story/2021-05/sexism-facial-recognition-technology"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "States limiting police use of facial recognition tech"
     excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing"
     publishedDateTime: 2021-05-05T22:33:00Z

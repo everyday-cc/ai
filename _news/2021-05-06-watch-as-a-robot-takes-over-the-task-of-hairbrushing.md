@@ -7,7 +7,7 @@ originalUrl: "https://insights.globalspec.com/article/16492/watch-as-a-robot-tak
 webUrl: "https://insights.globalspec.com/article/16492/watch-as-a-robot-takes-over-the-task-of-hairbrushing"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "A robot that can help you untangle your hair"
-    excerpt: "Researchers from MIT and Harvard have developed a robotic arm setup with a sensorized soft brush. The robot is equipped with a camera that helps it “see” and assess curliness, so it can plan a delicate and time-efficient brush-out."
-    publishedDateTime: 2021-05-05T17:30:00Z
-    webUrl: "https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 84
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202104/MIT-RoboWig-Sideview_0.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
 
 secured: "8DM6KShP+iG5be55EfCrxJHBQqzCnIbdnY/YvNyYw44C50NtgHrCaUUnx35V7wzMeWZCcgbCMothaY257v2DvzybS4/FQ6hK9hPWYHXjdOo+GbVwG+DbwI+88Ms+NTAsRbcdV7MgWGDgGFIjX7gp4vsX1LWJIQYRxJf0prrRCh9Xk+Z9JZmf1L0VtjPTWTwc8vrGsSk5YW57FMsducuCdWKJpFynXY3xfW42PZkhPGFSo1GaPHuzy5PfZaAIcbX5Xm9bvMwckoTCuPUe8qyxguTbIF4/YGHnBdxhanPXAskf5hjZuHlP5g4Duo9LAezTwz+8Xz4JnTeQvWtpRYYNKcH8hze35/nqETYP+gong0PSUwv6Z1ILUyXkO4lHlce8qnkQYrTPkcT8U3zoOkj68hMSCOQTni+5txWXjCbEZu561tUPGn5A+8klefxD6xdtSSGViPDijG0C846zuYH/IdIxYJeK+T++tUgueAdk63Ai655TJOoYDSaNrqBlAxNAgH+k+Gz05oaq7CiEzueEMA==;/q2PghaTJNIfjqTKiuEKDA=="
 ---
