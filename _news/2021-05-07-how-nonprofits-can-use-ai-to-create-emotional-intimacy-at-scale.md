@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/how-nonprofits-can-use-ai-to-create-emotional
 webUrl: "https://www.unite.ai/how-nonprofits-can-use-ai-to-create-emotional-intimacy-at-scale/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 899
     height: 600
     isCached: true
-
-related:
-  - title: "How GCHQ proposes to implement and use ethical AI"
-    excerpt: "The rise of cyber crime and the escalating threat vectors facing the UK have led GCHQ to invest in automated threat detection and response systems to meet this challenge, as well as liaising with the private sector for the first time."
-    publishedDateTime: 2021-05-05T06:30:00Z
-    webUrl: "https://www.computerweekly.com/feature/How-GCHQ-proposes-to-implement-and-use-ethical-AI"
-    ampWebUrl: "https://www.computerweekly.com/feature/How-GCHQ-proposes-to-implement-and-use-ethical-AI?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/How-GCHQ-proposes-to-implement-and-use-ethical-AI?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
 
 secured: "eAhHSf92msCLyRBcZTUrCu6r2NyA/IecBBxRoKt9FvLNWiumn+lsazQfCjdrU8a3ht5dxm/PcGSDckiTEGkPFnd62aiX8BOknmEU/ff0e/a3R1VgGl1Kte/qz3bf4x62FE/XCafKN37BmcomPItQZFMAHhxKi+f0h39Bn9uynJ51mNxMAyjl6R3SsTKB0F4VzCMgef0pltCOY7UEP0jzgXHQ8tNbQIrTD6Zjr6d6g+nfrcxn4um2sXs70n5XHjGiLXMaE2WF7baUEgjV4xgQAPit2N5BasGc+eYiMRqnHtMwzfGqDyuE2BRYHmaS57sqLuDfZ4O4lmFvFk0KMUR73187G4X2Fo+y0+6e7BllKv6+9k3DDSq2VFkiKQ5PFSVEGqWK4Eix9efy3pE4G+JNFZzH5Ycl8urd6Z3TXvQcQZCrBepAkD3eGcedDgshIPmLL4SBV1ast4EfJz253kaGLz6QbCa/Mgwp3aBZ9lbtNsEsOe9FskAtOsWJQoYadkrOPEFgiN0vKhi+ZnWbnyK9ww==;zkcv8SJBPeT6+kWN1wnXuQ=="
 ---

@@ -2,6 +2,102 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-04-23-nvidia-crushes-latest-artificial-intelligence-benchmarking-tests.md",
+      "title": "NVIDIA Crushes Latest Artificial Intelligence Benchmarking Tests",
+      "excerpt": "Goodson dives deeper as in its third round of submissions, MLCommons released results for MLPerf Inference v1.0.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6081e85001858f30506843b4%2F0x0.png",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/amp/",
+      "publishedDateTime": "2021-04-22T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-university-of-alaska-anchorage-today-ai-webinar-will-explore-the-development-of-self-driving-vehicles.md",
+      "title": "University Of Alaska Anchorage: TODAY: AI Webinar Will Explore The Development Of Self-Driving Vehicles",
+      "excerpt": "By 2019, many car and technology companies had implemented autonomous car programs, and Google's Waymo launched the world's first commer",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/alaska/anchorage/university-alaska-anchorage-today-ai-webinar-will-explore-development-self-driving",
+      "originalUrl": "https://patch.com/alaska/anchorage/university-alaska-anchorage-today-ai-webinar-will-explore-development-self-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-build-an-event-based-tracking-solution-using-amazon-lookout-for-vision.md",
       "title": "Build an event-based tracking solution using Amazon Lookout for Vision",
       "excerpt": "Amazon Lookout for Vision is a machine learning (ML) service that spots defects and anomalies in visual representations using computer vision (CV). With Amazon Lookout for Vision, manufacturing companies can increase quality and reduce operational costs by quickly identifying differences in images of",
@@ -1032,110 +1128,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-9-investors-execs-and-founders-discuss-zagrebs-startup-potential.md",
-      "title": "9 investors, execs and founders discuss Zagreb’s startup potential",
-      "excerpt": "\"With the COVID-19 pandemic, it's easier to land remote jobs and stay in Zagreb, which will positively impact the Croatian startup ecosystem.\"",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/",
-      "originalUrl": "https://techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-513919973.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/amp/",
-      "publishedDateTime": "2021-04-21T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-members-of-googles-ethical-ai-team-reportedly-complained-about-harassment-and-bias-years-before-being-fired.md",
-      "title": "Members of Google's ethical AI team reportedly complained about harassment and bias years before being fired",
-      "excerpt": "Two of Google's most high-profile AI researchers reportedly raised concerns around bias, sexual harassment, and bullying before they were ousted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-ai-ethics-timnit-gebru-fired-technology-2021-4",
-      "originalUrl": "https://www.businessinsider.com/google-ai-ethics-timnit-gebru-fired-technology-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fc872a2037cbd0018613842?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-ai-ethics-timnit-gebru-fired-technology-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-ethics-timnit-gebru-fired-technology-2021-4?amp",
-      "publishedDateTime": "2021-04-21T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

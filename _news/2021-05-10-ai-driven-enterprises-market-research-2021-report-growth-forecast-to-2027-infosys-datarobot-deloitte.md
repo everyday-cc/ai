@@ -24,6 +24,17 @@ images:
     height: 470
     isCached: true
 
-secured: "t9BLDVom2BvEajZnlRcljXdFc+fJbUYFLo5Jz/e9BsaGUJjgrOXoTC4pukVVgOKrwZNvMlT9RqBGMDRDtYfRKdN+k7PZ7QlyOxBY3epktzQ85lk8ZhiXwUQCYrUi/GmCFkyhOrlB4wy0UapSsvo/vwOzsM8wDw9hcLtwxVN3ZneBhi3Cl4uw83RAEOKyQTgvTWe/VeQiVpde24SKFSMMvtf+eYp5EA+bh2DMRaGtzjtP0m0qhUAkTTylI1SDKSaFhiygrP1BWiKDyxJERomSS79wKcJJNe2HlrPIV85XVD0DKEgJQWdu0DcX7GjjzLi4w7jB0bkonpVfJz3ijc0IuRZb4Pdi3DFSWOF+gzDBmRo=;ajKdNjSHmoEzd/xYhguIIg=="
+related:
+  - title: "Global Artificial Intelligence Market Gains Momentum DURING FORECAST PERIOD of 2021 to 2027 – MRS"
+    excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence Market Analysis and Forecast 2020-2026. Latest updated report published by Ma"
+    publishedDateTime: 2021-05-09T22:12:00Z
+    webUrl: "https://ksusentinel.com/2021/05/09/global-artificial-intelligence-market-gains-momentum-during-forecast-period-of-2021-to-2027-mrs/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 19
+
+secured: "6+8CRldY8GyadVoMWguPva0kEtUdVl4cE3VTD6a0wWqCNZNL0ehoGaflxmorg2Z5acpcKd3PlipxJNBAG+w+Y5aR2CTI3Thstchay3CwfH1C9qta5+o5Ua5//XpErlt/IrwW8tuINhTgV+eX+5bzQnUp2x+n+akVInPx6uSgJKXdYQHbFlrw4Bt7ZowT4t9rIvpz2W+6yth2pJqSJpr/0futWNxDWqrAErJjKqq8jYK0Rc18IyvGqz32G4M1NO/5p8l6fEGl+H1SmbC66KU8e/g5OWpHdXS5d/+dUsJltf6KpwrQTG4Dni2Pr4fAjIQO/aAqXaO9eVMsVbkf2Ga97+6u7KW33+zv1T9TLpHVJ5z0TYDZp34fSdT1vBHv+IrTd31wVOy4ikYk24uTlcWq2R+Dl6cgyMgxhPMCdNLXdnzVrBlIaxTZIBqIV9aJ3B06YR2beqvWAQiX9wN0aBR6B/8sKSdkrH+gwS7S3TeE2kYXRMFHoCgFI9Ru2W6khAu4qsvziz26RP30KHG7kLRigA==;fdsTf+n3JCQQxq1SjPmP0Q=="
 ---
 

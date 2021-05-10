@@ -2,6 +2,110 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-22-9-investors-execs-and-founders-discuss-zagrebs-startup-potential.md",
+      "title": "9 investors, execs and founders discuss Zagreb’s startup potential",
+      "excerpt": "\"With the COVID-19 pandemic, it's easier to land remote jobs and stay in Zagreb, which will positively impact the Croatian startup ecosystem.\"",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/",
+      "originalUrl": "https://techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-513919973.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/amp/",
+      "publishedDateTime": "2021-04-21T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-members-of-googles-ethical-ai-team-reportedly-complained-about-harassment-and-bias-years-before-being-fired.md",
+      "title": "Members of Google's ethical AI team reportedly complained about harassment and bias years before being fired",
+      "excerpt": "Two of Google's most high-profile AI researchers reportedly raised concerns around bias, sexual harassment, and bullying before they were ousted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-ai-ethics-timnit-gebru-fired-technology-2021-4",
+      "originalUrl": "https://www.businessinsider.com/google-ai-ethics-timnit-gebru-fired-technology-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc872a2037cbd0018613842?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-ai-ethics-timnit-gebru-fired-technology-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-ethics-timnit-gebru-fired-technology-2021-4?amp",
+      "publishedDateTime": "2021-04-21T21:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-ai-chatbot-maker-juji-jumps-into-higher-education.md",
       "title": "AI chatbot maker Juji jumps into higher education",
       "excerpt": "Juji co-founder Michelle Zhou said her company’s chatbots are more flexible and their models come pre-trained for higher education customers.",
@@ -1070,101 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai.md",
-      "title": "IBM Launches New Watson Capabilities to Help Businesses Build Trustworthy AI",
-      "excerpt": "today announced new capabilities for IBM Watson designed to help businesses build trustworthy AI. These capabilities further expand Watson tools designed to help businesses govern and explain AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/04/n20727354/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/n20727354/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20727354",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20727354",
-      "publishedDateTime": "2021-04-21T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-5-things-to-know-about-ibms-earnings-report.md",
-      "title": "5 Things to Know About IBM's Earnings Report",
-      "excerpt": "Here are five key things to know about IBM's results. IBM offers a public cloud platform similar to market leaders Amazon Web Services and Microsoft Azure, but the company's main focus is on hybrid cloud computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F622197%2Fibmz_01_ships-3.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/21/5-things-to-know-about-ibms-earnings-report/",
-      "publishedDateTime": "2021-04-21T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-29-elon-musk-teslas-next-full-self-driving-beta-update-will-blow-your-mind.md",
+      "title": "Elon Musk: Tesla’s next Full Self-Driving Beta update ‘will blow your mind’",
+      "excerpt": "Elon Musk now says that Tesla’s next Full Self-Driving Beta software update ‘will blow your mind’ and it’s only about two weeks away. Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through what it calls its “early access program”.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/",
+      "originalUrl": "https://electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/29/elon-musk-tesla-next-full-self-driving-beta-update-will-blow-your-mind/amp/",
+      "publishedDateTime": "2021-04-29T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving.md",
+      "title": "Baidu Apollo to Launch Fully Driverless Ride-Hailing Services in Beijing, Demonstrating a New Commercialization Model for Autonomous Driving",
+      "excerpt": "Baidu, Inc. (NASDAQ: BIDU and HKEX: 9888) will open fully driverless robotaxi services to the public in Beijing starting from May 2,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-301279856.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-demonstrating-a-new-commercialization-model-for-autonomous-driving-301279856.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1499692/Baidu_Apollo_s_fully_driverless_robotaxis_motion.jpg?p=facebook",
+          "width": 1385,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-uk-prepares-to-conditionally-legalize-self-driving-cars.md",
       "title": "UK prepares to conditionally legalize self-driving cars",
       "excerpt": "The UK's Department of Transport has announced that it's moving to conditionally legalize self-driving cars in which the driver doesn't have to pay attention to the road or keep their hands on the wheel,",
@@ -1300,101 +1395,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-google-turmoil-exposes-cracks-long-in-making-for-top-ai-watchdog.md",
-      "title": "Google Turmoil Exposes Cracks Long in Making for Top AI Watchdog",
-      "excerpt": "Gebru had emerged as one of a handful of artificial intelligence researchers who was ... Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSRM08lQd4Tc/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-meituan-raises-10-bln-for-self-driving-cars-drone-delivery.md",
-      "title": "Meituan raises $10 bln for self-driving cars, drone delivery",
-      "excerpt": "Chinese food delivery giant Meituan The Beijing-based firm, China’s largest food delivery platform, said in a filing to the Hong Kong stock exchange that it sold 187 million additional shares in a top-up placement at 273.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/17/55/03/20893889/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php",
-      "publishedDateTime": "2021-04-21T00:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

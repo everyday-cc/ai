@@ -303,15 +303,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "2 Top Self-Driving Car Stocks to Buy in 2021"
-    excerpt: "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data."
-    publishedDateTime: 2021-05-05T11:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Elon Musk's own executives admit to the California DMV that he is exaggerating about Tesla's capability to achieve full self-driving technology by the end of 2021"
     excerpt: "In a memo with the California DMV, Tesla's executives privately admitted that Elon Musk is exaggerating about all of the company's cars to have full self-driving technology"
     publishedDateTime: 2021-05-07T21:50:00Z

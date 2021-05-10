@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/technology/wixcom-buys-riseai-to-ad
 webUrl: "https://www.reuters.com/technology/wixcom-buys-riseai-add-gift-cards-e-commerce-platform-2021-05-05/"
 type: article
 quality: 137
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wix acquires Rise.ai to bolster its customer re-engagement offerings"
-    excerpt: "Rise.ai's software aims to help merchants optimize their online commerce offerings through customized gift cards and other customer re-engagement tactics."
-    publishedDateTime: 2021-05-05T06:01:00Z
-    webUrl: "https://www.zdnet.com/article/wix-acquires-rise-ai-to-bolster-its-customer-re-engagement-offerings/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/wix-acquires-rise-ai-to-bolster-its-customer-re-engagement-offerings/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wix-acquires-rise-ai-to-bolster-its-customer-re-engagement-offerings/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/05/05/4cf56c8d-7dea-44b9-b145-0ec8e6c128f1/wix-ecommerce-2.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Wix buys Israeli startup Rise.ai to offer stores customer-loyalty tools"
     excerpt: "Tel Aviv based-startup, set up in 2015, is a developer of software that allows merchants to re-engage with customers using gift cards, rewards and referrals"
     publishedDateTime: 2021-05-05T13:05:00Z

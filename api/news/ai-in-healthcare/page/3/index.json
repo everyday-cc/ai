@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-05-artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025.md",
+      "title": "Artificial Intelligence In Healthcare Market Analysis Reports Revenue Growth Globally During The Forecast Period 2021-2025",
+      "excerpt": "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research recently added a report on 'Artificial Intelligence In Healthcare Market’ in its database of market research reports which provides its readers an in-depth analysis on the latest trends, growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025-2021-04-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2021-2025-2021-04-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-04T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-advanced-baby-lung-simulator-with-real-time-artificial-intelligence.md",
       "title": "Advanced Baby Lung Simulator with Real-Time Artificial Intelligence",
       "excerpt": "high end baby lung simulator with real-time artificial intelligence. The input of an operator is needed to react to therapy provided by the trainer or learner with conventional, complex simulators ...",
@@ -1158,40 +1210,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-16T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-deloitte-unveils-artificial-intelligence-institute-for-government.md",
-      "title": "Deloitte Unveils Artificial Intelligence Institute for Government",
-      "excerpt": "WASHINGTON, March 16, 2021 /PRNewswire/ -- Deloitte’s government and public services practice announced the new Deloitte Artificial Intelligence Institute ... of government to improve everything from health care to national defense.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-products-and-services-5761b8ca23ca6366d298cc46ba92fe1a",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-products-and-services-5761b8ca23ca6366d298cc46ba92fe1a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T05:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",

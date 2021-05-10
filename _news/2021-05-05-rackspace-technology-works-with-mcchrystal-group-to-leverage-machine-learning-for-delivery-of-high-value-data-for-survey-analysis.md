@@ -19,17 +19,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Rackspace Technology Works with McChrystal Group to Leverage Machine ..."
-    excerpt: "Rackspace Technology® (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, announced today its relationship with McChrystal Group, a renowned advisory services and leadership"
-    publishedDateTime: 2021-05-05T05:05:00Z
-    webUrl: "https://www.generation-nt.com/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-newswire-1987935.html"
-    type: article
-    provider:
-      name: GNT
-      domain: generation-nt.com
-    quality: 3
-
 secured: "8GaW44k6UbbEWZTTBAWGuZPApe+T5GRQkZT2mCUG7nUuadc0exeDAG62jbhvlFjQhiCZ1Jbas6i60BamC5o81XGIG417DwRqxSe/MVkfugufVnik0iTWFqrpmhtcB3I1FOPT0yu7uytw29V+CdVKGxe0Kd4npnqFdopueKlNYKCUs6fQCHNvsXXVqbaJnsq/xby9SqOkjDYp+smWhU1XCgpp0mm5RTmvMrFkBNN6dNNKV4yEyWaZFH0RVhpm3pIHzOYpR1bTNKDaccoq6lQ05YauIZq2tS0FbGxuQF10QH2RVJPBrDyIor/rAlDqKoxBIAJeQffTEfQGNpylgN3t9t6CTuocpetscKNdxRnsQeM=;YNitiOPILuqh5j8ZQ5edBw=="
 ---
 

@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Wix acquires Rise.ai to bolster its customer re-engagement offerings"
-    excerpt: "Rise.ai's software aims to help merchants optimize their online commerce offerings through customized gift cards and other customer re-engagement tactics."
-    publishedDateTime: 2021-05-05T06:01:00Z
-    webUrl: "https://www.zdnet.com/article/wix-acquires-rise-ai-to-bolster-its-customer-re-engagement-offerings/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/wix-acquires-rise-ai-to-bolster-its-customer-re-engagement-offerings/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wix-acquires-rise-ai-to-bolster-its-customer-re-engagement-offerings/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/05/05/4cf56c8d-7dea-44b9-b145-0ec8e6c128f1/wix-ecommerce-2.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Wix Acquires Israelis Startup Rise.ai To Extend Wix eCommerce Platform"
     excerpt: "Wix aims to provide a full solution for merchants to manage re-engagement activities for customers, to increase customer spending and repurchases."
     publishedDateTime: 2021-05-06T11:05:00Z

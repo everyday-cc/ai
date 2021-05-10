@@ -7,7 +7,7 @@ originalUrl: "https://www.fedscoop.com/naiio-launches-ai-website/"
 webUrl: "https://www.ai.gov/"
 type: article
 quality: 137
-heat: 147
+heat: 148
 published: true
 
 provider:

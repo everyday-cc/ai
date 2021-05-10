@@ -2,6 +2,75 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-03-18-artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting.md",
+      "title": "Artificial Intelligence in Healthcare: Interview With Nilesh Chandra, Healthcare Expert at PA Consulting",
+      "excerpt": "With the recent news that IBM is looking to sell Watson Health – the company’s interactive, AI platform that can answer human-posed questions in seconds – some think this might be indicative of a wider problem with the use of AI in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/",
+      "originalUrl": "https://techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/amp/",
+      "publishedDateTime": "2021-03-17T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-anywordss-technology-can-predict-marketing-language-performance-prior-to-campaign-launch.md",
+      "title": "Anywords’s Technology Can Predict Marketing Language Performance Prior to Campaign Launch",
+      "excerpt": "Anywords’s Technology Can Predict Marketing Language Performance Prior to Campaign Launch New York, NY – March 15, 2021 — Anyword, formerly known as Keywee, is the world’s first Language Optimization Platform that helps marketers easily optimize the words that they use,",
+      "sourceUrl": null,
+      "webUrl": "https://thewisemarketer.com/channels/data-driven-marketing/anyword-introduces-first-language-optimization-platform-for-performance-marketing/",
+      "originalUrl": "https://thewisemarketer.com/channels/data-driven-marketing/anyword-introduces-first-language-optimization-platform-for-performance-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thewisemarketer.com",
+        "domain": "thewisemarketer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-an-ibm-ai-debates-humansbut-its-not-yet-the-deep-blue-of-oratory.md",
       "title": "An IBM AI Debates Humans—but It’s Not Yet the Deep Blue of Oratory",
       "excerpt": "In 1997 IBM’s Deep Blue became the first computer to defeat a reigning chess champion, besting titan Garry Kasparov in a six-game match. Fourteen years later IBM’s Watson defeated Jeopardy! all-stars Brad Rutter and Ken Jennings at their own game.",
@@ -860,74 +929,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-how-is-speech-recognition-affected-by-face-masks.md",
-      "title": "How is speech recognition affected by face masks?",
-      "excerpt": "News-Medical speaks to Dr. Joe Toscano about his latest research that investigated the impact that face masks have on speech recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210317/How-is-speech-recognition-affected-by-face-masks.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210317/How-is-speech-recognition-affected-by-face-masks.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210317/How-is-speech-recognition-affected-by-face-masks.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210317/How-is-speech-recognition-affected-by-face-masks.aspx",
-      "publishedDateTime": "2021-03-17T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-baidu-gets-chinas-first-permit-to-charge-robotaxi-users.md",
-      "title": "Baidu Gets China's First Permit to Charge Robotaxi Users",
-      "excerpt": "(Yicai Global) March 16 -- Baidu has become China's first company to be given the green light to charge passengers for self-driving car rides, according to the tech giant. The search engine behemoth has been given permission by local traffic authorities in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/baidu-gets-china-first-permit-to-charge-clients-for-robotaxis-",
-      "originalUrl": "https://www.yicaiglobal.com/news/baidu-gets-china-first-permit-to-charge-clients-for-robotaxis-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
