@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp"
 type: article
 quality: 121
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft partners with Darktrace to help customers combat cyber threats with AI"
+    excerpt: "Microsoft and Darktrace have formed a new partnership to use 'self-learning' artificial intelligence to help organizations in the UK quickly respond to various types of cyber threats."
+    publishedDateTime: 2021-05-10T17:02:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-partners-with-darktrace-to-help-customers-combat-cyber-threats-with-ai/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 79
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620674547_darktrace2-2-960x640_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
     excerpt: "Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft"
     publishedDateTime: 2021-05-06T12:08:00Z

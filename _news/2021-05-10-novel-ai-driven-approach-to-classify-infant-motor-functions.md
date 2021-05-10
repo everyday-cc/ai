@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 519
         isCached: true
+  - title: "Research harnesses AI to fight breast cancer"
+    excerpt: "Breast cancer has recently overtaken lung cancer to become the most common cancer globally, according to the World Health Organization. Advancing the fight against breast cancer, the BreastPathQ Challenge was launched at SPIE Medical Imaging 2019 to support the development of computer-aided diagnosis for assessing breast cancer pathology."
+    publishedDateTime: 2021-05-10T21:01:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-harnesses-ai-breast-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-harnesses-ai-breast-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-harnesses-ai-breast-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/grand-challenge-resear.jpg"
+        width: 920
+        height: 450
+        isCached: true
 
 secured: "rDY32Xe553/QRmBr515ALVYmYPEYB6yAkKtaLkLRoy8BddBUc0Kwn03ONSdVvJ4UgyXvs93KxuYHdrL+JnA4ZoF60cHl9vDccwSooyaE50X6PAxSHPA6sWfw6bGgnOdEOQlQY9kmhKVnsi8dFPHQCDQobRxni0cTUWvxMPpk8iFzOWzkRZGsaQ9kEDt7Q8cE0N6jDJ7Wx9qKx7538ahDkaBSO6hDQR8Ma6h6DNwwY0BK8RU46RPj/VUy1R0IyO6COUKlwry8U1Ho7lODEE4r4E9jYSAT+04DX2jueYQNTQXPsRgF6pPPA9Xsx/r/47lBggIFsPyucjqgbMgix9tbRk7OpJHGb4HOUNq61UIqAlyjahvLHIKMdJIQhH7J0TDiiZTSzyZlraJEqRt8UmmNCAQFlQsSjJF7allIc4wLSzuFV5JBZy9PlLa82Ci5FggQ805k0U3pAoSVDRJaiyfY2LG+wRCUplhDVesqEosBkHs13EfPW8bIg1RJHe3x1XVRxseuAhduq8vwFNNtisCE7g==;BX5nqDf+dj2ktzulmMdAow=="
 ---

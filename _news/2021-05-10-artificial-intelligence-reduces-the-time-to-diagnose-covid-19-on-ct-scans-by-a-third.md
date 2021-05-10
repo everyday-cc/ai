@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Training, Privacy Key to Artificial Intelligence Use Post-COVID"
-    excerpt: "Artificial intelligence became a key public health tool during COVID-19, but its continued use will require increased training and privacy protections."
-    publishedDateTime: 2021-05-06T16:33:00Z
-    webUrl: "https://healthitanalytics.com/news/training-privacy-key-to-artificial-intelligence-use-post-covid"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 56
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "COVID-19 scam ads decline, but AI systems risk catching legitimate vaccine messages in their traps"
     excerpt: "Around 31% of all coronavirus-related ads assessed by The Media Trust in February 2021 were labeled as \"coronavirus suspicious.\""
     publishedDateTime: 2021-05-10T04:01:00Z
@@ -55,15 +41,6 @@ related:
         width: 1363
         height: 568
         isCached: true
-  - title: "Harnessing the Power of Smart and Connected Health to Tackle COVID-19: IoT, AI, Robotics, and Blockchain for a Better World"
-    excerpt: "As COVID-19 hounds the world, the common cause of finding a swift solution to manage the pandemic has brought together researchers, institutions, governments, and society at large. The Internet of Things (IoT),"
-    publishedDateTime: 2021-05-08T11:23:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9406879"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 23
 
 secured: "LLYcnSd0roS7jko/k2rHChp3FMTNi+l2r/y4lwJ7HOavrDfTSsZiJIIJhpoRZAbcJhcsRxAnhurUS27BEDaMWLB5iqipi/xa613F2MFp8jk+2p1DxCEX+HC7Rbel7cJvN75J7KnePt0gMQD/X/0vNTAVpFsBU1EkEH9L8JIqGcihZE2oeTp8ewWTF/FxeGUW4D4wRsexHVbMk5TTjhWGKj2KzZwy3xSCPKburP3bwyhen39DjpC4Dc4i4vBexJsUb37VGCEevigVPUlrCUwYYrunzliIXbVe8ANJRIUbgU66c/tqNOlgReiyQp9TtDSf/1INH4Fy+m0jNQrs1Zm9yUhX5JZUH/Vyc7JwYt/tgi8DfXEZDqz6QizmSRSIBsuv5gYRB4Lt11I+KPjrulQahRwsI19lsa1WwJ9utPQSuawn6b4fKmYFOZRzBNhehmJq9aMf40NWVj50zF0M63Ea7l5/r2dq1eFKkigXntaps888o90Bkj8y/kuIXn3ZFhJRYxkcvUm/C605XL5l6Rai4Q==;n7cme/t0c5O+SrbBo/Oihw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://healthitanalytics.com/news/training-privacy-key-to-artific
 webUrl: "https://healthitanalytics.com/news/training-privacy-key-to-artificial-intelligence-use-post-covid"
 type: article
 quality: 56
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Analytics
@@ -26,45 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "COVID-19 scam ads decline, but AI systems risk catching legitimate vaccine messages in their traps"
-    excerpt: "Around 31% of all coronavirus-related ads assessed by The Media Trust in February 2021 were labeled as \"coronavirus suspicious.\""
-    publishedDateTime: 2021-05-10T04:01:00Z
-    webUrl: "https://digiday.com/marketing/covid-19-scam-ads-decline-but-ai-systems-risk-catching-legitimate-vaccine-messages-in-their-traps/"
-    ampWebUrl: "https://digiday.com/marketing/covid-19-scam-ads-decline-but-ai-systems-risk-catching-legitimate-vaccine-messages-in-their-traps/amp/"
-    cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/marketing/covid-19-scam-ads-decline-but-ai-systems-risk-catching-legitimate-vaccine-messages-in-their-traps/amp/"
+  - title: "Jobs Lost To Industrial Robots Amidst COVID-19 May Never Come Back To Human Beings"
+    excerpt: "With intelligent machines on the horizon and with an industrial focus on enhancing productivity and lowering costs in the post-pandemic era, artificial intelligence (AI) and autonomous robots are destined to win this bid of the future job market."
+    publishedDateTime: 2021-05-09T17:20:00Z
+    webUrl: "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/"
+    ampWebUrl: "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/amp/"
     type: article
     provider:
-      name: Digiday
-      domain: digiday.com
-    quality: 43
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2020/03/corona3.jpg?fit=682%2C284&zoom=2&quality=100&strip=all&ssl=1"
-        width: 1363
-        height: 568
-        isCached: true
-  - title: "Artificial intelligence reduces the time to diagnose COVID-19 on CT scans by a third"
-    excerpt: "The technology reduces the time required to process the images by about 30 percent and helps to diagnose the disease faster."
-    publishedDateTime: 2021-05-10T06:09:00Z
-    webUrl: "https://www.mos.ru/en/news/item/89990073/"
-    type: article
-    provider:
-      name: mos
-      domain: www.mos.ru
-    quality: 32
-    images:
-      - url: "https://www.mos.ru/open-graph/v1/frontend/en/news/item/89990073/"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6097f52c903ba592d51003db%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Harnessing the Power of Smart and Connected Health to Tackle COVID-19: IoT, AI, Robotics, and Blockchain for a Better World"
-    excerpt: "As COVID-19 hounds the world, the common cause of finding a swift solution to manage the pandemic has brought together researchers, institutions, governments, and society at large. The Internet of Things (IoT),"
-    publishedDateTime: 2021-05-08T11:23:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9406879"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 23
 
 secured: "6FFAS6U9iW3MfN2mQ9oE/f9L5vqcy5gB8NLW7T8tA6qz00UPTgZdUbiAJRk9lxmF0pw//nq/kbIQF94+zt4Vz4n2JPY/JBbIM8KBc4xv4unvl2dvX5D/svr5TsrVbAe30BULBkf9z/Vpaq50fTZMNAGDv4ZkwV0hnj+KXjsJssrhS2ERWWF38B7MOwBVq+xdYwXeerLOZzaWmqB39jj3jf4xFl6ZZdMowL9LqjcStNbbsSfI7B78Tl6OI4Mp3dgOokbluX8QWlBcWEWLPnWPorH52yr9wcdEe996krwXURv7sql+G3864azmrJwsTKP+cj7nhUJtCt3cgq4wZPgIk0HCcHTFUbinupxJvX43CMrJg2pCvOZDl8X2i2BaGX/0as3Hu2PVv4GdoVB8904lbIpHTFF40JeWYFBoD5Kd6TH8A8XjN5qsZsteQ5WWDe8CcLsteB6Rk4S2AMZg3o2n6+n4PzHLr88cYXcPsrNpS0aG9BogcXxYNTLwqGvYEqNnerS/0SBa9KCO2typj7N9jA==;j4IJuUDn+72ogLA24r0tWg=="
 ---

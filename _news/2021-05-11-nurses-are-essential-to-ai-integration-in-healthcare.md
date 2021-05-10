@@ -8,8 +8,8 @@ webUrl: "https://healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-
 ampWebUrl: "https://healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-integration-healthcare?amp"
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-integration-healthcare?amp"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202105/AI.jpg?itok=lp3X--nF"
@@ -26,6 +27,6 @@ images:
     height: 500
     isCached: true
 
-secured: "0pyfkWJu27S35BXWBiuTd7GZe+Q9Wtqk/pwmJCb6Pv2kujizv/11qPE8QfXPNG13O8xYCWi8MuPhTemesoWVU7Mkhp03PonlfpwKmFlTy1vdXq3r1oX1/bmhRnYIb8szsXRkzkt1BR35XUQNf3wSAsDszJP0NDYMXnNV7lAiseFR88Ov01UdFtoHlabyPHmh2FbBXjwf+fTYSSBf4/vBCdE/5CfJ719OlxoJNROe9k8YNUSmi4sDjUmiS0kBlEeeAI0+dGNff+CoHcC0UiECU7RP0f45/+vCPxradVuJ0vPQyu5jWAMzop8XUtef0iVTcagWhd0sSFd9wBvs6Y+IyVNEvq1ZplCg8PJBjJvIkJg=;RU0wywdv2w8IEWqStHBbQQ=="
+secured: "zJR+OS0RqJ7eYQl1T+MQ0itrUtz46m2m+osfIbkiPnFaQIJhwAUB5OylBbIYR4slw3NfA7OjqRTbZSD3yUHLN+XFB6YWr4I409Wn/JoFwp1fEa2bLeogGaFcXZMDWhBdPs4+8Y5SG+M52KFnC6haVRQ8C/vJSz/zAMtAtQd2DSnusU5tGVVHc/MYHZhtAa6BP2Oz8c722xGs8Pwnaxt/uk6bGDl4LmHdViTTxCjeVVDsSSwo5HZNaMUastaNBdEONyn2L5r6r1C73CHAofKlWlmCIRLfZ2bh9mLCK8/6MVO+zLdQ98xZaiCzmWdt6g5b/zJPy2TR+evonNLjLIZuy5+LBO2cftBpSKkfWnOgEPDpJezmbWNWTThsPqwEXju2zXj9Fo0DLbwAwImidoGDsGg7BwSgxXyP3bAtswBBY8aFtzo6f9tT1yuZtfLB0ZJ43QP7KWOBHvwHxx/O1jN5ZSKbFtPnp9w+H9GYunHde2UX/1r3e+MEB+LQk8rOkGvGQbRxRIM3zACX9zPVc+UGcQ==;CVoZZ/xsyKeqvrQFfi/+sw=="
 ---
 

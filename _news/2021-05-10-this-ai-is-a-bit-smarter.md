@@ -56,19 +56,19 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
-    excerpt: "Properly understanding and responding to customer feedback on Twitter, Facebook and other social media platforms is crucial for brands, and it may have just gotten a little easier thanks to research out of the University of Central Florida in Orlando."
-    publishedDateTime: 2021-05-06T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-05/uocf-rda050621.php"
+  - title: "How to Detect Sarcasm with Artificial Intelligence"
+    excerpt: "Humans make inferences about tone and meaning, but algorithms can find hidden relationships between words to detect irony and intentional falsehood."
+    publishedDateTime: 2021-05-10T21:21:00Z
+    webUrl: "https://www.defenseone.com/technology/2021/05/how-detect-sarcasm-artificial-intelligence/173936/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
+      name: Defense One
+      domain: defenseone.com
+    quality: 39
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/264268_web.jpg"
-        width: 720
-        height: 480
+      - url: "https://cdn.defenseone.com/media/img/cd/2021/05/10/GettyImages_1232196218/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "University of Central Florida AI System Can Detect Sarcasm in Social Media Posts"
     excerpt: "Computer science researchers including an Indian American at the University of Central Florida have developed an artificial intelligence-based sarcasm detector for posts on social media platforms."

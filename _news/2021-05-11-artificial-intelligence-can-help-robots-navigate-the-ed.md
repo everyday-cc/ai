@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-10T17:02:00Z
 originalUrl: "https://healthitanalytics.com/news/artificial-intelligence-can-help-robots-navigate-the-ed"
 webUrl: "https://healthitanalytics.com/news/artificial-intelligence-can-help-robots-navigate-the-ed"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-821302488.jpg"

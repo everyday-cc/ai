@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2021/05/10/pony-ai-select
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/05/10/pony-ai-selects-luminar-iris-lidar-for-its-next-gen-automated-vehicle-fleet/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 678
     isCached: true
+
+related:
+  - title: "Autonomous Driving Startup Pony.ai Will Use Lidar Sensors From Luminar for its Next-Gen Robotaxi Vehicles"
+    excerpt: "Autonomous driving startup Pony.ai announced its newly designed perception platform in collaboration with Volvo-backed Luminar Technologies. The next-generation fleet of self-driving Pony.ai robotaxi vehicles will integrate Luminar’s new Iris lidar sensor."
+    publishedDateTime: 2021-05-10T21:00:00Z
+    webUrl: "https://www.futurecar.com/4607/Autonomous-Driving-Startup-Ponyai-Will-Use-Lidar-Sensors-From-Luminar-for-its-Next-Gen-Robotaxi-Vehicles"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 20
+    images:
+      - url: "https://img.futurecar.com/202105/10/l_60999f582fb25.png"
+        width: 800
+        height: 484
+        isCached: true
 
 secured: "4Dt2LFtvNQXoFI+Mf94IjGRKtIRj9FO1UC85WPJX441rkZPDmPgR2r1NVeG3McwcQcVfL0DMhLv2B1CpIyAIPj2vXJSDq2SYP1jyuNRXs+GxrmveBgZt+OE4uRP3CdKdCHitxqAudBcZUawhfMiKiocxXIBCkQdmGOoJqwRBxmPfsaEqbixi2c5YwcxE3DMDqU/mxOABiU8aozb2kgmC/KxfE4WE8UMBmagzQjNSMNy2DvRZaAyprylxaCPSUR19u1pENnEOpOmZrvoSVU6aLD9BkSsGijhf1Ro9Cvbt2jqgM087kHNjgZneNGxaBfC4YH6ItCTz96wHSC8/3fgR0hztdsrn5I2pfOvRJp669YNM78jrrjPVpl70OEBE/wuTDznxq+PHPDydk4X/2qHLBNsC2iw4RnseLalXuNDff5zLiUa5QQ5aYR9N4G5NJBcBHSwiXi4GGu7d9XsphfRJzj2+kgSAU1i/GAgyjIBob0Txl22UGRGrOOGrqanaQXCdKcoltYPX23bCUFH1myHbiw==;o8y7XW0OE1EIVpr/T8OUaA=="
 ---

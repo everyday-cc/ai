@@ -2,92 +2,29 @@
 category: news
 title: "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021"
 excerpt: "DeepMap, Inc., a global leader in autonomous driving technology, today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to transform industries."
-publishedDateTime: 2021-04-26T21:34:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-e95b3592dc12f9c850a8ce1ab3ec9443"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-e95b3592dc12f9c850a8ce1ab3ec9443"
+publishedDateTime: 2021-04-26T23:33:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-1030347677"
+webUrl: "https://markets.businessinsider.com/news/stocks/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-1030347677"
 type: article
-quality: 42
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1497096/James_Wu_DeepMap.jpg"
+    width: 400
+    height: 400
     isCached: true
 
-related:
-  - title: "9 healthcare AI companies to watch in 2021, per Forbes"
-    excerpt: "Pharmaceutical startup Verge Genomics and clinical trial matchmaker Komodo Health are among nine healthcare companies recognized by Forbes for their artificial intelligence capabilities. For its AI 50: Top AI Companies to Watch in 2021 list,"
-    publishedDateTime: 2021-04-26T21:20:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/9-healthcare-ai-companies-to-watch-in-2021-per-forbes.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Arize AI Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021"
-    excerpt: "Observability company, has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to transform industries. The Forbes AI 50 list, in its third year, includes a list of private North American companies using artificial intelligence in ways that are fundamental to their operations,"
-    publishedDateTime: 2021-04-30T18:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/arize-ai-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-1030371841"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-  - title: "MindsDB Named to Forbes AI 50 List of America's Most Promising Artificial Intelligence Companies"
-    excerpt: "Open-source, AutoML server MindsDB listed as one of Forbes' AI 50 top privately-held, U.S.-based companies focused on machine learning. BERKELEY, Calif."
-    publishedDateTime: 2021-04-27T15:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/p20817138/mindsdb-named-to-forbes-ai-50-list-of-americas-most-promising-artificial-intelligence-companies"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20817138"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20817138"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-  - title: "Samsara Listed as One of America’s Most Promising Artificial Intelligence Companies by Forbes AI 50"
-    excerpt: "Samsara, the pioneer of the Connected Operations Cloud, has been named one of America’s top artificial intelligence companies according to Forbes. The Forbes AI 50 list, in its third year, includes a list of private North American companies using artificial intelligence in ways that are fundamental to their operations,"
-    publishedDateTime: 2021-04-28T18:06:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/health-coronavirus-business-technology-artificial-intelligence-362e0bd05bb3854257f0f1d73215d80a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 40
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Artificial intelligence companies, goods and services"
-    excerpt: "This work proposes an experimental methodology to identify and measure artificial intelligence (AI)-related trademarks. It aims to shed light on the extent to which (new) companies and products appearing on the market rely on,"
-    publishedDateTime: 2021-04-30T08:48:00Z
-    webUrl: "https://www.oecd.org/sti/artificial-intelligence-companies-goods-and-services-2db2d7f4-en.htm"
-    type: article
-    provider:
-      name: OECD
-      domain: oecd.org
-    quality: 37
-    images:
-      - url: "https://assets.oecdcode.org/covers/1000~social/publications_oecdm.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-
-secured: "FBPwOP8GkZ8ynz6+P6cN9RGWFKdqN7FlE9e9AhwtsTk6URtTwiFD/cfvTakXR9r7DEY9W9tJfO4dDkVVBi6AE1zMHZJSWBS/S29XCK/1vRHGx5t7VGxCxtI1sET7A17GiMCiADIYeUeD2RfxV0HKqaxbI9Q4sap0O6pVzcwkULYvavhOHMNEQAdZPW+oKNa2PsH4mMbPaCxVGp2o0UfYjlBeMnohvtU1wbQ3aaUujfQ84Ks1njFHH0pzBB6AKJZsySM+kwrWiJ7ybW/e+w5O9hjED5PT1rwKa0548dpyf91HYQoaMil4FjJOfzQ2CWcz5FVChjR/om6tNiEmLNZPuvg7czuuhuJdaS7RVOTDO+E=;Jbz162j54ujDizqXFb6k9g=="
+secured: "89V/rbDYhfRXC+3D/8c4k9dY+yt6r/sFnmwUQ3X7Btd69F/lCOB/zhT4F7aLtzg2b3lLXdOVyjTNC3waJyvmDsr0qWmlaCtQL65KmVOvBpi5oBhwMu7bv3egp5qQxbIJ8CxB9dBL+PXmFsSJRjrscXZ9M2VO2J+cBMSJhfZwVv+clmWoIRGNWGCThuoVvNEd6nVFUmr9ZU8is5OQUKvGvLC4mXxOFhk/EaSadaxITTOzpyzvoDyK45clpumUMjFkUQ8RFxooLQP7JWb25Kh6kTvuLJCrRIrMyhFdPdVgl7YEw/jqAS/ImhQgth0FxGQsxypvDH59Av5kwRHv5LezT9kV5rDEVoNtLtb58z17KK8=;Kp/J8KmawmDXZVzY9O7/xw=="
 ---
 

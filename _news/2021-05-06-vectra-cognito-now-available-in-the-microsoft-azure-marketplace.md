@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 679
         isCached: true
+  - title: "Microsoft partners with Darktrace to help customers combat cyber threats with AI"
+    excerpt: "Microsoft and Darktrace have formed a new partnership to use 'self-learning' artificial intelligence to help organizations in the UK quickly respond to various types of cyber threats."
+    publishedDateTime: 2021-05-10T17:02:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-partners-with-darktrace-to-help-customers-combat-cyber-threats-with-ai/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 79
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620674547_darktrace2-2-960x640_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer"
     excerpt: "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to"
     publishedDateTime: 2021-05-06T12:00:00Z

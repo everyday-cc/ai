@@ -9,7 +9,7 @@ ampWebUrl: "https://medicaldialogues.in/amp/radiology/news/artificial-intelligen
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound-77340"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Research harnesses AI to fight breast cancer"
+    excerpt: "Breast cancer has recently overtaken lung cancer to become the most common cancer globally, according to the World Health Organization. Advancing the fight against breast cancer, the BreastPathQ Challenge was launched at SPIE Medical Imaging 2019 to support the development of computer-aided diagnosis for assessing breast cancer pathology."
+    publishedDateTime: 2021-05-10T21:01:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-harnesses-ai-breast-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-harnesses-ai-breast-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-harnesses-ai-breast-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/grand-challenge-resear.jpg"
+        width: 920
+        height: 450
+        isCached: true
   - title: "Novel AI driven approach to classify infant motor functions"
     excerpt: "Increasing interests have been dedicated to develop AI driven approaches to complement the classic Prechtl general movements assessment (GMA). This study proposes a novel machine learning algorithm to detect an age-specific movement pattern,"
     publishedDateTime: 2021-05-10T10:10:00Z
