@@ -7,7 +7,7 @@ originalUrl: "https://www.just-auto.com/analysis/oems-look-to-blockchain-solutio
 webUrl: "https://www.just-auto.com/analysis/oems-look-to-blockchain-solutions-for-compliance-and-parts-performance_id201679.aspx"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 424
     height: 283
     isCached: true
-
-related:
-  - title: "Blockchain.com Announces Acquisition of AiX Assets"
-    excerpt: "Blockchain.com, a leading cryptocurrency services provider, announced that the company has acquired assets of technology firm AiX."
-    publishedDateTime: 2021-05-05T08:07:00Z
-    webUrl: "https://www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/"
-    ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 157
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/06/cryptocurrency.jpg"
-        width: 880
-        height: 400
-        isCached: true
-  - title: "Harnessing the Power of Smart and Connected Health to Tackle COVID-19: IoT, AI, Robotics, and Blockchain for a Better World"
-    excerpt: "As COVID-19 hounds the world, the common cause of finding a swift solution to manage the pandemic has brought together researchers, institutions, governments, and society at large. The Internet of Things (IoT),"
-    publishedDateTime: 2021-05-08T11:23:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9406879"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 23
 
 secured: "fXNn+1Q9JUmk4tPtt/ItruKaTP3O2/ifBvXuxoXlmo14T0VLDm4yLThjtfRGmS+C7FnZrsX+P3H66snGkWa7Nj3bjeu0cYgFa2s/Ct5aC1qoROQb+s7IO1xSdCNqe9iakMq464VayI+Ss2xIwTuLSqHqHEiTK8iMT0H/ol82pu+kxjso1qcxVZRYPaHur/2yskdTs0xx13O0cMA2pFoMDtVPHPOAciXNrjO1gRP8mXwoYyiU1p5Ohu28+iaUOWwdy8EFQAOOefKCji5IPvZD6lok5WotgUToHKKb3hclm4IvdEj60yLCOBPYg4WtiUloUnUst4wW7DZC1X+ws6R2ZZk/CuJI+ymVErCAEfwgHp/6lWKx/8PQAkThNFHLGTy1tAKPhBdqRgb0NTggNxdIlSFXQrYcmHBLDiTj1WK170MUhPkBspieCKeFbz4sn38PdfK8HZTdG8ojuIhCKBnNzOeDWhbmaBqmPIc2h8P4rmh5AUMrjBGbjkg2uRuusKLQWC/4Kw/SCRfHldqZXu8O/g==;Ipu7RM4zodl7yiHM0H/7Kg=="
 ---

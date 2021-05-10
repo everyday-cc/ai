@@ -2,9 +2,9 @@
 category: news
 title: "Top 10 Chinese cities by AI innovation power"
 excerpt: "The latest China AI Development Report for 2020 and the AI Open Index were released during China's annual meeting for artificial intelligence in Jiangsu province from Sunday to Monday. According to the report,"
-publishedDateTime: 2021-05-09T22:40:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202105/10/WS609864c4a31024ad0babccbd.html"
-webUrl: "https://www.chinadaily.com.cn/a/202105/10/WS609864c4a31024ad0babccbd.html"
+publishedDateTime: 2021-05-10T00:18:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202105/10/WS609864c4a31024ad0babccbd.html"
+webUrl: "https://global.chinadaily.com.cn/a/202105/10/WS609864c4a31024ad0babccbd.html"
 type: article
 quality: 37
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "Hwx1yU3eYwfLVQf/6nmoKG49K4KL2iroXy2rm+R92mf66obchKzNXHhyk5KYteMh0T9j4HtWCi6zaJwRi4sz938sTO6rm5ZOFr1Tb9KfILqnWT7r6+wCLcfQQgnkCPMTxcWShl4ic5Epk8E76ahtTCKQptxrlYvvCAN/Igl1G9iMQAqYbI+KWhAl/aiT/W5rlio8sNCeCg6fGj/DRRxxgUZO+ssBs83ub1UH/z/KpLYwlJsf3CNidl/pIDyeT9yt8w1YX3PErsjDXrBtIqZ1B9q6dXnLzlclai6B8atG76Bt0FJcAyqbJ3gv5WjWGYC7SfStr9c4wd2Gn8WjjWtpHu3oN0Is9SuGcfIYbgkGNos=;PLH//IjJGMmzjTDIp7TrOw=="
+secured: "pW/Ca2tbjJ4kVlh0RGeySYtG/RELiPjh4bhEMYxgHqRlzaMaHTCPzmnJS9LLvFuDMWAoSyUhK0B2SG1IBZm1ZWiSKxAmF0bH2f+p5Wsd9HTeyMWqIvTIQu4z9rccHvCSFSSiVcNlNA8h6H0rX02zLc0um6Y91rurjtdB23iPjoMBnEuUHKwo5orqeAye8MdYlSaxitisosMk9oJd1JFlDUezljWNxDjQJsM/jFEu296VkRWaBnw3FkwUUiblwIlXpeltvOH4FXJhVdbhfHUbZZn4ulQg19dwAYikXWqd1gE1OLxiLXmeYBiUL1EXLTqLZ2NVzodDCUaNrkGRP6J5kCASldwJELE7J++AWnw6/RU=;kraGD2qE8Jb472HcIFOw+Q=="
 ---
 

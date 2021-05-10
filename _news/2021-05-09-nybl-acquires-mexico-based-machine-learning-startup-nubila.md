@@ -3,8 +3,8 @@ category: news
 title: "nybl acquires Mexico-based machine learning startup Nubila"
 excerpt: "UAE-based nybl, an artificial intelligence (AI) and machine learning startup has acquired Nubil, a Mexico-based visual data mining"
 publishedDateTime: 2021-05-09T08:11:00Z
-originalUrl: "https://www.wamda.com/en/2021/05/nybl-acquires-mexico-based-machine-learning-startup-nubila"
-webUrl: "https://www.wamda.com/en/2021/05/nybl-acquires-mexico-based-machine-learning-startup-nubila"
+originalUrl: "https://www.wamda.com/2021/05/nybl-acquires-mexico-based-machine-learning-startup-nubila"
+webUrl: "https://www.wamda.com/2021/05/nybl-acquires-mexico-based-machine-learning-startup-nubila"
 type: article
 quality: 39
 heat: 39
@@ -15,8 +15,8 @@ provider:
   domain: wamda.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://cdn.wamda.com/feature-images/27a012355824388.png"
@@ -37,6 +37,6 @@ related:
       domain: itp.net
     quality: 35
 
-secured: "1nn8ax03zUFprqHItVSz6ykpciL7mkIyTmzFAYj+GRMbnRU5C3xwhlTZbpc4lyBDBGiEU890jrX8JMNt3Ghp3on620Ud7dxLBwfqNIAhSp6Kvgm+sBleBWIDXo/yH/0pba1lh1FYTnoSfmPPtGqw2nG4BibeCwHCxAfm1b8pp28SfR7XkRoLiO2ykKBbKdsQZ7aNcNq1EKrQgtcBswlE7GWYMfBpYO6ugcLRFSa1yy33NVyQdDpih4m5oCbXfGlvczHAa4kHX8/uvAM02Wi9OQEsMP1LCd8UeAcmLENxzM80dAiaDChP0O9KRTMGXttaTjb7dfCUNHeKNaB8zlNAiNehBuQuU2OZuorZIWUOspU=;ZW2Uhsw3SYoVCr1JLKMTWA=="
+secured: "DTCdnhDfQl43DN/aCsd1+pj4aJDswJKGUOx7YiursJMH3ShR77A0pzjbosPXNkAE1GrS0+1OuB5f05hh+Tbtx4mIQsInje+mpGCHpDT8c4wwpE4RudEkvv3OSBttJVWKHuvRqJpEDqOhC2DSHcorDsXOl+M/JfsQOwuBrBJz3s8i62UAQ2T473ICNoHCCOU1UKhVObfFdSWifrGuH6IoFOrkTLHoj1iP/XuJWFCpgKnEi/4HeOTHhgaoA/U2gECnvJKUbBE5WojY1C2MzTyWSLlCauE6eHwDRbd+JkP0Tn/igkPnEhP7Pzo3tE7W+6CBf+3IIDZyZ5bqVsnqi+RPR6EmyR75Rq5587CXPyWx+b8=;w8W7x3qcIML3j1EFZbaBAA=="
 ---
 

@@ -34,7 +34,7 @@ related:
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 70
+    quality: 72
     images:
       - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-126-780x470.png"
         width: 780

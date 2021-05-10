@@ -1,23 +1,29 @@
 ---
 category: news
 title: "UNISOC T618 Is Designed to Improve the Imaging & AI Capabilities of the Terminal"
-excerpt: "The composition of mobile phone processors is similar to the olive-shaped social structure, with few rich at the top or poor at the bottom, but a larg"
-publishedDateTime: 2021-05-07T13:02:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210507005213/en/UNISOC-T618-Is-Designed-to-Improve-the-Imaging-AI-Capabilities-of-the-Terminal"
-webUrl: "https://www.businesswire.com/news/home/20210507005213/en/UNISOC-T618-Is-Designed-to-Improve-the-Imaging-AI-Capabilities-of-the-Terminal"
+excerpt: "UNISOC T618 is an 8-core architecture LTE chip that was launched in August 2019. And, it is based on 12nm process technology and consists of two 2.0 GHz Arm Cortex-A75 CPUs and six 1.8 GHz Arm Cortex-A55 processors."
+publishedDateTime: 2021-05-07T09:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-49a5879c9b41471383f719d22364e752"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-49a5879c9b41471383f719d22364e752"
 type: article
-quality: 14
-heat: 14
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "oL0U0iO0x7iCw32Zm2ww/3KxbxKpnSU+bQ5Dc63Ke6GRnD5+NFWRwdG6buaQ3XMfgligig/CFcSqME/Q7LUQ9aa49d2GKljmIZ3pvbcMvj+h30dZRHoNkjMC+u8uEfJ9XmK6HD/gdv1wHKVoTZ9bwRnoNpyGfZeSeWMFiM4O5NRuL3p7j/H9djawnntHo8Mre2gaVv9IOBv2e0RtiQ1F2j052uotANFpuMzJpc36XJmEPPw0SP5x0MFKTZk25BsBDHp3QVUkfsu5vcEia6Ju8qiBzBv+R4amQQWZkLXgIbSlAUFMO/Ql5q+2IfT6OK6uW68nF0yvDarIfU00Yy+iZdicTUDivH6jjZpyM6CINx8=;4+fZEFN3LtIMmcgS/IAxaA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "A5jSgDHC6EVAUP9dM0yhcb/5jx1pl5PN4q8j2tqTk8MbrZiqTKwSSbJvBQlJaSvGa6kphnH3J0K+0E6Tx56pxaT0AdlrevR/x0FyqEEwkILagrbQLzRJK82OB7Gcg0iAMigUAs6Z1NTLVBkCzeCK89FScpFGHsy1nRLHJJv4Tg0zUdazpEFFbWFIWlW6b08e+fWpcGkPHDIbyYLyQWYsF9716GK19ll8HgDoGEyo2MXqrTTwhtwJ1IRP5o9fKqfbAwWzsVWtAF1IcdhxwYGHADZlprI5uxQKNibBNbOlqedEPhGa2ZKh22pQtFqIxVkyMA1D+K/bWLykKKOIuZvf9O8mijkh+RPhgG64v2Gy8ZQ=;/sBhSZlIMQBLalhRcVJJGw=="
 ---
 

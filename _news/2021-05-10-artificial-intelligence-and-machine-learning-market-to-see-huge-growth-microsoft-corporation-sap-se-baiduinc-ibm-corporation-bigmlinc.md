@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-09T19:26:00Z
 originalUrl: "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/"
 webUrl: "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/"
 type: article
-quality: 70
-heat: 110
+quality: 72
+heat: 112
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - Microsoft AI
   - AI in Autos
+  - AI in Finance
 
 images:
   - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-126-780x470.png"
