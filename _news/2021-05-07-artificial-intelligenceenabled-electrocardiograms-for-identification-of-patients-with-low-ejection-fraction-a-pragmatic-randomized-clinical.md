@@ -54,15 +54,6 @@ related:
         width: 599
         height: 685
         isCached: true
-  - title: "Artificial convolution neural network techniques and applications for lung nodule detection"
-    excerpt: "We have developed a double-matching method and an artificial visual neural network technique for lung nodule detection. This neural network technique is generally applicable to the recognition of medical image pattern in gray scale imaging."
-    publishedDateTime: 2021-05-05T23:37:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/476112/"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 9
 
 secured: "TstHahU90cMY/vQasKF5xR6q981tMYtXJlAwQ0El7NO4dnaCBsNQbJrLN18+k77szMWQDuIM1pehN0g+2Fw+kPc00L0RBS4IGYr6pSp980c9E4XWE1ElOrTfSNCWb8BXaSG1y/KnxAET7Mn/GrjK15tdrlSUkad6cGxc9gbKKGmJ5Max6AkTijI9UoziUYzpMg/esKyFORJyv+waDR6NY3Vx/IewhJGHXoHSbsjlEQdOfl0ZoEa2+0Tw/s+/et0LkzEaYaeVGgCzJp6LJOpegXVo31atBSYeG6eUrLCYunVif3F5IgGJyGBJF+sMuFZGekzP0/jBG2KNtTyg4uQiNjPBPHaGC913Q1fMSLgwq55Rk8AAULOb8s+9zNiSobkQH6xEUoZDmu2eiwyiYWHm4otwoxfV9bK08PcmicNiTJ1v0vRHrndWFcK7Ju4+cZieeqnYpm7JbR8Yn9XB9VsOai8+x1GM17Y7Ctyc3cvujvNUSMO/y8MxnTocFhckT5sK0nSFmDfv1ZZXVZ+3Ng5wAg==;lK2i4t/BCS2eCGbKSlVZsg=="
 ---

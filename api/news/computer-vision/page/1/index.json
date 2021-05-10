@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-07-states-push-back-against-use-of-facial-recognition-technology-by-police.md",
+      "title": "States push back against use of facial recognition technology by police",
+      "excerpt": "I think people are just freaked out, and rightfully so, about this technology,” said Freddy Martinez, director of Lucy Parsons Labs, a Chicago nonprofit that specializes in citizens' digital rights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mahoningmatters.com/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
+      "originalUrl": "https://www.mahoningmatters.com/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/mahoningmatters/images/facial-recognition.jpeg;w=640;h=422;mode=crop",
+          "width": 640,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
+      "cdnAmpWebUrl": "https://www-mahoningmatters-com.cdn.ampproject.org/c/s/www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
+      "publishedDateTime": "2021-05-06T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mahoningmatters",
+        "domain": "mahoningmatters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-facial-recognition-as-a-legislative-issue.md",
       "title": "Facial Recognition as a Legislative Issue",
       "excerpt": "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)",
@@ -1364,40 +1407,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-weakly-supervised-facial-expression-recognition-in-the-wild-with-noisy-data.md",
-      "title": "Weakly-Supervised Facial Expression Recognition in the Wild with Noisy Data",
-      "excerpt": "Facial expression recognition (FER) has attracted much attention in recent years due to its wide applications. While some progress has been achieved thanks to the emergence of deep learning, the challenge occasioned by pose variations remains.",
-      "sourceUrl": null,
-      "webUrl": "https://ieeexplore.ieee.org/abstract/document/9403940",
-      "originalUrl": "https://ieeexplore.ieee.org/abstract/document/9403940",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T20:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IEEE",
-        "domain": "ieee.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

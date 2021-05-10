@@ -39,15 +39,6 @@ related:
         width: 599
         height: 685
         isCached: true
-  - title: "Artificial convolution neural network techniques and applications for lung nodule detection"
-    excerpt: "We have developed a double-matching method and an artificial visual neural network technique for lung nodule detection. This neural network technique is generally applicable to the recognition of medical image pattern in gray scale imaging."
-    publishedDateTime: 2021-05-05T23:37:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/476112/"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 9
   - title: "Artificial intelligence–enabled electrocardiograms for identification of patients with low ejection fraction: a pragmatic, randomized clinical trial"
     excerpt: "In a pragmatic, cluster-randomized clinical trial, use of an AI algorithm for interpretation of electrocardiograms in primary care practices increased the frequency at which impaired heart function was diagnosed."
     publishedDateTime: 2021-05-06T17:44:00Z

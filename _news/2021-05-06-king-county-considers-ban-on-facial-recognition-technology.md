@@ -19,65 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition as a Legislative Issue"
-    excerpt: "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
-    publishedDateTime: 2021-05-05T23:48:00Z
-    webUrl: "https://patch.com/virginia/reston/facial-recognition-legislative-issue"
-    ampWebUrl: "https://patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue"
+  - title: "States push back against use of facial recognition technology by police"
+    excerpt: "I think people are just freaked out, and rightfully so, about this technology,” said Freddy Martinez, director of Lucy Parsons Labs, a Chicago nonprofit that specializes in citizens' digital rights."
+    publishedDateTime: 2021-05-06T18:45:00Z
+    webUrl: "https://www.mahoningmatters.com/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
+    ampWebUrl: "https://www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
+    cdnAmpWebUrl: "https://www-mahoningmatters-com.cdn.ampproject.org/c/s/www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 59
+      name: mahoningmatters
+      domain: mahoningmatters.com
+    quality: 74
     images:
-      - url: "https://patch.com/img/cdn20/users/60146/20210505/074823/styles/patch_image/public/jcots___05194516171.png?width=984"
-        width: 984
-        height: 738
+      - url: "https://www.vmcdn.ca/f/files/mahoningmatters/images/facial-recognition.jpeg;w=640;h=422;mode=crop"
+        width: 640
+        height: 422
         isCached: true
-  - title: "EU Proposes Heavy Regulation of “High Risk” Artificial Intelligence as Activists Call for Facial Recognition Ban"
-    excerpt: "EU officials are considering wide-ranging regulation that would include heavy restrictions on a range of 'high risk' AI applications; a leaked document also indicates that a facial recognition ban is being proposed."
-    publishedDateTime: 2021-05-06T22:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/eu-proposes-heavy-regulation-of-high-risk-artificial-intelligence-as-activists-call-for-facial-recognition-ban/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/eu-proposes-heavy-regulation-of-high-risk-artificial-intelligence-as-activists-call-for-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/eu-proposes-heavy-regulation-of-high-risk-artificial-intelligence-as-activists-call-for-facial-recognition-ban/amp/"
+  - title: "Massachusetts OKs Curbs on Police Use of Facial Recognition"
+    excerpt: "As part of its new police reform law, Massachusetts lawmakers have passed one of the first state-wide restrictions on law enforcement use of facial recognition technologies. Under the law, police must have a court order before they can compare images to the database of photos and names."
+    publishedDateTime: 2021-05-07T14:19:00Z
+    webUrl: "https://thecrimereport.org/2021/05/07/massachusetts-oks-curbs-on-police-use-of-facial-recognition/"
     type: article
     provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 53
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/05/eu-proposes-heavy-regulation-of-high-risk-artificial-intelligence-as-activists-call-for-facial-recognition-ban_1500.jpg"
-        width: 1500
-        height: 860
-        isCached: true
-  - title: "Ken Plum: Facial recognition as a legislative issue"
-    excerpt: "One of the side-effects of the quarantine has been the difficulty of recognizing others after months of not seeing each other in person."
-    publishedDateTime: 2021-05-06T11:14:00Z
-    webUrl: "https://augustafreepress.com/ken-plum-facial-recognition-as-a-legislative-issue/"
-    type: article
-    provider:
-      name: Augusta Free Press
-      domain: augustafreepress.com
+      name: thecrimereport.org
+      domain: thecrimereport.org
     quality: 39
     images:
-      - url: "https://i1.wp.com/augustafreepress.com/wp-content/uploads/2019/05/ken-plum.jpg?fit=337%2C225&#038;ssl=1"
-        width: 337
-        height: 225
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
+        width: 343
+        height: 510
         isCached: true
-  - title: "National Association of School Nurses Announces May 12th as School Nurse Recognition Day"
-    excerpt: "Wednesday, May 12, is National School Nurse Day, an opportunity to acknowledge and thank school nurses for all they do to support the health and learning of adolescents and children across our country."
-    publishedDateTime: 2021-05-07T17:24:00Z
-    webUrl: "https://apnews.com/press-release/newswire/health-coronavirus-pandemic-3e774f535edae8e7333abea068059102"
+  - title: "Massachusetts Pioneers Rules For Police Use Of Facial Recognition Tech"
+    excerpt: "Massachusetts is implementing its first state-wide rules for police using controversial facial recognition systems. But not all privacy advocates agree that regulation is the right step."
+    publishedDateTime: 2021-05-07T10:25:00Z
+    webUrl: "https://www.wbur.org/npr/982709480/massachusetts-pioneers-rules-for-police-use-of-facial-recognition-tech"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
+      name: WBUR
+      domain: wbur.org
+    quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "http://media.npr.org/assets/img/2021/04/29/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg?s=6"
+        width: 948
+        height: 710
         isCached: true
 
 secured: "rFnKjEQWnSgQ6GctYk0DlX1ow8VJ8MCyHAgL/r81+XDhOH+SCm5l1f5eFafWng1b9HaGxd8goCrYyPKdA3QzQjd0+B7zT15RPmOd6Z2Bk/JQwC7jx+vM4q6K8Gpvie/+b4DJzc7Ke3vplEWy4/sqEMoyVV4ZiKQQlxJhQD/vE9PHqqjKHWmXWh5eteLtQ3aHY75OmJSu2tQl+5mtIYpK+Ma7p1Tj7h6qdSUU80GhIMtcxPzoD3PbF9cfxxpm+WyzHmWjgoPLXvW86QMV+IzCgCMDMgjMb1kwZkb9ATLahkQM9pR9PBv5BXqRgB8PEQjh/RkZmRczqooNnLk4zBSEoyVSsAcaZZqHERey4ck4iTYnDW4XazqhcfsEOPUvTii+OTnyc0u+0qkSy819UVJTL+4IE5USm4CZ04gvtpHx1ADC9oB4rICtoNsw/UQzFp3m840YTjKfu/r033r7jqHEHGY9baMrS3pd00IiGq0wr99iL2YIfJNg//FzY8PoLqQwseGftDU9vInO+uYwSpFI8A==;ZzenIonJ+T1O8PnENNmzJg=="

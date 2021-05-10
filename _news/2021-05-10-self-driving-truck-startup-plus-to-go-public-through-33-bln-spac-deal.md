@@ -2,9 +2,9 @@
 category: news
 title: "Self-driving truck startup Plus to go public through $3.3 bln SPAC deal"
 excerpt: "Plus said on Monday it would go public through a merger with blank-check company Hennessy Capital Investment Corp. V HCIC.O in a deal that values the self-driving truck technology startup at $3.3 billion."
-publishedDateTime: 2021-05-10T10:08:00Z
-originalUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10"
-webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10"
+publishedDateTime: 2021-05-10T10:25:00Z
+originalUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10-0"
+webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10-0"
 type: article
 quality: 34
 heat: -1
@@ -19,22 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving truck startup Plus to go public through $3.3 billion SPAC deal"
-    excerpt: "Plus raised $200 million in a funding round, co-led by brokerage Guotai Junan International and private equity firm CPE."
-    publishedDateTime: 2021-05-10T14:02:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal-41620648675322.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/amp-41620648675322.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/amp-41620648675322.html"
+  - title: "Autonomous Truck Startup Plus Going Public Via $3.3 Billion Hennessy SPAC Deal"
+    excerpt: "Self-driving truck startup Plus is going public via a $3.3 billion merger with the special purpose access company (SPAC) Hennessy Capital Investment Corp. V."
+    publishedDateTime: 2021-05-10T15:21:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2021/autonomous-truck-startup-plus-going-public-via-3-3-billion-hennessy-spac-deal/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/autonomous-truck-startup-plus-going-public-via-3-3-billion-hennessy-spac-deal/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/autonomous-truck-startup-plus-going-public-via-3-3-billion-hennessy-spac-deal/amp/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 42
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 38
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/05/10/600x338/Plus_truck_1620648920898_1620648928108.jpg"
-        width: 600
-        height: 337
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/05/self-driving-truck-Plus-SPAC-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
+  - title: "Self-Driving Truck Startup Plus to Go Public Through $3.3 Billion SPAC Deal"
+    excerpt: "Plus said on Monday it would go public through a merger with blank-check company Hennessy Capital Investment Corp. V in a deal that values the self-driving truck technology startup at $3.3 billion. (Reporting by Niket Nishant in Bengaluru;"
+    publishedDateTime: 2021-05-10T10:11:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-10/self-driving-truck-startup-plus-to-go-public-through-33-billion-spac-deal"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 32
   - title: "The Briefing: Trucking Startup Plus Going Public Via SPAC, GoJek Raises $300M, And More"
     excerpt: "Cupertino, California-based Plus, a startup developing technology for self-driving trucks, announced that it has inked an agreement to go public through a merger with a blank-check acquirer, or SPAC."
     publishedDateTime: 2021-05-10T13:02:00Z
@@ -64,6 +73,6 @@ related:
         height: 600
         isCached: true
 
-secured: "qN1WFkayB/ZltG76G3LZjo3KSlFYvkVnZLsewska6Stt4LxeDuaeVcj5vNc775UCKtVMpXzd1xFb8MW9udBWVkwctjPz0a4HIzkonQ7wC1ifCd6Ap5yb4G/JaGBDJ2Ca832PBdpsFlIdLseoLw2634ZsS9f44104tctEBOsnG0GMyeIccd2VVuahkksfV+0XfXEjctV90IOpIzrl7igoNJoOoiqLzFtK2tTXAyfxSOR/Z+bkZD7oriND+6AfwjJQqL5wWlUnsdwTtuSYVGWpUNU8gDi5In1UHmAY8aH5vcRlGERxLzkHvJGjxATCKpy+05vUaHUBTvl+ZBoimo0LLFIgd5rpfK57xLTbEMvIX1E=;RGf6SWibgx/zZ9Wy4aD84w=="
+secured: "Zqedax4OaZSQCyaLgJSLja2GmKsAEzSsuCjPuW3NcTuukzZb0zR6ca1D3xsMEyxzoLbE10X2FoZrubzYr3jMwwwdle+YswxeUGKOh6NVkwzFiXxB82nLlsQnGlMbxJaSEihM9RiV5G0UTnvETLDwsEr147cmVQSUG/moTiLwKmk0I+YzFUhoUxtP3MZbyo1WqKrp9XURKYLxku3KT7dFALuO5dRqnw/VBEmccAFkJ5ggTusvY8xtQaPFqyjD9UUDeLOa5HG9e1gyYor9ow5EqpZEEfroirLB2utdNkGz2PpKya6ebqycxg5C+u4mWJ4Qj63BX6v8y6Lnvus1QDhLZQ+JXQW7j7lxLru1xtuxH7BACxdypnXrsyKBi76fM0E0mO1cbd1U0dX54rnvPiTyYiDYjQMgAhyXgMp7hf9iqXgeFEm+pJklnNlmxkw2i1gwVFNVV7sydhSaHAl16CjExPgilHEImDTEOK+Rlilux3L1YjermVkKutIMMwGcVGilBVOQImsMjdkGElGZ3nroow==;qbw+K6g5XeHJGAxneg7XEA=="
 ---
 

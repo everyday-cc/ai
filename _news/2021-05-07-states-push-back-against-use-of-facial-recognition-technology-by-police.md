@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mahoningmatters.com/amp/local-news/states-push-back-agai
 cdnAmpWebUrl: "https://www-mahoningmatters-com.cdn.ampproject.org/c/s/www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: mahoningmatters
@@ -27,33 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "States push back against use of facial recognition by police"
-    excerpt: "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness of video surveillance is leading some state lawmakers to hit the pause button."
-    publishedDateTime: 2021-05-05T23:31:00Z
-    webUrl: "https://www.chron.com/news/article/States-push-back-against-use-of-facial-16153766.php"
-    ampWebUrl: "https://www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 74
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "King County Council delays vote on facial recognition ban"
-    excerpt: "The Metropolitan King County Council delayed a vote on a groundbreaking facial recognition ban, citing a need to do additional outreach and research on the policy's effects."
-    publishedDateTime: 2021-05-06T01:14:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/king-county-council-delays-vote-on-facial-recognition-ban/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Massachusetts OKs Curbs on Police Use of Facial Recognition"
     excerpt: "As part of its new police reform law, Massachusetts lawmakers have passed one of the first state-wide restrictions on law enforcement use of facial recognition technologies. Under the law, police must have a court order before they can compare images to the database of photos and names."
     publishedDateTime: 2021-05-07T14:19:00Z
@@ -82,20 +55,15 @@ related:
         width: 948
         height: 710
         isCached: true
-  - title: "Facial Recognition Software Fuels Growing Concerns in State Legislatures"
-    excerpt: "Lawmakers in at least 20 states are weighing curbs on police use of facial recognition, citing concerns of accuracy, invasion of privacy, racial bias and civil rights abuses."
-    publishedDateTime: 2021-05-06T15:16:00Z
-    webUrl: "https://thecrimereport.org/2021/05/06/facial-recognition-software-fuels-growing-concerns-in-state-legislatures/"
+  - title: "King County considers ban on facial recognition technology"
+    excerpt: "The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff’s office."
+    publishedDateTime: 2021-05-06T06:08:00Z
+    webUrl: "https://www.king5.com/article/tech/king-county-considers-ban-on-facial-recognition-tech/281-e50f4478-81d7-4108-8926-9f906c3c29a9"
     type: article
     provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 38
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
-        width: 720
-        height: 393
-        isCached: true
+      name: KING5
+      domain: king5.com
+    quality: 19
 
 secured: "U1eCrtola2Q5/SkJyAO3EsIUiL+itkBWCyWxDknGcgs78fl3K+fvcByvTj4aNGrB2jR71dizVFqLpH+reb6JJJdvfKiPDboXFJn6zowCORf48W/xiqgRIPt48oLXPiERZwE1eX2exeU/qwJ4Yh4MWUSrTcRj3+kVPM2t2bsZc6kMoCYOh6w77WX8qGk8w1FfY2UOOqJ8/RndXhQnhjM+K+Ex+Umi6KTaTxDPYC1MRTQl4O7LpKisqbAcQa0RrfHe9O4X15D0wyCGAv9FT+i4Vl/FzV786IRFqEMJYhePJZqjIw8V4zvOQ8uuwUYUxHM7Ukg1nIRbTGZDfyf66h2hARxyk/EBM3B0xud7FPEFdG9qbb/AJP8RZNi+OS3bvCKfUHVYKB4wGdcCQMMz5YqF/lSxij/L/zPPOh0qz7LdFzc5hzqG3F+Zzo4Kd0OqdfFuFrc/HpgznYR/XzeNpZSJjzGhlnAVRTTdqliDWpuYVUtNs9TNi/ucHQH0rUctbyFpMpTj8ArDhvUaXzay/iklag==;ENgPnI1+pRst/8TF3V8zCA=="
 ---
