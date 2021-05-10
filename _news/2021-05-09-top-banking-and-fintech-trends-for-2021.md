@@ -39,6 +39,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Overfunding: UK AI-Powered Fintech Expend Quickly Surpasses £500,000 Target Through Seedrs Campaign"
+    excerpt: "Expend, a UK-based AI-powered fintech, has successfully secured its initial £500,000 funding target through its equity crowdfunding campaign on Seedrs. The funding round, which recently made its debut,"
+    publishedDateTime: 2021-05-10T13:32:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175177-overfunding-uk-ai-powered-fintech-expend-quickly-surpasses-500000-target-through-seedrs-campaign/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175177-overfunding-uk-ai-powered-fintech-expend-quickly-surpasses-500000-target-through-seedrs-campaign/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175177-overfunding-uk-ai-powered-fintech-expend-quickly-surpasses-500000-target-through-seedrs-campaign/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 45
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Expend_Expense_Platform-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "i5TP4F7rZXhiLgcG1AJPyf1VIPoDr+VyNzldqKcujk6Drm6uyNLRuNnOMHxx+I0pfjxRwCNdGPW6Tt0gIkpE/jjdRqVRpuIthpQtjPjBJ8hG43Ah1Uc+leIlvt7dW7RinFl8rDgFmid3M3IRJ/yvzxzQ4ILMJXjG4sFKuJYPnPiF41Sj3H4v45HM+taUG9yXGGk0ewFB3eaL9/7S3GrbXwRvKu+OsyjodlR7Ruik1/BFcZb7wzv/ZfD8PvkCaB1NuvaIPtoGeObBzjzoOI2uKIKaYYqSmatxRr9/o9xVPTL8wWbyMUpVfmFyuqNafGO1Fj7ljnwuw3HCfZCIPb3PqAhqUW7bLIvD0tbeyKRc+ruPHHlP4cyaHHE6RZKWksoeDVQReapGssdq1wDGyP7yGYiZB5wTFb/8sJv7B0HvByMZ53jCd6Y8EZhh0o4Pux4P1lDNKaF6zbb7DDm26tfd12cTRio9KYLgtNnM/yMygSEP8IzQK0TNA8eoykbh08czvRWU94q1vEg8m6LnsZFVLQ==;Fe9+ZBb+TrqvpCoiRxl8qw=="
 ---

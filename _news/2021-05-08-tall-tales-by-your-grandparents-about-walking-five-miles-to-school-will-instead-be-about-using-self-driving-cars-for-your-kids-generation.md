@@ -31,35 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "GM CEO Mary Barra wants to sell personal autonomous vehicles using Cruise’s self-driving tech by 2030"
-    excerpt: "GM CEO Mary Barra sees the automaker selling personal autonomous vehicles by the end of the decade by leveraging technology from its self-driving subsidiary Cruise, according to comments made during the company’s Wednesday earnings call."
-    publishedDateTime: 2021-05-05T20:57:00Z
-    webUrl: "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/"
-    ampWebUrl: "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/"
+  - title: "Ford-backed Argo sees new sensor as key for self-driving cars"
+    excerpt: "The new technology will be used for the self-driving system that will debut on Ford’s ride-hailing and delivery vehicles next year and on VW models in the middle of the decade."
+    publishedDateTime: 2021-05-09T10:23:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars-41620550983829.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars/amp-41620550983829.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars/amp-41620550983829.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 59
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2017/01/gettyimages-629982546.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://images.hindustantimes.com/auto/img/2021/05/09/600x338/2020-04-28T015539Z_1_LYNXNPEG3R03L_RTROPTP_3_AUTOSHOW-FRANKFURT_1588074593229_1620551501846.JPG"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Autonomous Future: GM expects to offer self-driving vehicles this decade"
-    excerpt: "General Motors CEO Mary Barra says she expects the automaker to offer self-driving vehicles in the next 10 years. “Later in the decade"
-    publishedDateTime: 2021-05-06T19:22:00Z
-    webUrl: "https://www.collisionrepairmag.com/gm-expects-to-offer-self-driving-vehicles/"
+  - title: "Texas A&M team seeks sponsors for self-driving auto race"
+    excerpt: "A team of students and employees from Texas A&M University is looking for sponsors to help it compete in a race with self-driving cars at the Indianapolis Motor Speedway."
+    publishedDateTime: 2021-05-10T05:00:00Z
+    webUrl: "https://theeagle.com/news/local/texas-a-m-team-seeks-sponsors-for-self-driving-auto-race/article_7668bb3e-b129-11eb-a481-27cad4fa5413.html"
     type: article
     provider:
-      name: Collision Repair Magazine
-      domain: collisionrepairmag.com
+      name: The Eagle
+      domain: theeagle.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/7/66/7668bb3e-b129-11eb-a481-27cad4fa5413/6098833132f5a.preview.jpg?crop=648%2C365%2C0%2C141&resize=648%2C365&order=crop%2Cresize"
+        width: 648
+        height: 365
+        isCached: true
+  - title: "Study reveals trust and safety among top priorities for self-driving cars"
+    excerpt: "New study suggests self-driving cars are ready to be accepted in Finland at least – as long as they are safe and secure, according to a new study. Autonomous cars must be safe, secure, and trustworthy if they are to be accepted widely says new study ..."
+    publishedDateTime: 2021-05-10T10:47:00Z
+    webUrl: "https://www.intelligenttransport.com/transport-news/124243/finnish-study-self-driving-cars/"
+    type: article
+    provider:
+      name: intelligenttransport.com
+      domain: intelligenttransport.com
     quality: 23
     images:
-      - url: "https://www.collisionrepairmag.com/wp-content/uploads/2021/05/gm.png"
-        width: 775
-        height: 375
+      - url: "https://www.intelligenttransport.com/wp-content/uploads/self-driving-1.jpg"
+        width: 750
+        height: 450
         isCached: true
 
 secured: "4+Ks9ICJ61EU/hcBkcHkuBUPY1ejK/Xrn3DkBBnERiM932rjOE21Mf+msZu9iXgyDdBISIt4IS3JYIIii6IdAhBfgRe7eKWFhzN5WDZ/Z9fWRPPiMqarNoylVWCtxrtennENFlF0Q4TUicOeg4h35l4Rlqw86FlEIWg4Cf9IJHqeYPVQx2pJwZRFsSU+7j0MfOJwFzwxdtPIzTyjKPeTa3zpIebBpy1SHdsGBrsZAf28yIiKjYWowF72FgXfd/yDJ/3yYsQSEBs71PmcJjmlffqxINNr9otw2zxp4LkiVGFVFLIcajA31V/Giq1Hh9Gun32rIIQnlP8ogQM/iLji4NDkf68rHZG/ulMQjc6i2yqWXYVxCEXnzKoTBnimg1mjdd9F77qHFu7daUX4//AWVjYJgBMY4QOQZb5uWqQXsMr1Fn50gmEOp8M3TtT2COS5QWnDezQbV2s/jvhPfbCj/cKxJbqpUvfG9lQiuLDDm6ulqSAQmTVw4KwjYFZThNKdQXWD0yD2lLijqP/XRJd4Xg==;C9C7NmkzAgKn0sCc+uEA0A=="

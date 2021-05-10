@@ -50,6 +50,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
+  - title: "The Briefing: Trucking Startup Plus Going Public Via SPAC, GoJek Raises $300M, And More"
+    excerpt: "Cupertino, California-based Plus, a startup developing technology for self-driving trucks, announced that it has inked an agreement to go public through a merger with a blank-check acquirer, or SPAC."
+    publishedDateTime: 2021-05-10T13:02:00Z
+    webUrl: "https://news.crunchbase.com/news/briefing-5-10-21/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 29
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2020/08/Breaking_News.png"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Self-driving truck startup forms safety partnership with insurance firm"
     excerpt: "In a sign that autonomous trucking is moving closer to reality, TuSimple and Liberty Mutual Insurance have formed a partnership to assess comparative safety of self-driving trucks. Trucking is notoriously a dangerous occupation."
     publishedDateTime: 2021-05-06T12:48:00Z
@@ -60,6 +74,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "0X2i3oEXGxgmdWFSv4AwpYEoXVKP5ecl8dJQ3uaQ5Kg3GRlBmFJbj+4500PQFBGphpB6aWHNyNddrVsyHprB86m00hBgD1cGicoHBDyrLpwK29DfrueHu/uCX8UWt3Qg4z9twxNSMBtiai3ZZ5H1Sggm4w39zMERy4TU37JJqLVxHGWilXS8HsX8tNcTl+NDyEJ1tPvtGGxnZoo8uyiYAod8A5fUEZ2/EJvvFpW7l2nvbYPyY2qIpOOYvpuT5z3zx2lTsnMDYwGggZw2WULGFgBGsloCHps/FNZVW0shRgVYq1lW33NoKpSGK+KyP6+IWq6ZLadB/ZleUXxtTP4EdL7+aDo+Lmj2xGzszoTs5i8=;XV26g8cozXsppCxn+ei6zQ=="
+secured: "VQVBNn3C3OZFMTE0zaQQAaM+p7DfSwkImf0dT24McSZ2Mx8SN16EwhxywP5QKC8x3vS++t1WpUFAUco3vbN7jNSY+dL81yWiorkiuUQCgSxzYgBiD3uSIHlIYdstt7WR+6Q00Kv++5UOqfpiD4BDwBObljKuD2TpBqEEA0KbJcH8+d4Asy3MCmDdN0kLDcLF+WK9Fy54U/gwzjs5XZpdEX4suoYVPJy3zfG2h3d0+UYdON2mzItC3fvBfXZ5Z43c9+GNW90sgDHXWe/yfIBKyzFLZ/ACoZ4+xSdNGr4KpO7nPr+D3WQz2nAhRh/kZ6v/imLOpc1JHQ7jkBKV0eV7E3XoBTwZDBVvNNIL5gC7mmtcTgBPk0HnFhTldVCbbC4Cyurc0sJwSJPfOQEI2REyh3RyTyLB0KR/2gksy/Faz/blvuU/J6XDK+zKsqLBgRGzNDCOBSyusFv/LAHsrzSGk54s78VTD8AUNcgobMa/o27NBgeKtgq9Rp+evquGI6tdF+qqjz65G4kI4kWF0HGxHw==;bbbyg+pgTcc8OADcIf6Myw=="
 ---
 

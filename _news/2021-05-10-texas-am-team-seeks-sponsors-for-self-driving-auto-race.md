@@ -41,6 +41,36 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Tall Tales By Your Grandparents About Walking Five Miles To School Will Instead Be About Using Self-Driving Cars For Your Kid’s Generation"
+    excerpt: "Walking five miles to school in the snow and uphill will become a new tale about being driven to school by self-driving cars."
+    publishedDateTime: 2021-05-08T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608cd9913ed92beb8a48a802%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2143%26cropY1%3D13%26cropY2%3D1219"
+        width: 1199
+        height: 675
+        isCached: true
+  - title: "Study reveals trust and safety among top priorities for self-driving cars"
+    excerpt: "New study suggests self-driving cars are ready to be accepted in Finland at least – as long as they are safe and secure, according to a new study. Autonomous cars must be safe, secure, and trustworthy if they are to be accepted widely says new study ..."
+    publishedDateTime: 2021-05-10T10:47:00Z
+    webUrl: "https://www.intelligenttransport.com/transport-news/124243/finnish-study-self-driving-cars/"
+    type: article
+    provider:
+      name: intelligenttransport.com
+      domain: intelligenttransport.com
+    quality: 23
+    images:
+      - url: "https://www.intelligenttransport.com/wp-content/uploads/self-driving-1.jpg"
+        width: 750
+        height: 450
+        isCached: true
 
 secured: "qZ3+/oM7EVNS6VAuomAjYrmUU2xQeFLn+W+DRlAKVJviYnBEt4IfN7DNAUvO09rTEzL/b8oXssy8RMMvA26FsLErE0RV14fHpvVAdGP6hwMntXwaa4jPaauN+ElwjGohTE2arE1EmCjhAubHRTnVhTEMLy8xLPurfQVUo9Db9iFjNDfNqBe9VyDVmN/1H4+EAlc1WrYpkAMArds8QzbPs6zydeA/lGdboRUKDCn6ILRLZjLl5sGI2FNMDxq8moWCdhwClg/Z4ajo+4S5ymaNS9MmuFuCQkFMxApscwzRNuXIlozN16t4eStYI4UFwaKO8Q2TLcnGpVNaTgvq1lRAdXitz8JzcZ9P80XEAES1PLW/YCfmq5y1X4keo/eK35jISaGtoBNuIJV5f4MAVEGPhAEKPO2SioksTxTudY47T4VXW3v0s+vd1Y95sgMWtpatVaumdkcTazCfqZkrSUxsniKKQCGJlytvS1JIqMJCr1E3l8erHV+Qc0XfMwo77E8NuwaFv4QhUgqZMvE65kjHKw==;Xjy0j9dHIbMNRnMFcmZvlQ=="
 ---

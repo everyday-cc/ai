@@ -43,7 +43,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 46
+    quality: 63
     images:
       - url: "https://scitechdaily.com/images/New-Type-of-Neural-Net-Accelerator-Chip-777x421.jpg"
         width: 777

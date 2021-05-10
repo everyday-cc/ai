@@ -35,6 +35,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "The Briefing: Trucking Startup Plus Going Public Via SPAC, GoJek Raises $300M, And More"
+    excerpt: "Cupertino, California-based Plus, a startup developing technology for self-driving trucks, announced that it has inked an agreement to go public through a merger with a blank-check acquirer, or SPAC."
+    publishedDateTime: 2021-05-10T13:02:00Z
+    webUrl: "https://news.crunchbase.com/news/briefing-5-10-21/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 29
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2020/08/Breaking_News.png"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Self-driving truck startup Plus to launch $3.3 billion SPAC deal"
     excerpt: "Plus said on Monday it would go public through a merger with blank-check company Hennessy Capital Investment Corp. V in a deal that values the self-driving truck technology startup at $3.3 billion. The combined company will get proceeds of $500 million from the deal,"
     publishedDateTime: 2021-05-10T10:35:00Z

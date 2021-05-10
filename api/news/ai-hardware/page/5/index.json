@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-11-aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions.md",
+      "title": "Aetina Provide Chained Hardware & Software Pro-AI Service for Edge AI Solutions",
+      "excerpt": "Extraordinary Coordination for your AI Project DevelopmentTAIPEI, March 11, 2021 /PRNewswire/ -- Aetina Corporation dedicated to AI solutions",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-backplane-systems-technology-presents-neousyss-nuvo-8108gc-xl-edge-ai-gpu-computing-platform-with-nvidia-rtx-30-series.md",
+      "title": "Backplane Systems Technology Presents Neousys’s Nuvo-8108GC-XL Edge AI GPU Computing Platform with NVIDIA® RTX 30 Series",
+      "excerpt": "Backplane Systems Technology is proud to present Neousys’s Nuvo-8108GC-XL, an edge AI GPU computing platform supporting NVIDIA® RTX 30 Series GPU cards up to RTX 3080 and Intel® Xeon® E, 9th/ 8th-Gen Core™ processors. Featuring patented thermal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-neousyss-nuvo-8108gc-xl-edge-ai-gpu-computing-platform-with-nvidia-rtx-30-series/",
+      "originalUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-neousyss-nuvo-8108gc-xl-edge-ai-gpu-computing-platform-with-nvidia-rtx-30-series/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ferret.com.au/wp-content/uploads/2021/03/PR-Image-Neuosys-Nuvo-8108GC-XL.jpg",
+          "width": 1500,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T19:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ferret Australia's Manufacturing Industrial and Mining Directory",
+        "domain": "ferret.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-how-nvidia-ai-enterprise-suite-simplifies-ai-deployment.md",
       "title": "How NVIDIA AI Enterprise Suite Simplifies AI Deployment",
       "excerpt": "eWEEK NETWORKING PRODUCT ANALYSIS: Joint NVIDIA-VMware solution promises to unlock the power of AI. This week GPU market leader and AI thought leader NVIDIA revealed its NVIDIA AI Enterprise, a comprehensive suite of enterprise-grade AI tools and frameworks.",

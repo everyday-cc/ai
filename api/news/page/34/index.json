@@ -2,6 +2,327 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-04-06-death-of-the-turing-test-in-an-age-of-successful-ais.md",
+      "title": "Death Of The Turing Test In An Age Of Successful AIs",
+      "excerpt": "IBM has come up with an automatic debating system called Project Debater that researches a topic, presents an argument, listens to a human rebuttal and formulates its own rebuttal. But does it",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2021/04/06/death-of-the-turing-test-in-an-age-of-successful-ais/",
+      "originalUrl": "https://hackaday.com/2021/04/06/death-of-the-turing-test-in-an-age-of-successful-ais/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2021/04/imitation_game_with_computer_and_man.png?w=400",
+          "width": 400,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth.md",
+      "title": "Startup Adapts AI Used In Space To Advance Healthcare On Earth",
+      "excerpt": "It’s not often that a random joke leads to the creation of a company, but that’s exactly what happened with Ejenta, a digital health startup.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/",
+      "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606349084789535232b6741c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/amp/",
+      "publishedDateTime": "2021-04-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend.md",
+      "title": "5 Top Advanced ML Stocks Poised to Gain From Automation Trend",
+      "excerpt": "Moreover, Microsoft, currently carrying a Zacks Rank #2 (Buy), offers ML-based ML.NET open-source cross-platform, Azure Machine Learning service, AutoML tools, Cognitive API Services, Azure Machine Learning Studio, to name a few. With these solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend-2021-04-06",
+      "originalUrl": "https://www.nasdaq.com/articles/5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend-2021-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-how-financial-brands-can-use-ai-and-data-to-offer-more-personalized-services.md",
+      "title": "How Financial Brands Can Use AI and Data To Offer More Personalized Services",
+      "excerpt": "Perhaps no field is so perfectly suited to incorporate the potential of artificial intelligence (AI) as financial services.",
+      "sourceUrl": null,
+      "webUrl": "https://dataconomy.com/2021/04/how-financial-brands-ai-data-personalized-services/",
+      "originalUrl": "https://dataconomy.com/2021/04/how-financial-brands-ai-data-personalized-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dataconomy.com/wp-content/uploads/2021/04/how-financial-brands-ai-data-personalized-services.jpg",
+          "width": 1920,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dataconomy.com",
+        "domain": "dataconomy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-quantum-computing-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players.md",
+      "title": "Quantum Computing Market 2020-2028 Financial Insights Business Growth Strategies with Top Key Players",
+      "excerpt": "On the basis of Application as, the global Quantum Computing market is segregated as, Optimization, Machine Learning, and Material Simulation ... Google Inc. (US), River Lane Research Availability Services among others operating in the Quantum Computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/quantum-computing-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players-2021-04-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/quantum-computing-market-2020-2028-financial-insights-business-growth-strategies-with-top-key-players-2021-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-algolux-collaborates-with-renesas-on-r-car-camera-optimization-for-computer-vision.md",
+      "title": "Algolux Collaborates with Renesas on R-Car Camera Optimization for Computer Vision",
+      "excerpt": "Atlas automates today's months-long manual ISP tuning process to maximize computer vision accuracy and image quality in only days, an improvement of up to 100x in scalability and resource leverage. The workflow permits rapid evaluation of different camera ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-collaborates-with-renesas-on-r-car-camera-optimization-for-computer-vision/article_ab78d5c2-740e-518b-a91c-3b6ce45a91f0.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/algolux-collaborates-with-renesas-on-r-car-camera-optimization-for-computer-vision/article_ab78d5c2-740e-518b-a91c-3b6ce45a91f0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future.md",
+      "title": "An Exciting, Surprisingly Imaginative, Techy Vision Of Telemedicine’s Future",
+      "excerpt": "There are many exciting innovation possibilities on the horizon that will make telemedicine even more productive, informative, helpful, and dare I say fun and personable, than current in-person doctor visits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/",
+      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c4a648ed19cda3fd77be7%2F0x0.jpg",
+          "width": 1200,
+          "height": 572,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/amp/",
+      "publishedDateTime": "2021-04-06T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-charles-river-laboratories-signs-ai-pact-with-valence-discovery-to-boost-drug-discovery-work.md",
       "title": "Charles River Laboratories signs AI pact with Valence Discovery to boost drug discovery work",
       "excerpt": "Early-stage contract research organization Charles River Labs is delving deeper into artificial intelligence with a new pact inked ... RELATED: Charles River jumps into cell and gene therapy manufacturing with $875M Cognate buy This forms part of an ...",
@@ -760,319 +1081,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition.md",
-      "title": "NIWC Atlantic Wins Big in Joint Artificial Intelligence Robotics Competition",
-      "excerpt": "Atlantic swept the top five places in the Amazon Web Services (AWS) DeepRacer First Annual Army-Navy Competition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.navy.mil/Press-Office/News-Stories/Article/2561638/niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition/",
-      "originalUrl": "https://www.navy.mil/Press-Office/News-Stories/Article/2561638/niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.defense.gov/2021/Apr/05/2002614499/1460/1280/0/210319-N-GB257-001.JPG",
-          "width": 1460,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "United States Navy",
-        "domain": "navy.mil",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science.md",
-      "title": "Why machine learning, not artificial intelligence, is the right way forward for data science",
-      "excerpt": "Commentary: We like to imagine an AI-driven future, but it's machine learning that will actually help us to progress, argues expert Michael I. Jordan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
-      "originalUrl": "https://www.techrepublic.com/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
-      "publishedDateTime": "2021-04-05T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-verizon-aws-launch-private-mobile-5g-edge-computing-integrations.md",
-      "title": "Verizon, AWS launch private mobile 5G edge computing integrations",
-      "excerpt": "Verizon Business and Amazon Web Services said they will start delivering private mobile edge computing to enterprises in the US via integration with Verizon's private 5G network and AWS Outposts. The two partners will start providing private edge computing platforms to be used in factories,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
-      "originalUrl": "https://www.zdnet.com/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-aws-launch-private-mobile-5g-edge-computing-integrations/",
-      "publishedDateTime": "2021-04-05T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-lounge-lab-unveils-aris-capsule-based-ice-cream-robot.md",
-      "title": "LOUNGE LAB Unveils 'ARIS', Capsule-Based Ice Cream Robot",
-      "excerpt": "Customizable with 10 flavors and 3 shapes “We want everyone to be happy.” From the comment on the launch. Visit:  The food-tech start-up",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/04/ab20488883/lounge-lab-unveils-aris-capsule-based-ice-cream-robot",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/ab20488883/lounge-lab-unveils-aris-capsule-based-ice-cream-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/ba1c0b33f681aaf9fcd339ba804ddacd.png",
-          "width": 600,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20488883",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20488883",
-      "publishedDateTime": "2021-04-05T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-icad-announces-estimated-q1-revenues-and-upcoming-cfo-transition.md",
-      "title": "iCAD Announces Estimated Q1 Revenues and Upcoming CFO Transition",
-      "excerpt": "In 2018, ProFound AI for DBT became the first artificial intelligence (AI) software for DBT to be FDA ... IORT’s benefits for patients which exceed the benefits of traditional therapy or acceptance of IORT by patients or clinicians, the impact of supply ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-earnings-artificial-intelligence-095ad472a9c7e5998eb433a5331120e0",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-earnings-artificial-intelligence-095ad472a9c7e5998eb433a5331120e0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-behind-the-scenes-with-ibm-services-david-sun.md",
-      "title": "Behind the scenes with IBM Services’ David Sun",
-      "excerpt": "When it comes to IBM’s vast services capabilities, David Sun has seen it all. Sun, the director of corporate business development for IBM Services, came to IBM 18 years ago when IBM acquired PwC Consulting and is now one of the driving forces behind the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/behind-the-scenes-with-ibm-services-david-sun-562975",
-      "originalUrl": "https://www.crn.com.au/news/behind-the-scenes-with-ibm-services-david-sun-562975",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/ibm-campus-1.jpg",
-          "width": 610,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-ai-powered-etf-works-with-ibm-watson-to-analyze-market-data.md",
-      "title": "AI-Powered ETF Works with IBM Watson to Analyze Market Data",
-      "excerpt": "Chris Natividad is CIO and Co-Founder of EquBot. Mr. Natividad brings more than 15 years of experience in the institutional investment management industry. Previously, he was an Investment Portfolio Manager for Gilead Sciences and Apple Inc.’s Braeburn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.twst.com/interview/ai-powered-etf-works-with-ibm-watson-to-analyze-investment-data",
-      "originalUrl": "https://www.twst.com/interview/ai-powered-etf-works-with-ibm-watson-to-analyze-investment-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.twst.com/wp-content/uploads/2015/09/microsoft-logo.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Wall Street Transcript",
-        "domain": "twst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

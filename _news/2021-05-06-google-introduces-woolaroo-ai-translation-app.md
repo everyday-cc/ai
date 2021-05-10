@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/google-introduces-woolaroo-ai-translation-app
 webUrl: "https://techstory.in/google-introduces-woolaroo-ai-translation-app/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "Woolaroo: a new tool for exploring indigenous languages"
-    excerpt: "“Our dictionary doesn’t have a word for shoe” my Uncle Allan Lena said, so when kids ask him what to call it in Yugambeh, he’ll say “jinung gulli” - a foot thing.Uncle Allan Lena is a frontline worker in the battle to reteach the Yugambeh Aboriginal language to the children of southeast Queensland, Australia,"
-    publishedDateTime: 2021-05-05T20:00:00Z
-    webUrl: "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/"
-    ampWebUrl: "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 194
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/woolaroo_yugambeh.max-1300x1300.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "5F1j/dYz8l3S8CvG/iLzAVzCFhyReBZnUoJI5CHbHLBWp4U4pNacCSXSd2yJ9h+q4XT4Pm2X6maSwq09UCgoNyDGGiwHbCB39flvQhTFKYEGWH3ELZ2VF4OfgZpH040EhgBDVN6iuQvUbvRFFPKM4IEp7Vmm/bLNyiDGSV1k4jRwzubdjFM2c3gGCBioT1QSwS5TswW/vnsQBnHh9uVUGr67G2l5t8phjnB+0YVbqMGlxigMbbSaDC4X8bTlTr9tOF4TYUTOo5wIjWSxjesjxnbpsJnTpmYwGJ+7tyVOetd9QZOd2xhCRL1vN+a6e8ZyK0wFBF5Sraoh1CooTec7anvMHUZ+89DeRttgEGOrL4Wdaq1ynBUmGZWOHoG5+Lpf95D1nwP2O4TSAetyeNAlVjgEiucag+V80KLLqi9Ae93kzy9Ae/+UYXROyNTZchuEivkMth6qgGrcVFtpNmlxiqsHpVsWAvrAbPnpKhPl0O5SAupf96XNdy2MKBEuZaN+DvYxOs0qRWIgxNiE6yfV9w==;J1y1cVQAwxs1tBljiYWF6Q=="
 ---

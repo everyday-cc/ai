@@ -8,7 +8,7 @@ webUrl: "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-
 ampWebUrl: "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/"
 type: article
-quality: 46
+quality: 63
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://scitechdaily.com/images/New-Type-of-Neural-Net-Accelerator-Chip-777x421.jpg"
@@ -55,6 +56,6 @@ related:
       domain: benzinga.com
     quality: 22
 
-secured: "nv5QmsQfwRr70ODzq8PTt+OnAD2l3clZ/Ibmgfl8OiXhjslGu2pcNH13iwAWaoB6+F8/YdgjzjJwDHAMFcgL6eE+sb2u9S3qKMmzXHXoBC4Ry04DSNM1Fn4sjNPcDyySbAHvrGj0LKxH8kxhF9HgLc9sJauPZR9HVV/1UFLUIkqJ0bsT8lGstlKcz1/9Zdb3q+cCaVGAZQa9rZoc+N38UJB4f8R9NFvsQ+K1TDDnX5qWEQtGUP6sU4xYs3+CZaNLXcJ0Y4GEcXs26G/ZGlfeoTbKBdoktWM1pKMkZCssRvPJzFT0yoPhbK9EKEqM1DyrujwS4rCU8a6K2dt+ZSuNkYLsrpDCUqRoUSKYPqiFfvc=;WEqqrQ+tLoBuqdTdJ5nP4g=="
+secured: "x4YYtRm31F1I93lHJn0q5Eo12pxfn8LbL2l1ntaXmNRcPniZ8vLMTwToYwSTesuDI25UDVaM34J8wdbHFqBUAkhwYuUoh3RQZtl3Qn2D9oOYz2BlD3Xm03KN3nw3B4mmIMEXsu1x2RTHOq8xBzRWrXpAVYvyzXETnm3cziPcqX1vLUGAiq/5KGyC39VEl0iBNIRgCQCdWY9ew3kM/pSqSHngDIK0VdAkX5lyA17kTABZbVR8JWGPBw6CrSla7jWb7bcMByay3T6QlVjy1MDJO/Au4o0tk+c/yoWiXT6cjT0okvxlrRQ0lEJe8r9gV97QTyvMWwBV0NhAAuginlYnNsU6QHYg+y52ztXUD5VUdZeIGbWJ2RB82NxVUbsO6fsUs+q6OmzedH7d5iPBSuLzizD+0sAgB42UJzSwzEq2HjX2L4NPP00O87hchTj/5xPj6oKii+xprVtsEZmG1iAyqujZLQZYxCeuaMd7UtSwAA9puAwBek6qDetacDlcjBXt076i6q5njl650MuDO8ZnRQ==;tsmQqchYnJekoB097LpMPA=="
 ---
 

@@ -583,6 +583,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-27-cleareyeai-joins-itfa-the-fintech-committee.md",
+      "title": "Cleareye.ai joins ITFA & the Fintech Committee",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net LOS ANGELES, April 26, 2021 /PRNewswire/ -- Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cleareye-ai-joins-itfa-the-fintech-committee-1030345128",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cleareye-ai-joins-itfa-the-fintech-committee-1030345128",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud.md",
       "title": "ThetaRay launches anti-money laundering AI and analytics for the cloud",
       "excerpt": "Cybersecurity analytics company ThetaRay announced that its AI-based Anti-Money Laundering (AML) analytics will be available in the cloud.",
@@ -1331,58 +1374,6 @@
         "name": "Financial Buzz",
         "domain": "financialbuzz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-fintech-unsecured-lending-challenges-and-myths.md",
-      "title": "Fintech Unsecured Lending: Challenges And Myths",
-      "excerpt": "Private sector financial institutions are leading innovation in various fintech products to enable more easy digital access to their existing as well as new financial products",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/369125",
-      "originalUrl": "https://www.entrepreneur.com/article/369125",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1618209459-money-transfer-3588301-1920.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369125",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369125",
-      "publishedDateTime": "2021-04-11T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Overfunding: UK AI-Powered Fintech Expend Quickly Surpasses £500,000 Target Through Seedrs Campaign"
+    excerpt: "Expend, a UK-based AI-powered fintech, has successfully secured its initial £500,000 funding target through its equity crowdfunding campaign on Seedrs. The funding round, which recently made its debut,"
+    publishedDateTime: 2021-05-10T13:32:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175177-overfunding-uk-ai-powered-fintech-expend-quickly-surpasses-500000-target-through-seedrs-campaign/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175177-overfunding-uk-ai-powered-fintech-expend-quickly-surpasses-500000-target-through-seedrs-campaign/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175177-overfunding-uk-ai-powered-fintech-expend-quickly-surpasses-500000-target-through-seedrs-campaign/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 45
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Expend_Expense_Platform-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Top Banking and Fintech Trends for 2021"
     excerpt: "As opportunities open up in the fintech industry, some trends are continuing into 2021. Here are to banking and fintech trends for 2021 that may drive the financial services industry forward."
     publishedDateTime: 2021-05-08T17:25:00Z
@@ -43,6 +59,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "R1ZUSiaGEhGsWkshjQU4zR7++/Y2YXhOrva3p+16lZ0VmMZm1BP0PdySPDMUc6jubTWShjT+hFXjlJASx8oo2cf+B2Yy7WgyKWXr5Z4rkLKJcM8U97EhAxX+b7r0eylr5aPyJHLYr9G/SctaPXw4t2AMrHuDpPasJWCVjzG6wBZfMcjMwRs3pFUzyi1USDPJ8CB5QAYacek8qXt4RJLzRoiTgg75HA/ZqB9X809KUUyfZhiJ095XduKrNUA7+ipzbNlUB76wLfOcvyHpwEAjibid0Ow1reLKBSSw7UNZEZnZnhRwlzVNvzlOaCkFS9XajaKuf3UGWb4MPXeyMUuERLm682GLDMagURsmsPvK6J0=;245O2lNhxkpIj55quCNnUg=="
+secured: "4igIJ60vNm0KIkaBk7ESSfzDZai+ZDnWl/MfkVhfuzUq+9JFFCP9Rjj+CmPaBGHaYXgM2hTXPe84E6nBn78dBAMZtNuKKqeuQQMo6CBhEWD6pGKybcSlmD9gPtYou1egW8NXH3E0njYBGUyeZfGwr+0eqn8AEZTRufjKwjLHpPzV/fhCkpDi+W2j2ooHZMtjyRS4qteWLO8gdH36H30fNqn6vyM4/v2kxIoeMV1D1boIx2QuF+I/zK/GU89tGtzLuMJQPWwJIt6duEmyCjMq5a+2j4K6iS9DqicIaO3NgeWdhRVl3qAzCSSCdWVf7Ptd5SGs6jTNPU+6ENK6Lu3fXVeU93FBdMtimdV0ZCUU10s=;bDrGrPWxp+Mn4GlJtz+/ug=="
 ---
 

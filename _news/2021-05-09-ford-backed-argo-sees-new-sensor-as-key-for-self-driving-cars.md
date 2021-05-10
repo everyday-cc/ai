@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tall Tales By Your Grandparents About Walking Five Miles To School Will Instead Be About Using Self-Driving Cars For Your Kid’s Generation"
+    excerpt: "Walking five miles to school in the snow and uphill will become a new tale about being driven to school by self-driving cars."
+    publishedDateTime: 2021-05-08T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/08/tall-tales-by-your-grandparents-about-walking-five-miles-to-school-will-instead-be-about-using-self-driving-cars-for-your-kids-generation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608cd9913ed92beb8a48a802%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2143%26cropY1%3D13%26cropY2%3D1219"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Texas A&M team seeks sponsors for self-driving auto race"
     excerpt: "A team of students and employees from Texas A&M University is looking for sponsors to help it compete in a race with self-driving cars at the Indianapolis Motor Speedway."
     publishedDateTime: 2021-05-10T05:00:00Z
@@ -40,6 +56,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/7/66/7668bb3e-b129-11eb-a481-27cad4fa5413/6098833132f5a.preview.jpg?crop=648%2C365%2C0%2C141&resize=648%2C365&order=crop%2Cresize"
         width: 648
         height: 365
+        isCached: true
+  - title: "Study reveals trust and safety among top priorities for self-driving cars"
+    excerpt: "New study suggests self-driving cars are ready to be accepted in Finland at least – as long as they are safe and secure, according to a new study. Autonomous cars must be safe, secure, and trustworthy if they are to be accepted widely says new study ..."
+    publishedDateTime: 2021-05-10T10:47:00Z
+    webUrl: "https://www.intelligenttransport.com/transport-news/124243/finnish-study-self-driving-cars/"
+    type: article
+    provider:
+      name: intelligenttransport.com
+      domain: intelligenttransport.com
+    quality: 23
+    images:
+      - url: "https://www.intelligenttransport.com/wp-content/uploads/self-driving-1.jpg"
+        width: 750
+        height: 450
         isCached: true
 
 secured: "bv/SAMqQEMv4WmKJAt0+9fcEoAHGXbZ8V1u3HPVROZ/sw+CqZ2bO1WNjS/ZgiLwfpaPfPwwrpRLsPYLjV54T1POW0jK6bL6Ht2f0W+pNbwpDdarf6h6VhUPukAJ/Gq4iz0/Gqu2NGz9ANquWl9zTTaTSDjtyZX8n4p08iKYCx25oxLwrZtnGFsZYsQkTzHCqao9MKPdueXP+ybbzoQ0rKWnd7fMxWcevaCcoS1ENBk1QvQXeke2pTRGRY47MsiGEsBK+r2Fv7vljZ1sK+xVqFGoGif+WCBp1Di67s4Zp8XAmYUg8JbxqWeKFourx/ZCSNReqXfqK7ldkfdoBtYKeGlQ4huQ0PalE9lB3w5IJSsjD8c9qc6JYjk2GCkdGI/M1SB9kjL0NJrgMpH7BihkBsghgL5LEO6pNc6db1tVTMvdt1Y6pns2v0tSuQJKvQiBbM9XhBu1P7JOuh7j6UFJmpV1VbTjZfoigyH+8MgkIAjl/tjkDC7xwUs0WYIZkJo+FRXkIHHzYS4vgvv43LuPQnw==;fPVZUvJH+ts4B+MH9eIE+g=="

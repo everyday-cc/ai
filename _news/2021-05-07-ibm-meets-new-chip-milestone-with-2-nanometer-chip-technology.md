@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Meets-New-Chip-Mil
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Meets-New-Chip-Milestone-with-2-Nanometer-Chip-Technology-146759.aspx"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM unveils 2 nanometers chip, opening the door for higher, efficient tech performance"
+    excerpt: "IBM announced a breakthrough in semiconductor design by developing the world’s first 2 nanometers (nm)chip. Semiconductors are the heart of every technology that is governing our world today—from computing to appliances,"
+    publishedDateTime: 2021-05-10T12:46:00Z
+    webUrl: "https://www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/"
+    ampWebUrl: "https://www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/amp/"
+    type: article
+    provider:
+      name: Technowize
+      domain: technowize.com
+    quality: 51
+    images:
+      - url: "https://www.technowize.com/wp-content/uploads/2021/05/IBM-2-nanometers-chip.png"
+        width: 1080
+        height: 1080
+        isCached: true
   - title: "IBM unveils world’s first 2-nanometer chip technology"
     excerpt: "Global business services provider–IBM has made a breakthrough in semiconductor design and process with the development of the world’s first chip with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
     publishedDateTime: 2021-05-07T13:07:00Z
