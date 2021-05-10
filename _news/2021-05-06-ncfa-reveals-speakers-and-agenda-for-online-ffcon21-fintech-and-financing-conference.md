@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Technology Association of Georgia Announces First 100+ Speakers to Fintech South 2021 Lineup"
-    excerpt: "Technology Association of Georgia (TAG) announces the first 100+ speakers for Fintech South, the southeast’s largest event dedicated to financial innovation. A global exchange of insights and trends fueling tomorrow’s financial tech industry,"
-    publishedDateTime: 2021-05-05T11:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/georgia-technology-business-2af34f054b434fbe99e431fac22bb958"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "National Crowdfunding & Fintech Association of Canada: NCFA Reveals Speakers and Agenda for Online FFCON21: Fintech and Financing Conference"
     excerpt: "Conference to explore accelerated Blockchain - Fintech trends and innovations paving the way to mass adoption and scale TORONTO, ON / ACCESSWIRE / May 6, 2020 / The Fintech & Financing Conference and"
     publishedDateTime: 2021-05-06T15:47:00Z

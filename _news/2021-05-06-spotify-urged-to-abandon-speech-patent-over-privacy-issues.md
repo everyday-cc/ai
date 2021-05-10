@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Musicians, including RATM's Tom Morello, urge Spotify never to use patented voice recognition tech"
-    excerpt: "Spotify’s patent, granted on January 12, describes analyzing users’ voice and background noise to detect their mood and social setting, such as whether they are in"
-    publishedDateTime: 2021-05-05T12:37:00Z
-    webUrl: "https://www.techspot.com/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 60
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-14-image-28.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "Spotify responds to protests against speech-recognition patent"
     excerpt: "Earlier this year, a controversy broke out over a Spotify patent involving using speech recognition technology to analyse a listener’s “emotional state, gender, age, or accent” and recommend them music accordingly."
     publishedDateTime: 2021-05-05T13:14:00Z

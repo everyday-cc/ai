@@ -8,8 +8,8 @@ webUrl: "https://www.syfy.com/syfywire/this-ai-actually-functions-like-the-human
 ampWebUrl: "https://www.syfy.com/syfywire/this-ai-actually-functions-like-the-human-brain?amp"
 cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/this-ai-actually-functions-like-the-human-brain?amp"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2021/05/brainrobot.jpg"
@@ -26,6 +27,6 @@ images:
     height: 680
     isCached: true
 
-secured: "3eXp73aB6bvhZVhEkEoXbVFnJCvMCa60oAW5OT4WspTn3Qwvx5WijYq56ZmjyId9Eu2Nf5bLYHKWpQqplCRF+WX25af6P5ZMJPA+SDsttJsnFSU2T6KlkOshfLG2sqzy+QAAzenRB5o4VRZP5I+ZW2dJWCNZOs00UHC8RSZD0ohIxbOFf9xikJ7HtWTji3VjSAlVIA/vhsAJMlmDfOLRe6Cbppoa03qPRRtJV6VJPEWGrYt0OJ757aZo6q+SXPapxtv4g0dnglf3wl1f8h70xdpfXBPg3Fp3Pi2GQGbIatbtuXBQ5ve34zIV2nc6ZK/FLRXu5TcHKRAhqg1c0lnB+CXPYDcRe/5HcJHyaaE0Igc=;Yi6vXyMwsVFLzqQshjLkQg=="
+secured: "IkoLP+QRCGT737HE6Qb7UeEDDqsssavdJzZDz5FVzNv9gOCmLkj8xHRclcM1MLdxMriEj2EDuvLHAFyPux7mDiPVIyWGsLEeWBFBAAYOWqBCrcp8UqXKP/mWw4HzgM9iajVa09k9JK/E9DheG4JFxc+J+HrIalN/7/CZHqqc/LqqGKb6kIE9S3FzPZJHIIG+o8bFyjmwi+IQWR88bLS56Lz4nP0c6lC3JflRjmQnPKRc9yvIVG07puGIQavzx47nKA9gNo4FlXF7UoDXLmQPSxbNw58OfKdXAoMY+8C5wrJsQojHqVi0F6zf2UlqhGauof0eDZ5RgyLPnHZ+L2CewUYrPpDl+WTaucRhOUG6OTljcH+dEhJkFQCp6yWNP1LUWumGT3+gw4XWg2Omx5JY9TgL5mvTs/1q62gs26ee1v67amUhOovDk6rFSk70psQpevGHM9qCDuUoD3qfzE7Xei9fdAQhRXTxtHvp8AXZPxs5LDOfSpDVTHibwsC7EZbiw5FEXSP+nYBQQsRDmgEVXw==;0177i31z/vHWK5LAYp23WA=="
 ---
 

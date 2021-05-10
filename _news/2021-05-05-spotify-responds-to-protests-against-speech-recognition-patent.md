@@ -7,7 +7,7 @@ originalUrl: "https://musically.com/2021/05/05/spotify-responds-to-protests-agai
 webUrl: "https://musically.com/2021/05/05/spotify-responds-to-protests-against-speech-recognition-patent/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Musicians, including RATM's Tom Morello, urge Spotify never to use patented voice recognition tech"
-    excerpt: "Spotify’s patent, granted on January 12, describes analyzing users’ voice and background noise to detect their mood and social setting, such as whether they are in"
-    publishedDateTime: 2021-05-05T12:37:00Z
-    webUrl: "https://www.techspot.com/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 60
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-14-image-28.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "Spotify Urged To Abandon Speech Patent Over Privacy Issues"
     excerpt: "More than 180 musicians and human rights organizations are pressing Spotify to publicly disavow a speech recognition patent, saying it raises many privacy and inequality concerns and that the music streaming provider's assertion that it has \"no plans\" to implement this technology isn't enough."
     publishedDateTime: 2021-05-06T03:04:00Z

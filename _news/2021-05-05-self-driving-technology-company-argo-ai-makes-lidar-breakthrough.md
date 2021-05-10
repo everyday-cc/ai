@@ -55,15 +55,20 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Argo develops in-house lidar sensor for self-driving cars"
-    excerpt: "Argo Lidar is a new sensor introduced by Argo AI designed to accelerate the commercialization of autonomous delivery and ride-hailing services. The lidar sensor detects difficult-to-see objects from far away and works with Argo’s self-driving system (SDS) that is capable of 360° of awareness day or night and can safely drive on city streets,"
-    publishedDateTime: 2021-05-05T13:03:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16678/argo-develops-in-house-lidar-sensor-for-self-driving-cars"
+  - title: "Texas A&M team seeks sponsors for self-driving auto race"
+    excerpt: "A team of students and employees from Texas A&M University is looking for sponsors to help it compete in a race with self-driving cars at the Indianapolis Motor Speedway."
+    publishedDateTime: 2021-05-10T05:00:00Z
+    webUrl: "https://theeagle.com/news/local/texas-a-m-team-seeks-sponsors-for-self-driving-auto-race/article_7668bb3e-b129-11eb-a481-27cad4fa5413.html"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
+      name: The Eagle
+      domain: theeagle.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/7/66/7668bb3e-b129-11eb-a481-27cad4fa5413/6098833132f5a.preview.jpg?crop=648%2C365%2C0%2C141&resize=648%2C365&order=crop%2Cresize"
+        width: 648
+        height: 365
+        isCached: true
 
 secured: "ZVw8FKn9KWiDZWYGEkClSapcm5fNOLUbAH8TFoVny1h0vU4ZgE36qUVRwsYL5bARRx4yxJE1Su2jWPzWRew03R7cvn469w/feCm9ZtWZInq8ViQBiPiUVijep9lGnEzy3ZUmhWDOHGQ2LD+nBUvbSh02ibAvwm1XIx/fLTlfYDd33sgh4n33ReYG1ATN4jYhAvfq4irJmFo9Q440Ucv5ngMOsmcro1CRIs3IjhYCO3vVaX6uQJqdSZVR+MmCpM2ck1UQyfzjvM0H1Tj1ycOgrsc0z8Zk/qSYSKxx1tsT+S4EaJP60xhekV22E8nQ6GokEuDntPKK7d8NaCxIU5xHinJ/tx2MqkUlQtVJrEgN/vCh4KisaJnoFe3wmfy/sZD4iS4CqF3ZashzT/Uk/XfrAOAZWqH5QKb8o0aGheZevU9ZQN9SfTPmC13UZRLFA5McCRzYWtXDLjk+S9z054tGNwNsavUlQxtkt/kWT9LlHJFTBs1hq/Hh9dNXb5fHE2GCabQQrbsfFcp/HuC89ar2WA==;ShdVCDhkb3mdkfilVHuLww=="
 ---

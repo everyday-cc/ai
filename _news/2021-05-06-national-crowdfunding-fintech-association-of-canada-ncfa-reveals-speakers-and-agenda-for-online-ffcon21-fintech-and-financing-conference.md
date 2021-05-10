@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Technology Association of Georgia Announces First 100+ Speakers to Fintech South 2021 Lineup"
-    excerpt: "Technology Association of Georgia (TAG) announces the first 100+ speakers for Fintech South, the southeast’s largest event dedicated to financial innovation. A global exchange of insights and trends fueling tomorrow’s financial tech industry,"
-    publishedDateTime: 2021-05-05T11:51:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/georgia-technology-business-2af34f054b434fbe99e431fac22bb958"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "nQH10/AbwMGTtcVruLQ3zY1PfS+99swedmna6AjpK8jPgKdRqdJTzDJb9xZ+fDD0L+V9mk7qxRl2G+tsTuAdH1tvcjau6MGHqiHCDoPRfAmBy0FfVazOl0VVQhUM2Dz5sGYoZo8FqWS30CwgagspTrSU422xc3U3QCfr7qMwNJsYpruyeBpkXVMMGC6b1Kl5UGf6hkngKVLP5i3m4AwPwyn54ce1voCFYKLnbFE8rnWstlp85o0suwvdxCwdgJgMAd+8ynUZzj1Z87eV4WfrwC9zgRa95HFqgfvqZpH/jTcNehgBeuUbOoDn4YoAMlC3bM+127sXC0UZ9TWq37pqdmD4t1c9eWJ/6NoLkSpo5tM=;wpiOnUmgA8To9a/qZ/P8/g=="
 ---

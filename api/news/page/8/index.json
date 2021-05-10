@@ -2,6 +2,135 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-30-teslas-elon-musk-on-why-self-driving-cars-are-not-mainstream-yet.md",
+      "title": "Tesla’s Elon Musk on why self-driving cars are not mainstream yet",
+      "excerpt": "Tesla CEO Elon Musk is giving a fresh update on his prediction for when self-driving cars will dominate the road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet",
+      "originalUrl": "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/354b3471-ec18-4e0d-adf1-b9f9b9657488/c4e9132a-a8aa-4fdc-bdb0-496e44323a6b/1280x720/match/image.jpg?pubId=854081161001",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/elon-musk-unsupervised-generalized-full-self-driving-work-isnt-there-just-yet.amp",
+      "publishedDateTime": "2021-04-30T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-lantheus-grants-allegheny-health-network-exclusive-rights-for-the-use-of-its-microbubbles-in-combination-with-ultrasound-assisted-gene-therapy.md",
+      "title": "Lantheus Grants Allegheny Health Network Exclusive Rights for the Use of its Microbubbles in Combination with Ultrasound Assisted Gene Therapy for the Development of a Proposed ...",
+      "excerpt": "Lantheus Holdings, Inc. (NASDAQ: LNTH) (Lantheus), an established leader and fully integrated provider of innovative imaging diagnostics, targeted the",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210430005074/en/Lantheus-Grants-Allegheny-Health-Network-Exclusive-Rights-for-the-Use-of-its-Microbubbles-in-Combination-with-Ultrasound-Assisted-Gene-Therapy-for-the-Development-of-a-Proposed-Treatment-for-Xerostomia",
+      "originalUrl": "https://www.businesswire.com/news/home/20210430005074/en/Lantheus-Grants-Allegheny-Health-Network-Exclusive-Rights-for-the-Use-of-its-Microbubbles-in-Combination-with-Ultrasound-Assisted-Gene-Therapy-for-the-Development-of-a-Proposed-Treatment-for-Xerostomia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-ibm-is-acquiring-turbonomic-to-advance-aiops-agenda.md",
+      "title": "IBM is acquiring Turbonomic to advance AIOps agenda",
+      "excerpt": "IBM is acquiring Turbonomic to extend the scope of its AIOps portfolio. This follows a series of acquisitions over the last several months.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/",
+      "originalUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Turbonomic8-intuitiveUX.gif?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/",
+      "publishedDateTime": "2021-04-30T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-elon-musk-shares-painfully-obvious-idea-about-the-difficulty-of-self-driving-cars.md",
       "title": "Elon Musk Shares Painfully Obvious Idea About the Difficulty of Self-Driving Cars",
       "excerpt": "Elon Musk, one of the wealthiest people on the planet, sent a tweet Thursday night about the real problem with self-driving cars. And as you can probably guess by now, it’s one of those things that sounds profound until you stop to think about it for three seconds.",
@@ -1064,154 +1193,6 @@
       "provider": {
         "name": "ABC Kcrg  9",
         "domain": "kcrg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-translate-all-automating-multiple-file-type-batch-translation-with-aws-cloudformation.md",
-      "title": "Translate All: Automating multiple file type batch translation with AWS CloudFormation",
-      "excerpt": "This is a guest post by Cyrus Wong, an AWS Machine Learning Hero. You can learn more about and connect with AWS Machine Learning Heroes at the community page.&nbsp; On July 29, 2020, AWS announced that Amazon Translate now supports Microsoft Office documents, including .docx, .xlsx, and .pptx. The world",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translate-all-automating-multiple-file-type-batch-translation-with-aws-cloudformation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-all-automating-multiple-file-type-batch-translation-with-aws-cloudformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T14:20:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-the-future-of-ai-in-healthcare.md",
-      "title": "The Future Of AI In Healthcare",
-      "excerpt": "Two AI luminaries, Fei-Fei Li and Andrew Ng got together today on YouTube, to discuss the state of AI in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b1e5a5ca86d56b9a674dc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3490%26cropY1%3D0%26cropY2%3D1962",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/04/29/the-future-of-ai-in-healthcare/amp/",
-      "publishedDateTime": "2021-04-29T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-false-facial-recognition-sends-innocent-new-jersey-man-to-jail.md",
-      "title": "False facial recognition sends innocent New Jersey man to jail",
-      "excerpt": "New Jersey police arrested an innocent man on unlawful possession of a weapon, resisting arrest and aggravated assault charges after he was falsely identified by facial recognition technology. Law enforcement agencies across the country use facial recognition to generate leads on suspects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.hawaiinewsnow.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/",
-      "originalUrl": "https://www.hawaiinewsnow.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hawaiinewsnow.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHNL",
-        "domain": "hawaiinewsnow.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,8 +7,8 @@ originalUrl: "https://healthitanalytics.com/news/training-privacy-key-to-artific
 webUrl: "https://healthitanalytics.com/news/training-privacy-key-to-artificial-intelligence-use-post-covid"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Analytics
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "COVID-19 scam ads decline, but AI systems risk catching legitimate vaccine messages in their traps"
+    excerpt: "Around 31% of all coronavirus-related ads assessed by The Media Trust in February 2021 were labeled as \"coronavirus suspicious.\""
+    publishedDateTime: 2021-05-10T04:01:00Z
+    webUrl: "https://digiday.com/marketing/covid-19-scam-ads-decline-but-ai-systems-risk-catching-legitimate-vaccine-messages-in-their-traps/"
+    ampWebUrl: "https://digiday.com/marketing/covid-19-scam-ads-decline-but-ai-systems-risk-catching-legitimate-vaccine-messages-in-their-traps/amp/"
+    cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/marketing/covid-19-scam-ads-decline-but-ai-systems-risk-catching-legitimate-vaccine-messages-in-their-traps/amp/"
+    type: article
+    provider:
+      name: Digiday
+      domain: digiday.com
+    quality: 43
+    images:
+      - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2020/03/corona3.jpg?fit=682%2C284&zoom=2&quality=100&strip=all&ssl=1"
+        width: 1363
+        height: 568
+        isCached: true
   - title: "Harnessing the Power of Smart and Connected Health to Tackle COVID-19: IoT, AI, Robotics, and Blockchain for a Better World"
     excerpt: "As COVID-19 hounds the world, the common cause of finding a swift solution to manage the pandemic has brought together researchers, institutions, governments, and society at large. The Internet of Things (IoT),"
     publishedDateTime: 2021-05-08T11:23:00Z

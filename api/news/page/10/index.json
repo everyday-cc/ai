@@ -2,6 +2,153 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-29-nypds-robot-dog-will-be-returned-after-outrage.md",
+      "title": "NYPD’s robot dog will be returned after outrage",
+      "excerpt": "The NYPD will part ways with “Digidog,” the robotic police dog that became the subject of a City Council subpoena after images of it went viral.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/nypd-robot-dog-returned-after-outrage",
+      "originalUrl": "https://www.foxnews.com/us/nypd-robot-dog-returned-after-outrage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/720/405/nypd.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/nypd-robot-dog-returned-after-outrage.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/nypd-robot-dog-returned-after-outrage.amp",
+      "publishedDateTime": "2021-04-29T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-why-the-launch-of-apples-self-driving-cars-is-delayed.md",
+      "title": "Why the Launch of Apple’s Self-driving cars is Delayed?",
+      "excerpt": "Since 2014, the launch of Apple’s self-driving cars is delayed for the development of level-5 autonomous driving and third-party partner. It depends on an Artificial Intelligence operating system which has potential till level-3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/why-the-launch-of-apples-self-driving-cars-is-delayed/",
+      "originalUrl": "https://www.analyticsinsight.net/why-the-launch-of-apples-self-driving-cars-is-delayed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/self-driving-car.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-huawei-trained-the-chinese-language-equivalent-of-gpt-3.md",
+      "title": "Huawei trained the Chinese-language equivalent of GPT-3",
+      "excerpt": "Huawei trained a 200-billion-parameter Chinese-language model. But whether it moves the needle on research is an open question.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/",
+      "originalUrl": "https://venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/2019-04-24T111728Z_3_LYNXNPEF3N0ER_RTROPTP_4_HUAWEI-HSBC-e1558409923159.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/huawei-trained-the-chinese-language-equivalent-of-gpt-3/amp/",
+      "publishedDateTime": "2021-04-29T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-vectra-ai-raises-130-million-led-by-blackstone-growth-bxg.md",
       "title": "Vectra AI Raises $130 Million led by Blackstone Growth (BXG)",
       "excerpt": "Vectra AI, a leader in threat detection and response today announced a $130 million round of funding led by funds managed by Blackstone Growth (BXG, “Blackstone Growth”). The investment will help fuel Vectra’s continued growth through platform innovation and expansion into new markets and geographies,",
@@ -1032,160 +1179,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als.md",
-      "title": "How Verge Genomics Uses AI To Tackle Parkinson’s, Alzheimer’s And ALS",
-      "excerpt": "Using a combination of machine learning and proprietary data, CEO Alice Zhang is looking to develop more powerful treatments for neurodegenerative disease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aayushipratap/2021/04/28/how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als/",
-      "originalUrl": "https://www.forbes.com/sites/aayushipratap/2021/04/28/how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6089bc24454c256a3c33ee64%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aayushipratap/2021/04/28/how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aayushipratap/2021/04/28/how-verge-genomics-uses-ai-to-tackle-parkinsons-alzheimers-and-als/amp/",
-      "publishedDateTime": "2021-04-28T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-leaked-ai-report-could-hint-at-future-for-us-regulation.md",
-      "title": "Leaked AI report could hint at future for US regulation",
-      "excerpt": "Greg Nichols tells Karen Roby that the EU takes lead on AI regulation, trying to stay ahead of evolving tech. Read more:",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/leaked-ai-report-could-hint-at-future-for-us-regulation/",
-      "originalUrl": "https://www.zdnet.com/video/leaked-ai-report-could-hint-at-future-for-us-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/04/28/22576f2a-6f91-4323-9769-d49b34e7519f/thumbnail/770x578/532ac0654882d8c6e3da1eecfd091578/20210428-greg-karen-leaked.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-increasing-use-of-facial-recognition-technology-in-china-faces-backlash-from-city-governments.md",
-      "title": "Increasing use of facial recognition technology in China faces backlash from city governments",
-      "excerpt": "After being highlighted for misuse on China’s annual Consumer Protection Gala in March, several cities in China are tightening the enforcement of regulations on facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/28/7e577dd1-4bbb-488c-b35c-f30b45c82b4e_fec3a579.jpg?itok=Ep94EP2D&v=1619603119",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash",
-      "publishedDateTime": "2021-04-28T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

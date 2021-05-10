@@ -35,22 +35,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Report To 2031"
-    excerpt: "Visiongain has published a new report on Artificial Intelligence AI in Drug Discovery Market Report 2021 2031 Forecasts by Technology Machine Learning Other Technologies by Application Drug Optimisation Repurposing Preclinical Testing Others by Therapeutic Area Oncology Neurodegenerative Diseases Cardiovascular Diseases"
-    publishedDateTime: 2021-05-05T11:28:00Z
-    webUrl: "https://www.openpr.com/news/2280274/artificial-intelligence-ai-in-drug-discovery-market-report"
-    ampWebUrl: "https://www.openpr.com/amp/2280274/artificial-intelligence-ai-in-drug-discovery-market-report"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2280274/artificial-intelligence-ai-in-drug-discovery-market-report"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
-    images:
-      - url: "https://cdn.openpr.com/U/5/U505634361_g.jpg"
-        width: 500
-        height: 334
-        isCached: true
 
 secured: "HwZ9vPzBrry1kctIvs5S+Mk2afVReK5cZHbfTV6XcGkWiLbHglUQPkpHmGXP4kGbMnLUdfmvEi2Pu6JjFilrpq9hFhronM+Xyn48KrohlsFAdzStmD00Iw+t2FtwkxiNUTdQJVXiQP1ttnLUzunnEOC6f+aNlwv+m5cNh+DXS4hZc1xwnpgTs5AigN7i8mwhnYuaAoDEv9qBlvTPUc3aiiWz3FjJtk92iW4nX4UvYtG/d/M45kf3cfWiejcbDP1wxgWNwVahXqLudDTgj2wxNHgUmLck/7hZztsJ1sXQoUhA1HQNcJJNjyvTImRDodh9/lU1LdSwbjsB8PSKiPi4k/sAs0jFy3vOzhu62XTi9BA=;TMUgb0It0JZWWgjZTIxdEg=="
 ---

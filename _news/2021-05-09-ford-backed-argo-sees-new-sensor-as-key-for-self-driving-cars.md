@@ -55,15 +55,20 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Argo develops in-house lidar sensor for self-driving cars"
-    excerpt: "Argo Lidar is a new sensor introduced by Argo AI designed to accelerate the commercialization of autonomous delivery and ride-hailing services. The lidar sensor detects difficult-to-see objects from far away and works with Argo’s self-driving system (SDS) that is capable of 360° of awareness day or night and can safely drive on city streets,"
-    publishedDateTime: 2021-05-05T13:03:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16678/argo-develops-in-house-lidar-sensor-for-self-driving-cars"
+  - title: "Texas A&M team seeks sponsors for self-driving auto race"
+    excerpt: "A team of students and employees from Texas A&M University is looking for sponsors to help it compete in a race with self-driving cars at the Indianapolis Motor Speedway."
+    publishedDateTime: 2021-05-10T05:00:00Z
+    webUrl: "https://theeagle.com/news/local/texas-a-m-team-seeks-sponsors-for-self-driving-auto-race/article_7668bb3e-b129-11eb-a481-27cad4fa5413.html"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
+      name: The Eagle
+      domain: theeagle.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/7/66/7668bb3e-b129-11eb-a481-27cad4fa5413/6098833132f5a.preview.jpg?crop=648%2C365%2C0%2C141&resize=648%2C365&order=crop%2Cresize"
+        width: 648
+        height: 365
+        isCached: true
 
 secured: "bv/SAMqQEMv4WmKJAt0+9fcEoAHGXbZ8V1u3HPVROZ/sw+CqZ2bO1WNjS/ZgiLwfpaPfPwwrpRLsPYLjV54T1POW0jK6bL6Ht2f0W+pNbwpDdarf6h6VhUPukAJ/Gq4iz0/Gqu2NGz9ANquWl9zTTaTSDjtyZX8n4p08iKYCx25oxLwrZtnGFsZYsQkTzHCqao9MKPdueXP+ybbzoQ0rKWnd7fMxWcevaCcoS1ENBk1QvQXeke2pTRGRY47MsiGEsBK+r2Fv7vljZ1sK+xVqFGoGif+WCBp1Di67s4Zp8XAmYUg8JbxqWeKFourx/ZCSNReqXfqK7ldkfdoBtYKeGlQ4huQ0PalE9lB3w5IJSsjD8c9qc6JYjk2GCkdGI/M1SB9kjL0NJrgMpH7BihkBsghgL5LEO6pNc6db1tVTMvdt1Y6pns2v0tSuQJKvQiBbM9XhBu1P7JOuh7j6UFJmpV1VbTjZfoigyH+8MgkIAjl/tjkDC7xwUs0WYIZkJo+FRXkIHHzYS4vgvv43LuPQnw==;fPVZUvJH+ts4B+MH9eIE+g=="
 ---

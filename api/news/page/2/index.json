@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-07-ibms-new-2-nm-chips-have-transistors-smaller-than-a-strand-of-dna.md",
+      "title": "IBM's new 2-nm chips have transistors smaller than a strand of DNA",
+      "excerpt": "In a shining example of the inexorable march of technology, IBM has unveiled new semiconductor chips with the smallest transistors ever made. The new 2-nanometer (nm) tech allows the company to cram a staggering 50 billion transistors onto a chip the size of a fingernail.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/ibm-2-nm-chips-transistors/",
+      "originalUrl": "https://newatlas.com/computers/ibm-2-nm-chips-transistors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/c077382/2147483647/strip/true/crop/2700x1800+0+180/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbc%2Fed%2Fec587f174302b746793b55afd657%2Fibm-2nm-1.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/computers/ibm-2-nm-chips-transistors/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/ibm-2-nm-chips-transistors/?amp=true",
+      "publishedDateTime": "2021-05-06T20:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-advancing-sports-analytics-through-ai-research.md",
+      "title": "Advancing sports analytics through AI research",
+      "excerpt": "Sports analytics is in the midst of a remarkably important era, offering interesting opportunities for AI researchers and sports leaders alike.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
+      "originalUrl": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/JKprmpmVTL_QABFZY5EoG-OpZBrglfRpIKdvT96pMv88ofnfgGkT2o4LdrTct_1HxboB9Oc8_h9-IEq6JQc0nizeJWIRPKSG4yX-x6QYa6ClA-8VIHU",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance.md",
       "title": "Proper data hygiene critical as enterprises focus on AI governance",
       "excerpt": "AI use raises pressures to understand the provenance of data. That means greater AI governance will be needed.",
@@ -393,6 +497,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-training-privacy-key-to-artificial-intelligence-use-post-covid.md",
+      "title": "Training, Privacy Key to Artificial Intelligence Use Post-COVID",
+      "excerpt": "Artificial intelligence became a key public health tool during COVID-19, but its continued use will require increased training and privacy protections.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/training-privacy-key-to-artificial-intelligence-use-post-covid",
+      "originalUrl": "https://healthitanalytics.com/news/training-privacy-key-to-artificial-intelligence-use-post-covid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1102,144 +1250,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-facial-recognition-as-a-legislative-issue.md",
-      "title": "Facial Recognition as a Legislative Issue",
-      "excerpt": "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/virginia/reston/facial-recognition-legislative-issue",
-      "originalUrl": "https://patch.com/virginia/reston/facial-recognition-legislative-issue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/60146/20210505/074823/styles/patch_image/public/jcots___05194516171.png?width=984",
-          "width": 984,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/reston/amp/29486387/facial-recognition-as-a-legislative-issue",
-      "publishedDateTime": "2021-05-05T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-how-adobes-ethics-committee-helps-manage-ai-bias.md",
-      "title": "How Adobe’s Ethics Committee Helps Manage AI Bias",
-      "excerpt": "Review boards can help companies mitigate some of the risks associated with using artificial intelligence, an Adobe executive said Wednesday at The Wall Street Journal’s Risk & Compliance Forum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "originalUrl": "https://www.wsj.com/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-334697/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "publishedDateTime": "2021-05-05T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-states-push-back-against-use-of-facial-recognition-by-police.md",
-      "title": "States push back against use of facial recognition by police",
-      "excerpt": "Law enforcement agencies across the U.S. have used facial recognition technology to solve homicides and bust human traffickers, but concern about its accuracy and the growing pervasiveness of video surveillance is leading some state lawmakers to hit the pause button.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/States-push-back-against-use-of-facial-16153766.php",
-      "originalUrl": "https://www.chron.com/news/article/States-push-back-against-use-of-facial-16153766.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/States-push-back-against-use-of-facial-16153766.php",
-      "publishedDateTime": "2021-05-05T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
