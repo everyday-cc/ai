@@ -20,11 +20,11 @@ website: https://t.co/ajoSG5g4Rn
 twitter:
   username: jeffdean
   url: https://twitter.com/jeffdean
-  followers: 189614
+  followers: 189623
 
 googleScholar:
   url: https://scholar.google.com/citations?user=NMS69lQAAAAJ
-  citations: 177307
+  citations: 177742
 
 topics:
   - AI
