@@ -2,7 +2,7 @@
 name: "CloudMinds"
 overview: "A dynamic data science platform to manage, build and automate machine learning from research to production.  #AI #MachineLearning #datascience #DeepLearning"
 type: "profile"
-heat: 50
+heat: 51
 
 website: http://www.cloudminds.com/
 
