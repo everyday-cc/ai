@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-mac
 webUrl: "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 628
         height: 385
         isCached: true
-  - title: "Machine Learning in Manufacturing Market Outlook 2021, Witness Highest Growth in near future by 2028 | Intel, IBM, Siemens, GE, Google, Microsoft"
-    excerpt: "Global Machine Learning in Manufacturing Market 2021 by major players, regions, type and application, forecast to 2028. This market report includes a forecast for 2021 and ending in 2028 with a collection of crucial information such as supply-demand ratio,"
-    publishedDateTime: 2021-05-06T05:24:00Z
-    webUrl: "https://ksusentinel.com/2021/05/06/machine-learning-in-manufacturing-market-outlook-2021-witness-highest-growth-in-near-future-by-2028-intel-ibm-siemens-ge-google-microsoft/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
 
 secured: "1etBcoD5Q+55Wud5+2Q8IXZbz5RNVYwQYjYjxgqS5uiFjQwKPd0uSPwF4awT5F89mxI8DVOdVaCmxGppQ+bxeXDi9op1CEpJqBxoXv2I1rWL+kY69sNRIgYFKxORt8Y/RvcNUetYQ6qSxszUzUMpcTRdx9Yasib6wh57nNQiTV/0qSOouh4JfiJVFYWLjsi/9qXMMmpO8okmLKtSBupyD9oqo5bFdq+mGlxjSOvNExNBMq/OumNPXf4vqPJsi4Smb6rgOkidaaCwGWrmXj8WwGmrCqthxBGaJVUh2s0Vxpo9R90c7ASBE0PIVMd0iZMMYpzvToJ02pTrt+DbM1qzeYSrb/TG7Ccm3aauSG/YjQU/ZaE+AxLQCIoKrmiNIpEi3tBcyGtE8CluD28Uj4RueqduR3BotPGuwPLEH7pWAsRIf42gh3TFMjhspWyhoEZuoHT+u1duZ2WcOsk/iy767R0SYUT7lEdzrmXIp2hJ1GCtgDn8Y5HVsAqRcbH+wikBfc/5OnUy39PhUtSn/pJTEg==;kMAQXK7jfLodNQcpEkF9tw=="
 ---

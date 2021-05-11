@@ -42,8 +42,8 @@ related:
         isCached: true
   - title: "Self-driving truck startup Plus to go public through $3.3 bln SPAC deal"
     excerpt: "Plus said on Monday it would go public through a merger with blank-check company Hennessy Capital Investment Corp. V HCIC.O in a deal that values the self-driving truck technology startup at $3.3 billion."
-    publishedDateTime: 2021-05-10T10:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10-0"
+    publishedDateTime: 2021-05-10T10:08:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10"
     type: article
     provider:
       name: Nasdaq

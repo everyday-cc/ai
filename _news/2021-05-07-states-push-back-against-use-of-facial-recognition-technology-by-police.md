@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mahoningmatters.com/amp/local-news/states-push-back-agai
 cdnAmpWebUrl: "https://www-mahoningmatters-com.cdn.ampproject.org/c/s/www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 948
         height: 710
         isCached: true
-  - title: "King County considers ban on facial recognition technology"
-    excerpt: "The King County Council is considering banning the use of facial recognition technology within county departments, including the sheriff’s office."
-    publishedDateTime: 2021-05-06T06:08:00Z
-    webUrl: "https://www.king5.com/article/tech/king-county-considers-ban-on-facial-recognition-tech/281-e50f4478-81d7-4108-8926-9f906c3c29a9"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 19
 
 secured: "U1eCrtola2Q5/SkJyAO3EsIUiL+itkBWCyWxDknGcgs78fl3K+fvcByvTj4aNGrB2jR71dizVFqLpH+reb6JJJdvfKiPDboXFJn6zowCORf48W/xiqgRIPt48oLXPiERZwE1eX2exeU/qwJ4Yh4MWUSrTcRj3+kVPM2t2bsZc6kMoCYOh6w77WX8qGk8w1FfY2UOOqJ8/RndXhQnhjM+K+Ex+Umi6KTaTxDPYC1MRTQl4O7LpKisqbAcQa0RrfHe9O4X15D0wyCGAv9FT+i4Vl/FzV786IRFqEMJYhePJZqjIw8V4zvOQ8uuwUYUxHM7Ukg1nIRbTGZDfyf66h2hARxyk/EBM3B0xud7FPEFdG9qbb/AJP8RZNi+OS3bvCKfUHVYKB4wGdcCQMMz5YqF/lSxij/L/zPPOh0qz7LdFzc5hzqG3F+Zzo4Kd0OqdfFuFrc/HpgznYR/XzeNpZSJjzGhlnAVRTTdqliDWpuYVUtNs9TNi/ucHQH0rUctbyFpMpTj8ArDhvUaXzay/iklag==;ENgPnI1+pRst/8TF3V8zCA=="
 ---

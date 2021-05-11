@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/05/07/longevity-startup-gero-ai-has-a-mo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes/amp/"
 type: article
 quality: 86
-heat: 98
+heat: 96
 published: true
 
 provider:

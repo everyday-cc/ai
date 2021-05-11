@@ -53,15 +53,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Machine Learning in Manufacturing Market Outlook 2021, Witness Highest Growth in near future by 2028 | Intel, IBM, Siemens, GE, Google, Microsoft"
-    excerpt: "Global Machine Learning in Manufacturing Market 2021 by major players, regions, type and application, forecast to 2028. This market report includes a forecast for 2021 and ending in 2028 with a collection of crucial information such as supply-demand ratio,"
-    publishedDateTime: 2021-05-06T05:24:00Z
-    webUrl: "https://ksusentinel.com/2021/05/06/machine-learning-in-manufacturing-market-outlook-2021-witness-highest-growth-in-near-future-by-2028-intel-ibm-siemens-ge-google-microsoft/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 0
 
 secured: "f1rXDCRiZaK7gX975Atg0U+t+F2fCZc4tMYkSz7dHGzVobylXsxXuZGpfTZ4Go16lahoyS2EVtjlsKbqHZv3sLhzXkRXxr+q2SjwaoxlTMC85Pf6hY2oFTs5l+uAIaPPwjtO9n5YzhjMuveuBEMi2jqP6smzXAKabvRb18mWDbt7AwaPu8tSbY+oG9myTI2D2lYuBrVsnrdWweEKWW6le7CNbaumE8RpsHfdSxB24/+bKGkJANvIQrrV0s0maidfLmodOuvtqgIMfa3OR5KBghQLhn4H55cwwVWWVKnQv4CeCUgW7dzsh2KkCe1LXR4gEN7doXbKxxv4pMPJblxCR8z3uag4T2WXKs7OlZYYoLNuTCgFzBoLWo7eTeMBRYEob10/hJWJJmgpsOUI8l6wXEKlK4ocvyglhEVZFTfJeY3lQuG6WHiyUNYgcsrLG7vlbW97jxTGP5kA1ythr4rk/6NdG5p2mUdYFkR53qbypEPd/XBkDI9jlOiGTN/8Boz3UFTcrGizy+YU2RRFz53Z2A==;F6QTDZmLyeU3DCneRWMtaQ=="
 ---

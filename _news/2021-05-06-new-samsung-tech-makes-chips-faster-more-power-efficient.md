@@ -41,22 +41,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Samsung develops advanced chip packaging tech"
-    excerpt: "The world's largest memory chip maker said its next-generation 2.5D packaging technology, Interposer-Cube4 (I-Cube4), is expected to be widely used in.."
-    publishedDateTime: 2021-05-06T05:31:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/samsung-develops-advanced-chip-packaging-tech/82425396"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/samsung-develops-advanced-chip-packaging-tech/82425396"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/samsung-develops-advanced-chip-packaging-tech/82425396"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-82425396,imgsize-217759,width-800,height-434,overlay-ettelecom/samsung-develops-advanced-chip-packaging-tech.jpg"
-        width: 800
-        height: 434
-        isCached: true
 
 secured: "wjKshkTA2YAS8jH1b9HmGPyyNy+5OKpOvzCVHMPXVkGEvmjDGIqY3i5AVOOWCp6jKLHhg2SBqaHHUdIQpBwRRTqK2gepCY4Gub2S112KV4rYi4WhAELDVXJfVRx/z/+pKNIeexJTKpHNj0pqIy8qpVyfxSmDn5EuARUccex2dLfeZs/SK1sCeqiqMn16ILF33TDY75RPbgUpx39Z4IB6LNByT5JmbvIdSBtVSmtLktI0j6+nVP4lpxmhJzGFg2vMmTPPuF27OHmW/JCjl2+n4gN+Gq0TsNA/Q7MWWKC/rxoHt7uKTsn99hlaKtxw37AZVOKRrkanKcpw9L7JCd2U+3zqwA4pl5Zu6pzWO1U84c5odmj0XSGcbRSyaKRe9zwhq8e6WbEXNH95aQY3Jw+uAXJ/xvfl+QsgTirSY8PFW3e3c52L7uznv8dXR1nW5h66I/czKnLMjKf2OPf7tBn/8ze/D4aaJqgmO2sGQd27K08HGsnHaLLZgRFcfn7c/hdXywEx8k49YfGU9xaCjjY+SA==;zC07ppGTL8Qkb7NjAyMxOA=="
 ---
