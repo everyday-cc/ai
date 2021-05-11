@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-ne
 webUrl: "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business"
 type: article
 quality: 71
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg
@@ -30,35 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "IBM builds new hybrid cloud, AI capabilities to help clients go digital"
-    excerpt: "A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic"
-    publishedDateTime: 2021-05-11T04:44:00Z
-    webUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
+  - title: "IBM CodeNet teaches AI to translate programming languages"
+    excerpt: "IBM unveiled a suite of new artificial intelligence (AI) services on Monday ahead of its virtual IBM Think 2021 conference. The new features include software that teaches AI how to translate code, a cloud migration service,"
+    publishedDateTime: 2021-05-11T09:54:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 106
     images:
-      - url: "https://images.livemint.com/img/2021/05/11/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618938474492_1620708031821.JPG"
-        width: 600
-        height: 338
+      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1620318196/itpro/shutterstock-code%20editor.jpg"
+        width: 375
+        height: 210
         isCached: true
-  - title: "Using AI to augment public health services"
-    excerpt: "Out of the COVID-19 pandemic, key use cases are showing the effectiveness of AI tools to speed agencies' response to public crisis."
-    publishedDateTime: 2021-05-07T14:26:00Z
-    webUrl: "https://www.fedscoop.com/radio/using-ai-to-augment-public-health-services/"
+  - title: "IBM’s CodeNet dataset aims to train AI to tackle programming challenges"
+    excerpt: "IBM's Project CodeNet is an effort to spur the development of AI systems that can tackle programming challenges."
+    publishedDateTime: 2021-05-11T04:01:00Z
+    webUrl: "https://venturebeat.com/2021/05/10/ibms-codenet-dataset-aims-to-train-ai-to-tackle-programming-challenges/"
+    ampWebUrl: "https://venturebeat.com/2021/05/10/ibms-codenet-dataset-aims-to-train-ai-to-tackle-programming-challenges/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/ibms-codenet-dataset-aims-to-train-ai-to-tackle-programming-challenges/amp/"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2021/05/GoogleCloud_public-health_Header.png"
-        width: 1920
-        height: 1080
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1616161913403.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "vLkW/6Uy/h2V+VapX8Uce+W1ahsfhjHLkTWNXoLp8D3zJ2+KzPK9OxOsjK0TTPj4GDK+BgUQqBCLmwLXomqaAyZ9xnBRQvu8kmKeUT3TAgPBUJcCeLYbnDHn3Dad3/yUk+Gk6pAVL87g7l10HxoKnCzpbRJH8DE9MbhSvviHWFl7EjkBJynNFyxfEHdqH7SxDPZCVX3QCq/Z7LBZ7ms4uVdDUz5axGW+vDlQ4L++E8mowEJIRC9SF/1tflNvd49wGJeybRTqfCjLMTGAY7fw8NIamooXwULQXUFowe3Mf3ZIIjnnK3mn/ZOoShn9aOuh0W0ilaCM+fx8r0CbX+TjYZS69TIZTEcm1JKT7ST+Nwk=;sh5EbI3mHd1qsXzoI00Mwg=="

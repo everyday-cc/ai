@@ -26,6 +26,22 @@ images:
     height: 446
     isCached: true
 
+related:
+  - title: "Using AI to augment public health services"
+    excerpt: "Out of the COVID-19 pandemic, key use cases are showing the effectiveness of AI tools to speed agencies' response to public crisis."
+    publishedDateTime: 2021-05-07T14:26:00Z
+    webUrl: "https://www.fedscoop.com/radio/using-ai-to-augment-public-health-services/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 37
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2021/05/GoogleCloud_public-health_Header.png"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "SOmnLiZspuIRAjAbaRTsta3i7+Zags+2W5VWBdCqz2RRkdveyRPfjnrvGGg5T21ZbZwnFHHN0dR8EmZn2CxyuipU6VM7brqlvyR+IhoezkAfkGSdQj8kJYEY9r/cuxPKBECrB07Lqdyipunyw5gUQK91aTiJSix6UiYK2nIqilVl0+ODXF3oFFmCszJ5eVsXSfJNvt4Jbde9Txh3o6sE+0B1f9VWHFzkUQqs5lV8Z1j9oLPL79W12BW09M9lAiN75iUuNJ83pQvnWqhZdBa5ph4bv7sbZUlJ88j7JUdyfPn7IRq1Y7AYhTJPioNIuQaQeIwE1S/gbsvewWa9nhKHB6/AAkzN5y8uU3OEiFtw/sXgjV60DtMVclBvknoNioIkNz/G3vVV1HWAmqLOxybrwkwYdD6qOyqt+7Kh2IHqQfqDzUOaqbteAEqlSfH6Z5lb19XVvIDXkPT0MhNvJuzCcnwJTRcr3I2OSTukD0F1dPNnv80yvMq4MqFB995mlH5TRlIVjK+BaFCwmNqdRhnZ/Q==;lV4ol6Az0BfNxWetfgui6g=="
 ---
 

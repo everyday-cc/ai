@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-05-aifoam-robots-interact-intellige
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-aifoam-robots-interact-intelligently.amp"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/05/5d1c88db85621.jpg"
         width: 800
         height: 435
+        isCached: true
+  - title: "Robots to Now Interact With Their Surroundings"
+    excerpt: "Artificial Intelligence (AI) is being developed at a very fast pace due to the advancement in science and technology. This technology is considered to be groundbreaking on various levels. With the help of AI machines can now imitate human intelligence and mimic their actions."
+    publishedDateTime: 2021-05-11T11:18:00Z
+    webUrl: "https://techstory.in/robots-to-now-interact-with-their-surroundings/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/05/researchers-create-aif.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "HEj63Gi4s4jtlfEfQe7xdtwxiDFEWSz7bQh6x+8+Ew1RRzrJBSc9PbX5WapsugEghQ83tqihMsP91qudR35I5lgQVBiUZSDFRmA8dWJ5aDuUDUFJxKtV1vEsOK1/uHYQER0seqbD4XFfMm8ZlwTQ4aPJZPTUPUpGtAglN5G+KbjOtSzjW7pQkxgAf21MxyL1IRnWZKeHVwcOl0Jatz2ugRFAuJaUX+G16EtEoGvE7wG80a0g742nkzTZ1x7NtHXP90Y+/30g9SEYs59QfF3Q3PvqdOq2J0utkHhsB73ZYL8+Fd/CKm8XASwfRci7KVpw+ACpInjBaufnIcU6nFsw3mWy5W8sIjh8qF+i8zfpvfxj8gKZHJqeY+5gSDQnwAdmCXajW8uFMoj0Ha1vClnDK0UnamewB/3uCwjJgnmWZUrNncgsTteuYR1dyn0/RivS1po/muikEa13gLcUUbKaVtxXlexgwcBeuHufdM07eyb4TtvOUexIjo9k1yTsgLyZZ/7abxKnq/zHeLnqxVLtoQ==;ox1qn/ji6J1zSumKRfvCKA=="

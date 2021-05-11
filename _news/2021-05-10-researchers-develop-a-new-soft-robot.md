@@ -41,6 +41,20 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "Robots to Now Interact With Their Surroundings"
+    excerpt: "Artificial Intelligence (AI) is being developed at a very fast pace due to the advancement in science and technology. This technology is considered to be groundbreaking on various levels. With the help of AI machines can now imitate human intelligence and mimic their actions."
+    publishedDateTime: 2021-05-11T11:18:00Z
+    webUrl: "https://techstory.in/robots-to-now-interact-with-their-surroundings/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/05/researchers-create-aif.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "gxzBZmfABu8KFHgr550D6umNezD60bxFVhXOlSdLuEuBH81OVJ8nBuGVrF9VD5YfcHtmsVgmqx1j//G9sLrGrBGdz+AB8y/YkJtH3CL5lbp9TeVxuFfOLtE5u0A1wVsMTO3Rfa3Rvv9LBYWoVIlYTuiQ5plWUksoYJBmnjjnoOwEAEmHESbUFNb0oH3IPJu953QsTeHBvJP4jl2p06ir/HATD/pB7PvLTxENJXJhmof9/On8E6fBBz4NTPF3Ji68jVkNVX0fwHh5/DrDHrQr1BOUj5eSwkR9sPQQ/CPEB99XrFPZKNR4f5XUBmI7fMapDoMamLVUzQgLrsZtIPWDSjBSYwXuJ8gwx3wEEnGp214=;uFGOaDdYBkdvEtzyTfDEEg=="
 ---

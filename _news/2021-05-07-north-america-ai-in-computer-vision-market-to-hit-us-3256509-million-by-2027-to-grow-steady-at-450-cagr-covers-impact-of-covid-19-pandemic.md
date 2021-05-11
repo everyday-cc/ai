@@ -21,6 +21,70 @@ topics:
   - AI
 
 related:
+  - title: "Conversational AI becomes the unlikely hero during the COVID-19 pandemic"
+    excerpt: "As India hunts for COVID-19 resources such as oxygen cylinders and hospital beds, technologists leverage conversational AI — such as Introbot AI and CovidIndResBot — to create an online space for real"
+    publishedDateTime: 2021-05-11T09:44:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 58
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/abnvyo/article34533819.ece/ALTERNATES/LANDSCAPE_615/introbot-2"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Covid-19 pandemic accelerating adoption of artificial intelligence: IBM"
+    excerpt: "IBM's \"Global AI Adoption Index 2021\" revealed that while AI adoption was flat over the last year, momentum is shifting due to the global Covid-19 pandemic"
+    publishedDateTime: 2021-05-11T06:34:00Z
+    webUrl: "https://www.business-standard.com/article/companies/covid-19-pandemic-accelerating-adoption-of-artificial-intelligence-ibm-121051100437_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/covid-19-pandemic-accelerating-adoption-of-artificial-intelligence-ibm-121051100437_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/covid-19-pandemic-accelerating-adoption-of-artificial-intelligence-ibm-121051100437_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-10/22/full/1571766458-7301.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "AI methods predict COVID-19 patient outcomes using routine clinical data from ICUs"
+    excerpt: "The investigators used machine learning to predict which patients might get worse and not respond positively to being turned onto their front in intensive care units (ICUs) - a technique known as proning that is commonly used in this setting to improve oxygenation of the lungs."
+    publishedDateTime: 2021-05-11T11:39:00Z
+    webUrl: "https://www.news-medical.net/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 51
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Intensive_Care-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "COVID-19 scam ads decline, but AI systems risk catching legitimate vaccine messages in their traps"
+    excerpt: "Around 31% of all coronavirus-related ads assessed by The Media Trust in February 2021 were labeled as \"coronavirus suspicious.\""
+    publishedDateTime: 2021-05-10T04:01:00Z
+    webUrl: "https://digiday.com/marketing/covid-19-scam-ads-decline-but-ai-systems-risk-catching-legitimate-vaccine-messages-in-their-traps/"
+    ampWebUrl: "https://digiday.com/marketing/covid-19-scam-ads-decline-but-ai-systems-risk-catching-legitimate-vaccine-messages-in-their-traps/amp/"
+    cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/marketing/covid-19-scam-ads-decline-but-ai-systems-risk-catching-legitimate-vaccine-messages-in-their-traps/amp/"
+    type: article
+    provider:
+      name: Digiday
+      domain: digiday.com
+    quality: 43
+    images:
+      - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2020/03/corona3.jpg?fit=682%2C284&zoom=2&quality=100&strip=all&ssl=1"
+        width: 1363
+        height: 568
+        isCached: true
   - title: "Conversational Artificial Intelligence (AI) Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "The global interactive AI market was valued at 38 9 billion in 2019 and is expected to reach 18 2 billion by 2027 and is expected to grow at a CAGR of 21 from 2021 to 2027 Technological advances and"
     publishedDateTime: 2021-05-10T15:54:00Z
@@ -32,29 +96,29 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
-  - title: "Global Artificial Intelligence (AI) Verticals Market Seeks to New Posture of Market Trends, Opportunities and Breakthrough Point During 2020-2027"
-    excerpt: "Verticals Market Report at:  Key global participants in the Artificial Intelligence (AI) Verticals market include: DIDI ROSS Intelligence Toutiao Airbnb Uber Slack Salesforce Sentient Technologies Dataminr Please Check the Report Summary and Acquire A Complete TOC:  Table of Content 1 Report Overview 1."
-    publishedDateTime: 2021-05-10T02:11:00Z
-    webUrl: "https://ksusentinel.com/2021/05/10/global-artificial-intelligence-ai-verticals-market-seeks-to-new-posture-of-market-trends-opportunities-and-breakthrough-point-during-2020-2027/"
+  - title: "Artificial intelligence reduces the time to diagnose COVID-19 on CT scans by a third"
+    excerpt: "The technology reduces the time required to process the images by about 30 percent and helps to diagnose the disease faster."
+    publishedDateTime: 2021-05-10T06:09:00Z
+    webUrl: "https://www.mos.ru/en/news/item/89990073/"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 15
+      name: mos
+      domain: www.mos.ru
+    quality: 32
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/5.jpg"
-        width: 770
-        height: 430
+      - url: "https://www.mos.ru/open-graph/v1/frontend/en/news/item/89990073/"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence Services Global Market Report 2021: COVID 19 Growth And Change to 2030"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence Services Global Market Report 2021: COVID 19 Growth And Ch"
-    publishedDateTime: 2021-05-10T12:48:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/05/10/artificial-intelligence-services-global-market-report-2021-covid-19-growth-and"
+  - title: "Harnessing the Power of Smart and Connected Health to Tackle COVID-19: IoT, AI, Robotics, and Blockchain for a Better World"
+    excerpt: "As COVID-19 hounds the world, the common cause of finding a swift solution to manage the pandemic has brought together researchers, institutions, governments, and society at large. The Internet of Things (IoT),"
+    publishedDateTime: 2021-05-08T11:23:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9406879"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 11
+      name: IEEE
+      domain: ieee.org
+    quality: 23
 
 secured: "DAuGqFYtUfmvSQ22Xz09Ro3VanPixa/7XE2lhSYAMN6D4HGV7X8nr5fxhIdKV4mjrDrp481SX4NyhEPV4wvPTt14dGmY8EQE8MrueZDymcPEVkjydXhNvnKdh+8eivnjr67MEhT+ISJA743tH0wg4mxy9MSxQQq9GnvPceL3BrztSwa3yaym3txmIHezATX1eNRqQzBA4AJJkqXboO2mE537fNQ/xdo7Sr259/Nwz/+mTHlYEWoOd05B/SP57xfzB9tTPkxd4Iww3XhFd7KzJuTAAju4OfGitPLXQq31XOMVwEFbdIDVGUlYUS7kRtlavWlV8qsOqGxbJ/LtvHhkGSJ/uZsLd7+UAJXhFnQRNFc=;Gt0SrzeBrtBl/JUqcJec4Q=="
 ---

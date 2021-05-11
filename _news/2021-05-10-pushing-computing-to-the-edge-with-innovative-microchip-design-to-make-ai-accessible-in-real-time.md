@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 759
         isCached: true
-  - title: "Announcing Fiddler AI's Strategic Collaboration with In-Q-Tel and Participation in FinRegLab Research"
-    excerpt: "Over the course of Fiddler's two and a half years, we've taken the time and effort to build strong partnerships"
-    publishedDateTime: 2021-05-06T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/n20996644/announcing-fiddler-ais-strategic-collaboration-with-in-q-tel-and-participation-in-finreglab-resear"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20996644"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20996644"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
 
 secured: "x4YYtRm31F1I93lHJn0q5Eo12pxfn8LbL2l1ntaXmNRcPniZ8vLMTwToYwSTesuDI25UDVaM34J8wdbHFqBUAkhwYuUoh3RQZtl3Qn2D9oOYz2BlD3Xm03KN3nw3B4mmIMEXsu1x2RTHOq8xBzRWrXpAVYvyzXETnm3cziPcqX1vLUGAiq/5KGyC39VEl0iBNIRgCQCdWY9ew3kM/pSqSHngDIK0VdAkX5lyA17kTABZbVR8JWGPBw6CrSla7jWb7bcMByay3T6QlVjy1MDJO/Au4o0tk+c/yoWiXT6cjT0okvxlrRQ0lEJe8r9gV97QTyvMWwBV0NhAAuginlYnNsU6QHYg+y52ztXUD5VUdZeIGbWJ2RB82NxVUbsO6fsUs+q6OmzedH7d5iPBSuLzizD+0sAgB42UJzSwzEq2HjX2L4NPP00O87hchTj/5xPj6oKii+xprVtsEZmG1iAyqujZLQZYxCeuaMd7UtSwAA9puAwBek6qDetacDlcjBXt076i6q5njl650MuDO8ZnRQ==;tsmQqchYnJekoB097LpMPA=="
 ---

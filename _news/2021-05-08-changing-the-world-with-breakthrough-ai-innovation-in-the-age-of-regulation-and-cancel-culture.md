@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-wo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -49,17 +49,6 @@ related:
         width: 777
         height: 421
         isCached: true
-  - title: "Announcing Fiddler AI's Strategic Collaboration with In-Q-Tel and Participation in FinRegLab Research"
-    excerpt: "Over the course of Fiddler's two and a half years, we've taken the time and effort to build strong partnerships"
-    publishedDateTime: 2021-05-06T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/n20996644/announcing-fiddler-ais-strategic-collaboration-with-in-q-tel-and-participation-in-finreglab-resear"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20996644"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20996644"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
 
 secured: "c8mr+m3wRjO6EzoSJJbXAc1heZjTtNanDo9y01sgvTBELLMhNClhkJ6KWezWwihdLUtLSZ9x01boEkmXiCQ4MfwVGdZlFQ/2MEHkPQP+rtk2S02S9Xpna6zrMAN9D3skPHQ9qk+S0uxy1dRfdyHoVZ+iwkgK4CRCtvfnR/1JCXIwE/sRuBzaXn0ycbVQ3lxxYG60DW4xBobdN2opKwumk7xRWBU0as2Z2Xi1HK0F5SDsumTHUitHXZF0bUCPbUoHNg4awjPGVSRwbYcL7q7jY5xJdBDUti9yo/Nv/2ZmIvXW3oDUhFIkR/5XJnYikreR8F+CAITEnZR90jp/oFtHZpftnUCLxQbA4vqCLltOnBrkEVlq3lddrnVkFK4k1JV8O/T1ywuXZ5GnDEf6iP3sS7RvV4D2IMo8NitBABXu1eHEfMZBV+Gx4/oMNBhaKkulEaLpVdysst10OTImC83IlCImgEBYhOpSPxHdST2uUutNuVYjTM597KSy1ohFhdMROo4HDR/oI/DJ7xUvrbdbtQ==;BLfJJj7ulVYXye0FaYB4Tw=="
 ---

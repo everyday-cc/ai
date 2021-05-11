@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-01-arm-takes-on-ai-with-new-chip-architecture.md",
+      "title": "Arm Takes On AI With New Chip Architecture",
+      "excerpt": "Arm has unveiled its first new architecture in more than 10 years, pushing security and AI as potential markets for its processor technology. The new Armv9 architecture will deliver up to a 30 per cent performance boost over the next two chip generations compared to processors currently powered by Armv8,",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnews.com.au/arm-takes-on-security-ai-with-new-chip-architecture/",
+      "originalUrl": "https://www.channelnews.com.au/arm-takes-on-security-ai-with-new-chip-architecture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.channelnews.com.au/wp-content/uploads/2021/03/arm-cortex.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ChannelNews Australia",
+        "domain": "channelnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-cincoze-gp-3000-is-a-new-high-performance-industrial-gpu-computer.md",
       "title": "Cincoze GP-3000 is a new high-performance industrial GPU computer",
       "excerpt": "Cincoze has introduced a new GPU computer in the form of the Cincoze GP-3000 for AI and machine vision applications, combining high-end computing performance, rich high-speed I/O, and harsh environment resilience to enable edge computing in the AIoT framework.",
@@ -1224,49 +1267,6 @@
       "provider": {
         "name": "The Next Platform",
         "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-nvidia-launches-ai-enterprise-suite-for-vmware-vsphere.md",
-      "title": "Nvidia Launches AI Enterprise Suite for VMware vSphere",
-      "excerpt": "Nvidia and VMware are bringing together the new Nvidia AI Enterprise software tool suite with VMware’s latest vSphere 7 Update 2 virtualization platform to make it easier for enterprises to virtualize their expanding AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/2021/03/09/nvidia-launches-ai-enterprise-suite-for-vmware-vsphere/",
-      "originalUrl": "https://www.hpcwire.com/2021/03/09/nvidia-launches-ai-enterprise-suite-for-vmware-vsphere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/blue-green-abstract-tech_shutterstock-1471991357_700x.jpg",
-          "width": 700,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
         "images": null,
         "publishers": null,
         "authors": null

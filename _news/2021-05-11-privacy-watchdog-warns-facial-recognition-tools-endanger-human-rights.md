@@ -39,6 +39,20 @@ related:
         width: 730
         height: 499
         isCached: true
+  - title: "OMS to offer facial recognition ID verification service"
+    excerpt: "One Mortgage System (OMS) has joined forces with Nivo to offer customers a new facial recognition ID verification system."
+    publishedDateTime: 2021-05-11T10:26:00Z
+    webUrl: "https://www.mortgagefinancegazette.com/fintech/oms-offer-facial-recognition-id-verification-service-11-05-2021/"
+    type: article
+    provider:
+      name: Mortgage Finance Gazette
+      domain: mortgagefinancegazette.com
+    quality: 39
+    images:
+      - url: "https://wp-krypton.s3.amazonaws.com/wp-content/uploads/sites/3/2020/06/facial-recogntion-ID.jpg"
+        width: 1000
+        height: 645
+        isCached: true
   - title: "National Association of School Nurses Announces May 12th as School Nurse Recognition Day"
     excerpt: "Wednesday, May 12, is National School Nurse Day, an opportunity to acknowledge and thank school nurses for all they do to support the health and learning of adolescents and children across our country."
     publishedDateTime: 2021-05-07T17:24:00Z

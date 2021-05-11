@@ -3,10 +3,10 @@ category: news
 title: "Nvidia RTX 3050 Ti laptop GPU specifications leak in full"
 excerpt: "Full specifications for Nvidia’s upcoming RTX 3050 Ti mobile graphics card have allegedly shown up in the GPU-Z database ahead of its rumored launch later this month. As reported by Videocardz, somebody anonymously submitted specs for the so-called Nvidia RTX 3050 Ti to the GPU-Z validation database,"
 publishedDateTime: 2021-05-03T16:22:00Z
-originalUrl: "https://www.techradar.com/uk/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
-webUrl: "https://www.techradar.com/uk/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
+originalUrl: "https://www.techradar.com/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
+webUrl: "https://www.techradar.com/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
+ampWebUrl: "https://www.techradar.com/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 270
     isCached: true
 
-secured: "gZiucxzKt4dQRWJfAqW1ibC6dYUQ0bun89jCcPoGOsIL/CRNaFql8qicGUFxUaiofncOoQ083qaJKT/k4rG1duoFU34J3OXELq3xAlZGirDpPWdgi1uX7FdYaJZpJGKkPiL5RnnZjkpkc/YWM7NvPWK3uJ9KZSS2pj0a9H636k0g1wA2symheDuh0SnRhWPisAYHnai2F8pKywQYQCbE3ANFAqGd+40EI/GP4GcZ+9D1bMcxvdgYrh2SgJy0OilpQcs0Qhlc/cMZx/NZt0iyAej6Hn6ga/ZikFq5sChKLuf+Zz6Pckn5pS8bl2PNm4eE3XUSGoX36mmdtLaiBo0UyGqsyrfiU9a//bQMRIXQklCyp973ktycMyMX7tkHU8arx39esw7zqGTaUszqFxzJ12CUIXPh/WZIaOomAP5coFuGB8icYtNbFs0rUtEaJMdUJtMkf8IwMSaE+fjSN4NySZEuonavK0hYG3J1ERcBzZ9SfMpqi3+jo3Dx19Y+DHwCubMm6FlIi8AFbbN4gE3Jgg==;adalpIoMckYobKNOfc7ELQ=="
+secured: "FFuteBwuN7CzwvxBWRmnMHzxM33wuKpPh8+FGDVAcJOVznKGJePreZFDzNx8pxYnIjB5lcaGgjXFJ99O0fxZpOMS4G1huZ7W6fybgdnSxz64gxvvAglZ6caLkwuXAX4fyDZbAmmfJlmufoXs2oWv2qb3zWFEUWkvWp93TzInRVpgNzgqqm6YSFUqh1B4K/kQ2FiF6uppMmCCMsmV2YNNrVloBWOOPLos1uZlIL21GFeJ1GDI9bpjkCJ/gnwpmsNSBEeMISDFVeqHwDZD6/y8amS7RIycfqrZneRJn+eGlCq8ekU8Ba/nnEqCB/LvoTCgNtnHqkYLpqF4AF7M7kd2iIGk0Ypd0Nm+SYduddfqP2U=;jIOJkmNDGxuZCtaVjkjwTw=="
 ---
 

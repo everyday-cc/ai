@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Mint
@@ -28,33 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Launches New Cloud, AI Services in Bid to Modernize Business"
-    excerpt: "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence."
+  - title: "IBM Announces Breakthrough Hybrid Cloud and AI Capabilities to Accelerate Digital Transformation at 2021 Think Conference"
+    excerpt: "IBM (NYSE: IBM) announces advances in artificial intelligence (AI), hybrid cloud, and quantum computing at the company's Think conference"
     publishedDateTime: 2021-05-11T04:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business"
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities-to-accelerate-digital-transformation-at-2021-think-conference-301288085.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 71
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idoP3yFiGpRY/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
-  - title: "Using AI to augment public health services"
-    excerpt: "Out of the COVID-19 pandemic, key use cases are showing the effectiveness of AI tools to speed agencies' response to public crisis."
-    publishedDateTime: 2021-05-07T14:26:00Z
-    webUrl: "https://www.fedscoop.com/radio/using-ai-to-augment-public-health-services/"
+  - title: "Watch live: Think 2021 reimagines the digital experience as IBM powers up hybrid cloud with automation"
+    excerpt: "Remote operations and the need to rapidly respond to the changing economic climate have made cloud computing essential for modern business survival. Adapting means adopting hybrid cloud. But stepping smoothly from a legacy or pure cloud environment into one where applications and data are dispersed across multiple clouds,"
+    publishedDateTime: 2021-05-10T22:00:00Z
+    webUrl: "https://siliconangle.com/2021/05/10/watch-live-think-2021-reimagines-digital-experience-ibm-powers-hybrid-cloud-automation-think2021/"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 8
     images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2021/05/GoogleCloud_public-health_Header.png"
-        width: 1920
-        height: 1080
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/IBM-Think-2021-1.png"
+        width: 965
+        height: 543
         isCached: true
 
 secured: "1H+5MQgUIkbe4x3BFLIvvstMjArLxHfKW5oCEdaPlp3fVUYPY0AnB/7PZ6EoJgUL65P5V1tnKaFvd86xkTjOUHgRTXPJN737Exxz8NBcOt4B7J9O6VbYcb51qgPm21nag5E2VgjsaETDQ3FzioAxhM+s5GatVJtiVwcvzi3Hu0wAY9MiNeVg+Mvxbuo9tmWhg25S9dhnl0JE8N0BSxA6nZtNyRk/vAm9SILOvJIPnh2ZMOLTzwRe8QeuTxcsD/H45Cve2/coIAxebB1ZWICBbmEJMc89uKVZmzLT5mxhhxdF1YLa7NX66hbSLYZTFK96LNDjYXSDeQD/Y8tpcImnIGRVcDi4R6vst1NzE2F8TmKfa2xQwqzEEVdhlfBmoWHW8hKMvNei9NK6iNIqnJVv9ARVwND5moOec7EwB3D8ONvCqhTBPIc1mqRVRoQgidtX7gLXydnLBOOzv5E2EwAnlHaBMhRyVFpHWx4P7mP1H8WQYpKG2GoZIx4vhOLJVFa58I4ovg+2yaqbX9WJJfLuWg==;ueGg4eljp9vOpwLzrng4ww=="

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign"
-excerpt: "Expend, the AI-powered fintech startup changing the way businesses manage expenses and spending, has announced a great start to its crowdfunding campaign on Seedrs. The company is experiencing a strong growth period having performed well in the past turbulent year with revenue more than doubling,"
-publishedDateTime: 2021-05-10T08:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024"
+excerpt: "Expend, a fintech startup that's revolutionising expenses, announces an impressive start to crowdfunding campaignLONDON, May 10, 2021"
+publishedDateTime: 2021-05-10T10:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028"
 type: article
-quality: 63
-heat: 103
+quality: 65
+heat: 105
 published: true
 
 provider:
@@ -19,10 +19,11 @@ provider:
       height: 50
 
 topics:
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1505737/Expend_Expense_Platform.jpg"
+  - url: "https://mma.prnewswire.com/media/1505742/Expend_Expense_Platform.jpg"
     width: 400
     height: 225
     isCached: true
@@ -89,6 +90,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "LWYf2wK/vLpCQ5eNXWy+wCGImsQ7Vi1aTf0Q8szjIm4nNR1hsefipgl/3XWFg9i+g34uz4ichepJjtRxzwgF/m1cLsnSf58I9Ez8ZkQ6Zpz3vdqx/p8Z7CfIbcPxhnoNc52SWBQjClez4kXgk4nmbhtBTvkfxrC89AflJyRD9esAerLv2qlYzlvOxgIjiOuGC/nZSX0OK94dAc4r7VFkyxr0P+X5GuKlu7k92QNVYtP+zGmxmuJKHnA4tj3as/N3PyYld9qH4xPLH2XGIRdBRc8Wt/0nhHUMFKpawhGTj3Z6nc7mYW796C8fLMt3XzCEOMsoOC2gXdyjcXRXTLa093u0WNXQroljPDeKWUXrudw=;3mh1Qf9EFd8NRICJVRSkIQ=="
+secured: "81vfNwsQ/xVjn47r2w8nvoTMjIBRa0UIWH9oLxR2fRiSnmsMjhlinl0lvf9pKIR6pguXTf2V47kdJaubjT054hetV12fkN9YOOe1XfR2trdFzj44UOp4pBoCcwAYIpBJlR5Zi3EGRDw/8at3UibDL5Op2EgUfm4hfub+H0Y++Q6ZYZEykt0J5AwqRw5ttIN7CPTH4al2LILem7h5EkRatT0oC6cXByFE41ILp8evAJPjWBsRS7yZXFK6mjSY+6MLVdOIC7+DetIrMDglXijdTIuo8lzpein6q3aYexHyT58Tfa0RDqbJbcnR/NsjdAfTAFL2ofyMCpCUuyddXahys5tdfrKzNIAuDLFuecM25/Q=;n7teebo0xjia4E+ZFraZ1g=="
 ---
 

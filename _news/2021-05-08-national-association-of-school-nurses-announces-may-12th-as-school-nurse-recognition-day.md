@@ -39,6 +39,20 @@ related:
         width: 730
         height: 499
         isCached: true
+  - title: "OMS to offer facial recognition ID verification service"
+    excerpt: "One Mortgage System (OMS) has joined forces with Nivo to offer customers a new facial recognition ID verification system."
+    publishedDateTime: 2021-05-11T10:26:00Z
+    webUrl: "https://www.mortgagefinancegazette.com/fintech/oms-offer-facial-recognition-id-verification-service-11-05-2021/"
+    type: article
+    provider:
+      name: Mortgage Finance Gazette
+      domain: mortgagefinancegazette.com
+    quality: 39
+    images:
+      - url: "https://wp-krypton.s3.amazonaws.com/wp-content/uploads/sites/3/2020/06/facial-recogntion-ID.jpg"
+        width: 1000
+        height: 645
+        isCached: true
   - title: "Privacy watchdog warns facial recognition tools endanger human rights"
     excerpt: "Facial recognition technology can enable widespread surveillance, provide biased results and erode other human rights, says Canada’s privacy commissioner. In a presentation to a parliamentary committee,"
     publishedDateTime: 2021-05-10T18:24:00Z

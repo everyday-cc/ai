@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-28-global-artificial-intelligence-chip-market-analysis-featuring-industry-top-key-players-by-2026.md",
+      "title": "Global Artificial Intelligence Chip Market Analysis Featuring Industry Top Key Players By 2026",
+      "excerpt": "Global Artificial Intelligence Chip Market Analysis, 2020 research report depicts a deep-dive market analysis of statistics of Global Artificial Intelligence Chip market which consists of regional and country-wise market size,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-analysis-featuring-industry-top-key-players-by-2026-2021-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-analysis-featuring-industry-top-key-players-by-2026-2021-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-unisoc-t618-is-designed-to-improve-the-imaging-ai-capabilities-of-the-terminal.md",
       "title": "UNISOC T618 Is Designed to Improve the Imaging & AI Capabilities of the Terminal",
       "excerpt": "UNISOC T618 is an 8-core architecture LTE chip that was launched in August 2019. And, it is based on 12nm process technology and consists of two 2.0 GHz Arm Cortex-A75 CPUs and six 1.8 GHz Arm Cortex-A55 processors.",
@@ -1300,49 +1354,6 @@
       "provider": {
         "name": "TASS",
         "domain": "tass.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-nvidia-unveils-quantum-computing-simulation-tools-strengthens-grip-on-gpu-accelerated-ai.md",
-      "title": "Nvidia unveils quantum computing simulation tools, strengthens grip on GPU accelerated-AI",
-      "excerpt": "Nvidia has unveiled a software library called cuQuantum that can help scientists better understand the behaviour of quantum computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/",
-      "originalUrl": "https://www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techgoondu.com/wp-content/uploads/2021/04/Image-Grace-255543607271cab6bb18.97771987.jpg",
-          "width": 2000,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/?amp",
-      "cdnAmpWebUrl": "https://www-techgoondu-com.cdn.ampproject.org/c/s/www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/?amp",
-      "publishedDateTime": "2021-04-12T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Goondu",
-        "domain": "techgoondu.com",
         "images": null,
         "publishers": null,
         "authors": null

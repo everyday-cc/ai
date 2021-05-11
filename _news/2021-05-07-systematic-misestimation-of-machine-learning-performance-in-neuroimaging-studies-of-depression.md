@@ -39,20 +39,6 @@ related:
         width: 685
         height: 649
         isCached: true
-  - title: "Artificial intelligence–enabled electrocardiograms for identification of patients with low ejection fraction: a pragmatic, randomized clinical trial"
-    excerpt: "In a pragmatic, cluster-randomized clinical trial, use of an AI algorithm for interpretation of electrocardiograms in primary care practices increased the frequency at which impaired heart function was diagnosed."
-    publishedDateTime: 2021-05-06T17:44:00Z
-    webUrl: "https://www.nature.com/articles/s41591-021-01335-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 2
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-021-01335-4/MediaObjects/41591_2021_1335_Fig1_HTML.png"
-        width: 458
-        height: 685
-        isCached: true
 
 secured: "3vAe+tHNsRBWMqCWUM6Z0RlLHzqnLIu/5c2+T+boOwetRUloYrxMkZubXAXmmg8bno5qewJu9HtO0HNL3pofDyCI5cJXY50e6zKRozgyciM/7leNTsfBmNBqkwmCQ8x6bqKO6DuJVdUBNdTltfmxFpIxA2VuCqQXcqdyLl4j9+4s+w7KVmx+Wn+1+7447se0AGS+b72XK+Snb2dtcIb20clvZv3QBmGQaypu0WhImyHwE5PfF1gxtGCeIbmV94P8Kg7Su7AbErQ2TNYj6qu0YHRFDnMbDsluKZorrfugfct5jJCGOUYB5PkEH8spkaOLZY7HmsGtdf5W0+3p6XinigNYqq7apeDxUF2qPqFBxbRLr8JUqFMsUI1hU7earw9B9Jf8VvDWVMHtkAduTVV4oPKPJqCeXh7Tujus9MI5+Z9zVjgExtiF/agvZ7ViuF6HcdKYekfNJ50DGUVBg3y87s5/PYGN1LwigrzZ+HVaLB+uRyjwQeThwTEYBVXY2fg2kZQjtw8ojRvjP6ALVB/iFQ==;A541+0QR7w2LgPNW8DHVOQ=="
 ---

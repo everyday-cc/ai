@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "States push back against use of facial recognition technology by police"
-    excerpt: "I think people are just freaked out, and rightfully so, about this technology,” said Freddy Martinez, director of Lucy Parsons Labs, a Chicago nonprofit that specializes in citizens' digital rights."
-    publishedDateTime: 2021-05-06T18:45:00Z
-    webUrl: "https://www.mahoningmatters.com/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
-    ampWebUrl: "https://www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
-    cdnAmpWebUrl: "https://www-mahoningmatters-com.cdn.ampproject.org/c/s/www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276"
+  - title: "Massachusetts Homes in on Facial Recognition Accountability"
+    excerpt: "According to a recently proposed Massachusetts bill, companies could soon face penalties for misusing facial recognition technology, causing them to pay hefty fines or go to court."
+    publishedDateTime: 2021-05-08T00:34:00Z
+    webUrl: "https://www.govtech.com/policy/massachusetts-homes-in-on-facial-recognition-accountability"
+    ampWebUrl: "https://www.govtech.com/policy/massachusetts-homes-in-on-facial-recognition-accountability?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/massachusetts-homes-in-on-facial-recognition-accountability?_amp=true"
     type: article
     provider:
-      name: mahoningmatters
-      domain: mahoningmatters.com
-    quality: 74
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://www.vmcdn.ca/f/files/mahoningmatters/images/facial-recognition.jpeg;w=640;h=422;mode=crop"
-        width: 640
-        height: 422
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/46b2c37/2147483647/strip/true/crop/940x490+0+70/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fcf%2Fb0c53f7bd3c1011e993e22738e35%2Fprofiles1.jpg"
+        width: 840
+        height: 438
         isCached: true
   - title: "Massachusetts OKs Curbs on Police Use of Facial Recognition"
     excerpt: "As part of its new police reform law, Massachusetts lawmakers have passed one of the first state-wide restrictions on law enforcement use of facial recognition technologies. Under the law, police must have a court order before they can compare images to the database of photos and names."
