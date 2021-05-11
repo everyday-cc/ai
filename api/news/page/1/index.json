@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-11-these-electric-self-driving-tractors-could-make-farming-much-greener.md",
+      "title": "These electric self-driving tractors could make farming much greener",
+      "excerpt": "A startup based in California says it can help farmers be greener and more profitable by offering what it describes as the world's first fully electric, self-driving tractor. The compact tractor can be programmed to perform tasks such as plowing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210506123000-restricted-monarch-tractor-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html",
+      "publishedDateTime": "2021-05-11T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-iit-hyderabad-invites-applications-for-free-online-course-on-deep-learning-for-computer-vision.md",
       "title": "IIT Hyderabad Invites Applications for Free Online Course on Deep Learning for Computer Vision",
       "excerpt": "IIT Hyderabad has offered a free online course on deep learning for computer vision on the NPTEL platform of the Ministry of Education",
@@ -150,7 +202,7 @@
       "originalUrl": "https://venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -393,7 +445,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-anomaly-detection-model-from-scratch-with-amazon-lookout-for-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -445,7 +497,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1036,17 +1088,17 @@
     {
       "path": "_news/2021-05-10-ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign.md",
       "title": "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign",
-      "excerpt": "Expend, a fintech startup that's revolutionising expenses, announces an impressive start to crowdfunding campaignLONDON, May 10, 2021",
+      "excerpt": "Expend, the AI-powered fintech startup changing the way businesses manage expenses and spending, has announced a great start to its crowdfunding campaign on Seedrs. The company is experiencing a strong growth period having performed well in the past turbulent year with revenue more than doubling,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 103,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1505742/Expend_Expense_Platform.jpg",
+          "url": "https://mma.prnewswire.com/media/1505737/Expend_Expense_Platform.jpg",
           "width": 400,
           "height": 225,
           "title": null,
@@ -1081,8 +1133,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Finance"
+        "AI"
       ]
     },
     {
@@ -1181,58 +1232,6 @@
         "Microsoft AI",
         "AI in Autos",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings.md",
-      "title": "Jobs Lost To Industrial Robots Amidst COVID-19 May Never Come Back To Human Beings",
-      "excerpt": "With intelligent machines on the horizon and with an industrial focus on enhancing productivity and lowering costs in the post-pandemic era, artificial intelligence (AI) and autonomous robots are destined to win this bid of the future job market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/",
-      "originalUrl": "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6097f52c903ba592d51003db%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/amp/",
-      "publishedDateTime": "2021-05-09T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

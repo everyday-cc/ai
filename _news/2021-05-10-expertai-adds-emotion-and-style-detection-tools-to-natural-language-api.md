@@ -55,11 +55,36 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/ibm-768x499.png"
         width: 768
         height: 499
+        isCached: true
+  - title: "IBM doubles down on AI and hybrid cloud"
+    excerpt: "IBM is beefing up its core technology capabilities in artificial intelligence (AI) and hybrid cloud to speed up application modernisation and improve AI adoption"
+    publishedDateTime: 2021-05-11T04:04:00Z
+    webUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud"
+    ampWebUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+  - title: "IBM makes leaps in AI, hybrid cloud and quantum computing for digital transformation"
+    excerpt: "IBM Corp has achieved several advances in artificial intelligence, hybrid cloud and quantum computing to accelerate its partners and clients digital transformation journeys. A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic."
+    publishedDateTime: 2021-05-11T07:57:00Z
+    webUrl: "https://mybigplunge.com/tech-plunge/technology/ibm-makes-leaps-ai-hybrid-cloud-quantum-computing-digital-transformation/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 32
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/05/IBM-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "qaIZpTYVIt/q45AFlfs2OE7igbg+R7ElVMoHuNc44RerPLTU9UrV+jI8X3AkvCELHJDrONAROIHJHm6yx7oWuqxU87sGcdaIfN0XzkcM5WhwQY+t79kXLVnFEJEsquPyt7mdyyJQGRwsALb2q1up5lAOVasvio3ocx0mTFiury5h59zvYSoSezy1rM4pQChYXKwIZlAXS4RuqwsJMJrvyJoSSbdHoOHkl4KgVRn7pze42ONQC9vTAa+78yFdiawrcJJNfDYyJsMGBqeosODigUgKFNsLI4NBYmZpnZK+asetTDx9bKjUemg06fmmvesnINZHwt+nUjBgYQvBcEUwq4ja0g7eu7JDp8r7QvYIDUfyqcp7kKHLrgrVHY1WnesTgsmKazQunfgbgGuIvD3mUqOFMzoS8JbB1Rz4bL5FurkLL8ctzb6WDpUdaNwmTvKGyCm6YUaxYSeRKnOCX/zsBjN6k8CEJELIz2Qgidh3S5vi2G7Jg3/POt3PVbfHkMFtZ1PGKXBmwDcFkZZrXypVGQ==;Y5EqROxElFxUze0eouT8Lg=="

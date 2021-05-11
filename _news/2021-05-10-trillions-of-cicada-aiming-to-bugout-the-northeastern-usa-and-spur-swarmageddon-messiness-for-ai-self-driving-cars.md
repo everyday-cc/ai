@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cica
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "That Turtle Smashing Through A Windshield Striking A Florida Mom Is A Valuable Lesson For AI Self-Driving Cars"
-    excerpt: "News out of Florida indicates that a turtle burst through the front windshield of a car, fortunately all are okay, and we can thusly glean lessons learned for self-driving cars."
-    publishedDateTime: 2021-05-06T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/06/that-turtle-smashing-through-a-windshield-striking-a-florida-mom-is-a-valuable-lesson-for-self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6091cc0ffdfcf393d849edfe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2416%26cropY1%3D57%26cropY2%3D1416"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tall Tales By Your Grandparents About Walking Five Miles To School Will Instead Be About Using Self-Driving Cars For Your Kid’s Generation"
     excerpt: "Walking five miles to school in the snow and uphill will become a new tale about being driven to school by self-driving cars."
     publishedDateTime: 2021-05-08T15:30:00Z

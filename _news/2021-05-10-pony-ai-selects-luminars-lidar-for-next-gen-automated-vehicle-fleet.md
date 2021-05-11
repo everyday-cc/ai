@@ -33,7 +33,7 @@ related:
   - title: "Autonomous Driving Startup Pony.ai Will Use Lidar Sensors From Luminar for its Next-Gen Robotaxi Vehicles"
     excerpt: "Autonomous driving startup Pony.ai announced its newly designed perception platform in collaboration with Volvo-backed Luminar Technologies. The next-generation fleet of self-driving Pony.ai robotaxi vehicles will integrate Luminar’s new Iris lidar sensor."
     publishedDateTime: 2021-05-10T21:00:00Z
-    webUrl: "https://www.futurecar.com/4607/Autonomous-Driving-Startup-Ponyai-Will-Use-Lidar-Sensors-From-Luminar-for-its-Next-Gen-Robotaxi-Vehicles"
+    webUrl: "https://www.futurecar.com/4607/Autonomous-Driving-Startup-Pony.ai-Will-Use-Lidar-Sensors-From-Luminar-for-its-Next-Gen-Robotaxi-Vehicles-"
     type: article
     provider:
       name: futurecar

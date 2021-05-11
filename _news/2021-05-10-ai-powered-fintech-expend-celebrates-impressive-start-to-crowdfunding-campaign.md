@@ -1,13 +1,13 @@
 ---
 category: news
 title: "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign"
-excerpt: "Expend, a fintech startup that's revolutionising expenses, announces an impressive start to crowdfunding campaignLONDON, May 10, 2021"
+excerpt: "Expend, the AI-powered fintech startup changing the way businesses manage expenses and spending, has announced a great start to its crowdfunding campaign on Seedrs. The company is experiencing a strong growth period having performed well in the past turbulent year with revenue more than doubling,"
 publishedDateTime: 2021-05-10T08:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028"
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024"
 type: article
-quality: 65
-heat: 85
+quality: 63
+heat: 103
 published: true
 
 provider:
@@ -20,15 +20,44 @@ provider:
 
 topics:
   - AI
-  - AI in Finance
 
 images:
-  - url: "https://mma.prnewswire.com/media/1505742/Expend_Expense_Platform.jpg"
+  - url: "https://mma.prnewswire.com/media/1505737/Expend_Expense_Platform.jpg"
     width: 400
     height: 225
     isCached: true
 
 related:
+  - title: "Security challenges within the FinTech sector"
+    excerpt: "As fintech becomes more common, how can organizations ensure they are identifying and managing the associated cybersecurity risks?"
+    publishedDateTime: 2021-05-11T08:30:00Z
+    webUrl: "https://www.itproportal.com/features/security-challenges-within-the-fintech-sector/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/security-challenges-within-the-fintech-sector/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/security-challenges-within-the-fintech-sector/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 61
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HYuCt6x55aFDLrJpRRVVGn-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Why fintech companies are winning big in banking and finance"
+    excerpt: "The fintech contenders on tech-powered platforms will offer new-age banking services that capitalize on \"data-fueled, hyper-personalized experiences in real-time.\""
+    publishedDateTime: 2021-05-11T09:50:00Z
+    webUrl: "https://techhq.com/2021/05/why-fintech-companies-are-winning-big-in-banking-and-finance/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/05/000_9329CH.jpg"
+        width: 1024
+        height: 593
+        isCached: true
   - title: "Overfunding: UK AI-Powered Fintech Expend Quickly Surpasses £500,000 Target Through Seedrs Campaign"
     excerpt: "Expend, a UK-based AI-powered fintech, has successfully secured its initial £500,000 funding target through its equity crowdfunding campaign on Seedrs. The funding round, which recently made its debut,"
     publishedDateTime: 2021-05-10T13:32:00Z
@@ -60,6 +89,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "KNaMOrarkeC/DTVnbVTrzHrdcw0h5vJ+u0zELFgED/Wvr1BK0SeQM3Zqly0Uufi0/Q74GhNl5ZeaqOiPdZlHweqwvKbmMwvmEN8fOfsvNcrdJBOD1dxmUSBgFXLMExf9ikbDKpwNN15LHukbdMLnkIZAKUqih0cg9LOT2fFr/haOzHhaQgD0YdMbvQpfBhqvaMOmQ/TmMkQWBLSmXB3dJCj1mrnFQgPQraR0nigp6fp3nh1qfx2041UQ6f7FbvuWqtImTYO7QC5dCST3YXYiPkRII1LZYUoyeClRIYbXgh6w4LPaps4caYrrk/1W9UpnkrUPbezXNrWIXSqs+X5tAUHryq5s56O/vljzOAm/YDB6ZxyPgjSfRddS3kx0ziPqphOnxMKe9gV/MbwkNGmme6uFtLwTvp0VysuVfZGlFQAjeQ5vgBIkNsdCVa8vI4uUO7pQUsZceImFiv2gUMeiRXVtcGPBXZvJycXJwyf5bTrLnc4v8XekrLTIpfE2tYhQwyeh1b6vI+1OX7XbZoxOAw==;T7MEm02+YtuCCoegXLq5ZA=="
+secured: "LWYf2wK/vLpCQ5eNXWy+wCGImsQ7Vi1aTf0Q8szjIm4nNR1hsefipgl/3XWFg9i+g34uz4ichepJjtRxzwgF/m1cLsnSf58I9Ez8ZkQ6Zpz3vdqx/p8Z7CfIbcPxhnoNc52SWBQjClez4kXgk4nmbhtBTvkfxrC89AflJyRD9esAerLv2qlYzlvOxgIjiOuGC/nZSX0OK94dAc4r7VFkyxr0P+X5GuKlu7k92QNVYtP+zGmxmuJKHnA4tj3as/N3PyYld9qH4xPLH2XGIRdBRc8Wt/0nhHUMFKpawhGTj3Z6nc7mYW796C8fLMt3XzCEOMsoOC2gXdyjcXRXTLa093u0WNXQroljPDeKWUXrudw=;3mh1Qf9EFd8NRICJVRSkIQ=="
 ---
 

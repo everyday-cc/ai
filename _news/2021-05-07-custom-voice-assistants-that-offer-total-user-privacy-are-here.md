@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/custom-voice-assis
 webUrl: "https://markets.businessinsider.com/news/stocks/custom-voice-assistants-that-offer-total-user-privacy-are-here-1030397670"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 400
     height: 224
     isCached: true
-
-related:
-  - title: "Custom Voice Assistants That Offer Total User Privacy Are Here"
-    excerpt: "Sensory today announced that custom voice assistants that deliver total user privacy are officially here and are already revolutionizing"
-    publishedDateTime: 2021-05-06T15:34:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/custom-voice-assistants-that-offer-total-user-privacy-are-here-301285850.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/215646/sensory_inc_logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
 
 secured: "/e9F3G56nL9S5Hc3yNhdbyEHWpsOgBbF/sxGwXlHcqAPNMtFutbfU3F4e/jXdk9BC/+sLRzZ3xDtEcrqo3DqefI36Zld2Y53lkDKrTjz6RPRoFDsBe+qTNk9kwbcQ7S0eyl1WxmzhZbtqUrFO6TD36V75IB7QCQDk7ZgNL/sP03VjwQVQ5Gu4t1UZobuVJxv2pTl9WeT48alNrRi2tQq0Puu5pCyPeM70cznRzHVLMnCvb78NLgcd2vg80V9lYjKC3WF11OhsiebPJ8ext7h7OaoQ7FyM95o1rXA2FHj1S+JzW87sepImyqta/D9LVnpkEMa8Ub7SpUKwCgBpjh224BSuRPR15lLZxuaAdMhWGY90fU21wVX7jVc8sXczKslZnhSbffBOxLsodG/cNllGKNILpUf6shiXd7HhKxEJCslYmlZJu7UDdEb9nqs95t4rM/jTYQU1cIcMunCeCsCX9n+DxgAH2oOhm7syETFOsY6AdU9DaAhaCQQe2v8hfzCf/Koq2LANIltSDmM1Vtpug==;yJDMERoEx6W6tnzOeMAD7A=="
 ---

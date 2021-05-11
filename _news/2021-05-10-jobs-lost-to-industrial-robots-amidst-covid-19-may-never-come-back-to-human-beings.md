@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-indust
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Training, Privacy Key to Artificial Intelligence Use Post-COVID"
-    excerpt: "Artificial intelligence became a key public health tool during COVID-19, but its continued use will require increased training and privacy protections."
-    publishedDateTime: 2021-05-06T16:33:00Z
-    webUrl: "https://healthitanalytics.com/news/training-privacy-key-to-artificial-intelligence-use-post-covid"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 56
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "gJzX3jw2HkW1f1REZRfLVXCGhFhprJB2FTebfdvBZ9L4s6Wif7yCIHRcIkM3j4ndHtbQYLn5T5dyJ+hPjJUhBEWD2zcwp8IRVjewAcg3o34zpMjRjZ7H+FgQGr+U7dyTcDtPaBdvH3ZAnTYlIDR+QcMb7nuEPrb1nkUVj3v8v+IQX2XlVp9fvA6qbQB+RGVy3afhA5aW98cmo5xH05rZHpIP5bKfcXXK5nlgIfDOVqId96Wjdte7Nz+gBn1RD7p7NadK09w4d6CGvUM56oF7pXXbFBDGeERjNdk+BM5QOfkXdYsApdGxzdh2RcISz8wDhjmBfr1dasoF7nvcgP6ZzSUufo3JXXy5uNx2i5vIRce5LovN7Gy52P5Ia8wyCQU/VxsyJeHp/T2dlRD9+1NARtSRngbLW4OHzSAHJjPcrFpcfGe1hF8U0fyz43+1r5HI0JETNEL3iO80YFJ50GJG5e6srltCp9I1AqTrxbqr0wBNmCIiz74KZlTt2MozaDPYzcpoisR1Q5E5tnFcttt4dg==;bLYY4v/d1Hjga9EMw60T/A=="
 ---

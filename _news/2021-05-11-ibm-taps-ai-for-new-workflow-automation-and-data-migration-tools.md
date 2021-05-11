@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-auto
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -55,11 +55,36 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/ibm-768x499.png"
         width: 768
         height: 499
+        isCached: true
+  - title: "IBM doubles down on AI and hybrid cloud"
+    excerpt: "IBM is beefing up its core technology capabilities in artificial intelligence (AI) and hybrid cloud to speed up application modernisation and improve AI adoption"
+    publishedDateTime: 2021-05-11T04:04:00Z
+    webUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud"
+    ampWebUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+  - title: "IBM makes leaps in AI, hybrid cloud and quantum computing for digital transformation"
+    excerpt: "IBM Corp has achieved several advances in artificial intelligence, hybrid cloud and quantum computing to accelerate its partners and clients digital transformation journeys. A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic."
+    publishedDateTime: 2021-05-11T07:57:00Z
+    webUrl: "https://mybigplunge.com/tech-plunge/technology/ibm-makes-leaps-ai-hybrid-cloud-quantum-computing-digital-transformation/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 32
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/05/IBM-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "T69JJSlAIPQUuXgHNzbb/8JHBV/Tsqb2xhFs3EAfBptH1QBmJIbi2g8ugbR/5dpK5o0cBPadYhRbgzMKyrr3vF1ZnxCJEUbYIDrUP20hqmmvrCkgAsntC+qoaWvt72422ZpE6PRW1bTn/zuhPHstJQySPdF+ClGI6bM1mDqkof+F8Q5pGwM/TQyJQNnhj2uaCHbRVlKfH18Yl7FDnm6+aLQCEmYGxWaIPlsGBGwg6N+kZE9BSRIkhF/N87wLWvJzbWSNWvxCGnKjQw3PP0fm9j4p+No5pIvThVRamIUtc4ZX8bL5ncufKTzT3z3mJGKl4+nb9dtcaYoY05jsctbd6IjvM3f5QG4fwox7Vys7jbWOgOR0eu/4gWGatmuob2v5mPh1QcpXBHy75Ky9Uoi2ymQvM2v7H3r2YnSzQJi53zlpjPBLD437jC1BqvBt6Pm0r06hFLKcWED9bhwyAYcgNKL8oditFRDzANDC4dJojMa2q33OXbYqkuuBKOiWj9URiDff2pcKAp4ii8pk3qzvIw==;wch5ldL/L/j3Pd3FFGv7zw=="

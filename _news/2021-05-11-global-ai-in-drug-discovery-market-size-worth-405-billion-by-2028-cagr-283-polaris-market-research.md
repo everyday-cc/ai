@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-11T07:39:00Z
 originalUrl: "https://www.medgadget.com/2021/05/global-ai-in-drug-discovery-market-size-worth-4-05-billion-by-2028-cagr-28-3-polaris-market-research.html"
 webUrl: "https://www.medgadget.com/2021/05/global-ai-in-drug-discovery-market-size-worth-4-05-billion-by-2028-cagr-28-3-polaris-market-research.html"
 type: article
-quality: 3
+quality: 5
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - IBM AI
+  - Google AI
 
 related:
   - title: "Artificial intelligence in transportation market is anticipated to reach market size of around US$ 5,000 Mn by 2027 | ARC"

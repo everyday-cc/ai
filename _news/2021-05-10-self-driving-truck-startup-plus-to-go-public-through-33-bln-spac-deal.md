@@ -2,9 +2,9 @@
 category: news
 title: "Self-driving truck startup Plus to go public through $3.3 bln SPAC deal"
 excerpt: "Plus said on Monday it would go public through a merger with blank-check company Hennessy Capital Investment Corp. V HCIC.O in a deal that values the self-driving truck technology startup at $3.3 billion."
-publishedDateTime: 2021-05-10T10:25:00Z
-originalUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10-0"
-webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10-0"
+publishedDateTime: 2021-05-10T10:08:00Z
+originalUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10"
+webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10"
 type: article
 quality: 34
 heat: -1
@@ -89,6 +89,6 @@ related:
         height: 600
         isCached: true
 
-secured: "RTHp/g9JT4kEtn7dhgOxGVV3KEHM1a0v6TvMM98j//hG+223rKm7kghF4iFS34VAQj1GkQAGopC4lC5vVPp/fcx2k3KycgbQdIcMHw/2936HG1UVs7lIUPeZ7s0i588YhaNI91A0vePrFNxsH9/Nha+1UUUcWwuMcYl1vn1/LI7KLv7Ext9Zv+W8MZ5GwzGMU/r4IVDijBPvYQ/wu6N/KDNEPQCidS4WB8wb0pEvAmWyzauMGMteO7yc5fBvm/Fv8w3br7SoPGhntb7x6Di1fudc7fbv7Q97fwmFL3PUEmrMsBzmfOJY7JBm/IZ0fJgXGtKCDUlVgBMtD7dv4JQWEafTipZ3okx/wXn4kNd/dQjbHuz9tJgx2nt1W1cTT6VIh9fcrtLGdar4X1BowAm0liRjNAJZqj37mqv4UfEpL7gaIWxD9s4u6YgmL7HaECLhbs+DFbVoDvGeM9NjdyGA2M4qqA4AitQXxMQL080NZZZ8nyqcQL1aeJLt2nvCm2/iVPNahEn5y6fDPZD9cXkE2A==;hWS4Pb+UmM9Nf4S2qTwwyQ=="
+secured: "GZuDVZFUoSj4/D73nQ769wku/IJJU0o6ulH5nxjSYiSYqrZZKSJCnzK+P7uwDgCzBFqH8FGj4ovVoeNvSU7G2cVMFNOAwZrnkmyZnciKy5M8YB1IDTHmFE6GqDljY8e1hxbJdlxZEmB+JvB/1k+n2dlA1UmrkyQr/RhFdFG0EQPh3s4xnvQ1KpiVE9TYXq+0kTbTyYgf+QY0zdsL6wWpH5O6m//FuyfZ0cRQSBV6g4GGQKV4hKlxhaFBK1Go17zV/BjL9znWa3XHbethN2cYYf7mr1d+eBHkkYBvV0x28jV1F8Wm57fYKDdXrQanVZbCw9z2c+ZK1WUZtB+MyIC1XYIPEybmyZiLYjVNKJEqRVI=;9cZhpAPSAG6IPTOHhzDdqQ=="
 ---
 

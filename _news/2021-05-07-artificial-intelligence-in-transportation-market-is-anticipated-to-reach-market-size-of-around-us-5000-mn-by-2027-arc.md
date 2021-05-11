@@ -50,7 +50,7 @@ related:
     provider:
       name: Medgadget
       domain: medgadget.com
-    quality: 3
+    quality: 5
 
 secured: "l7c5zZ1c0rvzq3MmFi6mZUb/v+iY6mGukT88C5PIDLKJz8EUNDTu7rDERqBBBZR24wMmimk/MEnIOdIB5unUR1yfxf8lhX+8T6k9pTQNOEg4GKUCx487nQAy5/fLYamjursECqhtcbecpNxl7/xP26AwYrXOcy41gpSiUo4FC9JqypnGK34H/gRWqpBYYZpfay15hA+cIx2EHB40r7bB4YMFfsUQAC4SGKvtsqMp64D4ABZv87Z+4k4oy+cbSEqxh16x+XGU/29say4bWBIuAWvkkNOn/bRooJB0JWFgLrgBfnw0fMGQwbAhNSlZpFmjNVTKwxHUUqiRrXBtyGshgJ6wY5eSBD5qF7L5kI6YVJY=;u/FEj/evgXyzbZVusWycSQ=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Industrial Machine Vision Lens Market to See Incredible Growth By 2026"
 excerpt: "Industrial Machine Vision Lens Market is predicted to grow with a CAGR of 6.1% over the forecast period by generating a revenue of $9,537.4 million by 2026. Industrial Machine Vision Lens are a form of technology that would allow a computer system to examine,"
 publishedDateTime: 2021-05-07T13:25:00Z
-originalUrl: "https://ksusentinel.com/2021/05/07/industrial-machine-vision-lens-market-to-see-incredible-growth-by-2026/?bingParse"
-webUrl: "https://ksusentinel.com/2021/05/07/industrial-machine-vision-lens-market-to-see-incredible-growth-by-2026/?bingParse"
+originalUrl: "https://ksusentinel.com/2021/05/07/industrial-machine-vision-lens-market-to-see-incredible-growth-by-2026/"
+webUrl: "https://ksusentinel.com/2021/05/07/industrial-machine-vision-lens-market-to-see-incredible-growth-by-2026/"
 type: article
 quality: 24
 heat: -1
@@ -54,6 +54,6 @@ related:
         height: 470
         isCached: true
 
-secured: "nlo687ZAuh3vK6HGNr3lFcfqNWF/G0/7rmCJ7/6KigEkO+vmBDVXa78AXYWBhnD6PcsJ9tsm2b3ETehRCH9dCAxWNu7dbM3P9/w2jYYKkdUrLY10IXIXDLZXlUhSeN+sCup9uG7EqQvdw+6yXpwb+YRMSWjNe1tzj37CmtYJbxPn7ZlEksQAn7IKOAzymkUeIKOHRFeB8bzzNx+WThXBWkb9CFm8X/zCHU2QIrpaDo/H2DVJj3jO4YASa1JbFpZv3RJxYi0fg7ZciuYhBBrhIBjqXspv3FwuGw0Xfc350ST2hlfEi4vMjhWfaIRPtRmvGl/oMeGW3YuETGbN/5zROIs0cwq4+rPzDAONTGmxfT8=;R2tyAUoVQNDQ0hM/O5xASg=="
+secured: "EfQL2pXKHGA8drvFGWLbZ29nyk2y67HYvrMS60hkBrvI8gP6GSCHl1UkVF2v0WPbDyLeqUyGn7eYNmSjuSSpNuMP3mscYlwzM8FQaSGgWn98Vw1XXMtE+Q3vRhlOhelxlJPZ/HIAtLMvZMps8PJaQhG2GKxoIgVKdSNDjTzm5MfUrQoBu6FCqED52VI7TOFHmdmAwL0ETjnkjqngdnR5DB9ziW2geF+s6SnL1yj31irlI9ctZjhXtrWFCD2CBXEbjA1BGuPYxMvZ45D19fqMJOfj2QH0Zw11D/utKQi7QuH5ZvRUDMVFaDCBWAGtUdu7YlnXC4yrc9bom/9yT62cn3s9Pn/+hDbRU5/9l9BOsA8=;NT0XZvFZkebX1j8gZ1miFg=="
 ---
 

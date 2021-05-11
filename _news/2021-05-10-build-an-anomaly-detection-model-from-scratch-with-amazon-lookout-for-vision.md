@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-anomaly-det
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-anomaly-detection-model-from-scratch-with-amazon-lookout-for-vision/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Perform batch fraud predictions with Amazon Fraud Detector without writing code or integrating an API"
-    excerpt: "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Unlike general-purpose machine learning (ML) packages, Amazon Fraud Detector is designed specifically to detect fraud."
-    publishedDateTime: 2021-05-06T16:12:38Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/perform-batch-fraud-predictions-with-amazon-fraud-detector-without-writing-code-or-integrating-an-api/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 59
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
   - title: "Global Emotion Detection and Recognition Market (2020 to 2026) - by Component, Technology, Application Area, End-user, Vertical and Region - ResearchA"
     excerpt: "In the post-COVID-19 scenario, the global emotion detection and recognition market size is projected to grow from USD 19.5 billion in 2020 to USD 37.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 11."
     publishedDateTime: 2021-05-10T16:05:00Z

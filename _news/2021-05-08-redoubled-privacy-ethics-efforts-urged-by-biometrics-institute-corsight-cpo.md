@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voice biometrics partnerships revealed by Aculab, LumenVox"
-    excerpt: "Aculab voice biometric engine, VoiSentry, integrated into the UCHU HUB platform. LumenVox partners with SpinSci on biometric patient engagement solutions."
-    publishedDateTime: 2021-05-06T15:36:00Z
-    webUrl: "https://www.biometricupdate.com/202105/voice-biometrics-partnerships-revealed-by-aculab-lumenvox"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
-        width: 768
-        height: 513
-        isCached: true
   - title: "Sensory announces privacy-focused voice biometric assistant"
     excerpt: "The new, privacy-focused voice biometric assistant runs completely on device to avoid concerns around cloud data storage and processing."
     publishedDateTime: 2021-05-06T19:41:00Z

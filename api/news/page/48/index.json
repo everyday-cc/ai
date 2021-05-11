@@ -2,6 +2,49 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-03-19-artificial-intelligence-chipsets-market-was-valued-usd-298-billion-growing-at-a-cagr-of-307-during-the-forecast-period.md",
+      "title": "Artificial Intelligence Chipsets Market was valued USD 29.8 billion growing at a CAGR of 30.7% during the forecast period.",
+      "excerpt": "Straits Research Market report Provides detailed analysis of the Artificial Intelligence Chipsets market with Top Keyplayers, Product types, Application, geographical regions. Experts have studied the historical data and compared it with the current market situation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-was-valued-usd-298-billion-growing-at-a-cagr-of-307-during-the-forecast-period-2021-03-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-was-valued-usd-298-billion-growing-at-a-cagr-of-307-during-the-forecast-period-2021-03-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-an-inside-look-at-fetchai-the-ambitious-startup-by-former-deepmind-investor.md",
       "title": "An Inside Look At Fetch.ai, The Ambitious Startup By Former DeepMind Investor",
       "excerpt": "Fetch is building out a solution that leverages the best of both blockchain integration and autonomous tech in real-time.",
@@ -905,40 +948,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-raise-robots-and-artificial-intelligence-to-improve-social-skills-for-elementary-students.md",
-      "title": "RAISE: Robots and Artificial Intelligence to Improve Social Skills for Elementary Students",
-      "excerpt": "Project RAISE is a collaborative project between UCP of Central Florida and the University of Central Florida that aims to improve the social skills of students with disabilities by creating a teaching toolkit featuring the Dash™ robot and an AI-driven socially assistive robot,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucf.edu/research/research-project/raise-robots-and-artificial-intelligence-to-improve-social-skills-for-elementary-students/",
-      "originalUrl": "https://www.ucf.edu/research/research-project/raise-robots-and-artificial-intelligence-to-improve-social-skills-for-elementary-students/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UCF Today",
-        "domain": "ucf.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
