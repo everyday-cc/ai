@@ -2,6 +2,117 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-03-14-items-filtered-by-date-march-2021.md",
+      "title": "Items filtered by date: March 2021",
+      "excerpt": "At present, Sunrise is rapidly deploying 5G networks for 150 cities/villages in Switzerland, which will be released in March this year. 5G will further enhance the user experience of Sunrise network,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/date?limit=3&limitstart=4536",
+      "originalUrl": "https://www.thefastmode.com/date?limit=3&limitstart=4536",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-13T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-what-facial-recognition-and-the-racist-pseudoscience-of-phrenology-have-in-common.md",
+      "title": "What facial recognition and the racist pseudoscience of phrenology have in common",
+      "excerpt": "Technology commentators have panned these facial-recognition technologies as ‘literal phrenology’; they’ve also linked it to eugenics, the pseudoscience of improving the human race by ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-13T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-facebooks-computer-vision-system-supervises-its-own-learning-process.md",
+      "title": "Facebook’s computer vision system supervises its own learning process",
+      "excerpt": "Facebook AI researchers wrote in a blog that they have developed SEER (SElf-supERvised). This is one-of-a-kind billion-parameter self-supervised computer vision model. This model has all the potential to learn from any random group of images on the internet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/facebooks-computer-vision-system-supervises-its-own-learning-process/",
+      "originalUrl": "https://www.analyticsinsight.net/facebooks-computer-vision-system-supervises-its-own-learning-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-13T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-google-might-ask-questions-about-ai-ethics-but-it-doesnt-want-answers.md",
       "title": "Google might ask questions about AI ethics, but it doesn't want answers",
       "excerpt": "Gebru and Mitchell were both leading members of Google’s Ethical AI team. In other words ... highlighted the extent to which the tech industry’s recent obsession with “ethics” is such a manipulative fraud. As the industry’s feeding frenzy ...",
@@ -1005,137 +1116,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-microsoft-seeing-ai-imagining-a-new-use-for-computer-vision.md",
-      "title": "Microsoft 'Seeing AI': Imagining a New Use for Computer Vision",
-      "excerpt": "A Microsoft Research project is expanding the capabilities of computer vision systems to help visually impaired users navigate everyday tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://redmondmag.com/articles/2021/03/12/microsoft-seeing-ai.aspx",
-      "originalUrl": "https://redmondmag.com/articles/2021/03/12/microsoft-seeing-ai.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MSSeeingAIbig.jpg",
-          "width": 1665,
-          "height": 1158,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Magazine",
-        "domain": "redmondmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-baidu-to-build-intelligent-driving-project-in-chengdu.md",
-      "title": "Baidu to build intelligent-driving project in Chengdu",
-      "excerpt": "Under the 105 million yuan ($16 million) deal, Baidu will develop 30 kilometers of intelligent connected roads, build a 5G-based intelligent connected vehicle demonstration zone, and provide self-driving bus and taxi services to local residents ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/china/baidu-build-intelligent-driving-project-chengdu",
-      "originalUrl": "https://www.autonews.com/china/baidu-build-intelligent-driving-project-chengdu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Baidu%20Apollo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-nuport-robotics-to-conduct-self-driving-middle-mile-truck-project.md",
-      "title": "NuPort Robotics to conduct self-driving middle-mile truck project",
-      "excerpt": "During the two-year project, artificial intelligence technology from NuPort will be used in two retrofitted conventional semi-tractor trailers with sensors and controls. Source: NuPort Canadian autonomous trucking startup NuPort Robotics Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://insights.globalspec.com/article/16158/nuport-robotics-to-conduct-self-driving-middle-mile-truck-project",
-      "originalUrl": "https://insights.globalspec.com/article/16158/nuport-robotics-to-conduct-self-driving-middle-mile-truck-project",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insights.globalspec.com/images/assets/158/16158/Canadian_Tire.jpg",
-          "width": 752,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T05:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering360 News",
-        "domain": "globalspec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

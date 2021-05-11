@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21050171/wimi-hologram-c
 ampWebUrl: "https://amp.benzinga.com/amp/content/21050171"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21050171"
 type: article
-quality: 8
-heat: 8
+quality: 10
+heat: 10
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Finance
 
 related:
   - title: "WIMI Hologram Cloud Applies AR and AI Technology to Autonomous Car Driving, and the Holographic Smart Cockpit Makes Sci-Fi Movies Come True"

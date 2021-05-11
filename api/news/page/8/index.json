@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-03-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
+      "title": "Baidu rolls out paid driverless taxi service in Beijing",
+      "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html",
+      "originalUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/baidu-rolls-out-paid-d.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp",
+      "publishedDateTime": "2021-05-02T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-02-driverless-taxi-service-rolls-out-in-beijing.md",
+      "title": "Driverless taxi service rolls out in Beijing",
+      "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing",
+      "originalUrl": "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2021/05/932/470/driverless-taxis.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing.amp",
+      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing.amp",
+      "publishedDateTime": "2021-05-02T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 5 NY",
+        "domain": "fox5ny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-02-this-new-robotics-challenge-could-bring-us-closer-to-human-level-ai.md",
       "title": "This new robotics challenge could bring us closer to human-level AI",
       "excerpt": "Developing robots that can physically sense the world and interact with their environment is the realm of embodied artificial intelligence, one of the long-sought goals of AI scientists.",
@@ -98,11 +184,11 @@
     },
     {
       "path": "_news/2021-05-02-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing",
-      "excerpt": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding experience.",
+      "title": "Baidu rolls out paid driverless taxi service in Beijing",
+      "excerpt": "BEIJING - Chinese tech giant Baidu rolled out its paid driverless taxi service on ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
-      "originalUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
+      "webUrl": "https://www.thestar.com/news/world/asia/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing.html",
+      "originalUrl": "https://www.thestar.com/news/world/asia/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -112,21 +198,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-02T06:15:00-07:00",
+      "publishedDateTime": "2021-05-02T07:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Star",
+        "domain": "thestar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1116,110 +1193,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-ibm-is-acquiring-turbonomic-to-advance-aiops-agenda.md",
-      "title": "IBM is acquiring Turbonomic to advance AIOps agenda",
-      "excerpt": "IBM is acquiring Turbonomic to extend the scope of its AIOps portfolio. This follows a series of acquisitions over the last several months.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/",
-      "originalUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Turbonomic8-intuitiveUX.gif?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/",
-      "publishedDateTime": "2021-04-30T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-elon-musk-shares-painfully-obvious-idea-about-the-difficulty-of-self-driving-cars.md",
-      "title": "Elon Musk Shares Painfully Obvious Idea About the Difficulty of Self-Driving Cars",
-      "excerpt": "Elon Musk, one of the wealthiest people on the planet, sent a tweet Thursday night about the real problem with self-driving cars. And as you can probably guess by now, it’s one of those things that sounds profound until you stop to think about it for three seconds.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236",
-      "originalUrl": "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/22f3a11838a74d9511c1a95958c0284f.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp",
-      "publishedDateTime": "2021-04-30T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

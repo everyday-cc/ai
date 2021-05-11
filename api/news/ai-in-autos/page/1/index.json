@@ -987,11 +987,11 @@
     },
     {
       "path": "_news/2021-05-02-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing",
-      "excerpt": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding experience.",
+      "title": "Baidu rolls out paid driverless taxi service in Beijing",
+      "excerpt": "BEIJING - Chinese tech giant Baidu rolled out its paid driverless taxi service on ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
-      "originalUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
+      "webUrl": "https://www.thestar.com/news/world/asia/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing.html",
+      "originalUrl": "https://www.thestar.com/news/world/asia/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1001,21 +1001,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-02T06:15:00-07:00",
+      "publishedDateTime": "2021-05-02T07:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Star",
+        "domain": "thestar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

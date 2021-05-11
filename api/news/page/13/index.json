@@ -2,6 +2,151 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-28-legal-management-startup-clio-nabs-110m-to-expand-its-platform.md",
+      "title": "Legal management startup Clio nabs $110M to expand its platform",
+      "excerpt": "Clio, a legal management startup founded in 2007, has raised $110 million, valuing the company at $1.6 billion post-money.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/27/legal-management-startup-clio-nabs-110m-to-expand-its-platform/",
+      "originalUrl": "https://venturebeat.com/2021/04/27/legal-management-startup-clio-nabs-110m-to-expand-its-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/ba9f7ef0-e3bb-44dd-b5e3-683b58150177-e1619131884575.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/27/legal-management-startup-clio-nabs-110m-to-expand-its-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/legal-management-startup-clio-nabs-110m-to-expand-its-platform/amp/",
+      "publishedDateTime": "2021-04-27T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-red-hat-open-sources-trustyai-an-auditing-tool-for-ai-decision-systems.md",
+      "title": "Red Hat open-sources TrustyAI, an auditing tool for AI decision systems",
+      "excerpt": "Red Hat open-sourced TrustyAI, a toolkit for auditing AI decision-making systems, particularly in enterprise environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/27/red-hat-open-sources-trustyai-an-auditing-tool-for-ai-decision-systems/",
+      "originalUrl": "https://venturebeat.com/2021/04/27/red-hat-open-sources-trustyai-an-auditing-tool-for-ai-decision-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/27/red-hat-open-sources-trustyai-an-auditing-tool-for-ai-decision-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/red-hat-open-sources-trustyai-an-auditing-tool-for-ai-decision-systems/amp/",
+      "publishedDateTime": "2021-04-27T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-meet-amy-the-ai-meme-generators-using-deep-learning.md",
+      "title": "Meet AMY: The AI meme generators using deep learning",
+      "excerpt": "It has been architectured to analyze information and produce humor. It solves problems that would be impossible or difficult by human or statistical standards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/",
+      "originalUrl": "https://www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/web-4861609_640.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/meet-amy-ai-meme-generators-using-deep-learning/amp/",
+      "publishedDateTime": "2021-04-27T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-aws-deepracer-device-software-now-open-source.md",
       "title": "AWS DeepRacer device software now open source",
       "excerpt": "AWS DeepRacer is the fastest way to get started with machine learning (ML). You can train reinforcement learning (RL) models by using a 1/18th scale autonomous vehicle in a cloud-based virtual simulator and compete for prizes and glory in the global AWS DeepRacer League. Today, we’re expanding AWS DeepRacer’s",
@@ -97,6 +242,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-27-capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages.md",
+      "title": "CAPQ™ System: The Only Deep Learning/AI Vision Inspection System for Bottled Beverages",
+      "excerpt": "The CAPQTM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level inspection. The CAPQ System uses AI-powered deep learning software to recognize what a “good” capped bottle is supposed to look like and can deliver a dramatic reduction in false-rejects,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-0ad23bda3c6fe8d1ad435b37491214de",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-language-learning-startup-toucan-raises-45m.md",
       "title": "Language learning startup Toucan raises $4.5M",
       "excerpt": "Toucan, a startup that helps users learn a new language while they browse the web, is announcing that it has raised an additional $4.5 million in seed funding. As I wrote last fall, the Santa Monica,",
@@ -145,49 +333,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages.md",
-      "title": "CAPQ™ System: The Only Deep Learning/AI Vision Inspection System for Bottled Beverages",
-      "excerpt": "FISHERS, Ind., April 27, 2021 /PRNewswire/ -- The CAPQ TM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages-301277179.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages-301277179.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1496689/Verista_horiz_full_color_Logo.jpg?p=facebook",
-          "width": 2503,
-          "height": 1312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -479,6 +624,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-27-xnfy-lab-announce-the-launch-of-an-ai-generated-fashion.md",
+      "title": "XNFY Lab Announce the Launch of an AI Generated Fashion",
+      "excerpt": "A powerful and adaptable technology to revolutionize digital brand content and start a new era in the upcycling of garmentsVIANA DO CASTELO,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030349863",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030349863",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-toyota-acquires-lyfts-self-driving-unit-for-550-million.md",
       "title": "Toyota acquires Lyft's self-driving unit for $550 million",
       "excerpt": "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlights the Japanese automaker’s ambitions in that technology",
@@ -613,49 +801,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-xnfy-lab-announce-the-launch-of-an-ai-generated-fashion.md",
-      "title": "XNFY Lab Announce the Launch of an AI Generated Fashion",
-      "excerpt": "A powerful and adaptable technology to revolutionize digital brand content and start a new era in the upcycling of garmentsVIANA DO CASTELO,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030347886",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/xnfy-lab-announce-the-launch-of-an-ai-generated-fashion-1030347886",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1055,144 +1200,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-9-healthcare-ai-companies-to-watch-in-2021-per-forbes.md",
-      "title": "9 healthcare AI companies to watch in 2021, per Forbes",
-      "excerpt": "Pharmaceutical startup Verge Genomics and clinical trial matchmaker Komodo Health are among nine healthcare companies recognized by Forbes for their artificial intelligence capabilities. For its AI 50: Top AI Companies to Watch in 2021 list,",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/9-healthcare-ai-companies-to-watch-in-2021-per-forbes.html",
-      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/9-healthcare-ai-companies-to-watch-in-2021-per-forbes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and-3d-reconstruction-technologies.md",
-      "title": "Inpixon Enters Rapidly Growing Mobile Augmented Reality Market with Acquisition of AR, Computer Vision and 3D Reconstruction Technologies",
-      "excerpt": "April 26, 2021 /PRNewswire/ -- Inpixon (Nasdaq: INPX), the Indoor Intelligence™ company, today announced the acquisition of a suite of augmented reality (AR), computer vision, localization ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and/article_e539a97e-610b-56d5-a445-250c4715d9aa.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/inpixon-enters-rapidly-growing-mobile-augmented-reality-market-with-acquisition-of-ar-computer-vision-and/article_e539a97e-610b-56d5-a445-250c4715d9aa.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/14/814cb6da-7b5a-58cd-b155-8088ec494826/6086c0903284d.image.jpg?resize=887%2C478",
-          "width": 887,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m.md",
-      "title": "Lyft sells self-driving unit to Toyota’s Woven Planet for $550M",
-      "excerpt": "Ride-hailing company Lyft has sold off its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million, the latest in a string of acquisitions spurred by the cost and lengthy timelines to commercialize autonomous vehicle technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
-      "originalUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 374,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024",
-          "width": 1024,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/amp/",
-      "publishedDateTime": "2021-04-26T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

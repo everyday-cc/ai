@@ -55,20 +55,6 @@ related:
         width: 750
         height: 600
         isCached: true
-  - title: "IBM Unveils World’s First 2 Nanometer Chip Technology, Opening a New Frontier for Semiconductors"
-    excerpt: "IBM (NYSE: IBM) today unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
-    publishedDateTime: 2021-05-06T10:11:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-f792d8ab208a181a00d1b2a331d01536/gallery/7943a4d2b82e382ae69451a48f5f465f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "OZn+ypAwmIvvGBhJ77E194gTunihi92QGjEtvIf4kluJXM9D9XZZxCvu1ftvNRB5kmV2an+q5zKPNcQoXNhnmCn2+dATp4muS55LHyqEl6KMrSCC0srhg/fN2K2myVpsB4e2ihhAGv3WC/a6W2UqG86ZLWk/S5JCznhho0X+3V4cDjn3/CimnrLpgVSl+lzkif7qOqsZilrA9eEyeJNEP0PMDmtifWmyAhjArJ5T7lQgBEFj1HXcjMzLks5UcgsTmPbR7vYlGK/wiaTYrKdaOg8vJcsRMvMJ16f/Q83thRrQqQ1mZU4EQ3O5avjfk/mLrzLZiUULIlziJjdPrHakshzvxILoDftvyV19aAN1l6DDSziJ+QpNOycKh2N0B2sQWyN3t4Tzu9QqIevPGUEEOr3mBZ8pxORM4BSZmWd0cLHIrF/U04jnKhgO3qjaFJ7CjOg3i0w2y1nN/BA+snaSroU5RP7JHz2O0GBBRCIUPJEtcAYKVrJhcs5izXTpKcmIvQ7vq4+QVSgk8mQBcSu0EA==;qMlhnGCb7ceaA739QsqrYA=="
 ---

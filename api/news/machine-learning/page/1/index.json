@@ -846,6 +846,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-03-capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages.md",
+      "title": "CAPQ™ System: The Only Deep Learning/AI Vision Inspection System for Bottled Beverages",
+      "excerpt": "FISHERS, Ind., April 27, 2021 /PRNewswire/ -- The CAPQ TM System from Verista is the only vision inspection system to leverage deep learning/AI for beverage bottle cap integrity and fill-level ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages-301277179.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/capq-system-the-only-deep-learningai-vision-inspection-system-for-bottled-beverages-301277179.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1496689/Verista_horiz_full_color_Logo.jpg?p=facebook",
+          "width": 2503,
+          "height": 1312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-3-big-myths-of-ai-and-machine-learning-debunked.md",
       "title": "3 Big Myths Of AI And Machine Learning Debunked",
       "excerpt": "Artificial Intelligence and machine learning can give your business decision-making processes a massive upgrade. Here’s what you really need to know.",
@@ -1418,50 +1461,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-icici-bank-is-betting-big-on-artificial-intelligence-machine-learning.md",
-      "title": "ICICI Bank is betting big on Artificial Intelligence, Machine Learning",
-      "excerpt": "AI and MLhave reduced internal costs for ICICI Bank and has driven its deposit business and new customer acquisition",
-      "sourceUrl": null,
-      "webUrl": "https://www.medianama.com/2021/04/223-icici-bank-benefits-ai-ml/",
-      "originalUrl": "https://www.medianama.com/2021/04/223-icici-bank-benefits-ai-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medianama.com/wp-content/uploads/2020/07/network-782707.png.png",
-          "width": 1920,
-          "height": 1249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaNama",
-        "domain": "medianama.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

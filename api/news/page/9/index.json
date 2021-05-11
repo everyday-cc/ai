@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-30-ibm-is-acquiring-turbonomic-to-advance-aiops-agenda.md",
+      "title": "IBM is acquiring Turbonomic to advance AIOps agenda",
+      "excerpt": "IBM is acquiring Turbonomic to extend the scope of its AIOps portfolio. This follows a series of acquisitions over the last several months.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/",
+      "originalUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Turbonomic8-intuitiveUX.gif?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/",
+      "publishedDateTime": "2021-04-30T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-elon-musk-shares-painfully-obvious-idea-about-the-difficulty-of-self-driving-cars.md",
+      "title": "Elon Musk Shares Painfully Obvious Idea About the Difficulty of Self-Driving Cars",
+      "excerpt": "Elon Musk, one of the wealthiest people on the planet, sent a tweet Thursday night about the real problem with self-driving cars. And as you can probably guess by now, it’s one of those things that sounds profound until you stop to think about it for three seconds.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236",
+      "originalUrl": "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/22f3a11838a74d9511c1a95958c0284f.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/elon-musk-shares-painfully-obvious-idea-about-the-diffi-1846795236/amp",
+      "publishedDateTime": "2021-04-30T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-computer-vision-inches-toward-common-sense-with-facebooks-latest-research.md",
       "title": "Computer vision inches toward ‘common sense’ with Facebook’s latest research",
       "excerpt": "Machine learning is capable of doing all sorts of things as long as you have the data to teach it how. That’s not always easy, and researchers are always looking for a way to add a bit of “common sense” to AI so you don’t have to show it 500 pictures of a cat before",
@@ -1128,102 +1232,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-false-facial-recognition-sends-innocent-new-jersey-man-to-jail.md",
-      "title": "False facial recognition sends innocent New Jersey man to jail",
-      "excerpt": "New Jersey police arrested an innocent man on unlawful possession of a weapon, resisting arrest and aggravated assault charges after he was falsely identified by facial recognition technology. Law enforcement agencies across the country use facial recognition to generate leads on suspects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.hawaiinewsnow.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/",
-      "originalUrl": "https://www.hawaiinewsnow.com/2021/04/29/false-facial-recognition-sends-innocent-new-jersey-man-jail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hawaiinewsnow.com/resizer/dsT2tZFq-p_DtjHazt32fMeHKW8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/QL4J4YECSVAM7FAVPWSW7YJNW4.PNG",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHNL",
-        "domain": "hawaiinewsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-google-led-paper-pushes-back-against-claims-of-ai-inefficiency.md",
-      "title": "Google-led paper pushes back against claims of AI inefficiency",
-      "excerpt": "In a newly released paper, Google pushes back against the notion that training AI models significantly harms the environment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/",
-      "originalUrl": "https://venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/amp/",
-      "publishedDateTime": "2021-04-29T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing"
       ]
     }
   ],
