@@ -641,19 +641,19 @@
     {
       "path": "_news/2021-05-04-miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens.md",
       "title": "Miso Robotics Announces CookRight Software as a Standalone Offering to Increase Accuracy in Kitchens",
-      "excerpt": "Today, Miso Robotics – the startup transforming the foodservice industry with intelligent automation – announced the release of its standalone software as a",
+      "excerpt": "Today, Miso Robotics – the startup transforming the foodservice industry with intelligent automation – announced the release of its standalone software as a service (SaaS) offering, CookRight. Packed with expanded cooking capabilities and accessible through an affordable subscription model,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens/article_1ffbca56-5406-5ea2-9423-9a9a7f6ca7d5.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens/article_1ffbca56-5406-5ea2-9423-9a9a7f6ca7d5.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens-1030382938",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-cookright-software-as-a-standalone-offering-to-increase-accuracy-in-kitchens-1030382938",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/4e/44eb355c-40ff-56ac-b00d-5da75281aa7b/60910d448ac2a.image.jpg?resize=732%2C630",
-          "width": 732,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1502396/3E5A4244.jpg",
+          "width": 400,
+          "height": 344,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -663,12 +663,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T02:00:00-07:00",
+      "publishedDateTime": "2021-05-04T02:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

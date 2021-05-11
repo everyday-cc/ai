@@ -3,8 +3,8 @@ category: news
 title: "Autonomous Driving Startup Pony.ai Will Use Lidar Sensors From Luminar for its Next-Gen Robotaxi Vehicles"
 excerpt: "Autonomous driving startup Pony.ai announced its newly designed perception platform in collaboration with Volvo-backed Luminar Technologies. The next-generation fleet of self-driving Pony.ai robotaxi vehicles will integrate Luminar’s new Iris lidar sensor."
 publishedDateTime: 2021-05-10T21:00:00Z
-originalUrl: "https://www.futurecar.com/4607/Autonomous-Driving-Startup-Pony.ai-Will-Use-Lidar-Sensors-From-Luminar-for-its-Next-Gen-Robotaxi-Vehicles-"
-webUrl: "https://www.futurecar.com/4607/Autonomous-Driving-Startup-Pony.ai-Will-Use-Lidar-Sensors-From-Luminar-for-its-Next-Gen-Robotaxi-Vehicles-"
+originalUrl: "https://www.futurecar.com/4607/Autonomous-Driving-Startup-Ponyai-Will-Use-Lidar-Sensors-From-Luminar-for-its-Next-Gen-Robotaxi-Vehicles"
+webUrl: "https://www.futurecar.com/4607/Autonomous-Driving-Startup-Ponyai-Will-Use-Lidar-Sensors-From-Luminar-for-its-Next-Gen-Robotaxi-Vehicles"
 type: article
 quality: 20
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 678
         isCached: true
 
-secured: "YLd/zvSpVPQ9ct74r25Yshej+m90NIv9ZLOu7GHwStOAJvMpEanEqFTWjHV8GzDTZKoEK3eAmqplnPclLo8YKFoVmKfrzjKh1TpCNOIANiEYhEYo4dmDwHxVzj/u5HxHwLBvvjar5qXkl5jCSPr8Hq8dgz4J4SxuL8bbjgGeJX6oYwLBmJHlL4rokQQv56kGtngDuInzQByQa7CInTWLX2kJ7tK9QoTefsooV5H8jHXtIqjvpmcAHtVFrJSrQCPKEkd/fBZS4WF8RDuow+nbRSbWsSvILNbmUha9mLJxhC99455YBPwWqBSM0Cy2IQbNIJW/D1cUvifgJ3e79OrFIJ95j+WgZTwsqk0GbZuxiuwTA/oVZLUcS4my8Lqj41cBsmFcZXqG7a3abP2Qvut4jb5lXHU/w7ymFY+TVNZGBz7sKEM345I1kaDzKPr6UyoAvN2mMsrSkuPHLdCp+w1oRv3OY+O1WVNhBdf8F4uR8cvBv7eSopyqM3SBJvqLlZG9FIdUR+M1SWd5gj2laVVOFw==;J241vqUcSrKuveJXdD1OfQ=="
+secured: "rEp4lyZwU0AnFT9EiRD3SOz7oD4E1w3ry83v00ZTU0wol1sQAP/Bk+KuSoSQVs7/3ljEsqH/2WC3QHN5uFlvoVXmA6cy18lwC2kvJ1cz+R814bP3NFoRi7jQwKIr7VyeQFq6OSk4SqPLx47RmGtAktVxIgBcn5IB1rCBngWcwAWqy8fqaNJI6OjKE1X6HIH7oUjrGAxhoodrnNSTRMYm9kQjfYjuHuwLGLtOCVZ8GmkYDnH2aYvPi+eWHIsVD0DbyevcDERiZknn/x1uefTIkgENtuasp9msVR6RKeTVHr+NmtGR4ubW2zy1Ds2GLh1LAzfbkI09Yzt27YTQmIh0fZC910dCcwmrZNaH/ug1+mA=;zfAYJmc8Xv1ReUb1OYtnjw=="
 ---
 

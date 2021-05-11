@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/why-ai-pro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/10/why-ai-projects-are-failing-at-your-company/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 897
     isCached: true
-
-related:
-  - title: "Answer these three questions before you start planning your company's AI move"
-    excerpt: "Tonya Hall talks to Ritika Gunnar, VP at IBM's AI Expert Labs, about the basic homework organizations must do before entering the world of AI."
-    publishedDateTime: 2021-05-06T13:22:00Z
-    webUrl: "https://www.zdnet.com/video/answer-these-three-questions-before-you-start-planning-your-companys-ai-move/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/05/06/2f56e244-2bb0-4a9d-8659-f0a9b8863873/thumbnail/770x578/cc1b5aae1afefd21bc352189c5e12367/thumb.jpg"
-        width: 770
-        height: 578
-        isCached: true
 
 secured: "nki4OObhKI0DNy73kDZUGdBSJxHMe0cisISx9JhcZVQpLc8tNiPvVOd7EdvBemcpRDr92aFPJQUnFoM8OL+Qw3Tcno1YQRhMT0fYCfYNjQOej1yxzlrrr1pYhC5GXB6965xK330zdFTaNIX+RRJq6I6GJD+/nMObdo5Iew3nfi5mrSSune3LNw4/Dy9i8DVACpoGGRs28j+QE3MgUc45TggrY0j0IOZrvnL9HPfOjdfIs2qH3bfLXRL3Z8RZLbj/M2uFx/J7E1X/RGFC/qlrklzSXn4Z+ir69LR8xH/EmXb0xfp418xwAv3Z1SsHcvUGov4OB25jC50FY41yBWR72K3BkYQalutJRRG1dcnJDSGcXb987e9H0aLOi5KuU20tQMaLkp403cwbzJWjUa2eokmeV+bKwFnFtLCh+nV7a1UbNHDoBmkoI/j+zXC6WCMEvYOyG4S45gwma1bVIMRiifmDEsYVWhe2avrxBXwT/x7d0zQ4I6ldwEjmZ2nIypxnToFA0VSUe+8mELCPlSNFKw==;0BaZNYfSlAFcaEOc1OuhLQ=="
 ---

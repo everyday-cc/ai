@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI in Drug Discovery Market Size Worth $4.05 Billion By 2028 | CAGR: 28.3%: Polaris Market Research"
+    excerpt: "The global artificial intelligence (AI) in the drug discovery market was valued at USD 571.1 million in 2020 and is expected to reach USD 4.05 billion by 2028 to grow at a CAGR of 28.3% during the forecast period [2021-2028]."
+    publishedDateTime: 2021-05-11T07:39:00Z
+    webUrl: "https://www.medgadget.com/2021/05/global-ai-in-drug-discovery-market-size-worth-4-05-billion-by-2028-cagr-28-3-polaris-market-research.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 3
 
 secured: "ed1gBsrcsiVkCD+O79QSROQmZXCD3ckuKaW++W0GB26C/Z4txQN26RaGJyuNHAM3WQnUuDxAXM1oIzA5K7gq2z2DbqAUo5AsUO1z6kkt0h4vaK/kg6LAjDxwv8oPnp2SQQGQtGOMcVOQy2EySi4Fgy/VWJAW60HGAMJDhOWPmlYXCL9o08UvJFjjwOOAk63EGNSb1oBtj9d5Q51Cp6P481woDulfunqm+vxObEK6hhdvaJUHo4einmKroNXP7bqHoQceupOUcv1Z6T4IXp4iqQlyaBFIA1cwFeMHtYkgpCZQFPg/EuMXGwCWVlwkOpXnZuQgjFDLW1c4GE5YNbFUtbhOikZoSTc4C83P+DdmyTuzcZFI/OxrCBkRxQqvLWLLX7w+ZqbDGJbAOcJ0L2VZIlgWneXfHDRL1wbU+9II9eOKO0rPc8pTzehSvXYinDVWG4AIBVJQP67q/z075Y9kl7e+itMqrluVOjHnA+mKNOYP/ABwjo2C4xAL2od4xtGBrfDLttWi8hnFwferW6iUpA==;tUB2tbQlawqNuzErVG8baA=="
 ---

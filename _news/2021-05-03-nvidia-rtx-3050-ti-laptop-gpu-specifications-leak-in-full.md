@@ -3,14 +3,11 @@ category: news
 title: "Nvidia RTX 3050 Ti laptop GPU specifications leak in full"
 excerpt: "Full specifications for Nvidia’s upcoming RTX 3050 Ti mobile graphics card have allegedly shown up in the GPU-Z database ahead of its rumored launch later this month. As reported by Videocardz, somebody anonymously submitted specs for the so-called Nvidia RTX 3050 Ti to the GPU-Z validation database,"
 publishedDateTime: 2021-05-03T16:22:00Z
-originalUrl: "https://www.techradar.com/nz/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
-webUrl: "https://www.techradar.com/nz/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
+originalUrl: "https://www.techradar.com/uk/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
+webUrl: "https://www.techradar.com/uk/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/nvidia-rtx-3050-ti-laptop-gpu-specifications-leak-in-full"
 type: article
-quality: 89
-heat: 99
-published: true
 
 provider:
   name: TechRadar
@@ -30,22 +27,6 @@ images:
     height: 270
     isCached: true
 
-related:
-  - title: "Nvidia RTX 3050 Ti Mobile GPU Specs Massively Leaked"
-    excerpt: "The Nvidia RTX GeForce 3050 Ti is the rumored entry-level mobile graphics card anticipated to be available in affordable devices."
-    publishedDateTime: 2021-05-05T10:30:00Z
-    webUrl: "https://www.ibtimes.com/nvidia-rtx-3050-ti-mobile-gpu-specs-massively-leaked-3193324"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/14/geforce-rtx-30-series-laptops-ultimate-play_0.png"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "UD6C6CtqRiU+iOWEZQkpeqs9HJxF6kE2IaYvHjHEDc2EiBwnwOBNpaQcJRboVtC7riEYNcoNZkz4TkB1ygEWlKWCPp/3sEzMxOq+48g0v0buLMepvjQxahoBQT4vfNycIApszaAW6gitUFObfbcRj1rfhCQ/oJKHs3lq9OKgHr41DUYz+B2Nkxm6CYosboI/b9wHLyKJn6diM6dLMJezr/LVRrvj1uqJXXUxaJojsgZxN7hhbPD2SKgh5zHCbGJ9NWTPhIZb2f5K3TPVcLtNJoQ7x1RCPy4knChP5L5W3Jxf4ipfGXJTJV5xcUxl5Cf0q32EWXiCLwyWuH8x36E7kEYGkaq6XnAtDdS5LPRTYBM=;KiWD9wkJZkNLAOuVy961eA=="
+secured: "itjxspefCIn6dNVkCjxtNHQ8JqzDAli5sEmTQNRfhLypDz8OB0x0XcejNQp54z+eeS98MesRpMQobQNzPi5QiRpWqGEypHfASWmzlAthLnzSBvIBBMAPQHXzn7goQ0us4Wx0/R/r19vc2/VBjO7iqRWBWRvCv1CZFZum4eEXdAl8FMZB/0m189EB2jl0/K/+/t8plfkcoeg1qFuYwa4jU9C8fcZ0RhSvXAjn1AuQ0ha9jFmubTVK6bYFsyhg40yMnTpcDkX2Kr5+uIUtQ6EWSO/xrlx+4WgnHCK5KAQOB8ikYK0CBEf6nzHJ2Loe00P9rOg57Kkyyjq1fE4NhGRNDRlMMjk/DdPHkcjmzWyCeAo=;JO0cqHpzFWhtkxxLgtWipg=="
 ---
 

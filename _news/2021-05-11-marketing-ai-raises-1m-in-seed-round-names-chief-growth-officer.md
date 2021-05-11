@@ -33,6 +33,20 @@ related:
         width: 950
         height: 1267
         isCached: true
+  - title: "Nimble Raises $10M In Seed Funding For Its Robot Manicure Startup"
+    excerpt: "Nimble is said to be the world's first device that uses artificial intelligence to self-paint and dry nails in 10 minutes per hand."
+    publishedDateTime: 2021-05-11T06:42:00Z
+    webUrl: "https://nocamels.com/2021/05/nimble-robot-manicure-nails-startup/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 54
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/BPX_4690_1.jpg"
+        width: 1024
+        height: 684
+        isCached: true
 
 secured: "+hZd46t3p4Xi07svyhdsrCB+FGfezHRflTLaGbpqRABn0ob3qlAE6D6KFfxf7GLELInH4rO6F8FYi5yYEbRCLk9K9heXhGi+vZrMnHf4T90mmOj1vm15rvHsxIFHpx3+5XnG+X5ZjNZkGuPyRODWxFHfU/rdBkWrgUYtG3b49qo0v/qq4mikXmUFtFdHZX8n/89XFkuBXyxXazC4Uw7Occ1N8gvGj8exTWzUPq4FIsJixyPbCY+jjFbHTc97Cm9nDES9nEpvVyXmaGyQ00lQ9rYFFmQcUihTYGDqZ5MC2l7YP6zwSgIKerw43sPgjGGoTZyffLCoCzU0TrKAFM8gpYA1FMF+nmygUlF5vzwEps7OLLE1Vg57WFVLEC5DsPjzJW68m/RIJlHJxi6vAZwhcA4gfd9yHIJP0J3tnDEuGrGko3NwFUJyUAhEVlRPemnmLn4eAj3os/6FCQUmoNgVM7QUsM8Wtwq8xHD6Q60W9I9b6KHXFPbwdHgVYSp6viLCITyU56E5TLT2wCi4vfjhug==;hcjI+EO+4e/3+qxwrDxlWQ=="
 ---

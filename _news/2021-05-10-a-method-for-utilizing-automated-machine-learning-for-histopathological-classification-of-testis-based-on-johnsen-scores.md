@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Male infertility scoring using AI-assisted image classification requiring no programming"
-    excerpt: "A research group led by Dr. Hideyuki Kobayashi at Toho University Omori Medical Center in Tokyo developed an AI-assisted image classifier that provides scores for histological testis images of patients with azoospermia."
-    publishedDateTime: 2021-05-10T11:42:00Z
-    webUrl: "https://medicalxpress.com/news/2021-05-male-infertility-scoring-ai-assisted-image.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-05-male-infertility-scoring-ai-assisted-image.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-male-infertility-scoring-ai-assisted-image.amp"
+  - title: "Automated machine learning predicts male infertility based on Johnsen score"
+    excerpt: "Infertility affects females and males equally. In male infertility, azoospermia (a medical condition with no sperm in semen) is a major problem that prevents a couple from having a child."
+    publishedDateTime: 2021-05-11T04:44:00Z
+    webUrl: "https://www.news-medical.net/news/20210511/Automated-machine-learning-predicts-male-infertility-based-on-Johnsen-score.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210511/Automated-machine-learning-predicts-male-infertility-based-on-Johnsen-score.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210511/Automated-machine-learning-predicts-male-infertility-based-on-Johnsen-score.aspx"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 48
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/male-infertility-scori-1.jpg"
-        width: 1309
-        height: 715
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/2/Single_sperm_-__Alex_Mit__3cd69c563077408e9de931cbc2316f58-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "e0Y40mqy6X+h9n3CYPRVeRKKRhc9ZvLLBnlH0mjTX/+pDTaia6Vrzv7+rb5yZozwu+Ur5HArl0HiOlRReGDdrdELnYVIQKY7Srwit13EbdblpUsyswSvZTcjrLMkTE7sP52IThISMqKyR7uCweig23Wbo4dAhBh/OD3R8zDxcue7vRKr7YmfWeBr0A8my26Z1tjDyOryNamRtY7sRB6zXg63YIqSBNn7Q1t9aGVHZe3opfY6lL68Dxyi1o+XgAdgC6CMN7PKnI6fBua4x7ql9pbwCGNjyjlncjoXMZ2yNokBIt67bwAROFwAR+UzpbnW7PfHvt5v31//4ueGSxmUUnikep7shEMOllOASODntYyHLTh+WRO+fUZafmhWsoqoSwaClkxoIKn/sdI8tZQsjKpbqFolHlhRGy3Azf5kpFooMtdzgNjJFyc13x+f+wFUApk1KLHSPOXDteJpATjbP/V/eAes8tIzLuOvUdDrQ4R9VUAVg5iFYAl1mQJOY9ImCYqtQzFKMEZL7LDLfmizrg==;/aZ22XZ5E73QND/C89P9nQ=="

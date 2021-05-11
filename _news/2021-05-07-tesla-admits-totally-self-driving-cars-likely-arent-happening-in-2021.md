@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-mu
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-musk-california/"
 type: article
 quality: 89
-heat: 299
+heat: 309
 published: true
 
 provider:
@@ -248,6 +248,20 @@ related:
       - url: "https://cdni.rt.com/files/2021.05/xxl/6095772985f54070963db5e7.JPG"
         width: 1240
         height: 697
+        isCached: true
+  - title: "Tesla Privately Admits ‘Full Self-Driving’ Claims Do Not Match Up To Engineering Reality"
+    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such claims do"
+    publishedDateTime: 2021-05-10T16:12:00Z
+    webUrl: "https://www.techshout.com/general/2021/10/tesla-admits-full-self-driving-claims-do-not-match-up-to-engineering-reality/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 45
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2019/03/tesla-model-3-sedan.jpg"
+        width: 720
+        height: 350
         isCached: true
   - title: "Get ready for self-driving cars"
     excerpt: "Once again, New York City has been bested by a for-hire vehicle operator taking advantage of the city’s laws to their own benefit, flooding our streets with even more non-medallion taxi services at the expense of tens of thousands of medallion owner-operators who played by the rules,"

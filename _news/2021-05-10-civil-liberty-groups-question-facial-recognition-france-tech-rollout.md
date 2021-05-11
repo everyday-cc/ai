@@ -7,7 +7,7 @@ originalUrl: "https://www.connexionfrance.com/French-news/Civil-liberty-groups-q
 webUrl: "https://www.connexionfrance.com/French-news/Civil-liberty-groups-question-facial-recognition-tech-rollout-in-France"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 639
     height: 426
     isCached: true
-
-related:
-  - title: "Blurred lines in face recognition"
-    excerpt: "Face recognition has come on apace from a cliched trope of science fiction to a reality of the modern world with widespread use in photography databases, social media, and the security world. However,"
-    publishedDateTime: 2021-05-06T14:37:00Z
-    webUrl: "https://techxplore.com/news/2021-05-blurred-lines-recognition.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-blurred-lines-recognition.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-blurred-lines-recognition.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/recognition.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "2fWC2e/8K9GB1io7X37nnq8QTbK2IsS5bR+IUlhhEyd/+p+dswDCwGfpws/8dRhpiloec8k6OrdnNDMSMgCIFyRKfTDAUeK30TXjPPfAXAsYmmSX+asl+6c0t6TH7+zZehuitd5dTce0I1P9uh4mmZwTh14drJ9+IpxQhRtqaJ0GLAHH6p9HOXQ+kFbrHIcPX9qeebsZJ/CuG4v6rnzjoyxz3B09bBMmaXc3uRUjzkk9diMwakw0PCljC+smymHiB5rZCSp6gT6bV5rHcURnryvBjICee6wHrO5195MhiwsdqXj07gMEggMgj2Iu2B4P9hTX5H5Tfcfg0zxS5/UyYXJ5T3/qpkU5uGWfgpZe1HIsEiA6BEiNbAxA+IHuWS45jZrhNELgsMxbHzkN/ISdO/9wvDvMRwAbmBmRlaMc629K+VStCjTfVruZKqkaQFFPT1OU6ZYkzHUChsgpnmxHTrI0a3/Xadtviuj0BOFw6gZP2pHNTbbCsQq/AC7N//lsiobk6OmN7mRmrlKcPkUdPw==;UtLsw5qEzmOCeMAObkdnRw=="
 ---

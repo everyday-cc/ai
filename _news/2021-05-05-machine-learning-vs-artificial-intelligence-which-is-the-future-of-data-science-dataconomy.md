@@ -19,6 +19,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Finance
+  - AI Ethics
 
 images:
   - url: "https://dataconomy.com/wp-content/uploads/2021/05/machine-learning-vs-artificial-intelligence-future-data-science.jpg"

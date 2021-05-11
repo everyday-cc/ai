@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "How Artificial Intelligence Is Improving the Energy Efficiency of Buildings"
-    excerpt: "A lot of energy is consumed by buildings. In fact, the Alliance to Save Energy, a nonprofit energy efficiency advocacy group, says buildings account for"
-    publishedDateTime: 2021-05-06T13:54:00Z
-    webUrl: "https://www.powermag.com/how-artificial-intelligence-is-improving-the-energy-efficiency-of-buildings/"
-    type: article
-    provider:
-      name: POWER Magazine
-      domain: powermag.com
-    quality: 35
-    images:
-      - url: "https://www.powermag.com/wp-content/uploads/2017/09/fc_pwr_030120.jpg"
-        width: 300
-        height: 400
-        isCached: true
 
 secured: "givFR6/QyVNHgIfuZXww4NFV2kLdlyhVwp2xJ5/Vn/HXaQEdbxaaCwSGAQy6a3SmEnzYoSJaCOykr+skfcWbkEZjsQfzSm/KFHHmk2SLdrSmh9AACeOgb46nucABA3nnXJufue8v3FuP3Es2cjYXlllTKGUjoetg7YXvYwFqfoVBzQboEWJTvFjDaXryUzssz9T8dfj81OSAaPA/AlmbGMIsNO1jZ29eVBNTfjsmbWLhmkBrXpqNm1g6G6EEWz3xcl/nCa6qrEf9y2Rk7C4ZhHZ+qj6V8smENWOG3u/BCQ+ytQX3JpE0BIl48UKjxaIVW2oNAm9AUsInonGvom6HNHdXaSIefO+etNwS3jc2a9ei1LsNjLkmeMVrFGZZWYZgq+tvNbXzq+mbXgWfMZeG2h/Jhz3ChVZUCC3UWl0MJR7/Wpw+EyXCF4q0bROValGGcYO0/KNqgQ1TJRS45ZxE4VmoZUuiBcCjJlaFOacVnLYRF+OSKvJxki9F7YrPSADISxix/Ho3VnySBCnUZdr9Dw==;alr6VcJv1SZBsqzrvrfzBQ=="
 ---

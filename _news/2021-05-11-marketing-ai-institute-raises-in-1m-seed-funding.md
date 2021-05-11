@@ -7,8 +7,8 @@ originalUrl: "https://www.finsmes.com/2021/05/marketing-ai-institute-raises-in-1
 webUrl: "https://www.finsmes.com/2021/05/marketing-ai-institute-raises-in-1m-seed-funding.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: finsmes.com
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nimble Raises $10M In Seed Funding For Its Robot Manicure Startup"
+    excerpt: "Nimble is said to be the world's first device that uses artificial intelligence to self-paint and dry nails in 10 minutes per hand."
+    publishedDateTime: 2021-05-11T06:42:00Z
+    webUrl: "https://nocamels.com/2021/05/nimble-robot-manicure-nails-startup/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 54
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/05/BPX_4690_1.jpg"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Marketing AI raises $1M in seed round, names chief growth officer"
     excerpt: "Marketing Artificial Intelligence Institute, an online education and conference business focused on AI, has named marketing executive Cathy McPhillips as chief growth officer and raised $1 million in a seed round."
     publishedDateTime: 2021-05-10T19:35:00Z

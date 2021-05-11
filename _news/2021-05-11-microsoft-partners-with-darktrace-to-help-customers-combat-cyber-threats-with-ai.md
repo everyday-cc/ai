@@ -45,6 +45,22 @@ related:
         width: 1000
         height: 679
         isCached: true
+  - title: "Redstor unveils AI and Kubernetes offerings to help Microsoft partners manage customer data"
+    excerpt: "The services are designed to transform the way Microsoft partners manage and protect customer data in Microsoft Azure and Microsoft 365."
+    publishedDateTime: 2021-05-11T06:42:00Z
+    webUrl: "https://www.itweb.co.za/content/8OKdWqDY6NZvbznQ"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWqDY6NZvbznQ"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWqDY6NZvbznQ"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 64
+    images:
+      - url: "https://lh3.googleusercontent.com/IA1yRnwhy5P9oaT-9Z25_9fwc2y3oJ_9lFk0J0nitkKuzCLw_rgLINUdjOCDAYgYh4tVCTA-pkwDeq0-FWKGHpwG4NiJPTiHwLki=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
   - title: "Microsoft eyes to bring AI capabilities to Philippine health sector"
     excerpt: "MICROSOFT Philippines, Inc. is looking to bring conversational artificial intelligence (AI) capabilities to health-care institutions in the country to help them address their patients’ needs, its top official said."
     publishedDateTime: 2021-05-09T15:04:00Z

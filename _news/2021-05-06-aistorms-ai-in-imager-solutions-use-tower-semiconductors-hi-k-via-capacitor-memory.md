@@ -24,17 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "AIStorm’s AI-in-Imager Solutions Use Tower Semiconductor’s Hi-K VIA Capacitor Memory To Enable High-Density Imager, Always-On Processing"
-    excerpt: "AIStorm and Tower Semiconductor announced that AIStorm’s new AI-in-imager products will feature AIStorm’s electron multiplication architecture and Tower’s Hi-K VIA capacitor memory, instead of digital calculations,"
-    publishedDateTime: 2021-05-06T13:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210506005304/en/AIStorm’s-AI-in-Imager-Solutions-Use-Tower-Semiconductor’s-Hi-K-VIA-Capacitor-Memory-To-Enable-High-Density-Imager-Always-On-Processing"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-
 secured: "lWdDTIWfs6wcrWtP9rADTdYQcxpmGuY1rucyKA9CZlvhTv5yZfNAlRQVJOQEjs8MBpuDzgGTsvuOz+KaZyw74WS4zxR/VJTIj8F3/hKl0DKTwqEw+F8mBI04SFwgADVlvmlVf7+4DRHU/pOSoa3fotDTmNk4pPmMCCZxQkIcnoWs2pDnAcqnhSbGSlKGroFMc54rfDq0utf+BbmFSUrHm4qf1bjepRFb1UZkUuZroKmsia5kX63j4jCCHyuzoxXxc07iWA34KszQSdh4Nn3un5VQcAiVkamxb4U4udBnU63RqNPJP3kimHdb6DJRxyFyXgj7Bk5CJWaIFrb29TfFm5fWYKNY8vPF3CZ6qBpj55s=;NxejEbftNEOdEPQsn6XQxw=="
 ---
 

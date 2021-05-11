@@ -55,6 +55,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Redstor unveils AI and Kubernetes offerings to help Microsoft partners manage customer data"
+    excerpt: "The services are designed to transform the way Microsoft partners manage and protect customer data in Microsoft Azure and Microsoft 365."
+    publishedDateTime: 2021-05-11T06:42:00Z
+    webUrl: "https://www.itweb.co.za/content/8OKdWqDY6NZvbznQ"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWqDY6NZvbznQ"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWqDY6NZvbznQ"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 64
+    images:
+      - url: "https://lh3.googleusercontent.com/IA1yRnwhy5P9oaT-9Z25_9fwc2y3oJ_9lFk0J0nitkKuzCLw_rgLINUdjOCDAYgYh4tVCTA-pkwDeq0-FWKGHpwG4NiJPTiHwLki=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
   - title: "Voice Recognition Software Market is Booming Worldwide | Nuance, Microsoft, IBM"
     excerpt: "Latest released the research study on Global Voice Recognition Software Market, offers a detailed overview of the factors influencing the global business scope. Voice Recognition Software Market research report shows the latest market insights,"
     publishedDateTime: 2021-05-08T01:37:00Z

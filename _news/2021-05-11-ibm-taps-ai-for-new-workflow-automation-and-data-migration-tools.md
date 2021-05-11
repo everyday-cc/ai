@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-auto
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,7 +47,21 @@ related:
         width: 925
         height: 611
         isCached: true
+  - title: "At Think conference, IBM puts AI and hybrid cloud to work"
+    excerpt: "IBM Corp. is pushing the envelope on hybrid cloud and artificial intelligence with a number of key announcements early Tuesday ahead of its Think 2021 event, chiefly aimed at accelerating its customer’s digital transformation strategies."
+    publishedDateTime: 2021-05-11T04:01:00Z
+    webUrl: "https://siliconangle.com/2021/05/11/think-conference-ibm-puts-ai-hybrid-cloud-work/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/ibm-768x499.png"
+        width: 768
+        height: 499
+        isCached: true
 
-secured: "8Om7vjDdhTcFFc9ZSBKxSiX5ADuKtQ1P39p77Nir0MJGurrJ0MzqX6sxjDCE9onJoJuRfggbVtcKLhZpPN4LEyZQPuR0ze8upZuiBsfof+NrrklvyfIcaeDzhX3pCbAYFIUjTidQ/ftsYkLSAfFIO42/W5zQfulaWT5G1WJAGnfuNtamRC+aEWgkZl4zUnpXDgOd3OB2ewTdHrSUHAGEcNDxA3CTPkjCo37yXqETPbDRkB6/M4+8TDK1pi/Oic4UUdh2RZv+IcAuBPsKIqkzaW5rKD36ZJDpEGVLIRb92bq3ws84NLcBbbJhyqJCBk9X4YpUagFwmWfA0zUbGBJ2+8hK4EAMUzL4Z4z2A/XK9B0=;D+0m0oSp51EHZl7NQM6IkA=="
+secured: "T69JJSlAIPQUuXgHNzbb/8JHBV/Tsqb2xhFs3EAfBptH1QBmJIbi2g8ugbR/5dpK5o0cBPadYhRbgzMKyrr3vF1ZnxCJEUbYIDrUP20hqmmvrCkgAsntC+qoaWvt72422ZpE6PRW1bTn/zuhPHstJQySPdF+ClGI6bM1mDqkof+F8Q5pGwM/TQyJQNnhj2uaCHbRVlKfH18Yl7FDnm6+aLQCEmYGxWaIPlsGBGwg6N+kZE9BSRIkhF/N87wLWvJzbWSNWvxCGnKjQw3PP0fm9j4p+No5pIvThVRamIUtc4ZX8bL5ncufKTzT3z3mJGKl4+nb9dtcaYoY05jsctbd6IjvM3f5QG4fwox7Vys7jbWOgOR0eu/4gWGatmuob2v5mPh1QcpXBHy75Ky9Uoi2ymQvM2v7H3r2YnSzQJi53zlpjPBLD437jC1BqvBt6Pm0r06hFLKcWED9bhwyAYcgNKL8oditFRDzANDC4dJojMa2q33OXbYqkuuBKOiWj9URiDff2pcKAp4ii8pk3qzvIw==;wch5ldL/L/j3Pd3FFGv7zw=="
 ---
 
