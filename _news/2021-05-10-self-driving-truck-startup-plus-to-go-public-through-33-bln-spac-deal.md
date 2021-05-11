@@ -2,9 +2,9 @@
 category: news
 title: "Self-driving truck startup Plus to go public through $3.3 bln SPAC deal"
 excerpt: "Plus said on Monday it would go public through a merger with blank-check company Hennessy Capital Investment Corp. V HCIC.O in a deal that values the self-driving truck technology startup at $3.3 billion."
-publishedDateTime: 2021-05-10T10:08:00Z
-originalUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10"
-webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10"
+publishedDateTime: 2021-05-10T10:25:00Z
+originalUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10-0"
+webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10-0"
 type: article
 quality: 34
 heat: -1
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Self-driving truck startup Plus to go public through $3.3 billion SPAC deal"
+    excerpt: "Plus raised $200 million in a funding round, co-led by brokerage Guotai Junan International and private equity firm CPE."
+    publishedDateTime: 2021-05-11T01:32:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal-41620648675322.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/amp-41620648675322.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/amp-41620648675322.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 42
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/05/10/600x338/Plus_truck_1620648920898_1620648928108.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Autonomous Truck Startup Plus Going Public Via $3.3 Billion Hennessy SPAC Deal"
     excerpt: "Self-driving truck startup Plus is going public via a $3.3 billion merger with the special purpose access company (SPAC) Hennessy Capital Investment Corp. V."
     publishedDateTime: 2021-05-10T15:21:00Z
@@ -73,6 +89,6 @@ related:
         height: 600
         isCached: true
 
-secured: "i9WkhTfavSvyTx9eDV92hzPLxHSWlyvH+Fv/X9D5UzuGn7/PgpXw5sKMep7JklTeB5vr3vvrsI+rox0WMoHtlngyMMKgtEWE+PreYNJxXemSfHoOJoDJnqWjdCo7V8D8ZdYO806+CYPipGrxWq7A/EzxvN99E20bw6ltCK8LW/mWvqQ1gm6dTenIyKr9VAFxb5lm4prXHeY9p+guWvFZpw4TQ4Z3oPB/C/8Lc+MB2HroJMXipfPg4PkTp7nK3iGCvh15nVtzOQnP9nvBxKV51XSg9uNoyjtX/fb9UgztjEUGhxdgyWRX1D89i3VA3Uhgrw43awg0afjcE4JT7DgG3BzZX4yKHO/lOUbC7229UIs=;jQSE4UcKw77HtY1GCrE+1Q=="
+secured: "oRIEG8UkGupqYmRzm4IcCNH4jertE+v0r+9k+5yyU7Bt01B4LIWY7fERhPYL4inAWs7pporFcSAamjVlM+eKBuq1mqKRifhmy9niKPhLPOmPR46F2cIsklzlZuN4aBDauPIEvM6Ax1SNVHsaTCPnwVe9wmHNAXFuXTAt2tXL5olUwgrUKnVxldrb8r6IAAjHaHvtKGaX6AYrKPORABPV58sz4jSpX5n4ndPNCEM5Br7mx7mGpF5j2GeDQvVMKMvpSqnvSkwdnX7hh3XJTHeuGifhUGE7rpDFrMH+veS8yH2RuB1kSy8JrctCdA4JrNu3vtzoseT8uER9xMEYI/DnXpe13kEzDnU/D+df6qIw9dy9n6pZSjcuu2zEKfcdaYqF1PRmgO1NnWjn6ULmzl9dp20bxAQWK6XCCROYiuQ7yg2kO7UWt+NfUXr8g7Gl14LXx+QFjOJOqQuyL6DZZu6uG0kBySE4nFOAuvPOpEVOjPiXbvkOnPqvhaV8KcEnt/jxguC9LF2ex62JcH+uenSACQ==;/aeInrko17tnfICBvuzrFA=="
 ---
 

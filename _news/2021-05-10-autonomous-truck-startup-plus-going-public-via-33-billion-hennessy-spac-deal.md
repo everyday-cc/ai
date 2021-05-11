@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/ipo/2021/autonomous-truck-startup-plus-g
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/autonomous-truck-startup-plus-going-public-via-3-3-billion-hennessy-spac-deal/amp/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -26,10 +26,26 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving truck startup Plus to go public through $3.3 billion SPAC deal"
+    excerpt: "Plus raised $200 million in a funding round, co-led by brokerage Guotai Junan International and private equity firm CPE."
+    publishedDateTime: 2021-05-11T01:32:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal-41620648675322.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/amp-41620648675322.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/selfdriving-truck-startup-plus-to-go-public-through-3-3-billion-spac-deal/amp-41620648675322.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 42
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/05/10/600x338/Plus_truck_1620648920898_1620648928108.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Self-driving truck startup Plus to go public through $3.3 bln SPAC deal"
     excerpt: "Plus said on Monday it would go public through a merger with blank-check company Hennessy Capital Investment Corp. V HCIC.O in a deal that values the self-driving truck technology startup at $3.3 billion."
-    publishedDateTime: 2021-05-10T10:08:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10"
+    publishedDateTime: 2021-05-10T10:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-plus-to-go-public-through-%243.3-bln-spac-deal-2021-05-10-0"
     type: article
     provider:
       name: Nasdaq

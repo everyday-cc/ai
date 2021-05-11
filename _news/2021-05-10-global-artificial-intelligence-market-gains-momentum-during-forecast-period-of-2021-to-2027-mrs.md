@@ -18,34 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "AI-Driven Enterprises Market Research 2021 Report | Growth Forecast to 2027 Infosys, DataRobot, Deloitte"
-    excerpt: "AI-Driven Enterprises Market is growing at a 52.15% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
-    publishedDateTime: 2021-05-09T19:37:00Z
-    webUrl: "https://ksusentinel.com/2021/05/09/ai-driven-enterprises-market-research-2021-report-growth-forecast-to-2027-infosys-datarobot-deloitte/"
+  - title: "Industrial Robot Software Market likely to touch new heights by end of forecast period 2021-2026"
+    excerpt: "This report studies the Industrial Robot Software market in many aspects of the industry such as market size, market conditions, market trends and forecasts, and the"
+    publishedDateTime: 2021-05-11T01:20:00Z
+    webUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722"
+    ampWebUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722/amp"
+    cdnAmpWebUrl: "https://www-reportsgo-com.cdn.ampproject.org/c/s/www.reportsgo.com/industrial-robot-software-market-67722/amp"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 37
+      name: reportsgo
+      domain: reportsgo.com
+    quality: 46
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-127-780x470.png"
-        width: 780
-        height: 470
+      - url: "https://www.reportsgo.com/img/img-6.png"
+        width: 500
+        height: 300
         isCached: true
-  - title: "Global Artificial Intelligence in Healthcare Markets to 2027: Robot Assisted Surgery Segment to Register the Highest Growth Rate - ResearchAndMarkets."
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component, Application, End User, and Geography\" report has been added to ResearchAndMarkets.com's offering. Robot Assisted ..."
-    publishedDateTime: 2021-05-10T14:11:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=466375"
+  - title: "Covid-19 Impact On Facial Recognition Systems Market | Global Industry Analysis, Segments, Top Key Players, Drivers And Trends To 2029"
+    excerpt: "The global facial recognition market is expected to grow at a CAGR of 17.1% during the forecast period, 2019–2026. Research report provided by Straits Research is a detailed study of the Facial Recognition Market,"
+    publishedDateTime: 2021-05-10T11:10:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/140646/covid-19-impact-on-facial-recognition-systems/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 31
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "M2qUayweMHOI7D3FSaSql5JmqM/ZyCy/puRcSExdySLBtH+iWhd3kwmSivacCpCOzXIkMfL9ZfTyzxqg016k0qq8n2h4uXk1Z53BinmP35IuvvuU54OicRb6lNhVm9r9Vkp/9xsLxkl+kHIHVDhnAz1RCpIyWs0qYnKuMRp//hQE4g1eYS8JDxCLU64l2RJ32wAWm0oiSR5WPqp/gh3HEwu82GLiziQJxHvj5kwHuc1KjdP9/JXXm05FS/kbsw93Yg2LW1q/Mgi7bAQh6t6sdxSav03VokH8ooD9Icsiw9XJ+I3iA09+PRIMsValCov7j6te06bxXHUQhhpCTW91gH1CHtvuTR17hqxO9ogHJGg=;iRmJdHNs7GPNPn1tHq0tHA=="
 ---

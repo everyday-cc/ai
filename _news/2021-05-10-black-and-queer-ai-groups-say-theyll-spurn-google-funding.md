@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/black-queer-ai-groups-spurn-google-fundi
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/black-queer-ai-groups-spurn-google-funding/amp"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

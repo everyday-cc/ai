@@ -66,15 +66,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 11
-  - title: "Covid-19 Impact On Facial Recognition Systems Market | Global Industry Analysis, Segments, Top Key Players, Drivers And Trends To 2029"
-    excerpt: "The global facial recognition market is expected to grow at a CAGR of 17.1% during the forecast period, 2019–2026. Research report provided by Straits Research is a detailed study of the Facial Recognition Market,"
-    publishedDateTime: 2021-05-10T11:10:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/140646/covid-19-impact-on-facial-recognition-systems/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
 
 secured: "DAuGqFYtUfmvSQ22Xz09Ro3VanPixa/7XE2lhSYAMN6D4HGV7X8nr5fxhIdKV4mjrDrp481SX4NyhEPV4wvPTt14dGmY8EQE8MrueZDymcPEVkjydXhNvnKdh+8eivnjr67MEhT+ISJA743tH0wg4mxy9MSxQQq9GnvPceL3BrztSwa3yaym3txmIHezATX1eNRqQzBA4AJJkqXboO2mE537fNQ/xdo7Sr259/Nwz/+mTHlYEWoOd05B/SP57xfzB9tTPkxd4Iww3XhFd7KzJuTAAju4OfGitPLXQq31XOMVwEFbdIDVGUlYUS7kRtlavWlV8qsOqGxbJ/LtvHhkGSJ/uZsLd7+UAJXhFnQRNFc=;Gt0SrzeBrtBl/JUqcJec4Q=="
 ---

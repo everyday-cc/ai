@@ -19,62 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Conversational Artificial Intelligence (AI) Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
-    excerpt: "The global interactive AI market was valued at 38 9 billion in 2019 and is expected to reach 18 2 billion by 2027 and is expected to grow at a CAGR of 21 from 2021 to 2027 Technological advances and"
-    publishedDateTime: 2021-05-10T15:54:00Z
-    webUrl: "https://www.openpr.com/news/2282524/conversational-artificial-intelligence-ai-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2282524/conversational-artificial-intelligence-ai-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2282524/conversational-artificial-intelligence-ai-market-2021"
+  - title: "Industrial Robot Software Market likely to touch new heights by end of forecast period 2021-2026"
+    excerpt: "This report studies the Industrial Robot Software market in many aspects of the industry such as market size, market conditions, market trends and forecasts, and the"
+    publishedDateTime: 2021-05-11T01:20:00Z
+    webUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722"
+    ampWebUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722/amp"
+    cdnAmpWebUrl: "https://www-reportsgo-com.cdn.ampproject.org/c/s/www.reportsgo.com/industrial-robot-software-market-67722/amp"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
-  - title: "Machine Learning as a Service (MLaaS) Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Machine Learning as a Service MLaaS Market size is expected to grow at an annual average of 43 during 2021 2027 Machine learning is a computing technique that gives computers the ability to learn and modify analytic functions when"
-    publishedDateTime: 2021-05-06T12:44:00Z
-    webUrl: "https://www.openpr.com/news/2281028/machine-learning-as-a-service-mlaas-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2281028/machine-learning-as-a-service-mlaas-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2281028/machine-learning-as-a-service-mlaas-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
-  - title: "North America AI in Computer Vision Market to Hit US$ 32,565.09 million by 2027 to Grow Steady at 45.0% CAGR | Covers Impact of COVID-19 Pandemic"
-    excerpt: "The AI in computer vision market in North America is expected to grow from US$ 1,761.21 million in 2019 to US$ 32,565.09 million by 2027; it is estimated to grow at a CAGR of"
-    publishedDateTime: 2021-05-07T01:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21006351/north-america-ai-in-computer-vision-market-to-hit-us-32-565-09-million-by-2027-to-grow-steady-at-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21006351"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21006351"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
-  - title: "Global Artificial Intelligence (AI) Verticals Market Seeks to New Posture of Market Trends, Opportunities and Breakthrough Point During 2020-2027"
-    excerpt: "Verticals Market Report at:  Key global participants in the Artificial Intelligence (AI) Verticals market include: DIDI ROSS Intelligence Toutiao Airbnb Uber Slack Salesforce Sentient Technologies Dataminr Please Check the Report Summary and Acquire A Complete TOC:  Table of Content 1 Report Overview 1."
-    publishedDateTime: 2021-05-10T02:11:00Z
-    webUrl: "https://ksusentinel.com/2021/05/10/global-artificial-intelligence-ai-verticals-market-seeks-to-new-posture-of-market-trends-opportunities-and-breakthrough-point-during-2020-2027/"
+      name: reportsgo
+      domain: reportsgo.com
+    quality: 46
+    images:
+      - url: "https://www.reportsgo.com/img/img-6.png"
+        width: 500
+        height: 300
+        isCached: true
+  - title: "Global Artificial Intelligence Market Gains Momentum DURING FORECAST PERIOD of 2021 to 2027 – MRS"
+    excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence Market Analysis and Forecast 2020-2026. Latest updated report published by Ma"
+    publishedDateTime: 2021-05-09T22:12:00Z
+    webUrl: "https://ksusentinel.com/2021/05/09/global-artificial-intelligence-market-gains-momentum-during-forecast-period-of-2021-to-2027-mrs/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 15
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/5.jpg"
-        width: 770
-        height: 430
-        isCached: true
-  - title: "Artificial Intelligence Services Global Market Report 2021: COVID 19 Growth And Change to 2030"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence Services Global Market Report 2021: COVID 19 Growth And Ch"
-    publishedDateTime: 2021-05-10T12:48:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/05/10/artificial-intelligence-services-global-market-report-2021-covid-19-growth-and"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 11
+    quality: 19
 
 secured: "21w2kGljxSQBNDimDKAXrMzPtIkorbkJX8hSIsqYyxaImgkE+UYmWwoHZMehI97S3p52T1wXue+tGPRkf2nGd1VogYCdHorjQf6keE78G7wDi2gQTMQlFmq4NGKif9qyvxCtnDW7f6vyH/r2ISy07UGkLHOOeHwEZiGGjdLRv2Rj2yQzSIK71lgtZM/PjmcXdxuDv4BO/xeTpLGjzBg5KKWct9G3QaM7IzigjOYJIilEioNjDF3x205t3BlrHGmX9QCLucEcv3t7rmU2NO4Mq2mjIkXqX6PZqiSwQ7n/22whbVulGI5qCGkMOBhtdTVXCMAqCOKqRaFPTESPebmUB9vU9Xxtazend4w2bpikOFM=;DG2hFQp5QA7iMwQy2bP5Jw=="
 ---

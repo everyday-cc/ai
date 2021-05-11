@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "GM Reports Strong First-Quarter 2021 Results"
-    excerpt: "General Motors Co. (NYSE: GM) today reported first-quarter earnings driven by strong price and mix performance in North America, strong credit and resid"
-    publishedDateTime: 2021-05-06T07:37:00Z
-    webUrl: "https://investor.gm.com/news-releases/news-release-details/gm-reports-strong-first-quarter-2021-results"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 122
-    images:
-      - url: "https://investor.gm.com/sites/g/files/knoqqb60441/themes/site/nir_pid2306/dist/new-images/GM-logo-2021.png"
-        width: 555
-        height: 555
-        isCached: true
   - title: "BioXcel Therapeutics Reports First Quarter 2021 Financial Results and Provides Business Update"
     excerpt: "Granted FDA Breakthrough Therapy designation for BXCL501 for the acute treatment of agitation associated with dementia; registrational program"
     publishedDateTime: 2021-05-10T11:15:00Z

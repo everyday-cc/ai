@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bioxcel-therapeuti
 webUrl: "https://markets.businessinsider.com/news/stocks/bioxcel-therapeutics-reports-first-quarter-2021-financial-results-and-provides-business-update-1030408520"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "GM Reports Strong First-Quarter 2021 Results"
-    excerpt: "General Motors Co. (NYSE: GM) today reported first-quarter earnings driven by strong price and mix performance in North America, strong credit and resid"
-    publishedDateTime: 2021-05-06T07:37:00Z
-    webUrl: "https://investor.gm.com/news-releases/news-release-details/gm-reports-strong-first-quarter-2021-results"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 122
-    images:
-      - url: "https://investor.gm.com/sites/g/files/knoqqb60441/themes/site/nir_pid2306/dist/new-images/GM-logo-2021.png"
-        width: 555
-        height: 555
-        isCached: true
   - title: "Himax Technologies, Inc. Reports First Quarter 2021 Financial Results; Provides Second Quarter 2021 Guidance"
     excerpt: "Company Q1 2021 Revenues, Gross Margin and EPS all Exceed Guidance; Revenues, Gross Margin and EPS All Meet Its Pre-Announced Key Financial Results and Reached Record Highs Provides Q2 2021 Guidance: Revenues to Increase by 15%-20% sequentially,"
     publishedDateTime: 2021-05-06T10:12:00Z

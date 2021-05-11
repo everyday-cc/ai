@@ -68,15 +68,6 @@ related:
         width: 770
         height: 430
         isCached: true
-  - title: "Covid-19 Impact On Facial Recognition Systems Market | Global Industry Analysis, Segments, Top Key Players, Drivers And Trends To 2029"
-    excerpt: "The global facial recognition market is expected to grow at a CAGR of 17.1% during the forecast period, 2019–2026. Research report provided by Straits Research is a detailed study of the Facial Recognition Market,"
-    publishedDateTime: 2021-05-10T11:10:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/140646/covid-19-impact-on-facial-recognition-systems/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
 
 secured: "4UKLscEiysG96GbLHZTZWOd3pY90euK89wILxah8YtcxO+fyTNVwq4K+r/aeUuo2/i38gYHVxrb54PIAW0fzUz9HbZBTEbekRk6s4kNgvjUlRDEuNSaLS7YHJ+Nh4Xds4V+UTQHWRamfLlEdoWxEpzE7iCowwpWm0/f11rLvATUG9hJZH/x82HTxaVRyB3eDQsd/DAJvN3erjB0DGec7Aimg0gT6iscSEBt7vZa20J5boUZfDwaKbcLQHry1lgitUQpy2d9XAHRHzMx1zS6YJ7vQ0HLPM3ra8ci6CPJpSRH5D2rBAq3StG2EUJcnK1ApUBYE1L54eymMBhyDoMog9unf72ajJq8w90pvwMq1C6o=;6VXNAng0TtsO94oo9/FujA=="
 ---
