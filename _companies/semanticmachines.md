@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "semmachines"
   url: "https://twitter.com/semmachines"
-  followers: 448
+  followers: 450
 
 size: 11-50 employees
 yearFounded: 2014
