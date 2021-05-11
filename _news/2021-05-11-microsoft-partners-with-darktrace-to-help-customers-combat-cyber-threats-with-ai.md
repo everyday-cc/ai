@@ -89,6 +89,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Artificial Intelligence Voice market will continue to boom says analyst – Google, Apple, Microsoft, Nuance, Facebook"
+    excerpt: "Artificial Intelligence Voice is the latest research study released by Ample Market Research to assess the market, highlight opportunities, analyze the risk side, and leverage strategic and tactical support for decision-making."
+    publishedDateTime: 2021-05-11T15:09:00Z
+    webUrl: "https://industribune.net/news/86349/artificial-intelligence-voice-market-will-continue-to-boom-says-analyst-google-apple-microsoft-nuance-facebook/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 33
+    images:
+      - url: "https://industribune.net/wp-content/uploads/2021/05/Artificial-Intelligence-Voice-market.png"
+        width: 660
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence in Cyber Security Market Projected to Show Strong Growth | Amazon, Cylance Inc., Darktrace, IBM Corporation, Intel Corporation"
     excerpt: "A latest statistical data titled as Global Artificial Intelligence in Cyber Security Market has been published by Infinity Business Insights. The report covers penetrative insights into distinctive market features such as recent trends which are comprehensively discussed in order to provide an in-depth analysis of the progress of the industries."
     publishedDateTime: 2021-05-08T09:52:00Z

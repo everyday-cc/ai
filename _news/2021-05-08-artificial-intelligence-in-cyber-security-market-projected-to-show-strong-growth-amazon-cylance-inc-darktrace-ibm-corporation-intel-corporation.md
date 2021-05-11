@@ -93,6 +93,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Artificial Intelligence Voice market will continue to boom says analyst – Google, Apple, Microsoft, Nuance, Facebook"
+    excerpt: "Artificial Intelligence Voice is the latest research study released by Ample Market Research to assess the market, highlight opportunities, analyze the risk side, and leverage strategic and tactical support for decision-making."
+    publishedDateTime: 2021-05-11T15:09:00Z
+    webUrl: "https://industribune.net/news/86349/artificial-intelligence-voice-market-will-continue-to-boom-says-analyst-google-apple-microsoft-nuance-facebook/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 33
+    images:
+      - url: "https://industribune.net/wp-content/uploads/2021/05/Artificial-Intelligence-Voice-market.png"
+        width: 660
+        height: 400
+        isCached: true
 
 secured: "u3VsmoPFcv+GFwBrRQkb0sibAJIivY8dcd+/V9ZgMgol/upHtWG47P9l2KYRQ8h0BrgWcQcDedMwnv6LImi9LvlN+Kx8lJDdYVVHFYic89TBQQ7HGQBI9gJuDuR32WdffheAyWhzWT8D6kzb6St1hvdbLjjxIb0xXcfnzTiefqVOc3lEPgLEM+A0aKc2pqoGbnvNMVwrU8j/g/8WoXpfSiemGgXRx1vX4X/6DDeNYkRZNR8gW7ZMspgcsJRv9s6q99ZDus2x2Y8wEaEb511pJeUPBBz+3+jW7LZ4I6e9UF/AbptmqvWCWkbWGKIITACOk46GwdzdI/q2y8XyQOp/O1DrnkVyTCjHtj33glYoCVo=;CnZ9uRShutQMh2eAPMBKaA=="
 ---

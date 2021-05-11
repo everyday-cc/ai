@@ -57,6 +57,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
+    excerpt: "Properly understanding and responding to customer feedback on social media platforms is crucial for brands, and it may have just gotten a little easier thanks to new research."
+    publishedDateTime: 2021-05-11T14:01:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210507112040.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 43
   - title: "This AI is a bit smarter"
     excerpt: "A sarcasm detector for social media posts means that it can correctly identify the emotion behind the text Computer science researchers including one of Indian-origin at the University of Central Flor"
     publishedDateTime: 2021-05-09T18:40:00Z

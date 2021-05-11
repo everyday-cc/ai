@@ -26,84 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence makes great microscopes better than ever"
-    excerpt: "To observe the swift neuronal signals in a fish brain, scientists have started to use a technique called light-field microscopy, which makes it possible to image such fast biological processes in 3D."
-    publishedDateTime: 2021-05-07T15:00:00Z
-    webUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.html"
-    ampWebUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
+  - title: "Want To Rule The World? Invest In AI"
+    excerpt: "AI is a game changing technology, and the world is waking up to it. Click here to know more about the ways to invest in AI."
+    publishedDateTime: 2021-05-09T13:07:00Z
+    webUrl: "https://seekingalpha.com/article/4426400-want-to-rule-the-world-invest-in-ai"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4426400-want-to-rule-the-world-invest-in-ai"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4426400-want-to-rule-the-world-invest-in-ai"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 61
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc.jpg"
-        width: 1000
-        height: 600
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/950370822/medium_image_950370822.jpg"
+        width: 768
+        height: 424
         isCached: true
-  - title: "Artificial intelligence can boost power, efficiency of even the best microscopes"
-    excerpt: "With the help of artificial intelligence, even already powerful microscopes can see better, faster and process more data."
-    publishedDateTime: 2021-05-07T19:00:00Z
-    webUrl: "https://www.upi.com/Science_News/2021/05/07/germany-artificial-intelligence-3D-microscopy/7341620393977/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/05/07/germany-artificial-intelligence-3D-microscopy/7341620393977/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/05/07/germany-artificial-intelligence-3D-microscopy/7341620393977/"
+  - title: "Can energy-efficient federated learning save the world?"
+    excerpt: "Training the artificial intelligence models that underpin web search engines, power smart assistants and enable driverless cars consumes megawatts of energy and generates worrying carbon dioxide emissions."
+    publishedDateTime: 2021-05-07T17:03:00Z
+    webUrl: "https://techxplore.com/news/2021-05-energy-efficient-federated-world.html"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 52
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 24
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/7341620393977/2021/1/16203947933016/v1.5/Artificial-intelligence-can-boost-power-efficiency-of-even-the-best-microscopes.jpg"
-        width: 649
-        height: 432
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/6-ai.jpg"
+        width: 1740
+        height: 1920
         isCached: true
-  - title: "Artificial intelligence makes great microscopes better than ever"
-    excerpt: "Collaboration between deep learning experts and microscopy experts leads to an significantly improved data-intensive light-field microscopy method by using AI and ground-truthing it with light-sheet microscopy."
-    publishedDateTime: 2021-05-08T21:54:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/05/210508082949.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
-  - title: "Artificial intelligence makes best microscopes even better"
-    excerpt: "During a recent study EMBL scientists combined artificial intelligence AI algorithms with two cutting-edge microscopy techniques an advancement that shortens"
-    publishedDateTime: 2021-05-08T15:44:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269329246/artificial-intelligence-makes-best-microscopes-even-better"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1620488160.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Artificial Intelligence Makes Great Microscopes Better than Ever"
-    excerpt: "Now, EMBL scientists have combined artificial intelligence (AI) algorithms with two cutting-edge microscopy techniques—an advance that shortens the time for image processing from days to mere seconds,"
-    publishedDateTime: 2021-05-11T12:49:00Z
-    webUrl: "https://www.labmanager.com/news/artificial-intelligence-makes-great-microscopes-better-than-ever-25856"
-    type: article
-    provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 37
-    images:
-      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/25856/aImg/47818/a-representation-of-a-neural-network-provides-a-backdrop-to-a-fish-larva-s-beating-heart-m.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Artificial intelligence makes best microscopes better than ever"
-    excerpt: "During a recent study EMBL scientists combined artificial intelligence (AI) algorithms with two cutting-edge microscopy techniques, an advancement that shortens the time for image processing from days to mere seconds while ensuring that the resulting images are crisp and accurate."
-    publishedDateTime: 2021-05-08T15:14:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210508/3752805.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "nBg7hzGuNZdMvvqOAgUFt8g49osNnmDtvTGEElkB9HdlUsQ+c6EXK6C1fdu3cr/Lbmfn97Leyi7J17hTXAeH/V2rEDkt7rphwKMU3IpOnJDVjDxo6ai1nfmkpAMNzzXO9hG2cT6Mk+HRFZxLw2vt9aK0gPmUhVD3Bn5iyEi2XMSvg4ThfXRmqJIgxodgbTtZCoR8MrWzElywKRkl1FJEFMcQXnnyzIvKbkz0Dx50G8z3VkLtoW7cs+Gj7Jf1J5FFf+tcXI9U9VHymA3oJ9hkBBDYWJGdnBiBqg4UlntuR6hycnv880HrKTPZUYDn1m9T2EFOy60/xyTVFQqj5oJobo17dDTZBApkWMj+L15GPd2RGBL7S0UALDsSMLYt3Qoza7KXcmTd/02x74zB5hr0D9+wicO74TYBObvppbgvhC4CYg+frf7uOluaE8UCvcsbBGX+/dbSpeEPAsbrVzUsLuAMigfixa6JzmyALqHgBFW0gJ3/p+kDoxBHdDGSrvzI1XwtxUVhnchlSfSsH+/Ucg==;W0Qvw8vGTYGnFY2oSzyxKw=="
 ---

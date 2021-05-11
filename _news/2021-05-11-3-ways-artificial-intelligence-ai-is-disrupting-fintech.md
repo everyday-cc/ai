@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign"
-    excerpt: "Expend, the AI-powered fintech startup changing the way businesses manage expenses and spending, has announced a great start to its crowdfunding campaign on Seedrs. The company is experiencing a strong growth period having performed well in the past turbulent year with revenue more than doubling,"
-    publishedDateTime: 2021-05-10T08:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024"
+    excerpt: "Expend, a fintech startup that's revolutionising expenses, announces an impressive start to crowdfunding campaignLONDON, May 10, 2021"
+    publishedDateTime: 2021-05-10T10:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 63
+    quality: 65
     images:
-      - url: "https://mma.prnewswire.com/media/1505737/Expend_Expense_Platform.jpg"
+      - url: "https://mma.prnewswire.com/media/1505742/Expend_Expense_Platform.jpg"
         width: 400
         height: 225
         isCached: true
@@ -54,6 +54,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/HYuCt6x55aFDLrJpRRVVGn-480-80.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "KFintech acquires 17% stake in insurtech startup Artivatic.ai"
+    excerpt: "The partnership with Artivatic will help KFintech venture into the insurtech space as the firm looks to diversify beyond offering registry services to Mutual Funds, Corporate, Pensions among other ass"
+    publishedDateTime: 2021-05-11T14:37:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/kfintech-acquires-17-stake-in-insurtech-startup-artivaticai-11620743522422.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/kfintech-acquires-17-stake-in-insurtech-startup-artivaticai/amp-11620743522422.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/kfintech-acquires-17-stake-in-insurtech-startup-artivaticai/amp-11620743522422.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2021/05/11/600x338/startup-kElG--621x414@LiveMint_1620743628963.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Why fintech companies are winning big in banking and finance"
     excerpt: "The fintech contenders on tech-powered platforms will offer new-age banking services that capitalize on \"data-fueled, hyper-personalized experiences in real-time.\""
@@ -114,6 +130,6 @@ related:
         height: 450
         isCached: true
 
-secured: "VIKJEMwGAjqaQZr6mZste/tYfvZzcH5TqFQAasYR48bHtBEasT/mfRUXuSji7V+p2xzrTMihePA6FLZEMEiui1Xc9sL5YLa65wKPhL9r+Jpgy+LXfs7tC1gxZM9s6HIYLq0TnJnfX3tc1Y67l4pixnFhFAZ+tEQyXSfO0+UAUgNfE7bWn0jo0qctSFKBKCc8eKfzrRBD9FHqT7xLx/9gR0a76eRBAE5OQoey3jQdmZ58KyB/HM8zOvlEzKvtCV/TKIDEvXrY+Kcc4iyZBDe9bhAL4jQ7v3n/b+Zs7vGwgMN8vrV9xo4w9pKYxJtbBw1s1/bcihghoZgny6VPKI2YYs13G7zYP05vAhm/mQwbRBM=;Rti2ID+nkumYBmS4YVhLoA=="
+secured: "R6O2G6aV4vVTeERMcMG6lfos1DTBQyPZ2JGTY6f/61RbbZ79Zy9FQsBug1NjdrA1UXF6z72t/Z9meBFXKkkp9m1T0Jjbj9YMhJgijXUTFg0kIWEGHZop0LMCUVLGuhQ5B8FUF6dxJFi1X1HgQnKs8xceDIG0A/mwjDyZDbzmOQbwnH6GeR0AgKDQF4mQrAePZmreQRRdCxuz6gpeRl5d4WZ9nGA4rOUlfuNg/+bBQuDGXPT6nP5OTDN4d6DbNLiVud6CeES6wG7nDrdgosSze37HHhw9bbqpsocufxKgF975zqr3ykmTc1BOtlORT3TVWOC85pB7pDz2bYNtnpmXDc2086x971ALYRIpkx5u0SgqMPQ+DBGwshkyG+8Cfe35P5qNOYREFMYkZ634LuJlNmWxp/C2NU+KQG1L/LJtg/ZE0aiqqJ0Q2m/7OR59gx/4+ceIEc2eTj0a4JN9C6fKsKfYTKZ4ScfhUnDgntbN1K61Dz3UExRwE4/MR6FSNKmfaOEikCeznalLWkw0L6Gk7w==;xXqTeP4d1wWc6DOdEH/n6w=="
 ---
 

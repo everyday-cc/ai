@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 759
         isCached: true
+  - title: "Onit Expands ReviewAI with Smart Checklists, the Latest Artificial Intelligence Innovation ..."
+    excerpt: "Integrated with Onit’s contract lifecycle management technology, ReviewAI and its Smart Checklists dramatically accelerate contract management. “Lawyers want to reduce tasks that are time-consuming and repetitive so they can focus on more strategic work."
+    publishedDateTime: 2021-05-11T15:07:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-6025a59e08e20040cb523c65e6d6c385"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 40
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "x4YYtRm31F1I93lHJn0q5Eo12pxfn8LbL2l1ntaXmNRcPniZ8vLMTwToYwSTesuDI25UDVaM34J8wdbHFqBUAkhwYuUoh3RQZtl3Qn2D9oOYz2BlD3Xm03KN3nw3B4mmIMEXsu1x2RTHOq8xBzRWrXpAVYvyzXETnm3cziPcqX1vLUGAiq/5KGyC39VEl0iBNIRgCQCdWY9ew3kM/pSqSHngDIK0VdAkX5lyA17kTABZbVR8JWGPBw6CrSla7jWb7bcMByay3T6QlVjy1MDJO/Au4o0tk+c/yoWiXT6cjT0okvxlrRQ0lEJe8r9gV97QTyvMWwBV0NhAAuginlYnNsU6QHYg+y52ztXUD5VUdZeIGbWJ2RB82NxVUbsO6fsUs+q6OmzedH7d5iPBSuLzizD+0sAgB42UJzSwzEq2HjX2L4NPP00O87hchTj/5xPj6oKii+xprVtsEZmG1iAyqujZLQZYxCeuaMd7UtSwAA9puAwBek6qDetacDlcjBXt076i6q5njl650MuDO8ZnRQ==;tsmQqchYnJekoB097LpMPA=="
 ---

@@ -1,26 +1,30 @@
 ---
 category: news
-title: "AI Analog Chip Startup Mythic Raises $70 Million"
-excerpt: "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $70 million in its latest round of funding. The Redwood City,"
-publishedDateTime: 2021-05-11T13:04:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-05-11/ai-analog-chip-startup-mythic-raises-70-million"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-05-11/ai-analog-chip-startup-mythic-raises-70-million"
+title: "AI analog chip startup Mythic raises $70 Million"
+excerpt: "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $7.."
+publishedDateTime: 2021-05-11T14:26:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/ai-analog-chip-startup-mythic-raises-70-million/82550117"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/ai-analog-chip-startup-mythic-raises-70-million/82550117"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/ai-analog-chip-startup-mythic-raises-70-million/82550117"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/ai-analog-chip-startup-mythic-raises-70-million/82550117"
 type: article
-quality: 64
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: India Times
+  domain: indiatimes.com
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-82550117,imgsize-35602,width-800,height-434,overlay-ettelecom/ai-analog-chip-startup-mythic-raises-70-million.jpg"
+    width: 800
+    height: 434
+    isCached: true
 
 related:
   - title: "Mythic raises $70M to disrupt AI chips with analog and flash components"
@@ -47,13 +51,22 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 32
+    quality: 49
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/MythicChip_R1A_resize-621x470.png"
         width: 621
         height: 470
         isCached: true
+  - title: "Redwood City startup Mythic scores $70M to challenge Nvidia on AI chips"
+    excerpt: "Mythic Inc. has raised $70 million in new funding to develop an old school solution to providing AI chips for smart home devices, gadgets. #siliconvalley"
+    publishedDateTime: 2021-05-11T14:13:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/05/11/mythic-scores-70m-to-challenge-nvidia-on-ai-chips.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
-secured: "mCVncKP63BKUg4UBjm3hLt1BaIsI2tcUN0CPLU9QPm+yjWwfW4ju7VJBWXZaxt6vYrdA73LDsozlbikyl3x+SJUU55XdKsFKzElrjsBSSvVKby75ivIx9H46BIIS3B2zT/us5zTJc611tkQ3H/W5evfTe9PTmmiB7MWR/BDViDNlKJC/JtTw3KK+p/Sjq13sebRJ2abgbOdq6iXcUzSkOgw2AJf7t4/0Q6YIRZzmfe/lzxkPiTMHV6xRAixQvdmiqt+fDUDPqXAqMSIP6kWPF7SyCbDVJ9krr35UWvc38j37k2C6RgTBc36kSLTrqd7fEyiouRdTPMzFVnw4z12U2bb5YGKCU2NagaK5L0HrvqU=;Pn8Tr68zga7YvsNAzohyNw=="
+secured: "Umx880tzqcbanoanAWPLU1hM7fEfqQS6rdaOLjUq6oebd7Sb14xrKbXtS2xXADPk/v/knYbMlKpicEt/uk16e0tanxF1kmk8+2NwQbQLYLzJNIp6cjoKtgOpfuabrWw5Mu/20bhodpixWRhmeVUodpRcv3EewuAtdO3DdtW2XJIMvekcv/hD2Lquy9cUJDpE4EBrVJWqzlkvXJE1igD/idvJOrgQvmQ7Ja/HQKWsb090GETGEO2qWHOlb4evdeJkxXShWvgDUcHmOm9+kycqKv51PyrEWjrP+QK0lfSyPVkYGu3HG14jn1OZjbH51/K12VeX7uyfoGf0zs4Ksn7o1by2AA1wUwIZCqVwbzv6VCk=;kGfryOxufTAiaB3vAt9KoQ=="
 ---
 

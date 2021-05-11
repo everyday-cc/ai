@@ -56,22 +56,6 @@ related:
         width: 649
         height: 432
         isCached: true
-  - title: "Best of Both Worlds: Artificial Intelligence Makes Great Microscopes Better Than Ever"
-    excerpt: "Machine learning helps some of the best microscopes to see better, work faster, and process more data. To observe the swift neuronal signals in a fish brain, scientists have started to use a technique called light-field microscopy,"
-    publishedDateTime: 2021-05-07T15:00:00Z
-    webUrl: "https://scitechdaily.com/best-of-both-worlds-artificial-intelligence-makes-great-microscopes-better-than-ever/"
-    ampWebUrl: "https://scitechdaily.com/best-of-both-worlds-artificial-intelligence-makes-great-microscopes-better-than-ever/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/best-of-both-worlds-artificial-intelligence-makes-great-microscopes-better-than-ever/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 50
-    images:
-      - url: "https://scitechdaily.com/images/Fish-Heart-777x466.jpg"
-        width: 777
-        height: 466
-        isCached: true
   - title: "Artificial intelligence makes great microscopes better than ever"
     excerpt: "Collaboration between deep learning experts and microscopy experts leads to an significantly improved data-intensive light-field microscopy method by using AI and ground-truthing it with light-sheet microscopy."
     publishedDateTime: 2021-05-08T21:54:00Z
@@ -105,6 +89,6 @@ related:
       domain: webindia123.com
     quality: 17
 
-secured: "PxejSI0nBXycgqEwccPWvL8csSLAk6qQ9xHd4H6VVCKx8XowC1Is038NX60H8sEUGZViPydwURS1bYT4Fs83Q2ytPuzAjapq4DHx7z47U3FQu2m4nZnmIGxJB75RPfliuhajkBAbJAsXApKDSh6expHTFFbKW1MqBBs9it0ojvJGGRcqTvA6KZukg9WoOtt2MNrmHC2dczGJ1fNDxcSBt6ljfxl6x/MLMhWlkiwx1kizrdH125I9MLOxSzJDIq/RzdUs+EeFiMdAKeUU/8MNRZWXg/svdtFdWVE6pHVC0qquYfGbmsRuRNzguRf1Dd+yorQ1yaXD0xo8wFwspIKBMSdC7KfTOvv+NfzoFAlt+88=;T50vFbLw+GoYhogBFKGpQg=="
+secured: "YQzjKTsZlSGvSU1kjqwKEPd6ktfoA1lMnaninsGIoBllB3duhXdQUkdravELsAXLVAUr2mlIBRBygPtmR28yYunn2gBoqYGLa+RtrEEycAxSRI3+ErKEhqoTIP/x0ZXdGF1///eJG0zJzcf4NZo79+IR6BOW8AyW8YVfioIm68N5W3LSNtmTYaI8j8kqDfUwIx0SsbYEWWsdi8Rbw5KV6xq58sTkLgVQNWsmKUwx6esHhoE0Wc3U5IsZpzruunEXTPNNoshkPM5Iey5fBv2xSmYhdt/EiiPsekSssd8WsmGz2vzlOjhZkjwAs8xMzPubODOEHS7sUJM4TmPzdyTXX2tVVCJ0WP3/RU0KrS5DU4cI2eOqN9tec3eC3R4htI19BlUNq6cemI1F1oEbZg7KmE/DzUhGQ7l2nR3ECHyswryfLNyFRavim54Vuo1V4lU6f6JJxzrAWXcgIj/rO7tWDN321g0UVhVfSXIDO0/f1YL5TqnyP0k0vSQM90Bo5znlZNjlFSu8D8Pf5guDyNnfUQ==;/SDK+HPyDLEaCVvivM3Jvg=="
 ---
 

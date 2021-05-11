@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-wo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://scitechdaily.com/images/New-Type-of-Neural-Net-Accelerator-Chip-777x421.jpg"
         width: 777
         height: 421
+        isCached: true
+  - title: "Onit Expands ReviewAI with Smart Checklists, the Latest Artificial Intelligence Innovation ..."
+    excerpt: "Integrated with Onit’s contract lifecycle management technology, ReviewAI and its Smart Checklists dramatically accelerate contract management. “Lawyers want to reduce tasks that are time-consuming and repetitive so they can focus on more strategic work."
+    publishedDateTime: 2021-05-11T15:07:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-6025a59e08e20040cb523c65e6d6c385"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 40
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "c8mr+m3wRjO6EzoSJJbXAc1heZjTtNanDo9y01sgvTBELLMhNClhkJ6KWezWwihdLUtLSZ9x01boEkmXiCQ4MfwVGdZlFQ/2MEHkPQP+rtk2S02S9Xpna6zrMAN9D3skPHQ9qk+S0uxy1dRfdyHoVZ+iwkgK4CRCtvfnR/1JCXIwE/sRuBzaXn0ycbVQ3lxxYG60DW4xBobdN2opKwumk7xRWBU0as2Z2Xi1HK0F5SDsumTHUitHXZF0bUCPbUoHNg4awjPGVSRwbYcL7q7jY5xJdBDUti9yo/Nv/2ZmIvXW3oDUhFIkR/5XJnYikreR8F+CAITEnZR90jp/oFtHZpftnUCLxQbA4vqCLltOnBrkEVlq3lddrnVkFK4k1JV8O/T1ywuXZ5GnDEf6iP3sS7RvV4D2IMo8NitBABXu1eHEfMZBV+Gx4/oMNBhaKkulEaLpVdysst10OTImC83IlCImgEBYhOpSPxHdST2uUutNuVYjTM597KSy1ohFhdMROo4HDR/oI/DJ7xUvrbdbtQ==;BLfJJj7ulVYXye0FaYB4Tw=="

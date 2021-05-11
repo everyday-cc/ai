@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,15 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI Analog Chip Startup Mythic Raises $70 Million"
-    excerpt: "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $70 million in its latest round of funding. The Redwood City,"
-    publishedDateTime: 2021-05-11T13:04:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-11/ai-analog-chip-startup-mythic-raises-70-million"
+  - title: "AI analog chip startup Mythic raises $70 Million"
+    excerpt: "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $7.."
+    publishedDateTime: 2021-05-11T14:26:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/ai-analog-chip-startup-mythic-raises-70-million/82550117"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/ai-analog-chip-startup-mythic-raises-70-million/82550117"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/ai-analog-chip-startup-mythic-raises-70-million/82550117"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-82550117,imgsize-35602,width-800,height-434,overlay-ettelecom/ai-analog-chip-startup-mythic-raises-70-million.jpg"
+        width: 800
+        height: 434
+        isCached: true
   - title: "Mythic, maker of energy-efficient analog chips for AI, raises $70M in new funding"
     excerpt: "Pioneering artificial intelligence chip startup Mythic said today it has raised $70 million in a new round of funding that follows the launch of its first products last year. The Series C round was led by BlackRock,"
     publishedDateTime: 2021-05-11T13:00:00Z
@@ -48,13 +55,22 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 32
+    quality: 49
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/MythicChip_R1A_resize-621x470.png"
         width: 621
         height: 470
         isCached: true
+  - title: "Redwood City startup Mythic scores $70M to challenge Nvidia on AI chips"
+    excerpt: "Mythic Inc. has raised $70 million in new funding to develop an old school solution to providing AI chips for smart home devices, gadgets. #siliconvalley"
+    publishedDateTime: 2021-05-11T14:13:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/05/11/mythic-scores-70m-to-challenge-nvidia-on-ai-chips.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
-secured: "nqPrgKovENfhhEMNnzsTY/JmzzbXVTSC9ljrnekH5Io6+AVPNq/Bxpt0Zeo55rKngiYJi7Q1oe6xxk538GSnoWhmIvF4dAPIzEPLN8fn/OymBJiApVu7PBXEP37GlButnhuB2Aq2XsymPXPMe16VBjKlFjKg52XdloNIdts1d41b426PaxgtT7IJwv7BjfEXQ29bMmYIgqAYzxZPU8qiYEb0lXih5d1viaTBH8DAvUVdu1WBQxsMDg1Xzmc0Y9iSZfyjutk4jbNxlMB1E2yYgLEDVBFACMJztRJ+pAKpo09bJYexDobSt8noX2nXm9nB0qK+gfH8IHv8YCTEl0sYRCfEgy/kpUaJ3quoYq2EvD0=;F6ixGd/IO4KOlJCrnDnC6g=="
+secured: "+n13okmmAVtkdb3YvuJYbgFOtdfipglMQJ2uX9haCZaEKlgBiSv2RP67mVfWK/Q++gfZqw3Wqjl7fwDU/7UrXoLKdBIcWZftRK5TvdtcLWhJT5GJGCPPt1YlmrOsz1IjxF6AIi/WRW/05ybPbn5kGeFvzVHAwc0zeCOYNpw2GkC6elZ+KExnyKGABUlVV9E0ltb4vrExInfwhYn8jKI8ccLUBwcOMJ4eaQFsUD2jmQ3YafdeAykeh8QVJcXP9zrOsbsfjKiYB4Ox/TDQUcvEEVOPPyV+pwcOxBxRu+EoACaiN2IRTTqAXxNjApwfVn17cZKXBCQhH46sadjY4o7duDAJDqTy8mz57D1lbIRCkPueroC7AFmuRpdVWJGhJEj9Y+T7YFDYBiL3Tyk0tEWBwdA7kzGC+a2+7Srf8qPEF3JNH4j/23nppl4ZvlaZKdpC8iH92ZMjHnvJUtGslL5ovwn1xI7ZjL9tZnVA5uybRp3FSzW8JfrWChl83Zit+rgcyqXreZGLU2miW5uXgXq9yg==;jMFbLpB5nTmj33Icdoz1SA=="
 ---
 

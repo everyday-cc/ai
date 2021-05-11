@@ -54,6 +54,20 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Specialist platform OMS delivers facial recognition ID verification"
+    excerpt: "One Mortgage System (OMS), the single-input enquiry to completion specialist processing platform, has partnered with Nivo, a secure mobile messaging platform to offer facial recognition ID verification."
+    publishedDateTime: 2021-05-11T14:06:00Z
+    webUrl: "https://www.mortgagesolutions.co.uk/specialist-lending/2021/05/11/specialist-platform-oms-delivers-facial-recognition-id-verification/"
+    type: article
+    provider:
+      name: mortgagesolutions.co.uk
+      domain: mortgagesolutions.co.uk
+    quality: 39
+    images:
+      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2019/09/Neal-Jannels-OMS.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "National Association of School Nurses Announces May 12th as School Nurse Recognition Day"
     excerpt: "Wednesday, May 12, is National School Nurse Day, an opportunity to acknowledge and thank school nurses for all they do to support the health and learning of adolescents and children across our country."
     publishedDateTime: 2021-05-07T17:24:00Z

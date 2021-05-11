@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Lantheus Grants Allegheny Health Network Exclusive Rights for the Use of its Microbubbles in Combination with Ultrasound Assisted Gene Therapy for the"
-excerpt: "Lantheus Holdings, Inc. (NASDAQ: LNTH) (Lantheus), an established leader and fully integrated provider of innovative imaging diagnostics, targeted therapeutics and artificial intelligence solutions to Find,"
-publishedDateTime: 2021-04-30T12:30:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=461697"
-webUrl: "https://us.acrofan.com/detail.php?number=461697"
+title: "Lantheus Grants Allegheny Health Network Exclusive Rights for the Use of its Microbubbles in Combination with Ultrasound Assisted Gene Therapy for the Development of a Proposed ..."
+excerpt: "Lantheus Holdings, Inc. (NASDAQ: LNTH) (Lantheus), an established leader and fully integrated provider of innovative imaging diagnostics, targeted the"
+publishedDateTime: 2021-04-30T16:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210430005074/en/Lantheus-Grants-Allegheny-Health-Network-Exclusive-Rights-for-the-Use-of-its-Microbubbles-in-Combination-with-Ultrasound-Assisted-Gene-Therapy-for-the-Development-of-a-Proposed-Treatment-for-Xerostomia"
+webUrl: "https://www.businesswire.com/news/home/20210430005074/en/Lantheus-Grants-Allegheny-Health-Network-Exclusive-Rights-for-the-Use-of-its-Microbubbles-in-Combination-with-Ultrasound-Assisted-Gene-Therapy-for-the-Development-of-a-Proposed-Treatment-for-Xerostomia"
 type: article
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
-
-secured: "d+g01sOdD6kDoyhtFtQZ+w5qzCBK0uDYRoPCvMKHIPQt1/OBjuSL1161H/rOzDFJVqjrl8hPwIfXx/DutmdRFtSeeGLN2vBMzVfld0RzQjCzoC9+CtL3UVCHTKvhvsBuzm2BMm6kY9OgP+R+poB3p8B8DnNh/bzZmwEnqwPLaPjQMdl4AP0O9nGKv/nqs0S+GDkaPwbkZvhrEmuIV/My1E2ATzti/Ws69ZJZch4Bvda2p1i96mml0lEgjeDhxfdn1ZPZLsooH9yA8KxrczXj3WzOZ4hs4uRMxkWFRgVO6EhoMpIkLkCsrh9NZ6UAMgL0ZfyY+BUVas41najziTUDzmzfdyvPZ6C7pErMv3xKd2k=;2Wnu6ZKdpLvMrrb/DgYaBQ=="
+secured: "XJZicpV8adprsqvUK/tqjYkl6gDWNnIr4kIoTEkGekPDKEhFLFRlsVwzZ3AxAbqwmflvtMAr86sFa0y7sFlaTN9DC4Kdl96IMZ66c05hugx/FWIe2xDSXryO+gsB2c6xZJ+avU/xMM0lWqXaI6fnZKqCEG9aM9/OFRuozVlXq5GVFmgzFJm0siUUwPGXBSKWDt0IBmq7BEqSg925UbvYAfuBepnY1lcnN3qOLZi5UpYHib2cBMQ2arrNn1EQRde/gh8Z3CAbCxvfNzMVg6Uh+1Yl7Zo1hbGaVdKHx0wi6+SlGxKm+cARUsaW0QmFU7VVZ2VXNmXLZjJDXw0XsWasOX46qf+3J6PcLi1xtdobNI0=;0S/HS8nbU7E/U+j2OHyEug=="
 ---
 

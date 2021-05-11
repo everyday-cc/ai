@@ -67,6 +67,20 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Specialist platform OMS delivers facial recognition ID verification"
+    excerpt: "One Mortgage System (OMS), the single-input enquiry to completion specialist processing platform, has partnered with Nivo, a secure mobile messaging platform to offer facial recognition ID verification."
+    publishedDateTime: 2021-05-11T14:06:00Z
+    webUrl: "https://www.mortgagesolutions.co.uk/specialist-lending/2021/05/11/specialist-platform-oms-delivers-facial-recognition-id-verification/"
+    type: article
+    provider:
+      name: mortgagesolutions.co.uk
+      domain: mortgagesolutions.co.uk
+    quality: 39
+    images:
+      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2019/09/Neal-Jannels-OMS.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Three Graduate Students in Communication Sciences and Disorders Awarded With Recognition for Program"
     excerpt: "Samadhi Pusuba Devayalage, Kendra Ledbetter and Madeline Rudolph were recognized for excellence graduate program in communication sciences and disorders."
     publishedDateTime: 2021-05-10T05:06:00Z

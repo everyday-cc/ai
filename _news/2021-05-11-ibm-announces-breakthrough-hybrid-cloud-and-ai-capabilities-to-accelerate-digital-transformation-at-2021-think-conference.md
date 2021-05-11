@@ -1,30 +1,27 @@
 ---
 category: news
 title: "IBM Announces Breakthrough Hybrid Cloud and AI Capabilities to Accelerate Digital Transformation at 2021 Think Conference"
-excerpt: "IBM (NYSE: IBM) announces advances in artificial intelligence (AI), hybrid cloud, and quantum computing at the company's Think conference at 12:00 p.m. ET today. The innovations highlight IBM's role in helping its clients and partners accelerate their digital transformations,"
-publishedDateTime: 2021-05-11T06:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities-to-accelerate-digital-transformation-at-2021-think-conference-1030411690"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities-to-accelerate-digital-transformation-at-2021-think-conference-1030411690"
+excerpt: "IBM (NYSE: IBM) announces advances in artificial intelligence (AI), hybrid cloud, and quantum computing at the company’s Think conference at 12:00 p.m. ET today. The innovations highlight IBM’s role in helping its clients and partners accelerate their digital transformations,"
+publishedDateTime: 2021-05-11T04:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/health-coronavirus-pandemic-business-technology-fde62f7bd187308adcf72f826bd8f529"
+webUrl: "https://apnews.com/press-release/pr-newswire/health-coronavirus-pandemic-business-technology-fde62f7bd187308adcf72f826bd8f529"
 type: article
-quality: 42
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -44,6 +41,31 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "IBM doubles down on AI and hybrid cloud"
+    excerpt: "IBM is beefing up its core technology capabilities in artificial intelligence (AI) and hybrid cloud to speed up application modernisation and improve AI adoption"
+    publishedDateTime: 2021-05-11T04:04:00Z
+    webUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud"
+    ampWebUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+  - title: "IBM makes leaps in AI, hybrid cloud and quantum computing for digital transformation"
+    excerpt: "IBM Corp has achieved several advances in artificial intelligence, hybrid cloud and quantum computing to accelerate its partners and clients digital transformation journeys. A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic."
+    publishedDateTime: 2021-05-11T07:57:00Z
+    webUrl: "https://mybigplunge.com/tech-plunge/technology/ibm-makes-leaps-ai-hybrid-cloud-quantum-computing-digital-transformation/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 32
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/05/IBM-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Watch live: Think 2021 reimagines the digital experience as IBM powers up hybrid cloud with automation"
     excerpt: "Remote operations and the need to rapidly respond to the changing economic climate have made cloud computing essential for modern business survival. Adapting means adopting hybrid cloud. But stepping smoothly from a legacy or pure cloud environment into one where applications and data are dispersed across multiple clouds,"
     publishedDateTime: 2021-05-10T22:00:00Z
@@ -59,6 +81,6 @@ related:
         height: 543
         isCached: true
 
-secured: "XtWvphxH5LAJDiX0yu8UvkV8vW2uXC+AiIh0ygeEooS7ptc6/3F7E7+2Hh6ooqCn1R6MzHLe7yb0RPvF3Ske6EJDVyMZ0akbSuii6qQ4jSxRRxqsvSdq21WwnkT5JtXg+W1SK6DkTPs1u8dOX+OKRe2tFQvZhynOOyU7nZZ4P1sUWw2tBC9tfaeC/cEvbtLD4dmJ6N+oemRnb9qLG9y8tmM27B5hFGMnOmTyveHfht905crSQZiqeuh671fR6UJBmKSng7otSG4ZcTNaOeUtSnMKV2yq4YluVLDdMR7vn51jPzXXcxfKulKLbUHR2WvxydimieeSAopJlkKUEa4wyX5HWqkTltPtP4Y+32JKJyI=;QSEyk29cXy9D6CYlu0ftlw=="
+secured: "ShepdbvkTmsSE9Dr+ZTbHD9GkmQ86ECQQf9tOumSAJavE7y6QF6Oa3QYIzBZVNL1N930j5Pv3cislx4D81zLhLnm9mfVSXWjyur4XT/E236NROOdc7ji188E2gAgm/EagrEtMCxbAkAoDUo+Hyknivhu3No9bIUI2cBZyOdD20WH2rqMrjrnPkZoIdIclZxhLO6E40oPeG/xO4P8wTfos0rilvazKRwcgKUY5sC/FZhUZcBhxYxdvI5Llv62ZjYmzCC2RmVog4uQMob/wNsY0GS2YhOxkUxO2xRYMjF6oTnzT4/cSJN2SfkK/CO0d5Y4jNk1+Bezlh+IB+KDO9dWn/qyFL3/fxlV6Y9Pj1s8BBk=;RHrAMYVtqUrPfAKAEyuZYw=="
 ---
 

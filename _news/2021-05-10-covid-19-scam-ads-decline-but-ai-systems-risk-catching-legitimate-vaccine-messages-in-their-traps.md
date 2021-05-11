@@ -74,6 +74,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "University Hospitals to begin using artificial intelligence to intubate COVID-19 patients"
+    excerpt: "The AI algorithm helps medical professionals accurately insert ventilators in patients suffering from Coronavirus."
+    publishedDateTime: 2021-05-11T15:49:00Z
+    webUrl: "https://www.wkyc.com/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
+    type: article
+    provider:
+      name: WKYC3
+      domain: wkyc.com
+    quality: 50
+    images:
+      - url: "https://media.wkyc.com/assets/WKYC/images/3c9c9308-39b5-4292-94c3-64320c64cf07/3c9c9308-39b5-4292-94c3-64320c64cf07_1140x641.png"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Conversational Artificial Intelligence (AI) Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "The global interactive AI market was valued at 38 9 billion in 2019 and is expected to reach 18 2 billion by 2027 and is expected to grow at a CAGR of 21 from 2021 to 2027 Technological advances and"
     publishedDateTime: 2021-05-10T15:54:00Z

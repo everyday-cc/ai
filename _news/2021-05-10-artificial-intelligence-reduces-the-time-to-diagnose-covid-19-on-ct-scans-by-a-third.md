@@ -73,6 +73,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "University Hospitals to begin using artificial intelligence to intubate COVID-19 patients"
+    excerpt: "The AI algorithm helps medical professionals accurately insert ventilators in patients suffering from Coronavirus."
+    publishedDateTime: 2021-05-11T15:49:00Z
+    webUrl: "https://www.wkyc.com/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/health/university-hospitals-to-use-artificial-intelligence-to-intubate-covid-19-patients/95-7aea1c56-68c3-490b-8baa-9114a6bd106f"
+    type: article
+    provider:
+      name: WKYC3
+      domain: wkyc.com
+    quality: 50
+    images:
+      - url: "https://media.wkyc.com/assets/WKYC/images/3c9c9308-39b5-4292-94c3-64320c64cf07/3c9c9308-39b5-4292-94c3-64320c64cf07_1140x641.png"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "COVID-19 scam ads decline, but AI systems risk catching legitimate vaccine messages in their traps"
     excerpt: "Around 31% of all coronavirus-related ads assessed by The Media Trust in February 2021 were labeled as \"coronavirus suspicious.\""
     publishedDateTime: 2021-05-10T04:01:00Z

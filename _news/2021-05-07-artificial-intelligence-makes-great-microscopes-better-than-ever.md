@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microsco
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
 type: article
 quality: 57
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/i/7341620393977/2021/1/16203947933016/v1.5/Artificial-intelligence-can-boost-power-efficiency-of-even-the-best-microscopes.jpg"
         width: 649
         height: 432
-        isCached: true
-  - title: "Best of Both Worlds: Artificial Intelligence Makes Great Microscopes Better Than Ever"
-    excerpt: "Machine learning helps some of the best microscopes to see better, work faster, and process more data. To observe the swift neuronal signals in a fish brain, scientists have started to use a technique called light-field microscopy,"
-    publishedDateTime: 2021-05-07T15:00:00Z
-    webUrl: "https://scitechdaily.com/best-of-both-worlds-artificial-intelligence-makes-great-microscopes-better-than-ever/"
-    ampWebUrl: "https://scitechdaily.com/best-of-both-worlds-artificial-intelligence-makes-great-microscopes-better-than-ever/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/best-of-both-worlds-artificial-intelligence-makes-great-microscopes-better-than-ever/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 50
-    images:
-      - url: "https://scitechdaily.com/images/Fish-Heart-777x466.jpg"
-        width: 777
-        height: 466
         isCached: true
   - title: "Artificial intelligence makes great microscopes better than ever"
     excerpt: "Collaboration between deep learning experts and microscopy experts leads to an significantly improved data-intensive light-field microscopy method by using AI and ground-truthing it with light-sheet microscopy."
