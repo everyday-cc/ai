@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/89631-ibm-simplifies-automation-wa
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89631-ibm-simplifies-automation-watson-orchestrate.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/02/IBM.jpg?fit=800%2C600&strip=all"
         width: 800
+        height: 600
+        isCached: true
+  - title: "IBM's CEO says it's leaving consumer AI like facial recognition to other companies, as it doubles down on pitching Watson to businesses"
+    excerpt: "Dialing back its consumer AI ambitions, CEO Arvind Krishna said IBM is solely focused on business use cases like automating IT and customer service."
+    publishedDateTime: 2021-05-11T21:02:00Z
+    webUrl: "https://www.businessinsider.com/ibm-ceo-arvind-krishna-on-watson-ai-enterprise-future-plans-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/609ae0ed342837001822cd17?width=1200&format=jpeg"
+        width: 1200
         height: 600
         isCached: true
   - title: "IBM Expands Watson Advertising Accelerator for OTT and Video"

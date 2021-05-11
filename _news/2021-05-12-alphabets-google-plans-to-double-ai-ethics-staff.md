@@ -1,0 +1,49 @@
+---
+category: news
+title: "Alphabet's Google Plans to Double AI Ethics Staff"
+excerpt: "Alphabet's Google will double its AI-ethics staff to 200 researchers, Google Vice President of Engineering Marian Croak says."
+publishedDateTime: 2021-05-11T21:59:00Z
+originalUrl: "https://www.thestreet.com/investing/alphabet-google-double-artificial-intelligence-staff"
+webUrl: "https://www.thestreet.com/investing/alphabet-google-double-artificial-intelligence-staff"
+ampWebUrl: "https://www.thestreet.com/.amp/investing/alphabet-google-double-artificial-intelligence-staff"
+cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/alphabet-google-double-artificial-intelligence-staff"
+type: article
+quality: 74
+heat: -1
+published: false
+
+provider:
+  name: TheStreet.com
+  domain: thestreet.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY4NjQ3NjU0NDU4MDA5NDk1/midday-report-apple-supplier-jabil-circuit-disappoints-stocks-down.jpg"
+    width: 620
+    height: 349
+    isCached: true
+
+related:
+  - title: "Google Plans to Double AI Ethics Research Staff"
+    excerpt: "Vice President of Engineering Marian Croak also said CEO Sundar Pichai has committed to boost the budget of a team tasked with evaluating code and product to avert harm, discrimination and other problems with AI."
+    publishedDateTime: 2021-05-11T15:04:00Z
+    webUrl: "https://www.wsj.com/articles/google-plans-to-double-ai-ethics-research-staff-11620749048"
+    ampWebUrl: "https://www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 104
+    images:
+      - url: "https://images.wsj.net/im-336712/social"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "kF/vw7yy4x7zyNkwncCWViTd8mMgEWPQsEhF/QVeE1TjhKIVGb0+4d8YpNZes2eDWSQR1tToedg/FhnmrxYulYj/XwQ8ukO0OsAC0wRdsLfmMk5SE3aatv72mGWCTgQ0y+vgWmkUOf/3iPo4MiwSLUws40xacAgttX3Fx1RNjk199DmJg5yTbEIuuNhhcBzTIXfKc6Z7MxRi6Gxtx/emwoK0etuclTqNugyH6tpUPL/A7i/PYO31NGXbjWYLD/fvnWmrw2RhSQlmo/Sb8iR+QnXDXCHL6fZXV+ur47nGwsSKglSk5jouiaB2BmTw9nN+ny0IcKV15IetxCmA9qdpk8kvwvHo6Yi9OhIsooh35Qc=;v4+Vy6wJHk4gsG1satN+hw=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/11/mythic-raises-70m-to-disrupt-ai-chips-with-analog-and-flash-components/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
     excerpt: "Mythic Inc. has raised $70 million in new funding to develop an old school solution to providing AI chips for smart home devices, gadgets. #siliconvalley"
     publishedDateTime: 2021-05-11T14:13:00Z
     webUrl: "https://www.bizjournals.com/sanjose/news/2021/05/11/mythic-scores-70m-to-challenge-nvidia-on-ai-chips.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
+  - title: "AI chipmaker Mythic scores $70M haul from heavyweight investors"
+    excerpt: "Artificial intelligence chipmaker Mythic Inc. continues to ascend to new heights, announcing March 11 it had closed a $70 million series C funding round. Leading the way were institutional luminaries BlackRock Inc."
+    publishedDateTime: 2021-05-11T18:51:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/fundings/2021/05/11/ai-chipmaker-mythic-scores-70m-haul.html"
     type: article
     provider:
       name: The Business Journals

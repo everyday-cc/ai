@@ -57,18 +57,32 @@ related:
         height: 1936
         isCached: true
   - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the"
-    publishedDateTime: 2021-05-11T14:53:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
+    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS® Viya® advanced analytics, Microsoft Azure,"
+    publishedDateTime: 2021-05-11T15:56:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 36
     images:
-      - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg?p=facebook"
-        width: 2699
-        height: 1414
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "TigerGraph's Victor Lee Shows How to Create an Analytics Foundation at Data Summit Connect 2021"
+    excerpt: "Graph-powered machine learning and analytics are enabling unprecedented benefits, Victor Lee, head of product strategy and developer relations at TigerGraph, who cited Gartner's statement that 'Graph analysis is possibly the single most effective competitive differentiator for organizations pursuing data-driven operations and decisions after the design of data capture."
+    publishedDateTime: 2021-05-11T21:41:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/TigerGraphs-Victor-Lee-Shows-How-to-Create-an-Analytics-Foundation-at-Data-Summit-Connect-2021-146819.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 14
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "UMtUGkgJbkQTE5/T2eJfiAcgZmCxkRci1w8Z1PJPBpxbBXLYTMVbMUcM13Wg3YvjyiblECGesl7uSstBf0RaZ3CY4hM967GHuKEQG19/mTzuUsbaWeKxCUqZ/iOWbZtf9zd2QyvHI/3NEtqN72NqFlVmmICG2aGQA/yMetJR5bwuXMhoCrrbWPMYOtExLLp5lGnHyRRxFQqwiNHtyLpPDQMiVhRbCb6j6qpX7j9mnQwDXsf05Pgm8qYTCtGD0IjA01BPAmw9UCUtTb/1QZOuofjgEip/EGRl23TSTVEWXsMVi62yVCBnqdPkesZPdnULzyv4H29wqIM8uUgE+6eiUGYfPBPwPwRxQH4aAWkx6ibPlpREa8TQ/r8h92gCK8HVvWzul9pe5GVk99VVQEohYqRFT3/KHUYHWfJ7JhGqcAWHpo5LqwXtwyv2lgDqShnr9v6co/3zXlMFIJDZNneiHPbPgYJ/ThTQvKeWCkBRxFZpDUoKsNOu0S2LEzuZHNM9gYBYudvD2tG04I9vQ0AEOQ==;S9HWXUPB7P07gIyLrnCCPw=="

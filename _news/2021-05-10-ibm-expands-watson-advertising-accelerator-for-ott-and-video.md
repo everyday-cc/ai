@@ -57,6 +57,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "IBM's CEO says it's leaving consumer AI like facial recognition to other companies, as it doubles down on pitching Watson to businesses"
+    excerpt: "Dialing back its consumer AI ambitions, CEO Arvind Krishna said IBM is solely focused on business use cases like automating IT and customer service."
+    publishedDateTime: 2021-05-11T21:02:00Z
+    webUrl: "https://www.businessinsider.com/ibm-ceo-arvind-krishna-on-watson-ai-enterprise-future-plans-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/609ae0ed342837001822cd17?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "OEHlfvdU3ajTmXc5zozigY7SUU8knWPV/sGVqGiBqiqlXJ4VQTJoNLdtDw8YdKeSsrNw4yW1/sR9GEJP55WJKDDF5RFr4OHi5IQN12zF3R+W7FVZS1uIszmGLAkCigCHPMEwKlIF22oLP6o9mA3g6n2WR42gu+743BhazWeiO+5Cqj+DRGRiQUzMtNxWrhiCC8D/c6C/zi5OSvCGPD60icG2d6DS7DsR0+o8B9jZ3kbuDIulx97Y1jNp9XB8E/6cj8iYLlbFDc2SzTU6yINcLDawgGP4Q4S/fKFlXYVHUyDrJ4HuOpQccIrXSWXwzDiOQXb+zODPy5Qwq6DarEb8bjCZH1KuQrl4zL7DRoqtCVCcT7actwkt03duf+J2b24vhqmzUR65bnoOtWCNuoowSitoTe29o46YqbdzLOa6FW7F50WarlCvGvaoBejj8GUbY5YwDxNFI89PccGrGNR5bz9KrNLhC+37nobOdpzgpkB9EsxgU8DcCu8vf+l43DxZLOFgoHcfitu2EChovdfA4w==;MyYknMfXPW/wFPnsAtwuZg=="
 ---

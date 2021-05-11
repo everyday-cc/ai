@@ -58,6 +58,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "AI chipmaker Mythic scores $70M haul from heavyweight investors"
+    excerpt: "Artificial intelligence chipmaker Mythic Inc. continues to ascend to new heights, announcing March 11 it had closed a $70 million series C funding round. Leading the way were institutional luminaries BlackRock Inc."
+    publishedDateTime: 2021-05-11T18:51:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/fundings/2021/05/11/ai-chipmaker-mythic-scores-70m-haul.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "J2lef4p1EnOSqrNlxA5dmPeZxNbgUhaxwtA6AIefAViqZIFZNgX2IWSALX9Din96vMdBhkmC8HvcQMv2cqPopExc747ODA5RNaWnyjhTn0XMl9kwp23WfWcWJZjllxSWy+LXVrtkB8Copdo9fSWvq1KQRsvWWQewH92mXdzn6ZGWZgLeksgDh4xLvCLBTA6LBwlF/INRi+991na7zWQnRDMdRSN4L6KOGmbmqSqgfnx5JshLeQfiELE+Vd1I2UHMWjyIvJm0Ef6dQM6elI34bPZdLxBJ841AqwZhjZSgGN4Av2Qa18I6X5du3WQIrD8F7Im+0dcskPVbajr16rA3NWxHC2Fv4naIsiB3I4+J7cE=;5SHQP34o1F1fnbmHuJDl5w=="
 ---

@@ -69,6 +69,20 @@ related:
         width: 1000
         height: 605
         isCached: true
+  - title: "IBM unveils first 2nm chip"
+    excerpt: "IBM has unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip using nanometer (nm) nanosheet technology. Semiconductors, or computer chips, play critical roles in everything from computing,"
+    publishedDateTime: 2021-05-10T09:44:00Z
+    webUrl: "https://gadget.co.za/ibm-unveils-first-2nm-chip/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2021/05/IBM-Research-Albany-Exterior-1-1.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "FF+WqKo6apFUm0d+hEtm1u3byPaqy5jj7gcXXzs+5StWifYkcOOr3Cl6xSM8it5HAOS2vnJXej9HtzqJznjVR0w1vGYIJ42QUGv664/UEySaLBDmS/TKl6yBJYAtk+3PlSJURFRBVKInjMaSADUdqBUP/mRfgW7IyJS7bftKZ4IuN7EuYYMUUFKhc7JrN8vyudHUQbIEVnpqnRvdgK7WyVlPb87o0HSZUTaueRbXm8+fEA+paewmMtVKsB2txasUz5UHqQkRfI8Tyz9ODWtRtoNYZbfUO3BoGQBM3YAuyayei+hJZlf7VzkvaVutYPkF+YT1H3dhkKk+JebEzrqKNSlYPWLNf9OacfCE9rO5U1s=;Rg167tE1wHC9mRr8+3HGGw=="
 ---

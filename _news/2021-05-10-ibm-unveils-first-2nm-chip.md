@@ -25,35 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "IBM's new 2-nm chips have transistors smaller than a strand of DNA"
-    excerpt: "In a shining example of the inexorable march of technology, IBM has unveiled new semiconductor chips with the smallest transistors ever made. The new 2-nanometer (nm) tech allows the company to cram a staggering 50 billion transistors onto a chip the size of a fingernail."
-    publishedDateTime: 2021-05-07T03:21:00Z
-    webUrl: "https://newatlas.com/computers/ibm-2-nm-chips-transistors/"
-    ampWebUrl: "https://newatlas.com/computers/ibm-2-nm-chips-transistors/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/ibm-2-nm-chips-transistors/?amp=true"
+  - title: "IBM unveils 2 nanometers chip, opening the door for higher, efficient tech performance"
+    excerpt: "IBM announced a breakthrough in semiconductor design by developing the world’s first 2 nanometers (nm)chip. Semiconductors are the heart of every technology that is governing our world today—from computing to appliances,"
+    publishedDateTime: 2021-05-10T12:46:00Z
+    webUrl: "https://www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/"
+    ampWebUrl: "https://www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/amp/"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 74
+      name: Technowize
+      domain: technowize.com
+    quality: 51
     images:
-      - url: "https://assets.newatlas.com/dims4/default/c077382/2147483647/strip/true/crop/2700x1800+0+180/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbc%2Fed%2Fec587f174302b746793b55afd657%2Fibm-2nm-1.jpeg"
-        width: 1200
-        height: 800
+      - url: "https://www.technowize.com/wp-content/uploads/2021/05/IBM-2-nanometers-chip.png"
+        width: 1080
+        height: 1080
         isCached: true
-  - title: "IBM's newest chip can put 50bn transistors onto a fingernail"
-    excerpt: "More transistors on a chip also means processor designers have more options to improve capabilities for leading edge workloads like AI and cloud computing, as well as new pathways for hardware-enforced security and encryption. The potential benefits of ..."
-    publishedDateTime: 2021-05-10T11:18:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/ibms-newest-chip-can-put-50bn-transistors-onto-a-fingernail"
+  - title: "IBM Meets New Chip Milestone with 2 Nanometer Chip Technology"
+    excerpt: "IBM is making a breakthrough in semiconductor design and process with the development of the world's first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
+    publishedDateTime: 2021-05-07T16:00:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Meets-New-Chip-Milestone-with-2-Nanometer-Chip-Technology-146759.aspx"
     type: article
     provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 54
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
     images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1620645231/widgetdocs/IBM_Research_2_nm_Wafer_cyfs78.jpg"
-        width: 750
-        height: 600
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IBM unveils world’s first 2-nanometer chip technology"
+    excerpt: "Global business services provider–IBM has made a breakthrough in semiconductor design and process with the development of the world’s first chip with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
+    publishedDateTime: 2021-05-07T13:07:00Z
+    webUrl: "https://www.the-star.co.ke/business/kenya/2021-05-07-ibm-unveils-worlds-first-2-nanometer-chip-technology/"
+    type: article
+    provider:
+      name: The Star
+      domain: the-star.co.ke
+    quality: 39
+    images:
+      - url: "https://lh3.googleusercontent.com/kdBSZ7hbGK7yYR4SA2V9KEhUbkLT_p6K6-FGGUA_jGFwYJiyc4mX6v6VVgNfrRCkt8hK-6iLpKlyQAXGt1RtCjXvzDXZERGtwcWl8cdQUQ=s1000"
+        width: 1000
+        height: 605
+        isCached: true
+  - title: "IBM Unveils World’s First 2 Nanometer Chip Technology"
+    excerpt: "IBM has unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip announced with 2 Kenya breaking news | Kenya news today |"
+    publishedDateTime: 2021-05-08T00:52:00Z
+    webUrl: "https://www.capitalfm.co.ke/business/2021/05/ibm-unveils-worlds-first-2-nanometer-chip-technology/"
+    type: article
+    provider:
+      name: Capital FM
+      domain: capitalfm.co.ke
+    quality: 39
+    images:
+      - url: "https://www.capitalfm.co.ke/business/files/2021/05/IMG-20210507-WA0010.jpg"
+        width: 1280
+        height: 774
         isCached: true
 
 secured: "OZn+ypAwmIvvGBhJ77E194gTunihi92QGjEtvIf4kluJXM9D9XZZxCvu1ftvNRB5kmV2an+q5zKPNcQoXNhnmCn2+dATp4muS55LHyqEl6KMrSCC0srhg/fN2K2myVpsB4e2ihhAGv3WC/a6W2UqG86ZLWk/S5JCznhho0X+3V4cDjn3/CimnrLpgVSl+lzkif7qOqsZilrA9eEyeJNEP0PMDmtifWmyAhjArJ5T7lQgBEFj1HXcjMzLks5UcgsTmPbR7vYlGK/wiaTYrKdaOg8vJcsRMvMJ16f/Q83thRrQqQ1mZU4EQ3O5avjfk/mLrzLZiUULIlziJjdPrHakshzvxILoDftvyV19aAN1l6DDSziJ+QpNOycKh2N0B2sQWyN3t4Tzu9QqIevPGUEEOr3mBZ8pxORM4BSZmWd0cLHIrF/U04jnKhgO3qjaFJ7CjOg3i0w2y1nN/BA+snaSroU5RP7JHz2O0GBBRCIUPJEtcAYKVrJhcs5izXTpKcmIvQ7vq4+QVSgk8mQBcSu0EA==;qMlhnGCb7ceaA739QsqrYA=="

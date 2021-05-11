@@ -7,7 +7,7 @@ originalUrl: "https://www.cioreview.com/news/financial-technology-top-2021-devel
 webUrl: "https://www.cioreview.com/news/financial-technology-top-2021-developments-nid-33580-cid-23.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 430
     height: 250
     isCached: true
-
-related:
-  - title: "Samsung develops an innovative I-Cube4 chip packaging technology: Faster & Efficient"
-    excerpt: "Amidst the global chip shortage, leading chipmaker Samsung has announced a new chip packaging technology. Potentially, the new technology could yield more efficient and faster chips using an innovative chip-packing technique."
-    publishedDateTime: 2021-05-07T04:08:00Z
-    webUrl: "https://www.gizmochina.com/2021/05/07/samsung-develops-innovative-i-cube4-chip-packaging-technology/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 62
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/05/samsung.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "4rZE90kllqlqo1el4B1cGBIxx66AcRHsjITjtpf0h8xAu1c3JXrgvvT63DBfa4rca0dWr8E90D72/nmhvwYQlamHvdvpBlG9TAZRv/TuoZuN3kMIvej1Qry56s8GLj4uNuySPGN3IxGSe1omAXnhrK0fI6giFSveXZCLnKeOCDIHFbb5vJrOsd0ajmAmEknNHTOXaeWBYlPUdBg9rCovCtH39ZnpM9aT6rczNoEO3fFDQq2laB6lwCySi0FpKzAooneDpkBLV/qNmuzfmpSpQXwan9lr5RPM5Xx8IyF/D/mngsUZ04Sxs1xoXM4qEVcfU+rQF7ZerNdQq7ocxIJJGgYeJL7dUroT2dHdDKJxIf1lhFI0L9hfqgQShCWTOSl2rZaSCeF5uzfSAyI/gNv0jkGE3oYbq8d7irWatcrD0ydyJCiTl3qJ1zJ9msunmUzK58KCEm+WA9byXXpRebBLaxeAIv057lwVYlhA0dkn86zA4oPRDMeyKt3R7jJLj7IW5/GGsYG6kleAkROW1YFHvw==;NiB+RhfaQ8BYkAUCE4wmIA=="
 ---

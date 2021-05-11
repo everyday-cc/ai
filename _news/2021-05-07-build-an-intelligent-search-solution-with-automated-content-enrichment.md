@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-search-solution-with-automated-content-enrichment/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "A New Frontier in Healthcare Intelligent Document Processing"
+    excerpt: "Grooper, a leading intelligent document processing and data integration platform created by BIS releases version 2021. Six new"
+    publishedDateTime: 2021-05-11T20:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/a-new-frontier-in-healthcare-intelligent-document-processing-301289175.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1094561/Grooper_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
   - title: "NICE Revolutionizes Contact Center Recording with the Launch of InterACT, the Industry's Only AI-Powered Agile Recording Solution"
     excerpt: "NICE today announced it is transforming the way contact centers manage interaction recording with the launch of InterACT. A new AI-powered recording solution, InterACT automates end-to-end recording decisioning processes,"
     publishedDateTime: 2021-05-07T10:42:00Z

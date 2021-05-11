@@ -39,6 +39,20 @@ related:
         width: 800
         height: 321
         isCached: true
+  - title: "A New Frontier in Healthcare Intelligent Document Processing"
+    excerpt: "Grooper, a leading intelligent document processing and data integration platform created by BIS releases version 2021. Six new"
+    publishedDateTime: 2021-05-11T20:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/a-new-frontier-in-healthcare-intelligent-document-processing-301289175.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1094561/Grooper_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "LIZJ/bOLj3fCecmDLn4WQHj0Xlocw/UlGQPcq+JGFCkxEcNt5Qn/cq3hTmwIj1lraXaM/Pz2zJKCoQe4ZXOLGJm1prq4U1NnpiXpPXjUC+iBizV577zMrYfzVnS8Pr4vAkPPntsx0EpTb9ohYIS8NZX8oV7md5UyQro3LKCTz3JwIVIks37CZ/UpqRKR5MPtBCX56ZAQoiQWOl0JxpbexN7XakQkJeVKwZ2pzguDp1iyfzMPP2g5xCBZqnnBEofymyoSjkdZU5uMsi/35QHlehWxDWFsWhDxbxBL6R+g7JYXUv555pQwuRjFNvX+2bCSZaReVRTJyS2vMEN6FCg/bDlJqaOgqDEk4fi7O1YHFuw=;qbIjKGHRiYoWHUkPlTl3/A=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the"
-publishedDateTime: 2021-05-11T14:53:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
-webUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
+excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS® Viya® advanced analytics, Microsoft Azure,"
+publishedDateTime: 2021-05-11T15:56:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d"
+webUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg?p=facebook"
-    width: 2699
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -71,7 +71,21 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "TigerGraph's Victor Lee Shows How to Create an Analytics Foundation at Data Summit Connect 2021"
+    excerpt: "Graph-powered machine learning and analytics are enabling unprecedented benefits, Victor Lee, head of product strategy and developer relations at TigerGraph, who cited Gartner's statement that 'Graph analysis is possibly the single most effective competitive differentiator for organizations pursuing data-driven operations and decisions after the design of data capture."
+    publishedDateTime: 2021-05-11T21:41:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/TigerGraphs-Victor-Lee-Shows-How-to-Create-an-Analytics-Foundation-at-Data-Summit-Connect-2021-146819.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 14
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "oprmeRb+U8PM8S06tELVL8ZIL13i/y1Gww0Jx6JOVqZhV2OZ0yQaMDnaLihj2XvZQhQUp+FpK8CXnDB5qVZrSkeNaJ1sj4/URcKLd9EBgSyFT1js0OToPr2cIyzqAFHQBX4zp4SEGmi+XQS8KwRQjyXAXA3njcEciIQrtfYKVJkLnZJrAqKgk5DaLy24DLMqEqloywS+g+QSVFZlP0DBHgMLilbUAEq7M3zt29G4tTqP5YcHGt1sRcWX5/d2AmooDcHF49/xSo6B7KLOuXCfeu10y5LVuwO6lITP0Q364+YQrWQfJVm7lI3j6quqs9saP9aQ8Wpee3CsT42On/RtX/EWPccyDBVtfi63AF+nUDc=;7t148YW1f/ZcZqt4btnpNw=="
+secured: "cVbXNyyq7oJt1GBGVcDaSaes2gR701pAeXGKbWuyRICXZr580OEgmQJTa6VsgjDxLz8GlV7FOXYk9R+BXs8oM0+NO8v2uzM3jSCS4GwvhyrQlrMaug2S91NqBwmHx+mlPnDdvTv+YwH7GwG+jIMUJp9ULJS6pmB5kEm36N1VD8AYnXnM19wl9xbZTKNnL0PzkiSoEUqI+Eeg1F/hNWuT2IPLwk0/Iaf4Ib2d7aXKTOcOECTPPlozuDQWhyI0i3CmQYBRWHjJzJCW4dAKTCkT4kRbCJXrsovm6Svz9tKCsHK72OgF38cknPtiotEem3rEndRMhVuFL0xdcYAf1TLO+MbGmJoQCii9eaR8OsHmdJ4=;wXuB0r/NRq+iEjIBb5xhsw=="
 ---
 
