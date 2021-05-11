@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign"
-    excerpt: "Expend, a fintech startup that's revolutionising expenses, announces an impressive start to crowdfunding campaignLONDON, May 10, 2021"
-    publishedDateTime: 2021-05-10T10:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028"
+    excerpt: "Expend, the AI-powered fintech startup changing the way businesses manage expenses and spending, has announced a great start to its crowdfunding campaign on Seedrs. The company is experiencing a strong growth period having performed well in the past turbulent year with revenue more than doubling,"
+    publishedDateTime: 2021-05-10T08:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 65
+    quality: 63
     images:
-      - url: "https://mma.prnewswire.com/media/1505742/Expend_Expense_Platform.jpg"
+      - url: "https://mma.prnewswire.com/media/1505737/Expend_Expense_Platform.jpg"
         width: 400
         height: 225
         isCached: true
@@ -54,6 +54,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/HYuCt6x55aFDLrJpRRVVGn-480-80.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "3 Ways Artificial Intelligence (AI) is Disrupting Fintech"
+    excerpt: "Artificial intelligence (AI) is disrupting Fintech by providing personalized wealth management, automated customer support, intelligent financial assistance, fraud detection, accurate decision-making,"
+    publishedDateTime: 2021-05-11T12:17:00Z
+    webUrl: "https://www.bbntimes.com/financial/3-ways-artificial-intelligence-ai-is-disrupting-fintech"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 54
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_in_Fintech.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Overfunding: UK AI-Powered Fintech Expend Quickly Surpasses £500,000 Target Through Seedrs Campaign"
     excerpt: "Expend, a UK-based AI-powered fintech, has successfully secured its initial £500,000 funding target through its equity crowdfunding campaign on Seedrs. The funding round, which recently made its debut,"
@@ -84,6 +98,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Banking-and-Fintech.jpeg"
         width: 1600
         height: 1066
+        isCached: true
+  - title: "AI Fintech Firm Riskfuel Expands into Insurance Space"
+    excerpt: "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,"
+    publishedDateTime: 2021-05-11T12:17:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "0DrdsoxebW5YivtvGj0fqEaU5adcNXpU5hOTkI4GF/DeeaCfSA/Bdjssc8fFFzvZ+YY7iFnOXKR4Nsa4C8Bd/w7Yq5QIOKGoIDDThvC3/GQtOo/e7ICtVvAPU4u7EJuOTJ67LU5rqSlH8KMeaT4r5mc74tNJznX3qD+pu0e40fAUlIxdZ35kEe1at4JBEFo41TWTTB1Te5zFzNIjX5cSTixYreXUW3kGcv0h39mCueMTFkW+HPVI7aF6yhNxhxF1mPiRqC12SQ6uQfV8JPI6rnrCgNoB1LsWbXJFjo6byf5hYYN10jJB84lyBVEQVJ2jMDJPthXf/QcKOwXfQQ6pwP+gUIUIAeU+Mja9yiyCmkR3/CkYWZWKN/tpvJy2cxWjPWmc3I4Zym4eB5z5rTHy0xLwAT2R57fFu39xQaG9WGvZ/KH1wvV/TIeyVoylvfHuG1yk56QyjM6ksR4Tx+97KFVk6HhpIVjcFHxIkdDO5/joxbdHfpYgi4vsegavwO5ttKX+ieZPY6ynRL7j/SHRkQ==;PHc4tVc/ZT5a02ghEhVmfQ=="

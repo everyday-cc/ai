@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "SpinCar Acquires Pulsar AI, the Industry's Most Advanced Conversational Artificial Intelligence Platform"
+    excerpt: "Acquisition Adds Conversational AI and Marketing Automation Capabilities to Fuel Company Growth NEW YORK (PRWEB) May 11, 2021 SpinCar, the global leader in digital"
+    publishedDateTime: 2021-05-11T13:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/p21059412/spincar-acquires-pulsar-ai-the-industrys-most-advanced-conversational-artificial-intelligence-plat"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21059412"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21059412"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
   - title: "Procore Acquires Construction Artificial Intelligence Company, INDUS.AI"
     excerpt: "Procore Technologies, Inc., a leading provider of construction management software, today announced it has acquired INDUS.AI, makers of an artificial intelligence-powered analytics platform for the construction industry."
     publishedDateTime: 2021-05-07T08:54:00Z

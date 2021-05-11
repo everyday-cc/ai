@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-indust
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "COVID-Classifier: an automated machine learning model to assist in the diagnosis of COVID-19 infection in chest X-ray images"
+    excerpt: "However, the similarity between features of CXR images of COVID-19 and pneumonia caused by other infections makes the differential diagnosis by radiologists challenging. We hypothesized that machine learning-based classifiers can reliably distinguish the CXR images of COVID-19 patients from other forms of pneumonia."
+    publishedDateTime: 2021-05-10T17:24:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-88807-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 12
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-88807-2/MediaObjects/41598_2021_88807_Fig1_HTML.png"
+        width: 685
+        height: 353
+        isCached: true
 
 secured: "gJzX3jw2HkW1f1REZRfLVXCGhFhprJB2FTebfdvBZ9L4s6Wif7yCIHRcIkM3j4ndHtbQYLn5T5dyJ+hPjJUhBEWD2zcwp8IRVjewAcg3o34zpMjRjZ7H+FgQGr+U7dyTcDtPaBdvH3ZAnTYlIDR+QcMb7nuEPrb1nkUVj3v8v+IQX2XlVp9fvA6qbQB+RGVy3afhA5aW98cmo5xH05rZHpIP5bKfcXXK5nlgIfDOVqId96Wjdte7Nz+gBn1RD7p7NadK09w4d6CGvUM56oF7pXXbFBDGeERjNdk+BM5QOfkXdYsApdGxzdh2RcISz8wDhjmBfr1dasoF7nvcgP6ZzSUufo3JXXy5uNx2i5vIRce5LovN7Gy52P5Ia8wyCQU/VxsyJeHp/T2dlRD9+1NARtSRngbLW4OHzSAHJjPcrFpcfGe1hF8U0fyz43+1r5HI0JETNEL3iO80YFJ50GJG5e6srltCp9I1AqTrxbqr0wBNmCIiz74KZlTt2MozaDPYzcpoisR1Q5E5tnFcttt4dg==;bLYY4v/d1Hjga9EMw60T/A=="
 ---

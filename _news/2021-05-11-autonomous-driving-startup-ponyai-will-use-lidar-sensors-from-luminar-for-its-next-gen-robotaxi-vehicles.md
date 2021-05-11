@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pony.ai unveils its next-gen robotaxi with LIDAR from Luminar"
+    excerpt: "Pony.ai’s next-generation robotaxi is distinctive because it appears to be missing the cone-shaped LIDAR sensor perched on the roof that’s typical of most autonomous vehicles. That’s because the startup,"
+    publishedDateTime: 2021-05-10T11:00:00Z
+    webUrl: "https://www.theverge.com/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china"
+    type: article
+    provider:
+      name: theverge.com/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china
+      domain: theverge.com/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china
+    quality: 157
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/8Z1I9ZGVVF03oCVeCijlVQaVkMc=/0x0:2085x1178/1400x933/filters:focal(877x423:1209x755):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69262019/Ponyai_Luminar_01.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Pony AI Selects Luminar’s Lidar For Next-Gen Automated Vehicle Fleet"
     excerpt: "The reality is that most of those startups are never going to get a production program and by the end of this decade there will likely be fewer than 10 vendors supplying the whole industry."
     publishedDateTime: 2021-05-10T11:00:00Z

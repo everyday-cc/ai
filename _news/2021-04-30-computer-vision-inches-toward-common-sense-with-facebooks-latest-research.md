@@ -3,14 +3,11 @@ category: news
 title: "Computer vision inches toward ‘common sense’ with Facebook’s latest research"
 excerpt: "Machine learning is capable of doing all sorts of things as long as you have the data to teach it how. That’s not always easy, and researchers are always looking for a way to add a bit of “common sense” to AI so you don’t have to show it 500 pictures of a cat before"
 publishedDateTime: 2021-04-30T14:02:00Z
-originalUrl: "https://techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAAJ9D_B8hsL9ctO9wyqaKJruU9vaWo5tCKwfprXjmqKiEJCuS_JnPHBhjbEn0IIim2CVL9hLUSZGgmFtVbazr456MgnLYpKJiKWZub1ZC0nvTvZRcxwfec4hdU9Q8nf19ryLKTkjK8Z_oXSFAj-iPKIeXH0sON73ZTMJ0WuHvyVpL"
-webUrl: "https://techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAAJ9D_B8hsL9ctO9wyqaKJruU9vaWo5tCKwfprXjmqKiEJCuS_JnPHBhjbEn0IIim2CVL9hLUSZGgmFtVbazr456MgnLYpKJiKWZub1ZC0nvTvZRcxwfec4hdU9Q8nf19ryLKTkjK8Z_oXSFAj-iPKIeXH0sON73ZTMJ0WuHvyVpL"
+originalUrl: "https://techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/"
+webUrl: "https://techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/"
 ampWebUrl: "https://techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/amp/"
 type: article
-quality: 88
-heat: 88
-published: true
 
 provider:
   name: TechCrunch
@@ -31,6 +28,6 @@ images:
     height: 483
     isCached: true
 
-secured: "3KJFyX7UCXLwXCiBqmMDObOtWh4i8dNhuRf/G4M3Un3uh+Of4DybI869PQHZgtNybGeQDf3VWAXCrRlTrIOSrC3byQcokxzZY8rVmwTXnSMgmhSsSSKKi+fL2vcOyDQu7kcPKTVHPLaBJjnH4jaBGM6FTVp9K6Bi+JWo4qa7Jy89j2fo6v/eGqsulJ3ivO+em07oB41Pnx9OTckNYDZRgUPvxF2zDyOJYDLHdo+Vro0byLaeIVa1kVcuf+QnaHM0miOwRpnepyg4joWk9Db6Ohah55B8FXSOWSYlh2V4uBC2kpvW5FCta9v4vg+AueiyV4NPIOFIgtKZMDgi8r+Xf8eVR6IfhMgiQswdDZD2G1O5hc+cSnXUP0NXhLqr22pDe094emOUc1eAWuD8hIKUiWYKXRw1fKCOuwsrKgjQMPnhb701qMAT0Y0K4YxzFS0ew8xAWofWhfMrHplbfqQtJsjZ+Y/VdyPPFGyUhK/zpCzmJU1QiQTMgUvr4yzmz8RdGWSjoi/lO/6VvaknBbXYLg==;13k6TnhZyVt7buRcW/2h/g=="
+secured: "A+NcEpxNtIF5ZnLq5zCTha3aP1PpTwSg+LsjNJQYigQ7BwuW5yFAI6qtEfZQfPzMR8jZwpJHa9OyreM0NlzgyD+f0Re4KzhPj2OB2aPKx4NHDQ1KrUjSQ4BkXMyEvOHpA6+PTzuSVBqBt82EXG40Q7CEkQJ35HpmcOM7d5wij6MKj/sCf8cSmrmQkX2No9doQaNkRbBkLpIiylhhSAV5bhuyXG5390eEqe8TT8EuveVC32MjcxVvtOxVMQV3yt44o7tv2S2Q7ffWrxtJRT7GuSap9RSJjem+DHyy/y13LLR/8vvi46hQOnB8bT1baguOudn2Uu1x8KgG02fxE4im9llBWbfROp80drAGvCGd/dE=;B5+0gQhvFVGLVSA/ieY+Kg=="
 ---
 

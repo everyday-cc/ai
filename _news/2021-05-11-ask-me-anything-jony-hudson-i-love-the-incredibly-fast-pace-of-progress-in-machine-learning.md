@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-11T10:00:00Z
 originalUrl: "https://physicsworld.com/a/ask-me-anything-jony-hudson/"
 webUrl: "https://physicsworld.com/a/ask-me-anything-jony-hudson/"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://physicsworld.com/wp-content/uploads/2021/05/CAR-Hudson-featured.jpg"
@@ -24,6 +25,6 @@ images:
     height: 529
     isCached: true
 
-secured: "0wmv8cUlL5OUX0LaTn7MwwcjR6ZulgZj20aBwRoQbp/0ZGUM2XUYQPSy7B7v4NDaVDh8EadEcJnSv+aay6Y/LjMXUKtudiWpz9WUJVjG0mdFv5sVk/Ad1PSzaBqYizVPaYHKdx/cF8Auy+h6+t/xNm0CB+0tFOJI791DmIVn/SDIjcN7GBs2r/EcBl+QGRxvZN5iL5ET7o9E1XnOMh29KLlUZtO/Ke4CYFxn0sBxA332vGGTwxQlqgqDOGEbUgH7IthDBGR7gdVAO0zYd9DPmK9wWR/7y+5RrgtBA7AEkqF1kTLD1/8Let38MDF9O4vn5+3k9EiIGs7g1GOHSz0cOZxLD0FE9XklNs2rPT1XWyM=;rEo3qjS2tdJxbq4tznsyMA=="
+secured: "Vd48wJwyr/onZsC7j9IbmIaa32CRPzBYBJ6ClC+YKHqKRSmtqieLP7EhZBIoDvvioxPsVIF/T4C2IyL3YKI19x09ITAVu0C2rOJaYxpryyNhdn1dno4hdV336kZJe3FTlZa/XxKN3DYG/oT+MkLD8NCdjkKRCckJHEHZBzTh+ms8KZuNiYjf5UjgZnxMSdf6aYq991fkJfDWIN2SOgVut3NqwDp/E2G+E/axcB4EKPFVjqRTbsNXXW6kNiQZT8ZpwCKPrEJhZJhR+5EVsu6l+tXWavTb4xVmM0T45vFcNdfd0sgxjZ3Bfl4Ph8zkXyCTZFpwvsQWiYUqPUy8CJJCGl3iD+Mt/wNvA0NaylP+DBNDvxs//0NNAPqGE0mSOH6DlSbTU6FCCiiexu9coYdXx335Lv4nYNQpUMqjt2tQu7qkoOfBD9jdJ5t3YRoXKdImjzr3wwn37+j1diwrBlJb2Mkih/6OBSAxhDSlaJFPEmlLmdYh5DTzarfbsKrClip3ep93rIixar2DO0P71NC0kA==;n0xSXAsNIh2vFO/YQeLs7g=="
 ---
 

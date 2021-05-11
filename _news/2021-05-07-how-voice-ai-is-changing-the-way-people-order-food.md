@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Stop the emerging AI cold war"
+    excerpt: "Proliferating military artificial intelligence will leave the world less safe — so we must focus on ethics and global cooperation."
+    publishedDateTime: 2021-05-11T12:36:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-01244-z"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-01244-z/d41586-021-01244-z_19152742.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "givFR6/QyVNHgIfuZXww4NFV2kLdlyhVwp2xJ5/Vn/HXaQEdbxaaCwSGAQy6a3SmEnzYoSJaCOykr+skfcWbkEZjsQfzSm/KFHHmk2SLdrSmh9AACeOgb46nucABA3nnXJufue8v3FuP3Es2cjYXlllTKGUjoetg7YXvYwFqfoVBzQboEWJTvFjDaXryUzssz9T8dfj81OSAaPA/AlmbGMIsNO1jZ29eVBNTfjsmbWLhmkBrXpqNm1g6G6EEWz3xcl/nCa6qrEf9y2Rk7C4ZhHZ+qj6V8smENWOG3u/BCQ+ytQX3JpE0BIl48UKjxaIVW2oNAm9AUsInonGvom6HNHdXaSIefO+etNwS3jc2a9ei1LsNjLkmeMVrFGZZWYZgq+tvNbXzq+mbXgWfMZeG2h/Jhz3ChVZUCC3UWl0MJR7/Wpw+EyXCF4q0bROValGGcYO0/KNqgQ1TJRS45ZxE4VmoZUuiBcCjJlaFOacVnLYRF+OSKvJxki9F7YrPSADISxix/Ho3VnySBCnUZdr9Dw==;alr6VcJv1SZBsqzrvrfzBQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-13-ibm-introduces-ai-driven-overwatch-league-power-rankings.md",
+      "title": "IBM introduces AI-driven Overwatch League Power Rankings",
+      "excerpt": "IBM has introduced Power Rankings with Watson, an AI-powered method of evaluating players and teams' performances in the Overwatch League.",
+      "sourceUrl": null,
+      "webUrl": "https://esportsinsider.com/2021/04/ibm-overwatch-league-power-rankings/",
+      "originalUrl": "https://esportsinsider.com/2021/04/ibm-overwatch-league-power-rankings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://oddslifenetstorage.blob.core.windows.net/esportsinsider/2021/04/IBMxOWL.jpg",
+          "width": 1781,
+          "height": 906,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "esportsinsider",
+        "domain": "esportsinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-ibm-watson-ai-will-calculate-the-overwatch-leagues-data-driven-power-rankings-in-2021.md",
       "title": "IBM Watson AI Will Calculate The Overwatch League’s Data-Driven Power Rankings In 2021",
       "excerpt": "Everyone loves power rankings. Well, unless your team stinks enough to land at the bottom of most people’s lists. Power rankings give fans something else to obsess over and argue about, especially in the offseason or between match days.",

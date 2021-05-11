@@ -29,18 +29,32 @@ images:
 
 related:
   - title: "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign"
-    excerpt: "Expend, a fintech startup that's revolutionising expenses, announces an impressive start to crowdfunding campaignLONDON, May 10, 2021"
-    publishedDateTime: 2021-05-10T10:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028"
+    excerpt: "Expend, the AI-powered fintech startup changing the way businesses manage expenses and spending, has announced a great start to its crowdfunding campaign on Seedrs. The company is experiencing a strong growth period having performed well in the past turbulent year with revenue more than doubling,"
+    publishedDateTime: 2021-05-10T08:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 65
+    quality: 63
     images:
-      - url: "https://mma.prnewswire.com/media/1505742/Expend_Expense_Platform.jpg"
+      - url: "https://mma.prnewswire.com/media/1505737/Expend_Expense_Platform.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "3 Ways Artificial Intelligence (AI) is Disrupting Fintech"
+    excerpt: "Artificial intelligence (AI) is disrupting Fintech by providing personalized wealth management, automated customer support, intelligent financial assistance, fraud detection, accurate decision-making,"
+    publishedDateTime: 2021-05-11T12:17:00Z
+    webUrl: "https://www.bbntimes.com/financial/3-ways-artificial-intelligence-ai-is-disrupting-fintech"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 54
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_in_Fintech.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Why fintech companies are winning big in banking and finance"
     excerpt: "The fintech contenders on tech-powered platforms will offer new-age banking services that capitalize on \"data-fueled, hyper-personalized experiences in real-time.\""
@@ -85,6 +99,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Banking-and-Fintech.jpeg"
         width: 1600
         height: 1066
+        isCached: true
+  - title: "AI Fintech Firm Riskfuel Expands into Insurance Space"
+    excerpt: "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,"
+    publishedDateTime: 2021-05-11T12:17:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "lb0iYFxtNj4DmZcRCKsuYIb/8AoA/kfyCzWOntmVUhcMnPUTlbXpvY1ozf6maliuCYAupTm78Hn+asujzJauy4fFvQoWqenaZ0OaVYEedBf/mpISiDk8+EL3ZGPm/A72puV1q0tRlLgQA/aG1A1HiBOZtQFn4zeIXZoZSQEPeJaQY0IYDZyEegxp75lBxj6cf35xjK0Cj597ZwOdvGHSlWaCYfXEQMObPm9h2In+7nXrUERIls9GTMn/LgnYye5NXMD9kD0QPJKrk/LSCI3Zs7SrNkwLyaa8S3RwT8jujMKAiVHDej15wHYP1OsxMVEohggAJ6tcQx/naqGkKEDyTo0jBxny3yLQNjJwK91f7f4=;c7wYL5fKbM9Sb/0jo8Qnww=="

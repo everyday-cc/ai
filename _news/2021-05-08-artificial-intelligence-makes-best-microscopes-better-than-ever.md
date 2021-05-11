@@ -89,6 +89,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Artificial Intelligence Makes Great Microscopes Better than Ever"
+    excerpt: "Now, EMBL scientists have combined artificial intelligence (AI) algorithms with two cutting-edge microscopy techniques—an advance that shortens the time for image processing from days to mere seconds,"
+    publishedDateTime: 2021-05-11T12:49:00Z
+    webUrl: "https://www.labmanager.com/news/artificial-intelligence-makes-great-microscopes-better-than-ever-25856"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 37
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/25856/aImg/47818/a-representation-of-a-neural-network-provides-a-backdrop-to-a-fish-larva-s-beating-heart-m.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "Uge5LxfXkUxV440xYYKoSS3F61n6Q502Sd1PA3dK6OOrOBgMjyUhDB3wB524V1jKk27JQ8yY7g/MLc0acKBmRccOqgQaL+VolMpy/V2sGSdKNHhc5SGscBSaz2WY9N3cIy2SeT/a4bhdi1GqW9nn8RUfmILNeIr6alOvkt7995bYYSfgKqcPvMsm7ZvLXCHeC3Yi1WCELRmaYoYPBYgMz7T825TV8G6gRWw55AyFyAQiTQWS9Nlp9TJsfostfPL3iVzIMdXRrAx3hjhUyIDet2ZESWleDaQPf20orsmZSnOf1yR5JYnuJM3CTitgAtJwtD9i1AygQLx1TCvEHH0BwdGhKViqZZAuYiGOvuBBrV4=;1k+YRXMHYYX6s4ErFMmcEA=="
 ---

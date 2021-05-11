@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2021/05/10/pony-ai-select
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/05/10/pony-ai-selects-luminar-iris-lidar-for-its-next-gen-automated-vehicle-fleet/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pony.ai unveils its next-gen robotaxi with LIDAR from Luminar"
+    excerpt: "Pony.ai’s next-generation robotaxi is distinctive because it appears to be missing the cone-shaped LIDAR sensor perched on the roof that’s typical of most autonomous vehicles. That’s because the startup,"
+    publishedDateTime: 2021-05-10T11:00:00Z
+    webUrl: "https://www.theverge.com/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china"
+    type: article
+    provider:
+      name: theverge.com/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china
+      domain: theverge.com/2021/5/10/22424726/pony-ai-luminar-lidar-robotaxi-california-china
+    quality: 157
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/8Z1I9ZGVVF03oCVeCijlVQaVkMc=/0x0:2085x1178/1400x933/filters:focal(877x423:1209x755):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69262019/Ponyai_Luminar_01.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Autonomous Driving Startup Pony.ai Will Use Lidar Sensors From Luminar for its Next-Gen Robotaxi Vehicles"
     excerpt: "Autonomous driving startup Pony.ai announced its newly designed perception platform in collaboration with Volvo-backed Luminar Technologies. The next-generation fleet of self-driving Pony.ai robotaxi vehicles will integrate Luminar’s new Iris lidar sensor."
     publishedDateTime: 2021-05-10T21:00:00Z

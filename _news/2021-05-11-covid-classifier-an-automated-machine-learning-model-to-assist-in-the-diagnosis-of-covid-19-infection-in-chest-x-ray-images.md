@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Covid-era Education Tech Narrowed College Learning Gap for Poor, Minorities"
-    excerpt: "The demand for artificial intelligence and machine-learning skills, for example, is expected to grow by 71 percent per year through 2025, according to a recent study by the business analytics firm Burning Glass Technologies. And online education tends to ..."
-    publishedDateTime: 2021-05-06T19:45:00Z
-    webUrl: "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355"
-    ampWebUrl: "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355?amp=1"
+  - title: "Jobs Lost To Industrial Robots Amidst COVID-19 May Never Come Back To Human Beings"
+    excerpt: "With intelligent machines on the horizon and with an industrial focus on enhancing productivity and lowering costs in the post-pandemic era, artificial intelligence (AI) and autonomous robots are destined to win this bid of the future job market."
+    publishedDateTime: 2021-05-09T17:20:00Z
+    webUrl: "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/"
+    ampWebUrl: "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/amp/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://d.newsweek.com/en/full/1789945/online-learning-unlv.jpg"
-        width: 2500
-        height: 1729
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6097f52c903ba592d51003db%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "fQfQDdFDxz06tsp6znbzt/fdke5r6iwsRWGtv7Hc8E2Ndq61y4ha8syhkYfjbhNsvzmQYNAodx9xWA5kfpW+nP0+9Cj3LLHM361vUKTMQloW9JIvp+ub+J38xCEvcrSnnv4TQdWWYmRUPr8oV/PrkoVjhVyqYwBWj+J6L/mamPsJRCgW6CsKjcXqgFLPDUKGZXFKnPzaI60vlQ4c47wjXtxKDrC9YnnfK46x5FBiJ5H5A6Gd39FzRtyLOZ+8RPvmUq9tEZzQsigNlGPZU/NfMBp/6dZx0F5Zo+L6K5zi5PgZbGoZ06TahPdSIx07owWaTzA3pzgJ2JzouAfowXsp9EQWr65Tf3aa0HaVXn9Zy038sEBhUvJk8UqUFuTWTeUMtxT3Y5MWoOzZLxC1kHj5Sx4MDBYkRO7d1e5FRW07ZIEQ06sSGmhz2gTcTlQM1sXuDXTUcM1lxHm0obwDwSYpGEArs9fQ1qkCUpCbD8JSiio517uUZ4lhmBd3JgB/vHM+fQkGi4E982WCNBfsmDpLxw==;HnLgCFNgHlvnQtC/QDpLKA=="

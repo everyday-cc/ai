@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-05-artificial-intelligence-great-microsco
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1620488160.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Artificial Intelligence Makes Great Microscopes Better than Ever"
+    excerpt: "Now, EMBL scientists have combined artificial intelligence (AI) algorithms with two cutting-edge microscopy techniques—an advance that shortens the time for image processing from days to mere seconds,"
+    publishedDateTime: 2021-05-11T12:49:00Z
+    webUrl: "https://www.labmanager.com/news/artificial-intelligence-makes-great-microscopes-better-than-ever-25856"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 37
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/25856/aImg/47818/a-representation-of-a-neural-network-provides-a-backdrop-to-a-fish-larva-s-beating-heart-m.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "Artificial intelligence makes best microscopes better than ever"
     excerpt: "During a recent study EMBL scientists combined artificial intelligence (AI) algorithms with two cutting-edge microscopy techniques, an advancement that shortens the time for image processing from days to mere seconds while ensuring that the resulting images are crisp and accurate."

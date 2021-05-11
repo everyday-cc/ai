@@ -39,6 +39,20 @@ related:
         width: 685
         height: 649
         isCached: true
+  - title: "Integration of machine learning and genome-scale metabolic modeling identifies multi-omics biomarkers for radiation resistance"
+    excerpt: "Personalized prediction of tumor radiosensitivity would facilitate development of precision medicine workflows for cancer treatment. Here, the authors integrate machine learning and genome-scale metabolic modeling approaches to identify multi-omics biomarkers predictive of radiation response."
+    publishedDateTime: 2021-05-11T12:56:00Z
+    webUrl: "https://www.nature.com/articles/s41467-021-22989-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 11
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-22989-1/MediaObjects/41467_2021_22989_Fig1_HTML.png"
+        width: 685
+        height: 623
+        isCached: true
 
 secured: "3vAe+tHNsRBWMqCWUM6Z0RlLHzqnLIu/5c2+T+boOwetRUloYrxMkZubXAXmmg8bno5qewJu9HtO0HNL3pofDyCI5cJXY50e6zKRozgyciM/7leNTsfBmNBqkwmCQ8x6bqKO6DuJVdUBNdTltfmxFpIxA2VuCqQXcqdyLl4j9+4s+w7KVmx+Wn+1+7447se0AGS+b72XK+Snb2dtcIb20clvZv3QBmGQaypu0WhImyHwE5PfF1gxtGCeIbmV94P8Kg7Su7AbErQ2TNYj6qu0YHRFDnMbDsluKZorrfugfct5jJCGOUYB5PkEH8spkaOLZY7HmsGtdf5W0+3p6XinigNYqq7apeDxUF2qPqFBxbRLr8JUqFMsUI1hU7earw9B9Jf8VvDWVMHtkAduTVV4oPKPJqCeXh7Tujus9MI5+Z9zVjgExtiF/agvZ7ViuF6HcdKYekfNJ50DGUVBg3y87s5/PYGN1LwigrzZ+HVaLB+uRyjwQeThwTEYBVXY2fg2kZQjtw8ojRvjP6ALVB/iFQ==;A541+0QR7w2LgPNW8DHVOQ=="
 ---
