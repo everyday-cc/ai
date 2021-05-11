@@ -1,20 +1,24 @@
 ---
 category: news
-title: "Baidu rolls out paid driverless taxi service in Beijing"
-excerpt: "BEIJING - Chinese tech giant Baidu rolled out its paid driverless taxi service on ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ..."
-publishedDateTime: 2021-05-02T14:08:00Z
-originalUrl: "https://www.thestar.com/news/world/asia/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing.html"
-webUrl: "https://www.thestar.com/news/world/asia/2021/05/02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing.html"
+title: "Baidu Rolls Out Paid Driverless Taxi Service in Beijing"
+excerpt: "Baidu Rolls Out Paid Driverless Taxi Service in Beijing ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding experience."
+publishedDateTime: 2021-05-02T13:15:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing"
+webUrl: "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing"
 type: article
 
 provider:
-  name: The Star
-  domain: thestar.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "TI+nfBCgGBZJl1jQdXUZLCqs5eE35K6OI7AmFyr+jJ5sdp0eZv5UO2QTRQo66iUSfWqIlIFgHdKsAuABDmLfvecJ4khykvoECWTzg4PKYnaJp3wti8aqM4yPjk8c8zN66s+43vbij0K1Rs1Mko7PG+50Qenp8lNaR2lIsS/yg0pdIwPaJgBZl7Px1qgTF8p+VatWzQEXCOp2GigHkwOPD2vhkGUy7exAiaUiEQ8qSTn1T+aha7LkALdFGOPwR5RTbYVhF/dcMzBz9x+QMSHyc2muZQGJEQGT4BWpw4GHI3dwMFGgNavBXGwoB6bibOrtCpDUe9p+rAIzucULnyogawCptQ4iPx/QkU1bSvSPvEI=;SyAW5FXGrYZmEbQ2NKqxFA=="
+secured: "1M2Nvbpa5V+1pQ9mGdC10DCyhWmtd5T2Ml3GAMJwiYi3ABFO73ZKYmHslx0NLR2qQiwChZIghr9V/WeekEz5AY79/FEvZeLm3NmU16qom2q6ZavhqAr7Nl7wAorP49o3JGXqVtzgHKFId8VLWq3AVI1J9lSRtGITO6IK3yR4yYCRuL0vBwv7yXBeLnXrMHpWOZfFFTVfNgERMxu70r9MVJJFDF4hxUhlwpif2pIvekViBzzufkxyr6oI77Sg3I+V24lR8YqlbBtDipvrd5XTZUnAHiYTaCOO2B9QSzkAdXg/r25LOofY1TfhREQaAXi5+acgU1/3/DVAV6yT9CwGKkq84WuuV/1ckfXYARnXhiU=;uL4AUUna3l1EUDTWbgYUgg=="
 ---
 

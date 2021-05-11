@@ -35,7 +35,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://www.abnewswire.com/uploads/1620653687.jpeg"
         width: 400

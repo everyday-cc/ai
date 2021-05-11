@@ -33,7 +33,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://mma.prnewswire.com/media/1505742/Expend_Expense_Platform.jpg"
         width: 400

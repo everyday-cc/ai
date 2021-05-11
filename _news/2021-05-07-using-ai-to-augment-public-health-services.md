@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. government recognizes Austin company using artificial intelligence to close health care gap"
-    excerpt: "One Austin-based company just won a year-long, national competition to help doctors address disparities in health care, by using artificial intelligence."
-    publishedDateTime: 2021-05-07T23:49:00Z
-    webUrl: "https://www.kxan.com/news/business/u-s-government-recognizes-austin-company-using-artificial-intelligence-to-close-health-care-gap/"
-    ampWebUrl: "https://www.kxan.com/news/business/u-s-government-recognizes-austin-company-using-artificial-intelligence-to-close-health-care-gap/amp/"
-    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/business/u-s-government-recognizes-austin-company-using-artificial-intelligence-to-close-health-care-gap/amp/"
+  - title: "IBM Launches New Cloud, AI Services in Bid to Modernize Business"
+    excerpt: "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence."
+    publishedDateTime: 2021-05-11T04:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business"
     type: article
     provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 46
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 71
     images:
-      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2021/05/Health-care-worker.jpg?w=1280"
-        width: 799
-        height: 446
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idoP3yFiGpRY/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "AOHRqyoEodFxH9JiJ9z44sn4G5d8cGfONAfaBpuMlKF/DbKTtSeRDtmqmN+aTdw57X0mdNVqOI23oGlNoPgzEpyOFlkk8GkUVNdHjFCmwRXT2HTGBb0Lmd7l2G64bsPQvOv0Fccoo7IO4MYBMaYqg/LeE7cZKN6iI1/d9mHGenYt3FlYH9SfawWgnMN3Jam/KBNeMx4GLQU25JLPYjGV8mk/X649wIzI+NQgq/diXO148qUOjvQihsP29m5cXqLw3Gq6wsTTQqNiAGOcjzC7buZo0YNaiLQgxcPNqL/4WG/MSzlB/7RTLSk+JwOa005boZDDBvX1xByxwzpk0pHPwRtuNexYMtWi/VaWItkfM2Q=;ASMV9yJFaWOTWujpXG0yIQ=="

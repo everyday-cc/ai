@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2021/05/07/samsung-develops-innovative-
 webUrl: "https://www.gizmochina.com/2021/05/07/samsung-develops-innovative-i-cube4-chip-packaging-technology/"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Gizmochina
@@ -27,24 +27,6 @@ images:
     width: 1000
     height: 563
     isCached: true
-
-related:
-  - title: "New Samsung Tech Makes Chips Faster & More Power-Efficient"
-    excerpt: "Samsung has developed a new I-Cube4 chip packaging technology that could significantly improve the speed and power-efficiency of semiconductor chips."
-    publishedDateTime: 2021-05-06T11:30:00Z
-    webUrl: "https://www.androidheadlines.com/2021/05/samsung-i-cube4-packaging-tech-chips-faster-power-efficient.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/05/samsung-i-cube4-packaging-tech-chips-faster-power-efficient.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/05/samsung-i-cube4-packaging-tech-chips-faster-power-efficient.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/05/Samsung_I-Cube4_technology-1.jpg"
-        width: 1000
-        height: 719
-        isCached: true
 
 secured: "1rvvymVlq0BApo4HzyCJjfrY8j4eeqKINU3REFMs1riu3TJ+PAwhU9PiGRZ/AYYcPvTsYcTDq231+kedxgbQbt9mnubfZD1SWMaaAzTswzXsQu8J9LrUNX0MNJh1BVFRNhJ3s6pssiIUe+FwMQHxHR/0IjBCA47HdELyoqQ/ywth1nKWDDh5PFR3Ni2rXTnZrUIAF/smPDA7ed7Ai+NqM33PlNAZ63IpHhmfJPHN8tpMmsoTVu2pW+X82WzZtf8T/21YUY6F7M+wnhrrHghkeWQeuBWv8fvMeT3XtLmRqpo1/o2E9PuofWO8P7CnYNR3YPHAOiGcBIEg9IOpfci7JurMFgi9gLNav59sWIr9VQI=;AZghZDqXKdSTvik8kDDwqA=="
 ---

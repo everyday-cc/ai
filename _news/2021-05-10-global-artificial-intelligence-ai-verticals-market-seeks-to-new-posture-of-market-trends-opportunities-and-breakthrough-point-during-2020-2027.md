@@ -35,17 +35,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
-  - title: "Machine Learning as a Service (MLaaS) Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Machine Learning as a Service MLaaS Market size is expected to grow at an annual average of 43 during 2021 2027 Machine learning is a computing technique that gives computers the ability to learn and modify analytic functions when"
-    publishedDateTime: 2021-05-06T12:44:00Z
-    webUrl: "https://www.openpr.com/news/2281028/machine-learning-as-a-service-mlaas-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2281028/machine-learning-as-a-service-mlaas-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2281028/machine-learning-as-a-service-mlaas-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
   - title: "North America AI in Computer Vision Market to Hit US$ 32,565.09 million by 2027 to Grow Steady at 45.0% CAGR | Covers Impact of COVID-19 Pandemic"
     excerpt: "The AI in computer vision market in North America is expected to grow from US$ 1,761.21 million in 2019 to US$ 32,565.09 million by 2027; it is estimated to grow at a CAGR of"
     publishedDateTime: 2021-05-07T01:55:00Z

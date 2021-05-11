@@ -317,6 +317,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Tesla, self-driving vehicle industry need federal oversight"
+    excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."
+    publishedDateTime: 2021-05-11T04:00:00Z
+    webUrl: "https://www.decaturdaily.com/opinion/tesla-self-driving-vehicle-industry-need-federal-oversight/article_e68aecc5-33ed-5ec4-981b-a33cb89cc9f0.html"
+    type: article
+    provider:
+      name: Decatur Daily
+      domain: decaturdaily.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/custom/image/fc789116-dbde-11e5-a5bf-7b346753e730.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk's own executives admit to the California DMV that he is exaggerating about Tesla's capability to achieve full self-driving technology by the end of 2021"
     excerpt: "In a memo with the California DMV, Tesla's executives privately admitted that Elon Musk is exaggerating about all of the company's cars to have full self-driving technology"
     publishedDateTime: 2021-05-07T21:50:00Z

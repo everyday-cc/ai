@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21050616/travel-and-hosp
 ampWebUrl: "https://amp.benzinga.com/amp/content/21050616"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21050616"
 type: article
-quality: 50
-heat: 60
+quality: 52
+heat: 62
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.abnewswire.com/uploads/1620653687.jpeg"
@@ -41,6 +42,6 @@ related:
         height: 250
         isCached: true
 
-secured: "vi1LkcHPl7+X7USNs5oxTPE1IZRanFPGnMh5KQhz40/lZrJqdyBWk+e8wbwDELnCa+XHwfjZ31l2h/KYOgzSza/UF7kayRs0N+Tnb6/QS2uMd4ARjhICDPkvfEXdZ4yFZxGUjvf8VSvrnWthwiThE6czujDBleIe07NjtegGN/tE7Si3wpG84PzZW20Srkesdchr1h866tG8sZ1er3AVg728Fgt25Gx2Rcb0UiYT5Myl72HzqdpkbDHQS+go5UN5c3izP4b1gEwsKU/fa/Xj8uFUYlCToX9tekjeNRao4neCUfXhuRkG3MjIwG+OKTMBm09zrHUy8LeBPH6Ce7rnpMuuXDeKpPKoP2U94PCODEY=;M6xJLgKhtIEwncMX20Ru/w=="
+secured: "ur9L4aUAYleTGo47RVHrqOk8UKjAA7AgiojILhAvtXQ7RvjSfOwZ/cgLdsZIucilid9BWVLx987eYXpdSqSqjWoQXvqbLjx/ZP3ZwrojrqFi35v7w477pBVkPMqNyoDs77ACI8rTqj7DTrZWNZJWp9STHGGQr8Gtha1EQjd9+LfqCt1rtg0RkM55pxOCVS/02n79i9S7dQJNuYy1Tih6Uo4CyiP83CUJExB2V08GmC4oIXt0d8zpc+Ph0wRLSpivCPiLu5dpk1EoUQ0mQ26aXY8IHkq/+dXVYOCdts/qFmLaPJmGln1/JZxlengCmkX7iiNG09zz9QauCFZiyk9mKpLC8dhAkUBWCPI/IUl23Nw2XUWfAG8liKCubZXidszuwhxUJpjoUDLfOgpaexOx3y9Aihh00qXF3O5tkDnpn+r7/3bfWFdI5tYOHZo/ZVojEv4BB/dO+RYvek98cNXH/rCktEiQTpGy6s9BfKNz944Dg4KUleEtwW3g1th8W5Spz7XDQ7G62W9D7j5Gy0e7EA==;o+BwcOVf5ydg8x8+m27acw=="
 ---
 

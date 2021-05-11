@@ -26,15 +26,6 @@ images:
 related:
   - title: "Procore Acquires Construction Artificial Intelligence Company, INDUS.AI"
     excerpt: "Procore Technologies, Inc., a leading provider of construction management software, today announced it has acquired INDUS.AI, makers of an artificial intelligence-powered analytics platform for the construction industry."
-    publishedDateTime: 2021-05-06T12:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210506005132/procore-acquires-construction-artificial-intelligence-company-indusai"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 32
-  - title: "Procore Acquires Construction Artificial Intelligence Company, INDUS.AI"
-    excerpt: "Procore Technologies, Inc., a leading provider of construction management software, today announced it has acquired INDUS.AI, makers of an artificial intelligence-powered analytics platform for the construction industry."
     publishedDateTime: 2021-05-07T08:54:00Z
     webUrl: "https://www.financialbuzz.com/procore-acquires-construction-artificial-intelligence-company-indus-ai/"
     type: article

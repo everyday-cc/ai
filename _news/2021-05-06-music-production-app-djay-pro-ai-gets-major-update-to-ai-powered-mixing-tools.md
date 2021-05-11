@@ -27,31 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Expert.ai adds emotion and style detection tools to natural language API"
-    excerpt: "Expert.ai added new tools to its natural language API to help AI developers detect emotions, behaviors, and styles in large-scale texts."
-    publishedDateTime: 2021-05-10T15:20:00Z
-    webUrl: "https://venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/"
-    ampWebUrl: "https://venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/amp/"
+  - title: "Product design gets an AI makeover"
+    excerpt: "Engineers are under unprecedented pressure to build products that are used by thousands, if not millions, of consumers every day. Just ask Bernd Zapf. Head of development, new business, and technologies at Heller Group,"
+    publishedDateTime: 2021-05-10T14:00:00Z
+    webUrl: "https://www.technologyreview.com/2021/05/10/1024531/product-design-gets-an-ai-makeover/"
+    ampWebUrl: "https://www.technologyreview.com/2021/05/10/1024531/product-design-gets-an-ai-makeover/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/05/10/1024531/product-design-gets-an-ai-makeover/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2015/07/natural-language-processing.jpg?w=1200&strip=all"
-        width: 925
-        height: 611
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/MIT_Siemens_Quotesmall-copy.png?w=500"
+        width: 500
+        height: 368
         isCached: true
-  - title: "Expert.ai Adds a New Layer of Human-like Understanding Capabilities to Its Natural Language API"
-    excerpt: "Expert.ai today announced advanced features enhancing analysis capabilities through its cloud-based natural language (NL) API. The new extension addresses one of the biggest challenges artificial intelligence developers face in the NL ecosystem – extracting emotions in large-scale texts and identifying stylometric data driving a complete fingerprint of content."
-    publishedDateTime: 2021-05-06T14:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/expert-ai-adds-a-new-layer-of-human-like-understanding-capabilities-to-its-natural-language-api-1030397108"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
 
 secured: "w3Us4Lt7iEUy0a8vWUdus/NyZE1bS+XGNTbo+xS/An8OgTwpg38Fgxh6zeNZXLiuEReXDWzourBu1EblRXqBcgKRxCPG/rr/YXqv8Ds8cjtuuCNlIshl0tAwsZ69hQgiGeyDZjUJHQ9yA6ahvXo+CfomnH7x2iqdQEGpLWjTDX1dHlviU33oMLQphwARlQy5S/v487MtKI6znYFkhaXJk9e00rcevAu1lP3TIPumPIPg4dPVsnIFEyrKKGRoQwQgze7AaRdqVqnA3SbzOK1eO5imfRmMFeWCXLlEvb6FRLePyOmvWwRyWPC8MVLpErlMdGc2QVwRqXGdmG6liC2l9YSVDRkcyDEqhBPlbqGUvjlxjuwMiVc9WaR2BXSDX4jUE3/v1+MtDBb45qD0eYWQhiZCvkTbzAx/4FX3QhdaEuwvBYW1oZXvuSDTCQI/I7bSpUMiA6akX8ybJWQZglSTLZVv3Q7OIkbRulRa1BflB1smnOiCMCCf3Dul0caJH/rPPCSIyMP5EsaaXXfRiZ7KbA==;u5Cgunm1pCNUTqP3U5ZaPw=="
 ---

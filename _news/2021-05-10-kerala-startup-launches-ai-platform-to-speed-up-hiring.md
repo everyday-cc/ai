@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/states/kerala/2021/may/10/kerala-st
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/kerala/2021/may/10/kerala-startup-launches-ai-platform-to-speedup-hiring-2300569.amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 600
     height: 390
     isCached: true
-
-related:
-  - title: "Start-up Zappyhire launches AI-backed platform to quicken job hiring"
-    excerpt: "Smoothening the typically tedious process of hiring employees, a company under Kerala Startup Mission has come up with an AI-based platform that facilitates quick induction of top talents without altering the existing recruitment process."
-    publishedDateTime: 2021-05-06T11:24:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/start-up-zappyhire-launches-ai-backed-platform-to-quicken-job-hiring/article34498321.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/start-up-zappyhire-launches-ai-backed-platform-to-quicken-job-hiring/article34498321.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/start-up-zappyhire-launches-ai-backed-platform-to-quicken-job-hiring/article34498321.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://www.thehindubusinessline.com/opinion/uul91l/article34152080.ece/ALTERNATES/LANDSCAPE_615/bl25Think2StartUp"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "k55g0S6/Y3pPg1JNoXNAyo7Qef7w46Pz3zJw+W9lBWHBDhYVm7y36/6PQjVSOALA2b7hWcVr+oLmicFk04fzetRjVGcjQ08c1wkzD9F9t/24+BcyHHsRxvXaS1j+OyDH0FO9b+/PLEGBG7e2s1vHyyzdS+7KKtq349jraRu7Imbp/WMFYFUMBKPI4wFWUdvkhGcieDDmXQk5baA7TEfx7mIvDZvJ9AwiRcsYNZQSNXF0ORHyoZpopp5vi4f3a3IpSuaBl1oUO4LLDXqBxLk99JhjhlDICpf7SG9MJpk8uWRwKdqD9BnLVIu2W0YdXqS4d/EPFw+8wYgkEQtt3IJJ5dpNR669sbsvmzdogvp5z7CTFCF30p84U3wNrde1SvxpBtKRROQK6XWbBsjjJ+HhMQrwbmbhaKBIGOaSVRLD+wt5nOjOgdEVL8vCntB4JKkF+EhIM9YjlqZklzoXTAUkFHSbU+EV2vWOQYPKDP1TWV7csyN0Tgmn+7bNHnVe1aArgzoF5eXBqJs5VnSowOCKBQ==;BimbSHzDUiXI8GBAlakkAw=="
 ---

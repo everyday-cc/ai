@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-10T08:16:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028"
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028"
 type: article
-quality: 63
-heat: 83
+quality: 65
+heat: 85
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1505742/Expend_Expense_Platform.jpg"
@@ -59,6 +60,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "soWGoU6kiqgEB+BeUtkfCzuZRszxuqYQC5BFtMJSca1HTpM6uXtfm1A3j2+nToYSNmhqnMkw/zUMxN4T8mfma0BE1Jza+wC/qPiL1gZujwuPS+hECftC3al2q4HLO7fjAX2izAE+N05TrybmAk+DAh/WwL3c2VW2HHl2PLyQWWfDxP8Bih8P7D8wr4qVpDI8ec9XZ1lPiTBRiX1xgONMgm0TNgV8/4IC34UcmepJqqJiEmm8RqKC9h7raZB+PxqPu+6gtaeSpQQhRRHqcLwWdywqj/Q+vG4al1vNozjwifkqh7HWLtha73w94s4bFda8rl9UhIUbsxypLBj6W2pPblenT5MKiJCfwrhfwIHcsFg=;Rsw7Os/lS3cFi2yod0rF1g=="
+secured: "KNaMOrarkeC/DTVnbVTrzHrdcw0h5vJ+u0zELFgED/Wvr1BK0SeQM3Zqly0Uufi0/Q74GhNl5ZeaqOiPdZlHweqwvKbmMwvmEN8fOfsvNcrdJBOD1dxmUSBgFXLMExf9ikbDKpwNN15LHukbdMLnkIZAKUqih0cg9LOT2fFr/haOzHhaQgD0YdMbvQpfBhqvaMOmQ/TmMkQWBLSmXB3dJCj1mrnFQgPQraR0nigp6fp3nh1qfx2041UQ6f7FbvuWqtImTYO7QC5dCST3YXYiPkRII1LZYUoyeClRIYbXgh6w4LPaps4caYrrk/1W9UpnkrUPbezXNrWIXSqs+X5tAUHryq5s56O/vljzOAm/YDB6ZxyPgjSfRddS3kx0ziPqphOnxMKe9gV/MbwkNGmme6uFtLwTvp0VysuVfZGlFQAjeQ5vgBIkNsdCVa8vI4uUO7pQUsZceImFiv2gUMeiRXVtcGPBXZvJycXJwyf5bTrLnc4v8XekrLTIpfE2tYhQwyeh1b6vI+1OX7XbZoxOAw==;T7MEm02+YtuCCoegXLq5ZA=="
 ---
 

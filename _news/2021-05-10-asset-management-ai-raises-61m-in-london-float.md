@@ -7,7 +7,7 @@ originalUrl: "https://businesscloud.co.uk/asset-management-ai-raises-6-1m-in-lon
 webUrl: "https://businesscloud.co.uk/asset-management-ai-raises-6-1m-in-london-float/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning enabled Insig AI, which Serves Asset Managers, Lists on AIM London Stock Exchange"
+    excerpt: "Machine learning (ML) enabled Insig AI, which serves asset management professionals, lists on AIM London Stock Exchange."
+    publishedDateTime: 2021-05-11T04:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/05/175157-machine-learning-enabled-insig-ai-which-serves-asset-managers-lists-on-aim-london-stock-exchange/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/05/175157-machine-learning-enabled-insig-ai-which-serves-asset-managers-lists-on-aim-london-stock-exchange/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/05/175157-machine-learning-enabled-insig-ai-which-serves-asset-managers-lists-on-aim-london-stock-exchange/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 60
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/London-Stock-Exchange-City-of-London-Wellington-UK-300x225.jpeg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Insig AI lists on London Stock Exchange"
     excerpt: "Insig AI, a leading AI and machine learning company serving the asset management industry, formally launched today, following its listing on the AIM London Stock Exchange."
     publishedDateTime: 2021-05-10T09:29:00Z

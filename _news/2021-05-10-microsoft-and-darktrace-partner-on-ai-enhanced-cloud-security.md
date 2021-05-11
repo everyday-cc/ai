@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp"
 type: article
 quality: 121
-heat: 181
+heat: 161
 published: true
 
 provider:
@@ -45,34 +45,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2021/05/1620674547_darktrace2-2-960x640_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "Vectra Cognito now available in the Microsoft Azure Marketplace"
-    excerpt: "Vectra AI, a leader in threat detection and response, today announced the availability of its Cognito platform in the Microsoft"
-    publishedDateTime: 2021-05-06T12:08:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vectra-cognito-now-available-in-the-microsoft-azure-marketplace-301285443.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Aqua Security Appoints Former Microsoft Azure Executive as Chief Customer Officer"
-    excerpt: "Aqua Security, the pure-play cloud native security leader, today announced the appointment of Sharon Eilon as Chief Customer Officer to"
-    publishedDateTime: 2021-05-06T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aqua-security-appoints-former-microsoft-azure-executive-as-chief-customer-officer-301285543.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 66
-    images:
-      - url: "https://mma.prnewswire.com/media/1217037/Aqua_Security_Logo.jpg?p=facebook"
-        width: 799
-        height: 419
         isCached: true
   - title: "Microsoft eyes to bring AI capabilities to Philippine health sector"
     excerpt: "MICROSOFT Philippines, Inc. is looking to bring conversational artificial intelligence (AI) capabilities to health-care institutions in the country to help them address their patients’ needs, its top official said."

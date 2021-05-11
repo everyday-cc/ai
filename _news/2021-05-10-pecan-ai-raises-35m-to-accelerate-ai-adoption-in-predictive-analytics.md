@@ -38,20 +38,6 @@ related:
         width: 512
         height: 288
         isCached: true
-  - title: "Brytlyt’s Accelerated Analytics – powered by GPU"
-    excerpt: "This featured whitepaper, \"Brytlyt's Accelerated Analytics - powered by GPU - Why today’s data-driven businesses need GPU acceleration,\" discusses the analytics challenges businesses are facing today,"
-    publishedDateTime: 2021-05-06T12:35:00Z
-    webUrl: "https://insidehpc.com/2021/05/brytlyts-accelerated-analytics-powered-by-gpu/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/04/Accelerated-Analytics-Cover-Image.jpg"
-        width: 646
-        height: 907
-        isCached: true
 
 secured: "UMtUGkgJbkQTE5/T2eJfiAcgZmCxkRci1w8Z1PJPBpxbBXLYTMVbMUcM13Wg3YvjyiblECGesl7uSstBf0RaZ3CY4hM967GHuKEQG19/mTzuUsbaWeKxCUqZ/iOWbZtf9zd2QyvHI/3NEtqN72NqFlVmmICG2aGQA/yMetJR5bwuXMhoCrrbWPMYOtExLLp5lGnHyRRxFQqwiNHtyLpPDQMiVhRbCb6j6qpX7j9mnQwDXsf05Pgm8qYTCtGD0IjA01BPAmw9UCUtTb/1QZOuofjgEip/EGRl23TSTVEWXsMVi62yVCBnqdPkesZPdnULzyv4H29wqIM8uUgE+6eiUGYfPBPwPwRxQH4aAWkx6ibPlpREa8TQ/r8h92gCK8HVvWzul9pe5GVk99VVQEohYqRFT3/KHUYHWfJ7JhGqcAWHpo5LqwXtwyv2lgDqShnr9v6co/3zXlMFIJDZNneiHPbPgYJ/ThTQvKeWCkBRxFZpDUoKsNOu0S2LEzuZHNM9gYBYudvD2tG04I9vQ0AEOQ==;S9HWXUPB7P07gIyLrnCCPw=="
 ---
