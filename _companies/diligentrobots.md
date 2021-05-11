@@ -2,7 +2,7 @@
 name: "Diligent Robotics"
 overview: "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments."
 type: "profile"
-heat: 71
+heat: 50
 
 website: http://diligentrobots.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=vniKNpy5SFs"
 
-secured: "6nDjYDHh2B8sdK+cN4B38M00+umCy3Po1R5FtW+V8rii8WDuNQwJSRURES7Rq4JTIhSN8zg1fit4qCM95srWO9fYY5BRvnDX5ogWoeVVJD1RdUsJ8QC/Cuogk8ER4wvbqVAS94gW1/y64aj1xh7+o8+k23ya90ktAP2wbiK0tBPg8BwsaLDsm+76N5OaTjsg6O0mz1So0Whr855L3KFf95viYLuukvDrav/bNs6C50nM336zL12FzoMoBR5xYInZRTJoQb6I40x7ePfxa8Ncduq0qwi1nsfKpmFmsdirpeJ7CW8UExThVrKtw5L7pjYZS7vuHIhG1r5OvpdL+tMY+rv8uJwnTbkeWqLdWjJ63WkzoeR3J+t1SNosa3t4p8QTa5Um6Iu8k8I8NqVxuKEuRw==;YBSeH+cPavOmzcj5ksITBA=="
+secured: "ItPWp2nlB3gN6BWsc4n48UKJ/s0IAI5WpxGQORtVW3ZEI20LcOkk8fldt3VpeaWYtwC/yeIoBQUMKPIfjPjQDRJbwpWYgjBt8K+UobOvYe1+h6GwX3kYdpGSb9M3L/r5jb4XfIkZIeNmqoKYhxX5tkhUpWB5qawUBE3G5Zqwa3L7tlbdRI2ENR5SH3dCNxhaN4oh16k3svLr1XdUDLiG9toetcVTknb6bMn0jwxIkHsr1d9Hl5TEwASxFrK3Yiica1lDktEcFBIdJKKb12I+Rz/RaVTacEXveq8GU+/IV7Zmrisp936UI3L2LfHAFJVnmFNObDroGKTboaBcBNXy9oOnkg1+vgLQCp6AGMe2Z0jd2ss4RLWdyNz9VnoWf9+4tUJ1b6RD4QnQJc6wsSW+jg==;POyLrZLmFd6xRtTuWr6Z2Q=="
 ---
 
