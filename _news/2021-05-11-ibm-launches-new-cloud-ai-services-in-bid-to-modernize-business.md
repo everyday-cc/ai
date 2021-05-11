@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM Launches New Cloud, AI Services to Drive Productivity"
+    excerpt: "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence."
+    publishedDateTime: 2021-05-11T16:20:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2021-05-11/ibm-launches-new-cloud-ai-services-to-drive-productivity-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSJLLWoOckV8/v5/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "7LOsTXYHbn7v4mywuLuNCtnrtP4yh4xB7tBZC96+HyLCufQLkJRdO3xa5WhZyiotm5LQhMRklzp0oO/5Hl+2rXwfUqToFOaRm3FaDQifE5MsXGcSUVcg848T13ndtnvWT8PxHrqsZ+qBXJ/u4gmXYwoNyv4cTfvLChweutW++sS77aqga+m7M4YBKvvaMJUmLWjcrLSogXtJwu+CqsFdLZJpwo7cgEY0VIja52k4Bazy9+ZfkPrVbair1QO3ha1nxTzTOkZISsYOuaRU+RrThi/r/k07lOgbCLer6ypw1sTBtSe1SjB7c96uXQx5jog6SrMBIMrh/zKpahHTHyC/hz31rdUFqyXAIA978QsLKCxuXkUlyNrtuvRg/SZ2Ok8ZpeUuYrw7W57dt3u3Lc5kvzlmThbpuAo8MzhQHr70DrXeFMybMxzAqSD986cDuadotFWK9j4zpIsFAEJtyhtMfK++s0W8TqvUYXvfyiiZnDT5iEhOO7YW3qu96k04Da8p8ht95LWxQX6yH3iGq90Zsg==;45ej36RkNr8L65I4thNk3w=="
 ---

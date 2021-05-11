@@ -7,7 +7,7 @@ originalUrl: "https://fintechzoom.com/fintech_news_ibm/ibm-big-blue-goes-tiny-wi
 webUrl: "https://fintechzoom.com/fintech_news_ibm/ibm-big-blue-goes-tiny-with-worlds-first-2nm-chip-tech/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 960
     height: 540
     isCached: true
-
-related:
-  - title: "IBM Sets Another Smallness Record with 2nm Chip Blueprints"
-    excerpt: "IBM said the new chip is designed to achieve 45 percent higher performance and 75 percent lower energy use than today’s most advanced 7nm node chips."
-    publishedDateTime: 2021-05-07T00:03:00Z
-    webUrl: "https://www.eweek.com/pc-hardware/ibm-sets-another-smallness-record-with-2nm-chip-blueprints/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/05/IBM-Worldu2019s-First-2-Nanometer-Chip.jpg"
-        width: 718
-        height: 464
-        isCached: true
 
 secured: "xzmAUk214OJxEp3Y7FN1NeIYyh/I6PCGLAoLEUcvzOcezhCkdG7g4qpLqrJP9VofIM4jTEJRFEzQp0xMSXWO02dnZSb0sZn01CzZ7R9pKMc2QGShqbqQKehTV7eP02M0TvpFji4VafEeZrVEckjFYkJIa+gcTRInDNRMpEv/JJmgbiCsvsvUpZYw8YEr/zFf+CQZHLxLcr7vJQA7G6Jnyv5luCtosdJD2o5pkDBnSbPxQu+5etCNHoBde0kdkrbH0Aoy62SmvDvMpEGFS45mKHbeLQriYKBTwfiSVqh6Um9/uo9Xea5dfuzf9baJ18LGRmgtBtNi9e/zQjbCGJX+1l20ts70xfJ+BvGnPE2XoIY=;Qrvh+qtkpf1r1i4GCnRVBg=="
 ---

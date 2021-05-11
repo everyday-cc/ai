@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-11-google-plans-to-double-ai-ethics-research-staff.md",
+      "title": "Google Plans to Double AI Ethics Research Staff",
+      "excerpt": "Vice President of Engineering Marian Croak also said CEO Sundar Pichai has committed to boost the budget of a team tasked with evaluating code and product to avert harm, discrimination and other problems with AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
+      "originalUrl": "https://www.wsj.com/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-336712/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-plans-to-double-ai-ethics-research-staff-11620749048",
+      "publishedDateTime": "2021-05-11T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-nurses-are-essential-to-ai-integration-in-healthcare.md",
       "title": "‘Nurses Are Essential’ to AI Integration in Healthcare",
       "excerpt": "Nurses are also crucial stakeholders as hospitals seek more uses for artificial intelligence and machine learning to deliver care.",
@@ -106,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1404,58 +1456,6 @@
       "ampWebUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/amp/",
       "publishedDateTime": "2021-04-19T21:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-survey-finds-talent-gap-is-slowing-enterprise-ai-adoption.md",
-      "title": "Survey finds talent gap is slowing enterprise AI adoption",
-      "excerpt": "According to an O'Reilly survey, enterprises are struggling to overcome a talent gap in data science, affecting their ability to adopt AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/",
-      "originalUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/amp/",
-      "publishedDateTime": "2021-04-19T13:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

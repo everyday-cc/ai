@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-15-omada-health-extends-science-of-behavior-change-to-musculoskeletal-treatments-through-patented-computer-vision-technology.md",
+      "title": "Omada Health Extends Science of Behavior Change to Musculoskeletal Treatments Through Patented Computer Vision Technology",
+      "excerpt": "Today, Omada Health announced that they are enhancing its musculoskeletal (MSK) personalized virtual physical therapy treatment for m",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-sports-covid-19-pandemic-medical-technology-a83afb5c787442a0887dec5c00204aec",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-sports-covid-19-pandemic-medical-technology-a83afb5c787442a0887dec5c00204aec",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-the-future-of-facial-recognition-blends-ai-and-ir.md",
       "title": "The future of facial recognition blends AI and IR",
       "excerpt": "Current facial recognition technologies aren't the most secure security options, but AI and IR are about to change that.",
@@ -1322,58 +1365,6 @@
         "name": "Electronics Weekly",
         "domain": "electronicsweekly.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects.md",
-      "title": "Intel and John Deere pilot AI and computer vision program to detect manufacturing defects",
-      "excerpt": "These solutions range from sprawling LED-equipped indoor farming facilities to robotically plucking ripe produce off the vine using computer vision and artificial intelligence (AI). On Thursday, John Deere and Intel announced a pilot program that relies on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
-      "originalUrl": "https://www.techrepublic.com/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/01/24afeb96-0fbc-4eea-a829-45cf404f852e/resize/1200x/cb0cce3d1fdb8f244a749341905133fb/john-deere.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-and-john-deere-pilot-ai-and-computer-vision-program-to-detect-manufacturing-defects/",
-      "publishedDateTime": "2021-04-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

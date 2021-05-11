@@ -2,6 +2,94 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-12-microsoft-buying-speech-recognition-firm-nuance-in-16-billion-deal.md",
+      "title": "Microsoft buying speech recognition firm Nuance in $16 billion deal",
+      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. Microsoft will pay $56 per share cash. That's a 23% premium to Nuance's Friday closing price.",
+      "sourceUrl": null,
+      "webUrl": "https://www.10tv.com/article/news/nation-world/microsoft-buying-nuance/507-c696e867-76ee-4542-a1c7-2cd5213f3948",
+      "originalUrl": "https://www.10tv.com/article/news/nation-world/microsoft-buying-nuance/507-c696e867-76ee-4542-a1c7-2cd5213f3948",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.10tv.com/amp/article/news/nation-world/microsoft-buying-nuance/507-c696e867-76ee-4542-a1c7-2cd5213f3948",
+      "cdnAmpWebUrl": "https://www-10tv-com.cdn.ampproject.org/c/s/www.10tv.com/amp/article/news/nation-world/microsoft-buying-nuance/507-c696e867-76ee-4542-a1c7-2cd5213f3948",
+      "publishedDateTime": "2021-04-12T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "10TV.com",
+        "domain": "10tv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-microsoft-in-talks-to-buy-ai-speech-recognition-provider-nuance-communications.md",
+      "title": "Microsoft in talks to buy AI speech recognition provider Nuance Communications",
+      "excerpt": "Microsoft is in advanced talks to buy AI speech recognition company Nuance Communications, according to Bloomberg sources. The deal being mooted places a value on Nuance of approx $56 a share, giving Nuance a value of about $16 billion. Nuance provides ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.inavateonthenet.net/news/article/microsoft-in-talks-to-buy-ai-speech-recognition-provider-nuance-communications",
+      "originalUrl": "https://www.inavateonthenet.net/news/article/microsoft-in-talks-to-buy-ai-speech-recognition-provider-nuance-communications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1618234626/widgetdocs/BAIVECTOR_Shutterstock_fukhvy_wc3dr2.jpg",
+          "width": 750,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InAVate",
+        "domain": "inavateonthenet.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-microsoft-on-growth-push-to-buy-speech-recognition-company-nuance-for-about-16-billion.md",
       "title": "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion",
       "excerpt": "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion. 24/7 coverage of breaking news and live events",
@@ -1227,92 +1315,6 @@
         "AWS AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-from-digital-to-physical-the-ultimate-challenge-for-ai.md",
-      "title": "From Digital To Physical: The Ultimate Challenge For AI",
-      "excerpt": "How challenging is it to break this digital barrier and have AI spill over to successfully interact with a physical system?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/25/from-digital-to-physical-the-ultimate-challenge-for-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/25/from-digital-to-physical-the-ultimate-challenge-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b91b7ee97d16a68613292%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/25/from-digital-to-physical-the-ultimate-challenge-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/25/from-digital-to-physical-the-ultimate-challenge-for-ai/amp/",
-      "publishedDateTime": "2021-03-25T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-swipe-down-to-find-more-with-the-huawei-assistanttoday-ai-search-tool.md",
-      "title": "Swipe Down To Find More With the Huawei Assistant·Today AI Search Tool",
-      "excerpt": "In addition, the AI Search tool includes an instant translator that will help users break the language barrier and a code scanner that is bound to provide users access to a lifetime contactless experience. This feature is available as part of HUAWEI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/swipe-down-find-more-huawei-assistant·today-ai-search-tool-1418558",
-      "originalUrl": "https://www.albawaba.com/business/pr/swipe-down-find-more-huawei-assistant·today-ai-search-tool-1418558",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -39,20 +39,6 @@ related:
         width: 685
         height: 649
         isCached: true
-  - title: "Systematic misestimation of machine learning performance in neuroimaging studies of depression"
-    excerpt: "We currently observe a disconcerting phenomenon in machine learning studies in psychiatry: While we would expect larger samples to yield better results due to the availability of more data, larger machine learning studies consistently show much weaker performance than the numerous small-scale studies."
-    publishedDateTime: 2021-05-06T23:40:00Z
-    webUrl: "https://www.nature.com/articles/s41386-021-01020-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 27
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41386-021-01020-7/MediaObjects/41386_2021_1020_Fig1_HTML.png"
-        width: 599
-        height: 685
-        isCached: true
 
 secured: "IBtyvIfvumGrLixkbN3aRKomXTEQkXSui/ZFSNCgzKk/x0kFkP9e7odrvvZvSWrAV7CJkOc3e+zQV7VwgoebM6V7c+wl26eRqnpwMpg9iwi1dhPoDz6nhWu32uc7xVnnttGc954Hy6GsdpyDl3FERJKmjYNzksGcXimtf+sYLqXmgmEyQJ8tosfGVqt8FJghojzNdQVbfPG18F5GE/wyFkHzkIi4VSYBrmqoejVlX1h8cVCZDpXTJ2EtnW10Jo/A5war91MBd9Kpqiy4xt1YYFJzOabm/m6w814dk0rdE+SC5N7FN+Lu/8D4kZPbLCYeE3hROPuO5hSuKHgEckZsFeDZTWyYzJCBhLrOR0faRbSf46ofeOsBnBILfWUR1XcdZ7kcdRzFCjiI5UOYl3sxcWrMeaNF9tsTdWuX87BdTlX9xj2fBwmsmr3qsgkmJYA0P9R/f+4J6uToZ6HWcgSvoD7ETrgiDfQvg/cQLxgxLpoRYvQUFtfJJUEJJkN5dhkAXR4ZoCAlGYggAKTuqCZ6xw==;IX+PWDkjBJ4BEHWa4uaFQQ=="
 ---

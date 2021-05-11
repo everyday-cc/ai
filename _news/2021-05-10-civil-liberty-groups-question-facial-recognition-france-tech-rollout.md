@@ -7,7 +7,7 @@ originalUrl: "https://www.connexionfrance.com/French-news/Civil-liberty-groups-q
 webUrl: "https://www.connexionfrance.com/French-news/Civil-liberty-groups-question-facial-recognition-tech-rollout-in-France"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,80 @@ images:
     width: 639
     height: 426
     isCached: true
+
+related:
+  - title: "Amazon Facing Calls From Civil Rights Groups To Permanently Ban Police Use Of Facial Recognition As Deadline Approaches"
+    excerpt: "Amazon has yet to announce whether it will lift a one-year moratorium on the sale of its Rekognition product to police departments."
+    publishedDateTime: 2021-05-11T16:27:00Z
+    webUrl: "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/"
+    ampWebUrl: "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 65
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aa48c81b6b135842ea502%2F0x0.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Massachusetts OKs Curbs on Police Use of Facial Recognition"
+    excerpt: "As part of its new police reform law, Massachusetts lawmakers have passed one of the first state-wide restrictions on law enforcement use of facial recognition technologies. Under the law, police must have a court order before they can compare images to the database of photos and names."
+    publishedDateTime: 2021-05-07T14:19:00Z
+    webUrl: "https://thecrimereport.org/2021/05/07/massachusetts-oks-curbs-on-police-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
+        width: 343
+        height: 510
+        isCached: true
+  - title: "Massachusetts Pioneers Rules For Police Use Of Facial Recognition Tech"
+    excerpt: "Massachusetts is implementing its first state-wide rules for police using controversial facial recognition systems. But not all privacy advocates agree that regulation is the right step."
+    publishedDateTime: 2021-05-07T10:25:00Z
+    webUrl: "https://www.wbur.org/npr/982709480/massachusetts-pioneers-rules-for-police-use-of-facial-recognition-tech"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 39
+    images:
+      - url: "http://media.npr.org/assets/img/2021/04/29/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
+  - title: "OMS to offer facial recognition ID verification service"
+    excerpt: "One Mortgage System (OMS) has joined forces with Nivo to offer customers a new facial recognition ID verification system."
+    publishedDateTime: 2021-05-11T10:26:00Z
+    webUrl: "https://www.mortgagefinancegazette.com/fintech/oms-offer-facial-recognition-id-verification-service-11-05-2021/"
+    type: article
+    provider:
+      name: Mortgage Finance Gazette
+      domain: mortgagefinancegazette.com
+    quality: 39
+    images:
+      - url: "https://wp-krypton.s3.amazonaws.com/wp-content/uploads/sites/3/2020/06/facial-recogntion-ID.jpg"
+        width: 1000
+        height: 645
+        isCached: true
+  - title: "Privacy watchdog warns facial recognition tools endanger human rights"
+    excerpt: "Facial recognition technology can enable widespread surveillance, provide biased results and erode other human rights, says Canada’s privacy commissioner. In a presentation to a parliamentary committee,"
+    publishedDateTime: 2021-05-10T18:24:00Z
+    webUrl: "https://www.rcinet.ca/en/2021/05/10/privacy-watchdog-warns-facial-recognition-tools-endanger-rights/"
+    type: article
+    provider:
+      name: rcinet.ca
+      domain: rcinet.ca
+    quality: 39
+    images:
+      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2021/05/istock-1144373579.jpg"
+        width: 1254
+        height: 836
+        isCached: true
 
 secured: "2fWC2e/8K9GB1io7X37nnq8QTbK2IsS5bR+IUlhhEyd/+p+dswDCwGfpws/8dRhpiloec8k6OrdnNDMSMgCIFyRKfTDAUeK30TXjPPfAXAsYmmSX+asl+6c0t6TH7+zZehuitd5dTce0I1P9uh4mmZwTh14drJ9+IpxQhRtqaJ0GLAHH6p9HOXQ+kFbrHIcPX9qeebsZJ/CuG4v6rnzjoyxz3B09bBMmaXc3uRUjzkk9diMwakw0PCljC+smymHiB5rZCSp6gT6bV5rHcURnryvBjICee6wHrO5195MhiwsdqXj07gMEggMgj2Iu2B4P9hTX5H5Tfcfg0zxS5/UyYXJ5T3/qpkU5uGWfgpZe1HIsEiA6BEiNbAxA+IHuWS45jZrhNELgsMxbHzkN/ISdO/9wvDvMRwAbmBmRlaMc629K+VStCjTfVruZKqkaQFFPT1OU6ZYkzHUChsgpnmxHTrI0a3/Xadtviuj0BOFw6gZP2pHNTbbCsQq/AC7N//lsiobk6OmN7mRmrlKcPkUdPw==;UtLsw5qEzmOCeMAObkdnRw=="
 ---

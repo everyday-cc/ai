@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Systematic misestimation of machine learning performance in neuroimaging studies of depression"
-    excerpt: "We currently observe a disconcerting phenomenon in machine learning studies in psychiatry: While we would expect larger samples to yield better results due to the availability of more data, larger machine learning studies consistently show much weaker performance than the numerous small-scale studies."
-    publishedDateTime: 2021-05-06T23:40:00Z
-    webUrl: "https://www.nature.com/articles/s41386-021-01020-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 27
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41386-021-01020-7/MediaObjects/41386_2021_1020_Fig1_HTML.png"
-        width: 599
-        height: 685
-        isCached: true
   - title: "Integration of machine learning and genome-scale metabolic modeling identifies multi-omics biomarkers for radiation resistance"
     excerpt: "Personalized prediction of tumor radiosensitivity would facilitate development of precision medicine workflows for cancer treatment. Here, the authors integrate machine learning and genome-scale metabolic modeling approaches to identify multi-omics biomarkers predictive of radiation response."
     publishedDateTime: 2021-05-11T12:56:00Z

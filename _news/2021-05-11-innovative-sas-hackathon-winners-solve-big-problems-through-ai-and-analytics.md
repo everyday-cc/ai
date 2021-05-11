@@ -1,47 +1,30 @@
 ---
 category: news
 title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
-publishedDateTime: 2021-05-11T15:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
-webUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
+excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS® Viya® advanced analytics, Microsoft Azure,"
+publishedDateTime: 2021-05-11T15:56:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d"
+webUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d"
 type: article
-quality: 64
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg"
-    width: 400
-    height: 300
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
-  - title: "Advancing sports analytics through AI research"
-    excerpt: "Sports analytics is in the midst of a remarkably important era, offering interesting opportunities for AI researchers and sports leaders alike."
-    publishedDateTime: 2021-05-07T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
-    images:
-      - url: "https://lh3.googleusercontent.com/JKprmpmVTL_QABFZY5EoG-OpZBrglfRpIKdvT96pMv88ofnfgGkT2o4LdrTct_1HxboB9Oc8_h9-IEq6JQc0nizeJWIRPKSG4yX-x6QYa6ClA-8VIHU"
-        width: 512
-        height: 288
-        isCached: true
   - title: "Data Days: Current And Future Trends In AI And Analytics"
     excerpt: "The ability to gather, manage, analyze and utilize vast amounts of data — discovering new connections and gleaning new insights — is a true game-changer across a wide range of applications. Powerful,"
     publishedDateTime: 2021-05-11T14:00:00Z
@@ -89,6 +72,6 @@ related:
         height: 750
         isCached: true
 
-secured: "f246AgEm2cTIaPaWt0Gku3pR76GnrwBVGluvkvtOSI8P9CBOfC47UYh16Mj+oNhy70SXyJrD9tIrziDYlATAlJmA8kzLODpox/ZUX6Pqj6iuwJ9hMgJZifZAhU9txOJJPPpm8G+NmkQlz/zB9XUcyhIZjf4v+O81QWVwsZAFb7VC5/gYK4Y44KBz2Imp27AJyNWN9uXuxonUJbRkT2kLvINsjXf57JGXx8KjckHHlgvwUPj1nGdgq2DG0Xf4kCmeGLHwSqNk6EGIKI0/qan7VnR9y+rR5coymDKhLFXgcrPsGz9TwhwFX7xJZ+zWkbjwUsYKqgLlGeOQWKwEx1ym8tt68ex6wi3u8BNYIA5q2/Y=;HZG96/15HExdjcNV8tWKIw=="
+secured: "9Hyyv0OqtklExaJmii6W46DfrWotyuAVzcBfXD3hALdKCASBt7oUJlGGByqw9qLuTCtDCR5uvQ9LnVYD+AkSrPF1tlitNGKodGBjCTfdoIDbWz53cSYckP9YAw1qkbzkuCYTVQvjMSaKtgXW+UgKpdTCYM8Sz1VdcB8JEKNuMoBXiLCAzRtYn/vFWeVQxzMQPW1sVEwqJ1McwLN390kSqaz8CPznjNm1yzJyWAAxFLnLmWhBTwUjKMIPLYcidfOmQ2HWKtvkcZXn5oLRsjgs0beQOjm2KM3pbDTLIK4Mgex1bfidgYsUGmoMN9T1l4+IGHks4/d9w7gQY8YOL1wyZI88G3WnlVh5njdjURRSOYE=;QfFxdUUn2j8VXo0DUNFsFQ=="
 ---
 

@@ -2,28 +2,30 @@
 category: news
 title: "Lasers, levitation and machine learning make better heat-resistant materials"
 excerpt: "Argonne scientists across several disciplines have combined forces to create a new process for testing and predicting the effects of high temperatures on refractory oxides."
-publishedDateTime: 2021-05-11T04:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-05/dnl-lla051121.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-05/dnl-lla051121.php"
+publishedDateTime: 2021-05-11T16:54:00Z
+originalUrl: "https://phys.org/news/2021-05-lasers-levitation-machine-heat-resistant-materials.html"
+webUrl: "https://phys.org/news/2021-05-lasers-levitation-machine-heat-resistant-materials.html"
+ampWebUrl: "https://phys.org/news/2021-05-lasers-levitation-machine-heat-resistant-materials.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-lasers-levitation-machine-heat-resistant-materials.amp"
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/264629_web.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/lasers-levitation-and.jpg"
     width: 1440
     height: 810
     isCached: true
 
-secured: "MTA3hIiTCm4eEMtcN28plN05UdHII/vEGqy+x7N7rxn8f6bTHjkYIJEX9s+617CCXE4OEYwKd8b5VhZiBf5jA1BgTydFZjBpZodEiv6OXPOvsJe10jbHERUKg1Q3AxY911DKZmABHogp2qTqmXTsYXt8PU2djYZFmrUk88zVpltj7CuQ7jPBUnrzQ6cOd8u6A0IyC4iyF6DFUkZu8fxVZJlh60amuCajC5+uveyNdDvSGo1JkiYzQxBacOBxAjsurWmdtI50Ia/3qB7eDUMKcbrBUGgC+/YLlc+gJ86LGHrqUyb89MsATMQ9kElL2yliFqwbn+OoZ/yZ06L8AEaek2CT6X3NRu/1utqE5r4XKrY=;whO5+UYOX2XzgTrx3n9vCw=="
+secured: "1r1P5V5GLyR6YoXtJRA8G15WKxgQ7KCoWtS/2QCErlmfdautjOJWzxokxbSaFQf25xhbrYmAU78/RL7hp5UCJ3WQ4Z+Gc0kq8LXn9JyEIvMGMTONSBgRCjjQXgjrwgWzBz8EkRZZwRF+LEaPYmYUS56bOLaE7X4ilZgSqC6waD69fLdBYalcU4RLPR25Y0iYmkn/+bH1/CQQJ6aN0RM1tl61zIyxgEe0spxatgjHwKsCwcJDVmfm0KCkGz9zl5E5jxtCM+a5vAF3sYA5DUWu1nhp92hPsNnD2kZoTU2dR1Vl7M131f3G6N9q/7DVMHY2hd2lS5qDvS0fzl6VnmR3GUWI9bztw/yiu2PH/IH8xbU=;beKi0dfAjsUuPgBRQ+ZyVg=="
 ---
 

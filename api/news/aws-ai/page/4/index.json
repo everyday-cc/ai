@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-25-amazon-and-red-hat-announce-general-availability-of-red-hat-openshift-service-on-aws-rosa.md",
+      "title": "Amazon and Red Hat Announce General Availability of Red Hat OpenShift Service on AWS (ROSA)",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ:AMZN) and Red Hat, the world’s leading provider of enterprise open source solutions, announced the general availability of Red Hat OpenShift Service on AWS (ROSA),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-products-and-services-99c14ec38d5f4ce285f18306004d5d69",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-products-and-services-99c14ec38d5f4ce285f18306004d5d69",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-y-combinators-biotech-startups-incubate-a-new-generation-of-therapies-and-tools.md",
       "title": "Y Combinator’s biotech startups incubate a new generation of therapies and tools",
       "excerpt": "Curvenote is a shared document platform built with these folks in mind; it integrates with Jupyter, SaturnCloud, and Sagemaker, supports lots of import and export options, integrates visualization ...",
@@ -1196,49 +1230,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows.md",
-      "title": "Amazon launches reinforcement learning tools to manage robots’ workflows",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Amazon today launched SageMaker Reinforcement Learning (RL) Kubeflow Components, a toolkit supporting the company’s AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows-9876749",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows-9876749",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T20:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

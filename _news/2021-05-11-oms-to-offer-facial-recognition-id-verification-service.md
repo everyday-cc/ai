@@ -25,19 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "New facial recognition tools and defences for data and privacy protection"
-    excerpt: "New tools have been developed to help consumers protect their privacy or data, either from or with facial recognition technology."
-    publishedDateTime: 2021-05-07T00:22:00Z
-    webUrl: "https://www.biometricupdate.com/202105/new-facial-recognition-tools-and-defences-for-data-and-privacy-protection"
+  - title: "Amazon Facing Calls From Civil Rights Groups To Permanently Ban Police Use Of Facial Recognition As Deadline Approaches"
+    excerpt: "Amazon has yet to announce whether it will lift a one-year moratorium on the sale of its Rekognition product to police departments."
+    publishedDateTime: 2021-05-11T16:27:00Z
+    webUrl: "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/"
+    ampWebUrl: "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 40
+      name: Forbes
+      domain: forbes.com
+    quality: 65
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aa48c81b6b135842ea502%2F0x0.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Massachusetts OKs Curbs on Police Use of Facial Recognition"
+    excerpt: "As part of its new police reform law, Massachusetts lawmakers have passed one of the first state-wide restrictions on law enforcement use of facial recognition technologies. Under the law, police must have a court order before they can compare images to the database of photos and names."
+    publishedDateTime: 2021-05-07T14:19:00Z
+    webUrl: "https://thecrimereport.org/2021/05/07/massachusetts-oks-curbs-on-police-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
+        width: 343
+        height: 510
+        isCached: true
+  - title: "Massachusetts Pioneers Rules For Police Use Of Facial Recognition Tech"
+    excerpt: "Massachusetts is implementing its first state-wide rules for police using controversial facial recognition systems. But not all privacy advocates agree that regulation is the right step."
+    publishedDateTime: 2021-05-07T10:25:00Z
+    webUrl: "https://www.wbur.org/npr/982709480/massachusetts-pioneers-rules-for-police-use-of-facial-recognition-tech"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 39
+    images:
+      - url: "http://media.npr.org/assets/img/2021/04/29/ap_20176661952737-94d26662afce25a605de5d73b33932e4e1e3a047.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
+  - title: "Civil liberty groups question facial recognition France tech rollout"
+    excerpt: "MPs may have blocked some of the government’s more extreme attempts to widen police use of facial recognition but surveillance technology is already widely deployed by security forces in France. Its critics say its use is likely to be expanded."
+    publishedDateTime: 2021-05-10T07:01:00Z
+    webUrl: "https://www.connexionfrance.com/French-news/Civil-liberty-groups-question-facial-recognition-tech-rollout-in-France"
+    type: article
+    provider:
+      name: The Connexion
+      domain: connexionfrance.com
+    quality: 39
+    images:
+      - url: "https://www.connexionfrance.com/var/connexion/storage/images/_aliases/social_network_image/media/images/manif-gj-belfort/1372754-1-eng-GB/Manif-GJ-Belfort.jpg"
+        width: 639
+        height: 426
         isCached: true
   - title: "Privacy watchdog warns facial recognition tools endanger human rights"
     excerpt: "Facial recognition technology can enable widespread surveillance, provide biased results and erode other human rights, says Canada’s privacy commissioner. In a presentation to a parliamentary committee,"
@@ -52,48 +96,6 @@ related:
       - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2021/05/istock-1144373579.jpg"
         width: 1254
         height: 836
-        isCached: true
-  - title: "Specialist platform OMS delivers facial recognition ID verification"
-    excerpt: "One Mortgage System (OMS), the single-input enquiry to completion specialist processing platform, has partnered with Nivo, a secure mobile messaging platform to offer facial recognition ID verification."
-    publishedDateTime: 2021-05-11T14:06:00Z
-    webUrl: "https://www.mortgagesolutions.co.uk/specialist-lending/2021/05/11/specialist-platform-oms-delivers-facial-recognition-id-verification/"
-    type: article
-    provider:
-      name: mortgagesolutions.co.uk
-      domain: mortgagesolutions.co.uk
-    quality: 39
-    images:
-      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2019/09/Neal-Jannels-OMS.jpg"
-        width: 960
-        height: 640
-        isCached: true
-  - title: "National Association of School Nurses Announces May 12th as School Nurse Recognition Day"
-    excerpt: "Wednesday, May 12, is National School Nurse Day, an opportunity to acknowledge and thank school nurses for all they do to support the health and learning of adolescents and children across our country."
-    publishedDateTime: 2021-05-07T17:24:00Z
-    webUrl: "https://apnews.com/press-release/newswire/health-coronavirus-pandemic-3e774f535edae8e7333abea068059102"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Three Graduate Students in Communication Sciences and Disorders Awarded With Recognition for Program"
-    excerpt: "Samadhi Pusuba Devayalage, Kendra Ledbetter and Madeline Rudolph were recognized for excellence graduate program in communication sciences and disorders."
-    publishedDateTime: 2021-05-10T05:06:00Z
-    webUrl: "https://news.uark.edu/articles/56867/three-graduate-students-in-communication-sciences-and-disorders-awarded-with-recognition-for-program"
-    type: article
-    provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 9
-    images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/2021-05-07_01-18-12-PMMyPost2.jpg"
-        width: 900
-        height: 900
         isCached: true
 
 secured: "PFgkBeMjXbR47zRRvvUsZb4Kgv4BsoPccZSqE07rkcka+9JFwifJcXRfUl8qJfSJC4cfvRXHiC/iPsPME4HwXfOk5FYL86zyt4GSojfRJMfs2oYVkKPpABlQTK0700l2G6Uj0u2Pv1r1TC9G+9U/GefFIaI9xLhW97YiV1jPodfziqLBdS6TweRU7ex/Ll1PHlBJBv35yDvekiZzpKAvQCMMPosFE+2PSgDC0+ET7eKTjSejslMb9EyZM4yor+MFzyMOpxt+Lez/NSHZR5NASQXS6UoiJI6K8X6q/R6xuIVGLdOjXDVypBCj2Ka1JQmZBYArKHOdiU8qcefxYB9sEJ/+eaFtE+CKjgc29jhrx27waciQTMgFCQlwyMTiz1Dqi2/dQH40TGsoZX1VidDrD+hL6Ll0B9BtAzaVdolPo/ETcjwLB8rHeO/SiPxjUlIx3rxWeM7yIH2P6s1CFsd5eKKwWp2AKDNdQ94vxI64blVOoQtfGG9l18mo5xKIw9dwJqAhzBMetAjsTaGJ+LchcA==;wDQa/5Mdrr8rVlSgEdQI+w=="

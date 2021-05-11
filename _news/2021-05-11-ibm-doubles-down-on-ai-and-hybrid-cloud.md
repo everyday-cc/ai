@@ -8,7 +8,7 @@ webUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-an
 ampWebUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 related:
   - title: "IBM builds new hybrid cloud, AI capabilities to help clients go digital"
@@ -37,6 +38,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "IBM Announces Breakthrough Hybrid Cloud and AI Capabilities to Accelerate Digital Transformation at 2021 Think Conference"
+    excerpt: "IBM (NYSE: IBM) announces advances in artificial intelligence (AI), hybrid cloud, and quantum computing at the company's Think conference at 12:00 p.m. ET today. The innovations highlight IBM's role in helping its clients and partners accelerate their digital transformations,"
+    publishedDateTime: 2021-05-11T06:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities-to-accelerate-digital-transformation-at-2021-think-conference-1030411690"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "IBM makes leaps in AI, hybrid cloud and quantum computing for digital transformation"
     excerpt: "IBM Corp has achieved several advances in artificial intelligence, hybrid cloud and quantum computing to accelerate its partners and clients digital transformation journeys. A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic."
     publishedDateTime: 2021-05-11T07:57:00Z
@@ -50,20 +65,6 @@ related:
       - url: "https://mybigplunge.com/wp-content/uploads/2021/05/IBM-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "IBM Announces Breakthrough Hybrid Cloud and AI Capabilities to Accelerate Digital Transformation at 2021 Think Conference"
-    excerpt: "IBM (NYSE: IBM) announces advances in artificial intelligence (AI), hybrid cloud, and quantum computing at the company’s Think conference at 12:00 p.m. ET today. The innovations highlight IBM’s role in helping its clients and partners accelerate their digital transformations,"
-    publishedDateTime: 2021-05-11T04:01:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/health-coronavirus-pandemic-business-technology-fde62f7bd187308adcf72f826bd8f529"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Watch live: Think 2021 reimagines the digital experience as IBM powers up hybrid cloud with automation"
     excerpt: "Remote operations and the need to rapidly respond to the changing economic climate have made cloud computing essential for modern business survival. Adapting means adopting hybrid cloud. But stepping smoothly from a legacy or pure cloud environment into one where applications and data are dispersed across multiple clouds,"

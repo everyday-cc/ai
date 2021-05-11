@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-11-the-washington-post-launches-audio-articles-voiced-by-amazon-polly.md",
+      "title": "The Washington Post Launches Audio Articles Voiced by Amazon Polly ",
+      "excerpt": "AWS is excited to announce that The Washington Post is integrating Amazon Polly to provide their readers with audio access to stories across The Post’s entire spectrum of web and mobile platforms, starting with technology stories. Amazon Polly&nbsp;is a service that turns&nbsp;text&nbsp;into lifelike&nbsp;speech,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/the-washington-post-website-launches-audio-articles-voiced-by-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/the-washington-post-website-launches-audio-articles-voiced-by-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T09:50:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-your-face-voice-and-fingerprints-could-defend-you-against-banking-scams.md",
+      "title": "Your face, voice, and fingerprints could defend you against banking scams",
+      "excerpt": "Daphné Leprince-Ringuet tells Karen Roby that HSBC says that it prevented hundreds of millions of dollars from falling prey to hackers, simply thanks to voice recognition technology. Read more:",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/your-face-voice-and-fingerprints-could-defend-you-against-banking-scams/",
+      "originalUrl": "https://www.zdnet.com/video/your-face-voice-and-fingerprints-could-defend-you-against-banking-scams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/05/11/8104b7ae-9d38-43cb-8ac5-84137f5d6e35/thumbnail/770x578/be84cecb7e419c7da08de55941d1cefc/20210510-daphne-karen-bio.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-ibm-codenet-teaches-ai-to-translate-programming-languages.md",
       "title": "IBM CodeNet teaches AI to translate programming languages",
       "excerpt": "IBM unveiled a suite of new artificial intelligence (AI) services on Monday ahead of its virtual IBM Think 2021 conference. The new features include software that teaches AI how to translate code, a cloud migration service,",
@@ -10,7 +116,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1360,92 +1466,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-singularity-systems-named-a-major-contender-in-intelligent-document-processing-idp-products-peak-matrix-assessment.md",
-      "title": "Singularity Systems Named a Major Contender in Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment.",
-      "excerpt": "Singularity Systems Inc., a global provider of artificial intelligence solutions for intelligent document processing and predictive",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/singularity-systems-named-a-major-contender-in-intelligent-document-processing-idp-products-peak-matrix-assessment-301273122.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/singularity-systems-named-a-major-contender-in-intelligent-document-processing-idp-products-peak-matrix-assessment-301273122.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1492218/Singularity_Systems_Logo.jpg?p=facebook",
-          "width": 2091,
-          "height": 1094,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-speech-and-voice-recognition-market-what-are-the-driving-factors-and-opportunities-of-the-market.md",
-      "title": "Speech And Voice Recognition Market | What Are The Driving Factors, And Opportunities Of The Market?",
-      "excerpt": "The present research report gives users access to complete study of the present regulatory scenario as well as its impact on the growth of Speech And Voice Recognition Market in different geographical regions.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/20/speech-and-voice-recognition-market-what-are-the-driving-factors-and-opportunities-of-the-market/",
-      "originalUrl": "https://ksusentinel.com/2021/04/20/speech-and-voice-recognition-market-what-are-the-driving-factors-and-opportunities-of-the-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ibb.co/d2ydV7S/Researchmoz-us-421.jpg",
-          "width": 624,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

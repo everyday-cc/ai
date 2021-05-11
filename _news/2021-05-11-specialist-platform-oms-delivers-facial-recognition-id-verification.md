@@ -25,75 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "New facial recognition tools and defences for data and privacy protection"
-    excerpt: "New tools have been developed to help consumers protect their privacy or data, either from or with facial recognition technology."
-    publishedDateTime: 2021-05-07T00:22:00Z
-    webUrl: "https://www.biometricupdate.com/202105/new-facial-recognition-tools-and-defences-for-data-and-privacy-protection"
+  - title: "OMS partners with Nivo to offer facial recognition"
+    excerpt: "One Mortgage System (OMS) has partnered with Nivo, a mobile messaging platform to offer facial recognition ID verification."
+    publishedDateTime: 2021-05-11T03:00:00Z
+    webUrl: "https://www.mortgageintroducer.com/oms-partners-nivo-facial-recognition/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 40
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
-  - title: "OMS to offer facial recognition ID verification service"
-    excerpt: "One Mortgage System (OMS) has joined forces with Nivo to offer customers a new facial recognition ID verification system."
-    publishedDateTime: 2021-05-11T10:26:00Z
-    webUrl: "https://www.mortgagefinancegazette.com/fintech/oms-offer-facial-recognition-id-verification-service-11-05-2021/"
-    type: article
-    provider:
-      name: Mortgage Finance Gazette
-      domain: mortgagefinancegazette.com
+      name: Mortgage Introducer
+      domain: mortgageintroducer.com
     quality: 39
     images:
-      - url: "https://wp-krypton.s3.amazonaws.com/wp-content/uploads/sites/3/2020/06/facial-recogntion-ID.jpg"
-        width: 1000
-        height: 645
+      - url: "https://www.mortgageintroducer.com/wp-content/uploads/2020/06/shutterstock_395378116.jpg"
+        width: 616
+        height: 370
         isCached: true
-  - title: "Privacy watchdog warns facial recognition tools endanger human rights"
-    excerpt: "Facial recognition technology can enable widespread surveillance, provide biased results and erode other human rights, says Canada’s privacy commissioner. In a presentation to a parliamentary committee,"
-    publishedDateTime: 2021-05-10T18:24:00Z
-    webUrl: "https://www.rcinet.ca/en/2021/05/10/privacy-watchdog-warns-facial-recognition-tools-endanger-rights/"
+  - title: "One Mortgage System signs facial recognition deal with Nivo"
+    excerpt: "Platform One Mortgage System has partnered with tech firm Nivo to offer facial recognition verification. The Horsham-based platform says the new system helps navigate the previous requirement for certified ID,"
+    publishedDateTime: 2021-05-11T14:21:00Z
+    webUrl: "https://www.mortgagestrategy.co.uk/news/one-mortgage-system-signs-facial-recognition-deal-with-nivo/"
     type: article
     provider:
-      name: rcinet.ca
-      domain: rcinet.ca
+      name: Mortgage Strategy
+      domain: mortgagestrategy.co.uk
     quality: 39
     images:
-      - url: "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2021/05/istock-1144373579.jpg"
-        width: 1254
-        height: 836
-        isCached: true
-  - title: "National Association of School Nurses Announces May 12th as School Nurse Recognition Day"
-    excerpt: "Wednesday, May 12, is National School Nurse Day, an opportunity to acknowledge and thank school nurses for all they do to support the health and learning of adolescents and children across our country."
-    publishedDateTime: 2021-05-07T17:24:00Z
-    webUrl: "https://apnews.com/press-release/newswire/health-coronavirus-pandemic-3e774f535edae8e7333abea068059102"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Three Graduate Students in Communication Sciences and Disorders Awarded With Recognition for Program"
-    excerpt: "Samadhi Pusuba Devayalage, Kendra Ledbetter and Madeline Rudolph were recognized for excellence graduate program in communication sciences and disorders."
-    publishedDateTime: 2021-05-10T05:06:00Z
-    webUrl: "https://news.uark.edu/articles/56867/three-graduate-students-in-communication-sciences-and-disorders-awarded-with-recognition-for-program"
-    type: article
-    provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 9
-    images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/2021-05-07_01-18-12-PMMyPost2.jpg"
-        width: 900
-        height: 900
+      - url: "https://cdn.mortgagestrategy.co.uk/content/uploads/2019/06/p34-Neal-Jannels.jpg"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "7qSl16u8Alx+fBCmYG/rY7FssM9BSe87QAQxTudG/u/r/2J+pxEpXv/ZNzxpuoOjPLJ5aPQBnZjOytH0R3JB108sUGZ8eZGqBnyDCxz0hOrov9bwKNa383zOCRQ+odqh+RLdoLGm2XVtN7ZeYNPaNi6Il2BEjVjtDyi/fYaZtQyqUq9vI4iZOpd6AedrCMmidl+WO+34G8e69cSu8hdUPEHQOHacqlL1zN5ia5ijVnWd+6ct0SH9LM9Ks9CuWCMweu2f+EwjwaduLHCa0q9l0bu22UlafIqiHluLjQCaO13cUkjei8CWn4r1F/sQ5UclQaEQiUV6rOhMKLRZ+gwWTUnkQh4vIsKZjoo0A6SSokA=;8gqSjivyZgtEcOD0KA35Vw=="

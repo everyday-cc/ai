@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Allego Launches Enhanced Conversation Intelligence Product, Adds Significant New Artificial Intelligence Technology"
-excerpt: "Allego, the leading sales learning and enablement platform provider, today announced the enhancement of its integrated"
+excerpt: "Allego, the leading sales learning and enablement platform provider, today announced the enhancement of its integrated Conversation Intelligence product. The product transforms the"
 publishedDateTime: 2021-05-11T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/allego-launches-enhanced-conversation-intelligence-product-adds-significant-new-artificial-intelligence-technology-301288520.html"
-webUrl: "https://www.prnewswire.com/news-releases/allego-launches-enhanced-conversation-intelligence-product-adds-significant-new-artificial-intelligence-technology-301288520.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/allego-launches-enhanced-conversation-intelligence-product-adds-significant-new-artificial-intelligence-technology/article_994a9b4c-45a6-56af-8950-46cc1291e127.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/allego-launches-enhanced-conversation-intelligence-product-adds-significant-new-artificial-intelligence-technology/article_994a9b4c-45a6-56af-8950-46cc1291e127.html"
 type: article
 quality: 15
 heat: 15
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1507271/Allego_Logo_Logo.jpg?p=facebook"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/18/91884f22-d2c2-5581-8f19-3e332681cf0c/609a84371a29a.image.jpg?resize=1200%2C628"
     width: 1200
     height: 628
     isCached: true
 
-secured: "RULpPo9ckIwrjrXfeWTfV3F1viB/ATpZqow3YjE1J2s1YDegf65690l0No1nfIHLhUFl6jiVyye+utRcBdzN2aoOyI4FrH6zjxTcpwHLTNrEZVYaan4ggornQ5K3lqg9RRjp+1YPPVULpqwM/VkA76TtFPbeo1dhuNsU9X1WdxFDkX1Cp4BlFp7vYJ8R1xEnWugac/65HKLhWDFrr1PnamdASj4PhgQCU0LbpbW+3+dTxgZJ9f9e731D/2A44DCLvqrTFkQ1fZlwFZ7KHNkm6U6qu45fiebhTbbnItYoGWZUOaxtcvOwZO7f4e0ziZ0pW3f6Vd3NNQb4ok/yO9jkotbDBw0ZJTzZ27XQuenhT6Xz5FmKh+erPUQn9DKMgeWCwt+EIjmNwzjE8eEGLmYy378l5qbhvPl17aGJ6COipfSRFUAtakElmUtj63jYtiUuLaGol9ZMbmaunVOt91mEYaMT1nsbxIRL7aZbixP9zWpQp62t6Xzfai9JZXzQDoOrr9OWmdht6ZR/vxnmnIpMpw==;2cN5gfZ/XKgnVZknPd0vEw=="
+secured: "+R9cgOv6BTG8frPbs/Q+zk/FN2B2VUbB6TArFNodgdzqW9TGNTJB9sWIzv+4fvQgD4Hr9czCfH0F2spF+pjVYeI8OWtTp2my5aeJM/rvWxZ7Q/+TgsPtXVChdn/neq06kx4YJpNm9skBNk19Sm8kcFPpmX3l6oy/L4usNcRlIvA0Y9N7wxkG/w7APWzFGh2P63GBen+69gNhKyOTXz9hp+dSgQuOXwu+Rt+JGhEMmwzxlp2EbE5Tt82xkoElFxwEel7tiMCdeZ/mTzZjwrrm/MD7mQYUEjJKGHAw6K8I96xMD6pWhVV5U8LJmVk+Z2zUSbIskvELQhgw+mFf/tO4dEY4gH0u6c1JTdTnD/+JrKY=;vkehzp8IKm71Rql7/JSPpA=="
 ---
 

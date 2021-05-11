@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/05/11/data-days-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/11/data-days-current-and-future-trends-in-ai-and-analytics/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Forbes
@@ -30,34 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Advancing sports analytics through AI research"
-    excerpt: "Sports analytics is in the midst of a remarkably important era, offering interesting opportunities for AI researchers and sports leaders alike."
-    publishedDateTime: 2021-05-07T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
-    images:
-      - url: "https://lh3.googleusercontent.com/JKprmpmVTL_QABFZY5EoG-OpZBrglfRpIKdvT96pMv88ofnfgGkT2o4LdrTct_1HxboB9Oc8_h9-IEq6JQc0nizeJWIRPKSG4yX-x6QYa6ClA-8VIHU"
-        width: 512
-        height: 288
-        isCached: true
-  - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS ® Viya ® advanced analytics, Microsoft Azure,"
-    publishedDateTime: 2021-05-11T15:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-1030415775"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "AI analytics predict COVID-19 patients' daily trajectory in UK intensive care"
     excerpt: "Researchers used AI to identify which daily changing clinical parameters best predict intervention responses in critically ill COVID-19 patients."
     publishedDateTime: 2021-05-11T13:58:00Z
@@ -88,7 +60,21 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
+    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS® Viya® advanced analytics, Microsoft Azure,"
+    publishedDateTime: 2021-05-11T15:56:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "uB/p84MDVED9p1UuOg8OEXVHK2/gvuW6s5/T4oa67hFyhPuAWIg/7R8PtDJunrWvenvksnXSa7v60Jp6tViwUBtFOmLSYbC92b9nsTGNOFZ0x0nopLRu61ssMjGGEzxyfaBCgYOzGPMnWq9uBajnQDBnUWT3Hy7ObAnqBLdEbUYJKLBCqUOytzvBK4xQrS+rA6CY2inShUn6qJ0wOlrIXk+ZP/QfFoH8LwgHmdldA6QgwJpSUneU+NWoAjnEqWs8mTAuqfjBF9ezwPXyQbPZwfvdIp8mp8KMH2XWLJUGp1IRPfmAivhTKaInpazpZ63PS/K1BmcNlVMVW7KjTCqa+eX4ufi3wOSOYyg7FMR9wm0=;9BsK+TCv441QFYZHEdAlBg=="
+secured: "Bg9ybQMwCLJuiZIFeIDEIOBYsU+I5VMAm+hpxLbBbfhuKG1mn0A7w5v63T/OQvLgKR2KW+gpY/rOR4hl2NEeR3Qjo/ynwkAwp8J7gFfmrwRlog20DWq2na0cYv0UVBXCxsqYVTV/+eohzW7+Eb8TUvDV6rtIqIeIhNBmnzBi9ftlRmt135vmSjWtubHEM3IEaxXV7aDFWZh0QzAbneN2EswnixL0eClx9F9wrQ8hPXCrMGI4wMX6gCvcZrMQabqeVn3PV5BkHpvsiQvHTqu7OveExs/6i85un8QsxSes+1nl8oJzaGEfYjK5dZG4dm0sCdw54EtMhEoMS/wdf3K9FzM4EfLJqoaaCOy3n3eB4QmT/jNfli1HEItH60OrbCsyn8OhjfWZB24Svwf7eDtup/xuhdpzOWuiKQdOUM/oqTJ0nFTQ6UJ2EZVNTQ+hg7g6wsxBW8pucw+utwCPSXoSK68CISn4P5UTPfq+tQuTvVm7JlyJl0ygWmfSPuEd6NJMy1dlMMR2v2Hhli8hnkgtsA==;I0qxFKo+xJ2fwOWifRx4KQ=="
 ---
 

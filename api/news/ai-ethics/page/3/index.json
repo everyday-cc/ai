@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-15-deloitte-ai-institute-teams-with-chatterbox-labs-to-ensure-ethical-application-of-ai.md",
+      "title": "Deloitte AI Institute Teams With Chatterbox Labs to Ensure Ethical Application of AI",
+      "excerpt": "To help companies proactively address AI ethics, the Deloitte AI Institute developed its Trustworthy AI™ framework, which provides a guide for organizations on how to apply AI responsibly within their businesses and manage common risks and challenges ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-corporate-ethics-artificial-intelligence-fe15f1d4eb4f983512db84996b4ebae9",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-corporate-ethics-artificial-intelligence-fe15f1d4eb4f983512db84996b4ebae9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-google-might-ask-questions-about-ai-ethics-but-it-doesnt-want-answers.md",
       "title": "Google might ask questions about AI ethics, but it doesn't want answers",
       "excerpt": "Gebru and Mitchell were both leading members of Google’s Ethical AI team. In other words ... highlighted the extent to which the tech industry’s recent obsession with “ethics” is such a manipulative fraud. As the industry’s feeding frenzy ...",

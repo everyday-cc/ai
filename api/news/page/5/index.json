@@ -2,6 +2,247 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-06-east-village-gets-futuristic-grocery-store-designed-by-accel-robotics.md",
+      "title": "East Village gets futuristic grocery store designed by Accel Robotics",
+      "excerpt": "A futuristic grocery store is opening in East Village on the ground floor of the luxury high-rise apartment complex Vantage Pointe. The new store, called Valet Market, was designed by local tech startup Accel Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village",
+      "originalUrl": "https://www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/f633c89/2147483647/strip/true/crop/7757x5139+0+16/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1d%2F31%2F67973aa641aca4def504b293b770%2Fveo-1.jpeg",
+          "width": 320,
+          "height": 212,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village?_amp=true",
+      "cdnAmpWebUrl": "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-05-05/futuristic-grocery-store-opens-in-east-village?_amp=true",
+      "publishedDateTime": "2021-05-05T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Diego Union-Tribune",
+        "domain": "sandiegouniontribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-real-world-ai-a-great-guide-for-managers.md",
+      "title": "Real World AI: A Great Guide For Managers",
+      "excerpt": "A Practical Guide for Responsible Machine Learning does not fall within either category. Then again, the authors include Alyssa Simpson Rochwerger, who is a director of product at Blue Shield of California,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609311ae6b34dfaf46f70578%2F0x0.jpg",
+          "width": 471,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/05/05/real-world-ai-a-great-guide-for-managers/amp/",
+      "publishedDateTime": "2021-05-05T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-considerations-for-implementing-aiml-in-your-business.md",
+      "title": "Considerations for Implementing AI/ML in Your Business",
+      "excerpt": "Business technology changes constantly, and every solution we implement has a lifespan. You may have been a Microsoft shop for the past thirty years, but your company is not currently operating on Win",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business",
+      "originalUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/considerations-implementing-aiml-your-business?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/considerations-implementing-aiml-your-business?amp",
+      "publishedDateTime": "2021-05-05T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030.md",
+      "title": "GM CEO Mary Barra wants to sell personal autonomous vehicles using Cruise’s self-driving tech by 2030",
+      "excerpt": "GM CEO Mary Barra sees the automaker selling personal autonomous vehicles by the end of the decade by leveraging technology from its self-driving subsidiary Cruise, according to comments made during the company’s Wednesday earnings call.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/",
+      "originalUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/01/gettyimages-629982546.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/gm-ceo-mary-barra-wants-to-sell-personal-autonomous-vehicles-using-cruises-self-driving-tech-by-2030/amp/",
+      "publishedDateTime": "2021-05-05T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-machine-learning-text-adventure-ai-dungeon-is-now-being-censored-and-users-are-furious.md",
+      "title": "Machine-learning text adventure AI Dungeon is now being censored and users are furious",
+      "excerpt": "When Nick Walton created AI Dungeon 2 two years ago, he had no idea that it would take off as it did. Within days of launching",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
+      "originalUrl": "https://www.techspot.com/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-05-image-31.jpg",
+          "width": 2560,
+          "height": 1300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89571-machine-learning-text-adventure-ai-dungeon-now-censored.html",
+      "publishedDateTime": "2021-05-05T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-woolaroo-a-new-tool-for-exploring-indigenous-languages.md",
       "title": "Woolaroo: a new tool for exploring indigenous languages",
       "excerpt": "“Our dictionary doesn’t have a word for shoe” my Uncle Allan Lena said, so when kids ask him what to call it in Yugambeh, he’ll say “jinung gulli” - a foot thing.Uncle Allan Lena is a frontline worker in the battle to reteach the Yugambeh Aboriginal language to the children of southeast Queensland, Australia,",
@@ -973,259 +1214,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-musicians-including-ratms-tom-morello-urge-spotify-never-to-use-patented-voice-recognition-tech.md",
-      "title": "Musicians, including RATM's Tom Morello, urge Spotify never to use patented voice recognition tech",
-      "excerpt": "Spotify’s patent, granted on January 12, describes analyzing users’ voice and background noise to detect their mood and social setting, such as whether they are in",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
-      "originalUrl": "https://www.techspot.com/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-14-image-28.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
-      "publishedDateTime": "2021-05-05T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-imago-visionai-artificial-intelligent-camera-supports-tensorflow-lite-and-automl-vision-edge.md",
-      "title": "Imago VisionAI artificial intelligent camera supports Tensorflow Lite and AutoML Vision Edge",
-      "excerpt": "Developers and Tensorflow enthusiasts may be interested in a new smart artificial intelligent camera in the form of the Imago VisionAI. The VisionAI",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/artificial-intelligent-camera-05-05-2021/",
-      "originalUrl": "https://www.geeky-gadgets.com/artificial-intelligent-camera-05-05-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/05/artificial-intelligent-camera.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-the-role-of-ai-in-supply-chain-technology-and-corporate-responsibility.md",
-      "title": "The Role Of AI In Supply Chain Technology And Corporate Responsibility",
-      "excerpt": "Incentives need to be created in order to guide and prod companies to design and create supply chains that are addressing issues beyond the economic incentives of shareholders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/05/the-role-of-ai-in-supply-chain-technology-and-corporate-responsibility/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/05/the-role-of-ai-in-supply-chain-technology-and-corporate-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D56%26cropY2%3D3431",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/05/the-role-of-ai-in-supply-chain-technology-and-corporate-responsibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/05/05/the-role-of-ai-in-supply-chain-technology-and-corporate-responsibility/amp/",
-      "publishedDateTime": "2021-05-05T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-10-business-models-that-reimagine-the-value-creation-of-ai-and-ml.md",
-      "title": "10 Business Models That Reimagine The Value Creation Of AI And ML",
-      "excerpt": "Every day we read about some new AI breakthrough. AI is omnipresent in our everyday lives whether we use mobile devices, wearables or voice assistants or stream our favorite shows. Enterprises control the epicenter of the AI economy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60915bc5768c20e9478f008b%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/",
-      "publishedDateTime": "2021-05-05T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-how-machine-learning-can-unlock-cures-for-tomorrows-diseases.md",
-      "title": "How Machine Learning Can Unlock Cures For Tomorrow's Diseases",
-      "excerpt": "We take advances in machine learning for granted in our daily lives, but if we apply similar data-driven thinking in drug discovery, we could unlock hidden patterns in biological data that will allow us to understand diseases and produce cures thought previously unreachable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/how-machine-learning-can-unlock-cures-for-tomorrows-diseases/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/how-machine-learning-can-unlock-cures-for-tomorrows-diseases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609159f654c6ad719f24438d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/how-machine-learning-can-unlock-cures-for-tomorrows-diseases/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/05/how-machine-learning-can-unlock-cures-for-tomorrows-diseases/amp/",
-      "publishedDateTime": "2021-05-05T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

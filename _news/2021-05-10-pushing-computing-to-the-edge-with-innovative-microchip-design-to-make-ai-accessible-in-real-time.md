@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 759
         isCached: true
+  - title: "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation"
+    excerpt: "Avenda Health said its focal therapy system uses artificial intelligence to treat localized prostate cancer in a urologist’s office under local anesthesia."
+    publishedDateTime: 2021-05-11T17:01:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 54
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_May112021at124830PM.png"
+        width: 770
+        height: 400
+        isCached: true
   - title: "Onit Expands ReviewAI with Smart Checklists, the Latest Artificial Intelligence Innovation ..."
     excerpt: "Integrated with Onit’s contract lifecycle management technology, ReviewAI and its Smart Checklists dramatically accelerate contract management. “Lawyers want to reduce tasks that are time-consuming and repetitive so they can focus on more strategic work."
     publishedDateTime: 2021-05-11T15:07:00Z

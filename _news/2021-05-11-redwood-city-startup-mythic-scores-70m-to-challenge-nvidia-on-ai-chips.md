@@ -36,21 +36,14 @@ related:
         height: 600
         isCached: true
   - title: "AI analog chip startup Mythic raises $70 Million"
-    excerpt: "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $7.."
-    publishedDateTime: 2021-05-11T14:26:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/ai-analog-chip-startup-mythic-raises-70-million/82550117"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/ai-analog-chip-startup-mythic-raises-70-million/82550117"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/ai-analog-chip-startup-mythic-raises-70-million/82550117"
+    excerpt: "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $70 million in its latest round of funding. By May 11 (Reuters) - Mythic,"
+    publishedDateTime: 2021-05-11T13:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-analog-chip-startup-mythic-raises-%2470-million-2021-05-11"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-82550117,imgsize-35602,width-800,height-434,overlay-ettelecom/ai-analog-chip-startup-mythic-raises-70-million.jpg"
-        width: 800
-        height: 434
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "Mythic, maker of energy-efficient analog chips for AI, raises $70M in new funding"
     excerpt: "Pioneering artificial intelligence chip startup Mythic said today it has raised $70 million in a new round of funding that follows the launch of its first products last year. The Series C round was led by BlackRock,"
     publishedDateTime: 2021-05-11T13:00:00Z

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-09-acoustic-anomaly-detection-using-amazon-lookout-for-equipment.md",
+      "title": "Acoustic anomaly detection using Amazon Lookout for Equipment",
+      "excerpt": "As the modern factory becomes more connected, manufacturers are increasingly using a range of inputs (such as process data, audio, and visual) to increase their operational efficiency. Companies use this information to monitor equipment performance and anticipate failures using predictive maintenance",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/acoustic-anomaly-detection-using-amazon-lookout-for-equipment/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/acoustic-anomaly-detection-using-amazon-lookout-for-equipment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T12:39:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console.md",
       "title": "Win a digital car and personalize your racer profile on the AWS DeepRacer console",
       "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning, giving developers the chance to learn ML hands-on with a 1/18th scale autonomous car, 3D virtual racing simulator, and the world’s largest global autonomous car racing league. With the 2021 AWS DeepRacer League Virtual Circuit now",
@@ -1252,40 +1304,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-amazon-and-red-hat-announce-general-availability-of-red-hat-openshift-service-on-aws-rosa.md",
-      "title": "Amazon and Red Hat Announce General Availability of Red Hat OpenShift Service on AWS (ROSA)",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ:AMZN) and Red Hat, the world’s leading provider of enterprise open source solutions, announced the general availability of Red Hat OpenShift Service on AWS (ROSA),",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-products-and-services-99c14ec38d5f4ce285f18306004d5d69",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-products-and-services-99c14ec38d5f4ce285f18306004d5d69",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

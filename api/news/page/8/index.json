@@ -2,6 +2,249 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-05-04-missouri-woman-discovers-wwii-military-device-in-her-backyard.md",
+      "title": "Missouri woman discovers WWII military device in her backyard",
+      "excerpt": "(CNN)A Missouri woman found more than weeds poking out of the soil in her yard this weekend. Pamela Coffey told CNN that she was just about to take lunch break from doing yard work on Saturday when she spotted a small metal object jutting out from the soil under her feet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/05/03/us/wwii-style-mortar-found-in-missouri-yard-trd/index.html",
+      "originalUrl": "https://www.cnn.com/2021/05/03/us/wwii-style-mortar-found-in-missouri-yard-trd/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210503200638-01-mortar-found-in-yard-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/03/us/wwii-style-mortar-found-in-missouri-yard-trd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/us/wwii-style-mortar-found-in-missouri-yard-trd/index.html",
+      "publishedDateTime": "2021-05-03T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-artificial-intelligence-ai-in-bfsi-market.md",
+      "title": "Artificial Intelligence (AI) in BFSI Market",
+      "excerpt": "Allied Market Research published a new report titled Artificial Intelligence in BFSI Market By Offerings Hardware Software and Services Solution Chatbots Fraud Detection Prevention Anti Money Laundering Customer Relationship Management Data Analytics Prediction and Others Technology Deep Learning Querying Method",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
+      "originalUrl": "https://www.openpr.com/news/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/5/U503568929_g.jpg",
+          "width": 790,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2279151/artificial-intelligence-ai-in-bfsi-market-emerging-trends",
+      "publishedDateTime": "2021-05-03T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-undergraduates-explore-practical-applications-of-artificial-intelligence.md",
+      "title": "Undergraduates explore practical applications of artificial intelligence",
+      "excerpt": "SuperUROP scholars funded by the MIT Quest for Intelligence worked with faculty this past year exploring AI applications ranging from optimized scheduling to modeling ocean dynamics to improve climate model projections.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503",
+      "originalUrl": "https://news.mit.edu/2021/undergraduates-explore-practical-applications-artificial-intelligence-0503",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202104/mit-superurops.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025.md",
+      "title": "How the AI Chips Market will be Valued at $129 billion by 2025",
+      "excerpt": "The AI chips market that is leveraging the data centres run by cloud providers is going to be estimated to grow to $129 billion in 2025. Here’s how industries will benefit from it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025/",
+      "originalUrl": "https://www.analyticsinsight.net/how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/AI-chips.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.analyticsinsight.net/how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025/?amp",
+      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025/?amp",
+      "publishedDateTime": "2021-05-03T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-creating-an-end-to-end-application-for-orchestrating-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions.md",
+      "title": "Creating an end-to-end application for orchestrating custom deep learning HPO, training, and inference using AWS Step Functions",
+      "excerpt": "Amazon SageMaker&nbsp;hyperparameter tuning provides a built-in solution for scalable training and hyperparameter optimization (HPO). However, for some applications (such as those with a preference of different HPO libraries or customized HPO features), we need custom machine learning (ML) solutions",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/12/1-Flowchart.jpg",
+          "width": 800,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-top-tech-stocks-to-watch-right-now.md",
       "title": "Top Tech Stocks To Watch Right Now",
       "excerpt": "The company has five segments in the tech industry. It includes cloud and cognitive software and also global technology services. IBM stock currently trades at $141.25 as of 10:30 a.m. ET.",
@@ -950,239 +1193,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-intel-will-invest-35-billion-in-new-mexico-chip-factory.md",
-      "title": "Intel will invest $3.5 billion in New Mexico chip factory",
-      "excerpt": "Intel said on Sunday that it will spend $3.5 billion on an upgrade for its factory in New Mexico as part of a plan to expand manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/",
-      "originalUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-factory.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/amp/",
-      "publishedDateTime": "2021-05-02T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-global-artificial-intelligence-robotics-market-report-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026.md",
-      "title": "Global Artificial Intelligence Robotics Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026",
-      "excerpt": "The Artificial Intelligence Robotics market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The global Artificial Intelligence Robotics market report is a comprehensive research that focuses on the overall consumption structure,",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026",
-      "originalUrl": "https://menafn.com/1102016201/Global-Artificial-Intelligence-Robotics-Market-Report-2020-by-Key-Players-Types-Applications-Countries-Market-Size-Forecast-to-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-02T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years.md",
-      "title": "Baidu expects to supply self-driving system to 1 million cars in 3-5 years",
-      "excerpt": "SHANGHAI (Reuters) - Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/04/19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/04/19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/04/19/1119160.JPG",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers.md",
-      "title": "Start and Scale your Intelligent Automation Journey with AI Powered E-Workers",
-      "excerpt": "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers",
-      "originalUrl": "https://www.computerworld.com/resources/218083/start-and-scale-your-intelligent-automation-journey-with-ai-powered-e-workers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-02T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating.md",
-      "title": "In a year of major shifts, the self-driving car market is consolidating",
-      "excerpt": "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/",
-      "originalUrl": "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/volkswagen-electric-car-id3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating/amp/",
-      "publishedDateTime": "2021-05-02T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

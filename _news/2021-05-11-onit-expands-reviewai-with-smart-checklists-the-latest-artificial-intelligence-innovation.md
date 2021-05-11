@@ -56,6 +56,20 @@ related:
         width: 777
         height: 421
         isCached: true
+  - title: "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation"
+    excerpt: "Avenda Health said its focal therapy system uses artificial intelligence to treat localized prostate cancer in a urologist’s office under local anesthesia."
+    publishedDateTime: 2021-05-11T17:01:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 54
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_May112021at124830PM.png"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "VGmzjooLhxTj610ZHqKPXzVYC/a5UUpDOPjoQbFXZpls5mC2eOLfc7iTf6vyG9E8K0+H8DfwzB1YaNYund8Lbih1YaiaGLUIScIULh3MmOiwfNZ1iX3eLh5PUoKCwhz8jN0oCNhxvdubN+HHFWBrNso/ofPVslsx7wIzCXmYjHHROYuGQ2keekLODm6HoJrGplSevnHeCZ1wLuT4SSsh24g8/Pg2g2WaTH099ApzWkdesD3IJyBXq9dFbeFOJSz2668mZhmj2ih+2nAbGg9mdHl9mBJWJkhQMJqMCd7Ezx9q23mEm62wyOS/lDsDfx2DV5nzvkgPZmLtNsv6TAwSYkzJ8Hq25gaA3obwm2Om0yY=;imqNzTlehw6O6idC+ZBTNQ=="
 ---

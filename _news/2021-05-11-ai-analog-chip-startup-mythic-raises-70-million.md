@@ -1,30 +1,22 @@
 ---
 category: news
 title: "AI analog chip startup Mythic raises $70 Million"
-excerpt: "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $7.."
-publishedDateTime: 2021-05-11T14:26:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/ai-analog-chip-startup-mythic-raises-70-million/82550117"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/ai-analog-chip-startup-mythic-raises-70-million/82550117"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/ai-analog-chip-startup-mythic-raises-70-million/82550117"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/ai-analog-chip-startup-mythic-raises-70-million/82550117"
+excerpt: "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $70 million in its latest round of funding. By May 11 (Reuters) - Mythic,"
+publishedDateTime: 2021-05-11T13:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/ai-analog-chip-startup-mythic-raises-%2470-million-2021-05-11"
+webUrl: "https://www.nasdaq.com/articles/ai-analog-chip-startup-mythic-raises-%2470-million-2021-05-11"
 type: article
-quality: 74
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
   - AI Hardware
-
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-82550117,imgsize-35602,width-800,height-434,overlay-ettelecom/ai-analog-chip-startup-mythic-raises-70-million.jpg"
-    width: 800
-    height: 434
-    isCached: true
 
 related:
   - title: "Mythic raises $70M to disrupt AI chips with analog and flash components"
@@ -67,6 +59,6 @@ related:
       domain: bizjournals.com
     quality: 34
 
-secured: "Umx880tzqcbanoanAWPLU1hM7fEfqQS6rdaOLjUq6oebd7Sb14xrKbXtS2xXADPk/v/knYbMlKpicEt/uk16e0tanxF1kmk8+2NwQbQLYLzJNIp6cjoKtgOpfuabrWw5Mu/20bhodpixWRhmeVUodpRcv3EewuAtdO3DdtW2XJIMvekcv/hD2Lquy9cUJDpE4EBrVJWqzlkvXJE1igD/idvJOrgQvmQ7Ja/HQKWsb090GETGEO2qWHOlb4evdeJkxXShWvgDUcHmOm9+kycqKv51PyrEWjrP+QK0lfSyPVkYGu3HG14jn1OZjbH51/K12VeX7uyfoGf0zs4Ksn7o1by2AA1wUwIZCqVwbzv6VCk=;kGfryOxufTAiaB3vAt9KoQ=="
+secured: "J2lef4p1EnOSqrNlxA5dmPeZxNbgUhaxwtA6AIefAViqZIFZNgX2IWSALX9Din96vMdBhkmC8HvcQMv2cqPopExc747ODA5RNaWnyjhTn0XMl9kwp23WfWcWJZjllxSWy+LXVrtkB8Copdo9fSWvq1KQRsvWWQewH92mXdzn6ZGWZgLeksgDh4xLvCLBTA6LBwlF/INRi+991na7zWQnRDMdRSN4L6KOGmbmqSqgfnx5JshLeQfiELE+Vd1I2UHMWjyIvJm0Ef6dQM6elI34bPZdLxBJ841AqwZhjZSgGN4Av2Qa18I6X5du3WQIrD8F7Im+0dcskPVbajr16rA3NWxHC2Fv4naIsiB3I4+J7cE=;5SHQP34o1F1fnbmHuJDl5w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=466375"
 webUrl: "https://us.acrofan.com/detail.php?number=466375"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -26,20 +26,24 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Driven Enterprises Market Research 2021 Report | Growth Forecast to 2027 Infosys, DataRobot, Deloitte"
-    excerpt: "AI-Driven Enterprises Market is growing at a 52.15% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
-    publishedDateTime: 2021-05-09T19:37:00Z
-    webUrl: "https://ksusentinel.com/2021/05/09/ai-driven-enterprises-market-research-2021-report-growth-forecast-to-2027-infosys-datarobot-deloitte/"
+  - title: "Global Artificial Intelligence in Security Market – Top Industry Segments Analyzed in Latest Research Report by MRS"
+    excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence in Security Market Analysis and Forecast 2020-2026. Latest updated report pub"
+    publishedDateTime: 2021-05-09T22:11:00Z
+    webUrl: "https://ksusentinel.com/2021/05/09/global-artificial-intelligence-in-security-market-top-industry-segments-analyzed-in-latest-research-report-by-mrs/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 37
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-127-780x470.png"
-        width: 780
-        height: 470
-        isCached: true
+    quality: 12
+  - title: "Artificial Intelligence Services Global Market Report 2021: COVID 19 Growth And Change to 2030"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence Services Global Market Report 2021: COVID 19 Growth And Ch"
+    publishedDateTime: 2021-05-10T12:48:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/05/10/artificial-intelligence-services-global-market-report-2021-covid-19-growth-and"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 11
 
 secured: "qKFD/LLAmy0DbIlmprH6tvEqt5hgaaoFrlTvv1oxjiaaV5iA2BjbSmUAiK+gKYXm+tNX2z12/exxsGGVtlz5CnaNJohrFuaaFpTWDa4PX2Zi/DUHdoYikHA4kFYt5htNPqmUylIWVOY7guat9SRYCTd0s++Xurl/gRGgNep6l/4ApkWjNFaKqzPmp6t/I4+g+IcmaglpEYjZ6nc+bkYrBSfVjpbq0mcy8gHxk6Ao3nGFbcc/KBnilG91bGFsbfXMul1JkhjgR35vBLnwABHGcE4fEvIqYaahm3ODC1i7jXPQ1CIQsD/2d5uvHHqUei4TxRpCVM48hdZKnpEPggHwh55CngvXczvaP12YC8mwN2c=;ZxjqPYeET1dICMxNsEXqJQ=="
 ---

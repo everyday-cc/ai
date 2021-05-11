@@ -7,7 +7,7 @@ originalUrl: "https://ksusentinel.com/2021/05/09/ai-driven-enterprises-market-re
 webUrl: "https://ksusentinel.com/2021/05/09/ai-driven-enterprises-market-research-2021-report-growth-forecast-to-2027-infosys-datarobot-deloitte/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence in Healthcare Markets to 2027: Robot Assisted Surgery Segment to Register the Highest Growth Rate - ResearchAndMarkets."
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component, Application, End User, and Geography\" report has been added to ResearchAndMarkets.com's offering. Robot Assisted ..."
-    publishedDateTime: 2021-05-10T14:11:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=466375"
+  - title: "DataRobot Refreshes AI Platform, Nabs Zepl"
+    excerpt: "DataRobot unveiled several enhancements in its automated machine learning platform today, including the introduction of features like composable ML and"
+    publishedDateTime: 2021-05-11T17:40:00Z
+    webUrl: "https://www.datanami.com/2021/05/11/datarobot-refreshes-ai-platform-nabs-zepl/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 31
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/robot_shutterstock_Phonlamai-Photo.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "6+8CRldY8GyadVoMWguPva0kEtUdVl4cE3VTD6a0wWqCNZNL0ehoGaflxmorg2Z5acpcKd3PlipxJNBAG+w+Y5aR2CTI3Thstchay3CwfH1C9qta5+o5Ua5//XpErlt/IrwW8tuINhTgV+eX+5bzQnUp2x+n+akVInPx6uSgJKXdYQHbFlrw4Bt7ZowT4t9rIvpz2W+6yth2pJqSJpr/0futWNxDWqrAErJjKqq8jYK0Rc18IyvGqz32G4M1NO/5p8l6fEGl+H1SmbC66KU8e/g5OWpHdXS5d/+dUsJltf6KpwrQTG4Dni2Pr4fAjIQO/aAqXaO9eVMsVbkf2Ga97+6u7KW33+zv1T9TLpHVJ5z0TYDZp34fSdT1vBHv+IrTd31wVOy4ikYk24uTlcWq2R+Dl6cgyMgxhPMCdNLXdnzVrBlIaxTZIBqIV9aJ3B06YR2beqvWAQiX9wN0aBR6B/8sKSdkrH+gwS7S3TeE2kYXRMFHoCgFI9Ru2W6khAu4qsvziz26RP30KHG7kLRigA==;fdsTf+n3JCQQxq1SjPmP0Q=="

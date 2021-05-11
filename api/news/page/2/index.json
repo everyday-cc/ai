@@ -2,6 +2,300 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-10-trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars.md",
+      "title": "Trillions Of Cicada Aiming To Bugout The Northeastern USA And Spur Swarmageddon Messiness For AI Self-Driving Cars",
+      "excerpt": "After a 17 years long wait, the cicada of Brood X are about to emerge, in the trillions, bringing a buggy mess and swarms, which has ramifications for human drivers and self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6093384b8a78a6d19cdd77be%2F0x0.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-05-10T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-expertai-adds-emotion-and-style-detection-tools-to-natural-language-api.md",
+      "title": "Expert.ai adds emotion and style detection tools to natural language API",
+      "excerpt": "Expert.ai added new tools to its natural language API to help AI developers detect emotions, behaviors, and styles in large-scale texts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/",
+      "originalUrl": "https://venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/07/natural-language-processing.jpg?w=1200&strip=all",
+          "width": 925,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/expert-ai-adds-emotion-and-style-detection-tools-to-natural-language-api/amp/",
+      "publishedDateTime": "2021-05-10T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-black-and-queer-ai-groups-say-theyll-spurn-google-funding.md",
+      "title": "Black and Queer AI Groups Say They'll Spurn Google Funding",
+      "excerpt": "The move is the latest fallout following the departures of the heads of the company's ethical AI research team and a recruiter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/black-queer-ai-groups-spurn-google-funding/",
+      "originalUrl": "https://www.wired.com/story/black-queer-ai-groups-spurn-google-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6095bbb04e934010a058f6e3/master/pass/business_gebru_15465521.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/black-queer-ai-groups-spurn-google-funding/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/black-queer-ai-groups-spurn-google-funding/amp",
+      "publishedDateTime": "2021-05-10T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-sleeker-ponyai-self-driving-suv-hints-at-more-road-ready-autonomous-cars.md",
+      "title": "Sleeker Pony.ai self-driving SUV hints at more road-ready autonomous cars",
+      "excerpt": "Autonomous car headgear keeps getting smaller, with Pony.ai revealing its latest self-driving car design and its much sleeker, Luminar-powered scanning hub. Far from the “upturned",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/",
+      "originalUrl": "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Ponyai_Luminar_01-1.jpg",
+          "width": 1500,
+          "height": 847,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/",
+      "publishedDateTime": "2021-05-10T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all.md",
+      "title": "AI and nanotechnology could make cancer cell therapy affordable for all",
+      "excerpt": "There is, however, hope. The most recent insights in nanotechnology, artificial intelligence (AI), biosensors, and the Internet of Things could help overcome the current roadblocks in making personalized cell therapies affordable. The solution to ...",
+      "sourceUrl": null,
+      "webUrl": "https://europeansting.com/2021/05/10/ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all/",
+      "originalUrl": "https://europeansting.com/2021/05/10/ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://europeansting.files.wordpress.com/2021/05/technology-1.jpeg",
+          "width": 1052,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://europeansting.com/2021/05/10/ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all/amp/",
+      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/05/10/ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all/amp/",
+      "publishedDateTime": "2021-05-10T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "europeansting.com",
+        "domain": "europeansting.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance.md",
+      "title": "IBM unveils 2 nanometers chip, opening the door for higher, efficient tech performance",
+      "excerpt": "IBM announced a breakthrough in semiconductor design by developing the world’s first 2 nanometers (nm)chip. Semiconductors are the heart of every technology that is governing our world today—from computing to appliances,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/",
+      "originalUrl": "https://www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technowize.com/wp-content/uploads/2021/05/IBM-2-nanometers-chip.png",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/amp/",
+      "cdnAmpWebUrl": "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/amp/",
+      "publishedDateTime": "2021-05-10T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Technowize",
+        "domain": "technowize.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-the-pentagon-inches-toward-letting-ai-control-weapons.md",
       "title": "The Pentagon Inches Toward Letting AI Control Weapons",
       "excerpt": "Drills involving swarms of drones raise questions about whether machines could outperform a human operator in complex scenarios.",
@@ -790,49 +1084,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-08-massachusetts-homes-in-on-facial-recognition-accountability.md",
-      "title": "Massachusetts Homes in on Facial Recognition Accountability",
-      "excerpt": "According to a recently proposed Massachusetts bill, companies could soon face penalties for misusing facial recognition technology, causing them to pay hefty fines or go to court.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/massachusetts-homes-in-on-facial-recognition-accountability",
-      "originalUrl": "https://www.govtech.com/policy/massachusetts-homes-in-on-facial-recognition-accountability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/46b2c37/2147483647/strip/true/crop/940x490+0+70/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fcf%2Fb0c53f7bd3c1011e993e22738e35%2Fprofiles1.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/massachusetts-homes-in-on-facial-recognition-accountability?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/massachusetts-homes-in-on-facial-recognition-accountability?_amp=true",
-      "publishedDateTime": "2021-05-07T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-08-longevity-startup-gero-ai-has-a-mobile-api-for-quantifying-health-changes.md",
       "title": "Longevity startup Gero AI has a mobile API for quantifying health changes",
       "excerpt": "Sensor data from smartphones and wearables can meaningfully predict an individual’s ‘biological age’ and resilience to stress, according to Gero AI. The ‘longevity’ startup — which condenses its mission to the pithy goal of “hacking complex diseases and",
@@ -974,266 +1225,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-build-an-intelligent-search-solution-with-automated-content-enrichment.md",
-      "title": "Build an intelligent search solution with automated content enrichment",
-      "excerpt": "Unstructured data belonging to the enterprise continues to grow, making it a challenge for customers and employees to get the information they need. Amazon Kendra is a highly accurate intelligent search service powered by machine learning (ML). It helps you easily find the content you’re looking for,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-search-solution-with-automated-content-enrichment/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-search-solution-with-automated-content-enrichment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/13/2-Architecture2613.jpg",
-          "width": 800,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T11:36:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair.md",
-      "title": "AI Lending Discrimination Needs To Be Tackled With Legislation Says House Financial Services Chair",
-      "excerpt": "We cannot wait for (federal financial regulatory agencies) to do better. We have to force better,” she told a Financial Services AI Task Force hearing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/",
-      "originalUrl": "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60958549f4ace557ee2a1fc5%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/amp/",
-      "publishedDateTime": "2021-05-07T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture.md",
-      "title": "Changing The World With Breakthrough AI Innovation In The Age Of Regulation And Cancel Culture",
-      "excerpt": "World in 2021 has seemingly gone mad with censorship, over regulations, and so called “cancel  culture. ”  So, how can disruptive startups circumvent these new developments, and continue to innovate and create economic growth with AI?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60956c575c3928d3e701c7a3%2F0x0.jpg",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/",
-      "publishedDateTime": "2021-05-07T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks.md",
-      "title": "Artificial Intelligence Ranks Moderna And IBM Among Trending Stocks",
-      "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. This time, our artificial intelligence systems have identified Moderna and IBM among other trending stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6001ebea375c531889c54471%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/07/artificial-intelligence-ranks-moderna-and-ibm-among-trending-stocks/amp/",
-      "publishedDateTime": "2021-05-07T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-baidu-rolls-out-paid-driverless-taxi-service-autox-completes-100-days-of-robotaxi-service-in-china.md",
-      "title": "Baidu rolls out paid driverless taxi service, AutoX completes 100 days of Robotaxi service in China",
-      "excerpt": "Baidu has commenced paid services for the Apollo Robotaxis in China without a safety driver behind the steering wheel for the first time. The Baidu milestone coincided with another milestone by Alibaba-backed AutoX,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/",
-      "originalUrl": "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/baidu-robotaxi.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
