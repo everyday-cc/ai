@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-07-very-few-things-are-stopping-big-tech-from-popping-in-healthcare.md",
+      "title": "Very Few Things Are Stopping Big Tech from “Popping” in Healthcare",
+      "excerpt": "Azure Machine Learning and Azure Cognitive Services, to deliver on the vision of the Terra platform at a new level of scale.” Taking a Deep Look at Big Tech’s Influence in Healthcare Big tech companies’ presence in healthcare greatly expanded during ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
+      "originalUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan112021at22713PM.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth.md",
       "title": "Startup Adapts AI Used In Space To Advance Healthcare On Earth",
       "excerpt": "It’s not often that a random joke leads to the creation of a company, but that’s exactly what happened with Ejenta, a digital health startup.",
@@ -1220,40 +1264,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-artificial-intelligence-brings-new-vision-to-healthcare.md",
-      "title": "Artificial intelligence brings new vision to healthcare",
-      "excerpt": "Artificial intelligence applications support doctors' diagnostic decisions, automate certain tasks, says Turkish social media expert - Anadolu Agency",
-      "sourceUrl": null,
-      "webUrl": "https://www.aa.com.tr/en/science-technology/artificial-intelligence-brings-new-vision-to-healthcare/2180566",
-      "originalUrl": "https://www.aa.com.tr/en/science-technology/artificial-intelligence-brings-new-vision-to-healthcare/2180566",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "aa.com.tr",
-        "domain": "aa.com.tr",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-12-ai-has-eaten-ibm-think.md",
+      "title": "AI Has Eaten IBM Think",
+      "excerpt": "AI pervades every session at the annual IBM event. The virtual event of “All Things IBM” has become “All Things AI”, from chips to software, Watson to SAP, and companies including SalesForce, Siemens,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aca7635660de3e22ea502%2F0x0.jpg",
+          "width": 1200,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/",
+      "publishedDateTime": "2021-05-11T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-edge-ai-chipset-developer-simaai-raises-80m.md",
       "title": "Edge AI chipset developer Sima.ai raises $80M",
       "excerpt": "Sima.ai, a startup developing an edge AI accelerator chipset, has secured $80 million in venture capital backing.",
@@ -86,6 +139,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-full-interview-with-ibm-ceo-arvind-krishna-on-new-ai-innovations-chip-shortage-strategy-and-more.md",
+      "title": "Full interview with IBM CEO Arvind Krishna on new AI innovations, chip shortage, strategy and more",
+      "excerpt": "IBM will announce advancements in artificial intelligence and quantum computing at its global annual conference called \"Think.\" The technology is designed to help businesses push further into the 21st century.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/05/11/full-interview-with-ibm-ceo-arvind-krishna-on-new-ai-innovations-chip-shortage-strategy-and-more.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/05/11/full-interview-with-ibm-ceo-arvind-krishna-on-new-ai-innovations-chip-shortage-strategy-and-more.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106881141-16207378051620737794-16019881298-1080pnbcnews.jpg?v=1620737804",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1374,93 +1479,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-machine-learning-chips-market-dynamic-demand-analysis-statistics-trends-and-opportunities-to-2026.md",
-      "title": "Machine Learning Chips Market Dynamic, Demand Analysis, Statistics, Trends and Opportunities to 2026",
-      "excerpt": "The report provides key opportunities within the market and describes the factors that are and will be driving the growth of the Machine Learning Chips industry Growth of the overall Machine Learning Chips market has also been forecasted for the",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2277615/machine-learning-chips-market-dynamic-demand-analysis",
-      "originalUrl": "https://www.openpr.com/news/2277615/machine-learning-chips-market-dynamic-demand-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U429252793_g.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis",
-      "publishedDateTime": "2021-04-29T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-asml-riding-the-chip-wave.md",
-      "title": "ASML: Riding The Chip Wave",
-      "excerpt": "AI, IoT, 5G are driving a new wave for semiconductors. Chipmakers are spending billions to increase fab capacity in response to this structural uptrend in chip demand. A sizeable portion of that spending is expected to be on-chip equipment,",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4422340-asml-riding-chip-wave",
-      "originalUrl": "https://seekingalpha.com/article/4422340-asml-riding-chip-wave",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1247736623/medium_image_1247736623.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4422340-asml-riding-chip-wave",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4422340-asml-riding-chip-wave",
-      "publishedDateTime": "2021-04-29T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,145 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-29-membership-inference-attacks-detect-data-used-to-train-machine-learning-models.md",
+      "title": "Membership inference attacks detect data used to train machine learning models",
+      "excerpt": "In membership inference attacks, the adversary can work back from the machine learning algorithm to discover the training data used.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/",
+      "originalUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/deepfakes-e1619655593693.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/amp/",
+      "publishedDateTime": "2021-04-28T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-when-artists-and-machine-intelligence-come-together.md",
+      "title": "When artists and machine intelligence come together",
+      "excerpt": "Throughout history, from photography to video to hypertext, artists have pushed the expressive limits of new technologies, and artificial intelligence is no exception. At I/O 2019, Google Research and Google Arts &amp; Culture launched the Artists + Machine Intelligence Grants, providing a range of support",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/",
+      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMI_Grants__Six_Artists.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/amp/",
+      "publishedDateTime": "2021-04-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-ibm-extends-watson-advertising-ai-to-ott-media-and-streaming.md",
+      "title": "IBM extends Watson advertising AI to OTT media and streaming",
+      "excerpt": "As brands and agencies look to diversify their media portfolios in ever-changing traditional web, IBM offers Watson AI for OTT market, where industry collaboration is critical to achieving scale NEW YORK — IBM (NYSE: IBM) today announced the expansion of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltvnews.net/?p=36354",
+      "originalUrl": "https://www.digitaltvnews.net/?p=36354",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital TV News",
+        "domain": "digitaltvnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-promoting-artificial-intelligence-in-accounting-profession.md",
       "title": "Promoting Artificial Intelligence in Accounting Profession",
       "excerpt": "By Ugo Aliogo In a world driven by ground-breaking scientific innovations, research findings have shown that the advent of technological inventions has influenced the lives of human beings across",
@@ -682,6 +821,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-28-rsna-researchers-use-artificial-intelligence-i-to-detect-wrist-fractures.md",
+      "title": "RSNA: Researchers Use Artificial Intelligence I to Detect Wrist Fractures",
+      "excerpt": "An automated system that uses artificial intelligence (AI) is effective at detecting a common type of wrist fracture on X-rays, according to",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/rsna-researchers-use-artificial-intelligence-i-to-detect-wrist-fractures/article_dc085632-0ee3-5da6-aa5d-b122e5e64e89.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/rsna-researchers-use-artificial-intelligence-i-to-detect-wrist-fractures/article_dc085632-0ee3-5da6-aa5d-b122e5e64e89.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-plus-one-robotics-raises-33m-for-human-robot-collaboration-software.md",
       "title": "Plus One Robotics raises $33M for human-robot collaboration software",
       "excerpt": "Plus One Robotics, a human-robot collaboration software company headquartered in San Antonio, has announced this week $33 million in Series B funding led by McRock Capital and Translink Capital, with participation from BMW i Ventures,",
@@ -1016,189 +1198,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-breastfeeding-can-boost-your-childs-iq-babies-who-consume-breast-milk-for-even-just-a-few-months-score-higher-on-cognitive-tests-at-age-10.md",
-      "title": "Breastfeeding can boost your child's IQ: Babies who consume breast milk for even just a few months score higher on cognitive tests at age 10, study finds",
-      "excerpt": "Researchers in the US gave cognitive tests to nine and ten-year-olds whose mothers reported they were breastfed, and compared their results to scores of children who were not. The findings suggest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9520199/Breastfed-babies-score-higher-cognitive-tests-age-10-study-finds.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9520199/Breastfed-babies-score-higher-cognitive-tests-age-10-study-finds.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/04/28/09/42314098-0-image-a-151_1619598445935.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9520199/amp/Breastfed-babies-score-higher-cognitive-tests-age-10-study-finds.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9520199/amp/Breastfed-babies-score-higher-cognitive-tests-age-10-study-finds.html",
-      "publishedDateTime": "2021-04-28T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-artificial-intelligence-will-maximise-efficiency-of-5g-network-operations.md",
-      "title": "Artificial intelligence will maximise efficiency of 5G network operations",
-      "excerpt": "You’ve likely heard of developments that would combine 5G networks with artificial intelligence to enable autonomous vehicles, augmented reality glasses, free-roaming robots, package delivery drones,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/opinion/Artificial-intelligence-will-maximise-efficiency-of-5G-network-operations",
-      "originalUrl": "https://www.computerweekly.com/opinion/Artificial-intelligence-will-maximise-efficiency-of-5G-network-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/article/mobile-phone-artificial-intelligence-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/opinion/Artificial-intelligence-will-maximise-efficiency-of-5G-network-operations?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Artificial-intelligence-will-maximise-efficiency-of-5G-network-operations?amp=1",
-      "publishedDateTime": "2021-04-28T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health.md",
-      "title": "Healthcare Artificial Intelligence Market May See Big Move | AiCure, APIXIO, Welltok, Cyrcadia Health",
-      "excerpt": "Latest Study on Industrial Growth of COVID-19 Outbreak-Global Healthcare Artificial Intelligence Market 2019-2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health-2021-04-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health-2021-04-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-amazon-releases-deepracer-software-in-open-source.md",
-      "title": "Amazon releases DeepRacer software in open source",
-      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-releases-deepracer-software-in-open-source-10065912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

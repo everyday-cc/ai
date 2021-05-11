@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-12-ai-has-eaten-ibm-think.md",
+      "title": "AI Has Eaten IBM Think",
+      "excerpt": "AI pervades every session at the annual IBM event. The virtual event of “All Things IBM” has become “All Things AI”, from chips to software, Watson to SAP, and companies including SalesForce, Siemens,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aca7635660de3e22ea502%2F0x0.jpg",
+          "width": 1200,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/",
+      "publishedDateTime": "2021-05-11T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-machine-learning-artificial-intelligence-to-gain-traction.md",
+      "title": "Machine learning & Artificial intelligence to Gain traction!",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML) technologies are being incorporated in research areas to deal with the critical scenario arrived due to the COVID-19 pandemic. The main focus of this research is toward agriculture and healthcare sectors,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/",
+      "originalUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/05/technology-5917370_1280.png",
+          "width": 1269,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/machine-learning-market-profile-to-triumph-existing-processes-in-nearly-all-business-verticals-manifests-stupendous-growth/amp/",
+      "publishedDateTime": "2021-05-11T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-ai-fiori-expands-with-its-sky-terrace.md",
       "title": "Ai Fiori Expands With Its Sky Terrace",
       "excerpt": "An airy restaurant in the Rockaway Hotel, a brick-and-mortar location for King David Tacos, and more restaurant news.",
@@ -207,57 +304,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ibm-ceo-every-business-is-going-to-adopt-ai.md",
-      "title": "IBM CEO: Every business is going to adopt AI",
-      "excerpt": "Arvind Krishna, CEO of IBM, compares Artificial Intelligence to electrification at the turn of the last century saying, \"AI is going to infuse every business and enterprise in this century.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness",
-      "originalUrl": "https://www.cnn.com/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200420162135-ibm-arvind-krishna-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness",
-      "publishedDateTime": "2021-05-11T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -720,6 +766,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-11-full-interview-with-ibm-ceo-arvind-krishna-on-new-ai-innovations-chip-shortage-strategy-and-more.md",
+      "title": "Full interview with IBM CEO Arvind Krishna on new AI innovations, chip shortage, strategy and more",
+      "excerpt": "IBM will announce advancements in artificial intelligence and quantum computing at its global annual conference called \"Think.\" The technology is designed to help businesses push further into the 21st century.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/05/11/full-interview-with-ibm-ceo-arvind-krishna-on-new-ai-innovations-chip-shortage-strategy-and-more.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/05/11/full-interview-with-ibm-ceo-arvind-krishna-on-new-ai-innovations-chip-shortage-strategy-and-more.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106881141-16207378051620737794-16019881298-1080pnbcnews.jpg?v=1620737804",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-nvidia-3050-laptops-bring-rtx-for-less-prices-start-at-799.md",
       "title": "NVIDIA 3050 laptops bring RTX for less: Prices start at $799",
       "excerpt": "NVIDIA revealed their new laptop gaming graphics processors and a series of notebooks that’ll house them. These laptops have the ability to deliver DLSS and RT Gaming, 60FPS+",
@@ -779,7 +877,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -832,7 +930,7 @@
       "originalUrl": "https://www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -971,7 +1069,7 @@
       "originalUrl": "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1047,57 +1145,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-one-third-of-organizations-are-using-ai-ibm-survey-finds.md",
-      "title": "One-third of organizations are using AI, IBM survey finds",
-      "excerpt": "A new IBM survey finds that one-third of organizations have adopted AI, and that 43% accelerated the rollout because of the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/10/one-third-of-organizations-are-using-ai-ibm-survey-finds/",
-      "originalUrl": "https://venturebeat.com/2021/05/10/one-third-of-organizations-are-using-ai-ibm-survey-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/10/one-third-of-organizations-are-using-ai-ibm-survey-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/one-third-of-organizations-are-using-ai-ibm-survey-finds/amp/",
-      "publishedDateTime": "2021-05-10T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1185,58 +1232,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-build-an-anomaly-detection-model-from-scratch-with-amazon-lookout-for-vision.md",
-      "title": "Build an anomaly detection model from scratch with Amazon Lookout for Vision",
-      "excerpt": "A common problem in manufacturing is verifying that products meet quality standards. You can use manual inspection on a subset of the products, but it’s usually not scalable enough to meet demand as production grows. In this post, I go through the steps of creating an end-to-end machine vision solution",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-anomaly-detection-model-from-scratch-with-amazon-lookout-for-vision/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-anomaly-detection-model-from-scratch-with-amazon-lookout-for-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/03/12-2988.jpg",
-          "width": 800,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T10:43:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

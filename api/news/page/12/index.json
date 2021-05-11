@@ -2,6 +2,135 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-29-he-was-innocent-but-a-facial-recognition-match-got-this-black-man-arrested.md",
+      "title": "He was innocent. But a facial recognition 'match' got this Black man arrested",
+      "excerpt": "Nijeer Parks couldn't have committed the crime. That didn't stop police from arresting him based off of a false facial recognition match. Here's why the technology can often misidentify Black people,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210414200721-restricted-02-false-facial-recognition-match-nijeer-parks-story-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business",
+      "publishedDateTime": "2021-04-29T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-amplio-launches-esperanza-a-first-of-its-kind-digital-spanish-language-dyslexia-curriculum.md",
+      "title": "Amplio Launches Esperanza, a First of its Kind Digital Spanish-Language Dyslexia Curriculum",
+      "excerpt": "AmplioSpeech (\"Amplio\"), a developer of a digital platform that connects students, educators and therapists with advanced technologies to help students with special needs, announced today the launch of a digital Spanish-language dyslexia curriculum,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210429da59680/amplio-launches-esperanza-a-first-of-its-kind-digital-spanish-language-dyslexia-curriculum",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210429da59680/amplio-launches-esperanza-a-first-of-its-kind-digital-spanish-language-dyslexia-curriculum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-computer-vision-in-ai-the-data-needed-to-succeed.md",
+      "title": "Computer vision in AI: The data needed to succeed",
+      "excerpt": "Developing the capacity to annotate massive volumes of data while maintaining quality is a function of the model development lifecycle that enterprises often underestimate. It’s resource intensive and requires specialized expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
+      "originalUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/VA5_Laptop_1200.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/29/1023746/computer-vision-in-ai-the-data-needed-to-succeed/amp/",
+      "publishedDateTime": "2021-04-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-artificial-intelligence-helps-ivf-patients-avoid-invasive-embryo-genetic-testing.md",
       "title": "Artificial Intelligence helps IVF patients avoid invasive embryo genetic testing",
       "excerpt": "Stock quotes by finanzen.net SAN FRANCISCO, April 29, 2021 /PRNewswire/ -- Life Whisperer, the fertility arm of AI healthcare company Presagen, has made a significant breakthrough in using artificial intelligence to non-invasively help embryologists rank and select genetically healthy embryos in IVF.",
@@ -141,24 +270,15 @@
     {
       "path": "_news/2021-04-29-ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming-landscape.md",
       "title": "IBM Watson Advertising Accelerator Expands to Bring AI to Fast-Growing OTT Media and Streaming Landscape",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "excerpt": "IBM today announced the expansion of IBM Watson Advertising Accelerator for OTT and video, designed to help marketers move beyond contextual relevance alone. While compatible with most streaming platforms,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210429ny59606/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming-landscape",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210429ny59606/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming-landscape",
+      "webUrl": "https://www.nasdaq.com/press-release/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and",
+      "originalUrl": "https://www.nasdaq.com/press-release/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -166,8 +286,8 @@
       "publishedDateTime": "2021-04-29T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1033,145 +1153,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-membership-inference-attacks-detect-data-used-to-train-machine-learning-models.md",
-      "title": "Membership inference attacks detect data used to train machine learning models",
-      "excerpt": "In membership inference attacks, the adversary can work back from the machine learning algorithm to discover the training data used.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/",
-      "originalUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/deepfakes-e1619655593693.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/28/membership-inference-attacks-detect-data-used-to-train-machine-learning-models/amp/",
-      "publishedDateTime": "2021-04-28T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-when-artists-and-machine-intelligence-come-together.md",
-      "title": "When artists and machine intelligence come together",
-      "excerpt": "Throughout history, from photography to video to hypertext, artists have pushed the expressive limits of new technologies, and artificial intelligence is no exception. At I/O 2019, Google Research and Google Arts &amp; Culture launched the Artists + Machine Intelligence Grants, providing a range of support",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/",
-      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMI_Grants__Six_Artists.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/amp/",
-      "publishedDateTime": "2021-04-28T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-ibm-extends-watson-advertising-ai-to-ott-media-and-streaming.md",
-      "title": "IBM extends Watson advertising AI to OTT media and streaming",
-      "excerpt": "As brands and agencies look to diversify their media portfolios in ever-changing traditional web, IBM offers Watson AI for OTT market, where industry collaboration is critical to achieving scale NEW YORK — IBM (NYSE: IBM) today announced the expansion of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltvnews.net/?p=36354",
-      "originalUrl": "https://www.digitaltvnews.net/?p=36354",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital TV News",
-        "domain": "digitaltvnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

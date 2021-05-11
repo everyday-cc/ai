@@ -45,17 +45,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "IBM doubles down on AI and hybrid cloud"
-    excerpt: "IBM is beefing up its core technology capabilities in artificial intelligence (AI) and hybrid cloud to speed up application modernisation and improve AI adoption"
-    publishedDateTime: 2021-05-11T04:04:00Z
-    webUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud"
-    ampWebUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
   - title: "IBM makes leaps in AI, hybrid cloud and quantum computing for digital transformation"
     excerpt: "IBM Corp has achieved several advances in artificial intelligence, hybrid cloud and quantum computing to accelerate its partners and clients digital transformation journeys. A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic."
     publishedDateTime: 2021-05-11T07:57:00Z
@@ -85,6 +74,6 @@ related:
         height: 543
         isCached: true
 
-secured: "HE0PakcY0M2g/YBR6v94VAatW4SDWRZ/1kQha1vxL6NPvfWeqhrUaAIiNmVYnsJWZp02A74XCZIdVr2S2BXJg7qzZ/ZUqLxm1r3s4biOmH8Bc4eLP2Kra49g9sZs9r7IsfDxnu5mTZrFTzHdyBtLoAdbeSeKnfSQukIhxG/87GL9EGl2gZfrCUdJ6a5yZcbPl0rXPa2df1UG+zeDyKHw4uuPJQYEnDJNBnceSeAGDMnMrycOClQipSbvHok7LzU0UA4sQGWBsJFCxbusLHBoKZsxWgc/qhyX7CbLjo/ujlmtFzaXLWP7kyhtT5dG5hhtkgaBL+pFlmzvGnYR4CbMK/0Pvw/FEsiiMk6dLpbpA5A=;EZQt+hEJz/hXf48yKIhSbQ=="
+secured: "+45Wxe9UYE4E9PtXnezv/bs92ArZ/j9gp2NSaDG9VxxS3tyD2pkoft+BXpFow9w/1/xTAZBZ1M4LSslt31lXScQA41ihxdMame+BkyLS9ACAvQLKPd+ZlpGAjhfB+OsM4UfKDm6kpvuPxReYtlP/EtISlDJ0vqvP5F4yAqdH2LSwBPWMsMbEYcBRtMESsSpEdcXlroTVgER0Jwpwyw+BmQFox7DB5vulOQ95VK0AnymMhv2fqxe96SK0h7ksWYlzQvQ1DJ9E3gfTIoQ0/XfPl1n300yH/64xB2sJs7L1PtopGZs6EJES1O+K0IQ1cJkrEelLhux20HUY6R/cLQ/Xx0BHBitcADmMfkKi39XDARM=;DfK7Ouf1e/5P+LhCx2Vl0w=="
 ---
 

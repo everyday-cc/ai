@@ -125,17 +125,6 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 23
-  - title: "North America AI in Computer Vision Market to Hit US$ 32,565.09 million by 2027 to Grow Steady at 45.0% CAGR | Covers Impact of COVID-19 Pandemic"
-    excerpt: "The AI in computer vision market in North America is expected to grow from US$ 1,761.21 million in 2019 to US$ 32,565.09 million by 2027; it is estimated to grow at a CAGR of"
-    publishedDateTime: 2021-05-07T01:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21006351/north-america-ai-in-computer-vision-market-to-hit-us-32-565-09-million-by-2027-to-grow-steady-at-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21006351"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21006351"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "LLYcnSd0roS7jko/k2rHChp3FMTNi+l2r/y4lwJ7HOavrDfTSsZiJIIJhpoRZAbcJhcsRxAnhurUS27BEDaMWLB5iqipi/xa613F2MFp8jk+2p1DxCEX+HC7Rbel7cJvN75J7KnePt0gMQD/X/0vNTAVpFsBU1EkEH9L8JIqGcihZE2oeTp8ewWTF/FxeGUW4D4wRsexHVbMk5TTjhWGKj2KzZwy3xSCPKburP3bwyhen39DjpC4Dc4i4vBexJsUb37VGCEevigVPUlrCUwYYrunzliIXbVe8ANJRIUbgU66c/tqNOlgReiyQp9TtDSf/1INH4Fy+m0jNQrs1Zm9yUhX5JZUH/Vyc7JwYt/tgi8DfXEZDqz6QizmSRSIBsuv5gYRB4Lt11I+KPjrulQahRwsI19lsa1WwJ9utPQSuawn6b4fKmYFOZRzBNhehmJq9aMf40NWVj50zF0M63Ea7l5/r2dq1eFKkigXntaps888o90Bkj8y/kuIXn3ZFhJRYxkcvUm/C605XL5l6Rai4Q==;n7cme/t0c5O+SrbBo/Oihw=="
 ---

@@ -55,17 +55,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "IBM doubles down on AI and hybrid cloud"
-    excerpt: "IBM is beefing up its core technology capabilities in artificial intelligence (AI) and hybrid cloud to speed up application modernisation and improve AI adoption"
-    publishedDateTime: 2021-05-11T04:04:00Z
-    webUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud"
-    ampWebUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
   - title: "Watch live: Think 2021 reimagines the digital experience as IBM powers up hybrid cloud with automation"
     excerpt: "Remote operations and the need to rapidly respond to the changing economic climate have made cloud computing essential for modern business survival. Adapting means adopting hybrid cloud. But stepping smoothly from a legacy or pure cloud environment into one where applications and data are dispersed across multiple clouds,"
     publishedDateTime: 2021-05-10T22:00:00Z

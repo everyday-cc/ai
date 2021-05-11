@@ -22,63 +22,67 @@ topics:
   - IBM AI
 
 related:
-  - title: "IBM builds new hybrid cloud, AI capabilities to help clients go digital"
-    excerpt: "A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic"
-    publishedDateTime: 2021-05-11T04:44:00Z
-    webUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
+  - title: "AI Has Eaten IBM Think"
+    excerpt: "AI pervades every session at the annual IBM event. The virtual event of “All Things IBM” has become “All Things AI”, from chips to software, Watson to SAP, and companies including SalesForce, Siemens,"
+    publishedDateTime: 2021-05-11T19:53:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://images.livemint.com/img/2021/05/11/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618938474492_1620708031821.JPG"
-        width: 600
-        height: 338
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aca7635660de3e22ea502%2F0x0.jpg"
+        width: 1200
+        height: 711
         isCached: true
-  - title: "IBM Announces Breakthrough Hybrid Cloud and AI Capabilities to Accelerate Digital Transformation at 2021 Think Conference"
-    excerpt: "IBM (NYSE: IBM) announces advances in artificial intelligence (AI), hybrid cloud, and quantum computing at the company's Think conference at 12:00 p.m. ET today. The innovations highlight IBM's role in helping its clients and partners accelerate their digital transformations,"
-    publishedDateTime: 2021-05-11T06:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities-to-accelerate-digital-transformation-at-2021-think-conference-1030411690"
+  - title: "IBM CEO: Every business is going to adopt AI"
+    excerpt: "Arvind Krishna, CEO of IBM, compares Artificial Intelligence to electrification at the turn of the last century saying, \"AI is going to infuse every business and enterprise in this century.\""
+    publishedDateTime: 2021-05-11T15:45:00Z
+    webUrl: "https://www.cnn.com/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
+      name: CNN
+      domain: cnn.com
+    quality: 87
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200420162135-ibm-arvind-krishna-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "IBM makes leaps in AI, hybrid cloud and quantum computing for digital transformation"
-    excerpt: "IBM Corp has achieved several advances in artificial intelligence, hybrid cloud and quantum computing to accelerate its partners and clients digital transformation journeys. A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic."
-    publishedDateTime: 2021-05-11T07:57:00Z
-    webUrl: "https://mybigplunge.com/tech-plunge/technology/ibm-makes-leaps-ai-hybrid-cloud-quantum-computing-digital-transformation/"
+  - title: "One-third of organizations are using AI, IBM survey finds"
+    excerpt: "A new IBM survey finds that one-third of organizations have adopted AI, and that 43% accelerated the rollout because of the pandemic."
+    publishedDateTime: 2021-05-11T04:01:00Z
+    webUrl: "https://venturebeat.com/2021/05/10/one-third-of-organizations-are-using-ai-ibm-survey-finds/"
+    ampWebUrl: "https://venturebeat.com/2021/05/10/one-third-of-organizations-are-using-ai-ibm-survey-finds/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/one-third-of-organizations-are-using-ai-ibm-survey-finds/amp/"
     type: article
     provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 32
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/05/IBM-1000x600.jpg"
-        width: 1000
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all"
+        width: 1200
         height: 600
         isCached: true
-  - title: "Watch live: Think 2021 reimagines the digital experience as IBM powers up hybrid cloud with automation"
-    excerpt: "Remote operations and the need to rapidly respond to the changing economic climate have made cloud computing essential for modern business survival. Adapting means adopting hybrid cloud. But stepping smoothly from a legacy or pure cloud environment into one where applications and data are dispersed across multiple clouds,"
-    publishedDateTime: 2021-05-10T22:00:00Z
-    webUrl: "https://siliconangle.com/2021/05/10/watch-live-think-2021-reimagines-digital-experience-ibm-powers-hybrid-cloud-automation-think2021/"
+  - title: "At Think conference, IBM puts AI and hybrid cloud to work"
+    excerpt: "IBM Corp. is pushing the envelope on hybrid cloud and artificial intelligence with a number of key announcements early Tuesday ahead of its Think 2021 event, chiefly aimed at accelerating its customer’s digital transformation strategies."
+    publishedDateTime: 2021-05-11T04:01:00Z
+    webUrl: "https://siliconangle.com/2021/05/11/think-conference-ibm-puts-ai-hybrid-cloud-work/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 8
+    quality: 41
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/IBM-Think-2021-1.png"
-        width: 965
-        height: 543
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/ibm-768x499.png"
+        width: 768
+        height: 499
         isCached: true
 
 secured: "vhw+EXCprvBmuGzhAurtD6ZosBWDLu//y/zpK6MC88WvcdKWTm6zZ32PJKqrLJCr2Q7raLU9tOHGJHQa2ckyFdfIQD3wOlP3RQulQPyC7Cqu1xYfOZdLYguJmCuQxRLibYi10RwyjGwA22Sgp7Us+aO9FID1qiw6TFjPyq4N+8lxWN9lVbPz3srjI6am7jJX4Kp6WZtcjW4vGb7OOrtlYK8BxKXImVzyMImsU6CJV8gTabpMYA+QE5hGi1Sel/KasfPLbqGOPTyZDzfJW3BXrUPRxPbfCCW7nYHxlXiCjB5X4TD18wt/O9lvrek3buy/Y5rIRBGfCekjPyKHsSrRzKfXVUECd3yPQQD3OOOiPVqHfO3G93heq/j97A59gwt+7VEadOJ4XKYrXoBcT773e2R+aInOQbb1IaqloMPVKfga3QBRB/syH3exaKU2eWl/BBfnA1GlWgCo7K7/cI5zOhTLst4aN+Oszf5BiQGBWndAtLoP0WxXoz6IKm0/upc3zAKqo/uC0Woj0wm8DDt8xg==;ukYwv7MytrpV8AHwjmaUaA=="

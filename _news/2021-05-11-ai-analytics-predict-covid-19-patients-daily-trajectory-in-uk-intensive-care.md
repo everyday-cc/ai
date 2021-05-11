@@ -57,18 +57,18 @@ related:
         height: 750
         isCached: true
   - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS® Viya® advanced analytics, Microsoft Azure,"
-    publishedDateTime: 2021-05-11T15:56:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d"
+    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the"
+    publishedDateTime: 2021-05-11T14:53:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 36
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg?p=facebook"
+        width: 2699
+        height: 1414
         isCached: true
 
 secured: "UNQdaQSQF2H3bw509GdHRofgF+6TlmlbhbFnizG8lopGKMNYaNpldR58MdhVm++DH2gbVA08/jNvrBBZ6Vk5A2rmKkwCrD+ECC4vS8aAXy0664M6YFe3WmKoU5XcC4u1oPVtXzTf/QZ26tYcTHd06uSjtOXx4HKqzoGLYyJ4qYwN2LkE4x9bRR0eBXRPXrgSCctX2rnS+sJ/gGPDYJ1LyRx57HTM7PPwScqtnW8d7ujFFjO45slu3q/lLR3V2UEm+Cuz30deuSFS52JmI4jHSy1FzPjq+BfpJamxewauCtrkGlmt1leoP3oCG/q5WzQ6jpcrP0fjewZUfAzigmgIPet7XxVetQINyyzz2bzBdNE=;nKx5ofdEJ0ILW30ZHat0LA=="

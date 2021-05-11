@@ -79,6 +79,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "AI to detect sarcasm on social media"
+    excerpt: "Properly understanding and responding to customer feedback on social media platforms is crucial for brands and it may have just gotten a little easier thanks t"
+    publishedDateTime: 2021-05-11T18:18:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269410497/ai-to-detect-sarcasm-on-social-media"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1620756355.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "University of Central Florida AI System Can Detect Sarcasm in Social Media Posts"
     excerpt: "Computer science researchers including an Indian American at the University of Central Florida have developed an artificial intelligence-based sarcasm detector for posts on social media platforms."
     publishedDateTime: 2021-05-09T19:30:00Z

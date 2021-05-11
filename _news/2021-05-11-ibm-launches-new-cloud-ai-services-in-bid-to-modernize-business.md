@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM Project CodeNet to teach AI how to code"
+    excerpt: "IBM has unveiled Project CodeNet, an open-source dataset for advancing AI’s understanding and translation of code."
+    publishedDateTime: 2021-05-11T19:22:00Z
+    webUrl: "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 71
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-3.22.03-PM.png"
+        width: 1654
+        height: 932
+        isCached: true
   - title: "IBM Launches New Cloud, AI Services to Drive Productivity"
     excerpt: "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence."
     publishedDateTime: 2021-05-11T16:20:00Z
@@ -75,6 +89,22 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSJLLWoOckV8/v5/-1x-1.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "IBM launches new cloud, AI services in bid to modernize business"
+    excerpt: "IBM Corp. is rolling out a product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step toward cloud services and artificial intelligence."
+    publishedDateTime: 2021-05-11T19:47:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 59
+    images:
+      - url: "https://thumb.spokesman.com/MVo1plJGC5ST44c-hvkJCxo03zU=/480x0/media.spokesman.com/photos/2021/05/11/609ad8172c8e9.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
 
 secured: "7LOsTXYHbn7v4mywuLuNCtnrtP4yh4xB7tBZC96+HyLCufQLkJRdO3xa5WhZyiotm5LQhMRklzp0oO/5Hl+2rXwfUqToFOaRm3FaDQifE5MsXGcSUVcg848T13ndtnvWT8PxHrqsZ+qBXJ/u4gmXYwoNyv4cTfvLChweutW++sS77aqga+m7M4YBKvvaMJUmLWjcrLSogXtJwu+CqsFdLZJpwo7cgEY0VIja52k4Bazy9+ZfkPrVbair1QO3ha1nxTzTOkZISsYOuaRU+RrThi/r/k07lOgbCLer6ypw1sTBtSe1SjB7c96uXQx5jog6SrMBIMrh/zKpahHTHyC/hz31rdUFqyXAIA978QsLKCxuXkUlyNrtuvRg/SZ2Ok8ZpeUuYrw7W57dt3u3Lc5kvzlmThbpuAo8MzhQHr70DrXeFMybMxzAqSD986cDuadotFWK9j4zpIsFAEJtyhtMfK++s0W8TqvUYXvfyiiZnDT5iEhOO7YW3qu96k04Da8p8ht95LWxQX6yH3iGq90Zsg==;45ej36RkNr8L65I4thNk3w=="

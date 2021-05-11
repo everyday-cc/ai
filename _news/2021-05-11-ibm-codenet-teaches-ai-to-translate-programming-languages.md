@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp"
 type: article
 quality: 106
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "IBM Project CodeNet to teach AI how to code"
+    excerpt: "IBM has unveiled Project CodeNet, an open-source dataset for advancing AI’s understanding and translation of code."
+    publishedDateTime: 2021-05-11T19:22:00Z
+    webUrl: "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 71
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-3.22.03-PM.png"
+        width: 1654
+        height: 932
+        isCached: true
   - title: "IBM Launches New Cloud, AI Services to Drive Productivity"
     excerpt: "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence."
     publishedDateTime: 2021-05-11T16:20:00Z
@@ -75,6 +89,22 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSJLLWoOckV8/v5/-1x-1.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "IBM launches new cloud, AI services in bid to modernize business"
+    excerpt: "IBM Corp. is rolling out a product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step toward cloud services and artificial intelligence."
+    publishedDateTime: 2021-05-11T19:47:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 59
+    images:
+      - url: "https://thumb.spokesman.com/MVo1plJGC5ST44c-hvkJCxo03zU=/480x0/media.spokesman.com/photos/2021/05/11/609ad8172c8e9.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
 
 secured: "709M4IyipBrVW6B6FUT24xrsVlJtBblFVkw5geGOLZ+HBpPzjCwdtxKDJWqszP4J+FhKmcboz4M9qz73tyypNPa+s8NZHrEvgiKnThQm3AuB/L9DOdkyK5dsYj03K1sXI86Nk2YMWL+U1uYXPH8RRiz10hCwl1d6Cd9UsIUQ6WBF/Yb+qd8YAZsAqlDl5+KHsy3ZzEec2mZfD5R90HTwgRjSIZhxNGqELQ5S+DWPvOXNXhA6HNKpqpvGYB2bGNcwZatUZ+HYyhvAubL8C86Omi3f6D1mQmHNzC0a+bb4eiQemGn/m628EnGY1uj5FJp2rNNwu5SlMdJhRZRmm3OgiGFMlal8Qn07yk9I3EYlGrTRTJD0ENjsEeQQ/yP9u9ovPFR34dQRL+dhXW2mOzEtOPq7Sf+UWRnQ4f1eZ/gdu8qFli9cCwMQhlUcChZJfiJwYzOoRxWwrlrnj4rXSZi7y6bAPFeluji5er44m6QlFvTzOR/U1EB4ye5yMe0yG96u7gDJFFIBU5XXfu5EnhK2jw==;ikXphtgQKf+QULLX5ijIaQ=="

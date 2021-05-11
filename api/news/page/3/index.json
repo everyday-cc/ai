@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-08-billcom-to-buy-expense-software-provider-divvy-for-25-billion.md",
+      "title": "Bill.com To Buy Expense Software Provider Divvy For $2.5 Billion",
+      "excerpt": "Bill.com, which provides back-office software, has struck a deal to buy Utah-based Divvy in a stock-and-cash transaction valued at about $2.5 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/05/bill-com-to-buy-divvy-for-2-5-billion.html",
+      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/bill-com-to-buy-expense-software-provider-divvy-for-2-5-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2017/10/bill-400x293.png",
+          "width": 400,
+          "height": 293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-07T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-build-an-intelligent-search-solution-with-automated-content-enrichment.md",
       "title": "Build an intelligent search solution with automated content enrichment",
       "excerpt": "Unstructured data belonging to the enterprise continues to grow, making it a challenge for customers and employees to get the information they need. Amazon Kendra is a highly accurate intelligent search service powered by machine learning (ML). It helps you easily find the content you’re looking for,",
@@ -1198,58 +1240,6 @@
         "Machine Learning",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-how-the-usps-uses-nvidia-gpus-and-ai-to-track-missing-mail.md",
-      "title": "How the USPS uses Nvidia GPUs and A.I. to track missing mail",
-      "excerpt": "You've got mail! But where is it? The USPS is leaning on A.I. at the edge and GPU-accelerated computing to help track and locate missing mail and packages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/",
-      "originalUrl": "https://www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/united-states-postal-service-truck-2.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/?amp",
-      "publishedDateTime": "2021-05-06T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

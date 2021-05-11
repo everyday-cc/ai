@@ -800,6 +800,40 @@
       ]
     },
     {
+      "path": "_news/2021-04-21-visual-object-recognition-is-facilitated-by-temporal-community-structure.md",
+      "title": "Visual object recognition is facilitated by temporal community structure.",
+      "excerpt": "Humans and others primates are highly attuned to temporal consistencies and regularities in their sensory environment and learn to predict such statistical structure. Moreover, in several instances, the presence of temporal structure has been found to facilitate procedural learning and to improve task performance.",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/MED/33858967",
+      "originalUrl": "https://europepmc.org/article/MED/33858967",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-computer-vision-in-healthcare-market-insights-status-latest-amendments-and-outlook-2020-2026.md",
       "title": "Computer Vision in Healthcare Market Insights, Status, Latest Amendments And Outlook 2020-2026",
       "excerpt": "Latest COVID-19 updated report published by FNF Research (fnfresearch.com) titled “ global Computer Vision in Healthcare market analysis and forecast 2020-2026 ” includes information on the industry’s growth prospects,",
@@ -1255,42 +1289,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-amazon-and-microsoft-team-up-to-defend-against-facial-recognition-lawsuits.md",
-      "title": "Amazon and Microsoft team up to defend against facial recognition lawsuits",
-      "excerpt": "Snapchat and Shutterfly have faced similar suits. Amazon’s facial recognition software, Rekognition, has become a particular focus of criticism by civil-liberties advocates. Amazon is the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/",
-      "originalUrl": "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1",
-      "publishedDateTime": "2021-04-15T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision",
-        "Microsoft AI"
       ]
     }
   ],

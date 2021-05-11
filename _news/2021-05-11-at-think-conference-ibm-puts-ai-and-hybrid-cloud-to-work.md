@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "AI Has Eaten IBM Think"
+    excerpt: "AI pervades every session at the annual IBM event. The virtual event of “All Things IBM” has become “All Things AI”, from chips to software, Watson to SAP, and companies including SalesForce, Siemens,"
+    publishedDateTime: 2021-05-11T19:53:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aca7635660de3e22ea502%2F0x0.jpg"
+        width: 1200
+        height: 711
+        isCached: true
+  - title: "IBM CEO: Every business is going to adopt AI"
+    excerpt: "Arvind Krishna, CEO of IBM, compares Artificial Intelligence to electrification at the turn of the last century saying, \"AI is going to infuse every business and enterprise in this century.\""
+    publishedDateTime: 2021-05-11T15:45:00Z
+    webUrl: "https://www.cnn.com/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/11/ibm-ceo-artificial-intelligence.cnnbusiness"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200420162135-ibm-arvind-krishna-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "One-third of organizations are using AI, IBM survey finds"
     excerpt: "A new IBM survey finds that one-third of organizations have adopted AI, and that 43% accelerated the rollout because of the pandemic."
     publishedDateTime: 2021-05-11T04:01:00Z
@@ -42,6 +74,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM doubles down on AI and hybrid cloud"
+    excerpt: "IBM is beefing up its core technology capabilities in artificial intelligence (AI) and hybrid cloud to speed up application modernisation and improve AI adoption"
+    publishedDateTime: 2021-05-11T04:04:00Z
+    webUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud"
+    ampWebUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 41
 
 secured: "z6k2ozfBU3GU97ze8sGm8P/C9xa0Z6kaq9cxDQ602421e4vX3RHxb/y+k6b6abdRGMTW5TADIvRV7ubeK9Gj3KfDYuAofEEV32G9avJa2kxf1p0zynFA7IxBsUq0nqx77DTwBWmm5DZ281ofxbsO7xdGYVLcHwVJxtVEeb3KsxTN2qPu2mXfLg6nX4vCuYb65LDCIxyR9lt/APLVLz4W6ME42p9A9ZQr/ovaRFN43aUfbj0VjSzUSRT/NIgfP4BolBB/DnXk02xDzAp1uQuTXU2XJfu+CANufKs6pUip3RlcGtyqkECU3WyTB4FrAt0MCbX5Kg7s01Or2FeQ+gb82uGPND/VuWSTKScfOU7PftLRb1moDAq75Y8TA1bxhyiAwlYPIRTgcq+duhif+D6TDFGNiipwknzd47Wrqbst/5lB6dt41lfm3GlLHEDJITjrLelV/HtOGEf+TL/nLdcHBR6tl0MxxG79xDW/QG4l95q2HUtdhCBjrp1AWbGQJBqvXzAI9ooLUA439ja/JArcPw==;s2mOP4RUanPfEqcQpX2eEQ=="
 ---

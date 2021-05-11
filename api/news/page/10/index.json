@@ -2,6 +2,145 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-01-the-4-fallacies-of-artificial-intelligence.md",
+      "title": "The 4 Fallacies of Artificial Intelligence",
+      "excerpt": "Artificial intelligence researchers are kidding themselves that human-level performance is within reach, argues one leading thinker. Here's why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/technology/the-4-fallacies-of-artificial-intelligence?utm_sq=gq3ljkv5ct",
+      "originalUrl": "https://www.discovermagazine.com/technology/the-4-fallacies-of-artificial-intelligence?utm_sq=gq3ljkv5ct",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/7fWlxP5pbUOWtYOq9nWOKk/0e4afdfaf151a66642346beca3ad3413/shutterstock_1154457493.jpg",
+          "width": 1000,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors.md",
+      "title": "A blowout earnings cycle hides strategy shift from cloud vendors",
+      "excerpt": "The big 3 cloud vendors have made huge investments over the past few months in data and AI services targeting vertical markets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/",
+      "originalUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1249937449.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/amp/",
+      "publishedDateTime": "2021-04-30T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-volkswagen-will-develop-in-house-self-driving-chip-to-compete-with-tesla-apple.md",
+      "title": "Volkswagen Will Develop In-House Self-Driving Chip to Compete With Tesla, Apple",
+      "excerpt": "Although Tesla’s expensive and strictly in-house developed autonomous driving software has a long way to go to actually achieve self-driving, its German rival Volkswagen is going down the same path to build its own driverless capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/",
+      "originalUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://observer.com/wp-content/uploads/sites/2/2021/04/GettyImages-1208585546.jpeg?quality=80&strip",
+          "width": 6240,
+          "height": 4160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/",
+      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/",
+      "publishedDateTime": "2021-04-30T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-a-scientist-created-emotion-recognition-ai-for-animals.md",
       "title": "A scientist created emotion recognition AI for animals",
       "excerpt": "A researcher at Wageningen University & Research recently published a pre-print article detailing a system by which facial recognition AI could be used to identify and measure the emotional state of farm animals.",
@@ -1057,162 +1196,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-understanding-ai-and-machine-learning-concepts-to-build-your-ai-leadership-brain-trust.md",
-      "title": "Understanding AI And Machine Learning Concepts To Build Your AI Leadership Brain Trust.",
-      "excerpt": "This blog is the latest in the AI Leadership Brain Trust series which defines 50 key competencies required to build a world-class AI center of excellence in a large enterprise. This blog defines basic AI and ML terms for board directors and CEOs to step up their knowledge know-how and stay relevant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/04/29/understanding-ai-and-machine-learning-concepts-to-build-your-ai-leadership-brain-trust/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/04/29/understanding-ai-and-machine-learning-concepts-to-build-your-ai-leadership-brain-trust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b5ce145ba745bee6050b2%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing.md",
-      "title": "Baidu to roll out fully automated self-driving taxi service in Beijing",
-      "excerpt": "Baidu's robotaxis will be hitting the streets of Beijing starting at Shougang Park, one of the venues for the 2022 Beijing Winter Olympics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
-      "originalUrl": "https://www.zdnet.com/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/04/30/eb7f4669-5ff8-4dff-9f4e-225845d30363/baidu-apollo-2.jpg",
-          "width": 3792,
-          "height": 2528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-to-roll-out-fully-automated-self-driving-taxi-service-in-beijing/",
-      "publishedDateTime": "2021-04-29T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-baidu-launches-robotaxi-service-outside-beijing-how-fully-driverless-is-it-vs-autox.md",
-      "title": "Baidu Launches Robotaxi Service Outside Beijing. How ‘Fully Driverless’ Is It Vs. AutoX?",
-      "excerpt": "Baidu, the leading search engine in China, has launched a robotaxi service in Shougang Park - an industrial park on the outskirts of Beijing which will be a site for the 2023 winter Olympics. How does it compare with AutoX's offering and is it the first?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b4966a43cfa314e532181%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/04/29/baidu-launches-robotaxi-service-outside-beijing--how-fully-driverless-is-it-vs-autox/amp/",
-      "publishedDateTime": "2021-04-29T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

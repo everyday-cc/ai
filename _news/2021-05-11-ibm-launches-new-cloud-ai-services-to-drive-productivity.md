@@ -74,7 +74,37 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "IBM Project CodeNet to teach AI how to code"
+    excerpt: "IBM has unveiled Project CodeNet, an open-source dataset for advancing AI’s understanding and translation of code."
+    publishedDateTime: 2021-05-11T19:22:00Z
+    webUrl: "https://sdtimes.com/ai/ibm-project-codenet-to-teach-ai-how-to-code/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 71
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/05/Screen-Shot-2021-05-11-at-3.22.03-PM.png"
+        width: 1654
+        height: 932
+        isCached: true
+  - title: "IBM launches new cloud, AI services in bid to modernize business"
+    excerpt: "IBM Corp. is rolling out a product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step toward cloud services and artificial intelligence."
+    publishedDateTime: 2021-05-11T19:47:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 59
+    images:
+      - url: "https://thumb.spokesman.com/MVo1plJGC5ST44c-hvkJCxo03zU=/480x0/media.spokesman.com/photos/2021/05/11/609ad8172c8e9.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
 
-secured: "dFc0VLjGYi+9LS4+OF3NnA53lh89BNe22U7D4k2X3hgfZeSgQ2E1Nn9yyZR3mMbIVFWxHIQ1cJdPoNODJ6+sDrlrTW5WY3VO97Mwp/vzbE18B9VOrIbsL77BMLrK0s5dt0K/q0FcHPc5ygdOwqFg1OPchZ0aPqydC6jVrqHfDb2w3OVF8rKFyesP1tyMSyhd/qf3H7wOn4jenJKNn5nGNNyUxTl3WIqMIlOjG04gawSL3AcxTLHYlp8FhlN77ubxniHxbTueIvK3Q8zT/CGFWOkYuuCQmIIGlcLjW7fFj+/iSYQ4v3ux0ubJaDe++6SQCYUB6xzEahvsqn17P2KnT0Ocq1QriqPDYcJo1WZ72q4=;7mfSsVdrjc7hOtL1xWoGEQ=="
+secured: "ICHT30/KbJB9hWwyL/H4I/YbA0wPKopEA5VuOoe0BcVQDHamnfCS68H2M+MPpagyYFP9QhSoGT47RGepS5UF/tIY0KOAPcyRA/6t/X+W3p6MS1Rfi1i5/vhIkgPVIAr7kYgjjNjrWxmfhUoh3PjwV3ZHjKPl3Fdjt+ZN/WEE6AzYBP0tyaJU2QESc71BXSNBlk81Xh9AdAEhJ+EiqM42ZGyyqQ0zs+vDKoVlvYUj+8FPA6gMlg+aBfwzC84hK2ZrX9MZZ7truO8aQxN6s5mXgLpNNNhI5lADShwuUL89yYKojo3wRAOLh62SReLzBp+B232f3S2158oqIUpeLeG7SaWAO4IXHjuZnqWc/VBfdweFCOwmMVMAieuQfFou8xL6bcCF7uq+3A1pas/QOosBnGn4wCR8NSW9nsSa8czfe6LGVFroQrynt+QjrmBds+Hy3Sw8MyWAmQ9YS3/hFDEwmcYMV3aEAG5hIJD5cluOzKu9mJpPY95dAXCsWs5tJl+R9ejH69+6CdDRikxgP6DVHg==;UP6PNhMRU11kzcU2Ps7pvg=="
 ---
 

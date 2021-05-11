@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-14-sambanova-raises-676m-to-mass-produce-ai-training-and-inference-chips.md",
+      "title": "SambaNova raises $676M to mass-produce AI training and inference chips",
+      "excerpt": "AI chip startup SambaNova systems has raised $676 million, bringing its total raised to over $1 billion at a $5 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/",
+      "originalUrl": "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/",
+      "publishedDateTime": "2021-04-13T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-microsoft-releases-ai-training-library-zero-3-offload.md",
+      "title": "Microsoft Releases AI Training Library ZeRO-3 Offload",
+      "excerpt": "Microsoft recently open-sourced ZeRO-3 Offload, an extension of their DeepSpeed AI training library that improves memory efficiency while training very large deep-learning models. ZeRO-3 Offload allows users to train models with up to 40 billion parameters on a single GPU and over 2 trillion parameters on 512 GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/04/microsoft-zero3-offload/",
+      "originalUrl": "https://www.infoq.com/news/2021/04/microsoft-zero3-offload/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/04/microsoft-zero3-offload/en/headerimage/microsoft-zero3-offload-header-1617471413275.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-avaya-enabling-the-composable-enterprise-with-new-ai-capabilities-in-collaboration-with-nvidia.md",
       "title": "Avaya Enabling the Composable Enterprise with New AI Capabilities in Collaboration with NVIDIA",
       "excerpt": "Avaya (NYSE:AVYA), a global leader in solutions to enhance and simplify communications and collaboration, is providing attendees at the NVIDIA GPU Technology Conference with new insights into how AI capabilities integrated into its Avaya OneCloud immersive collaboration and communications portfolio will enable today’s composable enterprise to effortlessly deliver memorable experiences for customers and staff.",
@@ -1239,93 +1335,6 @@
       "provider": {
         "name": "PC Gamer",
         "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach.md",
-      "title": "Intel Sets Ice Lake Apart From AMD EPYC With AI, Systems Approach",
-      "excerpt": "Intel launches its third-gen Xeon Scalable CPUs, code-named Ice Lake, saying they are faster than AMD's latest EPYC Milan chips in certain workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/components-peripherals/intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach",
-      "originalUrl": "https://www.crn.com/news/components-peripherals/intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0268-11fa0f99b4e0-e1b195cc181a-1000/intel-ice-lake.jpg",
-          "width": 610,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-ai-upscaling-and-the-future-of-content-delivery.md",
-      "title": "AI Upscaling And The Future Of Content Delivery",
-      "excerpt": "So rather than tasking the GPU with producing a native 4K image ... To address this fundamental issue, AI-enhanced scaling actually creates new visual data to fill in the gaps between the source ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2021/04/05/ai-upscaling-and-the-future-of-content-delivery/",
-      "originalUrl": "https://hackaday.com/2021/04/05/ai-upscaling-and-the-future-of-content-delivery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2021/04/Upscaling.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

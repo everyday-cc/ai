@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-05-turn-your-camera-on-deep-vs-shallow-learning-in-a-virtual-world.md",
+      "title": "Turn Your Camera On! Deep Vs. Shallow Learning In A Virtual World",
+      "excerpt": "One-way, shallow learning experiences often required by companies and deemed to be “training” may result in immediate action and regurgitation of information, but in my experience, they seldom produce deep employee development. There is a significant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/04/05/turn-your-camera-on-deep-vs-shallow-learning-in-a-virtual-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/04/05/turn-your-camera-on-deep-vs-shallow-learning-in-a-virtual-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1226644774%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-google-introduces-tensorflow-hub-for-reusable-machine-learning-models.md",
       "title": "Google introduces TensorFlow Hub for reusable machine learning models",
       "excerpt": "Google announced new improvements to the TensorFlow developer experience at its annual TensorFlow Developer Summit last week. The company announced an improved programming model for Python ...",
@@ -1256,59 +1308,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning.md",
-      "title": "Amazon AWS, Hugging Face team up to spread open-source deep learning",
-      "excerpt": "Amazon and startup Hugging Face say the ability to rapidly assemble thousands of neural networks inside of Amazon SageMaker, and train them with greater ease, will “democratize” use of deep learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/23/b303e223-69b6-4396-b744-102b4be9b771/aws-and-hugging-face-2021-for-placement.jpg",
-          "width": 971,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
-      "publishedDateTime": "2021-03-23T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

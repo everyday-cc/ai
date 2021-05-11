@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-29-machine-learning-chips-market-dynamic-demand-analysis-statistics-trends-and-opportunities-to-2026.md",
+      "title": "Machine Learning Chips Market Dynamic, Demand Analysis, Statistics, Trends and Opportunities to 2026",
+      "excerpt": "The report provides key opportunities within the market and describes the factors that are and will be driving the growth of the Machine Learning Chips industry Growth of the overall Machine Learning Chips market has also been forecasted for the",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2277615/machine-learning-chips-market-dynamic-demand-analysis",
+      "originalUrl": "https://www.openpr.com/news/2277615/machine-learning-chips-market-dynamic-demand-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U429252793_g.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277615/machine-learning-chips-market-dynamic-demand-analysis",
+      "publishedDateTime": "2021-04-29T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-asml-riding-the-chip-wave.md",
+      "title": "ASML: Riding The Chip Wave",
+      "excerpt": "AI, IoT, 5G are driving a new wave for semiconductors. Chipmakers are spending billions to increase fab capacity in response to this structural uptrend in chip demand. A sizeable portion of that spending is expected to be on-chip equipment,",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4422340-asml-riding-chip-wave",
+      "originalUrl": "https://seekingalpha.com/article/4422340-asml-riding-chip-wave",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1247736623/medium_image_1247736623.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4422340-asml-riding-chip-wave",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4422340-asml-riding-chip-wave",
+      "publishedDateTime": "2021-04-29T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-eus-plan-to-woo-chip-manufacturers-wont-work-taiwan-says.md",
       "title": "EU’s plan to woo chip manufacturers won’t work, Taiwan says",
       "excerpt": "The EU may be interested in convincing Taiwan's chipmakers to build chips in Europe, but most chip production is expected to stay in Taiwan.",
@@ -1314,102 +1401,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-sambanova-raises-676m-to-mass-produce-ai-training-and-inference-chips.md",
-      "title": "SambaNova raises $676M to mass-produce AI training and inference chips",
-      "excerpt": "AI chip startup SambaNova systems has raised $676 million, bringing its total raised to over $1 billion at a $5 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/",
-      "originalUrl": "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/",
-      "publishedDateTime": "2021-04-13T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-microsoft-releases-ai-training-library-zero-3-offload.md",
-      "title": "Microsoft Releases AI Training Library ZeRO-3 Offload",
-      "excerpt": "Microsoft recently open-sourced ZeRO-3 Offload, an extension of their DeepSpeed AI training library that improves memory efficiency while training very large deep-learning models. ZeRO-3 Offload allows users to train models with up to 40 billion parameters on a single GPU and over 2 trillion parameters on 512 GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/04/microsoft-zero3-offload/",
-      "originalUrl": "https://www.infoq.com/news/2021/04/microsoft-zero3-offload/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/04/microsoft-zero3-offload/en/headerimage/microsoft-zero3-offload-header-1617471413275.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

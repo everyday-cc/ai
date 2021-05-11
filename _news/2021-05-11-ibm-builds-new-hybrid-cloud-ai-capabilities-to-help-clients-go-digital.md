@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -42,17 +42,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "IBM doubles down on AI and hybrid cloud"
-    excerpt: "IBM is beefing up its core technology capabilities in artificial intelligence (AI) and hybrid cloud to speed up application modernisation and improve AI adoption"
-    publishedDateTime: 2021-05-11T04:04:00Z
-    webUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud"
-    ampWebUrl: "https://www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252500560/IBM-doubles-down-on-AI-and-hybrid-cloud?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
   - title: "IBM makes leaps in AI, hybrid cloud and quantum computing for digital transformation"
     excerpt: "IBM Corp has achieved several advances in artificial intelligence, hybrid cloud and quantum computing to accelerate its partners and clients digital transformation journeys. A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic."
     publishedDateTime: 2021-05-11T07:57:00Z

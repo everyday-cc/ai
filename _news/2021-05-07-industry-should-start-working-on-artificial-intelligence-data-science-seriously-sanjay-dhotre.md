@@ -7,7 +7,7 @@ originalUrl: "https://www.ndtv.com/education/industry-should-start-working-on-ai
 webUrl: "https://www.ndtv.com/education/industry-should-start-working-on-ai-m2m-data-science-seriously-for-aatmanirbhar-bharat-dhotre"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 860
     height: 636
     isCached: true
-
-related:
-  - title: "Industry should start working on AI, M2M, data science seriously for Aatmanirbhar Bharat: Dhotre"
-    excerpt: "The minister of state for communications and education also said the COVID-19 pandemic has shown people the importance of digital infrastructure."
-    publishedDateTime: 2021-05-07T02:48:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/industry-should-start-working-on-ai-m2m-data-science-seriously-for-aatmanirbhar-bharat-dhotre/82448719"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/industry-should-start-working-on-ai-m2m-data-science-seriously-for-aatmanirbhar-bharat-dhotre/82448719"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/industry-should-start-working-on-ai-m2m-data-science-seriously-for-aatmanirbhar-bharat-dhotre/82448719"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-82448719,imgsize-70922,width-800,height-434,overlay-ettelecom/industry-should-start-working-on-ai-m2m-data-science-seriously-for-aatmanirbhar-bharat-dhotre.jpg"
-        width: 800
-        height: 434
-        isCached: true
 
 secured: "8azXxszNzqaXWSO9KtxB5helZCGqRqPx9wjjOhFKEJixPtkk/9Ne8kzt8VvVpM6isrwexmWyLtofnhIxYF59PdyCNFk8tYlJIXyZHaJAvXX/zwqoE22u/M9l4v9ToF2onbzTBCwFmvdFhxm52J/ow2RJdJ6owiboYpWKxCxCYY/gEzaX/n21Hef/NIHfr+3H27Fw5eUwNjR5JYj6LK5vTJKtUkUjy2OyUT7eGm9+Ek2TIZBMDJ8V/1UrYJ1d7oYDXJvWEKx+1p/bW69FYCz+gyzkIuhdyRGbynAit/mmeEhdHk2xuAa0E8uvJZizcnF+IPsOYtpDPVNwaRdblcyiZ48wiKPy3Ikz+aRYXVULBxk=;HkZuvHXA3T57sw8yObE7tw=="
 ---

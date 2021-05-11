@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-03-beijing-residents-can-take-driverless-taxis-for-just-330-per-ride.md",
+      "title": "Beijing residents can take driverless taxis – for just £3.30 per ride",
+      "excerpt": "Chinese tech giant Baidu has rolled out a driverless taxi service in Beijing ... Kelly Wang and her husband, who work in the artificial intelligence industry, said they had a smooth riding ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2021/05/03/bejings-residents-can-take-driverless-taxis-for-just-3-30-per-ride-14510171/",
+      "originalUrl": "https://metro.co.uk/2021/05/03/bejings-residents-can-take-driverless-taxis-for-just-3-30-per-ride-14510171/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2021/05/SEI_77312899.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2021/05/03/bejings-residents-can-take-driverless-taxis-for-just-3-30-per-ride-14510171/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/05/03/bejings-residents-can-take-driverless-taxis-for-just-3-30-per-ride-14510171/amp/",
+      "publishedDateTime": "2021-05-03T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-baidu-launches-chinas-first-paid-robotaxi-service.md",
+      "title": "Baidu launches China's first paid robotaxi service",
+      "excerpt": "Chinese technology giant Baidu has launched what is says is the country's first commercial robotaxi service, which will see its Apollo self-driving vehicles shuttle paying customers around Beijing's Shougang Park without a safety driver onboard.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/",
+      "originalUrl": "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/cb1afed/2147483647/strip/true/crop/1385x923+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F16%2F7a%2F31e38f5d418f813406035fa5f07a%2Fbaidu-apollo-s-fully-driverless-robotaxis-motion.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/baidu-china-first-paid-robotaxi-autonomous-taxi/?amp=true",
+      "publishedDateTime": "2021-05-03T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-intel-will-invest-35-billion-in-new-mexico-chip-factory.md",
       "title": "Intel will invest $3.5 billion in New Mexico chip factory",
       "excerpt": "Intel said on Sunday that it will spend $3.5 billion on an upgrade for its factory in New Mexico as part of a plan to expand manufacturing.",
@@ -215,6 +310,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-baidu-launches-driverless-taxi-service-in-beijing.md",
+      "title": "Baidu launches driverless taxi service in Beijing",
+      "excerpt": "BEIJING — Chinese tech giant Baidu rolled out its paid driverless taxi service on ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/baidu-launches-driverless-taxi-service-in-beijing-01619996028",
+      "originalUrl": "https://www.marketwatch.com/story/baidu-launches-driverless-taxi-service-in-beijing-01619996028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-333010/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-launches-driverless-taxi-service-in-beijing-01619996028",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-launches-driverless-taxi-service-in-beijing-01619996028",
+      "publishedDateTime": "2021-05-02T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1055,145 +1202,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-the-4-fallacies-of-artificial-intelligence.md",
-      "title": "The 4 Fallacies of Artificial Intelligence",
-      "excerpt": "Artificial intelligence researchers are kidding themselves that human-level performance is within reach, argues one leading thinker. Here's why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.discovermagazine.com/technology/the-4-fallacies-of-artificial-intelligence?utm_sq=gq3ljkv5ct",
-      "originalUrl": "https://www.discovermagazine.com/technology/the-4-fallacies-of-artificial-intelligence?utm_sq=gq3ljkv5ct",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ctfassets.net/cnu0m8re1exe/7fWlxP5pbUOWtYOq9nWOKk/0e4afdfaf151a66642346beca3ad3413/shutterstock_1154457493.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Discover Magazine",
-        "domain": "discovermagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors.md",
-      "title": "A blowout earnings cycle hides strategy shift from cloud vendors",
-      "excerpt": "The big 3 cloud vendors have made huge investments over the past few months in data and AI services targeting vertical markets.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/",
-      "originalUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1249937449.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/a-blowout-earnings-cycle-hides-strategy-shift-from-cloud-vendors/amp/",
-      "publishedDateTime": "2021-04-30T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-volkswagen-will-develop-in-house-self-driving-chip-to-compete-with-tesla-apple.md",
-      "title": "Volkswagen Will Develop In-House Self-Driving Chip to Compete With Tesla, Apple",
-      "excerpt": "Although Tesla’s expensive and strictly in-house developed autonomous driving software has a long way to go to actually achieve self-driving, its German rival Volkswagen is going down the same path to build its own driverless capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/",
-      "originalUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://observer.com/wp-content/uploads/sites/2/2021/04/GettyImages-1208585546.jpeg?quality=80&strip",
-          "width": 6240,
-          "height": 4160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/",
-      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/volkswagen-develop-autonomous-driving-chip-software-follow-tesla-apple/amp/",
-      "publishedDateTime": "2021-04-30T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Observer",
-        "domain": "observer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

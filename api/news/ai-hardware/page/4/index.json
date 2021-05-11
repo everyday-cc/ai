@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-06-intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach.md",
+      "title": "Intel Sets Ice Lake Apart From AMD EPYC With AI, Systems Approach",
+      "excerpt": "Intel launches its third-gen Xeon Scalable CPUs, code-named Ice Lake, saying they are faster than AMD's latest EPYC Milan chips in certain workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/components-peripherals/intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach",
+      "originalUrl": "https://www.crn.com/news/components-peripherals/intel-sets-ice-lake-apart-from-amd-epyc-with-ai-systems-approach",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0268-11fa0f99b4e0-e1b195cc181a-1000/intel-ice-lake.jpg",
+          "width": 610,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-ai-upscaling-and-the-future-of-content-delivery.md",
+      "title": "AI Upscaling And The Future Of Content Delivery",
+      "excerpt": "So rather than tasking the GPU with producing a native 4K image ... To address this fundamental issue, AI-enhanced scaling actually creates new visual data to fill in the gaps between the source ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2021/04/05/ai-upscaling-and-the-future-of-content-delivery/",
+      "originalUrl": "https://hackaday.com/2021/04/05/ai-upscaling-and-the-future-of-content-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2021/04/Upscaling.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-graphics-processing-unit-gpu-market-current-trends-segmentation-key-players-analysis-and-forecast-to-2025.md",
       "title": "Graphics Processing Unit (GPU) Market Current, Trends, Segmentation, Key Players, Analysis and Forecast to 2025",
       "excerpt": "For instance, AMD, in FY2018, reported more than USD 1.2 billion of revenue owing to the demand for its datacenter GPU products. -As enterprises are undergoing digital transformation by embracing the cloud, big data and also AI, computer technology ...",
@@ -1192,92 +1279,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-global-artificial-intelligence-ai-chips-market-2020-study-report-with-prospects-and-strategies-to-boost-growth-covid-19-impact-and-recovery.md",
-      "title": "Global Artificial intelligence (AI) Chips Market 2020: Study Report with Prospects and Strategies to Boost Growth- COVID-19 Impact and Recovery",
-      "excerpt": "This report aims to estimate the Global “Artificial intelligence (AI) Chips Market” for 2020 and to project the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-study-report-with-prospects-and-strategies-to-boost-growth--covid-19-impact-and-recovery-2021-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-study-report-with-prospects-and-strategies-to-boost-growth--covid-19-impact-and-recovery-2021-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-14T19:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source.md",
-      "title": "Baidu’s AI Chip Unit Kunlun Completes New Funding, at $2 Billion Valuation: Source",
-      "excerpt": "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about $2 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-15/baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-15/baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-billion-valuation-source",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-14T17:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
