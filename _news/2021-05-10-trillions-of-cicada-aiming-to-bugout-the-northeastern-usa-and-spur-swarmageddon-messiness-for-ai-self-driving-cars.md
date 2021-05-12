@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cica
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/amp/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Splendor Of Transporting Those Heartfelt Everyday Care Packages Via Self-Driving Cars And Other Self-Driving Vehicles"
+    excerpt: "The 75th anniversary of CARE packages brings up the topic of sending care package via self-driving cars and other self-driving vehicles."
+    publishedDateTime: 2021-05-12T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/12/the-splendor-of-transporting-those-heartfelt-everyday-care-packages-via-self-driving-cars-and-other-self-driving-vehicles/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/05/12/the-splendor-of-transporting-those-heartfelt-everyday-care-packages-via-self-driving-cars-and-other-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/12/the-splendor-of-transporting-those-heartfelt-everyday-care-packages-via-self-driving-cars-and-other-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609b07ad26a80794d08fe7d9%2F0x0.jpg%3FcropX1%3D146%26cropX2%3D1515%26cropY1%3D146%26cropY2%3D916"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tall Tales By Your Grandparents About Walking Five Miles To School Will Instead Be About Using Self-Driving Cars For Your Kid’s Generation"
     excerpt: "Walking five miles to school in the snow and uphill will become a new tale about being driven to school by self-driving cars."
     publishedDateTime: 2021-05-08T15:30:00Z

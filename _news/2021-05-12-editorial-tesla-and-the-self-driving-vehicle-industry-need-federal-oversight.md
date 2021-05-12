@@ -53,38 +53,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Elon Musk's 'self-driving' claim do not match engineering reality, says Tesla"
-    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
-    publishedDateTime: 2021-05-08T09:19:00Z
-    webUrl: "https://www.freepressjournal.in/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla"
-    ampWebUrl: "https://m.freepressjournal.in/article/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla/a0c44003-d836-4fa6-bb5a-8a853d870443"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/elon-musks-self-driving-claim-do-not-match-engineering-reality-says-tesla/a0c44003-d836-4fa6-bb5a-8a853d870443"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 71
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-04/3c43e37a-d356-4d1d-927b-7c50b23b028c/TESLA_pexels_craig_adderley_2449452.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
-  - title: "Latest Tesla News Contradicts Musk's Claim; Could Be Bad News For Self-Driving Car Fans"
-    excerpt: "Tesla intends to expand its full self-driving beta to more drivers In March, Musk claimed the FSD Beta has expanded to approximately 2,000 owners A memo reveals Musk is \"extrapolating on the rates of improvement\" A Tesla engineer has informed California regulators that the electric vehicle company might not have a fully self-driving vehicle ready for this year."
-    publishedDateTime: 2021-05-10T10:40:00Z
-    webUrl: "https://www.ibtimes.com/latest-tesla-news-contradicts-musks-claim-could-be-bad-news-self-driving-car-fans-3195720"
-    ampWebUrl: "https://www.ibtimes.com/latest-tesla-news-contradicts-musks-claim-could-be-bad-news-self-driving-car-fans-3195720?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/latest-tesla-news-contradicts-musks-claim-could-be-bad-news-self-driving-car-fans-3195720?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 66
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/22/tesla-is-facing-more-scrutiny-over-its-autopilot-AFP_98K63K.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "Tesla Privately Admits Elon Musk Exaggerated ‘Full Self-Driving’ Cars"
     excerpt: "Tesla’s Autopilot system has been exaggerated by Elon Musk, the company has admitted in a new memo. Back in February during an appearance on the Joe Rogan Experience podcast, Musk said, ‘I think Autopilot’s getting good enough that you won’t need to drive most of the time unless you really want to."
     publishedDateTime: 2021-05-08T11:34:00Z
@@ -101,38 +69,6 @@ related:
         width: 1200
         height: 619
         isCached: true
-  - title: "Tesla Admits It Won’t Have A Fully Self-Driving Car In 2021"
-    excerpt: "Reuters sources confirm that Tesla has informed California regulators that the company will not present a fully autonomous cars by the end of this year"
-    publishedDateTime: 2021-05-09T18:00:00Z
-    webUrl: "https://oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.html"
-    ampWebUrl: "https://oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.amp.html"
-    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/Tesla-Admits-It-Wont-Have-A-Fully-Self-Driving-Car-In-2021.amp.html"
-    type: article
-    provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 59
-    images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2021-05-07_sag6zodjcw.jpg"
-        width: 718
-        height: 300
-        isCached: true
-  - title: "Tesla just delivered bad news for self-driving cars — contradicting Elon Musk"
-    excerpt: "Tesla CEO Elon Musk said the company was “highly confident” that its cars would achieve full Level 5 self-driving autonomy in 2021. It turns out that just 41 days later, one of the company’s engineers was offering a less optimistic timeline to California’s regulators."
-    publishedDateTime: 2021-05-08T11:08:00Z
-    webUrl: "https://www.tomsguide.com/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/tesla-just-delivered-bad-news-for-self-driving-cars-contradicting-elon-musk"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 56
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/qvy8QreeDhG4nSogtw2a3o-480-80.png"
-        width: 480
-        height: 264
-        isCached: true
   - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
     excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self - driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
     publishedDateTime: 2021-05-09T01:43:00Z
@@ -147,45 +83,15 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Tesla's Full Self-driving Cars Year-End Achievement Remain Uncertain"
-    excerpt: "According to a memo from the California Department of Motor Vehicles (DMV), Tesla Inc told a California regulator that it could not reach complete self-driving technology by the end of this year. During a January earnings conference call,"
-    publishedDateTime: 2021-05-08T21:56:00Z
-    webUrl: "https://www.wrcbtv.com/story/43847893/teslaaposs-full-self45driving-cars-year45end-achievement-remain-uncertain"
+  - title: "Musk tweets Tesla self-driving rollout could take a couple of months; stock falls"
+    excerpt: "Tesla Inc's TSLA.O top boss Elon Musk said that Tesla is tweaking its self-driving software to \"eliminate the phantom braking problem\" and may release a significantly improved version within the next two to three weeks."
+    publishedDateTime: 2021-05-12T16:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/musk-tweets-tesla-self-driving-rollout-could-take-a-couple-of-months-stock-falls-2021-05"
     type: article
     provider:
-      name: WRCB
-      domain: wrcbtv.com
-    quality: 54
-    images:
-      - url: "https://PRSUBMITPRESSLIFESTYLE.images.worldnow.com/images/20725166_G.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Tesla and the self-driving vehicle industry need federal oversight"
-    excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."
-    publishedDateTime: 2021-05-11T10:05:00Z
-    webUrl: "https://www.hawaiitribune-herald.com/2021/05/11/opinion/tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/"
-    ampWebUrl: "https://www.hawaiitribune-herald.com/2021/05/11/opinion/tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/amp/"
-    cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2021/05/11/opinion/tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/amp/"
-    type: article
-    provider:
-      name: Hawaii Tribune-Herald
-      domain: hawaiitribune-herald.com
-    quality: 39
-  - title: "Tesla, self-driving vehicle industry need federal oversight"
-    excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."
-    publishedDateTime: 2021-05-11T04:00:00Z
-    webUrl: "https://www.decaturdaily.com/opinion/tesla-self-driving-vehicle-industry-need-federal-oversight/article_e68aecc5-33ed-5ec4-981b-a33cb89cc9f0.html"
-    type: article
-    provider:
-      name: Decatur Daily
-      domain: decaturdaily.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/custom/image/fc789116-dbde-11e5-a5bf-7b346753e730.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 44
   - title: "Tesla admits that the ‘full’ in its Full Self-Driving autopilot is a lie"
     excerpt: "Tesla's Autopilot is still Level 2, which denotes a semi-automated driving system that still needs constant supervision by a human driver."
     publishedDateTime: 2021-05-10T15:26:00Z

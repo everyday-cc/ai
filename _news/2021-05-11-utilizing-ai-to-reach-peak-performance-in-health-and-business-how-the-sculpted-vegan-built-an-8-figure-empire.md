@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/amp/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Forbes
@@ -28,6 +28,19 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Why Is AI & ML Important and How Will It Impact Business?"
+    excerpt: "There is no denying the fact that Artificial Intelligence and Machine Learning are influencing every part of the tech"
+    publishedDateTime: 2021-05-12T16:30:00Z
+    webUrl: "https://www.business2community.com/strategy/why-is-ai-ml-important-and-how-will-it-impact-business-02404860"
+    ampWebUrl: "https://www.business2community.com/strategy/why-is-ai-ml-important-and-how-will-it-impact-business-02404860/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/strategy/why-is-ai-ml-important-and-how-will-it-impact-business-02404860/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 54
 
 secured: "VTCs33jJNAIrLCTMFT+oDCDKKNsIOyZHJjL9l+cmZOWan2TJNoEhweM/TJZzjzKb/cMDC66Z8faFPESXZxPDsZ0uVD03J0siLpLnmzV2gQ1S6XMSfFLdJpLAddCSgZDYxZ60eos5E4CrPHVC8iyrSfLsAo45tyQts9ZQ1dFe22k4E1CdtShT5AdqBrGHniavBG9SDg8Lngizsq3NPsJcWodYuWfQG2yzC/eseFthobD8ocw0T3MMTHdOZp4WV8gHEHm2RMZzpawg9tX1QSNElJ4cd6dIB/uN312+YHGK7k6KluPBFyjNyw7HaruUGOf3vFVoLPQBASt8VE3JCBI1FChDfCvRS8Xx3A/LvKFq9bcVWjJMxyJOyKg4CY4aKLSgHqheObKaoE76Bt8XM7mhqnoJ2H4g0VIPFiIyfTQ7p1DhBYA6o2BBCzWRafeIqTDVaclNt9jlTkMkSQMHhGadAt/8dRlONfnbgGqjZ1inl/5qJIZMR+8/L9g7k1rDhRfDn00ZFsg3AO6Hbj0y4ri2gg==;pzFQ9MylGivFTpfYAcNEIg=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AI Fintech Firm Riskfuel Expands into Insurance Space"
-excerpt: "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,"
-publishedDateTime: 2021-05-11T12:17:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8"
-webUrl: "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8"
+excerpt: "Riskfuel extends a winning streak by joining elite OnRamp Insurance Accelerator TORONTO, (GLOBE NEWSWIRE) — Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial."
+publishedDateTime: 2021-05-11T13:05:00Z
+originalUrl: "https://www.digitaljournal.com/pr/ai-fintech-firm-riskfuel-expands-into-insurance-space"
+webUrl: "https://www.digitaljournal.com/pr/ai-fintech-firm-riskfuel-expands-into-insurance-space"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.digitaljournal.com/wp-content/uploads/primages/4ebaca4eff83b73f4c080a38dc03dc9311514d98-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -130,6 +130,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "3USiubYc3UX0jULFpvxwx2WAWxdrBCC1apHMHJgtT7QSdqd4RLD63SXzWu+DQS2+PWrCef47GT6fvkLFmxpCNRMgiSUQTopOuvmDZAY7zZ9QA26E2lJYwm7UT6jF7adaQP3sfrOHWdj+7+OEDvoYMn6ZS7MDw0/G+191JfzKSqjEKUIJhj67akx+yyvHeD/WJFCWmjhtKkzJuCtU7TeETCePMjbH9uXtp2ZM19hK5iDoOfLnxmv5lcQIv6m8jvakZlcE4SC6oYUl8G+ar9S3/MlMkdxHrRVHEJ4c5yHxbgd8Wo9rDyytWcWpuG0vQV9a2U95S4iQDxVJ8gceNNDW9kchJZADPUXF05uc+Y1XU18=;Ee8qjglD2HXfku+oGS9KVA=="
+secured: "Y7A5r5OMyJPUYWCH2LSZ63hfGSQVJG+m1JcB+7RaCBpPRZ646mHoHCF5FK9plrxYc38TTS98IFlrxYRa5s9r3UQ2xVOa/d7GYiZvf3v79qPh453AKtczG0bUbil6W7z0XXxnd02tnBnpwkn2ZtTbz6b80VdTdzIylHvZs8A7k0LI8P5AfL6E8Ocnp3AN1h9XOSGnI6wCHbwzmFp0+6vj6pEPN4x+CpAR/mRTDfRJ2Ml7f+UND5owe3ctipIJca+gW03DTlgzo80iGlmL92Jzyzd7h/+JoiypixBlusbV0++7+gLWlfAib0KjVBM91VH5gdnyCZ1T8hj1diC4tqcj5zNgLyhkH7fxaBxr4el074g=;a1YYvPtLf9QqzkILjI3rbg=="
 ---
 

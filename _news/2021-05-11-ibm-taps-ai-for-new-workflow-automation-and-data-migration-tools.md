@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-auto
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
 type: article
 quality: 189
-heat: 269
+heat: 289
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
         width: 1080
         height: 1080
         isCached: true
+  - title: "IBM Taps AI for New Workflow Automation and Data Migration Tools"
+    excerpt: "At Think 2021, IBM’s annual hybrid cloud and AI event, the company revealed an array of AI-driven products: Mono2Micro, an advanced capabil"
+    publishedDateTime: 2021-05-12T17:12:00Z
+    webUrl: "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/"
+    ampWebUrl: "https://www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ibm-taps-ai-for-new-workflow-automation-and-data-migration-tools/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: "https://www.cmswire.com/-/media/957a2b78dedc4b47bc09a8bd76cad0b1.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "IBM builds new AI capabilities, hybrid cloud centre to accelerate digital transformation"
     excerpt: "A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic"
     publishedDateTime: 2021-05-12T05:08:00Z
@@ -108,6 +124,22 @@ related:
       - url: "https://images.livemint.com/img/2021/05/11/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618938474492_1620708031821.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "Medical artificial intelligence tools can work effectively for different locations, populations"
+    excerpt: "For artificial intelligence (AI) to realize its full potential to benefit cancer patients, researchers will have to prove that their machine-learning successes can be consistently reproduced across settings and patient populations."
+    publishedDateTime: 2021-05-12T16:19:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-medical-artificial-intelligence-tools-effectively.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-medical-artificial-intelligence-tools-effectively.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-medical-artificial-intelligence-tools-effectively.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 47
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-cancer.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "At Think conference, IBM puts AI and hybrid cloud to work"
     excerpt: "IBM Corp. is pushing the envelope on hybrid cloud and artificial intelligence with a number of key announcements early Tuesday ahead of its Think 2021 event, chiefly aimed at accelerating its customer’s digital transformation strategies."

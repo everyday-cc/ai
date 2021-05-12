@@ -39,6 +39,20 @@ related:
         width: 768
         height: 513
         isCached: true
+  - title: "Ambiq announces new voice biometrics tool for IoT integration"
+    excerpt: "The VoS Kit enables voice and audio capability integration within battery-powered devices via Always-on-Voice (AoV) technology."
+    publishedDateTime: 2021-05-12T17:20:00Z
+    webUrl: "https://www.biometricupdate.com/202105/ambiq-announces-new-voice-biometrics-tool-for-iot-integration"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
+        width: 768
+        height: 513
+        isCached: true
 
 secured: "2OlHSAFjlVKKci5dxjnJyVoHtyVCJg3P4CUML6cheO5370uPOWXsHwwu45qCzgqPehoPLUEZLMTptjX7wSEr1VfpIONt2Hq06HvnqwFE+jYQcCkV9H+0oRkmzg/rMayZGC39h0pF2gb8vLJz56C8ppt4mdCvVpetyMpRG8u1z1vNbkPRFuvQWGRZ5xU3CY3KShrSGSRM+5vYgUvccYxzhi2bQVwgm26sBr2CVi2vBrRh1T+xk067Nb0Ft8KOYigrx5nUfqnb6IO/P0wIcj3LQlokEqV3fRMB9dDw+gXd5CJT6c6DTHApIA8zKD8QUdpOvTt7silvJFio/dWhvpBLusGrAKS6YV5bq2QCkzmiCFh7BfqMAknSSAUD3AMpgQxrY3rfZha7a3DHE27AL3VL/sfeuQ4BV0sHpK/iBjHihyhNpVRZ1Y15iLzxmAiS8t2e+BVMOrEtFMehcVZp0zsAitRj1V8QOdbU/97FA+N+ldS8At8J3Thnv+gQ5YzQ/0D1iMBqxH89rkV1rK/+WUG4EA==;UXEQjvRAdEBIcuByNFVMgg=="
 ---

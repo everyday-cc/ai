@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-co
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/05/12/how-could-conversational-ai-shape-our-language-particularly-in-business/amp/"
 type: article
 quality: 90
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "16 Credit Unions Invest in Posh, a Conversational AI-Focused CUSO"
+    excerpt: "Sixteen credit unions have invested in a new CUSO partially owned by the Boston-based fintech Posh Technologies, a provider of a conversational artificial intelligence product suite comprised of website and online banking chatbots,"
+    publishedDateTime: 2021-05-12T17:44:00Z
+    webUrl: "https://www.cutimes.com/2021/05/12/16-credit-unions-invest-in-posh-a-conversational-ai-focused-cuso/"
+    ampWebUrl: "https://www.cutimes.com/2021/05/12/16-credit-unions-invest-in-posh-a-conversational-ai-focused-cuso/?amp=1"
+    cdnAmpWebUrl: "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/05/12/16-credit-unions-invest-in-posh-a-conversational-ai-focused-cuso/?amp=1"
+    type: article
+    provider:
+      name: Credit Union Times
+      domain: cutimes.com
+    quality: 59
+    images:
+      - url: "https://images.cutimes.com/contrib/content/uploads/sites/413/2019/10/chatbots-e1571917675670.jpg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Conversational AI becomes the unlikely hero during the COVID-19 pandemic"
     excerpt: "As India hunts for COVID-19 resources such as oxygen cylinders and hospital beds, technologists leverage conversational AI — such as Introbot AI and CovidIndResBot — to create an online space for real"
     publishedDateTime: 2021-05-11T09:44:00Z

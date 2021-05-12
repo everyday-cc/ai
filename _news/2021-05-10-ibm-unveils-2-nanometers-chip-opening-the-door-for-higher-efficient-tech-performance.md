@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the
 cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/amp/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Technowize
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Unveils World’s First 2 Nanometer Chip Technology"
-    excerpt: "IBM has unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip announced with 2 Kenya breaking news | Kenya news today |"
-    publishedDateTime: 2021-05-08T00:52:00Z
-    webUrl: "https://www.capitalfm.co.ke/business/2021/05/ibm-unveils-worlds-first-2-nanometer-chip-technology/"
-    type: article
-    provider:
-      name: Capital FM
-      domain: capitalfm.co.ke
-    quality: 39
-    images:
-      - url: "https://www.capitalfm.co.ke/business/files/2021/05/IMG-20210507-WA0010.jpg"
-        width: 1280
-        height: 774
-        isCached: true
   - title: "IBM unveils first 2nm chip"
     excerpt: "IBM has unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip using nanometer (nm) nanosheet technology. Semiconductors, or computer chips, play critical roles in everything from computing,"
     publishedDateTime: 2021-05-10T09:44:00Z

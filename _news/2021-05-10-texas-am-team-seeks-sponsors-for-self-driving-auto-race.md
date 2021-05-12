@@ -7,7 +7,7 @@ originalUrl: "https://theeagle.com/news/local/texas-a-m-team-seeks-sponsors-for-
 webUrl: "https://theeagle.com/news/local/texas-a-m-team-seeks-sponsors-for-self-driving-auto-race/article_7668bb3e-b129-11eb-a481-27cad4fa5413.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 648
     height: 365
     isCached: true
-
-related:
-  - title: "Ford-backed Argo sees new sensor as key for self-driving cars"
-    excerpt: "The new technology will be used for the self-driving system that will debut on Ford’s ride-hailing and delivery vehicles next year and on VW models in the middle of the decade."
-    publishedDateTime: 2021-05-09T10:23:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars-41620550983829.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars/amp-41620550983829.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/fordbacked-argo-sees-new-sensor-as-key-for-self-driving-cars/amp-41620550983829.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/05/09/600x338/2020-04-28T015539Z_1_LYNXNPEG3R03L_RTROPTP_3_AUTOSHOW-FRANKFURT_1588074593229_1620551501846.JPG"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "New Argo LiDAR sensor opens up the highway to self-driving cars"
-    excerpt: "Argo AI, the US-based self-driving vehicle developer has revealed a new self-designed LiDAR sensor. The sensor should give Argo's autonomous vehicles (AVs) an edge over the competition and enable them to see further and with more accuracy than ever before."
-    publishedDateTime: 2021-05-12T13:13:00Z
-    webUrl: "https://www.just-auto.com/analysis/new-argo-lidar-sensor-opens-up-the-highway-to-self-driving-cars_id201782.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 24
-    images:
-      - url: "http://i4.progressivedigitalmedia.com/3/2021-05-12-12-43-pressreleaseheroimage1536x1024_cropped_70.jpg"
-        width: 424
-        height: 282
-        isCached: true
 
 secured: "qZ3+/oM7EVNS6VAuomAjYrmUU2xQeFLn+W+DRlAKVJviYnBEt4IfN7DNAUvO09rTEzL/b8oXssy8RMMvA26FsLErE0RV14fHpvVAdGP6hwMntXwaa4jPaauN+ElwjGohTE2arE1EmCjhAubHRTnVhTEMLy8xLPurfQVUo9Db9iFjNDfNqBe9VyDVmN/1H4+EAlc1WrYpkAMArds8QzbPs6zydeA/lGdboRUKDCn6ILRLZjLl5sGI2FNMDxq8moWCdhwClg/Z4ajo+4S5ymaNS9MmuFuCQkFMxApscwzRNuXIlozN16t4eStYI4UFwaKO8Q2TLcnGpVNaTgvq1lRAdXitz8JzcZ9P80XEAES1PLW/YCfmq5y1X4keo/eK35jISaGtoBNuIJV5f4MAVEGPhAEKPO2SioksTxTudY47T4VXW3v0s+vd1Y95sgMWtpatVaumdkcTazCfqZkrSUxsniKKQCGJlytvS1JIqMJCr1E3l8erHV+Qc0XfMwo77E8NuwaFv4QhUgqZMvE65kjHKw==;Xjy0j9dHIbMNRnMFcmZvlQ=="
 ---

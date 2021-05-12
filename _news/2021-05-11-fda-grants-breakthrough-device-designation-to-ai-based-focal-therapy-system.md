@@ -39,6 +39,20 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "FDA Breakthrough Device Designation Is Granted to Avenda Health for Laser Ablation System in Prostate Cancer"
+    excerpt: "the company responsible for developing the artificial intelligence (AI)–enabled focal therapy system. 1 The product intended for use as a male “lumpectomy” device was developed as an alternative to traditional surgery or radiation, for which the ..."
+    publishedDateTime: 2021-05-12T16:01:00Z
+    webUrl: "https://www.cancernetwork.com/view/fda-breakthrough-device-designation-is-granted-to-avenda-health-for-laser-ablation-system-in-prostate-cancer"
+    type: article
+    provider:
+      name: Cancer Network
+      domain: cancernetwork.com
+    quality: 5
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/cancernetwork/8f45ea8da433fb93e9731b0c2c57b2c4d6e48535-3353x3353.jpg?auto=format"
+        width: 3353
+        height: 3353
+        isCached: true
   - title: "Avenda Health Granted FDA Breakthrough Device Designation for Technology to Treat Prostate Cancer"
     excerpt: "Breakthrough Device Designation was awarded to Avenda Health for a male “lumpectomy” product in development designed to treat prostate cancer in-office while preserving quality of life. Breakthrough Device Designation by FDA is reserved for devices that are potentially transformative,"
     publishedDateTime: 2021-05-11T16:00:00Z

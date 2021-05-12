@@ -117,18 +117,18 @@ related:
         height: 1066
         isCached: true
   - title: "AI Fintech Firm Riskfuel Expands into Insurance Space"
-    excerpt: "Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,"
-    publishedDateTime: 2021-05-11T12:17:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/canada-technology-business-abe35cfbbfc8d9e4e89308aa4667eae8"
+    excerpt: "Riskfuel extends a winning streak by joining elite OnRamp Insurance Accelerator TORONTO, (GLOBE NEWSWIRE) — Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial."
+    publishedDateTime: 2021-05-11T13:05:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-fintech-firm-riskfuel-expands-into-insurance-space"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/4ebaca4eff83b73f4c080a38dc03dc9311514d98-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "P5Dr/NfrB1NhT+9VZU0dcPZywWBqQ2F2ZMOHw/hBmsCDsvtmd5H1ZzOH5zWbK93PlUylyMBUeq75ftddgcvFYvAj+jXitA12PPLbQUARMKg18hQhiZoLfmFxEsLgaUx7Rz1l82eKy7xJJ0xhi8QeKr32jNNMm62gZRT9q+pkxRb8BgK2Eg79WLkH6VlA7e6HzY04JMiPZVHQ7BGgijI9aVSv9AE3rfYP9kV2QMrEM9WgeJolPV3eUQ+OXDTEe5QVeVeS1TcLnCXKG8h/kC0vhSz3pOwggEls2B37Nxc43V/Jcz6PMaHe02l8erEXbYXLxm0dDVKA0LvDwac2tAxkbK8AWlJ3CqbVzAA3rEzhxkyh6uJhatIsjIiCykXvzqdRMkCD7RYBNzUDh8rcBxqxokfdUh2rg4oHlc+K98LtIOGjxgFX/1GFhB60eSkRqbf/E6DjQ375maUjgQYTF8645go5Z/RrlB/6hZUpLWvqIOfqQKomdeyJbc0vaiH0nijFjipSGOh2SKRHdwlVg1WH/g==;X7QOK5uCdV/BOOmozUbDyA=="

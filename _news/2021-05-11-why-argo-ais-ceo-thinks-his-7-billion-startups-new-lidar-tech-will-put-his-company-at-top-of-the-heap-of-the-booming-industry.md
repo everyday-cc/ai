@@ -27,6 +27,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "New Argo LiDAR sensor opens up the highway to self-driving cars"
+    excerpt: "Argo AI, the US-based self-driving vehicle developer has revealed a new self-designed LiDAR sensor. The sensor should give Argo's autonomous vehicles (AVs) an edge over the competition and enable them to see further and with more accuracy than ever before."
+    publishedDateTime: 2021-05-12T13:13:00Z
+    webUrl: "https://www.just-auto.com/analysis/new-argo-lidar-sensor-opens-up-the-highway-to-self-driving-cars_id201782.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "http://i4.progressivedigitalmedia.com/3/2021-05-12-12-43-pressreleaseheroimage1536x1024_cropped_70.jpg"
+        width: 424
+        height: 282
+        isCached: true
+
 secured: "NwzAVuULunDvKeC6Ny6FBoT2g53L2/gcHXyS4/0E2mQWxmVJid4FdSchADxb00UMLP0ti3yFVMQVoOdIH2hSvSIssbEILXfLT7DKXbqLUYWKbTdK6cdytiIalGKSZyuvI4KyNxxU1YWtM2TZk87Qe4O0gFq7N6+tKK10TEXtYWNaZmpf8lIJOXdyzze+0KBQcu5Q/XCSv5E34dA6bP9Lx6BaYwMvlNUKgoE0sGI4TIhsPgANoLR6/dCOhV/LFkXwvGQUR0LFO5JbB91zpJxJFVLDp6bQJVvREu98PjjwURShucfF4FzpjyCozFhEZ8a3H1iVZFhvpG8GEiXskvOZ5F3W06lgg2D4zDPstX05CH+N0kD187Qw7GynJ8cE8n2Jka1n/H17x51LVKNUtKgRbzkufjBoUhZJl/60DY7KhlXi1V6JW5z3FI6i82YJlMN4zcSYr84G4Bi4a3Ivb+VgZMCAHGxq4tD9LTD6u3ayIxefVo2av3QquD7ZuNn52fPVFfMkTA5AMvQKPD5z2oUNxA==;42+lTMGhTzrHt31RPTdR+A=="
 ---
 
