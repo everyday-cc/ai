@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/top-8-ai-powered-privacy-tools-to-fo
 webUrl: "https://analyticsindiamag.com/top-8-ai-powered-privacy-tools-to-fool-facial-recognition-systems/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "Concerned About Your Selfies’ Privacy? These Tools Can Assist in Facial Recognition AI Spoofing"
-    excerpt: "Fawkes and LowKey are two techniques that use adversarial attacks to spoof AI, stopping facial recognition software from detecting them."
-    publishedDateTime: 2021-05-10T17:03:00Z
-    webUrl: "https://techstory.in/concerned-about-your-selfies-privacy-these-tools-can-assist-in-facial-recognition-ai-spoofing/"
+  - title: "POLITICO AI: Decoded: AI.gov — US states move to ban facial recognition — AI and structural racism"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2021-05-12T09:00:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/amp/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 44
+      name: POLITICO
+      domain: politico.eu
+    quality: 60
     images:
-      - url: "https://techstory.in/wp-content/uploads/2021/05/Capture-2.png"
-        width: 1024
-        height: 526
+      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
+        width: 1920
+        height: 1080
         isCached: true
 
-secured: "D5DCRm+vmbwfP4gAKzXAwlIY4P+bwGukM5Ixs9jhO1TyX0mF9VWM0G1epAv/jv+4yBXFXBnR8iTBdh7NhsZzE7OmRItlIuQCOaiyGTSw2GvrsomhvCGSDsNITjL2FRh4PiX9M8golgnqQHx0POsjnkg1SuhpCAG0tEAQ/aJsDpIFhndtaJ/NkXH3b/3vr5XwBJoIe2RUNa1DGPUk8dNFnD7SrelU2wFqprSkvZumSTwoKXIT9NNY/bSblZu9HnWDwxGPTR9blK06GO4sLDgSC4gLf/xlwTD6EH7r39qcgWH38IHwc6J2C9QyQJROHxp8a9dpbXg4dUQQ44b0HFOL4OH2+CqHUCpKM1rC9MWhrBE=;CwtpK/jeHQjN6WgBz1zkvQ=="
+secured: "ROSE+Gm8DdpnM3fcbfn8HqOt7ciFe4SNpyIFQvNkbdP3NXAHXL+qr+p0MPoyChp+4Srvki5h+hglIqr51O/VBxbVtBgRCPSmoApkcdmwZ/FK7METV8t3TSO+ANJRGHAT8Kds7AJ1lYHz9H7rXBKDRjCzFuMZCnbJbzO0b0rKXXCPvpFnouxvpC+KHAlaWkfsTHr2CoMwM3iXdTyD1cuZeKE5n4xETxAUfC+j6WRmnN0iBOcY0KY0uOT0ow+/qMSZBfPb6pTDLjMYB06mmoaS9WMTj2EXukRHajMroc01a3xQjm9K3O91u7mkW5hnxN4XPYG5HElUyWH0nlPi/fFHNlPBaYKffhaSAYeJXU9XGvp3O0fU/8YcNT175vwwIJTAaorOW02DuWs2rLKdj4/cgc8AmJhUL4eDHfJnh99A6BUXwRGNBT0j0hTulQifBYjmt5K3H+9wrnLuXnvFpqSslduU4rwBc2XNm5/p6a9vlywLoTBvDzsrsvQrEfZLZOVZQmVupt+CiMqkKsRIuwmHuQ==;pbwOuPcw0EM6faiKZxla5A=="
 ---
 

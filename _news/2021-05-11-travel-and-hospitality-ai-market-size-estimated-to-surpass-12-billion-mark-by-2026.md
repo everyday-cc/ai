@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/21050616"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21050616"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026"
+    excerpt: "According to a new market research report Artificial Intelligence Market by Offering Hardware Software Services Technology Machine Learning Natural Language Processing Deployment Mode Organization Size Business Function Law Security Vertical and Region Global Forecast to 2026 published by MarketsandMarkets the"
+    publishedDateTime: 2021-05-12T09:33:00Z
+    webUrl: "https://www.openpr.com/news/2283574/artificial-intelligence-ai-market-worth-309-6-billion"
+    ampWebUrl: "https://www.openpr.com/amp/2283574/artificial-intelligence-ai-market-worth-309-6-billion"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283574/artificial-intelligence-ai-market-worth-309-6-billion"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/5/U512354945_g.jpg"
+        width: 572
+        height: 341
+        isCached: true
 
 secured: "ur9L4aUAYleTGo47RVHrqOk8UKjAA7AgiojILhAvtXQ7RvjSfOwZ/cgLdsZIucilid9BWVLx987eYXpdSqSqjWoQXvqbLjx/ZP3ZwrojrqFi35v7w477pBVkPMqNyoDs77ACI8rTqj7DTrZWNZJWp9STHGGQr8Gtha1EQjd9+LfqCt1rtg0RkM55pxOCVS/02n79i9S7dQJNuYy1Tih6Uo4CyiP83CUJExB2V08GmC4oIXt0d8zpc+Ph0wRLSpivCPiLu5dpk1EoUQ0mQ26aXY8IHkq/+dXVYOCdts/qFmLaPJmGln1/JZxlengCmkX7iiNG09zz9QauCFZiyk9mKpLC8dhAkUBWCPI/IUl23Nw2XUWfAG8liKCubZXidszuwhxUJpjoUDLfOgpaexOx3y9Aihh00qXF3O5tkDnpn+r7/3bfWFdI5tYOHZo/ZVojEv4BB/dO+RYvek98cNXH/rCktEiQTpGy6s9BfKNz944Dg4KUleEtwW3g1th8W5Spz7XDQ7G62W9D7j5Gy0e7EA==;o+BwcOVf5ydg8x8+m27acw=="
 ---

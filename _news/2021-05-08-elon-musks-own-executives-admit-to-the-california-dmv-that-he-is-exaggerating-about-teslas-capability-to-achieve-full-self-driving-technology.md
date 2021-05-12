@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla admits totally self-driving cars likely aren't happening in 2021"
-    excerpt: "An Autopilot engineer told California regulators Tesla may not achieve Level 5 autonomy, despite what CEO Elon Musk predicted in January."
-    publishedDateTime: 2021-05-07T15:12:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-self-driving-cars-elon-musk-california/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-musk-california/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-self-driving-cars-elon-musk-california/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/-5LRj4YtyHQ7C5i8Ccr-6OJTotw=/2021/01/27/3847d537-713c-4f4a-8448-d4787dac6172/tesla-model-s-refresh-210-ogi.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’"
     excerpt: "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker."
     publishedDateTime: 2021-05-07T22:33:00Z
@@ -197,21 +181,19 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Tesla engineer told California DMV that Elon Musk overstated self-driving capability"
-    excerpt: "Elon’s tweet does not match engineering reality,' a DMV official wrote after debriefing a Tesla engineer who oversees autonomous driving development."
-    publishedDateTime: 2021-05-07T15:32:00Z
-    webUrl: "https://www.latimes.com/business/technology/story/2021-05-07/tesla-engineer-told-dmv-musk-overstated-self-driving-capability"
-    ampWebUrl: "https://www.latimes.com/business/technology/story/2021-05-07/tesla-engineer-told-dmv-musk-overstated-self-driving-capability?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2021-05-07/tesla-engineer-told-dmv-musk-overstated-self-driving-capability?_amp=true"
+  - title: "Tesla admits Musk&rsquo s &lsquo full self-driving&rsquo claim not feasible yet"
+    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
+    publishedDateTime: 2021-05-09T10:16:00Z
+    webUrl: "https://menafn.com/1102049928/Tesla-admits-Muskrsquo-s-lsquo-full-self-drivingrsquo-claim-not-feasible-yet"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 52
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 50
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/20fa984/2147483647/strip/true/crop/3500x2319+0+48/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F15%2Fa3%2F19584e5544c2849e284b45781289%2Ftns-biz-auto-tesbc-safety-dmt.JPG"
-        width: 320
-        height: 212
+      - url: "https://menafn.com/updates/pr/2021-05/08/KT_bdad9image_story.jpg"
+        width: 1035
+        height: 669
         isCached: true
   - title: "Tesla admits Elon Musk is exaggerating about ‘full self-driving’ cars before end of year – reports"
     excerpt: "Communications between Tesla and the California Department of Motor Vehicles have revealed that billionaire Elon Musk may be overhyping the capabilities of his ‘Autopilot’ self-driving software."

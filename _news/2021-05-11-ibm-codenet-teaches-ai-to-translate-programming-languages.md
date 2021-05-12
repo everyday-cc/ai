@@ -2,32 +2,26 @@
 category: news
 title: "IBM CodeNet teaches AI to translate programming languages"
 excerpt: "IBM unveiled a suite of new artificial intelligence (AI) services on Monday ahead of its virtual IBM Think 2021 conference. The new features include software that teaches AI how to translate code, a cloud migration service,"
-publishedDateTime: 2021-05-11T09:54:00Z
-originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming"
-webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming"
-ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp"
-cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp"
+publishedDateTime: 2021-05-11T10:16:00Z
+originalUrl: "https://www.cloudpro.co.uk/business-intelligence/9070/ibm-codenet-teaches-ai-to-translate-programming-languages"
+webUrl: "https://www.cloudpro.co.uk/business-intelligence/9070/ibm-codenet-teaches-ai-to-translate-programming-languages"
 type: article
-quality: 104
-heat: 154
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cloud Pro
+  domain: cloudpro.co.uk
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1620318196/itpro/shutterstock-code%20editor.jpg"
-    width: 375
-    height: 210
+  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2018/10/code_shutterstock_634574354.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -47,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IBM Launches New Cloud, AI Services in Bid to Modernize Business"
-    excerpt: "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence."
-    publishedDateTime: 2021-05-11T04:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 71
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idoP3yFiGpRY/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "IBM Project CodeNet to teach AI how to code"
     excerpt: "IBM has unveiled Project CodeNet, an open-source dataset for advancing AI’s understanding and translation of code."
     publishedDateTime: 2021-05-11T19:22:00Z
@@ -75,37 +55,7 @@ related:
         width: 1654
         height: 932
         isCached: true
-  - title: "IBM Launches New Cloud, AI Services to Drive Productivity"
-    excerpt: "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence."
-    publishedDateTime: 2021-05-11T16:20:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2021-05-11/ibm-launches-new-cloud-ai-services-to-drive-productivity-video"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSJLLWoOckV8/v5/-1x-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "IBM launches new cloud, AI services in bid to modernize business"
-    excerpt: "IBM Corp. is rolling out a product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step toward cloud services and artificial intelligence."
-    publishedDateTime: 2021-05-11T19:47:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 59
-    images:
-      - url: "https://thumb.spokesman.com/MVo1plJGC5ST44c-hvkJCxo03zU=/480x0/media.spokesman.com/photos/2021/05/11/609ad8172c8e9.hires.jpg"
-        width: 480
-        height: 320
-        isCached: true
 
-secured: "gZAsdBDMYJNLKV8XJ0jNE4dKs9v6f+yXY43Bsl20LJWStbVUJ9BrmS7bUmY5FK+JvsffNsgBSTMTBAqtqHrlrKqqoHgtEoAJ4Bgx+5BzdR+YbQFZkR5VtTlVtlZue+tRARdVJP93AWwsXYNed6bN5s2Ll/A4PvPbVSl9swpjSYzpJJGerMVihjpVpDMRR03zwnrWtkqf2AJ/LKsVloyBv2WALZbU6a0dZIjY6R3/8f+ide425eteoNZ8Mo3cllGB8J+/7lsgxHtoE8wW4U8lu7Up/YwUtU4BB644nM94ukGleIpmJrZHQHpJsr46DmEYeJLT5hNdl1NabJlzedCad51wAOzAelZPaPR7nlrZrCmda9Gx+6d7Z2ZTUMxUanquWw/dDhmWE7MERTeCkhPVn77CCtQPuMGK+Nj5yu88sYBLikWd0e/vERG57q3l08OC1sL0hOU+MS7PK86Faj9NQhMHQvVwdTedZQRknnwuaiJL8HtMs8SnnzCDHSBR5PG+/mJ3btpdpxJhxxKeoGV/xw==;LimBVApanaLNI0uLt0lZKA=="
+secured: "C2NocpUaxvEDA193q/ybP78vY1eCYfv4D96IH1WP6xJUPjicPthGILc6YwDueX3/UrdOKTcTevtRzBY7UB0AoW0a1dSe6YfKJXVoJnbvdyNoVgpQfLElgd6dOOcPCaI81xI6htkrFnn7mcQWt1gueNBqsnkF9QWGJvwMUZeJmCJA3ERCNzgoBXEDfnvOQqyQnE6qy7f+UwxmqiMtzOCFoU1qNYZIorQhrBvsAYQqHMT84HqPsKKdVAhJ8AmyxZ216Bsge6G+79JmPfvSKSCY9Ngve8sWy6pd7yE3NvHdb1ix5RAJiTYCkGzj288cFP2myVvBkr/nMQucRzRYsaNvtzxtv7OEDxYbbWcIjETGoHs=;UpIxgzqkcdVYRFfxA6UeZw=="
 ---
 

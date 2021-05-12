@@ -2,6 +2,187 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-04-20-global-natural-language-processing-in-bfsi-market-overview-size-share-and-trends-2021.md",
+      "title": "Global Natural Language Processing in BFSI Market Overview, Size, Share and Trends 2021",
+      "excerpt": "According to this latest study, the 2021 growth of Natural Language Processing in BFSI will have significant change",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-overview-size-share-and-trends-2021-2021-04-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-overview-size-share-and-trends-2021-2021-04-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-ibm-ceo-arvind-krishnas-turnaround-plan-starting-to-bear-fruit.md",
+      "title": "IBM CEO Arvind Krishna’s turnaround plan starting to bear fruit",
+      "excerpt": "including Cloud and Cognitive Software, which saw a sales increase of 3.8% from a year earlier to $5.4 billion. The Global Business Services unit, which includes consulting, and the Systems unit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit-11618887491651.html",
+      "originalUrl": "https://www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit-11618887491651.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/04/20/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618887618624_1618887633680.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit/amp-11618887491651.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-ceo-arvind-krishna-s-turnaround-plan-starting-to-bear-fruit/amp-11618887491651.html",
+      "publishedDateTime": "2021-04-20T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-status-global-outlook-and-forecast-2020-2025.md",
+      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Size, Status, Global Outlook and Forecast 2020-2025",
+      "excerpt": "The Global Artificial Intelligence and Robotics in Aerospace and Defense Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2020-2025. The Artificial Intelligence and Robotics in Aerospace and Defense Market report is a valuable source of insightful data for business strategists.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/20/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-status-global-outlook-and-forecast-2020-2025/",
+      "originalUrl": "https://ksusentinel.com/2021/04/20/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-status-global-outlook-and-forecast-2020-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-how-fintech-is-changing-the-face-of-the-stock-market.md",
+      "title": "How Fintech Is Changing the Face Of the Stock Market",
+      "excerpt": "Several fintech businesses offer services to normal investors which could include a user-friendly, artificial intelligence-based platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/369803",
+      "originalUrl": "https://www.entrepreneur.com/article/369803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1618899844-money-transfer-3588301-19202.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369803",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369803",
+      "publishedDateTime": "2021-04-19T23:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-exploring-ai-ethics-and-accountability.md",
       "title": "Exploring AI ethics and accountability",
       "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
@@ -894,180 +1075,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-how-to-sharpen-machine-learning-with-smarter-management-of-edge-cases.md",
-      "title": "How to sharpen machine learning with smarter management of edge cases",
-      "excerpt": "Machine learning (ML) applications are transforming business strategy, popping up in every vertical and niche to convert huge datasets into valuable predictions that guide executives to make better business decisions, seize opportunities, and spot and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/how-sharpen-machine-learning-with-smarter-management-edge-cases-123494788/",
-      "originalUrl": "https://www.information-age.com/how-sharpen-machine-learning-with-smarter-management-edge-cases-123494788/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/04/how-sharpen-machine-learning-with-smarter-management-edge-cases.jpeg",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-saudi-aramco-accelerates-employee-expertise-with-conversational-ai-and-enterprise-search.md",
-      "title": "Saudi Aramco accelerates employee expertise with conversational AI and enterprise search",
-      "excerpt": "IBM Watson Discovery reduces research time for scientists by up to 75% Agents using IBM Watson Assistant chatbot handle calls 10% faster In this time of unprecedented change, Saudi Aramco has fully committed to automating the most arduous of their manual processes. By adopting AI-infused workflows and",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-expertise-ai/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-expertise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-58_Tech-M-Blog_Leadspace.png",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T06:00:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-ambow-education-expands-partnership-with-amazon-in-artificial-intelligence-training-for-teachers.md",
-      "title": "Ambow Education Expands Partnership with Amazon in Artificial Intelligence Training for Teachers",
-      "excerpt": "Ambow Education Holding Ltd. (\"Ambow\" or \"the Company\") (NYSE American: AMBO), China's leading provider of educational and career enhancement",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
-      "originalUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/pr-newswire_500_4_966.jpg?itok=n0UX2udW",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp",
-      "publishedDateTime": "2021-04-19T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-unity-dramatically-reduces-ai-training-time-budgets-with-launch-of-synthetic-datasets.md",
-      "title": "Unity Dramatically Reduces AI Training Time, Budgets With Launch of Synthetic Datasets",
-      "excerpt": "Unity today announced the availability of Unity Computer Vision Datasets aimed to reduce the cost of developing computer vision applications, and more quickly train AI for the Manufacturing, Retail, and Security industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210419005099/en/Unity-Dramatically-Reduces-AI-Training-Time-Budgets-With-Launch-of-Synthetic-Datasets",
-      "originalUrl": "https://www.businesswire.com/news/home/20210419005099/en/Unity-Dramatically-Reduces-AI-Training-Time-Budgets-With-Launch-of-Synthetic-Datasets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

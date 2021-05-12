@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -159,21 +159,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-11-ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital.md",
-      "title": "IBM builds new hybrid cloud, AI capabilities to help clients go digital",
-      "excerpt": "A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic",
+      "path": "_news/2021-05-11-ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business.md",
+      "title": "IBM Launches New Cloud, AI Services in Bid to Modernize Business",
+      "excerpt": "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html",
-      "originalUrl": "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html",
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://images.livemint.com/img/2021/05/11/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618938474492_1620708031821.JPG",
-          "width": 600,
-          "height": 338,
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idoP3yFiGpRY/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -181,14 +181,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html",
-      "publishedDateTime": "2021-05-10T21:44:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T21:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -197,7 +206,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI Hardware",
         "AI",
         "IBM AI"
       ]

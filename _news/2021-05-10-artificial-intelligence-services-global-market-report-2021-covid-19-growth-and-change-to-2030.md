@@ -21,6 +21,17 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Global Artificial Intelligence in Healthcare Markets Report 2021-2027: AI in Epidemic Outbreak Prediction and Response to Gain Momentum"
+    excerpt: "The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component,"
+    publishedDateTime: 2021-05-12T08:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21076118/global-artificial-intelligence-in-healthcare-markets-report-2021-2027-ai-in-epidemic-outbreak-pred"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21076118"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21076118"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "Conversational Artificial Intelligence (AI) Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "The global interactive AI market was valued at 38 9 billion in 2019 and is expected to reach 18 2 billion by 2027 and is expected to grow at a CAGR of 21 from 2021 to 2027 Technological advances and"
     publishedDateTime: 2021-05-10T15:54:00Z
@@ -32,43 +43,54 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
-  - title: "Trending: Impact Analysis of COVID-19 on the Global Natural Language Processing Market"
-    excerpt: "The global natural language processing market forecast is estimated to be $42,389.83 million by 2027, rising from $9701.5 million in 2019, at a CAGR of 20.6%. The coronavirus outbreak in 2020 dramatically affected the natural language processing services industry worldwide Due to the sudden outbreak of COVID-19 various industries around the world has faced various issues such as loss of business due to the sudden shutdown guidelines laid out by government bodies."
-    publishedDateTime: 2021-05-10T07:37:00Z
-    webUrl: "https://ksusentinel.com/2021/05/10/trending-impact-analysis-of-covid-19-on-the-global-natural-language-processing-market/"
+  - title: "Global Artificial Intelligence in Healthcare Markets to 2027: Robot Assisted Surgery Segment to Register the Highest Growth Rate - ResearchAndMarkets."
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component, Application, End User, and Geography\" report has been added to ResearchAndMarkets.com's offering. Robot Assisted ..."
+    publishedDateTime: 2021-05-10T14:11:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=466375"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 31
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/Market-Research-New-Report-14-720x470.jpg"
-        width: 720
-        height: 470
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
-  - title: "Global Artificial Intelligence (AI) Verticals Market Seeks to New Posture of Market Trends, Opportunities and Breakthrough Point During 2020-2027"
-    excerpt: "Verticals Market Report at:  Key global participants in the Artificial Intelligence (AI) Verticals market include: DIDI ROSS Intelligence Toutiao Airbnb Uber Slack Salesforce Sentient Technologies Dataminr Please Check the Report Summary and Acquire A Complete TOC:  Table of Content 1 Report Overview 1."
-    publishedDateTime: 2021-05-10T02:11:00Z
-    webUrl: "https://ksusentinel.com/2021/05/10/global-artificial-intelligence-ai-verticals-market-seeks-to-new-posture-of-market-trends-opportunities-and-breakthrough-point-during-2020-2027/"
+  - title: "Computer Vision Market Report 2021, Industry Trends, Share, Size, Demand and Future Scope"
+    excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, The global computer vi"
+    publishedDateTime: 2021-05-11T08:51:00Z
+    webUrl: "https://ksusentinel.com/2021/05/11/computer-vision-market-report-2021-industry-trends-share-size-demand-and-future-scope/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 15
+    quality: 30
     images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/5.jpg"
-        width: 770
-        height: 430
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/AdobeStock_164918001_popup-780x470.jpg"
+        width: 780
+        height: 470
         isCached: true
-  - title: "Global AI in Drug Discovery Market Size Worth $4.05 Billion By 2028 | CAGR: 28.3%: Polaris Market Research"
-    excerpt: "The global artificial intelligence (AI) in the drug discovery market was valued at USD 571.1 million in 2020 and is expected to reach USD 4.05 billion by 2028 to grow at a CAGR of 28.3% during the forecast period [2021-2028]."
-    publishedDateTime: 2021-05-11T07:39:00Z
-    webUrl: "https://www.medgadget.com/2021/05/global-ai-in-drug-discovery-market-size-worth-4-05-billion-by-2028-cagr-28-3-polaris-market-research.html"
+  - title: "Global Artificial Intelligence in Security Market – Top Industry Segments Analyzed in Latest Research Report by MRS"
+    excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence in Security Market Analysis and Forecast 2020-2026. Latest updated report pub"
+    publishedDateTime: 2021-05-09T22:11:00Z
+    webUrl: "https://ksusentinel.com/2021/05/09/global-artificial-intelligence-in-security-market-top-industry-segments-analyzed-in-latest-research-report-by-mrs/"
     type: article
     provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 5
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 12
+  - title: "Global Speech Analytics Markets Report 2021: Market is Expected to Grow at the Rate of 20.3% CAGR by 2026"
+    excerpt: "The \"Speech Analytics Market Report 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The"
+    publishedDateTime: 2021-05-12T08:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21076221/global-speech-analytics-markets-report-2021-market-is-expected-to-grow-at-the-rate-of-20-3-cagr-by"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21076221"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21076221"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
 
 secured: "4UKLscEiysG96GbLHZTZWOd3pY90euK89wILxah8YtcxO+fyTNVwq4K+r/aeUuo2/i38gYHVxrb54PIAW0fzUz9HbZBTEbekRk6s4kNgvjUlRDEuNSaLS7YHJ+Nh4Xds4V+UTQHWRamfLlEdoWxEpzE7iCowwpWm0/f11rLvATUG9hJZH/x82HTxaVRyB3eDQsd/DAJvN3erjB0DGec7Aimg0gT6iscSEBt7vZa20J5boUZfDwaKbcLQHry1lgitUQpy2d9XAHRHzMx1zS6YJ7vQ0HLPM3ra8ci6CPJpSRH5D2rBAq3StG2EUJcnK1ApUBYE1L54eymMBhyDoMog9unf72ajJq8w90pvwMq1C6o=;6VXNAng0TtsO94oo9/FujA=="
 ---

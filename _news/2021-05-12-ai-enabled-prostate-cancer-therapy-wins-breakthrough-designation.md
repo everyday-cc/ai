@@ -7,8 +7,8 @@ originalUrl: "https://www.mddionline.com/artificial-intelligence/ai-enabled-pros
 webUrl: "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: MD&M East
@@ -25,52 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Changing The World With Breakthrough AI Innovation In The Age Of Regulation And Cancel Culture"
-    excerpt: "World in 2021 has seemingly gone mad with censorship, over regulations, and so called “cancel  culture. ”  So, how can disruptive startups circumvent these new developments, and continue to innovate and create economic growth with AI?"
-    publishedDateTime: 2021-05-07T17:02:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/"
+  - title: "FDA grants breakthrough device designation to AI-based focal therapy system"
+    excerpt: "The targeted focal laser ablation system is intended to be an office-based treatment for localized prostate cancer delivered under local anesthesia."
+    publishedDateTime: 2021-05-11T00:00:00Z
+    webUrl: "https://www.urologytimes.com/view/fda-grants-breakthrough-device-designation-to-ai-based-focal-therapy-system"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
+      name: urologytimes
+      domain: urologytimes.com
+    quality: 52
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60956c575c3928d3e701c7a3%2F0x0.jpg"
-        width: 1200
-        height: 759
+      - url: "https://cdn.sanity.io/images/0vv8moc6/urologytimes/33bac5b4b295369649455c6e7f13d51c0b268650-500x218.jpg?auto=format"
+        width: 500
+        height: 218
         isCached: true
-  - title: "Pushing Computing to the Edge With Innovative Microchip Design to Make AI Accessible in Real-Time"
-    excerpt: "Responding to artificial intelligence’s exploding demands on computer networks, Princeton University researchers in recent years have radically increased the speed and slashed the energy use of specialized AI systems."
-    publishedDateTime: 2021-05-10T11:22:00Z
-    webUrl: "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/"
-    ampWebUrl: "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/"
+  - title: "Avenda Health Granted FDA Breakthrough Device Designation for Technology to Treat Prostate Cancer"
+    excerpt: "Breakthrough Device Designation was awarded to Avenda Health for a male “lumpectomy” product in development designed to treat prostate cancer in-office while preserving quality of life. Breakthrough Device Designation by FDA is reserved for devices that are potentially transformative,"
+    publishedDateTime: 2021-05-11T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210511005137/en/Avenda-Health-Granted-FDA-Breakthrough-Device-Designation-for-Technology-to-Treat-Prostate-Cancer"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 63
-    images:
-      - url: "https://scitechdaily.com/images/New-Type-of-Neural-Net-Accelerator-Chip-777x421.jpg"
-        width: 777
-        height: 421
-        isCached: true
-  - title: "Onit Expands ReviewAI with Smart Checklists, the Latest Artificial Intelligence Innovation ..."
-    excerpt: "Integrated with Onit’s contract lifecycle management technology, ReviewAI and its Smart Checklists dramatically accelerate contract management. “Lawyers want to reduce tasks that are time-consuming and repetitive so they can focus on more strategic work."
-    publishedDateTime: 2021-05-11T15:07:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-6025a59e08e20040cb523c65e6d6c385"
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+  - title: "FDA Grants Breakthrough Device Designation to Lumpectomy Product in Prostate Cancer"
+    excerpt: "The FDA has granted a breakthrough device designation to the Avenda Health Focal Therapy System, a male “lumpectomy” product under development to treat patients with prostate cancer in office while preserving quality of life."
+    publishedDateTime: 2021-05-11T20:10:00Z
+    webUrl: "https://www.onclive.com/view/fda-grants-breakthrough-device-designation-to-lumpectomy-product-in-prostate-cancer"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 40
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: OncLive.com
+      domain: onclive.com
+    quality: 0
 
 secured: "ac5Jud889U+oL9/7VU3vEjyKCZezENq7lbv2P+We+FHB1dN7CDLmOVuddUub0OWH2KEe6RpykvqLUVv7CXWiCK3Qthp/w5LnESyOHm08MM6CH3pNI9iPWqQ/fS81HJw3/plRXOsk0uIMSzvBYcWxY3sm09Vod82nybloZ5tujbuRRUkl2kp8QzUJOnnj9pVa9Kk1GfQZCuWYnMC+NEmD29TGJeQ7jSNiw74aiF8/hqLvgfflxwfohLMTE+F+slvehXJ8eB3wBTlwe6l+OrJ8+LGgpn69SozHyYqahiH46Yj066ARqGd/0W0+JZ4ZIs7oiTgqz3NATQ77DJGrN+rHVV1gkkzU5eTOWC90dHev9k3x6QW8EkVC7xduCMWVYpLnAnZSzbCRgcFzPy+F6NXC+rXeL+uYNgZr8YCsJjchnoRCl7ivvzbZMPUEDIux5U1S47ujb+lfJuUucTSsySH0QPupjTn3WFJPOx8MS/SIW0MaVUx3qzbleoAEq2aiA2ilU7319FXSHW5GIr9menZnzQ==;TRCzeu/2L3xw2pn1VwHzVQ=="
 ---

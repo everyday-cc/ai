@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/05/11/ai-has-eaten-ibm-think/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -211,6 +211,59 @@
       ]
     },
     {
+      "path": "_news/2021-05-11-ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business.md",
+      "title": "IBM Launches New Cloud, AI Services in Bid to Modernize Business",
+      "excerpt": "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idoP3yFiGpRY/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all.md",
       "title": "AI and nanotechnology could make cancer cell therapy affordable for all",
       "excerpt": "There is, however, hope. The most recent insights in nanotechnology, artificial intelligence (AI), biosensors, and the Internet of Things could help overcome the current roadblocks in making personalized cell therapies affordable. The solution to ...",
@@ -263,7 +316,7 @@
       "originalUrl": "https://www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -298,21 +351,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-09-want-to-rule-the-world-invest-in-ai.md",
-      "title": "Want To Rule The World? Invest In AI",
-      "excerpt": "AI is a game changing technology, and the world is waking up to it. Click here to know more about the ways to invest in AI.",
+      "path": "_news/2021-05-10-pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time.md",
+      "title": "Pushing Computing to the Edge With Innovative Microchip Design to Make AI Accessible in Real-Time",
+      "excerpt": "Responding to artificial intelligence’s exploding demands on computer networks, Princeton University researchers in recent years have radically increased the speed and slashed the energy use of specialized AI systems.",
       "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4426400-want-to-rule-the-world-invest-in-ai",
-      "originalUrl": "https://seekingalpha.com/article/4426400-want-to-rule-the-world-invest-in-ai",
+      "webUrl": "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/",
+      "originalUrl": "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/950370822/medium_image_950370822.jpg",
-          "width": 768,
-          "height": 424,
+          "url": "https://scitechdaily.com/images/New-Type-of-Neural-Net-Accelerator-Chip-777x421.jpg",
+          "width": 777,
+          "height": 421,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -320,13 +373,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4426400-want-to-rule-the-world-invest-in-ai",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4426400-want-to-rule-the-world-invest-in-ai",
-      "publishedDateTime": "2021-05-09T06:07:00-07:00",
+      "ampWebUrl": "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/",
+      "publishedDateTime": "2021-05-10T04:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -336,9 +389,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Natural Language Processing",
         "AI",
-        "Microsoft AI"
+        "AI Hardware"
       ]
     },
     {
@@ -1435,50 +1488,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues.md",
-      "title": "NVIDIA warns gamers to update GPU drivers due to security issues",
-      "excerpt": "NVIDIA has reportedly found a few security vulnerabilities that may affect the popular GPU models in the market - and has released an update to fix it.",
-      "sourceUrl": null,
-      "webUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/",
-      "originalUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/03/Nvidia-GeForce-Hotfix.jpg",
-          "width": 600,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/nvidia-warns-gamers-to-update-gpu-drivers-due-to-security-issues-105609/?amp",
-      "publishedDateTime": "2021-04-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

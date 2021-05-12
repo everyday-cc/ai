@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-11-full-interview-with-ibm-ceo-arvind-krishna-on-new-ai-innovations-chip-shortage-strategy-and-more.md",
+      "title": "Full interview with IBM CEO Arvind Krishna on new AI innovations, chip shortage, strategy and more",
+      "excerpt": "IBM will announce advancements in artificial intelligence and quantum computing at its global annual conference called \"Think.\" The technology is designed to help businesses push further into the 21st century.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/05/11/full-interview-with-ibm-ceo-arvind-krishna-on-new-ai-innovations-chip-shortage-strategy-and-more.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/05/11/full-interview-with-ibm-ceo-arvind-krishna-on-new-ai-innovations-chip-shortage-strategy-and-more.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106881141-16207378051620737794-16019881298-1080pnbcnews.jpg?v=1620737804",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-deepmind-launches-scholarship-for-four-wits-masters-students-in-machine-learning.md",
+      "title": "DeepMind Launches Scholarship For Four Wits Masters Students In Machine Learning",
+      "excerpt": "DeepMind has donated scholarship funding for four Wits students to complete their Master’s degrees in the field of machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techfinancials.co.za/2021/05/11/deepmind-launches-scholarship-for-four-wits-masters-students-in-machine-learning/",
+      "originalUrl": "https://www.techfinancials.co.za/2021/05/11/deepmind-launches-scholarship-for-four-wits-masters-students-in-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2020/04/wits-university.jpg",
+          "width": 960,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techfinancials",
+        "domain": "techfinancials.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-ai-methods-predict-covid-19-patient-outcomes-using-routine-clinical-data-from-icus.md",
+      "title": "AI methods predict COVID-19 patient outcomes using routine clinical data from ICUs",
+      "excerpt": "The investigators used machine learning to predict which patients might get worse and not respond positively to being turned onto their front in intensive care units (ICUs) - a technique known as proning that is commonly used in this setting to improve oxygenation of the lungs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Intensive_Care-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210511/AI-methods-predict-COVID-19-patient-outcomes-using-routine-clinical-data-from-ICUs.aspx",
+      "publishedDateTime": "2021-05-11T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-indian-researchers-develop-ai-that-may-help-in-the-fight-against-covid-19.md",
       "title": "Indian researchers develop AI that may help in the fight against Covid-19",
       "excerpt": "Given limited testing facilities for Covid-19, there's a rush to develop AI tools for quick analysis using X-rays. Experts say it can be very useful in smaller towns where access to CT scans is poor",
@@ -93,58 +231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ibm-codenet-teaches-ai-to-translate-programming-languages.md",
-      "title": "IBM CodeNet teaches AI to translate programming languages",
-      "excerpt": "IBM unveiled a suite of new artificial intelligence (AI) services on Monday ahead of its virtual IBM Think 2021 conference. The new features include software that teaches AI how to translate code, a cloud migration service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1620318196/itpro/shutterstock-code%20editor.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp",
-      "publishedDateTime": "2021-05-11T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -245,50 +331,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-11-ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital.md",
-      "title": "IBM builds new hybrid cloud, AI capabilities to help clients go digital",
-      "excerpt": "A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html",
-      "originalUrl": "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital-11620707458307.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/05/11/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618938474492_1620708031821.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-builds-new-hybrid-cloud-ai-capabilities-to-help-clients-go-digital/amp-11620707458307.html",
-      "publishedDateTime": "2021-05-10T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-11-machine-learning-enabled-insig-ai-which-serves-asset-managers-lists-on-aim-london-stock-exchange.md",
       "title": "Machine Learning enabled Insig AI, which Serves Asset Managers, Lists on AIM London Stock Exchange",
       "excerpt": "Machine learning (ML) enabled Insig AI, which serves asset management professionals, lists on AIM London Stock Exchange.",
@@ -332,21 +374,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-11-fda-grants-breakthrough-device-designation-to-ai-based-focal-therapy-system.md",
-      "title": "FDA grants breakthrough device designation to AI-based focal therapy system",
-      "excerpt": "The targeted focal laser ablation system is intended to be an office-based treatment for localized prostate cancer delivered under local anesthesia.",
+      "path": "_news/2021-05-11-ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business.md",
+      "title": "IBM Launches New Cloud, AI Services in Bid to Modernize Business",
+      "excerpt": "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://www.urologytimes.com/view/fda-grants-breakthrough-device-designation-to-ai-based-focal-therapy-system",
-      "originalUrl": "https://www.urologytimes.com/view/fda-grants-breakthrough-device-designation-to-ai-based-focal-therapy-system",
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.sanity.io/images/0vv8moc6/urologytimes/33bac5b4b295369649455c6e7f13d51c0b268650-500x218.jpg?auto=format",
-          "width": 500,
-          "height": 218,
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idoP3yFiGpRY/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -356,12 +398,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T17:00:00-07:00",
+      "publishedDateTime": "2021-05-10T21:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "urologytimes",
-        "domain": "urologytimes.com",
-        "images": null,
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -370,8 +421,62 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI Hardware",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-ibms-codenet-dataset-aims-to-train-ai-to-tackle-programming-challenges.md",
+      "title": "IBM’s CodeNet dataset aims to train AI to tackle programming challenges",
+      "excerpt": "IBM's Project CodeNet is an effort to spur the development of AI systems that can tackle programming challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/10/ibms-codenet-dataset-aims-to-train-ai-to-tackle-programming-challenges/",
+      "originalUrl": "https://venturebeat.com/2021/05/10/ibms-codenet-dataset-aims-to-train-ai-to-tackle-programming-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1616161913403.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/10/ibms-codenet-dataset-aims-to-train-ai-to-tackle-programming-challenges/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/10/ibms-codenet-dataset-aims-to-train-ai-to-tackle-programming-challenges/amp/",
+      "publishedDateTime": "2021-05-10T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -816,7 +921,7 @@
       "originalUrl": "https://www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1099,110 +1204,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-why-ai-projects-are-failing-at-your-company.md",
-      "title": "Why AI Projects Are Failing At Your Company",
-      "excerpt": "To successfully implement data democratization across your organization, you need a data catalog that makes it easy to search and understand data across the business, not just the IT group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/why-ai-projects-are-failing-at-your-company/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/why-ai-projects-are-failing-at-your-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609540b10e4317e750ed5a8f%2F0x0.jpg",
-          "width": 1200,
-          "height": 897,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/why-ai-projects-are-failing-at-your-company/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/10/why-ai-projects-are-failing-at-your-company/amp/",
-      "publishedDateTime": "2021-05-10T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-microsoft-and-darktrace-partner-on-ai-enhanced-cloud-security.md",
-      "title": "Microsoft and Darktrace partner on AI-enhanced cloud security",
-      "excerpt": "Microsoft has announced a new partnership with Cambridge-based AI startup Darktrace that aims to provide AI -enhanced cyber security to organisations transitioning to the cloud. The collaboration will focus on addressing security challenges in the “critical areas” of email security,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570816729/itpro/2018/10/securitybreach_shutterstock_432988318.jpg",
-          "width": 1000,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp",
-      "publishedDateTime": "2021-05-10T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

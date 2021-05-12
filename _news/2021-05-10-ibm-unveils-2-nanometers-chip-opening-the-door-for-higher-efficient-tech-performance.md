@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the
 cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/ibm-unveils-2-nanometers-chip-opening-the-door-for-higher-efficient-tech-performance/amp/"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Meets New Chip Milestone with 2 Nanometer Chip Technology"
-    excerpt: "IBM is making a breakthrough in semiconductor design and process with the development of the world's first chip announced with 2 nanometer (nm) nanosheet technology. Semiconductors play critical roles in everything from computing,"
-    publishedDateTime: 2021-05-07T16:00:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Meets-New-Chip-Milestone-with-2-Nanometer-Chip-Technology-146759.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 39
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IBM Unveils World’s First 2 Nanometer Chip Technology"
     excerpt: "IBM has unveiled a breakthrough in semiconductor design and process with the development of the world’s first chip announced with 2 Kenya breaking news | Kenya news today |"
     publishedDateTime: 2021-05-08T00:52:00Z

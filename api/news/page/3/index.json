@@ -2,6 +2,154 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-10-why-ai-projects-are-failing-at-your-company.md",
+      "title": "Why AI Projects Are Failing At Your Company",
+      "excerpt": "To successfully implement data democratization across your organization, you need a data catalog that makes it easy to search and understand data across the business, not just the IT group.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/why-ai-projects-are-failing-at-your-company/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/why-ai-projects-are-failing-at-your-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609540b10e4317e750ed5a8f%2F0x0.jpg",
+          "width": 1200,
+          "height": 897,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/10/why-ai-projects-are-failing-at-your-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/10/why-ai-projects-are-failing-at-your-company/amp/",
+      "publishedDateTime": "2021-05-10T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time.md",
+      "title": "Pushing Computing to the Edge With Innovative Microchip Design to Make AI Accessible in Real-Time",
+      "excerpt": "Responding to artificial intelligence’s exploding demands on computer networks, Princeton University researchers in recent years have radically increased the speed and slashed the energy use of specialized AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/",
+      "originalUrl": "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/New-Type-of-Neural-Net-Accelerator-Chip-777x421.jpg",
+          "width": 777,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/",
+      "publishedDateTime": "2021-05-10T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-microsoft-and-darktrace-partner-on-ai-enhanced-cloud-security.md",
+      "title": "Microsoft and Darktrace partner on AI-enhanced cloud security",
+      "excerpt": "Microsoft has announced a new partnership with Cambridge-based AI startup Darktrace that aims to provide AI -enhanced cyber security to organisations transitioning to the cloud. The collaboration will focus on addressing security challenges in the “critical areas” of email security,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570816729/itpro/2018/10/securitybreach_shutterstock_432988318.jpg",
+          "width": 1000,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced?amp",
+      "publishedDateTime": "2021-05-10T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-ponyai-unveils-its-next-gen-robotaxi-with-lidar-from-luminar.md",
       "title": "Pony.ai unveils its next-gen robotaxi with LIDAR from Luminar",
       "excerpt": "Pony.ai’s next-generation robotaxi is distinctive because it appears to be missing the cone-shaped LIDAR sensor perched on the roof that’s typical of most autonomous vehicles. That’s because the startup,",
@@ -46,17 +194,17 @@
     {
       "path": "_news/2021-05-10-ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign.md",
       "title": "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign",
-      "excerpt": "Expend, the AI-powered fintech startup changing the way businesses manage expenses and spending, has announced a great start to its crowdfunding campaign on Seedrs. The company is experiencing a strong growth period having performed well in the past turbulent year with revenue more than doubling,",
+      "excerpt": "Expend, a fintech startup that's revolutionising expenses, announces an impressive start to crowdfunding campaignLONDON, May 10, 2021",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1505737/Expend_Expense_Platform.jpg",
+          "url": "https://mma.prnewswire.com/media/1505742/Expend_Expense_Platform.jpg",
           "width": 400,
           "height": 225,
           "title": null,
@@ -68,7 +216,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T01:16:00-07:00",
+      "publishedDateTime": "2021-05-10T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -91,6 +239,7 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -245,21 +394,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-09-want-to-rule-the-world-invest-in-ai.md",
-      "title": "Want To Rule The World? Invest In AI",
-      "excerpt": "AI is a game changing technology, and the world is waking up to it. Click here to know more about the ways to invest in AI.",
+      "path": "_news/2021-05-09-driverless-taxis-to-cancer-drugs-googles-moonshots-are-serious-business.md",
+      "title": "Driverless taxis to cancer drugs: Google's moonshots are serious business",
+      "excerpt": "Alphabet could be underinvesting in the sustainability of its prosperous main business while overinvesting in adventurous sidelines.",
       "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4426400-want-to-rule-the-world-invest-in-ai",
-      "originalUrl": "https://seekingalpha.com/article/4426400-want-to-rule-the-world-invest-in-ai",
+      "webUrl": "https://www.business-standard.com/article/companies/google-s-main-business-could-use-some-moonshots-leonid-bershidsky-121050900072_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/google-s-main-business-could-use-some-moonshots-leonid-bershidsky-121050900072_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/950370822/medium_image_950370822.jpg",
-          "width": 768,
-          "height": 424,
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/09/full/1620523537-7541.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -267,13 +416,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4426400-want-to-rule-the-world-invest-in-ai",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4426400-want-to-rule-the-world-invest-in-ai",
-      "publishedDateTime": "2021-05-09T06:07:00-07:00",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/google-s-main-business-could-use-some-moonshots-leonid-bershidsky-121050900072_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/google-s-main-business-could-use-some-moonshots-leonid-bershidsky-121050900072_1.html",
+      "publishedDateTime": "2021-05-08T18:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
+        "name": "Business Standard",
+        "domain": "business-standard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -283,9 +432,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -430,6 +578,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-tesla-refutes-elon-musks-timeline-on-full-self-driving.md",
+      "title": "Tesla refutes Elon Musk’s timeline on ‘full self-driving’",
+      "excerpt": "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/",
+      "originalUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1130604490.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/",
+      "publishedDateTime": "2021-05-07T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -681,7 +881,7 @@
       "originalUrl": "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1023,204 +1223,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-smart-breakthrough-uses-artificial-neural-networks-to-enhance-travel-behavior-research.md",
-      "title": "SMART breakthrough uses artificial neural networks to enhance travel behavior research",
-      "excerpt": "SMART researchers created a synthetic framework known as theory-based residual neural network, which combines discrete choice models and deep neural networks, to improve individual decision-making analysis used in travel behavior research.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/smart-breakthrough-uses-artificial-neural-networks-enhance-travel-behavior-research-0507",
-      "originalUrl": "https://news.mit.edu/2021/smart-breakthrough-uses-artificial-neural-networks-enhance-travel-behavior-research-0507",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202105/hong-kong-traffic-smart-mit-a1.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-five-ways-to-protect-sensitive-data-in-your-organization.md",
-      "title": "Five ways to protect sensitive data in your organization",
-      "excerpt": "Organizations collect a tremendous amount of data from a variety of sources, and any of these data sources could potentially contain sensitive data. Data is often relocated for warehousing, reporting, analytics, storage, testing, and application use. Data or AI models could potentially be copied multiple",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/05/protect-sensitive-data-ai/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/05/protect-sensitive-data-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/Five_considerations_V1_2000x1006.jpg",
-          "width": 2000,
-          "height": 1007,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-the-autonomous-vehicle-world-is-shrinking-its-overdue.md",
-      "title": "The autonomous vehicle world is shrinking — it’s overdue",
-      "excerpt": "After years of positive vibes about the future of autonomous vehicles and nearly unrestricted access to cash from Kool-Aid-drunk venture capitalists, the AV industry is confronting some hard truths. The first is that autonomous vehicles are going to take a lot longer to reach mass scale than previously thought.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/22423489/autonomous-vehicle-consolidation-acquisition-lyft-uber",
-      "originalUrl": "https://www.theverge.com/22423489/autonomous-vehicle-consolidation-acquisition-lyft-uber",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/BMMB4bOI9j_C64T7j8N0AvUPBF8=/0x0:2050x1367/1400x933/filters:focal(836x956:1164x1284):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69251325/VRG_ILLO_4576_Self_Shrinking_Car_site.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/22423489/autonomous-vehicle-consolidation-acquisition-lyft-uber",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22423489/autonomous-vehicle-consolidation-acquisition-lyft-uber",
-      "publishedDateTime": "2021-05-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-video-more-certainty-for-deep-learning.md",
-      "title": "Video: More certainty for deep learning",
-      "excerpt": "Deep learning, machine learning and artificial intelligence offer significant opportunities to solve the challenges of different disciplines and make our lives easier in many ways.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-video-certainty-deep.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-video-certainty-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-video-certainty-deep.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-video-certainty-deep.amp",
-      "publishedDateTime": "2021-05-07T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

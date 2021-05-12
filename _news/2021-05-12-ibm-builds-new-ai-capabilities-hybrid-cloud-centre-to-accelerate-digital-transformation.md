@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Launches New Cloud, AI Services in Bid to Modernize Business"
+    excerpt: "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence."
+    publishedDateTime: 2021-05-11T04:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-05-11/ibm-launches-new-cloud-ai-services-in-bid-to-modernize-business"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 71
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idoP3yFiGpRY/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM builds new hybrid cloud, AI capabilities to help clients go digital"
     excerpt: "A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic"
     publishedDateTime: 2021-05-11T04:44:00Z
@@ -44,19 +58,21 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "IBM Announces Breakthrough Hybrid Cloud and AI Capabilities to Accelerate Digital Transformation at 2021 Think Conference"
-    excerpt: "IBM (NYSE: IBM) announces advances in artificial intelligence (AI), hybrid cloud, and quantum computing at the company's Think conference at 12:00 p.m. ET today. The innovations highlight IBM's role in helping its clients and partners accelerate their digital transformations,"
-    publishedDateTime: 2021-05-11T06:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-announces-breakthrough-hybrid-cloud-and-ai-capabilities-to-accelerate-digital-transformation-at-2021-think-conference-1030411690"
+  - title: "IBM launches new cloud, AI services in bid to modernize business"
+    excerpt: "IBM Corp. is rolling out a product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step toward cloud services and artificial intelligence."
+    publishedDateTime: 2021-05-11T19:47:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/may/11/ibm-launches-new-cloud-ai-services-in-bid-to-moder/?amp-content=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
+      - url: "https://thumb.spokesman.com/MVo1plJGC5ST44c-hvkJCxo03zU=/480x0/media.spokesman.com/photos/2021/05/11/609ad8172c8e9.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
   - title: "IBM makes leaps in AI, hybrid cloud and quantum computing for digital transformation"
     excerpt: "IBM Corp has achieved several advances in artificial intelligence, hybrid cloud and quantum computing to accelerate its partners and clients digital transformation journeys. A new IBM study on the adoption of AI for business revealed that the imperative to embed AI into business processes became more urgent during the pandemic."
@@ -71,20 +87,6 @@ related:
       - url: "https://mybigplunge.com/wp-content/uploads/2021/05/IBM-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Watch live: Think 2021 reimagines the digital experience as IBM powers up hybrid cloud with automation"
-    excerpt: "Remote operations and the need to rapidly respond to the changing economic climate have made cloud computing essential for modern business survival. Adapting means adopting hybrid cloud. But stepping smoothly from a legacy or pure cloud environment into one where applications and data are dispersed across multiple clouds,"
-    publishedDateTime: 2021-05-10T22:00:00Z
-    webUrl: "https://siliconangle.com/2021/05/10/watch-live-think-2021-reimagines-digital-experience-ibm-powers-hybrid-cloud-automation-think2021/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 8
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/IBM-Think-2021-1.png"
-        width: 965
-        height: 543
         isCached: true
 
 secured: "hMhE1TF343lBzgaEySdMN2grHU0NsFsgI1dANThDFeUm63xjqERE7CY8T0NB7J/eywIG8tpFm9/dwZDHTMiDLO9ioeBPQNX+xztJFwoIa0DTIQS9iaW87EGZ+VssU5tDaiBb1q70dx2mrKZgZV+L6kjbj4CThDiNm+ZMETeoqaf3BVuKtBabDQUR6joBWgQZgUK2r7BXcrXdKV+t3buovagbQUBpVf/wjpbvWEKcDmyDSAIndtMB8P+5Pcnlk6uVvBIm8JPcTp3R2lZypL5rumXYI43LNgkeLfB/bQxyA495wVV3sEm5Q8I7C3Ck0kN+rMPPEBH3Agdc3pGbt3nA9QbhEBlb03iwCsdwDVAZtQW3GalvIam7ErLt2nmYXYgvb6H6reLtAt2g1nfsDndoshkDGAgHfmIcBJ8cKArm5jZAUIYfzdjuiedGkkG6C2OzH8DjVz02VqjS9fEvl3YN8fd1Y9Js8WHQbPCuThQVxAHBF/2bYy0LwrBIHGDBz3c8so5U9Ist64BYKGT4aO0hhQ==;Lm4xkTq7SsOf5p/UC6mu0A=="

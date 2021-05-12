@@ -354,6 +354,101 @@
       ]
     },
     {
+      "path": "_news/2021-05-09-driverless-taxis-to-cancer-drugs-googles-moonshots-are-serious-business.md",
+      "title": "Driverless taxis to cancer drugs: Google's moonshots are serious business",
+      "excerpt": "Alphabet could be underinvesting in the sustainability of its prosperous main business while overinvesting in adventurous sidelines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/google-s-main-business-could-use-some-moonshots-leonid-bershidsky-121050900072_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/google-s-main-business-could-use-some-moonshots-leonid-bershidsky-121050900072_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/09/full/1620523537-7541.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/google-s-main-business-could-use-some-moonshots-leonid-bershidsky-121050900072_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/google-s-main-business-could-use-some-moonshots-leonid-bershidsky-121050900072_1.html",
+      "publishedDateTime": "2021-05-08T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-tesla-refutes-elon-musks-timeline-on-full-self-driving.md",
+      "title": "Tesla refutes Elon Musk’s timeline on ‘full self-driving’",
+      "excerpt": "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/",
+      "originalUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1130604490.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/",
+      "publishedDateTime": "2021-05-07T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-baidu-rolls-out-paid-driverless-taxi-service-autox-completes-100-days-of-robotaxi-service-in-china.md",
       "title": "Baidu rolls out paid driverless taxi service, AutoX completes 100 days of Robotaxi service in China",
       "excerpt": "Baidu has commenced paid services for the Apollo Robotaxis in China without a safety driver behind the steering wheel for the first time. The Baidu milestone coincided with another milestone by Alibaba-backed AutoX,",
@@ -903,10 +998,10 @@
     {
       "path": "_news/2021-05-05-2-top-self-driving-car-stocks-to-buy-in-2021.md",
       "title": "2 Top Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "Tesla began outfitting its vehicles with the latest autopilot and full self-driving hardware in October 2016: radar, eight cameras, and 12 ultrasonic sensors. That effectively turned Tesla's global fleet into a valuable source of data.",
+      "excerpt": "Image source: Tesla In February 2020, Tesla Director of Artificial Intelligence Andrej Karpathy ... By comparison, Alphabet's Waymo stated it had over 20 million miles of data in March 2020 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05",
-      "originalUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05",
+      "webUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251",
+      "originalUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -916,7 +1011,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T04:00:00-07:00",
+      "publishedDateTime": "2021-05-05T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -1354,92 +1449,6 @@
         "name": "techxplore.com",
         "domain": "techxplore.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-driverless-taxi-service-rolls-out-in-beijing.md",
-      "title": "Driverless taxi service rolls out in Beijing",
-      "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing",
-      "originalUrl": "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2021/05/932/470/driverless-taxis.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing.amp",
-      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/driverless-taxi-service-rolls-out-in-beijing.amp",
-      "publishedDateTime": "2021-05-02T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 5 NY",
-        "domain": "fox5ny.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing",
-      "excerpt": "Baidu Rolls Out Paid Driverless Taxi Service in Beijing ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth riding experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
-      "originalUrl": "https://www.usnews.com/news/business/articles/2021-05-02/baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-02T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

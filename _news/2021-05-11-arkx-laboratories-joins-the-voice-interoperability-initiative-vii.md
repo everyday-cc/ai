@@ -1,25 +1,23 @@
 ---
 category: news
 title: "ArkX Laboratories Joins The Voice Interoperability Initiative (VII)"
-excerpt: "ArkX Laboratories, a leading provider of Voice Capture Technology, joins Amazon, Dolby, Facebook, and more than 30 other leading technology companies as a member of the"
-publishedDateTime: 2021-05-11T15:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/05/b21062705/arkx-laboratories-joins-the-voice-interoperability-initiative-vii"
-webUrl: "https://www.benzinga.com/pressreleases/21/05/b21062705/arkx-laboratories-joins-the-voice-interoperability-initiative-vii"
-ampWebUrl: "https://amp.benzinga.com/amp/content/21062705"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21062705"
+excerpt: "ArkX Laboratories, a leading provider of Voice Capture Technology, joins Amazon, Dolby, Facebook (News - Alert), and more than 30 other leading technology companies as a member of the Voice Interoperability Initiative (VII) Group."
+publishedDateTime: 2021-05-11T16:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/05/11/9366698.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/05/11/9366698.htm"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "WxsTKSHOO9dAnJocz65QpFlN8ONvmLq+kzfmE+0X7bW9cnBwtoDByHlr/bC2RFD7sEtYJmUEAk8iwrOs373A1wE1FrsQ2GKT98j2Dr77DXvT09iUra1ENidreMN/Scm42kUGhLzF91rmMmzB+c4SoL4NuPiK9BrevUsgGTt+TOY3aKj5HUSTTdqfVaf4d+UQKqvDay7n7nOMdXr5RrKl0IlaiNT3Y65GaIVn0jND03ArUkCVCdhcRcxqOfIJRnS0RGr0fW4lQWv7Yo4dp+MWrYiT9sGsgSh1llKZGtH3SnJIjFD2Tk52wPno6N3Rmwe9u729li5kc+FIWkm0DToekHm9EUKFp5EeX0/ZbTotNd0=;pFUILHOMyHVFHOJo/SayRQ=="
+secured: "Smz2m8A1/3wDG1l6MLaymI04la9o9ckdDvPIOAZEGtHsmWldX8Q9M7eiVF+Gr7DDbhXulnsOzvZJX4fARpVJkSdRuqmDebZD+o4pA+7eRo2e1dsmFYlEykqX6uQiszgduv1rgIf+XMRkUSCnEEOsTQ6GvBHNJzl66VSChYmq806A4TQyuBVRj14RNNImSGF3TbEIaD9CeTgwtLkOyAGkMhycIfnSxfMAk/4ddDDnP08XWv3NMhkSWLbT6UGEYtCxpiIOczOgTu6eAR4kACr6w9mZDn50a1xurrqZ5TSx0OvXudvV+zH89LmWtSkmTOBpNgxzmdtXVGfS6qVO4LSF1vKAA2lmv8V2To/4uqk4r2k=;Ec0plqpqjlKVDtNXx1k0lA=="
 ---
 

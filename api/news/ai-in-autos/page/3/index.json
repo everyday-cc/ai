@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-27-baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more.md",
+      "title": "Baidu’s self-driving car business has gone seven years without making money; it says it’s ready to stick with it for seven more",
+      "excerpt": "Chinese internet giant Baidu has been developing self-driving technologies for seven years without making money, but the company is committed enough to the future of transport to keep going for at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/05/baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/06/05/baidus-self-driving-car-business-has-gone-seven-years-without-making-money-it-says-its-ready-to-stick-with-it-for-seven-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/06/05/708543.jpg",
+          "width": 1240,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021.md",
+      "title": "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021",
+      "excerpt": "DeepMap, Inc., a global leader in autonomous driving technology, today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to transform industries.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-1030347677",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-of-2021-1030347677",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1497096/James_Wu_DeepMap.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m.md",
       "title": "Lyft sells self-driving unit to Toyota’s Woven Planet for $550M",
       "excerpt": "Ride-hailing company Lyft has sold off its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million, the latest in a string of acquisitions spurred by the cost and lengthy timelines to commercialize autonomous vehicle technology.",
@@ -1291,83 +1386,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-baidu-stock-3-reasons-to-stay-away.md",
-      "title": "Baidu Stock: 3 Reasons To Stay Away",
-      "excerpt": "As for the autonomous technology, Baidu has certainly made progress. The Apollo Self Driving (ASD) system was able to snag partnerships with ten local and multinational automakers. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/",
-      "originalUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/amp/",
-      "publishedDateTime": "2021-04-19T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens.md",
-      "title": "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips. Shares of Chinese search giant Baidu (NASDAQ:BIDU) look to have finally found a floor after a sharp selloff. BIDU s",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-2021-04-19",
-      "originalUrl": "https://www.nasdaq.com/articles/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-2021-04-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

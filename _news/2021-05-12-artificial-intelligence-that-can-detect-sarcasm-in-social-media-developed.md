@@ -59,21 +59,21 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
-    excerpt: "Computer science researchers at the University of Central Florida have developed a sarcasm detector. Social media has become a dominant form of communication for individuals, and for companies looking to market and sell their products and services."
-    publishedDateTime: 2021-05-07T15:14:00Z
-    webUrl: "https://techxplore.com/news/2021-05-artificial-intelligence-sarcasm-social-media.html"
-    ampWebUrl: "https://techxplore.com/news/2021-05-artificial-intelligence-sarcasm-social-media.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-artificial-intelligence-sarcasm-social-media.amp"
+  - title: "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19"
+    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
+    publishedDateTime: 2021-05-12T09:00:00Z
+    webUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 51
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/datascience.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-3.jpg"
+        width: 1618
+        height: 1400
         isCached: true
   - title: "University Hospitals to begin using artificial intelligence to intubate COVID-19 patients"
     excerpt: "The AI algorithm helps medical professionals accurately insert ventilators in patients suffering from Coronavirus."
@@ -124,6 +124,6 @@ related:
       domain: webindia123.com
     quality: 11
 
-secured: "1WSlQacKUV51k5qC28mpwb7joD8NB6qcPnfLzpUxQUGNIue5HaulLzqYPURB44S9APDv7b4rIvPjG7PD5eYNeLp1YgdmybTsYnn/fICIZChdQ1uCrRxyZ2rShHimAPKjoBr+OLu1AdvW2mShkyi8wTsjQBozx05MYEsFrbB7KJqZTRwo7vFBSQHZc5ecO42KoW8Ir4MUJ6RbeF13RG7MdjsoKYe0J3qcq9v2KOzrL7sINii/xG5WrpsA5nEqQTomhJD6DybzSyk0QPnNTWYWiSEZ0rDrHYRRkIXdPTZxPsRCjYAAAf47iuEBK67spMjTeClOkaAyHLfx2SJkrlDQw9dzKx+lX7INzz/acOPOMKY=;eSudni2kq/iinb7UAPrSxg=="
+secured: "V9ipSbh6NLMXThKqwm5YgcaWHRSrq4tCuSZu1D4nSMaAVF3YtWO/er68onQqBBPm/OU8b1zz3MFmuQ6jlOx+EDqXv06NN4ypFQWmv+TQaFUf5AlxXKq828hykfpLy0a2cBSo/rOWCQLjqR+XstWGxnkPfJU3DjoM6xwDW1F+eSgjdQ1d5tjDOO1FbZ4ABu57Vs0e25ROMXnckhkGwtoymEe/MBFYQ62nohy84LyPtpQ6gs7e18woz3E8gZyb6DH9VB5Bdy1aa6xa9keUWlbLMgRSAPOZhJoxIaMVg1FRFUVI2SZkGB2MMNvfwEouzcDwgAFUswtEleNL2CF00ivmFd92eT9/GUyBE7Lc3nCYNgl/nGiQasn0XQw4jFCGrZyg1Avxf9wtl1WmF8LQIaO2WNhY0R2E6uw0MTbYk4gFs72cWge4cdJwAtCbvVCoYk52/IgmdJQhuVp/A+9JatN5E934Q9PxhEaO33wgkv3nIGDOdbM2iId0OAw61LVbguZqzRd50Y5bNci+Vpjol9/k6w==;KNei8aitMcmeTytzlypEpw=="
 ---
 

@@ -2,6 +2,172 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-03-24-soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network.md",
+      "title": "Soft-bodied Robots More Efficient With New Deep Learning Neural Network",
+      "excerpt": "Alexander Amini is co-lead author of the research along with Andrew Spielberg, both PhD students in MIT Computer Science and Artificial Intelligence Laboratory. The research was published in IEEE Robotics and Automation Letters with other co-authors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network/",
+      "originalUrl": "https://www.unite.ai/soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/03/artificial-intelligence-2228610__480.jpg",
+          "width": 767,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-artificial-intelligence-ai-robots-market-is-set-to-develop-new-growth-story-abb-fanuc-kuka-amazon.md",
+      "title": "Artificial Intelligence (AI) Robots Market is Set to Develop New Growth Story | ABB, Fanuc, Kuka, Amazon",
+      "excerpt": "The latest research on Global Artificial Intelligence AI Robots Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
+      "originalUrl": "https://www.openpr.com/news/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/3/U324252805_g.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
+      "publishedDateTime": "2021-03-24T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-apple-tightens-partner-security-rules-forbids-facial-recognition-of-its-employees.md",
+      "title": "Apple tightens partner security rules, forbids facial recognition of its employees",
+      "excerpt": "New rules for manufacturers working with Apple reportedly include severe limits on biometric scans of Apple staff on premises, yet encourages greater use of security cameras for factory workers.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees",
+      "originalUrl": "https://appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/40997-79270-000-Facial-scanning-xl.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees/amp/",
+      "publishedDateTime": "2021-03-24T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-artificial-intelligence-healthcare-arkq-is-investing-in-the-future.md",
+      "title": "Artificial Intelligence. Healthcare. ‘ARKQ’ Is Investing in the Future",
+      "excerpt": "Artificial intelligence (AI) is seen driving a new breed of innovation in the healthcare arena. “Digital tools can help. In just one example, clinicians around the world are usi",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp",
+      "publishedDateTime": "2021-03-24T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-orange-forms-ai-data-ethics-council.md",
       "title": "Orange forms AI, data ethics council",
       "excerpt": "Orange continued efforts around defining ethical principles for use of data and AI, creating an advisory body comprised of 11 independent field experts to oversee its implementation of related technologies.",
@@ -983,161 +1149,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-how-3d-machine-learning-is-transforming-the-healthcare-industry.md",
-      "title": "How 3D Machine Learning is Transforming the Healthcare Industry",
-      "excerpt": "Paul Powers, CEO of Physna and Thangs, joins ‘Cheddar Reveals’ to discuss the advantages of 3D machine learning, and how it’s transforming the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry",
-      "originalUrl": "https://cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.chdrstatic.com/media/8b190c38-f697-45a3-97ff-467278ac1987.png?width=1200&source=backend&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry.amp",
-      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry.amp",
-      "publishedDateTime": "2021-03-23T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cheddar",
-        "domain": "cheddar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-announcing-aws-media-intelligence-solutions.md",
-      "title": "Announcing AWS Media Intelligence Solutions",
-      "excerpt": "Today, we’re pleased to announce the availability of AWS Media Intelligence (AWS MI) solutions, a combination of services that empower you to easily integrate AI into your media content workflows. AWS MI allows you to analyze your media, improve content engagement rates, reduce operational costs, and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-aws-media-intelligence-solutions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-aws-media-intelligence-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-metistream-and-carilion-clinic-partner-to-improve-surgical-quality-using-natural-language-processing-and-artificial-intelligence.md",
-      "title": "MetiStream and Carilion Clinic Partner to Improve Surgical Quality Using Natural Language Processing and Artificial Intelligence",
-      "excerpt": "\"Carilion physicians know the ins and outs of reviewing surgical quality data. We are experts in Natural Language Processing (NLP) and AI,\" said Chiny Driscoll, CEO and founder of MetiStream. \"Together, we're the right team to address the long-standing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/metistream-and-carilion-clinic-partner-to-improve-surgical-quality-using-natural-language-processing-and-artificial/article_bfb97e71-d25a-5869-bba3-c4d94bf95979.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/metistream-and-carilion-clinic-partner-to-improve-surgical-quality-using-natural-language-processing-and-artificial/article_bfb97e71-d25a-5869-bba3-c4d94bf95979.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-global-artificial-intelligence-in-construction-market-is-projected-to-reach-the-valuation-of-usd-2317-million-by-the-year-2026.md",
-      "title": "Global Artificial Intelligence in Construction Market is projected to reach the valuation of USD 2,317 million by the year 2026",
-      "excerpt": "According to BlueWeave Consulting, the Global Artificial Intelligence in Construction Market is expected to grow at a significant rate during the forecast period. The Global Artificial Intelligence in Construction Market is projected to reach the valuation of USD 2,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/24/home-physical-therapy-instrument-market-sales-revenue-consumption-growth-rate-by-top-manufacturers-like-north-america-eu-china-japan-southeast-asia-etc/?random-post=1",
-      "originalUrl": "https://ksusentinel.com/2021/03/24/home-physical-therapy-instrument-market-sales-revenue-consumption-growth-rate-by-top-manufacturers-like-north-america-eu-china-japan-southeast-asia-etc/?random-post=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

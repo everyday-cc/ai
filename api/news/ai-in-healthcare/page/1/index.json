@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-12-artificial-intelligence-ai-market-worth-3096-billion-by-2026.md",
+      "title": "Artificial Intelligence (AI) Market worth $309.6 billion by 2026",
+      "excerpt": "According to a new market research report Artificial Intelligence Market by Offering Hardware Software Services Technology Machine Learning Natural Language Processing Deployment Mode Organization Size Business Function Law Security Vertical and Region Global Forecast to 2026 published by MarketsandMarkets the",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2283574/artificial-intelligence-ai-market-worth-309-6-billion",
+      "originalUrl": "https://www.openpr.com/news/2283574/artificial-intelligence-ai-market-worth-309-6-billion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/5/U512354945_g.jpg",
+          "width": 572,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2283574/artificial-intelligence-ai-market-worth-309-6-billion",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283574/artificial-intelligence-ai-market-worth-309-6-billion",
+      "publishedDateTime": "2021-05-12T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-eliminating-bias-from-healthcare-ai-critical-to-improve-health-equity.md",
       "title": "Eliminating bias from healthcare AI critical to improve health equity",
       "excerpt": "Artificial intelligence (AI)-driven healthcare has the potential to transform medical decision-making and treatment, but these algorithms must be thoroughly tested and continuously monitored to avoid unintended consequences to patients.",
@@ -45,21 +88,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-11-fda-grants-breakthrough-device-designation-to-ai-based-focal-therapy-system.md",
-      "title": "FDA grants breakthrough device designation to AI-based focal therapy system",
-      "excerpt": "The targeted focal laser ablation system is intended to be an office-based treatment for localized prostate cancer delivered under local anesthesia.",
+      "path": "_news/2021-05-12-ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation.md",
+      "title": "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation",
+      "excerpt": "Avenda Health said its focal therapy system uses artificial intelligence to treat localized prostate cancer in a urologist’s office under local anesthesia.",
       "sourceUrl": null,
-      "webUrl": "https://www.urologytimes.com/view/fda-grants-breakthrough-device-designation-to-ai-based-focal-therapy-system",
-      "originalUrl": "https://www.urologytimes.com/view/fda-grants-breakthrough-device-designation-to-ai-based-focal-therapy-system",
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.sanity.io/images/0vv8moc6/urologytimes/33bac5b4b295369649455c6e7f13d51c0b268650-500x218.jpg?auto=format",
-          "width": 500,
-          "height": 218,
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_May112021at124830PM.png",
+          "width": 770,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,11 +112,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T17:00:00-07:00",
+      "publishedDateTime": "2021-05-11T10:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "urologytimes",
-        "domain": "urologytimes.com",
+        "name": "MD&M East",
+        "domain": "mddionline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -763,34 +806,25 @@
     },
     {
       "path": "_news/2021-04-30-lantheus-grants-allegheny-health-network-exclusive-rights-for-the-use-of-its-microbubbles-in-combination-with-ultrasound-assisted-gene-therapy.md",
-      "title": "Lantheus Grants Allegheny Health Network Exclusive Rights for the Use of its Microbubbles in Combination with Ultrasound Assisted Gene Therapy for the",
-      "excerpt": "Lantheus Holdings, Inc. (NASDAQ: LNTH) (Lantheus), an established leader and fully integrated provider of innovative imaging diagnostics, targeted therapeutics and artificial intelligence solutions to Find,",
+      "title": "Lantheus Grants Allegheny Health Network Exclusive Rights for the Use of its Microbubbles in Combination with Ultrasound Assisted Gene Therapy for the Development of a Proposed ...",
+      "excerpt": "Lantheus Holdings, Inc. (NASDAQ: LNTH) (Lantheus), an established leader and fully integrated provider of innovative imaging diagnostics, targeted the",
       "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=461697",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=461697",
+      "webUrl": "https://www.businesswire.com/news/home/20210430005074/en/Lantheus-Grants-Allegheny-Health-Network-Exclusive-Rights-for-the-Use-of-its-Microbubbles-in-Combination-with-Ultrasound-Assisted-Gene-Therapy-for-the-Development-of-a-Proposed-Treatment-for-Xerostomia",
+      "originalUrl": "https://www.businesswire.com/news/home/20210430005074/en/Lantheus-Grants-Allegheny-Health-Network-Exclusive-Rights-for-the-Use-of-its-Microbubbles-in-Combination-with-Ultrasound-Assisted-Gene-Therapy-for-the-Development-of-a-Proposed-Treatment-for-Xerostomia",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-30T05:30:00-07:00",
+      "publishedDateTime": "2021-04-30T09:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1378,49 +1412,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-ai-caught-a-hidden-problem-in-one-patients-heart-can-it-work-for-others.md",
-      "title": "AI caught a hidden problem in one patient’s heart. Can it work for others?",
-      "excerpt": "Casey covers the use of artificial intelligence in medicine and its underlying ... to democratize medicine with data 5 virtual physical therapy startups to watch 5 virtual physical therapy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2021/04/26/artificial-intelligence-afib-mayo-clinic/",
-      "originalUrl": "https://www.statnews.com/2021/04/26/artificial-intelligence-afib-mayo-clinic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2021/04/042321-PETER-MAERCKLEIN-08812-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

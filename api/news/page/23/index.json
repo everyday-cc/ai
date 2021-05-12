@@ -2,6 +2,197 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-04-21-fbi-used-facial-recognition-to-identify-a-capitol-rioter-from-his-girlfriends-instagram-posts.md",
+      "title": "FBI used facial recognition to identify a Capitol rioter from his girlfriend’s Instagram posts",
+      "excerpt": "The FBI says it used facial recognition technology to track down and arrest an individual suspected of taking part in the US Capitol riots earlier this year. The case, which was first reported by The Huffington Post,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/4/21/22395323/fbi-facial-recognition-us-capital-riots-tracked-down-suspect",
+      "originalUrl": "https://www.theverge.com/2021/4/21/22395323/fbi-facial-recognition-us-capital-riots-tracked-down-suspect",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/21bm0QFzvWH99KP5t_dHCx60JnU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69161462/acastro_180730_1777_facial_recognition_0003.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/21/22395323/fbi-facial-recognition-us-capital-riots-tracked-down-suspect",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/21/22395323/fbi-facial-recognition-us-capital-riots-tracked-down-suspect",
+      "publishedDateTime": "2021-04-21T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-master-the-science-of-machine-learning-with-these-training-classes.md",
+      "title": "Master The Science Of Machine Learning With These Training Classes",
+      "excerpt": "Our interactions in (and out) of the tech world all rely heavily on machine learning (ML), the science of getting computers and devices to mimic human be",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
+      "originalUrl": "https://www.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/8c53767e-52ed-5884-8538-ff5b3687daec/default-1618998050-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
+      "publishedDateTime": "2021-04-21T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding.md",
+      "title": "Orca AI, which puts computer vision onto cargo ships, raises $13M Series A funding",
+      "excerpt": "Tel Aviv’s Orca AI, a computer vision startup that can be retrofitted to cargo ships and improve navigation and collision avoidance, has raised $13 million in a Series A funding, taking its total raised to over $15.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/",
+      "originalUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/yarden-7089.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/",
+      "publishedDateTime": "2021-04-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-meituan-raises-10-bln-for-self-driving-cars-drone-delivery.md",
+      "title": "Meituan raises $10 bln for self-driving cars, drone delivery",
+      "excerpt": "Chinese food delivery giant Meituan The Beijing-based firm, China’s largest food delivery platform, said in a filing to the Hong Kong stock exchange that it sold 187 million additional shares in a top-up placement at 273.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/17/55/03/20893889/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php",
+      "publishedDateTime": "2021-04-21T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-global-machine-learning-software-market-research-report-2021-microsoft-google-tensorflow-kount-warwick-analytics.md",
       "title": "Global Machine Learning Software Market Research Report 2021 | Microsoft, Google, TensorFlow, Kount, Warwick Analytics",
       "excerpt": "A recent research study on the global Machine Learning Software market presented by Zeal Insider offers a detailed analysis of key market players, market revenue, market segments, share, and geographic regions.",
@@ -988,169 +1179,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-visual-object-recognition-is-facilitated-by-temporal-community-structure.md",
-      "title": "Visual object recognition is facilitated by temporal community structure.",
-      "excerpt": "Humans and others primates are highly attuned to temporal consistencies and regularities in their sensory environment and learn to predict such statistical structure. Moreover, in several instances, the presence of temporal structure has been found to facilitate procedural learning and to improve task performance.",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/33858967",
-      "originalUrl": "https://europepmc.org/article/MED/33858967",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-speech-and-voice-recognition-market-what-are-the-driving-factors-and-opportunities-of-the-market.md",
-      "title": "Speech And Voice Recognition Market | What Are The Driving Factors, And Opportunities Of The Market?",
-      "excerpt": "The present research report gives users access to complete study of the present regulatory scenario as well as its impact on the growth of Speech And Voice Recognition Market in different geographical regions.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/20/speech-and-voice-recognition-market-what-are-the-driving-factors-and-opportunities-of-the-market/",
-      "originalUrl": "https://ksusentinel.com/2021/04/20/speech-and-voice-recognition-market-what-are-the-driving-factors-and-opportunities-of-the-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ibb.co/d2ydV7S/Researchmoz-us-421.jpg",
-          "width": 624,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-tesla-autopilot-critics-say-deadly-crash-is-reminder-that-self-driving-cars-arent-a-reality-yet.md",
-      "title": "Tesla Autopilot critics say deadly crash is reminder that self-driving cars aren't a reality yet",
-      "excerpt": "The perception that self-driving cars can really operate themselves without driver involvement is worrying automotive watchdogs, who say that some Americans have grown dangerously confident in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/cars/2021/04/20/tesla-autopilot-crash-what-can-cant-self-driving-cars-do/7283027002/",
-      "originalUrl": "https://www.usatoday.com/story/money/cars/2021/04/20/tesla-autopilot-crash-what-can-cant-self-driving-cars-do/7283027002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7283027002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7283027002",
-      "publishedDateTime": "2021-04-20T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak-matrix-assessment-2021.md",
-      "title": "Everest Group Names Automation Anywhere a Leader in the Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment 2021",
-      "excerpt": "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/13/e1315a66-88de-5c0c-ae7d-2d6c5ab1d280/60880f21240e9.image.jpg?resize=1200%2C442",
-          "width": 1200,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

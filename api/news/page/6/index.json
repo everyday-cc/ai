@@ -2,6 +2,214 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-05-woolaroo-a-new-tool-for-exploring-indigenous-languages.md",
+      "title": "Woolaroo: a new tool for exploring indigenous languages",
+      "excerpt": "“Our dictionary doesn’t have a word for shoe” my Uncle Allan Lena said, so when kids ask him what to call it in Yugambeh, he’ll say “jinung gulli” - a foot thing.Uncle Allan Lena is a frontline worker in the battle to reteach the Yugambeh Aboriginal language to the children of southeast Queensland, Australia,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/",
+      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/woolaroo_yugambeh.max-1300x1300.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/amp/",
+      "publishedDateTime": "2021-05-05T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-carnegie-mellon-researchers-trained-ai-to-simulate-our-universe-on-a-gpu.md",
+      "title": "Carnegie Mellon researchers trained AI to simulate our universe on a GPU",
+      "excerpt": "Simulating the universe is difficult. There are, after all, potentially infinite variables to consider. Scientists typically use supercomputers to crunch data at the cosmological level, but a team of",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/carnegie-mellon-researchers-trained-ai-to-simulate-our-universe-on-a-gpu",
+      "originalUrl": "https://thenextweb.com/news/carnegie-mellon-researchers-trained-ai-to-simulate-our-universe-on-a-gpu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F10%2Fspacefoam.jpg&signature=8bcfb9474ea9432765269ecec6da5afb",
+          "width": 1212,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-a-robot-that-can-help-you-untangle-your-hair.md",
+      "title": "A robot that can help you untangle your hair",
+      "excerpt": "Researchers from MIT and Harvard have developed a robotic arm setup with a sensorized soft brush. The robot is equipped with a camera that helps it “see” and assess curliness, so it can plan a delicate and time-efficient brush-out.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505",
+      "originalUrl": "https://news.mit.edu/2021/robot-can-help-you-untangle-your-hair-0505",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202104/MIT-RoboWig-Sideview_0.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages.md",
+      "title": "Speech recognition system trains on radio archive to learn Niger Congo languages",
+      "excerpt": "Researchers at Stanford and GNCode created a new dataset and model trained from radio archives of 'low-resource' African languages.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/05/speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages/",
+      "originalUrl": "https://venturebeat.com/2021/05/05/speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/03/speech-e1523990563404.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/05/speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/05/speech-recognition-system-trains-on-radio-archive-to-learn-niger-congo-languages/amp/",
+      "publishedDateTime": "2021-05-05T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-a-quick-introduction-to-microsoft-azure-purview.md",
       "title": "A Quick Introduction to Microsoft Azure Purview",
       "excerpt": "One of the newest solutions aiming to ease these orchestration woes is Microsoft Azure Purview, a cloud platform-as-a-service (PaaS) that provides a unified view of data sources across an organization.",
@@ -288,6 +496,50 @@
       ]
     },
     {
+      "path": "_news/2021-05-05-rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis.md",
+      "title": "Rackspace Technology Works with McChrystal Group to Leverage Machine Learning for Delivery of High Value Data for Survey Analysis",
+      "excerpt": "The solution uses Amazon Athena, AWS Glue, Amazon S3, Amazon SageMaker, and Amazon Translate. The automated ML natural language processing solution enables the company to replace a time-intensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis-1030391663",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis-1030391663",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-5-entry-level-marketing-projects-for-ai-newbies.md",
       "title": "5 Entry-Level Marketing Projects for AI Newbies",
       "excerpt": "Marketing teams are increasingly turning to artificial intelligence (AI) to improve results, with marketers investing over $227 million in AI-based technologies in 2018 alone, according to Statista. Yet many companies have yet to use AI or have just started exploring it recently.",
@@ -328,41 +580,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis.md",
-      "title": "Rackspace Technology Works with McChrystal Group to Leverage Machine Learning for Delivery of High Value Data for Survey Analysis",
-      "excerpt": "Rackspace Technology ®, a leading end-to-end multicloud technology solutions company, announced today its relationship with McChrystal Group, a renowned advisory services and leadership development firm that helps organizations identify opportunities to improve their performance so they can operate optimally in today’",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-0",
-      "originalUrl": "https://www.nasdaq.com/press-release/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -984,205 +1201,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-the-role-of-ai-in-supply-chain-technology-and-corporate-responsibility.md",
-      "title": "The Role Of AI In Supply Chain Technology And Corporate Responsibility",
-      "excerpt": "Incentives need to be created in order to guide and prod companies to design and create supply chains that are addressing issues beyond the economic incentives of shareholders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/05/the-role-of-ai-in-supply-chain-technology-and-corporate-responsibility/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/05/the-role-of-ai-in-supply-chain-technology-and-corporate-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D56%26cropY2%3D3431",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/05/the-role-of-ai-in-supply-chain-technology-and-corporate-responsibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/05/05/the-role-of-ai-in-supply-chain-technology-and-corporate-responsibility/amp/",
-      "publishedDateTime": "2021-05-05T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-10-business-models-that-reimagine-the-value-creation-of-ai-and-ml.md",
-      "title": "10 Business Models That Reimagine The Value Creation Of AI And ML",
-      "excerpt": "Every day we read about some new AI breakthrough. AI is omnipresent in our everyday lives whether we use mobile devices, wearables or voice assistants or stream our favorite shows. Enterprises control the epicenter of the AI economy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60915bc5768c20e9478f008b%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/05/10-business-models-that-reimagine-the-value-creation-of-ai-and-ml/amp/",
-      "publishedDateTime": "2021-05-05T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-how-machine-learning-can-unlock-cures-for-tomorrows-diseases.md",
-      "title": "How Machine Learning Can Unlock Cures For Tomorrow's Diseases",
-      "excerpt": "We take advances in machine learning for granted in our daily lives, but if we apply similar data-driven thinking in drug discovery, we could unlock hidden patterns in biological data that will allow us to understand diseases and produce cures thought previously unreachable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/how-machine-learning-can-unlock-cures-for-tomorrows-diseases/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/how-machine-learning-can-unlock-cures-for-tomorrows-diseases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609159f654c6ad719f24438d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/how-machine-learning-can-unlock-cures-for-tomorrows-diseases/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/05/how-machine-learning-can-unlock-cures-for-tomorrows-diseases/amp/",
-      "publishedDateTime": "2021-05-05T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-deepmind-extends-hunt-for-the-worlds-best-ai-researchers-to-toronto.md",
-      "title": "DeepMind extends hunt for the world’s best A.I. researchers to Toronto",
-      "excerpt": "The company posted a job ad for a research scientist in Toronto on its website last week and confirmed that it plans to build a small team in the city.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/companies-get-creative-in-hunt-for-ai-talent-11620302400",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/deepmind-extends-hunt-for-the-world-e2-80-99s-best-ai-researchers-to-toronto/ar-BB1gnHIb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-334603/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wsj.com/articles/companies-get-creative-in-hunt-for-ai-talent-11620302400",
-        "domain": "wsj.com/articles/companies-get-creative-in-hunt-for-ai-talent-11620302400",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://scitechdaily.com/pushing-computing-to-the-edge-with-innovati
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/pushing-computing-to-the-edge-with-innovative-microchip-design-to-make-ai-accessible-in-real-time/amp/"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: SciTech Daily
@@ -28,49 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Changing The World With Breakthrough AI Innovation In The Age Of Regulation And Cancel Culture"
-    excerpt: "World in 2021 has seemingly gone mad with censorship, over regulations, and so called “cancel  culture. ”  So, how can disruptive startups circumvent these new developments, and continue to innovate and create economic growth with AI?"
-    publishedDateTime: 2021-05-07T17:02:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/07/changing-the-world-with-breakthrough-ai-innovation-in-the-age-of-regulation-and-cancel-culture/amp/"
+  - title: "How social media and AI enable companies to track brand reputations in real-time"
+    excerpt: "Researchers from University of Maryland, North Carolina State University, National Taiwan University, Oxford University, Kings College London, and Perceptronics Solutions, Inc. published a new paper in the Journal of Marketing that examines how artificial intelligence (AI)-based text analysis of social media can monitor the extent to which brand reputation rises and falls over time."
+    publishedDateTime: 2021-05-12T07:28:00Z
+    webUrl: "https://phys.org/news/2021-05-social-media-ai-enable-companies.html"
+    ampWebUrl: "https://phys.org/news/2021-05-social-media-ai-enable-companies.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-social-media-ai-enable-companies.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60956c575c3928d3e701c7a3%2F0x0.jpg"
-        width: 1200
-        height: 759
-        isCached: true
-  - title: "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation"
-    excerpt: "Avenda Health said its focal therapy system uses artificial intelligence to treat localized prostate cancer in a urologist’s office under local anesthesia."
-    publishedDateTime: 2021-05-11T17:01:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
+      name: Phys.org
+      domain: phys.org
     quality: 54
     images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_May112021at124830PM.png"
-        width: 770
-        height: 400
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/brandcompani.jpg"
+        width: 1500
+        height: 1198
         isCached: true
-  - title: "Onit Expands ReviewAI with Smart Checklists, the Latest Artificial Intelligence Innovation ..."
-    excerpt: "Integrated with Onit’s contract lifecycle management technology, ReviewAI and its Smart Checklists dramatically accelerate contract management. “Lawyers want to reduce tasks that are time-consuming and repetitive so they can focus on more strategic work."
-    publishedDateTime: 2021-05-11T15:07:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-6025a59e08e20040cb523c65e6d6c385"
+  - title: "DARPA eyes artificial intelligence (AI) to embedded computing in high-end video processing at the edge"
+    excerpt: "IP2 seeks the accuracy of deep neural networks in power-constrained sensing at the edge by developing AI algorithms matched to in-pixel mesh processing."
+    publishedDateTime: 2021-05-10T07:31:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14202893/artificial-intelligence-ai-video-processing-embedded-computing"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 40
+      name: Military
+      domain: militaryaerospace.com
+    quality: 38
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/05/16x9/image_analysis_10_May_2021.60957eac67890.png?auto=format&fit=max&w=1200"
+        width: 549
+        height: 309
         isCached: true
 
 secured: "x4YYtRm31F1I93lHJn0q5Eo12pxfn8LbL2l1ntaXmNRcPniZ8vLMTwToYwSTesuDI25UDVaM34J8wdbHFqBUAkhwYuUoh3RQZtl3Qn2D9oOYz2BlD3Xm03KN3nw3B4mmIMEXsu1x2RTHOq8xBzRWrXpAVYvyzXETnm3cziPcqX1vLUGAiq/5KGyC39VEl0iBNIRgCQCdWY9ew3kM/pSqSHngDIK0VdAkX5lyA17kTABZbVR8JWGPBw6CrSla7jWb7bcMByay3T6QlVjy1MDJO/Au4o0tk+c/yoWiXT6cjT0okvxlrRQ0lEJe8r9gV97QTyvMWwBV0NhAAuginlYnNsU6QHYg+y52ztXUD5VUdZeIGbWJ2RB82NxVUbsO6fsUs+q6OmzedH7d5iPBSuLzizD+0sAgB42UJzSwzEq2HjX2L4NPP00O87hchTj/5xPj6oKii+xprVtsEZmG1iAyqujZLQZYxCeuaMd7UtSwAA9puAwBek6qDetacDlcjBXt076i6q5njl650MuDO8ZnRQ==;tsmQqchYnJekoB097LpMPA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2021/05/07/ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Why subscription services could be the future of AI"
-    excerpt: "The Artificial Intelligence revolution (AI) is upon us. From being the stuff of relatively recent science fiction to being a commonplace of online interaction (think customer service chatbots and targeted advertising),"
-    publishedDateTime: 2021-05-07T16:06:00Z
-    webUrl: "https://techbullion.com/why-subscription-services-could-be-the-future-of-ai/"
-    ampWebUrl: "https://techbullion.com/why-subscription-services-could-be-the-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-subscription-services-could-be-the-future-of-ai/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/05/subscription-services-ai.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ShGCkgxy6NOzyg7GiUawER3HlSdKS71nYLm0BY4uPBSmnAEJSjd4DFZDVHrkWDwUEocb8kE1DGc34E+NXRSUUklOPzn/cpqjQxxHVU0VNkN78uDHXbHt2PDYuzlU/LNdUHVOwR1W29B0Oj0632UKj8omhCN9HND9eYmJhjmyHlOBoOCRWEQVmLg9mza+i6dsHvWQy7/9+fSABcfyHlgFb4z7HCfK2PLzsY9K5HVy7ttgZNS4OvVdhfhvsv8qnu9xmW5+uHpZGFkEPOkTYw/bpyv2mDBIFCzJitdm2ExNIjhM0ewEuS3SZ5kCQZPYsaJK74LiIjuTzUSZHJr/xeQDIqS9omwBS7nQPfn9dI1GePy+72S/Kyu+2DUpqLWbC3u9Kkg6jXJxlCuk/TwFjaMtKwY7AyZplRxSfuY3R22TLXei5mzJPkBWPZ4kmYEbG9PDUhZEU2FoW5/cG8lC9Pi07E8bwayWLJMduM/pZVq0XqrTkLtTOKiRrp+IT67dvvLrZAMFw8Tskawkmlp/DFgqtg==;61Gt94AWh5w9xv5yBZL3iQ=="
 ---
