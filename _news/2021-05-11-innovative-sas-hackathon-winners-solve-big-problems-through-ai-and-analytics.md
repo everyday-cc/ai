@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS® Viya® advanced analytics, Microsoft Azure,"
-publishedDateTime: 2021-05-11T15:56:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d"
-webUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d"
+excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the"
+publishedDateTime: 2021-05-11T14:53:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
+webUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg?p=facebook"
+    width: 2699
+    height: 1414
     isCached: true
 
 related:
@@ -100,6 +100,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fjNMvQtcXu4cxkfWf/L8hJK4XQLfKguQ0iQ2GR4FPpU2pd6mPs8TOo/MCjomwL4menrzkAKpEqK2BdVPGzhTTWnPmYAoBhi2pUCL/RMEAGH+pHoSpEyzVmGyTcXFhAetcGm8VWlfW2hMn49v8wG7Ed4IEzLf5VzI/67cG9FUc0uGOQZyx+BlVR3PDZAxyvln3sEBDldhNR791Q/xWtiusTJrvoy6YOxQtnzF4iwFf842dxzRMBh662OYEESBfU0ntJgBd4yxFjJ2xUS9MKUmc37aIQUwBp0wrWqAUsaFgljHknaKyAysjZ+/Zios+CySBGNrofnECTbncmaD4okhVYyyZVUVJUOJwsug8DJYEEU=;QIXCcW6opoGRle6m8g8XjA=="
+secured: "ulx4CG1EqjxoWa7SI0ldElm1OCyFM3yHYb/9kdfVtV/4XugijHxEGuXUaKSmncGijFEOkJlGaQqhqBZ4n1I1tDNS+V/3HNRvzsKEFMz2Zoy72Ht1g4D9EcHsR5Ylbei+XU4sMFSVNQ8ehayvVDl1/GGRwW3cZkWMgFh7A2ZBRFkfaR6QHq2eYpKUKaQR90MLyaRUrvDKsMb4a08vn/tW2ZcZ1KFstgNZyWzFzhUN4y0CQwzvMDYqJn6Vk7l2gxdLYRnScm9dPt2cJxXR+/NlVbrYlWKCHx7AllE5RAIKWfRqOsScpOmiIheOKtcD3iheH5weRusadb/HmLmB0F+S6u7jSWmqvcw9iQTjCwqwFII=;/K7YD4vVReFYo8QUtfccww=="
 ---
 

@@ -53,7 +53,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -146,33 +146,24 @@
     {
       "path": "_news/2021-05-06-ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference.md",
       "title": "NCFA Reveals Speakers and Agenda for Online FFCON21: Fintech and Financing Conference",
-      "excerpt": "Fintech trends and innovations paving the way to mass adoption and scale TORONTO, ON / ACCESSWIRE /0 / The Fintech & Financing Conference and Expo (#FFCON21), Canada's premier Fintech conference organized by The National Crowdfunding & Fintech Association (NCFA),",
+      "excerpt": "Conference to explore accelerated Blockchain - Fintech trends and innovations paving the way to mass adoption and scale TORONTO, ON /  / May 6, 2020 / The",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference",
-      "originalUrl": "https://www.digitaljournal.com/pr/ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/05/ac20993197/ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/ac20993197/ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/primages/4ebaca4eff83b73f4c080a38dc03dc9311514d98-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T09:28:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20993197",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20993197",
+      "publishedDateTime": "2021-05-06T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

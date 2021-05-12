@@ -6,8 +6,8 @@ publishedDateTime: 2021-05-12T19:25:00Z
 originalUrl: "https://www.embedded.com/tools-move-up-the-value-chain-to-take-the-mystery-out-of-vision-ai/"
 webUrl: "https://www.embedded.com/tools-move-up-the-value-chain-to-take-the-mystery-out-of-vision-ai/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.embedded.com/wp-content/uploads/2021/05/embedded-vision-scenario_ss.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1002
     isCached: true
 
-secured: "6Qf1VF3oTexfiNx2ednboaONg0zJJDbHkO1NwY/GJKuRk8sox4NHrkEJ0qJDfP6oAyMbxVdZgWlDMJSEOyQUZVBXzYG1Kr9TGgo44GjwkHPdxdJTTQWXuveNYwZHvCnV1Q7kxSdoDTabwOB5gh2k+G4Ysnr5/aiuDppEMTGv5bk9WMWU6rme1lqdjaCT0opyh1/5EC5jlHSyuS6AQijadZa6eXvK41U7UKQBAYdmAATUWeVo1MFyNSww75gB7OwYJcPjifc/9N21ByaIFsgQ9Gtugo/l9nCf4MMkevaJ0EQPdYXp8HqV4vFwP/l8ARP+J07D2k+J8B1El/BN/L3qdEfK/ksxpjdPre54G9Bvi5M=;jffSf8pqbzls8Xe4h5X0rg=="
+secured: "i6MyS4O1LkchWBJHQiA/80EDQMJ0SYHNMIWUmAC4Qj1cW5R+TkkZnXAJZql3VSZOtgefMLsXXV+2gZuD77c+TNpjSwI4DnB8pMGIESF0ZxMm4VHTNgH7SPBSanQ6q4rEXx16yIgTIrT7R09uIICQKtaJtTUrYXBM/MuZ/xRu7I8JuJJG4ltQp+NFdc+qlaKGUTYJX6G57mY7ZvAJW/CI+ebQTb4SkecMbHLGFDmQ0dGbwj7XAHC7UInJFlpG0XwZJnZ3S7YUvYZLzGExq4uEdanEbmRtQl3DQDBPcgxJ0Iyi7YJMyTA8r0vRWFSnuTVoOQpOLtOODjE4+lywottYgStsOmt8Xyz52sayGe7hCr4mgytYtylmzojCa8mH+E0YPHgDGF7KDjVqmg5EZPesW/wh6LLVP8HPoGNdiGg531O2xrnl07uwyX0ZGojMkkf5EnZvv8MPby4zp2+7XboavD2HIu229RXrPgZI1NcPr2OgAJAGGZ8lAyWWbtiNFzPAuB2lq/F9GA3oMdQpOhHuQw==;jQ70lAypPhwUkIklVEonEw=="
 ---
 

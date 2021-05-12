@@ -72,18 +72,18 @@ related:
         height: 750
         isCached: true
   - title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS® Viya® advanced analytics, Microsoft Azure,"
-    publishedDateTime: 2021-05-11T15:56:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d"
+    excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the"
+    publishedDateTime: 2021-05-11T14:53:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 36
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg?p=facebook"
+        width: 2699
+        height: 1414
         isCached: true
   - title: "TigerGraph's Victor Lee Shows How to Create an Analytics Foundation at Data Summit Connect 2021"
     excerpt: "Graph-powered machine learning and analytics are enabling unprecedented benefits, Victor Lee, head of product strategy and developer relations at TigerGraph, who cited Gartner's statement that 'Graph analysis is possibly the single most effective competitive differentiator for organizations pursuing data-driven operations and decisions after the design of data capture."
@@ -100,6 +100,6 @@ related:
         height: 630
         isCached: true
 
-secured: "mAk9kuPSNweJ00zroGi7PWigpkrK/ltqpBP8Ir/+Q2OMNuaIBrJhuul7xyQ9U44BDjQ8CmMOHs0olye0vdjHZkXPyHVpYIZTX+WIxuFmFNVZdaK4zjgpuEaQd2W9p1WlUUHe+cAbS/5B/Lf+JATqJI0Kg7kZsUu7JF+4DMJ0KgsBi0GDUCfHf6lB6Yq1NMymtZolIvp0HhddRHVCEJDY93jZfMyAPLYxN1mY9waP87r9Z1bdOaxppQOcdzn9ZLSBnPq2nCdOivoP6XtcaTfatvnZD5fl3jpKYW+HVghVVj39o4rq9P2+JgETnmxO2vbAr7JoQi5S95QvPFTt+Y3gJUY/ilzp+StyGoBnpYIeFnA=;h9U9I94sxgwSXprkfmGQ2w=="
+secured: "kmZ/KUSpmhjuB+FwBYTUA9TW1vDRxU7qc1A/WjB6xLlHStVjG/t68RfAbEHq1kzvvslM3plkuthgfr6EcNaGmHthjZuwf1fabtFffVVysNxKfw2KPqtP5+JD7XDM6anK7Ws/RkcMFb+JzLBNdX6Dw5z0k3rBcAEw/4C7oTj88rpIYnk338gB3FIP8+dW1r0UXohIKi/LNxYDoW/kqi+h6PboYoQsusdCqpy7BJdynaKm3mH8rxtJES3AesLlT6GrQEdz+euYFcNGTmIcBflejdVxtUPKsWcqVb1IHBuMKZEv1h5r8actk0StrTNyKBtBM6gW5ngkzgGfF0oIe1VUtS/7fLX7nEqGeMVg30QNG0Q7BAWbpG7by9iHCPP0A0BYRtC7kqlD9aBG11QIt7iMFVzRz6GI7BIScQnZjzGvYEozvOhrNXvEHWNHlupMci7dWUZWfxlKyqwPePVsijIv7H/07twNDniN4pmoRaEDk4ExFBDwN7VEusWFFv3xWCmlCL52mSIZGkI36kK2EuJVdQ==;0j1xoDd6aCsQe7p/suEbIw=="
 ---
 

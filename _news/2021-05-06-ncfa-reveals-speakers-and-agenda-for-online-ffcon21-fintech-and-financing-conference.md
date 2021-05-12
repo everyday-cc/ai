@@ -1,26 +1,22 @@
 ---
 category: news
 title: "NCFA Reveals Speakers and Agenda for Online FFCON21: Fintech and Financing Conference"
-excerpt: "Fintech trends and innovations paving the way to mass adoption and scale TORONTO, ON / ACCESSWIRE /0 / The Fintech & Financing Conference and Expo (#FFCON21), Canada's premier Fintech conference organized by The National Crowdfunding & Fintech Association (NCFA),"
-publishedDateTime: 2021-05-06T16:28:00Z
-originalUrl: "https://www.digitaljournal.com/pr/ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference"
-webUrl: "https://www.digitaljournal.com/pr/ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference"
+excerpt: "Conference to explore accelerated Blockchain - Fintech trends and innovations paving the way to mass adoption and scale TORONTO, ON /  / May 6, 2020 / The"
+publishedDateTime: 2021-05-06T15:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/05/ac20993197/ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference"
+webUrl: "https://www.benzinga.com/pressreleases/21/05/ac20993197/ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20993197"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20993197"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/primages/4ebaca4eff83b73f4c080a38dc03dc9311514d98-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "jW6H9Ls8OS7fgnRQ33qyZHYS61a1rPcMZsGEyy29je15WejR6+zKPdDyyTjlHh2yOmMKtuCCtyuGWn6DR2s7EfNSoqNbEhze+qkzHaggbRwIVIomWbJJd++4EKHZcj4ujALkiu6hzE/RLABY66yzwAZmmvIKF7NVUXoqs5M1H1pjTKwx39gMxC6vaf++pGg2hfXjsJifJvVwW2CJYK27Qw/bKXcFfpvFJFbAknwvd2c4WIpkH7ATxMWMPtsbopr7u5bRH6U763LvBHZaHW3C0yzGpCMQuj2zyUnxZ2mpcuqE+t460I96iExu37GccAdFCQ+CJixcweB23/IZb9ZrzoBXtE8N+5n5xPGnRgHbInw=;qb4JkQ5s0P+pFeaOeSlloA=="
+secured: "r+maI0aZv0dCUaXmaidaWvuQTjCSswJjg0BKeVQLRiFRtSDpwk474oqLTz5fawoxATjypTU15UQouL5IBpslIyTsTI8DnBnOJdwzR0T3sCWOMmDl/9g8wL3e0Uxh2dvSy9H3nB4cMoeQdLHgpP6/KTdY6IMsSnZsk3fG3nsRZnq3wBEiBjwZAkJWQFgdooEfk2338kdDTXO7004gbk6Hn6BK23ZxPves6GZy7qiktGWnCEK/nGFYkNfCSp08reazuW3I+kxd8QA5xKpJwDgL39Yl/vyaPo/0+mACA9ceawGAXzDHiKYX7fg2fetajBpYf9/sR9not62igYTqnEqQBC1tKsGYIM61cl+9Cf1qqRcCpYmKGU/vNFF8wvDKMmefMnOa4lklhR0gDk0bNgsw/C4smw9XlPMJ7QjvQ30BIKHGJVdJCaDhjTEuhuOjCE2uSmb1PO/s28hdupVfnjykCIWKM8Zz2CTMH9R14qg2PJ9M4F+BQkhpmSYIK4DJOh+hO9PDgBxrgzoLAhscfe/cIQ==;fSnxVEaMlrtHalSoQbH+cQ=="
 ---
 

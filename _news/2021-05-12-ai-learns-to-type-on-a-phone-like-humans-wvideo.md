@@ -41,6 +41,15 @@ related:
         width: 719
         height: 638
         isCached: true
+  - title: "AI learns to type on a phone like humans"
+    excerpt: "To really understand how people type on touchscreens, researchers have created the first artificial intelligence model that predicts how people move their eyes and fingers while typing. The AI model can simulate how a human user would type any sentence on any keyboard design."
+    publishedDateTime: 2021-05-12T21:42:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/05/210512083432.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "AI that mimics human typos on a smartphone could improve keyboards"
     excerpt: "An artificial intelligence that mimics how people type on a smartphone – including making errors – could help improve the standard of on-screen keyboards in the future"
     publishedDateTime: 2021-05-12T07:12:00Z

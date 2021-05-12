@@ -101,6 +101,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "IBM uses AI to create intricate COVID-19 map"
+    excerpt: "With IBM owning the Weather Channel, not only can people see upcoming weather trends, but the company created a COVID-10 hub for the Weather Channel website and app so that users can track cases around them via a map and take necessary precautions."
+    publishedDateTime: 2021-05-12T21:17:00Z
+    webUrl: "https://siliconangle.com/2021/05/12/ibm-uses-ai-create-intricate-covid-19-map/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Sheri-Bachstein-IBM-Think-2021.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "OJbhKDqaNYwWew4T8CuUDDuZ1vLx1JJn/RHIv1RuHk6mky+KolnNe/+gS/DzOsanx39LKy0PQNaV7U6s+3z14a6MLf8/4DI2eKvv/LCUU39hVoYhKBYYlL6atNOuK86blNTtYZASAmZkcGj+FVIoWKkQHZR0x7Hi3mAE2E5BLxfpXn+0/SCM2ziuKMAYHfRtIb7w1NXaWZc7P7T+6cf3Y9LDjSE6QIBY8gQ85df8YVkvYcmda3D2tQNxFWTvj+mi+brzXbt6OmyfTw+JPuYfRJ/fTOxQU6E0SuSh3qP6OQU7PzueJRjsKmJ8CdOfRrsNnjpCUnlHbuMoXRVfgyfBHSW42ORNTg60RIhwfBTxvZXRJxq2ZFM9pvqczLvrGzqy8wQ3LW+sMsuPrRleMpy9WibUl5qILmn0r4W/Lld40r5YLmYKKi7DYl0ui99voMd2EgLvQnxRQ+iCS4iR9HTNImFPdW+bRVjB1FDDVQwBDFV6t0VkDr85N4RwI+l1C6Uhdv7a9c/Xn4NUK+OUXw+ncg==;vmgEZlhFBW4a2oEgrBcfYw=="
 ---

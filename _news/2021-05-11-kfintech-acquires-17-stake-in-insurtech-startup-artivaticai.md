@@ -56,6 +56,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Startup AI fintech firm Riskfuel expands into insurance space"
+    excerpt: "TORONTO – Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,"
+    publishedDateTime: 2021-05-11T13:44:00Z
+    webUrl: "https://www.canadianinvestor.com/2021/05/11/startup-ai-fintech-firm-riskfuel-expands-into-insurance-space/"
+    ampWebUrl: "https://www.canadianinvestor.com/2021/05/11/startup-ai-fintech-firm-riskfuel-expands-into-insurance-space/amp/"
+    cdnAmpWebUrl: "https://www-canadianinvestor-com.cdn.ampproject.org/c/s/www.canadianinvestor.com/2021/05/11/startup-ai-fintech-firm-riskfuel-expands-into-insurance-space/amp/"
+    type: article
+    provider:
+      name: CanadianInvestor
+      domain: canadianinvestor.com
+    quality: 59
+    images:
+      - url: "https://www.canadianinvestor.com/wp-content/uploads/2021/05/riskfuel-840x480.jpg"
+        width: 840
+        height: 480
+        isCached: true
   - title: "3 Ways Artificial Intelligence (AI) is Disrupting Fintech"
     excerpt: "Artificial intelligence (AI) is disrupting Fintech by providing personalized wealth management, automated customer support, intelligent financial assistance, fraud detection, accurate decision-making,"
     publishedDateTime: 2021-05-11T12:17:00Z

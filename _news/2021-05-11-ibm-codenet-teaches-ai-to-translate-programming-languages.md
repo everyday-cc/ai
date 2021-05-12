@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359487
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359487/ibm-codenet-ai-translate-programming?amp"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://thumb.spokesman.com/MVo1plJGC5ST44c-hvkJCxo03zU=/480x0/media.spokesman.com/photos/2021/05/11/609ad8172c8e9.hires.jpg"
         width: 480
         height: 320
+        isCached: true
+  - title: "IBM uses AI to create intricate COVID-19 map"
+    excerpt: "With IBM owning the Weather Channel, not only can people see upcoming weather trends, but the company created a COVID-10 hub for the Weather Channel website and app so that users can track cases around them via a map and take necessary precautions."
+    publishedDateTime: 2021-05-12T21:17:00Z
+    webUrl: "https://siliconangle.com/2021/05/12/ibm-uses-ai-create-intricate-covid-19-map/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Sheri-Bachstein-IBM-Think-2021.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "/mkg/UOjwWKy1ZdXIUARTJ/4vxa0SkMMKAMuOBSg8YTsnjJyn93+Eas9bpD5aAJiPc9bGNIune4Kwo6Lf5wlgaDfwHVgBRHBSThZAZclEb81Dd3XQK6gXv0peA4zhfAswG3rr6oInWI5D69XLqxed8cyxzt2FKxK9HT6MaWnk3qsD8CuAPHwEyFw1tGPncZRQW2jeKk4si6qFfWJG+a6n4zd97qDVFPLcfw/jDVEXCcQh7Dx6vk620Z436bFmKAjqNjjyzM1dkN/X8d9WegVIhcTie27U1UtuzhuVqveP8grb1O1KcrE4hn6E1nNaxkQYGzoJ5T4x2K4MSJ14j6aMagPBjICuurKBaKYiMhtLFW9ITb4nSTLYDTrScTNwFpzfavAEkG5DmjcA9CA5Dvlo2l5iRMBc7i5rLfBGmNaw3L80NDhcxK6AsRMzF1WbbfvBkcbcZAqLW/olhaSzLHKalkMuajHVBUVoVPc2U6180YZwpi4c+qhXbATcBsehVKyN1kmxwUE6tv1lh4sD3V7zQ==;nRCM/ApCPAapiXy2cQELrg=="

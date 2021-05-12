@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Temenos Welcomes Industry Leaders and Rising Stars of Fintech to Make Banking Better, Together at TCF Online 2021"
-excerpt: "Temenos (SIX: TEMN), the banking software company, today announced that 10,000 business leaders and technologists will come together on 26 - 27 May at TCF Online 2021, the flagship event in banking. The two-day interactive,"
-publishedDateTime: 2021-05-12T14:04:00Z
-originalUrl: "https://financialit.net/news/banking/temenos-welcomes-industry-leaders-and-rising-stars-fintech-make-banking-better-together"
-webUrl: "https://financialit.net/news/banking/temenos-welcomes-industry-leaders-and-rising-stars-fintech-make-banking-better-together"
+excerpt: "Temenos (SIX: TEMN), the banking software company, today announced that 10,000 business leaders and technologists will come together on 26 - 27 May at"
+publishedDateTime: 2021-05-12T10:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210511005935/en/Temenos-Welcomes-Industry-Leaders-and-Rising-Stars-of-Fintech-to-Make-Banking-Better-Together-at-TCF-Online-2021"
+webUrl: "https://www.businesswire.com/news/home/20210511005935/en/Temenos-Welcomes-Industry-Leaders-and-Rising-Stars-of-Fintech-to-Make-Banking-Better-Together-at-TCF-Online-2021"
 type: article
-quality: 18
-heat: 18
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Financial IT
-  domain: financialit.net
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://financialit.net/sites/default/files/logo_latest_1_3.jpg"
-    width: 1024
-    height: 512
-    isCached: true
-
-secured: "GnS2HmvlRaSn5Rc4CJRvCnszUaDnvm/TSkONnPbg4DsBF0wOg9bFWMrrZ13Gg3vGtcrIfaoAO91zLpBv6HHdHp9o6UxYPLihqKmTHJfqbXX0DodniM6UyaQw2kN6reU9l5Miw75EtlvS6xB442pSQFnDe0HVxWEL5YaAmh2fF+mMH7Kg8pS0g8LEW0FkKXARrvZ1Y5dXnNYtgej3PTjweUaW5uwFL6ui76RoZJIMMFyfKjNcCQ93+00zRHbO1sZaG/D9707dNinO1bJV+lQB+Biw6UgDx9TpBQbNceU7DxRKN6A4EQkOZwSbMAag/PgMrDeMK8wo1Ed732zBx4dGqyTQAu7CnFE0NMSx2gpGVdc=;RA7WLkRDvPAueJvNRE4aag=="
+secured: "qiXLk4qLrZ09HeoM+wWopeBvkuuPqlqMurNEkck64bDxDmJptWpchBDP75AZCPOA/+JZL4hwCKOGh5gq4PO1CjX2R5Tu61KyzKTAd+Pbc/hkh0HgIVHSFCTQTLaaK83S3CsbGJBWhVJ7AYy7gxqVV90oy1jN8SD739MoB2LkJJGaXXkUFw2eWcLqdBUUrl3MfW4btCTGc3Qw54SvaTpO9Ag4l8cBbqGwEeJoke/AygYx0cbWXTu0TRTff9io3EMFsFtK6uoXU/CWFKxNpw1OGaXR8/abC58PX+zUXlE3uqzZH0+kFoDrRuL3hM9e1pFL4m4QmaOhvK/m3VStp2FAijN8BCxLlXg/yRGMs8Q9aN0=;BkM9xhhlSe3ZCxnyd7ZPfA=="
 ---
 

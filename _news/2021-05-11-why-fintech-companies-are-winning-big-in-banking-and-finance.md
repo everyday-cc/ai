@@ -55,6 +55,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Startup AI fintech firm Riskfuel expands into insurance space"
+    excerpt: "TORONTO – Riskfuel has been selected to take part in gener8tor’s OnRamp Insurance Accelerator in partnership with Allianz Life and Securian Financial. Riskfuel is one of five startups chosen from over 500 applicants to participate in gener8tor’s three-month,"
+    publishedDateTime: 2021-05-11T13:44:00Z
+    webUrl: "https://www.canadianinvestor.com/2021/05/11/startup-ai-fintech-firm-riskfuel-expands-into-insurance-space/"
+    ampWebUrl: "https://www.canadianinvestor.com/2021/05/11/startup-ai-fintech-firm-riskfuel-expands-into-insurance-space/amp/"
+    cdnAmpWebUrl: "https://www-canadianinvestor-com.cdn.ampproject.org/c/s/www.canadianinvestor.com/2021/05/11/startup-ai-fintech-firm-riskfuel-expands-into-insurance-space/amp/"
+    type: article
+    provider:
+      name: CanadianInvestor
+      domain: canadianinvestor.com
+    quality: 59
+    images:
+      - url: "https://www.canadianinvestor.com/wp-content/uploads/2021/05/riskfuel-840x480.jpg"
+        width: 840
+        height: 480
+        isCached: true
   - title: "KFintech acquires 17% stake in insurtech startup Artivatic.ai"
     excerpt: "The partnership with Artivatic will help KFintech venture into the insurtech space as the firm looks to diversify beyond offering registry services to Mutual Funds, Corporate, Pensions among other ass"
     publishedDateTime: 2021-05-11T14:37:00Z
