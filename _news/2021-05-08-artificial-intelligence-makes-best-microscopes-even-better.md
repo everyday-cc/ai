@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence can boost power, efficiency of even the best microscopes"
-    excerpt: "With the help of artificial intelligence, even already powerful microscopes can see better, faster and process more data."
-    publishedDateTime: 2021-05-07T19:00:00Z
-    webUrl: "https://www.upi.com/Science_News/2021/05/07/germany-artificial-intelligence-3D-microscopy/7341620393977/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/05/07/germany-artificial-intelligence-3D-microscopy/7341620393977/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/05/07/germany-artificial-intelligence-3D-microscopy/7341620393977/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 52
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/7341620393977/2021/1/16203947933016/v1.5/Artificial-intelligence-can-boost-power-efficiency-of-even-the-best-microscopes.jpg"
-        width: 649
-        height: 432
-        isCached: true
   - title: "Artificial intelligence makes great microscopes better than ever"
     excerpt: "Collaboration between deep learning experts and microscopy experts leads to an significantly improved data-intensive light-field microscopy method by using AI and ground-truthing it with light-sheet microscopy."
     publishedDateTime: 2021-05-08T21:54:00Z

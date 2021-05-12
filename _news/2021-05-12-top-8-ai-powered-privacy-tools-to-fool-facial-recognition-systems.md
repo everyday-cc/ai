@@ -35,7 +35,7 @@ related:
     provider:
       name: POLITICO
       domain: politico.eu
-    quality: 60
+    quality: 62
     images:
       - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
         width: 1920

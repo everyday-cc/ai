@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-03-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
+      "title": "Baidu rolls out paid driverless taxi service in Beijing",
+      "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html",
+      "originalUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/baidu-rolls-out-paid-d.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-baidu-paid-driverless-taxi-beijing.amp",
+      "publishedDateTime": "2021-05-02T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-02-driverless-taxi-service-rolls-out-in-beijing.md",
       "title": "Driverless taxi service rolls out in Beijing",
       "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China.",
@@ -193,6 +236,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-01-baidu-apollo-to-launch-fully-driverless-ride-hailing-services-in-beijing-health-code-scan-to-enter.md",
+      "title": "Baidu Apollo to launch fully driverless ride-hailing services in Beijing; health code scan to enter",
+      "excerpt": "Baidu will open fully driverless robotaxi services to the public in Beijing starting tomorrow. This will be China’s first paid autonomous vehicle service where users can hail a robotaxi without a safety driver behind the steering wheel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.greencarcongress.com/2021/05/20210501-baidu.html",
+      "originalUrl": "https://www.greencarcongress.com/2021/05/20210501-baidu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef0263e9a1a784200b-600wi",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-01T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Green Car Congress",
+        "domain": "greencarcongress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-volkswagen-will-develop-in-house-self-driving-chip-to-compete-with-tesla-apple.md",
       "title": "Volkswagen Will Develop In-House Self-Driving Chip to Compete With Tesla, Apple",
       "excerpt": "Although Tesla’s expensive and strictly in-house developed autonomous driving software has a long way to go to actually achieve self-driving, its German rival Volkswagen is going down the same path to build its own driverless capabilities.",
@@ -352,6 +438,49 @@
       "provider": {
         "name": "Engineering360 News",
         "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may.md",
+      "title": "Baidu to Roll Out Driverless Robotaxis in Beijing in May",
+      "excerpt": "Baidu will launch a paid robotaxi service in Beijing on Saturday, allowing users to book rides in vehicles without a driver behind the wheel, as the tech giant seeks to become one of China’s first companies to make money from self-driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.caixinglobal.com/2021-04-30/baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may-101704549.html",
+      "originalUrl": "https://www.caixinglobal.com/2021-04-30/baidu-to-roll-out-driverless-robotaxis-in-beijing-in-may-101704549.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.caixin.com/2021-04-30/1619778592746922_560_373.jpg",
+          "width": 560,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Caixin Global",
+        "domain": "caixinglobal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1265,154 +1394,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-amazon-releases-deepracer-software-in-open-source.md",
-      "title": "Amazon releases DeepRacer software in open source",
-      "excerpt": "Register fo r the AI event of the year. In November 2018, Amazon launched AWS DeepRacer, a car about the size of a shoebox that runs on AI models trained in a virtual environment with ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/27/amazon-makes-deepracer-software-available-in-open-source/",
-      "originalUrl": "https://venturebeat.com/2021/04/27/amazon-makes-deepracer-software-available-in-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/deepracer.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/27/amazon-makes-deepracer-software-available-in-open-source/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/amazon-makes-deepracer-software-available-in-open-source/amp/",
-      "publishedDateTime": "2021-04-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-toyota-acquires-lyfts-self-driving-unit-for-550-million.md",
-      "title": "Toyota acquires Lyft's self-driving unit for $550 million",
-      "excerpt": "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlights the Japanese automaker’s ambitions in that technology",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_e240acd86ea84a03a885c1219259f4fd_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335380",
-      "publishedDateTime": "2021-04-26T22:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-toyota-acquires-lyft-self-driving-division-for-550-million.md",
-      "title": "Toyota acquires Lyft self-driving division for $550 million",
-      "excerpt": "Toyota subsidiary Woven Planet announced that it would acquire Lyft's Level 5 self-driving R&D division for $550 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/26/toyota-acquires-lyft-self-driving-division-for-550-million/",
-      "originalUrl": "https://venturebeat.com/2021/04/26/toyota-acquires-lyft-self-driving-division-for-550-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/s1.reutersmedia.net_.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/26/toyota-acquires-lyft-self-driving-division-for-550-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/toyota-acquires-lyft-self-driving-division-for-550-million/amp/",
-      "publishedDateTime": "2021-04-26T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

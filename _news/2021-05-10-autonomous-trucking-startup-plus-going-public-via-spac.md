@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/plus-going-public-spac-autonomous-t
 webUrl: "https://www.therobotreport.com/plus-going-public-spac-autonomous-trucking/"
 type: article
 quality: 54
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/17PLUSAI-MAIN_i.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Four Firms Guide SPAC for Self-Driving Truck Startup Plus"
+    excerpt: "Kirkland & Ellis and U.K. firm Linklaters are advising self-driving truck startup Plus on its go-public merger with special purpose acquisition company Hennessy Capital Investment Corp. V."
+    publishedDateTime: 2021-05-12T10:55:00Z
+    webUrl: "https://news.bloomberglaw.com/business-and-practice/four-firms-guide-spac-for-self-driving-truck-startup-plus"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 24
+    images:
+      - url: "https://aboutblaw.com/Q2V"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "uB7O0sbkvqRf71nINTpYIdKyrFTk6kjr+9T0eDj1E8vtGBmbTe3U8slRhIqGGkRov8TZrcnmeQrpK1q6y9dsPG1k/suxYs7yIReYqdSAnKaN1SQQZCyv/SJyd0pviJwXGR1Zecr7wXs6IgYnpELeauElMdkllsGpIdY9kqB6TgaPvgRpI9aXGItmK0J8mr7Lj3Ar25cyuq5vLzi2viXo8mAIlR0gHOKeeYL7GzoTCtIU/jWdghIdAKd0eHp782IC83FjFwhga1h4G1Zxyl3Q1DHg4ZTQe45hynSlfvWU0l3ToU6vB6uHACE8lTQLxFaq4BO0dRHJsWKq20dQ7beI1SYHIqL90bXl1I8bWxGX0b9bLTdRSegJoQ/zWNJlrPsTcEGlBWpq3kQWP52C3L/RBUvdam/pWN9St9eKTnQdlY/pFEmg5Bz7hf0qHfp0RQVCpIqXlhTExKmkq+cZIwWPXdajoCKEwcy1ICjxN7rejiyxSD9bXkyeA5CwChMsFEqgixGK789hylop/Je/HNXuzQ==;IipPplRDuwSeDMp/xWDLkQ=="

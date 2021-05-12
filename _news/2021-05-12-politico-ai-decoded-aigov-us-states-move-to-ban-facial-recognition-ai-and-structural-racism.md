@@ -8,8 +8,8 @@ webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-go
 ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/amp/"
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-gov-us-states-move-to-ban-facial-recognition-ai-and-structural-racism/amp/"
 type: article
-quality: 60
-heat: 70
+quality: 62
+heat: 72
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
@@ -42,6 +43,6 @@ related:
         height: 427
         isCached: true
 
-secured: "LAdyqDZx0Wtr3V7k2bggbb3CXQp9cBGCA3iEnvQk+1ERdOTXCry7oiJuyQAP0N8pIXM0ghwIoZjL483gSkLp8eZVQjsucch4Ogex7tecdlpP8r8+W8t8bHz2LE08et+M4Pvcd+ufiItEjpNGVkZPWlNnXL7QWRKQOBxdrrmoQKscM31jKLKX1eWBwUHJ2mqt/o2A2b5XrJ2pEKRbkyAvW+qruZtzaR0xjq1u9UzB+l/oOdnDIxlX0xnkR1BbcwpE66o5T7cqetkPaHdOTha/irfD1MvelMNNvO9MMRUEcGX4Ffo/00ihwDI0Ct0Sq/0TfJN0QwV7WokawyyAz3Rrq6oa6WUxlDEJPtAA+p0fGc0=;Hi7pB1KGEnwQUiBwXpmBeg=="
+secured: "2yeDyw4wHS6KrJfamZx5jjRsZXf3HPgbEwP4c/5PZvmPAdjsno1UtxhfL9tNJ4DwzjJJJ29YFMGBn33uVePM7SzDTJ7ZnbrEzxJwTMo2S6nQLAIpQbbOvWVFK1emFa/mxd9n21i0Vb5uS0Wcp/7LPm2lcCgKOziNvhHnufih1lEdwRqjYNPQzAFHX64dKbtJZHiz77IlMb5isJayDKEgUc935gffnifZ8fpAD5rUs3e59ENUsCxRrPuh32hdWTaE6J1bduJejkhzakmyQ2gqW2IhsjmnHYbrpN8QjeZ/TDjKM/dzOuqxBodk4iMSS8YSBfpVRst7sn97ysFDkShhVLZSlomx0w6SxlUY1CO06sGRgT4MlAGvzqYbEh7xRbKPuo0x3yfQV92Lhh4/+vjt5CilNCSyU+55+viDCnBozF9lLzxU7lGyokFYU+p/tEJXsJcNKmfmD2ZPs2o45mw8kJDEsZJW2gnD/dpZgSs5Ik2tGg7VayHiAPnaa9S9fnPvpNLetN4pqFfE1DFDShMXjQ==;3HQe2LqGCInfxZnzPvfH1g=="
 ---
 

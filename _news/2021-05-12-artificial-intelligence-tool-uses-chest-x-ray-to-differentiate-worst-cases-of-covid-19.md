@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19"
-excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
-publishedDateTime: 2021-05-12T09:00:00Z
-originalUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html"
-webUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html"
-ampWebUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
+title: "Artificial Intelligence Tool Uses Chest X-ray to Differentiate Worst Cases of COVID-19"
+excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which"
+publishedDateTime: 2021-05-12T11:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-301289457.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-301289457.html"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-3.jpg"
+  - url: "https://mma.prnewswire.com/media/1506782/NPJDig_Med_Image1.jpg?p=facebook"
     width: 1618
-    height: 1400
+    height: 846
     isCached: true
 
 related:
@@ -42,22 +40,6 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/11/full/1620721373-4459.jpg&width=1200"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Conversational AI becomes the unlikely hero during the COVID-19 pandemic"
-    excerpt: "As India hunts for COVID-19 resources such as oxygen cylinders and hospital beds, technologists leverage conversational AI — such as Introbot AI and CovidIndResBot — to create an online space for real"
-    publishedDateTime: 2021-05-11T09:44:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 58
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/abnvyo/article34533819.ece/ALTERNATES/LANDSCAPE_615/introbot-2"
-        width: 615
-        height: 384
         isCached: true
   - title: "Artificial intelligence that can detect sarcasm in social media developed"
     excerpt: "Sarcasm isn't always easy to identify in conversation, so you can imagine it's pretty challenging for a computer program to do it and do it well."
@@ -100,6 +82,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 43
+  - title: "How India Fights COVID With Artificial Intelligence"
+    excerpt: "Organisations are leveraging machine learning, software-as-a-service and data analytics etc to fight the ongoing pandemic."
+    publishedDateTime: 2021-05-12T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-india-fights-covid-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/covid-19-4987797_1920.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Artificial intelligence reduces the time to diagnose COVID-19 on CT scans by a third"
     excerpt: "The technology reduces the time required to process the images by about 30 percent and helps to diagnose the disease faster."
     publishedDateTime: 2021-05-10T06:09:00Z
@@ -114,6 +110,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department"
+    excerpt: "During the coronavirus disease 2019 (COVID-19) pandemic, rapid and accurate triage of patients at the emergency department is critical to inform decision-making. We propose a data-driven approach for automatic prediction of deterioration risk using a deep neural network that learns from chest X-ray images and a gradient boosting model that learns from routine clinical variables."
+    publishedDateTime: 2021-05-12T10:02:00Z
+    webUrl: "https://www.nature.com/articles/s41746-021-00453-0"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 17
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00453-0/MediaObjects/41746_2021_453_Fig1_HTML.png"
+        width: 490
+        height: 685
+        isCached: true
   - title: "Researchers develop artificial intelligence that can detect sarcasm in social media"
     excerpt: "While artificial intelligence refers to logical data analysis and response, sentiment analysis is akin to correctly identifying emotional communication. A UCF team developed a technique that accurately detects sarcasm in a social media text."
     publishedDateTime: 2021-05-12T06:14:00Z
@@ -124,6 +134,6 @@ related:
       domain: webindia123.com
     quality: 11
 
-secured: "Pfs3G++bgIIjWggayN9Kg/SHlDq5cmlMJ8x1C6s+ZGC3CGCVJ0UP9cX7qnWGQWtBm0lWZdNaXJlHa5+hy9a0eIN2FRUJi21K5d4a/2nMhDTIgKoDWAZ46htjKDhkWDBrVl/5J7imi7+TORRnB9tItluKzYMC0Z4A5VMcCQPwOytQljZaMHfJWb0mazQ0TuPdSyVCFoqdQV6kA55NTA8HvuUobQgUoiompQWd1ghcNPi/v/tmbAgGOSTmhQcJk92Agkd0vH/ch2T+nDsurllWv/UgS1NVhVoOhU8XuYMZsGqAi8+CfCXMRYwDR/hGswQ+IpQXprcpj5R+s1+gJosDBANROScuYrYnROo6BRJsV6Y=;qNpJBpUHYuqaQmrRV1uHHw=="
+secured: "JsW4u8sWDzE51uT9qfCJqeAXj9kIIHMR5/cVZMTH3djWrT+d2pdgJQAyXFLIm3ptqjd5DwFkNGrYYwBZ311SbH4ihuu7Hk5b0pGDWtBRXHXejjpiMtzNC2XtVBxWhaUzHgJzuw89ryzYDkXFgW+7ZRAXhfbKJ4/xzjwiCS4OVWZGUWLCk8l0sa4CyavHmzNQ68WBz1To38X1bt51zRgWqQAcgeo8cSMWhtByMdm1XdEVfogzz0UGC916PShU0y0NYz4X1JxixykIyLs52nLUt8Ji3TCib34hzQ76d9Cifb+NjkS6u2Fp7OuUKmyZYLb6v+W+zl6UTBvGh8QM91J52Fz5JM/xviw+fTsLwHlTVEo=;0EewjibcbC0V9DqCdYvNZQ=="
 ---
 

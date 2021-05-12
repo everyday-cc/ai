@@ -108,6 +108,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Four Firms Guide SPAC for Self-Driving Truck Startup Plus"
+    excerpt: "Kirkland & Ellis and U.K. firm Linklaters are advising self-driving truck startup Plus on its go-public merger with special purpose acquisition company Hennessy Capital Investment Corp. V."
+    publishedDateTime: 2021-05-12T10:55:00Z
+    webUrl: "https://news.bloomberglaw.com/business-and-practice/four-firms-guide-spac-for-self-driving-truck-startup-plus"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 24
+    images:
+      - url: "https://aboutblaw.com/Q2V"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "X1sjDmd1srWEgWwSlOUboLaLJWkCtI5aMVOj4vPtJv1a1/pc6vh/ybYypSl06H9EEbw3VXPkuwVMKQbs1AqoeHSZ7VJjN/rLVH4RHLWJWZ4tZsJ6ciUMlLFJTa52vC/K5aYPCYWzb9TnllOcMXLvVwXyi1hzQ4Mbp4nk/YZe7Okz2tK+cuN79343l0m+Z0z8HBYtPhu+pkOPQYbMkNFEW3336+ORw7Y2y3C8Iu8bvgFrY15acH+YaPa6pr50sieMWf/R+V4JkRNeuTPl9cM3JKzMg/ObNIQKNlwYPLyxouEB3OMyVYwEW8zXt6aw5BiS86WYuxNLP1TaMp5LBe/cWk3bHNdpG8R5kNAEz3I5V0Q=;rtUzAncaMqTrS25gUmSxrw=="
 ---

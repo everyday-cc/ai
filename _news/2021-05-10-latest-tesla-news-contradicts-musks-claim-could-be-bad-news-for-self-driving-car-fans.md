@@ -75,20 +75,6 @@ related:
         width: 5472
         height: 3648
         isCached: true
-  - title: "Tesla Autopilot director contradicts Musk’s self-driving timeline"
-    excerpt: "In January's Tesla earnings call, an analyst asked Elon Musk about his belief that Tesla would achieve Level 5 autonomy—jargon for a car that can drive itself in all situationsb"
-    publishedDateTime: 2021-05-07T18:38:00Z
-    webUrl: "https://arstechnica.com/cars/2021/05/tesla-autopilot-director-contradicts-musks-self-driving-timeline/?comments=1"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1206290117-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Tesla Privately Admits Elon Musk Exaggerated ‘Full Self-Driving’ Cars"
     excerpt: "Tesla’s Autopilot system has been exaggerated by Elon Musk, the company has admitted in a new memo. Back in February during an appearance on the Joe Rogan Experience podcast, Musk said, ‘I think Autopilot’s getting good enough that you won’t need to drive most of the time unless you really want to."
     publishedDateTime: 2021-05-08T11:34:00Z
@@ -178,22 +164,6 @@ related:
       - url: "https://menafn.com/updates/pr/2021-05/08/KT_bdad9image_story.jpg"
         width: 1035
         height: 669
-        isCached: true
-  - title: "Tesla admits Elon Musk is exaggerating about ‘full self-driving’ cars before end of year – reports"
-    excerpt: "Communications between Tesla and the California Department of Motor Vehicles have revealed that billionaire Elon Musk may be overhyping the capabilities of his ‘Autopilot’ self-driving software."
-    publishedDateTime: 2021-05-07T17:27:00Z
-    webUrl: "https://www.rt.com/usa/523208-elon-musk-self-driving-cars/"
-    ampWebUrl: "https://www.rt.com/usa/523208-elon-musk-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/523208-elon-musk-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 45
-    images:
-      - url: "https://cdni.rt.com/files/2021.05/xxl/6095772985f54070963db5e7.JPG"
-        width: 1240
-        height: 697
         isCached: true
   - title: "Tesla Privately Admits ‘Full Self-Driving’ Claims Do Not Match Up To Engineering Reality"
     excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such claims do"

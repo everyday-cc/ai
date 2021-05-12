@@ -1,33 +1,20 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy in May"
-excerpt: "Artificial intelligence (AI) is in everything from voice-enabled smart speakers to smartwatches to computers, and even our cars. But while AI has gone mainstream, not all artificial intelligence companies are benefiting equally."
-publishedDateTime: 2021-05-05T15:54:00Z
-originalUrl: "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/"
-webUrl: "https://www.fool.com/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/"
-ampWebUrl: "https://www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/05/3-top-artificial-intelligence-stocks-to-buy-in-may/"
+excerpt: "Investors looking for the top AI stocks to buy right now should consider NVIDIA (NASDAQ: NVDA), Amazon (NASDAQ: AMZN), and Microsoft (NASDAQ: MSFT). Here's why. Image source: . You might know NVIDIA as a leading graphics processing unit (GPU) company that has benefited immensely from the gaming market."
+publishedDateTime: 2021-05-05T11:54:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-may-2021-05-05"
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-may-2021-05-05"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
-  - AI in Healthcare
 
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624507%2Fgettyimages-1137942695.jpg&w=1200&op=resize"
-    width: 1200
-    height: 900
-    isCached: true
-
-secured: "dU9RLJHLL8vKjvyj8bDKPdSplRkdVpn6hUkPE52j8Lf6LYsRd9RUr94ebkl9lxukttqbM7jV+GkLkvxiLb3SZ56Q3g9u/JhgecIxDmxYt+oWlHE3Fh9WsqPoi53ho/7tIDNZQFXDaTRLjEhDDzZgzV247Jg5YmLlu8caWpOGlOOj42t6CV+9GIbpaX5GiIKCKyR4Uo0MeAGaQj+OtncpOxHoHLJ40kYBN/C4p7d+wdQw8AaZ0hZujVsAzh81obmaAcmYCBnkzaVBK8SUpWVp96Gno77+NNqCeOByn0huHvmzLPiLQb8gbJN1ici3cXjSP6CKuUXwC1PVEiwyeuMhNkgMhXODeQo5nbkBfi2nej8=;QthUXawBFDEj60s1zbkOfg=="
+secured: "EYW8HWHGSmwARDhWDvmTxIsay6EGe/Y4Nfwgjv39sAWPUzK1CzHRC6zn//E7N+xgst+TqRdc+kF7wQZBpqViJ+qi3dbhWQ0PU/L0aNiHYQzNYHqn7JLwNhB91x3CE+pB64Q7d905nrjvzuP4qO3w4qXgu18ycsA5Pfl1nIzH2pTyH9fSmxyxnjTGF9DcmdCrfZbqoOpSrr5p69ctwWUliSiN5sAYrJGtFhNrG87D5rjVh1v00ppSirGjzu4KpUcTivUyykN8HvP9LmiR3T4zUvM5NbECRWFZmZ7LwAIWBxHDp6e7M6C5eLz+Z7KG1JNV/4FrUju1J+POW3hYO8LFdjfpRW5DYStpk1nrP2I+Nhc=;6V93eCH2U9GCaR6YFqsDOg=="
 ---
 

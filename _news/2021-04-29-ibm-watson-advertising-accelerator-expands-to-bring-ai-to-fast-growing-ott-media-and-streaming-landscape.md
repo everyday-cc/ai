@@ -1,26 +1,20 @@
 ---
 category: news
 title: "IBM Watson Advertising Accelerator Expands to Bring AI to Fast-Growing OTT Media and Streaming Landscape"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+excerpt: "IBM today announced the expansion of IBM Watson Advertising Accelerator for OTT and video, designed to help marketers move beyond contextual relevance alone. While compatible with most streaming platforms,"
 publishedDateTime: 2021-04-29T13:00:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210429ny59606/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming-landscape"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210429ny59606/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and-streaming-landscape"
+originalUrl: "https://www.nasdaq.com/press-release/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and"
+webUrl: "https://www.nasdaq.com/press-release/ibm-watson-advertising-accelerator-expands-to-bring-ai-to-fast-growing-ott-media-and"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
-    isCached: true
-
-secured: "qOSKGR3pCruk1KCCbvPiojjnWZ5kOuKW6c8uhyS83GfqRJPrvzQarRJFAVOrukzCS9vCakpf1yXM33Mb0UX5I9jQB33R40l3iZJvWVIpO4W4gdT+U8RR15v54R5A+nIkrHvkZuRukx0VSmR4kLCzNN/7u7y+KEhOksJ5svkbSwmC1TC087+ogwuqKh281/VcqGeHJNTJ/aLJhC1IZm49GFHjVpyohlNy/pyVtltz7wj2mVai+ufBaHuip72Lz+iMy6NIrNnS0r/ZIuVCQ2hA30OsEhL5H9e6Hs1lI62xbdixMf3ArJlr55lNzIsGvWDgKXT97u3xTd5l+PlQdwybW2u7QTn2XXGLchhIMjCXsHA=;Zs6cATO761on1aVPmyXbxw=="
+secured: "3VucUuB4mBrD3TIjzHX3wU+6Kl0PuGpMRk7yWGMTwR39C7NOY9jsDMCrAlJe9E4u2x9ZK7Rr05DxywRRjBbdIr6FgSjGOi01q6hYMqzRf7W9Vt2rVv1Ff+OTOdlnk0o2RN6mG7Lz4kH2pja6AlU4u1FgeL8yjirhAayy6JPtg1wUgoyFcF27tz+NLXOYSc4HNTXv1OfPgKgeiFROSNUBnntNqIxQ0uucnlf11M+HVU5TMX4RZiD6ijpdeIE399Jfnz65jdBK3YGtqX2QYhQlzHGRxI0ESz9BRRibzxQAEyCH6ojXn2Ckl6iM18K9fhLu7Rl2RG2R41XtsiRNrcVkTOgqUVT8hweVsI7j72QDxyU=;NmzrMU1o7aNf9f+B4bI62A=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.crowdfundinsider.com/2021/05/175065-cloud-software-pro
 webUrl: "https://getdivvy.com/"
 type: article
 quality: 112
-heat: -1
-published: false
+heat: 122
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bill.com To Buy Expense Software Provider Divvy For $2.5 Billion"
-    excerpt: "Bill.com, which provides back-office software, has struck a deal to buy Utah-based Divvy in a stock-and-cash transaction valued at about $2.5 billion."
-    publishedDateTime: 2021-05-07T18:45:00Z
-    webUrl: "https://www.finsmes.com/2021/05/bill-com-to-buy-divvy-for-2-5-billion.html"
+  - title: "Why fintech companies are winning big in banking and finance"
+    excerpt: "The fintech contenders on tech-powered platforms will offer new-age banking services that capitalize on \"data-fueled, hyper-personalized experiences in real-time.\""
+    publishedDateTime: 2021-05-11T09:50:00Z
+    webUrl: "https://techhq.com/2021/05/why-fintech-companies-are-winning-big-in-banking-and-finance/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 122
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2017/10/bill-400x293.png"
-        width: 400
-        height: 293
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/05/000_9329CH.jpg"
+        width: 1024
+        height: 593
         isCached: true
 
 secured: "h6go48RBlcxwjX/fgjq5WIVwZtBxjQBZHy2fKasc9se+lCHMMuOfm68Ex8r+/KTaOw6gKW3KsmjbRfuQLMinYQEPSn6acUubZ5QnGuQA7wOLgf5WyZ/HQOE9IqS3WIDlmtoEoEpMH6Vbtx3uZMkXR3Fy3TYHAaxTf7PVfcNp1EyMUJuLk/rIpA9dCyarjMuxuRipQn2cXGefITtqFgghb5cnxxc1zhAuaKpIpyo0a0E5hHF+r4EA5SkIZCmwgDovcVVzyS4k7nIqYQ808saoiW6ItfX8UCQUiXqkRJIAOm0spVO7/XH/6Q3+K+BNO2HUKO5njIjcMIWzBw0+g5RvONaocaKhDY+Guk2/2a5473I=;99i4K14GTik+MX7S7Mh9lQ=="

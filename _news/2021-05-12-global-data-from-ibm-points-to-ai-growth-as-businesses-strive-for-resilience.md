@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Global Data from IBM Points to AI Growth as Businesses Strive for Resilience"
-excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is"
-publishedDateTime: 2021-05-12T04:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
-webUrl: "https://www.prnewswire.com/news-releases/global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience-301289320.html"
+title: "Global Data From IBM Points To AI Growth As Businesses Strive For Resilience"
+excerpt: "New market research commissioned by IBM (NYSE: IBM) found that almost one-third of IT professionals surveyed globally say their business is now using artificial intelligence (AI), with 43 percent reporting that their company has accelerated their rollout of AI as a result of the COVID-19 pandemic."
+publishedDateTime: 2021-05-12T10:45:00Z
+originalUrl: "https://www.hostreview.com/news/210512-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience"
+webUrl: "https://www.hostreview.com/news/210512-global-data-from-ibm-points-to-ai-growth-as-businesses-strive-for-resilience"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Host Review
+  domain: hostreview.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/02image_1620254074101-HR.jpg"
-    width: 1380
-    height: 722
+  - url: "https://www.multivu.com/players/English/8668657-ibm-global-data-ai-growth/image/03image_1620254073973-HR.jpg"
+    width: 582
+    height: 304
     isCached: true
 
 related:
@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IBM Launches New Cloud, AI Services to Drive Productivity"
-    excerpt: "International Business Machines Corp. is rolling out a new product that will help businesses automate tasks, capitalizing on the rise of chat bots and virtual assistants during the pandemic and taking another step in its pivot toward cloud services and artificial intelligence."
-    publishedDateTime: 2021-05-11T16:20:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2021-05-11/ibm-launches-new-cloud-ai-services-to-drive-productivity-video"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSJLLWoOckV8/v5/-1x-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "IBM Think 2021 kicks off with AI innovations and some interesting quantum news"
     excerpt: "IBM today kicked off its annual THINK conference with a hefty dose of AI news and some tantalizing tidbits about the company’s current quantum computing endeavors. We’ve got the skinny, but there’s a"
     publishedDateTime: 2021-05-11T20:30:00Z
@@ -100,6 +86,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2Fthink-og.jpg&signature=e9c5be7ecec54f08f3a2ec819aa82374"
         width: 1280
         height: 640
+        isCached: true
+  - title: "IBM announces AI and Hybrid cloud tech for faster digitization"
+    excerpt: "IBM has launched three new AI products across its enterprise platforms that help in cloud app migration, automate work in business tools, and curate data cost-effectively at its recently held Think conference."
+    publishedDateTime: 2021-05-12T10:56:00Z
+    webUrl: "https://www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/"
+    ampWebUrl: "https://www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/ibm-announces-ai-and-hybrid-cloud-tech-for-faster-digitization/amp/"
+    type: article
+    provider:
+      name: Technowize
+      domain: technowize.com
+    quality: 59
+    images:
+      - url: "https://www.technowize.com/wp-content/uploads/2021/05/IBM-Digitization-AI-Hybrid.png"
+        width: 1080
+        height: 1080
         isCached: true
   - title: "IBM Debuts Cloud, AI Services In Bid To Modernize Business"
     excerpt: "IBM is rolling out new advances in AI, hybrid cloud and quantum computing, which will help “its clients and partners accelerate their digital transformations.”"
@@ -143,6 +145,6 @@ related:
       domain: computerweekly.com
     quality: 41
 
-secured: "il6ZHycM6DbAvMismmvXEIPL23Hbu6KZIF2JYYsVb+/7OiLaDY3S6Z8/Hr45bf70e5Q/ZXNdt/iecL+cNWJJE52MI6xyYsRuCcds1ED3KfejqlhwIY669Bb83VT9V4qMl8LOYnQl+FRJB9plR7R1WjitVs8IYOAEqM8YZ7Wv1oYpjSs5CT6gs+Ab6jRUpE/6v37HDL+M35WRmTn+IHVK2guY4piMKyHnnrPc6be+abpY7JgoM6/4fBA165852Bb+/rf2/cX3aIbZDuGxK0oAY3SHWBo8NGYU0NALg1Ff2yVi/R0TigT7uafbPKRSOXPa1RP5sU8fCVJu9PWKrSSMhkF5tnhnfr46McjlcKzKZsCN8q07PE1lFwCTlV9+sXqhajcfk0mCDPYCx3+5UnjIMQIB3Ag9OUBnCw8bMHlhGCAJnHMOgCyUBIrgT5/zjGMj2+9YBYQcHoM8LteC9rkfbIatBay1Zek/fDWGX4zxvlhiNtzKjZKrWsl4MVMzMErwx1fv9qmlRWjP5m5ZzduR/w==;LU0NlviKpMpsu42y9xxXRg=="
+secured: "Ywmk1g6kKRaStrBRGjuMLIrdq/BXGxSpJGodi/HqL9cLEs7TF/jqjeP9p/Pc2flmTfI+PzW94jwFkHSx+hseVYYk2hdQO6rysxE10OegZJ1jCQ6ur/BxgPbmx4Q7UZ9vVktxkjA0UIyFCGi/AKriAsMe6edfzI2QODtIhWCnciX3OL/6gK3z3zfNBWTrCkRPQMeCyZhpCP8oISeNDilc2ZOvffVhB5Y4nLtWziS7os1AD+mvSUmvoUE0dwm4L/g4xUG/JArJXZaUaO6N3eo0ELIEvjTlIchymoA5JXTAnKzSwCV9HP4v1yu04kLQ/VjO6w0mCUsEuykFnjNI0oMEf+4rzrqsWdq+wTu/Ag8NeIw=;iNKR6j5GCCrO/1ekDpSmOA=="
 ---
 

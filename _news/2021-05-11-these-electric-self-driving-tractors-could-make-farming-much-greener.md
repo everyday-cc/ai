@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/tech/monarch-autonomous-electric-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/tech/monarch-autonomous-electric-tractor-spc-intl/index.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving VW electric minibuses in ride-sharing trial"
+    excerpt: "The driverless future is a step nearer but, for all the scheme’s cleverness, will it reduce traffic as claimed – and do we really want it?"
+    publishedDateTime: 2021-05-12T11:00:00Z
+    webUrl: "https://www.telegraph.co.uk/cars/news/self-driving-vw-electric-minibuses-ride-sharing-trial/"
+    ampWebUrl: "https://www.telegraph.co.uk/cars/news/self-driving-vw-electric-minibuses-ride-sharing-trial/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/cars/news/self-driving-vw-electric-minibuses-ride-sharing-trial/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 44
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/cars/2021/05/12/ID_BUZZ_AD-Sketch_trans_NvBQzQNjv4BqDg7yincUoRGZjT6F6XLJ6CNGy97-G873Nz0vm-mnL7Y.jpg"
+        width: 978
+        height: 611
+        isCached: true
   - title: "Self-driving shuttles coming to Rochester this summer"
     excerpt: "The shuttles are self-driving, go about 15 miles per hour and will follow a virtual \"track\" that will be electronically programmed. Each vehicle holds about 12 people."
     publishedDateTime: 2021-05-11T18:11:00Z

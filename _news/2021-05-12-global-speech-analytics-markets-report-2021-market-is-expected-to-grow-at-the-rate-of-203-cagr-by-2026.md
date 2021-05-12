@@ -21,17 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence in Healthcare Markets Report 2021-2027: AI in Epidemic Outbreak Prediction and Response to Gain Momentum"
-    excerpt: "The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component,"
-    publishedDateTime: 2021-05-12T08:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21076118/global-artificial-intelligence-in-healthcare-markets-report-2021-2027-ai-in-epidemic-outbreak-pred"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21076118"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21076118"
+  - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
+    excerpt: "According to the latest report by IMARC Group \"Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\", The global computer vision market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-05-11T04:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-revenue-growth-opportunities-competitive-analysis-trends-and-demand-by-2026-2021-05-11"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Conversational Artificial Intelligence (AI) Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "The global interactive AI market was valued at 38 9 billion in 2019 and is expected to reach 18 2 billion by 2027 and is expected to grow at a CAGR of 21 from 2021 to 2027 Technological advances and"
     publishedDateTime: 2021-05-10T15:54:00Z
@@ -71,24 +74,35 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Global Artificial Intelligence in Security Market – Top Industry Segments Analyzed in Latest Research Report by MRS"
-    excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence in Security Market Analysis and Forecast 2020-2026. Latest updated report pub"
-    publishedDateTime: 2021-05-09T22:11:00Z
-    webUrl: "https://ksusentinel.com/2021/05/09/global-artificial-intelligence-in-security-market-top-industry-segments-analyzed-in-latest-research-report-by-mrs/"
+  - title: "Asia-Pacific Text to speech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 The factors that are augmenting the market growth include growing spending of emerging economies on the"
+    publishedDateTime: 2021-05-12T11:11:00Z
+    webUrl: "https://www.openpr.com/news/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 6
+  - title: "Covid-19 Impact On Facial Recognition Systems Market | Global Industry Analysis, Segments, Top Key Players, Drivers And Trends To 2029"
+    excerpt: "The global facial recognition market is expected to grow at a CAGR of 17.1% during the forecast period, 2019–2026. Research report provided by Straits Research is a detailed study of the Facial Recognition Market,"
+    publishedDateTime: 2021-05-10T11:10:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/140646/covid-19-impact-on-facial-recognition-systems/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
+  - title: "Artificial Intelligence-based Cybersecurity Market : Global Market Size, Growth, Trends and 2025 Forecasts Report"
+    excerpt: "ReportsnReports recently announces a latest research report titled “Global Artificial Intelligence-based Cybersecurity Market 2020” which highlights the Artificial Intelligence-based Cybersecurity Market size,"
+    publishedDateTime: 2021-05-11T14:03:00Z
+    webUrl: "https://ksusentinel.com/2021/05/11/artificial-intelligence-based-cybersecurity-market-global-market-size-growth-trends-and-2025-forecasts-report/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 12
-  - title: "Artificial Intelligence Services Global Market Report 2021: COVID 19 Growth And Change to 2030"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence Services Global Market Report 2021: COVID 19 Growth And Ch"
-    publishedDateTime: 2021-05-10T12:48:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/05/10/artificial-intelligence-services-global-market-report-2021-covid-19-growth-and"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 11
+    quality: 0
 
 secured: "83UN9BUaDFJsm5BzJAu4FK56OVu3wzPrmDrB6z7j/nk3NPHYTQyazmVoplHo5htnCGszAmf87WkLAHE6Ydy/0dmnQ9l3kDE+7ot9SMYmay6E5BPXoj4wkeL+jE12lDBqKurtG9AW11LzI3ezSxJ5NT1ulWjhffzrozJRJc2fu7fmKeyNX+kSt5Goeju2LGsGXVwck3tGszm552wxAWpRmyHX1z+H9UtG/7UUPgS/gvYvLtQfvhrNvHOJASjT0sHzQBebXD9RrEzh1yEDdwJSrkemmJm1vGT2xUptXr1bh17S+oEjuhFe53b33dnNHLZ75Ce1bvEyhiv7YHe8zgFroarJ9CUSZQ9RT78SufUji6Q=;wV4Bm0uUwtG35XdZC6pctA=="
 ---

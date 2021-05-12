@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign"
-    excerpt: "Expend, a fintech startup that's revolutionising expenses, announces an impressive start to crowdfunding campaignLONDON, May 10, 2021"
-    publishedDateTime: 2021-05-10T10:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028"
+    excerpt: "Expend, the AI-powered fintech startup changing the way businesses manage expenses and spending, has announced a great start to its crowdfunding campaign on Seedrs. The company is experiencing a strong growth period having performed well in the past turbulent year with revenue more than doubling,"
+    publishedDateTime: 2021-05-10T08:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408024"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 65
+    quality: 63
     images:
-      - url: "https://mma.prnewswire.com/media/1505742/Expend_Expense_Platform.jpg"
+      - url: "https://mma.prnewswire.com/media/1505737/Expend_Expense_Platform.jpg"
         width: 400
         height: 225
         isCached: true
@@ -85,20 +85,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Why fintech companies are winning big in banking and finance"
-    excerpt: "The fintech contenders on tech-powered platforms will offer new-age banking services that capitalize on \"data-fueled, hyper-personalized experiences in real-time.\""
-    publishedDateTime: 2021-05-11T09:50:00Z
-    webUrl: "https://techhq.com/2021/05/why-fintech-companies-are-winning-big-in-banking-and-finance/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/05/000_9329CH.jpg"
-        width: 1024
-        height: 593
-        isCached: true
   - title: "Overfunding: UK AI-Powered Fintech Expend Quickly Surpasses £500,000 Target Through Seedrs Campaign"
     excerpt: "Expend, a UK-based AI-powered fintech, has successfully secured its initial £500,000 funding target through its equity crowdfunding campaign on Seedrs. The funding round, which recently made its debut,"
     publishedDateTime: 2021-05-10T13:32:00Z
@@ -114,6 +100,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Expend_Expense_Platform-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Eight promising impact startups in fintech, fashion and education"
+    excerpt: "ImpactAlpha has partnered with Shaper Impact Capital, a grassroots, decentralized network that helps to connect thousands of social ventures with thousands"
+    publishedDateTime: 2021-05-12T11:00:00Z
+    webUrl: "https://impactalpha.com/eight-promising-impact-startups-in-fintech-fashion-and-education/"
+    type: article
+    provider:
+      name: impactalpha.com
+      domain: impactalpha.com
+    quality: 41
+    images:
+      - url: "https://impactalpha.com/wp-content/uploads/2020/12/shutterstock_1729589788.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Top Banking and Fintech Trends for 2021"
     excerpt: "As opportunities open up in the fintech industry, some trends are continuing into 2021. Here are to banking and fintech trends for 2021 that may drive the financial services industry forward."

@@ -45,58 +45,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-10-ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign.md",
-      "title": "AI-powered fintech Expend celebrates impressive start to crowdfunding campaign",
-      "excerpt": "Expend, a fintech startup that's revolutionising expenses, announces an impressive start to crowdfunding campaignLONDON, May 10, 2021",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1505742/Expend_Expense_Platform.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-10-artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc.md",
       "title": "Artificial Intelligence And Machine Learning Market to See Huge Growth | Microsoft Corporation, SAP SE, BaiduInc., IBM Corporation, BigMLInc.",
       "excerpt": "Artificial Intelligence And Machine Learning Market is growing at a 42.26% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”.",
@@ -1408,6 +1356,40 @@
       "provider": {
         "name": "Law360",
         "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-synctera-signs-on-checkalt-and-socure-as-latest-partners-to-continue-building-out-fintech-as-a-service-offerings.md",
+      "title": "Synctera Signs on CheckAlt and Socure as Latest Partners to Continue Building out FinTech-as-a-Service Offerings",
+      "excerpt": "Synctera, a new solution for partnership banking at scale, today announced partnership agreements with CheckAlt, the largest independent lockbox and e",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210415005802/en/Synctera-Signs-on-CheckAlt-and-Socure-as-Latest-Partners-to-Continue-Building-out-FinTech-as-a-Service-Offerings",
+      "originalUrl": "https://www.businesswire.com/news/home/20210415005802/en/Synctera-Signs-on-CheckAlt-and-Socure-as-Latest-Partners-to-Continue-Building-out-FinTech-as-a-Service-Offerings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

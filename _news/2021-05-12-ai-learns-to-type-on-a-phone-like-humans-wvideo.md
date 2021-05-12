@@ -7,7 +7,7 @@ originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=57982.php"
 webUrl: "https://www.nanowerk.com/news2/robotics/newsid=57982.php"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 400
     height: 338
     isCached: true
+
+related:
+  - title: "AI learns to type on a phone like humans"
+    excerpt: "Touchscreens are notoriously difficult to type on. Since we can't feel the keys, we rely on the sense of sight to move our fingers to the right places and check for errors, a combination of tasks that is difficult to accomplish simultaneously."
+    publishedDateTime: 2021-05-12T11:55:00Z
+    webUrl: "https://techxplore.com/news/2021-05-ai-humans.html"
+    ampWebUrl: "https://techxplore.com/news/2021-05-ai-humans.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-ai-humans.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/ai-learns-to-type-on-a.jpg"
+        width: 719
+        height: 638
+        isCached: true
+  - title: "AI that mimics human typos on a smartphone could improve keyboards"
+    excerpt: "An artificial intelligence that mimics how people type on a smartphone – including making errors – could help improve the standard of on-screen keyboards in the future"
+    publishedDateTime: 2021-05-12T07:12:00Z
+    webUrl: "https://www.newscientist.com/article/2277214-ai-that-mimics-human-typos-on-a-smartphone-could-improve-keyboards/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/05/11143844/12-may_phone-keyboard.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "YnVhsKi+jZzcpGdewCNoE8Xi0Gr7VDLeqend1zlYfwnT3GEUbC/zQMRbrjXn6M2D0o4dC1cUfdfqMgJssGdQEXjxYjdQ8moNWkpNlRNrNGRpxlhBUBAHF49O15ldSnVE3YRuX495z7D/fEmo8uNLYpZ2n4Y2M2MgeBe1A6FOa/GhqFpebBf5wtwdyg0Us1mJWVLlo8QTm74Ljw/N8oxlwbQrFDq18Bkl+FJ3Xl+526/KXdq7KUhyQMLoM4sOsf0+RXx+Ocdb6S81SGpHp2obFU/DNI7O8HelVVjgr6jIEXybbgsTf6hCkbYTaYwP23KGlpHNbqXyR3FQ38tV68VlKl/EqxeoCm1ywWtNVXK48x8=;USo+aud6yFHEJtekz9pAGQ=="
 ---

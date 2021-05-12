@@ -19,31 +19,90 @@ topics:
   - AI
 
 related:
-  - title: "Industrial Robot Software Market likely to touch new heights by end of forecast period 2021-2026"
-    excerpt: "This report studies the Industrial Robot Software market in many aspects of the industry such as market size, market conditions, market trends and forecasts, and the"
-    publishedDateTime: 2021-05-11T01:20:00Z
-    webUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722"
-    ampWebUrl: "https://www.reportsgo.com/industrial-robot-software-market-67722/amp"
-    cdnAmpWebUrl: "https://www-reportsgo-com.cdn.ampproject.org/c/s/www.reportsgo.com/industrial-robot-software-market-67722/amp"
+  - title: "Computer Vision Market Size, Revenue, Growth Opportunities, Competitive Analysis, Trends and Demand by 2026"
+    excerpt: "According to the latest report by IMARC Group \"Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\", The global computer vision market exhibited strong growth during 2015-2020."
+    publishedDateTime: 2021-05-11T04:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-revenue-growth-opportunities-competitive-analysis-trends-and-demand-by-2026-2021-05-11"
     type: article
     provider:
-      name: reportsgo
-      domain: reportsgo.com
-    quality: 46
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: "https://www.reportsgo.com/img/img-6.png"
-        width: 500
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market Gains Momentum DURING FORECAST PERIOD of 2021 to 2027 – MRS"
-    excerpt: "The Report By Market Research Store of the COVID-19 outbreak impact on Global Artificial Intelligence Market Analysis and Forecast 2020-2026. Latest updated report published by Ma"
-    publishedDateTime: 2021-05-09T22:12:00Z
-    webUrl: "https://ksusentinel.com/2021/05/09/global-artificial-intelligence-market-gains-momentum-during-forecast-period-of-2021-to-2027-mrs/"
+  - title: "Conversational Artificial Intelligence (AI) Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "The global interactive AI market was valued at 38 9 billion in 2019 and is expected to reach 18 2 billion by 2027 and is expected to grow at a CAGR of 21 from 2021 to 2027 Technological advances and"
+    publishedDateTime: 2021-05-10T15:54:00Z
+    webUrl: "https://www.openpr.com/news/2282524/conversational-artificial-intelligence-ai-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2282524/conversational-artificial-intelligence-ai-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2282524/conversational-artificial-intelligence-ai-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+  - title: "Global Artificial Intelligence in Healthcare Markets to 2027: Robot Assisted Surgery Segment to Register the Highest Growth Rate - ResearchAndMarkets."
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component, Application, End User, and Geography\" report has been added to ResearchAndMarkets.com's offering. Robot Assisted ..."
+    publishedDateTime: 2021-05-10T14:11:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=466375"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 31
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Computer Vision Market Report 2021, Industry Trends, Share, Size, Demand and Future Scope"
+    excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, The global computer vi"
+    publishedDateTime: 2021-05-11T08:51:00Z
+    webUrl: "https://ksusentinel.com/2021/05/11/computer-vision-market-report-2021-industry-trends-share-size-demand-and-future-scope/"
     type: article
     provider:
       name: The Sentinel
       domain: ksusentinel.com
-    quality: 19
+    quality: 30
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/AdobeStock_164918001_popup-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Global Speech Analytics Markets Report 2021: Market is Expected to Grow at the Rate of 20.3% CAGR by 2026"
+    excerpt: "The \"Speech Analytics Market Report 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The"
+    publishedDateTime: 2021-05-12T08:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21076221/global-speech-analytics-markets-report-2021-market-is-expected-to-grow-at-the-rate-of-20-3-cagr-by"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21076221"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21076221"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
+  - title: "Asia-Pacific Text to speech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Asia Pacific text to speech market is anticipated to grow at a considerable CAGR of 17 0 during the forecast period 2021 2027 The factors that are augmenting the market growth include growing spending of emerging economies on the"
+    publishedDateTime: 2021-05-12T11:11:00Z
+    webUrl: "https://www.openpr.com/news/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2283675/asia-pacific-text-to-speech-market-share-2021-global-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 6
+  - title: "Artificial Intelligence-based Cybersecurity Market : Global Market Size, Growth, Trends and 2025 Forecasts Report"
+    excerpt: "ReportsnReports recently announces a latest research report titled “Global Artificial Intelligence-based Cybersecurity Market 2020” which highlights the Artificial Intelligence-based Cybersecurity Market size,"
+    publishedDateTime: 2021-05-11T14:03:00Z
+    webUrl: "https://ksusentinel.com/2021/05/11/artificial-intelligence-based-cybersecurity-market-global-market-size-growth-trends-and-2025-forecasts-report/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "21w2kGljxSQBNDimDKAXrMzPtIkorbkJX8hSIsqYyxaImgkE+UYmWwoHZMehI97S3p52T1wXue+tGPRkf2nGd1VogYCdHorjQf6keE78G7wDi2gQTMQlFmq4NGKif9qyvxCtnDW7f6vyH/r2ISy07UGkLHOOeHwEZiGGjdLRv2Rj2yQzSIK71lgtZM/PjmcXdxuDv4BO/xeTpLGjzBg5KKWct9G3QaM7IzigjOYJIilEioNjDF3x205t3BlrHGmX9QCLucEcv3t7rmU2NO4Mq2mjIkXqX6PZqiSwQ7n/22whbVulGI5qCGkMOBhtdTVXCMAqCOKqRaFPTESPebmUB9vU9Xxtazend4w2bpikOFM=;DG2hFQp5QA7iMwQy2bP5Jw=="
 ---

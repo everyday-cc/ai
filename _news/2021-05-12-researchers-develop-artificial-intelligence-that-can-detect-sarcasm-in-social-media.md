@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Conversational AI becomes the unlikely hero during the COVID-19 pandemic"
-    excerpt: "As India hunts for COVID-19 resources such as oxygen cylinders and hospital beds, technologists leverage conversational AI — such as Introbot AI and CovidIndResBot — to create an online space for real"
-    publishedDateTime: 2021-05-11T09:44:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/coronavirus-covid19-chatbots-covidindresbot-introbot-ai-for-oxygen-cylinders-hospital-beds-medical-resources/article34533822.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 58
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/abnvyo/article34533819.ece/ALTERNATES/LANDSCAPE_615/introbot-2"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Artificial intelligence that can detect sarcasm in social media developed"
     excerpt: "Sarcasm isn't always easy to identify in conversation, so you can imagine it's pretty challenging for a computer program to do it and do it well."
     publishedDateTime: 2021-05-12T06:01:00Z
@@ -65,22 +49,6 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/05/12/1600x900/photo-1554177255-61502b352de3_1620799135211_1620799139809.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Artificial intelligence tool uses chest X-ray to differentiate worst cases of COVID-19"
-    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which COVID-19 patients would develop life-threatening complications within four days,"
-    publishedDateTime: 2021-05-12T09:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-artificial-intelligence-tool-chest-x-ray.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-3.jpg"
-        width: 1618
-        height: 1400
         isCached: true
   - title: "University Hospitals to begin using artificial intelligence to intubate COVID-19 patients"
     excerpt: "The AI algorithm helps medical professionals accurately insert ventilators in patients suffering from Coronavirus."
@@ -107,6 +75,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 43
+  - title: "How India Fights COVID With Artificial Intelligence"
+    excerpt: "Organisations are leveraging machine learning, software-as-a-service and data analytics etc to fight the ongoing pandemic."
+    publishedDateTime: 2021-05-12T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-india-fights-covid-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/05/covid-19-4987797_1920.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Artificial intelligence reduces the time to diagnose COVID-19 on CT scans by a third"
     excerpt: "The technology reduces the time required to process the images by about 30 percent and helps to diagnose the disease faster."
     publishedDateTime: 2021-05-10T06:09:00Z
@@ -120,6 +102,34 @@ related:
       - url: "https://www.mos.ru/open-graph/v1/frontend/en/news/item/89990073/"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence Tool Uses Chest X-ray to Differentiate Worst Cases of COVID-19"
+    excerpt: "Trained to see patterns by analyzing thousands of chest X-rays, a computer program predicted with up to 80 percent accuracy which"
+    publishedDateTime: 2021-05-12T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-tool-uses-chest-x-ray-to-differentiate-worst-cases-of-covid-19-301289457.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/1506782/NPJDig_Med_Image1.jpg?p=facebook"
+        width: 1618
+        height: 846
+        isCached: true
+  - title: "An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department"
+    excerpt: "During the coronavirus disease 2019 (COVID-19) pandemic, rapid and accurate triage of patients at the emergency department is critical to inform decision-making. We propose a data-driven approach for automatic prediction of deterioration risk using a deep neural network that learns from chest X-ray images and a gradient boosting model that learns from routine clinical variables."
+    publishedDateTime: 2021-05-12T10:02:00Z
+    webUrl: "https://www.nature.com/articles/s41746-021-00453-0"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 17
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00453-0/MediaObjects/41746_2021_453_Fig1_HTML.png"
+        width: 490
+        height: 685
         isCached: true
 
 secured: "Elbm6U9B/V/VZnbOqU//0mYK6rFxiu0gGR1NclN+xHDlKGgD6CgSD5MrrythKtHfdAz2AK0F9zIbWFg9QghHT6O6pR4N/lE/IWpzlwvXMOPFPCDcdVxfLozxlE3xASi8KYCSVmrtI59nGJ1oGhYov6U0TR2DsRywi26nTsb1YgMXmhMAazEIdyrkvv+we96wYFMRFfOmk077Fd7YhPiROUBuLhfihTxJbi5SVQ1ARjaMW+qyCywJPebmBQN1kof1PwPCLC2mvc4vztSynv7WHAhb6hqc+7e4k1bdIBdf+9VK+km52wYoQeXYrqtU8155MJX/uPgedu8p6bOGsKuArHX2u6MmywQtvlexUvwtCyY=;pk8lcQDYLRuTp0kpzRfcLg=="
