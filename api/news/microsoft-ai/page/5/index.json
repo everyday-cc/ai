@@ -2,6 +2,41 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-16-aws-slips-a-bit-in-cloud-ai-developer-services-report.md",
+      "title": "AWS Slips a Bit in Cloud AI Developer Services Report",
+      "excerpt": "Amazon Web Services (AWS) was the clear leader in research firm Gartner's annual report on Cloud AI Developer Services. This year, not so much.",
+      "sourceUrl": null,
+      "webUrl": "https://virtualizationreview.com/articles/2021/03/15/gartner-cloud-aidev.aspx",
+      "originalUrl": "https://virtualizationreview.com/articles/2021/03/15/gartner-cloud-aidev.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virtualization Review",
+        "domain": "virtualizationreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-ai-for-health-a-year-of-innovations-from-grantees-across-the-globe.md",
       "title": "AI for Health – a year of innovations from grantees across the globe",
       "excerpt": "As we reflect on how the world has changed this past year due to the pandemic, we want to take a moment to shed light on the great work our grantee partners are doing to tackle some of the most difficult health challenges using AI and data science.",

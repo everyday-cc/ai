@@ -86,20 +86,6 @@ related:
         width: 768
         height: 419
         isCached: true
-  - title: "Voice Recognition Software Market is Booming Worldwide | Nuance, Microsoft, IBM"
-    excerpt: "Latest released the research study on Global Voice Recognition Software Market, offers a detailed overview of the factors influencing the global business scope. Voice Recognition Software Market research report shows the latest market insights,"
-    publishedDateTime: 2021-05-08T01:37:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269313651/voice-recognition-software-market-is-booming-worldwide--nuance-microsoft-ibm"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/05/824-1620400907.ama-logo.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Hyperscience Joins Microsoft for Startups"
     excerpt: "Hyperscience, the automation company, today announced its participation with Microsoft (News - Alert) for Startups and its listing on Microsoft's Azure Marketplace. Joining the program will help Hyperscience strategically accelerate its growth and achieve success with Microsoft Enterprise customer sales channels and their global partner ecosystem-fueling digital transformation journeys across the government,"
     publishedDateTime: 2021-05-11T13:05:00Z

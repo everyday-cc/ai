@@ -53,7 +53,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -146,19 +146,19 @@
     {
       "path": "_news/2021-05-06-ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference.md",
       "title": "NCFA Reveals Speakers and Agenda for Online FFCON21: Fintech and Financing Conference",
-      "excerpt": "Conference to explore accelerated Blockchain - Fintech trends and innovations paving the way to mass adoption and scaleTORONTO, ON / ACCESSWIRE / May 6, 2020 / The Fintech & Financing Conference and Expo (#FFCON21),",
+      "excerpt": "Fintech trends and innovations paving the way to mass adoption and scale TORONTO, ON / ACCESSWIRE /0 / The Fintech & Financing Conference and Expo (#FFCON21), Canada's premier Fintech conference organized by The National Crowdfunding & Fintech Association (NCFA),",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/canada-business-technology-998b4e421f6ac088fe991bc051936760",
-      "originalUrl": "https://apnews.com/press-release/accesswire/canada-business-technology-998b4e421f6ac088fe991bc051936760",
+      "webUrl": "https://www.digitaljournal.com/pr/ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference",
+      "originalUrl": "https://www.digitaljournal.com/pr/ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://www.digitaljournal.com/wp-content/uploads/primages/4ebaca4eff83b73f4c080a38dc03dc9311514d98-600x337.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -168,11 +168,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T08:41:00-07:00",
+      "publishedDateTime": "2021-05-06T09:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

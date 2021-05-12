@@ -1,26 +1,26 @@
 ---
 category: news
 title: "NCFA Reveals Speakers and Agenda for Online FFCON21: Fintech and Financing Conference"
-excerpt: "Conference to explore accelerated Blockchain - Fintech trends and innovations paving the way to mass adoption and scaleTORONTO, ON / ACCESSWIRE / May 6, 2020 / The Fintech & Financing Conference and Expo (#FFCON21),"
-publishedDateTime: 2021-05-06T15:41:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/canada-business-technology-998b4e421f6ac088fe991bc051936760"
-webUrl: "https://apnews.com/press-release/accesswire/canada-business-technology-998b4e421f6ac088fe991bc051936760"
+excerpt: "Fintech trends and innovations paving the way to mass adoption and scale TORONTO, ON / ACCESSWIRE /0 / The Fintech & Financing Conference and Expo (#FFCON21), Canada's premier Fintech conference organized by The National Crowdfunding & Fintech Association (NCFA),"
+publishedDateTime: 2021-05-06T16:28:00Z
+originalUrl: "https://www.digitaljournal.com/pr/ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference"
+webUrl: "https://www.digitaljournal.com/pr/ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.digitaljournal.com/wp-content/uploads/primages/4ebaca4eff83b73f4c080a38dc03dc9311514d98-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
-secured: "v+att7Uu5TbRkJbAVmE8j4SHNzLq5jzLUXmIql9WMfSYSGy7vawAJ4oQ4t3HtiJ1iY1GV4M2XpT+RYMhy/iKmREFfLoVkMOtgg1F34awFKHuwFYnfF1mo0PALULuSLyiPKZNFWN9m1nLu4Y079M2b+DgIdkUT7TgJFIq7ULuVZhUaBZJYU/XqgF5b7FanySge8SR9QboUipRhMroakg4iep3gTuhR6B2XOJH2YuQLMpNXKaesqK2ADlfS0nrePg4XW6moSweVlPbmqYX1QUJS6VNCihrS70cxmzPweWYk09xwc0hWbi1x2G2u1DJQmi1IkKR6vVdyj3qkqcw7WOuIQ6zwLXQZ7Ztx++mM/+zB+A=;S/qqy8Sfa8J5HL2xpgUyeQ=="
+secured: "jW6H9Ls8OS7fgnRQ33qyZHYS61a1rPcMZsGEyy29je15WejR6+zKPdDyyTjlHh2yOmMKtuCCtyuGWn6DR2s7EfNSoqNbEhze+qkzHaggbRwIVIomWbJJd++4EKHZcj4ujALkiu6hzE/RLABY66yzwAZmmvIKF7NVUXoqs5M1H1pjTKwx39gMxC6vaf++pGg2hfXjsJifJvVwW2CJYK27Qw/bKXcFfpvFJFbAknwvd2c4WIpkH7ATxMWMPtsbopr7u5bRH6U763LvBHZaHW3C0yzGpCMQuj2zyUnxZ2mpcuqE+t460I96iExu37GccAdFCQ+CJixcweB23/IZb9ZrzoBXtE8N+5n5xPGnRgHbInw=;qb4JkQ5s0P+pFeaOeSlloA=="
 ---
 

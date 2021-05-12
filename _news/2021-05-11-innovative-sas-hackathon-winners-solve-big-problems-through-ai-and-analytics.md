@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Innovative SAS Hackathon winners solve big problems through AI and analytics"
-excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the"
-publishedDateTime: 2021-05-11T14:53:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
-webUrl: "https://www.prnewswire.com/news-releases/innovative-sas-hackathon-winners-solve-big-problems-through-ai-and-analytics-301288831.html"
+excerpt: "The winners of the first-ever SAS global Hackathon delivered solutions to vexing problems by using big data AI. Teams from across the globe used cloud-native SAS® Viya® advanced analytics, Microsoft Azure,"
+publishedDateTime: 2021-05-11T15:56:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d"
+webUrl: "https://apnews.com/press-release/pr-newswire/canada-europe-health-technology-business-82106e6cfe29d3e6860a8755b6049c6d"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1507804/sas_hackathon.jpg?p=facebook"
-    width: 2699
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -57,6 +57,20 @@ related:
         width: 2800
         height: 1936
         isCached: true
+  - title: "AI in 35 days: The pandemic’s answer to excuse makers"
+    excerpt: "Today, most still have advanced AI in their imaginations more often than their information technology departments. But some did hit a few of their AI targets in one short year, and they have lessons for the more sluggish among us."
+    publishedDateTime: 2021-05-12T18:44:00Z
+    webUrl: "https://siliconangle.com/2021/05/12/ai-in-35-days-the-pandemics-answer-to-excuse-makers-think2021/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Rob-Thomas-IBM-Think-2021.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Pecan AI Raises $35M To Accelerate AI Adoption In Predictive Analytics"
     excerpt: "This round brings Pecan AI's total financing to more than $50 million. and will allow the company to continue to expand global operations."
     publishedDateTime: 2021-05-10T10:52:00Z
@@ -86,6 +100,6 @@ related:
         height: 630
         isCached: true
 
-secured: "XwO9GjSMDaGjVVAPRT74uv1QZoplEmj4bexYTJ4BvrP9pNCRab5PrIJqdHJUt4DC1U3JRaXrDoI7srbAAjyRIrnHmSJ/5RHlzZANeQ57iDQ0Ciw4CYv3W1hOldLTZfk5JCq9h3pGuFdkFRPSeiSqIpH09l6ae/vb76k53bmiV2Q0TaWkUQwmr/PsuVl8+IDkFFzHhvgL2/nL3wt8yHBNmZ2hGjHiiTPwtJiC82xn/rgCPpA32QEl8p9jjbuxUZ2tZkEnxYWrQMp/kpGITj2Hpha7I5CdWhljV8+ppo+kCV9Gs1K7HPnRXFQE+3p8w3yaSOCPXSHHfzFXENY5yqYIpn+46zbvEvAUwx644ihfr7FavVrFbnJpJyi9FOze9RQIxXWBbSIimfHCcfUXAWLEf3GPb3Ug1p1kl2U0jdt2AGIYA3mmeGTfgBq1ZyvpPtj4K11YebCnMOct59Sdf0FE6UJa9majAkkSTLx/rk26UEm2GgjubggB6N7tQJYB/Hn4RlRcEbOHsjv7/G3l5tzZcA==;IzgEjjh3BQeDsydwuxJFeQ=="
+secured: "fjNMvQtcXu4cxkfWf/L8hJK4XQLfKguQ0iQ2GR4FPpU2pd6mPs8TOo/MCjomwL4menrzkAKpEqK2BdVPGzhTTWnPmYAoBhi2pUCL/RMEAGH+pHoSpEyzVmGyTcXFhAetcGm8VWlfW2hMn49v8wG7Ed4IEzLf5VzI/67cG9FUc0uGOQZyx+BlVR3PDZAxyvln3sEBDldhNR791Q/xWtiusTJrvoy6YOxQtnzF4iwFf842dxzRMBh662OYEESBfU0ntJgBd4yxFjJ2xUS9MKUmc37aIQUwBp0wrWqAUsaFgljHknaKyAysjZ+/Zios+CySBGNrofnECTbncmaD4okhVYyyZVUVJUOJwsug8DJYEEU=;QIXCcW6opoGRle6m8g8XjA=="
 ---
 

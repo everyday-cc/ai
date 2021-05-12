@@ -71,20 +71,6 @@ related:
         width: 768
         height: 419
         isCached: true
-  - title: "Voice Recognition Software Market is Booming Worldwide | Nuance, Microsoft, IBM"
-    excerpt: "Latest released the research study on Global Voice Recognition Software Market, offers a detailed overview of the factors influencing the global business scope. Voice Recognition Software Market research report shows the latest market insights,"
-    publishedDateTime: 2021-05-08T01:37:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269313651/voice-recognition-software-market-is-booming-worldwide--nuance-microsoft-ibm"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/05/824-1620400907.ama-logo.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence Voice market will continue to boom says analyst – Google, Apple, Microsoft, Nuance, Facebook"
     excerpt: "Artificial Intelligence Voice is the latest research study released by Ample Market Research to assess the market, highlight opportunities, analyze the risk side, and leverage strategic and tactical support for decision-making."
     publishedDateTime: 2021-05-11T15:09:00Z

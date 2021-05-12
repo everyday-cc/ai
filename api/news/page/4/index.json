@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-08-cloud-software-provider-billcom-to-acquire-expense-management-fintech-divvy-in-25b-deal.md",
+      "title": "Cloud Software Provider Bill.com to Acquire Expense Management Fintech Divvy in $2.5B Deal",
+      "excerpt": "Cloud software provider Bill.com to acquire expense management Fintech Divvy in $2.5B deal. The transaction should be finalized by Sept 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://getdivvy.com/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/05/175065-cloud-software-provider-bill-com-to-acquire-expense-management-fintech-divvy-in-2-5b-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://getdivvy.com/wp-content/uploads/2019/05/Divvy-Logo-19.png",
+          "width": 640,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-07T18:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-tesla-refutes-elon-musks-timeline-on-full-self-driving.md",
       "title": "Tesla refutes Elon Musk’s timeline on ‘full self-driving’",
       "excerpt": "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker.",
@@ -1176,58 +1218,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-samsung-develops-an-innovative-i-cube4-chip-packaging-technology-faster-efficient.md",
-      "title": "Samsung develops an innovative I-Cube4 chip packaging technology: Faster & Efficient",
-      "excerpt": "Amidst the global chip shortage, leading chipmaker Samsung has announced a new chip packaging technology. Potentially, the new technology could yield more efficient and faster chips using an innovative chip-packing technique.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/05/07/samsung-develops-innovative-i-cube4-chip-packaging-technology/",
-      "originalUrl": "https://www.gizmochina.com/2021/05/07/samsung-develops-innovative-i-cube4-chip-packaging-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/samsung.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

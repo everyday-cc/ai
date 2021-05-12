@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-11-utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire.md",
+      "title": "Utilizing AI To Reach Peak Performance In Health And Business: How The Sculpted Vegan Built An 8-Figure Empire",
+      "excerpt": "According to Kim, data measurement is not only how she tracks performance and improves results, it is key to her success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60999aa57f0f303323a5e166%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1600%26cropY1%3D67%26cropY2%3D967",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/10/utilizing-ai-to-reach-peak-performance-in-health-and-business-how-the-sculpted-vegan-built-an-8-figure-empire/amp/",
+      "publishedDateTime": "2021-05-10T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-nurses-are-essential-to-ai-integration-in-healthcare.md",
       "title": "‘Nurses Are Essential’ to AI Integration in Healthcare",
       "excerpt": "Nurses are also crucial stakeholders as hospitals seek more uses for artificial intelligence and machine learning to deliver care.",
@@ -694,7 +745,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359473/microsoft-partners-with-darktrace-on-ai-enhanced",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -789,7 +840,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-fintech-expend-celebrates-impressive-start-to-crowdfunding-campaign-1030408028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1159,48 +1210,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-cloud-software-provider-billcom-to-acquire-expense-management-fintech-divvy-in-25b-deal.md",
-      "title": "Cloud Software Provider Bill.com to Acquire Expense Management Fintech Divvy in $2.5B Deal",
-      "excerpt": "Cloud software provider Bill.com to acquire expense management Fintech Divvy in $2.5B deal. The transaction should be finalized by Sept 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://getdivvy.com/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/05/175065-cloud-software-provider-bill-com-to-acquire-expense-management-fintech-divvy-in-2-5b-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://getdivvy.com/wp-content/uploads/2019/05/Divvy-Logo-19.png",
-          "width": 640,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T18:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

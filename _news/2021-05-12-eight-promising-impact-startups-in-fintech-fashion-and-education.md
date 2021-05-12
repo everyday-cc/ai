@@ -86,6 +86,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Why fintech companies are winning big in banking and finance"
+    excerpt: "The fintech contenders on tech-powered platforms will offer new-age banking services that capitalize on \"data-fueled, hyper-personalized experiences in real-time.\""
+    publishedDateTime: 2021-05-11T09:50:00Z
+    webUrl: "https://techhq.com/2021/05/why-fintech-companies-are-winning-big-in-banking-and-finance/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/05/000_9329CH.jpg"
+        width: 1024
+        height: 593
+        isCached: true
   - title: "Overfunding: UK AI-Powered Fintech Expend Quickly Surpasses £500,000 Target Through Seedrs Campaign"
     excerpt: "Expend, a UK-based AI-powered fintech, has successfully secured its initial £500,000 funding target through its equity crowdfunding campaign on Seedrs. The funding round, which recently made its debut,"
     publishedDateTime: 2021-05-10T13:32:00Z

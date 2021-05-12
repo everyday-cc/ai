@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-13-deepmind-wants-to-use-ai-to-transform-soccer.md",
+      "title": "DeepMind Wants to Use AI to Transform Soccer",
+      "excerpt": "Now, defending Premier League champion Liverpool has joined forces with DeepMind to explore the use of artificial intelligence in the soccer world. A paper by researchers at the two organizations, published today by the Journal of Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/?utm_social-type=owned",
+      "originalUrl": "https://www.wired.com/story/deepmind-wants-to-use-ai-to-transform-soccer/?utm_social-type=owned",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/609b2c09f909f0e41019355b/191:100/w_1280,c_limit/business_liverpool_1232769694.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-now-deepmind-is-using-ai-to-transform-football.md",
       "title": "Now DeepMind is using AI to transform football",
       "excerpt": "The Alphabet-owned company is working with Liverpool to apply AI smarts to the high-stakes world of football tactics",
@@ -1389,49 +1441,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost.md",
-      "title": "DeepMind ‘Podracer’ TPU-Based RL Frameworks Deliver Exceptional Performance at Low Cost",
-      "excerpt": "A new DeepMind paper introduces two architectures designed for the efficient use of Tensor Processing Units (TPUs) in reinforcement learning (RL) research at scale.Deep learning (DL) frameworks such as TensorFlow,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/04/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost/",
-      "originalUrl": "https://syncedreview.com/2021/04/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/04/image-76.png?fit=950%2C622&ssl=1",
-          "width": 950,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/04/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/04/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost/amp/",
-      "publishedDateTime": "2021-04-19T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
         "images": null,
         "publishers": null,
         "authors": null

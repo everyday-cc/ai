@@ -85,6 +85,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Why fintech companies are winning big in banking and finance"
+    excerpt: "The fintech contenders on tech-powered platforms will offer new-age banking services that capitalize on \"data-fueled, hyper-personalized experiences in real-time.\""
+    publishedDateTime: 2021-05-11T09:50:00Z
+    webUrl: "https://techhq.com/2021/05/why-fintech-companies-are-winning-big-in-banking-and-finance/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/05/000_9329CH.jpg"
+        width: 1024
+        height: 593
+        isCached: true
   - title: "Overfunding: UK AI-Powered Fintech Expend Quickly Surpasses £500,000 Target Through Seedrs Campaign"
     excerpt: "Expend, a UK-based AI-powered fintech, has successfully secured its initial £500,000 funding target through its equity crowdfunding campaign on Seedrs. The funding round, which recently made its debut,"
     publishedDateTime: 2021-05-10T13:32:00Z
@@ -130,6 +144,6 @@ related:
         height: 1066
         isCached: true
 
-secured: "Y7A5r5OMyJPUYWCH2LSZ63hfGSQVJG+m1JcB+7RaCBpPRZ646mHoHCF5FK9plrxYc38TTS98IFlrxYRa5s9r3UQ2xVOa/d7GYiZvf3v79qPh453AKtczG0bUbil6W7z0XXxnd02tnBnpwkn2ZtTbz6b80VdTdzIylHvZs8A7k0LI8P5AfL6E8Ocnp3AN1h9XOSGnI6wCHbwzmFp0+6vj6pEPN4x+CpAR/mRTDfRJ2Ml7f+UND5owe3ctipIJca+gW03DTlgzo80iGlmL92Jzyzd7h/+JoiypixBlusbV0++7+gLWlfAib0KjVBM91VH5gdnyCZ1T8hj1diC4tqcj5zNgLyhkH7fxaBxr4el074g=;a1YYvPtLf9QqzkILjI3rbg=="
+secured: "cf85z2hqmyTo5U8Vo0dfBDBpkK9TLcfIpvMZQusDojnIFmeOMh5ndflc14trwsRSEBkniWdHxjG3wFS58n4IzN1y+N+IbjhZpxUhxluGK8K9lPJ8GwwDuz6hy3pMsq74cTavaFtw9EBjPQXoHYR9uG4WbU6gPF/FS0xxkN/+17GMMYdrA6jmJF0d9SRLzi6tmgYocMQN/LHaeszcSXKtxB9AX5JKGgPc40X4bkCWOMPjXylxS6gFg9ZpFxDe5fhgNLMfcUZGEE+Bf9hjLEB5198a6120Eule+PjmYrfZKqGlApFbT/lxd6zPxVMCytRafps9COzubdEqgEXaLhhJ9s6RXFKVxx98vizbOOusXzbryELoffOUQt7+hW1nkm+BUWMGEvb6n1RZkAA5yBrOfMcT0Ook/FVhQKZDrdN5SfECA97Ahb9JNo6MLYM4RHOIFhjl+0Hrxe8dnq9RmYV3SeHSdlnhmty0GQf9lTRdoyVxANMK1fk+nej4benHdmlysxQ+mgbENhb5O+ugZpq1ow==;15NeZyU0JElvgOv8B0zNbw=="
 ---
 

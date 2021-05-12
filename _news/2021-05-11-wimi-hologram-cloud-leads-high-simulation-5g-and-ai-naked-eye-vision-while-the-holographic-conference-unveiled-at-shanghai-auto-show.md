@@ -37,17 +37,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 7
-  - title: "WIMI Hologram Cloud Applies AR and AI Technology to Autonomous Car Driving, and the Holographic Smart Cockpit Makes Sci-Fi Movies Come True"
-    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report “WIMI Hologram Cloud Applies AR and AI Technology"
-    publishedDateTime: 2021-05-08T01:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/05/ab21022745/wimi-hologram-cloud-applies-ar-and-ai-technology-to-autonomous-car-driving-and-the-holographic-sm"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/21022745"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21022745"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
 
 secured: "RagI27dC+KJmeSFVA7XT7YXv+XQOJfun+sM0z+LJCWfhocI92wpRGlTDoQCCMuvlPQxvu5q3bmjqXWzwhzkfu/cKJShx935JbSc+nl7KjkkylDOfNSDRRTDuWxXcS/TgCPEpgi//rMe+C0mLSwG3H1F4Xg7j1esrmf1SBkNouei15bZBfl56mb+qxVVmUSLQ5q3XWjNss4nqUYcmDHOnwVDfSZayHmP6C5m0NKDaLsxFGvJyJNR0ySfXdcN4Eh2GBZ2Yq0bq297sAhfaj2/rtJX7/Q/iB4zfinWc24JxJ8r7VyfILfxeykSR0luO1DLxvrDJFqWLrCbkL4G+UqM4jx5QNWFDFxVe5FP/yHpKx31x0N7FfiBbE6bhNz06jUR27kGAzz9JWqPGIcTxplAjdIPrIM3jvzqGl71NhmXa8MNqks+EafStdasgeB8l3GifV7JKzh94+awZ5cawmc7w+ZCVfAcD4uN5j3ZvF/XSr/4gLkxjEYMF04OsJx1HWO6wZQIbxEt1oBYigNdT4upqbQ==;uDINeR6Hz9sLzpCiIoy7yQ=="
 ---
