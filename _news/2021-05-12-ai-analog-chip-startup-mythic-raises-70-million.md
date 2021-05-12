@@ -43,14 +43,14 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI analog chip startup Mythic raises $70 Million"
-    excerpt: "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $70 million in its latest round of funding. By May 11 (Reuters) - Mythic,"
-    publishedDateTime: 2021-05-11T13:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-analog-chip-startup-mythic-raises-%2470-million-2021-05-11"
+  - title: "AI Analog Chip Startup Mythic Raises $70 Million"
+    excerpt: "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $70 million in its latest round of funding. The Redwood City,"
+    publishedDateTime: 2021-05-11T13:04:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-05-11/ai-analog-chip-startup-mythic-raises-70-million"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 64
   - title: "Mythic, maker of energy-efficient analog chips for AI, raises $70M in new funding"
     excerpt: "Pioneering artificial intelligence chip startup Mythic said today it has raised $70 million in a new round of funding that follows the launch of its first products last year. The Series C round was led by BlackRock,"

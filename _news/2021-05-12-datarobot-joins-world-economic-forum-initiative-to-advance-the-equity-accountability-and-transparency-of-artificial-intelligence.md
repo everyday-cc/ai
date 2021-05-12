@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-12T13:00:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210512005559/en/DataRobot-Joins-World-Economic-Forum-Initiative-to-Advance-the-Equity-Accountability-and-Transparency-of-Artificial-Intelligence"
 webUrl: "https://www.businesswire.com/news/home/20210512005559/en/DataRobot-Joins-World-Economic-Forum-Initiative-to-Advance-the-Equity-Accountability-and-Transparency-of-Artificial-Intelligence"
 type: article
-quality: 0
+quality: 6
 heat: -1
 published: false
 
@@ -16,8 +16,26 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
+  - AI in Robotics
 
 related:
+  - title: "DataRobot’s Zepl acquisition bridges the AI divide"
+    excerpt: "DataRobot acquires Zepl to bridge the divide between end users, business analysts, and data science teams relying on open source toolkits."
+    publishedDateTime: 2021-05-12T14:20:00Z
+    webUrl: "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/"
+    ampWebUrl: "https://venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/12/datarobots-zepl-acquisition-bridges-the-ai-divide/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/DataRobot-Composable-AI.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "DataRobot Refreshes AI Platform, Nabs Zepl"
     excerpt: "DataRobot unveiled several enhancements in its automated machine learning platform today, including the introduction of features like composable ML and"
     publishedDateTime: 2021-05-11T17:40:00Z
@@ -31,20 +49,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/robot_shutterstock_Phonlamai-Photo.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "AI-Driven Enterprises Market Research 2021 Report | Growth Forecast to 2027 Infosys, DataRobot, Deloitte"
-    excerpt: "AI-Driven Enterprises Market is growing at a 52.15% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”."
-    publishedDateTime: 2021-05-09T19:37:00Z
-    webUrl: "https://ksusentinel.com/2021/05/09/ai-driven-enterprises-market-research-2021-report-growth-forecast-to-2027-infosys-datarobot-deloitte/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 37
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-127-780x470.png"
-        width: 780
-        height: 470
         isCached: true
 
 secured: "xnoO/ajGxqeA7KST+FqGXz8tSLO3RvxYnBN2L+o3WnvkpRD4AFYt/4xmb8dOG9NJFVOov29FwgKRgmuXng00LzaMhsHHAZBMDLTnu/7dAuZKu71Jj42J7hpFnKrFaVFdDBJ/XPmDieQSYosGc2FLzSp0Md0PAEgRYVg0Vb/jn1xSvAv+vi5rprO/qcczW2cN+WapWQWsOQAbGYbwF39jRt8dZgZQ1PyraSfLxKw9lknblUBf+Ch4ER5gpsaCuniNdz47NvdguvipWOHH9i2J6j0ukhsL/x47rBawBbju1pyIuAcVOS5ZioEqB7MWtQDaus5qxqhHp3EzL0tHZiRUHVVMaTTkkgdhBgObDe+xJOI=;I+/iqCvKd+kBGoWPJnUdsw=="

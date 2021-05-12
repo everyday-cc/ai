@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/12/elon-musk-tesla-full-self-driving-v9-weeks-away-fsd-subscription-timeline/amp/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 203
+published: true
 
 provider:
   name: Electrek
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’"
-    excerpt: "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker."
-    publishedDateTime: 2021-05-07T22:33:00Z
-    webUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/"
-    ampWebUrl: "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1130604490.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Tesla admits Musk’s ‘full self-driving’ claim not feasible yet"
     excerpt: "Tesla vehicles are far from reaching a level of autonomy often described by Musk on social media, according to an internal memo obtained by"
     publishedDateTime: 2021-05-08T13:53:00Z
@@ -171,48 +155,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Tesla admits Musk&rsquo s &lsquo full self-driving&rsquo claim not feasible yet"
-    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such claims do not match up with the engineering reality."
-    publishedDateTime: 2021-05-09T10:16:00Z
-    webUrl: "https://menafn.com/1102049928/Tesla-admits-Muskrsquo-s-lsquo-full-self-drivingrsquo-claim-not-feasible-yet"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 50
-    images:
-      - url: "https://menafn.com/updates/pr/2021-05/08/KT_bdad9image_story.jpg"
-        width: 1035
-        height: 669
-        isCached: true
-  - title: "Tesla Privately Admits ‘Full Self-Driving’ Claims Do Not Match Up To Engineering Reality"
-    excerpt: "Despite tall claims made by Elon Musk over Twitter about the full self-driving technology, electric car-maker Tesla has privately admitted that such claims do"
-    publishedDateTime: 2021-05-10T16:12:00Z
-    webUrl: "https://www.techshout.com/general/2021/10/tesla-admits-full-self-driving-claims-do-not-match-up-to-engineering-reality/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 45
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2019/03/tesla-model-3-sedan.jpg"
-        width: 720
-        height: 350
-        isCached: true
-  - title: "Tesla refutes Elon Musk’s timeline on ‘full self-driving’ – TechCrunch"
-    excerpt: "What Tesla CEO Elon Musk says publicly in regards to the firm’s progress on a completely autonomous driving system doesn’t match up with “engineering actuality,” in line with a memo that summarizes a gathering between California regulators and workers on the automaker."
-    publishedDateTime: 2021-05-07T22:15:00Z
-    webUrl: "https://bestgamingpro.com/tesla-refutes-elon-musks-timeline-on-full-self-driving-techcrunch/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 39
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/05/Tesla-refutes-Elon-Musks-timeline-on-‘full-self-driving-–-TechCrunch.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Tesla and the self-driving vehicle industry need federal oversight"
     excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."
     publishedDateTime: 2021-05-11T10:05:00Z
@@ -252,23 +194,18 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Elon Musk's own executives admit to the California DMV that he is exaggerating about Tesla's capability to achieve full self-driving technology by the end of 2021"
-    excerpt: "In a memo with the California DMV, Tesla's executives privately admitted that Elon Musk is exaggerating about all of the company's cars to have full self-driving technology"
-    publishedDateTime: 2021-05-07T21:50:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9555211/Tesla-admits-California-DMV-Elon-Musk-exaggerating-self-driving-cars.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9555211/amp/Tesla-admits-California-DMV-Elon-Musk-exaggerating-self-driving-cars.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9555211/amp/Tesla-admits-California-DMV-Elon-Musk-exaggerating-self-driving-cars.html"
+  - title: "Editorial: Tesla and the self-driving vehicle industry need federal oversight"
+    excerpt: "It is past time for the feds to take the wheel on an investigation of so-called self-driving vehicles. A recent fatal crash of a Tesla near Houston — a crash in which no one was behind the wheel of the vehicle — has sparked the interest of two federal agencies."
+    publishedDateTime: 2021-05-12T10:05:00Z
+    webUrl: "https://www.westhawaiitoday.com/2021/05/12/opinion/national-views/editorial-tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/"
+    ampWebUrl: "https://www.westhawaiitoday.com/2021/05/12/opinion/national-views/editorial-tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/amp/"
+    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2021/05/12/opinion/national-views/editorial-tesla-and-the-self-driving-vehicle-industry-need-federal-oversight/amp/"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 13
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/05/07/21/42711690-0-image-a-48_1620420313240.jpg"
-        width: 636
-        height: 382
-        isCached: true
+      name: West Hawaii Today
+      domain: westhawaiitoday.com
+    quality: 36
 
-secured: "A1B5RuGWQcjPsVuS/4qU6CT9OepofIUpr/AzKlW3MTSpAY3vBDGEAMgOYUmfHwEliSXwuWcEr8wZT60NxIL3DYc2nUWNMbE2y0lRu+7UiXevnEJQGT6pe8aRJ1poyNNF7KABUAIELHHNMG+DP+nqwyYbSO/Wfo23XrBXjPZY/GlXWr9N2Q/NJRjHciLQuyBJ8FRCmtRoZk/IqobT53D3zquhWUidKR8uAmQ0ygggj0mO3LxGx3XPZa//sIsWLG8832afGpc6WR/SN4GCisLz0nPx6H15lJOf19fmh7Gqklwn9qFYgl5Xch2h2QkWhAE/R0UIHXfdEIlL+Zsg9QEZUHEznphKbk5Aov146tx3/Ro=;8QTpqi0WKWn0YDBzjHS6XA=="
+secured: "7dIBnEkjYwoVW2hdS4x7eH2PdFuK+G1AyOZeEDEYNcyhJqDyQvUSjmmVmolKp06BrKvoYK073E0D2VaujEMDE/3Pei1g/OGClAud4cGLCgfSgDrb+6WXng5yHx++wxO4yNMaTdI2G9PqP2ZZ8uP6+gR1prOnqdYhawqkhVe5WcJC8OqXkLrbV2/ZYAAMewEshlDJzNOU/Owc/eVajyocliKvdGaCRLS2H/Zfjttedo4s2qoW4umhwhjfiHdD03g7jjYu86sl3MieV8W6ED3bqSsQnBKciueWq0LORoXocmcRdNpD2k5mMYI83ZhcVbPKX7zD+X+6bk4wkvHfwCGlepGZJQeSZCQr5/tlYP/E0+dBF5PXxQ1hiRyWy1iyijV7rQ7efjbbM0oAccbNp2M2XosphPEQ5ZAokP9p9s5nrDFEaK4srHwwsJDcG205IjtJjN8Weyt1H9kMiLT/BcGam53bCbmKkxYjErhYTgA9TJ5TwSwCriPGiUBQEjzdrv4AO57eFg/3guesL56FrVZw3w==;I024xJC3PRM9bHcq+JrZ6w=="
 ---
 

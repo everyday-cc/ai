@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "WIMI Uses AI Vision Combined with the Black Technology of Holographic Intelligent Driving, Revolutionizes the Field of Unmanned Driving"
+    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report \"WIMI Uses AI Vision Combined"
+    publishedDateTime: 2021-05-12T13:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/05/g21082876/wimi-uses-ai-vision-combined-with-the-black-technology-of-holographic-intelligent-driving-revoluti"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/21082876"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21082876"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
   - title: "WIMI Hologram Cloud Applies AR and AI Technology to Autonomous Car Driving, and the Holographic Smart Cockpit Makes Sci-Fi Movies Come True"
     excerpt: "Tailor Insight, the fintech market research organization, recently released a research report “WIMI Hologram Cloud Applies AR and AI Technology"
     publishedDateTime: 2021-05-08T01:14:00Z
@@ -38,6 +49,6 @@ related:
       domain: benzinga.com
     quality: 5
 
-secured: "N+DAIXfqFAEbkYV+3k8MSek2Ody0dX1SwJ33Y1tTKsLQllRrnp852/q3EC3/fqploYuPGVF3JzcJH6VMFIfME0iAepU9bjwj5/ylKQX7kCMDZYCpKy01XL50b51VZVUQ1QvvIdzIaUdeAKwPilY4YRUNkptAkFj78EIPKnlVkIHViHV6t0gqWtqa9O4J8RmsJ+mYPXBRlDoLEkH1KR7kNZKC39Lq0xBNJSCnPcuFg3/+NGDnniVzKhp9TCR37TJhoUV3ayCUzvCXNCRhO0e+5UGuDy97B6RvcisqsGGQ6Etc/ofEVMDFho72anxw2In2JVmR7n7pBjf9qJ8acnaA8zmD5YsB7Vwoe+LiiYNkdIc=;L/36LOdqdVUifQi7dQSLmw=="
+secured: "RagI27dC+KJmeSFVA7XT7YXv+XQOJfun+sM0z+LJCWfhocI92wpRGlTDoQCCMuvlPQxvu5q3bmjqXWzwhzkfu/cKJShx935JbSc+nl7KjkkylDOfNSDRRTDuWxXcS/TgCPEpgi//rMe+C0mLSwG3H1F4Xg7j1esrmf1SBkNouei15bZBfl56mb+qxVVmUSLQ5q3XWjNss4nqUYcmDHOnwVDfSZayHmP6C5m0NKDaLsxFGvJyJNR0ySfXdcN4Eh2GBZ2Yq0bq297sAhfaj2/rtJX7/Q/iB4zfinWc24JxJ8r7VyfILfxeykSR0luO1DLxvrDJFqWLrCbkL4G+UqM4jx5QNWFDFxVe5FP/yHpKx31x0N7FfiBbE6bhNz06jUR27kGAzz9JWqPGIcTxplAjdIPrIM3jvzqGl71NhmXa8MNqks+EafStdasgeB8l3GifV7JKzh94+awZ5cawmc7w+ZCVfAcD4uN5j3ZvF/XSr/4gLkxjEYMF04OsJx1HWO6wZQIbxEt1oBYigNdT4upqbQ==;uDINeR6Hz9sLzpCiIoy7yQ=="
 ---
 

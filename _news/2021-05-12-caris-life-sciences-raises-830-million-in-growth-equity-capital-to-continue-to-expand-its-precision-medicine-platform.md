@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Virtual Science Laboratories Market to Grow at 13.2% CAGR, Rising Demand for Online Learning to Drive Growth"
-    excerpt: "The virtual science laboratories market is a robust and innovative landscape with burgeoning opportunities for new players as technologies like animation machine learning and AI continue to promise an evolution for learning for students in STEM disciplines The STEM sciences"
-    publishedDateTime: 2021-05-07T21:19:00Z
-    webUrl: "https://www.openpr.com/news/2281825/virtual-science-laboratories-market-to-grow-at-13-2-cagr"
-    ampWebUrl: "https://www.openpr.com/amp/2281825/virtual-science-laboratories-market-to-grow-at-13-2-cagr"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2281825/virtual-science-laboratories-market-to-grow-at-13-2-cagr"
+  - title: "Sixth Street leads $830m growth equity round in Caris Life Sciences"
+    excerpt: "Caris Life Sciences announced an $830 million growth equity round, led by Sixth Street, marking its third investment in the precision medicine business. The financing puts Caris p"
+    publishedDateTime: 2021-05-12T13:19:00Z
+    webUrl: "https://www.pehub.com/sixth-street-leads-830m-growth-equity-round-in-caris-life-sciences/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 25
+      name: PE Hub
+      domain: pehub.com
+    quality: 24
     images:
-      - url: "https://cdn.openpr.com/U/5/U507939973_g.jpg"
-        width: 800
-        height: 418
+      - url: "https://d16yj43vx3i1f6.cloudfront.net/uploads/2020/02/PEHub-1.png"
+        width: 1361
+        height: 641
         isCached: true
 
 secured: "yVj5oiEZUBx8DyGb2MMhMnCeF9OlbyalARauWkUnlZX74VKjuF3IKc3tPicGwwQI0zBjqL/nnXTNF0kNDsJOIhXBI3Ez/n1yXKGq9pvuSaeva2fK6Yrl40ZJ3vqwDnFbspwavstOhIoUHGlrMqGTaPJ6SeKfKR4Nb72lYSf8TufSU1daLCaQvbRI6P5Mw/B51DwKJTK98tUgD8/eo/mk58yym5yE7WW2g7rJKDi9cxt5E3ph4r7a5W3ELhXaahWfFczJfmExJvr90jKHp9WRZXhbLgsUQsPzfhKbPLLvGnDwbKzcP8EuPQy9m742xuAvb/wH5Aq/z0CL3xbUf8aPkeqUiRQT94Cs7qDi7jC+pQpjS12Esln7+p8OxBbyo/srYLh3ws4bGMtdnxg64WPvmlj9hiLJq2imvHL45aTVwc2kll+R3CFLkRCEHXQilIerk/X95Rv5IBOPldnCVwNQVGwe2IlHNBid9nxPMzNY0oLuMlsKOc583MZzcZx+ekw9Ei5UtbRLnVW0keSmgv4JkQ==;uNyms6V3s8R7dOStwMpv1w=="

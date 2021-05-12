@@ -1,18 +1,22 @@
 ---
 category: news
-title: "AI analog chip startup Mythic raises $70 Million"
-excerpt: "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $70 million in its latest round of funding. By May 11 (Reuters) - Mythic,"
-publishedDateTime: 2021-05-11T13:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/ai-analog-chip-startup-mythic-raises-%2470-million-2021-05-11"
-webUrl: "https://www.nasdaq.com/articles/ai-analog-chip-startup-mythic-raises-%2470-million-2021-05-11"
+title: "AI Analog Chip Startup Mythic Raises $70 Million"
+excerpt: "Mythic, a startup making artificial intelligence chips for use in gadgets such as smart home devices or security cameras, on Tuesday said it raised $70 million in its latest round of funding. The Redwood City,"
+publishedDateTime: 2021-05-11T13:04:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-05-11/ai-analog-chip-startup-mythic-raises-70-million"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-05-11/ai-analog-chip-startup-mythic-raises-70-million"
 type: article
 quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -84,6 +88,6 @@ related:
       domain: bizjournals.com
     quality: 34
 
-secured: "J2lef4p1EnOSqrNlxA5dmPeZxNbgUhaxwtA6AIefAViqZIFZNgX2IWSALX9Din96vMdBhkmC8HvcQMv2cqPopExc747ODA5RNaWnyjhTn0XMl9kwp23WfWcWJZjllxSWy+LXVrtkB8Copdo9fSWvq1KQRsvWWQewH92mXdzn6ZGWZgLeksgDh4xLvCLBTA6LBwlF/INRi+991na7zWQnRDMdRSN4L6KOGmbmqSqgfnx5JshLeQfiELE+Vd1I2UHMWjyIvJm0Ef6dQM6elI34bPZdLxBJ841AqwZhjZSgGN4Av2Qa18I6X5du3WQIrD8F7Im+0dcskPVbajr16rA3NWxHC2Fv4naIsiB3I4+J7cE=;5SHQP34o1F1fnbmHuJDl5w=="
+secured: "B7Djrg2DEGON9vg2tsmESQ8512LznwZIdG/V7TerDTks0gZO+BC0ZbMEey6Aqmd62l34pplANwfAllf4wGkCbXg3HOme9+hpbQE+578JHM+Y4hXuxaUJtThstB4xQpUTjfkm+QABH+fedbIj8QJvHEiYIGzC5vKq20C9kSkhztl8HdIJd11tNgq07SoiP04lDi8TzUPFGy03PIaXepUomL0XOqy9+vA8EsdP2yUViYMlE44xyuANnlnH5TH0ycz4VpLt+wC6eEA+iRKzHMXkJIFW6SgzotJZTN4IP49Z76SLOUAxKS7LD2TI2QA0DIL9OmBFuOSgWLSRrSW/ncz0ln2qxhjTw8sta1htN6LpacRLVW5HQk3KDDm0KhnmAlcBuBUEJBqEcLbi3uAtV7xHOf6WILmBlpt6eoxf2nf//1dYLlXamH/EHhcrhJIUEPMRc3k7XNtJ+lITaPSrB88L9Zs3RLndhNk+O2eF50WIaBV+5n28BD3JsOQL0pjPCbiRBP0N2F8fl5M1GDlPRueXfg==;3s56OEut8O3kqSs6qJ+uxg=="
 ---
 

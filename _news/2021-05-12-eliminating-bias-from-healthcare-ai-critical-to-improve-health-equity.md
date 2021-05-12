@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Eliminating bias from healthcare AI critical to improve health equity"
-excerpt: "Artificial intelligence (AI)-driven healthcare has the potential to transform medical decision-making and treatment, but these algorithms must be thoroughly tested and continuously monitored to avoid unintended consequences to patients."
-publishedDateTime: 2021-05-12T06:34:00Z
-originalUrl: "https://medicalxpress.com/news/2021-05-bias-healthcare-ai-critical-health.html"
-webUrl: "https://medicalxpress.com/news/2021-05-bias-healthcare-ai-critical-health.html"
-ampWebUrl: "https://medicalxpress.com/news/2021-05-bias-healthcare-ai-critical-health.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-bias-healthcare-ai-critical-health.amp"
+excerpt: "Artificial intelligence (AI)-driven healthcare has potential to transform medical decision-making and treatment, but AI algorithms must be thoroughly tested and continuously monitored to avoid unintended consequences to patients."
+publishedDateTime: 2021-05-12T04:00:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-05/ri-ebf051121.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-05/ri-ebf051121.php"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/eliminating-bias-from.jpg"
-    width: 2880
-    height: 1920
+  - url: "https://www.eurekalert.org/multimedia/pub/web/264682_web.jpg"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -39,6 +37,6 @@ related:
       domain: newindianexpress.com
     quality: 56
 
-secured: "vPk+sV3XvOFS8Y6woSIsIp5ZB1IM4LoLBtupLKq0LOoZHTPNnz0d20kC2OlAqQ0MsmWdqF4o3dkIZQ51OBsXosg+YG0OoFxoUe8CiiksBihjv7HS9HDwlXm8iPPwg7VAv+7YRBU9uhriDbTbjxyhDk144KW5gGQnY+U8ny0RuNL/K26Ps5uv+YiwJL004dXW/vvEXAxDjEbEtj+ywZRCaihqXTMpTS8z3pjtOUIk1gINf+fqh5ij3ci6eOx4zGrLUYvTDOA8+nVXjhNwe0FKCVoYs7bVg9jE0hlCMYgblnDQFZib2Z8eJUTqDAIZbyruncJtFQwnkYrrP5vYJRpoKM9A5mFXhs2Q2UJmlZPel0kL5ul62A3NvbvTKrJ0DdbxVfBScXhmZ3UfrsEapRLSqIZp4OLmCjn4OCcUK23sn77C/EZv9xA8F2ZaoSPd5G4Pzpw96E9oGBQZHaaCOvcTpKTLVeGsGGUT8fJqMb2ZRZpyEdj1mKKNSJa1tocYQalPiumTu26dvRgSshUKCuNJ0w==;3wn1UG1EW3RxMt1MS2zoYA=="
+secured: "C7TkZnCZ2c3iWoYuvnpPTjWk3tUFRhv4CfQF9KRfVEsu0itQpUuBvtN8/zTkp91VpEaxJJTrWnlP3sdsXNzKHqHkJfYmk4Z+e1v9QV+dsjyL2584uCPTTz3TSeJ9MNQUCLhdSZwcmMC/GGJvwu6AfaHkCCl9ChQTcPE0jbXEgr9/NRpxkUfp89WjzuqRIU8qOpyVznFqbkQkonpfVJlUombKx8UJ8z9zE+GxTDYdF/iD2Xb/8MwvRNTlNRb41NflSiCBavRlmWbnfD8YovfqZAUqhj0V76P/xA16TSnAf9zKIq2qF99GxIVq8Sgoyddo25i0a7COtCBU6XS6Fdg6+lNdRDNjkEiiYnldNM6/EJU=;dKK17QtKQL9xbp4JvPdTnw=="
 ---
 

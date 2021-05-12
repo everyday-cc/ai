@@ -39,6 +39,20 @@ related:
         width: 475
         height: 630
         isCached: true
+  - title: "Self-driving VW ID.Buzz electric vans hit the road this summer ahead of commercial service in 2025"
+    excerpt: "Volkswagen Group plans to launch a commercial self-driving taxi and delivery service in Hamburg, Germany, via its Moia ride-sharing business, starting in 2025. The service will use self-driving vans based on Volkswagen's upcoming electric van previewed by 2017's ID."
+    publishedDateTime: 2021-05-12T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1132231_self-driving-vw-id-buzz-electric-vans-hit-the-road-this-summer-ahead-of-commercial-service-in-2025"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 10
+    images:
+      - url: "https://images.hgmsites.net/hug/volkswagen-id-buzz-ad-self-driving-car-prototype_100791595_h.jpg"
+        width: 1920
+        height: 979
+        isCached: true
 
 secured: "mLJoPPvNz+ZjKr4V99rI0aS2G0Z24T074zfSrVLF4PIF0KJXWOQfYzeeiygrIqrstWNTN2Yu58KYqG71j1L9lR73X6Xco+xe0RNNhUCSgjIFY99xlpSuJQsicifmOKNQKcG9xhrM88pnVE1tuh2O3Gz7+mtTg4DbiaAakGAt3zTJBIRKDs1R2Qmbqth7MesogRM0pEVYjrIs2Zh4od1VicLegiMyz+AHmCUAE//DEv4sKMk1s+/A6k8PH1P0YRvc1AwOFoyLPEDEz1ikK2mcsCPXcR64olXP+sUEsiVOgA4+4o1Pcnl1gX3de90DB5dG3s+ZppP4ArRoflaja+9stBhxzmNaHketjHES4AUSs5kwyslBnAjHF+amkID1VUrg5WyLnStcPfH2HxKYBZgyHXezacyc06BbqT79MEswrvTzIqikRfTV6bgCRPzjtX67u/27bgdWouiKTwqPPjydaZmkn5VLjbXwpswvQRBklGLZ11P8ZufrCPYi35vpguO7OzSU+PHKI9Qns9pxU7c+Dw==;MO2MfmPHyUBvm9nHjgiTWA=="
 ---

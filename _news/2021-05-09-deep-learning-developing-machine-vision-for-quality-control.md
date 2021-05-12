@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing the power of machine learning with MLOps"
-    excerpt: "MLOps is a relatively new discipline that draws on operations teams, data scientists, and software developers."
-    publishedDateTime: 2021-05-07T22:20:00Z
-    webUrl: "https://venturebeat.com/2021/05/07/harnessing-the-power-of-machine-learning-with-mlops/"
-    ampWebUrl: "https://venturebeat.com/2021/05/07/harnessing-the-power-of-machine-learning-with-mlops/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/07/harnessing-the-power-of-machine-learning-with-mlops/amp/"
+  - title: "Can machine learning help make a perfect dating match?"
+    excerpt: "The process of matching with someone through a dating app becomes more efficient when developers apply machine learning to the algorithms."
+    publishedDateTime: 2021-05-12T06:42:00Z
+    webUrl: "https://www.itweb.co.za/content/PmxVE7Kl6XXMQY85"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/PmxVE7Kl6XXMQY85"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/PmxVE7Kl6XXMQY85"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/data_share.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://lh3.googleusercontent.com/LzocAc52-3C6k6yfLomzi7qK2q0aDh4zZOLVmw1Z1pRZGwnl-XaYhLzfyz7crgKadnax-KDCZdN9PXBx3ycSJN0=w816-h428"
+        width: 761
+        height: 428
         isCached: true
 
 secured: "GrlFoty/+qi1csDcWMdxMz9CLuGb2KnLnPQ0qdryralPbtBCLQwLR140yshNAtzUzE8MZB9eBSKwNFNMaPNSiovMt97l47PygOkGm+z0HHB9jho6LtTMM/HXgMgl+TZ+TydQwsFIscpuw89QO+SNSrYV2x8vLy0XItQsXdO9ARVqfgnOR/1YjZGreNotEx8eGJGVQt037HbPFX3KC+X1bJCSNdzKCq1sqorl4QZlwgeWE+LZDd9BfV80b/UDCVpYSdNQ9tF6jk8RyNQdKoWSdUX0zHWnhFpL7BWpTt6F3l8N3s9D4nnWU+l0m2b3VdkpMms4MRCeV8Jui6aQLx/WM797Wel1GNdsIRRSFXMB0vR6ksRjYkwngU/MEbY6y1Zv05YSMAgjJ4/jN08r+4fOvHrENh7OdG2nFkpEC0HVlEUY4jMhst78GxySNB2ql3dYvxfFxTm0YVGZiftSmLajp1MDlO1PlGPcBMhpeksZCl4Vuf+FU9IVf5+l6bWK82Lz6gOU8PdilsYWstELmxwOpg==;hnULE49jf/T7q/laAQjTaA=="

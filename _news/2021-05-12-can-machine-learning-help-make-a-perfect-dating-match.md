@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/PmxVE7Kl6XXMQY85"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/PmxVE7Kl6XXMQY85"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 761
     height: 428
     isCached: true
+
+related:
+  - title: "Deep Learning: Developing machine vision for quality control"
+    excerpt: "Samsung mobile phones made headlines when the batteries of specific models exploded. The unfortunate incidents were essentially caused by a tiny crack that was found on the batteries, which was difficult to spot with the naked eye."
+    publishedDateTime: 2021-05-09T16:07:00Z
+    webUrl: "https://www.theedgemarkets.com/article/deep-learning-developing-machine-vision-quality-control"
+    type: article
+    provider:
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 39
+    images:
+      - url: "https://assets.theedgemarkets.com/DE4-Edmund-Yuen-tem1369_20210506143457_theedgemarkets.jpg?B5W0LF9uh7Z28gkISH6BokUdE2lhNNGC"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "uZH8vWhN0myG+I7bNnmC9y931gIanPpYYDg6nCsuOFNEQSzTQRN3W5A0g9hHQQl97BqgHkOspBYES6NIWivwGWIha3+/VbU6oU8JY/1PR5XYIgFCx3EKcSZp6mVDXMVwv4H+4EUWMHi0dX+ccd5A+uUPQoQhjB9y7643YVF3nt/kBY/5W6QY2SGQK6ngohQcHwnicQU6tYM+SC+Y+ucTclkQwavv7o3e00X6ER+hLPcA8YsMFtLNo5IOT/BlPTasFVra/t4QO6kln9JIcZHUpH7GSINwJOkxBPt0DrSyhH2uKFXG8yC5zI1yaTA6LyTUnynO+DNzz+qhkb7qpf63OyA9OwIpHTnN/9CKu1eSUfk=;pp8Lrxc8Ox80AlpFw8cNHQ=="
 ---
