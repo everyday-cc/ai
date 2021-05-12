@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "AlphaSenseInc"
   url: "https://twitter.com/AlphaSenseInc"
-  followers: 3974
+  followers: 3975
 
 size: 51-200 employees
 yearFounded: 2011
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "9lxoEJgcnRiLw452PvZSr35+fT8WV8cCRS32gQ25vwKWL0v+8YVlMW3bbM3HJPdHRevLI2FbMOksX89w+ZRKLUP/BR86zmt2qPwrSN7Xj0GqdVQeeBqLKrFsMjLpEorEDgUVc001IQ746OjY4tqBQD7yc/QmAJFBDP8O59XkVxVZ8tCp7/dEmrXZ/hKCi9CT+QHLiwoLyfvlq6gsmHJjEAsqEP+Iiy9L99+MOubjpH19Ud90QCexKKJhlknF3ELWlBCsOdK7oViJcIF8dB6zj6dZHS0HzKlsl5pZGG9Uo8eRobm0sYVHGAD+AbVrXhNIHV4jUNU9rae7M6tTYd8eyM80v/oxncs7h5WwqiqodxEs3Q8akPqbMTGUDzOCrC1DATB+JJ/ToVIkekqyq00HttGpuyv0g5q6yhOI4vDpzZ8=;OtY3SWK76IHLT/rMhqRXPg=="
+secured: "zZshgflL3ewLL+t5sIb5TF+eGiY4C57HDxgpTaVxWfssm3NtPPDHKITAGK8cDDgpEwt+yNMHTRGVJ7q68Xb2ggduZivqSEKNStw5IyIpvsYWyy7aIBlr+rXo7CME7chapvMrJFGSxrE+kNPzBQ1eTSY7lX5s3JgKvIr5pJr4O3QGxR/dliV9tgf3TjPC4DjrfXXyWfjgPv/Ff+ca+WMZzNFxV1Pvc9gUvb2K8alEfdLfbia7z++e1J5Ook+58/WoolcIQxEUCnDEoUKF3yh9O1KdF9DYlxiXhyuq2NJEh5mWyHfQN3P73W6Q1BHnDhDVJY6qJeH7HMaYSH5FysBmQbIZXCAbN4PL+GhrKVbnktZbGQxAuCXxqJ1IfQ889dwDwflit3LClebqFASvgjylQqYhuL/vVZWklFmc9Epd8aw=;RSFGS6ku+c9zo2iTkMpgnQ=="
 ---
 

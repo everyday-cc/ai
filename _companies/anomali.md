@@ -2,7 +2,7 @@
 name: "Anomali"
 overview: "Anomali delivers earlier detection and identification of adversaries in your organizations network."
 type: "profile"
-heat: 58
+heat: 72
 
 website: https://www.anomli.com
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Anomali"
   url: "https://twitter.com/Anomali"
-  followers: 8799
+  followers: 8801
 
 locations:
   - Redwood City, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Anomali"
 
-secured: "tIq0lWCOgN+zvaPPgVYDv9mqhQKdNbX6WKkkqS9oDqLMDFNep25fi4vu7knMGAgP1OPmVacB7iYvBYMbSecPKzqQzD3dcQ3o4C5Pya4V5hmDO1R6GnpBt8KF0RS7FrjtmdDfcADfNaLBRe7a6blV6RadF85nbjPZJleWVUF3OGuxM/6e7y0yYaMGtPliWJnPOD5sJfyDUGJjga2C7Sf0uqU3l+miYOrgk1OXGMw6DVHQjO0J1J6R1gJ7wNp945GjKf6r9AxKUebnlEfPWfuJlc5aPCKdp6rg+5mZ+DVYWmfVCAWxxVSqvRikxlylIo0f/DdAQ+wu659u6QrZF3OEuicg3Df12iaCPx6vHaj/ElOJesOpPFnO+D1SYyO40u0GHubNteKYRLb7AgD3AeiFlXZp9dOsxU5XKv78PJMdKVY=;FLzlDsz+xWU/N2Aw2U1R6Q=="
+secured: "6JkQkOHtQfXkV0XBx82Qfj1bWE2rPW5VtAlfpazFAMr1YL96z0TaTh/eC7AsHAVBKky0+gLb/k9GQUckgACpxi2+rvYTUJ8LteVzQZYRwE+2lThUO2STnhCtSCxjaRxRNJDE4iPzqlyZTkFa77IASPDiqHOsbvNgFbfDZFzUVhE5tupKY3BOqZNQAjSY/BHUTBZ/NhVMCqi/VJWgZFokfCAu/+Qf5csx5Oa3U0FieyhHAQ53ReLUatTQVEmc/vqvYfg5pASyd/PUWtbuMSzN20PJbCw38OrctYSQe0Z2M6S8c1PK9ccZuNfdtBIVCFEgfpijYn9F8RqywW7Sg1McW8AHVP5Z/MwdWmMWAXa9m6HUOHfRawQ1k+GRd0mWvabENfC8UwBonFGOxRp+CZuyObEvJV+vNnUQn0LttfEL2V8=;LucxZhELFgTsTY+gVKbgWQ=="
 ---
 
